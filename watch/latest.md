@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [Correia-jpv/fucking-public-apis](https://github.com/Correia-jpv/fucking-public-apis) (24 stars). A collective list of free APIs. With repository stars⭐ and forks🍴
+- **Unreviewed lead:** [tornikebolokadze1-cyber/awesome-ai-pulse-georgia](https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia) (153 stars). A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources — by AI Pulse Georgia
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
