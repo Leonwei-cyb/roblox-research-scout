@@ -1,0 +1,23 @@
+{
+  "watch_repos": [
+    "Roblox/roblox-studio-agent-plugin",
+    "Roblox/creator-docs",
+    "Roblox/luau",
+    "anthropics/claude-code",
+    "obra/superpowers",
+    "PepeElToro41/ui-labs",
+    "Donchitos/Claude-Code-Game-Studios",
+    "CodePhobiia/claude-roblox-game-studio",
+    "fagemx/gstack-game",
+    "Roblox/open-game-eval",
+    "ollama/ollama"
+  ],
+  "discovery_queries": [
+    "roblox studio mcp in:name,description,readme",
+    "claude code roblox game in:name,description",
+    "roblox tycoon framework Luau in:name,description,readme",
+    "roblox game automation playtest in:name,description,readme"
+  ],
+  "min_stars": 10,
+  "results_per_query": 12
+}

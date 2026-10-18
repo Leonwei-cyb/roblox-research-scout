@@ -1,0 +1,115 @@
+{
+  "description": "Multi-source public feeds. Zero model/API-token calls. Google News is an indexed fallback, NOT direct YouTube/X/Instagram coverage.",
+  "limits": {
+    "per_source": 20,
+    "max_total": 120,
+    "max_new_report": 45,
+    "timeout_seconds": 12
+  },
+  "feeds": [
+    {
+      "id": "roblox-devforum-latest",
+      "category": "roblox_updates",
+      "label": "Roblox Developer Forum latest",
+      "url": "https://devforum.roblox.com/latest.rss"
+    },
+    {
+      "id": "roblox-devforum-updates",
+      "category": "roblox_updates",
+      "label": "Roblox updates category (availability may vary)",
+      "url": "https://devforum.roblox.com/c/updates/45.rss"
+    },
+    {
+      "id": "reddit-robloxdev",
+      "category": "community",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "url": "https://www.reddit.com/r/robloxgamedev/.rss"
+    },
+    {
+      "id": "reddit-robloxstudio",
+      "category": "community",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/.rss"
+    },
+    {
+      "id": "reddit-claudecode",
+      "category": "community",
+      "label": "Reddit r/ClaudeCode public RSS",
+      "url": "https://www.reddit.com/r/ClaudeCode/.rss"
+    },
+    {
+      "id": "reddit-claudeai",
+      "category": "community",
+      "label": "Reddit r/ClaudeAI public RSS",
+      "url": "https://www.reddit.com/r/ClaudeAI/.rss"
+    }
+  ],
+  "news_queries": [
+    {
+      "id": "claude-news",
+      "category": "claude_updates",
+      "query": "Claude Code new feature plugin update when:7d"
+    },
+    {
+      "id": "roblox-news",
+      "category": "roblox_updates",
+      "query": "Roblox Studio Creator updates MCP new feature when:7d"
+    },
+    {
+      "id": "roblox-dev-scripts",
+      "category": "free_tools",
+      "query": "Roblox Studio free plugin open source Luau release when:7d"
+    },
+    {
+      "id": "automation",
+      "category": "workflows",
+      "query": "Claude Code Roblox automation workflow game agent when:7d"
+    },
+    {
+      "id": "gameplay-ideas",
+      "category": "game_design",
+      "query": "Roblox tycoon simulator gameplay design progression mechanics when:7d"
+    },
+    {
+      "id": "mobile-remakes",
+      "category": "game_design",
+      "query": "mobile idle games Roblox tycoon remake when:7d"
+    },
+    {
+      "id": "video-index",
+      "category": "youtube_index",
+      "query": "site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d"
+    },
+    {
+      "id": "x-index",
+      "category": "x_index",
+      "query": "site:x.com Roblox Studio Claude developer when:7d"
+    },
+    {
+      "id": "instagram-index",
+      "category": "instagram_index",
+      "query": "site:instagram.com Roblox Studio game development when:7d"
+    }
+  ],
+  "youtube_channels": [
+    {
+      "label": "Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "channel_id": "UCjiPEaapiHbJMoAdi_L8fNA"
+    }
+  ],
+  "app_charts": [
+    {
+      "id": "apple-appstore-ca-games-subset",
+      "category": "mobile_game_trends",
+      "label": "Apple Canada top free app chart (game subset; incomplete)",
+      "url": "https://rss.marketingtools.apple.com/api/v2/ca/apps/top-free/50/apps.json"
+    },
+    {
+      "id": "apple-appstore-us-games-subset",
+      "category": "mobile_game_trends",
+      "label": "Apple US top free app chart (game subset; incomplete)",
+      "url": "https://rss.marketingtools.apple.com/api/v2/us/apps/top-free/50/apps.json"
+    }
+  ]
+}
