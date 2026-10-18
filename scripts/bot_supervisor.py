@@ -16,7 +16,6 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "watch" / "bot_health.md"
 REPOS = ["Leonwei-cyb/roblox-research-scout"]
-API = "https://api.github.com/repos/{}/actions/runs?per_page=12"
 RESEARCH_API = "https://api.github.com/repos/{}/actions/workflows/research.yml/runs?per_page=12"
 MAX_RESEARCH_AGE = timedelta(hours=10)
 
@@ -39,8 +38,8 @@ def _get_runs(url):
 
 
 def runs_for(repo):
-    """Historical public-repo overview for the four daily research reports."""
-    return _get_runs(API.format(repo))
+    """The legacy committed report must not count other successful bot jobs."""
+    return research_runs_for(repo)
 
 
 def research_runs_for(repo):
