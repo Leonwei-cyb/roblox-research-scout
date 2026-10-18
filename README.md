@@ -16,8 +16,18 @@ This is a PUBLIC repository. Everything gathered here is public information, and
 - **Curated example set:** [research/VIDEO_PILOT_2026-10-18.md](research/VIDEO_PILOT_2026-10-18.md) contains source-confirmed video/watch pages plus clearly labeled X/Instagram account leads.
 - **Source coverage:** check [watch/source_health.md](watch/source_health.md) for blocked or failed feeds.
 - **Configuration:** [watch/config.json](watch/config.json) and [watch/feeds.json](watch/feeds.json).
-- **Actions:** open the **Actions** tab and run **Roblox research scout (no AI)** manually, or let the scheduled run check daily.
+- **Actions:** the existing research workflow runs four times daily, plus relevant source/config changes; urgent scans can be run manually. Independent health checks react to completions and run on an hourly fallback.
 - **Tests:** `python3 -m unittest discover -s tests -v`.
+
+## Research must become tested game work
+
+Research is **not** a production milestone. The collection has previously amassed hundreds of entries, dominated by search redirects that have no verified original gameplay. The current focused feed set pauses low-yield broad Google News searches and incomplete Apple chart polls. Historical `watch/media_state.json` remains intact: paused searches can be reinstated for a specific problem, not by default.
+
+Follow this rule before suggesting an implementation: **original source or actual inspected frame → one concrete player-visible defect in an active game → use existing source/tool → make the change → normal player test → evidence-backed acceptance.** If no corresponding real defect, **DEFER** the research. Don't generate a new implementation document/issue or install a tool just because it was discovered. `watch/review_queue.md` now excludes all Google News redirect links and offers at most three primary leads per topic. `watch/source_quality.md` continues to measure the broader stored discovery sample honestly.
+
+Current testable example: [One Tower Tycoon passive rate code review](https://github.com/Leonwei-cyb/one-tower-tycoon/pull/35) implements an observed cash-rate principle from [timestamped tycoon frames](https://github.com/Leonwei-cyb/Roblox-Research/blob/main/findings/TYCOON_GAMEPLAY_FRAME_STUDY_20261018.md). This is code **awaiting integration + Studio visual verification**, NOT a completed game change.
+
+The private [Roblox Development Kit adoption record](https://github.com/Leonwei-cyb/Roblox-Development-Kit/blob/main/ADOPTION.md) tracks what we actually used versus deferred. Source links are not implementation or licensing permission.
 
 ## Limits and price
 
