@@ -2,9 +2,12 @@ name: Public scout safe config repair — draft only
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ['Roblox research scout (no AI)']
-    types: [completed]
+  push:
+    branches: [main]
+    paths:
+      - 'watch/config.json'
+      - 'watch/feeds.json'
+      - '.github/workflows/safe-config-repair.yml'
 
 permissions:
   contents: write
@@ -16,7 +19,6 @@ concurrency:
 
 jobs:
   repair:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'failure'
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
