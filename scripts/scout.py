@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "watch" / "config.json"
 STATE = ROOT / "watch" / "state.json"
 REPORT = ROOT / "watch" / "latest.md"
+HEALTH = ROOT / "watch" / "github_source_health.md"
 API = "https://api.github.com"
 MAX_SEEN = 600
 
@@ -117,8 +118,19 @@ def run():
     current = {}
     updates = []
 
-    for name in cfg.get("watch_repos", [])[:12]:
-        current[name] = snapshot_repo(name)
+    issues = []
+    checked = 0
+    targets = cfg.get("watch_repos", [])[:20]
+    for name in targets:
+        try:
+            current[name] = snapshot_repo(name)
+            checked += 1
+        except (RuntimeError, ValueError) as exc:
+            issues.append(name + ": " + safe(str(exc),120))
+            # Do not erase the last known release/head on a temporary failure.
+            if name in old.get("repos", {}):
+                current[name] = old["repos"][name]
+            continue
         prior = old.get("repos", {}).get(name)
         if not first and prior:
             now = current[name]
@@ -130,8 +142,27 @@ def run():
 
     found = {}
     for query in cfg.get("discovery_queries", [])[:4]:
-        for result in search_repos(query, int(cfg.get("min_stars", 10)), int(cfg.get("results_per_query", 12))):
+        try:
+            candidates = search_repos(query, int(cfg.get("min_stars", 10)), int(cfg.get("results_per_query", 12)))
+        except (RuntimeError, ValueError) as exc:
+            issues.append("Discovery query: " + safe(str(exc),120))
+            continue
+        for result in candidates:
             found[result["name"]] = result
+    if checked == 0:
+        raise RuntimeError("No watched GitHub repository could be checked; preserving previous snapshot.")
+    health_lines = [
+        "# GitHub source coverage", "",
+        "Watchlist configured: " + str(len(cfg.get("watch_repos", []))),
+        "Watchlist attempted: " + str(len(targets)),
+        "Repositories successfully checked: " + str(checked),
+        "Discovery query errors included below; successful API calls are not an endorsement.",
+        "",
+    ]
+    health_lines += ["- " + safe(issue,210) for issue in issues] if issues else ["No GitHub source errors."]
+    health_text = "\n".join(health_lines) + "\n"
+    if not HEALTH.exists() or HEALTH.read_text(encoding="utf-8") != health_text:
+        HEALTH.write_text(health_text, encoding="utf-8")
 
     new_leads = [v for k, v in found.items() if k not in seen and k not in current]
     new_leads.sort(key=lambda x: (-x["stars"], x["name"]))

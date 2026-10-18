@@ -26,6 +26,7 @@ class ScoutTest(unittest.TestCase):
             patch.object(scout, "CONFIG", self.root / "watch" / "config.json"),
             patch.object(scout, "STATE", self.root / "watch" / "state.json"),
             patch.object(scout, "REPORT", self.root / "watch" / "latest.md"),
+            patch.object(scout, "HEALTH", self.root / "watch" / "github_source_health.md"),
         ]
         for patcher in self.patches:
             patcher.start()
@@ -66,6 +67,25 @@ class ScoutTest(unittest.TestCase):
             self.assertIn("bar/studio-agent", report)
             scout.run()
             self.assertEqual(report, scout.REPORT.read_text())
+
+    def test_full_watchlist_and_failure_isolation(self):
+        config=json.loads(scout.CONFIG.read_text())
+        config["watch_repos"]=["owner/project"]+[f"owner/project-{i}" for i in range(16)]
+        scout.CONFIG.write_text(json.dumps(config))
+        def flaky_api(path,params=None):
+            if "/repos/owner/project-2" in path and path == "/repos/owner/project-2":
+                raise RuntimeError("HTTP 429")
+            return self.fake_api(path,params) if path.startswith("/search/") or path.startswith("/repos/owner/project") and not any(
+                path.startswith("/repos/owner/project-") for _ in [0]
+            ) else ({"full_name":"repo"} if path.count("/") == 3 else
+                   {"tag_name":"v1"} if "releases/latest" in path else
+                   [{"sha":self.sha,"commit":{"message":"OK"}}])
+        with patch.object(scout,"api_get",side_effect=flaky_api):
+            scout.run()
+        health=scout.HEALTH.read_text()
+        self.assertIn("Watchlist configured: 17",health)
+        self.assertIn("Watchlist attempted: 17",health)
+        self.assertIn("Repositories successfully checked: 16",health)
 
     def test_no_arbitrary_repository_names(self):
         with self.assertRaises(ValueError):

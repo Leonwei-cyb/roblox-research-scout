@@ -44,6 +44,29 @@ class FeedParsingTests(unittest.TestCase):
         self.assertIn("Roblox Studio", rows[0]["excerpt"])
         self.assertEqual(rows[0]["category"], "roblox_updates")
 
+    def test_same_title_with_distinct_original_urls_is_not_collapsed(self):
+        first = monitor.parse_feed(RSS, source("forum"))
+        second = monitor.parse_feed(RSS.replace(b"/t/123?", b"/t/987?"), source("forum"))
+        self.assertEqual(first[0]["title"], second[0]["title"])
+        self.assertNotEqual(first[0]["id"], second[0]["id"])
+
+    def test_same_url_with_changed_title_retains_legacy_seen_id(self):
+        with patch.object(monitor, "fetch_url", return_value=ATOM):
+            monitor.run()
+        existing = json.loads(monitor.STATE.read_text())
+        old_id = existing["items"][0]["id"]
+        # Simulate the prior title-hash ID format already deployed.
+        legacy_id = "legacy-title-only-digest"
+        existing["items"][0]["id"] = legacy_id
+        existing["seen"] = [legacy_id]
+        monitor.STATE.write_text(json.dumps(existing))
+        changed = ATOM.replace(b"Claude Code v2.2.0 release", b"Updated Claude Code changes")
+        with patch.object(monitor, "fetch_url", return_value=changed):
+            monitor.run()
+        result = json.loads(monitor.STATE.read_text())
+        self.assertIn(legacy_id, result["seen"])
+        self.assertNotIn("Updated Claude Code changes", monitor.BRIEF.read_text())
+
     def test_rss_description_and_tracking_parameters(self):
         rows = monitor.parse_feed(RSS, source("forum"))
         self.assertEqual(rows[0]["url"], "https://devforum.roblox.com/t/123")

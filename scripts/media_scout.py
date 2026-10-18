@@ -65,9 +65,10 @@ def canonical(url):
 
 
 def make_id(record):
-    basis = re.sub(r"[^a-z0-9]+", "", record["title"].lower())[:150]
-    # Title dedup works across news, Reddit and official feeds that link to the same story.
-    return hashlib.sha256((basis or record["url"]).encode("utf-8")).hexdigest()[:24]
+    # Identity follows an ORIGINAL/canonical source URL, not a title:
+    # different Roblox videos called "Update" must remain distinct.
+    # Identical Google News indexed URLs across search queries still dedupe.
+    return hashlib.sha256(canonical(record["url"]).encode("utf-8")).hexdigest()[:24]
 
 
 def parse_time(value):
@@ -339,6 +340,13 @@ def run():
     if active_cooldowns != previous_cooldowns:
         COOLDOWNS.write_text(json.dumps(active_cooldowns, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
+    # Keep old IDs for already-collected URLs during the title-ID to URL-ID
+    # migration. The first production run will NOT rediscover every old link.
+    old_url_ids = {r.get("url"): r.get("id") for r in old.get("items", [])
+                   if r.get("url") and r.get("id")}
+    for item in incoming:
+        if item["url"] in old_url_ids:
+            item["id"] = old_url_ids[item["url"]]
     all_items = {r["id"]: r for r in old.get("items", [])}
     for r in incoming:
         all_items[r["id"]] = r
