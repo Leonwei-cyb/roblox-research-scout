@@ -2,7 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) (59942 stars). A curated list of Rust code and resources.
-- **Unreviewed lead:** [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) (72 stars). Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool
+- **Unreviewed lead:** [Chieler/Summer-2027-SWE-Internships](https://github.com/Chieler/Summer-2027-SWE-Internships) (28 stars). 2027 Internship repo
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

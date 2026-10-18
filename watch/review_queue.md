@@ -28,7 +28,7 @@ Direct original video links are preferred to indirect search-engine mentions.
 - **[Deep Systems, Deep Engagement: Building Complex RPG Mechanics \| RDC 2026](https://www.youtube.com/watch?v=qLP05zvMsW0)** — Original media link, not watched
 - **[The NEW Best Texture Plugin For Roblox Studio!](https://www.youtube.com/watch?v=aisUd4aqNbM)** — Original media link, not watched
 - **[I Rated Your BEST Roblox Builds During a Tornado...](https://www.youtube.com/watch?v=V_-dNr8pYOE)** — Original media link, not watched
-- **[Can AI Make an Entire Roblox Creature Capture Game? (3D Models, Map, Code) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzQ3VOd3NyS1NMd1dKTFc1c1RhaDdYRUNsVlh2NHpuX1BEc0RrSG54ZW1NLVhxRmNuTmlyN2tSM2xrZzFwLUZoUXlDR2tmR0dwUGFWNEZR?oc=5)** — Indexed lead only
+- **[How to make a Roblox map with Claude AI: your kids dream it up, Claude Code builds it](https://www.reddit.com/r/robloxgamedev/comments/1x9at2n/how_to_make_a_roblox_map_with_claude_ai_your_kids/)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
