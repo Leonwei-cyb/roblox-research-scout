@@ -5,12 +5,12 @@
 | Classification | Entries |
 |---|---:|
 | original video/post URL (unwatched) | 36 |
-| public metadata / page | 140 |
+| public metadata / page | 142 |
 | indexed redirect (not original) | 218 |
 | promotional / risky title | 9 |
 | invalid | 0 |
 
-Total sampled entries: **403**.
+Total sampled entries: **405**.
 Direct-original share: **8.9%** (still unwatched).
 Indexed redirects: **218**. They require primary-source verification.
 

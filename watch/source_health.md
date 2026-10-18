@@ -1,8 +1,8 @@
 # Public research feed coverage
 
 Feeds read successfully: 34
-Feeds unavailable: 1
-Feeds deferred (temporary cooldown): 4
+Feeds unavailable: 0
+Feeds deferred (temporary cooldown): 5
 
 Availability is not guaranteed for public Reddit, third-party indexed searches or YouTube feeds.
 
@@ -29,7 +29,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - instagram-reels: 20
 - showcase-roblox: 0
 - brock-ig: 0
-- brock-ig-reels: 19
+- brock-ig-reels: 20
 - brock-tiktok: 8
 - brock-x: 0
 - brock-youtube: 2
@@ -45,11 +45,10 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 ## Deferred feeds — retry after temporary cooldown
 
+- apple-appstore-ca-games-subset: The read operation timed out
 - apple-appstore-us-games-subset: The read operation timed out
 - reddit-claudeai: HTTP 429
 - reddit-claudecode: HTTP 429
 - reddit-robloxdev: HTTP 429
 
-## Failures (not silently skipped)
-
-- apple-appstore-ca-games-subset: The read operation timed out
+No new source failures on the most recent scan. Deferred feeds remain.
