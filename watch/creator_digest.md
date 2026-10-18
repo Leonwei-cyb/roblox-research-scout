@@ -16,12 +16,12 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 32 matched metadata records.
-- [Steal A Brainrot Color Dicing](https://www.youtube.com/watch?v=lyqU3BP0ixI) — channel upload — creator identity check · 2024-06-12
-- [Steal an egg prank #stealanegg #steal #egg #youtubeshorts #roblox #brockodile #prank #funny #troll](https://www.youtube.com/shorts/j6DzVVQAuIg) — channel upload — creator identity check · 2026-09-07
-- [#steal #roblox #egg #stealanegg #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/7HJPfqoGHtg) — channel upload — creator identity check · 2026-09-12
-- [#steal #stealanegg #roblox #egg #youtubeshorts #gaming #funny #troll #prank #owner](https://www.youtube.com/shorts/Wc1PBlewYEA) — channel upload — creator identity check · 2026-09-12
-- [#stealanegg #roblox #egg #steal #youtubeshorts #troll #gaming](https://www.youtube.com/shorts/ryrM3EQQ7Cg) — channel upload — creator identity check · 2026-09-22
+**Collected media leads:** 13 matched metadata records.
+- [Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk) — channel upload — creator identity check · 2026-10-12
+- [#roblox #stealanegg #egg #steal #youtubeshorts #gaming #owner #troll #funny #prank](https://www.youtube.com/shorts/ayKWDMVcBzk) — channel upload — creator identity check · 2026-09-27
+- [Giving AWAY Hundreds Of OP Eggs With SpyderSammy Steal AN EGG😱🥚](https://www.youtube.com/watch?v=6FKadZ4IEy4) — channel upload — creator identity check · 2026-09-26
+- [#roblox #stealanegg #egg #steal #youtubeshorts #gaming #troll #owner #funny #prank](https://www.youtube.com/shorts/f0Lo4m78gEw) — channel upload — creator identity check · 2026-09-26
+- [#stealanegg #roblox #steal #youtubeshorts #egg #gaming](https://www.youtube.com/shorts/akDEIY8YMPs) — channel upload — creator identity check · 2026-09-23
 
 ## Tizzy RBLX — Roblox game design
 
@@ -44,12 +44,8 @@ Account provenance: [https://github.com/SyphoDev-yt](https://github.com/SyphoDev
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/@SyphoDev) — published developer videos; check original; direct posts: channel URL needs verification
 
-**Collected media leads:** 20 matched metadata records.
-- [Making A Satisfying Game in Roblox(The Easy Way)😎 #forgeguipartner #robloxdev #roblox #robloxstudio - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzSWlUWktPUkhUN3JpSGxCdHdGblY0LWJtNHlGZjNOUmxzNWJsQk8xUi1sem8yeEwtMEk4cm9QUjJNdWF1YXhOSWNVczc5UzBiOWVhZ1ZR?oc=5) — indexed public mention — authorship NOT verified · 2026-09-21
-- [Can Claude Make A VIRAL Battlegrounds Game? - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kSlk5NHVqSlZaV002bFpjV0tGeXVkY3lBX2lBRENocFlfWW1PV0NuUjBKbGl1c1cxTVdlSTctME5wVllGQ01fUWdQdURGaE92Nm16RnN3?oc=5) — indexed public mention — authorship NOT verified · 2026-09-23
-- [Can AI Make an Entire Roblox Incremental Game? (Art, 3D Models, Code) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvbkNaTGJoVEdJYmtmWnhHYjA1UWZZa05WMTZMYkk4ZUlxdUNWT1c4OTlwMnRrc3JWMThCcFZQbmljWlRCOTZlY1BqLWZwdG1IUEpGLVZ3?oc=5) — indexed public mention — authorship NOT verified · 2026-09-26
-- [Opus 5.5 + Roblox Studio is Insane. - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibFBRUU13bmJERjRzbU81Q1ZhWG5KRE9wUGZseHhDcnF0TUFXeXgwR2hCZ3pZVHBDVGp4cnRScWduRXpWMVFzYWYzVWhZUURBNE1ENjRn?oc=5) — indexed public mention — authorship NOT verified · 2026-09-26
-- [ใช้ AI สร้างเกม Roblox 3 วันเสร็จ เล่นได้จริง - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WQlRoT0E2dFFrUTcxMkRSU21hVGZtTDE5T0xfSTBPR1I3STBCLXVvNk42d082Q0NkenNhaEo4NHRxcnJCOTJGbFEzTHRBWWZ4RDUzd3J3?oc=5) — indexed public mention — authorship NOT verified · 2026-09-26
+**Collected media leads:** 0 matched metadata records.
+- None verified in currently collected public feeds.
 
 ## RoBuilder — Roblox Studio buildings
 
@@ -61,11 +57,11 @@ Account provenance: [https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg
 - [youtube](https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ) — channel ID in public channel stats; direct posts: YouTube RSS
 
 **Collected media leads:** 15 matched metadata records.
-- [Can I Make a VIRAL Keyboard Game In Roblox...](https://www.youtube.com/watch?v=b0Iy2QwpR24) — verified channel upload · 2026-08-01
-- [I Added EVERY Feature You Requested...](https://www.youtube.com/watch?v=xEOc3d49x1s) — verified channel upload · 2026-08-04
-- [Top 5 FREE Plugins NEW Builders NEED!](https://www.youtube.com/watch?v=uLMwEIEWxj4) — verified channel upload · 2026-08-08
-- [I Rated Your BEST Roblox Builds During a Tornado...](https://www.youtube.com/watch?v=V_-dNr8pYOE) — verified channel upload · 2026-08-18
-- [The NEW Best Texture Plugin For Roblox Studio!](https://www.youtube.com/watch?v=aisUd4aqNbM) — verified channel upload · 2026-08-23
+- [Updating My Game Now Its INSANE!](https://www.youtube.com/watch?v=-wqaH11mmpc) — verified channel upload · 2026-10-13
+- [A Fan Asked Why His Game is FAILING 3 Years Later...](https://www.youtube.com/watch?v=ybNcIYHmJTU) — verified channel upload · 2026-10-08
+- [I Turned Facebook Reels Into a Roblox Game…](https://www.youtube.com/watch?v=CD0NEjfeetc) — verified channel upload · 2026-10-03
+- ["I Have $250 Build Me a Game!"](https://www.youtube.com/watch?v=rz-aDPrNvHw) — verified channel upload · 2026-09-29
+- [The Dream Game is BACK!!!](https://www.youtube.com/watch?v=8CQJ5Pq-n8Q) — verified channel upload · 2026-09-23
 
 ## GnomeCode — Roblox game systems
 
@@ -102,8 +98,8 @@ Account provenance: [https://x.com/RobloxCreators](https://x.com/RobloxCreators)
 - [x](https://x.com/RobloxCreators) — Roblox-announced creator account; direct posts: public indexed only
 
 **Collected media leads:** 2 matched metadata records.
-- [Introducing RobloxCreators on X & Made on Roblox](https://devforum.roblox.com/t/introducing-robloxcreators-on-x-made-on-roblox/4909823) — public source mention — authorship NOT verified · 2026-10-02
 - [Weekly Recap: September 28–October 2, 2026](https://devforum.roblox.com/t/weekly-recap-september-28%E2%80%93october-2-2026/4910267) — public source mention — authorship NOT verified · 2026-10-02
+- [Introducing RobloxCreators on X & Made on Roblox](https://devforum.roblox.com/t/introducing-robloxcreators-on-x-made-on-roblox/4909823) — public source mention — authorship NOT verified · 2026-10-02
 
 ## @oreuiz — UI showcase lead
 
