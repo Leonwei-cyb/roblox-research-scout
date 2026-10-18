@@ -67,19 +67,29 @@ def choose(items, per_category=6):
             u = urlparse(str(item.get("url", "")))
             if u.scheme != "https" or not u.hostname or not str(item.get("title", "")).strip():
                 continue
-            count = matches(item, terms)
+            # The title must independently establish task relevance.
+            count = matches({"title": item.get("title", ""), "excerpt": ""}, terms)
             if not count:
+                continue
+            title = str(item.get("title", "")).lower()
+            if cat in {"UI / menus / effects", "3D / models / environments"} and (
+                title.startswith(("missing ", "how to get ", "looking for ",
+                    "any good ", "please help ", "help with ", "question about "))
+                or "error" in title or "not working" in title
+            ):
                 continue
             weight = 10 if media_url(item["url"]) else (2 if u.hostname == "news.google.com" else 5)
             weight += 3 if str(item.get("source", "")).startswith("youtube-") else 0
             candidates.append((count * 2 + weight, item))
         candidates.sort(key=lambda a: (a[0], str(a[1].get("published", ""))), reverse=True)
         result[cat] = []
-        seen = set()
+        seen, used_sources = set(), Counter()
         for score, item in candidates:
-            if item["url"] in seen:
+            src = str(item.get("source", ""))
+            if item["url"] in seen or used_sources[src] >= 3:
                 continue
             seen.add(item["url"])
+            used_sources[src] += 1
             result[cat].append((score, item))
             if len(result[cat]) == per_category:
                 break
@@ -107,7 +117,7 @@ def topic_signals(items):
         if SPAM.search(str(item.get("title", ""))):
             continue
         for cat, words in WORDS.items():
-            if matches(item, words):
+            if matches({"title": item.get("title", ""), "excerpt": ""}, words):
                 counts[cat] += 1
                 if len(examples[cat]) < 2 and str(item.get("url", "")).startswith("https://"):
                     examples[cat].append("[" + safe(item["title"], 76) + "](" + item["url"] + ")")
