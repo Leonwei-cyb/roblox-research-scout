@@ -1,7 +1,7 @@
 # Public research feed coverage
 
-Feeds read successfully: 31
-Feeds unavailable: 3
+Feeds read successfully: 30
+Feeds unavailable: 5
 
 Availability is not guaranteed for public Reddit, third-party indexed searches or YouTube feeds.
 
@@ -21,26 +21,27 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - video-index: 20
 - x-index: 11
 - instagram-index: 20
-- x-ui: 0
+- x-ui: 1
 - x-models: 0
 - x-gameplay: 0
 - tiktok-index: 17
 - instagram-reels: 20
 - showcase-roblox: 0
 - brock-ig: 0
-- brock-ig-reels: 19
+- brock-ig-reels: 18
 - brock-tiktok: 7
 - brock-x: 0
 - brock-youtube: 2
 - top-dev-interviews: 0
 - roblox-animation-showcases: 1
 - creator-egg-updates: 0
-- apple-appstore-ca-games-subset: 0
-- apple-appstore-us-games-subset: 0
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: 15
+- youtube-UC1g8RAPLVidtYUzZFFiX2GA: 11
 
 ## Failures (not silently skipped)
 
+- apple-appstore-ca-games-subset: HTTP 502
+- apple-appstore-us-games-subset: HTTP 502
 - reddit-claudeai: HTTP 429
 - reddit-claudecode: HTTP 429
 - reddit-robloxstudio: HTTP 429
