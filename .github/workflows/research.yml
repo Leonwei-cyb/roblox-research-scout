@@ -36,6 +36,8 @@ jobs:
           set +e
           python3 scripts/scout.py
           github_status=$?
+          python3 scripts/license_watch.py
+          license_status=$?
           python3 scripts/media_scout.py
           media_status=$?
           if [ "$media_status" -eq 0 ]; then
@@ -47,6 +49,7 @@ jobs:
             queue_status=$?
             if [ "$shortlist_status" -ne 0 ] || [ "$creator_status" -ne 0 ] || [ "$queue_status" -ne 0 ]; then exit 1; fi
           fi
+          if [ "$license_status" -ne 0 ]; then echo "Public license audit failed."; exit 1; fi
           if [ "$github_status" -ne 0 ] && [ "$media_status" -ne 0 ]; then
             echo "Both public source collectors failed."
             exit 1

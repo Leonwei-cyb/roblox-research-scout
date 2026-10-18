@@ -39,3 +39,18 @@ Rather than reinventing a research platform, consider these proven open-source p
 - [Scoutpost](https://github.com/buriedsignals/scoutpost-os): journalistic research scouting; parts require external model/services.
 
 Only integrate one when it concretely improves source coverage or saves time. Some require an always-on machine or paid third-party services, so we do not install them automatically.
+
+## Automation bots (all no hosted AI calls)
+
+The scheduled GitHub Actions workflow now runs separately scoped bots, reusing the same public feeds:
+
+- **Release tracker**: public Roblox/Claude repo releases, commits and tool candidates.
+- **Video shortlist and creator digest**: source-linked original video URLs and creator accounts, with indexed X/Instagram/TikTok results labeled **unverified**.
+- **Game-design/UI/3D review queue**: [ranked sources](watch/review_queue.md) based on observable post titles, not claims of watching a video.
+- **Topic keyword radar**: [sampled mentions](watch/topic_signals.md), not popularity or CCU predictions.
+- **Coverage auditor**: [blocked sources versus direct media](watch/coverage_audit.md).
+- **Public code/asset-license watcher**: [GitHub license metadata](watch/license_audit.md), not permission to reuse proprietary art/code.
+
+For ACTUAL sampled video frames, there is an **opt-in local-only** [video lab](docs/LOCAL_VIDEO_LAB.md). It needs FFmpeg, a local authorized video file and optionally a local Ollama vision model (which uses your device CPU/GPU but NO ChatGPT/Claude/Codex credits). Neither media files nor images get uploaded to this public repo. No public bot actually watches the full original video.
+
+These helpers run within **one lightweight workflow**, not several CPU-heavy watchers. Standard GitHub-hosted public runners are free under GitHub limits; provider APIs/site rate limits, account restrictions and legitimate rights still apply.
