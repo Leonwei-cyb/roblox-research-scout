@@ -5,11 +5,11 @@ This report excludes private repositories and contains no account secrets.
 
 | Repository | Last completed | Recent failed checks | Run |
 |---|---|---:|---|
-| Leonwei-cyb/roblox-research-scout | OK | 0 / 10 | [View](https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/39159468235) |
+| Leonwei-cyb/roblox-research-scout | ATTENTION | 0 / 10 | [View](https://github.com/Leonwei-cyb/roblox-research-scout/actions/workflows/research.yml) |
 
 ### Important limits
 
-- This is a once-per-research-workflow repository overview, not the separate 15-minute monitor.
+- This is a once-per-research-workflow repository overview, not the separate hourly monitor.
 - The current running workflow cannot grade its own future completion.
 - Passing Actions jobs may still contain blocked TikTok, X or Reddit source feeds.
 - Private gameplay bots are excluded; never send their contents to public CI.
