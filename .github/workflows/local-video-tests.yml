@@ -1,0 +1,25 @@
+name: Local video lab regression tests
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/local_video_lab.py'
+      - 'scripts/local_batch_review.py'
+      - 'tests/**'
+      - '.github/workflows/local-video-tests.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run offline video-lab regression tests
+        run: python -m unittest discover -s tests -v
