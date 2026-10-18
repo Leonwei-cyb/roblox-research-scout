@@ -7,25 +7,18 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Instagram Indexed Leads
 
-- **[roblox jjs tutorial #thumbnailtutorial #photoshop #smallstreamer #gaming #roblox - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRlMwYjkwOWtWLXZHS0R4Q0MwZ2Znb2RPRmNHM3dmXzlfUnBCRFVwaDNMQS1tVnF1WlBIT1lXNE5OSW1xNlVtSU1SenlwTTUyQ3ZlZFdn?oc=5)** · Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14 · 2026-10-10
-  - Feed excerpt: roblox jjs tutorial #thumbnailtutorial #photoshop #smallstreamer #gaming #roblox Instagram
+- **[How well does the Toge team actually know video games? Round Two! 👀🎮 The challenge remains the same: name a game starting with the given letter. We’ve got the B](https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Y0c1VVo3M1NpRlR2RDRuMEUtckg4eGVGX243dnVrUy1XVTZFSFlfVF83Um9RSlJsM3BhNXEwb01manF0NlZka05DOVF6am5lU0FlZDhR?oc=5)** · Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14 · 2026-10-11
+  - Feed excerpt: How well does the Toge team actually know video games? Round Two! 👀🎮 The challenge remains the same: name a game starting with the given letter. We’ve got the Business Admin/Studio Manager, Social Media Manager, CEO, and Level Designer in t
 
 ## Roblox Creator / Ai Development
 
-- **[I Let AI Build My Entire Roblox Game (Opus 5.5） - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEdmlKQUJIc3A5cHZ2Z3pwdEhDdlAyUWtxSFBUMnRYcGlPZ3JCWmlJNDdzRTRxWHhqZlBmdnEyZG90WUR4aF9jREpNMU0ta3U1NUVlRDhn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-29
-  - Feed excerpt: I Let AI Build My Entire Roblox Game (Opus 5.5） YouTube
-- **[The Biggest Mistake Roblox Devs Make With AI! - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNSmlZQ0lGQy1UNVZreTduV3AxbjRhNHE5VFlSWklFZVk2cldhZ2ppNEFmeGRndnVkeTBoSmZOT3hUbTdfcDVsVVlMTHZ3U19VYjJkcmJB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-10
-  - Feed excerpt: The Biggest Mistake Roblox Devs Make With AI! YouTube
+- **[Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-18
+  - Feed excerpt: Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) YouTube
 
-## Community
+## Roblox Creator / Steal An Egg
 
-- **[I opened Roblox Studio for the first time 2 months ago with zero experience. Now I'm looking for the first playtesters for my game](https://www.reddit.com/r/robloxgamedev/comments/1x99xvf/i_opened_roblox_studio_for_the_first_time_2/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
-  - Feed excerpt: Hey everyone! Two months ago, I opened Roblox Studio for the first time in my life. I had absolutely no experience with game development, no knowledge of coding, and honestly, not even a clear idea of what I wanted to make. I just started b
-
-## Youtube Index
-
-- **[ใครว่า Gemini ทำ Roblox ไม่ได้ คลิปนี้สอนเชื่อม Antigravity เข้ากับ Roblox Studio ผ่าน MCP Server - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yV1YwaGwyNWMxNTBxaklHTUNEZmNwQVlhY2w4clVqOUk1c0k5bzJaeHYyanZucEo4RmVmNzdZQmNENE1QclQ5Z29keFZpbWhQZjhlMGd3?oc=5)** · Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial whe · 2026-10-14
-  - Feed excerpt: ใครว่า Gemini ทำ Roblox ไม่ได้ คลิปนี้สอนเชื่อม Antigravity เข้ากับ Roblox Studio ผ่าน MCP Server YouTube
+- **[What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNnJFM3F3U2JrVDRZZDVwWk9RWnNaZ2EtZDBQSHdqd1JsU1ByZG1zZl9pN1gxX2FkcG02bmU4WXdoNHY5YTRkTUpEcTdtdFUtRHlYUW1R?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-08
+  - Feed excerpt: What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg Instagram
 
 ---
 
