@@ -1,5 +1,6 @@
 import importlib.util
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 
 p = Path(__file__).resolve().parents[1] / "scripts/bot_supervisor.py"
@@ -8,6 +9,12 @@ m = importlib.util.module_from_spec(s)
 s.loader.exec_module(m)
 
 class SupervisorTests(unittest.TestCase):
+    def test_committed_health_report_checks_research_only(self):
+        mocked = [{"status": "completed", "conclusion": "failure"}]
+        with patch.object(m, "research_runs_for", return_value=mocked) as fetch:
+            self.assertEqual(m.runs_for("Leonwei-cyb/roblox-research-scout"), mocked)
+            fetch.assert_called_once_with("Leonwei-cyb/roblox-research-scout")
+
     def test_mixed_runs(self):
         runs = [
             {"status":"in_progress", "conclusion":None},
