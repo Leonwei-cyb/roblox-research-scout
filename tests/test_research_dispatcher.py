@@ -21,7 +21,8 @@ class BotTests(unittest.TestCase):
     def test_filters_ads_and_prefers_media(self):
         rows=[row("Roblox UI animation demo", "https://www.youtube.com/watch?v=123"),
               row("Roblox UI animation demo", "https://news.google.com/rss/articles/123"),
-              row("free robux join discord", "https://www.youtube.com/watch?v=spam")]
+              row("free robux join discord", "https://www.youtube.com/watch?v=spam"),
+              row("Roblox prank giveaway", "https://www.youtube.com/watch?v=bait")]
         ui=m.choose(rows)["UI / menus / effects"]
         self.assertEqual(ui[0][1]["url"], "https://www.youtube.com/watch?v=123")
         self.assertFalse(any("spam" in x[1]["url"] for x in ui))

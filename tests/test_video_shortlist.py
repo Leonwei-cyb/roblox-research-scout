@@ -24,6 +24,7 @@ class VideoShortlistTests(unittest.TestCase):
     def test_prevents_unrelated_news_and_promotional_posts(self):
         rows = [
             item("join our discord #robloxdev", "https://www.youtube.com/watch?v=spam"),
+            item("Giving away Robux eggs in Roblox prank", "https://www.youtube.com/watch?v=engagement-bait"),
             item("Free Roblox Crack download", "https://www.youtube.com/watch?v=bad"),
             item("Rapid Creation with Agentic Studio Roblox", "https://www.youtube.com/watch?v=good"),
             item("Roblox UI design tips", "https://news.google.com/rss/articles/UNVERIFIED", "Instagram indexed leads"),

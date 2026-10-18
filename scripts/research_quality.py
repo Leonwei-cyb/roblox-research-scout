@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 MEDIA = ROOT / "watch/media_state.json"
 OUT = ROOT / "watch/source_quality.md"
-BAD = re.compile(r"free robux|join our discord|crack|keygen|download .{0,30} free", re.I)
+BAD = re.compile(r"free robux|join our discord|crack|keygen|download .{0,30} free|giving away|\bgiveaway\b|\bprank\b|\btroll\b", re.I)
 ORIGINAL_HOSTS = {"www.youtube.com","youtube.com","youtu.be","www.tiktok.com",
                   "tiktok.com","www.instagram.com","instagram.com","x.com","www.x.com","twitter.com"}
 

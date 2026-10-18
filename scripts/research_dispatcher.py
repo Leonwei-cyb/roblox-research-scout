@@ -31,7 +31,7 @@ WORDS = {
     "3D / art": ["blender", "texture", "3d", "model", "building", "map", "terrain"],
     "Animation / feel": ["animation", "animate", "tween", "impact", "vfx", "feel"],
 }
-SPAM = re.compile(r"free robux|robux giveaway|crack|keygen|join (our )?discord|download.*free.*windows", re.I)
+SPAM = re.compile(r"free robux|robux giveaway|giving away|\\bgiveaway\\b|\\bprank\\b|\\btroll\\b|crack|keygen|join (our )?discord|download.*free.*windows", re.I)
 
 def safe(s, n=145):
     return re.sub(r"[\x00-\x1f\x7f]+", " ", str(s or ""))[:n].replace("[", "\\[").replace("]", "\\]").replace("|", "\\|").strip()

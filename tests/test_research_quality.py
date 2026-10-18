@@ -13,6 +13,9 @@ class QualityTests(unittest.TestCase):
         self.assertEqual(m.classify({"title":"Roblox UI clip","url":"https://www.youtube.com/watch?v=xyz"}),
                          "original video/post URL (unwatched)")
         self.assertNotIn("original", m.classify({"title":"Roblox UI","url":"https://www.instagram.com/creator/"}))
+    def test_avoid_promotional_engagement_bait(self):
+        self.assertIn("promotional",m.classify({"title":"Giving away Robux eggs #prank","url":"https://www.youtube.com/shorts/123"}))
+
     def test_guard_and_empty(self):
         self.assertIn("risky",m.classify({"title":"Download cracked Studio free","url":"https://youtu.be/xy"}))
         self.assertIn("0.0%",m.report([]))

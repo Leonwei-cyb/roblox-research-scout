@@ -23,7 +23,7 @@ POSITIVE = (
 )
 BAD = re.compile(
     r"(download .* free|crack|keygen|robux gift|"
-    r"join (our )?discord|free robux|vpn|crypto giveaway|"
+    r"join (our )?discord|free robux|vpn|crypto giveaway|giving away|\bgiveaway\b|\bprank\b|\btroll\b|"
     r"\bfps cheats\b)", re.IGNORECASE
 )
 
