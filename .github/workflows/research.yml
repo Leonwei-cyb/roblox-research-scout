@@ -10,6 +10,7 @@ on:
       - 'watch/config.json'
       - 'watch/feeds.json'
       - 'watch/creators.json'
+      - 'watch/official_visual_pages.json'
       - '.github/workflows/research.yml'
   schedule:
     # Poll every 10 minutes; GitHub scheduled runs can be delayed.
@@ -41,6 +42,10 @@ jobs:
           license_status=$?
           python3 scripts/media_scout.py
           media_status=$?
+          # Source-linked original developer still images, at most once per 24 hours.
+          python3 scripts/official_visual_scout.py
+          visuals_status=$?
+          if [ "$visuals_status" -ne 0 ]; then echo 'Original visual source index failed.'; exit 1; fi
           if [ "$media_status" -eq 0 ]; then
             python3 scripts/video_shortlist.py
             shortlist_status=$?
