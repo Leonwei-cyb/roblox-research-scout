@@ -2,6 +2,10 @@ name: Public Roblox research bot health (no AI)
 
 on:
   workflow_dispatch:
+  workflow_run:
+    # Watch real research completions immediately; timer below is a backstop.
+    workflows: ['Roblox research scout (no AI)']
+    types: [completed]
   schedule:
     # Hourly lightweight health check; 75% fewer polls than the former 15-minute watcher.
     # GitHub scheduled executions are best-effort and may be delayed.
@@ -25,3 +29,41 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/bot_supervisor.py --monitor
+  notify-failure:
+    # Only genuine failed public research jobs, never a stale poll or temporary API outage.
+    if: github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    permissions:
+      issues: write
+    steps:
+      - name: Create one actionable GitHub issue for research failures
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const run = context.payload.workflow_run;
+            if (!run || run.head_branch !== 'main' || run.conclusion !== 'failure') return;
+            const title = '[Bot supervisor] Research workflow failed';
+            const existing = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', per_page: 100
+            });
+            if (existing.some(issue => !issue.pull_request && issue.title === title)) {
+              core.info('Open health issue already exists; no duplicate created.');
+              return;
+            }
+            const body = [
+              'An actual GitHub Research Scout workflow run failed. This is not a source-quality verdict.',
+              '',
+              'Failed run: ' + run.html_url,
+              'Conclusion: ' + run.conclusion,
+              'Source branch: ' + run.head_branch,
+              '',
+              'Check the failed job logs. Also inspect source_health.md for blocked feeds.',
+              'Only narrow, reviewed draft PR repairs are permitted. Do not automatically rerun repeatedly, publish games or spend money.',
+              'Close this issue after diagnosing the failure and verifying a recovered research run.'
+            ].join('\n');
+            await github.rest.issues.create({
+              owner: context.repo.owner, repo: context.repo.repo,
+              title, body
+            });
