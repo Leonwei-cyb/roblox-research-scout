@@ -6,8 +6,8 @@ Direct original video links are preferred to indirect search-engine mentions.
 ## Game loops / progression
 
 - **[Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk)** — Original media link, not watched
-- **[#roblox #stealanegg #egg #steal #youtubeshorts #gaming #owner #troll #funny #prank](https://www.youtube.com/shorts/ayKWDMVcBzk)** — Original media link, not watched
-- **[#roblox #stealanegg #egg #steal #youtubeshorts #gaming #troll #owner #funny #prank](https://www.youtube.com/shorts/f0Lo4m78gEw)** — Original media link, not watched
+- **[#stealanegg #roblox #steal #youtubeshorts #egg #gaming](https://www.youtube.com/shorts/akDEIY8YMPs)** — Original media link, not watched
+- **[#roblox #stealanegg #egg #steal #youtubeshorts #gaming #owner](https://www.youtube.com/shorts/u5A-dEVk8Kc)** — Original media link, not watched
 - **[🎃 Playtesters wanted: The Neighbors Next Door (Halloween memory/puzzle game)](https://www.reddit.com/r/robloxgamedev/comments/1x8xjig/playtesters_wanted_the_neighbors_next_door/)** — Public text/page, video not confirmed
 - **[Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194)** — Public text/page, video not confirmed
 - **[Looking for Feedback on my Strategy Card Game](https://www.reddit.com/r/robloxgamedev/comments/1x8msxr/looking_for_feedback_on_my_strategy_card_game/)** — Public text/page, video not confirmed

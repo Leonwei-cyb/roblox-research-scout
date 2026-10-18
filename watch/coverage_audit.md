@@ -11,10 +11,10 @@ Links and metadata collected; original social videos are NOT automatically playe
 
 ## Failures to resolve
 
+- apple-appstore-us-games-subset: The read operation timed out
 - reddit-claudeai: HTTP 429
 - reddit-claudecode: HTTP 429
 - reddit-robloxdev: HTTP 429
-- apple-appstore-us-games-subset: The read operation timed out
 
 ## Actions
 
