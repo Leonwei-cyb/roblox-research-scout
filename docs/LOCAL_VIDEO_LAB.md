@@ -17,3 +17,20 @@ for mechanics and animation timing. No scraping or private platform cookies.
 
 For public creator discoveries see watch/review_queue.md, watch/topic_signals.md
 and watch/coverage_audit.md, generated automatically by separate no-model bots.
+
+## Batch mode: automatically process a local folder
+
+Drop multiple public/authorized MP4 or MOV clips into a folder on your Mac,
+then run once:
+
+    python3 scripts/local_batch_review.py --inbox /path/to/clips --max 2
+
+With an already-running local Ollama vision model:
+
+    python3 scripts/local_batch_review.py --inbox /path/to/clips --max 2 --model qwen3-vl:4b
+
+It will take up to two unprocessed clips, produce timecoded local galleries and
+optional visual notes, and remember file signatures so repeat runs skip unchanged
+videos. No clips, frames or private account details go into GitHub. The Mac must
+remain awake for this local work. GitHub's free cloud runners **do not run this**.
+Do not interpret sampled images as full motion/audio understanding.
