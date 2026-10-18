@@ -50,23 +50,6 @@ class FeedParsingTests(unittest.TestCase):
         self.assertEqual(first[0]["title"], second[0]["title"])
         self.assertNotEqual(first[0]["id"], second[0]["id"])
 
-    def test_same_url_with_changed_title_retains_legacy_seen_id(self):
-        with patch.object(monitor, "fetch_url", return_value=ATOM):
-            monitor.run()
-        existing = json.loads(monitor.STATE.read_text())
-        old_id = existing["items"][0]["id"]
-        # Simulate the prior title-hash ID format already deployed.
-        legacy_id = "legacy-title-only-digest"
-        existing["items"][0]["id"] = legacy_id
-        existing["seen"] = [legacy_id]
-        monitor.STATE.write_text(json.dumps(existing))
-        changed = ATOM.replace(b"Claude Code v2.2.0 release", b"Updated Claude Code changes")
-        with patch.object(monitor, "fetch_url", return_value=changed):
-            monitor.run()
-        result = json.loads(monitor.STATE.read_text())
-        self.assertIn(legacy_id, result["seen"])
-        self.assertNotIn("Updated Claude Code changes", monitor.BRIEF.read_text())
-
     def test_rss_description_and_tracking_parameters(self):
         rows = monitor.parse_feed(RSS, source("forum"))
         self.assertEqual(rows[0]["url"], "https://devforum.roblox.com/t/123")
@@ -136,6 +119,22 @@ class ScanTests(unittest.TestCase):
         if "reddit.com" in url:
             raise RuntimeError("HTTP 403")
         return ATOM
+
+    def test_same_url_with_changed_title_retains_legacy_seen_id(self):
+        with patch.object(monitor, "fetch_url", return_value=ATOM):
+            monitor.run()
+        existing = json.loads(monitor.STATE.read_text())
+        # Simulate the prior title-hash ID format already deployed.
+        legacy_id = "legacy-title-only-digest"
+        existing["items"][0]["id"] = legacy_id
+        existing["seen"] = [legacy_id]
+        monitor.STATE.write_text(json.dumps(existing))
+        changed = ATOM.replace(b"Claude Code v2.2.0 release", b"Updated Claude Code changes")
+        with patch.object(monitor, "fetch_url", return_value=changed):
+            monitor.run()
+        result = json.loads(monitor.STATE.read_text())
+        self.assertIn(legacy_id, result["seen"])
+        self.assertNotIn("Updated Claude Code changes", monitor.BRIEF.read_text())
 
     def test_baseline_and_no_duplicate_changes(self):
         with patch.object(monitor, "fetch_url", side_effect=self.fake_fetch):
