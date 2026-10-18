@@ -1,17 +1,13 @@
 {
-  "apple-appstore-ca-games-subset": {
-    "reason": "HTTP 502",
-    "streak": 1
-  },
   "reddit-claudeai": {
     "reason": "HTTP 429",
-    "streak": 2
+    "streak": 3
   },
   "reddit-claudecode": {
     "reason": "HTTP 429",
-    "streak": 2
+    "streak": 3
   },
-  "reddit-robloxstudio": {
+  "reddit-robloxdev": {
     "reason": "HTTP 429",
     "streak": 1
   }
