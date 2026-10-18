@@ -54,3 +54,7 @@ The scheduled GitHub Actions workflow now runs separately scoped bots, reusing t
 For ACTUAL sampled video frames, there is an **opt-in local-only** [video lab](docs/LOCAL_VIDEO_LAB.md). It needs FFmpeg, a local authorized video file and optionally a local Ollama vision model (which uses your device CPU/GPU but NO ChatGPT/Claude/Codex credits). Neither media files nor images get uploaded to this public repo. No public bot actually watches the full original video.
 
 These helpers run within **one lightweight workflow**, not several CPU-heavy watchers. Standard GitHub-hosted public runners are free under GitHub limits; provider APIs/site rate limits, account restrictions and legitimate rights still apply.
+
+## Automatic source backoff
+
+The public media collector now records a temporary cooldown in `watch/media_cooldowns.json` on HTTP 429 (12 hours) or request timeout (6 hours). Other feeds remain active. Deferred sources remain visible in [watch/source_health.md](watch/source_health.md), and later retries clear the cooldown. This reduces wasted requests without bypassing logins, using proxies or buying social-media API access.

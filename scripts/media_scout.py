@@ -15,7 +15,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -27,6 +27,7 @@ CONFIG = ROOT / "watch" / "feeds.json"
 STATE = ROOT / "watch" / "media_state.json"
 BRIEF = ROOT / "watch" / "media_brief.md"
 HEALTH = ROOT / "watch" / "source_health.md"
+COOLDOWNS = ROOT / "watch" / "media_cooldowns.json"
 
 # Explicitly authorized public metadata/feeds, not an arbitrary web spider.
 ALLOWED_HOSTS = {
@@ -271,6 +272,24 @@ def render(records, new_ids, limit=45, baseline=False):
     return "\n".join(lines) + "\n"
 
 
+def retry_after(error, now):
+    """Back off explicit rate limits and timeouts; never bypass access control."""
+    lower = str(error).lower()
+    if "429" in lower:
+        return (now + timedelta(hours=12)).isoformat()
+    if "timed out" in lower:
+        return (now + timedelta(hours=6)).isoformat()
+    return None
+
+
+def not_yet_due(entry, now):
+    try:
+        when = datetime.fromisoformat(entry.get("until", ""))
+        return when.tzinfo is not None and when > now
+    except (ValueError, TypeError, AttributeError):
+        return False
+
+
 def run():
     cfg = read_json(CONFIG, {})
     old = read_json(STATE, {"seen": [], "items": []})
@@ -278,7 +297,19 @@ def run():
     limit = int(cfg.get("limits", {}).get("per_source", 20))
     timeout = int(cfg.get("limits", {}).get("timeout_seconds", 12))
     successes, failures, incoming = [], {}, []
-    sources = list(feed_sources(cfg))
+    original_sources = list(feed_sources(cfg))
+    previous_cooldowns = read_json(COOLDOWNS, {})
+    active_cooldowns = dict(previous_cooldowns)
+    now = datetime.now(timezone.utc)
+    deferred = []
+    sources = []
+    for source in original_sources:
+        entry = active_cooldowns.get(source["id"], {})
+        if not_yet_due(entry, now):
+            deferred.append((source["id"], entry.get("reason", "Temporary backoff")))
+        else:
+            sources.append(source)
+            active_cooldowns.pop(source["id"], None)
     # Bounded concurrent I/O cuts hosted CI minutes without changing source order.
     # Only up to four public RSS reads at once; results are handled deterministically.
     def read_one(source):
@@ -294,12 +325,19 @@ def run():
                 items = future.result()
                 successes.append(source["id"] + ": " + str(len(items)))
                 incoming.extend(items)
+                active_cooldowns.pop(source["id"], None)
             except (ValueError, ET.ParseError, RuntimeError, OSError) as exc:
                 # One blocked feed must NOT erase the good sources.
                 failures[source["id"]] = clean(str(exc), 100)
+                until = retry_after(exc, now)
+                if until:
+                    active_cooldowns[source["id"]] = {"until": until, "reason": failures[source["id"]]}
 
     if not successes:
-        raise RuntimeError("All public feeds failed; saved research is unchanged")
+        raise RuntimeError("All active public feeds failed; saved research is unchanged")
+
+    if active_cooldowns != previous_cooldowns:
+        COOLDOWNS.write_text(json.dumps(active_cooldowns, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
     all_items = {r["id"]: r for r in old.get("items", [])}
     for r in incoming:
@@ -319,17 +357,22 @@ def run():
     current_health = [
         "# Public research feed coverage", "",
         "Feeds read successfully: " + str(len(successes)),
-        "Feeds unavailable: " + str(len(failures)), "",
+        "Feeds unavailable: " + str(len(failures)),
+        "Feeds deferred (temporary cooldown): " + str(len(deferred)), "",
         "Availability is not guaranteed for public Reddit, third-party indexed searches or YouTube feeds.", "",
         "## Successful source reads (item counts)", ""
     ]
     current_health += ["- " + markdown(line, 130) for line in successes]
     current_health.append("")
+    if deferred:
+        current_health += ["## Deferred feeds — retry after temporary cooldown", ""]
+        current_health += ["- " + markdown(k,75) + ": " + markdown(v,120) for k,v in sorted(deferred)]
+        current_health.append("")
     if failures:
         current_health += ["## Failures (not silently skipped)", ""]
         current_health += ["- " + markdown(k, 75) + ": " + markdown(v, 120) for k, v in sorted(failures.items())]
     else:
-        current_health.append("No source errors on the most recent scan.")
+        current_health.append("No new source failures on the most recent scan." + (" Deferred feeds remain." if deferred else ""))
     status = "\n".join(current_health) + "\n"
     if not HEALTH.exists() or HEALTH.read_text(encoding="utf-8") != status:
         HEALTH.write_text(status, encoding="utf-8")

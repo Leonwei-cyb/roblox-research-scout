@@ -102,7 +102,8 @@ class ScanTests(unittest.TestCase):
             patch.object(monitor, "CONFIG", self.root / "watch" / "feeds.json"),
             patch.object(monitor, "STATE", self.root / "watch" / "media_state.json"),
             patch.object(monitor, "BRIEF", self.root / "watch" / "media_brief.md"),
-            patch.object(monitor, "HEALTH", self.root / "watch" / "source_health.md")
+            patch.object(monitor, "HEALTH", self.root / "watch" / "source_health.md"),
+            patch.object(monitor, "COOLDOWNS", self.root / "watch" / "media_cooldowns.json")
         ]
         for p in self.ctx:
             p.start()
@@ -133,6 +134,26 @@ class ScanTests(unittest.TestCase):
         with patch.object(monitor, "fetch_url", return_value=later):
             monitor.run()
         self.assertIn("v2.2.1", monitor.BRIEF.read_text())
+
+    def test_rate_limited_feed_is_not_immediately_retried(self):
+        def fetch(url, timeout=12):
+            if "reddit.com" in url:
+                raise RuntimeError("HTTP 429")
+            return ATOM
+        with patch.object(monitor, "fetch_url", side_effect=fetch) as fake:
+            monitor.run()
+            self.assertEqual(fake.call_count, 2)
+            monitor.run()
+            self.assertEqual(fake.call_count, 3)
+        self.assertIn("Deferred feeds", monitor.HEALTH.read_text())
+        self.assertIn("blocked", monitor.HEALTH.read_text())
+
+    def test_cooldown_policy_expires_and_does_not_bypass_403(self):
+        now = monitor.datetime(2026, 10, 18, tzinfo=monitor.timezone.utc)
+        until = monitor.retry_after("HTTP 429", now)
+        self.assertTrue(monitor.not_yet_due({"until": until}, now))
+        self.assertFalse(monitor.not_yet_due({"until": until}, now + monitor.timedelta(hours=13)))
+        self.assertIsNone(monitor.retry_after("HTTP 403", now))
 
     def test_total_failure_preserves_old_report(self):
         with patch.object(monitor, "fetch_url", return_value=ATOM):
