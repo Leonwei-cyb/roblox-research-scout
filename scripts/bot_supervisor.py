@@ -70,14 +70,13 @@ def render(all_runs):
     ]
     for repo, runs in all_runs:
         state, failed, last = summarize(repo, runs)
-        url = last.get("html_url", "") if last else ""
-        if not url.startswith("https://github.com/"):
-            url = "https://github.com/" + repo + "/actions"
+        # Stable workflow link avoids a pointless commit on every successful check.
+        url = "https://github.com/" + repo + "/actions/workflows/research.yml"
         lines.append("| " + repo + " | " + state + " | " + str(failed) +
                      " / " + str(min(10, len([r for r in runs if r.get("status") == "completed"]))) +
                      " | [View](" + url + ") |")
     lines += ["", "### Important limits", "",
-        "- This is a once-per-research-workflow repository overview, not the separate 15-minute monitor.",
+        "- This is a once-per-research-workflow repository overview, not the separate hourly monitor.",
         "- The current running workflow cannot grade its own future completion.",
         "- Passing Actions jobs may still contain blocked TikTok, X or Reddit source feeds.",
         "- Private gameplay bots are excluded; never send their contents to public CI.",

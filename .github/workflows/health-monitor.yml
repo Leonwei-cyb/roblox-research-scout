@@ -3,9 +3,9 @@ name: Public Roblox research bot health (no AI)
 on:
   workflow_dispatch:
   schedule:
-    # Independent, lightweight health checks every 15 minutes.
+    # Hourly lightweight health check; 75% fewer polls than the former 15-minute watcher.
     # GitHub scheduled executions are best-effort and may be delayed.
-    - cron: '11,26,41,56 * * * *'
+    - cron: '11 * * * *'
 
 permissions:
   contents: read
