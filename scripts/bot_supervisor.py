@@ -130,7 +130,7 @@ def live_report(runs, now=None):
         url = "https://github.com/Leonwei-cyb/roblox-research-scout/actions"
     completed_at = (latest.get("updated_at") or latest.get("created_at")) if latest else "none"
     return state, "\n".join([
-        "## Public Roblox Research Bot — 15-minute health check",
+        "## Public Roblox Research Bot — hourly health check",
         "",
         "**State: " + state + "**",
         "",
@@ -156,7 +156,7 @@ def monitor():
         state, report = live_report(runs)
     except RuntimeError as exc:
         state = "API UNAVAILABLE"
-        report = ("## Public Roblox Research Bot — 15-minute health check\n\n"
+        report = ("## Public Roblox Research Bot — hourly health check\n\n"
                   "**State: API UNAVAILABLE**\n\n" + str(exc) +
                   "\n\nGitHub API availability is not proof that the bot itself failed.\n")
     print(report)
