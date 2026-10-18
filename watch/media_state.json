@@ -385,7 +385,23 @@
     "692847bfd5db459a87898690",
     "e12bb973dde92c9fdc4ad114",
     "3ed3015b9ad0cedb224e7d06",
-    "0cf7fc1f3700bbcc48a8d3bf"
+    "0cf7fc1f3700bbcc48a8d3bf",
+    "8206d18611de14f1c0e56650",
+    "cb424818ada8cb1edd020476",
+    "b68f9b74250bb622e8727c8b",
+    "151aac6450d75bf4535b866c",
+    "8f366e436cc1d55cc4721ab7",
+    "308583e4fb39d63e2526ebb7",
+    "4ca0ee8fc6b9bf18929d01de",
+    "89fb1f98d443a73d30d97571",
+    "88eccf8b83b7ac3ec53461cf",
+    "736855d40e3700a17691c7d1",
+    "414b947f30b297abd3f4b6e9",
+    "68af867226147aa57e661413",
+    "a55617be97ad82db25421af9",
+    "85f2ccbf97d5df0ac71ac103",
+    "9b12050937a706ccf437d022",
+    "39207b35492887899f0a334b"
   ],
   "items": [
     {
@@ -994,6 +1010,17 @@
       "id": "849d9f518e5d887b4d732d68"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Hair not being found even though hair is in serverstorage",
+      "url": "https://devforum.roblox.com/t/hair-not-being-found-even-though-hair-is-in-serverstorage/4942954",
+      "published": "2026-10-18",
+      "excerpt": "local girlshair = {} local boyshair = {} local ss = game:GetService(\"ServerStorage\") local accries = ss:WaitForChild(\"accsorys\"):GetChildren() ------make npcs skinn local hairs = ss:WaitForChild(\"hair\"):GetChildren() ------make npcs skinn local builds = ss:WaitForChild(\"builds\") local strong = build",
+      "creator": "",
+      "id": "8206d18611de14f1c0e56650"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1074,10 +1101,10 @@
       "source": "claude-news",
       "label": "Google News indexed: Claude Code new feature plugin update when:7d",
       "category": "claude_updates",
-      "title": "JetBrains Air EAP Hits 5 IDEs, Orchestrates AI Agents - https://tech-insider.org/",
+      "title": "JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents [2026] - https://tech-insider.org/",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5",
       "published": "2026-10-18",
-      "excerpt": "JetBrains Air EAP Hits 5 IDEs, Orchestrates AI Agents https://tech-insider.org/",
+      "excerpt": "JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents [2026] https://tech-insider.org/",
       "creator": "",
       "id": "6d44e30b1fb66533aa4b02a2"
     },
@@ -1289,6 +1316,17 @@
       "excerpt": "I made this rig for a game I wanted to try and make, but the problem is I don't know much about scripting... So I mainly use advice online like from the dev forum or videos, so far I got the starter character to actually work, and I fixed a bug where it was facing the wrong way. But I don't know how",
       "creator": "/u/BlockHead2018Person https://www.reddit.com/user/BlockHead2018Person",
       "id": "45466478cf092debfcdf17df"
+    },
+    {
+      "source": "x-models",
+      "label": "Google News indexed: site:x.com RobloxDev low poly Blender models builds when:14d",
+      "category": "3D models",
+      "title": "RoNews (@RoGameNews) - X",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
+      "published": "2026-10-18",
+      "excerpt": "RoNews (@RoGameNews) X",
+      "creator": "",
+      "id": "40d410a3b4c1e9fde663c4d0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1862,17 +1900,6 @@
       "id": "4598c77f1ed83bb3f27d9b5d"
     },
     {
-      "source": "x-ui",
-      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
-      "category": "UI showcases",
-      "title": "RoNews (@RoGameNews) - X",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "RoNews (@RoGameNews) X",
-      "creator": "",
-      "id": "40d410a3b4c1e9fde663c4d0"
-    },
-    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2366,6 +2393,17 @@
       "id": "9d4998dce08349cee0ae4408"
     },
     {
+      "source": "video-index",
+      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
+      "category": "youtube_index",
+      "title": "Mistral Latest Version Free Download 2026 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MdVNlOTczaElNUFVOamNsMWRyOER2UzNrbF81Wm9CelY1VGliX2RMSWxwY1AtT3ZwcWlLRlgtMG94MmoxY0ZCbVg2NkNndXNGTDJ3S1djbGZvUnJsYmpLMg?oc=5",
+      "published": "2026-10-15",
+      "excerpt": "Mistral Latest Version Free Download 2026 YouTube",
+      "creator": "",
+      "id": "8f366e436cc1d55cc4721ab7"
+    },
+    {
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
       "category": "youtube",
@@ -2375,6 +2413,17 @@
       "excerpt": "",
       "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
       "id": "8ddc21911887b0991920faa6"
+    },
+    {
+      "source": "x-index",
+      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
+      "category": "x_index",
+      "title": "Why is my art always Not good enough for a many commission, But always Good enough to steal + feed to AI I'm tired... - X",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5U3puU0Y1Zmp6OF8wZFVfWkhZaFZWQ3pTQmN0b19HckYyb21WVlRhMUZfeW5nSmFWaDNPTlVOblg2dURvRkpFNk5RTUhIQlN4Mnp3R2VfX1I0c3dzTUgtVTJUQ1pyUjNKRUJr?oc=5",
+      "published": "2026-10-15",
+      "excerpt": "Why is my art always Not good enough for a many commission, But always Good enough to steal + feed to AI I'm tired... X",
+      "creator": "",
+      "id": "4ca0ee8fc6b9bf18929d01de"
     },
     {
       "source": "tiktok-index",
@@ -2585,6 +2634,17 @@
       "id": "9bef38b973d2c19166876e33"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SQW42TWJ5RlV0VEhrUUVLdVcwaTRMejNyTTc3TG9aM0VielNTQ1BOU0tYTWdLTHMwOW5jdWk4b1BhaUdfa3Y4RzJWMmx2YUtmcy0xNnl3?oc=5",
+      "published": "2026-10-14",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "9b12050937a706ccf437d022"
+    },
+    {
       "source": "tiktok-index",
       "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
       "category": "TikTok indexed leads",
@@ -2638,6 +2698,17 @@
       "excerpt": "should I release this? 👀 #roblox #robloxstudio #robloxdev TikTok",
       "creator": "",
       "id": "8b3c9b9786293cc984c8d138"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyYW5KQmpZSHQ3c0RGXzRzclgxMHYxQXlrUHRvVGNtSXI1cjd6YmVBTXM2NXhTbGk5NXZsOXBMOWQ2OWMtVFRaMDNsOTBUZENaNWhtWTVB?oc=5",
+      "published": "2026-10-14",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "89fb1f98d443a73d30d97571"
     },
     {
       "source": "instagram-index",
@@ -3342,6 +3413,17 @@
       "id": "32167279b1a241040eedd1fb"
     },
     {
+      "source": "video-index",
+      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
+      "category": "youtube_index",
+      "title": "Mistral Latest Version Free Download 2026 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HOFFfalc0dmswR1JfRHhLMVR3T3RCTER6T3NIZzVNUEk3TkNCdlh5c0Rkbk5tTkU5bnprLW5Kblo5OW9CMTNKYW9rTFhDU0hIYXFYalQ5aU1zX0JiRVFoZA?oc=5",
+      "published": "2026-10-12",
+      "excerpt": "Mistral Latest Version Free Download 2026 YouTube",
+      "creator": "",
+      "id": "308583e4fb39d63e2526ebb7"
+    },
+    {
       "source": "syphodev-claude",
       "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
       "category": "Roblox creator / AI development",
@@ -3626,6 +3708,17 @@
       "excerpt": "The Biggest Mistake Roblox Devs Make With AI! YouTube",
       "creator": "",
       "id": "414add356fa294e673d3a231"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwYXRSZFNyQWdUUFFlYWlDTmFHbngtWFNNdU12Vnd5MGotTF80ZUdKRjBtZ212NVNGS2YwMzBmNmFpWWxjSFFHb0c3cGdVNm1nZ2pMbHFR?oc=5",
+      "published": "2026-10-10",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "39207b35492887899f0a334b"
     },
     {
       "source": "syphodev-claude",
@@ -4121,6 +4214,28 @@
       "id": "06e76cf43d38443d6efd3914"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50WWdkYzMtS3oyLVIyYnJIZWhkVjhKdEd2LTlsNkZFbWN1N1h4R25hbEZORFFmSWJxZW5hRUdTN0FqM0plUHFxYy03NjFfT2ZGOTZCNzJn?oc=5",
+      "published": "2026-09-30",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "a55617be97ad82db25421af9"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwRFhfR0FJdDF2Q1hnQ0RVX2JTekMyUzFaUlFtaF9yZHM4bzBUR1FfbWNBUUVtZUUtSXJzaWtlQ2lIdVl5bUlDQ29RYl9tWkEyTTJsZmp3?oc=5",
+      "published": "2026-09-30",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "68af867226147aa57e661413"
+    },
+    {
       "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
       "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
       "category": "Roblox build / 3D examples",
@@ -4286,6 +4401,17 @@
       "id": "5938543911d1550965ca5592"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsbzF1c3hsUWFVVnd4aTVIdmZqaWJzTDNVT0xwaUxYaGhuM0ptOFV6YWwyaE9sRmlaQnRfQTNwN3FxUjd1cE13VF8yXzhPX3g1WjM5MGl3?oc=5",
+      "published": "2026-09-26",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "414b947f30b297abd3f4b6e9"
+    },
+    {
       "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
       "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
       "category": "Roblox creator / Steal An Egg",
@@ -4352,6 +4478,17 @@
       "id": "2f3e8052442526aab965cf3c"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVEVRVmI1dkNrQkV5Tk9YSG9IeVIzdThpOC1KemlpeXJ0cl91MG0wdWV0ZFM0eHhfQ1BJUGgxTXJGN2ptdmNkYzB5cWlzT3k3MG93UU5R?oc=5",
+      "published": "2026-09-22",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "85f2ccbf97d5df0ac71ac103"
+    },
+    {
       "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
       "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
       "category": "Roblox creator / Steal An Egg",
@@ -4372,6 +4509,17 @@
       "excerpt": "look in my story to win 10,000 Robux 🎁 Instagram",
       "creator": "",
       "id": "ecfebea7b429892d174adce6"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fbWNDQkpGdFM0bkloX2dxRjRuZ2t1SlltdkthbFNNUmhma25LeER6S19UWlAzNXdhZnRla1JwcGlTbk1UeHVhN0tJVlZiU2NnOVZZM1Rn?oc=5",
+      "published": "2026-09-21",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "88eccf8b83b7ac3ec53461cf"
     },
     {
       "source": "syphodev-claude",
@@ -4427,6 +4575,17 @@
       "excerpt": "Charm | Roblox Open Source Showcase #9 YouTube",
       "creator": "",
       "id": "8f29d56642e6fa94b1026f6e"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZXBTWmIxREgxYllaSnprcVhMYUd5ZnU5UGczZkxlVGpZLWRLcmJycUQ1QmVFTTJwU0FLdDRSR2hGYnNwSXhCV1pPbS1IN0pXSlUycFp3?oc=5",
+      "published": "2026-09-20",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "id": "736855d40e3700a17691c7d1"
     },
     {
       "source": "brock-ig-reels",
@@ -4572,6 +4731,17 @@
       "id": "4a480d080260f91aa8d894ce"
     },
     {
+      "source": "roblox-wip-2026",
+      "label": "Roblox DevForum what are you working on 2026",
+      "category": "3D models, maps and prototypes",
+      "title": "What are you working on currently? (2026 Edition)",
+      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/4",
+      "published": "2026-08-09",
+      "excerpt": "Big revamp of my game Fun with Physics. Read full topic",
+      "creator": "",
+      "id": "cb424818ada8cb1edd020476"
+    },
+    {
       "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
       "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
       "category": "Roblox build / 3D examples",
@@ -4603,6 +4773,28 @@
       "excerpt": "",
       "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
       "id": "74ad2e3d578f68f899d9141d"
+    },
+    {
+      "source": "roblox-wip-2026",
+      "label": "Roblox DevForum what are you working on 2026",
+      "category": "3D models, maps and prototypes",
+      "title": "What are you working on currently? (2026 Edition)",
+      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/3",
+      "published": "2026-05-20",
+      "excerpt": "That’s a really cool! I feel like the grapple hook system would go really well in a platform game. It gives off LittleBigPlanet vibes. Read full topic",
+      "creator": "",
+      "id": "b68f9b74250bb622e8727c8b"
+    },
+    {
+      "source": "roblox-wip-2026",
+      "label": "Roblox DevForum what are you working on 2026",
+      "category": "3D models, maps and prototypes",
+      "title": "What are you working on currently? (2026 Edition)",
+      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/2",
+      "published": "2026-05-19",
+      "excerpt": "I just released what was going to be part of a small community’s collaboration game for Christmas 2024 (and at one point was delayed to 2025 before it just fell through completely). I suppose it’s a hybrid between an adventure game world (which is what it is meant to be) and a dungeon like those fro",
+      "creator": "",
+      "id": "151aac6450d75bf4535b866c"
     },
     {
       "source": "roblox-wip-2026",

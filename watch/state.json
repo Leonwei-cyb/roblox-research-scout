@@ -16,6 +16,14 @@
       "release_url": "https://github.com/Donchitos/Claude-Code-Game-Studios/releases/tag/v1.1.3",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
+    "FreshRSS/FreshRSS": {
+      "head": "859a2ad0396a90d05b3b2c2fce123b0329e3823b",
+      "head_subject": "Fix local DNS leak when fetching feeds through a proxy (#9451)",
+      "name": "FreshRSS/FreshRSS",
+      "release_tag": "1.30.1",
+      "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.1",
+      "url": "https://github.com/FreshRSS/FreshRSS"
+    },
     "PepeElToro41/ui-labs": {
       "head": "1e8f45f4fac34a10bc12d9263d8e3e2a8af0f2bd",
       "head_subject": "bump version",
@@ -72,6 +80,22 @@
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
       "url": "https://github.com/anthropics/claude-code"
     },
+    "buriedsignals/scoutpost-os": {
+      "head": "d0ad303a061f36459b1c012d767001a3e7a47337",
+      "head_subject": "mirror: sync from upstream (f1997a1f2bd00ac3a32651c018cb9ae182b73d74)",
+      "name": "buriedsignals/scoutpost-os",
+      "release_tag": "scout-v0.1.22",
+      "release_url": "https://github.com/buriedsignals/scoutpost-os/releases/tag/scout-v0.1.22",
+      "url": "https://github.com/buriedsignals/scoutpost-os"
+    },
+    "dgtlmoon/changedetection.io": {
+      "head": "804876fdd189f7d2aa8152f165e1965c56b77d51",
+      "head_subject": "docker-compose.yml - SCREENSHOT_MAX_HEIGHT default is 20000, not 16000 (#4568)",
+      "name": "dgtlmoon/changedetection.io",
+      "release_tag": "0.60.9",
+      "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
+      "url": "https://github.com/dgtlmoon/changedetection.io"
+    },
     "fagemx/gstack-game": {
       "head": "7259ab9782fa9c17e45c16f1fb8347823ddb4379",
       "head_subject": "add p0 game hardening guards (#46)",
@@ -80,6 +104,14 @@
       "release_url": "",
       "url": "https://github.com/fagemx/gstack-game"
     },
+    "huginn/huginn": {
+      "head": "74581b082883cd9aa894db7c5671fa7fda6c579f",
+      "head_subject": "Lock file maintenance (#3792)",
+      "name": "huginn/huginn",
+      "release_tag": "v2026.10.14",
+      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.14",
+      "url": "https://github.com/huginn/huginn"
+    },
     "obra/superpowers": {
       "head": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
       "head_subject": "Release v7.0.0: rebuilt brainstorming, Antigravity Marketplace manifest, Windows hook fixes (#2489)",
@@ -87,6 +119,14 @@
       "release_tag": "v7.0.0",
       "release_url": "https://github.com/obra/superpowers/releases/tag/v7.0.0",
       "url": "https://github.com/obra/superpowers"
+    },
+    "obris-dev/openmagpie": {
+      "head": "9967975d0f9625133176fb76898a8f436bd4bc46",
+      "head_subject": "docs(readme): simplify the How-it-works diagram to the shipped pipeline (#187)",
+      "name": "obris-dev/openmagpie",
+      "release_tag": "v0.11.0",
+      "release_url": "https://github.com/obris-dev/openmagpie/releases/tag/v0.11.0",
+      "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
       "head": "36a6e994d2f6c4ab94b3555185154d069e5dba87",
@@ -108,6 +148,7 @@
     "Daniel987654321/roblox-studio-agent-bridge",
     "Donchitos/Claude-Code-Game-Studios",
     "Emmanuel448/mcp-rojo-bridge",
+    "FreshRSS/FreshRSS",
     "MotoRyuji4/Velora-Tower-Sentinel-Overlay",
     "PepeElToro41/ui-labs",
     "RSSHub/RSSHub",
@@ -124,13 +165,16 @@
     "anthropics/claude-code",
     "azharshkh/customus-credit-api",
     "bishwajitiisc/rblx-core-utils",
+    "buriedsignals/scoutpost-os",
     "c78576331-art/auto-aim-heads-hub",
     "chandtheblues99-ai/studio-bridge-mcp",
     "daftAI2026/awesome-jev",
+    "dgtlmoon/changedetection.io",
     "fagemx/gstack-game",
     "gamedev-skills/awesome-gamedev-agent-skills",
     "gmh5225/awesome-game-security",
     "hoilc/scoop-lemon",
+    "huginn/huginn",
     "iwankh/Roblox-Utility-Vault",
     "jisancreativestudio-dev/Steam-Happy-Roblox-Vault",
     "johe123qwe/github-trending",
@@ -138,6 +182,7 @@
     "linny006/trending-claude-skills",
     "mvanhorn/printing-press-library",
     "obra/superpowers",
+    "obris-dev/openmagpie",
     "ollama/ollama",
     "pogogt12/slime-tycoon-forge",
     "rust-unofficial/awesome-rust",

@@ -1,6 +1,6 @@
 # Source failure triage
 
-Failures in the latest public collection. Automated counts, not proof a site is down.
+Counts only attempted feed failures. Deferred rate-limited sources retain their previous failure count until actually retried.
 
 | Source | Consecutive observed failures | What to do |
 |---|---:|---|
