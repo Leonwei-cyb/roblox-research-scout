@@ -9,7 +9,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 - roblox-devforum-latest: 20
 - roblox-devforum-updates: 20
-- reddit-robloxdev: 20
+- reddit-robloxstudio: 20
 - roblox-ui-showcase: 1
 - roblox-wip-2026: 4
 - claude-news: 20
@@ -19,12 +19,12 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - gameplay-ideas: 0
 - mobile-remakes: 0
 - video-index: 20
-- x-index: 11
+- x-index: 12
 - instagram-index: 20
 - x-ui: 1
 - x-models: 1
 - x-gameplay: 0
-- tiktok-index: 20
+- tiktok-index: 19
 - instagram-reels: 20
 - showcase-roblox: 0
 - brock-ig: 0
@@ -48,4 +48,4 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 - reddit-claudeai: HTTP 429
 - reddit-claudecode: HTTP 429
-- reddit-robloxstudio: HTTP 429
+- reddit-robloxdev: HTTP 429
