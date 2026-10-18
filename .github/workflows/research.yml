@@ -9,6 +9,7 @@ on:
       - 'tests/**'
       - 'watch/config.json'
       - 'watch/feeds.json'
+      - 'watch/creators.json'
       - '.github/workflows/research.yml'
   schedule:
     - cron: '17 4,12,20 * * *'
@@ -40,7 +41,9 @@ jobs:
           if [ "$media_status" -eq 0 ]; then
             python3 scripts/video_shortlist.py
             shortlist_status=$?
-            if [ "$shortlist_status" -ne 0 ]; then exit "$shortlist_status"; fi
+            python3 scripts/creator_digest.py
+            creator_status=$?
+            if [ "$shortlist_status" -ne 0 ] || [ "$creator_status" -ne 0 ]; then exit 1; fi
           fi
           if [ "$github_status" -ne 0 ] && [ "$media_status" -ne 0 ]; then
             echo "Both public source collectors failed."
