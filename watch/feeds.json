@@ -171,6 +171,21 @@
       "id": "creator-egg-updates",
       "category": "Roblox updates / Steal An Egg",
       "query": "Steal An Egg Brockodile update new mechanic October 2026 when:30d"
+    },
+    {
+      "id": "tizzy-roblox-design",
+      "category": "Roblox creator / game design",
+      "query": "site:youtube.com \"Tizzy RBLX\" onboarding game design 2026 when:30d"
+    },
+    {
+      "id": "syphodev-claude",
+      "category": "Roblox creator / AI development",
+      "query": "site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d"
+    },
+    {
+      "id": "gnomecode",
+      "category": "Roblox creator / tutorials",
+      "query": "site:youtube.com \"GnomeCode\" 2026 Roblox Studio when:30d"
     }
   ],
   "youtube_channels": [
@@ -183,6 +198,11 @@
       "label": "Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
       "category": "Roblox creator / Steal An Egg",
       "channel_id": "UC1g8RAPLVidtYUzZFFiX2GA"
+    },
+    {
+      "label": "RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
+      "category": "Roblox build / 3D examples",
+      "channel_id": "UCl-BrQMfynC7mpPDsg6MqlQ"
     }
   ],
   "app_charts": [
