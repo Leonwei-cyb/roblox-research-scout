@@ -5,19 +5,20 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Instagram Indexed Leads
+
+- **[You can now use Octoshaper cli with an AI agent to build graphs and execute them at runtime! #unity #blender #gamedevelopment - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NLTdIaEQ1WWRsWkhyRjdXbVVGS2Z6WXhGZlN3a1pGempmMlliQjVPRHcwVXFfMFVtQlowQ2t1M29kb0hYSGJrWE1IZnFIQzN4UjFGRXVB?oc=5)** · Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14 · 2026-10-12
+  - Feed excerpt: You can now use Octoshaper cli with an AI agent to build graphs and execute them at runtime! #unity #blender #gamedevelopment Instagram
+
 ## Claude Updates
 
-- **[JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5)** · Google News indexed: Claude Code new feature plugin update when:7d · 2026-10-18
-  - Feed excerpt: JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents \[2026\] https://tech-insider.org/
+- **[This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back - MakeUseOf](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWEzMmU1emhNU3NOS3hLdE1QWVFJYkIzZGIzS3JRUGdTMjBvRFk4Q2NCWTNScDlvOWVDUjJQQ0FPZlFleDdDNG0tUzNabXB0OHV4OXRKa3lxRjNuRUxrZWdjeTJoVW9xRWIydEtWc1ZXUERVVHM1cS1CbUhGZGVPdWdnbWFHOUFGZURDbjhFZlowTmZocGxlQ3VkRUI?oc=5)** · Google News indexed: Claude Code new feature plugin update when:7d · 2026-10-18
+  - Feed excerpt: This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back MakeUseOf
 
-## Roblox Updates
+## X Index
 
-- **[Low Resolution Rigs In Viewportframes](https://devforum.roblox.com/t/low-resolution-rigs-in-viewportframes/4942838)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Hello! Im trying to make an emote wheel based off of The Strongest Battlegrounds emote wheel. But the rigs in the viewportframes dont look all that great. Its kinda low res compared to the one in TSB. Does anyone have any suggestions? Also 
-- **[Ticket Id: 184413881, Submitted on October 7th \| Termination of community and 2 experiences for terrorism, ambiguous naming of problematic asset](https://devforum.roblox.com/t/ticket-id-184413881-submitted-on-october-7th-termination-of-community-and-2-experiences-for-terrorism-ambiguous-naming-of-problematic-asset/4942834)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Acting on behalf of Community 5113986/SethWyd’s Special Containment Procedures Foundation. Two experiences ( https://www.roblox.com/games/14087737574 and https://www.roblox.com/games/13841711915 ) and the community ( /\[SCPF\] Special Contain
-- **[\[OPEN\] Looking for volunteers for a Retro-Roblox Cabal (Arcade) Shooter Project!](https://devforum.roblox.com/t/open-looking-for-volunteers-for-a-retro-roblox-cabal-arcade-shooter-project/4942866)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Hello everyone ! About Me I’m @MindCraftix , the owner and lead scripter of a Roblox development group called Mindrix . I’m currently leading and programming a new project, and I’m looking for applicants to join the team or volunteers for c
+- **[Google's Gemini 4 Argon Masters Minecraft and Builds Games at Low Cost - X](https://news.google.com/rss/articles/CBMiV0FVX3lxTE80bTc5RGw0VFlnNG12WldUNVlwOFB3cVl5ajF3TmlnaGxRZkFZRVM1MEZ6Y2JPTVViVzJMa0R3Z1ZsSzRxQ0xscUFSUlZwOFo1N3JpYmFYNA?oc=5)** · Google News indexed: site:x.com Roblox Studio Claude developer when:7d · 2026-10-17
+  - Feed excerpt: Google's Gemini 4 Argon Masters Minecraft and Builds Games at Low Cost X
 
 ---
 
