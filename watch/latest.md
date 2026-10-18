@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [tornikebolokadze1-cyber/awesome-ai-pulse-georgia](https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia) (153 stars). A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources — by AI Pulse Georgia
+- **Unreviewed lead:** [johe123qwe/github-trending](https://github.com/johe123qwe/github-trending) (61 stars). 定时抓取 Github Trending
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
