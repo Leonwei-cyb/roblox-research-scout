@@ -363,7 +363,8 @@
     "4780dfc775dd4519ac252ccd",
     "3c28ea7f5f733bebd2aead26",
     "237793930278471d40f7b8df",
-    "4013461191548521b871444f"
+    "4013461191548521b871444f",
+    "65b83237713c74c265cac5a2"
   ],
   "items": [
     {
@@ -961,11 +962,11 @@
       "id": "6fd3b01bc7652d671d2a7bba"
     },
     {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
       "title": "How do you guys build large, natural-looking mountain maps in Roblox?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x98t53/how_do_you_guys_build_large_naturallooking/",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x98u1j/how_do_you_guys_build_large_naturallooking/",
       "published": "2026-10-18",
       "excerpt": "Hey everyone, I've been working on a Roblox game that needs a fairly large, natural-looking mountainous environment, and honestly, getting the map to look good has been one of the biggest challenges. I'm aiming for connected mountains, valleys, cliffs, overhangs, and natural transitions between area",
       "creator": "/u/itswargamer https://www.reddit.com/user/itswargamer",
@@ -1003,6 +1004,17 @@
       "excerpt": "I got my username taken down for “revealing” personal information, I was “Alex72620_YT” and now im “roblox_user_333172092”. The thing is that i thought that i would have a free username change since my old username “Alex72620_YT” got taken down. Im pretty sure this is a bug since the last time i was",
       "creator": "",
       "id": "671f4f8b33ae6e1e5598303b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Programming menu with 0 experience",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x9a358/programming_menu_with_0_experience/",
+      "published": "2026-10-18",
+      "excerpt": "Hey Reddit, I'm a 17 year old dude w 1 dream and no experience. I wanna programm a game but I have 1 no one, and no experience at all, what I need help with right now is mostly the menu and maybe finding helpers. What I have is different frames with buttons and that's about it, if someone could help",
+      "creator": "/u/Vaporeana69 https://www.reddit.com/user/Vaporeana69",
+      "id": "65b83237713c74c265cac5a2"
     },
     {
       "source": "reddit-robloxdev",
@@ -1168,17 +1180,6 @@
       "excerpt": "I made this rig for a game I wanted to try and make, but the problem is I don't know much about scripting... So I mainly use advice online like from the dev forum or videos, so far I got the starter character to actually work, and I fixed a bug where it was facing the wrong way. But I don't know how",
       "creator": "/u/BlockHead2018Person https://www.reddit.com/user/BlockHead2018Person",
       "id": "45466478cf092debfcdf17df"
-    },
-    {
-      "source": "x-models",
-      "label": "Google News indexed: site:x.com RobloxDev low poly Blender models builds when:14d",
-      "category": "3D models",
-      "title": "RoNews (@RoGameNews) - X",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "RoNews (@RoGameNews) X",
-      "creator": "",
-      "id": "40d410a3b4c1e9fde663c4d0"
     },
     {
       "source": "syphodev-claude",
@@ -1664,6 +1665,17 @@
       "id": "4598c77f1ed83bb3f27d9b5d"
     },
     {
+      "source": "x-ui",
+      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
+      "category": "UI showcases",
+      "title": "RoNews (@RoGameNews) - X",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
+      "published": "2026-10-17",
+      "excerpt": "RoNews (@RoGameNews) X",
+      "creator": "",
+      "id": "40d410a3b4c1e9fde663c4d0"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2040,7 +2052,7 @@
       "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
       "category": "x_index",
       "title": "Why is my art always Not good enough for a many commission, But always Good enough to steal + feed to AI I'm tired... - X",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5U3puU0Y1Zmp6OF8wZFVfWkhZaFZWQ3pTQmN0b19HckYyb21WVlRhMUZfeW5nSmFWaDNPTlVOblg2dURvRkpFNk5RTUhIQlN4Mnp3R2VfX1I0c3dzTUgtVTJUQ1pyUjNKRUJr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taDhlQmx2ZzNOd29NdmZZMnpfUC1sWGlNYTZScE9oelBlOGRjMG5GM3JCQlFiOE9pQzlTaW80S0RKbEE3MTFxZEtSdzhjeGNUUXl0dUdnQ3drb0Y3QjdTZw?oc=5",
       "published": "2026-10-15",
       "excerpt": "Why is my art always Not good enough for a many commission, But always Good enough to steal + feed to AI I'm tired... X",
       "creator": "",
@@ -2927,7 +2939,7 @@
       "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
       "category": "youtube_index",
       "title": "Mistral Latest Version Free Download 2026 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HOFFfalc0dmswR1JfRHhLMVR3T3RCTER6T3NIZzVNUEk3TkNCdlh5c0Rkbk5tTkU5bnprLW5Kblo5OW9CMTNKYW9rTFhDU0hIYXFYalQ5aU1zX0JiRVFoZA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RV2lOcDNabmF6TlJrMVhpdDhFa09YcFNrdURrd081UEZESUxPUGFFbHdCTmRfbWEyYk4tdnV6X2Z3Umx3T1JHTUI0d0F3RU53aFpIaml5Q0dFSWI1bEhhSA?oc=5",
       "published": "2026-10-12",
       "excerpt": "Mistral Latest Version Free Download 2026 YouTube",
       "creator": "",
