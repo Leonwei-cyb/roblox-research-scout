@@ -12,7 +12,8 @@ This is a PUBLIC repository. Everything gathered here is public information, and
 
 ## Using it
 
-- **Reports:** after the first successful run, open [watch/latest.md](watch/latest.md) and [watch/media_brief.md](watch/media_brief.md).
+- **Reports:** after the first successful run, open [watch/latest.md](watch/latest.md), [watch/media_brief.md](watch/media_brief.md) and the stricter [watch/video_candidates.md](watch/video_candidates.md). A link is not a claim anyone watched the video.
+- **Curated example set:** [research/VIDEO_PILOT_2026-10-18.md](research/VIDEO_PILOT_2026-10-18.md) contains source-confirmed video/watch pages plus clearly labeled X/Instagram account leads.
 - **Source coverage:** check [watch/source_health.md](watch/source_health.md) for blocked or failed feeds.
 - **Configuration:** [watch/config.json](watch/config.json) and [watch/feeds.json](watch/feeds.json).
 - **Actions:** open the **Actions** tab and run **Roblox research scout (no AI)** manually, or let the scheduled run check daily.
