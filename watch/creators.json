@@ -1,0 +1,194 @@
+{
+  "description": "Public creator-source register. A link being verified does not prove any specific post was watched or belongs to the creator; never request personal cookies.",
+  "creators": [
+    {
+      "id": "brockodile",
+      "label": "Brockodile — Steal An Egg developer",
+      "focus": "gameplay loops, updates, UI, 3D models, live events",
+      "aliases": [
+        "Brockodile",
+        "Brockkodile",
+        "Steal An Egg"
+      ],
+      "source_of_identity": "https://linktr.ee/Brockodile",
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/brockkodile/",
+          "provenance": "developer Linktree",
+          "direct_posts_access": "not verified"
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@brockodile",
+          "provenance": "developer Linktree",
+          "direct_posts_access": "not verified"
+        },
+        {
+          "platform": "x",
+          "url": "https://x.com/brockkodile",
+          "provenance": "developer Linktree",
+          "direct_posts_access": "not verified"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@brockkodile",
+          "provenance": "developer Linktree",
+          "direct_posts_access": "handle verified; UC channel ID not confirmed"
+        },
+        {
+          "platform": "roblox",
+          "url": "https://www.roblox.com/users/3889785873/profile",
+          "provenance": "developer Linktree",
+          "direct_posts_access": "public profile"
+        }
+      ],
+      "candidate_youtube_channel_id": "UC1g8RAPLVidtYUzZFFiX2GA",
+      "channel_note": "@brockkodiledeveloper self-describes owner on public YouTube analytics; separate from the Linktree handle and must not be silently conflated"
+    },
+    {
+      "id": "tizzy",
+      "label": "Tizzy RBLX — Roblox game design",
+      "focus": "core loops, player experience, first 90 seconds, progression and analytics",
+      "aliases": [
+        "Tizzy RBLX",
+        "TizzyRBLX12"
+      ],
+      "source_of_identity": "https://prepublish.ai/youtube-channel/tizzyrblx12",
+      "accounts": [
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@TizzyRBLX12",
+          "provenance": "published channel and videos",
+          "direct_posts_access": "videos linked by channel"
+        }
+      ]
+    },
+    {
+      "id": "syphodev",
+      "label": "SyphoDev — Claude Roblox Studio workflow",
+      "focus": "MCP skills, reusable assets, Studio iteration, real gameplay failures",
+      "aliases": [
+        "SyphoDev"
+      ],
+      "source_of_identity": "https://github.com/SyphoDev-yt",
+      "accounts": [
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@SyphoDev",
+          "provenance": "published developer videos; check original",
+          "direct_posts_access": "channel URL needs verification"
+        }
+      ]
+    },
+    {
+      "id": "robuilder",
+      "label": "RoBuilder — Roblox Studio buildings",
+      "focus": "simple blocky 3D layouts and prop modeling",
+      "aliases": [
+        "RoBuilder"
+      ],
+      "source_of_identity": "https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
+      "accounts": [
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
+          "provenance": "channel ID in public channel stats",
+          "direct_posts_access": "YouTube RSS"
+        }
+      ],
+      "youtube_channel_id": "UCl-BrQMfynC7mpPDsg6MqlQ"
+    },
+    {
+      "id": "gnomecode",
+      "label": "GnomeCode — Roblox game systems",
+      "focus": "first-person game systems, inventory, tutorials, Studio correctness",
+      "aliases": [
+        "GnomeCode"
+      ],
+      "source_of_identity": "https://gnomecode.com/about",
+      "accounts": [
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@GnomeCode",
+          "provenance": "author website",
+          "direct_posts_access": "public videos; channel ID not captured"
+        }
+      ]
+    },
+    {
+      "id": "bluerain",
+      "label": "BlueRain — developer visual builds",
+      "focus": "short-form UI/3D and game polish",
+      "aliases": [
+        "BlueRain"
+      ],
+      "source_of_identity": "https://blueraindev.com/socials",
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bluerain_development/",
+          "provenance": "owner website",
+          "direct_posts_access": "not verified"
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@bluerainrblx",
+          "provenance": "owner website",
+          "direct_posts_access": "not verified"
+        }
+      ]
+    },
+    {
+      "id": "robloxcreators",
+      "label": "Roblox Creators showcases",
+      "focus": "official creator spotlights, demos, technical showcases",
+      "aliases": [
+        "RobloxCreators"
+      ],
+      "source_of_identity": "https://x.com/RobloxCreators",
+      "accounts": [
+        {
+          "platform": "x",
+          "url": "https://x.com/RobloxCreators",
+          "provenance": "Roblox-announced creator account",
+          "direct_posts_access": "public indexed only"
+        }
+      ]
+    },
+    {
+      "id": "ui_oreuiz",
+      "label": "@oreuiz — UI showcase lead",
+      "focus": "animated Roblox menus and rewards",
+      "aliases": [
+        "oreuiz"
+      ],
+      "source_of_identity": "https://x.com/oreuiz",
+      "accounts": [
+        {
+          "platform": "x",
+          "url": "https://x.com/oreuiz",
+          "provenance": "indexed public creator lead; authorship not independently verified",
+          "direct_posts_access": "not verified"
+        }
+      ]
+    },
+    {
+      "id": "ui_altro",
+      "label": "@AltroUIUX — UI showcase lead",
+      "focus": "books, shop cards and daily reward UI",
+      "aliases": [
+        "AltroUIUX"
+      ],
+      "source_of_identity": "https://x.com/AltroUIUX",
+      "accounts": [
+        {
+          "platform": "x",
+          "url": "https://x.com/AltroUIUX",
+          "provenance": "indexed public creator lead; authorship not independently verified",
+          "direct_posts_access": "not verified"
+        }
+      ]
+    }
+  ]
+}
