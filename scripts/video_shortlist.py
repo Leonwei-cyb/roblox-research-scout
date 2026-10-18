@@ -45,7 +45,12 @@ def kind(item):
     if host in {"x.com", "www.x.com", "twitter.com"} and re.search(r"/status/\d+", path):
         return "X original post"
     if host in {"www.reddit.com", "reddit.com"} and re.search(r"/comments/[a-z0-9]+/", path):
-        return "Community post (video not confirmed)"
+        # A community discussion is not a video. Keep a separately labeled lead
+        # only when its title actually advertises a visual demonstration.
+        title = str(item.get("title", "")).lower()
+        if re.search(r"animated|animation|showcase|devlog|demo|trailer|video|clip|prototype|playtest", title):
+            return "Community showcase post (video not confirmed)"
+        return None
     return None
 
 
@@ -63,7 +68,9 @@ def shortlist(items, limit=14):
         if not media_kind or score(item) < 4:
             continue
         candidates.append((score(item), item, media_kind))
-    candidates.sort(key=lambda r: (-r[0], str(r[1].get("published", "")), str(r[1].get("title", ""))))
+    # Direct watchable videos first; unverified community posts never bury them.
+    candidates.sort(key=lambda r: (r[2].startswith("Community "), -r[0],
+                                    str(r[1].get("published", "")), str(r[1].get("title", ""))))
     output, seen = [], set()
     for _, item, media_kind in candidates:
         url = item.get("url", "")
