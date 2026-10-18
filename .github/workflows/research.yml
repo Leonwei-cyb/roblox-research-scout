@@ -12,7 +12,8 @@ on:
       - 'watch/creators.json'
       - '.github/workflows/research.yml'
   schedule:
-    - cron: '17 4,12,20 * * *'
+    # Hourly discovery; hosted workflow is not continuously running.
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
