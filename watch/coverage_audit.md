@@ -4,17 +4,13 @@ Links and metadata collected; original social videos are NOT automatically playe
 
 | Observation | Count |
 |---|---:|
-| Saved source entries | 405 |
+| Saved source entries | 416 |
 | Original media URLs | 42 |
-| Indexed redirects, original unknown | 221 |
-| Failed feeds | 5 |
+| Indexed redirects, original unknown | 223 |
+| Failed feeds | 1 |
 
 ## Failures to resolve
 
-- apple-appstore-ca-games-subset: The read operation timed out
-- apple-appstore-us-games-subset: The read operation timed out
-- reddit-claudeai: HTTP 429
-- reddit-claudecode: HTTP 429
 - reddit-robloxdev: HTTP 429
 
 ## Actions
