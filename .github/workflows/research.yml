@@ -13,8 +13,9 @@ on:
       - 'watch/official_visual_pages.json'
       - '.github/workflows/research.yml'
   schedule:
-    # Poll every 10 minutes; GitHub scheduled runs can be delayed.
-    - cron: '7,17,27,37,47,57 * * * *'
+    # 4 checks/day. The older 10-minute cycle wasted requests and hit RSS rate limits.
+    # GitHub may delay scheduled starts; use workflow_dispatch for an urgent check.
+    - cron: '23 2,8,14,20 * * *'
 
 permissions:
   contents: write
@@ -48,6 +49,11 @@ jobs:
           python3 scripts/official_visual_scout.py
           visuals_status=$?
           if [ "$visuals_status" -ne 0 ]; then echo 'Original visual source index failed.'; exit 1; fi
+          python3 scripts/research_quality.py
+          quality_status=$?
+          python3 scripts/failure_triage.py
+          triage_status=$?
+          if [ "$quality_status" -ne 0 ] || [ "$triage_status" -ne 0 ]; then exit 1; fi
           if [ "$media_status" -eq 0 ]; then
             python3 scripts/video_shortlist.py
             shortlist_status=$?
