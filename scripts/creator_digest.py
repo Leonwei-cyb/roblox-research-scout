@@ -27,7 +27,9 @@ def matches(row, creator):
     channel = str(creator.get("youtube_channel_id", "") or creator.get("candidate_youtube_channel_id", ""))
     if channel and src == "youtube-" + channel:
         return "channel upload — creator identity check" if creator.get("candidate_youtube_channel_id") else "verified channel upload"
-    text = " ".join(str(row.get(k, "")) for k in ("creator", "title", "excerpt", "label")).lower()
+    # Never match a creator because the SEARCH QUERY in the source label contains
+    # their name. A title/excerpt/author needs to mention the creator independently.
+    text = " ".join(str(row.get(k, "")) for k in ("creator", "title", "excerpt")).lower()
     for alias in creator.get("aliases", []):
         name = str(alias).lower()
         # Avoid generic "Steal An Egg" matching random fan content as developer posts.
@@ -46,9 +48,13 @@ def group(creators, records):
     for c in creators:
         matched = [(row, matches(row, c)) for row in records]
         matched = [(r, label) for r, label in matched if label]
+        matched.sort(key=lambda x: (str(x[0].get("published", "")),
+                                    str(x[0].get("title", ""))), reverse=True)
+        # Stable priority: real channel uploads first, then source mentions, then
+        # indexed leads. Within each class, newest posts first.
         matched.sort(key=lambda x: (
-            0 if "channel upload" in x[1] else 1 if "source mention" in x[1] else 2,
-            str(x[0].get("published", "")), str(x[0].get("title", ""))
+            0 if "channel upload" in x[1] else
+            1 if "source mention" in x[1] else 2
         ))
         result.append((c, matched[:MAX_ROWS], len(matched)))
     return result
