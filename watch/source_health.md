@@ -9,7 +9,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 - roblox-devforum-latest: 20
 - roblox-devforum-updates: 20
-- reddit-robloxstudio: 20
+- reddit-robloxdev: 20
 - roblox-ui-showcase: 1
 - roblox-wip-2026: 4
 - claude-news: 20
@@ -28,7 +28,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - instagram-reels: 20
 - showcase-roblox: 0
 - brock-ig: 0
-- brock-ig-reels: 18
+- brock-ig-reels: 19
 - brock-tiktok: 7
 - brock-x: 0
 - brock-youtube: 2
@@ -48,4 +48,4 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - apple-appstore-ca-games-subset: The read operation timed out
 - reddit-claudeai: HTTP 429
 - reddit-claudecode: HTTP 429
-- reddit-robloxdev: HTTP 429
+- reddit-robloxstudio: HTTP 429
