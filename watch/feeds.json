@@ -3,7 +3,7 @@
   "limits": {
     "per_source": 20,
     "max_total": 120,
-    "max_new_report": 45,
+    "max_new_report": 65,
     "timeout_seconds": 12
   },
   "feeds": [
@@ -131,6 +131,46 @@
       "id": "showcase-roblox",
       "category": "Showcase news",
       "query": "RobloxCreators X best game UI models new 2026 when:14d"
+    },
+    {
+      "id": "brock-ig",
+      "category": "Roblox creator / Steal An Egg",
+      "query": "site:instagram.com/brockkodile Steal An Egg Roblox developer when:30d"
+    },
+    {
+      "id": "brock-ig-reels",
+      "category": "Roblox creator / Steal An Egg",
+      "query": "site:instagram.com/reel/ brockkodile Roblox when:30d"
+    },
+    {
+      "id": "brock-tiktok",
+      "category": "Roblox creator / Steal An Egg",
+      "query": "site:tiktok.com/@brockodile Roblox Steal An Egg when:30d"
+    },
+    {
+      "id": "brock-x",
+      "category": "Roblox creator / Steal An Egg",
+      "query": "site:x.com/brockkodile Roblox Steal An Egg when:30d"
+    },
+    {
+      "id": "brock-youtube",
+      "category": "Roblox creator / Steal An Egg",
+      "query": "site:youtube.com/@brockkodile Steal An Egg when:30d"
+    },
+    {
+      "id": "top-dev-interviews",
+      "category": "Roblox creators / interviews",
+      "query": "Roblox developer interview Brockodile Steal An Egg game design 2026 when:30d"
+    },
+    {
+      "id": "roblox-animation-showcases",
+      "category": "Animations and VFX",
+      "query": "Roblox devlog animation VFX model UI showcase site:youtube.com 2026 when:30d"
+    },
+    {
+      "id": "creator-egg-updates",
+      "category": "Roblox updates / Steal An Egg",
+      "query": "Steal An Egg Brockodile update new mechanic October 2026 when:30d"
     }
   ],
   "youtube_channels": [
