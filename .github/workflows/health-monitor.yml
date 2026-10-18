@@ -1,0 +1,27 @@
+name: Public Roblox research bot health (no AI)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Independent, lightweight health checks every 15 minutes.
+    # GitHub scheduled executions are best-effort and may be delayed.
+    - cron: '11,26,41,56 * * * *'
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: public-research-health
+  cancel-in-progress: true
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check only the four-times-daily research workflow
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/bot_supervisor.py --monitor
