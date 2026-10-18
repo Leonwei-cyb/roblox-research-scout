@@ -11,6 +11,16 @@ Before writing another scraper, inspect these established open-source alternativ
 | [FreshRSS](https://github.com/FreshRSS/FreshRSS) | Visual feed reading, tags, retention and source organization | Self-hosted server; no built-in deep understanding of videos | Good optional human-facing dashboard if plain Markdown reports feel awkward. |
 | [Scoutpost](https://github.com/buriedsignals/scoutpost-os) | Scheduled investigative scouts of news, public profiles, webpages and social posts; evidence-linked dedup | Self-hosting; parts use OpenRouter/Gemini and Firecrawl, with service costs depending on deployment | More sophisticated research tracking, but mismatched to a zero-model, zero-cost public GitHub-only job. |
 
+## Existing media extractors and real social restrictions
+
+- **[RSSHub social-media routes](https://docs.rsshub.app/en/social-media):** includes TikTok public user feeds (`/tiktok/user/:user`) marked **strict anti-crawler/Puppeteer**, and some Instagram/X routes with authentication/cookie restrictions. A route existing in the docs is **not proof it works from GitHub Actions**, and we will not scrape accounts or store login cookies in public CI.
+- **[yt-dlp](https://github.com/yt-dlp/yt-dlp):** already includes many short-form video extractors. Supported-site listing explicitly says extractors can break as sites change. Good candidate for opt-in **metadata checks on verified PUBLIC video links**, not for circumventing access controls or automatically copying videos.
+- **[gallery-dl](https://github.com/mikf/gallery-dl):** handles many image/social sources, but X/Twitter media listings commonly need cookies. No credentials in GitHub Actions.
+- **[OpenMagpie current connectors](https://github.com/obris-dev/openmagpie):** X/YouTube/Reddit are supported; TikTok/Instagram are on its roadmap. The project warns that some X/YouTube approaches are unofficial and may need browser session cookies. Do not run it on the free public CI with a personal account cookie.
+- **[Community experience](https://www.reddit.com/r/selfhosted/comments/1sss1zl/anything_better_than_changedetectionio/):** developers report browser anti-bot challenges even with Playwright/changedetection. This is a signal to keep failure logs and avoid assuming arbitrary social sites can be scraped for free.
+
+The public bot's currently successful TikTok/Instagram/X categories are **Google News indexed headlines**, not actual complete platform feeds or watched clips.
+
 ## Adopt only measured improvements
 
 1. **Use RSSHub when native RSS is unavailable** and the route is legally accessible without credentials; label its reliability and respect publisher limits.
