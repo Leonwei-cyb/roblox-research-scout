@@ -8,6 +8,7 @@ Samples snapshots; does NOT claim to have watched every moment of a video.
 from __future__ import annotations
 import argparse
 import base64
+import hashlib
 import html
 import json
 import re
@@ -102,7 +103,9 @@ def run(video, outdir, frames, captions, model):
         raise ValueError("Trim clips larger than 1.2 GB")
     if not shutil.which("ffmpeg") or not shutil.which("ffprobe"):
         raise RuntimeError("Install ffmpeg and ffprobe on your computer")
-    folder = outdir / (re.sub(r"[^a-zA-Z0-9_.-]+", "_", video.stem)[:80] or "clip")
+    safe_name = re.sub(r"[^a-zA-Z0-9_.-]+", "_", video.name)[:65] or "clip"
+    path_id = hashlib.sha256(str(video.resolve()).encode("utf-8")).hexdigest()[:10]
+    folder = outdir / (safe_name + "_" + path_id)
     stills = capture_frames(video, folder, frames)
     notes = "NOT VERIFIED: still frames cannot establish playability, input latency, audio or game feel.\n"
     if model:
