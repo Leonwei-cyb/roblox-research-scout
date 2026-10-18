@@ -420,7 +420,9 @@
     "96f985c6e8a61e9250188cb2",
     "65512364ce90fda32756bfa4",
     "bb81fcc9f5d0757a34bbae29",
-    "8db871d74b96725cd8c2dc24"
+    "8db871d74b96725cd8c2dc24",
+    "b7ea0002fd955b0de2a019e9",
+    "2d19d8564b99734e15329068"
   ],
   "items": [
     {
@@ -818,6 +820,17 @@
       "excerpt": "Guys i need honest feedbacks on my game. pls tell me your thoughts because players arent grinding so much(%90 of players are quitting in the first 3 area) submitted by /u/StockBrick7194 [link] [comments]",
       "creator": "/u/StockBrick7194 https://www.reddit.com/user/StockBrick7194",
       "id": "b9fd1e2b47878bbe1f1b9743"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Webhook, fully typed builder module to send Discord Webhooks",
+      "url": "https://devforum.roblox.com/t/webhook-fully-typed-builder-module-to-send-discord-webhooks/4943169",
+      "published": "2026-10-18",
+      "excerpt": "Sending Discord webhooks has always been quite annoying on Roblox. There aren’t (m)any fully typed modules available, and often they don’t support the full featureset. This module supports every feature available in webhooks (except file uploading currently), will retry (once) when rate-limited , an",
+      "creator": "",
+      "id": "b7ea0002fd955b0de2a019e9"
     },
     {
       "source": "reddit-robloxdev",
@@ -1288,7 +1301,7 @@
       "title": "Whats the best way to structure a combat system?",
       "url": "https://devforum.roblox.com/t/whats-the-best-way-to-structure-a-combat-system/4943155",
       "published": "2026-10-18",
-      "excerpt": "Hey everyone, i’m curious how big games usually handle combat systems. i’m not trying to build the perfect system, i just want to understand what the professional approach looks like and how they structure everything. right now i’m using a singleton that checks which weapon the player has equipped, ",
+      "excerpt": "Hey everyone, i’m curious how big games usually handle combat systems. i’m not trying to build the perfect system, i just want to understand what the professional approach looks like and how they structure everything. right now my setup is pretty simple: the controller just sends the input, then wea",
       "creator": "",
       "id": "65512364ce90fda32756bfa4"
     },
@@ -1458,17 +1471,6 @@
       "id": "45466478cf092debfcdf17df"
     },
     {
-      "source": "x-ui",
-      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
-      "category": "UI showcases",
-      "title": "RoNews (@RoGameNews) - X",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "RoNews (@RoGameNews) X",
-      "creator": "",
-      "id": "40d410a3b4c1e9fde663c4d0"
-    },
-    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1588,6 +1590,17 @@
       "excerpt": "Hola grupo, soy estudiante de diseño y estoy buscando desarrolladores que me ayuden a responder unas preguntas para mi trabajo de investigacion sobre su proceso a la hora de crear un juego, es completamente academica y no recopila ningun tipo de dato personal, espero porfavor me colaboren submitted ",
       "creator": "/u/123Luisa123 https://www.reddit.com/user/123Luisa123",
       "id": "2d923080191c73a768834d8f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Lost Group Payout Permissions After Reporting a Payout Error",
+      "url": "https://devforum.roblox.com/t/lost-group-payout-permissions-after-reporting-a-payout-error/4943164",
+      "published": "2026-10-18",
+      "excerpt": "Hello Roblox Staff and Developers, I need help with an issue involving my group’s payout permissions. A few weeks ago, I was still able to access the group payout feature. However, whenever I tried to send a payout, I received this error message: “An error occurred while sending payments.” I took a ",
+      "creator": "",
+      "id": "2d19d8564b99734e15329068"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2071,6 +2084,17 @@
       "excerpt": "finally i figured out how to use it submitted by /u/Ir1n_ [link] [comments]",
       "creator": "/u/Ir1n_ https://www.reddit.com/user/Ir1n_",
       "id": "4598c77f1ed83bb3f27d9b5d"
+    },
+    {
+      "source": "x-ui",
+      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
+      "category": "UI showcases",
+      "title": "RoNews (@RoGameNews) - X",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
+      "published": "2026-10-17",
+      "excerpt": "RoNews (@RoGameNews) X",
+      "creator": "",
+      "id": "40d410a3b4c1e9fde663c4d0"
     },
     {
       "source": "roblox-devforum-latest",
