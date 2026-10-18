@@ -29,7 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/bot_supervisor.py --monitor
-notify-failure:
+  notify-failure:
     # Only genuine failed public research jobs, never a stale poll or temporary API outage.
     if: github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'failure'
     runs-on: ubuntu-latest
