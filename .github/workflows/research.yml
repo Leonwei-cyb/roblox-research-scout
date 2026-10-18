@@ -11,7 +11,7 @@ on:
       - 'watch/feeds.json'
       - '.github/workflows/research.yml'
   schedule:
-    - cron: '17 11 * * *'
+    - cron: '17 4,12,20 * * *'
 
 permissions:
   contents: write
