@@ -18,7 +18,7 @@ OUT = ROOT / "watch"
 
 FOCUS = {
     "Game loops / progression": ["tycoon", "simulator", "idle", "steal", "upgrade", "progression", "puzzle", "pet", "defense", "strategy"],
-    "UI / menus / effects": ["ui", "hud", "menu", "shop", "button", "interface", "tween", "effect", "vfx", "animation"],
+    "UI / menus / effects": ["ui", "hud", "menu", "shop", "button", "interface", "tween", "effects", "vfx", "animation"],
     "3D / models / environments": ["model", "blender", "texture", "building", "builds", "terrain", "mesh", "map", "scenery", "3d"],
     "Claude / automation / testing": ["claude", "mcp", "agentic", "plugin", "luau", "playtest", "automati", "github", "tool"],
 }
@@ -73,6 +73,11 @@ def choose(items, per_category=3):
             # the limited implementation-facing inspection queue.
             if u.hostname == "news.google.com":
                 continue
+            # Visual-reference queues should prefer inspectable creator videos
+            # and first-party Roblox developer discussions, not novice Reddit
+            # troubleshooting posts labeled "UI" merely due to one word.
+            if cat in {"UI / menus / effects", "3D / models / environments"} and not media_url(item["url"]) and u.hostname != "devforum.roblox.com":
+                continue
             # The title must independently establish task relevance.
             count = matches({"title": item.get("title", ""), "excerpt": ""}, terms)
             if not count:
@@ -92,7 +97,7 @@ def choose(items, per_category=3):
         seen, used_sources = set(), Counter()
         for score, item in candidates:
             src = str(item.get("source", ""))
-            if item["url"] in seen or used_sources[src] >= 3:
+            if item["url"] in seen or used_sources[src] >= 1:
                 continue
             seen.add(item["url"])
             used_sources[src] += 1

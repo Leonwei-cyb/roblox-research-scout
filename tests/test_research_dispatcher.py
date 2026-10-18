@@ -30,8 +30,8 @@ class BotTests(unittest.TestCase):
     def test_indexed_google_news_never_occupies_build_inspection_slots(self):
         rows = [
             row("Roblox UI animation", "https://news.google.com/rss/articles/abc"),
-            row("Roblox UI animation demonstration", "https://www.youtube.com/watch?v=real1"),
-            row("Roblox Studio UI controls", "https://devforum.roblox.com/t/roblox-controls/123"),
+            row("Roblox UI animation demonstration", "https://www.youtube.com/watch?v=real1", "youtube-demo"),
+            row("Roblox Studio UI controls", "https://devforum.roblox.com/t/roblox-controls/123", "roblox-forum"),
         ]
         results = m.choose(rows)["UI / menus / effects"]
         self.assertEqual(2, len(results))
@@ -39,9 +39,32 @@ class BotTests(unittest.TestCase):
         self.assertEqual("https://www.youtube.com/watch?v=real1", results[0][1]["url"])
 
     def test_small_queue_does_not_create_endless_research_backlog(self):
-        rows = [row("Roblox tycoon progress " + str(i), "https://www.youtube.com/watch?v=V" + str(i))
+        rows = [row("Roblox tycoon progress " + str(i), "https://www.youtube.com/watch?v=V" + str(i), "youtube-" + str(i))
                 for i in range(12)]
         self.assertEqual(3, len(m.choose(rows)["Game loops / progression"]))
+
+    def test_creator_is_not_allowed_to_fill_entire_daily_topic_queue(self):
+        rows = [
+            row("Steal egg tycoon gameplay first", "https://www.youtube.com/watch?v=one", "youtube-creator"),
+            row("Steal egg tycoon gameplay second", "https://www.youtube.com/watch?v=two", "youtube-creator"),
+            row("Steal egg tycoon gameplay third", "https://www.youtube.com/watch?v=three", "youtube-creator"),
+            row("Roblox tycoon build mechanics", "https://devforum.roblox.com/t/tycoon-build/222", "roblox-forum"),
+        ]
+        selections = m.choose(rows)["Game loops / progression"]
+        self.assertEqual(2, len(selections))
+        self.assertEqual(1, sum(1 for _, x in selections if x["source"] == "youtube-creator"))
+
+    def test_visual_queue_excludes_uninspected_help_and_keyword_false_positives(self):
+        rows = [
+            row("abandoning all my day 1s effective immediately",
+                "https://www.reddit.com/r/robloxgamedev/comments/10/abc", "reddit"),
+            row("Programming menu with 0 experience",
+                "https://www.reddit.com/r/ROBLOXStudio/comments/20/def", "reddit"),
+            row("Roblox UI animation showcase",
+                "https://www.youtube.com/watch?v=frame1", "youtube-demo"),
+        ]
+        titles = [x["title"] for _, x in m.choose(rows)["UI / menus / effects"]]
+        self.assertEqual(["Roblox UI animation showcase"], titles)
 
     def test_coverage_and_timing(self):
         rows=[row("Roblox gameplay", "https://www.youtube.com/watch?v=123"), row("Roblox UI", "https://news.google.com/rss/articles/abc")]
