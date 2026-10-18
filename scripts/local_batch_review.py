@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
 """Batch-process LOCAL authorized videos. No social account scraping or cloud APIs."""
 import argparse
+import hashlib
 import json
 from pathlib import Path
 from local_video_lab import run, FORMATS
 
 def signature(path):
-    stat=path.stat()
-    return str(stat.st_size)+":"+str(stat.st_mtime_ns)
+    """Hash actual clip bytes, not timestamps that can collide or be preserved."""
+    digest = hashlib.sha256()
+    with path.open("rb") as clip:
+        for chunk in iter(lambda: clip.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
 
 def pending(inbox,state,limit=2):
     files=sorted((p for p in inbox.iterdir() if p.is_file() and p.suffix.lower() in FORMATS),
