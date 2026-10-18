@@ -347,9 +347,11 @@ def run():
     for item in incoming:
         if item["url"] in old_url_ids:
             item["id"] = old_url_ids[item["url"]]
-    all_items = {r["id"]: r for r in old.get("items", [])}
+    # One source URL = one saved item, including after legacy-ID migrations.
+    # Without this, old title IDs and new URL IDs can duplicate the same post.
+    all_items = {r["url"]: r for r in old.get("items", []) if r.get("url")}
     for r in incoming:
-        all_items[r["id"]] = r
+        all_items[r["url"]] = r
     seen = set(old.get("seen", []))
     new_ids = {r["id"] for r in incoming} - seen
     ordered = sorted(all_items.values(), key=lambda r: (r["published"], r["id"]), reverse=True)[:MAX_STORED]

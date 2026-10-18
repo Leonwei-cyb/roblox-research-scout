@@ -65,6 +65,17 @@ jobs:
           fi
           if [ "$supervisor_status" -ne 0 ]; then echo "Bot health supervisor failed."; exit 1; fi
           if [ "$license_status" -ne 0 ]; then echo "Public license audit failed."; exit 1; fi
+          # A partially successful run must never be presented as all bots passing.
+          echo '### Collector outcome (public only)' >> "$GITHUB_STEP_SUMMARY"
+          echo "- GitHub repo scout exit: $github_status" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Public feeds exit: $media_status" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f watch/source_health.md ]; then
+            sed -n '1,7p' watch/source_health.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if [ "$github_status" -ne 0 ] || [ "$media_status" -ne 0 ]; then
+            echo "::warning::Partial research failure. One collector could not complete; inspect logs and source health."
+            echo '**PARTIAL FAILURE:** At least one collector could not complete.' >> "$GITHUB_STEP_SUMMARY"
+          fi
           if [ "$github_status" -ne 0 ] && [ "$media_status" -ne 0 ]; then
             echo "Both public source collectors failed."
             exit 1

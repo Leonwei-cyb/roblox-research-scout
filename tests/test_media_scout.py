@@ -157,6 +157,20 @@ class ScanTests(unittest.TestCase):
             monitor.run()
         self.assertIn("v2.2.1", monitor.BRIEF.read_text())
 
+    def test_migrated_state_removes_duplicate_saved_urls(self):
+        with patch.object(monitor, "fetch_url", return_value=ATOM):
+            monitor.run()
+            old=json.loads(monitor.STATE.read_text())
+            extra=dict(old["items"][0])
+            extra["id"]="stale-duplicate-title-id"
+            old["items"].append(extra)
+            old["seen"].append(extra["id"])
+            monitor.STATE.write_text(json.dumps(old))
+            monitor.run()
+        refreshed=json.loads(monitor.STATE.read_text())
+        urls=[r["url"] for r in refreshed["items"]]
+        self.assertEqual(len(urls),len(set(urls)))
+
     def test_rate_limited_feed_is_not_immediately_retried(self):
         def fetch(url, timeout=12):
             if "reddit.com" in url:
