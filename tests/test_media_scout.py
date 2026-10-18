@@ -51,21 +51,38 @@ class FeedParsingTests(unittest.TestCase):
         self.assertNotEqual(first[0]["id"], second[0]["id"])
 
     def test_same_url_with_changed_title_retains_legacy_seen_id(self):
-        with patch.object(monitor, "fetch_url", return_value=ATOM):
-            monitor.run()
-        existing = json.loads(monitor.STATE.read_text())
-        old_id = existing["items"][0]["id"]
-        # Simulate the prior title-hash ID format already deployed.
-        legacy_id = "legacy-title-only-digest"
-        existing["items"][0]["id"] = legacy_id
-        existing["seen"] = [legacy_id]
-        monitor.STATE.write_text(json.dumps(existing))
-        changed = ATOM.replace(b"Claude Code v2.2.0 release", b"Updated Claude Code changes")
-        with patch.object(monitor, "fetch_url", return_value=changed):
-            monitor.run()
-        result = json.loads(monitor.STATE.read_text())
-        self.assertIn(legacy_id, result["seen"])
-        self.assertNotIn("Updated Claude Code changes", monitor.BRIEF.read_text())
+        # Regression tests MUST NOT write to the real checked-in watch/ directory.
+        # Use one synthetic feed and isolated temporary state, regardless of
+        # what the research bot last collected in production.
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            cfg = root / "feeds.json"
+            cfg.write_text(json.dumps({
+                "feeds": [{"id": "claude", "label": "Claude", "category": "claude_updates",
+                           "url": "https://raw.githubusercontent.com/test.xml"}],
+                "limits": {"per_source": 3, "max_new_report": 3}
+            }), encoding="utf-8")
+            with patch.object(monitor, "CONFIG", cfg), \
+                 patch.object(monitor, "STATE", root / "media_state.json"), \
+                 patch.object(monitor, "BRIEF", root / "media_brief.md"), \
+                 patch.object(monitor, "HEALTH", root / "source_health.md"), \
+                 patch.object(monitor, "COOLDOWNS", root / "media_cooldowns.json"):
+                with patch.object(monitor, "fetch_url", return_value=ATOM):
+                    monitor.run()
+                existing = json.loads(monitor.STATE.read_text(encoding="utf-8"))
+                self.assertEqual(1, len(existing["items"]))
+                legacy_id = "legacy-title-only-digest"
+                existing["items"][0]["id"] = legacy_id
+                existing["seen"] = [legacy_id]
+                monitor.STATE.write_text(json.dumps(existing), encoding="utf-8")
+                changed = ATOM.replace(b"Claude Code v2.2.0 release",
+                                       b"Updated Claude Code changes")
+                with patch.object(monitor, "fetch_url", return_value=changed):
+                    monitor.run()
+                result = json.loads(monitor.STATE.read_text(encoding="utf-8"))
+                self.assertIn(legacy_id, result["seen"])
+                self.assertEqual([legacy_id], [item["id"] for item in result["items"]])
+                self.assertNotIn("Updated Claude Code changes", monitor.BRIEF.read_text())
 
     def test_rss_description_and_tracking_parameters(self):
         rows = monitor.parse_feed(RSS, source("forum"))
