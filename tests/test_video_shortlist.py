@@ -39,9 +39,17 @@ class VideoShortlistTests(unittest.TestCase):
 
     def test_dedup_and_community_label(self):
         row = item("Animated cat controller Roblox", "https://www.reddit.com/r/robloxgamedev/comments/abc123/title/")
-        picks = m.shortlist([row, row])
+        discussion = item("Where are the Roblox devs?", "https://www.reddit.com/r/robloxgamedev/comments/def123/title/")
+        picks = m.shortlist([row, row, discussion])
         self.assertEqual(len(picks), 1)
         self.assertIn("video not confirmed", picks[0][1])
+
+    def test_direct_video_ranks_above_community_post(self):
+        rows = [
+            item("Roblox game prototype", "https://www.reddit.com/r/robloxgamedev/comments/abc123/demo/"),
+            item("Rapid Creation with Agentic Studio", "https://www.youtube.com/watch?v=1234"),
+        ]
+        self.assertEqual(m.shortlist(rows)[0][1], "YouTube video")
 
 
 if __name__ == "__main__":
