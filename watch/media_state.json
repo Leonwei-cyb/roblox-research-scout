@@ -379,7 +379,9 @@
     "0a9c9336d5f7b2a6112262d2",
     "3bc7746cd00f06bef6b3cd0d",
     "ea2235e686815bbff9bed9a0",
-    "8c045f8d1cec65178834e383"
+    "8c045f8d1cec65178834e383",
+    "e1e7a4625adeb1239a22465c",
+    "2d923080191c73a768834d8f"
   ],
   "items": [
     {
@@ -480,6 +482,17 @@
       "excerpt": "my game has been out for 6 days and weve been running ads at 10$ a day and we have no bounce rate and no play through rate and no home recs i wanna know if its over so i dont waste money submitted by /u/This_Exercise_9243 [link] [comments]",
       "creator": "/u/This_Exercise_9243 https://www.reddit.com/user/This_Exercise_9243",
       "id": "e5797e47176f13982ff5d87f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Grass level of detail",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9bwve/grass_level_of_detail/",
+      "published": "2026-10-18",
+      "excerpt": "So I was trying to make a grassy meadow/rolling hills scene but found that far away the grass lost its \"fluffiness\", so I made this to see if I could make it more fluffy, it runs at roughly the same fps, in my DIY test I got around 65fps on normal and 64fps on my one, so its negligible. Tell me if y",
+      "creator": "/u/bob-i-stan https://www.reddit.com/user/bob-i-stan",
+      "id": "e1e7a4625adeb1239a22465c"
     },
     {
       "source": "reddit-robloxdev",
@@ -1043,11 +1056,11 @@
       "id": "6fd3b01bc7652d671d2a7bba"
     },
     {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
       "title": "How do you guys build large, natural-looking mountain maps in Roblox?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x98u1j/how_do_you_guys_build_large_naturallooking/",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x98t53/how_do_you_guys_build_large_naturallooking/",
       "published": "2026-10-18",
       "excerpt": "Hey everyone, I've been working on a Roblox game that needs a fairly large, natural-looking mountainous environment, and honestly, getting the map to look good has been one of the biggest challenges. I'm aiming for connected mountains, valleys, cliffs, overhangs, and natural transitions between area",
       "creator": "/u/itswargamer https://www.reddit.com/user/itswargamer",
@@ -1263,17 +1276,6 @@
       "id": "45466478cf092debfcdf17df"
     },
     {
-      "source": "x-models",
-      "label": "Google News indexed: site:x.com RobloxDev low poly Blender models builds when:14d",
-      "category": "3D models",
-      "title": "RoNews (@RoGameNews) - X",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "RoNews (@RoGameNews) X",
-      "creator": "",
-      "id": "40d410a3b4c1e9fde663c4d0"
-    },
-    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1360,6 +1362,17 @@
       "excerpt": "Teaser for my Port of TF2 to Roblox! submitted by /u/Bapai12 [link] [comments]",
       "creator": "/u/Bapai12 https://www.reddit.com/user/Bapai12",
       "id": "2e7b0ad58037a9a8131e9519"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Ayuda con una encuesta para desarrolladores de roblox",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9bsie/ayuda_con_una_encuesta_para_desarrolladores_de/",
+      "published": "2026-10-18",
+      "excerpt": "Hola grupo, soy estudiante de diseño y estoy buscando desarrolladores que me ayuden a responder unas preguntas para mi trabajo de investigacion sobre su proceso a la hora de crear un juego, es completamente academica y no recopila ningun tipo de dato personal, espero porfavor me colaboren submitted ",
+      "creator": "/u/123Luisa123 https://www.reddit.com/user/123Luisa123",
+      "id": "2d923080191c73a768834d8f"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1810,6 +1823,17 @@
       "excerpt": "finally i figured out how to use it submitted by /u/Ir1n_ [link] [comments]",
       "creator": "/u/Ir1n_ https://www.reddit.com/user/Ir1n_",
       "id": "4598c77f1ed83bb3f27d9b5d"
+    },
+    {
+      "source": "x-ui",
+      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
+      "category": "UI showcases",
+      "title": "RoNews (@RoGameNews) - X",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
+      "published": "2026-10-17",
+      "excerpt": "RoNews (@RoGameNews) X",
+      "creator": "",
+      "id": "40d410a3b4c1e9fde663c4d0"
     },
     {
       "source": "roblox-devforum-latest",
