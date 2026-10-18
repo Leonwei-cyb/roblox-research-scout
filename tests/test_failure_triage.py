@@ -27,6 +27,12 @@ class FailureTests(unittest.TestCase):
         self.assertIn("reddit-one",m.deferred(source_health.replace("\\n","\n")))
         self.assertIn("cooling down",m.render(deferred,{"reddit-one":"HTTP 429"}))
 
+    def test_prior_untracked_cooldown_is_not_hidden(self):
+        state=m.next_state({}, {}, {"reddit-one":"HTTP 429"})
+        self.assertIn("reddit-one",state)
+        self.assertEqual(state["reddit-one"]["streak"],0)
+        self.assertIn("cooling down",m.render(state,{"reddit-one":"HTTP 429"}))
+
     def test_respect_rate_limit(self):
         r=m.render({"redd": {"reason":"HTTP 429","streak":3}})
         self.assertIn("reduce frequency",r)

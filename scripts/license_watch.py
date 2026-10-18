@@ -13,7 +13,7 @@ CONFIG=ROOT/"watch/config.json"
 OUT=ROOT/"watch/license_audit.md"
 API="https://api.github.com"
 
-def watched_repos(config, limit=12):
+def watched_repos(config, limit=20):
     out=[]
     for name in config.get("watch_repos", []):
         if re.fullmatch(r"[A-Za-z0-9-]+/[A-Za-z0-9_.-]+", str(name)) and name not in out:

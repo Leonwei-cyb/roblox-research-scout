@@ -11,6 +11,10 @@ class LicenseTests(unittest.TestCase):
     def test_safe_repo_names(self):
         x={"watch_repos":["Roblox/luau","evil.com/a","dev/studio","Roblox/luau","bad/../url"]}
         self.assertEqual(m.watched_repos(x),["Roblox/luau","dev/studio"])
+    def test_covers_all_current_monitored_public_repos(self):
+        config={"watch_repos":["owner/repo"+str(i) for i in range(17)]}
+        self.assertEqual(len(m.watched_repos(config)),17)
+
     def test_license_caution(self):
         self.assertIn("do NOT copy",m.license_label({"license":None}))
         self.assertIn("copyleft",m.license_label({"license":{"spdx_id":"GPL-3.0"}}))

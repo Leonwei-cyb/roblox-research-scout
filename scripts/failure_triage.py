@@ -48,8 +48,10 @@ def next_state(previous, current, deferred_sources=None):
     state = {k: {"reason":v, "streak": int(previous.get(k,{}).get("streak",0)) + 1}
              for k,v in current.items()}
     for k,reason in deferred_sources.items():
-        if k not in state and k in previous:
-            state[k] = previous[k]
+        if k not in state:
+            # Historical cooldowns may exist before this streak tracker was
+            # installed. Preserve their visibility with an unknown count (0).
+            state[k] = previous.get(k, {"reason":reason, "streak":0})
     return state
 
 def render(state, deferred_sources=None):
@@ -58,7 +60,7 @@ def render(state, deferred_sources=None):
         "Counts only attempted feed failures. Deferred rate-limited sources retain their previous failure count until actually retried.", "",
         "| Source | Consecutive observed failures | What to do |", "|---|---:|---|"]
     if not state:
-        lines.append("| None | 0 | No feed-level failure in latest scan. |")
+        lines.append("| None | 0 | No feed-level failure or active cooldown in latest scan. |")
     for name, info in sorted(state.items(), key=lambda x:(-x[1]["streak"],x[0])):
         reason = info["reason"]
         deferred_label = " [cooling down — not retried]" if name in deferred_sources else ""
