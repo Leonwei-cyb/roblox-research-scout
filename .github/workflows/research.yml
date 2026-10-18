@@ -58,5 +58,21 @@ jobs:
             echo 'No changed public report.'
           else
             git commit -m 'Refresh public research leads'
-            git push
+            # The owner may edit config while this run is gathering feeds.
+            # Rebase the REPORT-ONLY commit onto the latest main; never force-push.
+            for try in 1 2 3; do
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort
+                echo 'Report conflicts with newer source; next scheduled run will retry.'
+                exit 0
+              fi
+              if git push origin HEAD:main; then
+                echo 'Research reports committed.'
+                exit 0
+              fi
+              sleep 2
+            done
+            echo 'Concurrent update; next scheduled run will retry without force-pushing.'
+            exit 0
           fi
