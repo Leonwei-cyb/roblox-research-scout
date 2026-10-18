@@ -124,7 +124,8 @@ def parse_feed(xml_bytes, source, limit=20):
             "source": source["id"], "label": source["label"],
             "category": source["category"], "title": title[:200],
             "url": link, "published": published,
-            "excerpt": description[:300]
+            "excerpt": description[:300],
+            "creator": ctext(item, ["author"])[:120]
         }
         record["id"] = make_id(record)
         records.append(record)
