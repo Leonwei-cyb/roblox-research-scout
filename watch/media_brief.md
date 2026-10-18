@@ -7,96 +7,95 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Instagram Indexed Leads
 
-- **[We NEED to talk about the Halloween update Each and every Subway Surfers update, we run you through the latest and greatest content in the game! In this episode](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRRlRqcWU0NUhWNXBMRkZodUVPVmNGdU1WbkY5ejI3YkN0Y2x0SGV4SEFaZmZkcktlaUl5Ni1MdGVpUEhURWp5SXE2SFdOVDFhVDdMeFJ3?oc=5)** · Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14 · 2026-10-05
-  - Feed excerpt: We NEED to talk about the Halloween update Each and every Subway Surfers update, we run you through the latest and greatest content in the game! In this episode, we’re running through what’s new in the Subway Surfers Transylvania update! #s
-- **[Join the masterclass and prepare yourself for the AI Uprising.🤖 Build your game. Contain the chaos! 📅 October 9th, Friday 🕓8:30pm IST 📍Discord Link in bio🔗 #Jab](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BdTdwZDF3OTB5bl9rUUZxZmVKOUU1QnpvRWZxdjBkRDc1RS1tQnJ3UWd1bENWMzAxRUR5UWtOR2pEd09FNW11b0RhOW1MTGs5SDNVc2JB?oc=5)** · Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14 · 2026-10-07
-  - Feed excerpt: Join the masterclass and prepare yourself for the AI Uprising.🤖 Build your game. Contain the chaos! 📅 October 9th, Friday 🕓8:30pm IST 📍Discord Link in bio🔗 #Jabali #gamejam #gamedev #gamedesign #indiegame Instagram
-- **[#Roblox just revealed a HALLOWEEN EVENT coming soon! 🎃👻 (The Hollow) - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zRnB6OVJlUEhBTlBTVmp5ZUkwMmhDUXhLRnA3NFRZcEdqdVBPQkJOam4zYTdJOVZZUFloUHNPWjRZWTFZaXZ3ODZVQ0ROMGRWa24tM2l3?oc=5)** · Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14 · 2026-10-12
-  - Feed excerpt: #Roblox just revealed a HALLOWEEN EVENT coming soon! 🎃👻 (The Hollow) Instagram
+- **[I Asked ChatGPT to Make a Minecraft House… 😂 ChatGPT vs WBuilds! #Minecraft #MinecraftBuilds #MinecraftHouse #ChatGPT #GPT6 - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WSk0tQ3B0bmgzSmxVVnNVa3UtVTJuXzV5YUNVVGRQbXlBOS1EeG5XeWo1aE42UEYzUjA4V204ZmhyUlFSbWN0Q0F6cHpBZ1hqMXZyYnVB?oc=5)** · Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14 · 2026-10-08
+  - Feed excerpt: I Asked ChatGPT to Make a Minecraft House… 😂 ChatGPT vs WBuilds! #Minecraft #MinecraftBuilds #MinecraftHouse #ChatGPT #GPT6 Instagram
 
-## Roblox Creator / Ai Development
+## Roblox Build / 3D Examples
 
-- **[สอนเขียน Script Roblox ด้วยAI \| EP.1 - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9faHhtQmV5czFnNEVLdXI4enpCTExiWkY5NGNxU3dpT0xCeG5nZVd3OUk0RGhGR3ZMeC1kUEw4UlZoT2s4RE5sSFR3aHZjYWFnbHdhUThn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-21
-  - Feed excerpt: สอนเขียน Script Roblox ด้วยAI \| EP.1 YouTube
-- **[I'M MAKING A ROBLOX GAME WITHOUT AI. - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE45Q0l1MzU5dGp6YjdxeEdPNzRZNVp3UlV6QUJteVZnUE1VX3NsVVVLeE51SlNldWRBcVBGY3Q2YjJlRmd2SFpkaDFaOFhoNkVYc3RFcGxn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-12
-  - Feed excerpt: I'M MAKING A ROBLOX GAME WITHOUT AI. YouTube
+- **[I Made 4 Roblox Games in 12 Hours with This AI..](https://www.youtube.com/watch?v=CqURW0YPo4A)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-18
 
 ## Roblox Creator / Steal An Egg
 
-- **[Admin Treadmill in Steal an Egg #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE9CM1pIYmlKYjVoVGlfSG9aNXdGc05ocGNqeWFra2hFd2ZKQUxuY3VsNThpZUU1cld4Snh3bDdISm01UExScU1GVEZkMDBjZGFjQ2gzZEpiRnMzMEt2a0hnYm5YLXVGanUwUDl4Zg?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-13
-  - Feed excerpt: Admin Treadmill in Steal an Egg #roblox #stealanegg TikTok
+- **[What Pet would you use the Star on? 🦁 #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aVN5Wnk5dVpmN21fV01kMFUxMThDUmMzTGxsTmduNHctWWNCNGI3dWpuN2NQLXNPODBGNkJINTN4OEEyVHc5LUExRk8zUUx5SkNLZnFGZGRxM1ZKOFoyU05aNXF5Y2V1VnpCNA?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-11
+  - Feed excerpt: What Pet would you use the Star on? 🦁 #roblox #stealanegg TikTok
 
 ## Tiktok Indexed Leads
 
-- **[Get A Grip released! btw console support is added #getagrip #roblox #robloxstudio #surf #robloxmemes - TikTok](https://news.google.com/rss/articles/CBMic0FVX3lxTE1JX0J3OFlkYk9tLWJtYURHYkpod0RXVTBENjJoYU1vR2dGUzQ1dlN4UTY2V2hjc2pON0ViQVpqR0ZUWHM2N1FkcFU0VUhvd29yZDlsdzFGT245TDhZVHg2ZzkwTVhWZmZZdjB1ZDBHMHVsR2s?oc=5)** · Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase  · 2026-10-14
-  - Feed excerpt: Get A Grip released! btw console support is added #getagrip #roblox #robloxstudio #surf #robloxmemes TikTok
-- **[Mahito's Idle transfiguration is NOT the highest damage move in JJS \| 120fps 1080P \| video might lag for some mobile device \| #jjs #jujutsushenanigans #roblox #](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KZ2J3M3lWUGhOUUZQdlZodHEyZlNTWk1MUmszaXljc21ZLWE3TVkxRVJ0TEtsWkFnTFpGU2R4ck8zbGpYZGUzX2FpZU9meWdxTWcwLS1kUTVYczhmU2R0MWxIWGhHR2dqWk1oUg?oc=5)** · Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase  · 2026-10-17
-  - Feed excerpt: Mahito's Idle transfiguration is NOT the highest damage move in JJS \| 120fps 1080P \| video might lag for some mobile device \| #jjs #jujutsushenanigans #roblox #idletransfiguration TikTok
+- **[i love coca cola ✌️🥹 #motiongraphics #aftereffects #cocacola - TikTok](https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSmg2YVdWTFRjNk5ucVd3UDk2UEwtd2FMaGxwc2xzakdsN1F2cGJBQ2lmbXd1VWw4bjVIdnZnT0wxWmt5bDlKaGYtMF9XbUtueG1lb2F1WHpTTXdKaTd6WDJ3QUpNaWJiOFN3?oc=5)** · Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase  · 2026-10-16
+  - Feed excerpt: i love coca cola ✌️🥹 #motiongraphics #aftereffects #cocacola TikTok
 
 ## Claude Updates
 
-- **[Claude Code Plugins Go Official at v2.1.302 \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlFvSEladUVkZFRkUmY4ZUJENGNSclF1ejRENThnYU9FS291c243clpHTlNpNHloemREeHJVSm9QSE9wRDU0UXZ1eEhKNnlheFNEeHFrM2MwdkJxc1ZuNzV0MjZYN2xBWG1SZXk0RmtsWldlbzZQOVhTOTBSSUplNW1jMHRkUQ?oc=5)** · Google News indexed: Claude Code new feature plugin update when:7d · 2026-10-18
-  - Feed excerpt: Claude Code Plugins Go Official at v2.1.302 \[2026\] https://tech-insider.org/
+- **[Multiple Active Directory Vulnerabilities Let Attackers Bypass Security Feature Remotely - CyberSecurityNews](https://news.google.com/rss/articles/CBMifEFVX3lxTE90OTB1cTU0ZFNXODVDdm1hR1h6X2xhWjdKN3ZkaVFBbW1rdkpGbnVWLVJkMmJMdTdZNmxmN3c0by1MRzhPR3IzVUZPaGFjVkliZU9JOFNWdHpVbjFFNGhqaC1aWWF4a1V6QXZ3TG1BVk56Y215MW1qTzZjZEzSAYIBQVVfeXFMTkpES1hCVHpjLUVaQTFOTGNGaWVfWDlCamhGZE8tcDlrY2plTFMyXzFrUWpMN3V0YzZfZmNJaE1jWWJFejlsQXp2emlINTN6NXVWVkt2VTR1Y1BnOWQ3MFkzNGFjMzhjRnJKYVlUUUZ)** · Google News indexed: Claude Code new feature plugin update when:7d · 2026-10-15
+  - Feed excerpt: Multiple Active Directory Vulnerabilities Let Attackers Bypass Security Feature Remotely CyberSecurityNews
+- **[JetBrains Air EAP Hits 5 IDEs, Orchestrates AI Agents - https://tech-insider.org/](https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5)** · Google News indexed: Claude Code new feature plugin update when:7d · 2026-10-18
+  - Feed excerpt: JetBrains Air EAP Hits 5 IDEs, Orchestrates AI Agents https://tech-insider.org/
+- **[Microsoft Ships .NET 11 RC2, C# 15, dotnetup Tool \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMid0FVX3lxTE9qeVdqcmZ3LVc2Zy1NZmpSc29od0QxRW9sTUpQcjNoWG0zaVNZWWhaYkl2TFk1Y0FXN1lxaDZMXzd5b0ZPY3UyalVBVFhIdWFjazhWdUFpTTFzWi1lTEdSS21DSENIaHdIRWVmcC0wcUk4RnAwM2hZ?oc=5)** · Google News indexed: Claude Code new feature plugin update when:7d · 2026-10-18
+  - Feed excerpt: Microsoft Ships .NET 11 RC2, C# 15, dotnetup Tool \[2026\] https://tech-insider.org/
 
 ## Community
 
-- **[How can I delete an avatar item that I created?](https://www.reddit.com/r/ROBLOXStudio/comments/1x8zily/how_can_i_delete_an_avatar_item_that_i_created/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: So I made a classic T-shirt around 2-3 years ago and I wanna delete it, but I cant find any options to. I've checked roblox studio and found nothing and only an option to 'archive' it, but I dont want to archive something, I just want that 
-- **[How can you come up with an idea for your Roblox game that you won’t end up abandoning the very next day?](https://www.reddit.com/r/ROBLOXStudio/comments/1x93c1e/how_can_you_come_up_with_an_idea_for_your_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: Every single day, new ideas might pop into my head. I might even write them down somewhere so I don’t forget. Sometimes, an idea seems so brilliant that, instead of working on it, I set it aside for the next day—wandering around the house, 
-- **[How could You create a Game that Goes viral (+1Speed)](https://www.reddit.com/r/ROBLOXStudio/comments/1x91lim/how_could_you_create_a_game_that_goes_viral_1speed/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: Look at how +1 Keyboard Escape went viral. Its core gameplay was identical to hundreds, if not thousands, of other +1 Speed 'Escape' games with stages, treadmills, and the same underlying systems. However, it had one completely unique featu
-- **[Looking for volunteers to test game and paying Robux if you give feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1x95m70/looking_for_volunteers_to_test_game_and_paying/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: Drive a train for brainrot https://www.roblox.com/share?code=981a2b53eeaf18458515171322fe8e66&type=ExperienceDetails&stamp=1792336172001 submitted by /u/Hempflowerroaster \[link\] \[comments\]
-- **[Question about Robux transfers](https://www.reddit.com/r/ROBLOXStudio/comments/1x904zg/question_about_robux_transfers/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: PromptRobuxTransferAsync returns a transfer request ID even when the player dismisses the Send Robux prompt without paying. Is there a supported server-side cancellation event or status API that distinguishes cancellation from delayed payme
-- **[What do you think of my game? Give it a play.](https://www.reddit.com/r/ROBLOXStudio/comments/1x900n4/what_do_you_think_of_my_game_give_it_a_play/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: Link to access the game: \[ https://www.roblox.com/es/games/73782801025661/CRIMINAL-CITY\\\](https://www.roblox.com/es/games/73782801025661/CRIMINAL-CITY) CRIMINAL CITY is an open-world game set in a crime-ridden environment on Roblox, where y
-- **[What do you think of my game? Give it a try—the link is in the description:](https://www.reddit.com/r/ROBLOXStudio/comments/1x91rt4/what_do_you_think_of_my_game_give_it_a_trythe/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: link: https://www.roblox.com/es/games/73782801025661/CRIMINAL-CITY In the city, you can earn money by robbing jewelry stores, museums, casinos, ATMs, and more. Each type of heist requires specific tools to break through doors and access the
-- **[Would you play this?](https://www.reddit.com/r/ROBLOXStudio/comments/1x931zx/would_you_play_this/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: Tell me your frank opinion. submitted by /u/kovalcix_ \[link\] \[comments\]
-- **[Wow it’s some talented devs here, almost didn’t post](https://www.reddit.com/r/ROBLOXStudio/comments/1x95co2/wow_its_some_talented_devs_here_almost_didnt_post/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-18
-  - Feed excerpt: submitted by /u/Hempflowerroaster \[link\] \[comments\]
+- **[Is it possible to port games over to roblox using Artificial Intelligence](https://www.reddit.com/r/robloxgamedev/comments/1x96oir/is_it_possible_to_port_games_over_to_roblox_using/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Hey everyone, I am the owner of a a mobile game studio and we were looking at releasing our games on roblox for more brand awareness/recognition, but after looking at the time and money it would take for our team to release all of our games
+- **[\[Unpaid\] Looking for Volunteer Play testers for My Roblox Sword Battlegrounds Game](https://www.reddit.com/r/robloxgamedev/comments/1x93sgg/unpaid_looking_for_volunteer_play_testers_for_my/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Hey everyone! I'm a solo Roblox developer looking for a few volunteer playtesters for my sword-based battlegrounds game. It's a 10-player free-for-all featuring sword combos, blocking, dashing, and special abilities. I'm looking for PC and 
+- **[small updateee fore my game](https://www.reddit.com/r/robloxgamedev/comments/1x96aix/small_updateee_fore_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Escape the Update - small dev update! Hey! I've been working on my Roblox game Escape the Update again and made some progress :) I've been fixing and improving the inventory and started connecting it properly with the class shop, class skin
+- **[How do I make animations on my Rig Play?](https://www.reddit.com/r/robloxgamedev/comments/1x967xj/how_do_i_make_animations_on_my_rig_play/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: I made this rig for a game I wanted to try and make, but the problem is I don't know much about scripting... So I mainly use advice online like from the dev forum or videos, so far I got the starter character to actually work, and I fixed a
+- **[How do you guys build large, natural-looking mountain maps in Roblox?](https://www.reddit.com/r/robloxgamedev/comments/1x98t53/how_do_you_guys_build_large_naturallooking/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Hey everyone, I've been working on a Roblox game that needs a fairly large, natural-looking mountainous environment, and honestly, getting the map to look good has been one of the biggest challenges. I'm aiming for connected mountains, vall
+- **[I made an Inbox System for my Roblox game what do you think?](https://www.reddit.com/r/robloxgamedev/comments/1x997ta/i_made_an_inbox_system_for_my_roblox_game_what_do/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Hey everyone I've been working on a custom inbox system for my Roblox game and wanted to share it here to get some feedback. It has a few different tabs for all messages unread messages warnings and gifts I also added a clear all option mes
+- **[I made my first Roblox game for my son and his friends: Pickle Dash 🥒 (looking for feedback + a little help)](https://www.reddit.com/r/robloxgamedev/comments/1x98h20/i_made_my_first_roblox_game_for_my_son_and_his/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Hey everyone! I’m a dad who just finished my first Roblox game. I built it for my son and his friends, who’ve been begging me to make “a pickle racing game,” so here we are. Pickle Dash is a race across a giant kitchen table. You dodge obst
+- **[Im an Upcoming Roblox Game dev](https://www.reddit.com/r/robloxgamedev/comments/1x905hs/im_an_upcoming_roblox_game_dev/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: I have created an Roblox server where i showcase more of my work. This server serves as a platform to showcase the work my team and I do in developing Roblox games. Here, we share development progress, project updates, gameplay previews, up
+- **[JOIN THE GAME PLS](https://www.reddit.com/r/robloxgamedev/comments/1x98ub7/join_the_game_pls/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: 🪩🌴 WELCOME TO COCONOUT CLUB! 🌴🪩 🔥 Ready to party? Welcome to COCONOUT CLUB, your next Roblox party destination! 🎧💜 🎶 Music & DJ 💃 Dance moves & emotes 🎮 Events & minigames 👑 VIP area 🌟 Good vibes and fun with other players! ✨ Come hang out,
+- **[Looking for animators](https://www.reddit.com/r/robloxgamedev/comments/1x96ml3/looking_for_animators/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Hey! My name is Devin and I'm currently working on making/reviving a battlegrounds game based on Chainsaw Man (The anime) and the game that youtuber LeehamsonTheThird was working on a year ago but canceled the project. If you are a talented
+- **[PS5 on Roblox (Remake)](https://www.reddit.com/r/robloxgamedev/comments/1x993ji/ps5_on_roblox_remake/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Hi everyone, This is the PS5 remade on Roblox; it's still in beta, and you can see it has most of the accurate icons on it. It doesn't show everything because some parts are still unfinished, so I can't even show y'all it. It has some featu
+- **[Spectate system so far](https://www.reddit.com/r/robloxgamedev/comments/1x99iyn/spectate_system_so_far/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: Ai assisted, thoughts? Xd submitted by /u/boti01 \[link\] \[comments\]
+- **[que opinas de mi juego? juegalo,el link está en la descripción:](https://www.reddit.com/r/robloxgamedev/comments/1x91f0y/que_opinas_de_mi_juego_juegaloel_link_está_en_la/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: link para entrar al juego: https://www.roblox.com/es/games/73782801025661/CRIMINAL-CITY la ciudad consigues dinero robando joyerías,museo,casinos,cajeros y mas robos,cada robo con herramientas diferentes para destruir puertas para asi acced
+- **[what type of game to make](https://www.reddit.com/r/robloxgamedev/comments/1x979u7/what_type_of_game_to_make/)** · Reddit r/robloxgamedev public RSS · 2026-10-18
+  - Feed excerpt: i want to make a cash grab, which type of game should it be? submitted by /u/DigSubstantial5025 \[link\] \[comments\]
 
 ## Instagram Index
 
-- **[Creating games on Roblox has become a legitimate way for independent developers to earn money, with some creators generating thousands of dollars from relativel](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iU1NRTnRPZm9LODg4ajFpa2R5VXhOdFd1bEFqVzc4a1hZTnphU0VnY3NYR2Y5SVA1NlZ5cEQwMEQ5Z2pxanEwZXBkNnZTcmZscWc?oc=5)** · Google News indexed: site:instagram.com Roblox Studio game development when:7d · 2026-10-16
-  - Feed excerpt: Creating games on Roblox has become a legitimate way for independent developers to earn money, with some creators generating thousands of dollars from relatively simple games. Using Roblox Studio, developers can build and publish their own 
-- **[Today, our Game Production students explored Agile methodologies, Scrum and Kanban with Mikhail Shmakov. We are now in full-speed preparations for the productio](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFWjJyRVJrdVJwaVdXR3RyUllRbHEzcHVPbW15UzJlc3oyV3cyWTBFY1dBMW9DOHVkUFd0RDcyd2xuTE5DX3pSbW4zSWRLUHZfTlE?oc=5)** · Google News indexed: site:instagram.com Roblox Studio game development when:7d · 2026-10-14
-  - Feed excerpt: Today, our Game Production students explored Agile methodologies, Scrum and Kanban with Mikhail Shmakov. We are now in full-speed preparations for the production of Game Project 1, the first real-life scenario in which our producers will gu
-- **[Them boys ain’t playing this year 😭 #roblox #robloxgames #gaming #fyp #new - Instagram](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcE5rT080ZUNRUHFNUVcwME1EVHBxLUl5TndGVG9FdEdEMzZSMFhrdHBhV0xYLVNDNGF5LUhHeUVRQlBvQVVtUUx6YURCREV4TlJUb2ZFdkpIdw?oc=5)** · Google News indexed: site:instagram.com Roblox Studio game development when:7d · 2026-10-17
-  - Feed excerpt: Them boys ain’t playing this year 😭 #roblox #robloxgames #gaming #fyp #new Instagram
+- **[We’re happy to welcome @skyro.ai as a partner of Game Days 2026! 🎮 With a fresh approach to education, Skyro empowers students to learn through practice, develo](https://news.google.com/rss/articles/CBMiUkFVX3lxTE40ZEpCQ0RaMmE1UXc4eTB3VXVyQkFaM2NDRm93dWRXN0NJVEkyQlhFSHFzSWhyM0tBWS1VdGt3LVJsUkpoVmhseWVlMDlZeWdQZ1E?oc=5)** · Google News indexed: site:instagram.com Roblox Studio game development when:7d · 2026-10-12
+  - Feed excerpt: We’re happy to welcome @skyro.ai as a partner of Game Days 2026! 🎮 With a fresh approach to education, Skyro empowers students to learn through practice, develop their skills and prepare for the challenges of tomorrow. Because the future of
+- **[🌍🏞️Four Environments, One World! Excited to share a terrain project I created as a test task at @elytrastudios.official ! 🎮 This was my second time using the Ro](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pQ0RTV043XzhvVERESVNvMUlKYVpRWEtuOG9MX3hRTEdyeXJMYm0xaDl5bEpuLXVDdWFWdE9ySFNqd0ZsenRJZk5DVm9MVUdNb1l1X1F1M19NdEg5ZFE?oc=5)** · Google News indexed: site:instagram.com Roblox Studio game development when:7d · 2026-10-13
+  - Feed excerpt: 🌍🏞️Four Environments, One World! Excited to share a terrain project I created as a test task at @elytrastudios.official ! 🎮 This was my second time using the Roblox Terrain System, and I learned so much while creating these different landsc
+- **[This Roblox Game Has a REAL iPad?! 📱 - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZVRqT3VqTnFBYW4wWFFQWGxHYWtNbFVndVk5dWNzWHQtQk9SaFh2ZjFpZVI0Y2xwTmI3cVMxTllkalMzWVRfUHM4d3hLdDBfY1RtZVFn?oc=5)** · Google News indexed: site:instagram.com Roblox Studio game development when:7d · 2026-10-18
+  - Feed excerpt: This Roblox Game Has a REAL iPad?! 📱 Instagram
 
 ## Roblox Updates
 
-- **[Undead At World Wars](https://devforum.roblox.com/t/undead-at-world-wars/4942041)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Hello, this is a project that I’ve been working on for a while and I most definitely cannot continue as much as I’d like to since I’m an adult but.. here is my kind of semi-final version if it were to release. The FPS framework I’ve rewritt
-- **[Auto head correction with any body type](https://devforum.roblox.com/t/auto-head-correction-with-any-body-type/4941942)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Hallo roblox lovely Community. would love to share this idea with you starting with the issue : most heads in store don’t fit any body type you buy in store Example image of the issue The solution : Auto head correction with body type : Thi
-- **[Custom ladder system](https://devforum.roblox.com/t/custom-ladder-system/4942226)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: custom ladders + root motion 🦢 2 posts - 2 participants Read full topic
-- **[DevEx Tax french minor without a TIN](https://devforum.roblox.com/t/devex-tax-french-minor-without-a-tin/4942138)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Hello! I’m a 15 year old Roblox developer and a French tax resident, i’m trying to complete the new DevEx tax documentation before October 31st but I don’t have a french tax identification number (TIN) because I’ve never filed a tax return.
-- **[Feedback on my new animation pack](https://devforum.roblox.com/t/feedback-on-my-new-animation-pack/4941961)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: I just finished making my new animation pack I was inspired by the character N from Murder Drones. I tried to capture his personality through these animations. I hope it turned out well. Roblox N Murder Drones Cute Animated Pack Customize y
-- **[Home Recommendation impressions stuck at ~45% of previous level for 5 weeks, despite recovered signals (Universe 9150731899)](https://devforum.roblox.com/t/home-recommendation-impressions-stuck-at-45-of-previous-level-for-5-weeks-despite-recovered-signals-universe-9150731899/4942423)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Hi everyone, I run PRISON RP (Universe ID 9150731899 ), a prison roleplay experience. Since mid-September, our Home Recommendation impressions dropped by more than half and have not recovered, even though our recommendation signals are back
-- **[My custom rig wont rotate](https://devforum.roblox.com/t/my-custom-rig-wont-rotate/4942034)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: What do you want to achieve? i want so my custom rig to rotate as it used to be here’s and old clip What is the issue? it wont rotate What solutions have you tried so far? i tried to turn autorotate off and on, didn’t work, made the union a
-- **[Some notes on using the Assistant better ( P: )](https://devforum.roblox.com/t/some-notes-on-using-the-assistant-better-p/4941925)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: Whoah , someone has the cahones to post a pro-AI post here? So, first off, I’ve really been enjoying having some free access to the Roblox Assistant, it makes the cut they take seem a bit more worth it, but overall, it’s been a really posit
-- **[Verified icon in-game looks weird](https://devforum.roblox.com/t/verified-icon-in-game-looks-weird/4941933)** · Roblox Developer Forum latest · 2026-10-18
-  - Feed excerpt: I selected a verified player in the playerlist and the verified icon is too large. Expected behavior The verified icon should be small and look appropriate. 3 posts - 3 participants Read full topic
+- **[Roblox Insights — How to Compare Performance, Errors, and Retention After an Update](https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: Roblox Insights — How to Compare Performance, Errors, and Retention After an Update Hi everyone! I created Roblox Insights to collect experience data into reports we can read, share with a team, or give to an AI assistant to help investigat
+- **[Roblox Studio Unable to Open Any Places After Logging Out of All Sessions](https://devforum.roblox.com/t/roblox-studio-unable-to-open-any-places-after-logging-out-of-all-sessions/4942711)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: After I used the Roblox website’s “Log Out of All Sessions” feature, Roblox Studio stopped letting me open my places. Whenever I try to open a place, I receive the following error: We could not open the place \[79901653195370\]. Failed to fet
+- **[Ability to non-interactively login to Studio](https://devforum.roblox.com/t/ability-to-non-interactively-login-to-studio/4942707)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: As a Roblox developer, I want to be able to fully develop my game from my phone with the full power of Studio. This means using a agent harness like T3 so I can manage multiple remote sessions concurrently and have each develop the game, op
+- **[EU servers become extremely difficult to obtain during weekend peak hours](https://devforum.roblox.com/t/eu-servers-become-extremely-difficult-to-obtain-during-weekend-peak-hours/4942461)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: Every Friday through Sunday, particularly around 16:00 CET/CEST (German local time) and during peak playing hours, it becomes extremely difficult to get a Roblox game server located in Europe. Instead, newly created servers frequently place
+- **[False positive moderation: experience flagged for TextChatService / UGC filtering while fully compliant](https://devforum.roblox.com/t/false-positive-moderation-experience-flagged-for-textchatservice-ugc-filtering-while-fully-compliant/4942626)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: Our experiences keep getting restricted for “unfiltered content / TextChatService / custom chat / UGC text,” even though all chat and UGC text surfaces are already compliant in the latest published versions. Automated review appears to be f
+- **[Need help and advise with advertising + testing, first time releasing a "serious" game](https://devforum.roblox.com/t/need-help-and-advise-with-advertising-testing-first-time-releasing-a-serious-game/4942768)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: hey there I’ve been making this game for quite a bit and I’ll be done with it soon link: EAT or DIE: Deluxe \| Play on Roblox and I have 3 concerns: testing : I still need a bit of testing so would appreciate a lot if you play the game and p
+- **[UGC Moderation not affecting groups with 10+ terminated uploaders for violating ToS](https://devforum.roblox.com/t/ugc-moderation-not-affecting-groups-with-10-terminated-uploaders-for-violating-tos/4942701)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: This group: Velvet Hub - Roblox uploads like 100+ slop UGC items & AI-recreations of stolen content over and over. Most of their “uploader” accounts got deleted, most likely due to Violating ToS. Their group is still up despite Violating Ca
+- **[Voice Chat not appearing ingame although enabled in Communication Settings](https://devforum.roblox.com/t/voice-chat-not-appearing-ingame-although-enabled-in-communication-settings/4942685)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: Hi! I’ve enabled Voice Chat on my game’s communication settings, aswell as turning on EnableDefaultVoice in VoiceChatService, however nothing is appearing in the top corner ingame.. Any ideas? Thanks! 1 post - 1 participant Read full topic
 
 ## Youtube Index
 
-- **[LM Studio Latest Version Free Download 2025 - YouTube](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hdk1VeFh0TlZNUXpnN1pLaTVVQ0ZLZ1VDb2lqMU9BVjBPcnRJVHpUZDkyNjNQbFVNVnFOQy0tZ1JLekMtY0tGMWRxT2NMa2NrQkFVYV9KUWd0Q1N6WjF5bg?oc=5)** · Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial whe · 2026-10-12
-  - Feed excerpt: LM Studio Latest Version Free Download 2025 YouTube
-- **[Devin AI Latest Version Free Download 2026 - YouTube](https://news.google.com/rss/articles/CBMiYEFVX3lxTE02XzdiTkU4RG1WWV9wdmlHeEFQd2ZkUWhyRGhrM2lCTURJa1p0eWd1SVZVQWw1ck5LOGRIVE5FZ1djTFgyVnF2di1mUEVpUDRZX1JIdFczNHhsdmxSRU1PRA?oc=5)** · Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial whe · 2026-10-15
-  - Feed excerpt: Devin AI Latest Version Free Download 2026 YouTube
-- **[BGMI LIVE: ONLY CHICKEN DINNER CHALLENGE! 🍗 CAN WE WIN? 🔥 PKLEGEND LIVE🔥 I PUBG MOBILE - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yd1FSRzFpcldjb0xCVU1XN0pCNGVJaVFQVVQxdVAzRFNKcV9wUGJUMTFYelM4b3BlNVotRldsMVVUSGZYeWFMOU1WbnF6R0FkbHQ2NC13?oc=5)** · Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial whe · 2026-10-18
-  - Feed excerpt: BGMI LIVE: ONLY CHICKEN DINNER CHALLENGE! 🍗 CAN WE WIN? 🔥 PKLEGEND LIVE🔥 I PUBG MOBILE YouTube
+- **[How to Make a Roblox Game With AI (Claude Tutorial + FREE Game Files - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Lc3JVOFlCbVEtRTJwc1E5MjRqb2hqaV9DNUV6UXBFM0NYN1F4NTgtMWlpWERjQUV3UDhRQk9WSFhlMkMwbUdqcm02R19NUDdaUHVBS3dR?oc=5)** · Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial whe · 2026-10-16
+  - Feed excerpt: How to Make a Roblox Game With AI (Claude Tutorial + FREE Game Files YouTube
 
 ---
 

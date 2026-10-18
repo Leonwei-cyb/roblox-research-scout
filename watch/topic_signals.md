@@ -1,0 +1,13 @@
+# Topic mentions in our public feeds
+
+**Biased sampled metadata, NOT Roblox CCU, user interest, gameplay quality or a general trend forecast.**
+
+| Topic | Mention count | Source examples |
+|---|---:|---|
+| Steal / risk | 37 | [How could You create a Game that Goes viral (+1Speed)](https://www.reddit.com/r/ROBLOXStudio/comments/1x91lim/how_could_you_create_a_game_that_goes_viral_1speed/); [small updateee fore my game](https://www.reddit.com/r/robloxgamedev/comments/1x96aix/small_updateee_fore_my_game/) |
+| Pets / collection | 32 | [Aperture - add doors and windows to existing Part walls, no unions \[Paid Plu](https://devforum.roblox.com/t/aperture-add-doors-and-windows-to-existing-part-walls-no-unions-paid-plugin/4940992); [The Halloween update is now live, this update include a jack o' lantern hunt](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kNG1OMGhsY1E4Y1pfdVBWQWNoLXVrUFZpWFoyNU5adGlrbmRnUlZBRUNSRzRmeEx6OTdhQ3dhcHNkY1Q1WU1OY3VTZnM1SktyQ1Q3cWJB?oc=5) |
+| 3D / art | 29 | [🎃 Playtesters wanted: The Neighbors Next Door (Halloween memory/puzzle game)](https://www.reddit.com/r/robloxgamedev/comments/1x8xjig/playtesters_wanted_the_neighbors_next_door/); [🔗 GitHub: https://t.co/EWkntqBVl9 --- ✉️ If you’re into AI, ML, agents, and](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fZllrMDl5VVF1RDk2YmptU3NicXBVUmI2X2IyRnZOOUpUVWVfeXVsQUZhbkJBWGJwR01VZkFjQVFRNk15QUdfLTVGS2NSRDlkNTRoeVJnSHlHZXhndEJ3?oc=5) |
+| Animation / feel | 19 | [Looking for animators](https://www.reddit.com/r/robloxgamedev/comments/1x96ml3/looking_for_animators/); [What do you think of my game? Give it a try—the link is in the description:](https://www.reddit.com/r/ROBLOXStudio/comments/1x91rt4/what_do_you_think_of_my_game_give_it_a_trythe/) |
+| UI / UX | 16 | [Missing "Open Link in New Tab" Option in User Search Results](https://devforum.roblox.com/t/missing-open-link-in-new-tab-option-in-user-search-results/4941306); [small updateee fore my game](https://www.reddit.com/r/robloxgamedev/comments/1x96aix/small_updateee_fore_my_game/) |
+| Progression / upgrades | 4 | [Home Recommendation impressions stuck at ~45% of previous level for 5 weeks,](https://devforum.roblox.com/t/home-recommendation-impressions-stuck-at-45-of-previous-level-for-5-weeks-despite-recovered-signals-universe-9150731899/4942423); [\[Studio Beta\] Upgraded UIShadow Capabilities](https://devforum.roblox.com/t/studio-beta-upgraded-uishadow-capabilities/4934553) |
+| Tycoon / idle | 1 | [Mahito's Idle transfiguration is NOT the highest damage move in JJS \| 120fps](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KZ2J3M3lWUGhOUUZQdlZodHEyZlNTWk1MUmszaXljc21ZLWE3TVkxRVJ0TEtsWkFnTFpGU2R4ck8zbGpYZGUzX2FpZU9meWdxTWcwLS1kUTVYczhmU2R0MWxIWGhHR2dqWk1oUg?oc=5) |
