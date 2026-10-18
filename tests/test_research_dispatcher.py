@@ -30,8 +30,8 @@ class BotTests(unittest.TestCase):
     def test_indexed_google_news_never_occupies_build_inspection_slots(self):
         rows = [
             row("Roblox UI animation", "https://news.google.com/rss/articles/abc"),
-            row("Roblox UI animation demonstration", "https://www.youtube.com/watch?v=real1"),
-            row("Roblox Studio UI controls", "https://devforum.roblox.com/t/roblox-controls/123"),
+            row("Roblox UI animation demonstration", "https://www.youtube.com/watch?v=real1", "youtube-demo"),
+            row("Roblox Studio UI controls", "https://devforum.roblox.com/t/roblox-controls/123", "roblox-forum"),
         ]
         results = m.choose(rows)["UI / menus / effects"]
         self.assertEqual(2, len(results))
