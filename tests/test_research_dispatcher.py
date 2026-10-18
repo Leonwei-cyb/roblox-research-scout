@@ -27,6 +27,22 @@ class BotTests(unittest.TestCase):
         self.assertEqual(ui[0][1]["url"], "https://www.youtube.com/watch?v=123")
         self.assertFalse(any("spam" in x[1]["url"] for x in ui))
 
+    def test_indexed_google_news_never_occupies_build_inspection_slots(self):
+        rows = [
+            row("Roblox UI animation", "https://news.google.com/rss/articles/abc"),
+            row("Roblox UI animation demonstration", "https://www.youtube.com/watch?v=real1"),
+            row("Roblox Studio UI controls", "https://devforum.roblox.com/t/roblox-controls/123"),
+        ]
+        results = m.choose(rows)["UI / menus / effects"]
+        self.assertEqual(2, len(results))
+        self.assertTrue(all("news.google.com" not in x["url"] for _, x in results))
+        self.assertEqual("https://www.youtube.com/watch?v=real1", results[0][1]["url"])
+
+    def test_small_queue_does_not_create_endless_research_backlog(self):
+        rows = [row("Roblox tycoon progress " + str(i), "https://www.youtube.com/watch?v=V" + str(i))
+                for i in range(12)]
+        self.assertEqual(3, len(m.choose(rows)["Game loops / progression"]))
+
     def test_coverage_and_timing(self):
         rows=[row("Roblox gameplay", "https://www.youtube.com/watch?v=123"), row("Roblox UI", "https://news.google.com/rss/articles/abc")]
         report=m.coverage_audit(rows, "- reddit: HTTP 429")

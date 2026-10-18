@@ -1,9 +1,9 @@
 {
-  "description": "Multi-source public feeds. Zero model/API-token calls. Google News is an indexed fallback, NOT direct YouTube/X/Instagram coverage.",
+  "description": "Implementation-first public source discovery. Favor original Roblox/creator channels, official documentation and a few targeted creator searches; broad indexed-headline and failing Apple chart polls paused. Previous findings preserved in watch/media_state.json. Feed metadata is NOT visual analysis.",
   "limits": {
-    "per_source": 20,
+    "per_source": 12,
     "max_total": 120,
-    "max_new_report": 65,
+    "max_new_report": 25,
     "timeout_seconds": 12
   },
   "feeds": [
@@ -32,18 +32,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/.rss"
     },
     {
-      "id": "reddit-claudecode",
-      "category": "community",
-      "label": "Reddit r/ClaudeCode public RSS",
-      "url": "https://www.reddit.com/r/ClaudeCode/.rss"
-    },
-    {
-      "id": "reddit-claudeai",
-      "category": "community",
-      "label": "Reddit r/ClaudeAI public RSS",
-      "url": "https://www.reddit.com/r/ClaudeAI/.rss"
-    },
-    {
       "id": "roblox-ui-showcase",
       "category": "UI showcases",
       "label": "Roblox DevForum UI showcase thread",
@@ -57,11 +45,6 @@
     }
   ],
   "news_queries": [
-    {
-      "id": "claude-news",
-      "category": "claude_updates",
-      "query": "Claude Code new feature plugin update when:7d"
-    },
     {
       "id": "roblox-news",
       "category": "roblox_updates",
@@ -78,64 +61,9 @@
       "query": "Claude Code Roblox automation workflow game agent when:7d"
     },
     {
-      "id": "gameplay-ideas",
-      "category": "game_design",
-      "query": "Roblox tycoon simulator gameplay design progression mechanics when:7d"
-    },
-    {
-      "id": "mobile-remakes",
-      "category": "game_design",
-      "query": "mobile idle games Roblox tycoon remake when:7d"
-    },
-    {
-      "id": "video-index",
-      "category": "youtube_index",
-      "query": "site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d"
-    },
-    {
-      "id": "x-index",
-      "category": "x_index",
-      "query": "site:x.com Roblox Studio Claude developer when:7d"
-    },
-    {
-      "id": "instagram-index",
-      "category": "instagram_index",
-      "query": "site:instagram.com Roblox Studio game development when:7d"
-    },
-    {
       "id": "x-ui",
       "category": "UI showcases",
       "query": "site:x.com Roblox UI animation shop menu #RobloxDev when:14d"
-    },
-    {
-      "id": "x-models",
-      "category": "3D models",
-      "query": "site:x.com RobloxDev low poly Blender models builds when:14d"
-    },
-    {
-      "id": "x-gameplay",
-      "category": "Gameplay prototypes",
-      "query": "site:x.com Roblox prototype game mechanics devlog when:14d"
-    },
-    {
-      "id": "tiktok-index",
-      "category": "TikTok indexed leads",
-      "query": "site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d"
-    },
-    {
-      "id": "instagram-reels",
-      "category": "Instagram indexed leads",
-      "query": "site:instagram.com/reel Roblox game dev UI building 2026 when:14d"
-    },
-    {
-      "id": "showcase-roblox",
-      "category": "Showcase news",
-      "query": "RobloxCreators X best game UI models new 2026 when:14d"
-    },
-    {
-      "id": "brock-ig",
-      "category": "Roblox creator / Steal An Egg",
-      "query": "site:instagram.com/brockkodile Steal An Egg Roblox developer when:30d"
     },
     {
       "id": "brock-ig-reels",
@@ -153,24 +81,9 @@
       "query": "site:x.com/brockkodile Roblox Steal An Egg when:30d"
     },
     {
-      "id": "brock-youtube",
-      "category": "Roblox creator / Steal An Egg",
-      "query": "site:youtube.com/@brockkodile Steal An Egg when:30d"
-    },
-    {
-      "id": "top-dev-interviews",
-      "category": "Roblox creators / interviews",
-      "query": "Roblox developer interview Brockodile Steal An Egg game design 2026 when:30d"
-    },
-    {
       "id": "roblox-animation-showcases",
       "category": "Animations and VFX",
       "query": "Roblox devlog animation VFX model UI showcase site:youtube.com 2026 when:30d"
-    },
-    {
-      "id": "creator-egg-updates",
-      "category": "Roblox updates / Steal An Egg",
-      "query": "Steal An Egg Brockodile update new mechanic October 2026 when:30d"
     },
     {
       "id": "tizzy-roblox-design",
@@ -181,11 +94,6 @@
       "id": "syphodev-claude",
       "category": "Roblox creator / AI development",
       "query": "site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d"
-    },
-    {
-      "id": "gnomecode",
-      "category": "Roblox creator / tutorials",
-      "query": "site:youtube.com \"GnomeCode\" 2026 Roblox Studio when:30d"
     }
   ],
   "youtube_channels": [
@@ -205,18 +113,5 @@
       "channel_id": "UCl-BrQMfynC7mpPDsg6MqlQ"
     }
   ],
-  "app_charts": [
-    {
-      "id": "apple-appstore-ca-games-subset",
-      "category": "mobile_game_trends",
-      "label": "Apple Canada top free app chart (game subset; incomplete)",
-      "url": "https://rss.marketingtools.apple.com/api/v2/ca/apps/top-free/50/apps.json"
-    },
-    {
-      "id": "apple-appstore-us-games-subset",
-      "category": "mobile_game_trends",
-      "label": "Apple US top free app chart (game subset; incomplete)",
-      "url": "https://rss.marketingtools.apple.com/api/v2/us/apps/top-free/50/apps.json"
-    }
-  ]
+  "app_charts": []
 }

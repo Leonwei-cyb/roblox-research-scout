@@ -59,13 +59,19 @@ def matches(item, terms):
         return 0
     return sum(1 for x in terms if re.search(r"\b" + re.escape(x) + r"\w*\b", text))
 
-def choose(items, per_category=6):
+def choose(items, per_category=3):
     result = {}
     for cat, terms in FOCUS.items():
         candidates = []
         for item in items:
             u = urlparse(str(item.get("url", "")))
             if u.scheme != "https" or not u.hostname or not str(item.get("title", "")).strip():
+                continue
+            # Broad Google News search redirects made up most collected entries;
+            # they are coverage metadata, not useful original-source build leads.
+            # Keep them in media_state and source_quality, NEVER promote them to
+            # the limited implementation-facing inspection queue.
+            if u.hostname == "news.google.com":
                 continue
             # The title must independently establish task relevance.
             count = matches({"title": item.get("title", ""), "excerpt": ""}, terms)
@@ -78,7 +84,7 @@ def choose(items, per_category=6):
                 or "error" in title or "not working" in title
             ):
                 continue
-            weight = 10 if media_url(item["url"]) else (2 if u.hostname == "news.google.com" else 5)
+            weight = 10 if media_url(item["url"]) else 5
             weight += 3 if str(item.get("source", "")).startswith("youtube-") else 0
             candidates.append((count * 2 + weight, item))
         candidates.sort(key=lambda a: (a[0], str(a[1].get("published", ""))), reverse=True)
@@ -98,7 +104,7 @@ def choose(items, per_category=6):
 def review_queue(items):
     lines = ["# What to inspect next", "",
         "**Metadata triage only. Videos not watched; design/quality not assessed.**",
-        "Direct original video links are preferred to indirect search-engine mentions.", ""]
+        "Only direct media or primary discussion pages enter this small queue; indexed Google News redirects are excluded.", "Only inspect one lead when it unlocks a concrete fix in an existing game; this list is not a to-do mandate.", ""]
     for cat, picks in choose(items).items():
         lines.extend(["## " + cat, ""])
         for _, item in picks:
