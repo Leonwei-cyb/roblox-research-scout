@@ -1,0 +1,44 @@
+name: Public scout safe config repair — draft only
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['Roblox research scout (no AI)']
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: safe-public-config-repair
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify deterministic repair tests (no network)
+        run: python3 -m unittest discover -s tests -p test_safe_config_autofix.py -v
+      - name: Fix exact duplicate public sources only
+        run: python3 scripts/safe_config_autofix.py --write
+      - name: Open a DRAFT PR only if a safe config repair exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- watch/config.json watch/feeds.json; then
+            echo 'No safe config repair. Do not create an empty PR.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          branch="bot/safe-feed-config-${GITHUB_RUN_ID}"
+          git checkout -b "$branch"
+          git add watch/config.json watch/feeds.json
+          git commit -m 'Remove exact duplicate public research sources'
+          git push origin "$branch"
+          gh pr create --draft --base main --head "$branch" --title 'Safe research source deduplication' --body 'Deterministic JSON source deduplication only. No game code, model calls, or media copies. Review before merging.'
