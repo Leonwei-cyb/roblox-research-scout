@@ -37,6 +37,11 @@ jobs:
           github_status=$?
           python3 scripts/media_scout.py
           media_status=$?
+          if [ "$media_status" -eq 0 ]; then
+            python3 scripts/video_shortlist.py
+            shortlist_status=$?
+            if [ "$shortlist_status" -ne 0 ]; then exit "$shortlist_status"; fi
+          fi
           if [ "$github_status" -ne 0 ] && [ "$media_status" -ne 0 ]; then
             echo "Both public source collectors failed."
             exit 1
