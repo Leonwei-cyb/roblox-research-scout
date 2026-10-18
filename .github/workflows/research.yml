@@ -43,7 +43,9 @@ jobs:
             shortlist_status=$?
             python3 scripts/creator_digest.py
             creator_status=$?
-            if [ "$shortlist_status" -ne 0 ] || [ "$creator_status" -ne 0 ]; then exit 1; fi
+            python3 scripts/research_dispatcher.py
+            queue_status=$?
+            if [ "$shortlist_status" -ne 0 ] || [ "$creator_status" -ne 0 ] || [ "$queue_status" -ne 0 ]; then exit 1; fi
           fi
           if [ "$github_status" -ne 0 ] && [ "$media_status" -ne 0 ]; then
             echo "Both public source collectors failed."
