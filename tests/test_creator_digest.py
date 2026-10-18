@@ -48,6 +48,26 @@ class CreatorDigestTests(unittest.TestCase):
                "url": "https://www.youtube.com/watch?v=456"}
         self.assertIsNone(m.matches(row, self.brock))
 
+    def test_search_label_cannot_fake_creator_attribution(self):
+        row = {
+            "source": "brock-ig",
+            "label": "Google News indexed: site:instagram.com Brockodile",
+            "title": "Unrelated Unity scene showcase",
+            "excerpt": "A general game development tutorial.",
+            "url": "https://news.google.com/rss/articles/no-brock",
+        }
+        self.assertIsNone(m.matches(row, self.brock))
+
+    def test_newest_creator_video_first(self):
+        older = {"source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
+                 "title": "Older Roblox game", "published": "2026-09-01",
+                 "url": "https://www.youtube.com/watch?v=old"}
+        newer = {"source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
+                 "title": "Newest Roblox game", "published": "2026-10-12",
+                 "url": "https://www.youtube.com/watch?v=new"}
+        result = m.group([self.brock], [older, newer])
+        self.assertEqual(result[0][1][0][0]["title"], "Newest Roblox game")
+
 
 if __name__ == "__main__":
     unittest.main()
