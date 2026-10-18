@@ -24,7 +24,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - x-ui: 0
 - x-models: 0
 - x-gameplay: 0
-- tiktok-index: 19
+- tiktok-index: 18
 - instagram-reels: 20
 - showcase-roblox: 0
 - apple-appstore-ca-games-subset: 0
@@ -32,7 +32,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 ## Failures (not silently skipped)
 
-- apple-appstore-us-games-subset: The read operation timed out
+- apple-appstore-us-games-subset: HTTP 502
 - reddit-claudeai: HTTP 429
 - reddit-claudecode: HTTP 429
 - reddit-robloxdev: HTTP 429
