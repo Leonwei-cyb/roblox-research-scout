@@ -42,6 +42,18 @@
       "category": "community",
       "label": "Reddit r/ClaudeAI public RSS",
       "url": "https://www.reddit.com/r/ClaudeAI/.rss"
+    },
+    {
+      "id": "roblox-ui-showcase",
+      "category": "UI showcases",
+      "label": "Roblox DevForum UI showcase thread",
+      "url": "https://devforum.roblox.com/t/show-off-your-ui-designs/4923682.rss"
+    },
+    {
+      "id": "roblox-wip-2026",
+      "category": "3D models, maps and prototypes",
+      "label": "Roblox DevForum what are you working on 2026",
+      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss"
     }
   ],
   "news_queries": [
@@ -89,6 +101,36 @@
       "id": "instagram-index",
       "category": "instagram_index",
       "query": "site:instagram.com Roblox Studio game development when:7d"
+    },
+    {
+      "id": "x-ui",
+      "category": "UI showcases",
+      "query": "site:x.com Roblox UI animation shop menu #RobloxDev when:14d"
+    },
+    {
+      "id": "x-models",
+      "category": "3D models",
+      "query": "site:x.com RobloxDev low poly Blender models builds when:14d"
+    },
+    {
+      "id": "x-gameplay",
+      "category": "Gameplay prototypes",
+      "query": "site:x.com Roblox prototype game mechanics devlog when:14d"
+    },
+    {
+      "id": "tiktok-index",
+      "category": "TikTok indexed leads",
+      "query": "site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d"
+    },
+    {
+      "id": "instagram-reels",
+      "category": "Instagram indexed leads",
+      "query": "site:instagram.com/reel Roblox game dev UI building 2026 when:14d"
+    },
+    {
+      "id": "showcase-roblox",
+      "category": "Showcase news",
+      "query": "RobloxCreators X best game UI models new 2026 when:14d"
     }
   ],
   "youtube_channels": [
