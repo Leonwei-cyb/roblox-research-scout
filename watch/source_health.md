@@ -1,7 +1,7 @@
 # Public research feed coverage
 
-Feeds read successfully: 36
-Feeds unavailable: 0
+Feeds read successfully: 35
+Feeds unavailable: 1
 Feeds deferred (temporary cooldown): 3
 
 Availability is not guaranteed for public Reddit, third-party indexed searches or YouTube feeds.
@@ -20,7 +20,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - gameplay-ideas: 0
 - mobile-remakes: 0
 - video-index: 20
-- x-index: 11
+- x-index: 12
 - instagram-index: 20
 - x-ui: 1
 - x-models: 1
@@ -29,7 +29,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - instagram-reels: 20
 - showcase-roblox: 0
 - brock-ig: 0
-- brock-ig-reels: 20
+- brock-ig-reels: 19
 - brock-tiktok: 8
 - brock-x: 0
 - brock-youtube: 2
@@ -37,10 +37,9 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - roblox-animation-showcases: 1
 - creator-egg-updates: 0
 - tizzy-roblox-design: 0
-- syphodev-claude: 19
+- syphodev-claude: 20
 - gnomecode: 0
 - apple-appstore-ca-games-subset: 0
-- apple-appstore-us-games-subset: 0
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: 15
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: 11
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: 15
@@ -51,4 +50,6 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - reddit-claudecode: HTTP 429
 - reddit-robloxdev: HTTP 429
 
-No new source failures on the most recent scan. Deferred feeds remain.
+## Failures (not silently skipped)
+
+- apple-appstore-us-games-subset: The read operation timed out

@@ -5,10 +5,12 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Youtube Index
+## Roblox Updates
 
-- **[Cursor Latest Version Free Download 2027 - YouTube](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mYkVLVE44ZG5ITm5NUmF0UnRMYnFKTnFkeFBCTk5kSjFvdm16RUduVzJKVFVFZEl1ZVo4STVYX2xpcUxIWmNyVUVIRDJFS0s4NjlMVU5mZHljU2hoY3R6aA?oc=5)** · Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial whe · 2026-10-15
-  - Feed excerpt: Cursor Latest Version Free Download 2027 YouTube
+- **[AI romance chat experiences labeled Minimal are reaching young kids. How do I escalate?](https://devforum.roblox.com/t/ai-romance-chat-experiences-labeled-minimal-are-reaching-young-kids-how-do-i-escalate/4942943)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: What do I want to achieve? I want two AI chat experiences correctly labeled or restricted so young children can’t get into them, and I need to know how to escalate this, because Report Abuse and Roblox Support haven’t led to any action. Wha
+- **[\[Plugin\] PathStudio: Roads, Rivers and Props from One Spline](https://devforum.roblox.com/t/plugin-pathstudio-roads-rivers-and-props-from-one-spline/4942940)** · Roblox Developer Forum latest · 2026-10-18
+  - Feed excerpt: Hello all, After Terrain Studio, the thing I got asked about (and kept wanting myself) was better roads. Laying a road in Roblox usually means chaining wedges and parts by hand, nudging each one so the seams line up, then sculpting the terr
 
 ---
 
