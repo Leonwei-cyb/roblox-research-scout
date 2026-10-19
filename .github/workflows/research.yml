@@ -60,9 +60,11 @@ jobs:
             shortlist_status=$?
             python3 scripts/creator_digest.py
             creator_status=$?
+            python3 scripts/social_original_shortlist.py
+            social_status=$?
             python3 scripts/research_dispatcher.py
             queue_status=$?
-            if [ "$shortlist_status" -ne 0 ] || [ "$creator_status" -ne 0 ] || [ "$queue_status" -ne 0 ]; then exit 1; fi
+            if [ "$shortlist_status" -ne 0 ] || [ "$creator_status" -ne 0 ] || [ "$social_status" -ne 0 ] || [ "$queue_status" -ne 0 ]; then exit 1; fi
           fi
           if [ "$supervisor_status" -ne 0 ]; then echo "Bot health supervisor failed."; exit 1; fi
           if [ "$license_status" -ne 0 ]; then echo "Public license audit failed."; exit 1; fi
