@@ -13,9 +13,10 @@ on:
       - 'watch/official_visual_pages.json'
       - '.github/workflows/research.yml'
   schedule:
-    # 4 checks/day. The older 10-minute cycle wasted requests and hit RSS rate limits.
-    # GitHub may delay scheduled starts; use workflow_dispatch for an urgent check.
-    - cron: '23 2,8,14,20 * * *'
+    # Hourly research refresh; collector honors per-source rate-limit cooldowns.
+    # Do not poll social feeds every 5 minutes: avoid 429s and pointless repeats.
+    # GitHub may delay scheduled starts; workflow_dispatch handles urgent refreshes.
+    - cron: '23 * * * *'
 
 permissions:
   contents: write
