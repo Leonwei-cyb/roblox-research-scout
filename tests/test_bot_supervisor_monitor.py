@@ -79,12 +79,16 @@ class HealthMonitorTests(unittest.TestCase):
         self.assertIn("runs/1", report)
 
     def test_monitor_writes_summary_not_repository_report(self):
+        # Freeze the monitor clock as well as its fabricated workflow timestamps.
+        # Otherwise this test fails merely because real time advances.
+        original_live_report = supervisor.live_report
         with tempfile.TemporaryDirectory() as temp:
             step_summary = Path(temp) / "job-summary.md"
             tracked_report = Path(temp) / "tracked.md"
             with patch.dict(supervisor.os.environ, {"GITHUB_STEP_SUMMARY": str(step_summary)}), \
                  patch.object(supervisor, "OUT", tracked_report), \
-                 patch.object(supervisor, "research_runs_for", return_value=[run(1)]):
+                 patch.object(supervisor, "research_runs_for", return_value=[run(1)]), \
+                 patch.object(supervisor, "live_report", side_effect=lambda rows: original_live_report(rows, now=NOW)):
                 result = supervisor.monitor()
             self.assertEqual("OK", result)
             self.assertTrue(step_summary.is_file())
