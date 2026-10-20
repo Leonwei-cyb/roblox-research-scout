@@ -138,3 +138,44 @@ def prioritize_hits(hits, topic_to_lane, config, limit):
         chosen.append(winner["items"][winner["pos"]])
         winner["pos"] += 1
     return chosen
+
+
+def advance_cursors(config, state, planned, outcomes):
+    """Advance only the contiguous successful prefix for each specialist.
+
+    If query #1 failed and query #2 succeeded, #1 must still be retried next
+    time. Advancing by the *number* of successes would silently skip it.
+    This conservative behavior may repeat a successful query after an outage,
+    but it never discards a failed query.
+    """
+    if len(planned) != len(outcomes):
+        raise ValueError("query outcomes must align with planned searches")
+    old = state.get("research_lane_cursor", {})
+    old = old if isinstance(old, dict) else {}
+    cursors = dict(old)
+    available = {}
+    topics = {t.get("id"): [q for q in t.get("queries", []) if isinstance(q, str) and q]
+              for t in config.get("topics", []) if isinstance(t, dict)}
+    for lane in config.get("research_lanes", []):
+        lid = lane.get("id")
+        unique = {query for topic in lane.get("topics", []) for query in topics.get(topic, [])}
+        if lid and unique:
+            available[lid] = len(unique)
+    lane_results = {}
+    for (_, _, lid), outcome in zip(planned, outcomes):
+        lane_results.setdefault(lid, []).append(outcome)
+    for lid, results in lane_results.items():
+        if lid not in available:
+            continue
+        consecutive = 0
+        for result in results:
+            if result not in {"ok", "not_modified"}:
+                break
+            consecutive += 1
+        if consecutive:
+            try:
+                original = max(0, int(old.get(lid, 0)))
+            except (ValueError, TypeError):
+                original = 0
+            cursors[lid] = (original + consecutive) % available[lid]
+    return cursors
