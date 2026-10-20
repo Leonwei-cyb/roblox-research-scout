@@ -349,11 +349,18 @@ class DiscoveryRunTests(unittest.TestCase):
         self.cfg["carried_forward"] = [
             {"name": "Manual", "repo": "acme/manual", "owner": "Wheel", "verdict": "needs-test", "reason": "read-only check"},
             {"name": "Sneaky", "repo": "acme/sneaky", "verdict": "adopt", "reason": "trust me"},
-            {"name": "NoLicense", "repo": "acme/nolic", "verdict": "needs-test", "reason": "looks good"}]
+            {"name": "NoLicense", "repo": "acme/nolic", "verdict": "needs-test", "reason": "looks good"},
+            {"name": "Stale", "repo": "acme/stale", "verdict": "needs-test", "reason": "looks good"},
+            {"name": "NoHead", "repo": "acme/nohead", "verdict": "needs-test", "reason": "looks good"}]
         self.save_config()
+        nohead = node("acme/nohead", 9)
+        nohead["defaultBranchRef"] = None
+        nohead["pushedAt"] = None
         FakeGitHub.world = {"acme/manual": node("acme/manual", 5, description="unrelated words"),
                             "acme/sneaky": node("acme/sneaky", 6, description="unrelated words"),
-                            "acme/nolic": node("acme/nolic", 7, license_id="NONE")}
+                            "acme/nolic": node("acme/nolic", 7, license_id="NONE"),
+                            "acme/stale": node("acme/stale", 8, committed="2024-01-01T00:00:00Z"),
+                            "acme/nohead": nohead}
         self.run_once()
         rows = {r["repo"]: r for r in self.rows()}
         self.assertEqual("needs-test", rows["acme/manual"]["verdict"])
@@ -361,6 +368,10 @@ class DiscoveryRunTests(unittest.TestCase):
         self.assertIn("Pin acme/manual@", rows["acme/manual"]["task"])
         self.assertNotEqual("adopt", rows["acme/sneaky"]["verdict"])
         self.assertEqual("reject", rows["acme/nolic"]["verdict"])
+        # Codex P2: staleness / unknown commit age is a hard fact a manual verdict cannot lift.
+        for name in ("acme/stale", "acme/nohead"):
+            self.assertEqual("reject", rows[name]["verdict"], rows[name]["verdict_reason"])
+            self.assertIsNone(rows[name]["task"])
 
     def test_requested_repos_are_validated_and_bounded(self):
         FakeGitHub.world = {"acme/relay": node("acme/relay", 1)}

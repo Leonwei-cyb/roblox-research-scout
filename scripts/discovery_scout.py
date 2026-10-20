@@ -509,10 +509,12 @@ def build_record(facts, cfg, now, review, prior, topic, carried=None, alias=None
     scores, fits, days, lic_kind = score(facts, blockers, now)
     verdict, reason = decide(facts, scores, fits, days, cfg, review)
     # A carried-forward candidate may hold a manual, read-only verdict. It can only say
-    # needs-test or reject (adopt needs a tested review), and hard facts still win.
+    # needs-test or reject (adopt needs a tested review), and hard facts still win: archived,
+    # fork/mirror, no license, stale or unknown commit age, and no pinned SHA. It may only
+    # lift the soft keyword rejects (no blocker fit / low score) that a human has read past.
+    hard_reject = verdict == "reject" and not reason.startswith(("no fit", "score"))
     if (carried and not review and carried.get("verdict") in {"needs-test", "reject"}
-            and not facts.get("archived") and str(facts.get("license", "NONE")).upper() not in {"NONE", ""}
-            and not (facts.get("fork") or facts.get("mirror"))):
+            and (carried["verdict"] == "reject" or (not hard_reject and facts.get("sha")))):
         verdict, reason = carried["verdict"], safe(carried.get("reason", "manual assessment"), 400)
     by_id = {b["id"]: b for b in blockers}
     ranked = sorted(fits.items(), key=lambda kv: (-kv[1], kv[0]))
@@ -521,7 +523,8 @@ def build_record(facts, cfg, now, review, prior, topic, carried=None, alias=None
     owner = best["owner"] if best and best.get("owner") in OWNERS else "hub"
     if carried and carried.get("owner") in OWNERS:
         owner = carried["owner"]
-    routed = (verdict == "needs-test" and not audited and (best is not None or bool(carried))
+    routed = (verdict == "needs-test" and not audited and bool(facts.get("sha"))
+              and (best is not None or bool(carried))
               and (scores["total"] >= int(cfg.get("verdict_rules", {}).get("route_min_score", 60))
                    or bool(carried)))
     record = {
