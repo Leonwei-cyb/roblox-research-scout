@@ -1,0 +1,95 @@
+name: Open-source discovery (no AI)
+
+# Polling snapshots, not continuous coverage. Third-party repos cannot send us
+# events, so their releases/issues are seen at the next run. The events below
+# let the hub (repository_dispatch), the owner (manual run) or a triager
+# (label an issue here "discovery-request") ask for a run right away.
+on:
+  workflow_dispatch:
+    inputs:
+      repos:
+        description: 'Optional: up to 5 owner/repo names to evaluate now'
+        required: false
+        default: ''
+  repository_dispatch:
+    types: [discovery-scan]
+  issues:
+    types: [labeled]
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/discovery_scout.py'
+      - 'watch/discovery.json'
+      - 'findings/reviews/**'
+      - '.github/workflows/discovery.yml'
+  schedule:
+    # Backstop every 6 hours. GitHub may delay or skip scheduled starts.
+    - cron: '47 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-discovery-scout
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    if: >-
+      github.event_name != 'issues' ||
+      (github.event.label.name == 'discovery-request' &&
+       contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association))
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unit tests (offline)
+        run: python3 -m unittest discover -s tests -p 'test_discovery*.py' -v
+      - name: Discover, score and route candidates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Untrusted text: read only by Python, which keeps at most 5 owner/repo names.
+          DISCOVERY_REQUESTS: ${{ github.event.inputs.repos || github.event.client_payload.repos || github.event.issue.body || '' }}
+        run: python3 scripts/discovery_scout.py
+      - name: Commit discovery outputs only
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add findings/ status/discovery.json watch/discovery_state.json
+          if git diff --cached --quiet; then
+            echo 'No discovery change.'
+            exit 0
+          fi
+          git commit -m 'Refresh open-source discovery'
+          for try in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort
+              echo 'Discovery output conflicts with newer main; next run will retry.'
+              exit 0
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          echo 'Concurrent update; next scheduled run will retry without force-pushing.'
+
+  route-issues:
+    # Separate job so only this step can write issues, and only in this repo.
+    needs: discover
+    if: needs.discover.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Open deduplicated research issues for high-value pack candidates (max 3)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/discovery_issues.py

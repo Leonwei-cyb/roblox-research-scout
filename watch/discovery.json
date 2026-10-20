@@ -1,0 +1,426 @@
+{
+  "description": "Open-source discovery for Leon: agent orchestration, Claude/Codex/ChatGPT tools, Roblox tooling, dashboard components, MCP servers, skills, testing and research frameworks. Metadata and scoring only: nothing found here is installed or run automatically. A verdict of adopt only comes from a tested review record in findings/reviews/.",
+  "limits": {
+    "per_page": 20,
+    "max_search_queries": 15,
+    "max_graphql_batches": 5,
+    "graphql_batch_size": 15,
+    "max_new_candidates_per_run": 25,
+    "min_rest_remaining": 120,
+    "min_graphql_remaining": 150,
+    "min_stars": 15,
+    "pushed_within_days": 120,
+    "stale_days": 365,
+    "max_candidates_stored": 600,
+    "max_versions_per_repo": 3,
+    "max_backlog": 12,
+    "stale_after_hours": 13,
+    "blob_batch_repos": 6
+  },
+  "verdict_rules": {
+    "needs_test_min_score": 45,
+    "route_min_score": 60
+  },
+  "topics": [
+    {
+      "id": "agent-orchestration",
+      "queries": [
+        "multi-agent orchestration claude codex in:name,description",
+        "agent task queue retry dedup llm workers in:name,description"
+      ]
+    },
+    {
+      "id": "ai-cli-tools",
+      "queries": [
+        "claude code subagents in:name,description",
+        "codex cli agent tool in:name,description",
+        "chatgpt claude bridge automation in:name,description"
+      ]
+    },
+    {
+      "id": "roblox-tooling",
+      "queries": [
+        "roblox studio mcp in:name,description",
+        "roblox luau testing framework in:name,description",
+        "roblox rojo tooling in:name,description"
+      ]
+    },
+    {
+      "id": "dashboard-components",
+      "queries": [
+        "agent monitor dashboard realtime in:name,description"
+      ]
+    },
+    {
+      "id": "review-bots",
+      "queries": [
+        "automated code review linter pull request comments in:name,description"
+      ]
+    },
+    {
+      "id": "mcp-skills",
+      "queries": [
+        "topic:mcp-server github",
+        "claude skills agent skills in:name,description"
+      ]
+    },
+    {
+      "id": "testing-research",
+      "queries": [
+        "github webhook forward localhost in:name,description",
+        "visual regression screenshot testing in:name,description",
+        "research agent github monitor releases in:name,description"
+      ]
+    }
+  ],
+  "watch_repos": [
+    "modelcontextprotocol/servers",
+    "anthropics/claude-code",
+    "openai/codex",
+    "Roblox/studio-rust-mcp-server",
+    "Roblox/open-game-eval",
+    "probot/smee-client",
+    "rojo-rbx/rojo",
+    "jsdotlua/jest-lua"
+  ],
+  "audited_elsewhere": {
+    "hoangsonww/AI-Agents-Orchestrator": "already under audit by another Leon worker",
+    "hoangsonww/Claude-Code-Agent-Monitor": "Dashboard V2 is being built on it",
+    "Xalzeroph/Charterion": "Wheel worker is auditing it (HQ comment 6283804302)",
+    "megamen32/chatgpt-multi": "Wheel worker is auditing it (HQ comment 6283804302)",
+    "paritoshv/multi-llm-web-orchestrator": "Wheel worker is auditing it (HQ comment 6283804302)",
+    "obra/superpowers": "Wheel worker is implementing it (HQ comment 6283954094)"
+  },
+  "blockers": [
+    {
+      "id": "parallel-worker-acks",
+      "owner": "Wheel",
+      "label": "Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)",
+      "patterns": [
+        "\\bparallel\\b",
+        "multi.?agent",
+        "\\back(nowledg\\w*)?s?\\b",
+        "\\bworkers?\\b",
+        "\\bcodex\\b",
+        "chatgpt",
+        "claude",
+        "orchestrat\\w*",
+        "\\bswarm\\b"
+      ],
+      "core": [
+        "\\bparallel\\b",
+        "multi.?agent",
+        "orchestrat\\w*",
+        "\\bswarm\\b",
+        "\\bworkers?\\b",
+        "\\backs?\\b|acknowledg\\w*"
+      ]
+    },
+    {
+      "id": "wheel-loop",
+      "owner": "Wheel",
+      "label": "Autonomous Wheel loop with STOP, dedup, retry and cross-review",
+      "patterns": [
+        "\\bretr(y|ies)\\b",
+        "\\bdedup\\w*",
+        "idempoten\\w*",
+        "\\bqueue\\b",
+        "kill.?switch|\\bstop\\b",
+        "(cross|code).?review",
+        "autonomous",
+        "\\bloop\\b",
+        "orchestrat\\w*"
+      ],
+      "core": [
+        "\\bretr(y|ies)\\b",
+        "\\bdedup\\w*",
+        "idempoten\\w*",
+        "\\bqueue\\b",
+        "kill.?switch",
+        "(cross|code).?review"
+      ]
+    },
+    {
+      "id": "live-dashboard",
+      "owner": "Work/dashboard",
+      "label": "Dashboard with live agent status (Dashboard V2 on Claude-Code-Agent-Monitor)",
+      "patterns": [
+        "dashboard",
+        "\\bmonitor\\w*",
+        "observab\\w*",
+        "real.?time|\\blive\\b",
+        "status",
+        "telemetry",
+        "\\bagents?\\b"
+      ],
+      "core": [
+        "dashboard",
+        "observab\\w*",
+        "\\bmonitor\\w*"
+      ]
+    },
+    {
+      "id": "github-mac-messaging",
+      "owner": "hub",
+      "label": "Low-latency GitHub to Mac messaging",
+      "patterns": [
+        "webhooks?",
+        "localhost|local server",
+        "\\bforward\\w*|\\bproxy\\b",
+        "\\btunnel\\w*",
+        "server.?sent|\\bsse\\b|websocket|eventsource",
+        "\\bnotif\\w*",
+        "\\bpayloads?\\b",
+        "\\brelay\\b"
+      ],
+      "core": [
+        "webhooks?",
+        "\\btunnel\\w*",
+        "\\brelay\\b",
+        "localhost|local server"
+      ]
+    },
+    {
+      "id": "roblox-qa-evidence",
+      "owner": "hub",
+      "label": "Roblox game QA and evidence capture",
+      "patterns": [
+        "\\broblox\\b",
+        "\\bluau\\b",
+        "playtest\\w*",
+        "screenshot\\w*|screen.?capture",
+        "visual.?regression",
+        "\\bqa\\b|\\btest(ing|s)?\\b",
+        "evidence"
+      ],
+      "core": [
+        "\\broblox\\b",
+        "\\bluau\\b"
+      ]
+    },
+    {
+      "id": "roblox-studio-mcp",
+      "owner": "hub",
+      "label": "MCP servers and skills for Roblox Studio",
+      "patterns": [
+        "\\broblox\\b",
+        "\\bstudio\\b",
+        "\\bmcp\\b|model.?context.?protocol",
+        "\\bskills?\\b",
+        "\\bluau\\b",
+        "\\brojo\\b",
+        "\\bplugin\\b"
+      ],
+      "core": [
+        "\\broblox\\b",
+        "\\bluau\\b",
+        "\\brojo\\b"
+      ]
+    }
+  ],
+  "carried_forward": [
+    {
+      "name": "Cezar",
+      "repo": "open-mercato/cezar",
+      "note": "Named by HQ (one-tower-tycoon#1 comment 6283804302) as earlier research; original evidence not located on GitHub, identified fresh by name search (open-mercato/cezar: parallel Claude Code/Codex agent orchestrator)."
+    },
+    {
+      "name": "Agetor",
+      "repo": "alamops/agetor",
+      "note": "Named by HQ (comment 6283804302); original evidence not located; identified fresh by name search (local-first kanban for CLI coding agents)."
+    },
+    {
+      "name": "brief2ship",
+      "repo": "five0nit/brief2ship",
+      "note": "Named by HQ (comment 6283804302); original evidence not located; identified fresh by name search (repo-first discovery CLI + agent skill).",
+      "owner": "hub",
+      "verdict": "needs-test",
+      "reason": "manual read-only assessment (not a tested review): Read-only README check: dependency-free Python CLI + Agent Skill that searches local code, GitHub, PyPI, npm, crates.io and Hugging Face and scores reuse vs build. Fits 'skills' for every worker; overlaps this discovery pipeline, so test it against one real request before choosing either."
+    },
+    {
+      "name": "Radar Forge",
+      "repo": "borq168/radar-forge",
+      "note": "Named by HQ (comment 6283804302); original evidence not located; identified fresh by name search (agent-powered GitHub Actions research radar; README title 'Radar Forge')."
+    },
+    {
+      "name": "reviewdog",
+      "repo": "reviewdog/reviewdog",
+      "owner": "Wheel",
+      "note": "Named by HQ (comment 6283804302); original evidence not located. Hub: likely fit for the Wheel worker's zero-cost review bot (linter output to PR review comments, diff-filtered)."
+    },
+    {
+      "name": "Superpowers",
+      "repo": "obra/superpowers",
+      "owner": "Wheel",
+      "note": "Named by HQ one-tower-tycoon#1 comment 6283954094. Being IMPLEMENTED by the Wheel worker: recorded here only, no separate task.",
+      "assessment": {
+        "assessed_at": "v7.0.0 / bb92a77741419a4ab5f06e711a283343f1ada0c3",
+        "license": "MIT",
+        "reusable_modules": [
+          "skills/dispatching-parallel-agents",
+          "skills/subagent-driven-development",
+          "skills/requesting-code-review",
+          "skills/receiving-code-review",
+          "skills/verification-before-completion",
+          "skills/using-git-worktrees",
+          "skills/systematic-debugging"
+        ],
+        "security": "Ships hooks/ (session-start, hooks.json, run-hook.cmd) and plugin manifests for many agents. Hooks run code at session start: copy skills as text, do not install the hooks or plugin on the Mac without a review.",
+        "compatibility": "Skill text already overlaps the local Claude skills on this Mac (dispatching-parallel-agents, receiving-code-review, verification-before-completion are installed). Wheel cross-review and parallel dispatch patterns map directly.",
+        "caveat": "None on cost; pure Markdown skills."
+      },
+      "verdict": "needs-test",
+      "reason": "manual read-only assessment (not a tested review): Wheel worker is implementing it; recorded only. Copy skills as text; do not install its hooks or plugin manifests on the Mac."
+    },
+    {
+      "name": "pi-mono (steipete fork)",
+      "repo": "steipete/pi-mono",
+      "owner": "Wheel",
+      "note": "Named by HQ one-tower-tycoon#1 comment 6283954094. steipete/pi-mono is a FORK (last commit 2025-12-22) of earendil-works/pi (formerly badlogic/pi-mono); the upstream is evaluated instead.",
+      "assessment": {
+        "assessed_at": "4492a3f3040fe277f13132a0cf111e161082994f",
+        "license": "MIT",
+        "reusable_modules": [],
+        "security": "Stale fork; do not pin to it.",
+        "compatibility": "Use upstream earendil-works/pi.",
+        "caveat": "Fork, not canonical."
+      }
+    },
+    {
+      "name": "pi (upstream of pi-mono)",
+      "repo": "earendil-works/pi",
+      "owner": "Wheel",
+      "note": "Canonical upstream of steipete/pi-mono, found by following the fork parent (GitHub redirects badlogic/pi-mono here).",
+      "assessment": {
+        "assessed_at": "v1.3.0 / 73f8de80bc87021375f8b525292ac07492253002",
+        "license": "MIT",
+        "reusable_modules": [
+          "packages/durable",
+          "packages/agent",
+          "packages/coding-agent",
+          "packages/mcp",
+          "packages/telemetry",
+          "packages/tui"
+        ],
+        "security": "TypeScript monorepo with husky git hooks in the repo (dev only). Read-only source review; nothing installed.",
+        "compatibility": "packages/durable and packages/telemetry are the closest to Wheel retry/dedup and live status; needs a source read to confirm their APIs.",
+        "caveat": "The coding agent itself calls model APIs (user-supplied keys)."
+      },
+      "verdict": "needs-test",
+      "reason": "manual read-only assessment (not a tested review): Read-only tree check: packages/durable and packages/telemetry are candidates for Wheel retry/dedup and live status; needs a source read and one isolated test."
+    },
+    {
+      "name": "awesome-claude-skills",
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "owner": "hub",
+      "note": "Named by HQ one-tower-tycoon#1 comment 6283954094.",
+      "assessment": {
+        "assessed_at": "be2a406907dbc61b73e6827ded415c96139d13a2",
+        "license": "NONE (no license file detected by GitHub)",
+        "reusable_modules": [
+          "webapp-testing",
+          "mcp-builder",
+          "skill-creator",
+          "changelog-generator (as ideas only)"
+        ],
+        "security": "Curated list plus skill folders; several (connect-apps, composio-skills) route through Composio's hosted service and need its account/API key.",
+        "compatibility": "Ideas only: no license means no code reuse. Several skills appear to be copies of anthropics/skills, which should be used from the source instead.",
+        "caveat": "Composio-backed skills need a third-party account."
+      }
+    },
+    {
+      "name": "OpenHands",
+      "repo": "OpenHands/OpenHands",
+      "owner": "Wheel",
+      "note": "Named by HQ one-tower-tycoon#1 comment 6283954094. MODEL-COST CAVEAT: OpenHands is an LLM coding agent; every run spends model API tokens (bring-your-own key) unless pointed at a local model.",
+      "assessment": {
+        "assessed_at": "v1.28.1 / 8d39305538c1d17a30cbe477e57a0e18fcee7d95",
+        "license": "MIT",
+        "reusable_modules": [
+          "playwright.mock-llm*.config.ts + __tests__ (mock-LLM end-to-end test pattern)",
+          "src/ (React agent UI: conversation and status views)"
+        ],
+        "security": "Runs agents in Docker sandboxes; .env.sample expects LLM keys. Not to be run here: Docker is not installed and paid model calls are out of scope.",
+        "compatibility": "Useful as a reference for live agent status UI (Dashboard V2) and for mock-LLM testing of Wheel; adopting the runtime would add model cost.",
+        "caveat": "Model API cost on every task; no free path without a local model."
+      },
+      "verdict": "reject",
+      "reason": "manual read-only assessment (not a tested review): Reject as a runtime: every task spends model API tokens (bring-your-own key) and it needs Docker. Keep as a reference for the mock-LLM Playwright test pattern and the agent status UI."
+    }
+  ],
+  "query_packs": [
+    {
+      "id": "multi-chatgpt-web-workers",
+      "label": "Multiple ChatGPT web workers (browser-session orchestration, not API-only)",
+      "owner": "Wheel",
+      "source": "Owner acceptance test, one-tower-tycoon#1 comment 6283915095",
+      "min_stars": 0,
+      "pushed_within_days": 365,
+      "per_page": 15,
+      "inspect_top": 12,
+      "max_queries": 14,
+      "search_in": "in:name,description,topics,readme",
+      "queries": [
+        {
+          "id": "a",
+          "q": "ChatGPT multi conversation orchestration",
+          "relaxed": "ChatGPT orchestration"
+        },
+        {
+          "id": "b",
+          "q": "persistent ChatGPT browser sessions workers",
+          "relaxed": "ChatGPT browser sessions"
+        },
+        {
+          "id": "c",
+          "q": "parallel LLM web agents",
+          "relaxed": "LLM web agents"
+        },
+        {
+          "id": "d",
+          "q": "multi-agent coding chat workspace",
+          "relaxed": "multi-agent workspace"
+        },
+        {
+          "id": "e",
+          "q": "agent task dispatch browser extension",
+          "relaxed": "agent browser extension"
+        },
+        {
+          "id": "f",
+          "q": "authenticated ChatGPT web conversation queue",
+          "relaxed": "ChatGPT conversation queue"
+        },
+        {
+          "id": "g",
+          "q": "durable agent session manager",
+          "relaxed": "agent session manager"
+        }
+      ],
+      "known_relevant": [
+        "Xalzeroph/Charterion",
+        "megamen32/chatgpt-multi",
+        "paritoshv/multi-llm-web-orchestrator"
+      ],
+      "source_queries": [
+        {
+          "id": "s1",
+          "why": "MV3 extension whose content scripts run on ChatGPT and which uses the side panel (one UI, many chat tabs)",
+          "q": "\"chatgpt.com\" content_scripts sidePanel filename:manifest.json"
+        },
+        {
+          "id": "s2",
+          "why": "extension that opens and scripts ChatGPT tabs",
+          "q": "\"chat.openai.com\" tabs scripting filename:manifest.json"
+        },
+        {
+          "id": "s3",
+          "why": "Playwright persistent logged-in browser profile pointed at ChatGPT",
+          "q": "\"chatgpt.com\" launchPersistentContext"
+        }
+      ],
+      "max_source_queries": 3,
+      "source_per_page": 50
+    }
+  ]
+}
