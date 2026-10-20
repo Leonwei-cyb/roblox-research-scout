@@ -25,7 +25,8 @@ PACKS = ROOT / "findings" / "packs"
 # GitHub's issue list is eventually consistent: an issue opened seconds ago can be
 # missing from the next listing (seen live 2026-10-20: a back-to-back rerun opened
 # #17-#19 as duplicates of #14-#16). Every issue this script opens is also written
-# here, and the workflow's concurrency group keeps CI runs hours apart.
+# here; the workflow commits this file after routing, and its concurrency group
+# keeps CI runs apart.
 LEDGER = ROOT / "findings" / "issue_ledger.json"
 HOME_REPO = "Leonwei-cyb/roblox-research-scout"
 API = "https://api.github.com"
@@ -54,7 +55,7 @@ def request(method, path, token, body=None):
         raise RuntimeError("GitHub API unavailable") from err
 
 
-def existing_keys(repo, token, pages=3):
+def existing_keys(repo, token, pages=10):
     keys = {}
     for page in range(1, pages + 1):
         rows = request("GET", "/repos/" + repo + "/issues?state=all&per_page=100&page=" + str(page), token)

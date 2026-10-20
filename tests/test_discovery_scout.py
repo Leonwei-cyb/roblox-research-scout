@@ -218,6 +218,19 @@ class DiscoveryRunTests(unittest.TestCase):
         self.assertEqual("needs-test", r["verdict"])
         self.assertIn("re-test", r["verdict_reason"])
 
+    def test_review_needs_exact_sha_even_when_release_tag_is_unchanged(self):
+        """Codex P2 on PR #20: matching the release tag applied a review to untested HEAD commits."""
+        FakeGitHub.search_items = [search_item("acme/relay", 1)]
+        FakeGitHub.world = {"acme/relay": node("acme/relay", 1, release="v1", sha=SHA_B)}
+        ds.REVIEWS.mkdir(parents=True)
+        (ds.REVIEWS / "acme__relay.json").write_text(json.dumps(
+            {"repo": "acme/relay", "sha": SHA_A, "version": "v1", "verdict": "adopt", "date": "2026-10-20"}))
+        status = self.run_once()
+        r = self.rows()[0]
+        self.assertEqual("needs-test", r["verdict"])
+        self.assertIn("re-test", r["verdict_reason"])
+        self.assertEqual(0, status["counts"]["adopt"])
+
     def test_audited_elsewhere_is_never_routed_and_carried_owner_overrides(self):
         self.cfg["carried_forward"] = [{"name": "Dog", "repo": "acme/dog", "owner": "Wheel", "note": "from HQ"}]
         self.save_config()
@@ -400,7 +413,8 @@ class WorkflowTests(unittest.TestCase):
         discover, sep, route = self.data.partition("\n  route-issues:\n")
         self.assertTrue(sep)
         self.assertNotIn("issues: write", discover)
-        self.assertIn("      contents: read\n      issues: write", route)
+        self.assertIn("      contents: write\n      issues: write", route)
+        self.assertIn("git add findings/issue_ledger.json", route)
         self.assertIn("needs: discover", route)
         for banned in ("pull-requests: write", "gh pr merge", "pulls.merge", "--force", "push -f"):
             self.assertNotIn(banned, self.data)
@@ -415,6 +429,9 @@ class WorkflowTests(unittest.TestCase):
 
     def test_commits_only_discovery_outputs(self):
         self.assertIn("git add findings/ status/discovery.json watch/discovery_state.json", self.data)
+        adds = [line.strip() for line in self.data.splitlines() if line.strip().startswith("git add")]
+        self.assertEqual(["git add findings/ status/discovery.json watch/discovery_state.json",
+                          "git add findings/issue_ledger.json 2>/dev/null || true"], adds)
         self.assertNotIn("git add -A", self.data)
 
 

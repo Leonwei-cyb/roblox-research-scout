@@ -416,7 +416,8 @@ def decide(facts, scores, fits, days, cfg, review):
     rules = cfg.get("verdict_rules", {})
     limits = cfg.get("limits", {})
     if review:
-        if review.get("sha") == facts.get("sha") or (review.get("version") and review.get("version") == facts.get("release")):
+        # Exact SHA only: a release tag that has not moved says nothing about new commits on HEAD.
+        if review.get("sha") == facts.get("sha"):
             return review["verdict"], "tested review " + review["_path"] + " (" + str(review.get("date", "")) + ")"
         if review["verdict"] == "reject":
             return "reject", "rejected by tested review at " + review["sha"][:7] + "; new version not re-reviewed"

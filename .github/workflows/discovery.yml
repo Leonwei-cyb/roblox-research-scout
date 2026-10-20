@@ -83,7 +83,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 3
     permissions:
-      contents: read
+      contents: write
       issues: write
     steps:
       - uses: actions/checkout@v4
@@ -93,3 +93,28 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/discovery_issues.py
+      - name: Persist the issue ledger (dedup survives a stale issue listing)
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add findings/issue_ledger.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo 'No new issue routed.'
+            exit 0
+          fi
+          git commit -m 'Record routed discovery issues'
+          for try in 1 2 3 4 5; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort
+              echo '::warning::Issue ledger conflicted with newer main; markers in issue bodies still dedupe.'
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 3
+          done
+          echo '::warning::Could not push the issue ledger; markers in issue bodies still dedupe.'
+          exit 1
