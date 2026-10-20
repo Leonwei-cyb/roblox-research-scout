@@ -464,7 +464,21 @@ def task_line(facts, blocker_label, sha):
             "and record adopt/reject for: " + blocker_label + ".")
 
 
-def build_record(facts, cfg, now, review, prior, topic, carried=None):
+def audited_note(cfg, facts, alias=None, prior=None):
+    """audited_elsewhere matches by GitHub id ("id:123"), current name or the name we asked for.
+
+    A repo renamed after it was recorded keeps its prior note (the prior record is found by
+    GitHub id), but only while that note is still in the config: removing it there clears it.
+    """
+    table = {str(k).lower(): v for k, v in cfg.get("audited_elsewhere", {}).items()}
+    for key in ("id:" + str(facts.get("id")), str(facts.get("repo", "")).lower(), str(alias or "").lower()):
+        if key in table:
+            return table[key]
+    note = (prior or {}).get("audited_elsewhere")
+    return note if note and note in table.values() else None
+
+
+def build_record(facts, cfg, now, review, prior, topic, carried=None, alias=None):
     blockers = cfg.get("blockers", [])
     scores, fits, days, lic_kind = score(facts, blockers, now)
     verdict, reason = decide(facts, scores, fits, days, cfg, review)
@@ -477,7 +491,7 @@ def build_record(facts, cfg, now, review, prior, topic, carried=None):
     by_id = {b["id"]: b for b in blockers}
     ranked = sorted(fits.items(), key=lambda kv: (-kv[1], kv[0]))
     best = by_id.get(ranked[0][0]) if ranked else None
-    audited = cfg.get("audited_elsewhere", {}).get(facts["repo"])
+    audited = audited_note(cfg, facts, alias, prior)
     owner = best["owner"] if best and best.get("owner") in OWNERS else "hub"
     if carried and carried.get("owner") in OWNERS:
         owner = carried["owner"]
@@ -666,7 +680,6 @@ def apply_pack(pack, hits, fresh, gh, cfg, limits, reviews, now, event):
     by_repo = {r["repo"].lower(): r for r in fresh}
     chosen = [by_repo[h["repo"].lower()] for h in shortlist if h["repo"].lower() in by_repo]
     inspections = inspect_sources(gh, chosen, limits)
-    audited = cfg.get("audited_elsewhere", {})
     candidates = []
     for h in shortlist:
         rec = by_repo.get(h["repo"].lower())
@@ -695,7 +708,7 @@ def apply_pack(pack, hits, fresh, gh, cfg, limits, reviews, now, event):
             "files_inspected": sorted(ins.get("texts", {}).keys()), "tests_found": int(ins.get("tests", 0)),
             "inspection_error": ins.get("error"),
             "pack_verdict": verdict, "pack_reason": reason, "rank_score": score,
-            "audited_elsewhere": audited.get(rec["repo"]),
+            "audited_elsewhere": rec.get("audited_elsewhere"),
             "suggested_owner": owner if verdict == "needs-test" else None,
             "evidence": [rec["url"] + "/tree/" + rec["sha"]] + [rec["url"] + "/blob/" + rec["sha"] + "/" + quote(f)
                                                                   for f in sorted(ins.get("texts", {}).keys())[:4]],
@@ -795,6 +808,7 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
     # 2. Decide what to enrich: watched repos and requests first, then new search hits.
     prior_rows = load_candidates(CANDIDATES)
     prior_latest = {str(r.get("repo", "")).lower(): r for r in latest_per_repo(prior_rows)}
+    prior_by_id = {r["repo_id"]: r for r in prior_latest.values() if isinstance(r.get("repo_id"), int)}
     known = set(prior_latest)
     targets, topic_of = [], {}
     requested = parse_requests(requests_text if requests_text is not None else os.environ.get("DISCOVERY_REQUESTS", ""))
@@ -811,19 +825,28 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             if h["repo"].lower() not in {t.lower() for t in targets}:
                 targets.append(h["repo"])
                 topic_of[h["repo"].lower()] = "pack:" + pack["id"]
+    batch = int(limits.get("graphql_batch_size", 15))
+    max_batches = int(limits.get("max_graphql_batches", 4))
+    budget = batch * max_batches
+    # Previously routed / adopted repos are re-checked so releases, issues, SHA moves and
+    # review validity are seen. Oldest check first, with reserved slots, so new search hits
+    # can never starve them run after run.
+    monitored = sorted(((k, r) for k, r in prior_latest.items()
+                        if r.get("verdict") in {"adopt", "needs-test"} and k not in topic_of),
+                       key=lambda kr: (kr[1].get("last_checked", ""), kr[0]))
+    reserve = max(0, min(len(monitored), max(1, budget // 3), budget - len(targets)))
+    for key, row in monitored[:reserve]:
+        targets.append(row["repo"])
+        topic_of[key] = row.get("topic", "monitor")
     fresh_hits = sorted((v for k, v in pool.items() if k not in known and k not in topic_of),
                         key=lambda v: (-v[2]["stars"], v[0].lower()))
     for name, topic, _item in fresh_hits[: int(limits.get("max_new_candidates_per_run", 25))]:
         targets.append(name)
         topic_of[name.lower()] = topic
-    # Re-check previously routed / adopted repos so releases and issues are monitored.
-    for key, row in sorted(prior_latest.items()):
-        if row.get("verdict") in {"adopt", "needs-test"} and key not in topic_of:
-            targets.append(row["repo"])
-            topic_of[key] = row.get("topic", "monitor")
-    batch = int(limits.get("graphql_batch_size", 15))
-    max_batches = int(limits.get("max_graphql_batches", 4))
-    targets = targets[: batch * max_batches]
+    for key, row in monitored[reserve:]:
+        targets.append(row["repo"])
+        topic_of[key] = row.get("topic", "monitor")
+    targets = targets[:budget]
 
     reviews = load_reviews(REVIEWS)
     fresh = []
@@ -847,8 +870,22 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
         except RuntimeError as exc:
             feeds.append({"id": feed_id, "kind": "graphql", "status": "error", "detail": safe(exc, 120), "repos": len(names)})
             continue
-        missing = 0
+        missing, partial = 0, 0
+        # Field errors inside a repo alias mean its facts are incomplete (a missing license or
+        # head would read as a hard reject). Those repos keep their prior record this run.
+        tainted, unplaced = set(), False
+        for err in errors or []:
+            path = (err or {}).get("path") or []
+            if str((err or {}).get("type", "")).upper() == "NOT_FOUND" and len(path) == 1:
+                continue
+            if path and isinstance(path[0], str) and re.fullmatch(r"r\d+", path[0]):
+                tainted.add(path[0])
+            elif str(path[:1]) != "['rateLimit']":
+                unplaced = True
         for i, name in enumerate(names):
+            if unplaced or ("r" + str(i)) in tainted:
+                partial += 1
+                continue
             facts = facts_from_graphql(data.get("r" + str(i)))
             if not facts or not facts.get("repo"):
                 missing += 1
@@ -856,10 +893,12 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             if facts["id"] in seen_ids:
                 continue          # same repo reached under an old and a new name
             seen_ids.add(facts["id"])
-            prior = prior_latest.get(facts["repo"].lower()) or prior_latest.get(name.lower())
+            prior = (prior_by_id.get(facts["id"]) or prior_latest.get(facts["repo"].lower())
+                     or prior_latest.get(name.lower()))
             topic = topic_of.get(name.lower(), "search")
             record = build_record(facts, cfg, now, reviews.get(facts["repo"].lower()), prior, topic,
-                                  carried_by_repo.get(facts["repo"].lower()) or carried_by_repo.get(name.lower()))
+                                  carried_by_repo.get(facts["repo"].lower()) or carried_by_repo.get(name.lower()),
+                                  alias=name)
             if prior:
                 if prior.get("version") != record["version"] and record["version"] != "head":
                     events.append({"type": "release", "repo": record["repo"], "from": prior.get("version"),
@@ -872,10 +911,12 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             else:
                 events.append({"type": "new_candidate", "repo": record["repo"], "verdict": record["verdict"]})
             fresh.append(record)
-        status = "ok" if not errors or missing < len(names) else "error"
-        entry = {"id": feed_id, "kind": "graphql", "status": status, "repos": len(names), "resolved": len(names) - missing}
-        if missing:
-            entry["detail"] = str(missing) + " repo(s) not found or not visible"
+        status = "error" if (missing + partial) == len(names) else "partial" if partial else "ok"
+        entry = {"id": feed_id, "kind": "graphql", "status": status, "repos": len(names),
+                 "resolved": len(names) - missing - partial}
+        if missing or partial:
+            entry["detail"] = (str(missing) + " repo(s) not found or not visible; " + str(partial)
+                               + " deferred after GraphQL field errors (prior record kept)")
         feeds.append(entry)
 
     pack_reports = []

@@ -64,6 +64,7 @@ class FakeGitHub(ds.GitHub):
     search_items = []
     calls_log = []
     rate_limit_search = False
+    graphql_errors = []       # repo names whose licenseInfo field errors (null + error entry)
 
     def get(self, path, params, compact):
         FakeGitHub.calls_log.append(("GET", path))
@@ -74,13 +75,16 @@ class FakeGitHub(ds.GitHub):
     def graphql(self, query, variables):
         FakeGitHub.calls_log.append(("GRAPHQL", len(variables)))
         assert "$o0" in query and "repository(owner: $o0, name: $n0)" in query
-        data = {}
+        data, errors = {}, []
         i = 0
         while "o%d" % i in variables:
             name = variables["o%d" % i] + "/" + variables["n%d" % i]
             data["r%d" % i] = FakeGitHub.world.get(name.lower())
+            if name.lower() in FakeGitHub.graphql_errors and data["r%d" % i]:
+                data["r%d" % i] = dict(data["r%d" % i], licenseInfo=None)
+                errors.append({"path": ["r%d" % i, "licenseInfo"], "message": "Something went wrong"})
             i += 1
-        return data, []
+        return data, errors
 
 
 def search_item(name, rid, stars=50):
@@ -110,6 +114,7 @@ class DiscoveryRunTests(unittest.TestCase):
         FakeGitHub.search_items = []
         FakeGitHub.calls_log = []
         FakeGitHub.rate_limit_search = False
+        FakeGitHub.graphql_errors = []
         self.root = root
 
     def save_config(self):
@@ -247,6 +252,71 @@ class DiscoveryRunTests(unittest.TestCase):
         self.assertEqual("Wheel", rows["acme/dog"]["suggested_owner"])
         self.assertEqual("Dog", rows["acme/dog"]["provenance"]["carried_forward"])
         self.assertEqual("carried-forward", rows["acme/dog"]["topic"])
+
+    def test_graphql_field_error_defers_instead_of_rejecting(self):
+        FakeGitHub.search_items = [search_item("acme/relay", 1)]
+        FakeGitHub.world = {"acme/relay": node("acme/relay", 1)}
+        self.run_once()
+        self.assertEqual("needs-test", self.rows()[0]["verdict"])
+        # Next run the license field fails to resolve: the node comes back with
+        # licenseInfo null plus a field error. That is missing data, not "no license".
+        FakeGitHub.graphql_errors = ["acme/relay"]
+        status = self.run_once(now=NOW.replace(hour=7))
+        rows = self.rows()
+        self.assertEqual(1, len(rows))
+        self.assertEqual("needs-test", rows[0]["verdict"])
+        self.assertEqual("MIT", rows[0]["license"])
+        feed = [f for f in status["feeds"] if f["kind"] == "graphql"][0]
+        self.assertEqual("error", feed["status"])          # every repo in the batch was deferred
+        self.assertIn("1 deferred after GraphQL field errors", feed["detail"])
+        self.assertEqual("partial", status["last_run"]["outcome"])
+        # A brand-new repo hit by a field error is not written as a reject either.
+        FakeGitHub.search_items = [search_item("acme/newbie", 2)]
+        FakeGitHub.world["acme/newbie"] = node("acme/newbie", 2)
+        FakeGitHub.graphql_errors = ["acme/newbie"]
+        self.run_once(now=NOW.replace(hour=8))
+        self.assertNotIn("acme/newbie", {r["repo"] for r in self.rows()})
+
+    def test_monitored_repos_keep_reserved_slots_when_fresh_hits_fill_budget(self):
+        self.cfg["limits"].update({"graphql_batch_size": 3, "max_graphql_batches": 1})
+        self.save_config()
+        FakeGitHub.search_items = [search_item("acme/relay", 1)]
+        FakeGitHub.world = {"acme/relay": node("acme/relay", 1)}
+        self.run_once()
+        self.assertEqual("needs-test", self.rows()[0]["verdict"])
+        # Later runs: more popular fresh hits alone would fill all 3 slots every time.
+        FakeGitHub.search_items = [search_item("acme/hot%d" % n, 10 + n, stars=900 - n) for n in range(5)]
+        FakeGitHub.world.update({"acme/hot%d" % n: node("acme/hot%d" % n, 10 + n) for n in range(5)})
+        FakeGitHub.world["acme/relay"] = node("acme/relay", 1, release="v2")
+        later = NOW.replace(hour=9)
+        self.run_once(now=later)
+        relay = [r for r in self.rows() if r["repo"] == "acme/relay"]
+        self.assertIn("v2", {r["version"] for r in relay})
+        self.assertEqual(ds.iso(later), max(r["last_checked"] for r in relay))
+
+    def test_audited_identity_survives_a_rename(self):
+        # Config names the old repo; GitHub now answers under a new name (same id).
+        FakeGitHub.search_items = [search_item("busy/monitor-v2", 7)]
+        FakeGitHub.world = {"busy/monitor-v2": node("busy/monitor-v2", 7)}
+        self.cfg["watch_repos"] = ["busy/monitor"]
+        self.save_config()
+        FakeGitHub.world["busy/monitor"] = node("busy/monitor-v2", 7)
+        self.run_once()
+        rows = {r["repo"]: r for r in self.rows()}
+        self.assertEqual("already audited", rows["busy/monitor-v2"]["audited_elsewhere"])
+        self.assertIsNone(rows["busy/monitor-v2"]["task"])
+        # Next run only the new name appears (no watch entry): the prior note, found by id, holds.
+        self.cfg["watch_repos"] = []
+        self.save_config()
+        del FakeGitHub.world["busy/monitor"]
+        self.run_once(now=NOW.replace(hour=7))
+        rows = {r["repo"]: r for r in self.rows()}
+        self.assertEqual("already audited", rows["busy/monitor-v2"]["audited_elsewhere"])
+        # The GitHub id form also matches with no name at all.
+        self.assertEqual("x", ds.audited_note({"audited_elsewhere": {"id:7": "x"}}, {"id": 7, "repo": "a/b"}))
+        # Dropping it from the config clears the sticky note.
+        self.assertIsNone(ds.audited_note({"audited_elsewhere": {}}, {"id": 7, "repo": "a/b"},
+                                          prior={"audited_elsewhere": "already audited"}))
 
     def test_carried_manual_verdict_cannot_adopt_or_override_hard_facts(self):
         self.cfg["carried_forward"] = [
