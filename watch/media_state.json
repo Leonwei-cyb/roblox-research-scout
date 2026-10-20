@@ -504,7 +504,13 @@
     "ffbf1b57d47fb7e5111daca5",
     "e5dab0a29013b1f27c3d8bd9",
     "151206a4d5e9990dd0dc83a5",
-    "1255c8ee82dd344f34513f6f"
+    "1255c8ee82dd344f34513f6f",
+    "d533ce0d57c9ecfb6c9e4cd3",
+    "b08b43e28d9589f8e1ccfe99",
+    "4748e2dedd9221af36ab96ba",
+    "27fe893706183c970c17e718",
+    "f0d8581be514ddac513f40d4",
+    "e97bed4879d73547a6f41766"
   ],
   "items": [
     {
@@ -565,6 +571,17 @@
       "id": "f95b5ef9b2f9d34e527a6f55"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for feedback on this Roblox Dungeon Crawler",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xatx0h/looking_for_feedback_on_this_roblox_dungeon/",
+      "published": "2026-10-20",
+      "excerpt": "Title says it all just looking for some feedback. It would be much appreciated!:) https://www.roblox.com/share?code=f86a1bd5e347804488be8f6ab9d09a00&type=ExperienceDetails&stamp=1792507190391 submitted by /u/ReflectionSudden8823 [link] [comments]",
+      "creator": "/u/ReflectionSudden8823 https://www.reddit.com/user/ReflectionSudden8823",
+      "id": "f0d8581be514ddac513f40d4"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -597,6 +614,17 @@
       "excerpt": "https://www.roblox.com/games/112468607238410/Ant-Incremental Hi everyone, I feel like my game is doing really poorly stats-wise especially for its genre, it might be cause it’s more of a niche genre or there could just something fundamentally wrong with my game The average playtime since release flu",
       "creator": "/u/Accurate-Arugula7956 https://www.reddit.com/user/Accurate-Arugula7956",
       "id": "ea6bf55efaa0149e2a6ff21e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I Made a World War II Historical Reenactment Game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xato9d/i_made_a_world_war_ii_historical_reenactment_game/",
+      "published": "2026-10-20",
+      "excerpt": "submitted by /u/TrulyEclipsed2 [link] [comments]",
+      "creator": "/u/TrulyEclipsed2 https://www.reddit.com/user/TrulyEclipsed2",
+      "id": "e97bed4879d73547a6f41766"
     },
     {
       "source": "roblox-devforum-latest",
@@ -656,6 +684,18 @@
       "excerpt": "Hii everyone! I have started documenting my journey building an extraction game called 'Loot & Escape' over at V Studio Roblox . Since I don't know how to code, I tried using an AI initially, but it kept breaking. then got the baseplate working, ran into a wierd 'noob' bug, and set up the Black Mark",
       "creator": "/u/Itchy_Camel3702 https://www.reddit.com/user/Itchy_Camel3702",
       "id": "d6a95dd048120e2a0e148983"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Group Social Link has improper validation",
+      "url": "https://devforum.roblox.com/t/group-social-link-has-improper-validation/4946497",
+      "published": "2026-10-20",
+      "excerpt": "When attempting to add a group social link to a game the regex validation is too strict and makes it awkward since when copying a group’s link https://www.roblox.com/communities/10280307/Nendo-Arts#!/about https://www.roblox.com/communities/10280307/Nendo-Arts https://www.roblox.com/communities/1028",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/group-social-link-has-improper-validation/4946497.rss",
+      "id": "d533ce0d57c9ecfb6c9e4cd3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -727,6 +767,18 @@
       "excerpt": "Hi. This is our coding tool for our minibuilding, roleplay game. It took us several iterations but it's fairly usable now. I'm absolutely not a developer for the game, and my LUAU knowledge is AWFULL, but even than I was able to use my scratch knowledge to code a few obbies ingame with it. :) submit",
       "creator": "/u/Amfishty https://www.reddit.com/user/Amfishty",
       "id": "b0b193782313ad01027414be"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Asset Manager window fails to open after selecting files to upload",
+      "url": "https://devforum.roblox.com/t/asset-manager-window-fails-to-open-after-selecting-files-to-upload/4946481",
+      "published": "2026-10-20",
+      "excerpt": "When I press Import or use the Import quick action in the asset manager and select the files I want to upload, the window which shows the files that will be uploaded does not show up, and I can’t upload them. I get a warning inside of the Output window: ▶ [Roblox][AssetManager.AssetManager.Packages.",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/asset-manager-window-fails-to-open-after-selecting-files-to-upload/4946481.rss",
+      "id": "b08b43e28d9589f8e1ccfe99"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1009,6 +1061,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Abilty to make public servers for roblox plus users",
+      "url": "https://devforum.roblox.com/t/abilty-to-make-public-servers-for-roblox-plus-users/4946445",
+      "published": "2026-10-20",
+      "excerpt": "Hello This idea inspired from roblox private server. Starting with the idea : the idea is basically allowing roblox plus users who is age verified to make public server that they can kick people from ! why? in private server you could kick a player who maybe is cheating or is bad actor and you the h",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/abilty-to-make-public-servers-for-roblox-plus-users/4946445.rss",
+      "id": "4748e2dedd9221af36ab96ba"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "VoxelBlox: Construye tu Mundo: looking for testers (shop free for 7 days)",
       "url": "https://devforum.roblox.com/t/voxelblox-construye-tu-mundo-looking-for-testers-shop-free-for-7-days/4946374",
       "published": "2026-10-20",
@@ -1064,6 +1128,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sirenmodule-a-module-for-making-tornado-sirens/4946387.rss",
       "id": "2cc0337895b0c4c620cc5dbb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How do you determine the prices for your animations?",
+      "url": "https://devforum.roblox.com/t/how-do-you-determine-the-prices-for-your-animations/4946444",
+      "published": "2026-10-20",
+      "excerpt": "Hello, I’ve been an animator for quite a few years now, but I’ve always struggled to put a definitive price on my animations, because it depends on the length and time I spent animating it. And thus I often put prices on things that didn’t really represent the time and effort I put into something, n",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-you-determine-the-prices-for-your-animations/4946444.rss",
+      "id": "27fe893706183c970c17e718"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5800,6 +5876,7 @@
       "published": "2026-09-21",
       "excerpt": "look in my story to win 10,000 Robux 🎁 Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "ecfebea7b429892d174adce6"
     },
     {
