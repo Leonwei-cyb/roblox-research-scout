@@ -9,19 +9,19 @@
       "url": "https://github.com/CodePhobiia/claude-roblox-game-studio"
     },
     "Donchitos/Claude-Code-Game-Studios": {
-      "head": "be8993bbc5a1f016bc770b2846ce06272d284526",
-      "head_subject": "Release 1.1.3 — long skills keep their later steps",
+      "head": "05ad7c8a5b8aa2aa86bbd3439ae7cf7295cac418",
+      "head_subject": "Release 1.2.0 — the main path, rebuilt and tested",
       "name": "Donchitos/Claude-Code-Game-Studios",
-      "release_tag": "v1.1.3",
-      "release_url": "https://github.com/Donchitos/Claude-Code-Game-Studios/releases/tag/v1.1.3",
+      "release_tag": "v1.2.0",
+      "release_url": "https://github.com/Donchitos/Claude-Code-Game-Studios/releases/tag/v1.2.0",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "0d35f6f0ad40759d7ac89edc6ddd8a4aafc636e4",
-      "head_subject": "i18n: pl (#9458)",
+      "head": "b33749fe6c9b0a4fec0ccb210b20202282444bfe",
+      "head_subject": "New hook: 'Minz_HookType::AutofillField' for auth views (#9362)",
       "name": "FreshRSS/FreshRSS",
-      "release_tag": "1.30.1",
-      "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.1",
+      "release_tag": "1.30.2",
+      "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.2",
       "url": "https://github.com/FreshRSS/FreshRSS"
     },
     "PepeElToro41/ui-labs": {
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "70a0110fee0c0900103e545fcaee69a8bd2a942f",
+      "head": "7400643072eb304fe85ef89cffe96f5c56f98c7e",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "ef7bfdca55d906929fe6b782025b93758c325074",
-      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
+      "head": "a6e289a2e772a17b3614a9ef43303003de5cd887",
+      "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.303",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
+      "release_tag": "v2.1.304",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "804876fdd189f7d2aa8152f165e1965c56b77d51",
-      "head_subject": "docker-compose.yml - SCREENSHOT_MAX_HEIGHT default is 20000, not 16000 (#4568)",
+      "head": "be09f73c3af1bbc698d19a532ef6d3c9987e6370",
+      "head_subject": "Restock: let a plugin do LLM price/stock extraction without litellm (HTML + text hook, reusable helpers) (#4545)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.9",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "36a6e994d2f6c4ab94b3555185154d069e5dba87",
-      "head_subject": "api: populate show renderer/parser fields and add template_source (#19095)",
+      "head": "e61ba8b470b9f1a0b1070f5aecb49c3ab75dd1d1",
+      "head_subject": "openai: finish reasoning before client tool calls (#19146)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.6",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",

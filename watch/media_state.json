@@ -422,9 +422,358 @@
     "bb81fcc9f5d0757a34bbae29",
     "8db871d74b96725cd8c2dc24",
     "b7ea0002fd955b0de2a019e9",
-    "2d19d8564b99734e15329068"
+    "2d19d8564b99734e15329068",
+    "7364ef42ac01ec50236658f0",
+    "d8663687d032be5ac56ce1b0",
+    "27770bd6e162eadd661ce260",
+    "b1d70dd92d0ebaad30510879",
+    "6efec52fe6468bae9a47f067",
+    "b555c034035ae6631ec97074",
+    "0973ecdea75ce3027001279b",
+    "776fa7ab2f9a88956536df4d",
+    "5df40f44ac57fca0872e51fb",
+    "0140773c799b251d082930e7",
+    "d3d0c9fa3cef0dc965fa7e65",
+    "6c28ad756792f46228be9864",
+    "c12e901c18be471a409ccc40",
+    "a3e0909c9f96e358ab9058da",
+    "b0b193782313ad01027414be",
+    "2a15c0fdd5e3988f167dca1d",
+    "24f8fb937a36c2fc27cccdce",
+    "a2fcd5796354f9d2bc7c8d12",
+    "07ee59f89ed126d67d0a6782",
+    "0ed1633be39759f3f42e434f",
+    "0b462201946ab4d48439495e",
+    "6b3cd904008c137d9cf079ea",
+    "ec692ba7d89c1a183b0c89fb",
+    "8e6933ebadcb95ba918aeb45",
+    "592282f0fabcf8e449818b13",
+    "576300ee174446c9a72dc604",
+    "7c548758c3554df473c0a2bf",
+    "1cf2defe97bf27fd0685972e",
+    "f4896541f62dd17b605ea8b4",
+    "249772db6e3b3e7a54015e29",
+    "4ed0b15a29d2349ecddd54de",
+    "f6c671be070761d92d65fd3e",
+    "dc89d35687ade00de10cb6c2",
+    "0901a6f202a900d82714aafb",
+    "a3227f9ac455f9f25112acb4",
+    "40ceb65de1f83a5f2625251a",
+    "05e4ce889427359b973a0175"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "New Roblox Game Inspired by Warcraft 3 – Sheep Tag!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xak88c/new_roblox_game_inspired_by_warcraft_3_sheep_tag/",
+      "published": "2026-10-20",
+      "excerpt": "Hey everyone! 🐑 My partner has been spending a lot of time creating his own Roblox game called Sheep Tag, and I wanted to share it here! It's inspired by an old Warcraft 3 mod, but he's been putting his own spin on it with custom 3D models, environments and gameplay. You can play as a Runner, buildi",
+      "creator": "/u/TildaNova https://www.reddit.com/user/TildaNova",
+      "id": "ec692ba7d89c1a183b0c89fb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Optional Oklab Color Interpolation for UIGradient",
+      "url": "https://devforum.roblox.com/t/optional-oklab-color-interpolation-for-uigradient/4945957",
+      "published": "2026-10-20",
+      "excerpt": "I would like to propose adding an optional color interpolation mode to UIGradient that supports the Oklab color space , alongside the existing interpolation behavior. this would allow developers to create perceptually smoother and more consistent color gradients without having to manually generate i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/optional-oklab-color-interpolation-for-uigradient/4945957.rss",
+      "id": "d8663687d032be5ac56ce1b0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Collaborators have disappeared from website, but still appear in Studio- my collaborators can't access the Creator Hub page anymore",
+      "url": "https://devforum.roblox.com/t/collaborators-have-disappeared-from-website-but-still-appear-in-studio-my-collaborators-cant-access-the-creator-hub-page-anymore/4945720",
+      "published": "2026-10-20",
+      "excerpt": "At 7:19 PM Central, one of my collaborators reported they could no longer access the Moderation page of our game. My other collaborators looked into it, and also cannot access any of the game’s pages on Creator Hub. On checking the Collaborators list on Creator Hub, I found it empty except for me. H",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/collaborators-have-disappeared-from-website-but-still-appear-in-studio-my-collaborators-cant-access-the-creator-hub-page-anymore/4945720.rss",
+      "id": "d3d0c9fa3cef0dc965fa7e65"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Group Community locked i wait 7 days my holder account: doesn’t have access to the devforum",
+      "url": "https://devforum.roblox.com/t/group-community-locked-i-wait-7-days-my-holder-account-doesn%E2%80%99t-have-access-to-the-devforum/4945859",
+      "published": "2026-10-20",
+      "excerpt": "Hello, I am writing here because I am completely stuck and I do not know where else to report this issue. My holder polinalove19999 account no have receive moderation i just check on my group they locked community only My group “Escape Obby Roblox Games” (holder account: polinalove19999 doesn’t have",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/group-community-locked-i-wait-7-days-my-holder-account-doesn%E2%80%99t-have-access-to-the-devforum/4945859.rss",
+      "id": "b555c034035ae6631ec97074"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback on \"Private servers\"",
+      "url": "https://devforum.roblox.com/t/feedback-on-private-servers/4945882",
+      "published": "2026-10-20",
+      "excerpt": "It does not give any example on how a Plus user using a paid private server leads to the earning of the dev.s Affected URL: Private servers | Documentation - Roblox Creator Hub 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-private-servers/4945882.rss",
+      "id": "b1d70dd92d0ebaad30510879"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Scratch-style Coding Tool",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xahmwy/scratchstyle_coding_tool/",
+      "published": "2026-10-20",
+      "excerpt": "Hi. This is our coding tool for our minibuilding, roleplay game. It took us several iterations but it's fairly usable now. I'm absolutely not a developer for the game, and my LUAU knowledge is AWFULL, but even than I was able to use my scratch knowledge to code a few obbies ingame with it. :) submit",
+      "creator": "/u/Amfishty https://www.reddit.com/user/Amfishty",
+      "id": "b0b193782313ad01027414be"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Dev releasing many games a year, how is this possible?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaj797/dev_releasing_many_games_a_year_how_is_this/",
+      "published": "2026-10-20",
+      "excerpt": "There is a dev on Roblox that has released about 4-5 games this year all within a few months. They are complete games, some good, most not, but they are complete games. It shows he's only a solo developer. I'm wondering how is he able to keep pumping out games? Is he buying them or maybe hiring anot",
+      "creator": "/u/ThatGuyFromCA47 https://www.reddit.com/user/ThatGuyFromCA47",
+      "id": "a2fcd5796354f9d2bc7c8d12"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Game Title: BUILD A PLANET! — Beta",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajpbe/game_title_build_a_planet_beta/",
+      "published": "2026-10-20",
+      "excerpt": "Playable Link: https://www.roblox.com/games/137005017218055/ Platform: Roblox — PC and mobile Description: I’m looking for feedback on how the customization and progression systems work together in my Roblox project, BUILD A PLANET! Players start on a small gray floating island and collect orbs to e",
+      "creator": "/u/GomuGNM https://www.reddit.com/user/GomuGNM",
+      "id": "8e6933ebadcb95ba918aeb45"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Cannot access any place with Team Create enabled",
+      "url": "https://devforum.roblox.com/t/cannot-access-any-place-with-team-create-enabled/4945825",
+      "published": "2026-10-20",
+      "excerpt": "I can’t open any game under my group that has team create enabled. Keep seeing this after like 5 minutes or more. Seems to affect all places with team create I have access to. A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cannot-access-any-place-with-team-create-enabled/4945825.rss",
+      "id": "776fa7ab2f9a88956536df4d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Beginner Inventory System With DataSaving | Tutorial",
+      "url": "https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967",
+      "published": "2026-10-20",
+      "excerpt": "Hey, when i started out scripting on Roblox, an inventory system even a simple one would look like a tangled up mass of spaghetti. And it almost made me quit. I don’t you to quit as well. So, here’s a tutorial how to make a inventory system a beginner one with simple DataSaving Expect more Advanced ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967.rss",
+      "id": "7364ef42ac01ec50236658f0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Path clips through slopes",
+      "url": "https://devforum.roblox.com/t/path-clips-through-slopes/4945877",
+      "published": "2026-10-20",
+      "excerpt": "Hello. I have made a path building system that uses waypoints. While it works perfectly on flat surfaces: The issue comes when its used with a sloped surface, as it clips into it: (ignore the cylinder corner, i will fix that on my own maybe) The path system uses this trigonometric formula for the or",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/path-clips-through-slopes/4945877.rss",
+      "id": "6efec52fe6468bae9a47f067"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Keep loading ImageLabels while scrolling down",
+      "url": "https://devforum.roblox.com/t/keep-loading-imagelabels-while-scrolling-down/4945659",
+      "published": "2026-10-20",
+      "excerpt": "What do you want to achieve? For ImageLabels to keep loading while scrolling. What is the issue? Roblox loads the default 30 Labels but nothing after. What solutions have you tried so far? None, as I would not know how to make this work. Basically, I wanted to make a Catalog game and putting the ite",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/keep-loading-imagelabels-while-scrolling-down/4945659.rss",
+      "id": "6c28ad756792f46228be9864"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Titel: I built a free Discord bot that shows your Roblox game’s live player count and pings on spikes/drops",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xakk0u/titel_i_built_a_free_discord_bot_that_shows_your/",
+      "published": "2026-10-20",
+      "excerpt": "Hey! Disclosure: I built this (RoRadar), it's free and a solo side project. I kept refreshing my game page after updates to see if it worked, so I made a bot for it: - /setup → /track game <Roblox link> → live dashboard in your channel (players online, visits, favorites, likes, real 24 h change) - A",
+      "creator": "/u/No_Net_5715 https://www.reddit.com/user/No_Net_5715",
+      "id": "6b3cd904008c137d9cf079ea"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Why does my game have so many dislikes?",
+      "url": "https://devforum.roblox.com/t/why-does-my-game-have-so-many-dislikes/4945798",
+      "published": "2026-10-20",
+      "excerpt": "Hey everyone! I recently built a new game, a build-an-empire game that follows a similar but not the same trope as other games. Many games follow this build a type of business, but I decided to buidl a version where you can build multiple different types of businesses. Game Link: Build a Business Em",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/why-does-my-game-have-so-many-dislikes/4945798.rss",
+      "id": "5df40f44ac57fca0872e51fb"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "From a gray island to a colorful planet — BUILD A PLANET! beta showcase 🌎",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajnr7/from_a_gray_island_to_a_colorful_planet_build_a/",
+      "published": "2026-10-20",
+      "excerpt": "Hey everyone! I just published the beta of BUILD A PLANET! and wanted to share its planet transformation and decorating systems. You start on a small gray floating island. Collecting glowing orbs lets you bring it to life with grass, oversized flowers, candy trees, a crystal waterfall, and a rainbow",
+      "creator": "/u/GomuGNM https://www.reddit.com/user/GomuGNM",
+      "id": "592282f0fabcf8e449818b13"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Hiring Coders for An RPG",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajfs9/hiring_coders_for_an_rpg/",
+      "published": "2026-10-20",
+      "excerpt": "Hello! I’m Syemika. I am the director of an RPG called Extermination Union. If you’ve seen my other posts, you know what Extermination Union is. But incase you haven’t, Extermination Union is a Turn-based RPG inspired by Limbus Company! Currently, we are almost a week away from starting the game’s d",
+      "creator": "/u/dorowsyyy https://www.reddit.com/user/dorowsyyy",
+      "id": "576300ee174446c9a72dc604"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Open world RP looking for feedback/stress testers",
+      "url": "https://devforum.roblox.com/t/open-world-rp-looking-for-feedbackstress-testers/4945910",
+      "published": "2026-10-20",
+      "excerpt": "More from my upcoming game! If you are interested in a stress test, join my discord as I will be doing one soon. External Media External Media 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-world-rp-looking-for-feedbackstress-testers/4945910.rss",
+      "id": "27770bd6e162eadd661ce260"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Just released my first Roblox game and would love honest feedback on the first 5 minutes",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajoln/just_released_my_first_roblox_game_and_would_love/",
+      "published": "2026-10-20",
+      "excerpt": "I just released my first Roblox game and I'd love some feedback It's called Steal the Summit. You climb a big mountain, find relics and carry them back to your camp, but anyone holding a relic can be tackled and robbed, so the trip back down is where most of the action happens. It took a lot longer ",
+      "creator": "/u/I_likememes https://www.reddit.com/user/I_likememes",
+      "id": "24f8fb937a36c2fc27cccdce"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "W ad for a new speed running game (any%) (not made by me)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaehex/w_ad_for_a_new_speed_running_game_any_not_made_by/",
+      "published": "2026-10-20",
+      "excerpt": "submitted by /u/kerminister [link] [comments]",
+      "creator": "/u/kerminister https://www.reddit.com/user/kerminister",
+      "id": "0ed1633be39759f3f42e434f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What should I add?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaknvi/what_should_i_add/",
+      "published": "2026-10-20",
+      "excerpt": "I'm looking for things to add into my Roblox game, any recommendations welcome and encouraged! Also, this post isn't an ad it's just a cinematic trailer of the game that I already made that showcases everything. I don't really want to create another showcase as theirs no need to reinvent the wheel 🤷",
+      "creator": "/u/ImpressionLopsided22 https://www.reddit.com/user/ImpressionLopsided22",
+      "id": "0b462201946ab4d48439495e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Pivot offset problem",
+      "url": "https://devforum.roblox.com/t/pivot-offset-problem/4945832",
+      "published": "2026-10-20",
+      "excerpt": "If model has pivot offset from center (PrimaryPart or without), starting drag along axis will result in unwanted offset from initial position. This offset will usually be equal to distance from pivot to center. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/pivot-offset-problem/4945832.rss",
+      "id": "0973ecdea75ce3027001279b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "HELP! help with setting position only once for my gun",
+      "url": "https://devforum.roblox.com/t/help-help-with-setting-position-only-once-for-my-gun/4945721",
+      "published": "2026-10-20",
+      "excerpt": "rightArm = the Right Shoulder motor6d in the torso AimCF is connected to the gun which is connected to the right arm instance right here i set the C0 twice that way i can get my gun into a position where it’s aiming down the sights aka AimCF. i really would like to turn this into one thing that way ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/help-help-with-setting-position-only-once-for-my-gun/4945721.rss",
+      "id": "0140773c799b251d082930e7"
+    },
+    {
+      "source": "brock-tiktok",
+      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "How to unlock the Ghost Fish in Steal an Egg #stealanegg #roblox - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lNlljdkRJZ2hMVlJvdk92Q3N0R2FMSDNjRjhJRnI0SFVEOEZkT3U4SThIRkxMRkhCNm5tV21TOEVVN25yUWZ4OWtibXNLaFhSZUF5cWRsQWZVVXg5OHJZQjhBaHZsb3pqVXhTOA?oc=5",
+      "published": "2026-10-19",
+      "excerpt": "How to unlock the Ghost Fish in Steal an Egg #stealanegg #roblox TikTok",
+      "creator": "",
+      "publisher": "https://www.tiktok.com",
+      "id": "f6c671be070761d92d65fd3e"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Homepage Recommendation Eligibility Now Requires a Custom Thumbnail",
+      "url": "https://devforum.roblox.com/t/homepage-recommendation-eligibility-now-requires-a-custom-thumbnail/4945086",
+      "published": "2026-10-19",
+      "excerpt": "Key Takeaways Upload at least one custom thumbnail that accurately represents your game so it has the best chance of being discovered. Games with only a default thumbnail are not eligible for homepage recommendations. Hi Creators, Starting today, only games with a custom thumbnail will receive impre",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/homepage-recommendation-eligibility-now-requires-a-custom-thumbnail/4945086.rss",
+      "id": "c12e901c18be471a409ccc40"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "In-Game Editable Image Publishing",
+      "url": "https://devforum.roblox.com/t/in-game-editable-image-publishing/4944421",
+      "published": "2026-10-19",
+      "excerpt": "Key Takeaways Renamed / resurrected AssetService:PromptCreateAssetAsync(Instance) as AssetService:PromptCreatePlatformContentAsync(Object) You can now support publishing EditableImage s directly from within your game into your players’ inventory Hi Creators We’re excited to announce some updates to ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/in-game-editable-image-publishing/4944421.rss",
+      "id": "a3e0909c9f96e358ab9058da"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I Poured my heart into this evergreen game and its not green",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa8el7/i_poured_my_heart_into_this_evergreen_game_and/",
+      "published": "2026-10-19",
+      "excerpt": "Hey guys, i am pretty lost on what to do right now. I’ve been making this non slop, non tower defence game for quite a while( maybe it doesn’t look that hard to make, but its my first game and I sure took many wrong paths during the making). Its an arcade style, fast paced tank shooter, where you pr",
+      "creator": "/u/peachbaby12 https://www.reddit.com/user/peachbaby12",
+      "id": "2a15c0fdd5e3988f167dca1d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "RoTanks: Complete Physics Rewamp",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xa8ln2/rotanks_complete_physics_rewamp/",
+      "published": "2026-10-19",
+      "excerpt": "There is a video of complete new physics for my roblox game inspired by Tanki Online. In this showcase you can see slopes jumping, air parkour and all other suspension`s stuff. Feel free to ask any questions. submitted by /u/IKOHCEPBATOP [link] [comments]",
+      "creator": "/u/IKOHCEPBATOP https://www.reddit.com/user/IKOHCEPBATOP",
+      "id": "07ee59f89ed126d67d0a6782"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -1248,6 +1597,7 @@
       "published": "2026-10-18",
       "excerpt": "How to get the train ticket in Steal an Egg #roblox #stealanegg TikTok",
       "creator": "",
+      "publisher": "https://www.tiktok.com",
       "id": "692847bfd5db459a87898690"
     },
     {
@@ -2279,6 +2629,7 @@
       "published": "2026-10-16",
       "excerpt": "Key Takeaways This week Roblox introduced a simpler publishing flow with early tester access, in-experience makeup creation, and tools for fixing and organizing published avatar items. Studio creators can also try Package Overrides and Quality mode for texture generation, while expanded UIShadow cap",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/weekly-recap-october-12-18-2026/4938638.rss",
       "id": "ba57c164c6825cc309370b64"
     },
     {
@@ -2323,6 +2674,7 @@
       "published": "2026-10-16",
       "excerpt": "I finally did 1Qa speed 🥹 . . . . #roblox #stealanegg Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "8db871d74b96725cd8c2dc24"
     },
     {
@@ -2345,6 +2697,7 @@
       "published": "2026-10-16",
       "excerpt": "Key Takeaways The new Quality mode beta for Texture Generations now lets you generate 4K PBR textures with color, roughness, and metalness maps providing a more accurate representation of materials. In Studio, use Model > Texture , right-click an object > Generate > Texture , or ask Assistant: /gene",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282.rss",
       "id": "63afbb083bdb1a6c9aea2cd8"
     },
     {
@@ -2455,6 +2808,7 @@
       "published": "2026-10-15",
       "excerpt": "Key Takeaways Package Overrides lets you edit a package in your place, while continuing to receive updates. Studio tracks each change as an override and reapplies it whenever the source package is updated. In Studio, go to File > Beta Features and enable Package Overrides. Hi Creators, Packages let ",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-package-overrides-and-usability-improvements/4936628.rss",
       "id": "da32518b3522515530ccea23"
     },
     {
@@ -2477,6 +2831,7 @@
       "published": "2026-10-15",
       "excerpt": "Key Takeaways Players can now create, pay for, and save custom makeup, eyelashes, and eyebrows from inside your game. You earn a 70% revenue share on purchases after recouping the creation advance. Try it in the uncopylocked Roblox Avatar Creator demo. Hi Creators, Today, we’re launching In-Experien",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/makeup-now-available-for-in-experience-creation/4936543.rss",
       "id": "cefd13da3ed794572ea3308f"
     },
     {
@@ -2596,8 +2951,9 @@
       "title": "Release Notes for 743",
       "url": "https://devforum.roblox.com/t/release-notes-for-743/4936061",
       "published": "2026-10-15",
-      "excerpt": "Hi peeps! Here are the release notes for 743 . Apparently the song Jolene by Dolly Parton was released on this day in 1973. I vote we all give it a listen today in Dolly’s memory See you next week! 25 posts - 22 participants Read full topic",
+      "excerpt": "Hi peeps! Here are the release notes for 743 . Apparently the song Jolene by Dolly Parton was released on this day in 1973. I vote we all give it a listen today in Dolly’s memory See you next week! 26 posts - 23 participants Read full topic",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/release-notes-for-743/4936061.rss",
       "id": "9d4998dce08349cee0ae4408"
     },
     {
@@ -2708,6 +3064,7 @@
       "published": "2026-10-15",
       "excerpt": "Key Takeaways In Studio, you can now update 3D accessories and clothing, including items you’ve already published. The asset ID, sales history, and existing owners carry over. Creator Dashboard also now has Folders, a Recents view for your latest uploads, and a new category view that matches how sho",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/fix-published-avatar-items-and-organize-your-creations-in-creator-dashboard/4936487.rss",
       "id": "1005c25b7fa68abcc1e27589"
     },
     {
@@ -2784,6 +3141,7 @@
       "published": "2026-10-14",
       "excerpt": "Key Takeaways UIShadow now supports text shadows, knockout shadows, inset shadows, and gradient fills. Use these to add depth and polish in your UI without complex workarounds. Enable in Studio through File > Beta Features > Upgraded UIShadows. Hi Creators! Since launching UIShadow earlier this year",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-upgraded-uishadow-capabilities/4934553.rss",
       "id": "c2d865d9fb4b960d6f2bdc34"
     },
     {
@@ -2916,6 +3274,7 @@
       "published": "2026-10-14",
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "89fb1f98d443a73d30d97571"
     },
     {
@@ -3025,6 +3384,7 @@
       "published": "2026-10-13",
       "excerpt": "Key Takeaways Custom Quick Words are now available for your game. This lets you define the phrases your players use to keep gameplay moving. Find it in Creator Hub > your game > Configure > Chat > Quick Words. As promised at RDC, starting today you can create and publish custom Quick Words for your ",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/create-your-game-specific-quick-words/4932108.rss",
       "id": "cda58c21860d6b13e5235b34"
     },
     {
@@ -3258,6 +3618,18 @@
       "id": "142d5345beac3794f49dee11"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How to make Roblox Games Using Claude - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45eTUwR2xIUFFjUm5LWkI4dG94aTRfOUo3cXJfLU5OUGJxd21NVHlreUo3S0d0NnBzRWpnNW4tQjF3UTBvVkZwM3ZMQjhxVVpaTDg3STJ3?oc=5",
+      "published": "2026-10-13",
+      "excerpt": "How to make Roblox Games Using Claude YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "0901a6f202a900d82714aafb"
+    },
+    {
       "source": "claude-news",
       "label": "Google News indexed: Claude Code new feature plugin update when:7d",
       "category": "claude_updates",
@@ -3310,6 +3682,7 @@
       "published": "2026-10-12",
       "excerpt": "Key Takeaways Starting October 12, 2026, we’re updating how impressions, clicks, and plays from Home, Search, and Charts are recorded across Roblox. You may see higher impressions and play counts, and a small decrease in play-through rate (PTR). Because this is a Roblox-wide measurement change and n",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/improved-discovery-measurement-in-creator-analytics/4930122.rss",
       "id": "da4c945c4e27f677895802a8"
     },
     {
@@ -3442,6 +3815,7 @@
       "published": "2026-10-12",
       "excerpt": "Key Takeaways We’re making publishing simpler. Answer one question, instead of the full questionnaire, to reach users 16 years and older. We’re also rolling out early tester access, so you can invite up to 10 friends to preview your game before it’s public, along with a new guided publishing flow. T",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/a-simpler-path-to-publish-plus-invite-early-testers/4930524.rss",
       "id": "9b82604471a55aa2e48f0b01"
     },
     {
@@ -3830,6 +4204,18 @@
       "id": "3c28ea7f5f733bebd2aead26"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTXR1N092OXlmNGdJRW5mb3lDMmR4akpQWkFhcWxSVElpbEc1aWZkZ1JFVU5QRTg4S1VZWG9wZWlaUEM3UElyZFZiaDVYeTI0SjVwVlNn?oc=5",
+      "published": "2026-10-11",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "249772db6e3b3e7a54015e29"
+    },
+    {
       "source": "tiktok-index",
       "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
       "category": "TikTok indexed leads",
@@ -3882,6 +4268,7 @@
       "published": "2026-10-10",
       "excerpt": "How to Make a Roblox Game With Claude AI Step by Step YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "7758ab80555f0f8f46608f21"
     },
     {
@@ -3948,6 +4335,7 @@
       "published": "2026-10-09",
       "excerpt": "It’s been so long since the last “Show off your UI designs” have been posted and I think its good to bring it back! I would love it if you follow this format Open this for an example (click for more details) Roblox Username: yourusername Style: (i.e cartoony, realistic, rpg) Programme used to create",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/show-off-your-ui-designs/4923682.rss",
       "id": "fd28b9d4adb4517975ffa7ef"
     },
     {
@@ -3970,6 +4358,7 @@
       "published": "2026-10-09",
       "excerpt": "Superbullet × Claude Opus 5.5 Is INSANE for Roblox Development YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "7a2bcdf771afe2ed346eb0cc"
     },
     {
@@ -4014,6 +4403,7 @@
       "published": "2026-10-08",
       "excerpt": "What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg TikTok",
       "creator": "",
+      "publisher": "https://www.tiktok.com",
       "id": "e25757a9c991fa4620b13def"
     },
     {
@@ -4148,6 +4538,18 @@
       "id": "7d5a9c0122d82f58513f6b7b"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdEJWMnhWaVpxTmxNb2oyMXh6VjhvMzNqbUJ6a0JKTl91WktvMVJwRmt4LWIyYkFkSXlQNEZFZl9BalU2RUFJWGZ2Vm5fcFZrd25xZ3NR?oc=5",
+      "published": "2026-10-07",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "4ed0b15a29d2349ecddd54de"
+    },
+    {
       "source": "instagram-reels",
       "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
       "category": "Instagram indexed leads",
@@ -4233,6 +4635,7 @@
       "published": "2026-10-05",
       "excerpt": "How to unlock the Enchanted Mutation in Steal an Egg #roblox #stealanegg TikTok",
       "creator": "",
+      "publisher": "https://www.tiktok.com",
       "id": "bf2b79e8f668be36d93c1484"
     },
     {
@@ -4290,6 +4693,18 @@
       "id": "e270c3ea47e539bc1605ff58"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "I’M FINDING ROBLOX’S SECRET KRABBY PATTY FORMULA - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83bHp3eERQM0JnMGNmUHRRVS1XVHVVYmlSZk1OZEJoSFBoSF95eEpVeUR2Sk1nV0gxTjJBZ0FwT1hhUHVvZ0gwbGhQcURGTW5nYmNwZFZR?oc=5",
+      "published": "2026-10-04",
+      "excerpt": "I’M FINDING ROBLOX’S SECRET KRABBY PATTY FORMULA YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "a3227f9ac455f9f25112acb4"
+    },
+    {
       "source": "brock-ig-reels",
       "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
       "category": "Roblox creator / Steal An Egg",
@@ -4299,6 +4714,18 @@
       "excerpt": "How to unlock the Enchanted Mutation in Steal an Egg #roblox #stealanegg Instagram",
       "creator": "",
       "id": "7ee73caf0c520cf40d41040d"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "AI Roblox สร้างต้นไม้แฟนตาซี 5 แบบ ฟรี! - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zU0pPdzNaWjZHbnN1TDdZMXZfb25xSThJNUJ2RXN5ZUZLZjJuTWM2SngyLUEwQzBPUXpPX2wzem1idlFQWUpXbjM2RjFDS3BCYmtmUklB?oc=5",
+      "published": "2026-10-04",
+      "excerpt": "AI Roblox สร้างต้นไม้แฟนตาซี 5 แบบ ฟรี! YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "40ceb65de1f83a5f2625251a"
     },
     {
       "source": "syphodev-claude",
@@ -4342,6 +4769,7 @@
       "published": "2026-10-03",
       "excerpt": "How to unlock the new Secret Shrine in Steal an Egg #roblox #stealanegg TikTok",
       "creator": "",
+      "publisher": "https://www.tiktok.com",
       "id": "59487c5b22362820c0d10474"
     },
     {
@@ -4375,6 +4803,7 @@
       "published": "2026-10-02",
       "excerpt": "What pets will be inside the new Enchanted Forest #roblox #stealanegg TikTok",
       "creator": "",
+      "publisher": "https://www.tiktok.com",
       "id": "2cca994f2dd39fae7b710b7b"
     },
     {
@@ -4386,6 +4815,7 @@
       "published": "2026-10-01",
       "excerpt": "BOSSES NA VIDA REAL DO STEAL AN EGG #roblox #rells #Reel #Explore #Explorar #bloxfruits #bloxfruit Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "ff470bd2530b4080e42fd01d"
     },
     {
@@ -4419,6 +4849,7 @@
       "published": "2026-10-01",
       "excerpt": "New Pet coming to Steal an Egg 😱 #roblox #stealanegg TikTok",
       "creator": "",
+      "publisher": "https://www.tiktok.com",
       "id": "3498cb4855a30d28ff2f6b3b"
     },
     {
@@ -4518,6 +4949,7 @@
       "published": "2026-09-27",
       "excerpt": "Scythe | Roblox Open Source Showcase #11 YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "83355f3c7f6aa3757fe6d3c8"
     },
     {
@@ -4529,6 +4961,7 @@
       "published": "2026-09-27",
       "excerpt": "How to unlock the Divine Mecha Scrambler Pet in Steal an Egg #roblox #stealanegg TikTok",
       "creator": "",
+      "publisher": "https://www.tiktok.com",
       "id": "79c4961eaa5ba30f70e9ad16"
     },
     {
@@ -4551,7 +4984,20 @@
       "published": "2026-09-27",
       "excerpt": "How to Create a Videogame with Unity For FREE With IA YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "36175d49ac9835d430c1b47d"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "WE ACCIDENTALLY FOUND THE NEW BIOME IN STEAL AN EGG 😱 #roblox #stealanegg WE UNLOCKED THE SECRET BIOME ACCIDENTALLY! 🌲✨ We stumbled onto Dr. Scramble’s secret portal during the admin abuse stream, def",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14LUZabzdLMUZiNlFGOUFrU21Ec21YZjdTZHotOUQ4NkhEcG1lYUZpWWRnNnpYTE5rV3k1bWFLcUVDRGFObGZmYmpXLS16REIwNEVjZ1JB?oc=5",
+      "published": "2026-09-27",
+      "excerpt": "WE ACCIDENTALLY FOUND THE NEW BIOME IN STEAL AN EGG 😱 #roblox #stealanegg WE UNLOCKED THE SECRET BIOME ACCIDENTALLY! 🌲✨ We stumbled onto Dr. Scramble’s secret portal during the admin abuse stream, defeated the boss, and dis Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "1cf2defe97bf27fd0685972e"
     },
     {
       "source": "syphodev-claude",
@@ -4562,6 +5008,7 @@
       "published": "2026-09-26",
       "excerpt": "ใช้ AI สร้างเกม Roblox 3 วันเสร็จ เล่นได้จริง YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "f77b023bbf844b7abcce8d00"
     },
     {
@@ -4573,6 +5020,7 @@
       "published": "2026-09-26",
       "excerpt": "Can AI Make an Entire Roblox Incremental Game? (Art, 3D Models, Code) YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "dc159c5c28753fa5bd71f4be"
     },
     {
@@ -4595,6 +5043,7 @@
       "published": "2026-09-26",
       "excerpt": "Admin Abuse 😮‍💨 | Steal an Egg Roblox #roblox #stealanegg Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "cafc6e31399e0c81bc1c24b0"
     },
     {
@@ -4606,6 +5055,7 @@
       "published": "2026-09-26",
       "excerpt": "Opus 5.5 + Roblox Studio is Insane. YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "713ccc618f5816fed19fb8e5"
     },
     {
@@ -4628,6 +5078,7 @@
       "published": "2026-09-26",
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "414b947f30b297abd3f4b6e9"
     },
     {
@@ -4640,6 +5091,18 @@
       "excerpt": "",
       "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
       "id": "3f640d0d6f6c8ca59ffa6246"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How to Connect Claude to Roblox Studio (Beginners Tutorial) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WQ0dsMG1FczVfdVlXZW9ncHFodFZHRm5JcmJTbUxvX0YxRXVBcHNaN1d5dDZoX05mbDJTTk9zSXc0V05UNDhwSXZZN01KZWFocjdXNk1R?oc=5",
+      "published": "2026-09-25",
+      "excerpt": "How to Connect Claude to Roblox Studio (Beginners Tutorial) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "dc89d35687ade00de10cb6c2"
     },
     {
       "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
@@ -4662,6 +5125,18 @@
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
       "id": "c675a81022db2f98e8c29309"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "A Short Story of my Journey 🥹 | Steal an Egg Roblox #roblox #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wVUNvOXlJelF0VVZwcUtqNzlIUF8wS3JWVWlPLWVoVGJMRlFyRzg5VDRBdENnOG9DeE1NQ3NoUEZpV2xObGtNc0lIU3YzYkJyZjN6eG13?oc=5",
+      "published": "2026-09-23",
+      "excerpt": "A Short Story of my Journey 🥹 | Steal an Egg Roblox #roblox #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "7c548758c3554df473c0a2bf"
     },
     {
       "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
@@ -4700,6 +5175,18 @@
       "source": "brock-ig-reels",
       "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
       "category": "Roblox creator / Steal An Egg",
+      "title": "Steal an Egg: Sammy Admin Abuse Event Breakdown! 🥚 Sammy got mind-controlled by Dr. Scramble during the latest Steal an Egg Admin Abuse event! 🥚💥 Watch till the end to see the full mission and the sec",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ic1FIMHFpelk2STVfS1VWdWlxV3NhZWVVVDBNY0lDbGNzU2Q1bHVQcXpEbE4zSThTSnJyVF9IVmFPQm44Wkk2S19JbUgwZTdUcnRKOFlB?oc=5",
+      "published": "2026-09-22",
+      "excerpt": "Steal an Egg: Sammy Admin Abuse Event Breakdown! 🥚 Sammy got mind-controlled by Dr. Scramble during the latest Steal an Egg Admin Abuse event! 🥚💥 Watch till the end to see the full mission and the secret Brainrot reward. Full breakdown on YouTube! Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "f4896541f62dd17b605ea8b4"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
       "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVEVRVmI1dkNrQkV5Tk9YSG9IeVIzdThpOC1KemlpeXJ0cl91MG0wdWV0ZFM0eHhfQ1BJUGgxTXJGN2ptdmNkYzB5cWlzT3k3MG93UU5R?oc=5",
       "published": "2026-09-22",
@@ -4717,6 +5204,18 @@
       "excerpt": "",
       "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
       "id": "5eec364ce3bb61ab07cf686b"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "ChatGPT vs Claude make search for the Needle - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMV8yQjhSTWtrZlUtc0RYeUFDLWlzRW5HVnFFbTkxY3RRVTFKb01TWThqSlFPR0ZpVkY1bHhJeEdkTFlUSWQ1Mk02Mkp2SDVrRkhWZ2RB?oc=5",
+      "published": "2026-09-22",
+      "excerpt": "ChatGPT vs Claude make search for the Needle YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "05e4ce889427359b973a0175"
     },
     {
       "source": "brock-ig-reels",
@@ -4738,6 +5237,7 @@
       "published": "2026-09-21",
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "88eccf8b83b7ac3ec53461cf"
     },
     {
@@ -4815,6 +5315,7 @@
       "published": "2026-09-20",
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "736855d40e3700a17691c7d1"
     },
     {
@@ -4980,6 +5481,7 @@
       "published": "2026-08-09",
       "excerpt": "Big revamp of my game Fun with Physics. Read full topic",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss",
       "id": "cb424818ada8cb1edd020476"
     },
     {
@@ -5024,6 +5526,7 @@
       "published": "2026-05-20",
       "excerpt": "That’s a really cool! I feel like the grapple hook system would go really well in a platform game. It gives off LittleBigPlanet vibes. Read full topic",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss",
       "id": "b68f9b74250bb622e8727c8b"
     },
     {
@@ -5035,6 +5538,7 @@
       "published": "2026-05-19",
       "excerpt": "I just released what was going to be part of a small community’s collaboration game for Christmas 2024 (and at one point was delayed to 2025 before it just fell through completely). I suppose it’s a hybrid between an adventure game world (which is what it is meant to be) and a dungeon like those fro",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss",
       "id": "151aac6450d75bf4535b866c"
     },
     {
@@ -5046,6 +5550,7 @@
       "published": "2026-05-19",
       "excerpt": "Okay, so I’m about five months late to the party but, I figured we should all share on what we have been working on this year so far. Let’s use this thread as a way to gain some feedback from our fellow peers and continue the yearly tradition of WAYWOC since the last one was posted back in 2024. I’l",
       "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss",
       "id": "08a89dbc181c1f68cb5bfc12"
     },
     {
