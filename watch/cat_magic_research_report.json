@@ -1,0 +1,74 @@
+{
+  "schema": "LEON_CAT_MAGIC_RESEARCH_REPORT_V1",
+  "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
+  "input_unique_posts": 563,
+  "original_source_candidates": 315,
+  "inspected_videos": 0,
+  "observed_gameplay_findings": 0,
+  "new_code_changes_authorized": false,
+  "candidates": [
+    {
+      "priority": "P0",
+      "topic": "first-session and mobile",
+      "key": "youtube:wOsgHv8G6EI",
+      "title": "\"Ill Pay you 20,000 to Copy This Mobile Game\"",
+      "url": "https://www.youtube.com/watch?v=wOsgHv8G6EI",
+      "kind": "youtube",
+      "published": "2026-09-11",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Can a new player identify and reach the first FREE pad from the normal spawn camera?"
+    },
+    {
+      "priority": "P0",
+      "topic": "physical tycoon purchases",
+      "key": "youtube:9IqNHhYXK0s",
+      "title": "Mastering Server Authority to Build Competitive Multiplayer Games | RDC 2026",
+      "url": "https://www.youtube.com/watch?v=9IqNHhYXK0s",
+      "kind": "youtube",
+      "published": "2026-10-12",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Does buying a pad visibly build a desk and bring a cat into the classroom?"
+    },
+    {
+      "priority": "P1",
+      "topic": "cat animation and audio",
+      "key": "devforum:4941183:1",
+      "title": "Animation Graph tracks keep ~5–6 MB of client memory each after the track, Animator and model are destroyed",
+      "url": "https://devforum.roblox.com/t/animation-graph-tracks-keep-5%E2%80%936-mb-of-client-memory-each-after-the-track-animator-and-model-are-destroyed/4941183",
+      "kind": "devforum",
+      "published": "2026-10-18",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Does an arriving cat walk, sit, study and cast without clipping through the player?"
+    },
+    {
+      "priority": "P1",
+      "topic": "UI and menus",
+      "key": "devforum:4941194:1",
+      "title": "Roblox Simulator UI Pack with Animations, SFX, and UI FX",
+      "url": "https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194",
+      "kind": "devforum",
+      "published": "2026-10-18",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Is the next upgrade price readable without covering the cat or Roblox mobile controls?"
+    },
+    {
+      "priority": "P1",
+      "topic": "world and visual design",
+      "key": "youtube:BiIAmVN6r2M",
+      "title": "Terrain Reimagined: An Early Preview | RDC 2026",
+      "url": "https://www.youtube.com/watch?v=BiIAmVN6r2M",
+      "kind": "youtube",
+      "published": "2026-10-12",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Are the blue grounds, simple entrance and first classroom visible and uncluttered?"
+    }
+  ],
+  "unfilled_topics": [
+    "tuition and economy"
+  ]
+}

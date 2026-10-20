@@ -4,11 +4,11 @@
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 563; unique posts: 562; fully reviewed: 0.
+Records processed: 564; unique posts: 563; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 148
+- devforum: 149
 - index-only: 243
 - reddit: 128
 - youtube: 43
