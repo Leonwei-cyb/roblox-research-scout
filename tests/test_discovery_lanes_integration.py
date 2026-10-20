@@ -18,6 +18,11 @@ class SpecialistIntegrationTests(unittest.TestCase):
     def test_existing_discovery_source_still_parses(self):
         ast.parse((ROOT / "scripts" / "discovery_scout.py").read_text(encoding="utf-8"))
 
+    def test_runner_uses_failure_aware_cursor_helper(self):
+        source = (ROOT / "scripts" / "discovery_scout.py").read_text(encoding="utf-8")
+        self.assertIn("research_lanes.advance_cursors(", source)
+        self.assertNotIn('old_offset + lane["completed"]', source)
+
     def test_all_topics_belong_to_a_specialist(self):
         available = {t["id"] for t in self.cfg["topics"]}
         assigned = {t for lane in self.cfg["research_lanes"] for t in lane["topics"]}
