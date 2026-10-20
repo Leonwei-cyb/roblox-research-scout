@@ -41,8 +41,8 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "3e54c1d783e2f5248caddce4af817b965f53edea",
-      "head_subject": "update Open Source Docs from Roblox internal teams",
+      "head": "d99df2ea0ed1b0ad93acf15b05bfb762c38741e2",
+      "head_subject": "Fix incorrect method reference in ChangeHistoryService.OnRecordingFin… (#1576)",
       "name": "Roblox/creator-docs",
       "release_tag": "",
       "release_url": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "a6e289a2e772a17b3614a9ef43303003de5cd887",
+      "head": "5a2676e1079cd6222a6afe85bb5fc8fab2aaece3",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.304",
@@ -113,8 +113,8 @@
       "url": "https://github.com/huginn/huginn"
     },
     "obra/superpowers": {
-      "head": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
-      "head_subject": "Release v7.0.0: rebuilt brainstorming, Antigravity Marketplace manifest, Windows hook fixes (#2489)",
+      "head": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
+      "head_subject": "Templates: require a human-written summary and the filer's instructions (#2570)",
       "name": "obra/superpowers",
       "release_tag": "v7.0.0",
       "release_url": "https://github.com/obra/superpowers/releases/tag/v7.0.0",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "3aa41cbdc3cc49bbed816b12617257223813a37e",
-      "head_subject": "llama.cpp: version bump b11738 (#19143)",
+      "head": "52f168120e8cb38a367653353f84feedefede706",
+      "head_subject": "server: read loaded runner models without refMu (#19070)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.6",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
@@ -187,6 +187,7 @@
     "jisancreativestudio-dev/Steam-Happy-Roblox-Vault",
     "jnMetaCode/agency-agents-zh",
     "johe123qwe/github-trending",
+    "jyyang621/DailyArXiv",
     "kumarsohitcate98-debug/kazehaya-luau-lab",
     "linny006/mcp-servers-live",
     "linny006/trending-claude-skills",
