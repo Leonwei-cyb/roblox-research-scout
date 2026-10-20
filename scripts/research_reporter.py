@@ -50,9 +50,9 @@ TITLE_GATES = {
         r"|\bmobile.{0,18}(ui|controls?|tutorial|onboard|experience)"
     ),
     "physical tycoon purchases": (
-        r"\btycoon\b|\bpurchas\w*.{0,12}(pad|button)|\bbuy.{0,12}(pad|button)"
-        r"|\bupgrade (system|mechanic|button|cost|price)"
-        r"|\bbuild (animation|effect)"
+        r"\btycoon\b.{0,24}\b(purchase|buy|pad|button|build|upgrade)\b"
+        r"|\b(purchas|buy|upgrad)\w*.{0,16}\b(pad|button|desk|classroom|building)\b"
+        r"|\b(build|construct)\w*.{0,18}\b(animation|effect|purchase|pad|button|desk)\b"
     ),
     "cat animation and audio": (
         r"\banimat\w*.{0,16}(cat|pet)|\b(cat|pet).{0,18}(animation|controller|walking|rig|movement)"
