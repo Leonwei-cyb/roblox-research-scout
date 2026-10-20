@@ -4,7 +4,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from research_lanes import plan_queries, prioritize_hits
+from research_lanes import plan_queries, prioritize_hits, advance_cursors
 
 
 def example():
@@ -115,6 +115,37 @@ class ResearchLanesTests(unittest.TestCase):
                                   {"id": "../bad", "topics": ["tools"], "weight": 10}]
         _, status, _ = plan_queries(cfg, {}, 4)
         self.assertEqual(len(status), 4)
+
+
+    def test_failed_cat_query_remains_first_after_later_success(self):
+        cfg = {"topics": [{"id": "cat", "queries": ["cat-a", "cat-b", "cat-c"]}],
+               "research_lanes": [{"id": "cat-magic", "topics": ["cat"], "weight": 5}]}
+        planned, _, _ = plan_queries(cfg, {}, 2)
+        self.assertEqual([query for _, query, _ in planned], ["cat-a", "cat-b"])
+        cursors = advance_cursors(cfg, {}, planned, ["deferred", "ok"])
+        self.assertEqual(cursors.get("cat-magic", 0), 0)
+        retry, _, _ = plan_queries(cfg, {"research_lane_cursor": cursors}, 2)
+        self.assertEqual(retry, planned)
+
+    def test_successful_prefix_advances_only_to_first_failure(self):
+        cfg = {"topics": [{"id": "cat", "queries": ["cat-a", "cat-b", "cat-c"]}],
+               "research_lanes": [{"id": "cat-magic", "topics": ["cat"], "weight": 5}]}
+        planned, _, _ = plan_queries(cfg, {}, 3)
+        cursors = advance_cursors(cfg, {}, planned, ["ok", "error", "ok"])
+        self.assertEqual(cursors["cat-magic"], 1)
+        retry, _, _ = plan_queries(cfg, {"research_lane_cursor": cursors}, 2)
+        self.assertEqual(retry[0][1], "cat-b")
+
+    def test_not_modified_advances_but_deferred_does_not(self):
+        cfg = {"topics": [{"id": "cat", "queries": ["cat-a", "cat-b", "cat-c"]}],
+               "research_lanes": [{"id": "cat-magic", "topics": ["cat"], "weight": 5}]}
+        planned, _, _ = plan_queries(cfg, {}, 2)
+        self.assertEqual(advance_cursors(cfg, {}, planned,
+                                         ["not_modified", "deferred"])["cat-magic"], 1)
+        self.assertEqual(advance_cursors(cfg, {}, planned, ["ok", "ok"])["cat-magic"], 2)
+        with self.assertRaises(ValueError):
+            advance_cursors(cfg, {}, planned, ["ok"])
+
 
 
 if __name__ == "__main__":
