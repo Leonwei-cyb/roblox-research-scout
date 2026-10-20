@@ -20,8 +20,9 @@ class LearningRadarTests(unittest.TestCase):
         self.assertEqual(identity("https://twitter.com/Other/status/123")[0], "x:123")
         self.assertEqual(identity("https://instagram.com/reel/ABC_123")[0], "instagram:ABC_123")
         self.assertEqual(identity("https://tiktok.com/@creator/video/123")[0], "tiktok:123")
-        self.assertNotEqual(identity("https://instagram.com/creator")[0],
-                            identity("https://instagram.com/other")[0])
+        self.assertEqual(identity("https://instagram.com/creator"), (None, None))
+        self.assertEqual(identity("https://x.com/Artist"), (None, None))
+        self.assertEqual(identity("https://youtube.com/@creator"), (None, None))
 
     def test_forbid_insecure_and_embedded_credentials(self):
         self.assertEqual(identity("http://x.com/Artist/status/123"), (None, None))
