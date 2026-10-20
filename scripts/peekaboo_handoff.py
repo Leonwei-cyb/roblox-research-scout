@@ -69,10 +69,10 @@ def capture(key, app, window_id, index, probe=VISUAL, *, keep_private=False, pub
         raise ValueError("Only a dedicated public-only browser window is eligible")
     if type(window_id) is not int or window_id <= 0:
         raise ValueError("An exact positive window ID is required")
-    if keep_private and not public_window_confirmed:
-        raise ValueError("Retaining a screenshot requires confirming a dedicated public-only browser window")
+    if not public_window_confirmed:
+        raise ValueError("Any browser capture requires confirming one dedicated public-only window")
     command = [sys.executable, str(probe), "capture", "--app", app,
-               "--window-id", str(window_id), "--allow-browser"]
+               "--window-id", str(window_id), "--allow-browser", "--confirm-public-only-window"]
     if keep_private:
         command += ["--keep-private"]
     # Even a successful capture is NOT an assertion that it shows the right post.
