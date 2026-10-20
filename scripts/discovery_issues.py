@@ -30,7 +30,7 @@ PACKS = ROOT / "findings" / "packs"
 LEDGER = ROOT / "findings" / "issue_ledger.json"
 HOME_REPO = "Leonwei-cyb/roblox-research-scout"
 API = "https://api.github.com"
-MARKER = re.compile(r"<!-- discovery-key: ([a-z0-9][a-z0-9-]*/[a-z0-9_.-]+) -->")
+MARKER = re.compile(r"<!-- discovery-key: (id:[0-9]+|[a-z0-9][a-z0-9-]*/[a-z0-9_.-]+) -->")
 
 
 def target_repo():
@@ -74,10 +74,18 @@ def selected(reports, min_score=60):
     for report in reports:
         for c in report.get("candidates", []):
             if (c.get("pack_verdict") == "needs-test" and not c.get("audited_elsewhere")
-                    and int(c.get("rank_score", 0)) >= min_score):
+                    and not c.get("inspection_error") and int(c.get("rank_score", 0)) >= min_score):
                 out.append((report, c))
     out.sort(key=lambda rc: (-int(rc[1]["rank_score"]), rc[1]["repo"].lower()))
     return out
+
+
+def route_keys(c):
+    """GitHub's numeric id survives renames and transfers; the name is the fallback."""
+    keys = [c["repo"].lower()]
+    if isinstance(c.get("repo_id"), int):
+        keys.insert(0, "id:" + str(c["repo_id"]))
+    return keys
 
 
 def clean(text, n=300):
@@ -102,8 +110,7 @@ def issue_body(report, c):
             "adopt or reject in `findings/reviews/`.", "",
         "Evidence: " + " ".join(c.get("evidence", [])[:5]), "",
         "Run: " + clean(report.get("run_at"), 30) + ". Not full GitHub coverage.", "",
-        "<!-- discovery-key: " + c["repo"].lower() + " -->",
-    ]
+    ] + ["<!-- discovery-key: " + k + " -->" for k in route_keys(c)]
     return "\n".join(lines)
 
 
@@ -128,9 +135,9 @@ def main(argv):
                 keys[key] = number
     created = 0
     for report, c in picks:
-        key = c["repo"].lower()
-        if key in keys:
-            print("Already tracked: " + c["repo"] + " in #" + str(keys[key]))
+        known = [k for k in route_keys(c) if k in keys]
+        if known:
+            print("Already tracked: " + c["repo"] + " in #" + str(keys[known[0]]))
             continue
         if created >= max_issues:
             print("Issue budget reached; " + c["repo"] + " waits for the next run.")
@@ -142,10 +149,12 @@ def main(argv):
             issue = request("POST", "/repos/" + repo + "/issues", token,
                             {"title": title, "body": issue_body(report, c)})
             print("Opened #" + str(issue.get("number")) + ": " + title)
-            ledger[key] = issue.get("number")
+            for k in route_keys(c):
+                ledger[k] = issue.get("number")
             LEDGER.parent.mkdir(parents=True, exist_ok=True)
             LEDGER.write_text(json.dumps(ledger, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-        keys[key] = "new"
+        for k in route_keys(c):
+            keys[k] = "new"
         created += 1
     return 0
 

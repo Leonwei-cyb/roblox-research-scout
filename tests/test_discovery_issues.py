@@ -89,6 +89,38 @@ class IssueRoutingTests(unittest.TestCase):
         with patch.object(di, "request", lambda m, p, t, b=None: rows if "page=1" in p else []):
             self.assertEqual({"a/b": 14}, di.existing_keys(di.HOME_REPO, "t"))
 
+    def test_renamed_repo_is_matched_by_github_id(self):
+        """Codex P2 (PR #20): a rename changed owner/repo, so a name-only marker missed the old issue."""
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        packs = Path(tmp.name)
+        c = cand("new-owner/renamed", 95)
+        c["repo_id"] = 4242
+        (packs / "p.json").write_text(json.dumps({"pack": "p", "label": "P", "run_at": "x", "candidates": [c]}))
+        rows = [{"number": 7, "body": "old\n<!-- discovery-key: id:4242 -->\n<!-- discovery-key: old-owner/name -->"}]
+        posts = []
+        def fake(method, path, token, body=None):
+            if method == "GET":
+                return rows if "page=1" in path else []
+            posts.append(body)
+            return {"number": 99}
+        with patch.object(di, "PACKS", packs), patch.object(di, "request", fake), \
+                patch.dict(os.environ, {"GITHUB_TOKEN": "t", "GITHUB_REPOSITORY": di.HOME_REPO}):
+            di.main([])
+        self.assertEqual([], posts)
+
+    def test_new_issue_carries_id_and_name_markers(self):
+        c = cand("a/b")
+        c["repo_id"] = 5
+        body = di.issue_body({"pack": "p", "label": "P", "run_at": "x"}, c)
+        self.assertIn("<!-- discovery-key: id:5 -->", body)
+        self.assertIn("<!-- discovery-key: a/b -->", body)
+
+    def test_deferred_inspection_is_never_routed(self):
+        c = cand("x/y", 99)
+        c["inspection_error"] = "core budget low"
+        self.assertEqual([], di.selected([{"candidates": [c]}]))
+
     def test_dry_run_never_posts(self):
         with patch.dict(os.environ, {"GITHUB_TOKEN": "t", "GITHUB_REPOSITORY": di.HOME_REPO}):
             di.main(["--dry-run"])

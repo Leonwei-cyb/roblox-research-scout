@@ -269,6 +269,40 @@ class MultiChatGPTPackFixtureTest(unittest.TestCase):
                 self.assertNotIn(part, words)
 
 
+class InspectionFailureTest(unittest.TestCase):
+    """Codex P2 (PR #20): a failed tree read became 'unknown' and then a definitive reject."""
+
+    def test_failed_inspection_is_deferred_not_rejected(self):
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        root = Path(tmp.name)
+        (root / "watch").mkdir()
+        cfg = json.loads((ROOT / "watch" / "discovery.json").read_text())
+        cfg["topics"], cfg["watch_repos"], cfg["carried_forward"] = [], [], []
+        (root / "watch" / "discovery.json").write_text(json.dumps(cfg))
+
+        class FlakyTrees(FixtureGitHub):
+            def get(self, path, params, compact):
+                if "/git/trees/" in path and "multi-llm-web-orchestrator" in path:
+                    raise RuntimeError("GitHub HTTP 502 for tree")
+                return FixtureGitHub.get(self, path, params, compact)
+
+        patches = [patch.object(ds, a, root / r) for a, r in (
+            ("CONFIG", "watch/discovery.json"), ("STATE", "watch/discovery_state.json"),
+            ("CANDIDATES", "findings/candidates.jsonl"), ("SUMMARY", "findings/SUMMARY.md"),
+            ("REVIEWS", "findings/reviews"), ("STATUS", "status/discovery.json"), ("PACKS", "findings/packs"))]
+        patches.append(patch.object(ds, "GitHub", FlakyTrees))
+        for p in patches:
+            p.start()
+            self.addCleanup(p.stop)
+        ds.run(now=NOW, token="fixture", requests_text="", event="fixture")
+        report = json.loads((root / "findings" / "packs" / "multi-chatgpt-web-workers.json").read_text())
+        c = {x["repo"]: x for x in report["candidates"]}[ORCH]
+        self.assertEqual("needs-test", c["pack_verdict"])
+        self.assertIn("deferred", c["pack_reason"])
+        self.assertTrue(c["inspection_error"])
+
+
 class NoApiKeyWordingTest(unittest.TestCase):
     """Live false positive (TED-H-com/multi-ai-chat, 2026-10-20): 'There are no model API keys' and
     'do not require model API keys' were read as needing an API key, so a browser-session

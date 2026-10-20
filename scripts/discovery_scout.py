@@ -665,10 +665,13 @@ def apply_pack(pack, hits, fresh, gh, cfg, limits, reviews, now, event):
         review = reviews.get(rec["repo"].lower())
         review_ok = review and review.get("sha") == rec["sha"]
         verdict, reason = packs.pack_verdict(rec, mode, review["verdict"] if review_ok else None)
+        if ins.get("error") and not review_ok and verdict == "reject" and mode == "unknown":
+            # No source was read: that is missing evidence, not evidence against the repo.
+            verdict, reason = "needs-test", "source inspection deferred (" + safe(ins["error"], 80) + "); retried next run"
         score = packs.rank_score(h, rec, mode, browser, ins.get("tests", 0))
         owner = pack.get("owner", "Wheel") if pack.get("owner") in OWNERS else "Wheel"
         entry = {
-            "repo": rec["repo"], "url": rec["url"], "sha": rec["sha"], "version": rec["version"],
+            "repo": rec["repo"], "repo_id": rec.get("repo_id"), "url": rec["url"], "sha": rec["sha"], "version": rec["version"],
             "license": rec["license"], "days_since_commit": rec["signals"]["days_since_commit"],
             "stars": rec["signals"]["stars"], "found_by": sorted(h["hits"]), "search_rank": h["best_rank"],
             "mode": mode, "browser_evidence": browser, "api_evidence": api,
@@ -683,9 +686,10 @@ def apply_pack(pack, hits, fresh, gh, cfg, limits, reviews, now, event):
         candidates.append(entry)
         rec.setdefault("packs", {})[pack["id"]] = {k: entry[k] for k in (
             "mode", "pack_verdict", "pack_reason", "rank_score", "found_by", "browser_evidence", "api_evidence")}
-        if verdict == "needs-test" and rec["verdict"] == "reject" and rec["verdict_reason"].startswith(("no fit", "score")):
+        if (verdict == "needs-test" and not ins.get("error") and rec["verdict"] == "reject"
+                and rec["verdict_reason"].startswith(("no fit", "score"))):
             rec["verdict"], rec["verdict_reason"] = "needs-test", "query pack " + pack["id"] + ": " + reason
-        if verdict == "needs-test" and not entry["audited_elsewhere"] and not rec.get("task"):
+        if verdict == "needs-test" and not ins.get("error") and not entry["audited_elsewhere"] and not rec.get("task"):
             rec["suggested_owner"] = owner
             rec["task"] = ("Pin " + rec["repo"] + "@" + rec["sha"][:7] + ", read its " + rec["license"]
                            + " license and the inspected files, then run one isolated source-level reuse test against "
