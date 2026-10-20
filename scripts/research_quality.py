@@ -62,6 +62,13 @@ def publisher_of(row):
             return suffix.replace("|", "/") + " (title suffix)"
     return "unknown"
 
+def md_cell(text):
+    """Feed titles are untrusted: no links, emphasis, table breaks or @mentions in the report."""
+    text = re.sub(r"[\x00-\x1f\x7f<>`]", " ", str(text)).replace("\\", "\\\\")
+    for ch in "[]|*_#!~":
+        text = text.replace(ch, "\\" + ch)
+    return text.replace("@", "@\u200b")
+
 def pct(part, whole):
     return f"{(part / whole * 100 if whole else 0):.1f}%"
 
@@ -93,7 +100,7 @@ def report(rows, active_sources=None):
         lines += ["## Indexed redirects by publisher", "",
             "Google News redirect links are not resolved: the current article format needs Google's undocumented batchexecute endpoint, which this bot does not call. Search the publisher directly instead.", "",
             "| Publisher | Redirects |", "|---|---:|"]
-        lines += ["| "+name+" | "+str(n)+" |" for name, n in sorted(redirects.items(), key=lambda kv: (-kv[1], kv[0]))[:12]]
+        lines += ["| "+md_cell(name)+" | "+str(n)+" |" for name, n in sorted(redirects.items(), key=lambda kv: (-kv[1], kv[0]))[:12]]
         lines.append("")
     lines += ["## Actionable interpretation", "",
         "- Prefer curated original creator uploads and first-party Studio/DevForum content over broad Google News search results.",

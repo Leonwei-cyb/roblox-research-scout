@@ -41,6 +41,9 @@ jobs:
        contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association))
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    outputs:
+      # 'true' only when main now holds this run's reports; routing reads main.
+      published: ${{ steps.publish.outputs.published }}
     steps:
       - uses: actions/checkout@v4
       - name: Unit tests (offline)
@@ -52,6 +55,7 @@ jobs:
           DISCOVERY_REQUESTS: ${{ github.event.inputs.repos || github.event.client_payload.repos || github.event.issue.body || '' }}
         run: python3 scripts/discovery_scout.py
       - name: Commit discovery outputs only
+        id: publish
         if: always()
         run: |
           git config user.name 'github-actions[bot]'
@@ -59,6 +63,7 @@ jobs:
           git add findings/ status/discovery.json watch/discovery_state.json
           if git diff --cached --quiet; then
             echo 'No discovery change.'
+            echo 'published=true' >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m 'Refresh open-source discovery'
@@ -66,20 +71,22 @@ jobs:
             git fetch origin main
             if ! git rebase origin/main; then
               git rebase --abort
-              echo 'Discovery output conflicts with newer main; next run will retry.'
+              echo '::warning::Discovery output conflicts with newer main; issues not routed, next run retries.'
               exit 0
             fi
             if git push origin HEAD:main; then
+              echo 'published=true' >> "$GITHUB_OUTPUT"
               exit 0
             fi
             sleep 2
           done
-          echo 'Concurrent update; next scheduled run will retry without force-pushing.'
+          echo '::warning::Concurrent update; issues not routed, next run retries without force-pushing.'
 
   route-issues:
     # Separate job so only this step can write issues, and only in this repo.
     needs: discover
-    if: needs.discover.result == 'success'
+    # Only route from reports this run actually put on main (never from an older scan).
+    if: needs.discover.result == 'success' && needs.discover.outputs.published == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 3
     permissions:

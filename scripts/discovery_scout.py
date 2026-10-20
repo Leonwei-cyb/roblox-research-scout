@@ -78,6 +78,9 @@ def parse_iso(text):
     return dt if dt.tzinfo else None
 
 
+RATE_LIMIT_MESSAGE = re.compile(r"secondary rate limit|abuse detection|rate limit exceeded", re.I)
+
+
 def safe(text, max_len=160):
     """Third-party text is data: strip control characters and bound the length."""
     text = re.sub(r"[\x00-\x1f\x7f]", " ", str(text or ""))
@@ -170,8 +173,16 @@ class GitHub:
     def _raise_for(self, err, what):
         headers = err.headers or {}
         self._note_rate(headers)
+        body = ""
+        if err.code == 403:
+            try:
+                body = (err.read() or b"")[:2048].decode("utf-8", "replace")
+            except Exception:   # noqa: BLE001 - no body (fp None raises KeyError on 3.9); headers still decide
+                body = ""
+        # A secondary limit can come as a bare 403 whose message is the only signal.
+        secondary = bool(RATE_LIMIT_MESSAGE.search(body))
         if err.code == 429 or (err.code == 403 and (headers.get("X-RateLimit-Remaining") == "0"
-                                                     or headers.get("Retry-After"))):
+                                                     or headers.get("Retry-After") or secondary)):
             reset = ""
             if headers.get("X-RateLimit-Reset"):
                 try:
@@ -183,6 +194,9 @@ class GitHub:
                     reset = iso(self.now + timedelta(seconds=int(headers["Retry-After"])))
                 except ValueError:
                     reset = ""
+            if not reset:
+                # GitHub: with no reset header, wait at least one minute before retrying.
+                reset = iso(self.now + timedelta(minutes=1))
             raise RateLimited("GitHub rate limit for " + what, reset)
         raise RuntimeError("GitHub HTTP " + str(err.code) + " for " + what)
 

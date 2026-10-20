@@ -478,6 +478,27 @@ class HttpClientTests(unittest.TestCase):
                 gh.get("/search/repositories", {"q": "x"}, ds.compact_search)
         self.assertTrue(ctx.exception.reset_at.endswith("Z"))
 
+    def test_headerless_secondary_limit_403_is_a_rate_limit(self):
+        """Codex P2 on PR #20: a bare 403 with only the message was retried like a normal error."""
+        gh = ds.GitHub("t", {}, {}, NOW)
+
+        def fake_urlopen(req, timeout):
+            raise HTTPError(req.full_url, 403, "Forbidden", self.headers(), io.BytesIO(
+                b'{"message":"You have exceeded a secondary rate limit. Please wait a few minutes."}'))
+
+        with patch.object(ds, "urlopen", fake_urlopen):
+            with self.assertRaises(ds.RateLimited) as ctx:
+                gh.get("/search/repositories", {"q": "x"}, ds.compact_search)
+        self.assertEqual(ds.iso(NOW.replace(minute=1)), ctx.exception.reset_at)
+
+        def plain_403(req, timeout):
+            raise HTTPError(req.full_url, 403, "Forbidden", self.headers(), io.BytesIO(b'{"message":"Resource not accessible"}'))
+
+        with patch.object(ds, "urlopen", plain_403):
+            with self.assertRaises(RuntimeError) as ctx:
+                gh.get("/search/repositories", {"q": "x"}, ds.compact_search)
+        self.assertNotIsInstance(ctx.exception, ds.RateLimited)
+
     def test_graphql_requires_token_and_uses_variables(self):
         with self.assertRaises(RuntimeError):
             ds.GitHub("", {}, {}, NOW).graphql("query{x}", {})
@@ -526,6 +547,11 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn("      contents: write\n      issues: write", route)
         self.assertIn("git add findings/issue_ledger.json", route)
         self.assertIn("needs: discover", route)
+        # Codex P2: routing must not run from an older report when this run's push failed.
+        self.assertIn("needs.discover.outputs.published == 'true'", route)
+        self.assertIn("published: ${{ steps.publish.outputs.published }}", discover)
+        commit_step = discover.split("id: publish", 1)[1]
+        self.assertEqual(2, commit_step.count("echo 'published=true' >> \"$GITHUB_OUTPUT\""))
         for banned in ("pull-requests: write", "gh pr merge", "pulls.merge", "--force", "push -f"):
             self.assertNotIn(banned, self.data)
         self.assertIn("secrets.GITHUB_TOKEN", self.data)

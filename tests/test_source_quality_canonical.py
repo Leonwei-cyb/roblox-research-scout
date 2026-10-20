@@ -75,6 +75,15 @@ class SourceQualityCanonicalTests(unittest.TestCase):
         # Legacy rows without the field fall back to the ' - Publisher' title suffix.
         self.assertIn("| YouTube (title suffix) | 1 |", text)
 
+    def test_publisher_from_title_is_inert_markdown(self):
+        """Codex P2 on PR #20: a legacy title suffix went into the table as live Markdown."""
+        rows = [{"source": "s", "title": "x - [click](https://evil.test) @someone",
+                 "url": "https://news.google.com/rss/articles/3"}]
+        text = quality.report(rows, active_sources={"s"})
+        self.assertNotIn("[click](", text)
+        self.assertIn("\\[click\\](https://evil.test)", text)
+        self.assertNotIn("@someone", text)
+
     def test_existing_contract_unchanged(self):
         self.assertIn("0.0%", quality.report([]))
 
