@@ -277,6 +277,7 @@ GRAPHQL_FIELDS = """
   }
   object(expression: "HEAD:") { ... on Tree { entries { name type } } }
   readme: object(expression: "HEAD:README.md") { ... on Blob { text } }
+  workflows: object(expression: "HEAD:.github/workflows") { ... on Tree { entries { name } } }
 """
 
 
@@ -292,6 +293,7 @@ def build_graphql(names):
 
 
 README_CHARS = 1500
+CI_FILES = {".circleci", ".gitlab-ci.yml", ".travis.yml", "azure-pipelines.yml", "jenkinsfile", ".buildkite"}
 TEST_DIRS = {"test", "tests", "__tests__", "spec", "specs", "testing", "e2e"}
 
 
@@ -332,7 +334,10 @@ def facts_from_graphql(node):
             for i in ((node.get("recentIssues") or {}).get("nodes") or [])
         ],
         "has_tests": bool(names & TEST_DIRS),
-        "has_ci": ".github" in names or ".circleci" in names or ".gitlab-ci.yml" in names,
+        # A .github folder alone is often just issue templates; count real CI configuration.
+        "has_ci": any(str(e.get("name", "")).lower().endswith((".yml", ".yaml"))
+                      for e in (((node.get("workflows") or {}).get("entries")) or []))
+                  or bool(names & CI_FILES),
         # Used for scoring only; never stored or rendered.
         "readme_excerpt": safe((node.get("readme") or {}).get("text"), README_CHARS),
     }
@@ -638,7 +643,14 @@ def inspect_sources(gh, records, limits):
                 out[repo.lower()]["error"] = "graphql budget low"
             continue
         query, variables = build_blob_query(chunk)
-        data, _errors = gh.graphql(query, variables, what="graphql: source files of " + str(len(chunk)) + " repos")
+        data, errors = gh.graphql(query, variables, what="graphql: source files of " + str(len(chunk)) + " repos")
+        for err in errors or []:
+            path = (err or {}).get("path") or []
+            if path and isinstance(path[0], str) and re.fullmatch(r"r\d+", path[0]) and int(path[0][1:]) < len(chunk):
+                out[chunk[int(path[0][1:])][0].lower()]["partial"] = True
+            else:
+                for repo, _sha, _paths in chunk:      # an error we cannot place taints the whole batch
+                    out[repo.lower()]["partial"] = True
         for i, (repo, _sha, paths) in enumerate(chunk):
             node = data.get("r%d" % i) or {}
             for j, path in enumerate(paths):
@@ -665,9 +677,14 @@ def apply_pack(pack, hits, fresh, gh, cfg, limits, reviews, now, event):
         review = reviews.get(rec["repo"].lower())
         review_ok = review and review.get("sha") == rec["sha"]
         verdict, reason = packs.pack_verdict(rec, mode, review["verdict"] if review_ok else None)
-        if ins.get("error") and not review_ok and verdict == "reject" and mode == "unknown":
-            # No source was read: that is missing evidence, not evidence against the repo.
-            verdict, reason = "needs-test", "source inspection deferred (" + safe(ins["error"], 80) + "); retried next run"
+        incomplete = ins.get("error") or ("truncated file tree" if ins.get("tree_truncated") else
+                                          "partial source read" if ins.get("partial") else "")
+        if (incomplete and not review_ok and verdict == "reject"
+                and reason.startswith(packs.MODE_REJECT_PREFIXES)):
+            # Missing or partial source is missing evidence, not evidence against the repo.
+            # License, archive and staleness rejections stand: they do not depend on the files.
+            verdict, reason = "needs-test", "source inspection deferred (" + safe(incomplete, 80) + "); retried next run"
+            ins = dict(ins, error=incomplete)
         score = packs.rank_score(h, rec, mode, browser, ins.get("tests", 0))
         owner = pack.get("owner", "Wheel") if pack.get("owner") in OWNERS else "Wheel"
         entry = {

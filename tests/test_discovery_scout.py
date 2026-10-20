@@ -53,6 +53,7 @@ def node(name, rid, sha=SHA_A, release="", license_id="MIT", archived=False, for
         "issues": {"totalCount": len(issues or [])},
         "recentIssues": {"nodes": issues or []},
         "object": {"entries": [{"name": "test", "type": "tree"}, {"name": ".github", "type": "tree"}]},
+        "workflows": {"entries": [{"name": "ci.yml"}]},
         "readme": {"text": "# Relay\nForwards webhooks."},
     }
 
@@ -302,6 +303,18 @@ class VerdictTests(unittest.TestCase):
         rec = ds.build_record(f, CONFIG, NOW, None, None, "search")
         self.assertNotIn("readme_excerpt", json.dumps(rec))
         self.assertTrue(rec["blockers"])
+
+    def test_ci_needs_real_workflow_files(self):
+        """Codex P2 (PR #20): a .github folder with only issue templates counted as CI."""
+        n = node("acme/relay", 1)
+        n["object"] = {"entries": [{"name": ".github", "type": "tree"}]}
+        n["workflows"] = None
+        self.assertFalse(ds.facts_from_graphql(n)["has_ci"])
+        n["workflows"] = {"entries": [{"name": "ci.yml"}]}
+        self.assertTrue(ds.facts_from_graphql(n)["has_ci"])
+        n["workflows"] = None
+        n["object"] = {"entries": [{"name": ".gitlab-ci.yml", "type": "blob"}]}
+        self.assertTrue(ds.facts_from_graphql(n)["has_ci"])
 
     def test_parse_requests(self):
         self.assertEqual(["a/b", "c/d.e"], ds.parse_requests("a/b https://github.com/c/d.e.git a/b"))

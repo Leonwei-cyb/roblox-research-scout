@@ -220,6 +220,10 @@ def classify(texts):
     return mode, browser, api
 
 
+# Rejections that come from the files read (so a partial read must not make them final).
+MODE_REJECT_PREFIXES = ("API-only", "no evidence of browser-session")
+
+
 def pack_verdict(record, mode, review_verdict=None):
     if review_verdict:
         return review_verdict, "tested review"

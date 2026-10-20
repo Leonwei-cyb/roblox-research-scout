@@ -303,6 +303,55 @@ class InspectionFailureTest(unittest.TestCase):
         self.assertTrue(c["inspection_error"])
 
 
+class IncompleteInspectionTest(unittest.TestCase):
+    """Codex P2 (PR #20): truncated trees / partial GraphQL reads were classified as if complete."""
+
+    def run_with(self, gh_class):
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        root = Path(tmp.name)
+        (root / "watch").mkdir()
+        cfg = json.loads((ROOT / "watch" / "discovery.json").read_text())
+        cfg["topics"], cfg["watch_repos"], cfg["carried_forward"] = [], [], []
+        (root / "watch" / "discovery.json").write_text(json.dumps(cfg))
+        patches = [patch.object(ds, a, root / r) for a, r in (
+            ("CONFIG", "watch/discovery.json"), ("STATE", "watch/discovery_state.json"),
+            ("CANDIDATES", "findings/candidates.jsonl"), ("SUMMARY", "findings/SUMMARY.md"),
+            ("REVIEWS", "findings/reviews"), ("STATUS", "status/discovery.json"), ("PACKS", "findings/packs"))]
+        patches.append(patch.object(ds, "GitHub", gh_class))
+        for p in patches:
+            p.start()
+            self.addCleanup(p.stop)
+        ds.run(now=NOW, token="fixture", requests_text="", event="fixture")
+        report = json.loads((root / "findings" / "packs" / "multi-chatgpt-web-workers.json").read_text())
+        return {x["repo"]: x for x in report["candidates"]}
+
+    def test_truncated_tree_defers_a_would_be_reject(self):
+        class Truncated(FixtureGitHub):
+            def get(self, path, params, compact):
+                if "/git/trees/" in path and "session-store" in path:
+                    data, status = FixtureGitHub.get(self, path, params, lambda b: b)
+                    return compact(dict(data, truncated=True)), status
+                return FixtureGitHub.get(self, path, params, compact)
+        c = self.run_with(Truncated)["decoy-org/session-store"]
+        self.assertEqual("needs-test", c["pack_verdict"])
+        self.assertIn("truncated", c["pack_reason"])
+
+    def test_partial_graphql_defers_but_license_reject_stands(self):
+        class Partial(FixtureGitHub):
+            def graphql(self, query, variables, what="graphql"):
+                data, errors = FixtureGitHub.graphql(self, query, variables, what)
+                if "e0_0" in variables:
+                    errors = [{"path": ["r%d" % i, "f0"], "message": "timeout"}
+                              for i in range(6) if "o%d" % i in variables]
+                return data, errors
+        cands = self.run_with(Partial)
+        self.assertEqual("needs-test", cands["decoy-org/agent-crew"]["pack_verdict"])
+        self.assertIn("partial", cands["decoy-org/agent-crew"]["pack_reason"])
+        self.assertEqual("reject", cands[MULTI]["pack_verdict"])          # no license, files irrelevant
+        self.assertIn("no license", cands[MULTI]["pack_reason"])
+
+
 class NoApiKeyWordingTest(unittest.TestCase):
     """Live false positive (TED-H-com/multi-ai-chat, 2026-10-20): 'There are no model API keys' and
     'do not require model API keys' were read as needing an API key, so a browser-session
