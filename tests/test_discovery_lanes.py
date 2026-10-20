@@ -47,6 +47,18 @@ class ResearchLanesTests(unittest.TestCase):
         second, _, _ = plan_queries(cfg, {"research_lane_cursor": cursor}, 4)
         self.assertNotEqual(first, second)
 
+    def test_every_lane_gets_a_slot_when_budget_allows(self):
+        picked, _, _ = plan_queries(example(), {}, 4)
+        self.assertEqual({x[2] for x in picked}, {"cat-magic", "tower", "anime", "tools"})
+
+    def test_small_budget_rotates_between_lanes(self):
+        cfg = example()
+        seen = set()
+        for run in range(4):
+            picked, _, _ = plan_queries(cfg, {"research_lane_run": run}, 1)
+            seen.update(x[2] for x in picked)
+        self.assertEqual(seen, {"cat-magic", "tower", "anime", "tools"})
+
     def test_disabled_lane_does_not_run(self):
         cfg = example()
         cfg["research_lanes"][1]["enabled"] = False
