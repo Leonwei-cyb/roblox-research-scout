@@ -59,6 +59,28 @@ def plan_queries(config, state, budget):
                        "offset": offset, "taken": 0, "order": order, "status": item})
 
     selected, seen_query = [], set()
+    def take(entry):
+        topic, query, lid = entry["items"][entry["taken"]]
+        entry["taken"] += 1
+        if query in seen_query:
+            return
+        seen_query.add(query)
+        selected.append((topic, query, lid))
+        entry["status"]["planned"] += 1
+
+    # Reserve one opportunity for every specialist if the budget fits.
+    # With fewer slots than lanes, rotate the reserved slots across runs.
+    if budget >= len(active):
+        for entry in active:
+            take(entry)
+    elif active and budget:
+        try:
+            offset = max(0, int(state.get("research_lane_run", 0))) % len(active)
+        except (ValueError, TypeError):
+            offset = 0
+        for entry in (active[offset:] + active[:offset])[:budget]:
+            take(entry)
+
     while len(selected) < budget:
         eligible = [a for a in active if a["taken"] < len(a["items"])]
         if not eligible:
@@ -68,12 +90,7 @@ def plan_queries(config, state, budget):
             a["credit"] += a["weight"]
         winner = max(eligible, key=lambda a: (a["credit"], a["weight"], -a["order"]))
         winner["credit"] -= total_weight
-        topic, query, lid = winner["items"][winner["taken"]]
-        winner["taken"] += 1
-        if query not in seen_query:
-            seen_query.add(query)
-            selected.append((topic, query, lid))
-            winner["status"]["planned"] += 1
+        take(winner)
 
     for a in active:
         cursors[a["id"]] = (a["offset"] + a["taken"]) % len(a["items"])
