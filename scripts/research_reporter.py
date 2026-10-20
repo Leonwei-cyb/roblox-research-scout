@@ -96,7 +96,7 @@ def clean(text: object, max_length: int = 130) -> str:
 
 
 def analyze(index: dict, limit: int = 6) -> dict:
-    """Choose independent, primary-source leads, not purported gameplay insights."""
+    """Choose candidate direct-platform links, not validated original sources."""
     if not isinstance(index, dict) or not isinstance(index.get("posts"), list):
         raise ValueError("Learning index missing or invalid")
     if len(index["posts"]) > 10000 or not 1 <= limit <= 12:
@@ -144,13 +144,15 @@ def analyze(index: dict, limit: int = 6) -> dict:
             "title": p["title"][:160], "url": p["url"], "kind": p["kind"],
             "published": str(p.get("published", ""))[:30],
             "stage": "UNVIEWED_METADATA", "observation_verified": False,
+            "creator_verified": False, "original_media_verified": False,
             "question_for_reviewer": question,
         })
     return {
         "schema": "LEON_CAT_MAGIC_RESEARCH_REPORT_V1",
         "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
         "input_unique_posts": len(index["posts"]),
-        "original_source_candidates": len(eligible),
+        "direct_platform_candidates": len(eligible),
+        "proven_original_media": 0,
         "inspected_videos": 0, "observed_gameplay_findings": 0,
         "new_code_changes_authorized": False,
         "candidates": results,
@@ -162,21 +164,22 @@ def render(report: dict) -> str:
     lines = [
         "# Cat Magic research intelligence — evidence-gated", "",
         "**Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**",
+        "A direct platform URL does NOT establish original creator, video ownership, permission or reuse rights.",
         "This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.", "",
-        f"Indexed entries: {report['input_unique_posts']}; direct candidates: {report['original_source_candidates']};",
+        f"Indexed entries: {report['input_unique_posts']}; direct-platform links: {report['direct_platform_candidates']};",
         "Inspected videos: **0**; verified gameplay findings: **0**.", "",
-        "## Highest-value source checks", "",
+        "## Highest-value direct-link checks (authorship unverified)", "",
     ]
     if not report["candidates"]:
-        lines.append("No eligible first-party/original leads. Research quality needs improvement before making recommendations.")
+        lines.append("No eligible direct-platform leads. Original author, media content and rights remain unknown.")
     for p in report["candidates"]:
         lines.extend([
             f"- **{p['priority']} · {clean(p['topic'])}:** [{clean(p['title'])}]({p['url']})",
-            f"  - {p['kind']} · **UNVIEWED_METADATA** · Check: {clean(p['question_for_reviewer'], 260)}",
+            f"  - {p['kind']} · **UNVIEWED_METADATA** · creator/ownership UNVERIFIED · Check: {clean(p['question_for_reviewer'], 260)}",
         ])
     if report["unfilled_topics"]:
         lines.extend(["", "## Research gaps", ""])
-        lines.extend("- " + clean(topic) + ": no qualifying original/source-linked candidate" for topic in report["unfilled_topics"])
+        lines.extend("- " + clean(topic) + ": no qualifying direct-platform candidate" for topic in report["unfilled_topics"])
     lines.extend(["", "## Required before a verified improvement", "",
         "1. Inspect the original permitted source and record actual time-coded observations, creator, usage rights and uncertainty.",
         "2. Compare the observation to the **existing** Cat Magic first-session defect and choose ONE measurable code/scene change.",
