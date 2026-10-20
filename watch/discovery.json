@@ -8,9 +8,9 @@
     "max_new_candidates_per_run": 25,
     "min_rest_remaining": 120,
     "min_graphql_remaining": 150,
-    "min_stars": 15,
-    "pushed_within_days": 120,
-    "stale_days": 365,
+    "min_stars": 5,
+    "pushed_within_days": 365,
+    "stale_days": 730,
     "max_candidates_stored": 600,
     "max_versions_per_repo": 3,
     "max_backlog": 12,
@@ -44,6 +44,38 @@
         "roblox game camera occlusion in:name,description",
         "roblox visual effects tween in:name,description",
         "roblox game performance profiling in:name,description"
+      ]
+    },
+    {
+      "id": "cat-magic-animation",
+      "queries": [
+        "roblox pet animations luau in:name,description",
+        "roblox animal npc state machine in:name,description",
+        "roblox character animation blend in:name,description"
+      ]
+    },
+    {
+      "id": "one-tower-gameplay",
+      "queries": [
+        "roblox tower tycoon gameplay in:name,description",
+        "roblox waves shooter upgrades in:name,description",
+        "roblox tower defense luau in:name,description"
+      ]
+    },
+    {
+      "id": "anime-fortress-gameplay",
+      "queries": [
+        "roblox anime tower defense in:name,description",
+        "roblox raid boss system in:name,description",
+        "roblox unit placement tower defense in:name,description"
+      ]
+    },
+    {
+      "id": "emerging-game-ideas",
+      "queries": [
+        "topic:roblox template in:name,description",
+        "roblox open source game system in:name,description",
+        "roblox gameplay mechanics luau in:name,description"
       ]
     },
     {
@@ -116,6 +148,96 @@
     "obra/superpowers": "Wheel worker is implementing it (HQ comment 6283954094)"
   },
   "blockers": [
+    {
+      "id": "cat-magic-tycoon",
+      "owner": "hub",
+      "project": "Cat Magic School",
+      "label": "Cat Magic tycoon purchase pads, classroom growth and tuition feedback",
+      "core": [
+        "\\btycoon\\b",
+        "purchas\\w*.?pads?",
+        "\\bdroppers?\\b",
+        "\\bclassrooms?\\b",
+        "\\bsimulator\\b"
+      ],
+      "patterns": [
+        "\\broblox\\b",
+        "\\bluau\\b",
+        "\\btycoon\\b",
+        "\\bclassrooms?\\b",
+        "purchas\\w*",
+        "\\bbuild\\w*\\b",
+        "\\beconomy\\b|\\bincome\\b|\\btuition\\b",
+        "\\bupgrade\\w*\\b"
+      ]
+    },
+    {
+      "id": "cat-magic-characters",
+      "owner": "hub",
+      "project": "Cat Magic School",
+      "label": "Cat Magic cat movement, lesson animations and NPC behavior",
+      "core": [
+        "\\banimat\\w*",
+        "\\bnpc\\b",
+        "\\bpathfind\\w*",
+        "\\bquadruped\\b",
+        "\\bpet\\b"
+      ],
+      "patterns": [
+        "\\broblox\\b",
+        "\\bluau\\b",
+        "\\banimat\\w*",
+        "\\bnpc\\b",
+        "\\bpathfind\\w*",
+        "\\bstate.?machine\\b",
+        "\\bpet\\b|\\banimal\\b",
+        "\\bblend\\w*"
+      ]
+    },
+    {
+      "id": "one-tower-combat",
+      "owner": "hub",
+      "project": "One Tower Tycoon",
+      "label": "One Tower Tycoon upgrades, wave combat and visible construction",
+      "core": [
+        "tower.?defen\\w*",
+        "\\bwave\\w*\\b",
+        "\\bshooter\\b",
+        "\\bcombat\\b"
+      ],
+      "patterns": [
+        "\\broblox\\b",
+        "\\bluau\\b",
+        "\\btower\\b",
+        "\\bwave\\w*\\b",
+        "\\bshooter\\b",
+        "\\bcombat\\b",
+        "\\btycoon\\b",
+        "\\bupgrade\\w*\\b"
+      ]
+    },
+    {
+      "id": "anime-fortress-units",
+      "owner": "hub",
+      "project": "Anime Fortress",
+      "label": "Anime Fortress units, placement, boss waves and VFX",
+      "core": [
+        "\\btower.?defen\\w*",
+        "\\bunit.?placement\\b",
+        "\\banime\\b",
+        "\\braid.?boss\\b"
+      ],
+      "patterns": [
+        "\\broblox\\b",
+        "\\bluau\\b",
+        "\\banime\\b",
+        "\\bunit\\w*\\b",
+        "\\btower.?defen\\w*",
+        "\\bwave\\w*\\b",
+        "\\bboss\\b",
+        "\\bvfx\\b"
+      ]
+    },
     {
       "id": "parallel-worker-acks",
       "owner": "Wheel",
@@ -446,5 +568,91 @@
       "max_source_queries": 3,
       "source_per_page": 50
     }
+  ],
+  "research_lanes": [
+    {
+      "id": "cat-magic",
+      "label": "Cat Magic School",
+      "project": "Cat Magic School",
+      "enabled": true,
+      "weight": 6,
+      "topics": [
+        "cat-magic-gameplay",
+        "cat-magic-animation"
+      ]
+    },
+    {
+      "id": "one-tower",
+      "label": "One Tower Tycoon",
+      "project": "One Tower Tycoon",
+      "enabled": true,
+      "weight": 2,
+      "topics": [
+        "one-tower-gameplay"
+      ]
+    },
+    {
+      "id": "anime-fortress",
+      "label": "Anime Fortress",
+      "project": "Anime Fortress",
+      "enabled": true,
+      "weight": 1,
+      "topics": [
+        "anime-fortress-gameplay"
+      ]
+    },
+    {
+      "id": "visual-craft",
+      "label": "Art, UI & Animation",
+      "enabled": true,
+      "weight": 4,
+      "topics": [
+        "roblox-ui-animation",
+        "roblox-game-quality"
+      ]
+    },
+    {
+      "id": "roblox-engineering",
+      "label": "Roblox Dev Tools",
+      "enabled": true,
+      "weight": 2,
+      "topics": [
+        "roblox-tooling"
+      ]
+    },
+    {
+      "id": "ai-tools",
+      "label": "AI & Codex Tools",
+      "enabled": true,
+      "weight": 1,
+      "topics": [
+        "agent-orchestration",
+        "ai-cli-tools",
+        "mcp-skills"
+      ]
+    },
+    {
+      "id": "leon-systems",
+      "label": "Leon Systems",
+      "enabled": true,
+      "weight": 1,
+      "topics": [
+        "dashboard-components",
+        "review-bots",
+        "testing-research"
+      ]
+    },
+    {
+      "id": "exploration",
+      "label": "Unexpected Game Discoveries",
+      "enabled": true,
+      "weight": 1,
+      "topics": [
+        "emerging-game-ideas"
+      ]
+    }
+  ],
+  "active_projects": [
+    "Cat Magic School"
   ]
 }
