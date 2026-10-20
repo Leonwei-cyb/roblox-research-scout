@@ -91,19 +91,19 @@ class ResearchPeekabooHandoffTests(unittest.TestCase):
              patch.object(h.subprocess, "run", return_value=type("R", (), {
                  "returncode": 0, "stdout": '{"status":"BLOCKED"}'})()):
             with self.assertRaisesRegex(ValueError, "verified"):
-                h.capture("instagram:AA", "Safari", 7, INDEX)
+                h.capture("instagram:AA", "Safari", 7, INDEX, public_window_confirmed=True)
 
     def test_success_does_not_mean_a_post_was_inspected(self):
         with patch.object(Path, "is_file", return_value=True), \
              patch.object(h.subprocess, "run", return_value=type("R", (), {
                  "returncode": 0, "stdout": '{"status":"OBSERVED_READ_ONLY","local_only":true}'})()) as run:
-            r = h.capture("instagram:AA", "Safari", 7, INDEX)
+            r = h.capture("instagram:AA", "Safari", 7, INDEX, public_window_confirmed=True)
         self.assertEqual(r["status"], "CAPTURE_ONLY_UNVERIFIED_CONTENT")
         self.assertFalse(r["original_post_opened"])
         self.assertFalse(r["video_watched"])
         self.assertFalse(r["social_feed_access_unlocked"])
         args = run.call_args.args[0]
-        self.assertEqual(args[-5:], ["--app", "Safari", "--window-id", "7", "--allow-browser"])
+        self.assertEqual(args[-6:], ["--app", "Safari", "--window-id", "7", "--allow-browser", "--confirm-public-only-window"])
         self.assertNotIn("--allow-frontmost", args)
         self.assertNotIn("--keep-private", args)
 
@@ -112,7 +112,7 @@ class ResearchPeekabooHandoffTests(unittest.TestCase):
              patch.object(h.subprocess, "run", return_value=type("R", (), {
                  "returncode": 2, "stdout": "", "stderr": "Private browser window"})()):
             with self.assertRaisesRegex(ValueError, "refused or failed") as e:
-                h.capture("instagram:AA", "Safari", 7, INDEX)
+                h.capture("instagram:AA", "Safari", 7, INDEX, public_window_confirmed=True)
         self.assertNotIn("Private", str(e.exception))
 
 
