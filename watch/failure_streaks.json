@@ -1,6 +1,46 @@
 {
+  "automation": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "brock-ig-reels": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "brock-tiktok": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "brock-x": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
   "reddit-robloxstudio": {
     "reason": "HTTP 429",
+    "streak": 1
+  },
+  "roblox-animation-showcases": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "roblox-dev-scripts": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "roblox-news": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "syphodev-claude": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "tizzy-roblox-design": {
+    "reason": "HTTP 503",
+    "streak": 1
+  },
+  "x-ui": {
+    "reason": "HTTP 503",
     "streak": 1
   }
 }
