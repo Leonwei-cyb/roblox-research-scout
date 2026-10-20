@@ -8,7 +8,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk)** — Original media link, not watched
 - **[XyLo \| Scripter \| Tower Defense & Game Systems](https://devforum.roblox.com/t/xylo-scripter-tower-defense-game-systems/4946218)** — Public text/page, video not confirmed
-- **[🎃 Playtesters wanted: The Neighbors Next Door (Halloween memory/puzzle game)](https://www.reddit.com/r/robloxgamedev/comments/1x8xjig/playtesters_wanted_the_neighbors_next_door/)** — Public text/page, video not confirmed
+- **[What is the hardest part of balancing an upgrade system?](https://www.reddit.com/r/robloxgamedev/comments/1xaq2cx/what_is_the_hardest_part_of_balancing_an_upgrade/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 

@@ -486,9 +486,38 @@
     "9ed60a9a797192603a7ee7da",
     "9a26124cb8843e30eeedafe1",
     "48a9d3f775dde31cbf0ec3be",
-    "1f468ec6c4a749b51d6fdb63"
+    "1f468ec6c4a749b51d6fdb63",
+    "a666a39a879285a33f05f4b5",
+    "efe828bdff61a8402899067e",
+    "2cc0337895b0c4c620cc5dbb",
+    "f9d4af2949c93ed8224ebb48",
+    "46821706bc36fd76bf5d8d9b",
+    "26684a0e6ffcfc83dca05e94",
+    "c8e6e2176e774629f3b2c9b1",
+    "a3266db7afd895cf2c18c89c",
+    "345fa88027f9442b068ff32f",
+    "f95b5ef9b2f9d34e527a6f55",
+    "0045623688572f98850fc0d5",
+    "4b4c3536d6201a6b83b2244f",
+    "1601f6f0b0345cd902d9814e",
+    "26cd78b16952f722e3c6ae55",
+    "ffbf1b57d47fb7e5111daca5",
+    "e5dab0a29013b1f27c3d8bd9",
+    "151206a4d5e9990dd0dc83a5",
+    "1255c8ee82dd344f34513f6f"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for some feedback on my game Hordegate",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaqkpp/looking_for_some_feedback_on_my_game_hordegate/",
+      "published": "2026-10-20",
+      "excerpt": "Been working on this for a while now and wanted to see what other devs think. Mostly curious about the first few minutes of gameplay. Like, is it clear what to do when you join? Does anything feel weird or confusing? I've tested it so much myself that it's hard to judge anymore lol submitted by /u/Y",
+      "creator": "/u/Yasuven https://www.reddit.com/user/Yasuven",
+      "id": "ffbf1b57d47fb7e5111daca5"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -510,6 +539,42 @@
       "excerpt": "The scammers just used AI and free models . They couldn't even be bothered to make original ones , which are so easy to make, for real. Took around 8 Hours to rebuild everything from the ground up. Had fun while doing it. One thing AI will never be able to do is build. Other than all that, be carefu",
       "creator": "/u/Alive-Psychology6050 https://www.reddit.com/user/Alive-Psychology6050",
       "id": "fc53a2ae278886174fa81d69"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "New Dev here, looking for info!",
+      "url": "https://devforum.roblox.com/t/new-dev-here-looking-for-info/4946375",
+      "published": "2026-10-20",
+      "excerpt": "Hello! I’m a solo dev and I just made my 1st proper game and published it to the public. I have been running ads for the past week and my game has been gaining some traction BUT I just feel like I’m doing things so wrong. Here Is my game If anyone wants to have a look: Roblox (UPD!) Lawn Tower Defen",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-dev-here-looking-for-info/4946375.rss",
+      "id": "f9d4af2949c93ed8224ebb48"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Pixelation Filter",
+      "url": "https://devforum.roblox.com/t/roblox-pixelation-filter/4946328",
+      "published": "2026-10-20",
+      "excerpt": "Hey everyone, I just wanted to showcase off this cool pixel effect that I’ve been working on for the past weeks. I won’t get into the specifics, but I am using Image APIs along with other stuff to help bring this to life! I sadly came to the realization that there’s just too much math going on, so t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-pixelation-filter/4946328.rss",
+      "id": "f95b5ef9b2f9d34e527a6f55"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "UGC Particles feature",
+      "url": "https://devforum.roblox.com/t/ugc-particles-feature/4946397",
+      "published": "2026-10-20",
+      "excerpt": "i think that UGC should be allowed to have particles in them BUT not custom ones because that could easily get out of hand or be abused by bad actors ideas for implementation: allow UGC creators to use particles that are found on existing hats either just broadly or from a curated list (there isnt a",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ugc-particles-feature/4946397.rss",
+      "id": "efe828bdff61a8402899067e"
     },
     {
       "source": "reddit-robloxdev",
@@ -620,6 +685,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Impossible to set my game Paid Access",
+      "url": "https://devforum.roblox.com/t/impossible-to-set-my-game-paid-access/4946370",
+      "published": "2026-10-20",
+      "excerpt": "Every time I try it get logged in the Activity history but it doesn’t work, the game is still public. Expected behavior It should set it in Paid access. Page URL: https://create.roblox.com/dashboard/creations/experiences/10770906119/advanced-settings 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/impossible-to-set-my-game-paid-access/4946370.rss",
+      "id": "c8e6e2176e774629f3b2c9b1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Group Community locked i wait 7 days my holder account: doesn’t have access to the devforum",
       "url": "https://devforum.roblox.com/t/group-community-locked-i-wait-7-days-my-holder-account-doesn%E2%80%99t-have-access-to-the-devforum/4945859",
       "published": "2026-10-20",
@@ -667,6 +744,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "[CRITICAL] Server Animation Memory leaks continuously",
+      "url": "https://devforum.roblox.com/t/critical-server-animation-memory-leaks-continuously/4946409",
+      "published": "2026-10-20",
+      "excerpt": "Server never releases animation clips: Animation and CoreMemory/default grow with every new clip played and survive the player leaving (blank Baseplate repro) Summary Every distinct animation a server sees for the first time stays in server memory for the rest of the server’s life. It lands in Place",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-server-animation-memory-leaks-continuously/4946409.rss",
+      "id": "a666a39a879285a33f05f4b5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Group Community locked i wait 7 days my holder account: doesn’t have access to the devforum post",
       "url": "https://devforum.roblox.com/t/group-community-locked-i-wait-7-days-my-holder-account-doesn%E2%80%99t-have-access-to-the-devforum-post/4945859",
       "published": "2026-10-20",
@@ -674,6 +763,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/group-community-locked-i-wait-7-days-my-holder-account-doesn%E2%80%99t-have-access-to-the-devforum-post/4945859.rss",
       "id": "a5c909e6d870dc013f5b6778"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Koi | Solo Roblox Developer | Portfolio",
+      "url": "https://devforum.roblox.com/t/koi-solo-roblox-developer-portfolio/4946367",
+      "published": "2026-10-20",
+      "excerpt": "Koi | Solo Roblox Developer | Portfolio About Me Hey, Im Koi , a solo Roblox developer with around 2 years of experience on Roblox Studio I pretty much do everything when it comes to making games, from scripting and building to UI, animations, VFX, sound effects, and all that stuff I own a group cal",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/koi-solo-roblox-developer-portfolio/4946367.rss",
+      "id": "a3266db7afd895cf2c18c89c"
     },
     {
       "source": "reddit-robloxdev",
@@ -886,12 +987,35 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "What is the hardest part of balancing an upgrade system?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaq2cx/what_is_the_hardest_part_of_balancing_an_upgrade/",
+      "published": "2026-10-20",
+      "excerpt": "I'm curious how developers approach upgrade costs, reward scaling, and progression speed. Do you usually calculate a progression curve first or adjust the numbers through playtesting? submitted by /u/SportIndividual2707 [link] [comments]",
+      "creator": "/u/SportIndividual2707 https://www.reddit.com/user/SportIndividual2707",
+      "id": "4b4c3536d6201a6b83b2244f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Hey guys, does my game look like AI slop?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xapniw/hey_guys_does_my_game_look_like_ai_slop/",
       "published": "2026-10-20",
       "excerpt": "submitted by /u/stevennnn12334 [link] [comments]",
       "creator": "/u/stevennnn12334 https://www.reddit.com/user/stevennnn12334",
       "id": "48a9d3f775dde31cbf0ec3be"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "VoxelBlox: Construye tu Mundo: looking for testers (shop free for 7 days)",
+      "url": "https://devforum.roblox.com/t/voxelblox-construye-tu-mundo-looking-for-testers-shop-free-for-7-days/4946374",
+      "published": "2026-10-20",
+      "excerpt": "Hi everyone! Yesterday I released VoxelBlox: Construye tu Mundo, a game where most of the map is generated by code. I’d love for you to test it as hard as you can and help me find bugs, lag or anything that breaks. To make testing easier, the shop is completely free for 7 days (6 days left, since it",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/voxelblox-construye-tu-mundo-looking-for-testers-shop-free-for-7-days/4946374.rss",
+      "id": "46821706bc36fd76bf5d8d9b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -921,6 +1045,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "A co-editor can no longer access the BAN dashboard",
+      "url": "https://devforum.roblox.com/t/a-co-editor-can-no-longer-access-the-ban-dashboard/4946333",
+      "published": "2026-10-20",
+      "excerpt": "Today, my game’s co-editor contacted me to say, “I can’t access the BAN Dashboard.” Since they were able to access it without any issues until yesterday, I think some kind of change must have been made in the last few hours. By the way, it seems that people who can’t access it are seeing a message t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/a-co-editor-can-no-longer-access-the-ban-dashboard/4946333.rss",
+      "id": "345fa88027f9442b068ff32f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SirenModule: A module for making tornado sirens",
+      "url": "https://devforum.roblox.com/t/sirenmodule-a-module-for-making-tornado-sirens/4946387",
+      "published": "2026-10-20",
+      "excerpt": "This module was made with the intention of making tornado siren synths easier. I know my coding is messy, but you’ll spend way less time coding one yourself. There are 2 versions of this module: one for single tone sirens, and the other for dual tone sirens. (see link at the bottom of this post) How",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sirenmodule-a-module-for-making-tornado-sirens/4946387.rss",
+      "id": "2cc0337895b0c4c620cc5dbb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Open world RP looking for feedback/stress testers",
       "url": "https://devforum.roblox.com/t/open-world-rp-looking-for-feedbackstress-testers/4945910",
       "published": "2026-10-20",
@@ -928,6 +1076,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/open-world-rp-looking-for-feedbackstress-testers/4945910.rss",
       "id": "27770bd6e162eadd661ce260"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Roblox Pixelation Filter",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaqudx/roblox_pixelation_filter/",
+      "published": "2026-10-20",
+      "excerpt": "Hey everyone, I just wanted to showcase off this cool pixel effect that I've been working on for the past weeks. I won't get into the specifics, but I am using Image APIs along with other stuff to help bring this to life! I sadly came to the realization that there's just too much math going on, so t",
+      "creator": "/u/Bad-BackScratcha009 https://www.reddit.com/user/Bad-BackScratcha009",
+      "id": "26cd78b16952f722e3c6ae55"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Fly for a egg: looking for honest feedback on what it's missing",
+      "url": "https://devforum.roblox.com/t/fly-for-a-egg-looking-for-honest-feedback-on-what-its-missing/4946372",
+      "published": "2026-10-20",
+      "excerpt": "Hi everyone! On Sunday I finished building Fly for a egg, and I’d really appreciate your opinion. I feel it’s still missing something, but I don’t want it to end up like every other game of its kind. What do you think of it, and what would you change or add to make it feel unique? Any feedback is we",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/fly-for-a-egg-looking-for-honest-feedback-on-what-its-missing/4946372.rss",
+      "id": "26684a0e6ffcfc83dca05e94"
     },
     {
       "source": "reddit-robloxdev",
@@ -962,6 +1133,17 @@
       "excerpt": "Finally getting into Roblox game development after years of beating around the bush. I'm very excited. Have a dozen YouTube tutorials queued up, a bowl of popcorn, and an open idea journal. If you were starting out right now, what game genre would you dive into? submitted by /u/theshortirishman [lin",
       "creator": "/u/theshortirishman https://www.reddit.com/user/theshortirishman",
       "id": "1c420d76754e350f0de926b4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "making free thumbnails",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xargr2/making_free_thumbnails/",
+      "published": "2026-10-20",
+      "excerpt": "submitted by /u/PenguDaFrie [link] [comments]",
+      "creator": "/u/PenguDaFrie https://www.reddit.com/user/PenguDaFrie",
+      "id": "1601f6f0b0345cd902d9814e"
     },
     {
       "source": "reddit-robloxdev",
@@ -1041,6 +1223,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/help-help-with-setting-position-only-once-for-my-gun/4945721.rss",
       "id": "0140773c799b251d082930e7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Automated false positive ban due to asset description metadata (False Terrorism flag)",
+      "url": "https://devforum.roblox.com/t/automated-false-positive-ban-due-to-asset-description-metadata-false-terrorism-flag/4946286",
+      "published": "2026-10-20",
+      "excerpt": "My friend’s account vDenamed was recently permanently terminated due to an automated false-positive moderation flag on UGC asset descriptions. The system incorrectly flagged technical/contact metadata strings (such as bloodsigns or specific collaborator tags) within item descriptions as “Terrorism /",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/automated-false-positive-ban-due-to-asset-description-metadata-false-terrorism-flag/4946286.rss",
+      "id": "0045623688572f98850fc0d5"
     },
     {
       "source": "brock-tiktok",
@@ -3426,6 +3620,18 @@
       "id": "ee5cb57c36b61a7856878413"
     },
     {
+      "source": "tizzy-roblox-design",
+      "label": "Google News indexed: site:youtube.com \"Tizzy RBLX\" onboarding game design 2026 when:30d",
+      "category": "Roblox creator / game design",
+      "title": "I Made 3 Viral Roblox Games in a Row (Here's What I Wish I Knew Sooner) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XSUxlWTluY2Q3U3V6d3lrMzlfeW55NEVsQVR2cjI5bXRWTU14aERtZ0xHb0p2RkRsWFFTeVhEMWdSbjFvQnhYS3lsc2ZiXzNfUktvMTF3?oc=5",
+      "published": "2026-10-14",
+      "excerpt": "I Made 3 Viral Roblox Games in a Row (Here's What I Wish I Knew Sooner) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "e5dab0a29013b1f27c3d8bd9"
+    },
+    {
       "source": "instagram-index",
       "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
       "category": "instagram_index",
@@ -4812,6 +5018,18 @@
       "id": "237793930278471d40f7b8df"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "สร้างสกิล God Speed วิ่งแล้วเวลารอบข้างช้า | AI Roblox เขียนโค้ด - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uRzhhZlhveWU5YUkxcVRwOG5UUFlaeWxtRThGQ2pZUE80TEltQkl6cVpxWndyTjNQa25aQl9ZVVp3di1VS3FjU2daMVJmaGl2d0t2R2ln?oc=5",
+      "published": "2026-10-08",
+      "excerpt": "สร้างสกิล God Speed วิ่งแล้วเวลารอบข้างช้า | AI Roblox เขียนโค้ด YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "151206a4d5e9990dd0dc83a5"
+    },
+    {
       "source": "roblox-devforum-updates",
       "label": "Roblox updates category (availability may vary)",
       "category": "roblox_updates",
@@ -5100,6 +5318,18 @@
       "creator": "",
       "publisher": "https://www.tiktok.com",
       "id": "59487c5b22362820c0d10474"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "PROVE YOUR ROBLOX GAME DOESN’T SUCK - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VUnA4dm1uUXdsYXl3ZUVVR0NyTVBybzdUUUVDRnk0M2JTMXlUSEZxVWdacXJ6OWFIbVY2NmEtZWNTSkNxalRuOHo2bVFDckZKTnpVWFpn?oc=5",
+      "published": "2026-10-03",
+      "excerpt": "PROVE YOUR ROBLOX GAME DOESN’T SUCK YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "1255c8ee82dd344f34513f6f"
     },
     {
       "source": "roblox-devforum-updates",
