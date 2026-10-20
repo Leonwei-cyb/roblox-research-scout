@@ -830,14 +830,24 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
                 continue
             pool.setdefault(item["repo"].lower(), (item["repo"], topic, item))
 
-    # Rotate only if GitHub actually returned search data; quota outages do not skip research.
-    if completed_queries and cfg.get("research_lanes"):
-        state["research_lane_cursor"] = next_cursors
+    # Advance each lane only for completed fetches. Other lanes retain their
+    # position during partial outages, so their queued searches are not lost.
+    old_cursors = state.get("research_lane_cursor", {})
+    old_cursors = old_cursors if isinstance(old_cursors, dict) else {}
+    new_cursors = dict(old_cursors)
     for lane in lane_status:
         scanned = [f for f in feeds if f.get("lane") == lane["id"]]
         lane["completed"] = sum(f["status"] in {"ok", "not_modified"} for f in scanned)
         lane["deferred"] = sum(f["status"] == "deferred" for f in scanned)
         lane["errors"] = sum(f["status"] == "error" for f in scanned)
+        if lane["completed"] and lane["available"] and cfg.get("research_lanes"):
+            try:
+                old_offset = max(0, int(old_cursors.get(lane["id"], 0)))
+            except (ValueError, TypeError):
+                old_offset = 0
+            new_cursors[lane["id"]] = (old_offset + lane["completed"]) % lane["available"]
+    if completed_queries and cfg.get("research_lanes"):
+        state["research_lane_cursor"] = new_cursors
 
     # 1b. Problem-first query packs (bounded; see discovery_packs.py).
     pack_hits, pack_limited = {}, {}
@@ -1106,6 +1116,15 @@ def render_summary(rows, events, status):
         for r in adopted:
             lines.append("- [" + md(r["repo"]) + "](" + r["url"] + ") @ " + r["sha"][:7] + " (" + md(r["license"])
                          + "): " + md(r["verdict_reason"], 140))
+        lines.append("")
+    lanes = status.get("research_lanes", {}).get("lanes", [])
+    if lanes:
+        lines += ["## Research specialists (shared API budget)", ""]
+        for lane in lanes:
+            state = "active" if lane.get("active") else "paused"
+            lines.append("- " + md(lane.get("label", lane["id"])) + " (" + state + "): "
+                         + str(lane.get("completed", 0)) + "/" + str(lane.get("planned", 0))
+                         + " searches; " + str(lane.get("deferred", 0)) + " deferred")
         lines.append("")
     queue = status["backlog"]
     lines += ["## Actionable backlog (bounded candidate tasks)", ""]
