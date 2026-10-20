@@ -33,6 +33,7 @@ from urllib.request import Request, urlopen
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import discovery_packs as packs  # noqa: E402  (sibling module, stdlib only)
+import research_lanes  # noqa: E402  (sibling module, no external dependencies)
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "watch" / "discovery.json"
@@ -537,6 +538,7 @@ def build_record(facts, cfg, now, review, prior, topic, carried=None, alias=None
         "license": facts.get("license", "NONE"),
         "license_kind": lic_kind,
         "topic": topic,
+        "project": best.get("project") if best else None,
         "scores": scores,
         "blockers": [{"id": k, "fit": v} for k, v in ranked],
         "verdict": verdict,
@@ -797,13 +799,14 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
 
     # 1. Search, bounded.
     pool = {}   # repo (lower) -> (name, topic, search item)
-    queries = [(t["id"], q) for t in cfg.get("topics", []) for q in t.get("queries", [])]
-    queries = queries[: int(limits.get("max_search_queries", 14))]
+    queries, lane_status, next_cursors = research_lanes.plan_queries(
+        cfg, state, int(limits.get("max_search_queries", 14)))
+    completed_queries = 0
     pushed_since = (now - timedelta(days=int(limits.get("pushed_within_days", 120)))).date().isoformat()
-    for n, (topic, query) in enumerate(queries):
+    for n, (topic, query, lane_id) in enumerate(queries):
         feed_id = "search:" + topic + ":" + str(n)
         if rate_stop or not gh.budget_ok("search", 2):
-            feeds.append({"id": feed_id, "kind": "search", "status": "deferred",
+            feeds.append({"id": feed_id, "kind": "search", "lane": lane_id, "status": "deferred",
                           "detail": rate_stop or "search budget low"})
             continue
         q = query + " stars:>=" + str(int(limits.get("min_stars", 15))) + " pushed:>=" + pushed_since + " archived:false"
@@ -815,16 +818,26 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             rate_stop = str(exc)
             if exc.reset_at:
                 state["deferred_until"] = exc.reset_at
-            feeds.append({"id": feed_id, "kind": "search", "status": "deferred", "detail": rate_stop})
+            feeds.append({"id": feed_id, "kind": "search", "lane": lane_id, "status": "deferred", "detail": rate_stop})
             continue
         except RuntimeError as exc:
-            feeds.append({"id": feed_id, "kind": "search", "status": "error", "detail": safe(exc, 120)})
+            feeds.append({"id": feed_id, "kind": "search", "lane": lane_id, "status": "error", "detail": safe(exc, 120)})
             continue
-        feeds.append({"id": feed_id, "kind": "search", "status": status, "items": len(data["items"])})
+        feeds.append({"id": feed_id, "kind": "search", "lane": lane_id, "status": status, "items": len(data["items"])})
+        completed_queries += 1
         for item in data["items"]:
             if item["fork"] or item["archived"]:
                 continue
             pool.setdefault(item["repo"].lower(), (item["repo"], topic, item))
+
+    # Rotate only if GitHub actually returned search data; quota outages do not skip research.
+    if completed_queries and cfg.get("research_lanes"):
+        state["research_lane_cursor"] = next_cursors
+    for lane in lane_status:
+        scanned = [f for f in feeds if f.get("lane") == lane["id"]]
+        lane["completed"] = sum(f["status"] in {"ok", "not_modified"} for f in scanned)
+        lane["deferred"] = sum(f["status"] == "deferred" for f in scanned)
+        lane["errors"] = sum(f["status"] == "error" for f in scanned)
 
     # 1b. Problem-first query packs (bounded; see discovery_packs.py).
     pack_hits, pack_limited = {}, {}
@@ -1007,6 +1020,9 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
     gh.prune()
     finished = now if fixed_clock else utcnow()
     status = build_status(rows, feeds, events, gh, cfg, started, iso(finished), outcome, event, run_url)
+    status["research_lanes"] = {"budget": int(limits.get("max_search_queries", 14)),
+                                "selected": len(queries), "lanes": lane_status}
+    status["active_projects"] = [str(p)[:70] for p in cfg.get("active_projects", [])][:8]
     text = "".join(json.dumps(r, sort_keys=True, ensure_ascii=False) + "\n" for r in rows)
     write_if_changed(CANDIDATES, text)
     write_if_changed(SUMMARY, render_summary(rows, events, status))
@@ -1028,9 +1044,10 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
     return status
 
 
-def backlog(rows, limit):
+def backlog(rows, limit, preferred=()):
     items = [r for r in latest_per_repo(rows) if r.get("task") and r.get("verdict") == "needs-test"]
-    items.sort(key=lambda r: (-int(r["scores"]["total"]), r["repo"].lower()))
+    preferred = set(preferred)
+    items.sort(key=lambda r: (r.get("project") not in preferred, -int(r["scores"]["total"]), r["repo"].lower()))
     return items[:limit]
 
 
@@ -1038,7 +1055,7 @@ def build_status(rows, feeds, events, gh, cfg, started, finished, outcome, event
     limits = cfg.get("limits", {})
     current = latest_per_repo(rows)
     counts = {v: sum(1 for r in current if r.get("verdict") == v) for v in VERDICTS}
-    queue = backlog(rows, int(limits.get("max_backlog", 12)))
+    queue = backlog(rows, int(limits.get("max_backlog", 12)), cfg.get("active_projects", []))
     health = {}
     for f in feeds:
         health[f["status"]] = health.get(f["status"], 0) + 1
@@ -1048,7 +1065,7 @@ def build_status(rows, feeds, events, gh, cfg, started, finished, outcome, event
                      "outcome": outcome, "run_url": run_url},
         "freshness": {
             "stale_after_hours": int(limits.get("stale_after_hours", 13)),
-            "schedule": "every 6 hours (best-effort GitHub cron) plus push, manual, repository_dispatch and labelled-issue triggers",
+            "schedule": "Mac local scheduler or manual scan; GitHub Actions 6h backstop when available",
             "continuous": False,
             "note": "Polling snapshots only. Third-party repos cannot push events to us, so releases/issues are seen at the next run.",
         },
@@ -1066,7 +1083,7 @@ def build_status(rows, feeds, events, gh, cfg, started, finished, outcome, event
         },
         "adopted": [{"repo": r["repo"], "version": r["version"], "sha": r["sha"],
                      "evidence": r["evidence"][-1]} for r in current if r.get("verdict") == "adopt"],
-        "backlog": [{"repo": r["repo"], "sha": r["sha"], "score": r["scores"]["total"],
+        "backlog": [{"repo": r["repo"], "sha": r["sha"], "project": r.get("project"), "score": r["scores"]["total"],
                      "suggested_owner": r["suggested_owner"], "task": r["task"]} for r in queue],
     }
 
