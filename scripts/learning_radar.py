@@ -135,7 +135,8 @@ def render(result):
         for p in selected:
             used.add(p["key"])
             # Public feed fields are untrusted, even though collection is restricted.
-            name = re.sub(r"[\x00-\x1f\x7f]+", " ", p["title"]).replace("[", "\\[").replace("]", "\\]")
+            name = (re.sub(r"[\x00-\x1f\x7f]+", " ", p["title"])
+                    .replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]"))
             url = p["url"]
             if any(c in url for c in "()<> \n\r\t"):
                 continue
