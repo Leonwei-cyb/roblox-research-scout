@@ -99,6 +99,17 @@ class ResearchReporterTests(unittest.TestCase):
         ]
         self.assertEqual(r.analyze({"posts": leads})["candidates"], [])
 
+    def test_excerpt_stuffing_cannot_out_rank_stronger_title(self):
+        clear = row("youtube:ABCDEFGHIJK", YT, "youtube", "UI and menus",
+                    score=8, title="Roblox UI HUD")
+        stuffed = row("youtube:ZZZZZZZZZZZ",
+                      "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
+                      "youtube", "UI and menus", score=100,
+                      title="Roblox UI")
+        chosen = r.analyze({"posts": [stuffed, clear]})["candidates"]
+        self.assertEqual(len(chosen), 1)
+        self.assertEqual(chosen[0]["key"], "youtube:ABCDEFGHIJK")
+
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
             dest = Path(t) / "report.md"
