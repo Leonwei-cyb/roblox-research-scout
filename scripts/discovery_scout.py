@@ -506,7 +506,12 @@ def audited_note(cfg, facts, alias=None, prior=None):
 
 
 def build_record(facts, cfg, now, review, prior, topic, carried=None, alias=None):
-    blockers = cfg.get("blockers", [])
+    # Project assignment comes from the research lane that discovered a repo,
+    # not an accidental keyword tie with another game's blockers.
+    lane_project = next((lane.get("project") for lane in cfg.get("research_lanes", [])
+                         if lane.get("project") and topic in lane.get("topics", [])), None)
+    blockers = [b for b in cfg.get("blockers", [])
+                if not lane_project or not b.get("project") or b.get("project") == lane_project]
     scores, fits, days, lic_kind = score(facts, blockers, now)
     verdict, reason = decide(facts, scores, fits, days, cfg, review)
     # A carried-forward candidate may hold a manual, read-only verdict. It can only say
@@ -538,7 +543,7 @@ def build_record(facts, cfg, now, review, prior, topic, carried=None, alias=None
         "license": facts.get("license", "NONE"),
         "license_kind": lic_kind,
         "topic": topic,
-        "project": best.get("project") if best else None,
+        "project": lane_project or (best.get("project") if best else None),
         "scores": scores,
         "blockers": [{"id": k, "fit": v} for k, v in ranked],
         "verdict": verdict,
