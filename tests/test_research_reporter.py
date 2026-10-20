@@ -29,6 +29,10 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertEqual(len(out["candidates"]), 1)
         self.assertEqual(out["candidates"][0]["question_for_reviewer"], r.LANES[1][2])
         self.assertFalse(out["new_code_changes_authorized"])
+        self.assertEqual(out["proven_original_media"], 0)
+        self.assertEqual(out["direct_platform_candidates"], 1)
+        self.assertFalse(out["candidates"][0]["creator_verified"])
+        self.assertFalse(out["candidates"][0]["original_media_verified"])
 
     def test_blocks_index_redirect_and_spoofed_evidence(self):
         entries = [
@@ -157,6 +161,18 @@ class ResearchReporterTests(unittest.TestCase):
                 self.assertEqual(len(report["candidates"]), 1)
                 self.assertEqual(report["candidates"][0]["topic"], topic)
                 self.assertFalse(report["candidates"][0]["observation_verified"])
+
+    def test_direct_link_does_not_claim_original_ownership_or_rights(self):
+        index = {"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube",
+                               "physical tycoon purchases", title="Roblox tycoon example video")]}
+        report = r.analyze(index)
+        body = r.render(report)
+        self.assertEqual(report["direct_platform_candidates"], 1)
+        self.assertEqual(report["proven_original_media"], 0)
+        self.assertIn("creator/ownership UNVERIFIED", body)
+        self.assertIn("authorship unverified", body)
+        self.assertIn("does NOT establish original creator", body)
+        self.assertNotIn("No eligible first-party/original", body)
 
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
