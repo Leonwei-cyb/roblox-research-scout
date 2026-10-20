@@ -467,7 +467,8 @@
     "d6a95dd048120e2a0e148983",
     "fe5b3292013edd0355b43dbf",
     "03f08a04fb6836b5bb1bb9cd",
-    "9735489d6d4dc9d3269fbe94"
+    "9735489d6d4dc9d3269fbe94",
+    "dd5caa8ee81010b35d459d37"
   ],
   "items": [
     {
@@ -503,6 +504,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/repeated-automated-textchatservice-suspensions-across-multiple-experiences-missing-appeal-buttons/4946016.rss",
       "id": "e215b9b13a890b7abb3ad805"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Simulate multiple servers and cloud services locally",
+      "url": "https://devforum.roblox.com/t/simulate-multiple-servers-and-cloud-services-locally/4946057",
+      "published": "2026-10-20",
+      "excerpt": "As a Roblox developer, it is currently too hard to build any system that needs multiple servers communicating together to function, especially when cloud API limits are involved. My use case is making an eventually consistent datastore for near-infinite leaderboards. This system leverages multiple s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/simulate-multiple-servers-and-cloud-services-locally/4946057.rss",
+      "id": "dd5caa8ee81010b35d459d37"
     },
     {
       "source": "roblox-devforum-latest",
@@ -570,7 +583,7 @@
       "title": "Feedback on \"Private servers\"",
       "url": "https://devforum.roblox.com/t/feedback-on-private-servers/4945882",
       "published": "2026-10-20",
-      "excerpt": "It does not give any example on how a Plus user using a paid private server leads to the earning of the dev.s Affected URL: Private servers | Documentation - Roblox Creator Hub 1 post - 1 participant Read full topic",
+      "excerpt": "It does not give any example on how a Plus user using a paid private server leads to the earning of the dev.s Affected URL: Private servers | Documentation - Roblox Creator Hub 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-on-private-servers/4945882.rss",
       "id": "b1d70dd92d0ebaad30510879"
