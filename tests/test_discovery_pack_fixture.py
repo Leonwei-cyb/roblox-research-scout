@@ -372,3 +372,57 @@ class NoApiKeyWordingTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class StalePackReportTest(unittest.TestCase):
+    """Codex P2 (PR #20): a pack skipped by a rate limit left last run's report for the issue router."""
+
+    def test_skipped_pack_replaces_its_report_with_a_deferred_one(self):
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        root = Path(tmp.name)
+        (root / "watch").mkdir()
+        cfg = json.loads((ROOT / "watch" / "discovery.json").read_text())
+        cfg["topics"], cfg["watch_repos"], cfg["carried_forward"] = [], [], []
+        (root / "watch" / "discovery.json").write_text(json.dumps(cfg))
+        patches = [patch.object(ds, a, root / r) for a, r in (
+            ("CONFIG", "watch/discovery.json"), ("STATE", "watch/discovery_state.json"),
+            ("CANDIDATES", "findings/candidates.jsonl"), ("SUMMARY", "findings/SUMMARY.md"),
+            ("REVIEWS", "findings/reviews"), ("STATUS", "status/discovery.json"), ("PACKS", "findings/packs"))]
+        for p in patches:
+            p.start()
+            self.addCleanup(p.stop)
+        with patch.object(ds, "GitHub", FixtureGitHub):
+            ds.run(now=NOW, token="fixture", requests_text="", event="fixture")
+        path = root / "findings" / "packs" / "multi-chatgpt-web-workers.json"
+        self.assertTrue(json.loads(path.read_text())["candidates"])
+
+        class Limited(FixtureGitHub):
+            def get(self, path, params, compact):
+                if path.startswith("/search/"):
+                    raise ds.RateLimited("GitHub rate limit for " + path, "2026-10-20T09:00:00Z")
+                return FixtureGitHub.get(self, path, params, compact)
+
+        # A topic search hits the limit first, so the pack never runs this time.
+        cfg["topics"] = [{"id": "t", "queries": ["anything"]}]
+        (root / "watch" / "discovery.json").write_text(json.dumps(cfg))
+        with patch.object(ds, "GitHub", Limited):
+            ds.run(now=NOW.replace(hour=7), token="fixture", requests_text="", event="fixture")
+        report = json.loads(path.read_text())
+        self.assertEqual("deferred", report["status"])
+        self.assertEqual([], report["candidates"])
+        self.assertEqual(ds.iso(NOW), report["previous_run_at"])
+        self.assertIn("DEFERRED", (root / "findings" / "packs" / "multi-chatgpt-web-workers.md").read_text())
+        spec = importlib.util.spec_from_file_location("discovery_issues", ROOT / "scripts" / "discovery_issues.py")
+        di = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(di)
+        stale = dict(report, candidates=[{"repo": "a/b", "pack_verdict": "needs-test", "rank_score": 99}])
+        self.assertEqual([], di.selected([stale]))
+
+        # Pack itself limited mid-way (state backoff cleared): report is marked partial, not ok.
+        (root / "watch" / "discovery_state.json").write_text("{}")
+        cfg["topics"] = []
+        (root / "watch" / "discovery.json").write_text(json.dumps(cfg))
+        with patch.object(ds, "GitHub", Limited):
+            ds.run(now=NOW.replace(hour=8), token="fixture", requests_text="", event="fixture")
+        self.assertEqual("partial", json.loads(path.read_text())["status"])

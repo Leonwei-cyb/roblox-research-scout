@@ -116,6 +116,21 @@ class IssueRoutingTests(unittest.TestCase):
         self.assertIn("<!-- discovery-key: id:5 -->", body)
         self.assertIn("<!-- discovery-key: a/b -->", body)
 
+    def test_untrusted_file_names_cannot_link_or_mention(self):
+        """Codex P2 (PR #20): file names and dependency lines went into the issue as live Markdown."""
+        c = cand("a/b")
+        c["files_inspected"] = ["[evidence](https://example.invalid)", "@octocat/notes.md"]
+        c["browser_evidence"] = ["dep **bold** ![img](https://x.invalid/p.png)"]
+        c["evidence"] = ["https://github.com/a/b", "https://example.invalid/[x](y)", "javascript:alert(1)"]
+        body = di.issue_body({"pack": "p", "label": "P @team", "run_at": "x"}, c)
+        self.assertNotIn("](", body)
+        self.assertNotIn("@octocat", body)
+        self.assertNotIn("@team", body)
+        self.assertNotIn("**bold**", body)
+        self.assertNotIn("example.invalid/[", body)
+        self.assertNotIn("javascript:", body)
+        self.assertIn("https://github.com/a/b", body)
+
     def test_deferred_inspection_is_never_routed(self):
         c = cand("x/y", 99)
         c["inspection_error"] = "core budget low"

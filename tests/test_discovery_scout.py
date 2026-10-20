@@ -224,6 +224,33 @@ class DiscoveryRunTests(unittest.TestCase):
         self.assertEqual("needs-test", r["verdict"])
         self.assertIn("re-test", r["verdict_reason"])
 
+    def test_tested_review_follows_a_rename(self):
+        """Codex P2 on PR #20: a review filed under the old name was dropped after a rename."""
+        ds.REVIEWS.mkdir(parents=True)
+        (ds.REVIEWS / "acme__relay.json").write_text(json.dumps(
+            {"repo": "acme/relay", "sha": SHA_A, "verdict": "adopt", "date": "2026-10-20"}))
+        FakeGitHub.search_items = [search_item("acme/relay", 1)]
+        FakeGitHub.world = {"acme/relay": node("acme/relay", 1)}
+        self.run_once()
+        # GitHub now answers only under the new name; same id, same SHA.
+        FakeGitHub.search_items = [search_item("acme/relay-next", 1)]
+        FakeGitHub.world = {"acme/relay-next": node("acme/relay-next", 1)}
+        self.run_once(now=NOW.replace(hour=7))
+        rows = self.rows()
+        self.assertEqual(["acme/relay-next"], [r["repo"] for r in rows])
+        self.assertEqual("adopt", rows[0]["verdict"])
+        # A review that carries the GitHub id matches with no name in common at all.
+        (ds.REVIEWS / "acme__relay.json").unlink()
+        (ds.REVIEWS / "other.json").write_text(json.dumps(
+            {"repo": "someone/else", "repo_id": 1, "sha": SHA_A, "verdict": "reject", "date": "2026-10-20"}))
+        self.run_once(now=NOW.replace(hour=8))
+        self.assertEqual("reject", [r for r in self.rows() if r["last_checked"] == ds.iso(NOW.replace(hour=8))][0]["verdict"])
+
+    def test_markdown_neutralises_links_and_mentions(self):
+        out = ds.md("[evidence](https://example.invalid) @octocat")
+        self.assertNotIn("](", out)
+        self.assertNotIn("@octocat", out)
+
     def test_review_needs_exact_sha_even_when_release_tag_is_unchanged(self):
         """Codex P2 on PR #20: matching the release tag applied a review to untested HEAD commits."""
         FakeGitHub.search_items = [search_item("acme/relay", 1)]

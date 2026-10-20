@@ -261,7 +261,11 @@ def render(report, md):
     lines = ["# Query pack: " + md(report["label"], 120), "",
              "Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub search returns at most "
              + str(report["per_page"]) + " results per query here, ranked by GitHub's own relevance.", "",
-             "- Run: " + report["run_at"] + " (" + report["trigger"] + ")",
+             "- Run: " + report["run_at"] + " (" + report["trigger"] + ")"
+             + ("" if report.get("status", "ok") == "ok" else
+                " - **PARTIAL**: " + md(report.get("detail", ""), 200) if report.get("status") == "partial" else
+                " - **DEFERRED, no current candidates**: " + md(report.get("detail", ""), 200)
+                + "; last complete run " + str(report.get("previous_run_at") or "none")),
              "- API calls: " + str(report["api_calls"]["total"]) + " total (" + ", ".join(
                  k + " " + str(v) for k, v in sorted(report["api_calls"]["by_kind"].items())) + ")",
              "- Distinct repos found: " + str(report["distinct_repos_found"]) + "; inspected: " + str(len(report["candidates"])),

@@ -87,8 +87,9 @@ def safe(text, max_len=160):
 def md(text, max_len=160):
     """Make third-party text inert inside the Markdown summary."""
     text = safe(text, max_len).replace("\\", "\\\\")
-    for ch in "[]|*_#":
+    for ch in "[]()|*_#!~":
         text = text.replace(ch, "\\" + ch)
+    text = text.replace("@", "@\u200b")        # zero-width space: never an @mention
     return text.replace("`", "'").replace("<", " ").replace(">", " ")
 
 
@@ -414,7 +415,18 @@ def load_reviews(folder):
         if valid_repo(repo) and verdict in VERDICTS and re.fullmatch(r"[0-9a-f]{40}", str(data.get("sha", ""))):
             data["_path"] = "findings/reviews/" + path.name
             reviews[repo.lower()] = data
+            if isinstance(data.get("repo_id"), int):
+                reviews["id:" + str(data["repo_id"])] = data
     return reviews
+
+
+def find_review(reviews, facts, alias=None, prior=None):
+    """A tested review follows the repo through renames: GitHub id, then current, asked and prior name."""
+    for key in ("id:" + str(facts.get("id")), str(facts.get("repo", "")).lower(), str(alias or "").lower(),
+                str((prior or {}).get("repo", "")).lower()):
+        if key and key in reviews:
+            return reviews[key]
+    return None
 
 
 def decide(facts, scores, fits, days, cfg, review):
@@ -737,7 +749,7 @@ def apply_pack(pack, hits, fresh, gh, cfg, limits, reviews, now, event):
         "schema": SCHEMA, "pack": pack["id"], "label": pack.get("label", pack["id"]), "run_at": iso(now),
         "trigger": event, "per_page": int(pack.get("per_page", 15)),
         "queries": [{"id": qid, "form": form, "words": words} for qid, form, words in packs.pack_queries(pack)],
-        "distinct_repos_found": len(hits), "candidates": candidates, "known_relevant": known,
+        "status": "ok", "distinct_repos_found": len(hits), "candidates": candidates, "known_relevant": known,
         "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
     }
 
@@ -792,7 +804,7 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             pool.setdefault(item["repo"].lower(), (item["repo"], topic, item))
 
     # 1b. Problem-first query packs (bounded; see discovery_packs.py).
-    pack_hits = {}
+    pack_hits, pack_limited = {}, {}
     for pack in cfg.get("query_packs", []):
         if rate_stop:
             feeds.append({"id": "pack:" + pack["id"], "kind": "search", "status": "deferred", "detail": rate_stop})
@@ -801,6 +813,7 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
         feeds.extend(pfeeds)
         pack_hits[pack["id"]] = hits
         if limited:
+            pack_limited[pack["id"]] = safe(limited, 200)
             rate_stop = str(limited)
             if getattr(limited, "reset_at", ""):
                 state["deferred_until"] = limited.reset_at
@@ -896,7 +909,10 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             prior = (prior_by_id.get(facts["id"]) or prior_latest.get(facts["repo"].lower())
                      or prior_latest.get(name.lower()))
             topic = topic_of.get(name.lower(), "search")
-            record = build_record(facts, cfg, now, reviews.get(facts["repo"].lower()), prior, topic,
+            review = find_review(reviews, facts, name, prior)
+            if review:
+                reviews[facts["repo"].lower()] = review    # so the pack pass sees it under the new name
+            record = build_record(facts, cfg, now, review, prior, topic,
                                   carried_by_repo.get(facts["repo"].lower()) or carried_by_repo.get(name.lower()),
                                   alias=name)
             if prior:
@@ -924,7 +940,11 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
         if pack["id"] not in pack_hits:
             continue
         try:
-            pack_reports.append(apply_pack(pack, pack_hits[pack["id"]], fresh, gh, cfg, limits, reviews, now, event))
+            report = apply_pack(pack, pack_hits[pack["id"]], fresh, gh, cfg, limits, reviews, now, event)
+            if pack["id"] in pack_limited:
+                # Some of the pack's queries ran; what was found is current but not the whole pack.
+                report["status"], report["detail"] = "partial", "search stopped early: " + pack_limited[pack["id"]]
+            pack_reports.append(report)
             feeds.append({"id": "pack-inspect:" + pack["id"], "kind": "inspect", "status": "ok"})
         except RateLimited as exc:
             rate_stop = str(exc)
@@ -933,6 +953,25 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             feeds.append({"id": "pack-inspect:" + pack["id"], "kind": "inspect", "status": "deferred", "detail": rate_stop})
         except RuntimeError as exc:
             feeds.append({"id": "pack-inspect:" + pack["id"], "kind": "inspect", "status": "error", "detail": safe(exc, 120)})
+
+    # A pack that did not finish this run must not leave its last report looking current:
+    # the issue router reads findings/packs/*.json. Replace it with an explicit deferred report.
+    reported = {r["pack"] for r in pack_reports}
+    for pack in cfg.get("query_packs", []):
+        if pack["id"] in reported:
+            continue
+        old = read_json(PACKS / (pack["id"] + ".json"), {})
+        why = [f.get("detail", f["status"]) for f in feeds
+               if f["id"] in {"pack:" + pack["id"], "pack-inspect:" + pack["id"]}
+               or f["id"].startswith("pack:" + pack["id"] + ":") and f["status"] != "ok"]
+        pack_reports.append({
+            "schema": SCHEMA, "pack": pack["id"], "label": pack.get("label", pack["id"]), "run_at": iso(now),
+            "trigger": event, "status": "deferred", "detail": safe("; ".join(why) or "not run", 300),
+            "previous_run_at": old.get("run_at") if old.get("status", "ok") == "ok" else old.get("previous_run_at"),
+            "per_page": int(pack.get("per_page", 15)), "queries": [], "distinct_repos_found": 0,
+            "candidates": [], "known_relevant": [],
+            "coverage_note": "Pack did not complete this run; no candidates are current. Retried next run.",
+        })
 
     rows = merge_candidates(prior_rows, fresh, limits)
     if any(f["status"] in {"error", "deferred"} for f in feeds):

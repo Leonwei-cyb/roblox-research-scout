@@ -72,6 +72,8 @@ def existing_keys(repo, token, pages=10):
 def selected(reports, min_score=60):
     out = []
     for report in reports:
+        if report.get("status", "ok") not in {"ok", "partial"}:
+            continue          # a deferred pack has no current candidates; partial ones were inspected this run
         for c in report.get("candidates", []):
             if (c.get("pack_verdict") == "needs-test" and not c.get("audited_elsewhere")
                     and not c.get("inspection_error") and int(c.get("rank_score", 0)) >= min_score):
@@ -89,7 +91,18 @@ def route_keys(c):
 
 
 def clean(text, n=300):
-    return re.sub(r"[\x00-\x1f\x7f<>`]", " ", str(text or ""))[:n].strip()
+    """Third-party text (file names, dependency lines) is inert: no links, markup or @mentions."""
+    text = re.sub(r"[\x00-\x1f\x7f<>`]", " ", str(text or ""))[:n].strip().replace("\\", "\\\\")
+    for ch in "[]()|*_#!~":
+        text = text.replace(ch, "\\" + ch)
+    return text.replace("@", "@\u200b")      # zero-width space: never pings anyone
+
+
+GITHUB_LINK = re.compile(r"https://github\.com/[A-Za-z0-9_.\-/]+")
+
+
+def links(urls):
+    return " ".join(u for u in urls if isinstance(u, str) and GITHUB_LINK.fullmatch(u))
 
 
 def issue_body(report, c):
@@ -108,7 +121,7 @@ def issue_body(report, c):
         "", "**Bounded task:** pin the SHA above, read the license and the files listed, run one isolated "
             "source-level reuse test (no installs on the Mac, no live sessions, no paid model calls), then record "
             "adopt or reject in `findings/reviews/`.", "",
-        "Evidence: " + " ".join(c.get("evidence", [])[:5]), "",
+        "Evidence: " + links(c.get("evidence", [])[:5]), "",
         "Run: " + clean(report.get("run_at"), 30) + ". Not full GitHub coverage.", "",
     ] + ["<!-- discovery-key: " + k + " -->" for k in route_keys(c)]
     return "\n".join(lines)
