@@ -53,7 +53,7 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertFalse(r.valid_source(row("youtube:DIFFERENT", YT, "youtube", "UI and menus")))
 
     def test_deterministic_rank_and_dedup(self):
-        one = row("youtube:ABCDEFGHIJK", YT, "youtube", "first-session and mobile", score=17)
+        one = row("youtube:ABCDEFGHIJK", YT, "youtube", "first-session and mobile", score=17, title="Mobile tycoon onboarding")
         one["signals"].append("physical tycoon purchases")
         two = row("devforum:4946218:1", DF, "devforum", "physical tycoon purchases", score=10)
         a = r.analyze({"posts": [two, one]})
@@ -84,11 +84,20 @@ class ResearchReporterTests(unittest.TestCase):
 
     def test_markdown_sanitized(self):
         p = row("devforum:4946218:1", DF, "devforum", "UI and menus",
-                title="Hi [skip](https://evil.example) <tag>")
+                title="Roblox UI Hi [skip](https://evil.example) <tag>")
         out = r.render(r.analyze({"posts": [p]}))
         self.assertNotIn("[skip](https://evil.example)", out)
         self.assertIn(r"\[skip\]", out)
         self.assertIn(r"\<tag\>", out)
+
+    def test_excerpt_only_keywords_do_not_masquerade_as_game_research(self):
+        leads = [
+            row("youtube:ABCDEFGHIJK", YT, "youtube", "first-session and mobile",
+                title="Server Animation Memory leaks continuously"),
+            row("devforum:4946218:1", DF, "devforum", "tuition and economy",
+                title="Makeup Now Available for In-Experience Creation"),
+        ]
+        self.assertEqual(r.analyze({"posts": leads})["candidates"], [])
 
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
