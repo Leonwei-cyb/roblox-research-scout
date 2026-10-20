@@ -37,10 +37,10 @@ collector. **No new scheduler, app install, paid model, Studio control or Mac
 capture is required.** This stage is *metadata triage*, not gameplay understanding.
 
 - [Cat Magic research report](watch/cat_magic_research_report.md): six or fewer
-  title-grounded primary-source links with specific player-test questions.
+  gameplay-relevant direct-platform candidate links with specific player-test questions.
 - [Machine-readable report](watch/cat_magic_research_report.json): explicit
   evidence/provenance labels and source gaps for later integration.
-- Both reports are written only after a collector run. Unviewed videos are
+- Both reports are written only after a collector run. Direct URLs do not verify the original creator or license. Unviewed videos are
   never called reviewed, and this stage cannot approve a Codex/game change.
 - Genuine video and screenshot evidence stays in the separate opt-in local
   video/Peekaboo workflow. No copyrighted media or private Studio files
