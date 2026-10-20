@@ -1,5 +1,5 @@
 {
-  "description": "Open-source discovery for Leon: agent orchestration, Claude/Codex/ChatGPT tools, Roblox tooling, dashboard components, MCP servers, skills, testing and research frameworks. Metadata and scoring only: nothing found here is installed or run automatically. A verdict of adopt only comes from a tested review record in findings/reviews/.",
+  "description": "Open-source discovery for Leon, prioritizing current Roblox gameplay and Cat Magic quality, with a smaller rotating budget for AI/dev infrastructure. Metadata scoring is not endorsement; adoption requires an independently tested review.",
   "limits": {
     "per_page": 20,
     "max_search_queries": 15,
@@ -22,6 +22,30 @@
     "route_min_score": 60
   },
   "topics": [
+    {
+      "id": "cat-magic-gameplay",
+      "queries": [
+        "roblox tycoon system luau in:name,description",
+        "roblox tycoon purchase buttons in:name,description",
+        "roblox simulator economy system in:name,description"
+      ]
+    },
+    {
+      "id": "roblox-ui-animation",
+      "queries": [
+        "roblox ui components luau in:name,description",
+        "roblox animation controller in:name,description",
+        "roblox npc pathfinding animation in:name,description"
+      ]
+    },
+    {
+      "id": "roblox-game-quality",
+      "queries": [
+        "roblox game camera occlusion in:name,description",
+        "roblox visual effects tween in:name,description",
+        "roblox game performance profiling in:name,description"
+      ]
+    },
     {
       "id": "agent-orchestration",
       "queries": [
