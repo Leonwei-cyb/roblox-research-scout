@@ -24,6 +24,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[Scene Analysis Tool Workshop: Best Practices and Real-World Applications \| RDC 2026](https://www.youtube.com/watch?v=3gnK649VNbY)** — Original media link, not watched
+- **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
 - **[The NEW Best Texture Plugin For Roblox Studio!](https://www.youtube.com/watch?v=aisUd4aqNbM)** — Original media link, not watched
 - **[Scratch-style Coding Tool](https://www.reddit.com/r/robloxgamedev/comments/1xahmwy/scratchstyle_coding_tool/)** — Public text/page, video not confirmed

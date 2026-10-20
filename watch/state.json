@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "7400643072eb304fe85ef89cffe96f5c56f98c7e",
+      "head": "3e54c1d783e2f5248caddce4af817b965f53edea",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "e61ba8b470b9f1a0b1070f5aecb49c3ab75dd1d1",
-      "head_subject": "openai: finish reasoning before client tool calls (#19146)",
+      "head": "3aa41cbdc3cc49bbed816b12617257223813a37e",
+      "head_subject": "llama.cpp: version bump b11738 (#19143)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.6",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
