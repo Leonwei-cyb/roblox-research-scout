@@ -35,6 +35,15 @@ FOCUS = {
     "world and visual design": (
         r"\bgrass\b|\bterrain\b|\bclassroom\b|\benvironment\b|\blighting\b|\b3d\b|\bmodels?\b",
         "Can the player clearly see the first pad and classroom on simple blue outdoor grass?"),
+    "genres and successful loops": (
+        r"\bsteal\b|\bsimulator\b|\bviral\b|\brebirth\b|\bprestige\b|\brare\b|\bhatch\b|\bclicker\b|\btrend\b",
+        "Identify the visible reward loop and confirm it through actual gameplay before testing it."),
+    "player feedback and marketing": (
+        r"\bfeedback\b|\breviews?\b|\bplayers?\b|\bads?\b|\bimpressions?\b|\bthumbnail\b|\bctr\b|\bfunnel\b",
+        "Identify an observed complaint or funnel drop-off, then test one player-facing fix."),
+    "tools and performance": (
+        r"\bplugin\b|\bluau\b|\bscript\w*|\bperformance\b|\bserver\b|\bmemory\b|\bsecurity\b|\bstudio\b",
+        "Check license, security and real Cat Magic benefit before adopting any tool."),
 }
 HOSTS = {
     "www.youtube.com": "youtube", "youtube.com": "youtube", "youtu.be": "youtube",
