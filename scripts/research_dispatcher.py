@@ -180,5 +180,14 @@ def main():
         ("coverage_audit.md", coverage_audit(records, health)),
     ]:
         print(("Updated" if save(OUT / name, body) else "Unchanged"), name)
+    # Existing Mac hourly refresh: tag every captured post, but never claim
+    # metadata represents inspected videos, gameplay or audio.
+    import learning_radar
+    learning_radar.main()
+    # One research schedule, three stages: collect -> triage -> evidence-safe report.
+    # This stage reads existing public metadata; it NEVER inspects a video or sends instructions to Codex.
+    import research_reporter
+    research_reporter.main()
+
 if __name__ == "__main__":
     main()

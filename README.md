@@ -29,6 +29,23 @@ Current testable example: [One Tower Tycoon passive rate code review](https://gi
 
 The private [Roblox Development Kit adoption record](https://github.com/Leonwei-cyb/Roblox-Development-Kit/blob/main/ADOPTION.md) tracks what we actually used versus deferred. Source links are not implementation or licensing permission.
 
+## Cat Magic research evidence report
+
+The existing public hourly research workflow runs a bounded, deterministic
+learning index and Analyst/Reporter stage after the existing public media feed
+collector. **No new scheduler, app install, paid model, Studio control or Mac
+capture is required.** This stage is *metadata triage*, not gameplay understanding.
+
+- [Cat Magic research report](watch/cat_magic_research_report.md): six or fewer
+  title-grounded primary-source links with specific player-test questions.
+- [Machine-readable report](watch/cat_magic_research_report.json): explicit
+  evidence/provenance labels and source gaps for later integration.
+- Both reports are written only after a collector run. Unviewed videos are
+  never called reviewed, and this stage cannot approve a Codex/game change.
+- Genuine video and screenshot evidence stays in the separate opt-in local
+  video/Peekaboo workflow. No copyrighted media or private Studio files
+  are copied to this public repository.
+
 ## Limits and price
 
 No OpenAI, Claude, Codex or other paid model API is invoked. The standard public GitHub Actions `ubuntu-latest` runner is currently free under GitHub's standard-runner policy. GitHub's fair-use, job/runtime and API rate limits still apply. Other paid services or larger runners are not used.
