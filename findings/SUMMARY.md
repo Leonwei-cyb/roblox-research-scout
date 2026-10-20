@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-20T08:05:38Z (local, ok)
+- Last run: 2026-10-20T12:14:06Z (schedule, partial)
 - Repos tracked: 150; adopt 0, needs-test 63, reject 87
 - Actionable backlog: 60
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin electric-dragon-80000v/pi-cowboy@​1af7940, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 95 · [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent/tree/73a44f7c7b97218df12b67d2b01c16161a3b0cea)
   - Pin first-fluke/oh-my-agent@​73a44f7, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: earendil-works/pi #11141 pi-durable: make extension start a task on each turn without a tool call
-- Issue updated: earendil-works/pi #11116 Update Ant Ling models to Ling 3.x and use DeepSeek-compatible reasoning
-- Issue updated: earendil-works/pi #10949 openai-responses: legacy response.reasoning.delta events are dropped, no thinking\_delta streamed
-- Issue updated: earendil-works/pi #11143 '\_compactBeforeNextAssistantResponse\(\)' skips '\_sanitizeProjectionMessages\(\)', so a duplicate tool\_r
-- Issue updated: earendil-works/pi #11149 pi-durable: admit a submission inside a host's own commit
-- Issue updated: OpenHands/OpenHands #18569 \[Bug\]: New Automation panel still 422s on Agent profile for Prompt/Plugin automations \(\#17971 only f
-- Issue updated: OpenHands/OpenHands #18704 \[Feature\]: Keep DigitalOcean connected: stay signed in, sign in with DigitalOcean, agents and new de
-- Issue updated: modelcontextprotocol/servers #5214 git server: git\_log accepts a non-positive max\_count and a negative value silently returns the entir
-- Issue updated: modelcontextprotocol/servers #5205 sequentialthinking: a multi-line thought breaks the stderr thought box
-- Issue updated: modelcontextprotocol/servers #5213 git, time: the Zed configuration snippets are invalid JSON
-- Issue updated: modelcontextprotocol/servers #1208 \[Filesystem\] add append tools
-- Issue updated: modelcontextprotocol/servers #896 Confusing 'search\_files' function description leads to misunderstanding of its purpose
-- Issue updated: anthropics/claude-code #103179 Headless multi-host login is manual/repetitive, over-refusal on owner actions, agent hands work back
-- Issue updated: anthropics/claude-code #103676 \[FEATURE\] Mods: add '$.http' so a mod can make an HTTPS request without spawning a process
-- Issue updated: anthropics/claude-code #103688 \[FEATURE\] Desktop Routines: option to suppress or limit the unread indicator for successful schedule
-- Issue updated: anthropics/claude-code #103687 Remote/project-thread sessions: no way to choose "ask for approval" instead of Auto-mode auto-deny
-- Issue updated: anthropics/claude-code #101456 \[Bug\] Windows: killing background Bash task leaves pyenv-win python.exe orphaned, output file grows
-- Issue updated: openai/codex #55311 Windows Desktop: document a consumer-verifiable native containment and descendant-completion contrac
-- Issue updated: openai/codex #36040 Regression: iOS Remote only lists projects with recent chats
-- Issue updated: openai/codex #55502 \[ChatGPT Android ↔ Windows/Web\] Ordinary conversation updates intermittently fail to sync in both di
-- Issue updated: openai/codex #55503 Codex 0.159.1 ends an unfinished task immediately after promising to finish, with zero tool calls
-- Issue updated: openai/codex #55504 Windows desktop: node\_repl/js returns isError for definitions-only submission; supported diagnostic
-- Issue updated: ollama/ollama #18980 massive generation problems since 10-10
-- Release: NanmiCoder/cc-haha v0.7.4 to v0.7.5
-- Issue updated: NanmiCoder/cc-haha #1634 \[功能\] 希望能新增智能续问功能
-- New candidate: genspark-ai/genoffice (reject)
-- New candidate: dzhng/skills (needs-test)
-- New candidate: dbwls99706/ros2-engineering-skills (reject)
-- New candidate: minipuft/claude-prompts-mcp (reject)
-- New candidate: kael-odin/awesome-academic-research-skills (needs-test)
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
