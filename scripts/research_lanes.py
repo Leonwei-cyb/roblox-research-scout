@@ -95,3 +95,46 @@ def plan_queries(config, state, budget):
     for a in active:
         cursors[a["id"]] = (a["offset"] + a["taken"]) % len(a["items"])
     return selected, summary, cursors
+
+
+def prioritize_hits(hits, topic_to_lane, config, limit):
+    """Fairly allocate GitHub enrichment candidates across specialist lanes.
+
+    Input hits are unique repository records (repo, topic, GitHub metadata).
+    Each active lane with hits gets one slot if the budget permits; remaining
+    slots follow configured lane weights. Repositories are ranked by stars
+    *within* a lane, so general tooling cannot crowd out Roblox game leads.
+    """
+    limit = max(0, int(limit))
+    weights = {str(lane.get("id")): max(0, min(20, int(lane.get("weight", 1))))
+               for lane in config.get("research_lanes", []) if isinstance(lane, dict)
+               and str(lane.get("weight", 1)).lstrip("-").isdigit()
+               and lane.get("enabled", True)}
+    groups = {}
+    for hit in hits:
+        lane = topic_to_lane.get(hit[1], "general")
+        groups.setdefault(lane, []).append(hit)
+    for group in groups.values():
+        group.sort(key=lambda x: (-int(x[2].get("stars", 0)), x[0].lower()))
+    order = [l.get("id") for l in config.get("research_lanes", []) if isinstance(l, dict)]
+    order = [lid for lid in order if lid in groups] + sorted(set(groups) - set(order))
+    available = [{"id": lid, "items": groups[lid], "pos": 0, "credit": 0,
+                  "weight": max(1, weights.get(lid, 1)), "order": i}
+                 for i, lid in enumerate(order)]
+    chosen = []
+    if limit >= len(available):
+        for lane in available:
+            chosen.append(lane["items"][0])
+            lane["pos"] += 1
+    while len(chosen) < limit:
+        remaining = [lane for lane in available if lane["pos"] < len(lane["items"])]
+        if not remaining:
+            break
+        total = sum(lane["weight"] for lane in remaining)
+        for lane in remaining:
+            lane["credit"] += lane["weight"]
+        winner = max(remaining, key=lambda lane: (lane["credit"], lane["weight"], -lane["order"]))
+        winner["credit"] -= total
+        chosen.append(winner["items"][winner["pos"]])
+        winner["pos"] += 1
+    return chosen
