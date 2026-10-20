@@ -50,6 +50,19 @@ class SpecialistIntegrationTests(unittest.TestCase):
         self.assertEqual(rec["verdict"], "needs-test")
         self.assertEqual(rec["suggested_owner"], "hub")
 
+    def test_tower_query_never_routes_to_cat_magic_by_keyword_collision(self):
+        from datetime import datetime, timezone
+        facts = {"repo": "example/tower-tycoon", "description": "Roblox tower tycoon purchase pads",
+                 "topics": [], "readme_excerpt": "Roblox Luau tycoon upgrades and waves",
+                 "license": "MIT", "last_commit": "2026-10-20T00:00:00Z",
+                 "security_policy": True, "has_tests": True, "has_ci": True,
+                 "sha": "c" * 40, "id": 44, "url": "https://github.com/example/tower-tycoon"}
+        rec = ds.build_record(facts, self.cfg,
+                              datetime(2026, 10, 20, tzinfo=timezone.utc),
+                              None, None, "one-tower-gameplay")
+        self.assertEqual(rec["project"], "One Tower Tycoon")
+        self.assertNotIn("cat-magic-tycoon", [x["id"] for x in rec["blockers"]])
+
     def test_unrelated_agent_candidate_is_not_cat_magic(self):
         from datetime import datetime, timezone
         facts = {"repo": "example/agent-dashboard", "description": "Live agent monitoring dashboard",
