@@ -87,8 +87,13 @@ def analyze(index: dict, limit: int = 6) -> dict:
         eligible.append(p)
     seen, used_sources, results = set(), Counter(), []
     for lane, priority, question in LANES:
+        # The learning index may assign a signal based on an excerpt alone.
+        # Require the actual public TITLE to independently mention the topic;
+        # otherwise general-feed items get mislabeled as Cat Magic leads.
+        title_pattern = learning_radar.FOCUS[lane][0]
         candidates = [p for p in eligible if lane in p["signals"] and p["key"] not in seen
-                      and used_sources[str(p.get("source", ""))] < 2]
+                      and used_sources[str(p.get("source", ""))] < 2
+                      and re.search(title_pattern, p["title"], re.I)]
         candidates.sort(key=lambda p: (-(p["score"] + WEIGHT[p["kind"]]),
                                        str(p.get("key", ""))))
         if not candidates or len(results) >= limit:
