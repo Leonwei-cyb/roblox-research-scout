@@ -352,6 +352,22 @@ class IncompleteInspectionTest(unittest.TestCase):
         self.assertIn("no license", cands[MULTI]["pack_reason"])
 
 
+    def test_mirror_is_never_a_routable_pack_candidate(self):
+        """Codex P2 (PR #20): the record rejected a mirror but the pack still made it needs-test."""
+        class Mirror(FixtureGitHub):
+            def graphql(self, query, variables, what="graphql"):
+                data, errors = FixtureGitHub.graphql(self, query, variables, what)
+                for node in data.values():
+                    if node and node.get("nameWithOwner") == CHARTERION:
+                        node["isMirror"] = True
+                return data, errors
+        cands = self.run_with(Mirror)
+        self.assertEqual("reject", cands[CHARTERION]["pack_verdict"])
+        self.assertIn("mirror", cands[CHARTERION]["pack_reason"])
+        self.assertIsNone(cands[CHARTERION]["suggested_owner"])
+        self.assertEqual("needs-test", cands[ORCH]["pack_verdict"])       # others unaffected
+
+
 class NoApiKeyWordingTest(unittest.TestCase):
     """Live false positive (TED-H-com/multi-ai-chat, 2026-10-20): 'There are no model API keys' and
     'do not require model API keys' were read as needing an API key, so a browser-session

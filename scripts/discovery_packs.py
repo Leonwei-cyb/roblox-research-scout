@@ -229,6 +229,10 @@ def pack_verdict(record, mode, review_verdict=None):
         return review_verdict, "tested review"
     if record["signals"].get("archived"):
         return "reject", "archived upstream"
+    if record["signals"].get("fork") or record["signals"].get("mirror"):
+        return "reject", "fork or mirror; evaluate the upstream instead"
+    if not record.get("sha"):
+        return "reject", "no default-branch commit to pin"
     if str(record.get("license", "NONE")).upper() in {"NONE", ""}:
         return "reject", "no license: read for ideas only, no code reuse"
     days = record["signals"].get("days_since_commit")

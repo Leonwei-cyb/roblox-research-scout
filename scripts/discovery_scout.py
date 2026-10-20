@@ -550,6 +550,7 @@ def build_record(facts, cfg, now, review, prior, topic, carried=None, alias=None
             "stars": facts.get("stars", 0), "open_issues": facts.get("open_issues", 0),
             "last_commit": facts.get("last_commit", ""), "days_since_commit": days,
             "releases": facts.get("releases", 0), "archived": facts.get("archived", False),
+            "fork": bool(facts.get("fork")), "mirror": bool(facts.get("mirror")),
             "security_policy": facts.get("security_policy", False),
             "has_tests": facts.get("has_tests", False), "has_ci": facts.get("has_ci", False),
         },
@@ -719,6 +720,11 @@ def apply_pack(pack, hits, fresh, gh, cfg, limits, reviews, now, event):
         review = reviews.get(rec["repo"].lower())
         review_ok = review and review.get("sha") == rec["sha"]
         verdict, reason = packs.pack_verdict(rec, mode, review["verdict"] if review_ok else None)
+        if (not review_ok and rec["verdict"] == "reject"
+                and not rec["verdict_reason"].startswith(("no fit", "score"))):
+            # Hard facts from the record (fork/mirror, archived, license, staleness cutoff,
+            # tested reject) beat any pack signal; only keyword rejects can be lifted.
+            verdict, reason = "reject", rec["verdict_reason"]
         incomplete = ins.get("error") or ("truncated file tree" if ins.get("tree_truncated") else
                                           "partial source read" if ins.get("partial") else "")
         if (incomplete and not review_ok and verdict == "reject"

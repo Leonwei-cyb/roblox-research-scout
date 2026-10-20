@@ -572,7 +572,9 @@ class WorkflowTests(unittest.TestCase):
         run_lines = [line for line in self.data.splitlines() if "${{" in line and "github.event" in line]
         for line in run_lines:
             self.assertTrue(line.strip().startswith(("DISCOVERY_REQUESTS:", "if:")), line)
-        self.assertIn("author_association", self.data)
+        # Codex P2: the labeler (triage access) is the gate, not the issue author's association.
+        self.assertNotIn("author_association", self.data)
+        self.assertIn("github.event.label.name == 'discovery-request'", self.data)
 
     def test_commits_only_discovery_outputs(self):
         self.assertIn("git add findings/ status/discovery.json watch/discovery_state.json", self.data)

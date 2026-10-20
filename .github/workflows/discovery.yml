@@ -35,10 +35,11 @@ concurrency:
 
 jobs:
   discover:
+    # Applying a label already needs triage access here, so the labeler is the gate; the
+    # issue's author may be anyone (their text is only parsed for <= 5 owner/repo names).
     if: >-
       github.event_name != 'issues' ||
-      (github.event.label.name == 'discovery-request' &&
-       contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association))
+      github.event.label.name == 'discovery-request'
     runs-on: ubuntu-latest
     timeout-minutes: 5
     outputs:
