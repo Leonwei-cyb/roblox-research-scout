@@ -1,22 +1,8 @@
 name: Roblox research scout (no AI)
 
+# Mac launchd is the automatic scheduler. GitHub Actions manual-only by design.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'scripts/**'
-      - 'tests/**'
-      - 'watch/config.json'
-      - 'watch/feeds.json'
-      - 'watch/creators.json'
-      - 'watch/official_visual_pages.json'
-      - '.github/workflows/research.yml'
-  schedule:
-    # Hourly research refresh; collector honors per-source rate-limit cooldowns.
-    # Do not poll social feeds every 5 minutes: avoid 429s and pointless repeats.
-    # GitHub may delay scheduled starts; workflow_dispatch handles urgent refreshes.
-    - cron: '23 * * * *'
 
 permissions:
   contents: write
