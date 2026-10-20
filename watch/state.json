@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "b33749fe6c9b0a4fec0ccb210b20202282444bfe",
-      "head_subject": "New hook: 'Minz_HookType::AutofillField' for auth views (#9362)",
+      "head": "0addf32b36bc90cc038bc518d7a14096efc3bd55",
+      "head_subject": "Translate non-English code comments and identifiers (#9383)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.2",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.2",
@@ -139,11 +139,13 @@
   },
   "seen": [
     "AallamR/RobloxForge-Intelligence",
+    "Aaron617/agent-arXiv-daily",
     "AnEntrypoint/awesome-github",
     "Arshispro/luau-tycoon-core",
     "Chat2AnyLLM/awesome-claude-skills",
     "Chieler/Summer-2027-SWE-Internships",
     "CodePhobiia/claude-roblox-game-studio",
+    "Correia-jpv/fucking-magictools",
     "Correia-jpv/fucking-public-apis",
     "Daniel987654321/roblox-studio-agent-bridge",
     "Donchitos/Claude-Code-Game-Studios",
@@ -158,6 +160,7 @@
     "Roblox/roblox-studio-agent-plugin",
     "Rodert/awesome-mcp",
     "RubenSanJuan/roblox-arcade-lab",
+    "Tavish9/awesome-daily-AI-arxiv",
     "Zaid-maker/my-awesome-stars-list",
     "acvnace/awesome-vibe-coding-resources",
     "adamenrem-jpg/Roblox-Live-Bridge-MCP",
@@ -195,6 +198,7 @@
     "thryvaan-hub/pi-roblox-bridge",
     "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
     "wh000wh000/awesome-jev-live",
+    "xianyu110/awesome-gpt-6-astra",
     "yarik-contr/mcp-forge-studio-bridge"
   ]
 }

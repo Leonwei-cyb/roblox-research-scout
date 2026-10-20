@@ -459,9 +459,28 @@
     "0901a6f202a900d82714aafb",
     "a3227f9ac455f9f25112acb4",
     "40ceb65de1f83a5f2625251a",
-    "05e4ce889427359b973a0175"
+    "05e4ce889427359b973a0175",
+    "cdf1ca5215f798a269e6e504",
+    "90a48c32af608b02f041c169",
+    "e215b9b13a890b7abb3ad805",
+    "1c420d76754e350f0de926b4",
+    "d6a95dd048120e2a0e148983",
+    "fe5b3292013edd0355b43dbf",
+    "03f08a04fb6836b5bb1bb9cd",
+    "9735489d6d4dc9d3269fbe94"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Idk whats going on but whenever i pick up items i fall over",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xalqbp/idk_whats_going_on_but_whenever_i_pick_up_items_i/",
+      "published": "2026-10-20",
+      "excerpt": "No clue when this started happening, and this happens with literally every and any item, and physics in general have been all fucked up, can someone tell me what's going on? submitted by /u/Royal-Consequence-80 [link] [comments]",
+      "creator": "/u/Royal-Consequence-80 https://www.reddit.com/user/Royal-Consequence-80",
+      "id": "fe5b3292013edd0355b43dbf"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -477,6 +496,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Repeated Automated TextChatService Suspensions Across Multiple Experiences, Missing Appeal Buttons.",
+      "url": "https://devforum.roblox.com/t/repeated-automated-textchatservice-suspensions-across-multiple-experiences-missing-appeal-buttons/4946016",
+      "published": "2026-10-20",
+      "excerpt": "Hello Roblox Staff and Developers, I am creating this report because I have received multiple moderation actions for the same reason across several of my Roblox experiences, and I still have no clear explanation of what is actually wrong or a reliable way to appeal these actions. Every moderation ac",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/repeated-automated-textchatservice-suspensions-across-multiple-experiences-missing-appeal-buttons/4946016.rss",
+      "id": "e215b9b13a890b7abb3ad805"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Optional Oklab Color Interpolation for UIGradient",
       "url": "https://devforum.roblox.com/t/optional-oklab-color-interpolation-for-uigradient/4945957",
       "published": "2026-10-20",
@@ -484,6 +515,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/optional-oklab-color-interpolation-for-uigradient/4945957.rss",
       "id": "d8663687d032be5ac56ce1b0"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Day 1 of making my roblox game, suggestions please!!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaj8wg/day_1_of_making_my_roblox_game_suggestions_please/",
+      "published": "2026-10-20",
+      "excerpt": "Hii everyone! I have started documenting my journey building an extraction game called 'Loot & Escape' over at V Studio Roblox . Since I don't know how to code, I tried using an AI initially, but it kept breaking. then got the baseplate working, ran into a wierd 'noob' bug, and set up the Black Mark",
+      "creator": "/u/Itchy_Camel3702 https://www.reddit.com/user/Itchy_Camel3702",
+      "id": "d6a95dd048120e2a0e148983"
     },
     {
       "source": "roblox-devforum-latest",
@@ -496,6 +538,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/collaborators-have-disappeared-from-website-but-still-appear-in-studio-my-collaborators-cant-access-the-creator-hub-page-anymore/4945720.rss",
       "id": "d3d0c9fa3cef0dc965fa7e65"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Oklab Color Interpolation for UIGradient (and any element that accepts a colorsequence )",
+      "url": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043",
+      "published": "2026-10-20",
+      "excerpt": "This post emerges as an offshoot of the feature request. Optional Oklab Color Interpolation for UIGradient - Feature Requests / Engine Features - Developer Forum | Roblox (consider a bump!). this is a luau module that allows you to generate ColorSequence objects using Oklab color interpolation. The ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043.rss",
+      "id": "cdf1ca5215f798a269e6e504"
     },
     {
       "source": "roblox-devforum-latest",
@@ -542,6 +596,29 @@
       "excerpt": "There is a dev on Roblox that has released about 4-5 games this year all within a few months. They are complete games, some good, most not, but they are complete games. It shows he's only a solo developer. I'm wondering how is he able to keep pumping out games? Is he buying them or maybe hiring anot",
       "creator": "/u/ThatGuyFromCA47 https://www.reddit.com/user/ThatGuyFromCA47",
       "id": "a2fcd5796354f9d2bc7c8d12"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "After Receiving Harsh Feedbacks, here is the update to My Game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xakveo/after_receiving_harsh_feedbacks_here_is_the/",
+      "published": "2026-10-20",
+      "excerpt": "Is it looking good submitted by /u/Parking_Yam_5636 [link] [comments]",
+      "creator": "/u/Parking_Yam_5636 https://www.reddit.com/user/Parking_Yam_5636",
+      "id": "9735489d6d4dc9d3269fbe94"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Thin text on SurfaceGuis appears scattered/jagged",
+      "url": "https://devforum.roblox.com/t/thin-text-on-surfaceguis-appears-scatteredjagged/4946031",
+      "published": "2026-10-20",
+      "excerpt": "Any text with a thin font above the size of 33 appears to be scattered/jagged when placed inside of a SurfaceGui (Size 47, Roboto Mono, Thin) (Size 47, Roboto Mono, Light) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/thin-text-on-surfaceguis-appears-scatteredjagged/4946031.rss",
+      "id": "90a48c32af608b02f041c169"
     },
     {
       "source": "reddit-robloxdev",
@@ -674,6 +751,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Getting Started!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xal52k/getting_started/",
+      "published": "2026-10-20",
+      "excerpt": "Finally getting into Roblox game development after years of beating around the bush. I'm very excited. Have a dozen YouTube tutorials queued up, a bowl of popcorn, and an open idea journal. If you were starting out right now, what game genre would you dive into? submitted by /u/theshortirishman [lin",
+      "creator": "/u/theshortirishman https://www.reddit.com/user/theshortirishman",
+      "id": "1c420d76754e350f0de926b4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "W ad for a new speed running game (any%) (not made by me)",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaehex/w_ad_for_a_new_speed_running_game_any_not_made_by/",
       "published": "2026-10-20",
@@ -703,6 +791,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/pivot-offset-problem/4945832.rss",
       "id": "0973ecdea75ce3027001279b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "how to actually get ur first players?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaln5m/how_to_actually_get_ur_first_players/",
+      "published": "2026-10-20",
+      "excerpt": "created my first game and i got no idea where to get my first players need help and suggestions:( submitted by /u/Automatic_Tooth2336 [link] [comments]",
+      "creator": "/u/Automatic_Tooth2336 https://www.reddit.com/user/Automatic_Tooth2336",
+      "id": "03f08a04fb6836b5bb1bb9cd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4481,6 +4580,7 @@
       "published": "2026-10-08",
       "excerpt": "What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "237793930278471d40f7b8df"
     },
     {
@@ -4690,6 +4790,7 @@
       "published": "2026-10-04",
       "excerpt": "How to Make a Roblox Game With AI (Claude Opus 5.5 Full Tutorial) YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "e270c3ea47e539bc1605ff58"
     },
     {
@@ -4742,7 +4843,7 @@
       "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
       "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
       "category": "Roblox build / 3D examples",
-      "title": "I Turned Facebook Reels Into a Roblox Game…",
+      "title": "I Turned REELS Into a Roblox Game!",
       "url": "https://www.youtube.com/watch?v=CD0NEjfeetc",
       "published": "2026-10-03",
       "excerpt": "",
@@ -4872,6 +4973,7 @@
       "published": "2026-09-30",
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "a55617be97ad82db25421af9"
     },
     {
@@ -5192,6 +5294,7 @@
       "published": "2026-09-22",
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
+      "publisher": "https://www.instagram.com",
       "id": "85f2ccbf97d5df0ac71ac103"
     },
     {
