@@ -5,24 +5,23 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
+## Community
 
-- **[your roblox scripting roadmap; beginner to intermediate to advanced - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVWthMTctS0lMWnJ2ZzN2dzJMdWJrazBibmxkMUVkSS1xaWhHM3NNcFB1cy1hTWtIY01WS09tRVlkNzhmZU1ZZ2FaUVBZejcyNWV1dVln?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-02
-  - Feed excerpt: your roblox scripting roadmap; beginner to intermediate to advanced YouTube
-
-## Roblox Creator / Steal An Egg
-
-- **[NEW ABBYS BOSS FIGHT🥺 in Steal an Egg Roblox (Best Steal an Egg Funny Moments) #stealanegg #roblox - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE43SWZRMXpKZlBuNGpwUXpnaVNrZ2RCa2lVVVJqX3JScjdNdnk2QlU5U0kwOWN6OUtjVW1kMnFzNnRob2F3QWxkWlFyVHFOWG1XUWo4UHVn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-14
-  - Feed excerpt: NEW ABBYS BOSS FIGHT🥺 in Steal an Egg Roblox (Best Steal an Egg Funny Moments) #stealanegg #roblox Instagram
+- **[Thoughts on this Map I am working on?](https://www.reddit.com/r/ROBLOXStudio/comments/1xb57zg/thoughts_on_this_map_i_am_working_on/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-20
+  - Feed excerpt: This game is similar to Lumber tycoon 2, but with Gems and stones, instead of trees, and this is the main store where you can buy and sell gems submitted by /u/YourLocaIBloxydealer \[link\] \[comments\]
+- **[Scrapped voting system](https://www.reddit.com/r/ROBLOXStudio/comments/1xb5ksn/scrapped_voting_system/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-20
+  - Feed excerpt: submitted by /u/karolek848 \[link\] \[comments\]
+- **[i made a platform, but it reminds me of a symbol that i cannot recall the meaning of (NSFW because idk if the symbol means something bad or not)](https://www.reddit.com/r/ROBLOXStudio/comments/1xb5rq5/i_made_a_platform_but_it_reminds_me_of_a_symbol/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-20
+  - Feed excerpt: what i made the symbol in question does anybody know the meaning of this symbol? i just wanna make sure i am not about to make something with a controversial symbol in it. is it a flag? is it a zodiac? i don't know what it is, but damn its 
 
 ## Roblox Updates
 
-- **[Avatar Joint Upgrade - Tidy up how constraints are getting added to R15 avatar limbs](https://devforum.roblox.com/t/avatar-joint-upgrade-tidy-up-how-constraints-are-getting-added-to-r15-avatar-limbs/4947148)** · Roblox Developer Forum latest · 2026-10-20
-  - Feed excerpt: When the avatar joint upgrade feature was enabled for everyone, I noticed that the children of my avatar’s MeshParts suddenly became a lot more cluttered. It was already very noisy before, but this update made it even worse. Could these con
-- **[Home thumbnail A/B test credits only about half of Home qualified plays since Oct 16, QPTR halved on unchanged thumbnails](https://devforum.roblox.com/t/home-thumbnail-ab-test-credits-only-about-half-of-home-qualified-plays-since-oct-16-qptr-halved-on-unchanged-thumbnails/4947121)** · Roblox Developer Forum latest · 2026-10-20
-  - Feed excerpt: Since Oct 16, 2026, the Home Page thumbnail A/B test for our experience credits roughly half as many Qualified Plays to its thumbnails as it did for the previous two months. Qualified PTR on every thumbnail in the test fell about 2x at the 
-- **[UI Scrolling Frame and Flex UI don't interact as intended](https://devforum.roblox.com/t/ui-scrolling-frame-and-flex-ui-dont-interact-as-intended/4947136)** · Roblox Developer Forum latest · 2026-10-20
-  - Feed excerpt: When using a FlexUI object within a scrolling frame with a list object, the bottom frames clip past the scrolling frame bounds. The AutomaticCanvasSize for the scrolling frame is set to Y axis only. Adding padding does not affect the result
+- **[EditableImages with skies](https://devforum.roblox.com/t/editableimages-with-skies/4947155)** · Roblox Developer Forum latest · 2026-10-20
+  - Feed excerpt: Currently the sky instance allows, but doesnt update or display editable images when attempting to set the skies content type 2 posts - 1 participant Read full topic
+- **[Avatar thumbnail bounding box uses physical bounds instead of visual bounds](https://devforum.roblox.com/t/avatar-thumbnail-bounding-box-uses-physical-bounds-instead-of-visual-bounds/4947181)** · Roblox Developer Forum latest · 2026-10-20
+  - Feed excerpt: When I created these scientist avatars for the UGC marketplace a few years ago, I made a mistake with the import. I’m not sure what exactly it was, but the end result is layered clothing getting physically moved to the bottom-center of the 
+- **[Direction keeps changing when the player moves (object carrying)](https://devforum.roblox.com/t/direction-keeps-changing-when-the-player-moves-object-carrying/4947178)** · Roblox Developer Forum latest · 2026-10-20
+  - Feed excerpt: I’m making an object carrying system with an animation that changes depending on the object size and weld positioning (it’s a scripted animation) The problem is that I can’t get the angle to stay constant, every time the player moves while 
 
 ---
 

@@ -557,7 +557,13 @@
     "d19579c3240b0d29d3b692e9",
     "5242b1ca6ed9dac44379dadf",
     "e5bedd179363a67b1f6c0e40",
-    "8b1aecfd3da596d4e5b8d519"
+    "8b1aecfd3da596d4e5b8d519",
+    "6c54dd980101fad31f8eaff8",
+    "b7e5b20673dd687633b20cc1",
+    "545612d0da60664163bba9c9",
+    "2ddfbd98a9c7de0f296efa83",
+    "05de7709ea251d7c985aa4d8",
+    "e456038585a96941f7bdce2b"
   ],
   "items": [
     {
@@ -742,6 +748,17 @@
       "excerpt": "submitted by /u/Training_Resist622 [link] [comments]",
       "creator": "/u/Training_Resist622 https://www.reddit.com/user/Training_Resist622",
       "id": "e48c09f9135da3a16e7e7d6a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Thoughts on this Map I am working on?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb57zg/thoughts_on_this_map_i_am_working_on/",
+      "published": "2026-10-20",
+      "excerpt": "This game is similar to Lumber tycoon 2, but with Gems and stones, instead of trees, and this is the main store where you can buy and sell gems submitted by /u/YourLocaIBloxydealer [link] [comments]",
+      "creator": "/u/YourLocaIBloxydealer https://www.reddit.com/user/YourLocaIBloxydealer",
+      "id": "e456038585a96941f7bdce2b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -942,6 +959,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/early-testers-cannot-run-animations-on-mobile/4946657.rss",
       "id": "bdad809a7a1817f73e820779"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Direction keeps changing when the player moves (object carrying)",
+      "url": "https://devforum.roblox.com/t/direction-keeps-changing-when-the-player-moves-object-carrying/4947178",
+      "published": "2026-10-20",
+      "excerpt": "I’m making an object carrying system with an animation that changes depending on the object size and weld positioning (it’s a scripted animation) The problem is that I can’t get the angle to stay constant, every time the player moves while the function is about to start the unit direction changes. I",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/direction-keeps-changing-when-the-player-moves-object-carrying/4947178.rss",
+      "id": "b7e5b20673dd687633b20cc1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1216,6 +1245,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Avatar thumbnail bounding box uses physical bounds instead of visual bounds",
+      "url": "https://devforum.roblox.com/t/avatar-thumbnail-bounding-box-uses-physical-bounds-instead-of-visual-bounds/4947181",
+      "published": "2026-10-20",
+      "excerpt": "When I created these scientist avatars for the UGC marketplace a few years ago, I made a mistake with the import. I’m not sure what exactly it was, but the end result is layered clothing getting physically moved to the bottom-center of the character’s intended bounding box: This has resulted in avat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatar-thumbnail-bounding-box-uses-physical-bounds-instead-of-visual-bounds/4947181.rss",
+      "id": "6c54dd980101fad31f8eaff8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Keep loading ImageLabels while scrolling down",
       "url": "https://devforum.roblox.com/t/keep-loading-imagelabels-while-scrolling-down/4945659",
       "published": "2026-10-20",
@@ -1326,6 +1367,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/experience-removed-twice-for-textchatservice-even-after-fixing-it/4946985.rss",
       "id": "547484770d9ce8200208d873"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "EditableImages with skies",
+      "url": "https://devforum.roblox.com/t/editableimages-with-skies/4947155",
+      "published": "2026-10-20",
+      "excerpt": "Currently the sky instance allows, but doesnt update or display editable images when attempting to set the skies content type 2 posts - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/editableimages-with-skies/4947155.rss",
+      "id": "545612d0da60664163bba9c9"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1523,6 +1576,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-optimize-a-game-for-40-ccu-players-server/4946987.rss",
       "id": "3027b11f72f3129cf3aaa843"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Scrapped voting system",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb5ksn/scrapped_voting_system/",
+      "published": "2026-10-20",
+      "excerpt": "submitted by /u/karolek848 [link] [comments]",
+      "creator": "/u/karolek848 https://www.reddit.com/user/karolek848",
+      "id": "2ddfbd98a9c7de0f296efa83"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1786,6 +1850,17 @@
       "excerpt": "submitted by /u/simple_concuisness [link] [comments]",
       "creator": "/u/simple_concuisness https://www.reddit.com/user/simple_concuisness",
       "id": "088b26650178f5addea5a5a7"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "i made a platform, but it reminds me of a symbol that i cannot recall the meaning of (NSFW because idk if the symbol means something bad or not)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb5rq5/i_made_a_platform_but_it_reminds_me_of_a_symbol/",
+      "published": "2026-10-20",
+      "excerpt": "what i made the symbol in question does anybody know the meaning of this symbol? i just wanna make sure i am not about to make something with a controversial symbol in it. is it a flag? is it a zodiac? i don't know what it is, but damn its super familiar submitted by /u/legendOHguy [link] [comments]",
+      "creator": "/u/legendOHguy https://www.reddit.com/user/legendOHguy",
+      "id": "05de7709ea251d7c985aa4d8"
     },
     {
       "source": "reddit-robloxdev",
