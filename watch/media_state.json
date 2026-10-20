@@ -480,7 +480,12 @@
     "ea6bf55efaa0149e2a6ff21e",
     "51bb11248376d9c01ad32675",
     "fc53a2ae278886174fa81d69",
-    "1ec896eebcf79da3e386fe9a"
+    "1ec896eebcf79da3e386fe9a",
+    "a6ddc96c191453b7be07fee5",
+    "3a05e0083d8ccb18d05c7be3",
+    "9ed60a9a797192603a7ee7da",
+    "9a26124cb8843e30eeedafe1",
+    "48a9d3f775dde31cbf0ec3be"
   ],
   "items": [
     {
@@ -649,6 +654,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Consistent UIBlox warnings on client that cannot be tracked down or resolved",
+      "url": "https://devforum.roblox.com/t/consistent-uiblox-warnings-on-client-that-cannot-be-tracked-down-or-resolved/4946258",
+      "published": "2026-10-20",
+      "excerpt": "Recently I’ve started encountering a warning from UIBlox on client every time I playtest both on Studio and Roblox. The same warning occurs exactly 5 times on each run and it isn’t game specific either. System info: i7-13620H, 32GB, RTX 5070 No known way to reproduce the issue. Any help is appreciat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/consistent-uiblox-warnings-on-client-that-cannot-be-tracked-down-or-resolved/4946258.rss",
+      "id": "a6ddc96c191453b7be07fee5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Group Community locked i wait 7 days my holder account: doesn’t have access to the devforum post",
       "url": "https://devforum.roblox.com/t/group-community-locked-i-wait-7-days-my-holder-account-doesn%E2%80%99t-have-access-to-the-devforum-post/4945859",
       "published": "2026-10-20",
@@ -679,6 +696,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/depth-based-registration-of-a-pvinstancerendering-property/4946169.rss",
       "id": "a11e2cbf20a1e83a5ddcc23f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "XyLo | Scripter | Tower Defense & Game Systems",
+      "url": "https://devforum.roblox.com/t/xylo-scripter-tower-defense-game-systems/4946218",
+      "published": "2026-10-20",
+      "excerpt": "Hey! I’m XyLo , a Roblox scripter with 4 years of programming experience . I specialize in game systems and core loops : the code that turns finished UI, maps and models into a game people keep coming back to. My main project is Rogue Defense , a roguelite tower defense game I scripted end to end: t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/xylo-scripter-tower-defense-game-systems/4946218.rss",
+      "id": "9ed60a9a797192603a7ee7da"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Collections on Profiles are not showing / not letting users delete bundles due to a bug in API",
+      "url": "https://devforum.roblox.com/t/collections-on-profiles-are-not-showing-not-letting-users-delete-bundles-due-to-a-bug-in-api/4946212",
+      "published": "2026-10-20",
+      "excerpt": "API responsible for showing Collections items ( apis.roblox.com/profile-platform-api/v1/profiles/get ) categorizes all items (that includes bundles) as Assets. Heres the snipet of the response \"Collections\": { \"assets\": [ { \"assetId\": 46348897, \"itemType\": \"Asset\" }, { \"assetId\": 157727689252909, \"i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/collections-on-profiles-are-not-showing-not-letting-users-delete-bundles-due-to-a-bug-in-api/4946212.rss",
+      "id": "9a26124cb8843e30eeedafe1"
     },
     {
       "source": "reddit-robloxdev",
@@ -841,6 +882,17 @@
       "id": "51bb11248376d9c01ad32675"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Hey guys, does my game look like AI slop?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xapniw/hey_guys_does_my_game_look_like_ai_slop/",
+      "published": "2026-10-20",
+      "excerpt": "submitted by /u/stevennnn12334 [link] [comments]",
+      "creator": "/u/stevennnn12334 https://www.reddit.com/user/stevennnn12334",
+      "id": "48a9d3f775dde31cbf0ec3be"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -851,6 +903,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-stuck-in-48hr-final-review-for-4-days-despite-5000-hep/4946121.rss",
       "id": "416c8fa5ce4f296174370574"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Dynamic Head with EyelashAccessory always fails upload validation with \"Unknown error\" (even Roblox's own heads)",
+      "url": "https://devforum.roblox.com/t/dynamic-head-with-eyelashaccessory-always-fails-upload-validation-with-unknown-error-even-robloxs-own-heads/4946257",
+      "published": "2026-10-20",
+      "excerpt": "System Information: Windows 11, Roblox Studio (latest version, updated October 20, 2026). Beta Features: Visualizing UGC Validation. The bug also happens with this beta disabled. Reproduction Files: A minimal repro model is attached in the staff-only section. It only contains a Dynamic Head and an E",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dynamic-head-with-eyelashaccessory-always-fails-upload-validation-with-unknown-error-even-robloxs-own-heads/4946257.rss",
+      "id": "3a05e0083d8ccb18d05c7be3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5423,6 +5487,7 @@
       "published": "2026-09-23",
       "excerpt": "Can Claude Make A VIRAL Battlegrounds Game? YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "45f91e058b6a1517613630eb"
     },
     {

@@ -5,24 +5,21 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[YOUR ROBLOX GAME BETTER BE GOOD. - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vMlMwbDNPamh6b2t4UF8tRXNiYmdiNW54SmdjSHh6ZnZDc1RDS0RaNWtERVRWb3h2VjQ2YzY2QURBdFNhdGVqVnI0YVNNbHlvamdtWjVB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-29
-  - Feed excerpt: YOUR ROBLOX GAME BETTER BE GOOD. YouTube
-
 ## Community
 
-- **[Is there some obvious problem with my game?](https://www.reddit.com/r/robloxgamedev/comments/1xaofta/is_there_some_obvious_problem_with_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-20
-  - Feed excerpt: https://www.roblox.com/games/112468607238410/Ant-Incremental Hi everyone, I feel like my game is doing really poorly stats-wise especially for its genre, it might be cause it’s more of a niche genre or there could just something fundamental
-- **[Helped de-slop a friend's game after they got scammed for 7K Robux by some lazy developers.](https://www.reddit.com/r/robloxgamedev/comments/1xaoi4e/helped_deslop_a_friends_game_after_they_got/)** · Reddit r/robloxgamedev public RSS · 2026-10-20
-  - Feed excerpt: The scammers just used AI and free models . They couldn't even be bothered to make original ones , which are so easy to make, for real. Took around 8 Hours to rebuild everything from the ground up. Had fun while doing it. One thing AI will 
-- **[Made an event trailer for my Roblox game!](https://www.reddit.com/r/robloxgamedev/comments/1xaojxr/made_an_event_trailer_for_my_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-20
-  - Feed excerpt: Thank you guys so much for all the support on my game trailer! Since it did so well, I figured I'd give making an event trailer a shot too. submitted by /u/15Momoz \[link\] \[comments\]
+- **[Hey guys, does my game look like AI slop?](https://www.reddit.com/r/robloxgamedev/comments/1xapniw/hey_guys_does_my_game_look_like_ai_slop/)** · Reddit r/robloxgamedev public RSS · 2026-10-20
+  - Feed excerpt: submitted by /u/stevennnn12334 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Depth-Based Registration of a PVInstance.Rendering Property](https://devforum.roblox.com/t/depth-based-registration-of-a-pvinstancerendering-property/4946169)** · Roblox Developer Forum latest · 2026-10-20
-  - Feed excerpt: As a Roblox developer, it is currently too hard to … Determine if a part will be rendered this frame. If Roblox is able to address this issue, it would improve my development experience because … It’s actually extremely useful to know if so
+- **[Consistent UIBlox warnings on client that cannot be tracked down or resolved](https://devforum.roblox.com/t/consistent-uiblox-warnings-on-client-that-cannot-be-tracked-down-or-resolved/4946258)** · Roblox Developer Forum latest · 2026-10-20
+  - Feed excerpt: Recently I’ve started encountering a warning from UIBlox on client every time I playtest both on Studio and Roblox. The same warning occurs exactly 5 times on each run and it isn’t game specific either. System info: i7-13620H, 32GB, RTX 507
+- **[Dynamic Head with EyelashAccessory always fails upload validation with "Unknown error" (even Roblox's own heads)](https://devforum.roblox.com/t/dynamic-head-with-eyelashaccessory-always-fails-upload-validation-with-unknown-error-even-robloxs-own-heads/4946257)** · Roblox Developer Forum latest · 2026-10-20
+  - Feed excerpt: System Information: Windows 11, Roblox Studio (latest version, updated October 20, 2026). Beta Features: Visualizing UGC Validation. The bug also happens with this beta disabled. Reproduction Files: A minimal repro model is attached in the 
+- **[XyLo \| Scripter \| Tower Defense & Game Systems](https://devforum.roblox.com/t/xylo-scripter-tower-defense-game-systems/4946218)** · Roblox Developer Forum latest · 2026-10-20
+  - Feed excerpt: Hey! I’m XyLo , a Roblox scripter with 4 years of programming experience . I specialize in game systems and core loops : the code that turns finished UI, maps and models into a game people keep coming back to. My main project is Rogue Defen
+- **[Collections on Profiles are not showing / not letting users delete bundles due to a bug in API](https://devforum.roblox.com/t/collections-on-profiles-are-not-showing-not-letting-users-delete-bundles-due-to-a-bug-in-api/4946212)** · Roblox Developer Forum latest · 2026-10-20
+  - Feed excerpt: API responsible for showing Collections items ( apis.roblox.com/profile-platform-api/v1/profiles/get ) categorizes all items (that includes bundles) as Assets. Heres the snipet of the response "Collections": { "assets": \[ { "assetId": 46348
 
 ---
 
