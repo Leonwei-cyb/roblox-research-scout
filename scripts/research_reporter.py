@@ -94,8 +94,12 @@ def analyze(index: dict, limit: int = 6) -> dict:
         candidates = [p for p in eligible if lane in p["signals"] and p["key"] not in seen
                       and used_sources[str(p.get("source", ""))] < 2
                       and re.search(title_pattern, p["title"], re.I)]
-        candidates.sort(key=lambda p: (-(p["score"] + WEIGHT[p["kind"]]),
-                                       str(p.get("key", ""))))
+        # Excerpts may contain irrelevant or adversarial keyword stuffing.
+        # Rank by actual title matches and primary-source type, NOT excerpt score.
+        candidates.sort(key=lambda p: (
+            -(min(3, len(re.findall(title_pattern, p["title"], re.I))) * 3 + WEIGHT[p["kind"]]),
+            str(p.get("key", "")),
+        ))
         if not candidates or len(results) >= limit:
             continue
         p = candidates[0]
