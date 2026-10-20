@@ -124,7 +124,39 @@ class ResearchReporterTests(unittest.TestCase):
         for item in report["candidates"]:
             self.assertRegex(item["title"], re.compile(
                 learning_radar.FOCUS[item["topic"]][0], re.I))
+            self.assertRegex(item["title"], re.compile(
+                r.TITLE_GATES[item["topic"]], re.I))
             self.assertEqual(item["stage"], "UNVIEWED_METADATA")
+
+    def test_reject_generic_titles_that_are_not_a_player_loop_reference(self):
+        cases = [
+            ("first-session and mobile", "I'll Pay You $20,000 To Copy This Mobile Game"),
+            ("physical tycoon purchases", "Mastering Server Authority to Build Competitive Multiplayer Games"),
+            ("physical tycoon purchases", "Avatar Joint Upgrade - Tidy up added R15 constraints"),
+            ("first-session and mobile", "Appeal workflow recursively leaves users unable to receive a verdict"),
+            ("world and visual design", "Looking to recruit a game model builder"),
+        ]
+        for topic, title in cases:
+            with self.subTest(topic=topic, title=title):
+                post = row("devforum:4946218:1", DF, "devforum", topic, title=title)
+                self.assertEqual(r.analyze({"posts": [post]})["candidates"], [])
+
+    def test_accept_relevant_explicit_gameplay_titles(self):
+        cases = [
+            ("first-session and mobile", "50% of Players leave within 2 minutes"),
+            ("physical tycoon purchases", "Tycoon purchase pad UX demo"),
+            ("cat animation and audio", "Animated Cat Controller"),
+            ("UI and menus", "Roblox UI layout design"),
+            ("tuition and economy", "Tycoon income balancing"),
+            ("world and visual design", "Roblox grass level of detail"),
+        ]
+        for topic, title in cases:
+            with self.subTest(topic=topic, title=title):
+                post = row("devforum:4946218:1", DF, "devforum", topic, title=title)
+                report = r.analyze({"posts": [post]})
+                self.assertEqual(len(report["candidates"]), 1)
+                self.assertEqual(report["candidates"][0]["topic"], topic)
+                self.assertFalse(report["candidates"][0]["observation_verified"])
 
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
