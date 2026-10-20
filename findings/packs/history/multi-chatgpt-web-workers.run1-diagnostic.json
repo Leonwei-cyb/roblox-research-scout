@@ -1,0 +1,83 @@
+{
+ "calls": 28,
+ "results": {
+  "a:q": {
+   "matches_known": [
+    "megamen32/chatgpt-multi",
+    "Xalzeroph/Charterion",
+    "paritoshv/multi-llm-web-orchestrator"
+   ],
+   "total_results": 10592
+  },
+  "a:relaxed": {
+   "matches_known": [
+    "megamen32/chatgpt-multi",
+    "Xalzeroph/Charterion",
+    "paritoshv/multi-llm-web-orchestrator"
+   ],
+   "total_results": 38221
+  },
+  "b:q": {
+   "matches_known": [],
+   "total_results": 4502
+  },
+  "b:relaxed": {
+   "matches_known": [
+    "paritoshv/multi-llm-web-orchestrator"
+   ],
+   "total_results": 34034
+  },
+  "c:q": {
+   "matches_known": [
+    "Xalzeroph/Charterion"
+   ],
+   "total_results": 76512
+  },
+  "c:relaxed": {
+   "matches_known": [
+    "Xalzeroph/Charterion"
+   ],
+   "total_results": 529369
+  },
+  "d:q": {
+   "matches_known": [],
+   "total_results": 26972
+  },
+  "d:relaxed": {
+   "matches_known": [
+    "Xalzeroph/Charterion"
+   ],
+   "total_results": 67511
+  },
+  "e:q": {
+   "matches_known": [
+    "Xalzeroph/Charterion"
+   ],
+   "total_results": 13296
+  },
+  "e:relaxed": {
+   "matches_known": [
+    "Xalzeroph/Charterion"
+   ],
+   "total_results": 166081
+  },
+  "f:q": {
+   "matches_known": [],
+   "total_results": 4525
+  },
+  "f:relaxed": {
+   "matches_known": [
+    "megamen32/chatgpt-multi"
+   ],
+   "total_results": 11415
+  },
+  "g:q": {
+   "matches_known": [],
+   "total_results": 22847
+  },
+  "g:relaxed": {
+   "matches_known": [],
+   "total_results": 205717
+  }
+ }
+}
