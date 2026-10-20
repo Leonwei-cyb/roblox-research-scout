@@ -19,6 +19,51 @@ This is a PUBLIC repository. Everything gathered here is public information, and
 - **Actions:** the existing research workflow runs hourly (cron `23 * * * *` since 2026-10-19), plus relevant source/config changes; urgent scans can be run manually. Independent health checks react to completions and run on an hourly fallback.
 - **Tests:** `python3 -m unittest discover -s tests -v`.
 
+## Game and topic research specialists (one shared bot)
+
+The Mac's existing `com.leon.research-scout` launchd job remains the **only**
+research process. `scripts/discovery_scout.py` now uses `scripts/research_lanes.py`
+to rotate GitHub search queries fairly across the specialists configured in
+[`watch/discovery.json`](watch/discovery.json):
+
+- Cat Magic School (highest weight while it is the active game)
+- One Tower Tycoon
+- Anime Fortress
+- Roblox art, UI and animation
+- Roblox engineering and performance
+- AI / Codex tools
+- Leon reliability tools
+- Unexpected open-source gameplay ideas
+
+**Change priorities without writing code:** edit `research_lanes[].weight`
+(0 pauses a lane) or `research_lanes[].enabled`, and
+`active_projects` to move game-specific candidates to the top of the
+evaluation backlog. To add another game, add topic queries under `topics`
+and reference those topic IDs in a new `research_lanes` entry. The
+weights share **one bounded search budget** (`max_search_queries`, still 15
+topic queries per discovery run), not separate budgets or new API accounts.
+Enabled lanes receive one query each when that budget allows; remaining
+queries are weighted and rotate between runs. Existing problem-first query
+packs may make additional calls under the same GitHub rate-limit guard.
+
+Outputs to `status/discovery.json`: `research_lanes` with selected,
+completed, deferred and failed queries per specialist; `active_projects`;
+and game-prioritized candidates in `backlog`. The ordinary candidates
+store is shared, deduplicated by GitHub repository ID/version. Only
+independently tested `findings/reviews/` records can say **adopted**.
+Neither a search result nor a green status means a game was improved.
+
+**Mac operation:** the existing hourly local research cycle and
+approximately six-hour discovery interval remain unchanged. Locally
+running these scripts uses no GitHub-hosted Actions minutes, but consumes
+Mac resources and GitHub API quotas. This PR does not install a new
+scheduler or increase request frequency. Check the real run receipt and
+rate-limit fields before claiming the new specialist configuration is active.
+No paid models, automated Instagram/X login, game publishing or
+third-party code installs are enabled.
+
+**Offline tests:** `python3 -m unittest discover -s tests -p 'test_discovery*.py'`.
+
 ## Research must become tested game work
 
 Research is **not** a production milestone. The collection has previously amassed hundreds of entries, dominated by search redirects that have no verified original gameplay. The current focused feed set pauses low-yield broad Google News searches and incomplete Apple chart polls. Historical `watch/media_state.json` remains intact: paused searches can be reinstated for a specific problem, not by default.
