@@ -475,7 +475,12 @@
     "58f4c3e566a3ef9e2fa55b7d",
     "088b26650178f5addea5a5a7",
     "7fff73fbdbb935b8df89c3fd",
-    "03b410bb492efa550cf798f6"
+    "03b410bb492efa550cf798f6",
+    "a11e2cbf20a1e83a5ddcc23f",
+    "ea6bf55efaa0149e2a6ff21e",
+    "51bb11248376d9c01ad32675",
+    "fc53a2ae278886174fa81d69",
+    "1ec896eebcf79da3e386fe9a"
   ],
   "items": [
     {
@@ -493,12 +498,34 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Helped de-slop a friend's game after they got scammed for 7K Robux by some lazy developers.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaoi4e/helped_deslop_a_friends_game_after_they_got/",
+      "published": "2026-10-20",
+      "excerpt": "The scammers just used AI and free models . They couldn't even be bothered to make original ones , which are so easy to make, for real. Took around 8 Hours to rebuild everything from the ground up. Had fun while doing it. One thing AI will never be able to do is build. Other than all that, be carefu",
+      "creator": "/u/Alive-Psychology6050 https://www.reddit.com/user/Alive-Psychology6050",
+      "id": "fc53a2ae278886174fa81d69"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "New Roblox Game Inspired by Warcraft 3 – Sheep Tag!",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xak88c/new_roblox_game_inspired_by_warcraft_3_sheep_tag/",
       "published": "2026-10-20",
       "excerpt": "Hey everyone! 🐑 My partner has been spending a lot of time creating his own Roblox game called Sheep Tag, and I wanted to share it here! It's inspired by an old Warcraft 3 mod, but he's been putting his own spin on it with custom 3D models, environments and gameplay. You can play as a Runner, buildi",
       "creator": "/u/TildaNova https://www.reddit.com/user/TildaNova",
       "id": "ec692ba7d89c1a183b0c89fb"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is there some obvious problem with my game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaofta/is_there_some_obvious_problem_with_my_game/",
+      "published": "2026-10-20",
+      "excerpt": "https://www.roblox.com/games/112468607238410/Ant-Incremental Hi everyone, I feel like my game is doing really poorly stats-wise especially for its genre, it might be cause it’s more of a niche genre or there could just something fundamentally wrong with my game The average playtime since release flu",
+      "creator": "/u/Accurate-Arugula7956 https://www.reddit.com/user/Accurate-Arugula7956",
+      "id": "ea6bf55efaa0149e2a6ff21e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -543,7 +570,7 @@
       "title": "A New Game idea",
       "url": "https://devforum.roblox.com/t/a-new-game-idea/4946137",
       "published": "2026-10-20",
-      "excerpt": "I have just struggled with ideas for a new game. I need something that has a loop, that keeps players coming back, but also something fun and unique. Under no circumstances do I want to make a slop game. Please help me figure it out. 1 post - 1 participant Read full topic",
+      "excerpt": "I have just struggled with ideas for a new game. I need something that has a loop, that keeps players coming back, but also something fun and unique. Under no circumstances do I want to make a slop game. Please help me figure it out. 3 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/a-new-game-idea/4946137.rss",
       "id": "d75eb64c353e5abdcf9c5941"
@@ -640,6 +667,18 @@
       "excerpt": "There is a dev on Roblox that has released about 4-5 games this year all within a few months. They are complete games, some good, most not, but they are complete games. It shows he's only a solo developer. I'm wondering how is he able to keep pumping out games? Is he buying them or maybe hiring anot",
       "creator": "/u/ThatGuyFromCA47 https://www.reddit.com/user/ThatGuyFromCA47",
       "id": "a2fcd5796354f9d2bc7c8d12"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Depth-Based Registration of a PVInstance.Rendering Property",
+      "url": "https://devforum.roblox.com/t/depth-based-registration-of-a-pvinstancerendering-property/4946169",
+      "published": "2026-10-20",
+      "excerpt": "As a Roblox developer, it is currently too hard to … Determine if a part will be rendered this frame. If Roblox is able to address this issue, it would improve my development experience because … It’s actually extremely useful to know if something is (or was) on-screen or not. With Unity3D, they off",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/depth-based-registration-of-a-pvinstancerendering-property/4946169.rss",
+      "id": "a11e2cbf20a1e83a5ddcc23f"
     },
     {
       "source": "reddit-robloxdev",
@@ -789,6 +828,17 @@
       "excerpt": "Hello! I’m Syemika. I am the director of an RPG called Extermination Union. If you’ve seen my other posts, you know what Extermination Union is. But incase you haven’t, Extermination Union is a Turn-based RPG inspired by Limbus Company! Currently, we are almost a week away from starting the game’s d",
       "creator": "/u/dorowsyyy https://www.reddit.com/user/dorowsyyy",
       "id": "576300ee174446c9a72dc604"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Made an event trailer for my Roblox game!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaojxr/made_an_event_trailer_for_my_roblox_game/",
+      "published": "2026-10-20",
+      "excerpt": "Thank you guys so much for all the support on my game trailer! Since it did so well, I figured I'd give making an event trailer a shot too. submitted by /u/15Momoz [link] [comments]",
+      "creator": "/u/15Momoz https://www.reddit.com/user/15Momoz",
+      "id": "51bb11248376d9c01ad32675"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5109,6 +5159,18 @@
       "excerpt": "I Let AI Build My Entire Roblox Game (Opus 5.5） YouTube",
       "creator": "",
       "id": "4780dfc775dd4519ac252ccd"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "YOUR ROBLOX GAME BETTER BE GOOD. - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vMlMwbDNPamh6b2t4UF8tRXNiYmdiNW54SmdjSHh6ZnZDc1RDS0RaNWtERVRWb3h2VjQ2YzY2QURBdFNhdGVqVnI0YVNNbHlvamdtWjVB?oc=5",
+      "published": "2026-09-29",
+      "excerpt": "YOUR ROBLOX GAME BETTER BE GOOD. YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "1ec896eebcf79da3e386fe9a"
     },
     {
       "source": "syphodev-claude",
