@@ -63,6 +63,12 @@ class LearningRadarTests(unittest.TestCase):
         self.assertIn("No videos watched", body)
         self.assertIn("0.5-1 second", body)
 
+    def test_untrusted_titles_cannot_escape_markdown_link_labels(self):
+        item = {"url": "https://www.youtube.com/watch?v=KB5iAzy86Fo",
+                "title": r"Roblox tycoon x\](https://evil.example)[y"}
+        body = render(triage([item]))
+        self.assertIn(r"tycoon x\\\](https://evil.example)\[y", body)
+
     def test_signal_focus_is_broad_but_game_first(self):
         self.assertIn("first-session and mobile", FOCUS)
         self.assertIn("physical tycoon purchases", FOCUS)
