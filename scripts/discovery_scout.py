@@ -902,9 +902,13 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
     for key, row in monitored[:reserve]:
         targets.append(row["repo"])
         topic_of[key] = row.get("topic", "monitor")
-    fresh_hits = sorted((v for k, v in pool.items() if k not in known and k not in topic_of),
-                        key=lambda v: (-v[2]["stars"], v[0].lower()))
-    for name, topic, _item in fresh_hits[: int(limits.get("max_new_candidates_per_run", 25))]:
+    # Fairly share enrichment slots across game/topic lanes. Global star sorting
+    # made popular agent utilities displace smaller, more relevant Roblox code.
+    topic_lanes = {topic: lane for topic, _query, lane in queries}
+    fresh_hits = research_lanes.prioritize_hits(
+        (v for k, v in pool.items() if k not in known and k not in topic_of),
+        topic_lanes, cfg, int(limits.get("max_new_candidates_per_run", 25)))
+    for name, topic, _item in fresh_hits:
         targets.append(name)
         topic_of[name.lower()] = topic
     for key, row in monitored[reserve:]:
@@ -1080,7 +1084,7 @@ def build_status(rows, feeds, events, gh, cfg, started, finished, outcome, event
                      "outcome": outcome, "run_url": run_url},
         "freshness": {
             "stale_after_hours": int(limits.get("stale_after_hours", 13)),
-            "schedule": "Mac local scheduler or manual scan; GitHub Actions 6h backstop when available",
+            "schedule": "Mac launchd: research hourly, discovery approximately every 6 hours; GitHub Actions manual-only",
             "continuous": False,
             "note": "Polling snapshots only. Third-party repos cannot push events to us, so releases/issues are seen at the next run.",
         },
