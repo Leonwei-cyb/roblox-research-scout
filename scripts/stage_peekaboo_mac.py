@@ -20,10 +20,10 @@ ROOT = Path(__file__).resolve().parents[1]
 DEST = ROOT / "local-peekaboo"
 HUB = "Leonwei-cyb/Roblox-Studio-Hub"
 # Exact Hub draft PR #87 revision; change these ONLY after source review.
-HEAD = "8c730ec9239ba440021ab26bd7b819eefd11bb09"
+HEAD = "ce10d0f97fb65d68842a21ec71de9eb62093e603"
 ALLOWED = {
-    "leon-mac-vision/peekaboo_probe.py": ("peekaboo_probe.py", "38656adfe7c6c52205020eaf35276bd979c3c13f"),
-    "leon-mac-vision/tests/test_peekaboo_probe.py": ("tests/test_peekaboo_probe.py", "ea990c4bec7ee1662f8cf52eb4ca66663b41f5ac"),
+    "leon-mac-vision/peekaboo_probe.py": ("peekaboo_probe.py", "942a79a122f83b993e2b4d95a26f5c759b3c6258"),
+    "leon-mac-vision/tests/test_peekaboo_probe.py": ("tests/test_peekaboo_probe.py", "ce7a0701d850d88dcc4c2929624c5ec8744690b8"),
 }
 
 
