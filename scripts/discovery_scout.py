@@ -848,6 +848,11 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
             new_cursors[lane["id"]] = (old_offset + lane["completed"]) % lane["available"]
     if completed_queries and cfg.get("research_lanes"):
         state["research_lane_cursor"] = new_cursors
+        try:
+            prior_run = int(state.get("research_lane_run", 0))
+        except (ValueError, TypeError):
+            prior_run = 0
+        state["research_lane_run"] = max(0, prior_run) + 1
 
     # 1b. Problem-first query packs (bounded; see discovery_packs.py).
     pack_hits, pack_limited = {}, {}
