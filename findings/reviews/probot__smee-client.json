@@ -1,0 +1,97 @@
+{
+  "repo": "probot/smee-client",
+  "sha": "6c40610c588c0aa196c8601a0633895861e0c2da",
+  "version": "v4.4.3",
+  "verdict": "reject",
+  "date": "2026-10-20",
+  "reviewer": "Research (hub helper)",
+  "blocker": "github-mac-messaging",
+  "decision": "Reject as Leon's GitHub-to-Mac channel. The client itself is sound and fast, but the delivery path it depends on (the public smee.io relay) is not private, not durable and does not preserve the signed bytes.",
+  "how_discovered": "Discovery watchlist + the github-mac-messaging blocker; first scored 'reject: no fit' (description says 'local server', not 'localhost'), fixed by the core-pattern scoring, then needs-test score 95, routed to hub.",
+  "license": "ISC (LICENSE read at the pinned SHA; copyright Jason Etcovitch)",
+  "source_read": [
+    "index.ts (whole file)",
+    "bin/smee.js",
+    "package.json",
+    "package-lock.json (97 packages incl. dev; runtime: eventsource 4.1.1, undici 7.30.0)"
+  ],
+  "tests": {
+    "where": "isolated scratch clone, never on PATH, npm ci --ignore-scripts with a scratch npm cache",
+    "commands": [
+      "npm ci --ignore-scripts --cache ../npm-cache",
+      "npm run build",
+      "npm test"
+    ],
+    "result": "9 test files, 32 tests passed (vitest 4.1.11, Node v24.18.1); the suite uses mocks, no smee.io traffic"
+  },
+  "proof": {
+    "harness": "findings/reviews/probot__smee-client/proof.mjs",
+    "result": "findings/reviews/probot__smee-client/result.json",
+    "setup": "All on 127.0.0.1: a relay that behaves like smee.io (parses the POSTed JSON, re-emits it as an SSE event), the pinned SmeeClient, and a target that verifies X-Hub-Signature-256 over the raw bytes it receives.",
+    "measured": {
+      "node": "v24.18.1",
+      "summary": {
+        "compact-ascii": {
+          "sent": 50,
+          "delivered": 50,
+          "signatureValid": 50,
+          "bytesIdentical": 50,
+          "p50_ms": 2.59,
+          "p95_ms": 13.35
+        },
+        "pretty-printed": {
+          "sent": 5,
+          "delivered": 5,
+          "signatureValid": 0,
+          "bytesIdentical": 0,
+          "p50_ms": 2.46,
+          "p95_ms": 2.73
+        },
+        "unicode-escaped": {
+          "sent": 5,
+          "delivered": 5,
+          "signatureValid": 0,
+          "bytesIdentical": 0,
+          "p50_ms": 2.76,
+          "p95_ms": 2.98
+        },
+        "float-1.0": {
+          "sent": 5,
+          "delivered": 5,
+          "signatureValid": 0,
+          "bytesIdentical": 0,
+          "p50_ms": 2.85,
+          "p95_ms": 2.9
+        }
+      },
+      "reconnect": {
+        "reconnect_ms": 3002,
+        "delivered": [
+          "blip-after-reconnect"
+        ],
+        "lost": [
+          "blip-during-drop"
+        ]
+      }
+    }
+  },
+  "findings": [
+    "Speed is not the problem: 50/50 compact events delivered, p50 2.59 ms, p95 13.35 ms of local forwarding overhead.",
+    "The body is re-serialised (index.ts: body = JSON.stringify(data.body)), and smee.io already parsed it. The HMAC still verified for compact ASCII JSON (50/50) but failed for every pretty-printed, \\u-escaped or 1.0-float payload (0/15). Whether real GitHub payload bytes always survive the round trip was NOT verified here.",
+    "No durable delivery: an event published while the stream was down was lost; reconnect took 3002 ms (the 'reconnectInterval = 0' hack in index.ts has no effect on eventsource v4, which waits its default ~3 s). Missed events would need GitHub's redelivery API.",
+    "Privacy: a smee.io channel is a public, unauthenticated URL; anyone who has it can read every payload. smee.io's own README presents it for development, with no SLA.",
+    "content-type is always rewritten to application/json and the host header dropped, so form-encoded webhooks would break.",
+    "Using it at all needs a webhook added to the GitHub repos: an account/settings change only the owner can approve."
+  ],
+  "reuse": "Nothing to vendor. If push latency matters more than the current polling, the pattern to copy is a relay that keeps the raw bytes, verifies the signature at the relay, stores deliveries by X-GitHub-Delivery id and replays on reconnect, which smee.io does not do.",
+  "limits": [
+    "Local emulation of smee.io, not the live smee.io service",
+    "No GitHub webhook was configured (owner decision)",
+    "Measured on one loaded Mac (load average ~15)"
+  ],
+  "evidence": [
+    "https://github.com/probot/smee-client/tree/6c40610c588c0aa196c8601a0633895861e0c2da",
+    "https://github.com/probot/smee-client/blob/6c40610c588c0aa196c8601a0633895861e0c2da/index.ts",
+    "https://github.com/probot/smee-client/blob/6c40610c588c0aa196c8601a0633895861e0c2da/LICENSE"
+  ]
+}

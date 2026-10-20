@@ -1,0 +1,46 @@
+{
+  "node": "v24.18.1",
+  "summary": {
+    "compact-ascii": {
+      "sent": 50,
+      "delivered": 50,
+      "signatureValid": 50,
+      "bytesIdentical": 50,
+      "p50_ms": 2.59,
+      "p95_ms": 13.35
+    },
+    "pretty-printed": {
+      "sent": 5,
+      "delivered": 5,
+      "signatureValid": 0,
+      "bytesIdentical": 0,
+      "p50_ms": 2.46,
+      "p95_ms": 2.73
+    },
+    "unicode-escaped": {
+      "sent": 5,
+      "delivered": 5,
+      "signatureValid": 0,
+      "bytesIdentical": 0,
+      "p50_ms": 2.76,
+      "p95_ms": 2.98
+    },
+    "float-1.0": {
+      "sent": 5,
+      "delivered": 5,
+      "signatureValid": 0,
+      "bytesIdentical": 0,
+      "p50_ms": 2.85,
+      "p95_ms": 2.9
+    }
+  },
+  "reconnect": {
+    "reconnect_ms": 3002,
+    "delivered": [
+      "blip-after-reconnect"
+    ],
+    "lost": [
+      "blip-during-drop"
+    ]
+  }
+}
