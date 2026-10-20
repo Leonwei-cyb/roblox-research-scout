@@ -180,5 +180,10 @@ def main():
         ("coverage_audit.md", coverage_audit(records, health)),
     ]:
         print(("Updated" if save(OUT / name, body) else "Unchanged"), name)
+    # Existing Mac hourly refresh: tag every captured post, but never claim
+    # metadata represents inspected videos, gameplay or audio.
+    import learning_radar
+    learning_radar.main()
+
 if __name__ == "__main__":
     main()

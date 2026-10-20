@@ -5,3 +5,5 @@ __pycache__/
 .env.*
 !.env.example
 .local-video-reviews/
+# Private local Mac Peekaboo adapter copied from Leon Hub; never upload into public scout.
+local-peekaboo/
