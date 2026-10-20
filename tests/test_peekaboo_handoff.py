@@ -1,5 +1,7 @@
 """No Mac UI, network, or screenshots in these tests."""
 import sys
+import json
+import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
@@ -29,6 +31,46 @@ class ResearchPeekabooHandoffTests(unittest.TestCase):
         for key in ("missing", "reddit:123"):
             with self.assertRaises(ValueError):
                 h.prepare(key, INDEX)
+
+    def test_rejects_wrong_host_even_with_social_kind(self):
+        evil = {"posts": [{"key": "instagram:AA", "url": "https://example.com/reel/AA",
+                           "kind": "instagram", "evidence": "UNVIEWED_METADATA"}]}
+        with self.assertRaisesRegex(ValueError, "allowlisted"):
+            h.prepare("instagram:AA", evil)
+
+    def test_rejects_creator_profile_as_social_post(self):
+        profile = {"posts": [{"key": "x:page", "url": "https://x.com/creator",
+                              "kind": "x", "evidence": "UNVIEWED_METADATA"}]}
+        with self.assertRaisesRegex(ValueError, "individual original"):
+            h.prepare("x:page", profile)
+
+    def test_retaining_a_capture_requires_explicit_public_window_confirmation(self):
+        with patch.object(Path, "is_file", return_value=True), \
+             patch.object(h.subprocess, "run") as run:
+            with self.assertRaisesRegex(ValueError, "confirming"):
+                h.capture("instagram:AA", "Safari", 7, INDEX, keep_private=True)
+            run.assert_not_called()
+
+    def test_private_capture_is_local_only_and_not_marked_as_viewed(self):
+        with tempfile.TemporaryDirectory() as home:
+            expected = (Path(home) / "Library" / "Application Support" / "Leon" / "peekaboo-private")
+            expected.mkdir(parents=True)
+            file = expected / "window-7-test.png"
+            file.write_bytes(b"fixture")
+            local_probe = Path(home) / "peekaboo_probe.py"
+            local_probe.write_text("# fixture", encoding="utf-8")
+            fake_response = json.dumps({"status": "OBSERVED_READ_ONLY", "local_only": True,
+                                        "local_path": str(file)})
+            with patch.object(Path, "home", return_value=Path(home)), \
+                 patch.object(h.subprocess, "run", return_value=type("R", (), {
+                     "returncode": 0, "stdout": fake_response})()) as run:
+                result = h.capture("instagram:AA", "Safari", 7, INDEX, probe=local_probe,
+                                   keep_private=True, public_window_confirmed=True)
+            self.assertTrue(result["private_image_retained"])
+            self.assertEqual(result["private_image_name"], file.name)
+            self.assertNotIn(str(Path(home)), json.dumps(result))
+            self.assertFalse(result["video_watched"])
+            self.assertIn("--keep-private", run.call_args.args[0])
 
     def test_missing_local_probe_does_not_launch(self):
         with patch.object(h.subprocess, "run") as run:
