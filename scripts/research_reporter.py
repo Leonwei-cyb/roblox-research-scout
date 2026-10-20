@@ -40,6 +40,36 @@ HOSTS = {
 WEIGHT = {"youtube": 5, "devforum": 4, "instagram": 3, "tiktok": 3, "x": 3, "reddit": 1}
 NOISE = re.compile(r"free robux|giveaway|\bprank\b|\btroll\b|download.*free.*windows|join.*discord", re.I)
 
+# Topic gates are intentionally narrower than the broad discovery radar. A
+# reference has to name a *relevant gameplay problem* in its title to occupy one
+# of six scarce implementation-review slots. Otherwise report a research gap.
+TITLE_GATES = {
+    "first-session and mobile": (
+        r"onboard\w*|\bretention\b|\bfirst.{0,10}(minute|session)|\bnew.{0,8}player"
+        r"|\bplayers? leave\b|\btutorial.{0,15}(game|tycoon|first)"
+        r"|\bmobile.{0,18}(ui|controls?|tutorial|onboard|experience)"
+    ),
+    "physical tycoon purchases": (
+        r"\btycoon\b|\bpurchas\w*.{0,12}(pad|button)|\bbuy.{0,12}(pad|button)"
+        r"|\bupgrade (system|mechanic|button|cost|price)"
+        r"|\bbuild (animation|effect)"
+    ),
+    "cat animation and audio": (
+        r"\banimat\w*.{0,16}(cat|pet)|\b(cat|pet).{0,18}(animation|controller|walking|rig|movement)"
+        r"|\b(character|avatar).{0,12}animation|\banimation.{0,15}(mobile|game feel)"
+    ),
+    "UI and menus": r"\bui\b|\bhud\b|\bshop\b|\bmenu\b|\binventory\b|\bhotbar\b",
+    "tuition and economy": (
+        r"\btuition\b|\bincome\b|\bearnings?\b|\beconomy\b"
+        r"|\bidle (game|tycoon|income)|\btycoon (currency|money|pricing|income)"
+        r"|\bupgrade (economy|balance|cost)"
+    ),
+    "world and visual design": (
+        r"\bterrain\b|\bgrass\b|\bclassroom\b|\blighting\b|\benvironment\b"
+        r"|\blow.poly\b|\bgame.world\b|\b3d (art|models|assets)"
+    ),
+}
+
 
 def valid_source(post: object) -> bool:
     if not isinstance(post, dict) or post.get("evidence") != "UNVIEWED_METADATA":
@@ -91,13 +121,17 @@ def analyze(index: dict, limit: int = 6) -> dict:
         # Require the actual public TITLE to independently mention the topic;
         # otherwise general-feed items get mislabeled as Cat Magic leads.
         title_pattern = learning_radar.FOCUS[lane][0]
+        strong_pattern = TITLE_GATES[lane]
         candidates = [p for p in eligible if lane in p["signals"] and p["key"] not in seen
                       and used_sources[str(p.get("source", ""))] < 2
-                      and re.search(title_pattern, p["title"], re.I)]
-        # Excerpts may contain irrelevant or adversarial keyword stuffing.
-        # Rank by actual title matches and primary-source type, NOT excerpt score.
+                      and re.search(title_pattern, p["title"], re.I)
+                      and re.search(strong_pattern, p["title"], re.I)]
+        # Excerpts can be adversarial and generic titles are poor references.
+        # Rank only topical title evidence and source kind; never excerpt score.
         candidates.sort(key=lambda p: (
-            -(min(3, len(re.findall(title_pattern, p["title"], re.I))) * 3 + WEIGHT[p["kind"]]),
+            -(min(3, len(re.findall(strong_pattern, p["title"], re.I))) * 6
+              + min(3, len(re.findall(title_pattern, p["title"], re.I))) * 2
+              + WEIGHT[p["kind"]]),
             str(p.get("key", "")),
         ))
         if not candidates or len(results) >= limit:
