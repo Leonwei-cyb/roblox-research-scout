@@ -544,11 +544,13 @@ class WorkflowTests(unittest.TestCase):
     def setUp(self):
         self.data = (ROOT / ".github" / "workflows" / "discovery.yml").read_text(encoding="utf-8")
 
-    def test_event_triggers_and_scheduled_backstop(self):
-        for needle in ("  schedule:", "  workflow_dispatch:", "  repository_dispatch:", "types: [discovery-scan]",
-                       "  issues:", "types: [labeled]"):
-            self.assertIn(needle, self.data)
-        self.assertIn("- cron: '47 */6 * * *'", self.data)
+    def test_mac_scheduled_github_actions_manual_only(self):
+        self.assertIn("on:\n  workflow_dispatch:", self.data)
+        self.assertIn("repos:", self.data)
+        trigger_block = self.data.split("\non:\n", 1)[1].split("\npermissions:", 1)[0]
+        for event in ("  schedule:", "  push:", "  pull_request:",
+                      "  repository_dispatch:", "  workflow_run:", "  issues:"):
+            self.assertNotIn(event, trigger_block)
 
     def test_least_privilege_and_no_merge(self):
         self.assertIn("permissions:\n  contents: write", self.data)
