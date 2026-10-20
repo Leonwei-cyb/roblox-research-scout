@@ -835,24 +835,23 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
                 continue
             pool.setdefault(item["repo"].lower(), (item["repo"], topic, item))
 
-    # Advance each lane only for completed fetches. Other lanes retain their
-    # position during partial outages, so their queued searches are not lost.
-    old_cursors = state.get("research_lane_cursor", {})
-    old_cursors = old_cursors if isinstance(old_cursors, dict) else {}
-    new_cursors = dict(old_cursors)
+    # Preserve the original planned index, even when earlier searches fail.
+    # Advancing by a lane's success count skips failed queries when a later
+    # query succeeds. The shared helper advances only a successful prefix.
+    outcome_by_id = {f["id"]: f["status"] for f in feeds if f.get("kind") == "search"}
+    query_outcomes = [
+        outcome_by_id.get("search:" + topic + ":" + str(n), "deferred")
+        for n, (topic, _query, _lane) in enumerate(queries)
+    ]
     for lane in lane_status:
         scanned = [f for f in feeds if f.get("lane") == lane["id"]]
         lane["completed"] = sum(f["status"] in {"ok", "not_modified"} for f in scanned)
         lane["deferred"] = sum(f["status"] == "deferred" for f in scanned)
         lane["errors"] = sum(f["status"] == "error" for f in scanned)
-        if lane["completed"] and lane["available"] and cfg.get("research_lanes"):
-            try:
-                old_offset = max(0, int(old_cursors.get(lane["id"], 0)))
-            except (ValueError, TypeError):
-                old_offset = 0
-            new_cursors[lane["id"]] = (old_offset + lane["completed"]) % lane["available"]
     if completed_queries and cfg.get("research_lanes"):
-        state["research_lane_cursor"] = new_cursors
+        state["research_lane_cursor"] = research_lanes.advance_cursors(
+            cfg, state, queries, query_outcomes
+        )
         try:
             prior_run = int(state.get("research_lane_run", 0))
         except (ValueError, TypeError):
