@@ -36,6 +36,32 @@ class SpecialistIntegrationTests(unittest.TestCase):
         count = {s["id"]: s["planned"] for s in status}
         self.assertGreater(count["cat-magic"], count["ai-tools"])
 
+    def test_cat_magic_candidate_has_real_project_fit(self):
+        from datetime import datetime, timezone
+        facts = {"repo": "example/roblox-tycoon", "description": "Roblox tycoon purchase pad system",
+                 "topics": [], "readme_excerpt": "Roblox Luau classroom tycoon upgrades",
+                 "license": "MIT", "last_commit": "2026-10-20T00:00:00Z",
+                 "security_policy": True, "has_tests": True, "has_ci": True,
+                 "sha": "a" * 40, "id": 42, "url": "https://github.com/example/roblox-tycoon"}
+        rec = ds.build_record(facts, self.cfg,
+                              datetime(2026, 10, 20, tzinfo=timezone.utc),
+                              None, None, "cat-magic-gameplay")
+        self.assertEqual(rec["project"], "Cat Magic School")
+        self.assertEqual(rec["verdict"], "needs-test")
+        self.assertEqual(rec["suggested_owner"], "hub")
+
+    def test_unrelated_agent_candidate_is_not_cat_magic(self):
+        from datetime import datetime, timezone
+        facts = {"repo": "example/agent-dashboard", "description": "Live agent monitoring dashboard",
+                 "topics": [], "readme_excerpt": "Agent status dashboard",
+                 "license": "MIT", "last_commit": "2026-10-20T00:00:00Z",
+                 "security_policy": True, "has_tests": True, "has_ci": True,
+                 "sha": "b" * 40, "id": 43, "url": "https://github.com/example/agent-dashboard"}
+        rec = ds.build_record(facts, self.cfg,
+                              datetime(2026, 10, 20, tzinfo=timezone.utc),
+                              None, None, "leon-systems")
+        self.assertNotEqual(rec["project"], "Cat Magic School")
+
     def test_active_game_backlog_precedes_unrelated_high_score(self):
         rows = [{"repo": "safe/tools", "repo_id": 1, "version": "head",
                  "task": "inspect", "verdict": "needs-test", "scores": {"total": 100}},
