@@ -76,6 +76,8 @@ def identity(url):
         if kind == "tiktok":
             m = re.fullmatch(r"/@[^/]+/video/(\d+)", path)
             if m: return "tiktok:" + m[1], kind
+        if kind in {"x", "instagram", "tiktok", "youtube"}:
+            return None, None  # A creator profile / hashtag page is not an individual post.
         if kind == "reddit":
             m = re.match(r"/r/[^/]+/comments/([a-z0-9]+)(?:/|$)", path, re.I)
             if m: return "reddit:" + m[1].lower(), kind
