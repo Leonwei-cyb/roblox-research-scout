@@ -110,6 +110,22 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertEqual(len(chosen), 1)
         self.assertEqual(chosen[0]["key"], "youtube:ABCDEFGHIJK")
 
+    def test_real_saved_feed_index_stays_bounded_and_title_grounded(self):
+        import re
+        import learning_radar
+        source = Path(__file__).resolve().parents[1] / "watch" / "media_state.json"
+        raw = json.loads(source.read_text(encoding="utf-8"))
+        index = learning_radar.triage(raw["items"])
+        report = r.analyze(index)
+        self.assertLessEqual(len(report["candidates"]), 6)
+        self.assertEqual(report["observed_gameplay_findings"], 0)
+        self.assertEqual(len({x["key"] for x in report["candidates"]}),
+                         len(report["candidates"]))
+        for item in report["candidates"]:
+            self.assertRegex(item["title"], re.compile(
+                learning_radar.FOCUS[item["topic"]][0], re.I))
+            self.assertEqual(item["stage"], "UNVIEWED_METADATA")
+
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
             dest = Path(t) / "report.md"
