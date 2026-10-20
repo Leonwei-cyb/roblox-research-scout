@@ -16,7 +16,7 @@ This is a PUBLIC repository. Everything gathered here is public information, and
 - **Curated example set:** [research/VIDEO_PILOT_2026-10-18.md](research/VIDEO_PILOT_2026-10-18.md) contains source-confirmed video/watch pages plus clearly labeled X/Instagram account leads.
 - **Source coverage:** check [watch/source_health.md](watch/source_health.md) for blocked or failed feeds.
 - **Configuration:** [watch/config.json](watch/config.json) and [watch/feeds.json](watch/feeds.json).
-- **Actions:** the existing research workflow runs four times daily, plus relevant source/config changes; urgent scans can be run manually. Independent health checks react to completions and run on an hourly fallback.
+- **Actions:** the existing research workflow runs hourly (cron `23 * * * *` since 2026-10-19), plus relevant source/config changes; urgent scans can be run manually. Independent health checks react to completions and run on an hourly fallback.
 - **Tests:** `python3 -m unittest discover -s tests -v`.
 
 ## Research must become tested game work
@@ -64,6 +64,18 @@ The scheduled GitHub Actions workflow now runs separately scoped bots, reusing t
 For ACTUAL sampled video frames, there is an **opt-in local-only** [video lab](docs/LOCAL_VIDEO_LAB.md). It needs FFmpeg, a local authorized video file and optionally a local Ollama vision model (which uses your device CPU/GPU but NO ChatGPT/Claude/Codex credits). Neither media files nor images get uploaded to this public repo. No public bot actually watches the full original video.
 
 These helpers run within **one lightweight workflow**, not several CPU-heavy watchers. Standard GitHub-hosted public runners are free under GitHub limits; provider APIs/site rate limits, account restrictions and legitimate rights still apply.
+
+## Open-source discovery (agents, Claude/Codex/ChatGPT tools, Roblox tooling, dashboards, MCP, skills, testing)
+
+[`scripts/discovery_scout.py`](scripts/discovery_scout.py) looks for open-source projects that could unblock current Leon work and records a verdict for each. No AI model is called and nothing found is installed or run by the bot.
+
+- **What it searches:** topic queries and problem-first query packs in [`watch/discovery.json`](watch/discovery.json) (GitHub repository search, plus a bounded code search for files only a real solution would contain), a watchlist, carried-forward candidates named by HQ, and up to 5 repos named in a manual or dispatched request.
+- **What it checks:** canonical repo (GitHub's numeric id, so renames do not duplicate) and version (latest release, or `head`), the pinned head SHA, license, last commit, releases, open issues and recently updated issues, security policy, tests and CI folders. Query-pack hits also get their README, manifests and key source files read at that SHA and are classified as browser-session orchestration, API-only, mixed or unknown.
+- **Verdicts:** `reject` or `needs-test` from automation; **`adopt` only from a tested review** in [`findings/reviews/`](findings/reviews/). A review stops applying when the repo moves to a new version.
+- **Outputs:** [`findings/candidates.jsonl`](findings/candidates.jsonl) (one line per repo and version: SHA, license, scores, verdict, suggested owner `Wheel` / `Work/dashboard` / `hub`, one-line task, evidence links), [`findings/SUMMARY.md`](findings/SUMMARY.md), [`findings/packs/`](findings/packs/) (each query pack's ranked report with every API call it made) and [`status/discovery.json`](status/discovery.json) (last run, feed health, counts of adopted findings and the actionable backlog; Dashboard V2 can read it).
+- **Routing:** high-value query-pack candidates become at most 3 deduplicated research issues per run **in this repo only** ([`scripts/discovery_issues.py`](scripts/discovery_issues.py)). Nothing is posted to any other repository and nobody is pinged.
+- **When it runs:** every 6 hours (best-effort GitHub cron), on pushes that change the discovery code/config/reviews, on manual runs, on `repository_dispatch` type `discovery-scan`, and when a collaborator labels an issue here `discovery-request`. It is polling, **not continuous coverage**: other people's repos cannot send us events, so their releases and issues are seen at the next run.
+- **Limits:** ETag conditional requests where GitHub offers them (tree reads; the search API sends no ETag, so every search is a full request), one results page per query, hard caps per run, and a stop (no retry) when GitHub signals a rate limit, honoured until the reset time. GitHub search ranks by its own relevance, so this is never full coverage of GitHub.
 
 ## Automatic source backoff
 

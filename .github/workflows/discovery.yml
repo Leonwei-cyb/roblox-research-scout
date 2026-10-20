@@ -1,0 +1,128 @@
+name: Open-source discovery (no AI)
+
+# Polling snapshots, not continuous coverage. Third-party repos cannot send us
+# events, so their releases/issues are seen at the next run. The events below
+# let the hub (repository_dispatch), the owner (manual run) or a triager
+# (label an issue here "discovery-request") ask for a run right away.
+on:
+  workflow_dispatch:
+    inputs:
+      repos:
+        description: 'Optional: up to 5 owner/repo names to evaluate now'
+        required: false
+        default: ''
+  repository_dispatch:
+    types: [discovery-scan]
+  issues:
+    types: [labeled]
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/discovery_scout.py'
+      - 'watch/discovery.json'
+      - 'findings/reviews/**'
+      - '.github/workflows/discovery.yml'
+  schedule:
+    # Backstop every 6 hours. GitHub may delay or skip scheduled starts.
+    - cron: '47 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-discovery-scout
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    # Applying a label already needs triage access here, so the labeler is the gate; the
+    # issue's author may be anyone (their text is only parsed for <= 5 owner/repo names).
+    if: >-
+      github.event_name != 'issues' ||
+      github.event.label.name == 'discovery-request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      # 'true' only when main now holds this run's reports; routing reads main.
+      published: ${{ steps.publish.outputs.published }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unit tests (offline)
+        run: python3 -m unittest discover -s tests -p 'test_discovery*.py' -v
+      - name: Discover, score and route candidates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Untrusted text: read only by Python, which keeps at most 5 owner/repo names.
+          DISCOVERY_REQUESTS: ${{ github.event.inputs.repos || github.event.client_payload.repos || github.event.issue.body || '' }}
+        run: python3 scripts/discovery_scout.py
+      - name: Commit discovery outputs only
+        id: publish
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add findings/ status/discovery.json watch/discovery_state.json
+          if git diff --cached --quiet; then
+            echo 'No discovery change.'
+            echo 'published=true' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m 'Refresh open-source discovery'
+          for try in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort
+              echo '::warning::Discovery output conflicts with newer main; issues not routed, next run retries.'
+              exit 0
+            fi
+            if git push origin HEAD:main; then
+              echo 'published=true' >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep 2
+          done
+          echo '::warning::Concurrent update; issues not routed, next run retries without force-pushing.'
+
+  route-issues:
+    # Separate job so only this step can write issues, and only in this repo.
+    needs: discover
+    # Only route from reports this run actually put on main (never from an older scan).
+    if: needs.discover.result == 'success' && needs.discover.outputs.published == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Open deduplicated research issues for high-value pack candidates (max 3)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/discovery_issues.py
+      - name: Persist the issue ledger (dedup survives a stale issue listing)
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add findings/issue_ledger.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo 'No new issue routed.'
+            exit 0
+          fi
+          git commit -m 'Record routed discovery issues'
+          for try in 1 2 3 4 5; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort
+              echo '::warning::Issue ledger conflicted with newer main; markers in issue bodies still dedupe.'
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 3
+          done
+          echo '::warning::Could not push the issue ledger; markers in issue bodies still dedupe.'
+          exit 1
