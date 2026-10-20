@@ -129,6 +129,13 @@ def parse_feed(xml_bytes, source, limit=20):
             "excerpt": description[:300],
             "creator": ctext(item, ["author"])[:120]
         }
+        # Google News RSS names the real publisher in <source url="...">. The
+        # redirect itself cannot be resolved offline, but keeping the publisher
+        # tells a reviewer where the primary source lives.
+        publisher = child(item, ["source"])
+        publisher_url = canonical(publisher.get("url", "")) if publisher is not None else ""
+        if publisher_url:
+            record["publisher"] = publisher_url.rstrip("/")
         record["id"] = make_id(record)
         records.append(record)
         if len(records) >= limit:
