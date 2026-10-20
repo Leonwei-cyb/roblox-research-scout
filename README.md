@@ -29,6 +29,28 @@ Current testable example: [One Tower Tycoon passive rate code review](https://gi
 
 The private [Roblox Development Kit adoption record](https://github.com/Leonwei-cyb/Roblox-Development-Kit/blob/main/ADOPTION.md) tracks what we actually used versus deferred. Source links are not implementation or licensing permission.
 
+## Cat Magic research analyst and reporter
+
+The existing media collector runs one bounded pipeline: media metadata -> the
+[learning radar](scripts/learning_radar.py) -> the
+[evidence-safe reporter](scripts/research_reporter.py). This is **one existing
+schedule**, not extra bots or a new daemon.
+
+- **Human report:** [watch/cat_magic_research_report.md](watch/cat_magic_research_report.md).
+- **Machine summary:** [watch/cat_magic_research_report.json](watch/cat_magic_research_report.json).
+- Exactly one primary-source candidate per gameplay-critical topic, with a
+  concrete player-test question; unsupported topics are labeled gaps.
+- Unviewed headlines and feed excerpts never count as video/animation analysis.
+  The reporter cannot open pages, invoke AI, move the mouse, buy assets, edit
+  Roblox code or publish images. Reports explicitly say **0 footage reviewed**
+  unless a later separately validated evidence process is integrated.
+- Peekaboo window captures and permitted local video-lab frames remain separate
+  operator-approved Mac tools. A screenshot is not proof that a full clip was
+  watched; a finding is only adopted after real source inspection, authorized
+  reuse and an actual in-game test.
+- Run `python3 -m unittest discover -s tests -p 'test_research_reporter.py' -v`
+  for the bounded report tests; no additional Python packages are required.
+
 ## Limits and price
 
 No OpenAI, Claude, Codex or other paid model API is invoked. The standard public GitHub Actions `ubuntu-latest` runner is currently free under GitHub's standard-runner policy. GitHub's fair-use, job/runtime and API rate limits still apply. Other paid services or larger runners are not used.
