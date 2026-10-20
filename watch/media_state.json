@@ -552,7 +552,12 @@
     "fc48cf64e4a2237cdeb4ccd4",
     "f04c8c8a12b84221aea90001",
     "381dd34babf891928cf37506",
-    "ec534d3e6a5db986e90b148b"
+    "ec534d3e6a5db986e90b148b",
+    "6af4dbaaff8e88267f3c9187",
+    "d19579c3240b0d29d3b692e9",
+    "5242b1ca6ed9dac44379dadf",
+    "e5bedd179363a67b1f6c0e40",
+    "8b1aecfd3da596d4e5b8d519"
   ],
   "items": [
     {
@@ -854,6 +859,18 @@
       "excerpt": "Heyy I've been developing in roblox for like a good few months now and I've got decent experience in developing. Right now I haven't got any games or anything to work on i was looking for someone who can code/use claude wtv idm. If you haven't got any game ideas lmk i have a few if you do im willing",
       "creator": "/u/Individual_Duck2620 https://www.reddit.com/user/Individual_Duck2620",
       "id": "d23e3a8e39988cf193ce06c7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "UI Scrolling Frame and Flex UI don't interact as intended",
+      "url": "https://devforum.roblox.com/t/ui-scrolling-frame-and-flex-ui-dont-interact-as-intended/4947136",
+      "published": "2026-10-20",
+      "excerpt": "When using a FlexUI object within a scrolling frame with a list object, the bottom frames clip past the scrolling frame bounds. The AutomaticCanvasSize for the scrolling frame is set to Y axis only. Adding padding does not affect the result. Please see attached minimum repro place in the private mes",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ui-scrolling-frame-and-flex-ui-dont-interact-as-intended/4947136.rss",
+      "id": "d19579c3240b0d29d3b692e9"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1219,6 +1236,18 @@
       "id": "6b3cd904008c137d9cf079ea"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Avatar Joint Upgrade - Tidy up how constraints are getting added to R15 avatar limbs",
+      "url": "https://devforum.roblox.com/t/avatar-joint-upgrade-tidy-up-how-constraints-are-getting-added-to-r15-avatar-limbs/4947148",
+      "published": "2026-10-20",
+      "excerpt": "When the avatar joint upgrade feature was enabled for everyone, I noticed that the children of my avatar’s MeshParts suddenly became a lot more cluttered. It was already very noisy before, but this update made it even worse. Could these constraint objects maybe get packaged as children of the Animat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatar-joint-upgrade-tidy-up-how-constraints-are-getting-added-to-r15-avatar-limbs/4947148.rss",
+      "id": "6af4dbaaff8e88267f3c9187"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1308,6 +1337,18 @@
       "excerpt": "I've been working on a custom digging and water system for Stitched Up , my cozy felt-style Roblox game! 🧵🌱 Players can dig, connect puddles into larger ponds, and even swim in the water they create! But there's more to these ponds than swimming... 👀💧 Certain Fuzzlings will need water to thrive in y",
       "creator": "/u/Leather-Following-38 https://www.reddit.com/user/Leather-Following-38",
       "id": "528ee11215630bb297eb15a6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Home thumbnail A/B test credits only about half of Home qualified plays since Oct 16, QPTR halved on unchanged thumbnails",
+      "url": "https://devforum.roblox.com/t/home-thumbnail-ab-test-credits-only-about-half-of-home-qualified-plays-since-oct-16-qptr-halved-on-unchanged-thumbnails/4947121",
+      "published": "2026-10-20",
+      "excerpt": "Since Oct 16, 2026, the Home Page thumbnail A/B test for our experience credits roughly half as many Qualified Plays to its thumbnails as it did for the previous two months. Qualified PTR on every thumbnail in the test fell about 2x at the same moment, including thumbnails that had been running unch",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/home-thumbnail-ab-test-credits-only-about-half-of-home-qualified-plays-since-oct-16-qptr-halved-on-unchanged-thumbnails/4947121.rss",
+      "id": "5242b1ca6ed9dac44379dadf"
     },
     {
       "source": "reddit-robloxdev",
@@ -4211,6 +4252,18 @@
       "id": "e5dab0a29013b1f27c3d8bd9"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "NEW ABBYS BOSS FIGHT🥺 in Steal an Egg Roblox (Best Steal an Egg Funny Moments) #stealanegg #roblox - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43SWZRMXpKZlBuNGpwUXpnaVNrZ2RCa2lVVVJqX3JScjdNdnk2QlU5U0kwOWN6OUtjVW1kMnFzNnRob2F3QWxkWlFyVHFOWG1XUWo4UHVn?oc=5",
+      "published": "2026-10-14",
+      "excerpt": "NEW ABBYS BOSS FIGHT🥺 in Steal an Egg Roblox (Best Steal an Egg Funny Moments) #stealanegg #roblox Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "e5bedd179363a67b1f6c0e40"
+    },
+    {
       "source": "instagram-index",
       "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
       "category": "instagram_index",
@@ -5225,6 +5278,7 @@
       "published": "2026-10-11",
       "excerpt": "I'M TRYING TO CRACK THE ROBLOX ALGORITHM. YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "92582989169d3ace37482145"
     },
     {
@@ -5944,6 +5998,18 @@
       "excerpt": "Key Takeaways We launched the @RobloxCreators account on X and the new Made on Roblox podcast to spotlight your games, creations, and creator stories. Hi Creators, This week, we launched two new channels dedicated to you and your work: our new social media channel @RobloxCreators on X and a new podc",
       "creator": "",
       "id": "9ea13a01d21c44adb4aff260"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "your roblox scripting roadmap; beginner to intermediate to advanced - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVWthMTctS0lMWnJ2ZzN2dzJMdWJrazBibmxkMUVkSS1xaWhHM3NNcFB1cy1hTWtIY01WS09tRVlkNzhmZU1ZZ2FaUVBZejcyNWV1dVln?oc=5",
+      "published": "2026-10-02",
+      "excerpt": "your roblox scripting roadmap; beginner to intermediate to advanced YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "8b1aecfd3da596d4e5b8d519"
     },
     {
       "source": "roblox-devforum-updates",
