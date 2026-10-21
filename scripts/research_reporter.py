@@ -52,12 +52,9 @@ TITLE_GATES = {
     # First match the named physical object. Then apply the transactional/genre
     # context test in relevant_title rather than allowing woodworking tutorials.
     "physical tycoon purchases": r"\b(?:pads?|buttons?|desks?|classrooms?|droppers?|conveyors?|stands?)\b",
-    "cat animation and audio": (
-        r"\banimat\w*.{0,16}(cat|pet)"
-        r"|\b(cat|pet).{0,24}(animation|controller|walking|rig|movement|sounds?|audio|sfx|meow|purr|music|footsteps?)"
-        r"|\b(sounds?|audio|sfx|meow|purr|music).{0,24}(cat|pet)\b"
-        r"|\b(character|avatar).{0,12}animation|\banimation.{0,15}(mobile|game feel)"
-    ),
+    # A title needs a cat/pet referent AND a specific animation/audio action.
+    # "Early testers cannot run animations on mobile" is not a cat reference.
+    "cat animation and audio": r"\b(?:cats?|pets?)\b",
     "UI and menus": r"\bui\b|\bhud\b|\bshop\b|\bmenu\b|\binventory\b|\bhotbar\b",
     "tuition and economy": (
         r"\btuition\b|\bincome\b|\bearnings?\b|\beconomy\b"
@@ -102,6 +99,12 @@ def relevant_title(lane: str, title: str) -> bool:
         return False
     if not re.search(TITLE_GATES[lane], title, re.I):
         return False
+    if lane == "cat animation and audio":
+        # Both sides of the topic must appear; generic animation bug headlines
+        # do not outrank actual animated cats or pet audio/controller references.
+        return bool(re.search(
+            r"\b(?:anima\w*|controller|walk\w*|mov\w*|rig\w*|sounds?|audio|sfx|meow\w*|purr\w*|music|footsteps?|vfx|tween\w*)\b",
+            title, re.I))
     if lane != "physical tycoon purchases":
         return True
     # A named pad/desk/button must be in a tycoon OR a game-purchase context.
