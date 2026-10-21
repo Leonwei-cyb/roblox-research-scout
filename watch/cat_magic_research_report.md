@@ -9,14 +9,14 @@ Inspected videos: **0**; verified gameplay findings: **0**.
 
 ## Highest-value direct-link checks (authorship unverified)
 
-- **P0 · first-session and mobile:** [Roblox Insights — How to Compare Performance, Errors, and Retention After an Update](https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514)
+- **P0 · first-session and mobile:** [50% of Players leave within 2 minutes](https://devforum.roblox.com/t/50-of-players-leave-within-2-minutes/4946893)
   - devforum · **UNVIEWED_METADATA** · creator/ownership UNVERIFIED · Check: Can a new player identify and reach the first FREE pad from the normal spawn camera?
 - **P1 · cat animation and audio:** [Animated Cat Controller](https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/)
   - reddit · **UNVIEWED_METADATA** · creator/ownership UNVERIFIED · Check: Does an arriving cat walk, sit, study and cast without clipping through the player?
 - **P1 · UI and menus:** [Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194)
   - devforum · **UNVIEWED_METADATA** · creator/ownership UNVERIFIED · Check: Is the next upgrade price readable without covering the cat or Roblox mobile controls?
-- **P1 · world and visual design:** [Terrain Reimagined: An Early Preview \| RDC 2026](https://www.youtube.com/watch?v=BiIAmVN6r2M)
-  - youtube · **UNVIEWED_METADATA** · creator/ownership UNVERIFIED · Check: Are the blue grounds, simple entrance and first classroom visible and uncluttered?
+- **P1 · world and visual design:** [Grass level of detail](https://www.reddit.com/r/robloxgamedev/comments/1x9bwve/grass_level_of_detail/)
+  - reddit · **UNVIEWED_METADATA** · creator/ownership UNVERIFIED · Check: Are the blue grounds, simple entrance and first classroom visible and uncluttered?
 
 ## Research gaps
 
