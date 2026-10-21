@@ -7,17 +7,15 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Roblox scripter Lf comms](https://www.reddit.com/r/ROBLOXStudio/comments/1xb7fms/roblox_scripter_lf_comms/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-20
-  - Feed excerpt: Some work NOT all, for Seraphs End. If you are interested in the game lmk in comments wojld send discord link. Saving a lot for combat sneak. Scripted it all, did the art for finisher Port: https://discerninq.dev User: discerninq_ submitted
-- **[Hey guys this is my first time trying to build something like this but I need some critism](https://www.reddit.com/r/ROBLOXStudio/comments/1xb81n8/hey_guys_this_is_my_first_time_trying_to_build/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-20
-  - Feed excerpt: Any guide and tip to improve this shot will help alot, maybe some color numbers or lighting anything and no I don't use any references submitted by /u/2overlord \[link\] \[comments\]
-- **[IK](https://www.reddit.com/r/ROBLOXStudio/comments/1xb7n7f/ik/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-20
-  - Feed excerpt: In Dev Modifier... submitted by /u/Logical-Laugh-9581 \[link\] \[comments\]
+- **[I need help testing a game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xb8q3l/i_need_help_testing_a_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: I’m making a game on Roblox where a judge is chosen, and two other players get chosen to answer the questions on the screen. The judge chooses whose answer is the best or most creative, and shoots one of them. It requires at least 3 players
 
 ## Roblox Updates
 
-- **[MeshPart Solid Modelling messes up Pivot](https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315)** · Roblox Developer Forum latest · 2026-10-20
-  - Feed excerpt: Hey there fellas, I’ve been tinkering around with Mesh Solid Modelling for a bit now, and I’ve come across a persistent issue that I cannot resolve, no matter what I try. It seems that when I unionize a MeshPart together with a standard Par
+- **[New Roblox Game](https://devforum.roblox.com/t/new-roblox-game/4947340)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Context: I found an image I had lost for over 9 months, related to my somewhat delayed Roblox project (see my topics to understand). What do you understand when you see this image? (btw I’ve improved many things I showed in the previous ima
+- **[Website bug (Maybe layout)](https://devforum.roblox.com/t/website-bug-maybe-layout/4947356)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: This is what I see when I open Roblox.com this morning Expected behavior I expect the original layout and site. 1 post - 1 participant Read full topic
 
 ---
 

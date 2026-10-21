@@ -1,6 +1,6 @@
 {
-  "records_read": 568,
-  "unique_posts": 567,
+  "records_read": 571,
+  "unique_posts": 570,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -1313,6 +1313,19 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947356:1",
+      "url": "https://devforum.roblox.com/t/website-bug-maybe-layout/4947356",
+      "title": "Website bug (Maybe layout)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2652,6 +2665,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4947340:1",
+      "url": "https://devforum.roblox.com/t/new-roblox-game/4947340",
+      "title": "New Roblox Game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -2946,6 +2972,19 @@
       "kind": "reddit",
       "signals": [
         "physical tycoon purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xb8q3l",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb8q3l/i_need_help_testing_a_game/",
+      "title": "I need help testing a game!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
