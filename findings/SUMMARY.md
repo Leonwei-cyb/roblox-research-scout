@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-21T04:23:43Z (local, partial)
+- Last run: 2026-10-21T05:20:49Z (schedule, partial)
 - Repos tracked: 170; adopt 0, needs-test 70, reject 100
 - Actionable backlog: 66
-- Feed health: deferred 4, ok 34
+- Feed health: deferred 6, ok 31
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin electric-dragon-80000v/pi-cowboy@​de56aa4, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 95 · [ethanhq/cc-fleet](https://github.com/ethanhq/cc-fleet/tree/a39917f4011a8f13ba2d84175c4ce1df2659009c)
   - Pin ethanhq/cc-fleet@​a39917f, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Release: open-mercato/cezar v0.15.2 to v0.16.1
-- Issue updated: open-mercato/cezar #1496 Fix: Dashboard project links open a not-found page \(/p/ project /tasks\)
-- Issue updated: open-mercato/cezar #1555 Let users define terminal run commands in project settings
-- Issue updated: open-mercato/cezar #1556 Dragging workspace panels is jumpy
-- Issue updated: open-mercato/cezar #1554 Simplify the new-terminal picker in the task workspace
-- Issue updated: open-mercato/cezar #1543 Record per-API-call timing \(first token, generation end\) for Claude and Codex runs in run ndjson
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
-- Issue updated: obra/superpowers #2454 writing-skills: word-count targets that the shipped skills exceed
-- Issue updated: obra/superpowers #2286 verification-before-completion: the skill requires fresh evidence but never asks where the evidence
-- Issue updated: obra/superpowers #921 Iteration skill for post-execution plan refinement
-- Issue updated: obra/superpowers #2568 subagent-driven-development: a finding the reviewer can't verify because it depends on the productio
-- Issue updated: earendil-works/pi #10623 'pi -p' silently uses another model when an extension provider's catalog is stale; 'pi update --mode
-- Issue updated: earendil-works/pi #11006 GitHub Copilot models enabled by an enterprise admin stay hidden after restart
-- Issue updated: earendil-works/pi #10628 OSC 52 copy in fullscreen TUI is swallowed by tmux \(no passthrough wrap\)
-- Issue updated: earendil-works/pi #11122 codemode: schemaToType loses sibling type when rendering allOf constraints
-- Issue updated: earendil-works/pi #11190 Windows installer: standalone Node is shadowed by an older system Node after restart, pi crashes on
-- Issue updated: ComposioHQ/awesome-claude-skills #2203 Proposal: Plazmi creative game-world skill, with an external CLI
-- Release: OpenHands/OpenHands v1.28.1 to v1.29.0
-- Issue updated: OpenHands/OpenHands #18737 \[Feature\]: Run .openhands/setup.sh at start on local backends so env changes survive
-- Issue updated: OpenHands/OpenHands #18733 \[Feature\]: Start a conversation from a link with only a message \(no plugin required\)
-- Issue updated: OpenHands/OpenHands #18732 \[Feature\]: Run-level audit trail with agent-action and tool-abuse signals
-- Issue updated: OpenHands/OpenHands #18728 \[Bug\]: Codex ACP loses conversation context after an in-flight prompt is superseded
-- Issue updated: OpenHands/OpenHands #18727 \[Feature\]: Improve API key validation feedback and show billing/usage in LLM profiles
-- Issue updated: modelcontextprotocol/servers #5216 filesystem: search\_files does not expand non-wildcard excludePatterns like directory\_tree does
-- Issue updated: modelcontextprotocol/servers #3669 Schema quality: missing property descriptions across official MCP servers
-- Issue updated: modelcontextprotocol/servers #5180 filesystem: expandHome\(\) does not handle Windows backslash separator \(\~\\path\)
-- Issue updated: modelcontextprotocol/servers #5215 filesystem: read\_text\_file with tail: N returns N-1 lines \(or "" for tail: 1\) when the file ends wit
-- Issue updated: modelcontextprotocol/servers #4877 Triage the open PR backlog
-- Release: anthropics/claude-code v2.1.304 to v2.1.306
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
