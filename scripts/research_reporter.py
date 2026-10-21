@@ -45,9 +45,12 @@ NOISE = re.compile(r"free robux|giveaway|\bprank\b|\btroll\b|download.*free.*win
 # of six scarce implementation-review slots. Otherwise report a research gap.
 TITLE_GATES = {
     "first-session and mobile": (
-        r"onboard\w*|\bretention\b|\bfirst.{0,10}(minute|session)|\bnew.{0,8}player"
+        r"onboard\w*|\bfirst.{0,10}(minute|session)|\bnew.{0,8}player"
         r"|\bplayers? leave\b|\btutorial.{0,15}(game|tycoon|first)"
         r"|\bmobile.{0,18}(ui|controls?|tutorial|onboard|experience)"
+        # Bare retention can mean post-update analytics, not first-session play.
+        r"|\bretention\b.{0,24}\b(?:first|onboard\w*|new|starting|early)\b"
+        r"|\b(?:first|onboard\w*|new|starting|early)\b.{0,24}\bretention\b"
     ),
     # First match the named physical object. Then apply the transactional/genre
     # context test in relevant_title rather than allowing woodworking tutorials.
@@ -62,8 +65,11 @@ TITLE_GATES = {
         r"|\bupgrade (economy|balance|cost)"
     ),
     "world and visual design": (
-        r"\bterrain\b|\bgrass\b|\bclassroom\b|\blighting\b|\benvironment\b"
-        r"|\blow.poly\b|\bgame.world\b|\b3d (art|models|assets)"
+        # Prioritize relevant grass, classroom and lighting evidence over
+        # generic terrain preview headlines unrelated to the first school.
+        r"\b(?:grass|classroom|lighting)\b"
+        r"|\blow.poly\b.{0,20}\b(?:environment|world|build)\b"
+        r"|\b(?:environment|terrain)\b.{0,18}\b(?:grass|classroom|lighting|tycoon)\b"
     ),
 }
 
