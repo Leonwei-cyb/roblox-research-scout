@@ -5,20 +5,20 @@
 | Classification | Entries |
 |---|---:|
 | original video/post URL (unwatched) | 23 |
-| public metadata / page | 361 |
-| indexed redirect (not original) | 213 |
+| public metadata / page | 362 |
+| indexed redirect (not original) | 212 |
 | promotional / risky title | 3 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
 Direct-original share: **3.8%** (still unwatched).
-Indexed redirects: **213**. They require primary-source verification.
+Indexed redirects: **212**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **443**; direct originals **23**; indexed redirects **58**.
+Active-source entries: **443**; direct originals **23**; indexed redirects **57**.
 Active-source direct-original share: **5.2%** (still unwatched).
 Entries from paused/unconfigured sources: **157** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
@@ -28,8 +28,8 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| YouTube (title suffix) | 43 |
 | unknown | 43 |
+| YouTube (title suffix) | 42 |
 | Instagram (title suffix) | 29 |
 | TikTok (title suffix) | 25 |
 | www.youtube.com | 16 |
