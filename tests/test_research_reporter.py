@@ -13,7 +13,7 @@ YT = "https://youtube.com/watch?v=ABCDEFGHIJK"
 DF = "https://devforum.roblox.com/t/a/4946218"
 
 
-def row(key, url, kind, topic, *, score=9, source="firsthand", title="Roblox tycoon lesson"):
+def row(key, url, kind, topic, *, score=9, source="firsthand", title="Roblox tycoon purchase pad lesson"):
     return {"key": key, "url": url, "kind": kind, "title": title, "published": "2026-10-20",
             "source": source, "evidence": "UNVIEWED_METADATA", "score": score,
             "signals": [topic]}
@@ -29,6 +29,10 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertEqual(len(out["candidates"]), 1)
         self.assertEqual(out["candidates"][0]["question_for_reviewer"], r.LANES[1][2])
         self.assertFalse(out["new_code_changes_authorized"])
+        self.assertEqual(out["proven_original_media"], 0)
+        self.assertEqual(out["direct_platform_candidates"], 1)
+        self.assertFalse(out["candidates"][0]["creator_verified"])
+        self.assertFalse(out["candidates"][0]["original_media_verified"])
 
     def test_blocks_index_redirect_and_spoofed_evidence(self):
         entries = [
@@ -124,7 +128,167 @@ class ResearchReporterTests(unittest.TestCase):
         for item in report["candidates"]:
             self.assertRegex(item["title"], re.compile(
                 learning_radar.FOCUS[item["topic"]][0], re.I))
+            self.assertRegex(item["title"], re.compile(
+                r.TITLE_GATES[item["topic"]], re.I))
             self.assertEqual(item["stage"], "UNVIEWED_METADATA")
+            self.assertTrue(r.relevant_title(item["topic"], item["title"]))
+
+    def test_reject_generic_titles_that_are_not_a_player_loop_reference(self):
+        cases = [
+            ("first-session and mobile", "I'll Pay You $20,000 To Copy This Mobile Game"),
+            ("physical tycoon purchases", "Mastering Server Authority to Build Competitive Multiplayer Games"),
+            ("physical tycoon purchases", "Avatar Joint Upgrade - Tidy up added R15 constraints"),
+            ("physical tycoon purchases", "What is the hardest part of balancing an upgrade system?"),
+            ("first-session and mobile", "Appeal workflow recursively leaves users unable to receive a verdict"),
+            ("first-session and mobile", "Roblox Insights - How to Compare Performance, Errors, and Retention After an Update"),
+            ("world and visual design", "Terrain Reimagined: An Early Preview | RDC 2026"),
+            ("world and visual design", "Looking to recruit a game model builder"),
+        ]
+        for topic, title in cases:
+            with self.subTest(topic=topic, title=title):
+                post = row("devforum:4946218:1", DF, "devforum", topic, title=title)
+                self.assertEqual(r.analyze({"posts": [post]})["candidates"], [])
+
+    def test_accept_relevant_explicit_gameplay_titles(self):
+        cases = [
+            ("first-session and mobile", "50% of Players leave within 2 minutes"),
+            ("first-session and mobile", "New player retention after first minute"),
+            ("physical tycoon purchases", "Tycoon purchase pad UX demo"),
+            ("cat animation and audio", "Animated Cat Controller"),
+            ("UI and menus", "Roblox UI layout design"),
+            ("tuition and economy", "Tycoon income balancing"),
+            ("world and visual design", "Roblox grass level of detail"),
+        ]
+        for topic, title in cases:
+            with self.subTest(topic=topic, title=title):
+                post = row("devforum:4946218:1", DF, "devforum", topic, title=title)
+                report = r.analyze({"posts": [post]})
+                self.assertEqual(len(report["candidates"]), 1)
+                self.assertEqual(report["candidates"][0]["topic"], topic)
+                self.assertFalse(report["candidates"][0]["observation_verified"])
+
+    def test_direct_link_does_not_claim_original_ownership_or_rights(self):
+        index = {"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube",
+                               "physical tycoon purchases", title="Roblox tycoon purchase pad example video")]}
+        report = r.analyze(index)
+        body = r.render(report)
+        self.assertEqual(report["direct_platform_candidates"], 1)
+        self.assertEqual(report["proven_original_media"], 0)
+        self.assertIn("creator/ownership UNVERIFIED", body)
+        self.assertIn("authorship unverified", body)
+        self.assertIn("does NOT establish original creator", body)
+        self.assertNotIn("No eligible first-party/original", body)
+
+    def test_plural_and_reversed_physical_purchase_titles(self):
+        valid = (
+            "Purchase Pads in Roblox Tycoon",
+            "Roblox Tycoon Buttons Tutorial",
+            "Buy Desks in Roblox Classroom",
+            "How to buy or upgrade a classroom button",
+            "Tycoon conveyor pad build",
+        )
+        for title in valid:
+            with self.subTest(title=title):
+                post = row("devforum:4946218:1", DF, "devforum",
+                           "physical tycoon purchases", title=title)
+                found = r.analyze({"posts": [post]})["candidates"]
+                self.assertEqual(len(found), 1)
+                self.assertEqual(found[0]["topic"], "physical tycoon purchases")
+
+    def test_upgrade_economy_titles_are_not_physical_pad_references(self):
+        unrelated = (
+            "Tycoon upgrade system balancing guide",
+            "What is the hardest part of balancing an upgrade system?",
+            "Tycoon upgrade economy recommendations",
+            "How to build a standing desk",
+            "Desk construction tutorial",
+            "Roblox Studio desk construction tutorial",
+            "Upgrade classroom button styles",
+        )
+        for title in unrelated:
+            with self.subTest(title=title):
+                post = row("devforum:4946218:1", DF, "devforum",
+                           "physical tycoon purchases", title=title)
+                self.assertEqual(r.analyze({"posts": [post]})["candidates"], [])
+
+    def test_cat_and_pet_audio_references_are_preserved(self):
+        relevant = (
+            "Cat sound effects",
+            "Pet audio controller",
+            "SFX for Pet meows",
+            "Cat walking animation",
+        )
+        for title in relevant:
+            with self.subTest(title=title):
+                post = row("devforum:4946218:1", DF, "devforum",
+                           "cat animation and audio", title=title)
+                selected = r.analyze({"posts": [post]})["candidates"]
+                self.assertEqual(len(selected), 1)
+                self.assertEqual(selected[0]["topic"], "cat animation and audio")
+
+    def test_committed_public_report_matches_safe_schema_and_markdown(self):
+        watch = Path(__file__).resolve().parents[1] / "watch"
+        report = json.loads((watch / "cat_magic_research_report.json").read_text(encoding="utf-8"))
+        md = (watch / "cat_magic_research_report.md").read_text(encoding="utf-8")
+        self.assertEqual(report["schema"], "LEON_CAT_MAGIC_RESEARCH_REPORT_V1")
+        self.assertEqual(report["status"], "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS")
+        self.assertIn("direct_platform_candidates", report)
+        self.assertNotIn("original_source_candidates", report)
+        self.assertEqual(report["proven_original_media"], 0)
+        self.assertEqual(report["observed_gameplay_findings"], 0)
+        self.assertEqual(report["inspected_videos"], 0)
+        self.assertTrue(all(p["creator_verified"] is False for p in report["candidates"]))
+        self.assertEqual(md, r.render(report) + "\n")
+        source_index = json.loads((watch / "learning_index.json").read_text(encoding="utf-8"))
+        self.assertEqual(report, r.analyze(source_index))
+        self.assertNotIn("Mastering Server Authority to Build Competitive Multiplayer Games", md)
+        self.assertNotIn("to Copy This Mobile Game", md)
+
+    def test_cat_animation_ranks_actual_cat_above_generic_mobile_bug(self):
+        generic = row("devforum:4946657:1",
+                      "https://devforum.roblox.com/t/early-testers/4946657",
+                      "devforum", "cat animation and audio", score=99,
+                      title="Early testers cannot run animations on mobile")
+        actual_cat = row("reddit:1x8htfq",
+                         "https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/",
+                         "reddit", "cat animation and audio", score=1,
+                         title="Animated Cat Controller")
+        found = r.analyze({"posts": [generic, actual_cat]})["candidates"]
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0]["key"], "reddit:1x8htfq")
+        for title in ("Pet Simulator gameplay update", "Animation Graph Memory Leak",
+                      "New cat hat available"):
+            with self.subTest(title=title):
+                post = row("devforum:4946657:1",
+                           "https://devforum.roblox.com/t/test/4946657",
+                           "devforum", "cat animation and audio", title=title)
+                self.assertEqual(r.analyze({"posts": [post]})["candidates"], [])
+
+    def test_first_session_prefers_early_leavers_over_generic_retention_analytics(self):
+        generic = row("devforum:4942514:1",
+                      "https://devforum.roblox.com/t/roblox-insights/4942514",
+                      "devforum", "first-session and mobile", score=99,
+                      title="Roblox Insights - Performance Errors and Retention After an Update")
+        early = row("devforum:4946893:1",
+                    "https://devforum.roblox.com/t/players-leave/4946893",
+                    "devforum", "first-session and mobile", score=1,
+                    title="50% of Players leave within 2 minutes")
+        found = r.analyze({"posts": [generic, early]})["candidates"]
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0]["key"], "devforum:4946893:1")
+
+    def test_world_lane_prefers_real_grass_to_generic_terrain_preview(self):
+        preview = row("youtube:BiIAmVN6r2M",
+                      "https://www.youtube.com/watch?v=BiIAmVN6r2M",
+                      "youtube", "world and visual design", score=99,
+                      title="Terrain Reimagined: An Early Preview | RDC 2026")
+        grass = row("reddit:1x9bwve",
+                    "https://www.reddit.com/r/robloxgamedev/comments/1x9bwve/grass_level_of_detail/",
+                    "reddit", "world and visual design", score=1,
+                    title="Grass level of detail")
+        found = r.analyze({"posts": [preview, grass]})["candidates"]
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0]["key"], "reddit:1x9bwve")
 
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:

@@ -38,8 +38,9 @@ schedule**, not extra bots or a new daemon.
 
 - **Human report:** [watch/cat_magic_research_report.md](watch/cat_magic_research_report.md).
 - **Machine summary:** [watch/cat_magic_research_report.json](watch/cat_magic_research_report.json).
-- Exactly one primary-source candidate per gameplay-critical topic, with a
+- Exactly one direct-platform candidate per gameplay-critical topic, with a
   concrete player-test question; unsupported topics are labeled gaps.
+- A platform link does NOT verify the original creator, ownership, or license/permission to reuse any media or asset.
 - Unviewed headlines and feed excerpts never count as video/animation analysis.
   The reporter cannot open pages, invoke AI, move the mouse, buy assets, edit
   Roblox code or publish images. Reports explicitly say **0 footage reviewed**

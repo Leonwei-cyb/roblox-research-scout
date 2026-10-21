@@ -40,6 +40,39 @@ HOSTS = {
 WEIGHT = {"youtube": 5, "devforum": 4, "instagram": 3, "tiktok": 3, "x": 3, "reddit": 1}
 NOISE = re.compile(r"free robux|giveaway|\bprank\b|\btroll\b|download.*free.*windows|join.*discord", re.I)
 
+# Topic gates are intentionally narrower than the broad discovery radar. A
+# reference has to name a *relevant gameplay problem* in its title to occupy one
+# of six scarce implementation-review slots. Otherwise report a research gap.
+TITLE_GATES = {
+    "first-session and mobile": (
+        r"onboard\w*|\bfirst.{0,10}(minute|session)|\bnew.{0,8}player"
+        r"|\bplayers? leave\b|\btutorial.{0,15}(game|tycoon|first)"
+        r"|\bmobile.{0,18}(ui|controls?|tutorial|onboard|experience)"
+        # Bare retention can mean post-update analytics, not first-session play.
+        r"|\bretention\b.{0,24}\b(?:first|onboard\w*|new|starting|early)\b"
+        r"|\b(?:first|onboard\w*|new|starting|early)\b.{0,24}\bretention\b"
+    ),
+    # First match the named physical object. Then apply the transactional/genre
+    # context test in relevant_title rather than allowing woodworking tutorials.
+    "physical tycoon purchases": r"\b(?:pads?|buttons?|desks?|classrooms?|droppers?|conveyors?|stands?)\b",
+    # A title needs a cat/pet referent AND a specific animation/audio action.
+    # "Early testers cannot run animations on mobile" is not a cat reference.
+    "cat animation and audio": r"\b(?:cats?|pets?)\b",
+    "UI and menus": r"\bui\b|\bhud\b|\bshop\b|\bmenu\b|\binventory\b|\bhotbar\b",
+    "tuition and economy": (
+        r"\btuition\b|\bincome\b|\bearnings?\b|\beconomy\b"
+        r"|\bidle (game|tycoon|income)|\btycoon (currency|money|pricing|income)"
+        r"|\bupgrade (economy|balance|cost)"
+    ),
+    "world and visual design": (
+        # Prioritize relevant grass, classroom and lighting evidence over
+        # generic terrain preview headlines unrelated to the first school.
+        r"\b(?:grass|classroom|lighting)\b"
+        r"|\blow.poly\b.{0,20}\b(?:environment|world|build)\b"
+        r"|\b(?:environment|terrain)\b.{0,18}\b(?:grass|classroom|lighting|tycoon)\b"
+    ),
+}
+
 
 def valid_source(post: object) -> bool:
     if not isinstance(post, dict) or post.get("evidence") != "UNVIEWED_METADATA":
@@ -65,8 +98,33 @@ def clean(text: object, max_length: int = 130) -> str:
     return value
 
 
+
+def relevant_title(lane: str, title: str) -> bool:
+    """Require meaningful topic evidence in the actual title, never an excerpt."""
+    if not re.search(learning_radar.FOCUS[lane][0], title, re.I):
+        return False
+    if not re.search(TITLE_GATES[lane], title, re.I):
+        return False
+    if lane == "cat animation and audio":
+        # Both sides of the topic must appear; generic animation bug headlines
+        # do not outrank actual animated cats or pet audio/controller references.
+        return bool(re.search(
+            r"\b(?:anima\w*|controller|walk\w*|mov\w*|rig\w*|sounds?|audio|sfx|meow\w*|purr\w*|music|footsteps?|vfx|tween\w*)\b",
+            title, re.I))
+    if lane != "physical tycoon purchases":
+        return True
+    # A named pad/desk/button must be in a tycoon OR a game-purchase context.
+    # "Desk construction tutorial" and "how to build a standing desk" are NOT
+    # gameplay-purchase references, even if a feed excerpt mentions tycoons.
+    tycoon = bool(re.search(r"\btycoon\b", title, re.I))
+    purchase = bool(re.search(r"\b(?:purchas\w*|buy\w*|bought|unlock\w*)\b", title, re.I))
+    game_context = bool(re.search(r"\b(?:roblox|game|studio|tycoon)\b", title, re.I))
+    pad_or_button = bool(re.search(r"\b(?:pads?|buttons?)\b", title, re.I))
+    return tycoon or (purchase and (game_context or pad_or_button))
+
+
 def analyze(index: dict, limit: int = 6) -> dict:
-    """Choose independent, primary-source leads, not purported gameplay insights."""
+    """Choose candidate direct-platform links, not validated original sources."""
     if not isinstance(index, dict) or not isinstance(index.get("posts"), list):
         raise ValueError("Learning index missing or invalid")
     if len(index["posts"]) > 10000 or not 1 <= limit <= 12:
@@ -91,13 +149,16 @@ def analyze(index: dict, limit: int = 6) -> dict:
         # Require the actual public TITLE to independently mention the topic;
         # otherwise general-feed items get mislabeled as Cat Magic leads.
         title_pattern = learning_radar.FOCUS[lane][0]
+        strong_pattern = TITLE_GATES[lane]
         candidates = [p for p in eligible if lane in p["signals"] and p["key"] not in seen
                       and used_sources[str(p.get("source", ""))] < 2
-                      and re.search(title_pattern, p["title"], re.I)]
-        # Excerpts may contain irrelevant or adversarial keyword stuffing.
-        # Rank by actual title matches and primary-source type, NOT excerpt score.
+                      and relevant_title(lane, p["title"])]
+        # Excerpts can be adversarial and generic titles are poor references.
+        # Rank only topical title evidence and source kind; never excerpt score.
         candidates.sort(key=lambda p: (
-            -(min(3, len(re.findall(title_pattern, p["title"], re.I))) * 3 + WEIGHT[p["kind"]]),
+            -(min(3, len(re.findall(strong_pattern, p["title"], re.I))) * 6
+              + min(3, len(re.findall(title_pattern, p["title"], re.I))) * 2
+              + WEIGHT[p["kind"]]),
             str(p.get("key", "")),
         ))
         if not candidates or len(results) >= limit:
@@ -110,13 +171,15 @@ def analyze(index: dict, limit: int = 6) -> dict:
             "title": p["title"][:160], "url": p["url"], "kind": p["kind"],
             "published": str(p.get("published", ""))[:30],
             "stage": "UNVIEWED_METADATA", "observation_verified": False,
+            "creator_verified": False, "original_media_verified": False,
             "question_for_reviewer": question,
         })
     return {
         "schema": "LEON_CAT_MAGIC_RESEARCH_REPORT_V1",
         "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
         "input_unique_posts": len(index["posts"]),
-        "original_source_candidates": len(eligible),
+        "direct_platform_candidates": len(eligible),
+        "proven_original_media": 0,
         "inspected_videos": 0, "observed_gameplay_findings": 0,
         "new_code_changes_authorized": False,
         "candidates": results,
@@ -128,21 +191,22 @@ def render(report: dict) -> str:
     lines = [
         "# Cat Magic research intelligence — evidence-gated", "",
         "**Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**",
+        "A direct platform URL does NOT establish original creator, video ownership, permission or reuse rights.",
         "This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.", "",
-        f"Indexed entries: {report['input_unique_posts']}; direct candidates: {report['original_source_candidates']};",
+        f"Indexed entries: {report['input_unique_posts']}; direct-platform links: {report['direct_platform_candidates']};",
         "Inspected videos: **0**; verified gameplay findings: **0**.", "",
-        "## Highest-value source checks", "",
+        "## Highest-value direct-link checks (authorship unverified)", "",
     ]
     if not report["candidates"]:
-        lines.append("No eligible first-party/original leads. Research quality needs improvement before making recommendations.")
+        lines.append("No eligible direct-platform leads. Original author, media content and rights remain unknown.")
     for p in report["candidates"]:
         lines.extend([
             f"- **{p['priority']} · {clean(p['topic'])}:** [{clean(p['title'])}]({p['url']})",
-            f"  - {p['kind']} · **UNVIEWED_METADATA** · Check: {clean(p['question_for_reviewer'], 260)}",
+            f"  - {p['kind']} · **UNVIEWED_METADATA** · creator/ownership UNVERIFIED · Check: {clean(p['question_for_reviewer'], 260)}",
         ])
     if report["unfilled_topics"]:
         lines.extend(["", "## Research gaps", ""])
-        lines.extend("- " + clean(topic) + ": no qualifying original/source-linked candidate" for topic in report["unfilled_topics"])
+        lines.extend("- " + clean(topic) + ": no qualifying direct-platform candidate" for topic in report["unfilled_topics"])
     lines.extend(["", "## Required before a verified improvement", "",
         "1. Inspect the original permitted source and record actual time-coded observations, creator, usage rights and uncertainty.",
         "2. Compare the observation to the **existing** Cat Magic first-session defect and choose ONE measurable code/scene change.",
