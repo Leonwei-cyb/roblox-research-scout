@@ -47,9 +47,14 @@ jobs:
       published: ${{ steps.publish.outputs.published }}
     steps:
       - uses: actions/checkout@v4
+      - name: Check scheduler ownership
+        id: ownership
+        run: python3 scripts/scheduler_owner.py --owner github --job discovery >> "$GITHUB_OUTPUT"
       - name: Unit tests (offline)
+        if: steps.ownership.outputs.enabled == 'true'
         run: python3 -m unittest discover -s tests -p 'test_discovery*.py' -v
       - name: Discover, score and route candidates
+        if: steps.ownership.outputs.enabled == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Untrusted text: read only by Python, which keeps at most 5 owner/repo names.
@@ -57,7 +62,7 @@ jobs:
         run: python3 scripts/discovery_scout.py
       - name: Commit discovery outputs only
         id: publish
-        if: always()
+        if: always() && steps.ownership.outputs.enabled == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

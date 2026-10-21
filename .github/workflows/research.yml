@@ -31,9 +31,14 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+      - name: Check scheduler ownership
+        id: ownership
+        run: python3 scripts/scheduler_owner.py --owner github --job research >> "$GITHUB_OUTPUT"
       - name: Unit tests (offline)
+        if: steps.ownership.outputs.enabled == 'true'
         run: python3 -m unittest discover -s tests -v
       - name: Collect public source updates
+        if: steps.ownership.outputs.enabled == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -82,6 +87,7 @@ jobs:
             exit 1
           fi
       - name: Commit reports only on changes
+        if: steps.ownership.outputs.enabled == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
