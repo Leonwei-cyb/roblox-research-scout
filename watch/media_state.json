@@ -614,7 +614,12 @@
     "2cb5f10893f6b75c87807aef",
     "2f352368df9f67e69a86217a",
     "c3a4e6a9e4307ccf3321631d",
-    "58789205b55ea5ccf484916f"
+    "58789205b55ea5ccf484916f",
+    "5d53b4e7a67698b0fe5abc48",
+    "4e135d275471d4ee2a4c059a",
+    "39c24fb8490f2fad7ecd3074",
+    "40cdb09f68d021cb505a7d65",
+    "9eac13d4061f209dd6a3d7ff"
   ],
   "items": [
     {
@@ -808,7 +813,7 @@
       "title": "Experience doesnt have permission to use bug",
       "url": "https://devforum.roblox.com/t/experience-doesnt-have-permission-to-use-bug/4948114",
       "published": "2026-10-21",
-      "excerpt": "I have been trying to make my boombox play other creator’s musics like in other popular games with boomboxes. Failed many times. How can i fix this? 1 post - 1 participant Read full topic",
+      "excerpt": "I have been trying to make my boombox play other creator’s musics like in other popular games with boomboxes. Failed many times. How can i fix this? 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/experience-doesnt-have-permission-to-use-bug/4948114.rss",
       "id": "c233663908ce2376dce7b1f5"
@@ -934,6 +939,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "SurfaceAppearance Textures Appear Glitched After Roblox Studio Update",
+      "url": "https://devforum.roblox.com/t/surfaceappearance-textures-appear-glitched-after-roblox-studio-update/4948194",
+      "published": "2026-10-21",
+      "excerpt": "Description After updating Roblox Studio and restarting it when prompted, I started experiencing visual glitches on MeshParts that use SurfaceAppearance . Before this update, everything was working normally. The issue affects both Roblox Studio and the Roblox Player, but only appears on MeshParts wi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/surfaceappearance-textures-appear-glitched-after-roblox-studio-update/4948194.rss",
+      "id": "5d53b4e7a67698b0fe5abc48"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Characters using PhysicsControllers glitch and fling on platforms using PrismaticConstraints",
       "url": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850",
       "published": "2026-10-21",
@@ -965,6 +982,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/global-shadows-from-sun-do-not-disappear-with-specific-properties/4947525.rss",
       "id": "532b829ed52bfc09ad617954"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "paying robux for testers",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbokac/paying_robux_for_testers/",
+      "published": "2026-10-21",
+      "excerpt": "paying 30 robux for people to test my game. add me on dc aloosely submitted by /u/AgitatedFennel1317 [link] [comments]",
+      "creator": "/u/AgitatedFennel1317 https://www.reddit.com/user/AgitatedFennel1317",
+      "id": "4e135d275471d4ee2a4c059a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7346,28 +7374,6 @@
       "excerpt": "",
       "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
       "id": "dbcdc1b91e0af87eb2fa2bdf"
-    },
-    {
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Steal an egg prank #stealanegg #steal #egg #youtubeshorts #roblox #brockodile #prank #funny #troll",
-      "url": "https://www.youtube.com/shorts/j6DzVVQAuIg",
-      "published": "2026-09-07",
-      "excerpt": "",
-      "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
-      "id": "71870b2e8763a89148e2fdf6"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "5 Roblox Studio Secrets You’ll Wish You Knew Sooner",
-      "url": "https://www.youtube.com/watch?v=lXPGueq66wg",
-      "published": "2026-09-07",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "07a6f29643d0712ffa6970f3"
     }
   ]
 }

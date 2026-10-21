@@ -2,7 +2,9 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [Manavarya09/public-apis-live](https://github.com/Manavarya09/public-apis-live) (156 stars). Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.
-- **Unreviewed lead:** [krishna3163/best-root-apps-for-android](https://github.com/krishna3163/best-root-apps-for-android) (37 stars). Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system tools, privacy utilities, and no-root Shizuku apps.
+- **Release:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) 1.30.2 → 1.30.3.
+- **Source updated:** [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) — mirror: sync from upstream (1d4af670af96d3874620426952ff768984bac110).
+- **Unreviewed lead:** [Geek-Cheth/AI-Tools-Hub](https://github.com/Geek-Cheth/AI-Tools-Hub) (13 stars). 
+- **Unreviewed lead:** [YamilAyma/enlaces-para-desarrolladores](https://github.com/YamilAyma/enlaces-para-desarrolladores) (13 stars). 🚀⭐ Mi lista con enlaces a herramientas, boletines, blogs y entre otros recursos para desarrolladores (Se actualiza a menudo) 🔥
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

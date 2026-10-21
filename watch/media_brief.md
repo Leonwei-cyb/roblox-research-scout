@@ -5,26 +5,21 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Roblox Build / 3D Examples
 
-- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUldHXzNILUlwdS1rX3c3Y0xXYWR0S2ktanpMOEh4Qi0yOWJ0eTBwam4xMlJqV0t2LURMNnAxVjVBa1BJT3BHWDRld3lETE9pQ2lqTnhR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-06
-  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+- **[The NEW Best Texture Plugin For Roblox Studio!](https://www.youtube.com/watch?v=aisUd4aqNbM)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-08-23
+- **[This AI Makes and IMPORTS GUI In SECONDS! (ForgeGUI: Updated)](https://www.youtube.com/watch?v=jagHXCCGzFE)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-08-27
+- **[6 Roblox Builders, 1 Asset Pack, 1,000 Robux!](https://www.youtube.com/watch?v=noxNioLmoDA)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-09-02
 
 ## Community
 
-- **[Just wanted to share this model i made in roblox studio](https://www.reddit.com/r/ROBLOXStudio/comments/1xbmzu5/just_wanted_to_share_this_model_i_made_in_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: submitted by /u/SamuelixBear-2012 \[link\] \[comments\]
-- **[Calling all 3D Editors, i need help on something](https://www.reddit.com/r/ROBLOXStudio/comments/1xbmciq/calling_all_3d_editors_i_need_help_on_something/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: so i wanna know how to decompile roblox models so i can rig them, or upload em to sketchfab can anyone tell me? submitted by /u/SatisfactionSorry731 \[link\] \[comments\]
-- **[Ive got a problem pleass help!](https://www.reddit.com/r/ROBLOXStudio/comments/1xbmipl/ive_got_a_problem_pleass_help/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: I just released my first game and I was going to advertise it until I realised I need to be 18 to pay with a card for ads. To pay with robux, it costs 4x what I was going to pay and there is absolutley no way on Gods green earth im paying t
-- **[Tips](https://www.reddit.com/r/ROBLOXStudio/comments/1xbm3qg/tips/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Does anyone have tips for getting into roblox game development? I really enjoy coding but I have only really ever used scratch submitted by /u/M3OW_MA0W \[link\] \[comments\]
+- **[paying robux for testers](https://www.reddit.com/r/ROBLOXStudio/comments/1xbokac/paying_robux_for_testers/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: paying 30 robux for people to test my game. add me on dc aloosely submitted by /u/AgitatedFennel1317 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Experience doesnt have permission to use bug](https://devforum.roblox.com/t/experience-doesnt-have-permission-to-use-bug/4948114)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I have been trying to make my boombox play other creator’s musics like in other popular games with boomboxes. Failed many times. How can i fix this? 1 post - 1 participant Read full topic
+- **[SurfaceAppearance Textures Appear Glitched After Roblox Studio Update](https://devforum.roblox.com/t/surfaceappearance-textures-appear-glitched-after-roblox-studio-update/4948194)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Description After updating Roblox Studio and restarting it when prompted, I started experiencing visual glitches on MeshParts that use SurfaceAppearance . Before this update, everything was working normally. The issue affects both Roblox St
 
 ---
 

@@ -4,7 +4,6 @@
 
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
-- **[5 Roblox Studio Secrets You’ll Wish You Knew Sooner](https://www.youtube.com/watch?v=lXPGueq66wg)** — YouTube video · 2026-09-07
 - **[Rapid Creation with Agentic Studio \| RDC 2026](https://www.youtube.com/watch?v=KB5iAzy86Fo)** — YouTube video · 2026-10-12
 - **[RoBuilder - Still Broke](https://www.youtube.com/watch?v=HDFsSxnm-Ak)** — YouTube video · 2026-09-16
 - **["I Have $250 Build Me a Game!"](https://www.youtube.com/watch?v=rz-aDPrNvHw)** — YouTube video · 2026-09-29

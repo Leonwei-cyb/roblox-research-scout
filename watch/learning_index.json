@@ -561,32 +561,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:j6DzVVQAuIg",
-      "url": "https://www.youtube.com/shorts/j6DzVVQAuIg",
-      "title": "Steal an egg prank #stealanegg #steal #egg #youtubeshorts #roblox #brockodile #prank #funny #troll",
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "published": "2026-09-07",
-      "kind": "youtube",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:lXPGueq66wg",
-      "url": "https://www.youtube.com/watch?v=lXPGueq66wg",
-      "title": "5 Roblox Studio Secrets You’ll Wish You Knew Sooner",
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "published": "2026-09-07",
-      "kind": "youtube",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "youtube:qLP05zvMsW0",
       "url": "https://www.youtube.com/watch?v=qLP05zvMsW0",
       "title": "Deep Systems, Deep Engagement: Building Complex RPG Mechanics | RDC 2026",
@@ -796,6 +770,20 @@
       "key": "devforum:4947674:1",
       "url": "https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674",
       "title": "Add a \"Scripted\" Option to the Maturity Questionnaire",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4948194:1",
+      "url": "https://devforum.roblox.com/t/surfaceappearance-textures-appear-glitched-after-roblox-studio-update/4948194",
+      "title": "SurfaceAppearance Textures Appear Glitched After Roblox Studio Update",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",
@@ -4396,6 +4384,17 @@
       "key": "reddit:1xbm3qg",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbm3qg/tips/",
       "title": "Tips",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbokac",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbokac/paying_robux_for_testers/",
+      "title": "paying robux for testers",
       "source": "reddit-robloxstudio",
       "published": "2026-10-21",
       "kind": "reddit",
