@@ -9,7 +9,7 @@ The local flock excludes overlapping Mac invocations, not remote hosts.
   mac_scout.py run | status | stop | start
   mac_scout.py run --force-research  (does not bypass STOP or scheduler ownership)
 """
-import fcntl, json, os, subprocess, sys, time
+import fcntl, json, math, os, subprocess, sys, time
 from datetime import datetime, timezone
 from scheduler_owner import owns_job
 
@@ -68,9 +68,26 @@ def prune_logs():
 def load():
     try:
         with open(STATE) as f:
-            return json.load(f)
-    except (OSError, ValueError):
+            st = json.load(f)
+    except FileNotFoundError:
         return {}
+    if not isinstance(st, dict):
+        raise ValueError("scout state must be a JSON object")
+    for key in ("last_research", "last_discovery", "backoff_until"):
+        if key in st:
+            value = st[key]
+            if (not isinstance(value, (int, float)) or isinstance(value, bool)
+                    or value < 0 or value > 253402300799 or not math.isfinite(value)):
+                raise ValueError("invalid scout state field: " + key)
+    for key in ("retry_research", "retry_discovery"):
+        if key in st and not isinstance(st[key], bool):
+            raise ValueError("invalid scout state field: " + key)
+    if "failures" in st and (not isinstance(st["failures"], int)
+                             or isinstance(st["failures"], bool) or st["failures"] < 0):
+        raise ValueError("invalid scout state field: failures")
+    if "last_receipt" in st and not isinstance(st["last_receipt"], dict):
+        raise ValueError("invalid scout state field: last_receipt")
+    return st
 
 
 def save(st):
@@ -298,7 +315,11 @@ def run(force_research=False):
         except OSError:
             log("another run holds the lock; not starting a second")
             return 0
-        st = load()
+        try:
+            st = load()
+        except (OSError, ValueError) as e:
+            log("invalid scout state; preserved without running collectors: " + str(e))
+            return 1
         if now() < st.get("backoff_until", 0):
             log(f"backing off after {st.get('failures', 0)} failure(s) until {iso(st['backoff_until'])}")
             return 0
@@ -318,7 +339,7 @@ def run(force_research=False):
             st.pop("backoff_until", None)
         else:
             st["failures"] = st.get("failures", 0) + 1
-            st["backoff_until"] = now() + min(BACKOFF_MAX, 3600 * 2 ** (st["failures"] - 1))
+            st["backoff_until"] = now() + min(BACKOFF_MAX, 3600 * 2 ** min(3, st["failures"] - 1))
         if not receipt.get("skipped"):
             st["last_receipt"] = receipt
         save(st)
@@ -327,7 +348,11 @@ def run(force_research=False):
 
 
 def status():
-    st = load()
+    try:
+        st = load()
+    except (OSError, ValueError) as e:
+        print("invalid scout state; preserved: " + str(e))
+        return 1
     print("STOP: " + ("ON" if os.path.exists(STOP) else "off"))
     for job, every in (("research", RESEARCH_EVERY), ("discovery", DISCOVERY_EVERY)):
         last = st.get(f"last_{job}")

@@ -92,3 +92,9 @@ the dedicated runner clone before switching to fetched main. Disposable-reposito
 tests cover dirty-report recovery and an interrupted conflicting rebase. This
 cleanup is only for the existing runner-owned clone, never a developer checkout.
 The installed runner is unchanged.
+
+## Invalid persisted state (isolated follow-up)
+
+Only a missing state file starts a fresh schedule. Malformed JSON, a non-object root, invalid retry flags/counters/receipt shape, or non-finite/out-of-range scheduling timestamps now stop before collectors or repository sync. The state bytes remain untouched for inspection; the runner and status command return a controlled failure. Do not clear bad state automatically because doing so can discard retry/backoff and launch duplicate collection.
+
+This is a source-only candidate based on PR #27. Five state regressions use temporary directories and mock the collector cycle; the installed runner, LaunchAgent and current schedule are unchanged. A deliberate owner-reviewed state repair and separately approved deployment remain required. Valid legacy dictionaries and unknown additional fields are preserved. Backoff calculation saturates before exponentiation.
