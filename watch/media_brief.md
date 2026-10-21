@@ -7,27 +7,13 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Just released my tower defense game, looking for testers and feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Hey, I just released a tower defense game called Bobblefall Defense. You summon units, build a team, and climb tower floors against bosses, and there's a limited-time Halloween event running now. It's still in beta, and right now I mainly w
-- **[Looking for someone to help me with updating my game](https://www.reddit.com/r/ROBLOXStudio/comments/1xbaz6e/looking_for_someone_to_help_me_with_updating_my/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: My games metrics are pretty good, median is 8.1 minutes average playtime is 26.5 minutes. Ive racked up 457 hours of playtime from 1248 players. With my top 25 players ranging from 3 hours to 14 hours. The issue with longevity is my game ju
-- **[Rigging problems](https://www.reddit.com/r/ROBLOXStudio/comments/1xbapek/rigging_problems/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Anyone know why this is happening? submitted by /u/TaMk42 \[link\] \[comments\]
+- **[We built a Roblox FPS game, looking for a feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xbbgvq/we_built_a_roblox_fps_game_looking_for_a_feedback/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: Hi everyone! My friend and I have spent the last 9 months making **Stray Bullet**, a fast first-person shooter on Roblox. It's a small two-person project, and this is where it stands today. We'd really like to know what you think of it. In 
 
 ## Roblox Updates
 
-- **[Combat Legends Beta Testing Recruitment \[OPEN\]](https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Combat Legends Beta Testing Hey everyone! I hope you all are doing well, I am Icy, the founder and CEO of a small game development team on the Roblox platform. Recently, we announced that our up and coming game, Combat Legends will be enter
-- **[Developer's 6 months free Roblox Plus is ending in 1 month](https://devforum.roblox.com/t/developers-6-months-free-roblox-plus-is-ending-in-1-month/4947443)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I’m still unable to buy a paid subscription because of the free trial. When it ends, I would greatly prefer not to have to restart my Roblox Plus subscription from 0 and miss out on the 20% discount for 3 months afterwards (and it’s cool if
-- **[LinearVelocity Velocity = Vector.zero not working on ground](https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I wanted to make the player get forced to certain position (such as move a bit forward with attack) and stop the player from moving away so I Used LinearVelocity, but it seems to be bugging on the ground, it causes the character to rotate a
-- **[SVG icons in Roblox, rendered at runtime](https://devforum.roblox.com/t/svg-icons-in-roblox-rendered-at-runtime/4947402)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Hey everyone. I got tired of uploading a PNG for every icon at every size, so I built a thing that renders SVG paths directly into EditableImage s at runtime. No uploads. No asset IDs. Any size you want. Includes Material Symbols support — 
-- **[TextChatService game take down](https://devforum.roblox.com/t/textchatservice-game-take-down/4947366)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I seen multiple topics on this and have posted multiple comments on various topics relating to this issue, just thought I’d chime in and post a topic to see if it’ll maybe gain attention from people who haven’t seen the other posts because 
-- **[Top down coop shooter game](https://devforum.roblox.com/t/top-down-coop-shooter-game/4947368)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I’ve been working on a game for the past few months and I’m happy to finally let you know that we’re beginning closed testing. It’s a Top-down zombie shooter game with PvPvE called Deathlocked. I have attached the discord link below if you’
+- **[OAuth 2.0 app for a staff-only moderation site rejected as "App cannot be reviewed"](https://devforum.roblox.com/t/oauth-20-app-for-a-staff-only-moderation-site-rejected-as-app-cannot-be-reviewed/4947476)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Our OAuth 2.0 app “X Studios” (client ID 4271546112394531014) was rejected with the reason “App cannot be reviewed (entry link does not exist, sign up flow is broken, etc).” The sign-in flow works correctly, so we believe the rejection is d
 
 ---
 

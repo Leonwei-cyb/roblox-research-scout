@@ -1,6 +1,6 @@
 {
-  "records_read": 580,
-  "unique_posts": 579,
+  "records_read": 582,
+  "unique_posts": 581,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -1691,6 +1691,19 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbbgvq",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbbgvq/we_built_a_roblox_fps_game_looking_for_a_feedback/",
+      "title": "We built a Roblox FPS game, looking for a feedback",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3640,6 +3653,17 @@
       "key": "devforum:4947409:1",
       "url": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409",
       "title": "Combat Legends Beta Testing Recruitment [OPEN]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947476:1",
+      "url": "https://devforum.roblox.com/t/oauth-20-app-for-a-staff-only-moderation-site-rejected-as-app-cannot-be-reviewed/4947476",
+      "title": "OAuth 2.0 app for a staff-only moderation site rejected as \"App cannot be reviewed\"",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",

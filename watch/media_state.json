@@ -580,7 +580,9 @@
     "4666c980c0631a85e0f25541",
     "f8f161d5d672e311d6fb4cd6",
     "e0015ca26636db277a0282b4",
-    "86be1a519315d1d8920672ca"
+    "86be1a519315d1d8920672ca",
+    "256dc530e8e5464dea12d8e1",
+    "47d9f99efa820bec950da09b"
   ],
   "items": [
     {
@@ -682,7 +684,7 @@
       "title": "LinearVelocity Velocity = Vector.zero not working on ground",
       "url": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408",
       "published": "2026-10-21",
-      "excerpt": "I wanted to make the player get forced to certain position (such as move a bit forward with attack) and stop the player from moving away so I Used LinearVelocity, but it seems to be bugging on the ground, it causes the character to rotate and move towards anywhere else but the same position Video: 3",
+      "excerpt": "I wanted to make the player get forced to certain position (such as move a bit forward with attack) and stop the player from moving away so I Used LinearVelocity, but it seems to be bugging on the ground, it causes the character to rotate and move towards anywhere else but the same position Video: 4",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408.rss",
       "id": "67337b4c14e12e01f6b97d3c"
@@ -698,6 +700,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409.rss",
       "id": "62091f636f6db8149725b155"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "We built a Roblox FPS game, looking for a feedback",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbbgvq/we_built_a_roblox_fps_game_looking_for_a_feedback/",
+      "published": "2026-10-21",
+      "excerpt": "Hi everyone! My friend and I have spent the last 9 months making **Stray Bullet**, a fast first-person shooter on Roblox. It's a small two-person project, and this is where it stands today. We'd really like to know what you think of it. In short: quick pistol fights on a map full of traps (saws, min",
+      "creator": "/u/Unable-Cat4264 https://www.reddit.com/user/Unable-Cat4264",
+      "id": "47d9f99efa820bec950da09b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -722,6 +735,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/website-bug-maybe-layout/4947356.rss",
       "id": "2cbbe3f9c174eb378f1dfacb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "OAuth 2.0 app for a staff-only moderation site rejected as \"App cannot be reviewed\"",
+      "url": "https://devforum.roblox.com/t/oauth-20-app-for-a-staff-only-moderation-site-rejected-as-app-cannot-be-reviewed/4947476",
+      "published": "2026-10-21",
+      "excerpt": "Our OAuth 2.0 app “X Studios” (client ID 4271546112394531014) was rejected with the reason “App cannot be reviewed (entry link does not exist, sign up flow is broken, etc).” The sign-in flow works correctly, so we believe the rejection is due to our site’s access restrictions. The app is a moderatio",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/oauth-20-app-for-a-staff-only-moderation-site-rejected-as-app-cannot-be-reviewed/4947476.rss",
+      "id": "256dc530e8e5464dea12d8e1"
     },
     {
       "source": "reddit-robloxdev",
