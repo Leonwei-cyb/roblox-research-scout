@@ -13,7 +13,7 @@ YT = "https://youtube.com/watch?v=ABCDEFGHIJK"
 DF = "https://devforum.roblox.com/t/a/4946218"
 
 
-def row(key, url, kind, topic, *, score=9, source="firsthand", title="Roblox tycoon lesson"):
+def row(key, url, kind, topic, *, score=9, source="firsthand", title="Roblox tycoon purchase pad lesson"):
     return {"key": key, "url": url, "kind": kind, "title": title, "published": "2026-10-20",
             "source": source, "evidence": "UNVIEWED_METADATA", "score": score,
             "signals": [topic]}
@@ -137,6 +137,7 @@ class ResearchReporterTests(unittest.TestCase):
             ("first-session and mobile", "I'll Pay You $20,000 To Copy This Mobile Game"),
             ("physical tycoon purchases", "Mastering Server Authority to Build Competitive Multiplayer Games"),
             ("physical tycoon purchases", "Avatar Joint Upgrade - Tidy up added R15 constraints"),
+            ("physical tycoon purchases", "What is the hardest part of balancing an upgrade system?"),
             ("first-session and mobile", "Appeal workflow recursively leaves users unable to receive a verdict"),
             ("world and visual design", "Looking to recruit a game model builder"),
         ]
@@ -164,7 +165,7 @@ class ResearchReporterTests(unittest.TestCase):
 
     def test_direct_link_does_not_claim_original_ownership_or_rights(self):
         index = {"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube",
-                               "physical tycoon purchases", title="Roblox tycoon example video")]}
+                               "physical tycoon purchases", title="Roblox tycoon purchase pad example video")]}
         report = r.analyze(index)
         body = r.render(report)
         self.assertEqual(report["direct_platform_candidates"], 1)
