@@ -121,6 +121,11 @@ class ResearchReporterTests(unittest.TestCase):
         raw = json.loads(source.read_text(encoding="utf-8"))
         index = learning_radar.triage(raw["items"])
         report = r.analyze(index)
+        # Temporary public-data snapshot for exact Python-generated report artifacts.
+        print("LEON_REPORT_SNAPSHOT_V1:" + json.dumps({
+            "json": json.dumps(report, indent=2, ensure_ascii=False) + "\n",
+            "md": r.render(report) + "\n",
+        }, ensure_ascii=False, separators=(",", ":")))
         self.assertLessEqual(len(report["candidates"]), 6)
         self.assertEqual(report["observed_gameplay_findings"], 0)
         self.assertEqual(len({x["key"] for x in report["candidates"]}),
