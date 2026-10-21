@@ -49,15 +49,9 @@ TITLE_GATES = {
         r"|\bplayers? leave\b|\btutorial.{0,15}(game|tycoon|first)"
         r"|\bmobile.{0,18}(ui|controls?|tutorial|onboard|experience)"
     ),
-    "physical tycoon purchases": (
-        # A real physical object and a purchase/tycoon action must BOTH occur.
-        # Allow plural pad/buttons and either wording order ("Tycoon Buttons",
-        # "Purchase Pads in Roblox Tycoon") but reject generic economy guides.
-        r"\b(?:tycoon|purchas\w*|buy\w*|upgrad\w*|build\w*|construct\w*|unlock\w*)\b"
-        r".{0,36}\b(?:pads?|buttons?|desks?|classrooms?|droppers?|conveyors?|stands?)\b"
-        r"|\b(?:pads?|buttons?|desks?|classrooms?|droppers?|conveyors?|stands?)\b"
-        r".{0,36}\b(?:tycoon|purchas\w*|buy\w*|upgrad\w*|build\w*|construct\w*|unlock\w*)\b"
-    ),
+    # First match the named physical object. Then apply the transactional/genre
+    # context test in relevant_title rather than allowing woodworking tutorials.
+    "physical tycoon purchases": r"\b(?:pads?|buttons?|desks?|classrooms?|droppers?|conveyors?|stands?)\b",
     "cat animation and audio": (
         r"\banimat\w*.{0,16}(cat|pet)"
         r"|\b(cat|pet).{0,24}(animation|controller|walking|rig|movement|sounds?|audio|sfx|meow|purr|music|footsteps?)"
@@ -101,6 +95,25 @@ def clean(text: object, max_length: int = 130) -> str:
     return value
 
 
+
+def relevant_title(lane: str, title: str) -> bool:
+    """Require meaningful topic evidence in the actual title, never an excerpt."""
+    if not re.search(learning_radar.FOCUS[lane][0], title, re.I):
+        return False
+    if not re.search(TITLE_GATES[lane], title, re.I):
+        return False
+    if lane != "physical tycoon purchases":
+        return True
+    # A named pad/desk/button must be in a tycoon OR a game-purchase context.
+    # "Desk construction tutorial" and "how to build a standing desk" are NOT
+    # gameplay-purchase references, even if a feed excerpt mentions tycoons.
+    tycoon = bool(re.search(r"\btycoon\b", title, re.I))
+    purchase = bool(re.search(r"\b(?:purchas\w*|buy\w*|bought|unlock\w*)\b", title, re.I))
+    game_context = bool(re.search(r"\b(?:roblox|game|studio|tycoon)\b", title, re.I))
+    pad_or_button = bool(re.search(r"\b(?:pads?|buttons?)\b", title, re.I))
+    return tycoon or (purchase and (game_context or pad_or_button))
+
+
 def analyze(index: dict, limit: int = 6) -> dict:
     """Choose candidate direct-platform links, not validated original sources."""
     if not isinstance(index, dict) or not isinstance(index.get("posts"), list):
@@ -130,8 +143,7 @@ def analyze(index: dict, limit: int = 6) -> dict:
         strong_pattern = TITLE_GATES[lane]
         candidates = [p for p in eligible if lane in p["signals"] and p["key"] not in seen
                       and used_sources[str(p.get("source", ""))] < 2
-                      and re.search(title_pattern, p["title"], re.I)
-                      and re.search(strong_pattern, p["title"], re.I)]
+                      and relevant_title(lane, p["title"])]
         # Excerpts can be adversarial and generic titles are poor references.
         # Rank only topical title evidence and source kind; never excerpt score.
         candidates.sort(key=lambda p: (
