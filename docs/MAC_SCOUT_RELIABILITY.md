@@ -60,3 +60,24 @@ No live service, credentials, public collector, Studio, package installation, or
 external publication is required by these tests. Workflow guards are checked
 statically and the ownership CLI is executed locally; GitHub Actions acceptance
 and production STOP behavior remain unverified until an authorized rollout.
+
+## Follow-up review hardening
+
+Due jobs are marked pending before tests, credentials, or collectors run, so an
+exception or STOP cannot accidentally clear their retry requirement. A failed
+research publication ends the cycle before discovery: its local unpushed commit
+must not be included in another job's later push. Outputs are regenerated at the
+next eligible cycle, as above.
+
+Publication rejects staged files outside the job's report paths. Rename detection
+is disabled for this check so moving code into a report directory cannot hide the
+source deletion; NUL-delimited filenames are preserved without trimming. Hosted
+publication steps apply equivalent exclusions. Hosted conflicts/exhausted pushes
+now fail, and discovery only publishes after successful tests and collection.
+
+Rebase, abort, and push have bounded waits. Publication honors the remaining cycle
+deadline; abort cleanup has its own ten-second allowance. STOP is rechecked between
+fetch and rebase. Known GitHub token values are redacted from collector log output
+before truncation, and inherited token values are redacted from log/error messages.
+This is defense against accidental output, not a sandbox against malicious code:
+main-branch scripts and tests still execute with the runner account's privileges.

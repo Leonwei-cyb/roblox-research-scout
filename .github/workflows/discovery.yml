@@ -62,11 +62,14 @@ jobs:
         run: python3 scripts/discovery_scout.py
       - name: Commit discovery outputs only
         id: publish
-        if: always() && steps.ownership.outputs.enabled == 'true'
+        if: success() && steps.ownership.outputs.enabled == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add findings/ status/discovery.json watch/discovery_state.json
+          if ! git diff --cached --quiet --no-renames -- . ':!findings/' ':!status/discovery.json' ':!watch/discovery_state.json'; then
+            echo '::error::Staged files outside report paths'; exit 1
+          fi
           if git diff --cached --quiet; then
             echo 'No discovery change.'
             echo 'published=true' >> "$GITHUB_OUTPUT"
@@ -78,7 +81,7 @@ jobs:
             if ! git rebase origin/main; then
               git rebase --abort
               echo '::warning::Discovery output conflicts with newer main; issues not routed, next run retries.'
-              exit 0
+              exit 1
             fi
             if git push origin HEAD:main; then
               echo 'published=true' >> "$GITHUB_OUTPUT"
@@ -87,6 +90,7 @@ jobs:
             sleep 2
           done
           echo '::warning::Concurrent update; issues not routed, next run retries without force-pushing.'
+          exit 1
 
   route-issues:
     # Separate job so only this step can write issues, and only in this repo.

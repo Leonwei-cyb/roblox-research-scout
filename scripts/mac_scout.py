@@ -49,6 +49,7 @@ def iso(t=None):
 
 
 def log(msg):
+    msg = redact(msg, os.environ)
     os.makedirs(LOGS, exist_ok=True)
     line = f"{iso()} {msg}"
     with open(os.path.join(LOGS, datetime.now().strftime("%Y-%m-%d") + ".log"), "a") as f:
@@ -79,11 +80,12 @@ def save(st):
     os.replace(tmp, STATE)
 
 
-def git(*args, check=True, env=None):
-    r = subprocess.run(["git", "-C", REPO, *args], capture_output=True, text=True, env=env, timeout=120)
+def git(*args, check=True, env=None, deadline=None):
+    r = subprocess.run(["git", "-C", REPO, *args], capture_output=True, text=True,
+                       env=env, timeout=remaining(deadline, 120))
     if check and r.returncode:
-        raise RuntimeError(f"git {args[0]} failed: {r.stderr.strip()[:300]}")
-    return r.stdout.strip()
+        raise RuntimeError(f"git {args[0]} failed: {redact(r.stderr, env or os.environ).strip()[:300]}")
+    return r.stdout if "-z" in args else r.stdout.strip()
 
 
 def token():
@@ -118,6 +120,19 @@ class Stopped(RuntimeError):
     pass
 
 
+def remaining(deadline, cap):
+    checkpoint(deadline)
+    return cap if deadline is None else min(cap, deadline - now())
+
+
+def redact(text, env):
+    for key in ("GITHUB_TOKEN", "GH_TOKEN"):
+        value = env.get(key)
+        if value:
+            text = text.replace(value, "[REDACTED]")
+    return text
+
+
 def checkpoint(deadline=None):
     if os.path.exists(STOP):
         raise Stopped("STOP requested; no further collectors or publication")
@@ -135,31 +150,48 @@ def step(name, env, deadline):
         code, out = r.returncode, (r.stdout + r.stderr)
     except subprocess.TimeoutExpired:
         code, out = 124, f"timed out after {int(limit)} s"
+    out = redact(redact(out, env), os.environ)
     tail = " | ".join(l for l in out.strip().splitlines()[-3:])[:300]
     log(f"  {name} exit={code} {now() - t:.0f}s {tail}")
     return code
 
 
-def publish(paths, message):
-    checkpoint()
-    git("add", "-A", "--", *paths)
-    if not git("diff", "--cached", "--name-only"):
+def publish(paths, message, deadline=None):
+    checkpoint(deadline)
+    git("add", "-A", "--", *paths, deadline=deadline)
+    staged = git("diff", "--cached", "--name-only", "--no-renames", "-z", deadline=deadline)
+    if not staged:
         log("  no changed report")
         return {"status": "unchanged", "sha": None}
-    checkpoint()
-    git("commit", "-q", "-m", message)
-    for _ in range(3):
-        checkpoint()
-        git("fetch", "-q", "origin", "main")
-        if subprocess.run(["git", "-C", REPO, "rebase", "-q", "origin/main"], capture_output=True).returncode:
-            subprocess.run(["git", "-C", REPO, "rebase", "--abort"], capture_output=True)
+    if any(not any(name == path.rstrip("/") or (path.endswith("/") and name.startswith(path))
+                   for path in paths)
+           for name in staged.split("\0") if name):
+        raise RuntimeError("refusing to commit staged files outside report paths")
+    checkpoint(deadline)
+    git("commit", "-q", "-m", message, deadline=deadline)
+    for attempt in range(3):
+        checkpoint(deadline)
+        git("fetch", "-q", "origin", "main", deadline=deadline)
+        checkpoint(deadline)
+        try:
+            rebase = subprocess.run(["git", "-C", REPO, "rebase", "-q", "origin/main"],
+                                    capture_output=True, timeout=remaining(deadline, 120))
+        except subprocess.TimeoutExpired:
+            # Cleanup is bounded separately even when the cycle deadline has expired.
+            subprocess.run(["git", "-C", REPO, "rebase", "--abort"],
+                           capture_output=True, timeout=10)
+            raise
+        if rebase.returncode:
+            subprocess.run(["git", "-C", REPO, "rebase", "--abort"],
+                           capture_output=True, timeout=10)
             log("  report conflicts with newer main; next cycle retries")
             return {"status": "failed", "reason": "rebase conflict", "sha": None}
-        checkpoint()
+        checkpoint(deadline)
         if subprocess.run(["git", "-C", REPO, "push", "-q", "origin", "HEAD:main"],
-                          capture_output=True, timeout=120).returncode == 0:
-            return {"status": "published", "sha": git("rev-parse", "HEAD")}
-        time.sleep(2)
+                          capture_output=True, timeout=remaining(deadline, 120)).returncode == 0:
+            return {"status": "published", "sha": git("rev-parse", "HEAD", deadline=deadline)}
+        if attempt < 2:
+            time.sleep(min(2, remaining(deadline, 2)))
     log("  push failed 3 times (never forced); next cycle retries")
     return {"status": "failed", "reason": "push retries exhausted", "sha": None}
 
@@ -192,6 +224,10 @@ def cycle(st, force_research=False):
         receipt["skipped"] = "nothing due"
         return True, receipt
 
+    # Mark all due jobs before any fallible work; run() persists this on STOP/errors.
+    for job, due in want.items():
+        if due:
+            st[f"retry_{job}"] = True
     checkpoint(deadline)
     env = dict(os.environ, GITHUB_TOKEN=token(), GITHUB_EVENT_NAME="local")
     env.pop("GITHUB_STEP_SUMMARY", None)
@@ -213,7 +249,7 @@ def cycle(st, force_research=False):
         bad = [n for n in MUST_PASS if codes.get(n, 0)]
         both = codes["scout"] and codes["media_scout"]
         checkpoint(deadline)
-        result = publish(RESEARCH_PATHS, "Refresh public research leads (Mac local scheduler)")
+        result = publish(RESEARCH_PATHS, "Refresh public research leads (Mac local scheduler)", deadline=deadline)
         receipt.setdefault("publication", {})["research"] = result
         receipt["commits"]["research"] = result["sha"]
         if not (bad or both) and result["status"] != "failed":
@@ -223,11 +259,14 @@ def cycle(st, force_research=False):
             st["retry_research"] = True
             ok = False
             receipt["error"] = "research failed: " + (", ".join(sorted(bad)) or ("both collectors" if both else result.get("reason", "publication failed")))
+        if result["status"] == "failed":
+            # Its unpushed commit/rebase state must never ride along on another job's push.
+            return False, receipt
     if want["discovery"]:
         log("discovery cycle")
         receipt["steps"]["discovery_scout"] = code = step("discovery_scout", env, deadline)
         checkpoint(deadline)
-        result = publish(DISCOVERY_PATHS, "Refresh open-source discovery (Mac local scheduler)")
+        result = publish(DISCOVERY_PATHS, "Refresh open-source discovery (Mac local scheduler)", deadline=deadline)
         receipt.setdefault("publication", {})["discovery"] = result
         receipt["commits"]["discovery"] = result["sha"]
         if not code and result["status"] != "failed":
@@ -263,7 +302,7 @@ def run(force_research=False):
             log(str(e))
             return 0
         except Exception as e:                       # network, git, token: a failure, never a crash loop
-            ok, receipt = False, {"start": iso(), "error": str(e)[:300]}
+            ok, receipt = False, {"start": iso(), "error": redact(str(e), os.environ)[:300]}
         receipt["end"] = iso()
         receipt["pid"] = os.getpid()
         if ok:
