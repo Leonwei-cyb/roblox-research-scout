@@ -70,6 +70,32 @@ License files govern their own repositories; verify dependencies, assets, attrib
 - **Source:** [GameToc image-rich 2025 review](https://www.gametoc.co.kr/news/articleView.html?idxno=90752) and [Ruliweb developer announcement with classroom art](https://m.ruliweb.com/news/read/208925). Published stills depict a dense, portrait-oriented management HUD with resource counters, upgrade/menu panels, teacher cards, classroom desks and small status indicators.
 - **Design interpretation:** Re-create **function and legibility** in a simpler native Roblox visual vocabulary, **not copyrighted sprite layouts, sound files, art or 1:1 UI graphics**. Treat images as *reference stills*; do not infer animations or first-camera composition from them.
 
+### F. Concrete economy bottleneck evidence from a player's detailed hands-on review
+
+- **Source:** [Detailed Cat Magic School player review, r/incremental_games, 2024](https://www.reddit.com/r/incremental_games/comments/1gnbhg5). The public search-indexed original Reddit review was inspected; direct Reddit page access was unavailable. **Player report, version/date-dependent and not independently reproduced.**
+- **Described revenue sources:** cat enrollments, classes, eating/dining and passing exams, not tuition alone. The author describes classroom **level, capacity and speed** upgrades as independent from **class pass rate**, with professor-card upgrades and other rarer resources affecting pass rates. Reported higher-level classrooms can have more students failing and progression slowing; this is the player's report, not a confirmed current balance formula.
+- **Roblox-replica implication:** In the *full* system map, separate (1) class enrollment/queue, (2) classroom capacity/lesson timer, (3) professor success modifier, (4) enrollment and tuition payouts, (5) food/dining and exams, and (6) larger school unlocks. For the beta, show a class and a visible tuition reward, with player-readable "capacity", "speed" and "success" labels. Do **not** introduce a paywalled fail loop.
+
+### G. Long-session progression evidence and balance warnings (not opening-minute footage)
+
+- **Source:** [Natsuhiro's September 15, 2025 stage-five Cat Magic School progression guide](https://note.com/natsuhiro0715/n/ne0433e5e97b1?hl=en). Public full text inspected directly; first-person account, **not verified by running that version of the game**.
+- **Described systems:** A sequence of named schools includes **Magic Forest, Snowy Forest, Prickly Tail Field, Nyans Bag and Magic Government**. The author distinguishes easily earned fame/regular income from much scarcer **spell power, professor improvement, gems and magic potions**; online reward prompts and rotating timed events are part of the progression. Author claims passive leaving-open does not grant every needed currency. These are late-game player observations, **not a verified map unlock specification or exact current formulas**.
+- **Roblox planning:** Preserve the *concept* of multiple campuses and separate long-term progression resources in the future blueprint, without inventing precise stage costs, map order, idle caps or monetization. A future player acceptance test should verify that passive income does not misleadingly suggest all upgrades advance automatically. Keep initial classroom gameplay simple and self-contained.
+
+### H. Independent English-language player UX corroboration
+
+- **Source:** [App Store GB ratings and reviews](https://apps.apple.com/gb/app/cat-magic-school-cute-tycoon/id6547838700?platform=ipad&see-all=reviews) and [Google Play reviews](https://play.google.com/store/apps/details?hl=en_CA&id=com.tree.idle.cat.academy). These are individual player-reported experiences, not representative measured failure rates.
+- **Pattern:** Several players liked the cats, lesson grading and school expansion, but reported that rare professor upgrades / potions / gems and ad dependencies obstructed progression. This supports a design requirement: each new classroom purchase should lead to an attainable visible reward *without* premium spending, and teacher performance should have understandable, non-opaque requirements.
+- **Do not import exact balance numbers:** Original app reviews span multiple dates and versions.
+
+### I. Rechecked permissively licensed tooling on 2026-10-21
+
+- **UI:** [dphfox/Fusion](https://github.com/dphfox/Fusion) — [MIT license inspected](https://github.com/dphfox/Fusion/blob/main/LICENSE), README inspected at blob SHA \`d2dbc45c586c9440acc68536bcf67ddf9f242b53\`. Reactive Luau companion library with Roblox integration; **not integrated or benchmarked**. Prefer a tiny upgrade panel evaluation over replacing all Cat Magic UI.
+- **QA:** [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp) — [MIT license inspected](https://github.com/Chrrxs/robloxstudio-mcp/blob/main/LICENSE), blob \`3e4c4339bb797ed6d5d17beae5643be7f7d563b1\`. Do not claim Studio screenshots, testing, or installation until a real Mac test exists.
+- **Existing tycoon and cat-motion references:** \`spavdigital/roblox-tycoon\` and \`Virtual3D/roblox-npc-motion\` license blobs were rechecked; still **untested** with the game.
+
+---
+
 ### Focused follow-up research test (ONE most valuable next step)
 
 Inspect a **real, permitted first-session gameplay recording** such as [KruMobile Part 1 (2025-04-03)](https://www.youtube.com/watch?v=N4u9-2ZNwXM) or [TanJinGames Part 1 (2025-04-25)](https://www.youtube.com/watch?v=J-FsPaDFgLg), with actual accessible media, and write **five timestamped observation rows**:
