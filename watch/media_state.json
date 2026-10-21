@@ -658,7 +658,20 @@
     "aed2d13d64b6fc7fe09e0225",
     "21a500220f18d1192386111f",
     "7fab2db3088d32f7374c1432",
-    "d5e66a59aa71a3bb0082d5fb"
+    "d5e66a59aa71a3bb0082d5fb",
+    "ee92bade9507c57459a382d6",
+    "104fb553e9cccab324460ceb",
+    "65b27c37db83face89ea36d2",
+    "de8a4ac57ab7d17c8fc1b63a",
+    "8bcb500ba39ef8768107b665",
+    "e6742654fd1c0fd03b6cb137",
+    "62400ae873a311cdec06de48",
+    "d0ee84f00ff04c82ab094b11",
+    "e97368d166c19e1df48bbebb",
+    "6f6f75e686a79b4b06cc0ceb",
+    "6643c6ed2a69d5de5bf9fd96",
+    "5ed7ec65e11de60f32c85a35",
+    "aabf320ae8e215e2ac2ce807"
   ],
   "items": [
     {
@@ -733,6 +746,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Automatically Generate Image Assets from Editable UI in Studio",
+      "url": "https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773",
+      "published": "2026-10-21",
+      "excerpt": "As a Roblox developer, I’d like a feature to bake UI into image assets directly in Studio. Studio would generate and update the assets automatically, while the original UI and effects stay editable. This could include frames, images, text, strokes, gradients, shadows, and rounded corners (or any UI ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773.rss",
+      "id": "ee92bade9507c57459a382d6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How do I make M1 attack less sensitive on mobile",
       "url": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295",
       "published": "2026-10-21",
@@ -753,6 +778,17 @@
       "id": "e977fa8311b98a8dcd480684"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Robot 64 fun fact",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbywu0/robot_64_fun_fact/",
+      "published": "2026-10-21",
+      "excerpt": "According to the open source engine, Robot 64's player code is exactly 3724 lines of code. https://reddit.com/link/1xbywu0/video/hzkrm6nhrvwh1/player There are a total of 11 module scripts, 3 client scripts and 1 server script on the entire engine and a lot of scrolling to find stuff. What a guy 🔥🔥 ",
+      "creator": "/u/afkbansux https://www.reddit.com/user/afkbansux",
+      "id": "e97368d166c19e1df48bbebb"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -763,6 +799,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-can-i-improve-my-building-and-detail-in-studio/4948677.rss",
       "id": "e91356cbbc9c0936fb0a3f65"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "A Game about mining rocks",
+      "url": "https://devforum.roblox.com/t/a-game-about-mining-rocks/4948699",
+      "published": "2026-10-21",
+      "excerpt": "So i have made a game about mining rocks, and I am looking forward some people to test it! It has gone through a lot of changes, fixes, and re-makes so any little bug is possible but thats why I need you . To find it because I myself cant easily do that. I also really want to show this off because i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/a-game-about-mining-rocks/4948699.rss",
+      "id": "e6742654fd1c0fd03b6cb137"
     },
     {
       "source": "roblox-devforum-latest",
@@ -810,6 +858,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/what-should-i-add/4947593.rss",
       "id": "df6c45ec0de4e7788427400c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How can i make my zombie npcs have spacing with eachother?",
+      "url": "https://devforum.roblox.com/t/how-can-i-make-my-zombie-npcs-have-spacing-with-eachother/4948737",
+      "published": "2026-10-21",
+      "excerpt": "I will try to explain as clearly as possible, but basically, I was wondering how I could make my zombies have spacing with each other, since they don’t have collisions, they can REALLY easily clump together, and it doubles their attack damage to the point that they can easily one-shot a player, whic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-can-i-make-my-zombie-npcs-have-spacing-with-eachother/4948737.rss",
+      "id": "de8a4ac57ab7d17c8fc1b63a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -916,6 +976,17 @@
       "excerpt": "https://preview.redd.it/llvklcvikrwh1.png?width=367&format=png&auto=webp&s=1f8a6d278a3ad3d9c47de02e29bb0329a22d38a6 I've tried deleting them from the resource manager but the option to delete them doesn't show up, and I tried searching it online but apparently no one is as dumb as me to have this pr",
       "creator": "/u/Wild_Society_7357 https://www.reddit.com/user/Wild_Society_7357",
       "id": "d0fee80443c82d1ea17f7929"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox studio freezes",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbxoxx/roblox_studio_freezes/",
+      "published": "2026-10-21",
+      "excerpt": "Does anyone else experience Roblox Studio freezing when testing their game? submitted by /u/Bajugamers [link] [comments]",
+      "creator": "/u/Bajugamers https://www.reddit.com/user/Bajugamers",
+      "id": "d0ee84f00ff04c82ab094b11"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1071,6 +1142,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Universal Game Development Tool Kit",
+      "url": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948713",
+      "published": "2026-10-21",
+      "excerpt": "(This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked | Discord: U.G.D | Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is designed to be optimized, easy to use, scale, and keep the networ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948713.rss",
+      "id": "8bcb500ba39ef8768107b665"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Add a \"Scripted\" Option to the Maturity Questionnaire",
       "url": "https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674",
       "published": "2026-10-21",
@@ -1156,7 +1239,7 @@
       "title": "Post Accidentally Deleted and Cant restore it",
       "url": "https://devforum.roblox.com/t/post-accidentally-deleted-and-cant-restore-it/4948680",
       "published": "2026-10-21",
-      "excerpt": "I don’t know what happened, but I clicked the 3 buttons out of curiosity and in an instant my post vanished. Why isn’t there a revert button? I made a duplicate post to hopefully get it republished. Page URL: https://devforum.roblox.com/t/universal-game-development-tool-kit/4948318 1 post - 1 partic",
+      "excerpt": "I don’t know what happened, but I clicked the 3 buttons out of curiosity and in an instant my post vanished. Why isn’t there a revert button? I made a duplicate post to hopefully get it republished. Could you please fix it? Page URL: https://devforum.roblox.com/t/universal-game-development-tool-kit/",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/post-accidentally-deleted-and-cant-restore-it/4948680.rss",
       "id": "7a9d7149eeb2f7778b988999"
@@ -1206,6 +1289,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408.rss",
       "id": "67337b4c14e12e01f6b97d3c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unexpected logouts in last three days",
+      "url": "https://devforum.roblox.com/t/unexpected-logouts-in-last-three-days/4948741",
+      "published": "2026-10-21",
+      "excerpt": "I’ve had all of my studio sessions on a computer get logged out suddenly, usually correlated with logging in from another computer at my house. I’ve had four complete unrequested logouts across three machines in the last three days. They are not requested by me and only impact studio - Roblox itself",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unexpected-logouts-in-last-three-days/4948741.rss",
+      "id": "65b27c37db83face89ea36d2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Eclipse Animator Manually Add Inverse Kinematics",
+      "url": "https://devforum.roblox.com/t/eclipse-animator-manually-add-inverse-kinematics/4948692",
+      "published": "2026-10-21",
+      "excerpt": "In Eclipse Animator, I have custom made R7 rigs however I do not see an option for IK on either of the legs, and was wondering how I could make them supported for IK? As you can see the limbs that are still parented to the original Torso have IK available, but the joints that were moved aren’t suppo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/eclipse-animator-manually-add-inverse-kinematics/4948692.rss",
+      "id": "62400ae873a311cdec06de48"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1451,6 +1558,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/add-a-more-efficient-way-to-force-players-to-leave-a-game-rather-than-just-kicking-them/4948426.rss",
       "id": "122983e95e7ad82eb2a97109"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Support Multiple Return Values in If-Expressions",
+      "url": "https://devforum.roblox.com/t/support-multiple-return-values-in-if-expressions/4948766",
+      "published": "2026-10-21",
+      "excerpt": "Support Multiple Return Values in If-Expressions My feature request is very simple. You can already do this: local out = if a < b then a else b I’d like to be able to return multiple values from an if-expression, allowing the result to be assigned to multiple variables: local out, foxed = if a < b t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/support-multiple-return-values-in-if-expressions/4948766.rss",
+      "id": "104fb553e9cccab324460ceb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7318,112 +7437,6 @@
       "creator": "",
       "publisher": "https://www.tiktok.com",
       "id": "79c4961eaa5ba30f70e9ad16"
-    },
-    {
-      "source": "brock-youtube",
-      "label": "Google News indexed: site:youtube.com/@brockkodile Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Brockodile - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQmRRc1NCbzdGQzNQWWRGVFozTFhDU0dOUFFDcUNDUEJGeWktZmR0XzVZeC03ek1QWXlkRWVzanZoUkI4Qk9tbzZOVUk?oc=5",
-      "published": "2026-09-27",
-      "excerpt": "Brockodile YouTube",
-      "creator": "",
-      "id": "5881214054fe8b8eb46bb809"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How to Create a Videogame with Unity For FREE With IA - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MUHZNR0tkNzBCckhsQl9iZXhyM3U3U2wzLWNRS2lqZ0dIenJqNDFIWHl3cXF3ZGlXdGR4MUJ4cnhIRHBQSjluUU5CV3dyMGJqaW9HdUt3?oc=5",
-      "published": "2026-09-27",
-      "excerpt": "How to Create a Videogame with Unity For FREE With IA YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "36175d49ac9835d430c1b47d"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "WE ACCIDENTALLY FOUND THE NEW BIOME IN STEAL AN EGG 😱 #roblox #stealanegg WE UNLOCKED THE SECRET BIOME ACCIDENTALLY! 🌲✨ We stumbled onto Dr. Scramble’s secret portal during the admin abuse stream, def",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14LUZabzdLMUZiNlFGOUFrU21Ec21YZjdTZHotOUQ4NkhEcG1lYUZpWWRnNnpYTE5rV3k1bWFLcUVDRGFObGZmYmpXLS16REIwNEVjZ1JB?oc=5",
-      "published": "2026-09-27",
-      "excerpt": "WE ACCIDENTALLY FOUND THE NEW BIOME IN STEAL AN EGG 😱 #roblox #stealanegg WE UNLOCKED THE SECRET BIOME ACCIDENTALLY! 🌲✨ We stumbled onto Dr. Scramble’s secret portal during the admin abuse stream, defeated the boss, and dis Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "1cf2defe97bf27fd0685972e"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "ใช้ AI สร้างเกม Roblox 3 วันเสร็จ เล่นได้จริง - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WQlRoT0E2dFFrUTcxMkRSU21hVGZtTDE5T0xfSTBPR1I3STBCLXVvNk42d082Q0NkenNhaEo4NHRxcnJCOTJGbFEzTHRBWWZ4RDUzd3J3?oc=5",
-      "published": "2026-09-26",
-      "excerpt": "ใช้ AI สร้างเกม Roblox 3 วันเสร็จ เล่นได้จริง YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "f77b023bbf844b7abcce8d00"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Bocoran Update dr. Scramble's Revenge! Ada 20 Pet Baru! #stealanegg #roblox #robloxfyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQmxjT1hZQjJ3QW11bWhKU2hlbFZxeGtmNzZXYzdYU0N1UFNEa0NiRFlJaDJSblZTU1QwV1didmRFQnQxQnNuYk1fV0lFa1hubUhDSE1R?oc=5",
-      "published": "2026-09-26",
-      "excerpt": "Bocoran Update dr. Scramble's Revenge! Ada 20 Pet Baru! #stealanegg #roblox #robloxfyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "e0c8851d729f2cd8a6a60182"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Can AI Make an Entire Roblox Incremental Game? (Art, 3D Models, Code) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvbkNaTGJoVEdJYmtmWnhHYjA1UWZZa05WMTZMYkk4ZUlxdUNWT1c4OTlwMnRrc3JWMThCcFZQbmljWlRCOTZlY1BqLWZwdG1IUEpGLVZ3?oc=5",
-      "published": "2026-09-26",
-      "excerpt": "Can AI Make an Entire Roblox Incremental Game? (Art, 3D Models, Code) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "dc159c5c28753fa5bd71f4be"
-    },
-    {
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Giving AWAY Hundreds Of OP Eggs With SpyderSammy Steal AN EGG😱🥚",
-      "url": "https://www.youtube.com/watch?v=6FKadZ4IEy4",
-      "published": "2026-09-26",
-      "excerpt": "",
-      "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
-      "id": "d5bee2200c5a3c157642034d"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Admin Abuse 😮‍💨 | Steal an Egg Roblox #roblox #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DblhIU043YU5aWmZaY1ZHZHZzczR5c3hvOGhhclpGWTJJTlFxTENnY2pkREFnWHpKY0tUdEMxS0pXWWc1VnpGQm9nRkVEa1h4bkxocjFn?oc=5",
-      "published": "2026-09-26",
-      "excerpt": "Admin Abuse 😮‍💨 | Steal an Egg Roblox #roblox #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "cafc6e31399e0c81bc1c24b0"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Opus 5.5 + Roblox Studio is Insane. - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibFBRUU13bmJERjRzbU81Q1ZhWG5KRE9wUGZseHhDcnF0TUFXeXgwR2hCZ3pZVHBDVGp4cnRScWduRXpWMVFzYWYzVWhZUURBNE1ENjRn?oc=5",
-      "published": "2026-09-26",
-      "excerpt": "Opus 5.5 + Roblox Studio is Insane. YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "713ccc618f5816fed19fb8e5"
     }
   ]
 }
