@@ -8,10 +8,10 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 177
-- index-only: 241
+- devforum: 181
+- index-only: 236
 - reddit: 151
-- youtube: 29
+- youtube: 30
 
 ## First-Session And Mobile
 
@@ -50,8 +50,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
+- [Add a more efficient way to force players to leave a game rather than just kicking them](https://devforum.roblox.com/t/add-a-more-efficient-way-to-force-players-to-leave-a-game-rather-than-just-kicking-them/4948426) — devforum; **unviewed metadata**. Proposed test: Identify an observed complaint or funnel drop-off, then test one player-facing fix.
 - [Feedback on my new animation pack](https://devforum.roblox.com/t/feedback-on-my-new-animation-pack/4941961) — devforum; **unviewed metadata**. Proposed test: Identify an observed complaint or funnel drop-off, then test one player-facing fix.
-- [50% of Players leave within 2 minutes](https://devforum.roblox.com/t/50-of-players-leave-within-2-minutes/4946893) — devforum; **unviewed metadata**. Proposed test: Identify an observed complaint or funnel drop-off, then test one player-facing fix.
 
 ## Tools And Performance
 

@@ -636,7 +636,13 @@
     "ffb83988cb80e76547e1a1d5",
     "acbd54324ec046a86c8b3d87",
     "4c6462003b1c0b5f0e32d391",
-    "997e23f1b474bb136cf62da5"
+    "997e23f1b474bb136cf62da5",
+    "7b6e7e5e6a893721d2c94941",
+    "122983e95e7ad82eb2a97109",
+    "d772dbd7958a69f2b09f0aa2",
+    "84e49fa10300389359172665",
+    "20a631e13130a127494203db",
+    "9f10b5f89ddb9a121809ab4d"
   ],
   "items": [
     {
@@ -777,6 +783,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/new-roblox-game/4947340.rss",
       "id": "d7c3b66841c98e7eb9f90a05"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I would like to improve my hitbox system",
+      "url": "https://devforum.roblox.com/t/i-would-like-to-improve-my-hitbox-system/4948424",
+      "published": "2026-10-21",
+      "excerpt": "It’s an old system, and I’d like some tips and help on how to improve it function Ataque.M1(Hrp, humanoid) local Frente = 5 local Dano = 10 local Character = Hrp.Parent or humanoid.Parent local Hitbox = Instance.new(\"Part\", workspace) Hitbox.Name = \"Hitbox\" Hitbox.Size = Vector3.new(2.5 ,2.5,2.5) Hi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-would-like-to-improve-my-hitbox-system/4948424.rss",
+      "id": "d772dbd7958a69f2b09f0aa2"
     },
     {
       "source": "roblox-devforum-latest",
@@ -930,6 +948,17 @@
       "id": "ae6c0555370d5c97bad8bece"
     },
     {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "Some nights are longer than others. Nine of them start October 22.",
+      "url": "https://www.youtube.com/shorts/UpH3LQoMitc",
+      "published": "2026-10-21",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "9f10b5f89ddb9a121809ab4d"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -964,6 +993,18 @@
       "id": "86be1a519315d1d8920672ca"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "DevEx page frozen at \"last updated Oct 16\" - US 18+ rate being calculated as legacy rate",
+      "url": "https://devforum.roblox.com/t/devex-page-frozen-at-last-updated-oct-16-us-18-rate-being-calculated-as-legacy-rate/4948407",
+      "published": "2026-10-21",
+      "excerpt": "The DevEx page and billing API show “last updated Oct 16”. On Oct 17 it moved from Oct 15 to Oct 16, then stopped. My payout finished pending on Oct 17 and is flagged “U.S. 18+ rate” on the transactions page. I asked a friend to check his DevEx dashboard and it shows the same “last updated Oct 16”, ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/devex-page-frozen-at-last-updated-oct-16-us-18-rate-being-calculated-as-legacy-rate/4948407.rss",
+      "id": "84e49fa10300389359172665"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -973,6 +1014,18 @@
       "excerpt": "Based on your experience, what was the most effective method you used to learn UI design in Roblox? What sources did you use? Perhaps you could suggest some good YouTube tutorials. Maybe using external sources like Figma is the best way to go, or perhaps there are good Roblox plugins that can be use",
       "creator": "/u/Monster-Games https://www.reddit.com/user/Monster-Games",
       "id": "7bfb0be4523917794e3138d1"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Important TextChatService Updates: How to Test and What’s Next",
+      "url": "https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433",
+      "published": "2026-10-21",
+      "excerpt": "Key Takeaways We’re making chat functionality more native to reduce custom work for each game and enable consistent access to chat features and safety tools for every player. Start testing now and highlight any gaps we can address before the required migration in May 2027. Custom chat features will ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433.rss",
+      "id": "7b6e7e5e6a893721d2c94941"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1218,6 +1271,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/why-are-discord-links-blocked-in-the-bulletin-board-category/4948231.rss",
       "id": "23451ca4ed6de3a8dad1ce80"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add a more efficient way to force players to leave a game rather than just kicking them",
+      "url": "https://devforum.roblox.com/t/add-a-more-efficient-way-to-force-players-to-leave-a-game-rather-than-just-kicking-them/4948426",
+      "published": "2026-10-21",
+      "excerpt": "As a Roblox developer, it is currently too hard to make a player leave through code. Let’s say I have a main menu and there is 3 options, play, settings, and exit. If the player were to click exit, we would have to kick them. That’s currently our only way to make the player leave, and kicking the pl",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-a-more-efficient-way-to-force-players-to-leave-a-game-rather-than-just-kicking-them/4948426.rss",
+      "id": "122983e95e7ad82eb2a97109"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7028,6 +7093,18 @@
       "id": "4a44533463c4fa3464443a2c"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "ChatGPT vs Claude Make A Viral Roblox Game - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nazZTUU10SWNFRmRZMFZwazhfajVqS0R2WDcxVUNCOC1RS0Z1bk9mWU93ZGpTaEt0c05MSzVldjNTVURPYXM2S2JtRFJWTGR0QkpfYl9R?oc=5",
+      "published": "2026-09-28",
+      "excerpt": "ChatGPT vs Claude Make A Viral Roblox Game YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "20a631e13130a127494203db"
+    },
+    {
       "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
       "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
       "category": "Roblox creator / Steal An Egg",
@@ -7328,74 +7405,6 @@
       "creator": "",
       "publisher": "https://www.youtube.com",
       "id": "05e4ce889427359b973a0175"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "look in my story to win 10,000 Robux 🎁 - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qbnJ6eXBseFhva2FmeEtOMDFmaXpMbVNiU28waWNzMFRxQzVDaXk2QzhhV3ZNZXlBYlJNVTNaLXFvSWlacWFjdHRHYjlaVXdoZ3lDR3Jn?oc=5",
-      "published": "2026-09-21",
-      "excerpt": "look in my story to win 10,000 Robux 🎁 Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "ecfebea7b429892d174adce6"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fbWNDQkpGdFM0bkloX2dxRjRuZ2t1SlltdkthbFNNUmhma25LeER6S19UWlAzNXdhZnRla1JwcGlTbk1UeHVhN0tJVlZiU2NnOVZZM1Rn?oc=5",
-      "published": "2026-09-21",
-      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "88eccf8b83b7ac3ec53461cf"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "สอนเขียน Script Roblox ด้วยAI | EP.1 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9faHhtQmV5czFnNEVLdXI4enpCTExiWkY5NGNxU3dpT0xCeG5nZVd3OUk0RGhGR3ZMeC1kUEw4UlZoT2s4RE5sSFR3aHZjYWFnbHdhUThn?oc=5",
-      "published": "2026-09-21",
-      "excerpt": "สอนเขียน Script Roblox ด้วยAI | EP.1 YouTube",
-      "creator": "",
-      "id": "67f600e882012e7c5232e504"
-    },
-    {
-      "source": "brock-youtube",
-      "label": "Google News indexed: site:youtube.com/@brockkodile Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Brockkodile - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WZ09GTTFaUXNWYW9jcXB4dHItMXpVT214WVFqcFZKdjdMelhZVHFUUWhIemc3Mk00ZVQtV3R2NDNBNEhDSEFNRUxJcnNYM0dTYzFfaFpB?oc=5",
-      "published": "2026-09-21",
-      "excerpt": "Brockkodile YouTube",
-      "creator": "",
-      "id": "4b9eb46d91479820a10f46a8"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Making A Satisfying Game in Roblox(The Easy Way)😎 #forgeguipartner #robloxdev #roblox #robloxstudio - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzSWlUWktPUkhUN3JpSGxCdHdGblY0LWJtNHlGZjNOUmxzNWJsQk8xUi1sem8yeEwtMEk4cm9QUjJNdWF1YXhOSWNVczc5UzBiOWVhZ1ZR?oc=5",
-      "published": "2026-09-21",
-      "excerpt": "Making A Satisfying Game in Roblox(The Easy Way)😎 #forgeguipartner #robloxdev #roblox #robloxstudio YouTube",
-      "creator": "",
-      "id": "0ed38a5b109dd769a8ed36e3"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "STOP PLAYING STEAL AN EGG…😭💔 #stealanegg #roblox #gaming - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HRFBtVEFhdVNfRFAxMHlxWXRoMEUxNlNrVGZYVmE5MDBRWVFGU3UyLVlvMzExLUIzS3hNU3pwTXBjQm9aWUN1WGhVRENDODBMMlF1dmh3?oc=5",
-      "published": "2026-09-20",
-      "excerpt": "STOP PLAYING STEAL AN EGG…😭💔 #stealanegg #roblox #gaming Instagram",
-      "creator": "",
-      "id": "f4bbfef1f8c7805d3bdd8130"
     }
   ]
 }

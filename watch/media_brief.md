@@ -5,31 +5,27 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Build / 3D Examples
+## Roblox Creator / Ai Development
 
-- **["Ill Pay you 20,000 to Copy This Mobile Game"](https://www.youtube.com/watch?v=wOsgHv8G6EI)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-09-11
-- **[RoBuilder - Still Broke](https://www.youtube.com/watch?v=HDFsSxnm-Ak)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-09-16
-
-## Roblox Creator / Steal An Egg
-
-- **[#steal #roblox #egg #stealanegg #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/7HJPfqoGHtg)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-12
-- **[#steal #stealanegg #roblox #egg #youtubeshorts #gaming #funny #troll #prank #owner](https://www.youtube.com/shorts/Wc1PBlewYEA)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-12
-
-## Community
-
-- **[All these wanna be developers are annoying](https://www.reddit.com/r/ROBLOXStudio/comments/1xbr3jx/all_these_wanna_be_developers_are_annoying/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Am I the only one noticing how so many people are just trying to earn money off of "slop" games? Like none of them are gonna succeed but they take up the algorithm. This takes away from actual developers that spend months on their work only
-- **[Loot the Lab — steal creatures, run through traps, don’t get robbed](https://www.reddit.com/r/ROBLOXStudio/comments/1xbs4rn/loot_the_lab_steal_creatures_run_through_traps/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Solo dev here. Loot the Lab: you grab a creature crate in the lab and run it back to your base before someone punches it out of your hands. The twist: on the way back you pick your path. The grey corridor is long and safe. The other corrido
-- **[i have a proplem with scripting](https://www.reddit.com/r/ROBLOXStudio/comments/1xbrwx2/i_have_a_proplem_with_scripting/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: so i watched somone called brawldev up to his vidio about tasks and youc an ask me so good like aynthing (exzept somwaht function if somone culd explain the anynumos one i wuld be greatfull) and i culd tell you what it means or hwo the scri
+- **[ChatGPT vs Claude Make A Viral Roblox Game - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nazZTUU10SWNFRmRZMFZwazhfajVqS0R2WDcxVUNCOC1RS0Z1bk9mWU93ZGpTaEt0c05MSzVldjNTVURPYXM2S2JtRFJWTGR0QkpfYl9R?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-28
+  - Feed excerpt: ChatGPT vs Claude Make A Viral Roblox Game YouTube
 
 ## Roblox Updates
 
-- **[ControllerManager has very inconsistent replication behavior](https://devforum.roblox.com/t/controllermanager-has-very-inconsistent-replication-behavior/4948346)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: On my machine, there’s a 50/50 chance that setting values on the ControllerManager will be replicated. Video: The following things were done: the model is renamed to “ASDFGHJKL” to show that replication is active the controller’s BaseMoveSp
-- **[Universal Game Development Tool Kit](https://devforum.roblox.com/t/universal-game-development-tool-kit/4948318)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: (This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked \| Discord: U.G.D \| Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is desig
+- **[Add a more efficient way to force players to leave a game rather than just kicking them](https://devforum.roblox.com/t/add-a-more-efficient-way-to-force-players-to-leave-a-game-rather-than-just-kicking-them/4948426)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: As a Roblox developer, it is currently too hard to make a player leave through code. Let’s say I have a main menu and there is 3 options, play, settings, and exit. If the player were to click exit, we would have to kick them. That’s current
+- **[DevEx page frozen at "last updated Oct 16" - US 18+ rate being calculated as legacy rate](https://devforum.roblox.com/t/devex-page-frozen-at-last-updated-oct-16-us-18-rate-being-calculated-as-legacy-rate/4948407)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: The DevEx page and billing API show “last updated Oct 16”. On Oct 17 it moved from Oct 15 to Oct 16, then stopped. My payout finished pending on Oct 17 and is flagged “U.S. 18+ rate” on the transactions page. I asked a friend to check his D
+- **[I would like to improve my hitbox system](https://devforum.roblox.com/t/i-would-like-to-improve-my-hitbox-system/4948424)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: It’s an old system, and I’d like some tips and help on how to improve it function Ataque.M1(Hrp, humanoid) local Frente = 5 local Dano = 10 local Character = Hrp.Parent or humanoid.Parent local Hitbox = Instance.new("Part", workspace) Hitbo
+- **[Important TextChatService Updates: How to Test and What’s Next](https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Key Takeaways We’re making chat functionality more native to reduce custom work for each game and enable consistent access to chat features and safety tools for every player. Start testing now and highlight any gaps we can address before th
+- **[Important TextChatService Updates: How to Test and What’s Next](https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433)** · Roblox updates category (availability may vary) · 2026-10-21
+  - Feed excerpt: Key Takeaways We’re making chat functionality more native to reduce custom work for each game and enable consistent access to chat features and safety tools for every player. Start testing now and highlight any gaps we can address before th
+
+## Youtube
+
+- **[Some nights are longer than others. Nine of them start October 22.](https://www.youtube.com/shorts/UpH3LQoMitc)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-21
 
 ---
 
