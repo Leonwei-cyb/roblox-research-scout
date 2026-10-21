@@ -1,6 +1,6 @@
 {
-  "records_read": 586,
-  "unique_posts": 585,
+  "records_read": 593,
+  "unique_posts": 591,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -118,6 +118,21 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile",
+        "UI and menus",
+        "tools and performance"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947643:1",
+      "url": "https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643",
+      "title": "Officially Deprecate LocalScript in Studio's Insert Object Menu",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "physical tycoon purchases",
         "UI and menus",
         "tools and performance"
       ],
@@ -3101,6 +3116,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xbes4j",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbes4j/im_making_an_openworld_scifi_lootershooter_in/",
+      "title": "I'm making an open-world sci-fi looter-shooter in Roblox! Here's my progress so far.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4644181:2",
       "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/2",
       "title": "What are you working on currently? (2026 Edition)",
@@ -3728,6 +3756,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4947590:1",
+      "url": "https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590",
+      "title": "Trailer Video follows Video Quality Guidelines and gets denied",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947593:1",
+      "url": "https://devforum.roblox.com/t/what-should-i-add/4947593",
+      "title": "What should i add?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -4281,6 +4331,28 @@
       "key": "reddit:1xbapek",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbapek/rigging_problems/",
       "title": "Rigging problems",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbe2ow",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbe2ow/is_it_normal_to_play_a_level_from_a_game_made_by/",
+      "title": "Is it normal to play a level from a game made by me and being scared knowing there's nothing to be afraid of?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbemhn",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbemhn/game_idea/",
+      "title": "game idea",
       "source": "reddit-robloxstudio",
       "published": "2026-10-21",
       "kind": "reddit",

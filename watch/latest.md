@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Release:** [ollama/ollama](https://github.com/ollama/ollama) v0.40.6 → v0.40.7.
+- **Unreviewed lead:** [AppitStudio/awesome-jev](https://github.com/AppitStudio/awesome-jev) (108 stars). Curated Jev resources and runnable examples for typed AI decisions.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

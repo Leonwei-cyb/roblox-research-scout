@@ -586,7 +586,14 @@
     "48cd55c60ec016e3c4f7d7c8",
     "c237d11e5fb03a7608690d86",
     "d505abf54a5852970ed207da",
-    "f6e07091ae9f6af0837e69b3"
+    "f6e07091ae9f6af0837e69b3",
+    "bc1827cdfb4403f84914b475",
+    "df6c45ec0de4e7788427400c",
+    "54da3eec96c5f62a290cf939",
+    "532b829ed52bfc09ad617954",
+    "e977fa8311b98a8dcd480684",
+    "f75f5075090df5322daa9d9b",
+    "6022239f221d1ddfde9f3e1c"
   ],
   "items": [
     {
@@ -616,6 +623,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Is it normal to play a level from a game made by me and being scared knowing there's nothing to be afraid of?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbe2ow/is_it_normal_to_play_a_level_from_a_game_made_by/",
+      "published": "2026-10-21",
+      "excerpt": "Sneak from my game btw submitted by /u/Sentuva [link] [comments]",
+      "creator": "/u/Sentuva https://www.reddit.com/user/Sentuva",
+      "id": "f75f5075090df5322daa9d9b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "How do i get a game popular?",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbd51e/how_do_i_get_a_game_popular/",
       "published": "2026-10-21",
@@ -627,12 +645,35 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "I'm making an open-world sci-fi looter-shooter in Roblox! Here's my progress so far.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbes4j/im_making_an_openworld_scifi_lootershooter_in/",
+      "published": "2026-10-21",
+      "excerpt": "I've been working on an open-world sci-fi looter-shooter in Roblox Studio. So far, I've built a movement system, weapons, armour customization, enemy AI, and a floating companion called the Shard. I'm going for a blocky sci-fi art style, with plans to eventually add multiple open worlds, missions, r",
+      "creator": "/u/Dry_Plankton6642 https://www.reddit.com/user/Dry_Plankton6642",
+      "id": "e977fa8311b98a8dcd480684"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Rigging problems",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbapek/rigging_problems/",
       "published": "2026-10-21",
       "excerpt": "Anyone know why this is happening? submitted by /u/TaMk42 [link] [comments]",
       "creator": "/u/TaMk42 https://www.reddit.com/user/TaMk42",
       "id": "e0015ca26636db277a0282b4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What should i add?",
+      "url": "https://devforum.roblox.com/t/what-should-i-add/4947593",
+      "published": "2026-10-21",
+      "excerpt": "Heres what made so far Video What should i add? Let your imagination let free! 4 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-should-i-add/4947593.rss",
+      "id": "df6c45ec0de4e7788427400c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -694,6 +735,18 @@
       "id": "c118e7688921bdf6acb1a3f4"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Officially Deprecate LocalScript in Studio's Insert Object Menu",
+      "url": "https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643",
+      "published": "2026-10-21",
+      "excerpt": "Officially Deprecate LocalScript in Studio’s Insert Object Menu I would like to request that Roblox officially deprecate the LocalScript instance in Studio’s Insert Object menu and instead encourage developers to use a regular Script with RunContext set to Client This builds upon the existing Live S",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643.rss",
+      "id": "bc1827cdfb4403f84914b475"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -723,7 +776,7 @@
       "title": "LinearVelocity Velocity = Vector.zero not working on ground",
       "url": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408",
       "published": "2026-10-21",
-      "excerpt": "I wanted to make the player get forced to certain position (such as move a bit forward with attack) and stop the player from moving away so I Used LinearVelocity, but it seems to be bugging on the ground, it causes the character to rotate and move towards anywhere else but the same position Video: 4",
+      "excerpt": "I wanted to make the player get forced to certain position (such as move a bit forward with attack) and stop the player from moving away so I Used LinearVelocity, but it seems to be bugging on the ground, it causes the character to rotate and move towards anywhere else but the same position Video: 5",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408.rss",
       "id": "67337b4c14e12e01f6b97d3c"
@@ -739,6 +792,41 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409.rss",
       "id": "62091f636f6db8149725b155"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "game idea",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbemhn/game_idea/",
+      "published": "2026-10-21",
+      "excerpt": "If i made a game today about quick round based fighting free for all. visually simple cartoony low poly with more serious undertoned color palette. Fast paced, brawlhalla vibe where you either die by getting knocked off a large arena, or if your health depletes. 3 different playstyles that differs i",
+      "creator": "/u/floppedmind https://www.reddit.com/user/floppedmind",
+      "id": "6022239f221d1ddfde9f3e1c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Trailer Video follows Video Quality Guidelines and gets denied",
+      "url": "https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590",
+      "published": "2026-10-21",
+      "excerpt": "To the best of my knowledge, my video trailer follows the guidelines listed in the documentation tab and has still been denied twice by the AI moderation. All of the footage was screen-recorded in-game, and the 3 or 4 freecam shots simply showcase the gameplay from a different perspective. I contact",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590.rss",
+      "id": "54da3eec96c5f62a290cf939"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Global shadows from sun do not disappear with specific properties",
+      "url": "https://devforum.roblox.com/t/global-shadows-from-sun-do-not-disappear-with-specific-properties/4947525",
+      "published": "2026-10-21",
+      "excerpt": "Recently, Soft lighting appears to not work well with the Global Shadows bool. In the video below, Global shadows disappear when I have realistic lighting but not with soft lighting. It was working last week, but this week it appears to have broken soft lighting with no global shadows. It seems to h",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/global-shadows-from-sun-do-not-disappear-with-specific-properties/4947525.rss",
+      "id": "532b829ed52bfc09ad617954"
     },
     {
       "source": "roblox-devforum-latest",
