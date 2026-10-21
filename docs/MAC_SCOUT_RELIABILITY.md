@@ -81,3 +81,14 @@ fetch and rebase. Known GitHub token values are redacted from collector log outp
 before truncation, and inherited token values are redacted from log/error messages.
 This is defense against accidental output, not a sandbox against malicious code:
 main-branch scripts and tests still execute with the runner account's privileges.
+
+## Independent review recovery fix
+
+Independent review of head `939bcbd16018cdfd5379f5d43dffc238fbdadf60`
+found that checkout could fail before cleanup when an interrupted collector left
+report edits and remote main subsequently changed the same report. Synchronization
+now aborts a residual rebase, resets tracked edits and removes untracked output in
+the dedicated runner clone before switching to fetched main. Disposable-repository
+tests cover dirty-report recovery and an interrupted conflicting rebase. This
+cleanup is only for the existing runner-owned clone, never a developer checkout.
+The installed runner is unchanged.

@@ -57,6 +57,45 @@ class ReliabilityTests(unittest.TestCase):
         self.git('remote', 'add', 'origin', str(self.remote))
         self.git('push', '-u', 'origin', 'main')
 
+    def test_sync_recovers_dirty_reports_after_remote_advances(self):
+        self.init_git()
+        other = self.root / 'other'
+        subprocess.run(['git', 'clone', '-b', 'main', str(self.remote), str(other)], check=True, capture_output=True)
+        self.git('config', 'user.name', 'Offline test', cwd=other)
+        self.git('config', 'user.email', 'test@example.invalid', cwd=other)
+        (other / 'watch/report.txt').write_text('remote edit\n')
+        self.git('add', '.', cwd=other)
+        self.git('commit', '-m', 'remote report', cwd=other)
+        self.git('push', cwd=other)
+        (self.repo / 'watch/report.txt').write_text('interrupted local report\n')
+        (self.repo / 'watch/untracked.txt').write_text('partial output')
+        scout.sync_repo()
+        self.assertEqual('remote edit\n', (self.repo / 'watch/report.txt').read_text())
+        self.assertEqual('', self.git('status', '--porcelain'))
+        self.assertEqual(self.git('rev-parse', 'refs/heads/main', cwd=self.remote), self.git('rev-parse', 'HEAD'))
+
+    def test_sync_recovers_interrupted_rebase(self):
+        self.init_git()
+        other = self.root / 'other'
+        subprocess.run(['git', 'clone', '-b', 'main', str(self.remote), str(other)], check=True, capture_output=True)
+        self.git('config', 'user.name', 'Offline test', cwd=other)
+        self.git('config', 'user.email', 'test@example.invalid', cwd=other)
+        (other / 'watch/report.txt').write_text('remote edit\n')
+        self.git('add', '.', cwd=other)
+        self.git('commit', '-m', 'remote report', cwd=other)
+        self.git('push', cwd=other)
+        (self.repo / 'watch/report.txt').write_text('local commit\n')
+        self.git('add', '.')
+        self.git('commit', '-m', 'unpublished report')
+        self.git('fetch', 'origin', 'main')
+        result = subprocess.run(['git', '-C', str(self.repo), 'rebase', 'origin/main'], capture_output=True)
+        self.assertNotEqual(0, result.returncode)
+        scout.sync_repo()
+        self.assertFalse((self.repo / '.git/rebase-merge').exists())
+        self.assertFalse((self.repo / '.git/rebase-apply').exists())
+        self.assertEqual('', self.git('status', '--porcelain'))
+        self.assertEqual(self.git('rev-parse', 'refs/heads/main', cwd=self.remote), self.git('rev-parse', 'HEAD'))
+
     def test_publication_unchanged_and_success(self):
         self.init_git()
         self.assertEqual('unchanged', scout.publish(['watch/'], 'report')['status'])

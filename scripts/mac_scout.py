@@ -105,6 +105,14 @@ def sync_repo():
         os.makedirs(os.path.dirname(REPO), exist_ok=True)
         subprocess.run(["git", "clone", "-q", REMOTE, REPO], check=True, capture_output=True, timeout=300)
     git("fetch", "-q", "origin", "main")
+    # Interrupted collectors can leave tracked/untracked report edits. A prior
+    # interrupted publication can also leave a conflicted rebase. Recover this
+    # runner-owned clone before checkout, which otherwise rejects those edits.
+    if any(os.path.isdir(os.path.join(REPO, ".git", state))
+           for state in ("rebase-merge", "rebase-apply")):
+        git("rebase", "--abort")
+    git("reset", "-q", "--hard", "HEAD")
+    git("clean", "-q", "-fd")
     git("checkout", "-q", "-B", "main", "origin/main")
     git("reset", "-q", "--hard", "origin/main")
     git("clean", "-q", "-fd")
