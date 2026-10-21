@@ -25,5 +25,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
+- **[Looking for Playtesters! Pixel Anime MMO](https://www.reddit.com/r/ROBLOXStudio/comments/1xbp52f/looking_for_playtesters_pixel_anime_mmo/)** — Public text/page, video not confirmed
 - **[Scratch-style Coding Tool](https://www.reddit.com/r/robloxgamedev/comments/1xahmwy/scratchstyle_coding_tool/)** — Public text/page, video not confirmed
-- **[Looking for playtesters for our new Roblox game](https://www.reddit.com/r/ROBLOXStudio/comments/1xaz17k/looking_for_playtesters_for_our_new_roblox_game/)** — Public text/page, video not confirmed

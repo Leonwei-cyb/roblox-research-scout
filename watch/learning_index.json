@@ -457,19 +457,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:7HJPfqoGHtg",
-      "url": "https://www.youtube.com/shorts/7HJPfqoGHtg",
-      "title": "#steal #roblox #egg #stealanegg #youtubeshorts #robloxshorts",
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "published": "2026-09-12",
-      "kind": "youtube",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "youtube:BiIAmVN6r2M",
       "url": "https://www.youtube.com/watch?v=BiIAmVN6r2M",
       "title": "Terrain Reimagined: An Early Preview | RDC 2026",
@@ -504,19 +491,6 @@
       "kind": "youtube",
       "signals": [
         "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:Wc1PBlewYEA",
-      "url": "https://www.youtube.com/shorts/Wc1PBlewYEA",
-      "title": "#steal #stealanegg #roblox #egg #youtubeshorts #gaming #funny #troll #prank #owner",
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "published": "2026-09-12",
-      "kind": "youtube",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -621,19 +595,6 @@
       "kind": "youtube",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:wOsgHv8G6EI",
-      "url": "https://www.youtube.com/watch?v=wOsgHv8G6EI",
-      "title": "\"Ill Pay you 20,000 to Copy This Mobile Game\"",
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "published": "2026-09-11",
-      "kind": "youtube",
-      "signals": [
-        "first-session and mobile"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -789,6 +750,20 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4948295:1",
+      "url": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295",
+      "title": "How do I make M1 attack less sensitive on mobile",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
         "tools and performance"
       ],
       "score": 6,
@@ -1399,6 +1374,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4948299:1",
+      "url": "https://devforum.roblox.com/t/game-review-a-drawing-game/4948299",
+      "title": "Game review: a drawing game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -1776,6 +1764,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xbq9cj",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbq9cj/what_is_the_best_way_of_learning_ui_design/",
+      "title": "What is the best way of learning UI design?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4910267:1",
       "url": "https://devforum.roblox.com/t/weekly-recap-september-28%E2%80%93october-2-2026/4910267",
       "title": "Weekly Recap: September 28–October 2, 2026",
@@ -2105,17 +2106,6 @@
       "title": "I Made 4 Roblox Games in 12 Hours with This AI..",
       "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
       "published": "2026-10-18",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:HDFsSxnm-Ak",
-      "url": "https://www.youtube.com/watch?v=HDFsSxnm-Ak",
-      "title": "RoBuilder - Still Broke",
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "published": "2026-09-16",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -3787,6 +3777,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4948231:1",
+      "url": "https://devforum.roblox.com/t/why-are-discord-links-blocked-in-the-bulletin-board-category/4948231",
+      "title": "Why are Discord links blocked in the Bulletin Board category?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -4403,6 +4404,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xbp52f",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbp52f/looking_for_playtesters_pixel_anime_mmo/",
+      "title": "Looking for Playtesters! Pixel Anime MMO",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV?oc=5",
       "title": "Dan Kornas (@DanKornas) - X",
@@ -4661,6 +4673,19 @@
         "physical tycoon purchases",
         "UI and menus",
         "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE04LUhEM0ZKU0VLcFBDVnVmM1dTZG94M1J6bEI4OTNqenZZVXlheGN3SWx4VTJXZ3YxTGdGdk5sTWF2OW1Ib1ktN0FHX05zeXNGelc5REln",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04LUhEM0ZKU0VLcFBDVnVmM1dTZG94M1J6bEI4OTNqenZZVXlheGN3SWx4VTJXZ3YxTGdGdk5sTWF2OW1Ib1ktN0FHX05zeXNGelc5REln?oc=5",
+      "title": "🎁Look in my story for free eggs 🎁 Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-10-15",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -5471,19 +5496,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE94WGNtYmUtYVpKcXBnNmM3R2ZSeFZIbVRram1iQVFaN2pmQ2N0a1BRVEV1bkFXU0dSSE9CbkJKMHRZY1czU0V2Vm83UFlmbTJNeXo2UHdn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94WGNtYmUtYVpKcXBnNmM3R2ZSeFZIbVRram1iQVFaN2pmQ2N0a1BRVEV1bkFXU0dSSE9CbkJKMHRZY1czU0V2Vm83UFlmbTJNeXo2UHdn?oc=5",
-      "title": "All location Drone Parts in Steal an egg #roblox #stealanegg #brainrot #guide - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-09-19",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE96RTI4VzJ4ckYxN0VWOUs2RTlYY2JvQUlaeHlNdWVZckdDVmV2RGMwT2tOWklHZ2ZaY1FHclNxWFlOdFZxZVBkb2tWUF9PX3kwNHBoVGxn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96RTI4VzJ4ckYxN0VWOUs2RTlYY2JvQUlaeHlNdWVZckdDVmV2RGMwT2tOWklHZ2ZaY1FHclNxWFlOdFZxZVBkb2tWUF9PX3kwNHBoVGxn?oc=5",
       "title": "watching rows of tiles disappear as the next brick disappears - YouTube",
@@ -6103,19 +6115,6 @@
       "published": "2026-10-05",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBRTVFWd3VuLVFvWklVUmo3clZrSGs3RGItWWMyeXJ1TTVBNl9DdFdxRVJKaUduREk4WHNJRDRzMmIwY2ozUkExOUo5Q0RUckpRVkxlOWd3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRTVFWd3VuLVFvWklVUmo3clZrSGs3RGItWWMyeXJ1TTVBNl9DdFdxRVJKaUduREk4WHNJRDRzMmIwY2ozUkExOUo5Q0RUckpRVkxlOWd3?oc=5",
-      "title": "😱חדר סודי בתוך חדר סודי ב־Steal an Egg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-09-19",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

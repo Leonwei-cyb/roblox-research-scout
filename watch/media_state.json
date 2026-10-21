@@ -619,7 +619,15 @@
     "4e135d275471d4ee2a4c059a",
     "39c24fb8490f2fad7ecd3074",
     "40cdb09f68d021cb505a7d65",
-    "9eac13d4061f209dd6a3d7ff"
+    "9eac13d4061f209dd6a3d7ff",
+    "4c1660ea7d835ceb6115b1f6",
+    "e9bef1a69f217b9fdde41d4a",
+    "23451ca4ed6de3a8dad1ce80",
+    "7bfb0be4523917794e3138d1",
+    "9168ed898159aab79783298f",
+    "470f3650aee837d04809039a",
+    "d75e173f46e169c7cbc54a4d",
+    "512a0ecc1137d6177daadad1"
   ],
   "items": [
     {
@@ -666,6 +674,18 @@
       "excerpt": "I recently have wanted to make a clicker style game, mixed with hide and seek, no, not vibe coded, i’d say i already have a little of the progress down, i have a shop gui, a cash display, the click button, a cash system and some upgrades, but roblox is genuinely filled to the brim with games, how wo",
       "creator": "/u/Lucky-Improvement-25 https://www.reddit.com/user/Lucky-Improvement-25",
       "id": "f6e07091ae9f6af0837e69b3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How do I make M1 attack less sensitive on mobile",
+      "url": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295",
+      "published": "2026-10-21",
+      "excerpt": "punch script works good on pc but it’s way too sensitive on mobile walking, rotating the camera, and just clicking buttons triggers it and that’s really annoying UIS.InputBegan:Connect(function(input, ev) if ev or ONCOOLDOWN then return end if input.UserInputType == Enum.UserInputType.MouseButton1 o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295.rss",
+      "id": "e9bef1a69f217b9fdde41d4a"
     },
     {
       "source": "reddit-robloxstudio",
@@ -813,7 +833,7 @@
       "title": "Experience doesnt have permission to use bug",
       "url": "https://devforum.roblox.com/t/experience-doesnt-have-permission-to-use-bug/4948114",
       "published": "2026-10-21",
-      "excerpt": "I have been trying to make my boombox play other creator’s musics like in other popular games with boomboxes. Failed many times. How can i fix this? 2 posts - 2 participants Read full topic",
+      "excerpt": "I have been trying to make my boombox play other creator’s musics like in other popular games with boomboxes. Failed many times. How can i fix this? 3 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/experience-doesnt-have-permission-to-use-bug/4948114.rss",
       "id": "c233663908ce2376dce7b1f5"
@@ -855,6 +875,17 @@
       "id": "ae6c0555370d5c97bad8bece"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for Playtesters! Pixel Anime MMO",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbp52f/looking_for_playtesters_pixel_anime_mmo/",
+      "published": "2026-10-21",
+      "excerpt": "Looking for Playtesters! Pixel Anime MMO https://www.roblox.com/games/89188392350363/Pixel-Anime#!/ submitted by /u/Redacted-Writer [link] [comments]",
+      "creator": "/u/Redacted-Writer https://www.reddit.com/user/Redacted-Writer",
+      "id": "9168ed898159aab79783298f"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -876,6 +907,17 @@
       "excerpt": "Hey, I just released a tower defense game called Bobblefall Defense. You summon units, build a team, and climb tower floors against bosses, and there's a limited-time Halloween event running now. It's still in beta, and right now I mainly want people to test it and tell me what needs work: balance, ",
       "creator": "/u/Aggravating_Idea9614 https://www.reddit.com/user/Aggravating_Idea9614",
       "id": "86be1a519315d1d8920672ca"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "What is the best way of learning UI design?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbq9cj/what_is_the_best_way_of_learning_ui_design/",
+      "published": "2026-10-21",
+      "excerpt": "Based on your experience, what was the most effective method you used to learn UI design in Roblox? What sources did you use? Perhaps you could suggest some good YouTube tutorials. Maybe using external sources like Figma is the best way to go, or perhaps there are good Roblox plugins that can be use",
+      "creator": "/u/Monster-Games https://www.reddit.com/user/Monster-Games",
+      "id": "7bfb0be4523917794e3138d1"
     },
     {
       "source": "reddit-robloxstudio",
@@ -998,6 +1040,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Game review: a drawing game",
+      "url": "https://devforum.roblox.com/t/game-review-a-drawing-game/4948299",
+      "published": "2026-10-21",
+      "excerpt": "I made a game where the players can draw stuff by walking around, it was supposed to be a silly project just to show off to friends but it started gaining some players I got a tiny problem. I’m not sure on what to add to keep people playing since it gets really boring if you are alone, also I wanna ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-review-a-drawing-game/4948299.rss",
+      "id": "4c1660ea7d835ceb6115b1f6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[OPEN] Animator / VFX Artist needed for Action MMORPG",
       "url": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560",
       "published": "2026-10-21",
@@ -1086,6 +1140,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/oauth-20-app-for-a-staff-only-moderation-site-rejected-as-app-cannot-be-reviewed/4947476.rss",
       "id": "256dc530e8e5464dea12d8e1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Why are Discord links blocked in the Bulletin Board category?",
+      "url": "https://devforum.roblox.com/t/why-are-discord-links-blocked-in-the-bulletin-board-category/4948231",
+      "published": "2026-10-21",
+      "excerpt": "I’m wondering why developers are unable to post Discord links in the Bulletin Board category. While looking into this, I came across the About Bulletin Board Category post. In that post, there is a list of domains that are allowed in the Bulletin Board category, and Discord links appear to be permit",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/why-are-discord-links-blocked-in-the-bulletin-board-category/4948231.rss",
+      "id": "23451ca4ed6de3a8dad1ce80"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4807,6 +4873,18 @@
       "id": "4ca0ee8fc6b9bf18929d01de"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "🎁Look in my story for free eggs 🎁 Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04LUhEM0ZKU0VLcFBDVnVmM1dTZG94M1J6bEI4OTNqenZZVXlheGN3SWx4VTJXZ3YxTGdGdk5sTWF2OW1Ib1ktN0FHX05zeXNGelc5REln?oc=5",
+      "published": "2026-10-15",
+      "excerpt": "🎁Look in my story for free eggs 🎁 Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "470f3650aee837d04809039a"
+    },
+    {
       "source": "tiktok-index",
       "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
       "category": "TikTok indexed leads",
@@ -7308,72 +7386,6 @@
       "excerpt": "管理者秘密の部屋の入り方！裏技 | 卵を盗む！Steal an Egg(Roblox)#卵を盗む #ロブロックス #stealanegg #robloxshorts Instagram",
       "creator": "",
       "id": "2c36f8b9fdc2e5bba5069544"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "All location Drone Parts in Steal an egg #roblox #stealanegg #brainrot #guide - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94WGNtYmUtYVpKcXBnNmM3R2ZSeFZIbVRram1iQVFaN2pmQ2N0a1BRVEV1bkFXU0dSSE9CbkJKMHRZY1czU0V2Vm83UFlmbTJNeXo2UHdn?oc=5",
-      "published": "2026-09-19",
-      "excerpt": "All location Drone Parts in Steal an egg #roblox #stealanegg #brainrot #guide Instagram",
-      "creator": "",
-      "id": "89c46cfacfdb485a63008136"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "😱חדר סודי בתוך חדר סודי ב־Steal an Egg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRTVFWd3VuLVFvWklVUmo3clZrSGs3RGItWWMyeXJ1TTVBNl9DdFdxRVJKaUduREk4WHNJRDRzMmIwY2ozUkExOUo5Q0RUckpRVkxlOWd3?oc=5",
-      "published": "2026-09-19",
-      "excerpt": "😱חדר סודי בתוך חדר סודי ב־Steal an Egg Instagram",
-      "creator": "",
-      "id": "052c038cb2c3bd5ef7e67bdc"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "RoBuilder - Still Broke",
-      "url": "https://www.youtube.com/watch?v=HDFsSxnm-Ak",
-      "published": "2026-09-16",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "e40cdd3f67b881a5116a93a2"
-    },
-    {
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "#steal #stealanegg #roblox #egg #youtubeshorts #gaming #funny #troll #prank #owner",
-      "url": "https://www.youtube.com/shorts/Wc1PBlewYEA",
-      "published": "2026-09-12",
-      "excerpt": "",
-      "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
-      "id": "4e7f075a65171378cb32a81e"
-    },
-    {
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "#steal #roblox #egg #stealanegg #youtubeshorts #robloxshorts",
-      "url": "https://www.youtube.com/shorts/7HJPfqoGHtg",
-      "published": "2026-09-12",
-      "excerpt": "",
-      "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
-      "id": "46a8347703b2cf60bb551b5b"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "\"Ill Pay you 20,000 to Copy This Mobile Game\"",
-      "url": "https://www.youtube.com/watch?v=wOsgHv8G6EI",
-      "published": "2026-09-11",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "dbcdc1b91e0af87eb2fa2bdf"
     }
   ]
 }

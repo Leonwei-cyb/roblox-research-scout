@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "2cd63f7a15039ccd790e97b31edc091fa1707c56",
-      "head_subject": "mlx: deduplicate CUDA runtime payloads (#17956)",
+      "head": "f580b5484a58c8370c35d669555bf887783a3f68",
+      "head_subject": "mlx: add Flint model support (#19181)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.7",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
