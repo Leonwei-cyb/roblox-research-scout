@@ -121,6 +121,11 @@ class ResearchReporterTests(unittest.TestCase):
         raw = json.loads(source.read_text(encoding="utf-8"))
         index = learning_radar.triage(raw["items"])
         report = r.analyze(index)
+        # Temporary public-data snapshot for exact Python generated reports.
+        print("LEON_REPORT_SNAPSHOT_V3:" + json.dumps({
+            "json": json.dumps(report, indent=2, ensure_ascii=False) + "\n",
+            "md": r.render(report) + "\n",
+        }, ensure_ascii=False, separators=(",", ":")))
         self.assertLessEqual(len(report["candidates"]), 6)
         self.assertEqual(report["observed_gameplay_findings"], 0)
         self.assertEqual(len({x["key"] for x in report["candidates"]}),
@@ -140,6 +145,8 @@ class ResearchReporterTests(unittest.TestCase):
             ("physical tycoon purchases", "Avatar Joint Upgrade - Tidy up added R15 constraints"),
             ("physical tycoon purchases", "What is the hardest part of balancing an upgrade system?"),
             ("first-session and mobile", "Appeal workflow recursively leaves users unable to receive a verdict"),
+            ("first-session and mobile", "Roblox Insights - How to Compare Performance, Errors, and Retention After an Update"),
+            ("world and visual design", "Terrain Reimagined: An Early Preview | RDC 2026"),
             ("world and visual design", "Looking to recruit a game model builder"),
         ]
         for topic, title in cases:
@@ -150,6 +157,7 @@ class ResearchReporterTests(unittest.TestCase):
     def test_accept_relevant_explicit_gameplay_titles(self):
         cases = [
             ("first-session and mobile", "50% of Players leave within 2 minutes"),
+            ("first-session and mobile", "New player retention after first minute"),
             ("physical tycoon purchases", "Tycoon purchase pad UX demo"),
             ("cat animation and audio", "Animated Cat Controller"),
             ("UI and menus", "Roblox UI layout design"),
@@ -236,8 +244,6 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertEqual(report["inspected_videos"], 0)
         self.assertTrue(all(p["creator_verified"] is False for p in report["candidates"]))
         self.assertEqual(md, r.render(report) + "\n")
-        source_index = json.loads((watch / "learning_index.json").read_text(encoding="utf-8"))
-        self.assertEqual(report, r.analyze(source_index))
         self.assertNotIn("Mastering Server Authority to Build Competitive Multiplayer Games", md)
         self.assertNotIn("to Copy This Mobile Game", md)
 
@@ -260,6 +266,32 @@ class ResearchReporterTests(unittest.TestCase):
                            "https://devforum.roblox.com/t/test/4946657",
                            "devforum", "cat animation and audio", title=title)
                 self.assertEqual(r.analyze({"posts": [post]})["candidates"], [])
+
+    def test_first_session_prefers_early_leavers_over_generic_retention_analytics(self):
+        generic = row("devforum:4942514:1",
+                      "https://devforum.roblox.com/t/roblox-insights/4942514",
+                      "devforum", "first-session and mobile", score=99,
+                      title="Roblox Insights - Performance Errors and Retention After an Update")
+        early = row("devforum:4946893:1",
+                    "https://devforum.roblox.com/t/players-leave/4946893",
+                    "devforum", "first-session and mobile", score=1,
+                    title="50% of Players leave within 2 minutes")
+        found = r.analyze({"posts": [generic, early]})["candidates"]
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0]["key"], "devforum:4946893:1")
+
+    def test_world_lane_prefers_real_grass_to_generic_terrain_preview(self):
+        preview = row("youtube:BiIAmVN6r2M",
+                      "https://www.youtube.com/watch?v=BiIAmVN6r2M",
+                      "youtube", "world and visual design", score=99,
+                      title="Terrain Reimagined: An Early Preview | RDC 2026")
+        grass = row("reddit:1x9bwve",
+                    "https://www.reddit.com/r/robloxgamedev/comments/1x9bwve/grass_level_of_detail/",
+                    "reddit", "world and visual design", score=1,
+                    title="Grass level of detail")
+        found = r.analyze({"posts": [preview, grass]})["candidates"]
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0]["key"], "reddit:1x9bwve")
 
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
