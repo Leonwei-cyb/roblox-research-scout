@@ -218,6 +218,22 @@ class ResearchReporterTests(unittest.TestCase):
                 self.assertEqual(len(selected), 1)
                 self.assertEqual(selected[0]["topic"], "cat animation and audio")
 
+    def test_committed_public_report_matches_safe_schema_and_markdown(self):
+        watch = Path(__file__).resolve().parents[1] / "watch"
+        report = json.loads((watch / "cat_magic_research_report.json").read_text(encoding="utf-8"))
+        md = (watch / "cat_magic_research_report.md").read_text(encoding="utf-8")
+        self.assertEqual(report["schema"], "LEON_CAT_MAGIC_RESEARCH_REPORT_V1")
+        self.assertEqual(report["status"], "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS")
+        self.assertIn("direct_platform_candidates", report)
+        self.assertNotIn("original_source_candidates", report)
+        self.assertEqual(report["proven_original_media"], 0)
+        self.assertEqual(report["observed_gameplay_findings"], 0)
+        self.assertEqual(report["inspected_videos"], 0)
+        self.assertTrue(all(p["creator_verified"] is False for p in report["candidates"]))
+        self.assertEqual(md, r.render(report) + "\n")
+        self.assertNotIn("Mastering Server Authority to Build Competitive Multiplayer Games", md)
+        self.assertNotIn("to Copy This Mobile Game", md)
+
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
             dest = Path(t) / "report.md"
