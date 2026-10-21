@@ -4,11 +4,11 @@
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 598; unique posts: 596; fully reviewed: 0.
+Records processed: 599; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 168
+- devforum: 169
 - index-only: 244
 - reddit: 141
 - youtube: 43
@@ -56,7 +56,7 @@ Records processed: 598; unique posts: 596; fully reviewed: 0.
 ## Tools And Performance
 
 - [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
-- [Roblox Insights — How to Compare Performance, Errors, and Retention After an Update](https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
+- [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
 
 ## Evidence required to turn a candidate into learning
 

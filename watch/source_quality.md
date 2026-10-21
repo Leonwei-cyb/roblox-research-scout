@@ -5,12 +5,12 @@
 | Classification | Entries |
 |---|---:|
 | original video/post URL (unwatched) | 37 |
-| public metadata / page | 311 |
+| public metadata / page | 312 |
 | indexed redirect (not original) | 241 |
 | promotional / risky title | 9 |
 | invalid | 0 |
 
-Total sampled entries: **598**.
+Total sampled entries: **599**.
 Direct-original share: **6.2%** (still unwatched).
 Indexed redirects: **241**. They require primary-source verification.
 
@@ -18,7 +18,7 @@ Indexed redirects: **241**. They require primary-source verification.
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **439**; direct originals **37**; indexed redirects **84**.
+Active-source entries: **440**; direct originals **37**; indexed redirects **84**.
 Active-source direct-original share: **8.4%** (still unwatched).
 Entries from paused/unconfigured sources: **159** (brock-youtube, claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
