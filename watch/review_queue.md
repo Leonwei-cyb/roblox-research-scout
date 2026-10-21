@@ -19,11 +19,11 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## 3D / models / environments
 
 - **[Going Under the Hood with Mesh and Texture Streaming \| RDC 2026](https://www.youtube.com/watch?v=OToDz3Ghpjo)** — Original media link, not watched
-- **[The NEW Best Texture Plugin For Roblox Studio!](https://www.youtube.com/watch?v=aisUd4aqNbM)** — Original media link, not watched
 - **[MeshPart Solid Modelling messes up Pivot](https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315)** — Public text/page, video not confirmed
+- **[\[Beta\] Introducing Quality Mode for Texture Generation](https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
-- **[The NEW Best Texture Plugin For Roblox Studio!](https://www.youtube.com/watch?v=aisUd4aqNbM)** — Original media link, not watched
 - **[Scratch-style Coding Tool](https://www.reddit.com/r/robloxgamedev/comments/1xahmwy/scratchstyle_coding_tool/)** — Public text/page, video not confirmed
+- **[Looking for playtesters for our new Roblox game](https://www.reddit.com/r/ROBLOXStudio/comments/1xaz17k/looking_for_playtesters_for_our_new_roblox_game/)** — Public text/page, video not confirmed
