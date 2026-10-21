@@ -4,14 +4,14 @@
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 599; unique posts: 597; fully reviewed: 0.
+Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 169
+- devforum: 171
 - index-only: 244
 - reddit: 141
-- youtube: 43
+- youtube: 42
 
 ## First-Session And Mobile
 
@@ -45,8 +45,8 @@ Records processed: 599; unique posts: 597; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
+- [\[Feedback Wanted\] Service Please! – A Restaurant Simulator Focused on Cooking & Service](https://devforum.roblox.com/t/feedback-wanted-service-please-%E2%80%93-a-restaurant-simulator-focused-on-cooking-service/4947839) — devforum; **unviewed metadata**. Proposed test: Identify the visible reward loop and confirm it through actual gameplay before testing it.
 - [\[OPEN\] Animator / VFX Artist needed for Action MMORPG](https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560) — devforum; **unviewed metadata**. Proposed test: Identify the visible reward loop and confirm it through actual gameplay before testing it.
-- [Giving AWAY Hundreds Of OP Eggs With SpyderSammy Steal AN EGG😱🥚](https://www.youtube.com/watch?v=6FKadZ4IEy4) — youtube; **unviewed metadata**. Proposed test: Identify the visible reward loop and confirm it through actual gameplay before testing it.
 
 ## Player Feedback And Marketing
 

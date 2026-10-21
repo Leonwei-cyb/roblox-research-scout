@@ -7,8 +7,10 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Updates
 
-- **[✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: ✲ Who am I? Hey, I’m Phaxyi (or a7na) specialising in both UI & building with Roblox Studio; additionally I’m proficient in Luau all with 5+ years of experience. I’m also co-owner and dev to fate’s foster , a small team working on self-proc
+- **[Please make attachment visualizers into billboardUIs for better visibility](https://devforum.roblox.com/t/please-make-attachment-visualizers-into-billboarduis-for-better-visibility/4947773)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Greetings, Now that Attachments are free from constraints and can be parented to anything in the workspace, they’ve become an excellent replacement for parts when it comes to charting paths for NPCs, or moving platforms and basically anythi
+- **[\[Feedback Wanted\] Service Please! – A Restaurant Simulator Focused on Cooking & Service](https://devforum.roblox.com/t/feedback-wanted-service-please-%E2%80%93-a-restaurant-simulator-focused-on-cooking-service/4947839)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Hey everyone! I’ve recently released the public Alpha of Service Please! , a restaurant simulator I’ve been wanting to create for quite a few years now. I’m looking for some honest, constructive feedback from other developers and players. A
 
 ---
 

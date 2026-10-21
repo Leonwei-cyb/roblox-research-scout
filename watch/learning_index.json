@@ -1,6 +1,6 @@
 {
-  "records_read": 599,
-  "unique_posts": 597,
+  "records_read": 600,
+  "unique_posts": 598,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -150,6 +150,21 @@
         "physical tycoon purchases",
         "UI and menus",
         "tools and performance"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947839:1",
+      "url": "https://devforum.roblox.com/t/feedback-wanted-service-please-%E2%80%93-a-restaurant-simulator-focused-on-cooking-service/4947839",
+      "title": "[Feedback Wanted] Service Please! – A Restaurant Simulator Focused on Cooking & Service",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "physical tycoon purchases",
+        "genres and successful loops",
+        "player feedback and marketing"
       ],
       "score": 9,
       "evidence": "UNVIEWED_METADATA"
@@ -592,19 +607,6 @@
       "kind": "youtube",
       "signals": [
         "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:lyqU3BP0ixI",
-      "url": "https://www.youtube.com/watch?v=lyqU3BP0ixI",
-      "title": "Steal A Brainrot Color Dicing",
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "published": "2024-06-12",
-      "kind": "youtube",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -3825,6 +3827,17 @@
       "key": "devforum:4947593:1",
       "url": "https://devforum.roblox.com/t/what-should-i-add/4947593",
       "title": "What should i add?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947773:1",
+      "url": "https://devforum.roblox.com/t/please-make-attachment-visualizers-into-billboarduis-for-better-visibility/4947773",
+      "title": "Please make attachment visualizers into billboardUIs for better visibility",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",
