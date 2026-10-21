@@ -400,6 +400,8 @@ class StalePackReportTest(unittest.TestCase):
         (root / "watch").mkdir()
         cfg = json.loads((ROOT / "watch" / "discovery.json").read_text())
         cfg["topics"], cfg["watch_repos"], cfg["carried_forward"] = [], [], []
+        # Synthetic topics below use the general planner, not production lane assignments.
+        cfg["research_lanes"] = []
         (root / "watch" / "discovery.json").write_text(json.dumps(cfg))
         patches = [patch.object(ds, a, root / r) for a, r in (
             ("CONFIG", "watch/discovery.json"), ("STATE", "watch/discovery_state.json"),
