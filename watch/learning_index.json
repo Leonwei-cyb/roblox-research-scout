@@ -1,6 +1,6 @@
 {
-  "records_read": 582,
-  "unique_posts": 581,
+  "records_read": 586,
+  "unique_posts": 585,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -217,6 +217,22 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947560:1",
+      "url": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560",
+      "title": "[OPEN] Animator / VFX Artist needed for Action MMORPG",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "physical tycoon purchases",
+        "cat animation and audio",
+        "genres and successful loops",
         "tools and performance"
       ],
       "score": 8,
@@ -964,6 +980,22 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xbd51e",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbd51e/how_do_i_get_a_game_popular/",
+      "title": "How do i get a game popular?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases",
+        "tuition and economy",
+        "UI and menus",
+        "genres and successful loops"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4923682:1",
       "url": "https://devforum.roblox.com/t/show-off-your-ui-designs/4923682/1",
       "title": "Show off your UI designs",
@@ -1340,6 +1372,19 @@
       "kind": "devforum",
       "signals": [
         "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947525:1",
+      "url": "https://devforum.roblox.com/t/global-shadows-do-not-work-with-soft-lighting-style/4947525",
+      "title": "Global Shadows do not work with Soft Lighting Style",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3664,6 +3709,17 @@
       "key": "devforum:4947476:1",
       "url": "https://devforum.roblox.com/t/oauth-20-app-for-a-staff-only-moderation-site-rejected-as-app-cannot-be-reviewed/4947476",
       "title": "OAuth 2.0 app for a staff-only moderation site rejected as \"App cannot be reviewed\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947513:1",
+      "url": "https://devforum.roblox.com/t/surfacegui-textlabels-appear-warped-and-melted/4947513",
+      "title": "SurfaceGui TextLabels appear warped and melted",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",

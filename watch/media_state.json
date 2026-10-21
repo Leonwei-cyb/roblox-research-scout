@@ -582,7 +582,11 @@
     "e0015ca26636db277a0282b4",
     "86be1a519315d1d8920672ca",
     "256dc530e8e5464dea12d8e1",
-    "47d9f99efa820bec950da09b"
+    "47d9f99efa820bec950da09b",
+    "48cd55c60ec016e3c4f7d7c8",
+    "c237d11e5fb03a7608690d86",
+    "d505abf54a5852970ed207da",
+    "f6e07091ae9f6af0837e69b3"
   ],
   "items": [
     {
@@ -612,6 +616,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "How do i get a game popular?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbd51e/how_do_i_get_a_game_popular/",
+      "published": "2026-10-21",
+      "excerpt": "I recently have wanted to make a clicker style game, mixed with hide and seek, no, not vibe coded, i’d say i already have a little of the progress down, i have a shop gui, a cash display, the click button, a cash system and some upgrades, but roblox is genuinely filled to the brim with games, how wo",
+      "creator": "/u/Lucky-Improvement-25 https://www.reddit.com/user/Lucky-Improvement-25",
+      "id": "f6e07091ae9f6af0837e69b3"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Rigging problems",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbapek/rigging_problems/",
       "published": "2026-10-21",
@@ -632,6 +647,18 @@
       "id": "d7c3b66841c98e7eb9f90a05"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SurfaceGui TextLabels appear warped and melted",
+      "url": "https://devforum.roblox.com/t/surfacegui-textlabels-appear-warped-and-melted/4947513",
+      "published": "2026-10-21",
+      "excerpt": "This past week a new issue has popped up that causes any and all TextLabels contained within a SurfaceGui to render in a strange way that makes them appear to be melting or warped. This applies to both new and old TextLabels regardless of font or size and has noticeably impacted the appearance of in",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/surfacegui-textlabels-appear-warped-and-melted/4947513.rss",
+      "id": "d505abf54a5852970ed207da"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -641,6 +668,18 @@
       "excerpt": "I’m making a game on Roblox where a judge is chosen, and two other players get chosen to answer the questions on the screen. The judge chooses whose answer is the best or most creative, and shoots one of them. It requires at least 3 players. I really need help with 3 players joining (including me) T",
       "creator": "/u/Miles_CoolGuy https://www.reddit.com/user/Miles_CoolGuy",
       "id": "d1db860f5ebde075784e9569"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Global Shadows do not work with Soft Lighting Style",
+      "url": "https://devforum.roblox.com/t/global-shadows-do-not-work-with-soft-lighting-style/4947525",
+      "published": "2026-10-21",
+      "excerpt": "Recently, Soft lighting appears to not work well with the Global Shadows bool. In the video below, Global shadows disappear when I have realistic lighting but not with soft lighting. It was working last week, but this week it appears to have broken soft lighting with no global shadows. It seems to h",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/global-shadows-do-not-work-with-soft-lighting-style/4947525.rss",
+      "id": "c237d11e5fb03a7608690d86"
     },
     {
       "source": "roblox-devforum-latest",
@@ -700,6 +739,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409.rss",
       "id": "62091f636f6db8149725b155"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] Animator / VFX Artist needed for Action MMORPG",
+      "url": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560",
+      "published": "2026-10-21",
+      "excerpt": "Hey everyone! We’re AxisForge Studio, an indie team building an open-world Action MMORPG called Gauntlet: Rebirth . Our backend engine is already built and fully operational, so now we are looking for an Animator/VFX artist to join the crew and take complete ownership of how the game actually looks ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560.rss",
+      "id": "48cd55c60ec016e3c4f7d7c8"
     },
     {
       "source": "reddit-robloxstudio",

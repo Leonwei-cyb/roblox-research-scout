@@ -4,13 +4,13 @@
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 582; unique posts: 581; fully reviewed: 0.
+Records processed: 586; unique posts: 585; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 159
+- devforum: 162
 - index-only: 243
-- reddit: 136
+- reddit: 137
 - youtube: 43
 
 ## First-Session And Mobile
@@ -26,7 +26,7 @@ Records processed: 582; unique posts: 581; fully reviewed: 0.
 ## Tuition And Economy
 
 - [Feedback on "Private servers"](https://devforum.roblox.com/t/feedback-on-private-servers/4945882) — devforum; **unviewed metadata**. Proposed test: Does server-earned tuition visibly increase and reveal the next expansion pad?
-- [Makeup Now Available for In-Experience Creation](https://devforum.roblox.com/t/makeup-now-available-for-in-experience-creation/4936543) — devforum; **unviewed metadata**. Proposed test: Does server-earned tuition visibly increase and reveal the next expansion pad?
+- [How do i get a game popular?](https://www.reddit.com/r/ROBLOXStudio/comments/1xbd51e/how_do_i_get_a_game_popular/) — reddit; **unviewed metadata**. Proposed test: Does server-earned tuition visibly increase and reveal the next expansion pad?
 
 ## Ui And Menus
 
@@ -45,8 +45,8 @@ Records processed: 582; unique posts: 581; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
+- [\[OPEN\] Animator / VFX Artist needed for Action MMORPG](https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560) — devforum; **unviewed metadata**. Proposed test: Identify the visible reward loop and confirm it through actual gameplay before testing it.
 - [Giving AWAY Hundreds Of OP Eggs With SpyderSammy Steal AN EGG😱🥚](https://www.youtube.com/watch?v=6FKadZ4IEy4) — youtube; **unviewed metadata**. Proposed test: Identify the visible reward loop and confirm it through actual gameplay before testing it.
-- [#steal #roblox #egg #stealanegg #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/7HJPfqoGHtg) — youtube; **unviewed metadata**. Proposed test: Identify the visible reward loop and confirm it through actual gameplay before testing it.
 
 ## Player Feedback And Marketing
 
