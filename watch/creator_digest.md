@@ -16,7 +16,7 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 8 matched metadata records.
+**Collected media leads:** 7 matched metadata records.
 - [Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk) — channel upload — creator identity check · 2026-10-12
 - [#roblox #stealanegg #egg #steal #youtubeshorts #gaming #owner #troll #funny #prank](https://www.youtube.com/shorts/ayKWDMVcBzk) — channel upload — creator identity check · 2026-09-27
 - [Giving AWAY Hundreds Of OP Eggs With SpyderSammy Steal AN EGG😱🥚](https://www.youtube.com/watch?v=6FKadZ4IEy4) — channel upload — creator identity check · 2026-09-26
@@ -56,7 +56,7 @@ Account provenance: [https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ) — channel ID in public channel stats; direct posts: YouTube RSS
 
-**Collected media leads:** 6 matched metadata records.
+**Collected media leads:** 5 matched metadata records.
 - [I Made 4 Roblox Games in 12 Hours with This AI..](https://www.youtube.com/watch?v=CqURW0YPo4A) — verified channel upload · 2026-10-18
 - [Updating My Game Now Its INSANE!](https://www.youtube.com/watch?v=-wqaH11mmpc) — verified channel upload · 2026-10-13
 - [A Fan Asked Why His Game is FAILING 3 Years Later...](https://www.youtube.com/watch?v=ybNcIYHmJTU) — verified channel upload · 2026-10-08

@@ -642,7 +642,12 @@
     "d772dbd7958a69f2b09f0aa2",
     "84e49fa10300389359172665",
     "20a631e13130a127494203db",
-    "9f10b5f89ddb9a121809ab4d"
+    "9f10b5f89ddb9a121809ab4d",
+    "e3a1619da316ef50bd07316c",
+    "85754d7743c6beb2d6924bb8",
+    "8380d5f415a48a24fbae35e9",
+    "52ef65d6154ee5283e933d2e",
+    "2dedf6a6aba14bfb67da7055"
   ],
   "items": [
     {
@@ -724,6 +729,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-wanted-service-please-%E2%80%93-a-restaurant-simulator-focused-on-cooking-service/4947839.rss",
       "id": "e4198bb4f6589f50921a30f7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Efficient way to make throwables without latency",
+      "url": "https://devforum.roblox.com/t/efficient-way-to-make-throwables-without-latency/4948560",
+      "published": "2026-10-21",
+      "excerpt": "So my game BOOMERZ! utilizes throwable bombs as weapons with the simple use of LinearVelocity. local ThrowForce = Instance.new(\"LinearVelocity\") ThrowForce.Attachment0 = Bomb.Handle.Center ThrowForce.MaxForce = math.huge ThrowForce.VectorVelocity = Vector3.new(0, 5, 0) + camLookCFrame * 80 The probl",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/efficient-way-to-make-throwables-without-latency/4948560.rss",
+      "id": "e3a1619da316ef50bd07316c"
     },
     {
       "source": "reddit-robloxstudio",
@@ -993,6 +1010,18 @@
       "id": "86be1a519315d1d8920672ca"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "The Hollow: New Platform-Wide Survival Event for Halloween",
+      "url": "https://devforum.roblox.com/t/the-hollow-new-platform-wide-survival-event-for-halloween/4948535",
+      "published": "2026-10-21",
+      "excerpt": "This Halloween we’re celebrating horror games, one of the most popular genres on Roblox, with a new platform-wide event: The Hollow. Starting tomorrow and running through Nov. 2, this shared survival event will be available to anyone with a Roblox Select or Roblox account (ages 9 and older in most r",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-hollow-new-platform-wide-survival-event-for-halloween/4948535.rss",
+      "id": "85754d7743c6beb2d6924bb8"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1003,6 +1032,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/devex-page-frozen-at-last-updated-oct-16-us-18-rate-being-calculated-as-legacy-rate/4948407.rss",
       "id": "84e49fa10300389359172665"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Lighting quality goes down far away",
+      "url": "https://devforum.roblox.com/t/lighting-quality-goes-down-far-away/4948520",
+      "published": "2026-10-21",
+      "excerpt": "Hi, I’m coming back to a game that i was working on a while ago and I’ve noticed that the lighting in it seems to be… acting off… I’ve included some examples, basically the quality of it goes down far away, which wouldn’t typically be an issue, but my map has some large open areas and it happens the",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/lighting-quality-goes-down-far-away/4948520.rss",
+      "id": "8380d5f415a48a24fbae35e9"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1145,6 +1186,18 @@
       "id": "532b829ed52bfc09ad617954"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Ad eligibility broken?",
+      "url": "https://devforum.roblox.com/t/ad-eligibility-broken/4948501",
+      "published": "2026-10-21",
+      "excerpt": "It tells me I must compelte the quesstionairre, but I have already done that? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ad-eligibility-broken/4948501.rss",
+      "id": "52ef65d6154ee5283e933d2e"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1212,6 +1265,17 @@
       "excerpt": "so i wanna know how to decompile roblox models so i can rig them, or upload em to sketchfab can anyone tell me? submitted by /u/SatisfactionSorry731 [link] [comments]",
       "creator": "/u/SatisfactionSorry731 https://www.reddit.com/user/SatisfactionSorry731",
       "id": "2f352368df9f67e69a86217a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox device simulator not working",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbtx5f/roblox_device_simulator_not_working/",
+      "published": "2026-10-21",
+      "excerpt": "I was trying to make a render for something, and when I clicked on the device simulator to take the screenshot, non of the device options popped up, and when I used the side bar it would smear the screen. submitted by /u/Effective-Owl-2465 [link] [comments]",
+      "creator": "/u/Effective-Owl-2465 https://www.reddit.com/user/Effective-Owl-2465",
+      "id": "2dedf6a6aba14bfb67da7055"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7347,64 +7411,6 @@
       "creator": "",
       "publisher": "https://www.youtube.com",
       "id": "45f91e058b6a1517613630eb"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "The Dream Game is BACK!!!",
-      "url": "https://www.youtube.com/watch?v=8CQJ5Pq-n8Q",
-      "published": "2026-09-23",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "2f3e8052442526aab965cf3c"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Steal an Egg: Sammy Admin Abuse Event Breakdown! 🥚 Sammy got mind-controlled by Dr. Scramble during the latest Steal an Egg Admin Abuse event! 🥚💥 Watch till the end to see the full mission and the sec",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ic1FIMHFpelk2STVfS1VWdWlxV3NhZWVVVDBNY0lDbGNzU2Q1bHVQcXpEbE4zSThTSnJyVF9IVmFPQm44Wkk2S19JbUgwZTdUcnRKOFlB?oc=5",
-      "published": "2026-09-22",
-      "excerpt": "Steal an Egg: Sammy Admin Abuse Event Breakdown! 🥚 Sammy got mind-controlled by Dr. Scramble during the latest Steal an Egg Admin Abuse event! 🥚💥 Watch till the end to see the full mission and the secret Brainrot reward. Full breakdown on YouTube! Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "f4896541f62dd17b605ea8b4"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVEVRVmI1dkNrQkV5Tk9YSG9IeVIzdThpOC1KemlpeXJ0cl91MG0wdWV0ZFM0eHhfQ1BJUGgxTXJGN2ptdmNkYzB5cWlzT3k3MG93UU5R?oc=5",
-      "published": "2026-09-22",
-      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "85f2ccbf97d5df0ac71ac103"
-    },
-    {
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "#stealanegg #roblox #egg #steal #youtubeshorts #troll #gaming",
-      "url": "https://www.youtube.com/shorts/ryrM3EQQ7Cg",
-      "published": "2026-09-22",
-      "excerpt": "",
-      "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
-      "id": "5eec364ce3bb61ab07cf686b"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "ChatGPT vs Claude make search for the Needle - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMV8yQjhSTWtrZlUtc0RYeUFDLWlzRW5HVnFFbTkxY3RRVTFKb01TWThqSlFPR0ZpVkY1bHhJeEdkTFlUSWQ1Mk02Mkp2SDVrRkhWZ2RB?oc=5",
-      "published": "2026-09-22",
-      "excerpt": "ChatGPT vs Claude make search for the Needle YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "05e4ce889427359b973a0175"
     }
   ]
 }
