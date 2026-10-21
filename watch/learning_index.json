@@ -2315,19 +2315,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4644181:1",
-      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/1",
-      "title": "What are you working on currently? (2026 Edition)",
-      "source": "roblox-wip-2026",
-      "published": "2026-05-19",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4918297:1",
       "url": "https://devforum.roblox.com/t/beta-if-local-statements-and-expressions/4918297",
       "title": "[Beta] if local Statements and Expressions",
@@ -2848,6 +2835,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4947891:1",
+      "url": "https://devforum.roblox.com/t/add-instancetrycastclassname-string/4947891",
+      "title": "Add Instance:TryCast(className: string)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -3183,28 +3183,6 @@
         "tools and performance"
       ],
       "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4644181:2",
-      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/2",
-      "title": "What are you working on currently? (2026 Edition)",
-      "source": "roblox-wip-2026",
-      "published": "2026-05-19",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4644181:3",
-      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/3",
-      "title": "What are you working on currently? (2026 Edition)",
-      "source": "roblox-wip-2026",
-      "published": "2026-05-20",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3838,6 +3816,17 @@
       "key": "devforum:4947773:1",
       "url": "https://devforum.roblox.com/t/please-make-attachment-visualizers-into-billboarduis-for-better-visibility/4947773",
       "title": "Please make attachment visualizers into billboardUIs for better visibility",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947850:1",
+      "url": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850",
+      "title": "Characters using PhysicsControllers glitch and fling on platforms using PrismaticConstraints",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",
@@ -4893,6 +4882,19 @@
       "published": "2026-10-13",
       "kind": "index-only",
       "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1QWThSMzNpbG5QOHlYX3BCLW9QOVZwQWYzLXpOb2tBODBZc0pFaGd0b0tFdzRNRE92S2dfVVdab184VFZ1OGk2cWx6c0FNWDlnU0V4WDFB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QWThSMzNpbG5QOHlYX3BCLW9QOVZwQWYzLXpOb2tBODBZc0pFaGd0b0tFdzRNRE92S2dfVVdab184VFZ1OGk2cWx6c0FNWDlnU0V4WDFB?oc=5",
+      "title": "How to Connect Devin Desktop to Roblox Studio! (2026) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-10-12",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
+      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

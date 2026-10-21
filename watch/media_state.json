@@ -601,7 +601,11 @@
     "e0c8851d729f2cd8a6a60182",
     "d14bb3d4756559fdfbb80b2d",
     "e4198bb4f6589f50921a30f7",
-    "078814477064a9af4d8b69ac"
+    "078814477064a9af4d8b69ac",
+    "2cca3fcba8cafaa6f7e81857",
+    "5c37aa3724a4ad24fc252856",
+    "d01c565f554be9458827275b",
+    "a221f7ed953e3a7e7fab42e7"
   ],
   "items": [
     {
@@ -887,6 +891,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Characters using PhysicsControllers glitch and fling on platforms using PrismaticConstraints",
+      "url": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850",
+      "published": "2026-10-21",
+      "excerpt": "This began happening fairly recently, within the last month I’d say. Some moving platforms / pistons in my project use PrismaticConstraints to align and propel themselves along an axis. My character uses a custom solution involving character physics controllers, and it began bouncing off and sinking",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850.rss",
+      "id": "5c37aa3724a4ad24fc252856"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Trailer Video follows Video Quality Guidelines and gets denied",
       "url": "https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590",
       "published": "2026-10-21",
@@ -941,6 +957,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366.rss",
       "id": "4666c980c0631a85e0f25541"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add Instance:TryCast(className: string)",
+      "url": "https://devforum.roblox.com/t/add-instancetrycastclassname-string/4947891",
+      "published": "2026-10-21",
+      "excerpt": "As a Roblox developer it can get quite frustrating and verbose trying to write type-safe code when working with attributes. I wrote this monster of an if-then-else expression with the new if local/const beta feature today, and it… speaks for itself: local animRef = script:GetAttribute(\"LocalAnimatio",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-instancetrycastclassname-string/4947891.rss",
+      "id": "2cca3fcba8cafaa6f7e81857"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5394,6 +5422,18 @@
       "id": "da4c945c4e27f677895802a8"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How to Connect Devin Desktop to Roblox Studio! (2026) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QWThSMzNpbG5QOHlYX3BCLW9QOVZwQWYzLXpOb2tBODBZc0pFaGd0b0tFdzRNRE92S2dfVVdab184VFZ1OGk2cWx6c0FNWDlnU0V4WDFB?oc=5",
+      "published": "2026-10-12",
+      "excerpt": "How to Connect Devin Desktop to Roblox Studio! (2026) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "d01c565f554be9458827275b"
+    },
+    {
       "source": "instagram-index",
       "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
       "category": "instagram_index",
@@ -7316,42 +7356,6 @@
       "excerpt": "",
       "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
       "id": "74ad2e3d578f68f899d9141d"
-    },
-    {
-      "source": "roblox-wip-2026",
-      "label": "Roblox DevForum what are you working on 2026",
-      "category": "3D models, maps and prototypes",
-      "title": "What are you working on currently? (2026 Edition)",
-      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/3",
-      "published": "2026-05-20",
-      "excerpt": "That’s a really cool! I feel like the grapple hook system would go really well in a platform game. It gives off LittleBigPlanet vibes. Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss",
-      "id": "b68f9b74250bb622e8727c8b"
-    },
-    {
-      "source": "roblox-wip-2026",
-      "label": "Roblox DevForum what are you working on 2026",
-      "category": "3D models, maps and prototypes",
-      "title": "What are you working on currently? (2026 Edition)",
-      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/2",
-      "published": "2026-05-19",
-      "excerpt": "I just released what was going to be part of a small community’s collaboration game for Christmas 2024 (and at one point was delayed to 2025 before it just fell through completely). I suppose it’s a hybrid between an adventure game world (which is what it is meant to be) and a dungeon like those fro",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss",
-      "id": "151aac6450d75bf4535b866c"
-    },
-    {
-      "source": "roblox-wip-2026",
-      "label": "Roblox DevForum what are you working on 2026",
-      "category": "3D models, maps and prototypes",
-      "title": "What are you working on currently? (2026 Edition)",
-      "url": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/1",
-      "published": "2026-05-19",
-      "excerpt": "Okay, so I’m about five months late to the party but, I figured we should all share on what we have been working on this year so far. Let’s use this thread as a way to gain some feedback from our fellow peers and continue the yearly tradition of WAYWOC since the last one was posted back in 2024. I’l",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181.rss",
-      "id": "08a89dbc181c1f68cb5bfc12"
     }
   ]
 }
