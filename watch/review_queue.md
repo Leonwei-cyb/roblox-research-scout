@@ -20,7 +20,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Going Under the Hood with Mesh and Texture Streaming \| RDC 2026](https://www.youtube.com/watch?v=OToDz3Ghpjo)** — Original media link, not watched
 - **[The NEW Best Texture Plugin For Roblox Studio!](https://www.youtube.com/watch?v=aisUd4aqNbM)** — Original media link, not watched
-- **[\[Plugin\] Bendify: bend, twist & squash Parts and MeshParts with a lattice](https://devforum.roblox.com/t/plugin-bendify-bend-twist-squash-parts-and-meshparts-with-a-lattice/4943157)** — Public text/page, video not confirmed
+- **[MeshPart Solid Modelling messes up Pivot](https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 

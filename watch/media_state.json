@@ -564,9 +564,51 @@
     "2ddfbd98a9c7de0f296efa83",
     "05de7709ea251d7c985aa4d8",
     "e456038585a96941f7bdce2b",
-    "e88147917ea363e82c5a1696"
+    "e88147917ea363e82c5a1696",
+    "93699eb315780d2fdc434f99",
+    "311903e99952da57cbdd628a",
+    "e53fdf15d3d5da90b895dae0",
+    "4caa8e6ec3914b0c4d580ac3",
+    "2cbbe3f9c174eb378f1dfacb",
+    "d7c3b66841c98e7eb9f90a05",
+    "d1db860f5ebde075784e9569"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "New Roblox Game",
+      "url": "https://devforum.roblox.com/t/new-roblox-game/4947340",
+      "published": "2026-10-21",
+      "excerpt": "Context: I found an image I had lost for over 9 months, related to my somewhat delayed Roblox project (see my topics to understand). What do you understand when you see this image? (btw I’ve improved many things I showed in the previous images, such as the maps, environment, and others) 2 posts - 2 ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-roblox-game/4947340.rss",
+      "id": "d7c3b66841c98e7eb9f90a05"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I need help testing a game!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb8q3l/i_need_help_testing_a_game/",
+      "published": "2026-10-21",
+      "excerpt": "I’m making a game on Roblox where a judge is chosen, and two other players get chosen to answer the questions on the screen. The judge chooses whose answer is the best or most creative, and shoots one of them. It requires at least 3 players. I really need help with 3 players joining (including me) T",
+      "creator": "/u/Miles_CoolGuy https://www.reddit.com/user/Miles_CoolGuy",
+      "id": "d1db860f5ebde075784e9569"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Website bug (Maybe layout)",
+      "url": "https://devforum.roblox.com/t/website-bug-maybe-layout/4947356",
+      "published": "2026-10-21",
+      "excerpt": "This is what I see when I open Roblox.com this morning Expected behavior I expect the original layout and site. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/website-bug-maybe-layout/4947356.rss",
+      "id": "2cbbe3f9c174eb378f1dfacb"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -750,6 +792,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/cargo-balance-delivery-mechanic-feedbackthoughts/4947221.rss",
       "id": "e88147917ea363e82c5a1696"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Hey guys this is my first time trying to build something like this but I need some critism",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb81n8/hey_guys_this_is_my_first_time_trying_to_build/",
+      "published": "2026-10-20",
+      "excerpt": "Any guide and tip to improve this shot will help alot, maybe some color numbers or lighting anything and no I don't use any references submitted by /u/2overlord [link] [comments]",
+      "creator": "/u/2overlord https://www.reddit.com/user/2overlord",
+      "id": "e53fdf15d3d5da90b895dae0"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1177,6 +1230,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "MeshPart Solid Modelling messes up Pivot",
+      "url": "https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315",
+      "published": "2026-10-20",
+      "excerpt": "Hey there fellas, I’ve been tinkering around with Mesh Solid Modelling for a bit now, and I’ve come across a persistent issue that I cannot resolve, no matter what I try. It seems that when I unionize a MeshPart together with a standard Part, the Pivot doesn’t set itself to the actual middle of this",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315.rss",
+      "id": "93699eb315780d2fdc434f99"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Thin text on SurfaceGuis appears scattered/jagged",
       "url": "https://devforum.roblox.com/t/thin-text-on-surfaceguis-appears-scatteredjagged/4946031",
       "published": "2026-10-20",
@@ -1439,6 +1504,17 @@
       "id": "5022ce4c791f57d191fe9051"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "IK",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb7n7f/ik/",
+      "published": "2026-10-20",
+      "excerpt": "In Dev Modifier... submitted by /u/Logical-Laugh-9581 [link] [comments]",
+      "creator": "/u/Logical-Laugh-9581 https://www.reddit.com/user/Logical-Laugh-9581",
+      "id": "4caa8e6ec3914b0c4d580ac3"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1577,6 +1653,17 @@
       "excerpt": "Hey everyone! 🐑 My partner has been spending a lot of time creating his own Roblox game called Sheep Tag, and I wanted to share it here! It's inspired by an old Warcraft 3 mod, but he's been putting his own spin on it with custom 3D models, environments and gameplay. You can play as a Runner, buildi",
       "creator": "/u/TildaNova https://www.reddit.com/user/TildaNova",
       "id": "3349f35cc0e2aba49fa50ae4"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox scripter Lf comms",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb7fms/roblox_scripter_lf_comms/",
+      "published": "2026-10-20",
+      "excerpt": "Some work NOT all, for Seraphs End. If you are interested in the game lmk in comments wojld send discord link. Saving a lot for combat sneak. Scripted it all, did the art for finisher Port: https://discerninq.dev User: discerninq_ submitted by /u/discerninq [link] [comments]",
+      "creator": "/u/discerninq https://www.reddit.com/user/discerninq",
+      "id": "311903e99952da57cbdd628a"
     },
     {
       "source": "roblox-devforum-latest",
