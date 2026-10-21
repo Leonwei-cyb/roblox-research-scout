@@ -175,6 +175,49 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertIn("does NOT establish original creator", body)
         self.assertNotIn("No eligible first-party/original", body)
 
+    def test_plural_and_reversed_physical_purchase_titles(self):
+        valid = (
+            "Purchase Pads in Roblox Tycoon",
+            "Roblox Tycoon Buttons Tutorial",
+            "Buy Desks for your Classroom",
+            "How to upgrade a classroom button",
+            "Tycoon conveyor pad build",
+        )
+        for title in valid:
+            with self.subTest(title=title):
+                post = row("devforum:4946218:1", DF, "devforum",
+                           "physical tycoon purchases", title=title)
+                found = r.analyze({"posts": [post]})["candidates"]
+                self.assertEqual(len(found), 1)
+                self.assertEqual(found[0]["topic"], "physical tycoon purchases")
+
+    def test_upgrade_economy_titles_are_not_physical_pad_references(self):
+        unrelated = (
+            "Tycoon upgrade system balancing guide",
+            "What is the hardest part of balancing an upgrade system?",
+            "Tycoon upgrade economy recommendations",
+        )
+        for title in unrelated:
+            with self.subTest(title=title):
+                post = row("devforum:4946218:1", DF, "devforum",
+                           "physical tycoon purchases", title=title)
+                self.assertEqual(r.analyze({"posts": [post]})["candidates"], [])
+
+    def test_cat_and_pet_audio_references_are_preserved(self):
+        relevant = (
+            "Cat sound effects",
+            "Pet audio controller",
+            "SFX for Pet meows",
+            "Cat walking animation",
+        )
+        for title in relevant:
+            with self.subTest(title=title):
+                post = row("devforum:4946218:1", DF, "devforum",
+                           "cat animation and audio", title=title)
+                selected = r.analyze({"posts": [post]})["candidates"]
+                self.assertEqual(len(selected), 1)
+                self.assertEqual(selected[0]["topic"], "cat animation and audio")
+
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
             dest = Path(t) / "report.md"
