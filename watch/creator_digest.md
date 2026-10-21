@@ -56,7 +56,7 @@ Account provenance: [https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ) — channel ID in public channel stats; direct posts: YouTube RSS
 
-**Collected media leads:** 15 matched metadata records.
+**Collected media leads:** 14 matched metadata records.
 - [I Made 4 Roblox Games in 12 Hours with This AI..](https://www.youtube.com/watch?v=CqURW0YPo4A) — verified channel upload · 2026-10-18
 - [Updating My Game Now Its INSANE!](https://www.youtube.com/watch?v=-wqaH11mmpc) — verified channel upload · 2026-10-13
 - [A Fan Asked Why His Game is FAILING 3 Years Later...](https://www.youtube.com/watch?v=ybNcIYHmJTU) — verified channel upload · 2026-10-08

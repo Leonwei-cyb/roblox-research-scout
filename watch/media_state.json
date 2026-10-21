@@ -607,7 +607,8 @@
     "d01c565f554be9458827275b",
     "a221f7ed953e3a7e7fab42e7",
     "f5b16378025e6606252b0b71",
-    "edda1e85347b32a89013f953"
+    "edda1e85347b32a89013f953",
+    "0b2d6220511e4308ec90e582"
   ],
   "items": [
     {
@@ -995,6 +996,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/oauth-20-app-for-a-staff-only-moderation-site-rejected-as-app-cannot-be-reviewed/4947476.rss",
       "id": "256dc530e8e5464dea12d8e1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Moderation for more serious topics in games?",
+      "url": "https://devforum.roblox.com/t/moderation-for-more-serious-topics-in-games/4948001",
+      "published": "2026-10-21",
+      "excerpt": "I wanna make it so in my game, since its a story based game, some more serious topics are faced, like racism, but I wanna know how Roblox treats these types of topics moderation wise? Obviously no slurs and such, but since it would be a modern view of discrimination / prejudice, would Roblox be allo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/moderation-for-more-serious-topics-in-games/4948001.rss",
+      "id": "0b2d6220511e4308ec90e582"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7348,17 +7361,6 @@
       "excerpt": "",
       "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
       "id": "d22abb46ad71b7b04d07f37a"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "I Added EVERY Feature You Requested...",
-      "url": "https://www.youtube.com/watch?v=xEOc3d49x1s",
-      "published": "2026-08-04",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "395fe78b10c326d5f71d6bf4"
     }
   ]
 }
