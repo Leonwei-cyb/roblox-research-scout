@@ -1777,6 +1777,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xbrwx2",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbrwx2/i_have_a_proplem_with_scripting/",
+      "title": "i have a proplem with scripting",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbs4rn",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbs4rn/loot_the_lab_steal_creatures_run_through_traps/",
+      "title": "Loot the Lab — steal creatures, run through traps, don’t get robbed",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4910267:1",
       "url": "https://devforum.roblox.com/t/weekly-recap-september-28%E2%80%93october-2-2026/4910267",
       "title": "Weekly Recap: September 28–October 2, 2026",
@@ -2766,6 +2792,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4948346:1",
+      "url": "https://devforum.roblox.com/t/controllermanager-has-very-inconsistent-replication-behavior/4948346",
+      "title": "ControllerManager has very inconsistent replication behavior",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -3112,6 +3151,19 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbr3jx",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbr3jx/all_these_wanna_be_developers_are_annoying/",
+      "title": "All these wanna be developers are annoying",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "tuition and economy"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -3780,6 +3832,17 @@
       "key": "devforum:4948231:1",
       "url": "https://devforum.roblox.com/t/why-are-discord-links-blocked-in-the-bulletin-board-category/4948231",
       "title": "Why are Discord links blocked in the Bulletin Board category?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4948318:1",
+      "url": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948318",
+      "title": "Universal Game Development Tool Kit",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",
@@ -4780,28 +4843,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1EVTNSTm9wdVM1YnEwY19KUGJaTjJiclEzMVhPcFVvc2k3eFlidDJpTVI1OHB1TmJZa2RZQ2hNWlExaS1zX1M2b0ZqU2dqWXZqclpTaUhn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EVTNSTm9wdVM1YnEwY19KUGJaTjJiclEzMVhPcFVvc2k3eFlidDJpTVI1OHB1TmJZa2RZQ2hNWlExaS1zX1M2b0ZqU2dqWXZqclpTaUhn?oc=5",
-      "title": "I’M BROKE SO I’M REVIEWING YOUR ROBLOX GAMES - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-09-20",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1FMzRlR0llX3ptUjBIU0Y5N0ZGdmFyc0VwUXotNEFBRHJjMFRfTVJfOVBUbnhkRDRRd1BlQWJPSlhTQzlCZkRmQktPNkdtUkswQ29qTGln",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FMzRlR0llX3ptUjBIU0Y5N0ZGdmFyc0VwUXotNEFBRHJjMFRfTVJfOVBUbnhkRDRRd1BlQWJPSlhTQzlCZkRmQktPNkdtUkswQ29qTGln?oc=5",
-      "title": "Charm | Roblox Open Source Showcase #9 - YouTube",
-      "source": "roblox-animation-showcases",
-      "published": "2026-09-20",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1HRFBtVEFhdVNfRFAxMHlxWXRoMEUxNlNrVGZYVmE5MDBRWVFGU3UyLVlvMzExLUIzS3hNU3pwTXBjQm9aWUN1WGhVRENDODBMMlF1dmh3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HRFBtVEFhdVNfRFAxMHlxWXRoMEUxNlNrVGZYVmE5MDBRWVFGU3UyLVlvMzExLUIzS3hNU3pwTXBjQm9aWUN1WGhVRENDODBMMlF1dmh3?oc=5",
       "title": "STOP PLAYING STEAL AN EGG…😭💔 #stealanegg #roblox #gaming - Instagram",
@@ -5002,19 +5043,6 @@
       "published": "2026-10-15",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1odGJmWGxuZzg1djVaOEFPd1ZOSVlFaWVhaE5IaXZwOXk2aGw0MTNCcnc2NldlZkxjWDJySTlwb3R1Q1lvYmFSV1hCNHo4aUZPV3dQOHZR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1odGJmWGxuZzg1djVaOEFPd1ZOSVlFaWVhaE5IaXZwOXk2aGw0MTNCcnc2NldlZkxjWDJySTlwb3R1Q1lvYmFSV1hCNHo4aUZPV3dQOHZR?oc=5",
-      "title": "Experiment egg in Steal An Egg #roblox #stealanegg #adminabuse #robloxevent #robloxshorts #robloxbrainrot - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-09-20",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -5457,19 +5485,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE91ZXBTWmIxREgxYllaSnprcVhMYUd5ZnU5UGczZkxlVGpZLWRLcmJycUQ1QmVFTTJwU0FLdDRSR2hGYnNwSXhCV1pPbS1IN0pXSlUycFp3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZXBTWmIxREgxYllaSnprcVhMYUd5ZnU5UGczZkxlVGpZLWRLcmJycUQ1QmVFTTJwU0FLdDRSR2hGYnNwSXhCV1pPbS1IN0pXSlUycFp3?oc=5",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-09-20",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE93RDc4cVRORlhrQ01YOFpVRGV0STlELTc2S0lNc1BxZWlESlhWQk9tQjQ3R1JUQWlCNzgwRElMZDUzbDNrSEg5VXNBTGt0d2puR19tSWF3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93RDc4cVRORlhrQ01YOFpVRGV0STlELTc2S0lNc1BxZWlESlhWQk9tQjQ3R1JUQWlCNzgwRElMZDUzbDNrSEg5VXNBTGt0d2puR19tSWF3?oc=5",
       "title": "How to Let ANY AI Edit EVERY Script in Your Roblox Game - YouTube",
@@ -5761,19 +5776,6 @@
       "kind": "index-only",
       "signals": [
         "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9faUdYaTFUSk5pa2Q0QTc4NHN1NGhtOVRaWXhuWXVWMTdoM3VEbjlCd3BkaHBxSmp3TEpIQkdsaGNDdWp2bHpMZWJxZ2RtZ0tvUkFMbmd3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9faUdYaTFUSk5pa2Q0QTc4NHN1NGhtOVRaWXhuWXVWMTdoM3VEbjlCd3BkaHBxSmp3TEpIQkdsaGNDdWp2bHpMZWJxZ2RtZ0tvUkFMbmd3?oc=5",
-      "title": "管理者秘密の部屋の入り方！裏技 | 卵を盗む！Steal an Egg(Roblox)#卵を盗む #ロブロックス #stealanegg #robloxshorts - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-09-20",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

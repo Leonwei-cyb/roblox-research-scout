@@ -7,29 +7,29 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Build / 3D Examples
 
-- **[5 Roblox Studio Secrets You’ll Wish You Knew Sooner](https://www.youtube.com/watch?v=lXPGueq66wg)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-09-07
+- **["Ill Pay you 20,000 to Copy This Mobile Game"](https://www.youtube.com/watch?v=wOsgHv8G6EI)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-09-11
+- **[RoBuilder - Still Broke](https://www.youtube.com/watch?v=HDFsSxnm-Ak)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-09-16
 
 ## Roblox Creator / Steal An Egg
 
-- **[Steal an egg prank #stealanegg #steal #egg #youtubeshorts #roblox #brockodile #prank #funny #troll](https://www.youtube.com/shorts/j6DzVVQAuIg)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-07
-- **[🎁Look in my story for free eggs 🎁 Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE04LUhEM0ZKU0VLcFBDVnVmM1dTZG94M1J6bEI4OTNqenZZVXlheGN3SWx4VTJXZ3YxTGdGdk5sTWF2OW1Ib1ktN0FHX05zeXNGelc5REln?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-15
-  - Feed excerpt: 🎁Look in my story for free eggs 🎁 Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+- **[#steal #roblox #egg #stealanegg #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/7HJPfqoGHtg)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-12
+- **[#steal #stealanegg #roblox #egg #youtubeshorts #gaming #funny #troll #prank #owner](https://www.youtube.com/shorts/Wc1PBlewYEA)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-12
 
 ## Community
 
-- **[Looking for Playtesters! Pixel Anime MMO](https://www.reddit.com/r/ROBLOXStudio/comments/1xbp52f/looking_for_playtesters_pixel_anime_mmo/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Looking for Playtesters! Pixel Anime MMO https://www.roblox.com/games/89188392350363/Pixel-Anime#!/ submitted by /u/Redacted-Writer \[link\] \[comments\]
-- **[What is the best way of learning UI design?](https://www.reddit.com/r/ROBLOXStudio/comments/1xbq9cj/what_is_the_best_way_of_learning_ui_design/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Based on your experience, what was the most effective method you used to learn UI design in Roblox? What sources did you use? Perhaps you could suggest some good YouTube tutorials. Maybe using external sources like Figma is the best way to 
+- **[All these wanna be developers are annoying](https://www.reddit.com/r/ROBLOXStudio/comments/1xbr3jx/all_these_wanna_be_developers_are_annoying/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: Am I the only one noticing how so many people are just trying to earn money off of "slop" games? Like none of them are gonna succeed but they take up the algorithm. This takes away from actual developers that spend months on their work only
+- **[Loot the Lab — steal creatures, run through traps, don’t get robbed](https://www.reddit.com/r/ROBLOXStudio/comments/1xbs4rn/loot_the_lab_steal_creatures_run_through_traps/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: Solo dev here. Loot the Lab: you grab a creature crate in the lab and run it back to your base before someone punches it out of your hands. The twist: on the way back you pick your path. The grey corridor is long and safe. The other corrido
+- **[i have a proplem with scripting](https://www.reddit.com/r/ROBLOXStudio/comments/1xbrwx2/i_have_a_proplem_with_scripting/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: so i watched somone called brawldev up to his vidio about tasks and youc an ask me so good like aynthing (exzept somwaht function if somone culd explain the anynumos one i wuld be greatfull) and i culd tell you what it means or hwo the scri
 
 ## Roblox Updates
 
-- **[Game review: a drawing game](https://devforum.roblox.com/t/game-review-a-drawing-game/4948299)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I made a game where the players can draw stuff by walking around, it was supposed to be a silly project just to show off to friends but it started gaining some players I got a tiny problem. I’m not sure on what to add to keep people playing
-- **[How do I make M1 attack less sensitive on mobile](https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: punch script works good on pc but it’s way too sensitive on mobile walking, rotating the camera, and just clicking buttons triggers it and that’s really annoying UIS.InputBegan:Connect(function(input, ev) if ev or ONCOOLDOWN then return end
-- **[Why are Discord links blocked in the Bulletin Board category?](https://devforum.roblox.com/t/why-are-discord-links-blocked-in-the-bulletin-board-category/4948231)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I’m wondering why developers are unable to post Discord links in the Bulletin Board category. While looking into this, I came across the About Bulletin Board Category post. In that post, there is a list of domains that are allowed in the Bu
+- **[ControllerManager has very inconsistent replication behavior](https://devforum.roblox.com/t/controllermanager-has-very-inconsistent-replication-behavior/4948346)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: On my machine, there’s a 50/50 chance that setting values on the ControllerManager will be replicated. Video: The following things were done: the model is renamed to “ASDFGHJKL” to show that replication is active the controller’s BaseMoveSp
+- **[Universal Game Development Tool Kit](https://devforum.roblox.com/t/universal-game-development-tool-kit/4948318)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: (This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked \| Discord: U.G.D \| Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is desig
 
 ---
 

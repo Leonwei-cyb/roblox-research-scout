@@ -627,7 +627,16 @@
     "9168ed898159aab79783298f",
     "470f3650aee837d04809039a",
     "d75e173f46e169c7cbc54a4d",
-    "512a0ecc1137d6177daadad1"
+    "512a0ecc1137d6177daadad1",
+    "b72656d159b6ab828acf6ecc",
+    "d9a22265dec38fa16436c351",
+    "6fd594962a7f15d78f379d8b",
+    "b93710672bd4f0f6d8764ad0",
+    "c2747faa44cef7001e4ba0be",
+    "ffb83988cb80e76547e1a1d5",
+    "acbd54324ec046a86c8b3d87",
+    "4c6462003b1c0b5f0e32d391",
+    "997e23f1b474bb136cf62da5"
   ],
   "items": [
     {
@@ -749,6 +758,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Universal Game Development Tool Kit",
+      "url": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948318",
+      "published": "2026-10-21",
+      "excerpt": "(This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked | Discord: U.G.D | Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is designed to be optimized, easy to use, scale, and keep the networ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948318.rss",
+      "id": "d9a22265dec38fa16436c351"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "New Roblox Game",
       "url": "https://devforum.roblox.com/t/new-roblox-game/4947340",
       "published": "2026-10-21",
@@ -815,6 +836,17 @@
       "id": "c3a4e6a9e4307ccf3321631d"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "All these wanna be developers are annoying",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbr3jx/all_these_wanna_be_developers_are_annoying/",
+      "published": "2026-10-21",
+      "excerpt": "Am I the only one noticing how so many people are just trying to earn money off of \"slop\" games? Like none of them are gonna succeed but they take up the algorithm. This takes away from actual developers that spend months on their work only to be overshadowed by these 3 prompt Claude games. What do ",
+      "creator": "/u/Ok-Score-8804 https://www.reddit.com/user/Ok-Score-8804",
+      "id": "c2747faa44cef7001e4ba0be"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -861,6 +893,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643.rss",
       "id": "bc1827cdfb4403f84914b475"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "i have a proplem with scripting",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbrwx2/i_have_a_proplem_with_scripting/",
+      "published": "2026-10-21",
+      "excerpt": "so i watched somone called brawldev up to his vidio about tasks and youc an ask me so good like aynthing (exzept somwaht function if somone culd explain the anynumos one i wuld be greatfull) and i culd tell you what it means or hwo the script works or why it works but if i try it myslef it wont work",
+      "creator": "/u/me_22333 https://www.reddit.com/user/me_22333",
+      "id": "b93710672bd4f0f6d8764ad0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "ControllerManager has very inconsistent replication behavior",
+      "url": "https://devforum.roblox.com/t/controllermanager-has-very-inconsistent-replication-behavior/4948346",
+      "published": "2026-10-21",
+      "excerpt": "On my machine, there’s a 50/50 chance that setting values on the ControllerManager will be replicated. Video: The following things were done: the model is renamed to “ASDFGHJKL” to show that replication is active the controller’s BaseMoveSpeed is immediately set to 100 1 second is another part of th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/controllermanager-has-very-inconsistent-replication-behavior/4948346.rss",
+      "id": "b72656d159b6ab828acf6ecc"
     },
     {
       "source": "roblox-devforum-latest",
@@ -929,6 +984,17 @@
       "excerpt": "I just released my first game and I was going to advertise it until I realised I need to be 18 to pay with a card for ads. To pay with robux, it costs 4x what I was going to pay and there is absolutley no way on Gods green earth im paying that. Is ther any other way to do it other than just posting ",
       "creator": "/u/RedVelvet0026 https://www.reddit.com/user/RedVelvet0026",
       "id": "7a4353ba000e22cc1f77b866"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Loot the Lab — steal creatures, run through traps, don’t get robbed",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbs4rn/loot_the_lab_steal_creatures_run_through_traps/",
+      "published": "2026-10-21",
+      "excerpt": "Solo dev here. Loot the Lab: you grab a creature crate in the lab and run it back to your base before someone punches it out of your hands. The twist: on the way back you pick your path. The grey corridor is long and safe. The other corridors are shorter, more dangerous, but if you survive the traps",
+      "creator": "/u/Blackdam88 https://www.reddit.com/user/Blackdam88",
+      "id": "6fd594962a7f15d78f379d8b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7330,62 +7396,6 @@
       "excerpt": "STOP PLAYING STEAL AN EGG…😭💔 #stealanegg #roblox #gaming Instagram",
       "creator": "",
       "id": "f4bbfef1f8c7805d3bdd8130"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Experiment egg in Steal An Egg #roblox #stealanegg #adminabuse #robloxevent #robloxshorts #robloxbrainrot - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1odGJmWGxuZzg1djVaOEFPd1ZOSVlFaWVhaE5IaXZwOXk2aGw0MTNCcnc2NldlZkxjWDJySTlwb3R1Q1lvYmFSV1hCNHo4aUZPV3dQOHZR?oc=5",
-      "published": "2026-09-20",
-      "excerpt": "Experiment egg in Steal An Egg #roblox #stealanegg #adminabuse #robloxevent #robloxshorts #robloxbrainrot Instagram",
-      "creator": "",
-      "id": "df12ca5a928d7185b829a41c"
-    },
-    {
-      "source": "roblox-animation-showcases",
-      "label": "Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2026 when:30d",
-      "category": "Animations and VFX",
-      "title": "Charm | Roblox Open Source Showcase #9 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FMzRlR0llX3ptUjBIU0Y5N0ZGdmFyc0VwUXotNEFBRHJjMFRfTVJfOVBUbnhkRDRRd1BlQWJPSlhTQzlCZkRmQktPNkdtUkswQ29qTGln?oc=5",
-      "published": "2026-09-20",
-      "excerpt": "Charm | Roblox Open Source Showcase #9 YouTube",
-      "creator": "",
-      "id": "8f29d56642e6fa94b1026f6e"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZXBTWmIxREgxYllaSnprcVhMYUd5ZnU5UGczZkxlVGpZLWRLcmJycUQ1QmVFTTJwU0FLdDRSR2hGYnNwSXhCV1pPbS1IN0pXSlUycFp3?oc=5",
-      "published": "2026-09-20",
-      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "736855d40e3700a17691c7d1"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "I’M BROKE SO I’M REVIEWING YOUR ROBLOX GAMES - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EVTNSTm9wdVM1YnEwY19KUGJaTjJiclEzMVhPcFVvc2k3eFlidDJpTVI1OHB1TmJZa2RZQ2hNWlExaS1zX1M2b0ZqU2dqWXZqclpTaUhn?oc=5",
-      "published": "2026-09-20",
-      "excerpt": "I’M BROKE SO I’M REVIEWING YOUR ROBLOX GAMES YouTube",
-      "creator": "",
-      "id": "3e2f42a2ad0f5100ceef7297"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "管理者秘密の部屋の入り方！裏技 | 卵を盗む！Steal an Egg(Roblox)#卵を盗む #ロブロックス #stealanegg #robloxshorts - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9faUdYaTFUSk5pa2Q0QTc4NHN1NGhtOVRaWXhuWXVWMTdoM3VEbjlCd3BkaHBxSmp3TEpIQkdsaGNDdWp2bHpMZWJxZ2RtZ0tvUkFMbmd3?oc=5",
-      "published": "2026-09-20",
-      "excerpt": "管理者秘密の部屋の入り方！裏技 | 卵を盗む！Steal an Egg(Roblox)#卵を盗む #ロブロックス #stealanegg #robloxshorts Instagram",
-      "creator": "",
-      "id": "2c36f8b9fdc2e5bba5069544"
     }
   ]
 }
