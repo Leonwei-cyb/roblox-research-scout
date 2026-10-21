@@ -131,6 +131,7 @@ class ResearchReporterTests(unittest.TestCase):
             self.assertRegex(item["title"], re.compile(
                 r.TITLE_GATES[item["topic"]], re.I))
             self.assertEqual(item["stage"], "UNVIEWED_METADATA")
+            self.assertTrue(r.relevant_title(item["topic"], item["title"]))
 
     def test_reject_generic_titles_that_are_not_a_player_loop_reference(self):
         cases = [
@@ -179,8 +180,8 @@ class ResearchReporterTests(unittest.TestCase):
         valid = (
             "Purchase Pads in Roblox Tycoon",
             "Roblox Tycoon Buttons Tutorial",
-            "Buy Desks for your Classroom",
-            "How to upgrade a classroom button",
+            "Buy Desks in Roblox Classroom",
+            "How to buy or upgrade a classroom button",
             "Tycoon conveyor pad build",
         )
         for title in valid:
@@ -196,6 +197,10 @@ class ResearchReporterTests(unittest.TestCase):
             "Tycoon upgrade system balancing guide",
             "What is the hardest part of balancing an upgrade system?",
             "Tycoon upgrade economy recommendations",
+            "How to build a standing desk",
+            "Desk construction tutorial",
+            "Roblox Studio desk construction tutorial",
+            "Upgrade classroom button styles",
         )
         for title in unrelated:
             with self.subTest(title=title):
@@ -231,6 +236,8 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertEqual(report["inspected_videos"], 0)
         self.assertTrue(all(p["creator_verified"] is False for p in report["candidates"]))
         self.assertEqual(md, r.render(report) + "\n")
+        source_index = json.loads((watch / "learning_index.json").read_text(encoding="utf-8"))
+        self.assertEqual(report, r.analyze(source_index))
         self.assertNotIn("Mastering Server Authority to Build Competitive Multiplayer Games", md)
         self.assertNotIn("to Copy This Mobile Game", md)
 
