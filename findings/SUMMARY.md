@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-21T10:36:22Z (local, ok)
+- Last run: 2026-10-21T12:26:51Z (schedule, partial)
 - Repos tracked: 191; adopt 0, needs-test 76, reject 115
 - Actionable backlog: 72
-- Feed health: ok 38
+- Feed health: deferred 6, ok 31
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin arjitj2/open-pstack@​a16c327, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 95 · [cskwork/oh-my-symphony](https://github.com/cskwork/oh-my-symphony/tree/796e9de45c777399b02c4ec71fa0e4db4659350b)
   - Pin cskwork/oh-my-symphony@​796e9de, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #1581 Fix: stop reporting provider account states \(credit balance, OAuth refresh race\) as AgentError group
-- Issue updated: open-mercato/cezar #1580 Fix: Copilot auth probe still reports unrecognized\_output on 0.16.1 for a non-ACP copilot \(telemetry
-- Issue updated: open-mercato/cezar #1579 Fix: macOS folder-access loss turns a sent message into a 500 and provider probes into unrecognized\_
-- Issue updated: open-mercato/cezar #1578 Fix: a dispatched child that switches runner inherits the parent's model \(telemetry 14b88647, 43bdda
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2576 brainstorming: a bug report gets a restate-and-confirm turn instead of an investigation, and questio
-- Issue updated: obra/superpowers #2575 Add support for DeepSeek harness
-- Issue updated: obra/superpowers #2574 Skill-authoring guidance: capability-consuming steps should fall back for restricted environments, n
-- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
-- Issue updated: obra/superpowers #2567 brainstorming: the Builder check has a fallback for "no subagent tool" but not for a harness that on
-- Issue updated: earendil-works/pi #9656 Mouse wheel scrolls prompt history instead of transcript in fullscreen on Windows + Zellij
-- Issue updated: earendil-works/pi #11058 Split-turn compaction drops /compact custom instructions from the turn-prefix summary
-- Issue updated: earendil-works/pi #10844 streamProxy rewrites an accepted done message to error when the body fails afterward
-- Issue updated: earendil-works/pi #10984 Chat session throws persistent errors when sending images to non-image models
-- Issue updated: earendil-works/pi #11112 Let prepareArguments see \(and repair\) tool-call arguments that failed to parse
-- Issue updated: OpenHands/OpenHands #18750 \[Feature\]: Add /create-team AI team with a charter, a lead, shared task state, and shared delivery
-- Issue updated: OpenHands/OpenHands #18749 \[Feature\]: Block PRs that add known-vulnerable npm dependencies
-- Issue updated: OpenHands/OpenHands #18746 Agent profiles on Cloud: 'default' gets local-only rules, and home LLM picks don't save
-- Issue updated: OpenHands/OpenHands #18744 \[Bug\]: uvx-resolved litellm =1.106 crashes every tool-calling LLM request \(mcp.types ImportError\) —
-- Issue updated: OpenHands/OpenHands #18745 \[Feature\]: A machine-readable record of each test run, so “tests pass” in a PR can be checked
-- Issue updated: modelcontextprotocol/servers #5180 filesystem: expandHome\(\) does not handle Windows backslash separator \(\~\\path\)
-- Issue updated: modelcontextprotocol/servers #5217 Filesystem symlinks leak external file metadata
-- Issue updated: anthropics/claude-code #103973 Subagent relays explicit user instructions back to the coordinator instead of acting, and reports wr
-- Issue updated: anthropics/claude-code #103972 \[FEATURE\] Claude Desktop: support a workspace folder with many git repos, not only a single repo
-- Issue updated: anthropics/claude-code #103971 \[FEATURE\] Claude Desktop: session grid with a focus queue — see all sessions at once, the main one s
-- Issue updated: anthropics/claude-code #101193 \[FEATURE\] Desktop: coordinate heavy local work across concurrent sessions instead of letting every s
-- Issue updated: anthropics/claude-code #103969 \[BUG\] Can't access Opus after resubscribing to Max plan
-- Issue updated: openai/codex #55794 \[Windows Desktop\] Bundled plugin sync fails with copyfile UNKNOWN; IAB remains undiscoverable after
-- Issue updated: openai/codex #55857 Persistent "Selected model is at capacity" error across Codex Web, Desktop, and CLI
-- Issue updated: openai/codex #49648 Windows desktop white-screen hang: CrBrowserMain CPU-bound in UI Automation text attribute callback
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
