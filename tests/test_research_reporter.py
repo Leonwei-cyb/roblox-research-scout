@@ -121,11 +121,6 @@ class ResearchReporterTests(unittest.TestCase):
         raw = json.loads(source.read_text(encoding="utf-8"))
         index = learning_radar.triage(raw["items"])
         report = r.analyze(index)
-        # Temporary public-metadata report snapshot from the exact Python CI merge worktree.
-        print("LEON_REPORT_SNAPSHOT_V2:" + json.dumps({
-            "json": json.dumps(report, indent=2, ensure_ascii=False) + "\n",
-            "md": r.render(report) + "\n",
-        }, ensure_ascii=False, separators=(",", ":")))
         self.assertLessEqual(len(report["candidates"]), 6)
         self.assertEqual(report["observed_gameplay_findings"], 0)
         self.assertEqual(len({x["key"] for x in report["candidates"]}),
@@ -241,6 +236,8 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertEqual(report["inspected_videos"], 0)
         self.assertTrue(all(p["creator_verified"] is False for p in report["candidates"]))
         self.assertEqual(md, r.render(report) + "\n")
+        source_index = json.loads((watch / "learning_index.json").read_text(encoding="utf-8"))
+        self.assertEqual(report, r.analyze(source_index))
         self.assertNotIn("Mastering Server Authority to Build Competitive Multiplayer Games", md)
         self.assertNotIn("to Copy This Mobile Game", md)
 
