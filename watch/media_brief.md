@@ -5,25 +5,24 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[Bocoran Update dr. Scramble's Revenge! Ada 20 Pet Baru! #stealanegg #roblox #robloxfyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQmxjT1hZQjJ3QW11bWhKU2hlbFZxeGtmNzZXYzdYU0N1UFNEa0NiRFlJaDJSblZTU1QwV1didmRFQnQxQnNuYk1fV0lFa1hubUhDSE1R?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-26
+  - Feed excerpt: Bocoran Update dr. Scramble's Revenge! Ada 20 Pet Baru! #stealanegg #roblox #robloxfyp Instagram
+
 ## Community
 
-- **[I'm making an open-world sci-fi looter-shooter in Roblox! Here's my progress so far.](https://www.reddit.com/r/ROBLOXStudio/comments/1xbes4j/im_making_an_openworld_scifi_lootershooter_in/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: I've been working on an open-world sci-fi looter-shooter in Roblox Studio. So far, I've built a movement system, weapons, armour customization, enemy AI, and a floating companion called the Shard. I'm going for a blocky sci-fi art style, wi
-- **[Is it normal to play a level from a game made by me and being scared knowing there's nothing to be afraid of?](https://www.reddit.com/r/ROBLOXStudio/comments/1xbe2ow/is_it_normal_to_play_a_level_from_a_game_made_by/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Sneak from my game btw submitted by /u/Sentuva \[link\] \[comments\]
-- **[game idea](https://www.reddit.com/r/ROBLOXStudio/comments/1xbemhn/game_idea/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: If i made a game today about quick round based fighting free for all. visually simple cartoony low poly with more serious undertoned color palette. Fast paced, brawlhalla vibe where you either die by getting knocked off a large arena, or if
+- **[Does anyone know how to get rid of the textures that appear here when you use an image from your computer's archive?](https://www.reddit.com/r/ROBLOXStudio/comments/1xbfo6a/does_anyone_know_how_to_get_rid_of_the_textures/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: https://preview.redd.it/llvklcvikrwh1.png?width=367&format=png&auto=webp&s=1f8a6d278a3ad3d9c47de02e29bb0329a22d38a6 I've tried deleting them from the resource manager but the option to delete them doesn't show up, and I tried searching it o
 
 ## Roblox Updates
 
-- **[Global shadows from sun do not disappear with specific properties](https://devforum.roblox.com/t/global-shadows-from-sun-do-not-disappear-with-specific-properties/4947525)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Recently, Soft lighting appears to not work well with the Global Shadows bool. In the video below, Global shadows disappear when I have realistic lighting but not with soft lighting. It was working last week, but this week it appears to hav
-- **[Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Officially Deprecate LocalScript in Studio’s Insert Object Menu I would like to request that Roblox officially deprecate the LocalScript instance in Studio’s Insert Object menu and instead encourage developers to use a regular Script with R
-- **[Trailer Video follows Video Quality Guidelines and gets denied](https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: To the best of my knowledge, my video trailer follows the guidelines listed in the documentation tab and has still been denied twice by the AI moderation. All of the footage was screen-recorded in-game, and the 3 or 4 freecam shots simply s
-- **[What should i add?](https://devforum.roblox.com/t/what-should-i-add/4947593)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Heres what made so far Video What should i add? Let your imagination let free! 4 posts - 2 participants Read full topic
+- **[AOONI NIGHTMARE: Developer product purchase failure and account-specific pricing differences](https://devforum.roblox.com/t/aooni-nightmare-developer-product-purchase-failure-and-account-specific-pricing-differences/4947665)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: I am unable to purchase any in-game products in AOONI NIGHTMARE using my account, which has developer permissions for the experience. This issue affects all in-game products, not just the “Revive Heart x3 Pack.” Every purchase I attempt fai
+- **[Add a "Scripted" Option to the Maturity Questionnaire](https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Add a “Scripted” Option to the Maturity Questionnaire I would like to request an additional “Scripted” option for applicable questions in Roblox’s experience maturity questionnaire, allowing developers to dynamically adjust content intensit
+- **[Catastrophic studio memory leak](https://devforum.roblox.com/t/catastrophic-studio-memory-leak/4947698)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: When editing my game, Studio memory filled completely within 20 minutes, causing my entire PC to freeze. My System: Windows 11 desktop with intel cpu, nvidia gpu, and 32 GB DDR5 RAM I have confirmed it also affects a friend who tested the r
 
 ---
 

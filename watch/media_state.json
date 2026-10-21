@@ -593,7 +593,12 @@
     "532b829ed52bfc09ad617954",
     "e977fa8311b98a8dcd480684",
     "f75f5075090df5322daa9d9b",
-    "6022239f221d1ddfde9f3e1c"
+    "6022239f221d1ddfde9f3e1c",
+    "ae6c0555370d5c97bad8bece",
+    "8800c28dc84ba1f1862f12cb",
+    "dce12687c31a96be465fcac0",
+    "d0fee80443c82d1ea17f7929",
+    "e0c8851d729f2cd8a6a60182"
   ],
   "items": [
     {
@@ -679,6 +684,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "AOONI NIGHTMARE: Developer product purchase failure and account-specific pricing differences",
+      "url": "https://devforum.roblox.com/t/aooni-nightmare-developer-product-purchase-failure-and-account-specific-pricing-differences/4947665",
+      "published": "2026-10-21",
+      "excerpt": "I am unable to purchase any in-game products in AOONI NIGHTMARE using my account, which has developer permissions for the experience. This issue affects all in-game products, not just the “Revive Heart x3 Pack.” Every purchase I attempt fails. The attached screenshot shows the “Revive Heart x3 Pack”",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/aooni-nightmare-developer-product-purchase-failure-and-account-specific-pricing-differences/4947665.rss",
+      "id": "dce12687c31a96be465fcac0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "New Roblox Game",
       "url": "https://devforum.roblox.com/t/new-roblox-game/4947340",
       "published": "2026-10-21",
@@ -709,6 +726,17 @@
       "excerpt": "I’m making a game on Roblox where a judge is chosen, and two other players get chosen to answer the questions on the screen. The judge chooses whose answer is the best or most creative, and shoots one of them. It requires at least 3 players. I really need help with 3 players joining (including me) T",
       "creator": "/u/Miles_CoolGuy https://www.reddit.com/user/Miles_CoolGuy",
       "id": "d1db860f5ebde075784e9569"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Does anyone know how to get rid of the textures that appear here when you use an image from your computer's archive?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbfo6a/does_anyone_know_how_to_get_rid_of_the_textures/",
+      "published": "2026-10-21",
+      "excerpt": "https://preview.redd.it/llvklcvikrwh1.png?width=367&format=png&auto=webp&s=1f8a6d278a3ad3d9c47de02e29bb0329a22d38a6 I've tried deleting them from the resource manager but the option to delete them doesn't show up, and I tried searching it online but apparently no one is as dumb as me to have this pr",
+      "creator": "/u/Wild_Society_7357 https://www.reddit.com/user/Wild_Society_7357",
+      "id": "d0fee80443c82d1ea17f7929"
     },
     {
       "source": "roblox-devforum-latest",
@@ -745,6 +773,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643.rss",
       "id": "bc1827cdfb4403f84914b475"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Catastrophic studio memory leak",
+      "url": "https://devforum.roblox.com/t/catastrophic-studio-memory-leak/4947698",
+      "published": "2026-10-21",
+      "excerpt": "When editing my game, Studio memory filled completely within 20 minutes, causing my entire PC to freeze. My System: Windows 11 desktop with intel cpu, nvidia gpu, and 32 GB DDR5 RAM I have confirmed it also affects a friend who tested the repro on a different system. The culprit is something to do w",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/catastrophic-studio-memory-leak/4947698.rss",
+      "id": "ae6c0555370d5c97bad8bece"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add a \"Scripted\" Option to the Maturity Questionnaire",
+      "url": "https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674",
+      "published": "2026-10-21",
+      "excerpt": "Add a “Scripted” Option to the Maturity Questionnaire I would like to request an additional “Scripted” option for applicable questions in Roblox’s experience maturity questionnaire, allowing developers to dynamically adjust content intensity based on the policies applicable to each player. The Probl",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674.rss",
+      "id": "8800c28dc84ba1f1862f12cb"
     },
     {
       "source": "reddit-robloxstudio",
@@ -6704,6 +6756,18 @@
       "creator": "",
       "publisher": "https://www.youtube.com",
       "id": "f77b023bbf844b7abcce8d00"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Bocoran Update dr. Scramble's Revenge! Ada 20 Pet Baru! #stealanegg #roblox #robloxfyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQmxjT1hZQjJ3QW11bWhKU2hlbFZxeGtmNzZXYzdYU0N1UFNEa0NiRFlJaDJSblZTU1QwV1didmRFQnQxQnNuYk1fV0lFa1hubUhDSE1R?oc=5",
+      "published": "2026-09-26",
+      "excerpt": "Bocoran Update dr. Scramble's Revenge! Ada 20 Pet Baru! #stealanegg #roblox #robloxfyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "e0c8851d729f2cd8a6a60182"
     },
     {
       "source": "syphodev-claude",

@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [AppitStudio/awesome-jev](https://github.com/AppitStudio/awesome-jev) (108 stars). Curated Jev resources and runnable examples for typed AI decisions.
+- **Unreviewed lead:** [ZonghaoLi777/githubTrending](https://github.com/ZonghaoLi777/githubTrending) (13 stars). 
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

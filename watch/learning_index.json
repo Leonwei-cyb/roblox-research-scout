@@ -1,6 +1,6 @@
 {
-  "records_read": 593,
-  "unique_posts": 591,
+  "records_read": 598,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -827,6 +827,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4947674:1",
+      "url": "https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674",
+      "title": "Add a \"Scripted\" Option to the Maturity Questionnaire",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8wtq2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8wtq2/should_i_find_a_modeller_or_just_learn_to_model/",
       "title": "Should I find a modeller or just learn to model myself?",
@@ -1400,6 +1414,32 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947665:1",
+      "url": "https://devforum.roblox.com/t/aooni-nightmare-developer-product-purchase-failure-and-account-specific-pricing-differences/4947665",
+      "title": "AOONI NIGHTMARE: Developer product purchase failure and account-specific pricing differences",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "physical tycoon purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947698:1",
+      "url": "https://devforum.roblox.com/t/catastrophic-studio-memory-leak/4947698",
+      "title": "Catastrophic studio memory leak",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4361,6 +4401,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xbfo6a",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbfo6a/does_anyone_know_how_to_get_rid_of_the_textures/",
+      "title": "Does anyone know how to get rid of the textures that appear here when you use an image from your computer's archive?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV?oc=5",
       "title": "Dan Kornas (@DanKornas) - X",
@@ -5758,6 +5809,19 @@
       "published": "2026-10-13",
       "kind": "index-only",
       "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9tQmxjT1hZQjJ3QW11bWhKU2hlbFZxeGtmNzZXYzdYU0N1UFNEa0NiRFlJaDJSblZTU1QwV1didmRFQnQxQnNuYk1fV0lFa1hubUhDSE1R",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQmxjT1hZQjJ3QW11bWhKU2hlbFZxeGtmNzZXYzdYU0N1UFNEa0NiRFlJaDJSblZTU1QwV1didmRFQnQxQnNuYk1fV0lFa1hubUhDSE1R?oc=5",
+      "title": "Bocoran Update dr. Scramble's Revenge! Ada 20 Pet Baru! #stealanegg #roblox #robloxfyp - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-09-26",
+      "kind": "index-only",
+      "signals": [
+        "cat animation and audio"
+      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
