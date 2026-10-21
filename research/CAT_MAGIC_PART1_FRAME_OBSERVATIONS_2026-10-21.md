@@ -31,6 +31,21 @@
 
 **What this directly improves:** Evidence for the initial onboarding/tuition loop, UI field hierarchy, entrance queues, classroom growth, visible in-world expansion target, and which systems appear in a substantial Part 1 recording. It is **not** proof of proprietary game assets being licensed for use.
 
+## Directly observed first reward sequence — dense second-by-second sampling
+
+From **[KruMobile 00:47–01:02](https://www.youtube.com/watch?v=N4u9-2ZNwXM&t=47s)**, **16 consecutive one-second frame samples** (the original video was sampled, not watched continuously):
+
+1. **00:47–00:53:** Cat students move through the admissions hallway toward the newly built room. They change on-screen locations across adjacent samples, though sprite gait/keyframes cannot be resolved reliably at this resolution.
+2. **00:54–00:56:** A cat is at the class station and a green circular progress indicator is visible above the student/classroom activity.
+3. **00:57–00:58:** Gold/coin particles appear, with a readable floating **+51** near the teaching station; the main coin counter also increases.
+4. **00:59:** Weasley tutorial states **“Wow! You received your first tuition payment!”**
+5. **01:00–01:01:** Tutorial explains that students completing lectures provide tuition.
+6. **01:02:** Tutorial explicitly says **“Upgrade your classroom to increase tuition.”**
+
+**Consequence:** The authentic first-minute sequence is **free classroom unlock → follow a cat into teaching → visible class-progress arc → tuition +coin burst → immediate upgrade instruction**. This is an unusually concrete acceptance target for the future Roblox vertical slice; it provides stronger evidence than general descriptions or license-checked tycoon code. Do **not** use the exact +51 amount as an economy requirement (a single observed session). Sound, actual touch targets, discrete sprite walk/sit frames and how success probability is computed remain unverified.
+
+---
+
 ## Independent second walkthrough — visually cross-checked (2026-10-21)
 
 - **Source:** [TanJinGames — Cat Magic School: Cute Tycoon, Gameplay Walkthrough Part 1](https://www.youtube.com/watch?v=J-FsPaDFgLg), metadata length **13:30**.
