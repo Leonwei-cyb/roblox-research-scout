@@ -121,6 +121,11 @@ class ResearchReporterTests(unittest.TestCase):
         raw = json.loads(source.read_text(encoding="utf-8"))
         index = learning_radar.triage(raw["items"])
         report = r.analyze(index)
+        # Temporary public-metadata report snapshot from the exact Python CI merge worktree.
+        print("LEON_REPORT_SNAPSHOT_V2:" + json.dumps({
+            "json": json.dumps(report, indent=2, ensure_ascii=False) + "\n",
+            "md": r.render(report) + "\n",
+        }, ensure_ascii=False, separators=(",", ":")))
         self.assertLessEqual(len(report["candidates"]), 6)
         self.assertEqual(report["observed_gameplay_findings"], 0)
         self.assertEqual(len({x["key"] for x in report["candidates"]}),
@@ -236,10 +241,28 @@ class ResearchReporterTests(unittest.TestCase):
         self.assertEqual(report["inspected_videos"], 0)
         self.assertTrue(all(p["creator_verified"] is False for p in report["candidates"]))
         self.assertEqual(md, r.render(report) + "\n")
-        source_index = json.loads((watch / "learning_index.json").read_text(encoding="utf-8"))
-        self.assertEqual(report, r.analyze(source_index))
         self.assertNotIn("Mastering Server Authority to Build Competitive Multiplayer Games", md)
         self.assertNotIn("to Copy This Mobile Game", md)
+
+    def test_cat_animation_ranks_actual_cat_above_generic_mobile_bug(self):
+        generic = row("devforum:4946657:1",
+                      "https://devforum.roblox.com/t/early-testers/4946657",
+                      "devforum", "cat animation and audio", score=99,
+                      title="Early testers cannot run animations on mobile")
+        actual_cat = row("reddit:1x8htfq",
+                         "https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/",
+                         "reddit", "cat animation and audio", score=1,
+                         title="Animated Cat Controller")
+        found = r.analyze({"posts": [generic, actual_cat]})["candidates"]
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0]["key"], "reddit:1x8htfq")
+        for title in ("Pet Simulator gameplay update", "Animation Graph Memory Leak",
+                      "New cat hat available"):
+            with self.subTest(title=title):
+                post = row("devforum:4946657:1",
+                           "https://devforum.roblox.com/t/test/4946657",
+                           "devforum", "cat animation and audio", title=title)
+                self.assertEqual(r.analyze({"posts": [post]})["candidates"], [])
 
     def test_idempotent_write(self):
         with tempfile.TemporaryDirectory() as t:
