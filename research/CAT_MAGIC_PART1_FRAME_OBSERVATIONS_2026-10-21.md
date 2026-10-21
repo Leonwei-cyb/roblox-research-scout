@@ -31,9 +31,25 @@
 
 **What this directly improves:** Evidence for the initial onboarding/tuition loop, UI field hierarchy, entrance queues, classroom growth, visible in-world expansion target, and which systems appear in a substantial Part 1 recording. It is **not** proof of proprietary game assets being licensed for use.
 
+## Independent second walkthrough — visually cross-checked (2026-10-21)
+
+- **Source:** [TanJinGames — Cat Magic School: Cute Tycoon, Gameplay Walkthrough Part 1](https://www.youtube.com/watch?v=J-FsPaDFgLg), metadata length **13:30**.
+- **Method:** Existing Mac tools retrieved the public video to `/tmp`, sampled 00:00–13:20, cropped its portrait game image from a landscape recording with blurred sidebars, and inspected dense **one-second consecutive frames from 00:39 through 00:54**. Video-only; no audio. No copyrighted frames placed in this repository. Distinct uploader/video; **not proof of a different build version**.
+- **[00:44–00:47](https://www.youtube.com/watch?v=J-FsPaDFgLg&t=44s):** A **“Magic Theory — Free”** plot marker carries a green check indicator, the tutorial's white hand/finger points at the marker, and within the next few sampled seconds an illuminated classroom floor/desks appear. This corroborates the first video's rapid FREE classroom construction, and establishes a **visible tutorial interaction target**. It does **not** reveal a native Roblox-style purchase pad or the original game's internal touch/input API.
+- **[00:50](https://www.youtube.com/watch?v=J-FsPaDFgLg&t=50s):** Weasley explicitly tells the player to follow a student going to the classroom. The onboarding sequence is **free classroom unlock → visibly constructed room → follow student → teaching/reward**, rather than player buying a dropper first.
+- **[01:15](https://www.youtube.com/watch?v=J-FsPaDFgLg&t=75s):** The **Magic Theory** classroom upgrade panel is onscreen with tuition, success, desks, duration, and upgrades. Its exact numeric values in this compressed source were not used as requirements.
+- **[03:00](https://www.youtube.com/watch?v=J-FsPaDFgLg&t=180s):** A separate **Basic Magic** classroom panel demonstrates the same class-upgrade structure.
+- **[05:20](https://www.youtube.com/watch?v=J-FsPaDFgLg&t=320s):** Admissions staff panel is revisited during progression, independent of classroom upgrades.
+- **[07:20–09:20](https://www.youtube.com/watch?v=J-FsPaDFgLg&t=440s):** A school-fame competition screen and a later **WIN** results/reward panel are shown. This mechanic is a *later beta/full-game candidate*, not necessary for the first classroom slice.
+- **Timebase validation:** The OpenCV-reported frame counts falsely implied ~2× the true runtime; we checked `CAP_PROP_POS_MSEC` and confirmed video timestamps clamp at **~810s** (TanJinGames) / **~906s** (KruMobile), matching source metadata. Discarded any sampled frames after these end times. Timecodes above are within verified playback duration.
+
+**Corroborated design rule:** A free highlighted first-classroom interaction, immediately visible construction, a student being followed into lessons, separate admission/tuition cashflows, class-specific capacity/time/progression panels, and green affordability actions. This is independently sampled from two recordings, **not a full two-video continuous watch**.
+
+---
+
 ## Explicit unverified/blocked details
 
-- Exact first **purchase-pad input** and touch target (observed completed build but not verified interaction mechanism).
+- Native touch input implementation and whether the original has a **Roblox-style purchase pad** remain unverified. The second recording **does show an on-screen hand prompt pointing to a FREE classroom unlock marker**.
 - Cat **skeletal or sprite gait**, sitting, casting, sound design, animation blend timings and phone/PC performance.
 - Continuous start-to-finish analysis of every video frame; other episodes and complete long-term game progression.
 - Local Roblox Cat Magic normal-player behavior, original cat rig compatibility, multiplayer data persistence.
@@ -57,6 +73,12 @@ For PC-first Roblox visuals, keep the owner's **blue outdoor grass**, simple nat
 
 ## Next most valuable action
 
-Inspect the **precise input and transition during 00:35–00:45** in this video (dense consecutive frames; capture the actual build/purchase gesture if visible), then review a second public walkthrough for cross-version confirmation. Record any difference before Codex touches Cat Magic. The research-first pause continues.
+Complete one controlled **cat movement and UI-feel evidence pass** using short consecutive intervals in the existing source footage (walking/queue entry, desk/lesson activity, tuition popup, sound if a permitted audio playback path exists). Record specifically which motions or sounds are *seen/heard* versus unverified. Then compare the documented loop with the existing Cat Magic Roblox first-session evidence, without opening or editing Studio unless separately authorized. The research-first pause continues.
 
 **Research Scout vs game evidence:** `watch/cat_magic_research_report.md` on `main` remains metadata-generated and may still show zero inspected videos; this manually inspected **source-verified report is on the separate review branch**, not deployed into Scout's automatic counters. Do not silently re-label its generated metrics or claim a shipped gameplay update.
+
+## Offline Research Scout regression receipt (2026-10-21)
+
+- On a **disposable local checkout** (not the active `~/Library/Application Support/LeonScout/repo`), the branch's specialist cursor correction and adjusted rate-limit fixture passed **77 / 77** offline tests with `PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -p 'test_discovery*.py' -v`.
+- Exact source HEAD tested: `9aa682f119773b12b03cf9d95147608eac54f0cc` (earlier offline attempt failed 1/77 because a legacy synthetic topic was not assigned to a specialist lane; the scoped fixture was fixed and retested). This report-only edit does not affect discovery code.
+- The test suite used local mock GitHub clients; **no real Mac specialist discovery scan**, new GitHub Actions, or production launchd deployment was performed.
