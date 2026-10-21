@@ -50,12 +50,18 @@ TITLE_GATES = {
         r"|\bmobile.{0,18}(ui|controls?|tutorial|onboard|experience)"
     ),
     "physical tycoon purchases": (
-        r"\btycoon\b.{0,24}\b(purchase|buy|pad|button|build|upgrade)\b"
-        r"|\b(purchas|buy|upgrad)\w*.{0,16}\b(pad|button|desk|classroom|building)\b"
-        r"|\b(build|construct)\w*.{0,18}\b(animation|effect|purchase|pad|button|desk)\b"
+        # A real physical object and a purchase/tycoon action must BOTH occur.
+        # Allow plural pad/buttons and either wording order ("Tycoon Buttons",
+        # "Purchase Pads in Roblox Tycoon") but reject generic economy guides.
+        r"\b(?:tycoon|purchas\w*|buy\w*|upgrad\w*|build\w*|construct\w*|unlock\w*)\b"
+        r".{0,36}\b(?:pads?|buttons?|desks?|classrooms?|droppers?|conveyors?|stands?)\b"
+        r"|\b(?:pads?|buttons?|desks?|classrooms?|droppers?|conveyors?|stands?)\b"
+        r".{0,36}\b(?:tycoon|purchas\w*|buy\w*|upgrad\w*|build\w*|construct\w*|unlock\w*)\b"
     ),
     "cat animation and audio": (
-        r"\banimat\w*.{0,16}(cat|pet)|\b(cat|pet).{0,18}(animation|controller|walking|rig|movement)"
+        r"\banimat\w*.{0,16}(cat|pet)"
+        r"|\b(cat|pet).{0,24}(animation|controller|walking|rig|movement|sounds?|audio|sfx|meow|purr|music|footsteps?)"
+        r"|\b(sounds?|audio|sfx|meow|purr|music).{0,24}(cat|pet)\b"
         r"|\b(character|avatar).{0,12}animation|\banimation.{0,15}(mobile|game feel)"
     ),
     "UI and menus": r"\bui\b|\bhud\b|\bshop\b|\bmenu\b|\binventory\b|\bhotbar\b",
