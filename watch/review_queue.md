@@ -7,8 +7,8 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk)** — Original media link, not watched
+- **[Just released my tower defense game, looking for testers and feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/)** — Public text/page, video not confirmed
 - **[XyLo \| Scripter \| Tower Defense & Game Systems](https://devforum.roblox.com/t/xylo-scripter-tower-defense-game-systems/4946218)** — Public text/page, video not confirmed
-- **[What is the hardest part of balancing an upgrade system?](https://www.reddit.com/r/robloxgamedev/comments/1xaq2cx/what_is_the_hardest_part_of_balancing_an_upgrade/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 

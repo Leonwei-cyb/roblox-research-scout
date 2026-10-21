@@ -571,9 +571,52 @@
     "4caa8e6ec3914b0c4d580ac3",
     "2cbbe3f9c174eb378f1dfacb",
     "d7c3b66841c98e7eb9f90a05",
-    "d1db860f5ebde075784e9569"
+    "d1db860f5ebde075784e9569",
+    "f8f491cc4002713384b1e27e",
+    "62091f636f6db8149725b155",
+    "67337b4c14e12e01f6b97d3c",
+    "c118e7688921bdf6acb1a3f4",
+    "6d7a2838dc0d78a17995c69e",
+    "4666c980c0631a85e0f25541",
+    "f8f161d5d672e311d6fb4cd6",
+    "e0015ca26636db277a0282b4",
+    "86be1a519315d1d8920672ca"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Developer's 6 months free Roblox Plus is ending in 1 month",
+      "url": "https://devforum.roblox.com/t/developers-6-months-free-roblox-plus-is-ending-in-1-month/4947443",
+      "published": "2026-10-21",
+      "excerpt": "I’m still unable to buy a paid subscription because of the free trial. When it ends, I would greatly prefer not to have to restart my Roblox Plus subscription from 0 and miss out on the 20% discount for 3 months afterwards (and it’s cool if the subscription is active since the day it came out). Are ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/developers-6-months-free-roblox-plus-is-ending-in-1-month/4947443.rss",
+      "id": "f8f491cc4002713384b1e27e"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for someone to help me with updating my game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbaz6e/looking_for_someone_to_help_me_with_updating_my/",
+      "published": "2026-10-21",
+      "excerpt": "My games metrics are pretty good, median is 8.1 minutes average playtime is 26.5 minutes. Ive racked up 457 hours of playtime from 1248 players. With my top 25 players ranging from 3 hours to 14 hours. The issue with longevity is my game just doesnt have enough content, Ive had requests to add more ",
+      "creator": "/u/UnbloxingLIVE https://www.reddit.com/user/UnbloxingLIVE",
+      "id": "f8f161d5d672e311d6fb4cd6"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Rigging problems",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbapek/rigging_problems/",
+      "published": "2026-10-21",
+      "excerpt": "Anyone know why this is happening? submitted by /u/TaMk42 [link] [comments]",
+      "creator": "/u/TaMk42 https://www.reddit.com/user/TaMk42",
+      "id": "e0015ca26636db277a0282b4"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -596,6 +639,77 @@
       "excerpt": "I’m making a game on Roblox where a judge is chosen, and two other players get chosen to answer the questions on the screen. The judge chooses whose answer is the best or most creative, and shoots one of them. It requires at least 3 players. I really need help with 3 players joining (including me) T",
       "creator": "/u/Miles_CoolGuy https://www.reddit.com/user/Miles_CoolGuy",
       "id": "d1db860f5ebde075784e9569"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SVG icons in Roblox, rendered at runtime",
+      "url": "https://devforum.roblox.com/t/svg-icons-in-roblox-rendered-at-runtime/4947402",
+      "published": "2026-10-21",
+      "excerpt": "Hey everyone. I got tired of uploading a PNG for every icon at every size, so I built a thing that renders SVG paths directly into EditableImage s at runtime. No uploads. No asset IDs. Any size you want. Includes Material Symbols support — Google’s full icon set, rendered at runtime. No font hacks, ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/svg-icons-in-roblox-rendered-at-runtime/4947402.rss",
+      "id": "c118e7688921bdf6acb1a3f4"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Just released my tower defense game, looking for testers and feedback",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/",
+      "published": "2026-10-21",
+      "excerpt": "Hey, I just released a tower defense game called Bobblefall Defense. You summon units, build a team, and climb tower floors against bosses, and there's a limited-time Halloween event running now. It's still in beta, and right now I mainly want people to test it and tell me what needs work: balance, ",
+      "creator": "/u/Aggravating_Idea9614 https://www.reddit.com/user/Aggravating_Idea9614",
+      "id": "86be1a519315d1d8920672ca"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Top down coop shooter game",
+      "url": "https://devforum.roblox.com/t/top-down-coop-shooter-game/4947368",
+      "published": "2026-10-21",
+      "excerpt": "I’ve been working on a game for the past few months and I’m happy to finally let you know that we’re beginning closed testing. It’s a Top-down zombie shooter game with PvPvE called Deathlocked. I have attached the discord link below if you’re interested. We’re looking for people to test the game bef",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/top-down-coop-shooter-game/4947368.rss",
+      "id": "6d7a2838dc0d78a17995c69e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "LinearVelocity Velocity = Vector.zero not working on ground",
+      "url": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408",
+      "published": "2026-10-21",
+      "excerpt": "I wanted to make the player get forced to certain position (such as move a bit forward with attack) and stop the player from moving away so I Used LinearVelocity, but it seems to be bugging on the ground, it causes the character to rotate and move towards anywhere else but the same position Video: 3",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408.rss",
+      "id": "67337b4c14e12e01f6b97d3c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Combat Legends Beta Testing Recruitment [OPEN]",
+      "url": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409",
+      "published": "2026-10-21",
+      "excerpt": "Combat Legends Beta Testing Hey everyone! I hope you all are doing well, I am Icy, the founder and CEO of a small game development team on the Roblox platform. Recently, we announced that our up and coming game, Combat Legends will be entering its closed beta testing phase! This project has been in ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409.rss",
+      "id": "62091f636f6db8149725b155"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "TextChatService game take down",
+      "url": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366",
+      "published": "2026-10-21",
+      "excerpt": "I seen multiple topics on this and have posted multiple comments on various topics relating to this issue, just thought I’d chime in and post a topic to see if it’ll maybe gain attention from people who haven’t seen the other posts because this is bizzar. My first moderation action occurred around t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366.rss",
+      "id": "4666c980c0631a85e0f25541"
     },
     {
       "source": "roblox-devforum-latest",

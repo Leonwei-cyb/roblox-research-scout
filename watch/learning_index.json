@@ -1,6 +1,6 @@
 {
-  "records_read": 571,
-  "unique_posts": 570,
+  "records_read": 580,
+  "unique_posts": 579,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -945,6 +945,20 @@
       "signals": [
         "physical tycoon purchases",
         "world and visual design"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xb91uu",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/",
+      "title": "Just released my tower defense game, looking for testers and feedback",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases",
+        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2678,6 +2692,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4947408:1",
+      "url": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408",
+      "title": "LinearVelocity Velocity = Vector.zero not working on ground",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947443:1",
+      "url": "https://devforum.roblox.com/t/developers-6-months-free-roblox-plus-is-ending-in-1-month/4947443",
+      "title": "Developer's 6 months free Roblox Plus is ending in 1 month",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [
+        "physical tycoon purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -2980,6 +3020,19 @@
       "key": "reddit:1xb8q3l",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb8q3l/i_need_help_testing_a_game/",
       "title": "I need help testing a game!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbaz6e",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbaz6e/looking_for_someone_to_help_me_with_updating_my/",
+      "title": "Looking for someone to help me with updating my game",
       "source": "reddit-robloxstudio",
       "published": "2026-10-21",
       "kind": "reddit",
@@ -3551,6 +3604,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4947366:1",
+      "url": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366",
+      "title": "TextChatService game take down",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947368:1",
+      "url": "https://devforum.roblox.com/t/top-down-coop-shooter-game/4947368",
+      "title": "Top down coop shooter game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947402:1",
+      "url": "https://devforum.roblox.com/t/svg-icons-in-roblox-rendered-at-runtime/4947402",
+      "title": "SVG icons in Roblox, rendered at runtime",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4947409:1",
+      "url": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409",
+      "title": "Combat Legends Beta Testing Recruitment [OPEN]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -4095,6 +4192,17 @@
       "title": "IK",
       "source": "reddit-robloxstudio",
       "published": "2026-10-20",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xbapek",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbapek/rigging_problems/",
+      "title": "Rigging problems",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-21",
       "kind": "reddit",
       "signals": [],
       "score": 2,
