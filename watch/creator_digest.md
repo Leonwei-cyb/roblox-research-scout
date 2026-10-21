@@ -16,9 +16,8 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 2 matched metadata records.
+**Collected media leads:** 1 matched metadata records.
 - [Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk) — channel upload — creator identity check · 2026-10-12
-- [#roblox #stealanegg #egg #steal #youtubeshorts #gaming #owner #troll #funny #prank](https://www.youtube.com/shorts/ayKWDMVcBzk) — channel upload — creator identity check · 2026-09-27
 
 ## Tizzy RBLX — Roblox game design
 

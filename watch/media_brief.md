@@ -5,37 +5,37 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Animations And Vfx
+
+- **[Rumble Reborn: The 1v1 Duel, Build by Build (Oct 1, 2026) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0TGlXUGFxYThHZ08yM1VBNm9aSXpJdy1HdHRJRDFrQ3ppQ28tNmoxQkpsREpzQnJQYm9kVUdsTU1jcGtORlpIMDVLMEhULW04dm81RTZn?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-10-01
+  - Feed excerpt: Rumble Reborn: The 1v1 Duel, Build by Build (Oct 1, 2026) YouTube
+
+## Roblox Creator / Ai Development
+
+- **[Opus 5.5 + Roblox Studio is Insane. - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibFBRUU13bmJERjRzbU81Q1ZhWG5KRE9wUGZseHhDcnF0TUFXeXgwR2hCZ3pZVHBDVGp4cnRScWduRXpWMVFzYWYzVWhZUURBNE1ENjRn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-26
+  - Feed excerpt: Opus 5.5 + Roblox Studio is Insane. YouTube
+- **[ใช้ AI สร้างเกม Roblox 3 วันเสร็จ เล่นได้จริง - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WQlRoT0E2dFFrUTcxMkRSU21hVGZtTDE5T0xfSTBPR1I3STBCLXVvNk42d082Q0NkenNhaEo4NHRxcnJCOTJGbFEzTHRBWWZ4RDUzd3J3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-26
+  - Feed excerpt: ใช้ AI สร้างเกม Roblox 3 วันเสร็จ เล่นได้จริง YouTube
+
 ## Roblox Creator / Steal An Egg
 
-- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdFFtYW54enVTTEZhTk5GVm9YaDg3WWVoWkhOM3pTcU1OMlRyX05qT2tpa3FrSWx1ckw4SzFrMzNZUWJiaE9nUy1xTFNvUGh6UFZLaTNB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-22
-  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
-- **[#roblox #stealanegg #egg #steal #youtubeshorts #gaming #owner](https://www.youtube.com/shorts/u5A-dEVk8Kc)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-23
-- **[#stealanegg #roblox #steal #youtubeshorts #egg #gaming](https://www.youtube.com/shorts/akDEIY8YMPs)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-23
-- **[#roblox #stealanegg #egg #steal #youtubeshorts #gaming #troll #owner #funny #prank](https://www.youtube.com/shorts/f0Lo4m78gEw)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-26
+- **[Admin Abuse 😮‍💨 \| Steal an Egg Roblox #roblox #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DblhIU043YU5aWmZaY1ZHZHZzczR5c3hvOGhhclpGWTJJTlFxTENnY2pkREFnWHpKY0tUdEMxS0pXWWc1VnpGQm9nRkVEa1h4bkxocjFn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-26
+  - Feed excerpt: Admin Abuse 😮‍💨 \| Steal an Egg Roblox #roblox #stealanegg Instagram
+- **[Giving AWAY Hundreds Of OP Eggs With SpyderSammy Steal AN EGG😱🥚](https://www.youtube.com/watch?v=6FKadZ4IEy4)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-09-26
 
 ## Community
 
-- **[Roblox studio freezes](https://www.reddit.com/r/ROBLOXStudio/comments/1xbxoxx/roblox_studio_freezes/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Does anyone else experience Roblox Studio freezing when testing their game? submitted by /u/Bajugamers \[link\] \[comments\]
-- **[Robot 64 fun fact](https://www.reddit.com/r/ROBLOXStudio/comments/1xbywu0/robot_64_fun_fact/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: According to the open source engine, Robot 64's player code is exactly 3724 lines of code. https://reddit.com/link/1xbywu0/video/hzkrm6nhrvwh1/player There are a total of 11 module scripts, 3 client scripts and 1 server script on the entire
+- **[How can I make curved mesh tracks smooth for a player-controlled ball?](https://www.reddit.com/r/ROBLOXStudio/comments/1xc0dxk/how_can_i_make_curved_mesh_tracks_smooth_for_a/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: I am somewhat new to Roblox Studio. I am making a game right now where you control a ball rolling on a course. I’m struggling to get the collision surface smooth, especially at the bottom of ramps and through curved paths. The ball will oft
+- **[Roblox game about collecting money](https://www.reddit.com/r/ROBLOXStudio/comments/1xbyyo8/roblox_game_about_collecting_money/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
+  - Feed excerpt: Earn Money Simulator \| Play on Roblox what do yall think about this game? submitted by /u/DisastrousClient4214 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Automatically Generate Image Assets from Editable UI in Studio](https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: As a Roblox developer, I’d like a feature to bake UI into image assets directly in Studio. Studio would generate and update the assets automatically, while the original UI and effects stay editable. This could include frames, images, text, 
-- **[A Game about mining rocks](https://devforum.roblox.com/t/a-game-about-mining-rocks/4948699)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: So i have made a game about mining rocks, and I am looking forward some people to test it! It has gone through a lot of changes, fixes, and re-makes so any little bug is possible but thats why I need you . To find it because I myself cant e
-- **[Eclipse Animator Manually Add Inverse Kinematics](https://devforum.roblox.com/t/eclipse-animator-manually-add-inverse-kinematics/4948692)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: In Eclipse Animator, I have custom made R7 rigs however I do not see an option for IK on either of the legs, and was wondering how I could make them supported for IK? As you can see the limbs that are still parented to the original Torso ha
-- **[How can i make my zombie npcs have spacing with eachother?](https://devforum.roblox.com/t/how-can-i-make-my-zombie-npcs-have-spacing-with-eachother/4948737)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I will try to explain as clearly as possible, but basically, I was wondering how I could make my zombies have spacing with each other, since they don’t have collisions, they can REALLY easily clump together, and it doubles their attack dama
-- **[Support Multiple Return Values in If-Expressions](https://devforum.roblox.com/t/support-multiple-return-values-in-if-expressions/4948766)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Support Multiple Return Values in If-Expressions My feature request is very simple. You can already do this: local out = if a < b then a else b I’d like to be able to return multiple values from an if-expression, allowing the result to be a
-- **[Unexpected logouts in last three days](https://devforum.roblox.com/t/unexpected-logouts-in-last-three-days/4948741)** · Roblox Developer Forum latest · 2026-10-21
+- **[**Free Realistic City Bollard Pack**](https://devforum.roblox.com/t/free-realistic-city-bollard-pack/4948833)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Free Realistic City Bollard Pack I posted this on toolbox a while ago but thought I’d share it here so more people can see/use these assets in your experiences! Thank you all! Toolbox Link 1 post - 1 participant Read full topic
+- **[Studio Login causes other Studios on other computers to logout](https://devforum.roblox.com/t/studio-login-causes-other-studios-on-other-computers-to-logout/4948741)** · Roblox Developer Forum latest · 2026-10-21
   - Feed excerpt: I’ve had all of my studio sessions on a computer get logged out suddenly, usually correlated with logging in from another computer at my house. I’ve had four complete unrequested logouts across three machines in the last three days. They ar
-- **[Universal Game Development Tool Kit](https://devforum.roblox.com/t/universal-game-development-tool-kit/4948713)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: (This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked \| Discord: U.G.D \| Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is desig
 
 ---
 

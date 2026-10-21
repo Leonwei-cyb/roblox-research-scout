@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "08f97bd497ace733c151ea1c709d85cd5b65cc53",
-      "head_subject": "Release FreshRSS 1.30.4",
+      "head": "7de3c981d49f5d56cf73af05abaa92712629b7aa",
+      "head_subject": "Start next version",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -113,11 +113,11 @@
       "url": "https://github.com/huginn/huginn"
     },
     "obra/superpowers": {
-      "head": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
-      "head_subject": "Templates: require a human-written summary and the filer's instructions (#2570)",
+      "head": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "head_subject": "Release v7.0.1: brainstorming retune, skills that better survive compaction, contribution templates (#2581)",
       "name": "obra/superpowers",
-      "release_tag": "v7.0.0",
-      "release_url": "https://github.com/obra/superpowers/releases/tag/v7.0.0",
+      "release_tag": "v7.0.1",
+      "release_url": "https://github.com/obra/superpowers/releases/tag/v7.0.1",
       "url": "https://github.com/obra/superpowers"
     },
     "obris-dev/openmagpie": {
@@ -132,8 +132,8 @@
       "head": "8cc68d24aafe0dd74f4460fdc5d5aac38a92b504",
       "head_subject": "ci: switch to released WoA CTK (#19185)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.7",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
+      "release_tag": "v0.40.8",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
       "url": "https://github.com/ollama/ollama"
     }
   },
