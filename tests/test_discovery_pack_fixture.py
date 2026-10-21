@@ -421,6 +421,8 @@ class StalePackReportTest(unittest.TestCase):
 
         # A topic search hits the limit first, so the pack never runs this time.
         cfg["topics"] = [{"id": "t", "queries": ["anything"]}]
+        # New specialist planner only schedules topics assigned to active lanes.
+        cfg["research_lanes"] = [{"id": "fixture", "topics": ["t"], "weight": 1}]
         (root / "watch" / "discovery.json").write_text(json.dumps(cfg))
         with patch.object(ds, "GitHub", Limited):
             ds.run(now=NOW.replace(hour=7), token="fixture", requests_text="", event="fixture")
