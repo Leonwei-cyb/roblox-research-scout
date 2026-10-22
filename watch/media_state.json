@@ -721,7 +721,12 @@
     "fb89725c713765262eef2fd1",
     "20b47a08c7e472a48d67907a",
     "a92aa47de87d6ba90068bf94",
-    "d0e6039d15110d94791c01f5"
+    "d0e6039d15110d94791c01f5",
+    "52fecfb20e08e7cba3223e44",
+    "d4c9f43b7117a2e8863f0c67",
+    "c87baaeab88925141e114228",
+    "d0913f4af3e8e39041f63941",
+    "49200cac8ff3c54ef8dc4ef3"
   ],
   "items": [
     {
@@ -760,6 +765,18 @@
       "id": "d72373da6fdfe9c7ea98289a"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Horror farming game",
+      "url": "https://devforum.roblox.com/t/horror-farming-game/4949345",
+      "published": "2026-10-22",
+      "excerpt": "Hello there! I am a solo developer and I just started making a game heavily inspired by “Cryptid Farm” I got the majority of it down but I suck at sprite sheets and can’t seem to animate properly. If you guys are interested, give it a try. Nothing I make is that pay to win crap, but there are purcha",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/horror-farming-game/4949345.rss",
+      "id": "d4c9f43b7117a2e8863f0c67"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -769,6 +786,29 @@
       "excerpt": "how do i set these blender models in roblox studio into outerwear (shirts/pants) i have the models imported onto the baseplate, they look fine. the legs and torso + arms dont work when i try to make them into accessories. the avatar arms/legs just clip right through the clothing while they dont move",
       "creator": "/u/FutureChemist4373 https://www.reddit.com/user/FutureChemist4373",
       "id": "d0e6039d15110d94791c01f5"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Do anime roblox devs really create all of the assets by hand?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc93ve/do_anime_roblox_devs_really_create_all_of_the/",
+      "published": "2026-10-22",
+      "excerpt": "Title basically. I’m wondering, how do games like those anime tower defense games (and others) do it for the accessories, hairs, faces and clothing that the anime characters wear? Do they really produce everything by hand? I also saw a couple of anime games that had a decent amount of players but ha",
+      "creator": "/u/AttitudeEither7472 https://www.reddit.com/user/AttitudeEither7472",
+      "id": "d0913f4af3e8e39041f63941"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Silence warnings from debug.profileend()",
+      "url": "https://devforum.roblox.com/t/silence-warnings-from-debugprofileend/4949332",
+      "published": "2026-10-22",
+      "excerpt": "Title says it all, either silence or add an option to silence debug.profileend() causing warnings for attempting to stop the current thread. parallel lua is currently quite buggy with microprofiler profiling, which is understandable considering core communication. this issue is that when that happen",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/silence-warnings-from-debugprofileend/4949332.rss",
+      "id": "c87baaeab88925141e114228"
     },
     {
       "source": "roblox-devforum-latest",
@@ -875,6 +915,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/high-quality-snowy-mountains/4949137.rss",
       "id": "5e1a0f21e815fb253ca5e4c5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Stopping A Grillion Million Trillion Functions That Aren't :Connect() Functions?",
+      "url": "https://devforum.roblox.com/t/stopping-a-grillion-million-trillion-functions-that-arent-connect-functions/4949352",
+      "published": "2026-10-22",
+      "excerpt": "I’m having an issue with stopping functions that I’m running. I want to have functions stop when the player dies – problem is – I can’t just attach them to StarterCharacter and call it a day because the functions that I need to stop come from module scripts. And I cant disable the script that requir",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/stopping-a-grillion-million-trillion-functions-that-arent-connect-functions/4949352.rss",
+      "id": "52fecfb20e08e7cba3223e44"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7455,50 +7507,6 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "4ed0b15a29d2349ecddd54de"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "🎮In Game 2 lessons are done. Time to get creative. - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdUphalUtTUpfTjR0dWJIRUF3a29xb3ZfY2dsbEhCNjZ2ZnF0ZGlpMXpMX1VESXNwRmVNcktVOHppNTNXRGpGN1o0Y0tmN3BZakFjb213?oc=5",
-      "published": "2026-10-07",
-      "excerpt": "🎮In Game 2 lessons are done. Time to get creative. Instagram",
-      "creator": "",
-      "id": "15800a8490113351b402a0f7"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "Update this friday!! #roblox #robloxdev - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sX252RU9VYThlRnh0UUY0YlM2X2o2MV9tclJtY2dWaXRhOEc5QUgxcGR5NEdvRWU5N1VJUlBTZXk0VklQTkViS0pvVGFqV3hrTllYc3owajBXUmw4MFZ5ZVdDck11alhETWluR3h0RQ?oc=5",
-      "published": "2026-10-06",
-      "excerpt": "Update this friday!! #roblox #robloxdev TikTok",
-      "creator": "",
-      "id": "e7b37cfde83653d947d45a1e"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "Crazy #robloxstudio #vizzbees - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJU1ZFVm4wcHBSX0Z3VDhlU2NCcFhwSlIwZ0ZxLWdVUV9IMkNIQThnZmlyTGpSeVplbVYtdmJONEZvNlpmenVvQ1kxa3ZCQ0NTVGRKNkFNT1RWcHYtb1B5X2NrU1Zzel92YnI2LQ?oc=5",
-      "published": "2026-10-06",
-      "excerpt": "Crazy #robloxstudio #vizzbees TikTok",
-      "creator": "",
-      "id": "d97667363d7961af94ab679a"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "Native serialized dictionaries are finally here in Unity 6.6 🎉 No more custom wrappers or third-party extensions. You can now edit key-value pairs directly in the Inspector with a built-in two-column ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtNVVqcXp5WFZwN3dfeVA5UUt2MzVTaEFsMlE5MjVVdkxVbXVqM25LZV9ydEV1UDFSa0EwUVFnZ3NZUjFTODlaNFpXZWU1eW16Umw4YlNR?oc=5",
-      "published": "2026-10-06",
-      "excerpt": "Native serialized dictionaries are finally here in Unity 6.6 🎉 No more custom wrappers or third-party extensions. You can now edit key-value pairs directly in the Inspector with a built-in two-column view. #Unity3D #GameDev #UnityTips #UnityLearn Instagram",
-      "creator": "",
-      "id": "c1fed48d6ec5224f972c379b"
     }
   ]
 }

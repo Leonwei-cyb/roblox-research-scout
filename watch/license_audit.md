@@ -7,7 +7,7 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | [Roblox/roblox-studio-agent-plugin](https://github.com/Roblox/roblox-studio-agent-plugin) | MIT — license present, inspect asset and dependency rights | 2026-10-15 | No |
 | [Roblox/creator-docs](https://github.com/Roblox/creator-docs) | CC-BY-4.0 — license present, inspect asset and dependency rights | 2026-10-21 | No |
 | [Roblox/luau](https://github.com/Roblox/luau) | MIT — license present, inspect asset and dependency rights | 2026-10-20 | No |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | No verified license — do NOT copy source/assets | 2026-10-21 | No |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | No verified license — do NOT copy source/assets | 2026-10-22 | No |
 | [obra/superpowers](https://github.com/obra/superpowers) | MIT — license present, inspect asset and dependency rights | 2026-10-21 | No |
 | [PepeElToro41/ui-labs](https://github.com/PepeElToro41/ui-labs) | GPL-3.0 — copyleft, review conditions | 2026-10-14 | No |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | MIT — license present, inspect asset and dependency rights | 2026-10-19 | No |
