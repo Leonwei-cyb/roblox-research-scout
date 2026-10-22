@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-22T12:28:29Z (schedule, partial)
+- Last run: 2026-10-22T17:39:02Z (schedule, partial)
 - Repos tracked: 220; adopt 0, needs-test 86, reject 134
 - Actionable backlog: 81
-- Feed health: deferred 6, ok 31
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
