@@ -5,14 +5,15 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Build / 3D Examples
+## Community
 
-- **[A Fan Asked Why His Game is FAILING 3 Years Later...](https://www.youtube.com/watch?v=ybNcIYHmJTU)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-08
+- **[Game about collecting money.](https://www.reddit.com/r/ROBLOXStudio/comments/1xceuaz/game_about_collecting_money/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
+  - Feed excerpt: Earn Money Simulator \| Play on Roblox if you have any more feedback about my game let me know. Feedback helps me to fix bugs submitted by /u/DisastrousClient4214 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[New account stuck in "Account locked" loop - CAPTCHA always fails, password reset returns "Unknown Error"](https://devforum.roblox.com/t/new-account-stuck-in-account-locked-loop-captcha-always-fails-password-reset-returns-unknown-error/4949668)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: I made a new alt account yesterday and it got hit with the “Account locked - suspicious activity” screen within about an hour. Since then I’ve tried every recovery option Roblox offers and every single one fails at the last step, so I’m com
+- **[\[CRITICAL\] Appeals wrongly closed by AI moderation claiming non-response despite email replies](https://devforum.roblox.com/t/critical-appeals-wrongly-closed-by-ai-moderation-claiming-non-response-despite-email-replies/4949756)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: Our group, Age of Rebellion , is currently experiencing a critical issue where experience appeals are automatically closed due to system errors with email processing, preventing reviews from Staff. Despite submitting multiple appeals and re
 
 ---
 

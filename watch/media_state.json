@@ -746,7 +746,9 @@
     "62caf56b09fbc45e7ad4406e",
     "30fc0eb6cc88af9950cf142f",
     "76fd08116a1cfcea3c4bc1d8",
-    "a60b4bea2c7aaf3a0f43b47a"
+    "a60b4bea2c7aaf3a0f43b47a",
+    "bc205ae5983ad9dc2e459e5a",
+    "2937b96c22fa8da56907f55c"
   ],
   "items": [
     {
@@ -889,6 +891,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/backrooms-game-showcase-feedback-and-suggestions/4949102.rss",
       "id": "c73e43ef597116605b346dd0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[CRITICAL] Appeals wrongly closed by AI moderation claiming non-response despite email replies",
+      "url": "https://devforum.roblox.com/t/critical-appeals-wrongly-closed-by-ai-moderation-claiming-non-response-despite-email-replies/4949756",
+      "published": "2026-10-22",
+      "excerpt": "Our group, Age of Rebellion , is currently experiencing a critical issue where experience appeals are automatically closed due to system errors with email processing, preventing reviews from Staff. Despite submitting multiple appeals and replying directly to every support email received, the automat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-appeals-wrongly-closed-by-ai-moderation-claiming-non-response-despite-email-replies/4949756.rss",
+      "id": "bc205ae5983ad9dc2e459e5a"
     },
     {
       "source": "roblox-devforum-updates",
@@ -1096,7 +1110,7 @@
       "title": "Topbar error, becoming uninteractable and invisible",
       "url": "https://devforum.roblox.com/t/topbar-error-becoming-uninteractable-and-invisible/4949516",
       "published": "2026-10-22",
-      "excerpt": "H! I’ve been encountering this error all the time and it has been irritating me alot. Everytime i playtest games in studio, my topbar always errors like this, i had to restart the playtest numerous times just for it to work. I dont really know what causes this to happen, This happens in all games De",
+      "excerpt": "H! I’ve been encountering this error all the time and it has been irritating me alot. Everytime i playtest games in studio, my topbar always errors like this, i had to restart the playtest numerous times just for it to work. I dont really know what causes this to happen, This happens in all games Pr",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/topbar-error-becoming-uninteractable-and-invisible/4949516.rss",
       "id": "43cd90dfda78ee5d842e23f6"
@@ -1182,6 +1196,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/false-positive-ban-based-on-tcs/4949141.rss",
       "id": "2a0f8bd010d13a91c9dd1920"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Game about collecting money.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xceuaz/game_about_collecting_money/",
+      "published": "2026-10-22",
+      "excerpt": "Earn Money Simulator | Play on Roblox if you have any more feedback about my game let me know. Feedback helps me to fix bugs submitted by /u/DisastrousClient4214 [link] [comments]",
+      "creator": "/u/DisastrousClient4214 https://www.reddit.com/user/DisastrousClient4214",
+      "id": "2937b96c22fa8da56907f55c"
     },
     {
       "source": "reddit-robloxstudio",
@@ -7512,29 +7537,6 @@
       "excerpt": "WAIT… MARCO MADE THIS?! 🎮👀 Meet Marco, one of our students from the Game Programming course, turning his ideas into a playable game. From coding to gameplay, he built it himself. And this is just part of the journey. 🔥 Think you could make your own Instagram",
       "creator": "",
       "id": "305991fb07eb6f3e2e0f7a46"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] Introducing State Machines and Luau Expressions for Animation Graphs",
-      "url": "https://devforum.roblox.com/t/studio-beta-introducing-state-machines-and-luau-expressions-for-animation-graphs/4921939",
-      "published": "2026-10-08",
-      "excerpt": "Key Takeaways State Machine and Expression nodes are now in beta in the Animation Graph Editor. You can set up state transitions and parameter math in an animation graph instead of writing them in a Luau script. In Studio, go to File > Beta Features and enable Animation Graphs State Machines. Hi Cre",
-      "creator": "",
-      "id": "e830c12f40ee4d870ab8bafe"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Yl9yd2NaRGg5MFRua21XQVVHQmxrVjZOYlh6bFhBVEJ2ZUIxY0l2V0dxeGRLTzY1aDJabXFWS0VQeTRqQ2taUXJKa2VjS0JpTVVsRTFSZTNMN1dxWm93VDRKT2VYNTF5MnFoNg?oc=5",
-      "published": "2026-10-08",
-      "excerpt": "What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "e25757a9c991fa4620b13def"
     }
   ]
 }

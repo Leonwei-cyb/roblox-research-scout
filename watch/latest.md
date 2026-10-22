@@ -2,6 +2,7 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [MSayib/roblox-dev-skill](https://github.com/MSayib/roblox-dev-skill) (54 stars). An agent skill that turns AI coding assistants into Roblox development experts: Luau, engine APIs, architecture, anti-exploit security, and how to drive Studio's built-in MCP serve
+- **Source updated:** [Roblox/creator-docs](https://github.com/Roblox/creator-docs) — update Open Source Docs from Roblox internal teams.
+- **Unreviewed lead:** [bagidea/bagidea-office](https://github.com/bagidea/bagidea-office) (250 stars). A living AI-agent office on your desktop wallpaper — Claude Code agents that walk, work, delegate, learn & hold meetings. Per-agent swappable models (Claude/GLM/DeepSeek/Qwen/Kimi/
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
