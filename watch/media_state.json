@@ -744,7 +744,9 @@
     "48dda07db224f2b4cd5fbf98",
     "ac7adc05e6ad079555b8cd4a",
     "62caf56b09fbc45e7ad4406e",
-    "30fc0eb6cc88af9950cf142f"
+    "30fc0eb6cc88af9950cf142f",
+    "76fd08116a1cfcea3c4bc1d8",
+    "a60b4bea2c7aaf3a0f43b47a"
   ],
   "items": [
     {
@@ -997,6 +999,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "New account stuck in \"Account locked\" loop - CAPTCHA always fails, password reset returns \"Unknown Error\"",
+      "url": "https://devforum.roblox.com/t/new-account-stuck-in-account-locked-loop-captcha-always-fails-password-reset-returns-unknown-error/4949668",
+      "published": "2026-10-22",
+      "excerpt": "I made a new alt account yesterday and it got hit with the “Account locked - suspicious activity” screen within about an hour. Since then I’ve tried every recovery option Roblox offers and every single one fails at the last step, so I’m completely stuck. What happens: Logging in shows the “Account l",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-account-stuck-in-account-locked-loop-captcha-always-fails-password-reset-returns-unknown-error/4949668.rss",
+      "id": "76fd08116a1cfcea3c4bc1d8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Text chat not working between clients in Studio's Server & Client Testing.",
       "url": "https://devforum.roblox.com/t/text-chat-not-working-between-clients-in-studios-server-client-testing/4949601",
       "published": "2026-10-22",
@@ -1149,7 +1163,7 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
-      "title": "# Halloween Scene;",
+      "title": "Halloween Scene;",
       "url": "https://devforum.roblox.com/t/halloween-scene/4949465",
       "published": "2026-10-22",
       "excerpt": "Hellooooooooooo lads! – been quite a while since I posted here :\") I was busy with commissions but want to show one that I was busy with this lil thing. Will be showing more soon – one is this halloween 3/4 angled scene ^^ See yall later!! 1 post - 1 participant Read full topic",
@@ -7521,17 +7535,6 @@
       "creator": "",
       "publisher": "https://www.tiktok.com",
       "id": "e25757a9c991fa4620b13def"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Automatic Translation for Text-to-Speech",
-      "url": "https://devforum.roblox.com/t/automatic-translation-for-text-to-speech/4922029",
-      "published": "2026-10-08",
-      "excerpt": "Key Takeaways Automatic translation is now available for the text-to-speech API (11 languages supported). Players hear generated speech in their language across supported games. The AutoLocalize property of your AudioTextToSpeech instance will be set to true by default; learn more in the API docs an",
-      "creator": "",
-      "id": "c778d72a9e79567c1277c4cc"
     }
   ]
 }

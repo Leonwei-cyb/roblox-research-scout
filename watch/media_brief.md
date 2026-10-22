@@ -5,17 +5,14 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Roblox Build / 3D Examples
 
-- **[What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNnJFM3F3U2JrVDRZZDVwWk9RWnNaZ2EtZDBQSHdqd1JsU1ByZG1zZl9pN1gxX2FkcG02bmU4WXdoNHY5YTRkTUpEcTdtdFUtRHlYUW1R?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-08
-  - Feed excerpt: What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg Instagram
+- **[A Fan Asked Why His Game is FAILING 3 Years Later...](https://www.youtube.com/watch?v=ybNcIYHmJTU)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-08
 
 ## Roblox Updates
 
-- **[Text chat not working between clients in Studio's Server & Client Testing.](https://devforum.roblox.com/t/text-chat-not-working-between-clients-in-studios-server-client-testing/4949601)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: I can’t get text chat to work properly in Roblox Studio’s Server & Client Testing, it used to work awhile ago but not anymore. CanUsersChatAsync between the two clients returns false and I have no idea how to change it. I’ve tried to reinst
-- **[Degraded Performance after potential Roblox Server Memory Optimization](https://devforum.roblox.com/t/degraded-performance-after-potential-roblox-server-memory-optimization/4949621)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hello! We’ve been receiving a ton of reports regarding degraded perofmance in Blox Fruits over the last ~2 days. For context - we have not updated in almost 2 weeks. It seems to be frontloaded, a player will have <1 fps for a bit after join
+- **[New account stuck in "Account locked" loop - CAPTCHA always fails, password reset returns "Unknown Error"](https://devforum.roblox.com/t/new-account-stuck-in-account-locked-loop-captcha-always-fails-password-reset-returns-unknown-error/4949668)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: I made a new alt account yesterday and it got hit with the “Account locked - suspicious activity” screen within about an hour. Since then I’ve tried every recovery option Roblox offers and every single one fails at the last step, so I’m com
 
 ---
 
