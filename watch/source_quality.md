@@ -4,23 +4,23 @@
 
 | Classification | Entries |
 |---|---:|
-| original video/post URL (unwatched) | 20 |
-| public metadata / page | 410 |
-| indexed redirect (not original) | 167 |
+| original video/post URL (unwatched) | 21 |
+| public metadata / page | 421 |
+| indexed redirect (not original) | 155 |
 | promotional / risky title | 3 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
-Direct-original share: **3.3%** (still unwatched).
-Indexed redirects: **167**. They require primary-source verification.
+Direct-original share: **3.5%** (still unwatched).
+Indexed redirects: **155**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **458**; direct originals **20**; indexed redirects **27**.
-Active-source direct-original share: **4.4%** (still unwatched).
-Entries from paused/unconfigured sources: **142** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
+Active-source entries: **464**; direct originals **21**; indexed redirects **21**.
+Active-source direct-original share: **4.5%** (still unwatched).
+Entries from paused/unconfigured sources: **136** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -28,14 +28,14 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| unknown | 37 |
-| YouTube (title suffix) | 35 |
-| TikTok (title suffix) | 21 |
-| Instagram (title suffix) | 20 |
+| YouTube (title suffix) | 34 |
+| unknown | 34 |
+| TikTok (title suffix) | 19 |
+| Instagram (title suffix) | 18 |
 | X (title suffix) | 10 |
 | https://tech-insider.org/ (title suffix) | 9 |
-| www.instagram.com | 7 |
-| www.youtube.com | 7 |
+| www.instagram.com | 5 |
+| www.youtube.com | 5 |
 | Pasquale Pillitteri (title suffix) | 2 |
 | www.tiktok.com | 2 |
 | A (title suffix) | 1 |

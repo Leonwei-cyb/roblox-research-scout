@@ -1599,6 +1599,71 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4949968:1",
+      "url": "https://devforum.roblox.com/t/server-authority-client-cpu-load-alone-causes-rollbacks-on-a-contact-free-predicted-part-each-rollback-costs-15%E2%80%9331-ms/4949968",
+      "title": "Server Authority: client CPU load alone causes rollbacks on a contact-free predicted part; each rollback costs 15–31 ms",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950052:1",
+      "url": "https://devforum.roblox.com/t/monster-mystery-analytics-feedback/4950052",
+      "title": "Monster Mystery - Analytics Feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950083:1",
+      "url": "https://devforum.roblox.com/t/super-freeze-tag-feedback/4950083",
+      "title": "Super Freeze Tag - Feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950171:1",
+      "url": "https://devforum.roblox.com/t/how-to-go-about-ik-animations-for-r6/4950171",
+      "title": "How to Go About Ik Animations for R6?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "cat animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950229:1",
+      "url": "https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229",
+      "title": "[Plugin] Output+ | Script channels, colored outputs, rich text support and more",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -2479,6 +2544,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "youtube:Flb3G3BbOfY",
+      "url": "https://www.youtube.com/watch?v=Flb3G3BbOfY",
+      "title": "My Roblox Game SUCKED... So I Fixed EVERYTHING!",
+      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
+      "published": "2026-10-22",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:IY306dcE8Jg",
       "url": "https://www.youtube.com/watch?v=IY306dcE8Jg",
       "title": "Creator Showdown São Paulo (English)",
@@ -3276,6 +3352,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950069:1",
+      "url": "https://devforum.roblox.com/t/video-never-meets-the-video-quality-guidelines/4950069",
+      "title": "Video never meets the Video Quality Guidelines",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950209:1",
+      "url": "https://devforum.roblox.com/t/body-asset-always-fails-upload-validation-with-unknown-error/4950209",
+      "title": "Body Asset always fails upload validation with \"Unknown Error\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950275:1",
+      "url": "https://devforum.roblox.com/t/corepackages-uiblox-appstyleprovider178-error-shown-in-client-console-in-every-experience/4950275",
+      "title": "CorePackages UIBlox AppStyleProvider:178 error shown in client console in every experience",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -3726,6 +3841,19 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcip5h",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcip5h/is_my_account_eligible_for_an_avatar_creation/",
+      "title": "Is My Account eligible for an Avatar Creation Token?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4677,6 +4805,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950163:1",
+      "url": "https://devforum.roblox.com/t/anyone-else-had-a-counter-notice-denied-with-zero-explanation/4950163",
+      "title": "Anyone else had a counter-notice denied with zero explanation?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -5348,6 +5487,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xcjfrv",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcjfrv/a_roblox_game_where_you_automate_by_coding_in/",
+      "title": "A roblox game where you automate by coding in Python",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV?oc=5",
       "title": "Dan Kornas (@DanKornas) - X",
@@ -5626,19 +5776,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE0zRlMwYjkwOWtWLXZHS0R4Q0MwZ2Znb2RPRmNHM3dmXzlfUnBCRFVwaDNMQS1tVnF1WlBIT1lXNE5OSW1xNlVtSU1SenlwTTUyQ3ZlZFdn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRlMwYjkwOWtWLXZHS0R4Q0MwZ2Znb2RPRmNHM3dmXzlfUnBCRFVwaDNMQS1tVnF1WlBIT1lXNE5OSW1xNlVtSU1SenlwTTUyQ3ZlZFdn?oc=5",
-      "title": "roblox jjs tutorial #thumbnailtutorial #photoshop #smallstreamer #gaming #roblox - Instagram",
-      "source": "instagram-reels",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR?oc=5",
       "title": "Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) - YouTube",
@@ -5648,17 +5785,6 @@
       "signals": [
         "world and visual design"
       ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE14U0FmcS1YZ1FSUlR0SjZJMjRsX0xIZjd5aGw0UHdBbDRMSVg4c0dQM1VxUGcwRm1kc1otX0ZURGJ0QTN4cUZHVVJoYkVwb1l5TGo4QXpB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14U0FmcS1YZ1FSUlR0SjZJMjRsX0xIZjd5aGw0UHdBbDRMSVg4c0dQM1VxUGcwRm1kc1otX0ZURGJ0QTN4cUZHVVJoYkVwb1l5TGo4QXpB?oc=5",
-      "title": "Mayaman na agad kaka start palang 😅 #roblox #robloxedits #robloxmemes #breakandstealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -5953,17 +6079,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5ocW1qelNjdi1aRUl6My1fTktaOFpLUkVVaXdtSU5RUkZhWm0xcHpyQXktYkRWYWoweDZ3SmlpTXdHVVU3cDNHYU1sVWRfbE9oREFCT01n",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ocW1qelNjdi1aRUl6My1fTktaOFpLUkVVaXdtSU5RUkZhWm0xcHpyQXktYkRWYWoweDZ3SmlpTXdHVVU3cDNHYU1sVWRfbE9oREFCT01n?oc=5",
-      "title": "„Игри на волята“ завладява и Roblox! Готов ли си да влезеш в битката? Екстремното риалити оживява във виртуалния свят с Desafio: Tribe Clash! Избери своето племе Изправи се пред екстремни предизвикате",
-      "source": "instagram-reels",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5zRnB6OVJlUEhBTlBTVmp5ZUkwMmhDUXhLRnA3NFRZcEdqdVBPQkJOam4zYTdJOVZZUFloUHNPWjRZWTFZaXZ3ODZVQ0ROMGRWa24tM2l3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zRnB6OVJlUEhBTlBTVmp5ZUkwMmhDUXhLRnA3NFRZcEdqdVBPQkJOam4zYTdJOVZZUFloUHNPWjRZWTFZaXZ3ODZVQ0ROMGRWa24tM2l3?oc=5",
       "title": "#Roblox just revealed a HALLOWEEN EVENT coming soon! 🎃👻 (The Hollow) - Instagram",
@@ -5983,19 +6098,6 @@
       "kind": "index-only",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE93azRCdVZpbjExVE53czlrSDMyWHV5MkdBczBjcHZSZXdXbUhMdG1EaUVFaG85QmlJTHBJU19jY1ZGMTBBRXVWd0x0NVQtY2VCMXNPVUhR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93azRCdVZpbjExVE53czlrSDMyWHV5MkdBczBjcHZSZXdXbUhMdG1EaUVFaG85QmlJTHBJU19jY1ZGMTBBRXVWd0x0NVQtY2VCMXNPVUhR?oc=5",
-      "title": "Choosing Unity is a solid choice for 2D game development. The toolset offered is extremely robust, allowing you to build all types of 2D games. Are you making a 2D game? What engine are you using? Let",
-      "source": "instagram-reels",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -6163,17 +6265,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9Vbm1mVTdOeGZGVm5hVzZUTlBodG1uWC1RWEZMeU9wQnQ0WWhwVWFYZ2FEcDFlTmJxNlkyemNkV3dwcnRvQm9tYnFMbVVyem52MUFuVDVR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vbm1mVTdOeGZGVm5hVzZUTlBodG1uWC1RWEZMeU9wQnQ0WWhwVWFYZ2FEcDFlTmJxNlkyemNkV3dwcnRvQm9tYnFMbVVyem52MUFuVDVR?oc=5",
-      "title": "I'M PLAYING ROBLOX WHILE THE AI SLAVES WORK - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9XU0dab05VZUd6RnhmNmg0eVg0YlJXTnl3ZlJWNXdjR0kwczRyQVVQSXNWdVBvQm5YVW9wUkxHT0JiQWJRSVV0NFJhQkdmYzVJMWRvWXpn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XU0dab05VZUd6RnhmNmg0eVg0YlJXTnl3ZlJWNXdjR0kwczRyQVVQSXNWdVBvQm5YVW9wUkxHT0JiQWJRSVV0NFJhQkdmYzVJMWRvWXpn?oc=5",
       "title": "5 Small Changes That Make Your Roblox Game Feel WAY Better - YouTube",
@@ -6181,19 +6272,6 @@
       "published": "2026-10-13",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9nTXR1N092OXlmNGdJRW5mb3lDMmR4akpQWkFhcWxSVElpbEc1aWZkZ1JFVU5QRTg4S1VZWG9wZWlaUEM3UElyZFZiaDVYeTI0SjVwVlNn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTXR1N092OXlmNGdJRW5mb3lDMmR4akpQWkFhcWxSVElpbEc1aWZkZ1JFVU5QRTg4S1VZWG9wZWlaUEM3UElyZFZiaDVYeTI0SjVwVlNn?oc=5",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -6285,17 +6363,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBNSmlZQ0lGQy1UNVZreTduV3AxbjRhNHE5VFlSWklFZVk2cldhZ2ppNEFmeGRndnVkeTBoSmZOT3hUbTdfcDVsVVlMTHZ3U19VYjJkcmJB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNSmlZQ0lGQy1UNVZreTduV3AxbjRhNHE5VFlSWklFZVk2cldhZ2ppNEFmeGRndnVkeTBoSmZOT3hUbTdfcDVsVVlMTHZ3U19VYjJkcmJB?oc=5",
-      "title": "The Biggest Mistake Roblox Devs Make With AI! - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBPbl9pZWFYek5YcU1TY1liUW1zN1ZIOTc1QTBFdm9xWHJ6a1ZCZ2E2QzhyeEdhS3Nxb1o5NHRVV1Fnd0VPMUI5R19EM1RoenVuZ29oRy1B",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbl9pZWFYek5YcU1TY1liUW1zN1ZIOTc1QTBFdm9xWHJ6a1ZCZ2E2QzhyeEdhS3Nxb1o5NHRVV1Fnd0VPMUI5R19EM1RoenVuZ29oRy1B?oc=5",
       "title": "AI, VFX, கேமிங் துறையில் கேரியர் அமைக்க சூப்பர் வாய்ப்பு! சென்னையில் களமிறங்கிய ரிலையன்ஸ் அனிமேஷன் அகாடமி! #RelianceAnimationAcademy #Animation #VFX # - Instagram",
@@ -6368,17 +6435,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBmeUxrMXpCR05iaXZZOHVKS1FCeTZ2NlZiUUlZSHlUcXo0ZUVYbEo2Rlc2NnJObUhUUW0tQmRtam9RMlNaRGZHVmFnTzhuVDYyRTdmNTJB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmeUxrMXpCR05iaXZZOHVKS1FCeTZ2NlZiUUlZSHlUcXo0ZUVYbEo2Rlc2NnJObUhUUW0tQmRtam9RMlNaRGZHVmFnTzhuVDYyRTdmNTJB?oc=5",
-      "title": "How to Make a Roblox Game With Claude AI Step by Step - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBocmpIVGxOcE54THVCX3AwcFo4UnZieTZQeU5vSWEwZFM1T3FmZEhCMmdqY0M5OG5kYnM1dDN3bFZISVI3TFo4S0ZrU1prRUxzaTgzRVRn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBocmpIVGxOcE54THVCX3AwcFo4UnZieTZQeU5vSWEwZFM1T3FmZEhCMmdqY0M5OG5kYnM1dDN3bFZISVI3TFo4S0ZrU1prRUxzaTgzRVRn?oc=5",
       "title": "I'M TRYING TO CRACK THE ROBLOX ALGORITHM. - YouTube",
@@ -6398,19 +6454,6 @@
       "kind": "index-only",
       "signals": [
         "cat animation and audio"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBwYXRSZFNyQWdUUFFlYWlDTmFHbngtWFNNdU12Vnd5MGotTF80ZUdKRjBtZ212NVNGS2YwMzBmNmFpWWxjSFFHb0c3cGdVNm1nZ2pMbHFR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwYXRSZFNyQWdUUFFlYWlDTmFHbngtWFNNdU12Vnd5MGotTF80ZUdKRjBtZ212NVNGS2YwMzBmNmFpWWxjSFFHb0c3cGdVNm1nZ2pMbHFR?oc=5",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -6801,17 +6844,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMia0FVX3lxTE1vMTFIbTlLSDdHeDE5V0xMT1owMFlNZ0s4ZFA4MEY5T2w1ay1JZVhCZ001ajdLQjlzMl96U3JJanZDZnozVjJ3RURxNGRRNUpldkpNMzRZMHlqWll4NXVpUk1kQ29hUU50X3Nz",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vMTFIbTlLSDdHeDE5V0xMT1owMFlNZ0s4ZFA4MEY5T2w1ay1JZVhCZ001ajdLQjlzMl96U3JJanZDZnozVjJ3RURxNGRRNUpldkpNMzRZMHlqWll4NXVpUk1kQ29hUU50X3Nz?oc=5",
-      "title": "Tysm infradox @infradox #fyp #gamedev #roblox #dandysworld #dandysworldoc - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMia0FVX3lxTE5WdHVQSDRqcU9ZNUY0eW9uMmN3Mmh3c19uM3F6ZFRCWDc5dFVxVFVwd0NFTF9fMm00OWxvcjNZbVFpQzQwYkpRWF90bmVjdWRPU0lUMlI3VGZTb2NxR3Bwb29ZNlc0Q0RNekNj",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WdHVQSDRqcU9ZNUY0eW9uMmN3Mmh3c19uM3F6ZFRCWDc5dFVxVFVwd0NFTF9fMm00OWxvcjNZbVFpQzQwYkpRWF90bmVjdWRPU0lUMlI3VGZTb2NxR3Bwb29ZNlc0Q0RNekNj?oc=5",
       "title": "forgegui goated #roblox #robloxdev #dev - TikTok",
@@ -7100,17 +7132,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMicEFVX3lxTFB2a1RDNVBuRGtmYk9DUWVZUUh2Y1VxUkNZR3Q1cTV1QV9rdHd1clFaN0oySFh3a2k0dFZGMjdEUWFKRGVReTVONnVpSHNSTDJFbUNiYU83cHI4d3JOOG5lWGVTeFRVVnI4NEM1Qzc4ZzI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2a1RDNVBuRGtmYk9DUWVZUUh2Y1VxUkNZR3Q1cTV1QV9rdHd1clFaN0oySFh3a2k0dFZGMjdEUWFKRGVReTVONnVpSHNSTDJFbUNiYU83cHI4d3JOOG5lWGVTeFRVVnI4NEM1Qzc4ZzI?oc=5",
-      "title": "I am a fricking dev. BOOST IT 💔 #CapCut #iamafuckingarchitecht #dev #roblox #robloxstudio - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMickFVX3lxTE9uRWlaSnhzMllpZVlCR2JUS2VKVnFwamJQNXd0NnE0bmNyRWdlODFRY2gxVWFTaV9acXdidTdEOHlFTVJnbzNPSGFYeUN2QWJzdXpDWEtYdjR6cVpvTy1uUDNpNjZ0MVVyU0xmYnB2NnJCUQ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uRWlaSnhzMllpZVlCR2JUS2VKVnFwamJQNXd0NnE0bmNyRWdlODFRY2gxVWFTaV9acXdidTdEOHlFTVJnbzNPSGFYeUN2QWJzdXpDWEtYdjR6cVpvTy1uUDNpNjZ0MVVyU0xmYnB2NnJCUQ?oc=5",
       "title": "Highkey gotta nerf everything 😭 #roblox #developer #gamedeveloper #robloxstudio #wip - TikTok",
@@ -7129,19 +7150,6 @@
       "published": "2026-10-13",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMid0FVX3lxTE1KRFA1aUlCdk9FeDR4aUU4NTU3QWttQ3djdDJtRjFJUmlOQWt2SThSVVh4WW1yd2xlUjBlZmlwVG9EclJPNFo3cWh2b1poY2RhYjRYM1lsY0RqNWJHRFVncl9fLWhLbWdjNkJxXzExV0pIUHREUmpv",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KRFA1aUlCdk9FeDR4aUU4NTU3QWttQ3djdDJtRjFJUmlOQWt2SThSVVh4WW1yd2xlUjBlZmlwVG9EclJPNFo3cWh2b1poY2RhYjRYM1lsY0RqNWJHRFVncl9fLWhLbWdjNkJxXzExV0pIUHREUmpv?oc=5",
-      "title": "A 1929 cinema in Forest Hill is becoming a Gambado play centre, opening this November. I asked if I could build a Roblox preview of their space. No reply yet, and that's fine. So I built the Capitol's",
-      "source": "tiktok-index",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "efabf6bc450454dc856c1f799aac7ea865e3a4cf",
-      "head_subject": "anthropic: surface errors after streaming starts (#19188)",
+      "head": "f20eb3b312cc11b97ba4ad00b96a05f40f9b52ba",
+      "head_subject": "mlx: add d3 decision model support (#19196)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.8",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",

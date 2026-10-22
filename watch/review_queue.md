@@ -24,5 +24,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
+- **[\[Plugin\] Output+ \| Script channels, colored outputs, rich text support and more](https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229)** — Public text/page, video not confirmed
 - **[I started learning LUA to build my dream game then I found out about Claude OPUS, creating games that generates a lot of CCU. Is this a sign to q](https://www.reddit.com/r/ROBLOXStudio/comments/1xc9lty/i_started_learning_lua_to_build_my_dream_game/)** — Public text/page, video not confirmed
-- **[Automatically Generate Image Assets from Editable UI in Studio](https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773)** — Public text/page, video not confirmed
