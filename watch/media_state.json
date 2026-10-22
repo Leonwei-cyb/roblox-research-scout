@@ -768,7 +768,16 @@
     "af3c86358fca06c34b87617b",
     "0e72578372d04fc894f51ad7",
     "14d25349512c2ed54a273a5e",
-    "d9b8e918b6a7fae84bf138e6"
+    "d9b8e918b6a7fae84bf138e6",
+    "b202e13bce8d32c1e335d098",
+    "0af98fe80449a9317a1f5bf1",
+    "21398e052c8241ff4488d741",
+    "215e1235d82cc798642db888",
+    "d80d30411f25d4f9fb6031f1",
+    "93e4119bdc04f01f6ba00e14",
+    "82c2c6a4ffb03aef2aca4355",
+    "2735b4bc9ea3596f80f07fdb",
+    "128a07b859ba75f14afdf175"
   ],
   "items": [
     {
@@ -864,6 +873,18 @@
       "excerpt": "",
       "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
       "id": "d9b8e918b6a7fae84bf138e6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to animate rigs with objects meshs",
+      "url": "https://devforum.roblox.com/t/how-to-animate-rigs-with-objects-meshs/4950322",
+      "published": "2026-10-22",
+      "excerpt": "What do you want to achieve? Keep it simple and clear! I want to achieve animate riga and with objects, parts, meshs, tools. What is the issue? Include screenshots / videos if possible! I really don’tknow how to do this. What solutions have you tried so far? Did you look for solutions on the Creator",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-animate-rigs-with-objects-meshs/4950322.rss",
+      "id": "d80d30411f25d4f9fb6031f1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1019,6 +1040,18 @@
       "id": "b7a8185012e90eb80fb0704b"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Sound:SeekOverTimeAsync( seekTime : number, duration : number )",
+      "url": "https://devforum.roblox.com/t/soundseekovertimeasync-seektime-number-duration-number/4950368",
+      "published": "2026-10-22",
+      "excerpt": "As a Roblox developer, it is currently too hard to … Seek from one position to another in a Sound without an audible pop. If Roblox is able to address this issue, it would improve my development experience because … My previous project also encountered this issue, and after participating in this thr",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/soundseekovertimeasync-seektime-number-duration-number/4950368.rss",
+      "id": "b202e13bce8d32c1e335d098"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1121,6 +1154,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/super-freeze-tag-feedback/4950083.rss",
       "id": "96dd61399730f53dc3cc59a9"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "SLIMEHUNT IS DONE!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcoheo/slimehunt_is_done/",
+      "published": "2026-10-22",
+      "excerpt": "Slimehunt | Play on Roblox If you wanna have fun, play this, and be part of the Playtesters, this is my first Roblox game, and I am incredibly happy with how it turned out. You take pictures of Slimbos, to get money, to meet quota, and then you use the excess money to buy upgrades, to get more money",
+      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
+      "id": "93e4119bdc04f01f6ba00e14"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1418,6 +1462,30 @@
       "id": "28039c66ee12280f38472de4"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Team Create: \"Connection error 279\" when rejoining place after Studio crash",
+      "url": "https://devforum.roblox.com/t/team-create-connection-error-279-when-rejoining-place-after-studio-crash/4950336",
+      "published": "2026-10-22",
+      "excerpt": "After Roblox Studio crashed, I can no longer rejoin the Team Create session for one of my places. Every attempt fails with: “Unable to join the Team Create session for place ID. Connection error 279” Clicking “Try again” fails with the same error. Steps that led to it: I had two Studio windows open ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/team-create-connection-error-279-when-rejoining-place-after-studio-crash/4950336.rss",
+      "id": "215e1235d82cc798642db888"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "An experience's eligibility to go public can only be checked with cookie-authenticated endpoints, not Open Cloud",
+      "url": "https://devforum.roblox.com/t/an-experiences-eligibility-to-go-public-can-only-be-checked-with-cookie-authenticated-endpoints-not-open-cloud/4950356",
+      "published": "2026-10-22",
+      "excerpt": "As a Roblox developer, it is currently too hard to make an experience public from tooling, because there is no Open Cloud way to check whether the experience is allowed to go public. I maintain Bedrock , an open-source infrastructure-as-code tool for Roblox. Bedrock uses Open Cloud API keys only. It",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/an-experiences-eligibility-to-go-public-can-only-be-checked-with-cookie-authenticated-endpoints-not-open-cloud/4950356.rss",
+      "id": "21398e052c8241ff4488d741"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1438,6 +1506,18 @@
       "excerpt": "My account is 16-17 (With a parent account linked that's ID verified) and on my account I have Roblox plus (The cheapest) Am eligible for this to work in my game if I buy it? submitted by /u/Same_Environment_100 [link] [comments]",
       "creator": "/u/Same_Environment_100 https://www.reddit.com/user/Same_Environment_100",
       "id": "0e72578372d04fc894f51ad7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Open Cloud `activate` returns \"not authorized\" when an experience has no maturity rating, and can return 504 when it succeeds",
+      "url": "https://devforum.roblox.com/t/open-cloud-activate-returns-not-authorized-when-an-experience-has-no-maturity-rating-and-can-return-504-when-it-succeeds/4950361",
+      "published": "2026-10-22",
+      "excerpt": "The Open Cloud endpoint POST /legacy-develop/v1/universes/{universeId}/activate reports the wrong cause when an experience cannot be made public, and it can report a failure for a call that succeeded. First seen 2026-10-22 at 16:14 UTC. A similar 403 on the same endpoint was seen in May 2026, but no",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-cloud-activate-returns-not-authorized-when-an-experience-has-no-maturity-rating-and-can-return-504-when-it-succeeds/4950361.rss",
+      "id": "0af98fe80449a9317a1f5bf1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -6615,18 +6695,6 @@
       "id": "8b3c9b9786293cc984c8d138"
     },
     {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyYW5KQmpZSHQ3c0RGXzRzclgxMHYxQXlrUHRvVGNtSXI1cjd6YmVBTXM2NXhTbGk5NXZsOXBMOWQ2OWMtVFRaMDNsOTBUZENaNWhtWTVB?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "89fb1f98d443a73d30d97571"
-    },
-    {
       "source": "instagram-index",
       "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
       "category": "instagram_index",
@@ -6812,6 +6880,18 @@
       "excerpt": "Working on a wild new concept for the cockpit taking vintage hardware and integrating a holographic telemetry and GPS tracing interface right above the bars. What are your thoughts ?? . Cobrarace 111 Shilouette 🔥 . . . . . #vasilidesign #cobrarace #pokemon Instagram",
       "creator": "",
       "id": "8acfbfa6b6457fdcc2c5a067"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyYW5KQmpZSHQ3c0RGXzRzclgxMHYxQXlrUHRvVGNtSXI1cjd6YmVBTXM2NXhTbGk5NXZsOXBMOWQ2OWMtVFRaMDNsOTBUZENaNWhtWTVB?oc=5",
+      "published": "2026-10-13",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "89fb1f98d443a73d30d97571"
     },
     {
       "source": "claude-news",
@@ -7499,72 +7579,6 @@
       "excerpt": "the package I've been waiting for a month #madokamagica #homura #madokaandhomura #magicalgirls TikTok",
       "creator": "",
       "id": "6eb8ceef304640651e800d6f"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Developer Uses AI to Clone Adobe's Seven-App Suite — Free and Open Source, but Far from a True Replacement - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91LUFXNEtyTDhwRWVQeFFZLVh2OVdlb0xhVXg3TnI5QjdJc09lTUcwbkVoazd5T1VfSUNkMlRPWS1Vbnp6YloxOHZieWxMVmN3TXlqTThZNjJZRmNaekhoX0xIMEFYazZwUW5WeVM1U1FpUWNxYmc?oc=5",
-      "published": "2026-10-11",
-      "excerpt": "Developer Uses AI to Clone Adobe's Seven-App Suite — Free and Open Source, but Far from a True Replacement BigGo Finance",
-      "creator": "",
-      "id": "6d005d5ad8cd21a6c71d36f1"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "I Asked AI to Build a Roblox Plugin... (It Actually Worked!) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56OHp5S0diS0JKNzQzbmNNZW5iUWhOcS1uU3pQWUZWWXl3VHRnNmFjb3ppRXFURjZVVHRNdmpVazRvLTBpd2xZU0pYc01sYVU5R3M4M0F3?oc=5",
-      "published": "2026-10-11",
-      "excerpt": "I Asked AI to Build a Roblox Plugin... (It Actually Worked!) YouTube",
-      "creator": "",
-      "id": "620319072f2103ec1a8bd316"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Making Metal Slug in Just 30 Seconds with New Ai 😳🥀 #robloxdev #robloxgame #robloxstudio #metalslug - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWi15anl5ZF9nY0E4WWpqRWJlUVp5WVpndkxka1JFQVNMTFgwd2JSY0ZOM1c1VWRxSDE5TE9FYUlpeERfd1QzdFpLY1BlVUlOcExYN09B?oc=5",
-      "published": "2026-10-11",
-      "excerpt": "Making Metal Slug in Just 30 Seconds with New Ai 😳🥀 #robloxdev #robloxgame #robloxstudio #metalslug Instagram",
-      "creator": "",
-      "id": "55075d432bb5d94daf6a42d6"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "@keiki.coders When Roblox meets coding, awesome things happen! #coding #honolulu #keiki #summerprogram - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14ck5UVGVNbEcySEFfT0I2bUM2Z0ZSR09pZHZxR055NUlaeWRJcDBDMWpSOFVyWVdabDNPU0lYVEwxSmRSQTRFaFM4SkxkaTQwUnc?oc=5",
-      "published": "2026-10-11",
-      "excerpt": "@keiki.coders When Roblox meets coding, awesome things happen! #coding #honolulu #keiki #summerprogram Instagram",
-      "creator": "",
-      "id": "4f1aad5f044d89e8d43248c8"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "Game:double or take! I did some reworks in my game and it turned out sm better then I thought #creatorsearchinsights #robloxgametoplay #studioroblox #2player #fyp - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oZDNwMjJsS0dEdlN1dUFUZk44QUZYNWZ4UTVzYXBPWkZQeG5xQURtb2NoazdVUW10RXp0aTlYOXhGbVdBRVg3dGFQQTd3c2U1dG9qWktQU3FZWFhoU195Z09JWTJuZW1oaWt4Z3JPU1c?oc=5",
-      "published": "2026-10-11",
-      "excerpt": "Game:double or take! I did some reworks in my game and it turned out sm better then I thought #creatorsearchinsights #robloxgametoplay #studioroblox #2player #fyp TikTok",
-      "creator": "",
-      "id": "4c2b5ab04220673d61e55518"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "How well does the Toge team actually know video games? Round Two! 👀🎮 The challenge remains the same: name a game starting with the given letter. We’ve got the Business Admin/Studio Manager, Social Med",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Y0c1VVo3M1NpRlR2RDRuMEUtckg4eGVGX243dnVrUy1XVTZFSFlfVF83Um9RSlJsM3BhNXEwb01manF0NlZka05DOVF6am5lU0FlZDhR?oc=5",
-      "published": "2026-10-11",
-      "excerpt": "How well does the Toge team actually know video games? Round Two! 👀🎮 The challenge remains the same: name a game starting with the given letter. We’ve got the Business Admin/Studio Manager, Social Media Manager, CEO, and Level Designer in the h Instagram",
-      "creator": "",
-      "id": "3c28ea7f5f733bebd2aead26"
     }
   ]
 }

@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "f20eb3b312cc11b97ba4ad00b96a05f40f9b52ba",
-      "head_subject": "mlx: add d3 decision model support (#19196)",
+      "head": "8dce29aa1b02388625c5de68a6b0f37813eda12e",
+      "head_subject": "build: update Go toolchain and dependencies (#19200)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.8",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",

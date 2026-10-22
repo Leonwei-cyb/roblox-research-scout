@@ -1664,6 +1664,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950322:1",
+      "url": "https://devforum.roblox.com/t/how-to-animate-rigs-with-objects-meshs/4950322",
+      "title": "How to animate rigs with objects meshs",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "cat animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950336:1",
+      "url": "https://devforum.roblox.com/t/team-create-connection-error-279-when-rejoining-place-after-studio-crash/4950336",
+      "title": "Team Create: \"Connection error 279\" when rejoining place after Studio crash",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950368:1",
+      "url": "https://devforum.roblox.com/t/soundseekovertimeasync-seektime-number-duration-number/4950368",
+      "title": "Sound:SeekOverTimeAsync( seekTime : number, duration : number )",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "cat animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -3859,6 +3898,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xcoheo",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcoheo/slimehunt_is_done/",
+      "title": "SLIMEHUNT IS DONE!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4930524:1",
       "url": "https://devforum.roblox.com/t/a-simpler-path-to-publish-plus-invite-early-testers/4930524",
       "title": "A Simpler Path to Publish, Plus Invite Early Testers",
@@ -4816,6 +4868,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950356:1",
+      "url": "https://devforum.roblox.com/t/an-experiences-eligibility-to-go-public-can-only-be-checked-with-cookie-authenticated-endpoints-not-open-cloud/4950356",
+      "title": "An experience's eligibility to go public can only be checked with cookie-authenticated endpoints, not Open Cloud",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950361:1",
+      "url": "https://devforum.roblox.com/t/open-cloud-activate-returns-not-authorized-when-an-experience-has-no-maturity-rating-and-can-return-504-when-it-succeeds/4950361",
+      "title": "Open Cloud `activate` returns \"not authorized\" when an experience has no maturity rating, and can return 504 when it succeeds",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -5575,17 +5649,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiUkFVX3lxTE14ck5UVGVNbEcySEFfT0I2bUM2Z0ZSR09pZHZxR055NUlaeWRJcDBDMWpSOFVyWVdabDNPU0lYVEwxSmRSQTRFaFM4SkxkaTQwUnc",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14ck5UVGVNbEcySEFfT0I2bUM2Z0ZSR09pZHZxR055NUlaeWRJcDBDMWpSOFVyWVdabDNPU0lYVEwxSmRSQTRFaFM4SkxkaTQwUnc?oc=5",
-      "title": "@keiki.coders When Roblox meets coding, awesome things happen! #coding #honolulu #keiki #summerprogram - Instagram",
-      "source": "instagram-index",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiUkFVX3lxTE1DYVJrY0w0ODZiaGdkOTIxaWd0amVrMnlFakg5ck9SOTVnOTBybHA1QkNRLXA0d1R1RnJHMGFkMHROREktTjFTbFIxRUgwNHZiUUE",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYVJrY0w0ODZiaGdkOTIxaWd0amVrMnlFakg5ck9SOTVnOTBybHA1QkNRLXA0d1R1RnJHMGFkMHROREktTjFTbFIxRUgwNHZiUUE?oc=5",
       "title": "Your child's Minecraft and Roblox hours can count towards their DSA (Direct School Admission) portfolio or Poly EAE (Early Admissions Exercise) application! ⠀ The 𝗚𝗮𝗺𝗲𝘀 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲, a",
@@ -5850,17 +5913,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1XWi15anl5ZF9nY0E4WWpqRWJlUVp5WVpndkxka1JFQVNMTFgwd2JSY0ZOM1c1VWRxSDE5TE9FYUlpeERfd1QzdFpLY1BlVUlOcExYN09B",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWi15anl5ZF9nY0E4WWpqRWJlUVp5WVpndkxka1JFQVNMTFgwd2JSY0ZOM1c1VWRxSDE5TE9FYUlpeERfd1QzdFpLY1BlVUlOcExYN09B?oc=5",
-      "title": "Making Metal Slug in Just 30 Seconds with New Ai 😳🥀 #robloxdev #robloxgame #robloxstudio #metalslug - Instagram",
-      "source": "instagram-index",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1YckJOZWtvcGsyektyNW5WUFhSXzJaRU1HMmduRWE5ZUNJM2p3T3dmMkF4MkF3U3l3VnhfT25RaG1kd3d5MVVzZjZpdEpSWlJVTmZJek5R",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YckJOZWtvcGsyektyNW5WUFhSXzJaRU1HMmduRWE5ZUNJM2p3T3dmMkF4MkF3U3l3VnhfT25RaG1kd3d5MVVzZjZpdEpSWlJVTmZJek5R?oc=5",
       "title": "เมื่อนัดเจอเพื่อนใน Roblox ครั้งแรก😅😅😅 #ritakitcat #Roblox #เกม #เทรนด์วันนี้ #โรบอค - Instagram",
@@ -5920,19 +5972,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE40Y0c1VVo3M1NpRlR2RDRuMEUtckg4eGVGX243dnVrUy1XVTZFSFlfVF83Um9RSlJsM3BhNXEwb01manF0NlZka05DOVF6am5lU0FlZDhR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Y0c1VVo3M1NpRlR2RDRuMEUtckg4eGVGX243dnVrUy1XVTZFSFlfVF83Um9RSlJsM3BhNXEwb01manF0NlZka05DOVF6am5lU0FlZDhR?oc=5",
-      "title": "How well does the Toge team actually know video games? Round Two! 👀🎮 The challenge remains the same: name a game starting with the given letter. We’ve got the Business Admin/Studio Manager, Social Med",
-      "source": "instagram-reels",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE43SWZRMXpKZlBuNGpwUXpnaVNrZ2RCa2lVVVJqX3JScjdNdnk2QlU5U0kwOWN6OUtjVW1kMnFzNnRob2F3QWxkWlFyVHFOWG1XUWo4UHVn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43SWZRMXpKZlBuNGpwUXpnaVNrZ2RCa2lVVVJqX3JScjdNdnk2QlU5U0kwOWN6OUtjVW1kMnFzNnRob2F3QWxkWlFyVHFOWG1XUWo4UHVn?oc=5",
       "title": "NEW ABBYS BOSS FIGHT🥺 in Steal an Egg Roblox (Best Steal an Egg Funny Moments) #stealanegg #roblox - Instagram",
@@ -5964,20 +6003,6 @@
       "published": "2026-10-13",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE56OHp5S0diS0JKNzQzbmNNZW5iUWhOcS1uU3pQWUZWWXl3VHRnNmFjb3ppRXFURjZVVHRNdmpVazRvLTBpd2xZU0pYc01sYVU5R3M4M0F3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56OHp5S0diS0JKNzQzbmNNZW5iUWhOcS1uU3pQWUZWWXl3VHRnNmFjb3ppRXFURjZVVHRNdmpVazRvLTBpd2xZU0pYc01sYVU5R3M4M0F3?oc=5",
-      "title": "I Asked AI to Build a Roblox Plugin... (It Actually Worked!) - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases",
-        "tools and performance"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -6341,7 +6366,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyYW5KQmpZSHQ3c0RGXzRzclgxMHYxQXlrUHRvVGNtSXI1cjd6YmVBTXM2NXhTbGk5NXZsOXBMOWQ2OWMtVFRaMDNsOTBUZENaNWhtWTVB?oc=5",
       "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
       "source": "brock-ig-reels",
-      "published": "2026-10-14",
+      "published": "2026-10-13",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
@@ -7086,17 +7111,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMicEFVX3lxTE1oZDNwMjJsS0dEdlN1dUFUZk44QUZYNWZ4UTVzYXBPWkZQeG5xQURtb2NoazdVUW10RXp0aTlYOXhGbVdBRVg3dGFQQTd3c2U1dG9qWktQU3FZWFhoU195Z09JWTJuZW1oaWt4Z3JPU1c",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oZDNwMjJsS0dEdlN1dUFUZk44QUZYNWZ4UTVzYXBPWkZQeG5xQURtb2NoazdVUW10RXp0aTlYOXhGbVdBRVg3dGFQQTd3c2U1dG9qWktQU3FZWFhoU195Z09JWTJuZW1oaWt4Z3JPU1c?oc=5",
-      "title": "Game:double or take! I did some reworks in my game and it turned out sm better then I thought #creatorsearchinsights #robloxgametoplay #studioroblox #2player #fyp - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMicEFVX3lxTE5FWHQya3lGT3ViR29rdUJ6Q0F5czlDQ0NzdlNCN3AyajFaTnFLOFVIYlNDOTdQQ20xNXdNcFF1dmVyeFFuSV8zWXBfSWh1cFpVdWFtRl9qeE82czZPclp4MW5LSXIyVHVaNTlqWnRSMGQ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FWHQya3lGT3ViR29rdUJ6Q0F5czlDQ0NzdlNCN3AyajFaTnFLOFVIYlNDOTdQQ20xNXdNcFF1dmVyeFFuSV8zWXBfSWh1cFpVdWFtRl9qeE82czZPclp4MW5LSXIyVHVaNTlqWnRSMGQ?oc=5",
       "title": "Apple ha presentato oggi 4 grosse novità, ma solo 2 arrivano in Europa. #HomeView #HomePodmini2 #Apple - TikTok",
@@ -7203,17 +7217,6 @@
       "title": "should I release this? 👀 #roblox #robloxstudio #robloxdev - TikTok",
       "source": "tiktok-index",
       "published": "2026-10-14",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMidkFVX3lxTE91LUFXNEtyTDhwRWVQeFFZLVh2OVdlb0xhVXg3TnI5QjdJc09lTUcwbkVoazd5T1VfSUNkMlRPWS1Vbnp6YloxOHZieWxMVmN3TXlqTThZNjJZRmNaekhoX0xIMEFYazZwUW5WeVM1U1FpUWNxYmc",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91LUFXNEtyTDhwRWVQeFFZLVh2OVdlb0xhVXg3TnI5QjdJc09lTUcwbkVoazd5T1VfSUNkMlRPWS1Vbnp6YloxOHZieWxMVmN3TXlqTThZNjJZRmNaekhoX0xIMEFYazZwUW5WeVM1U1FpUWNxYmc?oc=5",
-      "title": "Developer Uses AI to Clone Adobe's Seven-App Suite — Free and Open Source, but Far from a True Replacement - BigGo Finance",
-      "source": "claude-news",
-      "published": "2026-10-11",
       "kind": "index-only",
       "signals": [],
       "score": 0,

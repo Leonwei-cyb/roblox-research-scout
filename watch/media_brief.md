@@ -5,42 +5,35 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Build / 3D Examples
-
-- **[My Roblox Game SUCKED... So I Fixed EVERYTHING!](https://www.youtube.com/watch?v=Flb3G3BbOfY)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-22
-
 ## Roblox Creator / Ai Development
 
-- **[Can AI Make an Entire Roblox Incremental Game? (Art, 3D Models, Code) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvbkNaTGJoVEdJYmtmWnhHYjA1UWZZa05WMTZMYkk4ZUlxdUNWT1c4OTlwMnRrc3JWMThCcFZQbmljWlRCOTZlY1BqLWZwdG1IUEpGLVZ3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-26
-  - Feed excerpt: Can AI Make an Entire Roblox Incremental Game? (Art, 3D Models, Code) YouTube
+- **[Can Claude Make A VIRAL Battlegrounds Game? - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kSlk5NHVqSlZaV002bFpjV0tGeXVkY3lBX2lBRENocFlfWW1PV0NuUjBKbGl1c1cxTVdlSTctME5wVllGQ01fUWdQdURGaE92Nm16RnN3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-23
+  - Feed excerpt: Can Claude Make A VIRAL Battlegrounds Game? YouTube
+- **[This plugin made Roblox animation 100 Times Easier! - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vaHdWcDNIdjhYYklIOHZpRGlUUHU0MHVQLWdwUWdpMy1FdnY2TDRWSzRnUlRuZjZ4dzBiTGhOOHQ3RVZ5eExxVElJaGVVTmthbl9NNjhR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-10
+  - Feed excerpt: This plugin made Roblox animation 100 Times Easier! YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzQnB5SmZSZTlzYTV3MHE0dUxVWGJVWE1HMHNJakVPVWdQdTRGakw4ejNUUk9qek12eGpyTTN6c05tbGN0ajhDaHIyMUxJYVpRMXR0S0l3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-07
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
 
 ## Community
 
-- **[A roblox game where you automate by coding in Python](https://www.reddit.com/r/ROBLOXStudio/comments/1xcjfrv/a_roblox_game_where_you_automate_by_coding_in/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: I just made an incremental game where you have to code your drone in python to make it farm stuff. Check it out! Yes, this is heavily based off of that steam game submitted by /u/BraindeadReece9000 \[link\] \[comments\]
-- **[Is My Account eligible for an Avatar Creation Token?](https://www.reddit.com/r/ROBLOXStudio/comments/1xcip5h/is_my_account_eligible_for_an_avatar_creation/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: My account is 16-17 (With a parent account linked that's ID verified) and on my account I have Roblox plus (The cheapest) Am eligible for this to work in my game if I buy it? submitted by /u/Same_Environment_100 \[link\] \[comments\]
+- **[SLIMEHUNT IS DONE!](https://www.reddit.com/r/ROBLOXStudio/comments/1xcoheo/slimehunt_is_done/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
+  - Feed excerpt: Slimehunt \| Play on Roblox If you wanna have fun, play this, and be part of the Playtesters, this is my first Roblox game, and I am incredibly happy with how it turned out. You take pictures of Slimbos, to get money, to meet quota, and then
 
 ## Roblox Updates
 
-- **[CorePackages UIBlox AppStyleProvider:178 error shown in client console in every experience](https://devforum.roblox.com/t/corepackages-uiblox-appstyleprovider178-error-shown-in-client-console-in-every-experience/4950275)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Since approximately October 15, 2026, the following error appears in the developer console of the Roblox client in every experience I join. It also appears in Roblox Studio on startup. Steps to reproduce: Launch the Roblox client. Join any 
-- **[Monster Mystery - Analytics Feedback](https://devforum.roblox.com/t/monster-mystery-analytics-feedback/4950052)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hi guys, currently working on a MM2 variation but with monsters. Each round there is a sherrif and a monster and the sherrif has to catch before monster eats all. I believe the core loop is repeatable and engaging enough but the stats, espe
-- **[Anyone else had a counter-notice denied with zero explanation?](https://devforum.roblox.com/t/anyone-else-had-a-counter-notice-denied-with-zero-explanation/4950163)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hey everyone, Wanted to share my experience and see if others have run into something similar, because the pattern I’m seeing feels bigger than just my case. Quick timeline, no personal details: Had a UGC accessory removed several months ag
-- **[Body Asset always fails upload validation with "Unknown Error"](https://devforum.roblox.com/t/body-asset-always-fails-upload-validation-with-unknown-error/4950209)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: When attempting to publish an Avatar asset (first step for getting it up on Marketplace), the validation always fails with “Unknown Error”. This happens 100% of the time on this asset, and has been occurring since 21st Oct 2026. I’ve attemp
-- **[How to Go About Ik Animations for R6?](https://devforum.roblox.com/t/how-to-go-about-ik-animations-for-r6/4950171)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: I want to understand how to achieve a result similiar to this walking animation showcased here: The issue is conceptually I have no idea/experience with Ik constraints and don’t really no where to start. Ideally I can learn enough to be abl
-- **[Server Authority: client CPU load alone causes rollbacks on a contact-free predicted part; each rollback costs 15–31 ms](https://devforum.roblox.com/t/server-authority-client-cpu-load-alone-causes-rollbacks-on-a-contact-free-predicted-part-each-rollback-costs-15%E2%80%9331-ms/4949968)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: With Workspace.AuthorityMode = Server, a single predicted part that touches nothing gets rollbacks as soon as the client spends ~8 ms in a BindToSimulation callback. With no client load there are 0 rollbacks. In a real game every rollback r
-- **[Super Freeze Tag - Feedback](https://devforum.roblox.com/t/super-freeze-tag-feedback/4950083)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: I’ve just finished making a game and it’s aimed for a younger audience which I don’t have access to due to the Highly Engaged Player restriction. I don’t really know what to do about that, any advice? I would also appreciate if anyone could
-- **[Video never meets the Video Quality Guidelines](https://devforum.roblox.com/t/video-never-meets-the-video-quality-guidelines/4950069)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: i genuinely dont understand what else im supposed to do at this point. experiences/10770783191/places/138868081965452 my first upload included a cutscene that actually exists in the game. every player sees it when they start, and its part o
-- **[\[Plugin\] Output+ \| Script channels, colored outputs, rich text support and more](https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Output+ \| Output+ Lite What is Output+? Ever added a few prints to debug something, pressed Play, and watched them disappear into everything else your game was logging? Well, not anymore! Output+ is a plugin that helps you focus on the logs
+- **[An experience's eligibility to go public can only be checked with cookie-authenticated endpoints, not Open Cloud](https://devforum.roblox.com/t/an-experiences-eligibility-to-go-public-can-only-be-checked-with-cookie-authenticated-endpoints-not-open-cloud/4950356)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: As a Roblox developer, it is currently too hard to make an experience public from tooling, because there is no Open Cloud way to check whether the experience is allowed to go public. I maintain Bedrock , an open-source infrastructure-as-cod
+- **[Team Create: "Connection error 279" when rejoining place after Studio crash](https://devforum.roblox.com/t/team-create-connection-error-279-when-rejoining-place-after-studio-crash/4950336)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: After Roblox Studio crashed, I can no longer rejoin the Team Create session for one of my places. Every attempt fails with: “Unable to join the Team Create session for place ID. Connection error 279” Clicking “Try again” fails with the same
+- **[How to animate rigs with objects meshs](https://devforum.roblox.com/t/how-to-animate-rigs-with-objects-meshs/4950322)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: What do you want to achieve? Keep it simple and clear! I want to achieve animate riga and with objects, parts, meshs, tools. What is the issue? Include screenshots / videos if possible! I really don’tknow how to do this. What solutions have
+- **[Open Cloud 'activate' returns "not authorized" when an experience has no maturity rating, and can return 504 when it succeeds](https://devforum.roblox.com/t/open-cloud-activate-returns-not-authorized-when-an-experience-has-no-maturity-rating-and-can-return-504-when-it-succeeds/4950361)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: The Open Cloud endpoint POST /legacy-develop/v1/universes/{universeId}/activate reports the wrong cause when an experience cannot be made public, and it can report a failure for a call that succeeded. First seen 2026-10-22 at 16:14 UTC. A s
+- **[Sound:SeekOverTimeAsync( seekTime : number, duration : number )](https://devforum.roblox.com/t/soundseekovertimeasync-seektime-number-duration-number/4950368)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: As a Roblox developer, it is currently too hard to … Seek from one position to another in a Sound without an audible pop. If Roblox is able to address this issue, it would improve my development experience because … My previous project also
 
 ---
 
