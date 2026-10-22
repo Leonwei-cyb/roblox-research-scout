@@ -741,7 +741,10 @@
     "5202fccd03fa6849eb89c389",
     "0ce620aee24bbfcd98b578c4",
     "75fc8402c19e415fa857e82e",
-    "48dda07db224f2b4cd5fbf98"
+    "48dda07db224f2b4cd5fbf98",
+    "ac7adc05e6ad079555b8cd4a",
+    "62caf56b09fbc45e7ad4406e",
+    "30fc0eb6cc88af9950cf142f"
   ],
   "items": [
     {
@@ -932,6 +935,18 @@
       "id": "ac8dc1500aaf7460b5c129d4"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Degraded Performance after potential Roblox Server Memory Optimization",
+      "url": "https://devforum.roblox.com/t/degraded-performance-after-potential-roblox-server-memory-optimization/4949621",
+      "published": "2026-10-22",
+      "excerpt": "Hello! We’ve been receiving a ton of reports regarding degraded perofmance in Blox Fruits over the last ~2 days. For context - we have not updated in almost 2 weeks. It seems to be frontloaded, a player will have <1 fps for a bit after joining but the fps will slowly climb the longer they play. Ther",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/degraded-performance-after-potential-roblox-server-memory-optimization/4949621.rss",
+      "id": "ac7adc05e6ad079555b8cd4a"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -977,6 +992,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/first-i-think-live-stream-in-roblox-at-480p-and-24fps/4949105.rss",
       "id": "7d16c3e3635579fd859b15e0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Text chat not working between clients in Studio's Server & Client Testing.",
+      "url": "https://devforum.roblox.com/t/text-chat-not-working-between-clients-in-studios-server-client-testing/4949601",
+      "published": "2026-10-22",
+      "excerpt": "I can’t get text chat to work properly in Roblox Studio’s Server & Client Testing, it used to work awhile ago but not anymore. CanUsersChatAsync between the two clients returns false and I have no idea how to change it. I’ve tried to reinstall, disable beta features, adjust my comm. settings, and ot",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/text-chat-not-working-between-clients-in-studios-server-client-testing/4949601.rss",
+      "id": "62caf56b09fbc45e7ad4406e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7505,28 +7532,6 @@
       "excerpt": "Key Takeaways Automatic translation is now available for the text-to-speech API (11 languages supported). Players hear generated speech in their language across supported games. The AutoLocalize property of your AudioTextToSpeech instance will be set to true by default; learn more in the API docs an",
       "creator": "",
       "id": "c778d72a9e79567c1277c4cc"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "I Asked ChatGPT to Make a Minecraft House… 😂 ChatGPT vs WBuilds! #Minecraft #MinecraftBuilds #MinecraftHouse #ChatGPT #GPT6 - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WSk0tQ3B0bmgzSmxVVnNVa3UtVTJuXzV5YUNVVGRQbXlBOS1EeG5XeWo1aE42UEYzUjA4V204ZmhyUlFSbWN0Q0F6cHpBZ1hqMXZyYnVB?oc=5",
-      "published": "2026-10-08",
-      "excerpt": "I Asked ChatGPT to Make a Minecraft House… 😂 ChatGPT vs WBuilds! #Minecraft #MinecraftBuilds #MinecraftHouse #ChatGPT #GPT6 Instagram",
-      "creator": "",
-      "id": "ae2e4653a5c6d55515c3e9b4"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "A Fan Asked Why His Game is FAILING 3 Years Later...",
-      "url": "https://www.youtube.com/watch?v=ybNcIYHmJTU",
-      "published": "2026-10-08",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "a553db9f9c35e6b7a9f6fa82"
     }
   ]
 }

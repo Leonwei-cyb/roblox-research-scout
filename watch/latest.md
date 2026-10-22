@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [kaixinbaba/awesome-rea](https://github.com/kaixinbaba/awesome-rea) (10 stars). Open-source reverse-engineering projects, reimplementations and compatible alternatives. Primary sources, licenses and honest limits; REA usage optional.
+- **Unreviewed lead:** [MSayib/roblox-dev-skill](https://github.com/MSayib/roblox-dev-skill) (54 stars). An agent skill that turns AI coding assistants into Roblox development experts: Luau, engine APIs, architecture, anti-exploit security, and how to drive Studio's built-in MCP serve
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
