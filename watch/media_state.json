@@ -733,7 +733,15 @@
     "2d307349dacb921be9368574",
     "50d8e8a82cd3028cdc6a4175",
     "acaa63e063db652dd76d5168",
-    "3dd7c09c568cc4d540f44a59"
+    "3dd7c09c568cc4d540f44a59",
+    "f801c0b09db2503b73787459",
+    "43cd90dfda78ee5d842e23f6",
+    "e1ed350e8ac9e422db3e6cfc",
+    "544a7c9dabe0040dc7235a17",
+    "5202fccd03fa6849eb89c389",
+    "0ce620aee24bbfcd98b578c4",
+    "75fc8402c19e415fa857e82e",
+    "48dda07db224f2b4cd5fbf98"
   ],
   "items": [
     {
@@ -752,10 +760,22 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Can you make type function support generic input?",
+      "url": "https://devforum.roblox.com/t/can-you-make-type-function-support-generic-input/4949540",
+      "published": "2026-10-22",
+      "excerpt": "I’m really so confused about what even the point of type functions is at this point What I effectively want is being able to have: local SetProperty: Type Function Here And then after it, me being able to pass arguments and type functions, receiving them as generics for type evaluation? SetPropert(g",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/can-you-make-type-function-support-generic-input/4949540.rss",
+      "id": "f801c0b09db2503b73787459"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Animate script have problems",
       "url": "https://devforum.roblox.com/t/animate-script-have-problems/4949474",
       "published": "2026-10-22",
-      "excerpt": "basically, for some reason now even if i paste same animate script but with other animation like before. It just makes 2 Local “Animate” scripts in my Character. I remember it suppose to swap old one with new one Am i doing wrong or there is some update? 1 post - 1 participant Read full topic",
+      "excerpt": "basically, for some reason now even if i paste same animate script but with other animation like before. It just makes 2 Local “Animate” scripts in my Character. I remember it suppose to swap old one with new one Am i doing wrong or there is some update? 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/animate-script-have-problems/4949474.rss",
       "id": "f616670e7d1b4c538f011e63"
@@ -782,6 +802,18 @@
       "excerpt": "Hey guys, I am open for commissions, I take PayPal USD only, I can basically create whatever you need on Blender I have a lot of experience (I've been a full stack dev for 2 years now) , here is some of my recent work!! I can create pets, mounts, custom R6/R15 characters, weapons, accessories etc :)",
       "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
       "id": "e2d0e77165f1a975b708f02f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Help with gun idle animation",
+      "url": "https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498",
+      "published": "2026-10-22",
+      "excerpt": "Whenever i equip the gun my character does not hold it in his left hand,why does this happen?I equiped the same gun on the same type of rig and it held it just fine 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498.rss",
+      "id": "e1ed350e8ac9e422db3e6cfc"
     },
     {
       "source": "roblox-devforum-latest",
@@ -971,6 +1003,17 @@
       "id": "5e1a0f21e815fb253ca5e4c5"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "help me",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcaxki/help_me/",
+      "published": "2026-10-22",
+      "excerpt": "i made this turtle model in blender i used mirror modifier to reflect the legs and eyes (the eyes are fine) but the legs appear as transparent inside out on roblox studio i followed some tutorials and did flip normals but it didnt work please help submitted by /u/blurbeeYT [link] [comments]",
+      "creator": "/u/blurbeeYT https://www.reddit.com/user/blurbeeYT",
+      "id": "544a7c9dabe0040dc7235a17"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1004,6 +1047,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-player-for-windows-hangs-when-a-device-is-connecteddisconnected/4949292.rss",
       "id": "4494193cbb99a7fff9baf06a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Topbar error, becoming uninteractable and invisible",
+      "url": "https://devforum.roblox.com/t/topbar-error-becoming-uninteractable-and-invisible/4949516",
+      "published": "2026-10-22",
+      "excerpt": "H! I’ve been encountering this error all the time and it has been irritating me alot. Everytime i playtest games in studio, my topbar always errors like this, i had to restart the playtest numerous times just for it to work. I dont really know what causes this to happen, This happens in all games De",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/topbar-error-becoming-uninteractable-and-invisible/4949516.rss",
+      "id": "43cd90dfda78ee5d842e23f6"
     },
     {
       "source": "reddit-robloxstudio",
@@ -7472,51 +7527,6 @@
       "excerpt": "",
       "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
       "id": "a553db9f9c35e6b7a9f6fa82"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "👇🏼Comment “BLOCKS” and I’ll send you the link to the full library. This might be one of the most premium UI libraries I’ve ever come across ✨ It’s called Kitchen, and every component is built to feel ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BZEd6R3VqNVo5eFFTSV9xaTU4NzNIVkVVVXNjUTdISlU1XzNUMzJrTEV6NlVpeU9sVEEyaEROd0xMZXc3QmdKT1VRR2h6ZzJDNkhqSEJn?oc=5",
-      "published": "2026-10-08",
-      "excerpt": "👇🏼Comment “BLOCKS” and I’ll send you the link to the full library. This might be one of the most premium UI libraries I’ve ever come across ✨ It’s called Kitchen, and every component is built to feel like a real physical object. There’s a cassette player with turni Instagram",
-      "creator": "",
-      "id": "60ee843d9281823dd4b3f14a"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Create IP-Based Avatar Items With Marketplace Licenses",
-      "url": "https://devforum.roblox.com/t/create-ip-based-avatar-items-with-marketplace-licenses/4921794",
-      "published": "2026-10-08",
-      "excerpt": "Key Takeaways You can now apply for licenses to create and sell IP-based avatar items. Each IP owner will decide whether they will add this license option to the catalog. Licensed avatar items will display a badge. Licensed badges are coming soon to games. Find available licenses in Creator Hub > Li",
-      "creator": "",
-      "id": "4099bad4403bea920ecef3ad"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "Thank you for joining us for the game night! It was so fun gaming with you all!!! Looking forward to our next one ✨🐤 #sjsu #productdesign - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9weDBHcy0zel85VzcxMjB6WUdhcENLQ2E1MFI2eU81Y2FSUUhOeEVJMm9DRjk5a04tV08tbVlrZzBweTlyRkY2cEc1M3NqbVNGZDAtTGFB?oc=5",
-      "published": "2026-10-08",
-      "excerpt": "Thank you for joining us for the game night! It was so fun gaming with you all!!! Looking forward to our next one ✨🐤 #sjsu #productdesign Instagram",
-      "creator": "",
-      "id": "24181f6043dd755e0ad1ed98"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNnJFM3F3U2JrVDRZZDVwWk9RWnNaZ2EtZDBQSHdqd1JsU1ByZG1zZl9pN1gxX2FkcG02bmU4WXdoNHY5YTRkTUpEcTdtdFUtRHlYUW1R?oc=5",
-      "published": "2026-10-08",
-      "excerpt": "What Halloween Monsters should I add into Steal an Egg 🎃 #roblox #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "237793930278471d40f7b8df"
     }
   ]
 }

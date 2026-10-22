@@ -8,9 +8,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 225
-- index-only: 178
-- reddit: 172
+- devforum: 227
+- index-only: 175
+- reddit: 173
 - youtube: 21
 
 ## First-Session And Mobile
@@ -25,8 +25,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Tuition And Economy
 
+- [Help with gun idle animation](https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498) — devforum; **unviewed metadata**. Proposed test: Does server-earned tuition visibly increase and reveal the next expansion pad?
 - [Feedback on "Private servers"](https://devforum.roblox.com/t/feedback-on-private-servers/4945882) — devforum; **unviewed metadata**. Proposed test: Does server-earned tuition visibly increase and reveal the next expansion pad?
-- [How do i get a game popular?](https://www.reddit.com/r/ROBLOXStudio/comments/1xbd51e/how_do_i_get_a_game_popular/) — reddit; **unviewed metadata**. Proposed test: Does server-earned tuition visibly increase and reveal the next expansion pad?
 
 ## Ui And Menus
 

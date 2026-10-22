@@ -5,25 +5,31 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Build / 3D Examples
+
+- **["I Have $250 Build Me a Game!"](https://www.youtube.com/watch?v=rz-aDPrNvHw)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-09-29
+- **[I Turned REELS Into a Roblox Game!](https://www.youtube.com/watch?v=CD0NEjfeetc)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-03
+
+## Roblox Creator / Steal An Egg
+
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYktaUFZtT05lM2JQOVp5WDZKTEFBQmFIeFVsUmhqc1FKRUtYUWpMTUxhTl9ZQWZZTlFqNWFOOERiYlE3NUNWeDNoZGpydDlaNEhUSG53?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-25
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fN1EwODZvYmdwZjliaFRETzFsRlNCdEFjbDhCeHFISkhUU216TmhQTnM3Qm9tbHhIZ3FHQjM1TnpoNk9CR0laeTJoME94bGs4LW5OWU9n?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-26
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+
 ## Community
 
-- **[Clippers needed!](https://www.reddit.com/r/ROBLOXStudio/comments/1xcaff5/clippers_needed/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: I made this new game, its basically bomb tag but with abilities, its far from done, but its already a lot of fun to play, but no one knows about it. So thats where you guys come in. You guys can clip this game with any type of content, and 
-- **[I started learning LUA to build my dream game then I found out about Claude OPUS, creating games that generates a lot of CCU. Is this a sign to quit for me??](https://www.reddit.com/r/ROBLOXStudio/comments/1xc9lty/i_started_learning_lua_to_build_my_dream_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: I’m very passionate to building my dream game and I'm planning to make a virtual pet care experience inspired by Pou but using my cute OC. I don't mind how hard Lua is to learn, I just lost my spark after seeing someone else's create a succ
-- **[Try and test it out our game (help us to reach 250 players)](https://www.reddit.com/r/ROBLOXStudio/comments/1xc9zk3/try_and_test_it_out_our_game_help_us_to_reach_250/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: Hello everyone! please try our new game we’re trying to reach 250 players (16+). It’s honestly a great game but we’re also improving every little details especially everything that comes from all of the feedbacks! game: https://www.roblox.c
+- **[help me](https://www.reddit.com/r/ROBLOXStudio/comments/1xcaxki/help_me/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
+  - Feed excerpt: i made this turtle model in blender i used mirror modifier to reflect the legs and eyes (the eyes are fine) but the legs appear as transparent inside out on roblox studio i followed some tutorials and did flip normals but it didnt work plea
 
 ## Roblox Updates
 
-- **[Animate script have problems](https://devforum.roblox.com/t/animate-script-have-problems/4949474)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: basically, for some reason now even if i paste same animate script but with other animation like before. It just makes 2 Local “Animate” scripts in my Character. I remember it suppose to swap old one with new one Am i doing wrong or there i
-- **[# Halloween Scene;](https://devforum.roblox.com/t/halloween-scene/4949465)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hellooooooooooo lads! – been quite a while since I posted here :") I was busy with commissions but want to show one that I was busy with this lil thing. Will be showing more soon – one is this halloween 3/4 angled scene ^^ See yall later!! 
-- **[Building a voxel theme park: the castle, a coaster tree and a wooden twister, step by step](https://devforum.roblox.com/t/building-a-voxel-theme-park-the-castle-a-coaster-tree-and-a-wooden-twister-step-by-step/4949489)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hi everyone! I’m building Party Kingdom , a voxel theme park on Roblox. Here’s how a few of the park’s big builds came together, layer by layer, in a voxel editor. I’d love your thoughts on the style. The PK Castle The park’s centerpiece, s
-- **[My Co-Developer's account was false banned for unknown linked account](https://devforum.roblox.com/t/my-co-developers-account-was-false-banned-for-unknown-linked-account/4949473)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hi, I am a small developer with ~1.4M visits on my game Ragdoll Legends. My friend and collaborator @seldomlight was permanently banned today for a linked account that she does not recognize. She has no alternate accounts that start with “ 
+- **[Topbar error, becoming uninteractable and invisible](https://devforum.roblox.com/t/topbar-error-becoming-uninteractable-and-invisible/4949516)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: H! I’ve been encountering this error all the time and it has been irritating me alot. Everytime i playtest games in studio, my topbar always errors like this, i had to restart the playtest numerous times just for it to work. I dont really k
+- **[Can you make type function support generic input?](https://devforum.roblox.com/t/can-you-make-type-function-support-generic-input/4949540)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: I’m really so confused about what even the point of type functions is at this point What I effectively want is being able to have: local SetProperty: Type Function Here And then after it, me being able to pass arguments and type functions, 
+- **[Help with gun idle animation](https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: Whenever i equip the gun my character does not hold it in his left hand,why does this happen?I equiped the same gun on the same type of rig and it held it just fine 2 posts - 2 participants Read full topic
 
 ---
 

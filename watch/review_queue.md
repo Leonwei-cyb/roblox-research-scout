@@ -7,7 +7,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk)** — Original media link, not watched
-- **[What makes a good Tower Defense game?](https://devforum.roblox.com/t/what-makes-a-good-tower-defense-game/4949163)** — Public text/page, video not confirmed
+- **[Help with gun idle animation](https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498)** — Public text/page, video not confirmed
 - **[Just released my tower defense game, looking for testers and feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
