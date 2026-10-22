@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Release:** [anthropics/claude-code](https://github.com/anthropics/claude-code) v2.1.307 → v2.1.308.
+- **Unreviewed lead:** [kaixinbaba/awesome-rea](https://github.com/kaixinbaba/awesome-rea) (10 stars). Open-source reverse-engineering projects, reimplementations and compatible alternatives. Primary sources, licenses and honest limits; REA usage optional.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
