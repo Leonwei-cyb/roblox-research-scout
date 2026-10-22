@@ -6,9 +6,9 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
-- **[Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk)** — Original media link, not watched
 - **[Help with gun idle animation](https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498)** — Public text/page, video not confirmed
 - **[Just released my tower defense game, looking for testers and feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/)** — Public text/page, video not confirmed
+- **[What is the hardest part of balancing an upgrade system?](https://www.reddit.com/r/robloxgamedev/comments/1xaq2cx/what_is_the_hardest_part_of_balancing_an_upgrade/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
@@ -17,12 +17,11 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## 3D / models / environments
 
-- **[Going Under the Hood with Mesh and Texture Streaming \| RDC 2026](https://www.youtube.com/watch?v=OToDz3Ghpjo)** — Original media link, not watched
 - **[MeshPart Solid Modelling messes up Pivot](https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315)** — Public text/page, video not confirmed
-- **[\[Beta\] Introducing Quality Mode for Texture Generation](https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282)** — Public text/page, video not confirmed
+- **[\[Full Launch\] Publish Games with Custom Terrain Materials and Performance Improvements](https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
+- **[My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please](https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/)** — Public text/page, video not confirmed
 - **[\[Plugin\] Output+ \| Script channels, colored outputs, rich text support and more](https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229)** — Public text/page, video not confirmed
-- **[I started learning LUA to build my dream game then I found out about Claude OPUS, creating games that generates a lot of CCU. Is this a sign to q](https://www.reddit.com/r/ROBLOXStudio/comments/1xc9lty/i_started_learning_lua_to_build_my_dream_game/)** — Public text/page, video not confirmed

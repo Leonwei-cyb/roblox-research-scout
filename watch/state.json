@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "7de3c981d49f5d56cf73af05abaa92712629b7aa",
-      "head_subject": "Start next version",
+      "head": "9e38e2e405aa6276697493c0b4c4f64e3c734e22",
+      "head_subject": "Update CREDITS.md (#9487)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "f7a0847f3ce85cc95c97e00e63066e2b185deae1",
+      "head": "142c1054364c20525ae92e7aedfcd7f2c2a4bfc3",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "8dce29aa1b02388625c5de68a6b0f37813eda12e",
-      "head_subject": "build: update Go toolchain and dependencies (#19200)",
+      "head": "3295b3e96ba386219f4baa841cdbe402a04b13dc",
+      "head_subject": "flint: fix replies with thinking disabled (#19216)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.8",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
@@ -211,6 +211,7 @@
     "linny006/mcp-servers-live",
     "linny006/skills-tracker",
     "linny006/trending-claude-skills",
+    "lissy93/bug-bounties",
     "mvanhorn/printing-press-library",
     "obra/superpowers",
     "obris-dev/openmagpie",

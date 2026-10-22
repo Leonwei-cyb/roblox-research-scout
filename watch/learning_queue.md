@@ -8,10 +8,10 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 245
-- index-only: 152
-- reddit: 178
-- youtube: 21
+- devforum: 257
+- index-only: 134
+- reddit: 190
+- youtube: 15
 
 ## First-Session And Mobile
 
@@ -40,8 +40,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## World And Visual Design
 
+- [\[Full Launch\] Publish Games with Custom Terrain Materials and Performance Improvements](https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620) — devforum; **unviewed metadata**. Proposed test: Can the player clearly see the first pad and classroom on simple blue outdoor grass?
 - [anyone want some scripts to some models ? i have to many](https://www.reddit.com/r/ROBLOXStudio/comments/1xb0vmr/anyone_want_some_scripts_to_some_models_i_have_to/) — reddit; **unviewed metadata**. Proposed test: Can the player clearly see the first pad and classroom on simple blue outdoor grass?
-- [Just wanted to share this model i made in roblox studio](https://www.reddit.com/r/ROBLOXStudio/comments/1xbmzu5/just_wanted_to_share_this_model_i_made_in_roblox/) — reddit; **unviewed metadata**. Proposed test: Can the player clearly see the first pad and classroom on simple blue outdoor grass?
 
 ## Genres And Successful Loops
 

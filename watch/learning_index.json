@@ -370,6 +370,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950620:1",
+      "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
+      "title": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xaql7x",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xaql7x/developing_a_custom_digging_system_in_roblox/",
       "title": "Developing a custom digging system in Roblox Studio that lets players create and swim in their own ponds!",
@@ -500,6 +514,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950387:1",
+      "url": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387",
+      "title": "[Test] New Home Layout With More Built-in Utility",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8xjig",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8xjig/playtesters_wanted_the_neighbors_next_door/",
       "title": "🎃 Playtesters wanted: The Neighbors Next Door (Halloween memory/puzzle game)",
@@ -542,58 +571,6 @@
         "UI and menus",
         "world and visual design",
         "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:BiIAmVN6r2M",
-      "url": "https://www.youtube.com/watch?v=BiIAmVN6r2M",
-      "title": "Terrain Reimagined: An Early Preview | RDC 2026",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-12",
-      "kind": "youtube",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:EAwLbXfl5gk",
-      "url": "https://www.youtube.com/shorts/EAwLbXfl5gk",
-      "title": "Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts",
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "published": "2026-10-12",
-      "kind": "youtube",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:KB5iAzy86Fo",
-      "url": "https://www.youtube.com/watch?v=KB5iAzy86Fo",
-      "title": "Rapid Creation with Agentic Studio | RDC 2026",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-12",
-      "kind": "youtube",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:qLP05zvMsW0",
-      "url": "https://www.youtube.com/watch?v=qLP05zvMsW0",
-      "title": "Deep Systems, Deep Engagement: Building Complex RPG Mechanics | RDC 2026",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-12",
-      "kind": "youtube",
-      "signals": [
-        "physical tycoon purchases"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -1031,6 +1008,34 @@
       "signals": [
         "physical tycoon purchases",
         "cat animation and audio"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcq3zm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq3zm/tutorial_is_killing_my_game/",
+      "title": "Tutorial is killing my game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcu58e",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
+      "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "genres and successful loops"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1703,6 +1708,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950480:1",
+      "url": "https://devforum.roblox.com/t/studio-beta-text-to-speech-asset-creation-support-in-lua/4950480",
+      "title": "[Studio Beta] Text-to-Speech Asset Creation Support in Lua",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950696:1",
+      "url": "https://devforum.roblox.com/t/terrain-over-the-recommended-16-voxels-thickness-disappears-at-distance/4950696",
+      "title": "Terrain over the recommended 16 voxels thickness disappears at distance",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -2186,6 +2217,58 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xcq0ep",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq0ep/roblox_game_feedback_pleaseeee/",
+      "title": "Roblox game feedback pleaseeee",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcrbbr",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcrbbr/looking_for_a_map_builder/",
+      "title": "Looking for a map builder",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcs96m",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcs96m/bannerfall_ui_medieval_ancient_game/",
+      "title": "Bannerfall UI (Medieval ancient game)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcsv3p",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcsv3p/highly_engaged_player_stats/",
+      "title": "Highly Engaged Player Stats",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4936487:1",
       "url": "https://devforum.roblox.com/t/fix-published-avatar-items-and-organize-your-creations-in-creator-dashboard/4936487",
       "title": "Fix Published Avatar Items and Organize Your Creations in Creator Dashboard",
@@ -2307,6 +2390,34 @@
       "signals": [
         "player feedback and marketing",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950390:1",
+      "url": "https://devforum.roblox.com/t/asset-contentids-beginning-with-rbxgameasset-are-not-loading-properly/4950390",
+      "title": "Asset ContentIds beginning with \"rbxgameasset://\" are not loading properly",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "cat animation and audio",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950632:1",
+      "url": "https://devforum.roblox.com/t/is-play-time-with-multiple-places-a-losing-battle/4950632",
+      "title": "Is play time with multiple places a losing battle?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -2550,6 +2661,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xcpkaw",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcpkaw/the_portal_transition_in_my_void_lord_boss_fight/",
+      "title": "The portal transition in my Void Lord boss fight",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcq2fz",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq2fz/game_getting_0_home_recommendations_2_weeks_after/",
+      "title": "Game getting 0 home recommendations 2 weeks after release",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:-wqaH11mmpc",
       "url": "https://www.youtube.com/watch?v=-wqaH11mmpc",
       "title": "Updating My Game Now Its INSANE!",
@@ -2616,17 +2755,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:OToDz3Ghpjo",
-      "url": "https://www.youtube.com/watch?v=OToDz3Ghpjo",
-      "title": "Going Under the Hood with Mesh and Texture Streaming | RDC 2026",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-12",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "youtube:RvYLhEOcMJY",
       "url": "https://www.youtube.com/shorts/RvYLhEOcMJY",
       "title": "Drifters is coming soon. join the community now to playtest. sweet dreams 😈",
@@ -2660,22 +2788,11 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:gCp4zzjjJ14",
-      "url": "https://www.youtube.com/watch?v=gCp4zzjjJ14",
-      "title": "Avatars at the Center: Driving Gameplay, Identity, and Commerce | RDC 2026",
+      "key": "youtube:jbwN3zcVbdk",
+      "url": "https://www.youtube.com/shorts/jbwN3zcVbdk",
+      "title": "the countdown’s over.",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-12",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:hoMbv_R8AMU",
-      "url": "https://www.youtube.com/watch?v=hoMbv_R8AMU",
-      "title": "Mastering Monetization: Lessons from Top Creators | RDC 2026",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-12",
+      "published": "2026-10-22",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -3430,6 +3547,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950522:1",
+      "url": "https://devforum.roblox.com/t/improving-validation-checks-for-ugc-avatar-bodies-visualization-tool-and-asset-quality/4950522",
+      "title": "Improving Validation Checks for UGC Avatar Bodies: Visualization Tool and Asset Quality",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -3906,6 +4036,19 @@
       "kind": "reddit",
       "signals": [
         "physical tycoon purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcr1bu",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcr1bu/new_gameplay_from_infected_station_zero/",
+      "title": "New gameplay from INFECTED: STATION ZERO 🧟",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4890,6 +5033,61 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4950439:1",
+      "url": "https://devforum.roblox.com/t/rev-share-recruiting-team-for-chica%E2%80%99s-lost-world-compact-fnaf-rp-project/4950439",
+      "title": "[REV-SHARE] Recruiting Team for \"Chica’s Lost World\" (Compact FNaF RP Project)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950455:1",
+      "url": "https://devforum.roblox.com/t/cannot-upload-thumbnails-to-experience-detail-page/4950455",
+      "title": "Cannot upload Thumbnails to Experience Detail page",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950527:1",
+      "url": "https://devforum.roblox.com/t/place-publishing-api-every-public-publish-returns-409-your-public-publish-limit-has-been-exceeded-since-2026-10-17/4950527",
+      "title": "Place Publishing API: every public publish returns 409 \"Your public publish limit has been exceeded\" since 2026-10-17",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950587:1",
+      "url": "https://devforum.roblox.com/t/roblox-client-randomly-crashing-for-no-reason/4950587",
+      "title": "Roblox Client Randomly Crashing for No Reason",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4950799:1",
+      "url": "https://devforum.roblox.com/t/repeated-automated-textchatservice-suspensions-across-multiple-experiences-missing-appeal-buttons/4950799",
+      "title": "Repeated Automated TextChatService Suspensions Across Multiple Experiences, Missing Appeal Buttons",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -5572,6 +5770,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xcli20",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcli20/wondering_the_best_way_to_begin_making_a_game/",
+      "title": "Wondering the best way to begin making a game without ACTUALLY making it (read body)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xctesv",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xctesv/added_a_new_machine_to_the_factory_game_im/",
+      "title": "Added a new machine to the factory game I'm working on, the wire extruder. Some new copper elements and ground parts as well.",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcuaxm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcuaxm/how_should_i_approach_roblox_development_with_how/",
+      "title": "How should I approach Roblox development with how AI is changing the scene?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV?oc=5",
       "title": "Dan Kornas (@DanKornas) - X",
@@ -5863,19 +6094,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1NLTdIaEQ1WWRsWkhyRjdXbVVGS2Z6WXhGZlN3a1pGempmMlliQjVPRHcwVXFfMFVtQlowQ2t1M29kb0hYSGJrWE1IZnFIQzN4UjFGRXVB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NLTdIaEQ1WWRsWkhyRjdXbVVGS2Z6WXhGZlN3a1pGempmMlliQjVPRHcwVXFfMFVtQlowQ2t1M29kb0hYSGJrWE1IZnFIQzN4UjFGRXVB?oc=5",
-      "title": "You can now use Octoshaper cli with an AI agent to build graphs and execute them at runtime! #unity #blender #gamedevelopment - Instagram",
-      "source": "instagram-reels",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1QT2o5S1c2cHFyRnl4Y3pYVVdKOUhoVU5mV3ByaHl3ci0teFUtOUZoRm1yamJWcTN2UFZweEdBRW1fbGhjNzY5RTFRVTBTQk85ejFfQ3RB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QT2o5S1c2cHFyRnl4Y3pYVVdKOUhoVU5mV3ByaHl3ci0teFUtOUZoRm1yamJWcTN2UFZweEdBRW1fbGhjNzY5RTFRVTBTQk85ejFfQ3RB?oc=5",
       "title": "We’re back! 🌾 Last weekend was intense, but we’re back to work. While Janek and I were on vacation, the team added in-game tips and Polish language support. And if you haven’t wishlisted Farmdustry ye",
@@ -5985,17 +6203,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE45Q0l1MzU5dGp6YjdxeEdPNzRZNVp3UlV6QUJteVZnUE1VX3NsVVVLeE51SlNldWRBcVBGY3Q2YjJlRmd2SFpkaDFaOFhoNkVYc3RFcGxn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45Q0l1MzU5dGp6YjdxeEdPNzRZNVp3UlV6QUJteVZnUE1VX3NsVVVLeE51SlNldWRBcVBGY3Q2YjJlRmd2SFpkaDFaOFhoNkVYc3RFcGxn?oc=5",
-      "title": "I'M MAKING A ROBLOX GAME WITHOUT AI. - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE45eTUwR2xIUFFjUm5LWkI4dG94aTRfOUo3cXJfLU5OUGJxd21NVHlreUo3S0d0NnBzRWpnNW4tQjF3UTBvVkZwM3ZMQjhxVVpaTDg3STJ3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45eTUwR2xIUFFjUm5LWkI4dG94aTRfOUo3cXJfLU5OUGJxd21NVHlreUo3S0d0NnBzRWpnNW4tQjF3UTBvVkZwM3ZMQjhxVVpaTDg3STJ3?oc=5",
       "title": "How to make Roblox Games Using Claude - YouTube",
@@ -6038,19 +6245,6 @@
       "published": "2026-10-18",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5UZXp6WjBrTkRsLXJ3Nzc5MUNhdnBrNmNxZ1l3MFJJYkotOEJzVU05aG9MTXRKbTNXbnpJNlQzSXpuX2RoZmRuMzR0ZVhXTUVlNXZzYUJ3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UZXp6WjBrTkRsLXJ3Nzc5MUNhdnBrNmNxZ1l3MFJJYkotOEJzVU05aG9MTXRKbTNXbnpJNlQzSXpuX2RoZmRuMzR0ZVhXTUVlNXZzYUJ3?oc=5",
-      "title": "How my indie game started vs how it shipped! This is the before and after of lily's world XD, a psychological horror game about investigating a missing girl's computer. Using Unity's UI system, I made",
-      "source": "instagram-reels",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [
-        "UI and menus"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -6135,19 +6329,6 @@
       "published": "2026-10-15",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9Bc0EwcXlMRU9kaHJGckM2SzQwS1ExRW1oal81cnBnR05xT09WNU41d09xY1JzcGE2S2xvdDlXbnZLVnBlb0ZDREhOOVlpRkJwQmdDbnlB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Bc0EwcXlMRU9kaHJGckM2SzQwS1ExRW1oal81cnBnR05xT09WNU41d09xY1JzcGE2S2xvdDlXbnZLVnBlb0ZDREhOOVlpRkJwQmdDbnlB?oc=5",
-      "title": "Let’s celebrate these young game developers 🎮🎉 These students earned 1,000 Robux for showing dedication to learning new game design skills with Roblox. Keep making moves! 👾🚀 #Robloxgames #gamedev #ste",
-      "source": "instagram-index",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [
-        "tuition and economy"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -6460,17 +6641,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBocmpIVGxOcE54THVCX3AwcFo4UnZieTZQeU5vSWEwZFM1T3FmZEhCMmdqY0M5OG5kYnM1dDN3bFZISVI3TFo4S0ZrU1prRUxzaTgzRVRn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBocmpIVGxOcE54THVCX3AwcFo4UnZieTZQeU5vSWEwZFM1T3FmZEhCMmdqY0M5OG5kYnM1dDN3bFZISVI3TFo4S0ZrU1prRUxzaTgzRVRn?oc=5",
-      "title": "I'M TRYING TO CRACK THE ROBLOX ALGORITHM. - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBtR1FSTkZDSEtNZEZ5NFlrNVd1RmFYb0I5bU44Nk5XYnZBLWl4RE5yVXNFZlN3ZG81REpIemhvSjljT244bW5MOURmakNoR0NCQVhDZGdB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtR1FSTkZDSEtNZEZ5NFlrNVd1RmFYb0I5bU44Nk5XYnZBLWl4RE5yVXNFZlN3ZG81REpIemhvSjljT244bW5MOURmakNoR0NCQVhDZGdB?oc=5",
       "title": "This is how game artists prepare for animating #clonedroneinthedangerzone - Instagram",
@@ -6595,17 +6765,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiXkFVX3lxTE5ZZmlVQVNBSTdiV1lONVExVHl5ZTl0aWRNS3lGbUUybEppR0luVkpFcjc0b1BnejFMWnFINzRDVXpncS1fSFNFQnlmSlV2eldJMGZCdUtHRjkybVhzakE",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZZmlVQVNBSTdiV1lONVExVHl5ZTl0aWRNS3lGbUUybEppR0luVkpFcjc0b1BnejFMWnFINzRDVXpncS1fSFNFQnlmSlV2eldJMGZCdUtHRjkybVhzakE?oc=5",
-      "title": "\"A major overhaul\": OpenCode 2.0 puts its terminal, desktop, and web apps on one shared service - The New Stack",
-      "source": "claude-news",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiXkFVX3lxTE5pQ0RTV043XzhvVERESVNvMUlKYVpRWEtuOG9MX3hRTEdyeXJMYm0xaDl5bEpuLXVDdWFWdE9ySFNqd0ZsenRJZk5DVm9MVUdNb1l1X1F1M19NdEg5ZFE",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pQ0RTV043XzhvVERESVNvMUlKYVpRWEtuOG9MX3hRTEdyeXJMYm0xaDl5bEpuLXVDdWFWdE9ySFNqd0ZsenRJZk5DVm9MVUdNb1l1X1F1M19NdEg5ZFE?oc=5",
       "title": "🌍🏞️Four Environments, One World! Excited to share a terrain project I created as a test task at @elytrastudios.official ! 🎮 This was my second time using the Roblox Terrain System, and I learned so mu",
@@ -6698,19 +6857,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE4xdmxWMFcySnNRVDFoNzY0WFFsTHdRWnBJNmw0aUlfVGhRU0Zrd1FOMDE2STYyUms5Vjl0emtxbU1sdDVaQXk4MWljbFVUZW4yQkwyekVSR2U5QmF3UVhTNw",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdmxWMFcySnNRVDFoNzY0WFFsTHdRWnBJNmw0aUlfVGhRU0Zrd1FOMDE2STYyUms5Vjl0emtxbU1sdDVaQXk4MWljbFVUZW4yQkwyekVSR2U5QmF3UVhTNw?oc=5",
-      "title": "LM Studio Latest Version Free Download 2027 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE5DR0E1UjFXNzZHZVJrREZqMHFESlp3dHB6ZVBFYkdLLW9mV3lyNGgxdTFsTkY4dzg1VmoxMEtkTXE3TG1BUGhlcjN6ZlRMaXhLbjBGUEFLeGVXU00tLUp0cA",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DR0E1UjFXNzZHZVJrREZqMHFESlp3dHB6ZVBFYkdLLW9mV3lyNGgxdTFsTkY4dzg1VmoxMEtkTXE3TG1BUGhlcjN6ZlRMaXhLbjBGUEFLeGVXU00tLUp0cA?oc=5",
       "title": "Cline Free Download Mac | Download Cline for Mac | Cline Full Version Mac 2025 - YouTube",
@@ -6744,17 +6890,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE84TExERGNXZmlUWTdIQmdwMzNkMjRiMnNFX0M3aDdFY1RndnJBd09RTTRXanJReFA0bTI5c0g5QTNuaWNvbmhac2RSU3pPVE1TWDU5UXhjOHdyMVFZOVJmNQ",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84TExERGNXZmlUWTdIQmdwMzNkMjRiMnNFX0M3aDdFY1RndnJBd09RTTRXanJReFA0bTI5c0g5QTNuaWNvbmhac2RSU3pPVE1TWDU5UXhjOHdyMVFZOVJmNQ?oc=5",
-      "title": "How to Download v0 by Vercel on Mac 2025 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE95ZzQ5T0U0MDhhRnN5U1o4cVNodURiNXVhY0t0Tmd1RWdHMU9DTDN6RDVHRFNFQ004MGZ1NjlmdDMybzZDQ21uN1FZUS1aNEFqdUVXdWNuTUR2OXVULW9VRg",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95ZzQ5T0U0MDhhRnN5U1o4cVNodURiNXVhY0t0Tmd1RWdHMU9DTDN6RDVHRFNFQ004MGZ1NjlmdDMybzZDQ21uN1FZUS1aNEFqdUVXdWNuTUR2OXVULW9VRg?oc=5",
       "title": "Windsurf Latest Version Free Download 2026 - YouTube",
@@ -6762,30 +6897,6 @@
       "published": "2026-10-15",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE9HOFFfalc0dmswR1JfRHhLMVR3T3RCTER6T3NIZzVNUEk3TkNCdlh5c0Rkbk5tTkU5bnprLW5Kblo5OW9CMTNKYW9rTFhDU0hIYXFYalQ5aU1zX0JiRVFoZA",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HOFFfalc0dmswR1JfRHhLMVR3T3RCTER6T3NIZzVNUEk3TkNCdlh5c0Rkbk5tTkU5bnprLW5Kblo5OW9CMTNKYW9rTFhDU0hIYXFYalQ5aU1zX0JiRVFoZA?oc=5",
-      "title": "Mistral Latest Version Free Download 2026 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE9Hdk1VeFh0TlZNUXpnN1pLaTVVQ0ZLZ1VDb2lqMU9BVjBPcnRJVHpUZDkyNjNQbFVNVnFOQy0tZ1JLekMtY0tGMWRxT2NMa2NrQkFVYV9KUWd0Q1N6WjF5bg",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hdk1VeFh0TlZNUXpnN1pLaTVVQ0ZLZ1VDb2lqMU9BVjBPcnRJVHpUZDkyNjNQbFVNVnFOQy0tZ1JLekMtY0tGMWRxT2NMa2NrQkFVYV9KUWd0Q1N6WjF5bg?oc=5",
-      "title": "LM Studio Latest Version Free Download 2025 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -6863,28 +6974,6 @@
       "title": "How to Use Claude Code: Setup, Commands, and Workflows - Coursera",
       "source": "claude-news",
       "published": "2026-10-13",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMia0FVX3lxTE5WdHVQSDRqcU9ZNUY0eW9uMmN3Mmh3c19uM3F6ZFRCWDc5dFVxVFVwd0NFTF9fMm00OWxvcjNZbVFpQzQwYkpRWF90bmVjdWRPU0lUMlI3VGZTb2NxR3Bwb29ZNlc0Q0RNekNj",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WdHVQSDRqcU9ZNUY0eW9uMmN3Mmh3c19uM3F6ZFRCWDc5dFVxVFVwd0NFTF9fMm00OWxvcjNZbVFpQzQwYkpRWF90bmVjdWRPU0lUMlI3VGZTb2NxR3Bwb29ZNlc0Q0RNekNj?oc=5",
-      "title": "forgegui goated #roblox #robloxdev #dev - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMia0FVX3lxTE9Ja2NuT3psaFgzaEpjRjVjRWk5SzQ5alUyQnFRQUM3VXFmSFZlWkphOU82TWVPSHNGczZtblkzY0VhOXN3MmxmM3VpNXFHWko3b055TEN6ZFFRVDJaZU5HQ3U4WllDSExqRUo0",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ja2NuT3psaFgzaEpjRjVjRWk5SzQ5alUyQnFRQUM3VXFmSFZlWkphOU82TWVPSHNGczZtblkzY0VhOXN3MmxmM3VpNXFHWko3b055TEN6ZFFRVDJaZU5HQ3U4WllDSExqRUo0?oc=5",
-      "title": "iPadOs 26 Roblox #roblox #robloxstudio - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-11",
       "kind": "index-only",
       "signals": [],
       "score": 0,
@@ -7030,30 +7119,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMibEFVX3lxTFA1aVN5Wnk5dVpmN21fV01kMFUxMThDUmMzTGxsTmduNHctWWNCNGI3dWpuN2NQLXNPODBGNkJINTN4OEEyVHc5LUExRk8zUUx5SkNLZnFGZGRxM1ZKOFoyU05aNXF5Y2V1VnpCNA",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aVN5Wnk5dVpmN21fV01kMFUxMThDUmMzTGxsTmduNHctWWNCNGI3dWpuN2NQLXNPODBGNkJINTN4OEEyVHc5LUExRk8zUUx5SkNLZnFGZGRxM1ZKOFoyU05aNXF5Y2V1VnpCNA?oc=5",
-      "title": "What Pet would you use the Star on? 🦁 #roblox #stealanegg - TikTok",
-      "source": "brock-tiktok",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [
-        "cat animation and audio"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMibkFVX3lxTE02U1prdUlrZkR3ZjR3cjZUN1AyNkwwaFhpSDFfb2NJUjdPaXZ2Ny1LeTFxbnRpcm9OSjJ5X2wtaDhtLWd4WXA5SC1RNlUwMU94QS1XRlhGTjVTZTFTeVQ2eldsNmVLVEJMbUdPLU5n",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02U1prdUlrZkR3ZjR3cjZUN1AyNkwwaFhpSDFfb2NJUjdPaXZ2Ny1LeTFxbnRpcm9OSjJ5X2wtaDhtLWd4WXA5SC1RNlUwMU94QS1XRlhGTjVTZTFTeVQ2eldsNmVLVEJMbUdPLU5n?oc=5",
-      "title": "#spikes #tornado #dominator3 #game #roblox spikes!!! - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMibkFVX3lxTE02dzZaM09wT1k4eVJnWW5mQ0FnaWt4cFluSjRXWlFjM0M0SVpfUzhJbTBaRGZ0djVNMUEtdG9kUmlNOS1EZHN0NmUweGlqdl92ODdwSWxCck9FbUw3QnpjbVFlZ3I1TWtuaUFhOW5B",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02dzZaM09wT1k4eVJnWW5mQ0FnaWt4cFluSjRXWlFjM0M0SVpfUzhJbTBaRGZ0djVNMUEtdG9kUmlNOS1EZHN0NmUweGlqdl92ODdwSWxCck9FbUw3QnpjbVFlZ3I1TWtuaUFhOW5B?oc=5",
       "title": "Such an awesome handheld and MP3 player. Never would I have ever imagined playing Ridge Racer 4 on the go like this on the GKD Pixel #handheld #ps1 #gkdpixel #fyp #foryoupage - TikTok",
@@ -7116,17 +7181,6 @@
       "title": "Apple ha presentato oggi 4 grosse novità, ma solo 2 arrivano in Europa. #HomeView #HomePodmini2 #Apple - TikTok",
       "source": "tiktok-index",
       "published": "2026-10-13",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMicEFVX3lxTE9BSFBtRmxpTDFOOVdScmJkX0VmSVdkbEdtQlQ3TGRqNjFlaVFqREY3RkJjRDVVNkNyNFVrX3BwODdQLUhkNXVjVUdncjljR1hfQXFrV3E3Njk0ajNWeVlQVzRwOWZGbGRFMFUzYzlnWVc",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BSFBtRmxpTDFOOVdScmJkX0VmSVdkbEdtQlQ3TGRqNjFlaVFqREY3RkJjRDVVNkNyNFVrX3BwODdQLUhkNXVjVUdncjljR1hfQXFrV3E3Njk0ajNWeVlQVzRwOWZGbGRFMFUzYzlnWVc?oc=5",
-      "title": "Zed Adds BYOK for Claude Opus 5.5, GPT-6.1 Sol [2026] - https://tech-insider.org/",
-      "source": "claude-news",
-      "published": "2026-10-11",
       "kind": "index-only",
       "signals": [],
       "score": 0,
@@ -7201,17 +7255,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMidEFVX3lxTE42a1V0d0NjeFRVV3piU0F6b3JoMXpIMFM3M1ZTdlMxZk9jaEhHTmd4c3dzLWk2YWV2ejhmSWtLX09aRW1oMXNKZkRBdTFjUV9qQ3BpTmhIcGFkUkF5V04xWTZILVliSG50ZENMdEFqVS1lZHB3",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42a1V0d0NjeFRVV3piU0F6b3JoMXpIMFM3M1ZTdlMxZk9jaEhHTmd4c3dzLWk2YWV2ejhmSWtLX09aRW1oMXNKZkRBdTFjUV9qQ3BpTmhIcGFkUkF5V04xWTZILVliSG50ZENMdEFqVS1lZHB3?oc=5",
-      "title": "the package I've been waiting for a month #madokamagica #homura #madokaandhomura #magicalgirls - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-11",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMidkFVX3lxTE5WQ2RYSXBZYUtBUGlWanlRVnVmd05SNHlJQWtCV0FNbnJGOFRFRkxLQVg2c1hUazc2UTBKTlQtRDU3YzcyMm41ZWNMdXByR0RZUU96ZDZFNENxTEhqNGpDbF9GQzY3TVBXeGRBcFV2QUI1TVJOUHc",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WQ2RYSXBZYUtBUGlWanlRVnVmd05SNHlJQWtCV0FNbnJGOFRFRkxLQVg2c1hUazc2UTBKTlQtRDU3YzcyMm41ZWNMdXByR0RZUU96ZDZFNENxTEhqNGpDbF9GQzY3TVBXeGRBcFV2QUI1TVJOUHc?oc=5",
       "title": "should I release this? 👀 #roblox #robloxstudio #robloxdev - TikTok",
@@ -7239,17 +7282,6 @@
       "title": "OpenCode 2.0 Ditches CLI for Background Service [2026] - https://tech-insider.org/",
       "source": "claude-news",
       "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiekFVX3lxTFB6YkN4WEFsSl85UkhTcnZOY1ExTlFrOE9yaTlNei1LWnRIRFdldWt3cTJfYzNVa0IxRTRfazVnVU16Mkd6OVpFRXNPOEVJT3BDNVF0RmJJS1RKUENBdTJPV3JSU2ZldFJmWFBUM1J6T2M4Z3NPRjJ2YkFB",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6YkN4WEFsSl85UkhTcnZOY1ExTlFrOE9yaTlNei1LWnRIRFdldWt3cTJfYzNVa0IxRTRfazVnVU16Mkd6OVpFRXNPOEVJT3BDNVF0RmJJS1RKUENBdTJPV3JSU2ZldFJmWFBUM1J6T2M4Z3NPRjJ2YkFB?oc=5",
-      "title": "GitHub Copilot CLI Adds Computer Use, 3 Rivals Chase [2026] - https://tech-insider.org/",
-      "source": "claude-news",
-      "published": "2026-10-11",
       "kind": "index-only",
       "signals": [],
       "score": 0,
@@ -7357,17 +7389,6 @@
       "signals": [
         "tools and performance"
       ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMirgFBVV95cUxNVVdObHFqZE01S0c0LWdJLVJKempXc01uWmRJdGlSQ1p5Mk5PSHNPWUJmYXZhS1FGWDFvV2F3WTUyamRsbUtiTmlCTmx3dUxmNGJ0MkNxdGJvaHZRU1pFcmZMcmp4ek9fVkRNVWpXcDlDcFVRQnd0VmdDODVuOEJaM2JpU1RpQ2hTU3RTT1NUY2VfSFVsb3poZjJScUZseEJrOXk3SjdWTTgxaFBXM1E",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVdObHFqZE01S0c0LWdJLVJKempXc01uWmRJdGlSQ1p5Mk5PSHNPWUJmYXZhS1FGWDFvV2F3WTUyamRsbUtiTmlCTmx3dUxmNGJ0MkNxdGJvaHZRU1pFcmZMcmp4ek9fVkRNVWpXcDlDcFVRQnd0VmdDODVuOEJaM2JpU1RpQ2hTU3RTT1NUY2VfSFVsb3poZjJScUZseEJrOXk3SjdWTTgxaFBXM1E?oc=5",
-      "title": "Vibe coding plugins: the good, the bad, and the impact on my news coverage - synth anatomy",
-      "source": "claude-news",
-      "published": "2026-10-12",
-      "kind": "index-only",
-      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

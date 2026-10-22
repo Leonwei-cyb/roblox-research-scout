@@ -4,23 +4,23 @@
 
 | Classification | Entries |
 |---|---:|
-| original video/post URL (unwatched) | 21 |
-| public metadata / page | 427 |
-| indexed redirect (not original) | 149 |
-| promotional / risky title | 3 |
+| original video/post URL (unwatched) | 15 |
+| public metadata / page | 451 |
+| indexed redirect (not original) | 132 |
+| promotional / risky title | 2 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
-Direct-original share: **3.5%** (still unwatched).
-Indexed redirects: **149**. They require primary-source verification.
+Direct-original share: **2.5%** (still unwatched).
+Indexed redirects: **132**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **469**; direct originals **21**; indexed redirects **20**.
-Active-source direct-original share: **4.5%** (still unwatched).
-Entries from paused/unconfigured sources: **131** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
+Active-source entries: **484**; direct originals **15**; indexed redirects **18**.
+Active-source direct-original share: **3.1%** (still unwatched).
+Entries from paused/unconfigured sources: **116** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -28,16 +28,16 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| YouTube (title suffix) | 33 |
-| unknown | 33 |
-| TikTok (title suffix) | 18 |
-| Instagram (title suffix) | 16 |
+| unknown | 31 |
+| YouTube (title suffix) | 29 |
+| Instagram (title suffix) | 15 |
+| TikTok (title suffix) | 12 |
 | X (title suffix) | 10 |
-| https://tech-insider.org/ (title suffix) | 9 |
+| https://tech-insider.org/ (title suffix) | 7 |
 | www.instagram.com | 5 |
-| www.youtube.com | 5 |
+| www.youtube.com | 4 |
+| www.tiktok.com | 3 |
 | Pasquale Pillitteri (title suffix) | 2 |
-| www.tiktok.com | 2 |
 | A (title suffix) | 1 |
 | Anthropic (title suffix) | 1 |
 
