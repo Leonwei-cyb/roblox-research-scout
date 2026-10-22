@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "de25dd526f4c9ba367ee69022168c6c5f2dc3285",
-      "head_subject": "llama.cpp update (#19194)",
+      "head": "efabf6bc450454dc856c1f799aac7ea865e3a4cf",
+      "head_subject": "anthropic: surface errors after streaming starts (#19188)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.8",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
@@ -149,6 +149,7 @@
     "CodePhobiia/claude-roblox-game-studio",
     "Correia-jpv/fucking-magictools",
     "Correia-jpv/fucking-public-apis",
+    "Coyenn/awesome-roblox-ts",
     "Daniel987654321/roblox-studio-agent-bridge",
     "Donchitos/Claude-Code-Game-Studios",
     "Emmanuel448/mcp-rojo-bridge",

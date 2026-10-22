@@ -8,9 +8,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 215
-- index-only: 199
-- reddit: 161
+- devforum: 218
+- index-only: 192
+- reddit: 165
 - youtube: 21
 
 ## First-Session And Mobile
@@ -36,7 +36,7 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 ## Cat Animation And Audio
 
 - [Animation Graph tracks keep ~5–6 MB of client memory each after the track, Animator and model are destroyed](https://devforum.roblox.com/t/animation-graph-tracks-keep-5%E2%80%936-mb-of-client-memory-each-after-the-track-animator-and-model-are-destroyed/4941183) — devforum; **unviewed metadata**. Proposed test: Do cat movement, construction effects and sound land together in a player recording?
-- [\[Studio Beta\] Introducing State Machines and Luau Expressions for Animation Graphs](https://devforum.roblox.com/t/studio-beta-introducing-state-machines-and-luau-expressions-for-animation-graphs/4921939) — devforum; **unviewed metadata**. Proposed test: Do cat movement, construction effects and sound land together in a player recording?
+- [How to script throwing a tool and how to make a tool play a sound when you equip it?](https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/) — reddit; **unviewed metadata**. Proposed test: Do cat movement, construction effects and sound land together in a player recording?
 
 ## World And Visual Design
 
