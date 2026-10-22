@@ -16,6 +16,6 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 
 ## Coverage gap
 
-105 indexed or general showcase leads were **not** promoted because a verified original video/post URL was missing. TikTok/Instagram/X URL restrictions remain; this number isn't a count of videos watched.
+103 indexed or general showcase leads were **not** promoted because a verified original video/post URL was missing. TikTok/Instagram/X URL restrictions remain; this number isn't a count of videos watched.
 
 For actual game/UI/3D quality, a reviewer must open the source and examine the footage. The no-AI scout is only the discovery stage.

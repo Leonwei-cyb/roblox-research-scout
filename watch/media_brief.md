@@ -5,30 +5,23 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[How to unlock the new Secret Shrine in Steal an Egg #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE40WndZN3BEWkZSbU9wSF9MaUUxbERUZlBFVEU4djFyWWREWjgwdkN4c2hpVDYyTlFOeWE1V293cTB4Z3ZmT21QMEV5Z3JZakdtSEZNNjFkTTBCYURhdzJleUpEMWswdmtZUXVMMQ?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-03
-  - Feed excerpt: How to unlock the new Secret Shrine in Steal an Egg #roblox #stealanegg TikTok
-
 ## Community
 
-- **[How to script throwing a tool and how to make a tool play a sound when you equip it?](https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: Hi! I’m having some trouble writing scripts for two functions in a tool I’m building for my game. I’d really appreciate some help! I tried looking for tutorials, but I only managed to find two old, non-functional scripts for these tasks. I 
-- **[Another skill made for Seraph’s End LF COMMS](https://www.reddit.com/r/ROBLOXStudio/comments/1xc2pkc/another_skill_made_for_seraphs_end_lf_comms/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Another skill made for Seraph’s End. discord.gg/seraphsend Last sneak probably until combat showcase (unless big boss @cettisend says otherwise) LF USD COMMS Discord: discerninq_ Port(pending rework): discerninq.dev #RobloxDev #RobloxScript
-- **[Commissions Open!!](https://www.reddit.com/r/ROBLOXStudio/comments/1xc3rwh/commissions_open/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: Experience: - 4 Years of Roblox Development experience in Building and 3D Modelling - 1 Year of Roblox Development experience in Scripting and UI/UX Design (Rest of my portfolio can be seen in my profile.) Rates & ToS - The rate depends on 
-- **[Experienced Modeler For Hire](https://www.reddit.com/r/ROBLOXStudio/comments/1xc743t/experienced_modeler_for_hire/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
-  - Feed excerpt: Hey guys, I am open for commissions, I take PayPal USD only, I can basically create whatever you need on Blender I have a lot of experience (I've been a full stack dev for 2 years now) , here is some of my recent work!! I can create pets, m
+- **[New type of virus](https://www.reddit.com/r/ROBLOXStudio/comments/1xc7m8g/new_type_of_virus/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
+  - Feed excerpt: I was browsing gun models, inserted one (I don't have the exact creator) and playtesting separately a bit later, before the first screenshot appeared with a blurry background (Similar to when you get kicked in a normal game). Before clickin
+- **[Roblox Game coming soon...](https://www.reddit.com/r/ROBLOXStudio/comments/1xc7m8p/roblox_game_coming_soon/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
+  - Feed excerpt: Hello! We are two pinoy developers making games on Roblox. We are currently making a new game, and we would like for you guys to keep an eye out for possible weekly update posts for this game. Any feedback would be appreciated, big or small
+- **[outerwear shirts/pants](https://www.reddit.com/r/ROBLOXStudio/comments/1xc83dc/outerwear_shirtspants/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
+  - Feed excerpt: how do i set these blender models in roblox studio into outerwear (shirts/pants) i have the models imported onto the baseplate, they look fine. the legs and torso + arms dont work when i try to make them into accessories. the avatar arms/le
 
 ## Roblox Updates
 
-- **[Im making a new physics based roblox game!](https://devforum.roblox.com/t/im-making-a-new-physics-based-roblox-game/4949271)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: This is a new game I have been working on, and it’s releasing soon. The players use an active ragdoll system so the combat and knockback has a nice physics feeling and make the game fun to play with. The combat system is unique as well as i
-- **[My Game , Fumo Popper](https://devforum.roblox.com/t/my-game-fumo-popper/4949245)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hey guys!, Some time ago i’ve made a game fumo popper, it was about time i shared it here so here it is Roblox Fumo Pop ever wanted to kill fumos?, Me too actually, well, now you can -- CREDITS -- Scripting : me (Spook) Building : Spook (fo
-- **[Roblox Plus Requirement for Clothing](https://devforum.roblox.com/t/roblox-plus-requirement-for-clothing/4949213)** · Roblox Developer Forum latest · 2026-10-22
-  - Feed excerpt: Hello Roblox team and community! I would like to suggest reconsidering the Roblox Plus requirement for clothing creators. Requiring Roblox Plus to upload or sell clothing could create an additional barrier for aspiring creators who cannot a
+- **[Concerns About Roblox Ads, Home Recommendations, and Audience Targeting](https://devforum.roblox.com/t/concerns-about-roblox-ads-home-recommendations-and-audience-targeting/4949307)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: Hello everyone, I’m making this post to see whether other developers have experienced similar issues with Roblox’s advertising and recommendation systems. Over the past few weeks, my team and I have invested a considerable amount of time an
+- **[Roblox Player for Windows hangs when a Device is connected/disconnected.](https://devforum.roblox.com/t/roblox-player-for-windows-hangs-when-a-device-is-connecteddisconnected/4949292)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: On a Windows PC, if you join any Roblox game and connect/disconnect any Device from your PC while the Player is open, the game will abruptly hang after a few seconds. This issue happens regardless of the device, and in my below recording I 
+- **[What is roblox's limit with uploading textures containing blood?](https://devforum.roblox.com/t/what-is-robloxs-limit-with-uploading-textures-containing-blood/4949286)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: Like would this trigger a warning? I just have no idea if I can even add the slightest bit of blood into my assets? Or should I just stay away from even trying? Like I get a ban warning for uploading a picture of a cartoon clown with a bit 
 
 ---
 

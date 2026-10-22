@@ -2,7 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — anthropic: surface errors after streaming starts (#19188).
-- **Unreviewed lead:** [Coyenn/awesome-roblox-ts](https://github.com/Coyenn/awesome-roblox-ts) (44 stars). A list of all packages for roblox-ts.
+- **Unreviewed lead:** [MichengAI/dsh-agency-agents](https://github.com/MichengAI/dsh-agency-agents) (166 stars). DSH Agency Agents — 为 DeepSeek Harness 提供 321 名可召唤的专业智能体 · 321 summonable domain experts for DeepSeek Harness
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
