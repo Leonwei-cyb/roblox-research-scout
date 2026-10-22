@@ -5,29 +5,32 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Community
+## Roblox Creator / Ai Development
 
-- **[Game crashes whenever i test it,](https://www.reddit.com/r/ROBLOXStudio/comments/1xc2ue1/game_crashes_whenever_i_test_it/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: I'm making a game but whenever I go into it it crashed and won't let me play, theres no free models, just one day it stopped working submitted by /u/Strange-Candidate563 \[link\] \[comments\]
-- **[Made a tiny "This or That" game](https://www.reddit.com/r/ROBLOXStudio/comments/1xc19oe/made_a_tiny_this_or_that_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-21
-  - Feed excerpt: Originally made it for myself and friends because I love those type of games but just published it for the fun of it :D If anyone wants to try it out, I wanted to know, if you encountered any bugs? (Also I would be happy if anyone could tel
+- **[I Asked Opus 5.5 To Make My DREAM Game! - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TWVRkcjhrS05SeVE1VjdmYmlrb0tSSFR2U29XUjc2bkVhRnl3bm40aEhRNnZWc2JMSzNPd2tRQk1jOHlqSWhFOTAweTFpdG4tZ0ZsTk1R?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-03
+  - Feed excerpt: I Asked Opus 5.5 To Make My DREAM Game! YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[New Pet coming to Steal an Egg 😱 #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFBIamExVjVBU183WG1FV2psMW5wS0swSHVpOHVWVEN3RUxZMEFNOWhIbmVEdWR5clphb18xYXJQMkp5d1ZiU0VmUnN0Qks2aHNKdThpQlBIY1NTS0pWdUtIdlRGMk5TMXQ2S0stRQ?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-01
+  - Feed excerpt: New Pet coming to Steal an Egg 😱 #roblox #stealanegg TikTok
 
 ## Roblox Updates
 
-- **[Imperium - Monopoly, open sourced](https://devforum.roblox.com/t/imperium-monopoly-open-sourced/4948962)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Imperium was a small school project I made a few years ago. It is a reimplementation of Monopoly on Roblox (if Hasbro asks, tell them that copyright doesn’t apply to game mechanics. Imagine I included the emoji with a certain finger stuck o
-- **[Reduced Exposure for a game I was about to release?](https://devforum.roblox.com/t/reduced-exposure-for-a-game-i-was-about-to-release/4949045)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: My experience, Hide & Sneak, is showing a warning in the Creator Dashboard saying it has reduced exposure across Home, Search, and Charts. The experience is public, but the warning doesn’t explain what specifically triggered the restriction
-- **[\[Open Source\] Noid - states & transitions, without the Humanoid](https://devforum.roblox.com/t/open-source-noid-states-transitions-without-the-humanoid/4949044)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I worked on Noid because I’m working on a game that needs a performant custom character controller, but I still wanted to keep the Humanoid’s state machine and have it behave as close to 1:1 with the original as possible. Writing a custom c
-- **[Audience Reach Final Review Stuck for Over 5 Days Despite Meeting All Requirements](https://devforum.roblox.com/t/audience-reach-final-review-stuck-for-over-5-days-despite-meeting-all-requirements/4948943)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: On October 17, my Maturity & Compliance questionnaire was initially rejected because I had incorrectly marked violence as not present. I immediately corrected the questionnaire to accurately reflect the occasional mild violence in my experi
-- **[In-game Player Search Bar in Escape Menu](https://devforum.roblox.com/t/in-game-player-search-bar-in-escape-menu/4948976)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: Yes, just a simple Player Search in Escape Menu where you can quickly search for specific player with Display Name or Username! (I don’t know what category should I post this in so don’t judge hard) This feature could speed up player find a
-- **[Nvidia DLL "nvspcap64" causing roblox to crash a minute—or less—after start up](https://devforum.roblox.com/t/nvidia-dll-nvspcap64-causing-roblox-to-crash-a-minute%E2%80%94or-less%E2%80%94after-start-up/4949031)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I recently updated my 5080 drivers to the latest version, and now ever time I attempt to launch the roblox client I receive an Error: 2026-10-21T22:55:53.902Z,3.902621,4650,6,Error \[DFLog::ClientBlockedImage\] Blocked DLL: \\device\\harddiskvo
-- **[UIBlur is here. How to use it?](https://devforum.roblox.com/t/uiblur-is-here-how-to-use-it/4948953)** · Roblox Developer Forum latest · 2026-10-21
-  - Feed excerpt: I hope Roblox Staff sees this, recently new class has been added called “UIBlur”, it has .Enabled, .Color3 and .Strength property which are self explanatory but the problem is actually using it. I’ve tried parenting it to any GUI object and
+- **[Release Notes for 744](https://devforum.roblox.com/t/release-notes-for-744/4949081)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 \| Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 2 posts - 2 participants Read full topic
+- **[Release Notes for 744](https://devforum.roblox.com/t/release-notes-for-744/4949081)** · Roblox updates category (availability may vary) · 2026-10-22
+  - Feed excerpt: Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 \| Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 2 posts - 2 participants Read full topic
+- **[I owned this group before my account was terminated, and I need help getting my group access back](https://devforum.roblox.com/t/i-owned-this-group-before-my-account-was-terminated-and-i-need-help-getting-my-group-access-back/4949062)** · Roblox Developer Forum latest · 2026-10-21
+  - Feed excerpt: Hey Roblox Staff, I understand that the payout option showing up was a UI bug, but I would like to explain my situation regarding the group itself. I was the original owner of this group before my main account was terminated due to a DMCA v
+- **[Backrooms game Showcase, Feedback, and Suggestions!](https://devforum.roblox.com/t/backrooms-game-showcase-feedback-and-suggestions/4949102)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: Over the past week, I’ve been working on the 3rd game in my Backrooms game series called “Lost Reality” The game is heavily inspired by The Complex series and is intended to be a walking simulator where you peacefully explore liminal spaces
+- **[Error 279 "No response from server" when joining our experience, mobile only for now](https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-only-for-now/4949104)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: A few hours ago we started getting an increased amount of reports from mobile players who can’t get into our game. As soon as they press Join, they get: Failed to connect to the Experience. No response from server. Please try again (Error C
+- **[First (I think) live stream in Roblox at 480p and 24fps](https://devforum.roblox.com/t/first-i-think-live-stream-in-roblox-at-480p-and-24fps/4949105)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: I have made the first live stream (to my knowledge) in 480p and 24fps inside of Roblox. It uses a custom encoding format so Roblox can render a single frame at 2ms! It makes rendering faster, though it requires 30-60Mbps . Here’s the video,
+- **[Rendering bug please oh my god help](https://devforum.roblox.com/t/rendering-bug-please-oh-my-god-help/4949101)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: After studio has updated, ive found it bugs out in different ways depending on which graphics option i use (they all completely hinder me making anything) Vulkan: Blacks out half of my options or makes it so i cant move the camera around Di
 
 ---
 

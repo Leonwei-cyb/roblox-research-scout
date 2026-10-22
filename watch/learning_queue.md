@@ -8,8 +8,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 207
-- index-only: 207
+- devforum: 211
+- index-only: 203
 - reddit: 161
 - youtube: 22
 
@@ -51,7 +51,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Player Feedback And Marketing
 
 - [Add a more efficient way to force players to leave a game rather than just kicking them](https://devforum.roblox.com/t/add-a-more-efficient-way-to-force-players-to-leave-a-game-rather-than-just-kicking-them/4948426) — devforum; **unviewed metadata**. Proposed test: Identify an observed complaint or funnel drop-off, then test one player-facing fix.
-- [Feedback on my new animation pack](https://devforum.roblox.com/t/feedback-on-my-new-animation-pack/4941961) — devforum; **unviewed metadata**. Proposed test: Identify an observed complaint or funnel drop-off, then test one player-facing fix.
+- [Error 279 "No response from server" when joining our experience, mobile only for now](https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-only-for-now/4949104) — devforum; **unviewed metadata**. Proposed test: Identify an observed complaint or funnel drop-off, then test one player-facing fix.
 
 ## Tools And Performance
 

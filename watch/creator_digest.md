@@ -92,9 +92,8 @@ Account provenance: [https://x.com/RobloxCreators](https://x.com/RobloxCreators)
 **Account links** (public profile URLs, not guaranteed feed access):
 - [x](https://x.com/RobloxCreators) — Roblox-announced creator account; direct posts: public indexed only
 
-**Collected media leads:** 2 matched metadata records.
-- [Weekly Recap: September 28–October 2, 2026](https://devforum.roblox.com/t/weekly-recap-september-28%E2%80%93october-2-2026/4910267) — public source mention — authorship NOT verified · 2026-10-02
-- [Introducing RobloxCreators on X & Made on Roblox](https://devforum.roblox.com/t/introducing-robloxcreators-on-x-made-on-roblox/4909823) — public source mention — authorship NOT verified · 2026-10-02
+**Collected media leads:** 0 matched metadata records.
+- None verified in currently collected public feeds.
 
 ## @oreuiz — UI showcase lead
 

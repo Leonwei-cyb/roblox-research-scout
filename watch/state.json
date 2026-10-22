@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "8cc68d24aafe0dd74f4460fdc5d5aac38a92b504",
-      "head_subject": "ci: switch to released WoA CTK (#19185)",
+      "head": "de25dd526f4c9ba367ee69022168c6c5f2dc3285",
+      "head_subject": "llama.cpp update (#19194)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.8",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
@@ -191,6 +191,7 @@
     "gmh5225/awesome-game-security",
     "hellogumbo/awesome-jev",
     "hoilc/scoop-lemon",
+    "hope1026/weppy-roblox-mcp",
     "huginn/huginn",
     "iwankh/Roblox-Utility-Vault",
     "jiangjin1999/awesome-multimodal-agentic-coding",

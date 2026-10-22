@@ -693,9 +693,77 @@
     "7a57da7682de82c5f8785d22",
     "fd6cc8d774e269d424cc3703",
     "f920b662ce4614fe14e57b8f",
-    "80ff10e6c02579beda42913a"
+    "80ff10e6c02579beda42913a",
+    "7d16c3e3635579fd859b15e0",
+    "008ba0c490aee8f60820b0a0",
+    "c73e43ef597116605b346dd0",
+    "d72373da6fdfe9c7ea98289a",
+    "bb320047065b1cda6eea273f",
+    "38907fb55397a4eec373c55d",
+    "13a13fb355575ebc60e5ab1e",
+    "7e3079f01257be9baa0ff07f"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Rendering bug please oh my god help",
+      "url": "https://devforum.roblox.com/t/rendering-bug-please-oh-my-god-help/4949101",
+      "published": "2026-10-22",
+      "excerpt": "After studio has updated, ive found it bugs out in different ways depending on which graphics option i use (they all completely hinder me making anything) Vulkan: Blacks out half of my options or makes it so i cant move the camera around Direct3D11 and OpenGL: Extremely laggy Ive tried clearing out ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/rendering-bug-please-oh-my-god-help/4949101.rss",
+      "id": "d72373da6fdfe9c7ea98289a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Backrooms game Showcase, Feedback, and Suggestions!",
+      "url": "https://devforum.roblox.com/t/backrooms-game-showcase-feedback-and-suggestions/4949102",
+      "published": "2026-10-22",
+      "excerpt": "Over the past week, I’ve been working on the 3rd game in my Backrooms game series called “Lost Reality” The game is heavily inspired by The Complex series and is intended to be a walking simulator where you peacefully explore liminal spaces. I have around 50% of the game finished so far, and I wante",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/backrooms-game-showcase-feedback-and-suggestions/4949102.rss",
+      "id": "c73e43ef597116605b346dd0"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Release Notes for 744",
+      "url": "https://devforum.roblox.com/t/release-notes-for-744/4949081",
+      "published": "2026-10-22",
+      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/release-notes-for-744/4949081.rss",
+      "id": "bb320047065b1cda6eea273f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "First (I think) live stream in Roblox at 480p and 24fps",
+      "url": "https://devforum.roblox.com/t/first-i-think-live-stream-in-roblox-at-480p-and-24fps/4949105",
+      "published": "2026-10-22",
+      "excerpt": "I have made the first live stream (to my knowledge) in 480p and 24fps inside of Roblox. It uses a custom encoding format so Roblox can render a single frame at 2ms! It makes rendering faster, though it requires 30-60Mbps . Here’s the video, recorded on my iPhone, streaming from my PC: Live streaming",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/first-i-think-live-stream-in-roblox-at-480p-and-24fps/4949105.rss",
+      "id": "7d16c3e3635579fd859b15e0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Error 279 \"No response from server\" when joining our experience, mobile only for now",
+      "url": "https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-only-for-now/4949104",
+      "published": "2026-10-22",
+      "excerpt": "A few hours ago we started getting an increased amount of reports from mobile players who can’t get into our game. As soon as they press Join, they get: Failed to connect to the Experience. No response from server. Please try again (Error Code: 279) This is only been reported happening to mobile pla",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-only-for-now/4949104.rss",
+      "id": "008ba0c490aee8f60820b0a0"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -1617,6 +1685,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366.rss",
       "id": "4666c980c0631a85e0f25541"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I owned this group before my account was terminated, and I need help getting my group access back",
+      "url": "https://devforum.roblox.com/t/i-owned-this-group-before-my-account-was-terminated-and-i-need-help-getting-my-group-access-back/4949062",
+      "published": "2026-10-21",
+      "excerpt": "Hey Roblox Staff, I understand that the payout option showing up was a UI bug, but I would like to explain my situation regarding the group itself. I was the original owner of this group before my main account was terminated due to a DMCA violation. I submitted a counter-notice, and the game involve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-owned-this-group-before-my-account-was-terminated-and-i-need-help-getting-my-group-access-back/4949062.rss",
+      "id": "38907fb55397a4eec373c55d"
     },
     {
       "source": "reddit-robloxstudio",
@@ -7364,6 +7444,18 @@
       "source": "syphodev-claude",
       "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
       "category": "Roblox creator / AI development",
+      "title": "I Asked Opus 5.5 To Make My DREAM Game! - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TWVRkcjhrS05SeVE1VjdmYmlrb0tSSFR2U29XUjc2bkVhRnl3bm40aEhRNnZWc2JMSzNPd2tRQk1jOHlqSWhFOTAweTFpdG4tZ0ZsTk1R?oc=5",
+      "published": "2026-10-03",
+      "excerpt": "I Asked Opus 5.5 To Make My DREAM Game! YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "7e3079f01257be9baa0ff07f"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
       "title": "ChatGPT Astra vs Opus 5.5: It Wasn't Even Close - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MbmFLSGhNWlYycVlabE9IRXg4aTZoTnE2ZWpPQ2MyMENiSFFhNUFkcnFuRWhmX2h4TW5TQnJrZWJ0ZVB4NjFiMG9hMWo5bEs3UllDNFNn?oc=5",
       "published": "2026-10-03",
@@ -7382,88 +7474,6 @@
       "creator": "",
       "publisher": "https://www.tiktok.com",
       "id": "59487c5b22362820c0d10474"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "PROVE YOUR ROBLOX GAME DOESN’T SUCK - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VUnA4dm1uUXdsYXl3ZUVVR0NyTVBybzdUUUVDRnk0M2JTMXlUSEZxVWdacXJ6OWFIbVY2NmEtZWNTSkNxalRuOHo2bVFDckZKTnpVWFpn?oc=5",
-      "published": "2026-10-03",
-      "excerpt": "PROVE YOUR ROBLOX GAME DOESN’T SUCK YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "1255c8ee82dd344f34513f6f"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Introducing RobloxCreators on X & Made on Roblox",
-      "url": "https://devforum.roblox.com/t/introducing-robloxcreators-on-x-made-on-roblox/4909823",
-      "published": "2026-10-02",
-      "excerpt": "Key Takeaways We launched the @RobloxCreators account on X and the new Made on Roblox podcast to spotlight your games, creations, and creator stories. Hi Creators, This week, we launched two new channels dedicated to you and your work: our new social media channel @RobloxCreators on X and a new podc",
-      "creator": "",
-      "id": "9ea13a01d21c44adb4aff260"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "your roblox scripting roadmap; beginner to intermediate to advanced - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVWthMTctS0lMWnJ2ZzN2dzJMdWJrazBibmxkMUVkSS1xaWhHM3NNcFB1cy1hTWtIY01WS09tRVlkNzhmZU1ZZ2FaUVBZejcyNWV1dVln?oc=5",
-      "published": "2026-10-02",
-      "excerpt": "your roblox scripting roadmap; beginner to intermediate to advanced YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "8b1aecfd3da596d4e5b8d519"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Weekly Recap: September 28–October 2, 2026",
-      "url": "https://devforum.roblox.com/t/weekly-recap-september-28%E2%80%93october-2-2026/4910267",
-      "published": "2026-10-02",
-      "excerpt": "Key Takeaways This week, Roblox introduced Early Harm Detection for experiments, expanded camera-based Frustum Streaming, and announced upcoming API rate-limit changes. Ads Manager expanded its Earnings objective and reporting, while Roblox launched @RobloxCreators on X and the Made on Roblox podcas",
-      "creator": "",
-      "id": "6003b1934daaceea84d87163"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "What pets will be inside the new Enchanted Forest #roblox #stealanegg - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WY3hJc3hpM0l0N1BCRmMyVzN2akx3d1d5WEZTaTMwSDMwXzJ5YUNvd0o3bmk2clVEM2NLM1pJRFFRdW0ydnBZdjAxVHR4RzBKU1V0a2dqX2g4SFUtb3o0NnN5aWpZSFJWQXk2cw?oc=5",
-      "published": "2026-10-02",
-      "excerpt": "What pets will be inside the new Enchanted Forest #roblox #stealanegg TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "2cca994f2dd39fae7b710b7b"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "BOSSES NA VIDA REAL DO STEAL AN EGG #roblox #rells #Reel #Explore #Explorar #bloxfruits #bloxfruit - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jbFdtNHo3Z0lfLURUMUdFc1BlaVBOd1VHNzl0LUxGVUQwbWFOdE9uUm9XeHpRQk1heUVyR2x2Ym9vaTJhSFEyUTBORnpCbjhQMlFtQktR?oc=5",
-      "published": "2026-10-01",
-      "excerpt": "BOSSES NA VIDA REAL DO STEAL AN EGG #roblox #rells #Reel #Explore #Explorar #bloxfruits #bloxfruit Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "ff470bd2530b4080e42fd01d"
-    },
-    {
-      "source": "roblox-animation-showcases",
-      "label": "Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2026 when:30d",
-      "category": "Animations and VFX",
-      "title": "Rumble Reborn: The 1v1 Duel, Build by Build (Oct 1, 2026) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0TGlXUGFxYThHZ08yM1VBNm9aSXpJdy1HdHRJRDFrQ3ppQ28tNmoxQkpsREpzQnJQYm9kVUdsTU1jcGtORlpIMDVLMEhULW04dm81RTZn?oc=5",
-      "published": "2026-10-01",
-      "excerpt": "Rumble Reborn: The 1v1 Duel, Build by Build (Oct 1, 2026) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "e5d3f63d0f5f81924401a641"
     }
   ]
 }
