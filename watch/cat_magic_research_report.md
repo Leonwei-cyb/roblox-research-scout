@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 596; direct candidates: 423;
+Indexed entries: 596; direct candidates: 426;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 ## Highest-value source checks
@@ -14,8 +14,8 @@ Inspected videos: **0**; verified gameplay findings: **0**.
   - youtube · **UNVIEWED_METADATA** · Check: Does buying a pad visibly build a desk and bring a cat into the classroom?
 - **P1 · cat animation and audio:** [Animation Graph tracks keep ~5–6 MB of client memory each after the track, Animator and model are destroyed](https://devforum.roblox.com/t/animation-graph-tracks-keep-5%E2%80%936-mb-of-client-memory-each-after-the-track-animator-and-model-are-destroyed/4941183)
   - devforum · **UNVIEWED_METADATA** · Check: Does an arriving cat walk, sit, study and cast without clipping through the player?
-- **P1 · UI and menus:** [Show off your UI designs](https://devforum.roblox.com/t/show-off-your-ui-designs/4923682/1)
-  - devforum · **UNVIEWED_METADATA** · Check: Is the next upgrade price readable without covering the cat or Roblox mobile controls?
+- **P1 · UI and menus:** [Besides the ui, how do you tell a game was vibe coded](https://www.reddit.com/r/ROBLOXStudio/comments/1x8xfh6/besides_the_ui_how_do_you_tell_a_game_was_vibe/)
+  - reddit · **UNVIEWED_METADATA** · Check: Is the next upgrade price readable without covering the cat or Roblox mobile controls?
 - **P1 · world and visual design:** [Terrain Reimagined: An Early Preview \| RDC 2026](https://www.youtube.com/watch?v=BiIAmVN6r2M)
   - youtube · **UNVIEWED_METADATA** · Check: Are the blue grounds, simple entrance and first classroom visible and uncluttered?
 

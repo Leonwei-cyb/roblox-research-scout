@@ -80,21 +80,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4924019:1",
-      "url": "https://devforum.roblox.com/t/slim-debug-tints-in-studio-and-roblox-player/4924019",
-      "title": "SLIM debug tints in Studio and Roblox Player",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-09",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4934553:1",
       "url": "https://devforum.roblox.com/t/studio-beta-upgraded-uishadow-capabilities/4934553",
       "title": "[Studio Beta] Upgraded UIShadow Capabilities",
@@ -1051,19 +1036,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4923682:1",
-      "url": "https://devforum.roblox.com/t/show-off-your-ui-designs/4923682/1",
-      "title": "Show off your UI designs",
-      "source": "roblox-ui-showcase",
-      "published": "2026-10-09",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4936543:1",
       "url": "https://devforum.roblox.com/t/makeup-now-available-for-in-experience-creation/4936543",
       "title": "Makeup Now Available for In-Experience Creation",
@@ -1614,6 +1586,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4949882:1",
+      "url": "https://devforum.roblox.com/t/linearvelocity-lifts-player-above-a-bit-and-the-velocity-causes-the-humanoidrootpart-to-tilt-forward-a-bit/4949882",
+      "title": "LinearVelocity lifts player above a bit and the velocity causes the humanoidrootpart to tilt forward a bit",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -2079,6 +2064,19 @@
         "tuition and economy",
         "genres and successful loops",
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xcgohn",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcgohn/searching_for_animator/",
+      "title": "Searching for animator",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-22",
+      "kind": "reddit",
+      "signals": [
+        "cat animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2599,19 +2597,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4924062:1",
-      "url": "https://devforum.roblox.com/t/weekly-recap-october-5-october-9-2026/4924062",
-      "title": "Weekly Recap: October 5 - October 9, 2026",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-09",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3260,6 +3245,32 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4949888:1",
+      "url": "https://devforum.roblox.com/t/the-horror-mansion-remastered/4949888",
+      "title": "The Horror Mansion [REMASTERED]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "tuition and economy"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4949895:1",
+      "url": "https://devforum.roblox.com/t/keybind-for-muting/4949895",
+      "title": "Keybind for muting",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4644,6 +4655,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4949799:1",
+      "url": "https://devforum.roblox.com/t/new-regression-group-owned-assets-load-in-edit-mode-fail-in-play-mode-on-local-rbxl-files-changed-yesterday/4949799",
+      "title": "NEW REGRESSION: Group-owned assets load in Edit Mode, fail in Play Mode on local .rbxl files (changed yesterday)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4949874:1",
+      "url": "https://devforum.roblox.com/t/neversaynever-has-anyone-seen-a-slime-like-this-on-roblox/4949874",
+      "title": "NeverSayNever: has anyone seen a slime like this on Roblox?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -5774,17 +5807,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE42QzQ2ZTZqLS1pSXhNYTY3UGlweklGY0dmYXZ5dVFvWFVjNWFBYnlDYUNOMnhtQkJmT0ZaeTUyVnJ2bVlTc3ZvQ0ZnMmdteUZoVDQ2ZXpB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42QzQ2ZTZqLS1pSXhNYTY3UGlweklGY0dmYXZ5dVFvWFVjNWFBYnlDYUNOMnhtQkJmT0ZaeTUyVnJ2bVlTc3ZvQ0ZnMmdteUZoVDQ2ZXpB?oc=5",
-      "title": "Making CHAO GARDEN on ROBLOX with help from Claude AI - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-10",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE43SWZRMXpKZlBuNGpwUXpnaVNrZ2RCa2lVVVJqX3JScjdNdnk2QlU5U0kwOWN6OUtjVW1kMnFzNnRob2F3QWxkWlFyVHFOWG1XUWo4UHVn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43SWZRMXpKZlBuNGpwUXpnaVNrZ2RCa2lVVVJqX3JScjdNdnk2QlU5U0kwOWN6OUtjVW1kMnFzNnRob2F3QWxkWlFyVHFOWG1XUWo4UHVn?oc=5",
       "title": "NEW ABBYS BOSS FIGHT🥺 in Steal an Egg Roblox (Best Steal an Egg Funny Moments) #stealanegg #roblox - Instagram",
@@ -6213,17 +6235,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9ySHZIdndrV2ViM0xuY0UzbVlBMWRzbnlaWkhNOGdPbW9wMmJmOF9URE14a19ueHlnMm5tT1ExVkd6QlphYTR1MWtQOEcyQjAxWUNqdGh3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ySHZIdndrV2ViM0xuY0UzbVlBMWRzbnlaWkhNOGdPbW9wMmJmOF9URE14a19ueHlnMm5tT1ExVkd6QlphYTR1MWtQOEcyQjAxWUNqdGh3?oc=5",
-      "title": "Superbullet × Claude Opus 5.5 Is INSANE for Roblox Development - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-09",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9zOFFGZVhsRjlNY2tKbmdoRXRwbXAyb2hmVjk0aFBoYkhCekJCaTBldm5hWEt1bE1VVHV3NlNRdjVRV2JOZkQ2RFNuTXdrXzBPNURQS2lR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zOFFGZVhsRjlNY2tKbmdoRXRwbXAyb2hmVjk0aFBoYkhCekJCaTBldm5hWEt1bE1VVHV3NlNRdjVRV2JOZkQ2RFNuTXdrXzBPNURQS2lR?oc=5",
       "title": "Claude Opus 5.5 + Roblox Studio is SCARY. - YouTube",
@@ -6242,17 +6253,6 @@
       "title": "GAMING UNITES US ALL!! 🤯 #arcraiders #gaming #funny - Instagram",
       "source": "instagram-index",
       "published": "2026-10-13",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFAwR0dmbEZkNXVHRXVWZXg2NlhTd25uY2tlZXUxUU9Wc2xuZXV3eXFRVm4yc2dJc0owV183VGVFNU1vYmQ0OTJjbGdOQUM3NGtSUDRFVzFB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwR0dmbEZkNXVHRXVWZXg2NlhTd25uY2tlZXUxUU9Wc2xuZXV3eXFRVm4yc2dJc0owV183VGVFNU1vYmQ0OTJjbGdOQUM3NGtSUDRFVzFB?oc=5",
-      "title": "WAIT… MARCO MADE THIS?! 🎮👀 Meet Marco, one of our students from the Game Programming course, turning his ideas into a playable game. From coding to gameplay, he built it himself. And this is just part",
-      "source": "instagram-reels",
-      "published": "2026-10-09",
       "kind": "index-only",
       "signals": [],
       "score": 0,

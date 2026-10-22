@@ -8,9 +8,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 229
-- index-only: 173
-- reddit: 174
+- devforum: 231
+- index-only: 170
+- reddit: 175
 - youtube: 20
 
 ## First-Session And Mobile
@@ -40,8 +40,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## World And Visual Design
 
-- [SLIM debug tints in Studio and Roblox Player](https://devforum.roblox.com/t/slim-debug-tints-in-studio-and-roblox-player/4924019) — devforum; **unviewed metadata**. Proposed test: Can the player clearly see the first pad and classroom on simple blue outdoor grass?
 - [anyone want some scripts to some models ? i have to many](https://www.reddit.com/r/ROBLOXStudio/comments/1xb0vmr/anyone_want_some_scripts_to_some_models_i_have_to/) — reddit; **unviewed metadata**. Proposed test: Can the player clearly see the first pad and classroom on simple blue outdoor grass?
+- [Just wanted to share this model i made in roblox studio](https://www.reddit.com/r/ROBLOXStudio/comments/1xbmzu5/just_wanted_to_share_this_model_i_made_in_roblox/) — reddit; **unviewed metadata**. Proposed test: Can the player clearly see the first pad and classroom on simple blue outdoor grass?
 
 ## Genres And Successful Loops
 

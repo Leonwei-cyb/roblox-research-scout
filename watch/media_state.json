@@ -748,7 +748,13 @@
     "76fd08116a1cfcea3c4bc1d8",
     "a60b4bea2c7aaf3a0f43b47a",
     "bc205ae5983ad9dc2e459e5a",
-    "2937b96c22fa8da56907f55c"
+    "2937b96c22fa8da56907f55c",
+    "bc3cfb1dea74d3d7f5b06352",
+    "f1c71e5a26175eb978731b79",
+    "04c30448acd1b6fe32645b5a",
+    "a58343ac7364ae71c76a4e0e",
+    "28039c66ee12280f38472de4",
+    "cb1c50bfc66fdd4bb0cfb585"
   ],
   "items": [
     {
@@ -798,6 +804,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/building-a-voxel-theme-park-the-castle-a-coaster-tree-and-a-wooden-twister-step-by-step/4949489.rss",
       "id": "f1e81b8884c8b0fc43ad0a4b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "The Horror Mansion [REMASTERED]",
+      "url": "https://devforum.roblox.com/t/the-horror-mansion-remastered/4949888",
+      "published": "2026-10-22",
+      "excerpt": "The Horror Mansion Remastered is a Roblox survival game inspired by the original The Horror Mansion created by K1r. The goal is simple: survive different killers, earn points and unlock new items, emotes and such while dealing with random events and special rounds. This project is my attempt to brin",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-horror-mansion-remastered/4949888.rss",
+      "id": "f1c71e5a26175eb978731b79"
     },
     {
       "source": "reddit-robloxstudio",
@@ -869,6 +887,17 @@
       "id": "d0913f4af3e8e39041f63941"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Searching for animator",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcgohn/searching_for_animator/",
+      "published": "2026-10-22",
+      "excerpt": "I need an animator for a SCPF project. I can pay in both robux and money via PayPal, preferably PayPal, dm me if you're interested with examples. Focused on movement animations with regular R6 characters, I will send more details in DMs. Thanks for reading. submitted by /u/Random-doggo12 [link] [com",
+      "creator": "/u/Random-doggo12 https://www.reddit.com/user/Random-doggo12",
+      "id": "cb1c50bfc66fdd4bb0cfb585"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -891,6 +920,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/backrooms-game-showcase-feedback-and-suggestions/4949102.rss",
       "id": "c73e43ef597116605b346dd0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Keybind for muting",
+      "url": "https://devforum.roblox.com/t/keybind-for-muting/4949895",
+      "published": "2026-10-22",
+      "excerpt": "When using voice chat, it’s often very annoying to move my mouse up (sometimes impossible without using the menu) to unmute or mute, and having a keybind to toggle whether you’re muted (for desktop clients) would be incredibly helpful and just a good quality of life feature. The keybind could be som",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/keybind-for-muting/4949895.rss",
+      "id": "bc3cfb1dea74d3d7f5b06352"
     },
     {
       "source": "roblox-devforum-latest",
@@ -984,6 +1025,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-game-fumo-popper/4949245.rss",
       "id": "a83653f2704b125f8fb2473f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "NeverSayNever: has anyone seen a slime like this on Roblox?",
+      "url": "https://devforum.roblox.com/t/neversaynever-has-anyone-seen-a-slime-like-this-on-roblox/4949874",
+      "published": "2026-10-22",
+      "excerpt": "Hi everyone! Me again. This time a different game: NeverSayNever , a slime adventure on Roblox (not published yet). You are a slime. You beat corrupted creatures, eat them, and wake up their soul stone. Then you can become them. Fight with your own goo One button: tap to hit, hold and let go to poun",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/neversaynever-has-anyone-seen-a-slime-like-this-on-roblox/4949874.rss",
+      "id": "a58343ac7364ae71c76a4e0e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1209,6 +1262,18 @@
       "id": "2937b96c22fa8da56907f55c"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "NEW REGRESSION: Group-owned assets load in Edit Mode, fail in Play Mode on local .rbxl files (changed yesterday)",
+      "url": "https://devforum.roblox.com/t/new-regression-group-owned-assets-load-in-edit-mode-fail-in-play-mode-on-local-rbxl-files-changed-yesterday/4949799",
+      "published": "2026-10-22",
+      "excerpt": "While working in a local (unpublished) copy of a game, this command succeeds in Edit Mode, but fails in Run Mode (ran from command line, serverside): game:GetService(\"InsertService\"):LoadAssetVersion(ASSET_VERSION).Parent=workspace Where ASSET_VERSION is an asset owned by a group for which the logge",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-regression-group-owned-assets-load-in-edit-mode-fail-in-play-mode-on-local-rbxl-files-changed-yesterday/4949799.rss",
+      "id": "28039c66ee12280f38472de4"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1230,6 +1295,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/bloxbans-%E2%80%94-community-reported-roblox-bans-tracked-in-real-time/4949191.rss",
       "id": "06d8e42de02c0c23f89855ca"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "LinearVelocity lifts player above a bit and the velocity causes the humanoidrootpart to tilt forward a bit",
+      "url": "https://devforum.roblox.com/t/linearvelocity-lifts-player-above-a-bit-and-the-velocity-causes-the-humanoidrootpart-to-tilt-forward-a-bit/4949882",
+      "published": "2026-10-22",
+      "excerpt": "Im trying to create a attack dash, and so far everything else is going well, but every attack it causes the avatar to always start at a higher level than the normal height, and the 3rd attack causes the rootpart to tilt forward a bit at the end (I thought HumanoidRootParts does not tilt because its ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/linearvelocity-lifts-player-above-a-bit-and-the-velocity-causes-the-humanoidrootpart-to-tilt-forward-a-bit/4949882.rss",
+      "id": "04c30448acd1b6fe32645b5a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7469,74 +7546,6 @@
       "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
       "creator": "",
       "id": "39207b35492887899f0a334b"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Making CHAO GARDEN on ROBLOX with help from Claude AI - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42QzQ2ZTZqLS1pSXhNYTY3UGlweklGY0dmYXZ5dVFvWFVjNWFBYnlDYUNOMnhtQkJmT0ZaeTUyVnJ2bVlTc3ZvQ0ZnMmdteUZoVDQ2ZXpB?oc=5",
-      "published": "2026-10-10",
-      "excerpt": "Making CHAO GARDEN on ROBLOX with help from Claude AI YouTube",
-      "creator": "",
-      "id": "002ecda5afa1da597fafdcce"
-    },
-    {
-      "source": "roblox-ui-showcase",
-      "label": "Roblox DevForum UI showcase thread",
-      "category": "UI showcases",
-      "title": "Show off your UI designs",
-      "url": "https://devforum.roblox.com/t/show-off-your-ui-designs/4923682/1",
-      "published": "2026-10-09",
-      "excerpt": "It’s been so long since the last “Show off your UI designs” have been posted and I think its good to bring it back! I would love it if you follow this format Open this for an example (click for more details) Roblox Username: yourusername Style: (i.e cartoony, realistic, rpg) Programme used to create",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/show-off-your-ui-designs/4923682.rss",
-      "id": "fd28b9d4adb4517975ffa7ef"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "SLIM debug tints in Studio and Roblox Player",
-      "url": "https://devforum.roblox.com/t/slim-debug-tints-in-studio-and-roblox-player/4924019",
-      "published": "2026-10-09",
-      "excerpt": "Key Takeaways SLIM now has debug tints that color your models by streaming state (streamed in vs. out), level of detail, and transcoder status, so you can see SLIM working and confirm your content is being optimized before you publish! In Roblox Player, enable the debug tints from the F9 Dev console",
-      "creator": "",
-      "id": "cdceac46dfddcbbbcbdfdd69"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Superbullet × Claude Opus 5.5 Is INSANE for Roblox Development - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ySHZIdndrV2ViM0xuY0UzbVlBMWRzbnlaWkhNOGdPbW9wMmJmOF9URE14a19ueHlnMm5tT1ExVkd6QlphYTR1MWtQOEcyQjAxWUNqdGh3?oc=5",
-      "published": "2026-10-09",
-      "excerpt": "Superbullet × Claude Opus 5.5 Is INSANE for Roblox Development YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "7a2bcdf771afe2ed346eb0cc"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Weekly Recap: October 5 - October 9, 2026",
-      "url": "https://devforum.roblox.com/t/weekly-recap-october-5-october-9-2026/4924062",
-      "published": "2026-10-09",
-      "excerpt": "Weekly Recap: October 5 - October 9, 2026 Key Takeaways This week, State Machines and Luau Expressions and If Local Statements and Expressions were released as Studio Betas. Creators also got collision summaries via BasePart:BindToCollisionSummaries , automatic translation for text-to-speech, IP-bas",
-      "creator": "",
-      "id": "5a84f9ac65dedf8f903fcec1"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "WAIT… MARCO MADE THIS?! 🎮👀 Meet Marco, one of our students from the Game Programming course, turning his ideas into a playable game. From coding to gameplay, he built it himself. And this is just part",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwR0dmbEZkNXVHRXVWZXg2NlhTd25uY2tlZXUxUU9Wc2xuZXV3eXFRVm4yc2dJc0owV183VGVFNU1vYmQ0OTJjbGdOQUM3NGtSUDRFVzFB?oc=5",
-      "published": "2026-10-09",
-      "excerpt": "WAIT… MARCO MADE THIS?! 🎮👀 Meet Marco, one of our students from the Game Programming course, turning his ideas into a playable game. From coding to gameplay, he built it himself. And this is just part of the journey. 🔥 Think you could make your own Instagram",
-      "creator": "",
-      "id": "305991fb07eb6f3e2e0f7a46"
     }
   ]
 }

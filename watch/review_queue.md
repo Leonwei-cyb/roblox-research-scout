@@ -14,7 +14,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Upgraded UIShadow Capabilities](https://devforum.roblox.com/t/studio-beta-upgraded-uishadow-capabilities/4934553)** — Public text/page, video not confirmed
-- **[Show off your UI designs](https://devforum.roblox.com/t/show-off-your-ui-designs/4923682/1)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
