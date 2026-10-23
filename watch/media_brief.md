@@ -5,15 +5,17 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
+## Community
 
-- **[SyphoDev - YouTube](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RYkoyUXJkZUJscEF6bDVwRUFfeUE5SXZOSXZHT05MS3JhSHR1aWpJN1VsZGNFc1dsU1VKNVZFR1dubnBKdXhUOQ?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-26
-  - Feed excerpt: SyphoDev YouTube
+- **[Pii Violations - Anyway to get permission?](https://www.reddit.com/r/robloxgamedev/comments/1xd0jk2/pii_violations_anyway_to_get_permission/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Im making a card game with my friends face on it, and which only will my friends be able to get them. However when I try to upload their pictures I violated the pii rules? Is there anyway to have permission to upload my friends images or so
 
 ## Roblox Updates
 
-- **[Expanded Terrain removes >16 voxels thick terrain](https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Terrain LOD mesh looks worse than before in in some aspects… Now: Before: The map is in the private message, Workspace settings has been tweaked to match the game ones. A private message is associated with this bug report 1 post - 1 partici
+- **[Batteries appear to defy gravity (Please actually help this isint a joke post)](https://devforum.roblox.com/t/batteries-appear-to-defy-gravity-please-actually-help-this-isint-a-joke-post/4951242)** · Roblox Developer Forum latest · 2026-10-22
+  - Feed excerpt: I made these battery models a while back nearing the start of my project and just recently (maybe with the addition of experimental fluid forces) they have started to float. 2 posts - 2 participants Read full topic
+- **[\[HIRING\] Looking for game testers!](https://devforum.roblox.com/t/hiring-looking-for-game-testers/4951354)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Hi I am a solo dev working on a manhunt inspired game, I am at the phase where I am looking for play testers who enjoy the hunt and want to experience it before its released. For any questions leave a comment on this post or add my discord 
 
 ---
 
