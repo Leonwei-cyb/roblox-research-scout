@@ -7,24 +7,32 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1reDQzWXRQbHE5QmROSS01WnJrdUcwOE1WRFRzTm42bk02WE1pY3RPdnpEWXVnUktqaFBPTlVrN1owakNXQ01lVDhtSENkaVlzV0dwZ2FB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-08
-  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+- **[Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-10-12
 
 ## Community
 
-- **[First Time Game Dev Is This Good?](https://www.reddit.com/r/robloxgamedev/comments/1xd61f2/first_time_game_dev_is_this_good/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: I have a lot to learn submitted by /u/Environmental-Cap571 \[link\] \[comments\]
+- **[Looking for collaborators](https://www.reddit.com/r/robloxgamedev/comments/1xd7dst/looking_for_collaborators/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: I have some games in mind I have the codes ready but i really need some people to help me with the animations and graphics cuz I am unable to do it pls send me a friend req on discord Kkumar0406 submitted by /u/Agile_Garlic_5380 \[link\] \[com
 
 ## Roblox Updates
 
-- **[Expanded Terrain visually duplicates Terrain across a 2^14 stud grid](https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Description : The duplication extends to the server’s initial bounding box for Workspace. Regardless of any changes made to the bounding box, it will always duplicate up to the initial box’s extents. The duplication only occurs on the posit
-- **[How do developers grow multiplayer games nowadays?](https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: So I released a multiplayer game on the platform last week, and I’ve been struggling to get enough players for rounds to even start. I have some experience with developing games on the platform and have had some success with obbies and sing
-- **[Looking for Feedback on My Pixel Game](https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: I’ve been working on a pixel roguelite game DIce War, and wanted to hear what you guys think! game link: \[( Dice War \| Play on Roblox )\] about the game It’s a dice-based roguelite where you roll for units, build your team, and fight through
-- **[\[PLEASE HELP\] BindableFunction infinitely yielding script that invokes it](https://devforum.roblox.com/t/please-help-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788)** · Roblox Developer Forum latest · 2026-10-23
+- **[How to make my surfacegui see through its transparent parent](https://devforum.roblox.com/t/how-to-make-my-surfacegui-see-through-its-transparent-parent/4951807)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: ive been trying to make effects that i have seen by other people’s work recently so in trying to replicate it. the problem is, it does not render, the surface gui does not render at its back. please help 4 posts - 2 participants Read full t
+- **[Realistic Weapon Animations](https://devforum.roblox.com/t/realistic-weapon-animations/4951854)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Hello! Over the past few months, I have been learning realistic animations for my upcoming competitive shooter game. The rigs have full articulated fingers, 3 joints per finger, wrist joints, elbow joints, and shoulder joints. Karambit P320
+- **[Voting screen not showing](https://devforum.roblox.com/t/voting-screen-not-showing/4951827)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: local RS=game:GetService("ReplicatedStorage") local VotingPhase=RS.Events.BeginVotingPhase local plr=game:GetService("Players").LocalPlayer local StartingMatch=RS.Events.StartingMatch local plrVoted=RS.Events.PlayerVotedEvent local UpdateVo
+- **[\[SOLVED\] BindableFunction infinitely yielding script that invokes it](https://devforum.roblox.com/t/solved-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788)** · Roblox Developer Forum latest · 2026-10-23
   - Feed excerpt: i’m so confused i’ve literally been trying to figure out why this is happening for actual hours, and it’s not even an issue with my code or organization, it just REFUSES to work >:\[ the callback is set before the BindableFunction is invoked
+
+## Youtube
+
+- **[Avatars at the Center: Driving Gameplay, Identity, and Commerce \| RDC 2026](https://www.youtube.com/watch?v=gCp4zzjjJ14)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
+- **[Mastering Monetization: Lessons from Top Creators \| RDC 2026](https://www.youtube.com/watch?v=hoMbv_R8AMU)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
+- **[Monetizing Intellectual Property \| RDC 2026](https://www.youtube.com/watch?v=oxiaIhN5Ybo)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
+- **[What Drives Discovery: Understanding the Algorithm \| RDC 2026](https://www.youtube.com/watch?v=bkRZeTZAvLw)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
+- **[five iconic games. one legendary animal. brazil’s first showdown is 3 days away.](https://www.youtube.com/shorts/rmaWFoT49Wo)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
+- **[head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.](https://www.youtube.com/shorts/6aFu9wbY4js)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-22
 
 ---
 

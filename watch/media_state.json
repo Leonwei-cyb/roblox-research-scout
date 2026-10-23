@@ -848,7 +848,19 @@
     "20d2a73043b07f4869b03b3a",
     "778f0bfa2db7ddae3a1757a6",
     "24d90358377a9c25f96d6971",
-    "e0f91a5e60b12ab3443b7147"
+    "e0f91a5e60b12ab3443b7147",
+    "5db0b4433ecd43bcfa27a336",
+    "194a418c8653ed09fbb84dd7",
+    "d4d32bdb70f6213e07495451",
+    "d8f8abead9a7b37add86519b",
+    "82b2a795129eba9151bbb301",
+    "5a1ca75fd6eea2adcb2c5898",
+    "eba7477c819d529720ba22f6",
+    "29cf1727c10dd3cc3f4d4dfe",
+    "3fcf04e4f70787d59ae7f883",
+    "942a769344894662dc650d14",
+    "d4198254298546765ae7cbbd",
+    "9ea60ce6bf9e831fc993ee13"
   ],
   "items": [
     {
@@ -911,6 +923,30 @@
       "id": "dea65e3754eb3df988557959"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[SOLVED] BindableFunction infinitely yielding script that invokes it",
+      "url": "https://devforum.roblox.com/t/solved-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788",
+      "published": "2026-10-23",
+      "excerpt": "i’m so confused i’ve literally been trying to figure out why this is happening for actual hours, and it’s not even an issue with my code or organization, it just REFUSES to work >:[ the callback is set before the BindableFunction is invoked i am not passing any invalid parameters (it literally only ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/solved-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788.rss",
+      "id": "d8f8abead9a7b37add86519b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to make my surfacegui see through its transparent parent",
+      "url": "https://devforum.roblox.com/t/how-to-make-my-surfacegui-see-through-its-transparent-parent/4951807",
+      "published": "2026-10-23",
+      "excerpt": "ive been trying to make effects that i have seen by other people’s work recently so in trying to replicate it. the problem is, it does not render, the surface gui does not render at its back. please help 4 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-make-my-surfacegui-see-through-its-transparent-parent/4951807.rss",
+      "id": "d4d32bdb70f6213e07495451"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -968,6 +1004,17 @@
       "id": "9dd46f04ac6ae16f81138482"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for collaborators",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd7dst/looking_for_collaborators/",
+      "published": "2026-10-23",
+      "excerpt": "I have some games in mind I have the codes ready but i really need some people to help me with the animations and graphics cuz I am unable to do it pls send me a friend req on discord Kkumar0406 submitted by /u/Agile_Garlic_5380 [link] [comments]",
+      "creator": "/u/Agile_Garlic_5380 https://www.reddit.com/user/Agile_Garlic_5380",
+      "id": "82b2a795129eba9151bbb301"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1023,6 +1070,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/made-this-early-access-ww2-game/4951651.rss",
       "id": "6c2276e95522a9b7cb51d361"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Realistic Weapon Animations",
+      "url": "https://devforum.roblox.com/t/realistic-weapon-animations/4951854",
+      "published": "2026-10-23",
+      "excerpt": "Hello! Over the past few months, I have been learning realistic animations for my upcoming competitive shooter game. The rigs have full articulated fingers, 3 joints per finger, wrist joints, elbow joints, and shoulder joints. Karambit P320 AK-103 M4A1 What do you think? The game is close to being f",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/realistic-weapon-animations/4951854.rss",
+      "id": "5db0b4433ecd43bcfa27a336"
     },
     {
       "source": "reddit-robloxdev",
@@ -1114,6 +1173,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769.rss",
       "id": "20d2a73043b07f4869b03b3a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Voting screen not showing",
+      "url": "https://devforum.roblox.com/t/voting-screen-not-showing/4951827",
+      "published": "2026-10-23",
+      "excerpt": "local RS=game:GetService(\"ReplicatedStorage\") local VotingPhase=RS.Events.BeginVotingPhase local plr=game:GetService(\"Players\").LocalPlayer local StartingMatch=RS.Events.StartingMatch local plrVoted=RS.Events.PlayerVotedEvent local UpdateVotes=RS.Events.UpdateVoteCountClient local plrgui=plr:WaitFor",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/voting-screen-not-showing/4951827.rss",
+      "id": "194a418c8653ed09fbb84dd7"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1495,7 +1566,7 @@
       "title": "Release Notes for 744",
       "url": "https://devforum.roblox.com/t/release-notes-for-744/4949081",
       "published": "2026-10-22",
-      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 9 posts - 8 participants Read full topic",
+      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 10 posts - 9 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-744/4949081.rss",
       "id": "bb320047065b1cda6eea273f"
@@ -1933,6 +2004,17 @@
       "excerpt": "Released my game the other day, general response from players I talked to was really positive and they loved the gameplay and theme. I noticed a lot of players would join, get stuck on the tutorial then rage quit and some players are downvoting the game because of it. I'm worried because the rating ",
       "creator": "/u/Wildeofthewest https://www.reddit.com/user/Wildeofthewest",
       "id": "5a6e3d762a5cd09354af9938"
+    },
+    {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.",
+      "url": "https://www.youtube.com/shorts/6aFu9wbY4js",
+      "published": "2026-10-22",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "5a1ca75fd6eea2adcb2c5898"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7615,73 +7697,6 @@
       "published": "2026-10-13",
       "excerpt": "We’re back! 🌾 Last weekend was intense, but we’re back to work. While Janek and I were on vacation, the team added in-game tips and Polish language support. And if you haven’t wishlisted Farmdustry yet, now’s the time! 😉https://store.steampowered.com/a Instagram",
       "id": "f57f0d3dc2b9a915e5031c56"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Create Your Game-Specific Quick Words",
-      "url": "https://devforum.roblox.com/t/create-your-game-specific-quick-words/4932108",
-      "published": "2026-10-13",
-      "excerpt": "Key Takeaways Custom Quick Words are now available for your game. This lets you define the phrases your players use to keep gameplay moving. Find it in Creator Hub > your game > Configure > Chat > Quick Words. As promised at RDC, starting today you can create and publish custom Quick Words for your ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/create-your-game-specific-quick-words/4932108.rss",
-      "id": "cda58c21860d6b13e5235b34"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "Updating My Game Now Its INSANE!",
-      "url": "https://www.youtube.com/watch?v=-wqaH11mmpc",
-      "published": "2026-10-13",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "cd119de44311e83021fa868b"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Redesigning source control at Anthropic - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Redesigning source control at Anthropic Anthropic",
-      "creator": "",
-      "id": "c739d6e3b4a5bacca11da7a2"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Claude Code can now be modded like a video game, and I couldn't stop tinkering - XDA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVnFYNHhjN2R0R0ZqY0E4UFRTXy00UWZPSkZUbEtsdjNwelBEU1ByRXhUSWp1OGFsOTlUT3ktQ1pMOVpkdGJUeWtEaEhvSi1aTEJNMEdEMjBuYW1lNEhZR0lJUU83cGhCUUprMXY0S3NzaVdlUENRRkY3M20yX0c5ZTRxV2wtTlFzUlE?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Claude Code can now be modded like a video game, and I couldn't stop tinkering XDA",
-      "creator": "",
-      "id": "bdbabc5b3542426a2b4fab9f"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "5 Small Changes That Make Your Roblox Game Feel WAY Better - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XU0dab05VZUd6RnhmNmg0eVg0YlJXTnl3ZlJWNXdjR0kwczRyQVVQSXNWdVBvQm5YVW9wUkxHT0JiQWJRSVV0NFJhQkdmYzVJMWRvWXpn?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "5 Small Changes That Make Your Roblox Game Feel WAY Better YouTube",
-      "creator": "",
-      "id": "a2eca5e30e4f911dc9586f01"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "DeepSeek Chat Latest Version Free Download 2026 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5R1FmOGczSUx0SzZjNTVubXpwQ29SSzZTSUhCTjJnV291azdwYlJ6cjVlYUNMVHFFT2pKTWtwdGdha0hkLXEyT3I0TkVGMlhfVnhDeGhNZjFtVTNCTGhFMQ?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "DeepSeek Chat Latest Version Free Download 2026 YouTube",
-      "creator": "",
-      "id": "a0a70a76effe4744b1a0114b"
     }
   ]
 }

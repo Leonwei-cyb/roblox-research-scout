@@ -5,22 +5,22 @@
 | Classification | Entries |
 |---|---:|
 | original video/post URL (unwatched) | 9 |
-| public metadata / page | 487 |
-| indexed redirect (not original) | 103 |
+| public metadata / page | 491 |
+| indexed redirect (not original) | 99 |
 | promotional / risky title | 1 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
 Direct-original share: **1.5%** (still unwatched).
-Indexed redirects: **103**. They require primary-source verification.
+Indexed redirects: **99**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **511**; direct originals **9**; indexed redirects **15**.
-Active-source direct-original share: **1.8%** (still unwatched).
-Entries from paused/unconfigured sources: **89** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
+Active-source entries: **515**; direct originals **9**; indexed redirects **15**.
+Active-source direct-original share: **1.7%** (still unwatched).
+Entries from paused/unconfigured sources: **85** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -28,7 +28,7 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| YouTube (title suffix) | 24 |
+| YouTube (title suffix) | 22 |
 | unknown | 20 |
 | Instagram (title suffix) | 11 |
 | TikTok (title suffix) | 9 |
@@ -38,8 +38,8 @@ Google News redirect links are not resolved: the current article format needs Go
 | www.youtube.com | 4 |
 | www.tiktok.com | 3 |
 | Pasquale Pillitteri (title suffix) | 2 |
-| Anthropic (title suffix) | 1 |
 | CyberSecurityNews (title suffix) | 1 |
+| HackerNoon (title suffix) | 1 |
 
 ## Actionable interpretation
 
