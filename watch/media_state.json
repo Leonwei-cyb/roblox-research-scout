@@ -822,7 +822,9 @@
     "d0edd870bc1216d7382c745f",
     "744beb920d949412ef9c9458",
     "1573910ae9c94e44bc9c7221",
-    "c7259b26c072c6bd9453b0b8"
+    "c7259b26c072c6bd9453b0b8",
+    "21fc21f68f36d62173d09599",
+    "dc74a02fb6b812c16b063415"
   ],
   "items": [
     {
@@ -869,6 +871,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-would-i-make-this-generation-faster-or-have-a-bulkmoveto-like-thingy-m-jing/4951278.rss",
       "id": "361427266eb422618eadcc97"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Expanded Terrain removes >16 voxels thick terrain",
+      "url": "https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339",
+      "published": "2026-10-23",
+      "excerpt": "Terrain LOD mesh looks worse than before in in some aspects… Now: Before: The map is in the private message, Workspace settings has been tweaked to match the game ones. A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339.rss",
+      "id": "21fc21f68f36d62173d09599"
     },
     {
       "source": "reddit-robloxdev",
@@ -7632,18 +7646,6 @@
       "excerpt": "Cline Free Download Mac | Download Cline for Mac | Cline Full Version Mac 2027 YouTube",
       "creator": "",
       "id": "da9c34b36d012ac36b3f4569"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Improved Discovery Measurement in Creator Analytics",
-      "url": "https://devforum.roblox.com/t/improved-discovery-measurement-in-creator-analytics/4930122",
-      "published": "2026-10-12",
-      "excerpt": "Key Takeaways Starting October 12, 2026, we’re updating how impressions, clicks, and plays from Home, Search, and Charts are recorded across Roblox. You may see higher impressions and play counts, and a small decrease in play-through rate (PTR). Because this is a Roblox-wide measurement change and n",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/improved-discovery-measurement-in-creator-analytics/4930122.rss",
-      "id": "da4c945c4e27f677895802a8"
     }
   ]
 }
