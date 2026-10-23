@@ -842,7 +842,13 @@
     "4e4f7dbfac072a1e1d39fa7e",
     "6c2276e95522a9b7cb51d361",
     "515b752d2c445077baef93c0",
-    "3ceba22c25deab94ed9cb712"
+    "3ceba22c25deab94ed9cb712",
+    "9dd46f04ac6ae16f81138482",
+    "dea65e3754eb3df988557959",
+    "20d2a73043b07f4869b03b3a",
+    "778f0bfa2db7ddae3a1757a6",
+    "24d90358377a9c25f96d6971",
+    "e0f91a5e60b12ab3443b7147"
   ],
   "items": [
     {
@@ -893,6 +899,18 @@
       "id": "ded96bc9e2db9a6619ddbe49"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How do developers grow multiplayer games nowadays?",
+      "url": "https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775",
+      "published": "2026-10-23",
+      "excerpt": "So I released a multiplayer game on the platform last week, and I’ve been struggling to get enough players for rounds to even start. I have some experience with developing games on the platform and have had some success with obbies and single-player games, but multiplayer is something I’m still lear",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775.rss",
+      "id": "dea65e3754eb3df988557959"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -936,6 +954,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/error-in-granting-tickets-and-items-in-new-event/4951605.rss",
       "id": "aebb7f2f9ab84424d02b778e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[PLEASE HELP] BindableFunction infinitely yielding script that invokes it",
+      "url": "https://devforum.roblox.com/t/please-help-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788",
+      "published": "2026-10-23",
+      "excerpt": "i’m so confused i’ve literally been trying to figure out why this is happening for actual hours, and it’s not even an issue with my code or organization, it just REFUSES to work >:[ the callback is set before the BindableFunction is invoked i am not passing any invalid parameters (it literally only ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/please-help-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788.rss",
+      "id": "9dd46f04ac6ae16f81138482"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for Feedback on My Pixel Game",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767",
+      "published": "2026-10-23",
+      "excerpt": "I’ve been working on a pixel roguelite game DIce War, and wanted to hear what you guys think! game link: [( Dice War | Play on Roblox )] about the game It’s a dice-based roguelite where you roll for units, build your team, and fight through stages You can upgrade your units, promote them into differ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767.rss",
+      "id": "778f0bfa2db7ddae3a1757a6"
     },
     {
       "source": "reddit-robloxdev",
@@ -1039,6 +1081,17 @@
       "id": "24dfab11ebeeb07f17d05fa5"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "First Time Game Dev Is This Good?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd61f2/first_time_game_dev_is_this_good/",
+      "published": "2026-10-23",
+      "excerpt": "I have a lot to learn submitted by /u/Environmental-Cap571 [link] [comments]",
+      "creator": "/u/Environmental-Cap571 https://www.reddit.com/user/Environmental-Cap571",
+      "id": "24d90358377a9c25f96d6971"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1049,6 +1102,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339.rss",
       "id": "21fc21f68f36d62173d09599"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Expanded Terrain visually duplicates Terrain across a 2^14 stud grid",
+      "url": "https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769",
+      "published": "2026-10-23",
+      "excerpt": "Description : The duplication extends to the server’s initial bounding box for Workspace. Regardless of any changes made to the bounding box, it will always duplicate up to the initial box’s extents. The duplication only occurs on the positive axes of a grid with 2^14 stud cells. It will never dupli",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769.rss",
+      "id": "20d2a73043b07f4869b03b3a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7617,62 +7682,6 @@
       "excerpt": "DeepSeek Chat Latest Version Free Download 2026 YouTube",
       "creator": "",
       "id": "a0a70a76effe4744b1a0114b"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "VS Code 1.140 Adds HydraFusion AI Routing, 4 Tiers [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTmRkVmtQRXByQkNfdmR2VkNSZjhTeFF6dGVJU2VMLVZhZV9pb0Z3UkY5WGg2V3I4YkdGYTM5Y2JxaDBPRkNzcUlmM09tbHhWUWtIUW83VGEwZU1HaUhaajVqRGpVU1pVMUJ4eHV0YXZuYXdibTNj?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "VS Code 1.140 Adds HydraFusion AI Routing, 4 Tiers [2026] https://tech-insider.org/",
-      "creator": "",
-      "id": "8be67ae858e4ee36ca36e840"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "Working on a wild new concept for the cockpit taking vintage hardware and integrating a holographic telemetry and GPS tracing interface right above the bars. What are your thoughts ?? . Cobrarace 111 ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXbVFSWnlMaDZNZ0Q4bllKWkpMaWNyb2Y2YXk2QkM3bDhac3RNX1RwcGV6M2hXNEtwUXc3R21UaXlOZDZ0OXROX29RZHpRSTVTZXYyWkx3?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Working on a wild new concept for the cockpit taking vintage hardware and integrating a holographic telemetry and GPS tracing interface right above the bars. What are your thoughts ?? . Cobrarace 111 Shilouette 🔥 . . . . . #vasilidesign #cobrarace #pokemon Instagram",
-      "creator": "",
-      "id": "8acfbfa6b6457fdcc2c5a067"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyYW5KQmpZSHQ3c0RGXzRzclgxMHYxQXlrUHRvVGNtSXI1cjd6YmVBTXM2NXhTbGk5NXZsOXBMOWQ2OWMtVFRaMDNsOTBUZENaNWhtWTVB?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "89fb1f98d443a73d30d97571"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "DeepSeek Harness: How to Launch an AI Agent That Creates Its Own Plugins - Incrypted",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UaTctSWE2VjF6bTI0WlVLaDA5UWxsdkp0NVlSOVhleERlZkJ2SGFhU05qRTl1X2JfelNUTG9qeU54X1NNXzZzdjhMS0FlaVpzWEVDSDFKU09GTnp6a0EyLVRBQXJuak5McmdGUVBncGM1cUNfMWRj?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "DeepSeek Harness: How to Launch an AI Agent That Creates Its Own Plugins Incrypted",
-      "creator": "",
-      "id": "878651e6cbfd893d62f755b5"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Flying System in Roblox Studio! Follow for more :) #roblox #robloxstudio #ʀᴏʙʟᴏxsᴛᴜᴅɪᴏ #robloxdeveloper #robloxscript - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IRXo2X3FvOFZDcEdCeTdlNThJWFBodFlyRUR0V2FGcWE0YjJwMnBhMmJmTWFLQmRKWVFmU1R6T0YwYlI3VDludWtjd3cyTEo4aGVSVjJR?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Flying System in Roblox Studio! Follow for more :) #roblox #robloxstudio #ʀᴏʙʟᴏxsᴛᴜᴅɪᴏ #robloxdeveloper #robloxscript Instagram",
-      "creator": "",
-      "id": "864a3a6b608985e27b3d0e51"
     }
   ]
 }
