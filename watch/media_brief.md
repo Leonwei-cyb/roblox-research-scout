@@ -5,32 +5,23 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-23
-  - Feed excerpt: How To Use Claude Code With An Existing Roblox Game - Full Guide YouTube
-
 ## Community
 
-- **[Looking for a partner](https://www.reddit.com/r/robloxgamedev/comments/1xdduyc/looking_for_a_partner/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: I am looking for a partner who can help advertise and promote the game, in exchange for a % of any earnings made. if interested, add me on discord: aloosely submitted by /u/AgitatedFennel1317 \[link\] \[comments\]
-- **[Why is this guy mad asf😭 #fairs](https://www.reddit.com/r/robloxgamedev/comments/1xderie/why_is_this_guy_mad_asf_fairs/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: https://preview.redd.it/a70dhyp038xh1.png?width=617&format=png&auto=webp&s=48723ad83b0ebaae1bc6b8b52363a13144165d51 I lowkey agree with him tho, 150 bucks for some 7 models as an asset pack is why roblox development is not being taken serio
+- **[All in One LIVE stream?](https://www.reddit.com/r/robloxgamedev/comments/1xdfhlz/all_in_one_live_stream/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Today I'm juggling three things in my Roblox development session: 🎨 Working on UI design 🛠️ Helping other developers with their games 💾 Continuing my custom Player Data System I enjoy switching between different types of development, but I'
+- **[Procuro uma equipe para criar um jogo.](https://www.reddit.com/r/robloxgamedev/comments/1xdf2ct/procuro_uma_equipe_para_criar_um_jogo/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: procuro uma equipe para criar meu jogo inspirado no filme buddy (jogo de terror). Plataforma que quero criar o jogo é no roblox,preciso imediatamente de modeladores que ajudem na criação do mapa quem tiver interessado me mande mensagem no t
+- **[Tester long term](https://www.reddit.com/r/robloxgamedev/comments/1xdfud0/tester_long_term/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Is it possible to earn good money by being a long term tester, and if so how much do you think you'll earn per week/month submitted by /u/JamalDsea \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Guy size unproportioned](https://devforum.roblox.com/t/guy-size-unproportioned/4952247)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: How can i make to be same size for different screen size? 5 posts - 3 participants Read full topic
-- **[Parallax-Based Window Interiors](https://devforum.roblox.com/t/parallax-based-window-interiors/4952253)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: As a Roblox developer, it is currently too hard to … Create a cool skyline that’s not just glass towers to the sun, or create a diverse metropolis to traverse, without using a ton of extraneous assets. Forza uses this extensively , Cyberpun
-- **[Roblox Support not processing requests (+Discovery Quality Issue)](https://devforum.roblox.com/t/roblox-support-not-processing-requests-discovery-quality-issue/4952265)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Hey! I’ve been trying to submit a bug report for discovery content quality, but this keeps occurring: I haven’t received any confirmation issues. I’ve attached my original support request in private messages. Page URL: https://create.roblox
-- **[What should i improve in my upcoming project?](https://devforum.roblox.com/t/what-should-i-improve-in-my-upcoming-project/4952257)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Sup Y’all, Me and my team have been working together on a horror project for the past 1 year & half. We’re currently looking for feedback on what features to add / improvements to make. All is subject to change eventually. https://www.artst
-- **[Why is TintMask background showing up as Black?](https://devforum.roblox.com/t/why-is-tintmask-background-showing-up-as-black/4952301)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Left to right are all mesh parts with the same SurfaceAppearance using the same ColorMap texture. First one uses AlphaMode = Transparency to show the texture has an alpha layer. Second one uses AlphaMode = TintMask with Color = Color3.fromR
-- **[cage meshes have validation issues with the new bundle bounds](https://devforum.roblox.com/t/cage-meshes-have-validation-issues-with-the-new-bundle-bounds/4952325)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: bundles that use the new maximum requirements for bundles arent possible as the ugc validation tool complains about the cages being above the limit even though the cages are the exact shape and size as the bundle. making the cages smaller c
+- **[Approved image appeal not applied: 7-day suspension and “critical” account status remain (automated false positive on a UI icon)](https://devforum.roblox.com/t/approved-image-appeal-not-applied-7-day-suspension-and-%E2%80%9Ccritical%E2%80%9D-account-status-remain-automated-false-positive-on-a-ui-icon/4952347)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: On October 21, 2026, my account received a 7-day suspension for “Sexual Content” because of one image asset: Asset ID: 115373346165689 Name: “7L UI MD2 emblem_cell_XDreamDoor” What it shows: a skill tree icon for my game Magic & Divinity 2,
+
+## Youtube
+
+- **[Creator Showdown São Paulo (English)](https://www.youtube.com/watch?v=IY306dcE8Jg)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-15
 
 ---
 

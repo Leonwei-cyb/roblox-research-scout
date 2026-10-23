@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "74581b082883cd9aa894db7c5671fa7fda6c579f",
-      "head_subject": "Lock file maintenance (#3792)",
+      "head": "c919060c06b65d8c586b77044223ed24f76c8f23",
+      "head_subject": "Merge pull request #3805 from huginn/renovate/ruby",
       "name": "huginn/huginn",
       "release_tag": "v2026.10.14",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.14",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "5e31438d5d2223d8338595b366b7434ef3539708",
-      "head_subject": "Support GA Gradium Phonon checkpoints (#19227)",
+      "head": "f52b9e742d8c9a308f7b23cd1f0ab52c7ddb694d",
+      "head_subject": "Update gemma renderers (#19241)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.9",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",

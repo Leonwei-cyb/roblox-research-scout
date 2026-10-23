@@ -905,9 +905,25 @@
     "baabb1beb39e43c34b8fca83",
     "ade0aa99a88ab46c0e249511",
     "d30f77831823452ca35bb5a3",
-    "a2767885e0814a87605c72cb"
+    "a2767885e0814a87605c72cb",
+    "b994295fbb3930e6d3bb1da4",
+    "a70265e1aed4ed729abf77e9",
+    "bec139ccfbc35f6407eae201",
+    "fa476b04386a31b973555dff",
+    "aa45b4b64804b8f7b85a2999"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Procuro uma equipe para criar um jogo.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdf2ct/procuro_uma_equipe_para_criar_um_jogo/",
+      "published": "2026-10-23",
+      "excerpt": "procuro uma equipe para criar meu jogo inspirado no filme buddy (jogo de terror). Plataforma que quero criar o jogo é no roblox,preciso imediatamente de modeladores que ajudem na criação do mapa quem tiver interessado me mande mensagem no tik tok ou por aqui mesmo meu nome no tik tok :z.ghostzz. sub",
+      "creator": "/u/yurifuturodevvvvvv https://www.reddit.com/user/yurifuturodevvvvvv",
+      "id": "fa476b04386a31b973555dff"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -1084,6 +1100,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "All in One LIVE stream?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdfhlz/all_in_one_live_stream/",
+      "published": "2026-10-23",
+      "excerpt": "Today I'm juggling three things in my Roblox development session: 🎨 Working on UI design 🛠️ Helping other developers with their games 💾 Continuing my custom Player Data System I enjoy switching between different types of development, but I'm curious what other devs think. If you could get help with ",
+      "creator": "/u/RoommateDev https://www.reddit.com/user/RoommateDev",
+      "id": "bec139ccfbc35f6407eae201"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Roblox developers: how do you currently balance your game’s economy and progression?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/",
       "published": "2026-10-23",
@@ -1113,6 +1140,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/guy-size-unproportioned/4952247.rss",
       "id": "baabb1beb39e43c34b8fca83"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Approved image appeal not applied: 7-day suspension and “critical” account status remain (automated false positive on a UI icon)",
+      "url": "https://devforum.roblox.com/t/approved-image-appeal-not-applied-7-day-suspension-and-%E2%80%9Ccritical%E2%80%9D-account-status-remain-automated-false-positive-on-a-ui-icon/4952347",
+      "published": "2026-10-23",
+      "excerpt": "On October 21, 2026, my account received a 7-day suspension for “Sexual Content” because of one image asset: Asset ID: 115373346165689 Name: “7L UI MD2 emblem_cell_XDreamDoor” What it shows: a skill tree icon for my game Magic & Divinity 2, a teal arched door above two small clouds. No people, no bo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/approved-image-appeal-not-applied-7-day-suspension-and-%E2%80%9Ccritical%E2%80%9D-account-status-remain-automated-false-positive-on-a-ui-icon/4952347.rss",
+      "id": "b994295fbb3930e6d3bb1da4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1171,6 +1210,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/android-when-visiting-the-robux-page-through-the-app-all-the-text-is-now-black-in-dark-mode/4952192.rss",
       "id": "ab20aeca722191f1efdaabd1"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Tester long term",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdfud0/tester_long_term/",
+      "published": "2026-10-23",
+      "excerpt": "Is it possible to earn good money by being a long term tester, and if so how much do you think you'll earn per week/month submitted by /u/JamalDsea [link] [comments]",
+      "creator": "/u/JamalDsea https://www.reddit.com/user/JamalDsea",
+      "id": "a70265e1aed4ed729abf77e9"
     },
     {
       "source": "syphodev-claude",
@@ -2074,7 +2124,7 @@
       "title": "Release Notes for 744",
       "url": "https://devforum.roblox.com/t/release-notes-for-744/4949081",
       "published": "2026-10-22",
-      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 11 posts - 10 participants Read full topic",
+      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 12 posts - 11 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-744/4949081.rss",
       "id": "bb320047065b1cda6eea273f"
@@ -7717,51 +7767,6 @@
       "excerpt": "Devin AI Latest Version Free Download 2026 YouTube",
       "creator": "",
       "id": "ac67172398f2597b58d1a811"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "watching rows of tiles disappear as the next brick disappears - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96RTI4VzJ4ckYxN0VWOUs2RTlYY2JvQUlaeHlNdWVZckdDVmV2RGMwT2tOWklHZ2ZaY1FHclNxWFlOdFZxZVBkb2tWUF9PX3kwNHBoVGxn?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "watching rows of tiles disappear as the next brick disappears YouTube",
-      "creator": "",
-      "id": "a7ed389669989adfd1516bb4"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Multiple Active Directory Vulnerabilities Let Attackers Bypass Security Feature Remotely - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90OTB1cTU0ZFNXODVDdm1hR1h6X2xhWjdKN3ZkaVFBbW1rdkpGbnVWLVJkMmJMdTdZNmxmN3c0by1MRzhPR3IzVUZPaGFjVkliZU9JOFNWdHpVbjFFNGhqaC1aWWF4a1V6QXZ3TG1BVk56Y215MW1qTzZjZEzSAYIBQVVfeXFMTkpES1hCVHpjLUVaQTFOTGNGaWVfWDlCamhGZE8tcDlrY2plTFMyXzFrUWpMN3V0YzZfZmNJaE1jWWJFejlsQXp2emlINTN6NXVWVkt2VTR1Y1BnOWQ3MFkzNGFjMzhjRnJKYVlUUUZ",
-      "published": "2026-10-15",
-      "excerpt": "Multiple Active Directory Vulnerabilities Let Attackers Bypass Security Feature Remotely CyberSecurityNews",
-      "creator": "",
-      "id": "a516e0fb4ee1c85bdcec1432"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Windsurf Latest Version Free Download 2026 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95ZzQ5T0U0MDhhRnN5U1o4cVNodURiNXVhY0t0Tmd1RWdHMU9DTDN6RDVHRFNFQ004MGZ1NjlmdDMybzZDQ21uN1FZUS1aNEFqdUVXdWNuTUR2OXVULW9VRg?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "Windsurf Latest Version Free Download 2026 YouTube",
-      "creator": "",
-      "id": "a03e4277f2582e0644a8b622"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Release Notes for 743",
-      "url": "https://devforum.roblox.com/t/release-notes-for-743/4936061",
-      "published": "2026-10-15",
-      "excerpt": "Hi peeps! Here are the release notes for 743 . Apparently the song Jolene by Dolly Parton was released on this day in 1973. I vote we all give it a listen today in Dolly’s memory See you next week! 26 posts - 23 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/release-notes-for-743/4936061.rss",
-      "id": "9d4998dce08349cee0ae4408"
     }
   ]
 }
