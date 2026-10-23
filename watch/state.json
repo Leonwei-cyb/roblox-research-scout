@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "be09f73c3af1bbc698d19a532ef6d3c9987e6370",
-      "head_subject": "Restock: let a plugin do LLM price/stock extraction without litellm (HTML + text hook, reusable helpers) (#4545)",
+      "head": "f218d5b6aad7774d3c5a3bd685354223e2167ba8",
+      "head_subject": "feat(api): expand SystemInfo endpoint with queue metrics, config flags, and tag_count (#4574)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.9",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
@@ -228,6 +228,7 @@
     "wh000wh000/awesome-jev-live",
     "xianyu110/awesome-gpt-6-astra",
     "yarik-contr/mcp-forge-studio-bridge",
+    "yogsec/OSINT-Tools",
     "zhaoolee/garss"
   ]
 }

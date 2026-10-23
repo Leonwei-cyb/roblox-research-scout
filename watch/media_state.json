@@ -868,7 +868,13 @@
     "f171019ec68fb30ec3f59c1c",
     "820c8227385f06468a3061bf",
     "ed8cae26f8660b4c9eb7ac31",
-    "e13cf44396f12a31c50b7d1f"
+    "e13cf44396f12a31c50b7d1f",
+    "30a6e96421de39011548d9dc",
+    "7140a163dcd153fdc1729f44",
+    "556e576b5c7bd5cf69722c6d",
+    "e9ee3353923b4c54bfdb495c",
+    "f4fb04071fe4a8341dd1e3ff",
+    "cdc6dda1fc3f6635c77623f0"
   ],
   "items": [
     {
@@ -916,6 +922,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/joining-games-became-inconsistent-troubles-with-joining-places-within-experiences/4951511.rss",
       "id": "eee8cea8a6097daff0f5dff4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "why is my ctr lowest its ever been 1.4%",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd9m64/why_is_my_ctr_lowest_its_ever_been_14/",
+      "published": "2026-10-23",
+      "excerpt": "I genuelly dont know why my ctr is so low highest one hitting 1.4% i tried to change thumbnails but none work i made the thumbnails with chatgpt and not a single one hitting more than 1.4% can anyone help me make a better one? im open to hate comments and helpful ones. i did a 30$ ad campaign with t",
+      "creator": "/u/Aromatic-Guarantee66 https://www.reddit.com/user/Aromatic-Guarantee66",
+      "id": "e9ee3353923b4c54bfdb495c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1129,6 +1146,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "How do you report a vulnerability to Roblox's H1 program while being in sanctioned country?",
+      "url": "https://devforum.roblox.com/t/how-do-you-report-a-vulnerability-to-robloxs-h1-program-while-being-in-sanctioned-country/4951989",
+      "published": "2026-10-23",
+      "excerpt": "I would like to hear a feedback from someone who encountered the same issue, because I want to report an 0day RCE vulnerability regarding Roblox Player client specifically on a platform with CNA access for public disclosure, however I can’t do that on Hackerone specifically due to me being in a sanc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-you-report-a-vulnerability-to-robloxs-h1-program-while-being-in-sanctioned-country/4951989.rss",
+      "id": "7140a163dcd153fdc1729f44"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Made this early access ww2 game",
       "url": "https://devforum.roblox.com/t/made-this-early-access-ww2-game/4951651",
       "published": "2026-10-23",
@@ -1160,6 +1189,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/realistic-weapon-animations/4951854.rss",
       "id": "5db0b4433ecd43bcfa27a336"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Studio made thumbnails for my upcoming game HUSH",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd91zi/studio_made_thumbnails_for_my_upcoming_game_hush/",
+      "published": "2026-10-23",
+      "excerpt": "Put together a couple of surface lights together and filled up a scene, then added final touches in external editing software. Thoughts and any feedback would be great :) submitted by /u/slimebrowser [link] [comments]",
+      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
+      "id": "556e576b5c7bd5cf69722c6d"
     },
     {
       "source": "reddit-robloxdev",
@@ -1205,6 +1245,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-would-i-make-this-generation-faster-or-have-a-bulkmoveto-like-thingy-m-jing/4951278.rss",
       "id": "361427266eb422618eadcc97"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "UIGradient color banding",
+      "url": "https://devforum.roblox.com/t/uigradient-color-banding/4952019",
+      "published": "2026-10-23",
+      "excerpt": "When using a UIGradient, especially on darker colors, there is visible color banding and many colors are skipped. This place should reproduce the issue: gradient.rbxl (89.4 KB) Expected behavior The gradient should render correctly and display all colors, instead of skipping them. 1 post - 1 partici",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/uigradient-color-banding/4952019.rss",
+      "id": "30a6e96421de39011548d9dc"
     },
     {
       "source": "reddit-robloxdev",
@@ -1644,7 +1696,7 @@
       "title": "Release Notes for 744",
       "url": "https://devforum.roblox.com/t/release-notes-for-744/4949081",
       "published": "2026-10-22",
-      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 10 posts - 9 participants Read full topic",
+      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 11 posts - 10 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-744/4949081.rss",
       "id": "bb320047065b1cda6eea273f"
@@ -7132,6 +7184,18 @@
       "id": "fe6137be2330337c7b86c2c0"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "What monsters will be inside the Halloween Dimension #roblox #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xMmc3dXBNc3hQM0wwTzdFWWJGNWQyNldjdXl2aWNMTURRbW9mZ3JydllFdTZQcEd1UVNiSlVMX09sQU5GcF83R1o1ZWt4M3lNSUpvdXN3?oc=5",
+      "published": "2026-10-15",
+      "excerpt": "What monsters will be inside the Halloween Dimension #roblox #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "f4fb04071fe4a8341dd1e3ff"
+    },
+    {
       "source": "instagram-index",
       "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
       "category": "instagram_index",
@@ -7655,61 +7719,6 @@
       "excerpt": "Cline Free Download Mac | Download Cline for Mac | Cline Full Version Mac 2025 | HWIDGen Cline Mac YouTube",
       "creator": "",
       "id": "9057daa5300c28ea21f231fb"
-    },
-    {
-      "source": "x-index",
-      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
-      "category": "x_index",
-      "title": "Composio - X",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBKS2p1bFFZT3ZmdHc1cktnZWxuX28zRHpIX2NCZ09WV3Y0QmNGanp5TzlNRFVWNWVucHc?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "Composio X",
-      "creator": "",
-      "id": "8d472fb661d176f03c95b008"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "should I release this? 👀 #roblox #robloxstudio #robloxdev - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WQ2RYSXBZYUtBUGlWanlRVnVmd05SNHlJQWtCV0FNbnJGOFRFRkxLQVg2c1hUazc2UTBKTlQtRDU3YzcyMm41ZWNMdXByR0RZUU96ZDZFNENxTEhqNGpDbF9GQzY3TVBXeGRBcFV2QUI1TVJOUHc?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "should I release this? 👀 #roblox #robloxstudio #robloxdev TikTok",
-      "creator": "",
-      "id": "8b3c9b9786293cc984c8d138"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "#UnboxRoblox: India Edition 2026 For the first time in India, Roblox brought Unbox Roblox to New Delhi on October 13, 2026, bringing together creators, influencers and tech journos to explore the plat",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XSXc0QzkzUTFDWGhLdG9JRnN3MUMyTlY3UGh0bUluLWRMMXNtNU80d1lYSlppdDRCWFJxcnNQTWNVU2h1NzktMnJHZFVKME5xUS1rZGhn?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "#UnboxRoblox: India Edition 2026 For the first time in India, Roblox brought Unbox Roblox to New Delhi on October 13, 2026, bringing together creators, influencers and tech journos to explore the platform’s vision for India. Can Roblox unlock a new wave of I Instagram",
-      "creator": "",
-      "id": "88dcdb6e695b81caa6fb7858"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Parallels Desktop Premium 2025 Latest Version Free Download 2025 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VFJ2S1h6MGxxNnRNUWRiRTk3OWNVS3dXUS1HY0NBTmt5RDMwWUtyN0pLX1dUVzVfMWJqYUlkUEgxaVBxRExjZnJqS1B0dW1JYi1fNzRJTDAzVVh2RUFJaQ?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "Parallels Desktop Premium 2025 Latest Version Free Download 2025 YouTube",
-      "creator": "",
-      "id": "7ffa84c88e0449ad88d04eec"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "💬 Comment “LIB” and I’ll send you all links! ❤️ Like | 💬 Share | 📌 Save for later Follow 👉 @animmaster_studio for more epic UI animations! #frontend #uianimation #cssanimation #javascript #html - Inst",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMUQyak1VajRJcGpGcVYzeHduV3RQMDg5NEw1amg4b0pKU3ByRWpKdjZ4RUdia2RTODBvY1NMTms0b19mRWhXZk5xVXltM1F3M1dIUHlB?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "💬 Comment “LIB” and I’ll send you all links! ❤️ Like | 💬 Share | 📌 Save for later Follow 👉 @animmaster_studio for more epic UI animations! #frontend #uianimation #cssanimation #javascript #html Instagram",
-      "creator": "",
-      "id": "6a5a0c9ef8108c5f69289c00"
     }
   ]
 }
