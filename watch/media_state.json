@@ -953,9 +953,47 @@
     "d54f315bb8a7d778de1c4d30",
     "6edafe808a274e6a600de232",
     "bcb45eba157b5b351a2fba0b",
-    "cf33549cb88e62e43efc8254"
+    "cf33549cb88e62e43efc8254",
+    "7977a37b124f933125e508fe",
+    "5c540d0da8ecb089de9baada",
+    "280f2b61832f51c6af690165",
+    "ff34e7aa064ad8e9889ba341",
+    "2769b586524f2832c88ae44c",
+    "2751fe43fba297d7b108aa8e",
+    "1b090712660af55a7718374e",
+    "1e27fe047eb432409be2c46b",
+    "e0af2a8d8c198c592949b761",
+    "aaf4729f21b4edf7c8721be1",
+    "3cd521ec07a0fc36188e2f69",
+    "f4f7bae300769c7d0a4ca85b",
+    "8de1c85b63f7c5ab8a832b3a",
+    "60aa119cc9ad52e77b9ed8e9",
+    "8c43f8888e1c9763b7b241f1",
+    "5e472b8aa25c2b55e4b996b0",
+    "81ba65c37f0224ef14d43752",
+    "2d1b3a880a3a05496bd0087f",
+    "e8ed7d4434ae53938b155e19",
+    "3a535c9dccbdb3eec6a5fabd",
+    "caee485e8b20c9d199bd9bba",
+    "16a572e99da435f80f374659",
+    "b1084f6c89b99ad9190a6427",
+    "df8a33d7c46a42754417c77d",
+    "c5cf16fc356a65596c422004",
+    "13b63c9ebcc298bb0f1cf6a0"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "The Expedited Review for my Roblox game has taken over a week with no sign of success",
+      "url": "https://devforum.roblox.com/t/the-expedited-review-for-my-roblox-game-has-taken-over-a-week-with-no-sign-of-success/4953295",
+      "published": "2026-10-23",
+      "excerpt": "I paid the expedited review fee of 50000 robux for my new game to skip the highly engaged players requirement for my game to be all ages, I bought this on October 15th and now over a WEEK gone by without hearing anything and not looking like the game will ever be rated for all ages, this game is ver",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-expedited-review-for-my-roblox-game-has-taken-over-a-week-with-no-sign-of-success/4953295.rss",
+      "id": "ff34e7aa064ad8e9889ba341"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -1058,6 +1096,17 @@
       "id": "e9ee3353923b4c54bfdb495c"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "is there any way to delete roblox games..?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdk136/is_there_any_way_to_delete_roblox_games/",
+      "published": "2026-10-23",
+      "excerpt": "https://preview.redd.it/r9dvd98y19xh1.png?width=254&format=png&auto=webp&s=3eb49bda5766e9ca3fdcc3f1f0b131400bd71dc5 i have quite a long list of games (78, to be exact!) in my archived that i want to delete. ive heard there was no point in deleting archived games, however ive gotten banned from archi",
+      "creator": "/u/RichExpression8949 https://www.reddit.com/user/RichExpression8949",
+      "id": "e8ed7d4434ae53938b155e19"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1067,6 +1116,29 @@
       "excerpt": "Various friends told me that in todays market, games like steal a brainrot and similar are way better to work rather then simulator games.These kind of games are left behind in 2020.Please share your opinion. submitted by /u/Parking_Yam_5636 [link] [comments]",
       "creator": "/u/Parking_Yam_5636 https://www.reddit.com/user/Parking_Yam_5636",
       "id": "e513c1064c0467b97f18f68e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Make \"Value\" in Experience Configs clickable",
+      "url": "https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224",
+      "published": "2026-10-23",
+      "excerpt": "Right now, to edit a JSON config value, you highlight the text and press anything on your keyboard (CTRL, W, A, S, D, etc) to make an edit. This is very confusing. Make it so the field itself is simply a button that expands the greater editing field. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224.rss",
+      "id": "e0af2a8d8c198c592949b761"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Gaps, but I could swear they are aligned?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdqbis/gaps_but_i_could_swear_they_are_aligned/",
+      "published": "2026-10-23",
+      "excerpt": "Context: It's a generated map made from the the sizes and positions of blocks relative to the ground. All block sizes don't have any decimal place, the positions are all .5 and .0 . I did't round the UDim2 values of the frames either. Is it a normal visual thing, because it's only on the right side ",
+      "creator": "/u/Hoverfly-Enthusiast https://www.reddit.com/user/Hoverfly-Enthusiast",
+      "id": "df8a33d7c46a42754417c77d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1332,6 +1404,17 @@
       "id": "b37817fbf56724d9126bccd1"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[FREE] Cartoon UI & Stylized Low-Poly Weapons Pack — Perfect for Roblox Simulators & Shooters! (Free for Commercial Use)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdqfxt/free_cartoon_ui_stylized_lowpoly_weapons_pack/",
+      "published": "2026-10-23",
+      "excerpt": "Hey everyone! I just updated my casual/cartoon-style UI and stylized weapons asset pack, and I wanted to share it with the community. It's tailored specifically to look great in Roblox simulator, clicker, and casual games. What’s inside: 8 High-res PNG Icons (512x512) — Gem, Gear, Shop, Sound, Arrow",
+      "creator": "/u/ArachnidLivid9931 https://www.reddit.com/user/ArachnidLivid9931",
+      "id": "b1084f6c89b99ad9190a6427"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1399,6 +1482,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/android-when-visiting-the-robux-page-through-the-app-all-the-text-is-now-black-in-dark-mode/4952192.rss",
       "id": "ab20aeca722191f1efdaabd1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unlock Hidden Lighting Engine Parameters for Developer Use",
+      "url": "https://devforum.roblox.com/t/unlock-hidden-lighting-engine-parameters-for-developer-use/4953192",
+      "published": "2026-10-23",
+      "excerpt": "As a Roblox developer, it is currently too hard to make my Roblox games look hyper-realistic due to severe engine limitations. These limitations include: Not being able to manually set shadow draw distance, and it being abysmally low even on max settings. Shadows being extremely low resolution even ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unlock-hidden-lighting-engine-parameters-for-developer-use/4953192.rss",
+      "id": "aaf4729f21b4edf7c8721be1"
     },
     {
       "source": "reddit-robloxdev",
@@ -1518,6 +1613,28 @@
       "id": "919f2821f83fa65a79a2b93f"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "does anyone know what this effect is called?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdhk33/does_anyone_know_what_this_effect_is_called/",
+      "published": "2026-10-23",
+      "excerpt": "i dont know how to explain it but you can see the door and go inside the room but if you walk around its just the wall? i remember seeing it somewhere but i cant find how to make it submitted by /u/Lumberjack009 [link] [comments]",
+      "creator": "/u/Lumberjack009 https://www.reddit.com/user/Lumberjack009",
+      "id": "8de1c85b63f7c5ab8a832b3a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox rolling animation keeps falling over",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xd927m/roblox_rolling_animation_keeps_falling_over/",
+      "published": "2026-10-23",
+      "excerpt": "Every time that i play my roll animation, my character falls over. I don't know what happend and like 3 days ago it worked fine. pls help because i have tryed again and again to make it work and nothing works. submitted by /u/Extra-Back2257 [link] [comments]",
+      "creator": "/u/Extra-Back2257 https://www.reddit.com/user/Extra-Back2257",
+      "id": "8c43f8888e1c9763b7b241f1"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1564,6 +1681,17 @@
       "id": "820c8227385f06468a3061bf"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "New game, need feedback",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdkiuc/new_game_need_feedback/",
+      "published": "2026-10-23",
+      "excerpt": "i needs honest opinions, just from what you're seeing in this early game development, what can you assume the future of the game could be? Game core loop, success, retention etc. Clip is from Aug 26, 2026 roughly 2 months old submitted by /u/venx_ [link] [comments]",
+      "creator": "/u/venx_ https://www.reddit.com/user/venx_",
+      "id": "81ba65c37f0224ef14d43752"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1573,6 +1701,18 @@
       "excerpt": "Hey everyone! I've been working on Trail Rush , a fast-paced jetpack arena game, and I wanted to share a short clip of it. How it works: you fly around a small planet with your jetpack and leave a glowing ribbon trail behind you. Crash into someone else's trail, and you're out, so the goal is to cut",
       "creator": "/u/Ill_Rhubarb_4587 https://www.reddit.com/user/Ill_Rhubarb_4587",
       "id": "7a45635aa8ed43f012eeae71"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Issues with the New Avatar Item Update Feature",
+      "url": "https://devforum.roblox.com/t/issues-with-the-new-avatar-item-update-feature/4953355",
+      "published": "2026-10-23",
+      "excerpt": "When selecting an item to update, only the 30 most recently published items show up , with no way to switch pages or acess older items. There’s also an option to enter an Asset ID manually, but entering a valid ID doesn’t do anything . The item doesn’t load, and no error message appears. This makes ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/issues-with-the-new-avatar-item-update-feature/4953355.rss",
+      "id": "7977a37b124f933125e508fe"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1736,6 +1876,28 @@
       "id": "638b5d80a8f0cf0b3e444013"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for playtesters!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdqazs/looking_for_playtesters/",
+      "published": "2026-10-23",
+      "excerpt": "Looking for some testers for my upcoming 5v5 hero shooter game. haven't been able to get a full lobby yet so some of the clips may seem empty. currently only available on PC as of now , let me know if you're interested!! submitted by /u/Possible-Novel2712 [link] [comments]",
+      "creator": "/u/Possible-Novel2712 https://www.reddit.com/user/Possible-Novel2712",
+      "id": "60aa119cc9ad52e77b9ed8e9"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Cant see models bought from Tool box.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdni4y/cant_see_models_bought_from_tool_box/",
+      "published": "2026-10-23",
+      "excerpt": "Hello, im new to Roblox studio and am working on a project that involves a skate park. I saw this pack for only $3 and figured id buy it so i didn't have to manually make the ramps. When i drop it into the world the models appear in the explorer but are invisable. I focus to them and they zoom to ju",
+      "creator": "/u/Accomplished-Bag201 https://www.reddit.com/user/Accomplished-Bag201",
+      "id": "5e472b8aa25c2b55e4b996b0"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1769,6 +1931,18 @@
       "excerpt": "Guys i need help m'y game 5 script 3 user model i can pay robux 2 gamepasse do not give m'y game to do big studio help m'y game is bite bi night x grimwork yeah pls lobby somme map and killer and fineli some générateur pls submitted by /u/DataTraining7017 [link] [comments]",
       "creator": "/u/DataTraining7017 https://www.reddit.com/user/DataTraining7017",
       "id": "5d432f04ee72f6adc2b80a4e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Massive increase in HttpError: Timedout",
+      "url": "https://devforum.roblox.com/t/massive-increase-in-httperror-timedout/4953324",
+      "published": "2026-10-23",
+      "excerpt": "For the past ~4 hours, there has been a massive increase in HttpError: Timedout failures. This is affecting HttpService , regardless of the domain the request is sent to, but is also affecting Player:IsInGroup() , Player:HasBadge() , TextService:GetTextBoundsAsync() , and probably more. This began n",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/massive-increase-in-httperror-timedout/4953324.rss",
+      "id": "5c540d0da8ecb089de9baada"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1946,6 +2120,29 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Hope lost - Arctic tycoon 0.0.7.4 \"Looking for feedback\"",
+      "url": "https://devforum.roblox.com/t/hope-lost-arctic-tycoon-0074-looking-for-feedback/4953149",
+      "published": "2026-10-23",
+      "excerpt": "Hello devs, I have been working on a game, and I got the idea to share it here, I already got a ton of feedback from a youtuber Ii am kinda friends with, but i am looking for more, to make my game even better! Hope lost is a game about you being stuck in the arctic and just building to survive, the ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hope-lost-arctic-tycoon-0074-looking-for-feedback/4953149.rss",
+      "id": "3cd521ec07a0fc36188e2f69"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "What songs should I put in my game?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdg0au/what_songs_should_i_put_in_my_game/",
+      "published": "2026-10-23",
+      "excerpt": "I need help choosing track ID's for my tower defense game, the generic ones I find are pretty bad. I need like 3 - 4 looping songs for the lobby, and one song for normal waves and one song for boss waves. Any suggestions? submitted by /u/CommercialFrame8733 [link] [comments]",
+      "creator": "/u/CommercialFrame8733 https://www.reddit.com/user/CommercialFrame8733",
+      "id": "3a535c9dccbdb3eec6a5fabd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Unragdolling flings character",
       "url": "https://devforum.roblox.com/t/unragdolling-flings-character/4953054",
       "published": "2026-10-23",
@@ -2036,6 +2233,53 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/uncreate-roblox-self-hosted-team-create/4952727.rss",
       "id": "2d230bffd1e3c78be47058cc"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Here a Sneak showing two different interfaces from my game, (I speak Spanish that's why you can see it is that language)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdg8y4/here_a_sneak_showing_two_different_interfaces/",
+      "published": "2026-10-23",
+      "excerpt": "submitted by /u/Sentuva [link] [comments]",
+      "creator": "/u/Sentuva https://www.reddit.com/user/Sentuva",
+      "id": "2d1b3a880a3a05496bd0087f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Cant purchase Hollow Horseman ingame",
+      "url": "https://devforum.roblox.com/t/cant-purchase-hollow-horseman-ingame/4953299",
+      "published": "2026-10-23",
+      "excerpt": "roblox recently added the hollow horseman bundle with a timer and a limited tag in the hollow game but we currently are unable to buy it ingame Expected behavior expectation is being able to purchase the bundle ingame 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cant-purchase-hollow-horseman-ingame/4953299.rss",
+      "id": "280f2b61832f51c6af690165"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game Ownership Transfer keeps failing",
+      "url": "https://devforum.roblox.com/t/game-ownership-transfer-keeps-failing/4953289",
+      "published": "2026-10-23",
+      "excerpt": "I temporarily transferred my experience to another group, and the owner is now trying to transfer it back to my group, “Mkhada Studios”. However, every attempt fails with the error “Failed to Initiate transfer request.” According to Roblox’s requirements, the experience must remain in the receiving ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-ownership-transfer-keeps-failing/4953289.rss",
+      "id": "2769b586524f2832c88ae44c"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Weekly Recap: October 19–23, 2026",
+      "url": "https://devforum.roblox.com/t/weekly-recap-october-19%E2%80%9323-2026/4953263",
+      "published": "2026-10-23",
+      "excerpt": "Key Takeaways This week, we opened native TextChatService testing ahead of a required May 2027 migration ( TextChatService update ) and fully launched Custom Terrain Materials with performance improvements ( terrain launch ). Creators also got UGC validation guidance ( UGC validation ), a custom-thu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/weekly-recap-october-19%E2%80%9323-2026/4953263.rss",
+      "id": "2751fe43fba297d7b108aa8e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2156,6 +2400,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "[URGENT] Mass False Enforcement Banwave",
+      "url": "https://devforum.roblox.com/t/urgent-mass-false-enforcement-banwave/4953226",
+      "published": "2026-10-23",
+      "excerpt": "My account and several others have been permanently banned for being linked to a completely unknown account. Nobody who got banned owns this “alternative account,” and is most likely either an AI banwave, or a ban method used on target individuals. It’s alleged that staff members are currently “look",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/urgent-mass-false-enforcement-banwave/4953226.rss",
+      "id": "1e27fe047eb432409be2c46b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Super Destroyer in Roblox",
       "url": "https://devforum.roblox.com/t/super-destroyer-in-roblox/4952480",
       "published": "2026-10-23",
@@ -2175,6 +2431,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-on-my-asset-pack/4952746.rss",
       "id": "1b9c9767c275290c480a57bb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Corrupted Assistant Output",
+      "url": "https://devforum.roblox.com/t/corrupted-assistant-output/4953233",
+      "published": "2026-10-23",
+      "excerpt": "Output dosent show anything. Assistant is talking wierd. EDIT: It happend again 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/corrupted-assistant-output/4953233.rss",
+      "id": "1b090712660af55a7718374e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2211,6 +2479,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/parallax-based-window-interiors/4952253.rss",
       "id": "1700639bc9cdd37b75df5aa9"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "anyone know RIG 15 adaptive animation cheer asset id?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdqsut/anyone_know_rig_15_adaptive_animation_cheer_asset/",
+      "published": "2026-10-23",
+      "excerpt": "i've been searching for an hour and cant find it anywhere, i've seen lots of games use this animation but i can't find the asset id submitted by /u/asyrox404 [link] [comments]",
+      "creator": "/u/asyrox404 https://www.reddit.com/user/asyrox404",
+      "id": "16a572e99da435f80f374659"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2538,6 +2817,17 @@
       "excerpt": "I need an animator for a SCPF project. I can pay in both robux and money via PayPal, preferably PayPal, dm me if you're interested with examples. Focused on movement animations with regular R6 characters, I will send more details in DMs. Thanks for reading. submitted by /u/Random-doggo12 [link] [com",
       "creator": "/u/Random-doggo12 https://www.reddit.com/user/Random-doggo12",
       "id": "cb1c50bfc66fdd4bb0cfb585"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Crazy Washing Machine",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcs4ms/crazy_washing_machine/",
+      "published": "2026-10-22",
+      "excerpt": "but roblox studio not boring. submitted by /u/GgSuclces99 [link] [comments]",
+      "creator": "/u/GgSuclces99 https://www.reddit.com/user/GgSuclces99",
+      "id": "caee485e8b20c9d199bd9bba"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7466,6 +7756,18 @@
       "id": "1503880496fd1bda0ce30449"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "Roblox Studio + Claude MCP Setup - Tutorial - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1laWs2ZmpFN2VNdXdMTHNOTWdpMTMycFpxNm12VVZ6T1R4V181bEFDREhtSGhvM01EaFdjNmdIY3NfQVJxNkF2d2l4Y29YWXVwNkk5c3JB?oc=5",
+      "published": "2026-10-18",
+      "excerpt": "Roblox Studio + Claude MCP Setup - Tutorial YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "13b63c9ebcc298bb0f1cf6a0"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -7563,271 +7865,6 @@
       "excerpt": "Mahito's Idle transfiguration is NOT the highest damage move in JJS | 120fps 1080P | video might lag for some mobile device | #jjs #jujutsushenanigans #roblox #idletransfiguration TikTok",
       "creator": "",
       "id": "f8f05d376f7cd4ec2d302461"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made a Game Trailer on Blender just for Roblox to reject it",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8nfyt/made_a_game_trailer_on_blender_just_for_roblox_to/",
-      "published": "2026-10-17",
-      "excerpt": "I figured I'd share it somewhere else instead of letting it go to waste.😭😭😭 submitted by /u/15Momoz [link] [comments]",
-      "creator": "/u/15Momoz https://www.reddit.com/user/15Momoz",
-      "id": "eece5d1f43c6b3093c19ab2f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for Feedback on my Strategy Card Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8msxr/looking_for_feedback_on_my_strategy_card_game/",
-      "published": "2026-10-17",
-      "excerpt": "I want to be upfront and share that this project is vibecoded, so if that's not your thing, feel free to keep scrolling. I've spent the past few weeks working on Bridge Brawl, a real time strategy card game with over 460 unique cards to collect. It's a little like Clash Royale meets Hearthstone. htt",
-      "creator": "/u/Tonal_Fork https://www.reddit.com/user/Tonal_Fork",
-      "id": "ebd55f5c49b0330375e4f166"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Aperture - add doors and windows to existing Part walls, no unions [Paid Plugin]",
-      "url": "https://devforum.roblox.com/t/aperture-add-doors-and-windows-to-existing-part-walls-no-unions-paid-plugin/4940992",
-      "published": "2026-10-17",
-      "excerpt": "Hi everyone, I make Aperture, a Studio plugin that cuts rectangular door, window and hatch openings into existing anchored Block Part walls, without CSG or unions. The result stays ordinary Parts you can keep editing. Real-time recording: a door, then two windows (one CUT each), then Restore wall an",
-      "creator": "",
-      "id": "e2a47779f4118707e37435e1"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "AI, VFX, கேமிங் துறையில் கேரியர் அமைக்க சூப்பர் வாய்ப்பு! சென்னையில் களமிறங்கிய ரிலையன்ஸ் அனிமேஷன் அகாடமி! #RelianceAnimationAcademy #Animation #VFX # - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbl9pZWFYek5YcU1TY1liUW1zN1ZIOTc1QTBFdm9xWHJ6a1ZCZ2E2QzhyeEdhS3Nxb1o5NHRVV1Fnd0VPMUI5R19EM1RoenVuZ29oRy1B?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "AI, VFX, கேமிங் துறையில் கேரியர் அமைக்க சூப்பர் வாய்ப்பு! சென்னையில் களமிறங்கிய ரிலையன்ஸ் அனிமேஷன் அகாடமி! #RelianceAnimationAcademy #Animation #VFX # Instagram",
-      "id": "c9c064577489234293d293b4"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "The Halloween update is now live, this update include a jack o' lantern hunt, New exclusive tool and backpack, Limited spooky pets and high value harvestable pumpkins **What you will find in this upda",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kNG1OMGhsY1E4Y1pfdVBWQWNoLXVrUFZpWFoyNU5adGlrbmRnUlZBRUNSRzRmeEx6OTdhQ3dhcHNkY1Q1WU1OY3VTZnM1SktyQ1Q3cWJB?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "The Halloween update is now live, this update include a jack o' lantern hunt, New exclusive tool and backpack, Limited spooky pets and high value harvestable pumpkins **What you will find in this update** - Jack o' lantern hunt - New exclusive tool and backp Instagram",
-      "creator": "",
-      "id": "bbc8f703d5a2e14fd2063493"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Sukuna Vs Mahoraga fight",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ovlp/sukuna_vs_mahoraga_fight/",
-      "published": "2026-10-17",
-      "excerpt": "Yo! I'm working on this right now, not sure if this gameplay seems fun or a bit too flashy. Always thought PvP games like JJS were cool but making something a bit more PVE and procedural seemed like an unexplored avenue. Might turn this into an RPG game? Not sure on general thoughts about this. Don'",
-      "creator": "/u/grimriper43345 https://www.reddit.com/user/grimriper43345",
-      "id": "b4524f8876b1409aa742c9a4"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "wait wha-",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x86taq/wait_wha/",
-      "published": "2026-10-17",
-      "excerpt": "bro why are they deprecating the toolbox inventory? submitted by /u/AhmetAkpinarlol [link] [comments]",
-      "creator": "/u/AhmetAkpinarlol https://www.reddit.com/user/AhmetAkpinarlol",
-      "id": "9f992ff3f5f84fac39a39e4e"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "I Tried Making a Viral Roblox Horror Game With AI - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSbUpaNk1zQnNaVjRVT1RXX0JaQWlXOUQwX01sa1N4Tk5lT3ZQMGhGVUZpWkJHQS1fd3lMU2VBVWtENkR3NlpHdU8wOHEzU0RvYzR1c1RB?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "I Tried Making a Viral Roblox Horror Game With AI YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "9ac9d2785cef564105463232"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "is anyone else getting this error in the output?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
-      "published": "2026-10-17",
-      "excerpt": "saw on the devforum its been happening for 2 days, its kinda annoying. submitted by /u/Lumpy_Amphibian_9914 [link] [comments]",
-      "creator": "/u/Lumpy_Amphibian_9914 https://www.reddit.com/user/Lumpy_Amphibian_9914",
-      "id": "9473ad544efc6372817a4e06"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "finalized mobile controls",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
-      "published": "2026-10-17",
-      "excerpt": "the game is called MORTAL-RECOIL and is playable for everyone submitted by /u/peatmossing [link] [comments]",
-      "creator": "/u/peatmossing https://www.reddit.com/user/peatmossing",
-      "id": "93c0185591748495095d3ad8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Cant transer ownership",
-      "url": "https://devforum.roblox.com/t/cant-transer-ownership/4940958",
-      "published": "2026-10-17",
-      "excerpt": "When I attempt to transfer game owner ship from one of my accounts (Blee) to a group owned by (DeformedGummyWorm) it keeps telling me that it was a suspicious action even though I went through the process to authorize it several times. Expected behavior I expect the game to tranfer to the group. Pag",
-      "creator": "",
-      "id": "935c81a79f561c13668ff32f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
-      "published": "2026-10-17",
-      "excerpt": "Small team, first real release. You roam a night forest with a flashlight, drag anything you find to the pit (rocks, logs, skulls, even running sheep), and if it's not full when time runs out, it takes one of the players. Then the night trials start. Bots fill the lobby so you can play solo, but it'",
-      "creator": "/u/CamelRadiant6817 https://www.reddit.com/user/CamelRadiant6817",
-      "id": "746b83620b27d13d297aaaf3"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "#digitalart #trend #wuwa #render #fanart - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jcjVhUjJkLWZBNXRMOGdEUG53ZDBxUU5GUkRRRElUM005cl9IamZueTMzWFlYRzBQWGtOMWx3ajhHbXFTc3ZzTGFSZElFZDdQbWttN1BILW5wSTdhbUY3QlNON2JfZEQx?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "#digitalart #trend #wuwa #render #fanart TikTok",
-      "creator": "",
-      "id": "6c8a9d3fbc689c003f466074"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "OpenCode 2.0 Ditches CLI for Background Service [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96alZTZDdQenRIQUV1RWktNGRQWm1yTlBJUjVUbDJadnlSMENWbkp5dGNtbEUyVjdfR1M1dk9pNEJwTEVYMDdWZXVlQ19JMUFiYmJuMktQcEZBSjZaUlRyVjNXMy05YmxHYmU4cVVmazExdm9IRG9VaA?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "OpenCode 2.0 Ditches CLI for Background Service [2026] https://tech-insider.org/",
-      "creator": "",
-      "id": "5f9ca70fe4449a8eb3978ec3"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "I just added a New Dimension in Steal an Egg 🎃 #roblox #stealanegg - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWnFHRGhBeklVSGdydEpJSGhOdGxsUzJYZlRoSVo0QzBOcXVWRExIa2dqNDVHMEh5dWtnV0FXZEpCbDVEcm53ZkMtSG5aYjNhakF2RmV5dUxDdGRwdDBLVjY5TTZua2g4djBoUw?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "I just added a New Dimension in Steal an Egg 🎃 #roblox #stealanegg TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "5e4ee5dc5f40d47866883412"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow us to save an equipped gear in AvatarEditorService:PromptSaveAvatar()",
-      "url": "https://devforum.roblox.com/t/allow-us-to-save-an-equipped-gear-in-avatareditorservicepromptsaveavatar/4940931",
-      "published": "2026-10-17",
-      "excerpt": "As a Roblox developer, it is currently impossible to save an avatar with an gear to a player. This also goes for saving outfits as well, which has our custom avatar editors not be on the same parity as the actual Roblox avatar editor Interesting enough, the way the actual avatar editor saves avatars",
-      "creator": "",
-      "id": "52ebf0886dbcfcbd6287bb98"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How do I get rid of this dice from pop pig board game lookin thing",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8ncyn/how_do_i_get_rid_of_this_dice_from_pop_pig_board/",
-      "published": "2026-10-17",
-      "excerpt": "Genuine question I just randomly thought of it submitted by /u/SinglePosition987 [link] [comments]",
-      "creator": "/u/SinglePosition987 https://www.reddit.com/user/SinglePosition987",
-      "id": "505b8ccc754ad478737bfceb"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "Say hello to some of the devs we caught up with at the Roblox Creator Series Brasil! Correction - RoyalConstructor is the dev from Roblox Titanic. - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOTZLbEFxeFRubHd2MFFibDFneHhudm9CZGp1aGZPc1I5dUtvVXNKLWgtaWh1SWxaUmJ3UUF3aTlyamsySnBmOFFsX0tDM2EtUzRBa1ZB?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "Say hello to some of the devs we caught up with at the Roblox Creator Series Brasil! Correction - RoyalConstructor is the dev from Roblox Titanic. Instagram",
-      "creator": "",
-      "id": "4c20c10b42b7fc2aa95c716b"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Them boys ain’t playing this year 😭 #roblox #robloxgames #gaming #fyp #new - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcE5rT080ZUNRUHFNUVcwME1EVHBxLUl5TndGVG9FdEdEMzZSMFhrdHBhV0xYLVNDNGF5LUhHeUVRQlBvQVVtUUx6YURCREV4TlJUb2ZFdkpIdw?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "Them boys ain’t playing this year 😭 #roblox #robloxgames #gaming #fyp #new Instagram",
-      "creator": "",
-      "id": "482b297140b7856ee94f74b6"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "realistic hair test",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8nsto/realistic_hair_test/",
-      "published": "2026-10-17",
-      "excerpt": "finally i figured out how to use it submitted by /u/Ir1n_ [link] [comments]",
-      "creator": "/u/Ir1n_ https://www.reddit.com/user/Ir1n_",
-      "id": "4598c77f1ed83bb3f27d9b5d"
-    },
-    {
-      "source": "x-ui",
-      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
-      "category": "UI showcases",
-      "title": "RoNews (@RoGameNews) - X",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "RoNews (@RoGameNews) X",
-      "creator": "",
-      "id": "40d410a3b4c1e9fde663c4d0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "bug on one of the new The Hunt roblox accessories",
-      "url": "https://devforum.roblox.com/t/bug-on-one-of-the-new-the-hunt-roblox-accessories/4940866",
-      "published": "2026-10-17",
-      "excerpt": "Hello, I would like to share this Texture problem on one of the new The Hunt roblox accessory that I found, on one of the item it seems that the PBR isnt working properly and is neither showing on the thumbnail but also while wearing the accessory, here is the link of the bugged item : The Hunt: Rob",
-      "creator": "",
-      "id": "3e99ba9526989ba68ec6beb2"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "เมื่อนัดเจอเพื่อนใน Roblox ครั้งแรก😅😅😅 #ritakitcat #Roblox #เกม #เทรนด์วันนี้ #โรบอค - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YckJOZWtvcGsyektyNW5WUFhSXzJaRU1HMmduRWE5ZUNJM2p3T3dmMkF4MkF3U3l3VnhfT25RaG1kd3d5MVVzZjZpdEpSWlJVTmZJek5R?oc=5",
-      "published": "2026-10-17",
-      "excerpt": "เมื่อนัดเจอเพื่อนใน Roblox ครั้งแรก😅😅😅 #ritakitcat #Roblox #เกม #เทรนด์วันนี้ #โรบอค Instagram",
-      "creator": "",
-      "id": "3aab0ffee6ab47ed0c40f687"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Animated Cat Controller",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/",
-      "published": "2026-10-17",
-      "excerpt": "I’ve created a cat controller for Roblox, with seven playable cats and a movement system built around their animations. submitted by /u/Quirky-Sorbet-2254 [link] [comments]",
-      "creator": "/u/Quirky-Sorbet-2254 https://www.reddit.com/user/Quirky-Sorbet-2254",
-      "id": "338427a39efb708402288ded"
     }
   ]
 }

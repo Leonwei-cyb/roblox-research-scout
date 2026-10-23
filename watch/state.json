@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "9e38e2e405aa6276697493c0b4c4f64e3c734e22",
-      "head_subject": "Update CREDITS.md (#9487)",
+      "head": "22c3128b23bafd881a3b2266c305d3e77d2a3f68",
+      "head_subject": "Fix escaping of JSON dot notation categories (#9489)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -49,8 +49,8 @@
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "6d36d483cb88973276af611198169f76f3ce05b0",
-      "head_subject": "Implement FASTCALL for 'table.create' and 'table.clear' (#2365)",
+      "head": "32c28089305f488f901aaf1dbf3fd1cb65fa3d11",
+      "head_subject": "Sync to upstream/release/744 (#3071)",
       "name": "Roblox/luau",
       "release_tag": "0.743",
       "release_url": "https://github.com/luau-lang/luau/releases/tag/0.743",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "1472203c47d93d64020fdafa33f9b038bc1583e9",
-      "head_subject": "launch: use allocated context for OpenCode (#19193)",
+      "head": "a5e91d792dfdede82efc9faf0c15b3eb84410dae",
+      "head_subject": "llama.cpp: version bump b11845 (#19250)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.10",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",

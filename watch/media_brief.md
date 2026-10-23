@@ -5,58 +5,67 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Ai Development
+
+- **[Roblox Studio + Claude MCP Setup - Tutorial - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1laWs2ZmpFN2VNdXdMTHNOTWdpMTMycFpxNm12VVZ6T1R4V181bEFDREhtSGhvM01EaFdjNmdIY3NfQVJxNkF2d2l4Y29YWXVwNkk5c3JB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-18
+  - Feed excerpt: Roblox Studio + Claude MCP Setup - Tutorial YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[UPDATE 6 IS HERE in Steal An Egg! 🧪🔥 Dr. Scramble's Laboratory is here with 3 NEW banners, 15 NEW pets, direct Egg submissions, BUFFED Pity, and a NEW Boss Mile](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjQ015b0NVaEg5dVBna2FXTFpTbWRCc0FjcVpvcnctdEloM3hFSEpwU1Zpc3pGTjJVd19nUmNQamY1aFVDWmlVS1Z3Wk1VMG5xbmZrOFJ3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-26
+  - Feed excerpt: UPDATE 6 IS HERE in Steal An Egg! 🧪🔥 Dr. Scramble's Laboratory is here with 3 NEW banners, 15 NEW pets, direct Egg submissions, BUFFED Pity, and a NEW Boss Milestone! Reach Tier 100 for an OP ETERNAL, plus there's a SECRET chance to get the
+
 ## Community
 
-- **[I want to start coding a roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xdo2qv/i_want_to_start_coding_a_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: I've had experience with coding before. not anything serious like only scratch level. But i want to learn how to make a roblox game however I have no actual Luau (I think that's how you spell it?) so does anyone have any recommendations on 
-- **[New game, need feedback](https://www.reddit.com/r/robloxgamedev/comments/1xdkcml/new_game_need_feedback/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+- **[Crazy Washing Machine](https://www.reddit.com/r/ROBLOXStudio/comments/1xcs4ms/crazy_washing_machine/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-22
+  - Feed excerpt: but roblox studio not boring. submitted by /u/GgSuclces99 \[link\] \[comments\]
+- **[Cant see models bought from Tool box.](https://www.reddit.com/r/ROBLOXStudio/comments/1xdni4y/cant_see_models_bought_from_tool_box/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: Hello, im new to Roblox studio and am working on a project that involves a skate park. I saw this pack for only $3 and figured id buy it so i didn't have to manually make the ramps. When i drop it into the world the models appear in the exp
+- **[Looking for playtesters!](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqazs/looking_for_playtesters/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: Looking for some testers for my upcoming 5v5 hero shooter game. haven't been able to get a full lobby yet so some of the clips may seem empty. currently only available on PC as of now , let me know if you're interested!! submitted by /u/Pos
+- **[New game, need feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xdkiuc/new_game_need_feedback/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
   - Feed excerpt: i needs honest opinions, just from what you're seeing in this early game development, what can you assume the future of the game could be? Game core loop, success, retention etc. Clip is from Aug 26, 2026 roughly 2 months old submitted by /
-- **[First game, a cozy Halloween pumpkin-carving clicker: is the first 5 minutes fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdorso/first_game_a_cozy_halloween_pumpkincarving/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Hi! I just published my first game, Lantern Patch. You tap pumpkins to carve lanterns, sell them at a cart, and every lantern you sell lights up a shared hill with your name on it. I’d love honest feedback: does the first minute make sense 
-- **[I made a prison-break manhunt where the hunters get your location every 45 seconds. Looking for feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xdombv/i_made_a_prisonbreak_manhunt_where_the_hunters/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Fugitives break out of a prison in a Dutch village, hunters (players + AI) chase them with a van, drone and CCTV. You can hide in bushes, steal bikes and drop spike strips to pop the van's tyre 🛞. Reach the helicopter to escape. It's brand 
-- **[Looking for artists for a Block tales/ Mother 3 type game](https://www.reddit.com/r/robloxgamedev/comments/1xdln3x/looking_for_artists_for_a_block_tales_mother_3/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Me and my friend are looking for people to help us in a Block tales/Mother 3 type game more specifically artists as said in the header but anyone who knows how to script, model etc. This is just volunteer work, no more than that. You can co
-- **[Making my MAP BETTER! Day 80](https://www.reddit.com/r/robloxgamedev/comments/1xdno7r/making_my_map_better_day_80/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Today I actually used a heightmap for my game and it made the map look 10X BETTER submitted by /u/OkCupcake4034 \[link\] \[comments\]
-- **[One hater can throw off your mood, but one supporter can fix it 😭](https://www.reddit.com/r/robloxgamedev/comments/1xdn3z6/one_hater_can_throw_off_your_mood_but_one/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Feedback is infrequent for a lot of experiences I hear, but when the only ones you see are terrible you feel kind of bad. I'll show some good feedback so you guys know they exists lol. submitted by /u/Sensitive-Cap-3362 \[link\] \[comments\]
-- **[Working on a jojo game with map destruction (ABD/JJS type)](https://www.reddit.com/r/robloxgamedev/comments/1xdp2hr/working_on_a_jojo_game_with_map_destruction/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: I'm working on this idea i got to combine a bizarre day 2020 and current JJS mechanics (Fun/passion project), so far got this from a rework I was working on. I also made crazy diamond to be able to restore the destroyed map (Healing mode). 
+- **[Gaps, but I could swear they are aligned?](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqbis/gaps_but_i_could_swear_they_are_aligned/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: Context: It's a generated map made from the the sizes and positions of blocks relative to the ground. All block sizes don't have any decimal place, the positions are all .5 and .0 . I did't round the UDim2 values of the frames either. Is it
+- **[Here a Sneak showing two different interfaces from my game, (I speak Spanish that's why you can see it is that language)](https://www.reddit.com/r/ROBLOXStudio/comments/1xdg8y4/here_a_sneak_showing_two_different_interfaces/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: submitted by /u/Sentuva \[link\] \[comments\]
+- **[Roblox rolling animation keeps falling over](https://www.reddit.com/r/ROBLOXStudio/comments/1xd927m/roblox_rolling_animation_keeps_falling_over/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: Every time that i play my roll animation, my character falls over. I don't know what happend and like 3 days ago it worked fine. pls help because i have tryed again and again to make it work and nothing works. submitted by /u/Extra-Back2257
+- **[What songs should I put in my game?](https://www.reddit.com/r/ROBLOXStudio/comments/1xdg0au/what_songs_should_i_put_in_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: I need help choosing track ID's for my tower defense game, the generic ones I find are pretty bad. I need like 3 - 4 looping songs for the lobby, and one song for normal waves and one song for boss waves. Any suggestions? submitted by /u/Co
+- **[\[FREE\] Cartoon UI & Stylized Low-Poly Weapons Pack — Perfect for Roblox Simulators & Shooters! (Free for Commercial Use)](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqfxt/free_cartoon_ui_stylized_lowpoly_weapons_pack/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: Hey everyone! I just updated my casual/cartoon-style UI and stylized weapons asset pack, and I wanted to share it with the community. It's tailored specifically to look great in Roblox simulator, clicker, and casual games. What’s inside: 8 
+- **[anyone know RIG 15 adaptive animation cheer asset id?](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqsut/anyone_know_rig_15_adaptive_animation_cheer_asset/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-23
+  - Feed excerpt: i've been searching for an hour and cant find it anywhere, i've seen lots of games use this animation but i can't find the asset id submitted by /u/asyrox404 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Announcing Studio Deep Links on Stack Traces for Server Logs](https://devforum.roblox.com/t/announcing-studio-deep-links-on-stack-traces-for-server-logs/4953062)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Key Takeaways Stack traces on server error logs now link directly to the originating script and line in Studio. This lets you jump to the source of an error in the exact place version where it occurred. Find it in Creator Hub when you inspe
-- **[Announcing Studio Deep Links on Stack Traces for Server Logs](https://devforum.roblox.com/t/announcing-studio-deep-links-on-stack-traces-for-server-logs/4953062)** · Roblox updates category (availability may vary) · 2026-10-23
-  - Feed excerpt: Key Takeaways Stack traces on server error logs now link directly to the originating script and line in Studio. This lets you jump to the source of an error in the exact place version where it occurred. Find it in Creator Hub when you inspe
-- **[Uncreate-roblox: self-hosted Team Create](https://devforum.roblox.com/t/uncreate-roblox-self-hosted-team-create/4952727)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Its an alternative to Team Create where you host the project yourself locally. Studio connects to it through a plugin Open an empty Baseplate (it doesn’t even need to be saved), click Connect, and you get the whole project. From then on, ev
-- **[Automated “TextChatService API” moderation repeatedly actioning an experience whose chat is fully on TextChannels](https://devforum.roblox.com/t/automated-%E2%80%9Ctextchatservice-api%E2%80%9D-moderation-repeatedly-actioning-an-experience-whose-chat-is-fully-on-textchannels/4952705)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Since 17 October 2026 my experience has received four escalating automated moderation actions citing “Misusing Roblox Systems - Your experience has failed to properly implement Roblox’s TextChatService API”, even though the chat is built on
-- **[Can't Easily Unlock Mouse on CoreGuis](https://devforum.roblox.com/t/cant-easily-unlock-mouse-on-coreguis/4952826)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: As a player, if you’re in first-person mode, and you receive a Roblox CoreGui popup, (e.g. the favorite prompt, join group prompt, feedback prompt, etc), your mouse is stuck, and you can’t interact with the prompt nor can you scroll out (es
-- **[Can't buy a new roblox plus subscription with the free developer subscription active](https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: As a developer with 100+ playtime hours in one of my games, I got roblox plus for 6 months for free on May 19th. However, that free subscription is almost over, and I cannot buy another one before it ends to keep my 2 month 20% off discount
-- **[Expended Terrain 16 voxels thick disapearing when looking at it from the sky](https://devforum.roblox.com/t/expended-terrain-16-voxels-thick-disapearing-when-looking-at-it-from-the-sky/4952845)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: If I am in high in the air like in an aircraft or someting like that the terrain has major gaps in it like shown in the video if I move around the graps move to Reproduction staps. Join the game Jump down Walk around for 30 seconds when you
-- **[Feedback on my asset pack](https://devforum.roblox.com/t/feedback-on-my-asset-pack/4952746)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: I decided to make a modular asset pack mainly consisting of ladders and pipes, I mainly do work on my game Intuneric but I thought I should branch out a bit, feedback on this would help alot, now of course it’s made only using Roblox parts 
-- **[Granfjell Mountain Resort, Norway](https://devforum.roblox.com/t/granfjell-mountain-resort-norway/4952802)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Currently working on a large 14k x 14k mountain resort, set high in the snowy mountains of Norway. 1 post - 1 participant Read full topic
-- **[Roblox 2007 Studio recreate](https://devforum.roblox.com/t/roblox-2007-studio-recreate/4952708)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: 1 post - 1 participant Read full topic
-- **[Roblox Player randomly crashes and freezes during teleports without errors](https://devforum.roblox.com/t/roblox-player-randomly-crashes-and-freezes-during-teleports-without-errors/4952824)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Recently, I’ve been experiencing frequent crashes when playing Roblox. The Player randomly closes itself without showing any error messages, and the timing is completely unpredictable. Sometimes it crashes immediately after joining a game, 
-- **[Studio refusing to open any game](https://devforum.roblox.com/t/studio-refusing-to-open-any-game/4952999)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Any time i try to open or create a new game on studio, it pops up with this error. I’ve reinstalled studio, restarted my computer and studio and it still says the error 2 posts - 2 participants Read full topic
-- **[Unragdolling flings character](https://devforum.roblox.com/t/unragdolling-flings-character/4953054)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Hey guys! Got a problem regarding my ragdoll script, for some odd reason whenever the player unragdolls, they fling around, which I don’t want that. Is there a fix regarding it? function module.createRagdoll(character) if not character then
-
-## Youtube
-
-- **[ghost the candy. get robux. mini packs available now at target.](https://www.youtube.com/shorts/qfPvbAVyGz0)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-16
-- **[you can’t stay in the elevator forever. tonight, Twisted Dandy is waiting for you in The Hollow.](https://www.youtube.com/shorts/4G0Lc0D1lco)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-23
+- **[Hope lost - Arctic tycoon 0.0.7.4 "Looking for feedback"](https://devforum.roblox.com/t/hope-lost-arctic-tycoon-0074-looking-for-feedback/4953149)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Hello devs, I have been working on a game, and I got the idea to share it here, I already got a ton of feedback from a youtuber Ii am kinda friends with, but i am looking for more, to make my game even better! Hope lost is a game about you 
+- **[Issues with the New Avatar Item Update Feature](https://devforum.roblox.com/t/issues-with-the-new-avatar-item-update-feature/4953355)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: When selecting an item to update, only the 30 most recently published items show up , with no way to switch pages or acess older items. There’s also an option to enter an Asset ID manually, but entering a valid ID doesn’t do anything . The 
+- **[Weekly Recap: October 19–23, 2026](https://devforum.roblox.com/t/weekly-recap-october-19%E2%80%9323-2026/4953263)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Key Takeaways This week, we opened native TextChatService testing ahead of a required May 2027 migration ( TextChatService update ) and fully launched Custom Terrain Materials with performance improvements ( terrain launch ). Creators also 
+- **[Weekly Recap: October 19–23, 2026](https://devforum.roblox.com/t/weekly-recap-october-19%E2%80%9323-2026/4953263)** · Roblox updates category (availability may vary) · 2026-10-23
+  - Feed excerpt: Key Takeaways This week, we opened native TextChatService testing ahead of a required May 2027 migration ( TextChatService update ) and fully launched Custom Terrain Materials with performance improvements ( terrain launch ). Creators also 
+- **[Weekly Recap: October 12 - 18, 2026](https://devforum.roblox.com/t/weekly-recap-october-12-18-2026/4938638)** · Roblox updates category (availability may vary) · 2026-10-16
+  - Feed excerpt: Key Takeaways This week Roblox introduced a simpler publishing flow with early tester access, in-experience makeup creation, and tools for fixing and organizing published avatar items. Studio creators can also try Package Overrides and Qual
+- **[Cant purchase Hollow Horseman ingame](https://devforum.roblox.com/t/cant-purchase-hollow-horseman-ingame/4953299)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: roblox recently added the hollow horseman bundle with a timer and a limited tag in the hollow game but we currently are unable to buy it ingame Expected behavior expectation is being able to purchase the bundle ingame 1 post - 1 participant
+- **[Corrupted Assistant Output](https://devforum.roblox.com/t/corrupted-assistant-output/4953233)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Output dosent show anything. Assistant is talking wierd. EDIT: It happend again 1 post - 1 participant Read full topic
+- **[Game Ownership Transfer keeps failing](https://devforum.roblox.com/t/game-ownership-transfer-keeps-failing/4953289)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: I temporarily transferred my experience to another group, and the owner is now trying to transfer it back to my group, “Mkhada Studios”. However, every attempt fails with the error “Failed to Initiate transfer request.” According to Roblox’
+- **[Make "Value" in Experience Configs clickable](https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Right now, to edit a JSON config value, you highlight the text and press anything on your keyboard (CTRL, W, A, S, D, etc) to make an edit. This is very confusing. Make it so the field itself is simply a button that expands the greater edit
+- **[Massive increase in HttpError: Timedout](https://devforum.roblox.com/t/massive-increase-in-httperror-timedout/4953324)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: For the past ~4 hours, there has been a massive increase in HttpError: Timedout failures. This is affecting HttpService , regardless of the domain the request is sent to, but is also affecting Player:IsInGroup() , Player:HasBadge() , TextSe
+- **[The Expedited Review for my Roblox game has taken over a week with no sign of success](https://devforum.roblox.com/t/the-expedited-review-for-my-roblox-game-has-taken-over-a-week-with-no-sign-of-success/4953295)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: I paid the expedited review fee of 50000 robux for my new game to skip the highly engaged players requirement for my game to be all ages, I bought this on October 15th and now over a WEEK gone by without hearing anything and not looking lik
+- **[Unlock Hidden Lighting Engine Parameters for Developer Use](https://devforum.roblox.com/t/unlock-hidden-lighting-engine-parameters-for-developer-use/4953192)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: As a Roblox developer, it is currently too hard to make my Roblox games look hyper-realistic due to severe engine limitations. These limitations include: Not being able to manually set shadow draw distance, and it being abysmally low even o
+- **[\[URGENT\] Mass False Enforcement Banwave](https://devforum.roblox.com/t/urgent-mass-false-enforcement-banwave/4953226)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: My account and several others have been permanently banned for being linked to a completely unknown account. Nobody who got banned owns this “alternative account,” and is most likely either an AI banwave, or a ban method used on target indi
 
 ---
 

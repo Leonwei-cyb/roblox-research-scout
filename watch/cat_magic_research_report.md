@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 593; direct candidates: 562;
+Indexed entries: 593; direct candidates: 571;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 ## Highest-value source checks
@@ -12,7 +12,7 @@ Inspected videos: **0**; verified gameplay findings: **0**.
   - devforum · **UNVIEWED_METADATA** · Check: Can a new player identify and reach the first FREE pad from the normal spawn camera?
 - **P0 · physical tycoon purchases:** [Webhook, fully typed builder module to send Discord Webhooks](https://devforum.roblox.com/t/webhook-fully-typed-builder-module-to-send-discord-webhooks/4943169)
   - devforum · **UNVIEWED_METADATA** · Check: Does buying a pad visibly build a desk and bring a cat into the classroom?
-- **P1 · cat animation and audio:** [Animated Cat Controller](https://www.reddit.com/r/robloxgamedev/comments/1x8htfq/animated_cat_controller/)
+- **P1 · cat animation and audio:** [Some BullShit i Made whit Eclipse Animator](https://www.reddit.com/r/robloxgamedev/comments/1x8vyhi/some_bullshit_i_made_whit_eclipse_animator/)
   - reddit · **UNVIEWED_METADATA** · Check: Does an arriving cat walk, sit, study and cast without clipping through the player?
 - **P1 · UI and menus:** [\[Test\] New Home Layout With More Built-in Utility](https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387)
   - devforum · **UNVIEWED_METADATA** · Check: Is the next upgrade price readable without covering the cat or Roblox mobile controls?

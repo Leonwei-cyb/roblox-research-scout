@@ -7,8 +7,8 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Public text/page, video not confirmed
-- **[Help with gun idle animation](https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498)** — Public text/page, video not confirmed
-- **[Just released my tower defense game, looking for testers and feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/)** — Public text/page, video not confirmed
+- **[\[FREE\] Cartoon UI & Stylized Low-Poly Weapons Pack — Perfect for Roblox Simulators & Shooters! (Free for Commercial Use)](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqfxt/free_cartoon_ui_stylized_lowpoly_weapons_pack/)** — Public text/page, video not confirmed
+- **[Hope lost - Arctic tycoon 0.0.7.4 "Looking for feedback"](https://devforum.roblox.com/t/hope-lost-arctic-tycoon-0074-looking-for-feedback/4953149)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
@@ -23,4 +23,4 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
 - **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Public text/page, video not confirmed
-- **[\[FOR HIRE\] Technical Lead & Full-Stack Backend Engineer \| Python (FastAPI), MongoDB/SQL & Modular Luau](https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947)** — Public text/page, video not confirmed
+- **[Looking for playtesters!](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqazs/looking_for_playtesters/)** — Public text/page, video not confirmed
