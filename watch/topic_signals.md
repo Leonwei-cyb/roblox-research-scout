@@ -4,7 +4,7 @@
 
 | Topic | Mention count | Source examples |
 |---|---:|---|
-| 3D / art | 35 | [been working on a game where buildings literally fall on you and you have to](https://www.reddit.com/r/robloxgamedev/comments/1xd22ut/been_working_on_a_game_where_buildings_literally/); [Map/Level Design](https://www.reddit.com/r/robloxgamedev/comments/1xd33qs/maplevel_design/) |
+| 3D / art | 34 | [been working on a game where buildings literally fall on you and you have to](https://www.reddit.com/r/robloxgamedev/comments/1xd22ut/been_working_on_a_game_where_buildings_literally/); [Map/Level Design](https://www.reddit.com/r/robloxgamedev/comments/1xd33qs/maplevel_design/) |
 | UI / UX | 28 | [AutomaticCanvasSize does not properly account for UIPadding.PaddingTop with](https://devforum.roblox.com/t/automaticcanvassize-does-not-properly-account-for-uipaddingpaddingtop-with-uigridlayout/4951009); [What is the issue with ROBLOX UI?](https://devforum.roblox.com/t/what-is-the-issue-with-roblox-ui/4950995) |
 | Animation / feel | 20 | [tool and arms doesn't animate :(](https://www.reddit.com/r/robloxgamedev/comments/1xczajw/tool_and_arms_doesnt_animate/); [Animate script have problems](https://devforum.roblox.com/t/animate-script-have-problems/4949474) |
 | Steal / risk | 14 | [In-game Player Search Bar in Escape Menu](https://devforum.roblox.com/t/in-game-player-search-bar-in-escape-menu/4948976); [Loot the Lab — steal creatures, run through traps, don’t get robbed](https://www.reddit.com/r/ROBLOXStudio/comments/1xbs4rn/loot_the_lab_steal_creatures_run_through_traps/) |

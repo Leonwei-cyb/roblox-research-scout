@@ -7,19 +7,15 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Roblox developers: how do you currently balance your game’s economy and progression?](https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: I’m exploring an idea for a tool that would help Roblox developers balance their games before releasing changes. The concept is a visual simulator where you can enter things like: Enemy rewards and currency drops Upgrade prices and item cos
-- **[Help with monitization](https://www.reddit.com/r/robloxgamedev/comments/1xd2rpu/help_with_monitization/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: We hit the 250 player limit and with play ads we’re hitting like 5-10ccu all the time, favorites have been going up, but nobody spends any money on our game. If anyone has time we’d really appreciate some tips on better monitizing our game.
-- **[If i learn, would i ever get a popular game?](https://www.reddit.com/r/robloxgamedev/comments/1xd2okp/if_i_learn_would_i_ever_get_a_popular_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: i like coding, i tried coding lots of times, the start was amazing, until you have to debug, i stopped everytime when i had to debug because it’d be 20 minutes of staring and its just that parent wasnt capitalized lol. i restarted lately bc
-- **[Map/Level Design](https://www.reddit.com/r/robloxgamedev/comments/1xd33qs/maplevel_design/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Any tips on leveraging AI for map/level design? I’m struggling to get a nice design for a lobby. At what point should I outsource this? And where could I outsource this? submitted by /u/AuPo_2 \[link\] \[comments\]
+- **[Looking for a blender animator, visual effects artist, and/or model/map builder](https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Im looking for people who need a lil project to work on that they can either do for free as a pass-time or will accept low pay as I do not have much money to my name. Im making a sci-fi styled game with both PVP and PVE but am having troubl
+- **[My First Solo Game After Many Years!](https://www.reddit.com/r/robloxgamedev/comments/1xd3k5j/my_first_solo_game_after_many_years/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Hey everyone! First, thanks for giving me the motivation to continue building this from all the cool posts about your own games, it kept me going. I am a game developer who works mostly in Unity. I've never released a full game of my own. I
 
 ## Roblox Updates
 
-- **[Error in Granting Tickets and Items in new Event](https://devforum.roblox.com/t/error-in-granting-tickets-and-items-in-new-event/4951605)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: roblox.com The Hollow 2026 - Roblox Roblox is a global platform that brings people together through play. There aren’t necessarily steps to recreate it. After getting Bloxburg’s badge, it stopped updating our ticket amount. Doors and Flee t
+- **[Made this early access ww2 game](https://devforum.roblox.com/t/made-this-early-access-ww2-game/4951651)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Hey, I’m looking for some general feedback on my game. I released it a couple of days ago, and I’d like to hear what you enjoy, what needs work, and what feels missing. What would make you want to play longer and come back again? Any honest
 
 ---
 
