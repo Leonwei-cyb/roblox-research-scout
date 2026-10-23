@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "2bd1a87403b83eb6f37f9f23c04ee2555baccba0",
-      "head_subject": "Tests - Fix test_itemprop_percent_threshold for WTForms 3.3 (FloatField is now type=\"number\") (#4588)",
+      "head": "352b036217e32d3622f282f49bebcdb89592a28c",
+      "head_subject": "API - Reject broken Jinja2 templates in url, link_to_open, body and headers (shared with the edit form) (#4587)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.9",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
@@ -129,11 +129,11 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "f52b9e742d8c9a308f7b23cd1f0ab52c7ddb694d",
-      "head_subject": "Update gemma renderers (#19241)",
+      "head": "64a901e713e376e674663f8ebd53e1a3ec74e289",
+      "head_subject": "qwen3coder: preserve literal function closing tags in parameters (#19228)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.9",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
+      "release_tag": "v0.40.10",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
       "url": "https://github.com/ollama/ollama"
     }
   },

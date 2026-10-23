@@ -1949,6 +1949,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952589:1",
+      "url": "https://devforum.roblox.com/t/someones-account-is-logged-into-my-studio/4952589",
+      "title": "Someone's account is logged into my studio",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952629:1",
+      "url": "https://devforum.roblox.com/t/getchatgroupsasync-returns-different-chat-group-ids-on-servers-started-after-oct-22-breaking-cross-server-matching/4952629",
+      "title": "GetChatGroupsAsync returns different chat group IDs on servers started after Oct 22, breaking cross-server matching",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -3039,6 +3065,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdjof6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjof6/i_need_help_my_game/",
+      "title": "I need help m'y game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:6aFu9wbY4js",
       "url": "https://www.youtube.com/shorts/6aFu9wbY4js",
       "title": "head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.",
@@ -3099,17 +3139,6 @@
       "title": "the countdown’s over.",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "published": "2026-10-22",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:qfPvbAVyGz0",
-      "url": "https://www.youtube.com/shorts/qfPvbAVyGz0",
-      "title": "ghost the candy. get robux. mini packs available now at target.",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-16",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -3998,6 +4027,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952618:1",
+      "url": "https://devforum.roblox.com/t/roblox-not-compatible-with-iphone-duo-sdk-ios-271/4952618",
+      "title": "Roblox Not Compatible with IPhone Duo SDK iOS 27.1",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -4734,6 +4776,32 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdih8y",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdih8y/theres_too_many_ai_remakesai_slop_games_taking/",
+      "title": "there's too many AI remakes/AI slop games taking over the site",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdjvla",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjvla/ugc_emote_issues_anyone_know_how_to_fix_this_read/",
+      "title": "UGC emote issues. Anyone know how to fix this? (Read description)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "cat animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5960,6 +6028,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952638:1",
+      "url": "https://devforum.roblox.com/t/account-ban-lifted-but-group-remains-locked-support-tickets-ignored/4952638",
+      "title": "Account Ban Lifted, but Group Remains Locked - Support Tickets Ignored",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952673:1",
+      "url": "https://devforum.roblox.com/t/velocity-is-behaving-differently-after-returning-to-an-older-project/4952673",
+      "title": "Velocity is behaving differently after returning to an older project",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -6752,6 +6842,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdjx0e",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjx0e/camera_moving_too_fast_in_my_newer_games/",
+      "title": "Camera moving too fast in my newer games",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdjxj2",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjxj2/seeking_advice_0/",
+      "title": "seeking advice :0",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
       "title": "RoNews (@RoGameNews) - X",
@@ -6767,28 +6879,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qMzRfczMwTkV5TTNDQldqMF94YVNmZG1rcFFyZGs1SXJBcTZHR054WWxpa1NzTHRURWdraVVyamZMZHMzSkpydnpSWk9OdndoVjRF?oc=5",
       "title": "SolveBase - YouTube",
       "source": "video-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiUEFVX3lxTE4ydTNkZzRMZXBSZ0I1SWVKRWZBRkxndXh4WlFKTmhKSy1nZXA4dE1YMXc1ZG04Y2tLd25Dd2NVOXh2Wi1JLWdoUVlZNXF0a1pK",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydTNkZzRMZXBSZ0I1SWVKRWZBRkxndXh4WlFKTmhKSy1nZXA4dE1YMXc1ZG04Y2tLd25Dd2NVOXh2Wi1JLWdoUVlZNXF0a1pK?oc=5",
-      "title": "Mythmatic - YouTube",
-      "source": "video-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiUkFVX3lxTE1DYVJrY0w0ODZiaGdkOTIxaWd0amVrMnlFakg5ck9SOTVnOTBybHA1QkNRLXA0d1R1RnJHMGFkMHROREktTjFTbFIxRUgwNHZiUUE",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYVJrY0w0ODZiaGdkOTIxaWd0amVrMnlFakg5ck9SOTVnOTBybHA1QkNRLXA0d1R1RnJHMGFkMHROREktTjFTbFIxRUgwNHZiUUE?oc=5",
-      "title": "Your child's Minecraft and Roblox hours can count towards their DSA (Direct School Admission) portfolio or Poly EAE (Early Admissions Exercise) application! ⠀ The 𝗚𝗮𝗺𝗲𝘀 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲, a",
-      "source": "instagram-index",
       "published": "2026-10-16",
       "kind": "index-only",
       "signals": [],
@@ -6835,17 +6925,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE00dEp3OTRSUTN5NFRtOEVwYlVPeldHalVCZHFPMzNiMjM3cS13cEJ3SUMzSDcxc1pBZk1vQzd5Vjd2WFhjNWQ5ZmZBVnlkV2pPdmRrLTZB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dEp3OTRSUTN5NFRtOEVwYlVPeldHalVCZHFPMzNiMjM3cS13cEJ3SUMzSDcxc1pBZk1vQzd5Vjd2WFhjNWQ5ZmZBVnlkV2pPdmRrLTZB?oc=5",
-      "title": "Google Just Let Anyone Make a Video Game. Here's What It Can (and Can't) Do. - YouTube",
-      "source": "video-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR?oc=5",
       "title": "Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) - YouTube",
@@ -6875,17 +6954,6 @@
       "title": "เมื่อนัดเจอเพื่อนใน Roblox ครั้งแรก😅😅😅 #ritakitcat #Roblox #เกม #เทรนด์วันนี้ #โรบอค - Instagram",
       "source": "instagram-index",
       "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1nZmQ2QnJIdEZXMDZkZFoxTm5Hc3NIcWl1eFh2NzM0XzFKWUtUc1dzaXBXZXZocS1SWHlzT055eUg1b3dhcnF4SXFOUDYtSW05QTAwb01R",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZmQ2QnJIdEZXMDZkZFoxTm5Hc3NIcWl1eFh2NzM0XzFKWUtUc1dzaXBXZXZocS1SWHlzT055eUg1b3dhcnF4SXFOUDYtSW05QTAwb01R?oc=5",
-      "title": "You are the only surviving officer after an airstrike, stuck keeping a battered company alive and functioning. Combat matters, but so does the daily grind of hunger, wounds, and keeping everyone movin",
-      "source": "instagram-index",
-      "published": "2026-10-15",
       "kind": "index-only",
       "signals": [],
       "score": 0,
@@ -7071,17 +7139,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9xMmc3dXBNc3hQM0wwTzdFWWJGNWQyNldjdXl2aWNMTURRbW9mZ3JydllFdTZQcEd1UVNiSlVMX09sQU5GcF83R1o1ZWt4M3lNSUpvdXN3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xMmc3dXBNc3hQM0wwTzdFWWJGNWQyNldjdXl2aWNMTURRbW9mZ3JydllFdTZQcEd1UVNiSlVMX09sQU5GcF83R1o1ZWt4M3lNSUpvdXN3?oc=5",
-      "title": "What monsters will be inside the Halloween Dimension #roblox #stealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBDemhMaVNvejluVmNrVlhBcUVfMkR0d2EtVHZOWVA1NjFGQWEzTzBiWHhlRjNnNnlDUzRUS0pkTG1Kc29Qa29qTWdiTThtYWZtdnpjTVl3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDemhMaVNvejluVmNrVlhBcUVfMkR0d2EtVHZOWVA1NjFGQWEzTzBiWHhlRjNnNnlDUzRUS0pkTG1Kc29Qa29qTWdiTThtYWZtdnpjTVl3?oc=5",
       "title": "Small team. One branch. Sim-shipping on every major platform 🥟✨ Learn how Soft Crunch Games pulled it off for Foxy Dumplings – from Unity Cloud Save cross-progression and a facade pattern for platform",
@@ -7169,19 +7226,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiX0FVX3lxTE1qcEFaaDFSeERlcjYzcTRZU250MVkzSHRlRnl3WWVNNGJGSGN1RmdsS2tsZWtVdFRpbVhpY3F3UjJVX0lQT0xFYlJXWmhLQlhaUzhocnFycXFfSV9BM3dR",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qcEFaaDFSeERlcjYzcTRZU250MVkzSHRlRnl3WWVNNGJGSGN1RmdsS2tsZWtVdFRpbVhpY3F3UjJVX0lQT0xFYlJXWmhLQlhaUzhocnFycXFfSV9BM3dR?oc=5",
-      "title": "🔗 GitHub: https://t.co/yoyeRfwBFJ --- ✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): https://t.co/zpXbSNWr80 - X",
-      "source": "x-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiX0FVX3lxTE5fZllrMDl5VVF1RDk2YmptU3NicXBVUmI2X2IyRnZOOUpUVWVfeXVsQUZhbkJBWGJwR01VZkFjQVFRNk15QUdfLTVGS2NSRDlkNTRoeVJnSHlHZXhndEJ3",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fZllrMDl5VVF1RDk2YmptU3NicXBVUmI2X2IyRnZOOUpUVWVfeXVsQUZhbkJBWGJwR01VZkFjQVFRNk15QUdfLTVGS2NSRDlkNTRoeVJnSHlHZXhndEJ3?oc=5",
       "title": "🔗 GitHub: https://t.co/EWkntqBVl9 --- ✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): https://t.co/zpXbSNWr80 - X",
@@ -7209,17 +7253,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiXEFVX3lxTE15a1BMUDkwdVdmV18yaXBkUDdieVpGQjAzanlsVVRQeWV3YTB5djJURVB0UHl0NFVsYVY4NnFyNzNrd0FENlJKSGhqNG9OZVJVckNQX3VrTVNvclFD",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15a1BMUDkwdVdmV18yaXBkUDdieVpGQjAzanlsVVRQeWV3YTB5djJURVB0UHl0NFVsYVY4NnFyNzNrd0FENlJKSGhqNG9OZVJVckNQX3VrTVNvclFD?oc=5",
-      "title": "الردود بواسطة pauline (@pauline_makes) - X",
-      "source": "x-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc?oc=5",
       "title": "How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube",
@@ -7236,17 +7269,6 @@
       "title": "How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube",
       "source": "syphodev-claude",
       "published": "2026-10-23",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE9mYkVLVE44ZG5ITm5NUmF0UnRMYnFKTnFkeFBCTk5kSjFvdm16RUduVzJKVFVFZEl1ZVo4STVYX2xpcUxIWmNyVUVIRDJFS0s4NjlMVU5mZHljU2hoY3R6aA",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mYkVLVE44ZG5ITm5NUmF0UnRMYnFKTnFkeFBCTk5kSjFvdm16RUduVzJKVFVFZEl1ZVo4STVYX2xpcUxIWmNyVUVIRDJFS0s4NjlMVU5mZHljU2hoY3R6aA?oc=5",
-      "title": "Cursor Latest Version Free Download 2027 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-15",
       "kind": "index-only",
       "signals": [],
       "score": 0,
@@ -7386,17 +7408,6 @@
       "title": "Microsoft Ships .NET 11 RC2, C# 15, dotnetup Tool [2026] - https://tech-insider.org/",
       "source": "claude-news",
       "published": "2026-10-18",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMidkFVX3lxTFB1dDQ2c01UWmVWUUQtZFFkallYY29tQkN2T0Z5YzhVbDlJcEJQTEdfbU1WamdoZTdGWUJfdnVLRklqMmU5RlBRbi1GSEFfd2tNazNyb3N6S1hldkkta2NIZGpLNHlNeGdkbmVFUUJPYS1mWk9ORVE",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1dDQ2c01UWmVWUUQtZFFkallYY29tQkN2T0Z5YzhVbDlJcEJQTEdfbU1WamdoZTdGWUJfdnVLRklqMmU5RlBRbi1GSEFfd2tNazNyb3N6S1hldkkta2NIZGpLNHlNeGdkbmVFUUJPYS1mWk9ORVE?oc=5",
-      "title": "GitHub Copilot vs Cursor: AI Coding Tools Race 2026 - shattered.io",
-      "source": "claude-news",
-      "published": "2026-10-16",
       "kind": "index-only",
       "signals": [],
       "score": 0,

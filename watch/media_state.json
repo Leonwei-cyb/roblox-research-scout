@@ -920,7 +920,18 @@
     "919f2821f83fa65a79a2b93f",
     "f56f24e70986b43e0725ab9e",
     "b062a8354168c76d5bbe9d44",
-    "4210ac098b77f9af130df377"
+    "4210ac098b77f9af130df377",
+    "5c2572c685cdb7b3a0658135",
+    "9765bb91318eacbc0dc75fd7",
+    "dca70d5bb7de763796915076",
+    "9879cb46d820c5be04e6de67",
+    "209748c51fc66dff6229e9f3",
+    "7dda97f39e8fb2a6872230c9",
+    "24c7b025643160f8e997699c",
+    "47e948d91a415ab2c13d9dc2",
+    "d97ba932e319831e37c91039",
+    "23d6696075926cf818a5943c",
+    "5d432f04ee72f6adc2b80a4e"
   ],
   "items": [
     {
@@ -1058,6 +1069,29 @@
       "excerpt": "Every city or driving map I've worked on had the same time sink: roads. You line up hundreds of parts, fix the gaps on curves, nudge everything up and down over hills, and then do the curbs, sidewalks and intersections all over again. So I built a Studio plugin for it. You click a few points and it ",
       "creator": "/u/BicycleMain7108 https://www.reddit.com/user/BicycleMain7108",
       "id": "dcfead454330431f43f15f20"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "GetChatGroupsAsync returns different chat group IDs on servers started after Oct 22, breaking cross-server matching",
+      "url": "https://devforum.roblox.com/t/getchatgroupsasync-returns-different-chat-group-ids-on-servers-started-after-oct-22-breaking-cross-server-matching/4952629",
+      "published": "2026-10-23",
+      "excerpt": "Describe the bug TextChatService:GetChatGroupsAsync now returns a different set of chat group IDs depending on when the server started. Servers started before roughly Oct 21, 22:25 UTC return one set of IDs. Servers started from roughly Oct 22, 09:53 UTC onward return a completely different set. No ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/getchatgroupsasync-returns-different-chat-group-ids-on-servers-started-after-oct-22-breaking-cross-server-matching/4952629.rss",
+      "id": "dca70d5bb7de763796915076"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Camera moving too fast in my newer games",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjx0e/camera_moving_too_fast_in_my_newer_games/",
+      "published": "2026-10-23",
+      "excerpt": "For some reason, my camera is on low sensitivity, but it moves suspiciously fast which really annoys me when setting up jumps because it screws them up. Is there a way to make it normal? On my older games, which were made like 3 months ago, my camera moved normally. submitted by /u/TestAccount829 [l",
+      "creator": "/u/TestAccount829 https://www.reddit.com/user/TestAccount829",
+      "id": "d97ba932e319831e37c91039"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1326,6 +1360,30 @@
       "id": "98a60c4f37523a5cd3a3f8f4"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Not Compatible with IPhone Duo SDK iOS 27.1",
+      "url": "https://devforum.roblox.com/t/roblox-not-compatible-with-iphone-duo-sdk-ios-271/4952618",
+      "published": "2026-10-23",
+      "excerpt": "On the iPhone Duo, the Roblox app doesn’t use the inner display full size. When the phone is unfolded, the whole app runs inside a small, iPhone-sized window in the middle of the screen with black borders around it, so more than half of the display stays black. This happens in both orientations: Lan",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-not-compatible-with-iphone-duo-sdk-ios-271/4952618.rss",
+      "id": "9879cb46d820c5be04e6de67"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Account Ban Lifted, but Group Remains Locked - Support Tickets Ignored",
+      "url": "https://devforum.roblox.com/t/account-ban-lifted-but-group-remains-locked-support-tickets-ignored/4952638",
+      "published": "2026-10-23",
+      "excerpt": "Hello everyone, I am currently dealing with a known bug that is completely blocking my game’s live test phase. A while ago, my account was temporarily banned, which naturally locked my groups. My appeal was successful and the account ban was lifted. However, due to a system bug, the group locks were",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/account-ban-lifted-but-group-remains-locked-support-tickets-ignored/4952638.rss",
+      "id": "9765bb91318eacbc0dc75fd7"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1548,6 +1606,29 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I need help m'y game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjof6/i_need_help_my_game/",
+      "published": "2026-10-23",
+      "excerpt": "Guys i need help m'y game 5 script 3 user model i can pay robux 2 gamepasse do not give m'y game to do big studio help m'y game is bite bi night x grimwork yeah pls lobby somme map and killer and fineli some générateur pls submitted by /u/DataTraining7017 [link] [comments]",
+      "creator": "/u/DataTraining7017 https://www.reddit.com/user/DataTraining7017",
+      "id": "5d432f04ee72f6adc2b80a4e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Velocity is behaving differently after returning to an older project",
+      "url": "https://devforum.roblox.com/t/velocity-is-behaving-differently-after-returning-to-an-older-project/4952673",
+      "published": "2026-10-23",
+      "excerpt": "Hello, I’ve run into a problem. I used to develop on a game my friend made a long time ago (the last update was a few months ago). I just recently came back to check up on the game and do some updates, but then my friend ran into an issue while testing. For context, this is an obby-type game, so the",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/velocity-is-behaving-differently-after-returning-to-an-older-project/4952673.rss",
+      "id": "5c2572c685cdb7b3a0658135"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Working on a solo horror/quest game set in a dark forest (\"just do nothing\"). What do you think about the lighting & vibe? 🇵🇱🌲",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdco1a/working_on_a_solo_horrorquest_game_set_in_a_dark/",
       "published": "2026-10-23",
@@ -1610,6 +1691,17 @@
       "excerpt": "i like coding, i tried coding lots of times, the start was amazing, until you have to debug, i stopped everytime when i had to debug because it’d be 20 minutes of staring and its just that parent wasnt capitalized lol. i restarted lately bcs i saw a lot about studio and went “oh! This isnt dead!” Wi",
       "creator": "/u/Lucky-Improvement-25 https://www.reddit.com/user/Lucky-Improvement-25",
       "id": "4e4f7dbfac072a1e1d39fa7e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "seeking advice :0",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjxj2/seeking_advice_0/",
+      "published": "2026-10-23",
+      "excerpt": "i’m very aware of the common question is, “where do I start?” all i’ve been told is to join into AI and make games and such through that. but at that point i wouldn’t even feel fulfilled, and it seems like everyone’s doing that so often that i wouldn’t be able to keep up. does anyone think it would ",
+      "creator": "/u/hatingass https://www.reddit.com/user/hatingass",
+      "id": "47e948d91a415ab2c13d9dc2"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1775,6 +1867,28 @@
       "id": "24d90358377a9c25f96d6971"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "there's too many AI remakes/AI slop games taking over the site",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdih8y/theres_too_many_ai_remakesai_slop_games_taking/",
+      "published": "2026-10-23",
+      "excerpt": "it's insane how more or less every game is the same as the others, just reskinned differently, typically with dopamine simulators. yet, all of these AI games get hundreds and thousands of concurrent players, and whilst it's cool AI can do all of this, every game is losing its originality. we're more",
+      "creator": "/u/SmoothChemistry8564 https://www.reddit.com/user/SmoothChemistry8564",
+      "id": "24c7b025643160f8e997699c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "UGC emote issues. Anyone know how to fix this? (Read description)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjvla/ugc_emote_issues_anyone_know_how_to_fix_this_read/",
+      "published": "2026-10-23",
+      "excerpt": "Whenever i try exporting it says: \"The published animation is missing a valid UGC emote marker. Please republish the animation. In curveAnimation at time 0.16 seconds, bodypart RightFoot is at height -3.10 from the HumanoidRootPart. Body parts cannot be lower than -3.1 studs from the HumanoidRootPar",
+      "creator": "/u/Far_Strawberry_6855 https://www.reddit.com/user/Far_Strawberry_6855",
+      "id": "23d6696075926cf818a5943c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1808,6 +1922,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769.rss",
       "id": "20d2a73043b07f4869b03b3a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Someone's account is logged into my studio",
+      "url": "https://devforum.roblox.com/t/someones-account-is-logged-into-my-studio/4952589",
+      "published": "2026-10-23",
+      "excerpt": "I opened studio today, and i saw someone else’s account logged in. Why is that, this is not my account. I searched up this dude on roblox and saw him online in a game. 3 posts - 3 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/someones-account-is-logged-into-my-studio/4952589.rss",
+      "id": "209748c51fc66dff6229e9f3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -6796,6 +6922,7 @@
       "published": "2026-10-18",
       "excerpt": "Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) YouTube",
       "creator": "",
+      "publisher": "https://www.youtube.com",
       "id": "4013461191548521b871444f"
     },
     {
@@ -7669,117 +7796,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282.rss",
       "id": "63afbb083bdb1a6c9aea2cd8"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Google Just Let Anyone Make a Video Game. Here's What It Can (and Can't) Do. - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dEp3OTRSUTN5NFRtOEVwYlVPeldHalVCZHFPMzNiMjM3cS13cEJ3SUMzSDcxc1pBZk1vQzd5Vjd2WFhjNWQ5ZmZBVnlkV2pPdmRrLTZB?oc=5",
-      "published": "2026-10-16",
-      "excerpt": "Google Just Let Anyone Make a Video Game. Here's What It Can (and Can't) Do. YouTube",
-      "creator": "",
-      "id": "6002b5b50ebd2ff27374aeb6"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Mythmatic - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydTNkZzRMZXBSZ0I1SWVKRWZBRkxndXh4WlFKTmhKSy1nZXA4dE1YMXc1ZG04Y2tLd25Dd2NVOXh2Wi1JLWdoUVlZNXF0a1pK?oc=5",
-      "published": "2026-10-16",
-      "excerpt": "Mythmatic YouTube",
-      "creator": "",
-      "id": "54af0df20fc97afddf1063f9"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "GitHub Copilot vs Cursor: AI Coding Tools Race 2026 - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1dDQ2c01UWmVWUUQtZFFkallYY29tQkN2T0Z5YzhVbDlJcEJQTEdfbU1WamdoZTdGWUJfdnVLRklqMmU5RlBRbi1GSEFfd2tNazNyb3N6S1hldkkta2NIZGpLNHlNeGdkbmVFUUJPYS1mWk9ORVE?oc=5",
-      "published": "2026-10-16",
-      "excerpt": "GitHub Copilot vs Cursor: AI Coding Tools Race 2026 shattered.io",
-      "creator": "",
-      "id": "47f0476b58db0d27ccaf27b7"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "ghost the candy. get robux. mini packs available now at target.",
-      "url": "https://www.youtube.com/shorts/qfPvbAVyGz0",
-      "published": "2026-10-16",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "141c0afb6c89e6299886b526"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Your child's Minecraft and Roblox hours can count towards their DSA (Direct School Admission) portfolio or Poly EAE (Early Admissions Exercise) application! ⠀ The 𝗚𝗮𝗺𝗲𝘀 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲, a",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYVJrY0w0ODZiaGdkOTIxaWd0amVrMnlFakg5ck9SOTVnOTBybHA1QkNRLXA0d1R1RnJHMGFkMHROREktTjFTbFIxRUgwNHZiUUE?oc=5",
-      "published": "2026-10-16",
-      "excerpt": "Your child's Minecraft and Roblox hours can count towards their DSA (Direct School Admission) portfolio or Poly EAE (Early Admissions Exercise) application! ⠀ The 𝗚𝗮𝗺𝗲𝘀 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲, an international competition running sin Instagram",
-      "creator": "",
-      "id": "0d2b98f055ac29407426b918"
-    },
-    {
-      "source": "x-index",
-      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
-      "category": "x_index",
-      "title": "🔗 GitHub: https://t.co/yoyeRfwBFJ --- ✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): https://t.co/zpXbSNWr80 - X",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qcEFaaDFSeERlcjYzcTRZU250MVkzSHRlRnl3WWVNNGJGSGN1RmdsS2tsZWtVdFRpbVhpY3F3UjJVX0lQT0xFYlJXWmhLQlhaUzhocnFycXFfSV9BM3dR?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "🔗 GitHub: https://t.co/yoyeRfwBFJ --- ✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): https://t.co/zpXbSNWr80 X",
-      "creator": "",
-      "id": "fe6137be2330337c7b86c2c0"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "What monsters will be inside the Halloween Dimension #roblox #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xMmc3dXBNc3hQM0wwTzdFWWJGNWQyNldjdXl2aWNMTURRbW9mZ3JydllFdTZQcEd1UVNiSlVMX09sQU5GcF83R1o1ZWt4M3lNSUpvdXN3?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "What monsters will be inside the Halloween Dimension #roblox #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "f4fb04071fe4a8341dd1e3ff"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "You are the only surviving officer after an airstrike, stuck keeping a battered company alive and functioning. Combat matters, but so does the daily grind of hunger, wounds, and keeping everyone movin",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZmQ2QnJIdEZXMDZkZFoxTm5Hc3NIcWl1eFh2NzM0XzFKWUtUc1dzaXBXZXZocS1SWHlzT055eUg1b3dhcnF4SXFOUDYtSW05QTAwb01R?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "You are the only surviving officer after an airstrike, stuck keeping a battered company alive and functioning. Combat matters, but so does the daily grind of hunger, wounds, and keeping everyone moving under fire. From a high altitude drone command view, yo Instagram",
-      "creator": "",
-      "id": "e9f9ebf4dcfed0ae1758c17d"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Cursor Latest Version Free Download 2027 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mYkVLVE44ZG5ITm5NUmF0UnRMYnFKTnFkeFBCTk5kSjFvdm16RUduVzJKVFVFZEl1ZVo4STVYX2xpcUxIWmNyVUVIRDJFS0s4NjlMVU5mZHljU2hoY3R6aA?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "Cursor Latest Version Free Download 2027 YouTube",
-      "creator": "",
-      "id": "e12bb973dde92c9fdc4ad114"
-    },
-    {
-      "source": "x-index",
-      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
-      "category": "x_index",
-      "title": "الردود بواسطة pauline (@pauline_makes) - X",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15a1BMUDkwdVdmV18yaXBkUDdieVpGQjAzanlsVVRQeWV3YTB5djJURVB0UHl0NFVsYVY4NnFyNzNrd0FENlJKSGhqNG9OZVJVckNQX3VrTVNvclFD?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "الردود بواسطة pauline (@pauline_makes) X",
-      "creator": "",
-      "id": "dc035b3384be0332b42083d4"
     }
   ]
 }
