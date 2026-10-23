@@ -7,14 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Feedback appreciated (Solo dev) first roblox game.](https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: I created this game as a SOLO dev. this is my first game ever so i’m learning as i go. it’s been about 1 week of release and ive dropped $60 USD into ads over the course of this week. The game is essentially agario but with roblox players a
-- **[Roblox developers](https://www.reddit.com/r/robloxgamedev/comments/1xda66e/roblox_developers/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: What do you think is best making multiple games with core loop and aim for young player or make a detailed game like rpg to target older player. Which is more better to make money submitted by /u/Broad_Reflection9452 \[link\] \[comments\]
-- **[Friends of mine have been telling me that you should stop working on this project its not gonna work out.Please give your honest opinions.](https://www.reddit.com/r/robloxgamedev/comments/1xdagav/friends_of_mine_have_been_telling_me_that_you/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Various friends told me that in todays market, games like steal a brainrot and similar are way better to work rather then simulator games.These kind of games are left behind in 2020.Please share your opinion. submitted by /u/Parking_Yam_563
-- **[I need feedbacks for my game!](https://www.reddit.com/r/robloxgamedev/comments/1xda3is/i_need_feedbacks_for_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: Hi! I've recently published my first roblox game, an horror-survival game called "COUNT YOUR FRIENDS". since it's new, and I don't have much experience, i would love to receive some feedbacks! Here you can check a sort of trailer of the gam
+- **[I got tired of placing road parts by hand, so I made roads curve and follow the hills on their own](https://www.reddit.com/r/robloxgamedev/comments/1xdb69p/i_got_tired_of_placing_road_parts_by_hand_so_i/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Every city or driving map I've worked on had the same time sink: roads. You line up hundreds of parts, fix the gaps on curves, nudge everything up and down over hills, and then do the curbs, sidewalks and intersections all over again. So I 
+- **[Just released my first game and the CRT -> actual PLAYS is concerning low and im not sure what to do.](https://www.reddit.com/r/robloxgamedev/comments/1xdbc7p/just_released_my_first_game_and_the_crt_actual/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Just released my first game and personally im aware its got lots to improve on however I see real future for it. However my biggest concern is getting player actually into the game. Please help! any feedback is much appreciated and wanted. 
+
+## Roblox Updates
+
+- **[Dev's Art -- Help </3-](https://devforum.roblox.com/t/devs-art-help-3/4952103)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Good morning peeps :") I need help with improving my art! Its been 23 days since I have started digital art again, I see some improvement? – but personally still suck at it. . . . 10/23/2026 --now 10/1/2026 --started Any tips or advise woul
+- **[Remote Code Execution involving third party library on Roblox Client.](https://devforum.roblox.com/t/remote-code-execution-involving-third-party-library-on-roblox-client/4952147)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Remote Code Execution involving third party library. Due to the severity and impact of the vulnerability, the detail disclosure is only allowed for staff members to escalate this further. A private message is associated with this bug report
 
 ---
 

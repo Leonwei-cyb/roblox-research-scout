@@ -878,7 +878,11 @@
     "2101cc8c4fd2b39d422aa860",
     "f2c5e77f39b052a21a1ae301",
     "583ae3f00485712dbbe0b142",
-    "e513c1064c0467b97f18f68e"
+    "e513c1064c0467b97f18f68e",
+    "0ccac9c9b76963ad49722a48",
+    "3613b72b9c908979b5016d67",
+    "6f5af86b620aa9c51fa1ef8c",
+    "dcfead454330431f43f15f20"
   ],
   "items": [
     {
@@ -983,6 +987,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775.rss",
       "id": "dea65e3754eb3df988557959"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I got tired of placing road parts by hand, so I made roads curve and follow the hills on their own",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdb69p/i_got_tired_of_placing_road_parts_by_hand_so_i/",
+      "published": "2026-10-23",
+      "excerpt": "Every city or driving map I've worked on had the same time sink: roads. You line up hundreds of parts, fix the gaps on curves, nudge everything up and down over hills, and then do the curbs, sidewalks and intersections all over again. So I built a Studio plugin for it. You click a few points and it ",
+      "creator": "/u/BicycleMain7108 https://www.reddit.com/user/BicycleMain7108",
+      "id": "dcfead454330431f43f15f20"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1181,6 +1196,17 @@
       "id": "7140a163dcd153fdc1729f44"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Just released my first game and the CRT -> actual PLAYS is concerning low and im not sure what to do.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdbc7p/just_released_my_first_game_and_the_crt_actual/",
+      "published": "2026-10-23",
+      "excerpt": "Just released my first game and personally im aware its got lots to improve on however I see real future for it. However my biggest concern is getting player actually into the game. Please help! any feedback is much appreciated and wanted. Here's a link.: https://www.roblox.com/games/130845975178062",
+      "creator": "/u/Logical_Charity_2163 https://www.reddit.com/user/Logical_Charity_2163",
+      "id": "6f5af86b620aa9c51fa1ef8c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1287,10 +1313,22 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Dev's Art -- Help </3-",
+      "url": "https://devforum.roblox.com/t/devs-art-help-3/4952103",
+      "published": "2026-10-23",
+      "excerpt": "Good morning peeps :\") I need help with improving my art! Its been 23 days since I have started digital art again, I see some improvement? – but personally still suck at it. . . . 10/23/2026 --now 10/1/2026 --started Any tips or advise would greatly help me out!!! – thank you all in advance :\")! 2 p",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/devs-art-help-3/4952103.rss",
+      "id": "3613b72b9c908979b5016d67"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "UIGradient color banding",
       "url": "https://devforum.roblox.com/t/uigradient-color-banding/4952019",
       "published": "2026-10-23",
-      "excerpt": "When using a UIGradient, especially on darker colors, there is visible color banding and many colors are skipped. This place should reproduce the issue: gradient.rbxl (89.4 KB) Expected behavior The gradient should render correctly and display all colors, instead of skipping them. 4 posts - 3 partic",
+      "excerpt": "When using a UIGradient, especially on darker colors, there is visible color banding and many colors are skipped. Other people are also experiencing this issue. (This is not my video) This place should reproduce the issue: gradient.rbxl (89.4 KB) Expected behavior The gradient should render correctl",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/uigradient-color-banding/4952019.rss",
       "id": "30a6e96421de39011548d9dc"
@@ -1375,6 +1413,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-update-an-item/4951475.rss",
       "id": "0e43f52477a777e77a73eb50"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Remote Code Execution involving third party library on Roblox Client.",
+      "url": "https://devforum.roblox.com/t/remote-code-execution-involving-third-party-library-on-roblox-client/4952147",
+      "published": "2026-10-23",
+      "excerpt": "Remote Code Execution involving third party library. Due to the severity and impact of the vulnerability, the detail disclosure is only allowed for staff members to escalate this further. A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/remote-code-execution-involving-third-party-library-on-roblox-client/4952147.rss",
+      "id": "0ccac9c9b76963ad49722a48"
     },
     {
       "source": "reddit-robloxdev",
@@ -7679,50 +7729,6 @@
       "excerpt": "Set Gotham City™ ablaze on your journey to becoming the most infamous villain in the city! #EnemiesOfGothamCity #BTAS #UpperDeckEnt Instagram",
       "creator": "",
       "id": "bcab75c5a308ae0836034c45"
-    },
-    {
-      "source": "x-index",
-      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
-      "category": "x_index",
-      "title": "Nelito (@m_ferreira28) - X",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1BTkVxRnZITmZMTTRBQ09qbFlSSTMyQjFUTFRLYmlqdXJtZHlKX1NWVzlFS25ZVmJFYmJ4VjRKYw?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "Nelito (@m_ferreira28) X",
-      "creator": "",
-      "id": "bc10527c7ef47012371a3f1a"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "ใครว่า Gemini ทำ Roblox ไม่ได้ คลิปนี้สอนเชื่อม Antigravity เข้ากับ Roblox Studio ผ่าน MCP Server - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yV1YwaGwyNWMxNTBxaklHTUNEZmNwQVlhY2w4clVqOUk1c0k5bzJaeHYyanZucEo4RmVmNzdZQmNENE1QclQ5Z29keFZpbWhQZjhlMGd3?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "ใครว่า Gemini ทำ Roblox ไม่ได้ คลิปนี้สอนเชื่อม Antigravity เข้ากับ Roblox Studio ผ่าน MCP Server YouTube",
-      "creator": "",
-      "id": "ae565be8f81cc442697d4d8f"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "The upgraded Hierarchy window is now enabled by default in Unity 6.6 🪟 ✅ Faster performance in large scenes ✅ Horizontal scrolling ✅ Reorderable data columns ✅ Native Entity & UI Toolkit support #Unit",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01cHNyZEVhWUFzeXluZzNVYnJmekQ4QU13dmpJYzBKYzBINktUSUpkS2ZiaXlwcTUwVXgxRGVBcHVOck9VN3o5aWV2ckNxRUh2bHFLOGp3?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "The upgraded Hierarchy window is now enabled by default in Unity 6.6 🪟 ✅ Faster performance in large scenes ✅ Horizontal scrolling ✅ Reorderable data columns ✅ Native Entity & UI Toolkit support #Unity #HierarchyWindow #Unity6 Instagram",
-      "creator": "",
-      "id": "a430363c0667703f1568c370"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Go multilingual with the Power Pages plugin - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUQ1Xy1jVTgzbE1hN1dMSXZlSE4ybzZfZnBJV05WTWU3SnNZUi01cC1Jazh0akJ6UzRiaEg2YWRFX05ZNUd1RHhoWGdOSmZQdkVsbGJsN0tQM2Q2S0Z4LU54NlB6UG5ZSXNjaXp5Y2xlU0xVTGotOTZvT0hQeDFUMC1JbUZuekxIT0pqUmFObGxVLVl2M21lQ3A3QjJLVEFZZGpfR0JWU0ROcm5Q?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "Go multilingual with the Power Pages plugin Microsoft",
-      "creator": "",
-      "id": "9bef38b973d2c19166876e33"
     }
   ]
 }
