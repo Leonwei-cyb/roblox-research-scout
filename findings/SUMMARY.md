@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-23T03:50:16Z (local, partial)
+- Last run: 2026-10-23T05:24:20Z (schedule, partial)
 - Repos tracked: 231; adopt 0, needs-test 92, reject 139
 - Actionable backlog: 87
-- Feed health: deferred 4, ok 34
+- Feed health: deferred 6, ok 31
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin tempestai-dev/tempest@​1c9abef, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids/tree/be61baf76b7b19fe995c6bb0762629501102e29d)
   - Pin totec448-spec/chat-on-steroids@​be61baf, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #1623 Show recent automation runs on automations page
-- Issue updated: open-mercato/cezar #1622 Automation tagging inconsistency
-- Issue updated: open-mercato/cezar #1621 More actions on github issues list page
-- Issue updated: open-mercato/cezar #1620 More info on github issues list
-- Issue updated: open-mercato/cezar #1619 Implement: Linear on the integration seam — several teams/workspaces, PR linking
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: reviewdog/reviewdog #2906 -f=diff: additions in later hunks use old-side line numbers and can be dropped by the added filter
-- Issue updated: obra/superpowers #2599 Parallel plan-and-build path: contract registry, owned packages, convergence critic, DAG build with
-- Issue updated: obra/superpowers #2473 brainstorming / writing-plans: commit the spec/plan by path so pre-staged changes are not swept in
-- Issue updated: obra/superpowers #2472 subagent-driven-development: interactive/manual verification steps in a brief must be bounded by com
-- Issue updated: obra/superpowers #2471 subagent-driven-development: deferred "minor" findings are graded by likelihood only — add recoverab
-- Issue updated: obra/superpowers #2470 subagent-driven-development: plan-verbatim code passes its own tests — reviewers need adversarial pr
-- Issue updated: earendil-works/pi #7739 Set a startup-time budget targeting jcode-comparable latency and memory
-- Issue updated: earendil-works/pi #10259 Public tool-presentation API or built-in one-line tool mode
-- Issue updated: earendil-works/pi #11172 A split mouse report leaves its tail in the prompt: the escape timeout flushes half a sequence and t
-- Issue updated: earendil-works/pi #11090 Preserve model attribution for auxiliary token usage
-- Issue updated: earendil-works/pi #11223 modelOverrides are silently ignored for classifier models
-- Release: OpenHands/OpenHands v1.30.0 to v1.32.0
-- Issue updated: OpenHands/OpenHands #15415 \[UX\]: Explain why onboarding requires selecting a specific LLM model
-- Issue updated: OpenHands/OpenHands #18847 \[Bug\]: Agent sandbox fails to authenticate with GitHub using PAT/GitHub
-- Issue updated: OpenHands/OpenHands #18846 Add startup feature policy for configuring Agent Canvas controls
-- Issue updated: OpenHands/OpenHands #18732 \[Feature\]: Run-level audit trail with agent-action and tool-abuse signals
-- Issue updated: OpenHands/OpenHands #18593 \[Feature\]: Support Built-in Task Queue & Concurrency Control for Bulk Issue Resolution
-- Issue updated: modelcontextprotocol/servers #5180 filesystem: expandHome\(\) does not handle Windows backslash separator \(\~\\path\)
-- Issue updated: modelcontextprotocol/servers #5185 filesystem: realpath ENOENT on Windows SUBST/mapped drives drops roots and refuses valid paths \(need
-- Issue updated: modelcontextprotocol/servers #5154 filesystem 1.0.0: write\_file/edit\_file refuse every overwrite on Windows \("was replaced while it was
-- Issue updated: modelcontextprotocol/servers #5130 security\(everything\): gzip-file-as-resource fetches any URL incl. private/metadata IPs by default; g
-- Issue updated: modelcontextprotocol/servers #5226 filesystem: document hard-link behavior and report the link count in get\_file\_info
-- Release: anthropics/claude-code v2.1.307 to v2.1.309
-- Issue updated: anthropics/claude-code #81377 Caps Lock input-source switch double-flips \(Hebrew ⇄ English\) in Desktop app chat input
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
