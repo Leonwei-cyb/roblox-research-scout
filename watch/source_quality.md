@@ -5,22 +5,22 @@
 | Classification | Entries |
 |---|---:|
 | original video/post URL (unwatched) | 9 |
-| public metadata / page | 474 |
-| indexed redirect (not original) | 115 |
+| public metadata / page | 479 |
+| indexed redirect (not original) | 110 |
 | promotional / risky title | 2 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
 Direct-original share: **1.5%** (still unwatched).
-Indexed redirects: **115**. They require primary-source verification.
+Indexed redirects: **110**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **500**; direct originals **9**; indexed redirects **17**.
+Active-source entries: **505**; direct originals **9**; indexed redirects **17**.
 Active-source direct-original share: **1.8%** (still unwatched).
-Entries from paused/unconfigured sources: **100** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
+Entries from paused/unconfigured sources: **95** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -29,9 +29,9 @@ Google News redirect links are not resolved: the current article format needs Go
 | Publisher | Redirects |
 |---|---:|
 | YouTube (title suffix) | 25 |
-| unknown | 25 |
-| Instagram (title suffix) | 13 |
-| TikTok (title suffix) | 10 |
+| unknown | 22 |
+| Instagram (title suffix) | 12 |
+| TikTok (title suffix) | 9 |
 | X (title suffix) | 9 |
 | https://tech-insider.org/ (title suffix) | 7 |
 | www.instagram.com | 5 |

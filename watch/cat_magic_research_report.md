@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 595; direct candidates: 478;
+Indexed entries: 595; direct candidates: 483;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 ## Highest-value source checks
@@ -16,12 +16,10 @@ Inspected videos: **0**; verified gameplay findings: **0**.
   - devforum · **UNVIEWED_METADATA** · Check: Does an arriving cat walk, sit, study and cast without clipping through the player?
 - **P1 · UI and menus:** [\[Test\] New Home Layout With More Built-in Utility](https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387)
   - devforum · **UNVIEWED_METADATA** · Check: Is the next upgrade price readable without covering the cat or Roblox mobile controls?
+- **P1 · tuition and economy:** [Roblox developers: how do you currently balance your game’s economy and progression?](https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/)
+  - reddit · **UNVIEWED_METADATA** · Check: Does a completed lesson produce server-owned tuition and enable the next purchase?
 - **P1 · world and visual design:** [Should I find a modeller or just learn to model myself?](https://www.reddit.com/r/robloxgamedev/comments/1x8wtq2/should_i_find_a_modeller_or_just_learn_to_model/)
   - reddit · **UNVIEWED_METADATA** · Check: Are the blue grounds, simple entrance and first classroom visible and uncluttered?
-
-## Research gaps
-
-- tuition and economy: no qualifying original/source-linked candidate
 
 ## Required before a verified improvement
 

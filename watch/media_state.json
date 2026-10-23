@@ -834,7 +834,12 @@
     "ef367b19ab840c85b5c723e3",
     "726d5086caa3374b3d170e2a",
     "b913160f700bc4929107fb67",
-    "2a771d1d97ccc2e04c843eb6"
+    "2a771d1d97ccc2e04c843eb6",
+    "aebb7f2f9ab84424d02b778e",
+    "753e7bea2ce3f28c53ad325f",
+    "bdfcb702bf03b7e8d3052d6c",
+    "bcd385459d35846a4bd09441",
+    "4e4f7dbfac072a1e1d39fa7e"
   ],
   "items": [
     {
@@ -899,6 +904,51 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Roblox developers: how do you currently balance your game’s economy and progression?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/",
+      "published": "2026-10-23",
+      "excerpt": "I’m exploring an idea for a tool that would help Roblox developers balance their games before releasing changes. The concept is a visual simulator where you can enter things like: Enemy rewards and currency drops Upgrade prices and item costs XP requirements and level progression Expected playtime a",
+      "creator": "/u/layerwell https://www.reddit.com/user/layerwell",
+      "id": "bdfcb702bf03b7e8d3052d6c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Help with monitization",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2rpu/help_with_monitization/",
+      "published": "2026-10-23",
+      "excerpt": "We hit the 250 player limit and with play ads we’re hitting like 5-10ccu all the time, favorites have been going up, but nobody spends any money on our game. If anyone has time we’d really appreciate some tips on better monitizing our game. We are firmly against random gamble loot boxes. It’s a rogu",
+      "creator": "/u/hunter-jarrell https://www.reddit.com/user/hunter-jarrell",
+      "id": "bcd385459d35846a4bd09441"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Error in Granting Tickets and Items in new Event",
+      "url": "https://devforum.roblox.com/t/error-in-granting-tickets-and-items-in-new-event/4951605",
+      "published": "2026-10-23",
+      "excerpt": "roblox.com The Hollow 2026 - Roblox Roblox is a global platform that brings people together through play. There aren’t necessarily steps to recreate it. After getting Bloxburg’s badge, it stopped updating our ticket amount. Doors and Flee the Facilities badges were gotten after and do not let us cla",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/error-in-granting-tickets-and-items-in-new-event/4951605.rss",
+      "id": "aebb7f2f9ab84424d02b778e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Map/Level Design",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd33qs/maplevel_design/",
+      "published": "2026-10-23",
+      "excerpt": "Any tips on leveraging AI for map/level design? I’m struggling to get a nice design for a lobby. At what point should I outsource this? And where could I outsource this? submitted by /u/AuPo_2 [link] [comments]",
+      "creator": "/u/AuPo_2 https://www.reddit.com/user/AuPo_2",
+      "id": "753e7bea2ce3f28c53ad325f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "tool and arms doesn't animate :(",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczajw/tool_and_arms_doesnt_animate/",
       "published": "2026-10-23",
@@ -916,6 +966,17 @@
       "excerpt": "submitted by /u/Itchy_Record4879 [link] [comments]",
       "creator": "/u/Itchy_Record4879 https://www.reddit.com/user/Itchy_Record4879",
       "id": "744383c1c18c65e1ffdd3e09"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "If i learn, would i ever get a popular game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2okp/if_i_learn_would_i_ever_get_a_popular_game/",
+      "published": "2026-10-23",
+      "excerpt": "i like coding, i tried coding lots of times, the start was amazing, until you have to debug, i stopped everytime when i had to debug because it’d be 20 minutes of staring and its just that parent wasnt capitalized lol. i restarted lately bcs i saw a lot about studio and went “oh! This isnt dead!” Wi",
+      "creator": "/u/Lucky-Improvement-25 https://www.reddit.com/user/Lucky-Improvement-25",
+      "id": "4e4f7dbfac072a1e1d39fa7e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7608,60 +7669,6 @@
       "excerpt": "Play Roblox, study what makes games fun, and design your own! In this hands-on class, kids explore age-appropriate Roblox games together, then work in pairs to sketch maps, invent challenges, and plan original game ideas inspired by what they discover. A Instagram",
       "creator": "",
       "id": "7bbc3cd7c8ccad7768d7ba0a"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "Quandora Plugins lets your everyday AI agent test trading ideas against past market data and hand back a report with the risks spelled out. More like this → gittrend.io #github #opensource #aitools #q",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NNW8wbExkV00zNG9vQ05ITFRXZW5NQ1dobmVLU0hQY1hWeVQwWjFocWRiMzVFMFdfZHkxWm1TYWx2MXdDd2F1WmdzZ1Z0d25GNnlicElB?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Quandora Plugins lets your everyday AI agent test trading ideas against past market data and hand back a report with the risks spelled out. More like this → gittrend.io #github #opensource #aitools #quant #trading #codingagent #backtesting #devtools Instagram",
-      "id": "6d84309f6d19f6605c4d4046"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "GAMING UNITES US ALL!! 🤯 #arcraiders #gaming #funny - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2UUtzbFBUbXVJcFhQMmM2SEpUSVRPelFQcThoQVZ0UWJ2SHd4VmcyWjJTeVNMcEp3OFk5NnBCTjBIZi0zcHA3NFVRTDVKOEowNU5Vb3p3?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "GAMING UNITES US ALL!! 🤯 #arcraiders #gaming #funny Instagram",
-      "creator": "",
-      "id": "6ccbec5cf0b4538535698c50"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "Another day, another fantasy tarot card ⚔️🔮 A little Figma design process because apparently I can’t stop making these 😂 The full deck even has its own interactive mini game Which card should I show n",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVkQ0eDNIOHdvZTh1OGNwaXZaX2FmTEU3OE1FdVN5X1ZVcDNGM1RXZkE2YVU4UkhJM1VIM2g1RnVpb3hQdkFzWHJlUDJxR2dlclVuZi1B?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Another day, another fantasy tarot card ⚔️🔮 A little Figma design process because apparently I can’t stop making these 😂 The full deck even has its own interactive mini game Which card should I show next? 👀 #figmatutorial #GameUI #tarotcards🔮 Instagram",
-      "creator": "",
-      "id": "5fd7e557bc1ad35b6941e27e"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "Apple ha presentato oggi 4 grosse novità, ma solo 2 arrivano in Europa. #HomeView #HomePodmini2 #Apple - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FWHQya3lGT3ViR29rdUJ6Q0F5czlDQ0NzdlNCN3AyajFaTnFLOFVIYlNDOTdQQ20xNXdNcFF1dmVyeFFuSV8zWXBfSWh1cFpVdWFtRl9qeE82czZPclp4MW5LSXIyVHVaNTlqWnRSMGQ?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Apple ha presentato oggi 4 grosse novità, ma solo 2 arrivano in Europa. #HomeView #HomePodmini2 #Apple TikTok",
-      "creator": "",
-      "id": "46ef0f6ec570241126cc40ce"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "🌍🏞️Four Environments, One World! Excited to share a terrain project I created as a test task at @elytrastudios.official ! 🎮 This was my second time using the Roblox Terrain System, and I learned so mu",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pQ0RTV043XzhvVERESVNvMUlKYVpRWEtuOG9MX3hRTEdyeXJMYm0xaDl5bEpuLXVDdWFWdE9ySFNqd0ZsenRJZk5DVm9MVUdNb1l1X1F1M19NdEg5ZFE?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "🌍🏞️Four Environments, One World! Excited to share a terrain project I created as a test task at @elytrastudios.official ! 🎮 This was my second time using the Roblox Terrain System, and I learned so much while creating these different landscapes. 🌿 Lush gree Instagram",
-      "creator": "",
-      "id": "41704dd5265801dcaf2e5bb4"
     }
   ]
 }

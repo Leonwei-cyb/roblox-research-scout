@@ -6,9 +6,9 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
+- **[Roblox developers: how do you currently balance your game’s economy and progression?](https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/)** — Public text/page, video not confirmed
 - **[Help with gun idle animation](https://devforum.roblox.com/t/help-with-gun-idle-animation/4949498)** — Public text/page, video not confirmed
 - **[Just released my tower defense game, looking for testers and feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/)** — Public text/page, video not confirmed
-- **[What is the hardest part of balancing an upgrade system?](https://www.reddit.com/r/robloxgamedev/comments/1xaq2cx/what_is_the_hardest_part_of_balancing_an_upgrade/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
