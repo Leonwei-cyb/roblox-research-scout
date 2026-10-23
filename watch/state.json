@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "bcbfbd71438307eb9bc1d81808d1a0df93499487",
-      "head_subject": "Bump cryptography from 44.0.0 to 50.0.0 (#4284)",
+      "head": "ce91b85220ad3be2fa6c391899e0b5c2e41cb770",
+      "head_subject": "Favicon - Clear the saved favicon when the watch URL changes (#4569) (#4586)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.9",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
@@ -213,6 +213,7 @@
     "linny006/skills-tracker",
     "linny006/trending-claude-skills",
     "lissy93/bug-bounties",
+    "medhiclb/HelixAI",
     "mvanhorn/printing-press-library",
     "obra/superpowers",
     "obris-dev/openmagpie",

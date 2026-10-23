@@ -4,23 +4,23 @@
 
 | Classification | Entries |
 |---|---:|
-| original video/post URL (unwatched) | 8 |
-| public metadata / page | 518 |
-| indexed redirect (not original) | 73 |
+| original video/post URL (unwatched) | 7 |
+| public metadata / page | 526 |
+| indexed redirect (not original) | 66 |
 | promotional / risky title | 1 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
-Direct-original share: **1.3%** (still unwatched).
-Indexed redirects: **73**. They require primary-source verification.
+Direct-original share: **1.2%** (still unwatched).
+Indexed redirects: **66**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **539**; direct originals **8**; indexed redirects **13**.
-Active-source direct-original share: **1.5%** (still unwatched).
-Entries from paused/unconfigured sources: **61** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
+Active-source entries: **546**; direct originals **7**; indexed redirects **13**.
+Active-source direct-original share: **1.3%** (still unwatched).
+Entries from paused/unconfigured sources: **54** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -28,18 +28,18 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| YouTube (title suffix) | 16 |
-| unknown | 14 |
+| YouTube (title suffix) | 14 |
+| unknown | 13 |
 | Instagram (title suffix) | 8 |
-| X (title suffix) | 7 |
-| TikTok (title suffix) | 5 |
+| X (title suffix) | 6 |
 | https://tech-insider.org/ (title suffix) | 5 |
-| www.instagram.com | 4 |
-| www.youtube.com | 4 |
+| www.youtube.com | 5 |
+| TikTok (title suffix) | 4 |
+| www.instagram.com | 3 |
 | www.tiktok.com | 3 |
 | CyberSecurityNews (title suffix) | 1 |
 | MakeUseOf (title suffix) | 1 |
-| OpenAI (title suffix) | 1 |
+| Stocktwits (title suffix) | 1 |
 
 ## Actionable interpretation
 

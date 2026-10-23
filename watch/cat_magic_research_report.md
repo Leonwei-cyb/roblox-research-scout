@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 593; direct candidates: 519;
+Indexed entries: 593; direct candidates: 526;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 ## Highest-value source checks
