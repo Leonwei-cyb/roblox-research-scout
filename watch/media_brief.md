@@ -5,34 +5,32 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Build / 3D Examples
+
+- **[Updating My Game Now Its INSANE!](https://www.youtube.com/watch?v=-wqaH11mmpc)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-13
+
 ## Roblox Creator / Steal An Egg
 
-- **[Steal an egg update #stealanegg #roblox #gaming #steal #robloxedit #youtubeshorts #robloxshorts](https://www.youtube.com/shorts/EAwLbXfl5gk)** · YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; s · 2026-10-12
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hbXlRUy12d2FYT21nSTNnM1BPal85T3V4bnYtcXNVbFJtTG5WTnlTaUVWa2pod3hoVlVkazhWTmNQT3B2X0d0UEFwbHdMY29jOEVNc2dn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-23
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aEdOMEpvV2NvYjQtMDR1WE5IdGJad3B1bDVaQ01PQnU2dXRYcnc4NjBmMlVWM1hyb2VVcHJETnFMMV9vNFR5bDh1ZmQyMnNpYkliZ0xn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-23
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
 
 ## Community
 
-- **[Looking for collaborators](https://www.reddit.com/r/robloxgamedev/comments/1xd7dst/looking_for_collaborators/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
-  - Feed excerpt: I have some games in mind I have the codes ready but i really need some people to help me with the animations and graphics cuz I am unable to do it pls send me a friend req on discord Kkumar0406 submitted by /u/Agile_Garlic_5380 \[link\] \[com
+- **[An oval racing game with more focus on tactics](https://www.reddit.com/r/robloxgamedev/comments/1xd7xjv/an_oval_racing_game_with_more_focus_on_tactics/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: I've been working on an oval racing game where the car follows the racing line automatically. You control lane changes and boost and decide when to pit. The controls are simple (you just use a joystick) and there's a fairly detailed physics
+- **[First game launch: Raid a Garden. What would make YOU come back tomorrow?](https://www.reddit.com/r/robloxgamedev/comments/1xd8g2p/first_game_launch_raid_a_garden_what_would_make/)** · Reddit r/robloxgamedev public RSS · 2026-10-23
+  - Feed excerpt: Hey! I just released my first Roblox game Raid a Garden 🌱🥚 – grow crops, hatch rare pets and raid other players’ gardens. Admin Abuse every Saturday! Would love your feedback 🙏 https://www.roblox.com/games/86808193991954 submitted by /u/Wed
 
 ## Roblox Updates
 
-- **[How to make my surfacegui see through its transparent parent](https://devforum.roblox.com/t/how-to-make-my-surfacegui-see-through-its-transparent-parent/4951807)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: ive been trying to make effects that i have seen by other people’s work recently so in trying to replicate it. the problem is, it does not render, the surface gui does not render at its back. please help 4 posts - 2 participants Read full t
-- **[Realistic Weapon Animations](https://devforum.roblox.com/t/realistic-weapon-animations/4951854)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: Hello! Over the past few months, I have been learning realistic animations for my upcoming competitive shooter game. The rigs have full articulated fingers, 3 joints per finger, wrist joints, elbow joints, and shoulder joints. Karambit P320
-- **[Voting screen not showing](https://devforum.roblox.com/t/voting-screen-not-showing/4951827)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: local RS=game:GetService("ReplicatedStorage") local VotingPhase=RS.Events.BeginVotingPhase local plr=game:GetService("Players").LocalPlayer local StartingMatch=RS.Events.StartingMatch local plrVoted=RS.Events.PlayerVotedEvent local UpdateVo
-- **[\[SOLVED\] BindableFunction infinitely yielding script that invokes it](https://devforum.roblox.com/t/solved-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788)** · Roblox Developer Forum latest · 2026-10-23
-  - Feed excerpt: i’m so confused i’ve literally been trying to figure out why this is happening for actual hours, and it’s not even an issue with my code or organization, it just REFUSES to work >:\[ the callback is set before the BindableFunction is invoked
-
-## Youtube
-
-- **[Avatars at the Center: Driving Gameplay, Identity, and Commerce \| RDC 2026](https://www.youtube.com/watch?v=gCp4zzjjJ14)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
-- **[Mastering Monetization: Lessons from Top Creators \| RDC 2026](https://www.youtube.com/watch?v=hoMbv_R8AMU)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
-- **[Monetizing Intellectual Property \| RDC 2026](https://www.youtube.com/watch?v=oxiaIhN5Ybo)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
-- **[What Drives Discovery: Understanding the Algorithm \| RDC 2026](https://www.youtube.com/watch?v=bkRZeTZAvLw)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
-- **[five iconic games. one legendary animal. brazil’s first showdown is 3 days away.](https://www.youtube.com/shorts/rmaWFoT49Wo)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-12
-- **[head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.](https://www.youtube.com/shorts/6aFu9wbY4js)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-22
+- **[\[FOR HIRE\] Technical Lead & Full-Stack Backend Engineer \| Python (FastAPI), MongoDB/SQL & Modular Luau](https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: \[FOR HIRE\] Technical Lead & Full-Stack Backend Engineer \| Python (FastAPI), MongoDB/SQL & Modular Luau About Me Hey! I’m Ken , a backend and systems engineer specializing in high-performance external API integrations, web dashboards, micros
+- **[How to fix camera rotation?](https://devforum.roblox.com/t/how-to-fix-camera-rotation/4951900)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Hi, I’m trying to make a floating camera system. And the camera is angled at (-45, 0, 0): And I want to turn the camera 90 degrees clockwise. But it does this instead: I’m using Workspace.CurrentCamera.CFrame *= CFrame.Angles(0, rad(90), 0)
+- **[Looking for Onboarding Feedback – TURBOSTORM Car Racing (10 Min Avg Session, 0 Organic Traffic)](https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901)** · Roblox Developer Forum latest · 2026-10-23
+  - Feed excerpt: Yo, I’m the developer of \[ Turbostorm Car Racing \], a racing game called TURBOSTORM Car Racing . I recently ran some ad campaigns and the initial data looks promising: once players actually get behind the wheel, they stick around for an ave
 
 ---
 

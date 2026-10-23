@@ -860,7 +860,15 @@
     "3fcf04e4f70787d59ae7f883",
     "942a769344894662dc650d14",
     "d4198254298546765ae7cbbd",
-    "9ea60ce6bf9e831fc993ee13"
+    "9ea60ce6bf9e831fc993ee13",
+    "5e10a37fd5cda3bceec78bbd",
+    "8405fdbd65d2d76707f5067b",
+    "d448e1f499d2d702ff862011",
+    "73409991fff4a8761f376f90",
+    "f171019ec68fb30ec3f59c1c",
+    "820c8227385f06468a3061bf",
+    "ed8cae26f8660b4c9eb7ac31",
+    "e13cf44396f12a31c50b7d1f"
   ],
   "items": [
     {
@@ -874,6 +882,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/promptgameinvite-keyword-not-working-as-intended/4951556.rss",
       "id": "f786e57b8a12ed92b5a729f5"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "First game launch: Raid a Garden. What would make YOU come back tomorrow?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd8g2p/first_game_launch_raid_a_garden_what_would_make/",
+      "published": "2026-10-23",
+      "excerpt": "Hey! I just released my first Roblox game Raid a Garden 🌱🥚 – grow crops, hatch rare pets and raid other players’ gardens. Admin Abuse every Saturday! Would love your feedback 🙏 https://www.roblox.com/games/86808193991954 submitted by /u/Wedeli_x [link] [comments]",
+      "creator": "/u/Wedeli_x https://www.reddit.com/user/Wedeli_x",
+      "id": "f171019ec68fb30ec3f59c1c"
     },
     {
       "source": "reddit-robloxdev",
@@ -941,10 +960,22 @@
       "title": "How to make my surfacegui see through its transparent parent",
       "url": "https://devforum.roblox.com/t/how-to-make-my-surfacegui-see-through-its-transparent-parent/4951807",
       "published": "2026-10-23",
-      "excerpt": "ive been trying to make effects that i have seen by other people’s work recently so in trying to replicate it. the problem is, it does not render, the surface gui does not render at its back. please help 4 posts - 2 participants Read full topic",
+      "excerpt": "ive been trying to make effects that i have seen by other people’s work recently so in trying to replicate it. the problem is, it does not render, the surface gui does not render at its back. please help 5 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-make-my-surfacegui-see-through-its-transparent-parent/4951807.rss",
       "id": "d4d32bdb70f6213e07495451"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to fix camera rotation?",
+      "url": "https://devforum.roblox.com/t/how-to-fix-camera-rotation/4951900",
+      "published": "2026-10-23",
+      "excerpt": "Hi, I’m trying to make a floating camera system. And the camera is angled at (-45, 0, 0): And I want to turn the camera 90 degrees clockwise. But it does this instead: I’m using Workspace.CurrentCamera.CFrame *= CFrame.Angles(0, rad(90), 0) for the rotation. 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-fix-camera-rotation/4951900.rss",
+      "id": "d448e1f499d2d702ff862011"
     },
     {
       "source": "reddit-robloxdev",
@@ -1004,6 +1035,18 @@
       "id": "9dd46f04ac6ae16f81138482"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for Onboarding Feedback – TURBOSTORM Car Racing (10 Min Avg Session, 0 Organic Traffic)",
+      "url": "https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901",
+      "published": "2026-10-23",
+      "excerpt": "Yo, I’m the developer of [ Turbostorm Car Racing ], a racing game called TURBOSTORM Car Racing . I recently ran some ad campaigns and the initial data looks promising: once players actually get behind the wheel, they stick around for an average of 10 minutes . I’m happy with how the core mechanics l",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901.rss",
+      "id": "8405fdbd65d2d76707f5067b"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1013,6 +1056,18 @@
       "excerpt": "I have some games in mind I have the codes ready but i really need some people to help me with the animations and graphics cuz I am unable to do it pls send me a friend req on discord Kkumar0406 submitted by /u/Agile_Garlic_5380 [link] [comments]",
       "creator": "/u/Agile_Garlic_5380 https://www.reddit.com/user/Agile_Garlic_5380",
       "id": "82b2a795129eba9151bbb301"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aEdOMEpvV2NvYjQtMDR1WE5IdGJad3B1bDVaQ01PQnU2dXRYcnc4NjBmMlVWM1hyb2VVcHJETnFMMV9vNFR5bDh1ZmQyMnNpYkliZ0xn?oc=5",
+      "published": "2026-10-23",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "820c8227385f06468a3061bf"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1060,6 +1115,17 @@
       "id": "744383c1c18c65e1ffdd3e09"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "An oval racing game with more focus on tactics",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd7xjv/an_oval_racing_game_with_more_focus_on_tactics/",
+      "published": "2026-10-23",
+      "excerpt": "I've been working on an oval racing game where the car follows the racing line automatically. You control lane changes and boost and decide when to pit. The controls are simple (you just use a joystick) and there's a fairly detailed physics model underneath. Tyre grip, weight transfer, aero and bank",
+      "creator": "/u/pilt https://www.reddit.com/user/pilt",
+      "id": "73409991fff4a8761f376f90"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1070,6 +1136,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/made-this-early-access-ww2-game/4951651.rss",
       "id": "6c2276e95522a9b7cb51d361"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[FOR HIRE] Technical Lead & Full-Stack Backend Engineer | Python (FastAPI), MongoDB/SQL & Modular Luau",
+      "url": "https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947",
+      "published": "2026-10-23",
+      "excerpt": "[FOR HIRE] Technical Lead & Full-Stack Backend Engineer | Python (FastAPI), MongoDB/SQL & Modular Luau About Me Hey! I’m Ken , a backend and systems engineer specializing in high-performance external API integrations, web dashboards, microservices, and modular game architectures. Whether you need a ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947.rss",
+      "id": "5e10a37fd5cda3bceec78bbd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7632,71 +7710,6 @@
       "excerpt": "💬 Comment “LIB” and I’ll send you all links! ❤️ Like | 💬 Share | 📌 Save for later Follow 👉 @animmaster_studio for more epic UI animations! #frontend #uianimation #cssanimation #javascript #html Instagram",
       "creator": "",
       "id": "6a5a0c9ef8108c5f69289c00"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "Comment ideas #roblox #robloxgamestoplay #robloxdev #robloxstudio #gta6 - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42bHE3T3ZkRTYtM0JmV1pBdVJRY1RaLXMwdUg1Y1pQWllZb2kzcFBZNnQ1ME9raFFOay04TFczODVVNG05S3ExSm5tbnROVzFsTUEwdV9EZ1FSbmdjMmFJaVBQVGhCeGREbFFmcA?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "Comment ideas #roblox #robloxgamestoplay #robloxdev #robloxstudio #gta6 TikTok",
-      "creator": "",
-      "id": "54db1599d560700cf9427d5f"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "You play Tinker, a researcher exploring a hopeful post-apocalyptic world with Repo, your hovering companion and journal. The goal is simple: recover lost tech, fight deadly machines, and use what you ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcnNtUGJHMUNyWEQ4N21XZE5jcHlTS2c0cVQ2Yy1pd3lQSHB1T0RZNWFOU1BqZGNZdVpwY0NkOEwzbzZneDFIdElWNVZVaS1rUGx0VlJ3?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "You play Tinker, a researcher exploring a hopeful post-apocalyptic world with Repo, your hovering companion and journal. The goal is simple: recover lost tech, fight deadly machines, and use what you learn to help repair the world. Find mysterious Modules, l Instagram",
-      "creator": "",
-      "id": "505580477e54383b3f7fe08c"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "#roblox - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRUDJNbnR1OEE1SmFPWnBROW1EdHg0bGRmc0oxZXBOamZGNGRRS2dNZUZBWHlwYzQ4aTVncmRDemxxcFpHcERkR2lsbXg1QmNFVzBEVGp3?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "#roblox Instagram",
-      "creator": "",
-      "id": "464dcc871c70920b825b5268"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Today, our Game Production students explored Agile methodologies, Scrum and Kanban with Mikhail Shmakov. We are now in full-speed preparations for the production of Game Project 1, the first real-life",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFWjJyRVJrdVJwaVdXR3RyUllRbHEzcHVPbW15UzJlc3oyV3cyWTBFY1dBMW9DOHVkUFd0RDcyd2xuTE5DX3pSbW4zSWRLUHZfTlE?oc=5",
-      "published": "2026-10-14",
-      "excerpt": "Today, our Game Production students explored Agile methodologies, Scrum and Kanban with Mikhail Shmakov. We are now in full-speed preparations for the production of Game Project 1, the first real-life scenario in which our producers will guide teams of ar Instagram",
-      "creator": "",
-      "id": "1c2f6723f9f19901079f7165"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "live from São Paulo october 15 at 1pm pdt on youtube, tiktok & twitch.",
-      "url": "https://www.youtube.com/shorts/LuSm-XXgSo4",
-      "published": "2026-10-13",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "fda1ff7a1a3bb9dae4653ad4"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "We’re back! 🌾 Last weekend was intense, but we’re back to work. While Janek and I were on vacation, the team added in-game tips and Polish language support. And if you haven’t wishlisted Farmdustry ye",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QT2o5S1c2cHFyRnl4Y3pYVVdKOUhoVU5mV3ByaHl3ci0teFUtOUZoRm1yamJWcTN2UFZweEdBRW1fbGhjNzY5RTFRVTBTQk85ejFfQ3RB?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "We’re back! 🌾 Last weekend was intense, but we’re back to work. While Janek and I were on vacation, the team added in-game tips and Polish language support. And if you haven’t wishlisted Farmdustry yet, now’s the time! 😉https://store.steampowered.com/a Instagram",
-      "id": "f57f0d3dc2b9a915e5031c56"
     }
   ]
 }

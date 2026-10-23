@@ -24,4 +24,4 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
 - **[tool and arms doesn't animate :(](https://www.reddit.com/r/robloxgamedev/comments/1xczajw/tool_and_arms_doesnt_animate/)** — Public text/page, video not confirmed
-- **[AutomaticCanvasSize does not properly account for UIPadding.PaddingTop with UIGridLayout](https://devforum.roblox.com/t/automaticcanvassize-does-not-properly-account-for-uipaddingpaddingtop-with-uigridlayout/4951009)** — Public text/page, video not confirmed
+- **[\[FOR HIRE\] Technical Lead & Full-Stack Backend Engineer \| Python (FastAPI), MongoDB/SQL & Modular Luau](https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947)** — Public text/page, video not confirmed
