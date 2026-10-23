@@ -827,9 +827,51 @@
     "dc74a02fb6b812c16b063415",
     "ded96bc9e2db9a6619ddbe49",
     "d3d1e835e1bdb75a22f14ec2",
-    "24dfab11ebeeb07f17d05fa5"
+    "24dfab11ebeeb07f17d05fa5",
+    "f786e57b8a12ed92b5a729f5",
+    "eee8cea8a6097daff0f5dff4",
+    "0e43f52477a777e77a73eb50",
+    "ef367b19ab840c85b5c723e3",
+    "726d5086caa3374b3d170e2a",
+    "b913160f700bc4929107fb67",
+    "2a771d1d97ccc2e04c843eb6"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "PromptGameInvite keyword not working as intended",
+      "url": "https://devforum.roblox.com/t/promptgameinvite-keyword-not-working-as-intended/4951556",
+      "published": "2026-10-23",
+      "excerpt": "The keyword game.SocialService: PromptGameInvite (game.Players.LocalPlayer) is outdated and will not work anymore as intended. This is my code: InviteFriends.MouseButton1Click:Connect(function() game.SocialService:PromptGameInvite(game.Players.LocalPlayer)* print(‘pressed on invite’)* end) Expected ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/promptgameinvite-keyword-not-working-as-intended/4951556.rss",
+      "id": "f786e57b8a12ed92b5a729f5"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "been working on a game where buildings literally fall on you and you have to smash them before you get squashed",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd22ut/been_working_on_a_game_where_buildings_literally/",
+      "published": "2026-10-23",
+      "excerpt": "small team, been at this for a few weeks. the idea is pretty dumb in a fun way: a building drops on your head, you break it floor by floor, and if it reaches you you get flattened. you can guard when it's right on top of you and use a special to launch it back up. last floor is extra tanky so it fee",
+      "creator": "/u/FunConnection8727 https://www.reddit.com/user/FunConnection8727",
+      "id": "ef367b19ab840c85b5c723e3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Joining Games Became Inconsistent, Troubles With Joining Places Within Experiences",
+      "url": "https://devforum.roblox.com/t/joining-games-became-inconsistent-troubles-with-joining-places-within-experiences/4951511",
+      "published": "2026-10-23",
+      "excerpt": "I wrote this bug report on behalf of a friend whose username is “LCorpAgent_BB” on Roblox. If you have any questions about this issue, I’ll gladly ask him about it. Around a week ago, my friend started having this issue where he can’t join games like Blackhawk Rescue Mission 5 and Depth Spelunking o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/joining-games-became-inconsistent-troubles-with-joining-places-within-experiences/4951511.rss",
+      "id": "eee8cea8a6097daff0f5dff4"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -909,6 +951,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339.rss",
       "id": "21fc21f68f36d62173d09599"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to update an item",
+      "url": "https://devforum.roblox.com/t/unable-to-update-an-item/4951475",
+      "published": "2026-10-23",
+      "excerpt": "I was trying to update some hoodies with the newer feature where you can update UGC items.. I had to fix the LC caging for a batch of hoodies i’ve made however for some reason one of them won’t update and gives me this message shortly after i prompt an item update: I’m confused about it since its th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-update-an-item/4951475.rss",
+      "id": "0e43f52477a777e77a73eb50"
     },
     {
       "source": "reddit-robloxdev",
@@ -1282,6 +1336,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-744/4949081.rss",
       "id": "bb320047065b1cda6eea273f"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Connect Claude AI To Roblox Studio - Full Guide - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SVjVnTHFxS2F2OVRmc2xtbzNST2tTb2ZYVEwtYjdWdHRXaHJMYWMtVUhuU1Nqb0p1QWx5YVNSWDlCb3lDM1EtbTBUWkxkaUVRTHFIeG93?oc=5",
+      "published": "2026-10-22",
+      "excerpt": "How To Connect Claude AI To Roblox Studio - Full Guide YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "b913160f700bc4929107fb67"
     },
     {
       "source": "roblox-devforum-latest",
@@ -6455,6 +6521,18 @@
       "id": "2ee508d4b88d2a741c6507a4"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Connect Claude AI To Roblox Studio - Tutorial - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UQUpaMURJaGNMcy1Rc1lKWWoyZ0NxYktCeDVQOHRHeDZxdGxhLTZPNm9LdFZlSTg5Q09iS1JyVnc5SGYxU21YUWUyMWMyaElGXzVZMGRn?oc=5",
+      "published": "2026-10-17",
+      "excerpt": "How To Connect Claude AI To Roblox Studio - Tutorial YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "2a771d1d97ccc2e04c843eb6"
+    },
+    {
       "source": "instagram-index",
       "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
       "category": "instagram_index",
@@ -7584,73 +7662,6 @@
       "excerpt": "🌍🏞️Four Environments, One World! Excited to share a terrain project I created as a test task at @elytrastudios.official ! 🎮 This was my second time using the Roblox Terrain System, and I learned so much while creating these different landscapes. 🌿 Lush gree Instagram",
       "creator": "",
       "id": "41704dd5265801dcaf2e5bb4"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Admin Treadmill in Steal an Egg #roblox #stealanegg - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CM1pIYmlKYjVoVGlfSG9aNXdGc05ocGNqeWFra2hFd2ZKQUxuY3VsNThpZUU1cld4Snh3bDdISm01UExScU1GVEZkMDBjZGFjQ2gzZEpiRnMzMEt2a0hnYm5YLXVGanUwUDl4Zg?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "Admin Treadmill in Steal an Egg #roblox #stealanegg TikTok",
-      "creator": "",
-      "id": "3ad2968f5da43c18b2d9a76b"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "👉New Tutorial: How To Connect ChatGPT To Roblox Studio! 🔗 Link in our bio or search Gauging Gadgets on YouTube. Learn how to connect ChatGPT to Roblox Studio in 2026 so you can use AI to help build yo",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxdHEydlFRRHpVZTEwTnR3WlRtcjhibEFqZ0lQUlgtWlVmR081LXoxbk1oSHYwQVFCWXN2N1k4aHBMNklRSy15Wm5ZMUN3VUt3UEE?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "👉New Tutorial: How To Connect ChatGPT To Roblox Studio! 🔗 Link in our bio or search Gauging Gadgets on YouTube. Learn how to connect ChatGPT to Roblox Studio in 2026 so you can use AI to help build your Roblox games. In this tutorial, I show you ho Instagram",
-      "creator": "",
-      "id": "2f47d276e7ebc8d137e0dcf3"
-    },
-    {
-      "source": "x-index",
-      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
-      "category": "x_index",
-      "title": "DEVELOPERS DON'T HATE AI CODING TOOLS FOR THE REASON YOU THINK. I made Claude read a month of complaints about Cursor, Claude Code and Codex from Reddit, X, Hacker News and YouTube comments. After cut",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iZUZqV3h4dnliUWM3R2lVdEdXZng1MG4tQ19WWXVGX3ppTUhjWm9iWXdPRkF0OHlCbmZWM3oyWXZ6aURTbFd2SVhORXc4NjNfU3VCbEQzVjIyRHhYMmZuNzVTTmVpTE0?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "DEVELOPERS DON'T HATE AI CODING TOOLS FOR THE REASON YOU THINK. I made Claude read a month of complaints about Cursor, Claude Code and Codex from Reddit, X, Hacker News and YouTube comments. After cutting the ads and memes, 95 r X",
-      "creator": "",
-      "id": "25d5b262f78885eabaa1fcea"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "More room for your catches. More adventures ahead! 🐟🐡 The latest Creatures of the Deep update brings 15 backpack slots, a redesigned notebook, and an improved New Day newspaper to keep your next goal ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rYi1FeWI1eXpCaU9WVlZNeU5YQi1jWEtYWmhiZlNpb2tsYTRubjhsVnJFZmh4WmlzWFl0OXpyRU9UcTFpYXJSWUcwcUw3Y2xpMG5KdUl3?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "More room for your catches. More adventures ahead! 🐟🐡 The latest Creatures of the Deep update brings 15 backpack slots, a redesigned notebook, and an improved New Day newspaper to keep your next goal in sight. Update now and cast your line! #Creatu Instagram",
-      "creator": "",
-      "id": "142d5345beac3794f49dee11"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How to make Roblox Games Using Claude - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45eTUwR2xIUFFjUm5LWkI4dG94aTRfOUo3cXJfLU5OUGJxd21NVHlreUo3S0d0NnBzRWpnNW4tQjF3UTBvVkZwM3ZMQjhxVVpaTDg3STJ3?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "How to make Roblox Games Using Claude YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "0901a6f202a900d82714aafb"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "How to Use Claude Code: Setup, Commands, and Workflows - Coursera",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBINmx3T2dKOVV3ZTRYREdvNE9aTWF5YVgwVUJHci1JYVc4RFpBcmVTb01mSTJoeWpvaEhRMkZwRnpOSksycE5NbVlTOC1Qc1BHU2xLVnk0SDdfeXJNRDc5LW1uWVZtUFU?oc=5",
-      "published": "2026-10-13",
-      "excerpt": "How to Use Claude Code: Setup, Commands, and Workflows Coursera",
-      "creator": "",
-      "id": "08e4b598e64bffcaeb8132a7"
     }
   ]
 }
