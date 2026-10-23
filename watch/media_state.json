@@ -910,7 +910,17 @@
     "a70265e1aed4ed729abf77e9",
     "bec139ccfbc35f6407eae201",
     "fa476b04386a31b973555dff",
-    "aa45b4b64804b8f7b85a2999"
+    "aa45b4b64804b8f7b85a2999",
+    "192b380a2b6ae391149c9a37",
+    "9baec534bdc702e1c8d0d7f0",
+    "5587c6caafd4b1600cea3105",
+    "1d9d5d30715061dd3f6cd500",
+    "25f4cbea56ed9ac7bdee7822",
+    "be018108789a052077f53ec5",
+    "919f2821f83fa65a79a2b93f",
+    "f56f24e70986b43e0725ab9e",
+    "b062a8354168c76d5bbe9d44",
+    "4210ac098b77f9af130df377"
   ],
   "items": [
     {
@@ -935,6 +945,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/promptgameinvite-keyword-not-working-as-intended/4951556.rss",
       "id": "f786e57b8a12ed92b5a729f5"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "My first game thoughts?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdh7u3/my_first_game_thoughts/",
+      "published": "2026-10-23",
+      "excerpt": "i made this game in hopes of a 1v1 against another player who looks like you horror esque multiplayer game find your doppelganger game load into the map look at the mirror kill your clone before it kills you in a round system lately ive been losing motivation to finish it just want some thoughts sub",
+      "creator": "/u/Pezettyx https://www.reddit.com/user/Pezettyx",
+      "id": "f56f24e70986b43e0725ab9e"
     },
     {
       "source": "reddit-robloxdev",
@@ -1111,6 +1132,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "[Playtesters Needed] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/",
+      "published": "2026-10-23",
+      "excerpt": "Hi everyone! 👋 I’m currently developing a new Roblox game, Steal a Ghost , and I really need your help! The game is still in a very early stage (early prototype) . Many features are missing, and some things might not work perfectly yet. Before I spend months finishing everything, I want to find out ",
+      "creator": "/u/Direct_Arugula_1022 https://www.reddit.com/user/Direct_Arugula_1022",
+      "id": "be018108789a052077f53ec5"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Roblox developers: how do you currently balance your game’s economy and progression?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/",
       "published": "2026-10-23",
@@ -1152,6 +1184,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/approved-image-appeal-not-applied-7-day-suspension-and-%E2%80%9Ccritical%E2%80%9D-account-status-remain-automated-false-positive-on-a-ui-icon/4952347.rss",
       "id": "b994295fbb3930e6d3bb1da4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How long did your game sit at \"16+\" before kids could see it?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdgu90/how_long_did_your_game_sit_at_16_before_kids/",
+      "published": "2026-10-23",
+      "excerpt": "My 8-year-old and I made a Roblox puzzle game together. He did the levels; we did the vibe-code. His friends can't play it :( It's 16+ until about 250 age-checked adults, who have also bought something on Roblox lately, play it within 60 days. We're running Engagement ads and asking adult friends. A",
+      "creator": "/u/Imaginary_Aioli4686 https://www.reddit.com/user/Imaginary_Aioli4686",
+      "id": "b062a8354168c76d5bbe9d44"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1262,6 +1305,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Function parameters inside an overloaded function are type unknown.",
+      "url": "https://devforum.roblox.com/t/function-parameters-inside-an-overloaded-function-are-type-unknown/4952562",
+      "published": "2026-10-23",
+      "excerpt": "type TestOverload = ((k: \"SomeNumber\", func: (nv: number) -> ()) -> ()) & ((k: \"SomeBoolean\", func: (nv: boolean) -> ()) -> ()) const Test: TestOverload = function(k, func) end Test(\"SomeNumber\", function(nv) -- nv is unknown. end) Studio’s tooltip does recognizes the correct overload from the first",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/function-parameters-inside-an-overloaded-function-are-type-unknown/4952562.rss",
+      "id": "9baec534bdc702e1c8d0d7f0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[Android] Unable to scroll through the end of the App information]",
       "url": "https://devforum.roblox.com/t/android-unable-to-scroll-through-the-end-of-the-app-information/4952196",
       "published": "2026-10-23",
@@ -1269,6 +1324,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/android-unable-to-scroll-through-the-end-of-the-app-information/4952196.rss",
       "id": "98a60c4f37523a5cd3a3f8f4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Please help me with modeling this room",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdhdjm/please_help_me_with_modeling_this_room/",
+      "published": "2026-10-23",
+      "excerpt": "Could someone please create or find an exact model of the room shown in the video—one that’s compatible with Roblox Studio? (To clarify: the rooms on the floor and the small stand/holder aren't needed.) I’d really appreciate the help! submitted by /u/Chemical-Homework110 [link] [comments]",
+      "creator": "/u/Chemical-Homework110 https://www.reddit.com/user/Chemical-Homework110",
+      "id": "919f2821f83fa65a79a2b93f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1501,6 +1567,18 @@
       "id": "583ae3f00485712dbbe0b142"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Trouble publishing and saving the game after the new Terrain update.",
+      "url": "https://devforum.roblox.com/t/trouble-publishing-and-saving-the-game-after-the-new-terrain-update/4952495",
+      "published": "2026-10-23",
+      "excerpt": "Hello, We are currently in trouble regarding our place since we’ve enabled the New Expanded terrain update, we are unable to save / publish on a Team create place, nor playtest in Team test. Since this happened, we are also unable to disable it. This happened by enabling the Expanded Terrain option.",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/trouble-publishing-and-saving-the-game-after-the-new-terrain-update/4952495.rss",
+      "id": "5587c6caafd4b1600cea3105"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1556,6 +1634,17 @@
       "creator": "",
       "publisher": "https://www.youtube.com",
       "id": "45b7315c6847ceb14ac15806"
+    },
+    {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "get in the mix 🎛️ Beat Battles x Hit-Boy limited time collab, live now.",
+      "url": "https://www.youtube.com/shorts/qkpBgy4860o",
+      "published": "2026-10-23",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "4210ac098b77f9af130df377"
     },
     {
       "source": "reddit-robloxdev",
@@ -1652,6 +1741,18 @@
       "id": "260006c1211c24ebb125f605"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[MicroProfiler] Text and labels completely disappear after stopping a Play Solo session",
+      "url": "https://devforum.roblox.com/t/microprofiler-text-and-labels-completely-disappear-after-stopping-a-play-solo-session/4952469",
+      "published": "2026-10-23",
+      "excerpt": "Stopping a playtest (F5 → Stop) while MicroProfiler (Ctrl+F6) is active breaks text rendering. All labels and thread names turn into blank gray rectangles. Expected behavior Text labels and thread names should remain readable after stopping the test. 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/microprofiler-text-and-labels-completely-disappear-after-stopping-a-play-solo-session/4952469.rss",
+      "id": "25f4cbea56ed9ac7bdee7822"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1712,6 +1813,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Super Destroyer in Roblox",
+      "url": "https://devforum.roblox.com/t/super-destroyer-in-roblox/4952480",
+      "published": "2026-10-23",
+      "excerpt": "This is a showcase project I have been working on to let players experience the magnificent scale and immersive atmosphere of the Super Destroyer from Helldivers 2 inside of Roblox. Please note: A full game will NOT be made. All credits and rights go to Arrowhead Game Studios. This is just a passion",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/super-destroyer-in-roblox/4952480.rss",
+      "id": "1d9d5d30715061dd3f6cd500"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Voting screen not showing",
       "url": "https://devforum.roblox.com/t/voting-screen-not-showing/4951827",
       "published": "2026-10-23",
@@ -1719,6 +1832,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/voting-screen-not-showing/4951827.rss",
       "id": "194a418c8653ed09fbb84dd7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Iron Brainrot (Worked 11 months on it)",
+      "url": "https://devforum.roblox.com/t/iron-brainrot-worked-11-months-on-it/4952565",
+      "published": "2026-10-23",
+      "excerpt": "Game Link Even thought the game is really good I’m not getting any players on it even with ads. The new rule that new games can only be played by 16+ year olds is ruining this games progress. What else do you think might be causing the problem? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/iron-brainrot-worked-11-months-on-it/4952565.rss",
+      "id": "192b380a2b6ae391149c9a37"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7655,118 +7780,6 @@
       "excerpt": "الردود بواسطة pauline (@pauline_makes) X",
       "creator": "",
       "id": "dc035b3384be0332b42083d4"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] Package Overrides and Usability Improvements",
-      "url": "https://devforum.roblox.com/t/studio-beta-package-overrides-and-usability-improvements/4936628",
-      "published": "2026-10-15",
-      "excerpt": "Key Takeaways Package Overrides lets you edit a package in your place, while continuing to receive updates. Studio tracks each change as an override and reapplies it whenever the source package is updated. In Studio, go to File > Beta Features and enable Package Overrides. Hi Creators, Packages let ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-beta-package-overrides-and-usability-improvements/4936628.rss",
-      "id": "da32518b3522515530ccea23"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Cline Free Download Windows | Download Cline for Windows | Cline Full Version Windows 2027 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHZ0VFR05PYnJVaDR3UG15b3MxaTIwVWZSd3M1eTZnUDZTRnV3NkxHc3ZQV3pINjRIQi1EM1B1dnZEMHJpRTJXR3ZWMzZzcEVrSHRING5Ga0xHWDVLUzl3QQ?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "Cline Free Download Windows | Download Cline for Windows | Cline Full Version Windows 2027 YouTube",
-      "creator": "",
-      "id": "d87e667e229634101b162438"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Makeup Now Available for In-Experience Creation",
-      "url": "https://devforum.roblox.com/t/makeup-now-available-for-in-experience-creation/4936543",
-      "published": "2026-10-15",
-      "excerpt": "Key Takeaways Players can now create, pay for, and save custom makeup, eyelashes, and eyebrows from inside your game. You earn a 70% revenue share on purchases after recouping the creation advance. Try it in the uncopylocked Roblox Avatar Creator demo. Hi Creators, Today, we’re launching In-Experien",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/makeup-now-available-for-in-experience-creation/4936543.rss",
-      "id": "cefd13da3ed794572ea3308f"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "I Played My Friendly Neighborhood In VR - Resident Evil With Puppets! - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZOGh6Um5OMlJjTXVyOWlfbWE1Y3VCT05zQ1FnRkJZUmdja0dlTV9mRzRUMXZRQXdfMVlqLTFfOFdLdENZV2JYcUtvY0hDOWdJNTlxYjVvTFJRcmNFUEE?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "I Played My Friendly Neighborhood In VR - Resident Evil With Puppets! YouTube",
-      "creator": "",
-      "id": "cc958755fc372207229ecb18"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "🚀 WHICH CODING TOOL IS RIGHT FOR YOUR CHILD? 💻🎮 Every child can learn to code—but the best starting point depends on their age, interests and learning style! 🟠 Scratch: Create animations, stories and ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Rd29YaFczb2JtdFZYYzBldmh6ZWdjQ0pRMy0yUkEwSFZ0QVUwV2xrMmNjbU1JR3UxRGt2Q1FjWk5acWVxeFFWUG5yR1hXdXdmSHBfMjBR?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "🚀 WHICH CODING TOOL IS RIGHT FOR YOUR CHILD? 💻🎮 Every child can learn to code—but the best starting point depends on their age, interests and learning style! 🟠 Scratch: Create animations, stories and games using drag-and-drop blocks. Great for bu Instagram",
-      "creator": "",
-      "id": "c484a4502bfc467f5b692f1a"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Nvidia Is ‘Massively Underestimated,’ Says Dan Ives, Ahead Of Q4 Earnings - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0dPZVQtTTdDZUVCalFfYnU1NGI3WEJsRjZTLTZua2JGY0VVblpyZVdWamdmRWx4aEJtOUpYaWRYaFVOaDRfalZiMFhweDVOOVNOZXgwaU1mVlJkS1V0QmgtV0dRckVndHNvTVJyNVpPMXp5cDVzVDRzczV0Xy1yblR3aVhNR3hpQnc1Mjd1MzcyLVlwM3kzZTh1MmxuSDJMcXNOeWE4Z0JXWUsyNHZLVXJnUmo3T1dIQnBCaFRqS3Ata1ZJOGRoVUIxTFFiUQ?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "Nvidia Is ‘Massively Underestimated,’ Says Dan Ives, Ahead Of Q4 Earnings Stocktwits",
-      "creator": "",
-      "id": "bfcfa74d6069c3826cd652d2"
-    },
-    {
-      "source": "x-index",
-      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
-      "category": "x_index",
-      "title": "Why is my art always Not good enough for a many commission, But always Good enough to steal + feed to AI I'm tired... - X",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taDhlQmx2ZzNOd29NdmZZMnpfUC1sWGlNYTZScE9oelBlOGRjMG5GM3JCQlFiOE9pQzlTaW80S0RKbEE3MTFxZEtSdzhjeGNUUXl0dUdnQ3drb0Y3QjdTZw?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "Why is my art always Not good enough for a many commission, But always Good enough to steal + feed to AI I'm tired... X",
-      "creator": "",
-      "id": "b50ad0a3eabd83416d62abb8"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "ChatGPT vs Claude vs Gemini: 20x App Integration Gap [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclZOdEFQd3F1SEZrZ2lJWUttQTlzMnRndnE2cjRib3Z1TXBxa2ZCTFh4VHR6di16djNFSzROXzJLM1dxVXpmaHA0UWRjMi1nVFFCTGFCVTJfejdkVkY3RTdPV2tvMndoeEFSZFBQNi13SFJNWDFHNVRVblNRc2xMU05kcjQ?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "ChatGPT vs Claude vs Gemini: 20x App Integration Gap [2026] tech-insider.org",
-      "creator": "",
-      "id": "b4541d448fe9b09ebd335b60"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Download Claude Max Free for Windows 2026 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERmd4d21hTzFfTHFPWlNfaEZkQ2gtcEdmLWdxeDNnS1pBSi1Mbk05Ry16eE13Vm5JOTJ3OEhJNjhIaTRrR0JOUDE2VFAzQzl1TTFGdWctY1dvb3N3T2doeQ?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "Download Claude Max Free for Windows 2026 YouTube",
-      "creator": "",
-      "id": "b1239f6c50fdb11e2259659d"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Devin AI Latest Version Free Download 2026 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02XzdiTkU4RG1WWV9wdmlHeEFQd2ZkUWhyRGhrM2lCTURJa1p0eWd1SVZVQWw1ck5LOGRIVE5FZ1djTFgyVnF2di1mUEVpUDRZX1JIdFczNHhsdmxSRU1PRA?oc=5",
-      "published": "2026-10-15",
-      "excerpt": "Devin AI Latest Version Free Download 2026 YouTube",
-      "creator": "",
-      "id": "ac67172398f2597b58d1a811"
     }
   ]
 }

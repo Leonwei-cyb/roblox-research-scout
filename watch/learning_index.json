@@ -1141,34 +1141,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4936543:1",
-      "url": "https://devforum.roblox.com/t/makeup-now-available-for-in-experience-creation/4936543",
-      "title": "Makeup Now Available for In-Experience Creation",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-15",
-      "kind": "devforum",
-      "signals": [
-        "physical tycoon purchases",
-        "tuition and economy",
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4936628:1",
-      "url": "https://devforum.roblox.com/t/studio-beta-package-overrides-and-usability-improvements/4936628",
-      "title": "[Studio Beta] Package Overrides and Usability Improvements",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-15",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4940983:1",
       "url": "https://devforum.roblox.com/t/a-probeless-accurate-spatial-query-method-for-worldmodel-for-parallel-luau/4940983",
       "title": "A Probeless Accurate Spatial Query Method for WorldModel (for Parallel Luau)",
@@ -1964,6 +1936,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952495:1",
+      "url": "https://devforum.roblox.com/t/trouble-publishing-and-saving-the-game-after-the-new-terrain-update/4952495",
+      "title": "Trouble publishing and saving the game after the new Terrain update.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -2579,6 +2564,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdi58m",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/",
+      "title": "[Playtesters Needed] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4938282:1",
       "url": "https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282",
       "title": "[Beta] Introducing Quality Mode for Texture Generation",
@@ -3027,6 +3025,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdhdjm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdhdjm/please_help_me_with_modeling_this_room/",
+      "title": "Please help me with modeling this room",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:6aFu9wbY4js",
       "url": "https://www.youtube.com/shorts/6aFu9wbY4js",
       "title": "head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.",
@@ -3098,6 +3110,17 @@
       "title": "ghost the candy. get robux. mini packs available now at target.",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "published": "2026-10-16",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "youtube:qkpBgy4860o",
+      "url": "https://www.youtube.com/shorts/qkpBgy4860o",
+      "title": "get in the mix 🎛️ Beat Battles x Hit-Boy limited time collab, live now.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-10-23",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -3936,6 +3959,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952480:1",
+      "url": "https://devforum.roblox.com/t/super-destroyer-in-roblox/4952480",
+      "title": "Super Destroyer in Roblox",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952562:1",
+      "url": "https://devforum.roblox.com/t/function-parameters-inside-an-overloaded-function-are-type-unknown/4952562",
+      "title": "Function parameters inside an overloaded function are type unknown.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952565:1",
+      "url": "https://devforum.roblox.com/t/iron-brainrot-worked-11-months-on-it/4952565",
+      "title": "Iron Brainrot (Worked 11 months on it)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -4646,6 +4708,32 @@
       "kind": "reddit",
       "signals": [
         "tuition and economy"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdgu90",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdgu90/how_long_did_your_game_sit_at_16_before_kids/",
+      "title": "How long did your game sit at \"16+\" before kids could see it?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdh7u3",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdh7u3/my_first_game_thoughts/",
+      "title": "My first game thoughts?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5861,6 +5949,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952469:1",
+      "url": "https://devforum.roblox.com/t/microprofiler-text-and-labels-completely-disappear-after-stopping-a-play-solo-session/4952469",
+      "title": "[MicroProfiler] Text and labels completely disappear after stopping a Play Solo session",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
@@ -6908,19 +7007,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9Rd29YaFczb2JtdFZYYzBldmh6ZWdjQ0pRMy0yUkEwSFZ0QVUwV2xrMmNjbU1JR3UxRGt2Q1FjWk5acWVxeFFWUG5yR1hXdXdmSHBfMjBR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Rd29YaFczb2JtdFZYYzBldmh6ZWdjQ0pRMy0yUkEwSFZ0QVUwV2xrMmNjbU1JR3UxRGt2Q1FjWk5acWVxeFFWUG5yR1hXdXdmSHBfMjBR?oc=5",
-      "title": "🚀 WHICH CODING TOOL IS RIGHT FOR YOUR CHILD? 💻🎮 Every child can learn to code—but the best starting point depends on their age, interests and learning style! 🟠 Scratch: Create animations, stories and",
-      "source": "instagram-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [
-        "cat animation and audio"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9TTjFGd2t0cEdxVHd3alc0aXpwcllkQ0pyMkVCZTBzOGNlQ0l6UzVWVjJEQ3k1RnRzV0E3VTVIdGhrMTJpMnRVVWRiVzl6TXBzeFFMQkhR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TTjFGd2t0cEdxVHd3alc0aXpwcllkQ0pyMkVCZTBzOGNlQ0l6UzVWVjJEQ3k1RnRzV0E3VTVIdGhrMTJpMnRVVWRiVzl6TXBzeFFMQkhR?oc=5",
       "title": "PHILLY THE GAME — LeBRON DLC 🏀👑 Want to be an NPC in the next episode? 👀 👇 Comment “PUT ME IN” and I’ll send you the link to submit your character. And the waitlist for the future server. 🏷️ Tag a fri",
@@ -7134,17 +7220,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiXkFVX3lxTE1ZOGh6Um5OMlJjTXVyOWlfbWE1Y3VCT05zQ1FnRkJZUmdja0dlTV9mRzRUMXZRQXdfMVlqLTFfOFdLdENZV2JYcUtvY0hDOWdJNTlxYjVvTFJRcmNFUEE",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZOGh6Um5OMlJjTXVyOWlfbWE1Y3VCT05zQ1FnRkJZUmdja0dlTV9mRzRUMXZRQXdfMVlqLTFfOFdLdENZV2JYcUtvY0hDOWdJNTlxYjVvTFJRcmNFUEE?oc=5",
-      "title": "I Played My Friendly Neighborhood In VR - Resident Evil With Puppets! - YouTube",
-      "source": "video-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc?oc=5",
       "title": "How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube",
@@ -7167,55 +7242,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE02XzdiTkU4RG1WWV9wdmlHeEFQd2ZkUWhyRGhrM2lCTURJa1p0eWd1SVZVQWw1ck5LOGRIVE5FZ1djTFgyVnF2di1mUEVpUDRZX1JIdFczNHhsdmxSRU1PRA",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02XzdiTkU4RG1WWV9wdmlHeEFQd2ZkUWhyRGhrM2lCTURJa1p0eWd1SVZVQWw1ck5LOGRIVE5FZ1djTFgyVnF2di1mUEVpUDRZX1JIdFczNHhsdmxSRU1PRA?oc=5",
-      "title": "Devin AI Latest Version Free Download 2026 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE4taDhlQmx2ZzNOd29NdmZZMnpfUC1sWGlNYTZScE9oelBlOGRjMG5GM3JCQlFiOE9pQzlTaW80S0RKbEE3MTFxZEtSdzhjeGNUUXl0dUdnQ3drb0Y3QjdTZw",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taDhlQmx2ZzNOd29NdmZZMnpfUC1sWGlNYTZScE9oelBlOGRjMG5GM3JCQlFiOE9pQzlTaW80S0RKbEE3MTFxZEtSdzhjeGNUUXl0dUdnQ3drb0Y3QjdTZw?oc=5",
-      "title": "Why is my art always Not good enough for a many commission, But always Good enough to steal + feed to AI I'm tired... - X",
-      "source": "x-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE5ERmd4d21hTzFfTHFPWlNfaEZkQ2gtcEdmLWdxeDNnS1pBSi1Mbk05Ry16eE13Vm5JOTJ3OEhJNjhIaTRrR0JOUDE2VFAzQzl1TTFGdWctY1dvb3N3T2doeQ",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERmd4d21hTzFfTHFPWlNfaEZkQ2gtcEdmLWdxeDNnS1pBSi1Mbk05Ry16eE13Vm5JOTJ3OEhJNjhIaTRrR0JOUDE2VFAzQzl1TTFGdWctY1dvb3N3T2doeQ?oc=5",
-      "title": "Download Claude Max Free for Windows 2026 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiYEFVX3lxTE9mYkVLVE44ZG5ITm5NUmF0UnRMYnFKTnFkeFBCTk5kSjFvdm16RUduVzJKVFVFZEl1ZVo4STVYX2xpcUxIWmNyVUVIRDJFS0s4NjlMVU5mZHljU2hoY3R6aA",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mYkVLVE44ZG5ITm5NUmF0UnRMYnFKTnFkeFBCTk5kSjFvdm16RUduVzJKVFVFZEl1ZVo4STVYX2xpcUxIWmNyVUVIRDJFS0s4NjlMVU5mZHljU2hoY3R6aA?oc=5",
       "title": "Cursor Latest Version Free Download 2027 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiYEFVX3lxTFBHZ0VFR05PYnJVaDR3UG15b3MxaTIwVWZSd3M1eTZnUDZTRnV3NkxHc3ZQV3pINjRIQi1EM1B1dnZEMHJpRTJXR3ZWMzZzcEVrSHRING5Ga0xHWDVLUzl3QQ",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHZ0VFR05PYnJVaDR3UG15b3MxaTIwVWZSd3M1eTZnUDZTRnV3NkxHc3ZQV3pINjRIQi1EM1B1dnZEMHJpRTJXR3ZWMzZzcEVrSHRING5Ga0xHWDVLUzl3QQ?oc=5",
-      "title": "Cline Free Download Windows | Download Cline for Windows | Cline Full Version Windows 2027 - YouTube",
       "source": "video-index",
       "published": "2026-10-15",
       "kind": "index-only",
@@ -7385,17 +7414,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMihAFBVV95cUxNclZOdEFQd3F1SEZrZ2lJWUttQTlzMnRndnE2cjRib3Z1TXBxa2ZCTFh4VHR6di16djNFSzROXzJLM1dxVXpmaHA0UWRjMi1nVFFCTGFCVTJfejdkVkY3RTdPV2tvMndoeEFSZFBQNi13SFJNWDFHNVRVblNRc2xMU05kcjQ",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclZOdEFQd3F1SEZrZ2lJWUttQTlzMnRndnE2cjRib3Z1TXBxa2ZCTFh4VHR6di16djNFSzROXzJLM1dxVXpmaHA0UWRjMi1nVFFCTGFCVTJfejdkVkY3RTdPV2tvMndoeEFSZFBQNi13SFJNWDFHNVRVblNRc2xMU05kcjQ?oc=5",
-      "title": "ChatGPT vs Claude vs Gemini: 20x App Integration Gap [2026] - tech-insider.org",
-      "source": "claude-news",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMihgFBVV95cUxPUlFvSEladUVkZFRkUmY4ZUJENGNSclF1ejRENThnYU9FS291c243clpHTlNpNHloemREeHJVSm9QSE9wRDU0UXZ1eEhKNnlheFNEeHFrM2MwdkJxc1ZuNzV0MjZYN2xBWG1SZXk0RmtsWldlbzZQOVhTOTBSSUplNW1jMHRkUQ",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlFvSEladUVkZFRkUmY4ZUJENGNSclF1ejRENThnYU9FS291c243clpHTlNpNHloemREeHJVSm9QSE9wRDU0UXZ1eEhKNnlheFNEeHFrM2MwdkJxc1ZuNzV0MjZYN2xBWG1SZXk0RmtsWldlbzZQOVhTOTBSSUplNW1jMHRkUQ?oc=5",
       "title": "Claude Code Plugins Go Official at v2.1.302 [2026] - https://tech-insider.org/",
@@ -7414,19 +7432,6 @@
       "published": "2026-10-18",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMizgFBVV95cUxOT0dPZVQtTTdDZUVCalFfYnU1NGI3WEJsRjZTLTZua2JGY0VVblpyZVdWamdmRWx4aEJtOUpYaWRYaFVOaDRfalZiMFhweDVOOVNOZXgwaU1mVlJkS1V0QmgtV0dRckVndHNvTVJyNVpPMXp5cDVzVDRzczV0Xy1yblR3aVhNR3hpQnc1Mjd1MzcyLVlwM3kzZTh1MmxuSDJMcXNOeWE4Z0JXWUsyNHZLVXJnUmo3T1dIQnBCaFRqS3Ata1ZJOGRoVUIxTFFiUQ",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0dPZVQtTTdDZUVCalFfYnU1NGI3WEJsRjZTLTZua2JGY0VVblpyZVdWamdmRWx4aEJtOUpYaWRYaFVOaDRfalZiMFhweDVOOVNOZXgwaU1mVlJkS1V0QmgtV0dRckVndHNvTVJyNVpPMXp5cDVzVDRzczV0Xy1yblR3aVhNR3hpQnc1Mjd1MzcyLVlwM3kzZTh1MmxuSDJMcXNOeWE4Z0JXWUsyNHZLVXJnUmo3T1dIQnBCaFRqS3Ata1ZJOGRoVUIxTFFiUQ?oc=5",
-      "title": "Nvidia Is ‘Massively Underestimated,’ Says Dan Ives, Ahead Of Q4 Earnings - Stocktwits",
-      "source": "claude-news",
-      "published": "2026-10-15",
-      "kind": "index-only",
-      "signals": [
-        "tuition and economy"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     }

@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "ce91b85220ad3be2fa6c391899e0b5c2e41cb770",
-      "head_subject": "Favicon - Clear the saved favicon when the watch URL changes (#4569) (#4586)",
+      "head": "2bd1a87403b83eb6f37f9f23c04ee2555baccba0",
+      "head_subject": "Tests - Fix test_itemprop_percent_threshold for WTForms 3.3 (FloatField is now type=\"number\") (#4588)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.9",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "c919060c06b65d8c586b77044223ed24f76c8f23",
-      "head_subject": "Merge pull request #3805 from huginn/renovate/ruby",
+      "head": "80dd296d232e2ccb59f732bc646250a20cd1203b",
+      "head_subject": "Merge pull request #3808 from huginn/renovate/https-github.com-stripe-smokescreen-digest",
       "name": "huginn/huginn",
       "release_tag": "v2026.10.14",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.14",
