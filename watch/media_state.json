@@ -804,9 +804,83 @@
     "c31063d6dbd9e1b91630beb4",
     "67151742c628a4f27da50a9a",
     "89a383a280bff3131d275eb3",
-    "32821ff4aeedcb3de8b41a80"
+    "32821ff4aeedcb3de8b41a80",
+    "361427266eb422618eadcc97",
+    "0c6f2e357b3a1425df1b94fd",
+    "accbb83f995264141ee73995",
+    "e7e7445cd9cad65e27b71ee9",
+    "ccee97c3380484c09907c228",
+    "78d5f2ac46484fbea4800e4f",
+    "b4f6474d6277478899413834",
+    "959e9d507c6c4befe2a11a1c",
+    "b8171b14af5d5e827148d175",
+    "55ae69f6a03832dcca00e5c0",
+    "a3c08cf08493e45e684783ce",
+    "78336ff15c3a3c9fe27886c8",
+    "0509969c697c83eda95867b6",
+    "744383c1c18c65e1ffdd3e09",
+    "d0edd870bc1216d7382c745f",
+    "744beb920d949412ef9c9458",
+    "1573910ae9c94e44bc9c7221",
+    "c7259b26c072c6bd9453b0b8"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What should i do to get into the algorithm?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
+      "published": "2026-10-23",
+      "excerpt": "Hey guys, i have a max of 60 ad credits to spend so i was wondering what should i do for a campaign to try and break into the algorith and homepageand make some profit so i can either reinvest back into the game or just make money This is my first game ive really tried on and i think its good enough",
+      "creator": "/u/goonmaster6942067 https://www.reddit.com/user/goonmaster6942067",
+      "id": "d0edd870bc1216d7382c745f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "tool and arms doesn't animate :(",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczajw/tool_and_arms_doesnt_animate/",
+      "published": "2026-10-23",
+      "excerpt": "I use moon animator, I use 3 animations for the hammer, idle, movement and action, but when I equip the hammer, the arms and the hammer doesn't animate, is there a way to solve this? I will appreciate help, ty submitted by /u/matioxi333 [link] [comments]",
+      "creator": "/u/matioxi333 https://www.reddit.com/user/matioxi333",
+      "id": "744beb920d949412ef9c9458"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "when i try to import this rig into studio the weight paints completely mess up",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczhrd/when_i_try_to_import_this_rig_into_studio_the/",
+      "published": "2026-10-23",
+      "excerpt": "submitted by /u/Itchy_Record4879 [link] [comments]",
+      "creator": "/u/Itchy_Record4879 https://www.reddit.com/user/Itchy_Record4879",
+      "id": "744383c1c18c65e1ffdd3e09"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How would I make this generation faster (or have a BulkMoveTo like thingy m' jing)?",
+      "url": "https://devforum.roblox.com/t/how-would-i-make-this-generation-faster-or-have-a-bulkmoveto-like-thingy-m-jing/4951278",
+      "published": "2026-10-23",
+      "excerpt": "currently its like this: and heres the code (comments aren’t in the actual code): --!optimize 2 -- yea this optimize flag is unnecessary, idk what it even does but I'll include it anyways const runService = game:GetService(\"RunService\") const RootAttach = workspace.Terrain.LoadSpawn -- this is an at",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-would-i-make-this-generation-faster-or-have-a-bulkmoveto-like-thingy-m-jing/4951278.rss",
+      "id": "361427266eb422618eadcc97"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Progress video of my Roblox Horror Game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczmft/progress_video_of_my_roblox_horror_game/",
+      "published": "2026-10-23",
+      "excerpt": "hii!! I posted a few screenshots last night, but I decided I'd post this video I took too! It shows off the minigames a bit better and how everything works. It also features a few glitches LOL Ignore how bad the quality is... Lemme know if you have questions or suggestions !! submitted by /u/TheLove",
+      "creator": "/u/TheLoveRiddle https://www.reddit.com/user/TheLoveRiddle",
+      "id": "0509969c697c83eda95867b6"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -914,6 +988,18 @@
       "id": "f033f9cfc8dfdddb7edba779"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Collaboration? (Environmental Artist/Builder)",
+      "url": "https://devforum.roblox.com/t/collaboration-environmental-artistbuilder/4951134",
+      "published": "2026-10-22",
+      "excerpt": "Anyone looking to collaborate for a project?? If the time is worth it I’ll be willing to build or work upon a team ! Let me know !!! My builds are all about realism! I can also 3d model !! Inbox me here or on discord @ notagaxinn 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/collaboration-environmental-artistbuilder/4951134.rss",
+      "id": "e7e7445cd9cad65e27b71ee9"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1015,6 +1101,18 @@
       "excerpt": "Title basically. I’m wondering, how do games like those anime tower defense games (and others) do it for the accessories, hairs, faces and clothing that the anime characters wear? Do they really produce everything by hand? I also saw a couple of anime games that had a decent amount of players but ha",
       "creator": "/u/AttitudeEither7472 https://www.reddit.com/user/AttitudeEither7472",
       "id": "d0913f4af3e8e39041f63941"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Technologically impressive simcade FPS game, needs review before GA",
+      "url": "https://devforum.roblox.com/t/technologically-impressive-simcade-fps-game-needs-review-before-ga/4951094",
+      "published": "2026-10-22",
+      "excerpt": "I’m making a dual-genre game of simulation shooters like Arma and Squad, with arcade shooters like Battlefield and MW. Right now it’s in its very first steps, need advice from more experienced people to guide me towards making the next best thing with impressive advancements in technology with what ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/technologically-impressive-simcade-fps-game-needs-review-before-ga/4951094.rss",
+      "id": "ccee97c3380484c09907c228"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1137,6 +1235,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "I see someone elses UGC in my avatar items",
+      "url": "https://devforum.roblox.com/t/i-see-someone-elses-ugc-in-my-avatar-items/4950935",
+      "published": "2026-10-22",
+      "excerpt": "I have not made any UGC on roblox at all. I only buy from creators. I sold these and its coming up that I made these and shows visual for configure/ads and view on roblox. Don’t worry create ad and configure DOES NOT WORK just goes to a page saying no perms or something like that 1 post - 1 particip",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-see-someone-elses-ugc-in-my-avatar-items/4950935.rss",
+      "id": "b8171b14af5d5e827148d175"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Anyone else had a counter-notice denied with zero explanation?",
       "url": "https://devforum.roblox.com/t/anyone-else-had-a-counter-notice-denied-with-zero-explanation/4950163",
       "published": "2026-10-22",
@@ -1173,6 +1283,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "AutomaticCanvasSize does not properly account for UIPadding.PaddingTop with UIGridLayout",
+      "url": "https://devforum.roblox.com/t/automaticcanvassize-does-not-properly-account-for-uipaddingpaddingtop-with-uigridlayout/4951009",
+      "published": "2026-10-22",
+      "excerpt": "When using a ScrollingFrame with AutomaticCanvasSize set to Y , along with a UIGridLayout and UIPadding , increasing PaddingTop moves the grid content downward, but the scrollable canvas does not expand accordingly. As a result, some elements extend beyond the scrollable area and become clipped, eve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/automaticcanvassize-does-not-properly-account-for-uipaddingpaddingtop-with-uigridlayout/4951009.rss",
+      "id": "b4f6474d6277478899413834"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Sound:SeekOverTimeAsync( seekTime : number, duration : number )",
       "url": "https://devforum.roblox.com/t/soundseekovertimeasync-seektime-number-duration-number/4950368",
       "published": "2026-10-22",
@@ -1191,6 +1313,18 @@
       "excerpt": "I just made an incremental game where you have to code your drone in python to make it farm stuff. Check it out! Yes, this is heavily based off of that steam game submitted by /u/BraindeadReece9000 [link] [comments]",
       "creator": "/u/BraindeadReece9000 https://www.reddit.com/user/BraindeadReece9000",
       "id": "af3c86358fca06c34b87617b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add a Shadow Material",
+      "url": "https://devforum.roblox.com/t/add-a-shadow-material/4951240",
+      "published": "2026-10-22",
+      "excerpt": "As a Roblox developer, it is currently too hard to … Cast a shadow from an invisible source. See this thread for more details on someone’s glitchy workaround for everything but iPad. If Roblox is able to address this issue, it would improve my development experience because … It’s legitimately a gre",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-a-shadow-material/4951240.rss",
+      "id": "accbb83f995264141ee73995"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1277,6 +1411,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "EditableMesh writes (BatchSetValues/SetPosition) intermittently ~350x slower in Windows client 744: 3-5 FPS, never in Studio",
+      "url": "https://devforum.roblox.com/t/editablemesh-writes-batchsetvaluessetposition-intermittently-350x-slower-in-windows-client-744-3-5-fps-never-in-studio/4950870",
+      "published": "2026-10-22",
+      "excerpt": "In my experience, writing to EditableMeshes randomly gets super slow in the Windows client. Normally a BatchSetValues call costs ~0.013-0.04 µs per value (same as in Studio). Every 10-15 seconds the client flips into a state where it costs 5-10 µs per value, so about 350x slower, then flips back on ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/editablemesh-writes-batchsetvaluessetposition-intermittently-350x-slower-in-windows-client-744-3-5-fps-never-in-studio/4950870.rss",
+      "id": "a3c08cf08493e45e684783ce"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Terrain over the recommended 16 voxels thickness disappears at distance",
       "url": "https://devforum.roblox.com/t/terrain-over-the-recommended-16-voxels-thickness-disappears-at-distance/4950696",
       "published": "2026-10-22",
@@ -1308,6 +1454,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/super-freeze-tag-feedback/4950083.rss",
       "id": "96dd61399730f53dc3cc59a9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What is the issue with ROBLOX UI?",
+      "url": "https://devforum.roblox.com/t/what-is-the-issue-with-roblox-ui/4950995",
+      "published": "2026-10-22",
+      "excerpt": "You can write your topic however you want, but you need to answer these questions: What do you want to achieve? Keep it simple and clear! I want my green accent to match up with the frame. What is the issue? Include screenshots / videos if possible! It goes insane when trying to scale it. What solut",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-is-the-issue-with-roblox-ui/4950995.rss",
+      "id": "959e9d507c6c4befe2a11a1c"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1342,6 +1500,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/first-i-think-live-stream-in-roblox-at-480p-and-24fps/4949105.rss",
       "id": "7d16c3e3635579fd859b15e0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "UISim3D - A Per-Element Sub-Component for 3D Manipulation of UI",
+      "url": "https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061",
+      "published": "2026-10-22",
+      "excerpt": "As a Roblox developer, it is currently too hard to … Position, Rotate, and Skew / Scale UI Components ( Without eating your CPU, dry, no jam ) This is literally impossible atm without a bunch of SurfaceGuis, and it’s been a standard of UI across the board for years: If Roblox is able to address this",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061.rss",
+      "id": "78d5f2ac46484fbea4800e4f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Legion titan model for our Titanfall 2 Roblox project",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcwnum/legion_titan_model_for_our_titanfall_2_roblox/",
+      "published": "2026-10-22",
+      "excerpt": "submitted by /u/gneethbappyer1 [link] [comments]",
+      "creator": "/u/gneethbappyer1 https://www.reddit.com/user/gneethbappyer1",
+      "id": "78336ff15c3a3c9fe27886c8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1495,6 +1676,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/server-authority-client-cpu-load-alone-causes-rollbacks-on-a-contact-free-predicted-part-each-rollback-costs-15%E2%80%9331-ms/4949968.rss",
       "id": "59830defb81e6be3ff0313b6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Refund request failed. Please check your connection and try again",
+      "url": "https://devforum.roblox.com/t/refund-request-failed-please-check-your-connection-and-try-again/4950904",
+      "published": "2026-10-22",
+      "excerpt": "i get this error whenever i try and request a refund for the expedited review 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/refund-request-failed-please-check-your-connection-and-try-again/4950904.rss",
+      "id": "55ae69f6a03832dcca00e5c0"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1811,6 +2004,17 @@
       "id": "1d198a675a6a61d183315d4c"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How much did reaching 250 HEP affect your game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcy5q1/how_much_did_reaching_250_hep_affect_your_game/",
+      "published": "2026-10-22",
+      "excerpt": "How much did reaching the 250 highly engaged players count impact your game, the rate at which I'm accumulating it is extremely low right now which makes me wonder if it is even worth pushing onwards to that number using ads, I know that it is going to be lowered to 100 in November but it will still",
+      "creator": "/u/Mootje015- https://www.reddit.com/user/Mootje015-",
+      "id": "1573910ae9c94e44bc9c7221"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1820,6 +2024,18 @@
       "excerpt": "My account is 16-17 (With a parent account linked that's ID verified) and on my account I have Roblox plus (The cheapest) Am eligible for this to work in my game if I buy it? submitted by /u/Same_Environment_100 [link] [comments]",
       "creator": "/u/Same_Environment_100 https://www.reddit.com/user/Same_Environment_100",
       "id": "0e72578372d04fc894f51ad7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Batteries appear to defy gravity",
+      "url": "https://devforum.roblox.com/t/batteries-appear-to-defy-gravity/4951242",
+      "published": "2026-10-22",
+      "excerpt": "I made these battery models a while back nearing the start of my project and just recently (maybe with the addition of experimental fluid forces) they have started to float. 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/batteries-appear-to-defy-gravity/4951242.rss",
+      "id": "0c6f2e357b3a1425df1b94fd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7428,195 +7644,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/improved-discovery-measurement-in-creator-analytics/4930122.rss",
       "id": "da4c945c4e27f677895802a8"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How to Connect Devin Desktop to Roblox Studio! (2026) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QWThSMzNpbG5QOHlYX3BCLW9QOVZwQWYzLXpOb2tBODBZc0pFaGd0b0tFdzRNRE92S2dfVVdab184VFZ1OGk2cWx6c0FNWDlnU0V4WDFB?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "How to Connect Devin Desktop to Roblox Studio! (2026) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "d01c565f554be9458827275b"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Forget the idea that Roblox is only for kids. Industrialist turns gameplay into an engineering challenge, featuring boilers, steam turbines and power-generation systems. Players are not just building ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZVFOOXBvYTdqUl9GTmZuNDYyUGlsOGU3MnJWSFpiX0dOZTZ5MWYzVXJQcTJFQnY5NU9tVG5xVmF3LU4tVExiVUdRM0p1dzUzemc?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "Forget the idea that Roblox is only for kids. Industrialist turns gameplay into an engineering challenge, featuring boilers, steam turbines and power-generation systems. Players are not just building they are troubleshooting real engineering concepts, with even Instagram",
-      "creator": "",
-      "id": "ce3cfad614bc8d295c56dedd"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Day 43: The arena #fightinggame #roblox #community #robloxstudio #gamedeveloper - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHdRU2Zfc0EwaU1HbG9LN0tfXy1nS1lZRzhBdVY1bXZLTDh5RXYwTFB5RG9MOUZUOEJZQVVQdDVOaGdtYUF3dDZFY2ZSdUlpU1hyUlVn?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "Day 43: The arena #fightinggame #roblox #community #robloxstudio #gamedeveloper Instagram",
-      "creator": "",
-      "id": "c982956ffd7dc71a9b4a1734"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "Monetizing Intellectual Property | RDC 2026",
-      "url": "https://www.youtube.com/watch?v=oxiaIhN5Ybo",
-      "published": "2026-10-12",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "c903ea8b39e178d7d9d4e3d6"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "five iconic games. one legendary animal. brazil’s first showdown is 3 days away.",
-      "url": "https://www.youtube.com/shorts/rmaWFoT49Wo",
-      "published": "2026-10-12",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "c8ccd5e72bf54e7d6d910bbe"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "Mastering Server Authority to Build Competitive Multiplayer Games | RDC 2026",
-      "url": "https://www.youtube.com/watch?v=9IqNHhYXK0s",
-      "published": "2026-10-12",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "c701a7fd78f76334be8535b9"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "What Drives Discovery: Understanding the Algorithm | RDC 2026",
-      "url": "https://www.youtube.com/watch?v=bkRZeTZAvLw",
-      "published": "2026-10-12",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "b977f8ddc5da069b20ec0bd9"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "OpenAI ChatGPT Full Version Download Windows - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LblFzaU92MXFhTG9vU21SenhQTFdQRWhNRTZuVkRQbldiTWdaRFV2cnk4MFdnNXRhaW40S1B1OS1wRFJPRXI3aEs5U2NmaDhwdUhEWEVSdWdYb0NfeXZlQw?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "OpenAI ChatGPT Full Version Download Windows YouTube",
-      "creator": "",
-      "id": "b315e375cb2e1f7127a420ba"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "How to Design, Grow, and Retain an 18+ Player Base on Roblox | RDC 2026",
-      "url": "https://www.youtube.com/watch?v=vumAuOqSmNA",
-      "published": "2026-10-12",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "a83c0b2033e0b60be4cea23d"
-    },
-    {
-      "source": "instagram-reels",
-      "label": "Google News indexed: site:instagram.com/reel Roblox game dev UI building 2026 when:14d",
-      "category": "Instagram indexed leads",
-      "title": "#Roblox just revealed a HALLOWEEN EVENT coming soon! 🎃👻 (The Hollow) - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zRnB6OVJlUEhBTlBTVmp5ZUkwMmhDUXhLRnA3NFRZcEdqdVBPQkJOam4zYTdJOVZZUFloUHNPWjRZWTFZaXZ3ODZVQ0ROMGRWa24tM2l3?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "#Roblox just revealed a HALLOWEEN EVENT coming soon! 🎃👻 (The Hollow) Instagram",
-      "creator": "",
-      "id": "a5d353ecab170c8e37268935"
-    },
-    {
-      "source": "x-index",
-      "label": "Google News indexed: site:x.com Roblox Studio Claude developer when:7d",
-      "category": "x_index",
-      "title": "Dan Kornas (@DanKornas) - X",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9UWnZpSk1tb1dfeElPTkJTWmpFallFcnZkcWpsaUw5WWJXWXh0SkpPaW0tLVh5STQ0SjVV?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "Dan Kornas (@DanKornas) X",
-      "creator": "",
-      "id": "a410f3b8775f4f57ce136d3b"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "The SINGLE BEST 1v1 Roblox MMA game to humble your friends 🥊💀 Make sure to SAVE this post so you don't lose this game before your next 1v1 session! Master your striking, learn the submission mechanics",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxOV9jeXdQcFhsOVVTdlBsN2EwYzYwUUs0TUtMUXJRLXZXMmR1OUZRUVo4TUgzZ3E3UkhWWTBrWlFhWkVEVlhaanFiZWFjT3N1UzFTbGZn?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "The SINGLE BEST 1v1 Roblox MMA game to humble your friends 🥊💀 Make sure to SAVE this post so you don't lose this game before your next 1v1 session! Master your striking, learn the submission mechanics, and see who actually rules the octagon. Who ar Instagram",
-      "creator": "",
-      "id": "a100659f72edb6f3783607bc"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "A Simpler Path to Publish, Plus Invite Early Testers",
-      "url": "https://devforum.roblox.com/t/a-simpler-path-to-publish-plus-invite-early-testers/4930524",
-      "published": "2026-10-12",
-      "excerpt": "Key Takeaways We’re making publishing simpler. Answer one question, instead of the full questionnaire, to reach users 16 years and older. We’re also rolling out early tester access, so you can invite up to 10 friends to preview your game before it’s public, along with a new guided publishing flow. T",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/a-simpler-path-to-publish-plus-invite-early-testers/4930524.rss",
-      "id": "9b82604471a55aa2e48f0b01"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "Project:StormBound🌪️🌪️🌪️ (@stormbound5) - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MbW5RTEtnQk5BZUxGOHBJcEY0ZS0ybTdVai1PVy0tYkN6SVAzQ196MGRUOF9HaW9nVmdlOUJXOFFYdFNhRC1oQkMtdw?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "Project:StormBound🌪️🌪️🌪️ (@stormbound5) TikTok",
-      "creator": "",
-      "id": "8b442d7baa4875418e8ec150"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Mistral Latest Version Free Download 2026 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RV2lOcDNabmF6TlJrMVhpdDhFa09YcFNrdURrd081UEZESUxPUGFFbHdCTmRfbWEyYk4tdnV6X2Z3Umx3T1JHTUI0d0F3RU53aFpIaml5Q0dFSWI1bEhhSA?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "Mistral Latest Version Free Download 2026 YouTube",
-      "creator": "",
-      "id": "8a16f74e58a12ac023f21ff0"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Cline Free Download Mac | Download Cline for Mac | Cline Full Version Mac 2025 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DR0E1UjFXNzZHZVJrREZqMHFESlp3dHB6ZVBFYkdLLW9mV3lyNGgxdTFsTkY4dzg1VmoxMEtkTXE3TG1BUGhlcjN6ZlRMaXhLbjBGUEFLeGVXU00tLUp0cA?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "Cline Free Download Mac | Download Cline for Mac | Cline Full Version Mac 2025 YouTube",
-      "creator": "",
-      "id": "8142cdd718b6e40073efb6ea"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Roblox is making it easier to publish games on the platform. - Invite 10 people to test a game before it goes public - Answer a single question rather than complete the full Maturity Questionnaire - A",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84MFV2R2N2aVhGTkNxSWlFQnF1ZE5KNmZqUWpVcjhkTncxd0xrLVRWNUZwcHkwT3RYYzB1eEQ4SVdYV19LTlZENF9jYzR1a3VtN2c?oc=5",
-      "published": "2026-10-12",
-      "excerpt": "Roblox is making it easier to publish games on the platform. - Invite 10 people to test a game before it goes public - Answer a single question rather than complete the full Maturity Questionnaire - A unified, guided publishing flow in Creator Hub I asked Roblox Instagram",
-      "creator": "",
-      "id": "7f876573e34a747a51b547b3"
     }
   ]
 }

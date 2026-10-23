@@ -4,23 +4,23 @@
 
 | Classification | Entries |
 |---|---:|
-| original video/post URL (unwatched) | 15 |
-| public metadata / page | 451 |
-| indexed redirect (not original) | 132 |
+| original video/post URL (unwatched) | 10 |
+| public metadata / page | 467 |
+| indexed redirect (not original) | 121 |
 | promotional / risky title | 2 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
-Direct-original share: **2.5%** (still unwatched).
-Indexed redirects: **132**. They require primary-source verification.
+Direct-original share: **1.7%** (still unwatched).
+Indexed redirects: **121**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **484**; direct originals **15**; indexed redirects **18**.
-Active-source direct-original share: **3.1%** (still unwatched).
-Entries from paused/unconfigured sources: **116** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
+Active-source entries: **494**; direct originals **10**; indexed redirects **17**.
+Active-source direct-original share: **2.0%** (still unwatched).
+Entries from paused/unconfigured sources: **106** (claude-news, instagram-index, instagram-reels, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -28,18 +28,18 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| unknown | 31 |
-| YouTube (title suffix) | 29 |
-| Instagram (title suffix) | 15 |
-| TikTok (title suffix) | 12 |
-| X (title suffix) | 10 |
+| unknown | 29 |
+| YouTube (title suffix) | 26 |
+| Instagram (title suffix) | 13 |
+| TikTok (title suffix) | 11 |
+| X (title suffix) | 9 |
 | https://tech-insider.org/ (title suffix) | 7 |
 | www.instagram.com | 5 |
-| www.youtube.com | 4 |
 | www.tiktok.com | 3 |
+| www.youtube.com | 3 |
 | Pasquale Pillitteri (title suffix) | 2 |
-| A (title suffix) | 1 |
 | Anthropic (title suffix) | 1 |
+| Coursera (title suffix) | 1 |
 
 ## Actionable interpretation
 

@@ -23,5 +23,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
-- **[My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please](https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/)** — Public text/page, video not confirmed
-- **[\[Plugin\] Output+ \| Script channels, colored outputs, rich text support and more](https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229)** — Public text/page, video not confirmed
+- **[tool and arms doesn't animate :(](https://www.reddit.com/r/robloxgamedev/comments/1xczajw/tool_and_arms_doesnt_animate/)** — Public text/page, video not confirmed
+- **[AutomaticCanvasSize does not properly account for UIPadding.PaddingTop with UIGridLayout](https://devforum.roblox.com/t/automaticcanvassize-does-not-properly-account-for-uipaddingpaddingtop-with-uigridlayout/4951009)** — Public text/page, video not confirmed

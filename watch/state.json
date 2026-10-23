@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "5ed799e5cc56bea9efff57398ca43e31d82784ff",
+      "head": "65823ec0034ed0aa0266bc43903fefd3ff94a327",
       "head_subject": "chore: Update CHANGELOG.md and feed.xml",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.308",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
+      "release_tag": "v2.1.309",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "3295b3e96ba386219f4baa841cdbe402a04b13dc",
-      "head_subject": "flint: fix replies with thinking disabled (#19216)",
+      "head": "5e31438d5d2223d8338595b366b7434ef3539708",
+      "head_subject": "Support GA Gradium Phonon checkpoints (#19227)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.8",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
@@ -220,11 +220,13 @@
     "rust-unofficial/awesome-rust",
     "sajadh76/awesome-AI-tools",
     "scenario-labs/skills",
+    "shaftoe/awesome-pi-coding-agent",
     "tbee6061-ctrl/studio-live-window-capture",
     "thryvaan-hub/pi-roblox-bridge",
     "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
     "wh000wh000/awesome-jev-live",
     "xianyu110/awesome-gpt-6-astra",
-    "yarik-contr/mcp-forge-studio-bridge"
+    "yarik-contr/mcp-forge-studio-bridge",
+    "zhaoolee/garss"
   ]
 }

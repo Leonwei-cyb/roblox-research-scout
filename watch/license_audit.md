@@ -14,10 +14,10 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | [CodePhobiia/claude-roblox-game-studio](https://github.com/CodePhobiia/claude-roblox-game-studio) | MIT — license present, inspect asset and dependency rights | 2026-04-16 | No |
 | [fagemx/gstack-game](https://github.com/fagemx/gstack-game) | MIT — license present, inspect asset and dependency rights | 2026-05-31 | No |
 | [Roblox/open-game-eval](https://github.com/Roblox/open-game-eval) | MIT — license present, inspect asset and dependency rights | 2026-10-05 | No |
-| [ollama/ollama](https://github.com/ollama/ollama) | MIT — license present, inspect asset and dependency rights | 2026-10-22 | No |
+| [ollama/ollama](https://github.com/ollama/ollama) | MIT — license present, inspect asset and dependency rights | 2026-10-23 | No |
 | [RSSHub/RSSHub](https://github.com/RSSHub/RSSHub) | AGPL-3.0 — copyleft, review conditions | 2025-12-30 | No |
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Apache-2.0 — license present, inspect asset and dependency rights | 2026-10-19 | No |
-| [huginn/huginn](https://github.com/huginn/huginn) | MIT — license present, inspect asset and dependency rights | 2026-10-18 | No |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Apache-2.0 — license present, inspect asset and dependency rights | 2026-10-23 | No |
+| [huginn/huginn](https://github.com/huginn/huginn) | MIT — license present, inspect asset and dependency rights | 2026-10-23 | No |
 | [obris-dev/openmagpie](https://github.com/obris-dev/openmagpie) | No verified license — do NOT copy source/assets | 2026-10-14 | No |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | AGPL-3.0 — copyleft, review conditions | 2026-10-22 | No |
 | [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) | AGPL-3.0 — copyleft, review conditions | 2026-10-22 | No |
