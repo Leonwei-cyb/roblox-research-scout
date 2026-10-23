@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "65823ec0034ed0aa0266bc43903fefd3ff94a327",
-      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
+      "head": "30fa83c68c77d2e3a7a42f1407831ec252511130",
+      "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.309",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "64a901e713e376e674663f8ebd53e1a3ec74e289",
-      "head_subject": "qwen3coder: preserve literal function closing tags in parameters (#19228)",
+      "head": "1472203c47d93d64020fdafa33f9b038bc1583e9",
+      "head_subject": "launch: use allocated context for OpenCode (#19193)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.10",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",

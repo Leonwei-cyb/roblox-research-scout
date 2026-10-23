@@ -605,6 +605,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdorso",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdorso/first_game_a_cozy_halloween_pumpkincarving/",
+      "title": "First game, a cozy Halloween pumpkin-carving clicker: is the first 5 minutes fun?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4940992:1",
       "url": "https://devforum.roblox.com/t/aperture-add-doors-and-windows-to-existing-part-walls-no-unions-paid-plugin/4940992",
       "title": "Aperture - add doors and windows to existing Part walls, no unions [Paid Plugin]",
@@ -853,6 +868,20 @@
       "kind": "devforum",
       "signals": [
         "world and visual design",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952746:1",
+      "url": "https://devforum.roblox.com/t/feedback-on-my-asset-pack/4952746",
+      "title": "Feedback on my asset pack",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
         "tools and performance"
       ],
       "score": 6,
@@ -1141,16 +1170,31 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4940983:1",
-      "url": "https://devforum.roblox.com/t/a-probeless-accurate-spatial-query-method-for-worldmodel-for-parallel-luau/4940983",
-      "title": "A Probeless Accurate Spatial Query Method for WorldModel (for Parallel Luau)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-17",
-      "kind": "devforum",
+      "key": "reddit:1xdkcml",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdkcml/new_game_need_feedback/",
+      "title": "New game, need feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
       "signals": [
-        "tools and performance"
+        "first-session and mobile",
+        "player feedback and marketing"
       ],
-      "score": 5,
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdombv",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdombv/i_made_a_prisonbreak_manhunt_where_the_hunters/",
+      "title": "I made a prison-break manhunt where the hunters get your location every 45 seconds. Looking for feedback!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1975,6 +2019,84 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952708:1",
+      "url": "https://devforum.roblox.com/t/roblox-2007-studio-recreate/4952708",
+      "title": "Roblox 2007 Studio recreate",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952824:1",
+      "url": "https://devforum.roblox.com/t/roblox-player-randomly-crashes-and-freezes-during-teleports-without-errors/4952824",
+      "title": "Roblox Player randomly crashes and freezes during teleports without errors",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952845:1",
+      "url": "https://devforum.roblox.com/t/expended-terrain-16-voxels-thick-disapearing-when-looking-at-it-from-the-sky/4952845",
+      "title": "Expended Terrain 16 voxels thick disapearing when looking at it from the sky",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952999:1",
+      "url": "https://devforum.roblox.com/t/studio-refusing-to-open-any-game/4952999",
+      "title": "Studio refusing to open any game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4953005:1",
+      "url": "https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005",
+      "title": "Can't buy a new roblox plus subscription with the free developer subscription active",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "physical tycoon purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4953062:1",
+      "url": "https://devforum.roblox.com/t/announcing-studio-deep-links-on-stack-traces-for-server-logs/4953062",
+      "title": "Announcing Studio Deep Links on Stack Traces for Server Logs",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8ebk3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8ebk3/finalized_mobile_controls/",
       "title": "finalized mobile controls",
@@ -2603,20 +2725,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4938282:1",
-      "url": "https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282",
-      "title": "[Beta] Introducing Quality Mode for Texture Generation",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-16",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4942461:1",
       "url": "https://devforum.roblox.com/t/eu-servers-become-extremely-difficult-to-obtain-during-weekend-peak-hours/4942461",
       "title": "EU servers become extremely difficult to obtain during weekend peak hours",
@@ -2766,6 +2874,20 @@
       "signals": [
         "tuition and economy",
         "cat animation and audio"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4953054:1",
+      "url": "https://devforum.roblox.com/t/unragdolling-flings-character/4953054",
+      "title": "Unragdolling flings character",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3079,6 +3201,31 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdln3x",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdln3x/looking_for_artists_for_a_block_tales_mother_3/",
+      "title": "Looking for artists for a Block tales/ Mother 3 type game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "youtube:4G0Lc0D1lco",
+      "url": "https://www.youtube.com/shorts/4G0Lc0D1lco",
+      "title": "you can’t stay in the elevator forever. tonight, Twisted Dandy is waiting for you in The Hollow.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-10-23",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:6aFu9wbY4js",
       "url": "https://www.youtube.com/shorts/6aFu9wbY4js",
       "title": "head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.",
@@ -3153,19 +3300,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4938638:1",
-      "url": "https://devforum.roblox.com/t/weekly-recap-october-12-18-2026/4938638",
-      "title": "Weekly Recap: October 12 - 18, 2026",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-16",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4040,6 +4174,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952727:1",
+      "url": "https://devforum.roblox.com/t/uncreate-roblox-self-hosted-team-create/4952727",
+      "title": "Uncreate-roblox: self-hosted Team Create",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952826:1",
+      "url": "https://devforum.roblox.com/t/cant-easily-unlock-mouse-on-coreguis/4952826",
+      "title": "Can't Easily Unlock Mouse on CoreGuis",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x84m7s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x84m7s/made_a_horror_game_where_you_have_to_keep_a/",
       "title": "Made a horror game where you have to keep a hungry pit fed or it eats one of you",
@@ -4802,6 +4962,32 @@
       "kind": "reddit",
       "signals": [
         "cat animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdn3z6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdn3z6/one_hater_can_throw_off_your_mood_but_one/",
+      "title": "One hater can throw off your mood, but one supporter can fix it 😭",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdo2qv",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdo2qv/i_want_to_start_coding_a_roblox_game/",
+      "title": "I want to start coding a roblox game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6050,31 +6236,31 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4952705:1",
+      "url": "https://devforum.roblox.com/t/automated-%E2%80%9Ctextchatservice-api%E2%80%9D-moderation-repeatedly-actioning-an-experience-whose-chat-is-fully-on-textchannels/4952705",
+      "title": "Automated “TextChatService API” moderation repeatedly actioning an experience whose chat is fully on TextChannels",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4952802:1",
+      "url": "https://devforum.roblox.com/t/granfjell-mountain-resort-norway/4952802",
+      "title": "Granfjell Mountain Resort, Norway",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8kblh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kblh/is_anyone_else_getting_this_error_in_the_output/",
       "title": "is anyone else getting this error in the output?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-17",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8kfgs",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kfgs/i_need_your_help_to_create_a_roblox_game_thats/",
-      "title": "I need your help to create a Roblox game that’s actually worth playing ❤️",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-17",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8kxfb",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8kxfb/how_are_my_stats/",
-      "title": "How are my stats?",
       "source": "reddit-robloxstudio",
       "published": "2026-10-17",
       "kind": "reddit",
@@ -6864,6 +7050,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdno7r",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdno7r/making_my_map_better_day_80/",
+      "title": "Making my MAP BETTER! Day 80",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdp2hr",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdp2hr/working_on_a_jojo_game_with_map_destruction/",
+      "title": "Working on a jojo game with map destruction (ABD/JJS type)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wdEtFOF9JYl9EejY4cHBkZlJRQmdBRlg2dlc5MkU5aVZKU2NhSFMwdHNKZklRSlN3aFRuR3JLRVNQdw?oc=5",
       "title": "RoNews (@RoGameNews) - X",
@@ -6871,56 +7079,6 @@
       "published": "2026-10-17",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiU0FVX3lxTE9qMzRfczMwTkV5TTNDQldqMF94YVNmZG1rcFFyZGs1SXJBcTZHR054WWxpa1NzTHRURWdraVVyamZMZHMzSkpydnpSWk9OdndoVjRF",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qMzRfczMwTkV5TTNDQldqMF94YVNmZG1rcFFyZGs1SXJBcTZHR054WWxpa1NzTHRURWdraVVyamZMZHMzSkpydnpSWk9OdndoVjRF?oc=5",
-      "title": "SolveBase - YouTube",
-      "source": "video-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiUkFVX3lxTE5iU1NRTnRPZm9LODg4ajFpa2R5VXhOdFd1bEFqVzc4a1hZTnphU0VnY3NYR2Y5SVA1NlZ5cEQwMEQ5Z2pxanEwZXBkNnZTcmZscWc",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iU1NRTnRPZm9LODg4ajFpa2R5VXhOdFd1bEFqVzc4a1hZTnphU0VnY3NYR2Y5SVA1NlZ5cEQwMEQ5Z2pxanEwZXBkNnZTcmZscWc?oc=5",
-      "title": "Creating games on Roblox has become a legitimate way for independent developers to earn money, with some creators generating thousands of dollars from relatively simple games. Using Roblox Studio, dev",
-      "source": "instagram-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases",
-        "tuition and economy",
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiUkFVX3lxTE9CUHRmcWNaTWUzdVZjXzhzel82b3J1bnJKY0JRMW5ISVREbU5sNTB5aHQxQy1YTEgwVllTdVh1a0I0cE1PajVpZjVYVG9oelhrUGc",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CUHRmcWNaTWUzdVZjXzhzel82b3J1bnJKY0JRMW5ISVREbU5sNTB5aHQxQy1YTEgwVllTdVh1a0I0cE1PajVpZjVYVG9oelhrUGc?oc=5",
-      "title": "One month. No game-development expertise. An invitation to IGEM. This started with watching my niece and nephew enjoy Roblox and wondering: could we use that same excitement for learning? Then I met s",
-      "source": "instagram-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiV0FVX3lxTE80bTc5RGw0VFlnNG12WldUNVlwOFB3cVl5ajF3TmlnaGxRZkFZRVM1MEZ6Y2JPTVViVzJMa0R3Z1ZsSzRxQ0xscUFSUlZwOFo1N3JpYmFYNA",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80bTc5RGw0VFlnNG12WldUNVlwOFB3cVl5ajF3TmlnaGxRZkFZRVM1MEZ6Y2JPTVViVzJMa0R3Z1ZsSzRxQ0xscUFSUlZwOFo1N3JpYmFYNA?oc=5",
-      "title": "Google's Gemini 4 Argon Masters Minecraft and Builds Games at Low Cost - X",
-      "source": "x-index",
-      "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -6938,17 +7096,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1MeGlWZ2pvT3JjeTlHODRSaUZ2NXFVVWwxZUtGMEtNTDRhRVQ5MGh0V04wbG1JX1VDR0NCNXFoZmJmU0VvcVZYdVhYMWgxQ1MzVVJCQWtR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MeGlWZ2pvT3JjeTlHODRSaUZ2NXFVVWwxZUtGMEtNTDRhRVQ5MGh0V04wbG1JX1VDR0NCNXFoZmJmU0VvcVZYdVhYMWgxQ1MzVVJCQWtR?oc=5",
-      "title": "I finally did 1Qa speed 🥹 . . . . #roblox #stealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1YckJOZWtvcGsyektyNW5WUFhSXzJaRU1HMmduRWE5ZUNJM2p3T3dmMkF4MkF3U3l3VnhfT25RaG1kd3d5MVVzZjZpdEpSWlJVTmZJek5R",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YckJOZWtvcGsyektyNW5WUFhSXzJaRU1HMmduRWE5ZUNJM2p3T3dmMkF4MkF3U3l3VnhfT25RaG1kd3d5MVVzZjZpdEpSWlJVTmZJek5R?oc=5",
       "title": "เมื่อนัดเจอเพื่อนใน Roblox ครั้งแรก😅😅😅 #ritakitcat #Roblox #เกม #เทรนด์วันนี้ #โรบอค - Instagram",
@@ -6956,19 +7103,6 @@
       "published": "2026-10-17",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1xM252b2RNYVVsbkRWNTgzTVFFMlh6VEVXd0VwNUl3ajBkMTFhZ3cwM1NRaGI2LVV0bGo5ZzBBaHhkdGxRcGg3bGgyZmU3dGNjcng2X1dn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xM252b2RNYVVsbkRWNTgzTVFFMlh6VEVXd0VwNUl3ajBkMTFhZ3cwM1NRaGI2LVV0bGo5ZzBBaHhkdGxRcGg3bGgyZmU3dGNjcng2X1dn?oc=5",
-      "title": "With Unity Spark, you can do it all in the browser 🖥️✨ Games take iteration. Start with a prototype, keep refining and polishing your game with your team, including using the web-based editor for more",
-      "source": "instagram-reels",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [
-        "world and visual design"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -7049,45 +7183,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9KVlMtdndOQmo0T21rWURldl82eUFFOGVVblowVngyMndKQ3BWckNLMkxGNEZKQ2ZPX0VaUzlzX1ZiSDRfclBTc053c09IekxzcGdUT1VR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KVlMtdndOQmo0T21rWURldl82eUFFOGVVblowVngyMndKQ3BWckNLMkxGNEZKQ2ZPX0VaUzlzX1ZiSDRfclBTc053c09IekxzcGdUT1VR?oc=5",
-      "title": "Scratch vs. PictoBlox, what’s the difference? Both help kids learn coding through visual blocks, but each offers different ways to explore technology! With Scratch, kids can start creating interactive",
-      "source": "instagram-index",
-      "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [
-        "cat animation and audio"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9Lc3JVOFlCbVEtRTJwc1E5MjRqb2hqaV9DNUV6UXBFM0NYN1F4NTgtMWlpWERjQUV3UDhRQk9WSFhlMkMwbUdqcm02R19NUDdaUHVBS3dR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Lc3JVOFlCbVEtRTJwc1E5MjRqb2hqaV9DNUV6UXBFM0NYN1F4NTgtMWlpWERjQUV3UDhRQk9WSFhlMkMwbUdqcm02R19NUDdaUHVBS3dR?oc=5",
-      "title": "How to Make a Roblox Game With AI (Claude Tutorial + FREE Game Files - YouTube",
-      "source": "video-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9TTjFGd2t0cEdxVHd3alc0aXpwcllkQ0pyMkVCZTBzOGNlQ0l6UzVWVjJEQ3k1RnRzV0E3VTVIdGhrMTJpMnRVVWRiVzl6TXBzeFFMQkhR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TTjFGd2t0cEdxVHd3alc0aXpwcllkQ0pyMkVCZTBzOGNlQ0l6UzVWVjJEQ3k1RnRzV0E3VTVIdGhrMTJpMnRVVWRiVzl6TXBzeFFMQkhR?oc=5",
-      "title": "PHILLY THE GAME — LeBRON DLC 🏀👑 Want to be an NPC in the next episode? 👀 👇 Comment “PUT ME IN” and I’ll send you the link to submit your character. And the waitlist for the future server. 🏷️ Tag a fri",
-      "source": "instagram-reels",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9UOTZLbEFxeFRubHd2MFFibDFneHhudm9CZGp1aGZPc1I5dUtvVXNKLWgtaWh1SWxaUmJ3UUF3aTlyamsySnBmOFFsX0tDM2EtUzRBa1ZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOTZLbEFxeFRubHd2MFFibDFneHhudm9CZGp1aGZPc1I5dUtvVXNKLWgtaWh1SWxaUmJ3UUF3aTlyamsySnBmOFFsX0tDM2EtUzRBa1ZB?oc=5",
       "title": "Say hello to some of the devs we caught up with at the Roblox Creator Series Brasil! Correction - RoyalConstructor is the dev from Roblox Titanic. - Instagram",
@@ -7095,33 +7190,6 @@
       "published": "2026-10-17",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9UQUpaMURJaGNMcy1Rc1lKWWoyZ0NxYktCeDVQOHRHeDZxdGxhLTZPNm9LdFZlSTg5Q09iS1JyVnc5SGYxU21YUWUyMWMyaElGXzVZMGRn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UQUpaMURJaGNMcy1Rc1lKWWoyZ0NxYktCeDVQOHRHeDZxdGxhLTZPNm9LdFZlSTg5Q09iS1JyVnc5SGYxU21YUWUyMWMyaElGXzVZMGRn?oc=5",
-      "title": "How To Connect Claude AI To Roblox Studio - Tutorial - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9wNm1ScHdCTDVLSF85QWlySF94N1J4NUdYZVNvS1JPcTQ1eDM0WTIzQllnSUhFVjdTR2REYWUxcVBURUh6UFhGbEdzdXhPRGhIU0ctRmd3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wNm1ScHdCTDVLSF85QWlySF94N1J4NUdYZVNvS1JPcTQ1eDM0WTIzQllnSUhFVjdTR2REYWUxcVBURUh6UFhGbEdzdXhPRGhIU0ctRmd3?oc=5",
-      "title": "I'm adding typewriter sound effects to my game. What do you think? #typewriters #books #authors #games #productivity - Instagram",
-      "source": "instagram-reels",
-      "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [
-        "cat animation and audio"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -7134,19 +7202,6 @@
       "kind": "index-only",
       "signals": [
         "cat animation and audio"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBDemhMaVNvejluVmNrVlhBcUVfMkR0d2EtVHZOWVA1NjFGQWEzTzBiWHhlRjNnNnlDUzRUS0pkTG1Kc29Qa29qTWdiTThtYWZtdnpjTVl3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDemhMaVNvejluVmNrVlhBcUVfMkR0d2EtVHZOWVA1NjFGQWEzTzBiWHhlRjNnNnlDUzRUS0pkTG1Kc29Qa29qTWdiTThtYWZtdnpjTVl3?oc=5",
-      "title": "Small team. One branch. Sim-shipping on every major platform 🥟✨ Learn how Soft Crunch Games pulled it off for Foxy Dumplings – from Unity Cloud Save cross-progression and a facade pattern for platform",
-      "source": "instagram-reels",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -7165,17 +7220,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBRbE80eEtaN3RBcGtnTTJyMXpRT3doVnp4UVJsZmpIQ2tESjFmQ0N5aWlrRmRWMEx4c01ERTlQdWRGdWtzS2dMeldacUMzNjZfMy04dGRB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbE80eEtaN3RBcGtnTTJyMXpRT3doVnp4UVJsZmpIQ2tESjFmQ0N5aWlrRmRWMEx4c01ERTlQdWRGdWtzS2dMeldacUMzNjZfMy04dGRB?oc=5",
-      "title": "Do you have any suggestions for the holiday update? - Instagram",
-      "source": "instagram-reels",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBSbUpaNk1zQnNaVjRVT1RXX0JaQWlXOUQwX01sa1N4Tk5lT3ZQMGhGVUZpWkJHQS1fd3lMU2VBVWtENkR3NlpHdU8wOHEzU0RvYzR1c1RB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSbUpaNk1zQnNaVjRVT1RXX0JaQWlXOUQwX01sa1N4Tk5lT3ZQMGhGVUZpWkJHQS1fd3lMU2VBVWtENkR3NlpHdU8wOHEzU0RvYzR1c1RB?oc=5",
       "title": "I Tried Making a Viral Roblox Horror Game With AI - YouTube",
@@ -7184,32 +7228,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBXNnlnc1g2TjBHTWhxc044Q1ZScldSZTNjM2I0UmhPUl9BdDJ2NzRIbV9nM1VySS04ZmVxS3JWSVk2bHVjZXU4Tl9RRW0zVTJVVFo1dlJ3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXNnlnc1g2TjBHTWhxc044Q1ZScldSZTNjM2I0UmhPUl9BdDJ2NzRIbV9nM1VySS04ZmVxS3JWSVk2bHVjZXU4Tl9RRW0zVTJVVFo1dlJ3?oc=5",
-      "title": "Roblox Tutorial | Claude AI Roblox Coding | Roblox Game Development Showcase 2026 - YouTube",
-      "source": "video-index",
-      "published": "2026-10-16",
-      "kind": "index-only",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBtR1FSTkZDSEtNZEZ5NFlrNVd1RmFYb0I5bU44Nk5XYnZBLWl4RE5yVXNFZlN3ZG81REpIemhvSjljT244bW5MOURmakNoR0NCQVhDZGdB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtR1FSTkZDSEtNZEZ5NFlrNVd1RmFYb0I5bU44Nk5XYnZBLWl4RE5yVXNFZlN3ZG81REpIemhvSjljT244bW5MOURmakNoR0NCQVhDZGdB?oc=5",
-      "title": "This is how game artists prepare for animating #clonedroneinthedangerzone - Instagram",
-      "source": "instagram-reels",
-      "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [
-        "cat animation and audio"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -7269,17 +7287,6 @@
       "title": "How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube",
       "source": "syphodev-claude",
       "published": "2026-10-23",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMia0FVX3lxTE9qSmg2YVdWTFRjNk5ucVd3UDk2UEwtd2FMaGxwc2xzakdsN1F2cGJBQ2lmbXd1VWw4bjVIdnZnT0wxWmt5bDlKaGYtMF9XbUtueG1lb2F1WHpTTXdKaTd6WDJ3QUpNaWJiOFN3",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSmg2YVdWTFRjNk5ucVd3UDk2UEwtd2FMaGxwc2xzakdsN1F2cGJBQ2lmbXd1VWw4bjVIdnZnT0wxWmt5bDlKaGYtMF9XbUtueG1lb2F1WHpTTXdKaTd6WDJ3QUpNaWJiOFN3?oc=5",
-      "title": "i love coca cola ✌️🥹 #motiongraphics #aftereffects #cocacola - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-16",
       "kind": "index-only",
       "signals": [],
       "score": 0,
