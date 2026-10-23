@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-23T12:00:17Z (local, ok)
+- Last run: 2026-10-23T12:08:32Z (schedule, partial)
 - Repos tracked: 242; adopt 0, needs-test 96, reject 146
 - Actionable backlog: 90
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin tempestai-dev/tempest@​1230d40, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids/tree/366404c1002038f055d61311f137d9701ff83b96)
   - Pin totec448-spec/chat-on-steroids@​366404c, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: earendil-works/pi #10074 Anthropic tool calls: corrupted non-ASCII edit arguments are silently accepted \(dropped 'u' in '\\uXX
-- Issue updated: earendil-works/pi #11112 Let prepareArguments see \(and repair\) tool-call arguments that failed to parse
-- Issue updated: earendil-works/pi #11086 Symbols leaking into input on Windows terminal under CPU load
-- Issue updated: earendil-works/pi #11297 Compaction file lists grow without bound across compactions
-- Issue updated: earendil-works/pi #11312 pi.exec\(\) corrupts UTF-8 characters split across output chunks
-- Issue updated: OpenHands/OpenHands #18868 \[Bug\]: Cannot change the LLM when editing custom-script automations
-- Issue updated: OpenHands/OpenHands #18862 \[Bug\]: Installing HubSpot from the MCP library shows the server's whole 404 HTML page as the error a
-- Issue updated: OpenHands/OpenHands #18860 \[Bug\]: A failed Compact context shows the same error toast twice
-- Issue updated: OpenHands/OpenHands #18858 \[Bug\]: Templates filter chip rail scrolls back to the start when the results empty or return, hiding
-- Issue updated: OpenHands/OpenHands #16905 \[Bug\]: Claude Code via ACP can't see built-in skills
-- Issue updated: anthropics/claude-code #103022 \[FEATURE\] Setting to enable OSC 7501 \(Program Status Protocol\) without the terminal probe, e.g. unde
-- Issue updated: anthropics/claude-code #104592 \[BUG\] Model breaks loaded memory rules in the first review right after re-reading them
-- Issue updated: anthropics/claude-code #58693 \[BUG\] Spell checking cannot be turned off, making all entered text hard to read
-- Issue updated: anthropics/claude-code #102545 \[Feature Request\] Voice mode: add text-to-speech responses, continuous listening, and auto-submit in
-- Issue updated: anthropics/claude-code #76187 \[BUG\] Cowork \(Windows\): project context folders never mount in new sessions; Add-folder dialog canno
-- Release: openai/codex rust-v0.163.0 to rust-v0.164.0
-- Issue updated: openai/codex #56449 \[macOS desktop build 21421\] Chat startup/switching stalls with disabled controls; thread/resume reac
-- Issue updated: openai/codex #56448 ChatGPT Work browser integration repeatedly fails across multiple websites despite user authorizatio
-- Issue updated: openai/codex #56447 \[Windows desktop\]\[26.1013.4894.0\] Two PCs fail to load chats/send messages; repeated 403 cloudflare\_
-- Issue updated: openai/codex #56446 \[desktop/macOS\] Repeated localhost upload/download approvals after standing owner authorization; no
-- Issue updated: openai/codex #53558 ChatGPT iOS: saved Codex Cloud environments fail to load while Safari can select them
-- Issue updated: rojo-rbx/rojo #1347 After building, the terrain - exported from the Studio with "ExpandedTerrain" enabled - disappears.
-- Issue updated: Shubhamsaboo/awesome-llm-apps #1194 Unexpected model replies across the demos: crashes, silently truncated writes, and guardrails that m
-- Issue updated: ollama/ollama #19238 Need to add OLLAMA\_API\_KEY for local deployment of Olama for authorization \[very important\]
-- Issue updated: ollama/ollama #12362 JSON reply schema is ignored by Cloud model
-- Issue updated: ollama/ollama #19235 install.sh calling sudo immediately after download forces user to be present at download completion
-- Issue updated: ollama/ollama #18995 OLLAMA\_CONTEXT\_LENGTH is not honored when reporting context length via '/api/show' or '/api/tags'
-- Issue updated: ollama/ollama #10961 Enable / disable thinking through modelfiles and/or /save functionality.
-- Issue updated: totec448-spec/chat-on-steroids #1787 2.1.44: chat stalls after timeout while “Working for” keeps counting
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
