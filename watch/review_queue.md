@@ -13,7 +13,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## UI / menus / effects
 
 - **[Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194)** — Public text/page, video not confirmed
-- **[\[Studio Beta\] Upgraded UIShadow Capabilities](https://devforum.roblox.com/t/studio-beta-upgraded-uishadow-capabilities/4934553)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
@@ -23,5 +22,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
-- **[tool and arms doesn't animate :(](https://www.reddit.com/r/robloxgamedev/comments/1xczajw/tool_and_arms_doesnt_animate/)** — Public text/page, video not confirmed
+- **[How to automatically assign lowest rank in a group.](https://www.reddit.com/r/robloxgamedev/comments/1xdc48f/how_to_automatically_assign_lowest_rank_in_a_group/)** — Public text/page, video not confirmed
 - **[\[FOR HIRE\] Technical Lead & Full-Stack Backend Engineer \| Python (FastAPI), MongoDB/SQL & Modular Luau](https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947)** — Public text/page, video not confirmed
