@@ -4,22 +4,6 @@
   "reviewed_posts": 0,
   "posts": [
     {
-      "key": "reddit:1x9aau7",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9aau7/looking_for_a_team_for_a_social_deduction_horror/",
-      "title": "Looking for a team for a social deduction horror game (Mansion, 6-8 players) - scripters, builders, UI designers",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "physical tycoon purchases",
-        "UI and menus",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 14,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4941183:1",
       "url": "https://devforum.roblox.com/t/animation-graph-tracks-keep-5%E2%80%936-mb-of-client-memory-each-after-the-track-animator-and-model-are-destroyed/4941183",
       "title": "Animation Graph tracks keep ~5–6 MB of client memory each after the track, Animator and model are destroyed",
@@ -477,6 +461,20 @@
       "signals": [
         "world and visual design",
         "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xdt1yv",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdt1yv/kinda_getting_tired_of_building_so_got_into/",
+      "title": "Kinda getting tired of building so got into animation",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases",
+        "cat animation and audio"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -1276,19 +1274,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4942711:1",
-      "url": "https://devforum.roblox.com/t/roblox-studio-unable-to-open-any-places-after-logging-out-of-all-sessions/4942711",
-      "title": "Roblox Studio Unable to Open Any Places After Logging Out of All Sessions",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2180,6 +2165,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4953387:1",
+      "url": "https://devforum.roblox.com/t/roblox-player-crashes-on-launch/4953387",
+      "title": "Roblox Player Crashes on Launch",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4953418:1",
+      "url": "https://devforum.roblox.com/t/roblox-player-crashes-on-launch/4953418",
+      "title": "Roblox Player Crashes on Launch",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8qu9i",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8qu9i/any_good_free_pathfinding_scripts_or_how_to_go/",
       "title": "Any good free pathfinding scripts? Or how to go about making one",
@@ -2986,20 +2997,6 @@
       "signals": [
         "UI and menus",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8zily",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8zily/how_can_i_delete_an_avatar_item_that_i_created/",
-      "title": "How can I delete an avatar item that I created?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -4271,6 +4268,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4953368:1",
+      "url": "https://devforum.roblox.com/t/the-hollow-ugc-claim-not-working-ao-oni/4953368",
+      "title": "The Hollow: UGC Claim Not Working (Ao Oni)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8spi7",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8spi7/i_made_my_first_game_and_i_dont_think_it_went/",
       "title": "I made my first game, and I don't think it went very well.",
@@ -4357,19 +4367,6 @@
       "kind": "reddit",
       "signals": [
         "physical tycoon purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x905hs",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x905hs/im_an_upcoming_roblox_game_dev/",
-      "title": "Im an Upcoming Roblox Game dev",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5051,6 +5048,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdtbct",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdtbct/join_4_join/",
+      "title": "join 4 join!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4941469:1",
       "url": "https://devforum.roblox.com/t/should-i-create-a-new-game-or-reuse-my-old-one-that-has-250-hep/4941469",
       "title": "Should I create a new game or reuse my old one that has 250 HEP?",
@@ -5229,17 +5239,6 @@
     {
       "key": "devforum:4943088:1",
       "url": "https://devforum.roblox.com/t/game-stuck-at-16-rating/4943088",
-      "title": "Game stuck at 16+ Rating",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4943093:1",
-      "url": "https://devforum.roblox.com/t/game-stuck-at-16-rating/4943093",
       "title": "Game stuck at 16+ Rating",
       "source": "roblox-devforum-latest",
       "published": "2026-10-18",
@@ -6360,6 +6359,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4953365:1",
+      "url": "https://devforum.roblox.com/t/automated-%E2%80%9Ctextchatservice-api%E2%80%9D-moderation-repeatedly-actioning-an-experience-whose-chat-is-fully-on-textchannels/4953365",
+      "title": "Automated “TextChatService API” moderation repeatedly actioning an experience whose chat is fully on TextChannels",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8rzes",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8rzes/save_when_choosing_to_collaborate_on_experience/",
       "title": "'Save' when choosing to collaborate on experience hidden by taskbar? Help?",
@@ -7185,6 +7195,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xdt39n",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdt39n/how_to_prevent_getting_banned_for_stupid_stuff/",
+      "title": "How to prevent getting banned for stupid stuff?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-23",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR?oc=5",
       "title": "Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) - YouTube",
@@ -7301,20 +7322,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiX0FVX3lxTE9EUmpMWWlFSmlDa2U4Tl9TcWxLcTM0N0ZCeXFXeU16aGJXZm1jTmJKT0VDc1c4Ti1LaHFQSldNYWhUcHNkNjFvWlZCRmlUWFU0T1poNzJ0MlV3aVdNWmhJ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUmpMWWlFSmlDa2U4Tl9TcWxLcTM0N0ZCeXFXeU16aGJXZm1jTmJKT0VDc1c4Ti1LaHFQSldNYWhUcHNkNjFvWlZCRmlUWFU0T1poNzJ0MlV3aVdNWmhJ?oc=5",
-      "title": "AI coding sessions break down when your project context disappears. StudioForge Nexus is a public GitHub project outlining an AI-assisted workflow for Roblox Studio builders working with Claude Code.",
-      "source": "x-index",
-      "published": "2026-10-18",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases",
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc?oc=5",
       "title": "How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube",
@@ -7372,20 +7379,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMibEFVX3lxTE9KZ2J3M3lWUGhOUUZQdlZodHEyZlNTWk1MUmszaXljc21ZLWE3TVkxRVJ0TEtsWkFnTFpGU2R4ck8zbGpYZGUzX2FpZU9meWdxTWcwLS1kUTVYczhmU2R0MWxIWGhHR2dqWk1oUg",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KZ2J3M3lWUGhOUUZQdlZodHEyZlNTWk1MUmszaXljc21ZLWE3TVkxRVJ0TEtsWkFnTFpGU2R4ck8zbGpYZGUzX2FpZU9meWdxTWcwLS1kUTVYczhmU2R0MWxIWGhHR2dqWk1oUg?oc=5",
-      "title": "Mahito's Idle transfiguration is NOT the highest damage move in JJS | 120fps 1080P | video might lag for some mobile device | #jjs #jujutsushenanigans #roblox #idletransfiguration - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-17",
-      "kind": "index-only",
-      "signals": [
-        "first-session and mobile",
-        "tuition and economy"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

@@ -8,8 +8,8 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 320
-- index-only: 22
+- devforum: 322
+- index-only: 20
 - reddit: 243
 - youtube: 8
 
@@ -20,8 +20,8 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Physical Tycoon Purchases
 
-- [Looking for a team for a social deduction horror game (Mansion, 6-8 players) - scripters, builders, UI designers](https://www.reddit.com/r/robloxgamedev/comments/1x9aau7/looking_for_a_team_for_a_social_deduction_horror/) — reddit; **unviewed metadata**. Proposed test: Does buying one physical pad build a desk and cat in 0.5-1 second?
 - [Looking for a blender animator, visual effects artist, and/or model/map builder](https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/) — reddit; **unviewed metadata**. Proposed test: Does buying one physical pad build a desk and cat in 0.5-1 second?
+- [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Does buying one physical pad build a desk and cat in 0.5-1 second?
 
 ## Tuition And Economy
 
@@ -31,7 +31,7 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 ## Ui And Menus
 
 - [Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
-- [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
+- [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
 
 ## Cat Animation And Audio
 
@@ -55,8 +55,8 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
 - [Roblox Insights — How to Compare Performance, Errors, and Retention After an Update](https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
+- [Console + Phone Crashing/Memory](https://devforum.roblox.com/t/console-phone-crashingmemory/4946845) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
 
 ## Evidence required to turn a candidate into learning
 

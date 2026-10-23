@@ -52,8 +52,8 @@
       "head": "32c28089305f488f901aaf1dbf3fd1cb65fa3d11",
       "head_subject": "Sync to upstream/release/744 (#3071)",
       "name": "Roblox/luau",
-      "release_tag": "0.743",
-      "release_url": "https://github.com/luau-lang/luau/releases/tag/0.743",
+      "release_tag": "0.744",
+      "release_url": "https://github.com/luau-lang/luau/releases/tag/0.744",
       "url": "https://github.com/Roblox/luau"
     },
     "Roblox/open-game-eval": {
@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "30fa83c68c77d2e3a7a42f1407831ec252511130",
-      "head_subject": "chore: Update mods/",
+      "head": "b70dc4113ad72e0ee44f7b1b95afaf510b53ee98",
+      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.309",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
+      "release_tag": "v2.1.310",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "a5e91d792dfdede82efc9faf0c15b3eb84410dae",
-      "head_subject": "llama.cpp: version bump b11845 (#19250)",
+      "head": "675150d6ad2747df1e218ef59de9194bc4a7e538",
+      "head_subject": "voice: add voice catalog for Phonon (#19242)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.10",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
