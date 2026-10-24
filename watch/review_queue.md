@@ -7,7 +7,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061)** — Public text/page, video not confirmed
-- **[My roblox game has just released, it is basically ball vs ball but simulator, and i NEED a tester.](https://www.reddit.com/r/ROBLOXStudio/comments/1xe2sb3/my_roblox_game_has_just_released_it_is_basically/)** — Public text/page, video not confirmed
+- **[I built a tower defense in Roblox Studio where every secret you find lights a star in the night sky. This week's clue: where the old boards end a](https://www.reddit.com/r/ROBLOXStudio/comments/1xeivz3/i_built_a_tower_defense_in_roblox_studio_where/)** — Public text/page, video not confirmed
 - **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
@@ -22,5 +22,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
-- **[Plugin Capability required to change Parent of an instance](https://devforum.roblox.com/t/plugin-capability-required-to-change-parent-of-an-instance/4954058)** — Public text/page, video not confirmed
+- **[Creator Store accepts plugins that use CreateAssetAsync, but the API always fails for users who install them](https://devforum.roblox.com/t/creator-store-accepts-plugins-that-use-createassetasync-but-the-api-always-fails-for-users-who-install-them/4955322)** — Public text/page, video not confirmed
 - **[Looking for playtest opportunities (unpaid or robux payed)](https://www.reddit.com/r/ROBLOXStudio/comments/1xeelwy/looking_for_playtest_opportunities_unpaid_or/)** — Public text/page, video not confirmed
