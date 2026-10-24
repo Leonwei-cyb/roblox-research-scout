@@ -52,8 +52,9 @@ Account provenance: [https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ) — channel ID in public channel stats; direct posts: YouTube RSS
 
-**Collected media leads:** 1 matched metadata records.
+**Collected media leads:** 2 matched metadata records.
 - [My Roblox Game SUCKED... So I Fixed EVERYTHING!](https://www.youtube.com/watch?v=Flb3G3BbOfY) — verified channel upload · 2026-10-22
+- [I Made 4 Roblox Games in 12 Hours with This AI..](https://www.youtube.com/watch?v=CqURW0YPo4A) — verified channel upload · 2026-10-18
 
 ## GnomeCode — Roblox game systems
 

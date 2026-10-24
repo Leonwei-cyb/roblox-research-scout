@@ -5,16 +5,15 @@ Links and metadata collected; original social videos are NOT automatically playe
 | Observation | Count |
 |---|---:|
 | Saved source entries | 600 |
-| Original media URLs | 7 |
-| Indexed redirects, original unknown | 18 |
-| Failed feeds | 4 |
+| Original media URLs | 8 |
+| Indexed redirects, original unknown | 19 |
+| Failed feeds | 3 |
 
 ## Failures to resolve
 
 - reddit-robloxdev: HTTP 429
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 404
-- youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 404
 
 ## Actions
 

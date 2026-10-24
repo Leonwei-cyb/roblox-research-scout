@@ -998,7 +998,11 @@
     "7a295d92343efb7ed360aa36",
     "f39fc568b3fd963996e1ab86",
     "65910b70b98537437e4e31b8",
-    "271dae9b92d754bf95fc3757"
+    "271dae9b92d754bf95fc3757",
+    "d218ee78a83ec5b01bd1cf25",
+    "580f164eb61be6a0dfc69ac6",
+    "e384e0b849339030e0a01956",
+    "50306661a7ac8298f04bad4a"
   ],
   "items": [
     {
@@ -1035,6 +1039,18 @@
       "excerpt": "I tried zooming in on my Roblox Studio, now I’m stuck to zooming in straight and back or down and up. I can’t zoom in a specific spot (cursor) is at submitted by /u/Game-Developement [link] [comments]",
       "creator": "/u/Game-Developement https://www.reddit.com/user/Game-Developement",
       "id": "f39fc568b3fd963996e1ab86"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to fix map gen water?",
+      "url": "https://devforum.roblox.com/t/how-to-fix-map-gen-water/4953567",
+      "published": "2026-10-24",
+      "excerpt": "Hi, I’m trying to make map generation for an RTS game and I’m trying to stop the water from having grid lines, but I also want each water tile to be able to be coloured (for water pollution). How could I pull this off? This is what it looks like now (water tiles are scaled to y: 0 from the sea floor",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-fix-map-gen-water/4953567.rss",
+      "id": "d218ee78a83ec5b01bd1cf25"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1094,6 +1110,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472.rss",
       "id": "62f2739165896aa2c6eaac52"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "ECLAT Aura",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdw7p7/eclat_aura/",
+      "published": "2026-10-24",
+      "excerpt": "submitted by /u/Naive-Series821 [link] [comments]",
+      "creator": "/u/Naive-Series821 https://www.reddit.com/user/Naive-Series821",
+      "id": "580f164eb61be6a0dfc69ac6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3828,7 +3855,7 @@
       "title": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
       "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
       "published": "2026-10-22",
-      "excerpt": "Key Takeaways Custom Terrain Materials and the first terrain performance improvements are now out of Early Access. You can publish and play games using up to 62 custom terrain materials, with major reductions to file size and load time. Start using these improvements by accessing your Workspace prop",
+      "excerpt": "[Update - Bug for players on iOS on published games] Hey all quick update – Since this launch went out, we discovered a crash affecting some players on iOS during terrain streaming in live experiences. We have fixed the issue, and the fix will ship in an upcoming release. Read our full update below ",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620.rss",
       "id": "352389a00512a99a8ac73143"
@@ -6774,6 +6801,18 @@
       "id": "e5797e47176f13982ff5d87f"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "I Made 4 Roblox Games in 12 Hours with This AI.. - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44WXRqMDNXSmlETFFKQW9GUTFZSkI3UlhNUDBDbTRvc0NZY0RuZkg2b1lHQV94YWEtRFV4bEg1U29xeEhDMjdCS19DaW53dDQwdUFvMmZR?oc=5",
+      "published": "2026-10-18",
+      "excerpt": "I Made 4 Roblox Games in 12 Hours with This AI.. YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "e384e0b849339030e0a01956"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -7644,6 +7683,17 @@
       "id": "50b1df76bdf771bd57bab940"
     },
     {
+      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
+      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
+      "category": "Roblox build / 3D examples",
+      "title": "I Made 4 Roblox Games in 12 Hours with This AI..",
+      "url": "https://www.youtube.com/watch?v=CqURW0YPo4A",
+      "published": "2026-10-18",
+      "excerpt": "",
+      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
+      "id": "50306661a7ac8298f04bad4a"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -7852,50 +7902,6 @@
       "excerpt": "Claude Code Plugins Go Official at v2.1.302 [2026] https://tech-insider.org/",
       "creator": "",
       "id": "29bc6357b54cdf9410c2bea0"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Question about Robux transfers",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x904zg/question_about_robux_transfers/",
-      "published": "2026-10-18",
-      "excerpt": "PromptRobuxTransferAsync returns a transfer request ID even when the player dismisses the Send Robux prompt without paying. Is there a supported server-side cancellation event or status API that distinguishes cancellation from delayed payment or approval? Our experience reserves items before prompti",
-      "creator": "/u/Super_Rush7926 https://www.reddit.com/user/Super_Rush7926",
-      "id": "27c55bd978be0d1878f77dd9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UGC Moderation not affecting groups with 10+ terminated uploaders for violating ToS",
-      "url": "https://devforum.roblox.com/t/ugc-moderation-not-affecting-groups-with-10-terminated-uploaders-for-violating-tos/4942701",
-      "published": "2026-10-18",
-      "excerpt": "This group: Velvet Hub - Roblox uploads like 100+ slop UGC items & AI-recreations of stolen content over and over. Most of their “uploader” accounts got deleted, most likely due to Violating ToS. Their group is still up despite Violating Catalog/Marketplace ToS & should have been taken down. The Mod",
-      "creator": "",
-      "id": "273de60d04973b012cb46935"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "EU servers become extremely difficult to obtain during weekend peak hours",
-      "url": "https://devforum.roblox.com/t/eu-servers-become-extremely-difficult-to-obtain-during-weekend-peak-hours/4942461",
-      "published": "2026-10-18",
-      "excerpt": "Every Friday through Sunday, particularly around 16:00 CET/CEST (German local time) and during peak playing hours, it becomes extremely difficult to get a Roblox game server located in Europe. Instead, newly created servers frequently place European players in US regions, resulting in significantly ",
-      "creator": "",
-      "id": "27055a69e649245965a26d21"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Wow it’s some talented devs here, almost didn’t post",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x95co2/wow_its_some_talented_devs_here_almost_didnt_post/",
-      "published": "2026-10-18",
-      "excerpt": "submitted by /u/Hempflowerroaster [link] [comments]",
-      "creator": "/u/Hempflowerroaster https://www.reddit.com/user/Hempflowerroaster",
-      "id": "2614388592d9890afc36f91a"
     }
   ]
 }
