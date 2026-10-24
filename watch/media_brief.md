@@ -7,19 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[New Biome in Steal an Egg 🌲 #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFBQQXRaWGwycXNaTmhnazVHWkREQWR6eHhxSnByaFd0bTUzT3MzQWZfS3NwRlNwdUwwVnplQlBiUUs5eGhvVjBPbXdjeUp1bktFQnM2bWQtTDBYWGZXWVl4MnRqSXI3d25SMG5qdA?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-09-26
-  - Feed excerpt: New Biome in Steal an Egg 🌲 #roblox #stealanegg TikTok
+- **[I just added a New Dimension in Steal an Egg 🎃 #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWnFHRGhBeklVSGdydEpJSGhOdGxsUzJYZlRoSVo0QzBOcXVWRExIa2dqNDVHMEh5dWtnV0FXZEpCbDVEcm53ZkMtSG5aYjNhakF2RmV5dUxDdGRwdDBLVjY5TTZua2g4djBoUw?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-17
+  - Feed excerpt: I just added a New Dimension in Steal an Egg 🎃 #roblox #stealanegg TikTok
 
-## Roblox Updates
+## Community
 
-- **[Exclude certain creators in "Creator Store" tab](https://devforum.roblox.com/t/exclude-certain-creators-in-creator-store-tab/4953757)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: As a developer, it is currently difficult to find a good selection of human generated content when searching for assets in the “Creator Store” tab, particularly audios, which is currently a landfill for unthrottled AI generated audio upload
-- **[R6 & R15 Movement Animation Pack: 30 Animations](https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Hey developers! I’ve put together a Roblox Movement Animation Pack featuring 30 animations for both R6 and R15 characters. It’s designed for developers who want to add more variety to their character movement without having to create every 
-- **[What are marketing strategies that work well for multiplayer team games?](https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Me & my friend were wondering what strategies would be best for team based multiplayer games Would spending 10k Robux on marketing be worth it? He was thinking 5k on Roblox ads and 5k paying a YouTuber (who agreed to 5k for a video and he a
-- **[iPhone Duo support needs to be properly implemented based on Apple's documentation](https://devforum.roblox.com/t/iphone-duo-support-needs-to-be-properly-implemented-based-on-apples-documentation/4953727)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Hey! I just purchased a brand new iPhone Duo specifically for testing out stuff on the Roblox engine, and especially for making sure that all of my players have a great experience. I obviously knew what I was getting into, and I knew that d
+- **[Solo Roblox developer looking for honest feedback on my first game — what should I improve?](https://www.reddit.com/r/ROBLOXStudio/comments/1xdua6k/solo_roblox_developer_looking_for_honest_feedback/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: BRAINROT DYNASTY \| Play on Roblox , Hey everyone! I've spent a lot of time developing my Roblox game, Brainrot Dynasty, a collection/tycoon game where players collect brainrots, unlock mutations, earn cash, and progress through 15 ranks. I'
+- **[Discord Server](https://www.reddit.com/r/ROBLOXStudio/comments/1xe0ou1/discord_server/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: What does a basic Roblox Discord server need? Like what roles, channels, permissions, bots, and other stuff should I add? I'm trying to make a proper server and want to know the essentials without making it too complicated. submitted by /u/
+- **[My IK system for Animations](https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: I decided to make an IK system for my Roblox plugin... I’m not sure if it’s done correctly, but I think it is... what do you guys think? submitted by /u/Logical-Laugh-9581 \[link\] \[comments\]
 
 ---
 

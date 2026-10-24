@@ -1010,7 +1010,11 @@
     "b4d76fbc7d22836307e83abd",
     "f92d64ab8021af13e2406e21",
     "1003b008848dd63fc9a8ca16",
-    "fca1dad69f7dbb527f20e3c2"
+    "fca1dad69f7dbb527f20e3c2",
+    "a0d63ff40266f83b0e96f33f",
+    "4365edb47b112f8b2fb32dfb",
+    "2746ff81fdea959502683f6a",
+    "451dc7b0697a5a3753c79965"
   ],
   "items": [
     {
@@ -1109,6 +1113,17 @@
       "id": "a6febcec5e5fb85080f93e51"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Discord Server",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe0ou1/discord_server/",
+      "published": "2026-10-24",
+      "excerpt": "What does a basic Roblox Discord server need? Like what roles, channels, permissions, bots, and other stuff should I add? I'm trying to make a proper server and want to know the essentials without making it too complicated. submitted by /u/JamalDsea [link] [comments]",
+      "creator": "/u/JamalDsea https://www.reddit.com/user/JamalDsea",
+      "id": "a0d63ff40266f83b0e96f33f"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1179,6 +1194,17 @@
       "id": "580f164eb61be6a0dfc69ac6"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "My IK system for Animations",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/",
+      "published": "2026-10-24",
+      "excerpt": "I decided to make an IK system for my Roblox plugin... I’m not sure if it’s done correctly, but I think it is... what do you guys think? submitted by /u/Logical-Laugh-9581 [link] [comments]",
+      "creator": "/u/Logical-Laugh-9581 https://www.reddit.com/user/Logical-Laugh-9581",
+      "id": "4365edb47b112f8b2fb32dfb"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1201,6 +1227,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/raycast-chassis-lagspike-issue/4953477.rss",
       "id": "2b70e84f0ec5aaefc5e8849a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Solo Roblox developer looking for honest feedback on my first game — what should I improve?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdua6k/solo_roblox_developer_looking_for_honest_feedback/",
+      "published": "2026-10-24",
+      "excerpt": "BRAINROT DYNASTY | Play on Roblox , Hey everyone! I've spent a lot of time developing my Roblox game, Brainrot Dynasty, a collection/tycoon game where players collect brainrots, unlock mutations, earn cash, and progress through 15 ranks. I'm having trouble attracting players, and before trying to pr",
+      "creator": "/u/ALEX67ZOT https://www.reddit.com/user/ALEX67ZOT",
+      "id": "2746ff81fdea959502683f6a"
     },
     {
       "source": "reddit-robloxstudio",
@@ -7884,39 +7921,6 @@
       "excerpt": "What do I want to achieve? I want two AI chat experiences correctly labeled or restricted so young children can’t get into them, and I need to know how to escalate this, because Report Abuse and Roblox Support haven’t led to any action. What is the issue? These two experiences, both published by Fau",
       "creator": "",
       "id": "3ed3015b9ad0cedb224e7d06"
-    },
-    {
-      "source": "instagram-index",
-      "label": "Google News indexed: site:instagram.com Roblox Studio game development when:7d",
-      "category": "instagram_index",
-      "title": "Game development is becoming more accessible, even for people who have never written a line of code. AI-powered game creation tools aim to turn simple text prompts into playable experiences by combini",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wVzlvNTM0bm5Oc0lON2luYXhnckVKVjd2SFo4MlZaTUk4YXgxWTlQTG8tbmprTk5lVHY4cXJZRXFERmNpVVFReUVGbHduazFkTUNsRV9n?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "Game development is becoming more accessible, even for people who have never written a line of code. AI-powered game creation tools aim to turn simple text prompts into playable experiences by combining generated visuals, animations, sound effects and Instagram",
-      "creator": "",
-      "id": "3e48a98278713fd42d67a066"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Any good free pathfinding scripts? Or how to go about making one",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8qu9i/any_good_free_pathfinding_scripts_or_how_to_go/",
-      "published": "2026-10-18",
-      "excerpt": "I don't need anything crazy with jumps or parkour, but I do want a pathfinding method that can actually navigate a map with multiple obstacles/walls which require many turns etc. Currently with Roblox's normal pathfinding it completely fails to generate a single waypoint when I give it an endgoal po",
-      "creator": "/u/throwmywilltolive https://www.reddit.com/user/throwmywilltolive",
-      "id": "3a7470b1fb85883ff743db8a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Home Recommendation impressions stuck at ~45% of previous level for 5 weeks, despite recovered signals (Universe 9150731899)",
-      "url": "https://devforum.roblox.com/t/home-recommendation-impressions-stuck-at-45-of-previous-level-for-5-weeks-despite-recovered-signals-universe-9150731899/4942423",
-      "published": "2026-10-18",
-      "excerpt": "Hi everyone, I run PRISON RP (Universe ID 9150731899 ), a prison roleplay experience. Since mid-September, our Home Recommendation impressions dropped by more than half and have not recovered, even though our recommendation signals are back to (or better than) the level we had when we were getting t",
-      "creator": "",
-      "id": "377bd76ff2d64602c02b7d51"
     }
   ]
 }

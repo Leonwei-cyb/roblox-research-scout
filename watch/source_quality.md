@@ -5,22 +5,22 @@
 | Classification | Entries |
 |---|---:|
 | original video/post URL (unwatched) | 8 |
-| public metadata / page | 574 |
-| indexed redirect (not original) | 18 |
+| public metadata / page | 575 |
+| indexed redirect (not original) | 17 |
 | promotional / risky title | 0 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
 Direct-original share: **1.3%** (still unwatched).
-Indexed redirects: **18**. They require primary-source verification.
+Indexed redirects: **17**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **591**; direct originals **8**; indexed redirects **9**.
+Active-source entries: **592**; direct originals **8**; indexed redirects **9**.
 Active-source direct-original share: **1.4%** (still unwatched).
-Entries from paused/unconfigured sources: **9** (claude-news, instagram-index, tiktok-index, video-index, x-index).
+Entries from paused/unconfigured sources: **8** (claude-news, instagram-index, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -30,7 +30,6 @@ Google News redirect links are not resolved: the current article format needs Go
 |---|---:|
 | www.youtube.com | 5 |
 | https://tech-insider.org/ (title suffix) | 2 |
-| unknown | 2 |
 | www.tiktok.com | 2 |
 | Instagram (title suffix) | 1 |
 | MakeUseOf (title suffix) | 1 |
@@ -38,6 +37,7 @@ Google News redirect links are not resolved: the current article format needs Go
 | X (title suffix) | 1 |
 | YouTube (title suffix) | 1 |
 | boingboing.net | 1 |
+| unknown | 1 |
 | www.instagram.com | 1 |
 
 ## Actionable interpretation
