@@ -936,6 +936,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4954472:1",
+      "url": "https://devforum.roblox.com/t/eu-server-inaccessability/4954472",
+      "title": "EU Server Inaccessability",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8wtq2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8wtq2/should_i_find_a_modeller_or_just_learn_to_model/",
       "title": "Should I find a modeller or just learn to model myself?",
@@ -954,20 +968,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8x1wo/i_built_the_new_flying_tesla_roadster_in_roblox/",
       "title": "I built the new flying Tesla Roadster in Roblox Studio with custom cold-gas thruster physics (Luau)",
       "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "physical tycoon purchases",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x99xvf",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x99xvf/i_opened_roblox_studio_for_the_first_time_2/",
-      "title": "I opened Roblox Studio for the first time 2 months ago with zero experience. Now I'm looking for the first playtesters for my game",
-      "source": "reddit-robloxdev",
       "published": "2026-10-18",
       "kind": "reddit",
       "signals": [
@@ -1227,6 +1227,20 @@
       "signals": [
         "cat animation and audio",
         "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xe7y40",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe7y40/cant_move_camera_gets_interrupted_by_context_menu/",
+      "title": "Cant move camera, gets interrupted by context menu (Vinegar, CachyOS linux)",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "UI and menus"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -3440,19 +3454,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4942954:1",
-      "url": "https://devforum.roblox.com/t/hair-not-being-found-even-though-hair-is-in-serverstorage/4942954",
-      "title": "Hair not being found even though hair is in serverstorage",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "physical tycoon purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4942981:1",
       "url": "https://devforum.roblox.com/t/can-an-npc-remember-nicknames-learned-through-speech-to-text-between-sessions/4942981",
       "title": "Can an NPC remember nicknames learned through speech-to-text between sessions?",
@@ -4389,19 +4390,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x979u7",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x979u7/what_type_of_game_to_make/",
-      "title": "what type of game to make",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "tuition and economy"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1x98ub7",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x98ub7/join_the_game_pls/",
       "title": "JOIN THE GAME PLS",
@@ -5078,20 +5066,22 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4941469:1",
-      "url": "https://devforum.roblox.com/t/should-i-create-a-new-game-or-reuse-my-old-one-that-has-250-hep/4941469",
-      "title": "Should I create a new game or reuse my old one that has 250 HEP?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xe8iad",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe8iad/20132014_styled_ferry_based_off_the_real_ferry_mf/",
+      "title": "2013-2014 styled ferry, based off the Real ferry MF Nordby",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "physical tycoon purchases"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4941528:1",
-      "url": "https://devforum.roblox.com/t/groups-remaining-locked-after-a-un-termination-of-the-account/4941528",
-      "title": "Groups remaining locked after a un-termination of the account",
+      "key": "devforum:4941469:1",
+      "url": "https://devforum.roblox.com/t/should-i-create-a-new-game-or-reuse-my-old-one-that-has-250-hep/4941469",
+      "title": "Should I create a new game or reuse my old one that has 250 HEP?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-18",
       "kind": "devforum",
@@ -6442,17 +6432,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x8tvjx",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8tvjx/question_about_stringvalue/",
-      "title": "Question about stringvalue",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1x8u7o7",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8u7o7/where_is_roblox_devs/",
       "title": "Where Is Roblox Devs???",
@@ -7259,6 +7238,28 @@
       "key": "reddit:1xe5lgy",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe5lgy/x29_grumman/",
       "title": "X-29 Grumman",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xe6cbz",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe6cbz/quickui_vector_creator/",
+      "title": "QuickUi+ Vector creator",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xe856i",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe856i/strike_aircraft/",
+      "title": "Strike Aircraft",
       "source": "reddit-robloxstudio",
       "published": "2026-10-24",
       "kind": "reddit",
