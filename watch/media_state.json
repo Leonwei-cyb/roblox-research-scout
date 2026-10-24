@@ -1053,7 +1053,19 @@
     "bae8392040a5845fe86939da",
     "3fdc7a33822efa7b5f7352ca",
     "02e5bfd86f9885de1b01b96f",
-    "bddd612c87f2f6955055446f"
+    "bddd612c87f2f6955055446f",
+    "0040ef682bcaaa736606f68d",
+    "2a2d5f7d8603a18a405ee005",
+    "84b3a168d141dea6ee721791",
+    "6dc71e810d8ef49b9ce647b7",
+    "2b3940736fac3f91ef265b75",
+    "d2d4bbb1e62faaa5f799b052",
+    "1aa995cd2eb3fd66123ef245",
+    "9c0e060fa8bf0338172e0024",
+    "d8339f86a8560f85a0dc66dc",
+    "0ef88ef8c90ffb23bdaa986f",
+    "2a902332ea9fda0825127729",
+    "6ee4fce69eaee45ee282e114"
   ],
   "items": [
     {
@@ -1176,6 +1188,17 @@
       "id": "e10a00ee9c70305a3276bbe1"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "SERAPHIM Aura",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeci8s/seraphim_aura/",
+      "published": "2026-10-24",
+      "excerpt": "submitted by /u/Naive-Series821 [link] [comments]",
+      "creator": "/u/Naive-Series821 https://www.reddit.com/user/Naive-Series821",
+      "id": "d8339f86a8560f85a0dc66dc"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1186,6 +1209,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/public-game-showing-as-locked-to-testers-hidden-from-group/4954220.rss",
       "id": "d65c54c7f416eb16e3f7114b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox AI Assistant is giving odd outputs",
+      "url": "https://devforum.roblox.com/t/roblox-ai-assistant-is-giving-odd-outputs/4954717",
+      "published": "2026-10-24",
+      "excerpt": "Those odd replies are being written by Roblox AI Assistent after recieving any prompt, containing the request for help with script bugs. This bug has been appearing for 1-2 days. I’ve tried: Restarting Studio (Didn’t help) Making several New chats, inserting the same prompts (Didn’t help) Rephrasing",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-ai-assistant-is-giving-odd-outputs/4954717.rss",
+      "id": "d2d4bbb1e62faaa5f799b052"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1351,6 +1386,18 @@
       "id": "9e66bedc5d5608076ebb77bc"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Universal Teleport stays stuck forever for multiple games",
+      "url": "https://devforum.roblox.com/t/universal-teleport-stays-stuck-forever-for-multiple-games/4954635",
+      "published": "2026-10-24",
+      "excerpt": "Anytime I get universal teleported to another place of a game, it freezes roblox and my only option is to close the application entirely, this is happening to any game I’ve played. I’ve updated my GPU drivers to ensure it wasn’t an issue. Please check the video below. External Media 1 post - 1 parti",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/universal-teleport-stays-stuck-forever-for-multiple-games/4954635.rss",
+      "id": "9c0e060fa8bf0338172e0024"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1408,6 +1455,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/debugprofileend-no-active-profile-annotation/4954271.rss",
       "id": "89a4d15160aba081a09e4792"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "GUI scaling issues",
+      "url": "https://devforum.roblox.com/t/gui-scaling-issues/4954846",
+      "published": "2026-10-24",
+      "excerpt": "I’m not sure how to make the UI appear the same on all devices. I’ve tried UIAspectRatioConstraints on my parent frames but that leaves big gaps on the side of the screen, and without the constraints, all UI elements get stretched to fit the screen. How i want it to look for all players on all devic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/gui-scaling-issues/4954846.rss",
+      "id": "84b3a168d141dea6ee721791"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1478,6 +1537,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/should-i-pause-an-ad-campaign-over-night/4953660.rss",
       "id": "707bc0783ebc7ec5c54f663c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for testers for my space engine inspired game!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xebkag/looking_for_testers_for_my_space_engine_inspired/",
+      "published": "2026-10-24",
+      "excerpt": "Heyo! I'm looking for testers to test my game called \"Project : Eclipse\" which is inspired by Space Engine, i need people who have good enough PCs or laptops because the game is not for mobile and i don't think it's even possible to implement mobile support and people who can give detailed feedback ",
+      "creator": "/u/Klutzy_Letterhead578 https://www.reddit.com/user/Klutzy_Letterhead578",
+      "id": "6ee4fce69eaee45ee282e114"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to make 2d particles",
+      "url": "https://devforum.roblox.com/t/how-to-make-2d-particles/4954809",
+      "published": "2026-10-24",
+      "excerpt": "what’s the best way to make 2d particles like here 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-make-2d-particles/4954809.rss",
+      "id": "6dc71e810d8ef49b9ce647b7"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1627,6 +1709,41 @@
       "id": "2b70e84f0ec5aaefc5e8849a"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add a way to unlock All Ages via USD",
+      "url": "https://devforum.roblox.com/t/add-a-way-to-unlock-all-ages-via-usd/4954751",
+      "published": "2026-10-24",
+      "excerpt": "Recently because of the influx of new games and therefore people running ads, using Engagement ads has become marginally less efficient. While you could easily get with subpar CTR the 250 HEP player requirement in a few days, it’s become much slower for the same spend with similar CTR. Not all devel",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-a-way-to-unlock-all-ages-via-usd/4954751.rss",
+      "id": "2b3940736fac3f91ef265b75"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I made an Incremental Simulator",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xebpa4/i_made_an_incremental_simulator/",
+      "published": "2026-10-24",
+      "excerpt": "I wanted to make a +1 game, but with more progression and things to do than just clicking to increase a number. I’ve been working on this Roblox game for a while now, and I’d really appreciate it if some of you could give it a try! I’m mainly looking for honest feedback on the gameplay, progression,",
+      "creator": "/u/Competitive_Oil2162 https://www.reddit.com/user/Competitive_Oil2162",
+      "id": "2a902332ea9fda0825127729"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Over a Year Since South Korea's Limited Trading Ban — Will Roblox Reconsider Its Decision?",
+      "url": "https://devforum.roblox.com/t/over-a-year-since-south-koreas-limited-trading-ban-%E2%80%94-will-roblox-reconsider-its-decision/4954850",
+      "published": "2026-10-24",
+      "excerpt": "Hello Roblox Team, It has now been over a year since Roblox restricted Limited and Limited U item trading and reselling for users in South Korea in October 2025. Despite the amount of time that has passed, many Korean users are still waiting for a clear explanation of why these restrictions remain i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/over-a-year-since-south-koreas-limited-trading-ban-%E2%80%94-will-roblox-reconsider-its-decision/4954850.rss",
+      "id": "2a2d5f7d8603a18a405ee005"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1658,6 +1775,18 @@
       "excerpt": "submitted by /u/Own_Quote1469 [link] [comments]",
       "creator": "/u/Own_Quote1469 https://www.reddit.com/user/Own_Quote1469",
       "id": "25bd8b8f257f52b6c5d72d88"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Analytics' 'Bounce Rate' genre benchmark always shows 0.00% for all games",
+      "url": "https://devforum.roblox.com/t/analytics-bounce-rate-genre-benchmark-always-shows-000-for-all-games/4954670",
+      "published": "2026-10-24",
+      "excerpt": "0% bounce rate is physically impossible, this data error makes it difficult to tell what a good bounce rate for your genre is another game where this is happening It will stay at 0% until your game starts getting compared to similar games rather than gene in this one you can see it shift when it sta",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/analytics-bounce-rate-genre-benchmark-always-shows-000-for-all-games/4954670.rss",
+      "id": "1aa995cd2eb3fd66123ef245"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1723,6 +1852,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "What a good monitor for 3d animation/rendering? D",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xebrtp/what_a_good_monitor_for_3d_animationrendering_d/",
+      "published": "2026-10-24",
+      "excerpt": "S submitted by /u/JustTinyBitHungry [link] [comments]",
+      "creator": "/u/JustTinyBitHungry https://www.reddit.com/user/JustTinyBitHungry",
+      "id": "0ef88ef8c90ffb23bdaa986f"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Looking for testers for my topdown ARPG game.",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe4gar/looking_for_testers_for_my_topdown_arpg_game/",
       "published": "2026-10-24",
@@ -1740,6 +1880,18 @@
       "excerpt": "Hey guys, I have this issue thats REALLY annoying me. whenever i try moving my camera in the viewport, it moves just a twitch, then gets interrupted by a context menu. It worked just fine last night, all i did was leave my PC on overnight. Ive tried reinstalling it, didnt change anything. ANY HELP W",
       "creator": "/u/Competitive-Read7072 https://www.reddit.com/user/Competitive-Read7072",
       "id": "02e5bfd86f9885de1b01b96f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Ui Saver [FREE PLUGIN]",
+      "url": "https://devforum.roblox.com/t/ui-saver-free-plugin/4954867",
+      "published": "2026-10-24",
+      "excerpt": "UI Saver Your UI library, right inside Studio. Get UI Saver for free Hi everyone! I've updated UI Saver with a new interface and more tools for managing your saved designs. I made this plugin to keep reusable UI in one place. Save a button, menu, or entire ScreenGui, then insert a copy whenever you ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ui-saver-free-plugin/4954867.rss",
+      "id": "0040ef682bcaaa736606f68d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7848,138 +8000,6 @@
       "excerpt": "As a Roblox developer, I want to be able to fully develop my game from my phone with the full power of Studio. This means using a agent harness like T3 so I can manage multiple remote sessions concurrently and have each develop the game, open pull requests, etc. Doing this effectively requires all o",
       "creator": "",
       "id": "9f64fca2de6d450fe8f17995"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Should I find a modeller or just learn to model myself?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8wtq2/should_i_find_a_modeller_or_just_learn_to_model/",
-      "published": "2026-10-18",
-      "excerpt": "I've been working on a game project of mine for a while with some friends of mine but I haven't been able to find a modeller so I've been doing most of it just using Roblox studio. Now I do want some models for some things in my game not the whole game just somethings in it. I am now unsure if I sho",
-      "creator": "/u/Tiny-Masterpiece-248 https://www.reddit.com/user/Tiny-Masterpiece-248",
-      "id": "9e115bf38193c64ece583bd6"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I built the new flying Tesla Roadster in Roblox Studio with custom cold-gas thruster physics (Luau)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8x1wo/i_built_the_new_flying_tesla_roadster_in_roblox/",
-      "published": "2026-10-18",
-      "excerpt": "Hey fellow devs! After seeing the recent demonstration of the new Roadster with SpaceX cold-gas thrusters, I spent the last few days in Studio building a fully functional version for my open-world game EXIT POINT. How it is built in Studio: - Body Lofting: Built from 36 profile slices lofted in Stud",
-      "creator": "/u/Suspicious_Swan4988 https://www.reddit.com/user/Suspicious_Swan4988",
-      "id": "9a988b600db6d20640e7e16f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How to make a Roblox map with Claude AI: your kids dream it up, Claude Code builds it",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9at2n/how_to_make_a_roblox_map_with_claude_ai_your_kids/",
-      "published": "2026-10-18",
-      "excerpt": "Anyone tried this? If so, does it work well? submitted by /u/ross2000 [link] [comments]",
-      "creator": "/u/ross2000 https://www.reddit.com/user/ross2000",
-      "id": "97279f7f35640550697a7623"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Plugin] Bendify: bend, twist & squash Parts and MeshParts with a lattice",
-      "url": "https://devforum.roblox.com/t/plugin-bendify-bend-twist-squash-parts-and-meshparts-with-a-lattice/4943157",
-      "published": "2026-10-18",
-      "excerpt": "Hi! Bendify is a Studio plugin that lets you bend, twist and squash your builds without leaving Studio. No Blender needed! It puts a cage of points (a lattice , like the lattice modifier in Blender or Unity, also called FFD) around anything you select. Drag the points and your Parts and MeshParts be",
-      "creator": "",
-      "id": "96f985c6e8a61e9250188cb2"
-    },
-    {
-      "source": "video-index",
-      "label": "Google News indexed: site:youtube.com Roblox Studio Claude Code gameplay tutorial when:7d",
-      "category": "youtube_index",
-      "title": "Vinicius Junior x Doja Cat #algorithm #edit #shorts - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSGVtNFYzb2hGcVo0WEx2ZklEOXBGN2w4UjdnZ2xzTmlyWlhvM1BVOEJrNm5JUXRFQV8zUFFHN0JXNTRtcE0zS0dhYzBLLXNEVlVnaG1R?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "Vinicius Junior x Doja Cat #algorithm #edit #shorts YouTube",
-      "creator": "",
-      "id": "94b8b968dfe6cf7410f2c648"
-    },
-    {
-      "source": "tiktok-index",
-      "label": "Google News indexed: site:tiktok.com/@ roblox studio developer 3d models UI showcase when:14d",
-      "category": "TikTok indexed leads",
-      "title": "⚡:: I tried moon animator for the first time! Its so complicated.. The reason why i haven't been posting, lol, practice makes perfect (IM ON PC) . . . . . . . #roblox #robloxoc #robloxfyp #moonanimato",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xRDE3ZFFreW5yVnh1eHZudzIxeEN4bm5BYlpNYklmR1FIb2VZOEpHYTNZYmVtOHF5cEVVU3pVUExWZVU2RzQ2X3dVX2ZucG0yWU1LMEF3elJuc2ZOVjA2Q0lyeDZCZEhH?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "⚡:: I tried moon animator for the first time! Its so complicated.. The reason why i haven't been posting, lol, practice makes perfect (IM ON PC) . . . . . . . #roblox #robloxoc #robloxfyp #moonanimator2 #robloxedit #fypシ゚viral #fypシ #robloxmemes #robloxtrend#fy TikTok",
-      "creator": "",
-      "id": "903c8300ba8e2db572941997"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "It’s my birthday! (again) And as for the occassion. I’m celebrating with a GFX",
-      "url": "https://devforum.roblox.com/t/it%E2%80%99s-my-birthday-again-and-as-for-the-occassion-i%E2%80%99m-celebrating-with-a-gfx/4943038",
-      "published": "2026-10-18",
-      "excerpt": "and yes I’m already aware I’ve been absent for a few years but it took me a while to apply for the age verification thing. Feedback (and likes) are heavily appreciated! 1 post - 1 participant Read full topic",
-      "creator": "",
-      "id": "8fa052834522e6c968f4adbd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Server Never Starts for Game/Team Create",
-      "url": "https://devforum.roblox.com/t/server-never-starts-for-gameteam-create/4943037",
-      "published": "2026-10-18",
-      "excerpt": "When attempting to start a new server, both as a game and in team create, the server will never start. It only happens in my one game: Chicago: 1949 | Play on Roblox It’s caused the player count to drop to 0 since new servers cannot be spun up. 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "id": "8eee07b1a501fea0bbb21716"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UIDragDetectors not working at runtime",
-      "url": "https://devforum.roblox.com/t/uidragdetectors-not-working-at-runtime/4942982",
-      "published": "2026-10-18",
-      "excerpt": "I use a Part in workspace and Surface GUI to achieve this cool dynamic screen GUI, however UIDragDetectors fully stop working at runtime, despite working fine otherwise Example of it not working: Example of it working in the workspace in studio: Example of it not working at runtime: I’ve searched fo",
-      "creator": "",
-      "id": "8d2a959489121c191ce2461d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What the fuck is this error message and why is it slowing my testing",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x9bifp/what_the_fuck_is_this_error_message_and_why_is_it/",
-      "published": "2026-10-18",
-      "excerpt": "submitted by /u/MmmmPapadummmm [link] [comments]",
-      "creator": "/u/MmmmPapadummmm https://www.reddit.com/user/MmmmPapadummmm",
-      "id": "8c045f8d1cec65178834e383"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Coding with AI or manually?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8wtkh/coding_with_ai_or_manually/",
-      "published": "2026-10-18",
-      "excerpt": "I've visited this community seconds ago, and saw many posts about the game projects etc. Just wondering, are they coded manually or with AI? I am interested in how people code nowadays. submitted by /u/Clara_Cutie1 [link] [comments]",
-      "creator": "/u/Clara_Cutie1 https://www.reddit.com/user/Clara_Cutie1",
-      "id": "8807e6241537359c71b2cd0d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "False positive moderation: experience flagged for TextChatService / UGC filtering while fully compliant",
-      "url": "https://devforum.roblox.com/t/false-positive-moderation-experience-flagged-for-textchatservice-ugc-filtering-while-fully-compliant/4942626",
-      "published": "2026-10-18",
-      "excerpt": "Our experiences keep getting restricted for “unfiltered content / TextChatService / custom chat / UGC text,” even though all chat and UGC text surfaces are already compliant in the latest published versions. Automated review appears to be false-flagging us. Support replies repeat the same checklist ",
-      "creator": "",
-      "id": "86e202941f7359f2d4c26424"
     }
   ]
 }
