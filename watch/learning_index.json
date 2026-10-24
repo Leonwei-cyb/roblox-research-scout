@@ -21,21 +21,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4941183:1",
-      "url": "https://devforum.roblox.com/t/animation-graph-tracks-keep-5%E2%80%936-mb-of-client-memory-each-after-the-track-animator-and-model-are-destroyed/4941183",
-      "title": "Animation Graph tracks keep ~5–6 MB of client memory each after the track, Animator and model are destroyed",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "cat animation and audio",
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 11,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xd3wbw",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/",
       "title": "Looking for a blender animator, visual effects artist, and/or model/map builder",
@@ -396,6 +381,20 @@
       "signals": [
         "physical tycoon purchases",
         "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4954218:1",
+      "url": "https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218",
+      "title": "I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -965,20 +964,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x98u1j",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x98u1j/how_do_you_guys_build_large_naturallooking/",
-      "title": "How do you guys build large, natural-looking mountain maps in Roblox?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "physical tycoon purchases",
-        "world and visual design"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1x99xvf",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x99xvf/i_opened_roblox_studio_for_the_first_time_2/",
       "title": "I opened Roblox Studio for the first time 2 months ago with zero experience. Now I'm looking for the first playtesters for my game",
@@ -1244,19 +1229,6 @@
         "tools and performance"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4941394:1",
-      "url": "https://devforum.roblox.com/t/how-to-get-the-scale-of-a-ui-drag-button-relative-to-the-maximum-and-minimum-it-can-move/4941394",
-      "title": "How to get the scale of a ui drag button relative to the maximum and minimum it can move",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2237,19 +2209,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x8uws3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8uws3/feedback_save_chickenity_coop_chickenvszooanimals/",
-      "title": "[Feedback] Save Chickenity!!! – co-op chicken-vs-zoo-animals wave shooter",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1x8v3zr",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8v3zr/working_on_a_snes_emulator_on_roblox_studio/",
       "title": "Working on a SNES Emulator on Roblox Studio",
@@ -2336,19 +2295,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x9a358",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x9a358/programming_menu_with_0_experience/",
-      "title": "Programming menu with 0 experience",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2865,6 +2811,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xe58zd",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe58zd/i_know_this_isnt_exactly_a_roblox_studio_problem/",
+      "title": "I know this isn't exactly a Roblox Studio problem, but how I can fix transparent head?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xe5brh",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe5brh/stuck_on_0_players/",
+      "title": "Stuck on 0 players",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4944421:1",
       "url": "https://devforum.roblox.com/t/in-game-editable-image-publishing/4944421",
       "title": "In-Game Editable Image Publishing",
@@ -3070,20 +3042,6 @@
       "signals": [
         "UI and menus",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x900n4",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x900n4/what_do_you_think_of_my_game_give_it_a_play/",
-      "title": "What do you think of my game? Give it a play.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "tuition and economy",
-        "world and visual design"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3444,19 +3402,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4941570:1",
-      "url": "https://devforum.roblox.com/t/clientmovementdetector-cross-platform-detection-for-jumps-and-movements/4941570",
-      "title": "ClientMovementDetector - cross-platform detection for jumps and movements",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4941933:1",
       "url": "https://devforum.roblox.com/t/verified-icon-in-game-looks-weird/4941933",
       "title": "Verified icon in-game looks weird",
@@ -3569,19 +3514,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4943155:1",
-      "url": "https://devforum.roblox.com/t/whats-the-best-way-to-structure-a-combat-system/4943155",
-      "title": "Whats the best way to structure a combat system?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "physical tycoon purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4354,6 +4286,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4954232:1",
+      "url": "https://devforum.roblox.com/t/deterministic-remote-code-execution-reachable-by-opening-a-place/4954232",
+      "title": "DETERMINISTIC: Remote Code Execution reachable by opening a place.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4954271:1",
+      "url": "https://devforum.roblox.com/t/debugprofileend-no-active-profile-annotation/4954271",
+      "title": "debug.profileEnd() - No active profile annotation",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8spi7",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8spi7/i_made_my_first_game_and_i_dont_think_it_went/",
       "title": "I made my first game, and I don't think it went very well.",
@@ -5121,6 +5079,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xe4hl9",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe4hl9/proceduralgenerating_obby/",
+      "title": "Procedural-generating obby",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4941469:1",
       "url": "https://devforum.roblox.com/t/should-i-create-a-new-game-or-reuse-my-old-one-that-has-250-hep/4941469",
       "title": "Should I create a new game or reuse my old one that has 250 HEP?",
@@ -5135,28 +5106,6 @@
       "key": "devforum:4941528:1",
       "url": "https://devforum.roblox.com/t/groups-remaining-locked-after-a-un-termination-of-the-account/4941528",
       "title": "Groups remaining locked after a un-termination of the account",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4941658:1",
-      "url": "https://devforum.roblox.com/t/unfairly-removed-my-username-and-took-away-my-ability-to-change-it-for-free/4941658",
-      "title": "Unfairly removed my username and took away my ability to change it for free",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4941681:1",
-      "url": "https://devforum.roblox.com/t/mesh-assets-can-no-longer-be-loaded-into-specialmeshes-for-content-loading/4941681",
-      "title": "Mesh Assets can no longer be loaded into SpecialMeshes for content loading.",
       "source": "roblox-devforum-latest",
       "published": "2026-10-18",
       "kind": "devforum",
@@ -6452,12 +6401,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x8rzes",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8rzes/save_when_choosing_to_collaborate_on_experience/",
-      "title": "'Save' when choosing to collaborate on experience hidden by taskbar? Help?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
+      "key": "devforum:4954197:1",
+      "url": "https://devforum.roblox.com/t/website-bug-roblox-repeatedly-spamming-identical-2-step-verification-via-authenticator-messages-daily/4954197",
+      "title": "[Website Bug] Roblox repeatedly spamming identical 2-Step Verification via Authenticator messages daily",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4954220:1",
+      "url": "https://devforum.roblox.com/t/public-game-showing-as-locked-to-testers-hidden-from-group/4954220",
+      "title": "Public game showing as locked to testers & hidden from group",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4954256:1",
+      "url": "https://devforum.roblox.com/t/success-with-emulating-the-new-steam-controller-2/4954256",
+      "title": "Success with emulating the new Steam Controller 2?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7255,6 +7226,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xe4gar",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe4gar/looking_for_testers_for_my_topdown_arpg_game/",
+      "title": "Looking for testers for my topdown ARPG game.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xe4l8l",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe4l8l/kardashev_aura/",
+      "title": "KARDASHEV Aura",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xe56m8",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe56m8/need_play_tester/",
+      "title": "Need play tester :((",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xe5lgy",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe5lgy/x29_grumman/",
+      "title": "X-29 Grumman",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR?oc=5",
       "title": "Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) - YouTube",
@@ -7391,19 +7406,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMibEFVX3lxTE5HMlRIVTB2SmQ4NV96d0p3djhMeWZCbHRpTEdVbXV2QWFZRFB0QWthb01TSUFLdFJaNUZvcngxZjNNNFY4SS1wLTRta1k5cHhsNm5JR3pKN1U2a3VtaVBCdWJqMC1faUkwMDdaRg",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMlRIVTB2SmQ4NV96d0p3djhMeWZCbHRpTEdVbXV2QWFZRFB0QWthb01TSUFLdFJaNUZvcngxZjNNNFY4SS1wLTRta1k5cHhsNm5JR3pKN1U2a3VtaVBCdWJqMC1faUkwMDdaRg?oc=5",
-      "title": "How to get the train ticket in Steal an Egg #roblox #stealanegg - TikTok",
-      "source": "brock-tiktok",
-      "published": "2026-10-18",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMibkFVX3lxTE02dzZaM09wT1k4eVJnWW5mQ0FnaWt4cFluSjRXWlFjM0M0SVpfUzhJbTBaRGZ0djVNMUEtdG9kUmlNOS1EZHN0NmUweGlqdl92ODdwSWxCck9FbUw3QnpjbVFlZ3I1TWtuaUFhOW5B",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02dzZaM09wT1k4eVJnWW5mQ0FnaWt4cFluSjRXWlFjM0M0SVpfUzhJbTBaRGZ0djVNMUEtdG9kUmlNOS1EZHN0NmUweGlqdl92ODdwSWxCck9FbUw3QnpjbVFlZ3I1TWtuaUFhOW5B?oc=5",
       "title": "Such an awesome handheld and MP3 player. Never would I have ever imagined playing Ridge Racer 4 on the go like this on the GKD Pixel #handheld #ps1 #gkdpixel #fyp #foryoupage - TikTok",
@@ -7413,17 +7415,6 @@
       "signals": [
         "player feedback and marketing"
       ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5",
-      "title": "JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents [2026] - https://tech-insider.org/",
-      "source": "claude-news",
-      "published": "2026-10-18",
-      "kind": "index-only",
-      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

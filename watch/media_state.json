@@ -1029,7 +1029,20 @@
     "530af2816db8a1d231a53d02",
     "8cd069dff03333af8cc83b02",
     "b6a43b5242364151af03f0e4",
-    "70fbe8ac4798b10775799cb7"
+    "70fbe8ac4798b10775799cb7",
+    "89a4d15160aba081a09e4792",
+    "bc87e044b7daedb184bd5630",
+    "11ca4a5229c16c508baaa28b",
+    "d65c54c7f416eb16e3f7114b",
+    "cf583a5b9ef341259e30fbf9",
+    "c88c8852d605d1e733c4bac5",
+    "25bd8b8f257f52b6c5d72d88",
+    "0bd24080836210d6a00384ad",
+    "6b2a7edcf78ca16e3474471c",
+    "2fb22e4d11095eb1a45ad8f0",
+    "9bfbe0d0cc52c09550ce5978",
+    "60776724fd4146c54316575b",
+    "7c3e7a407ff45079892001be"
   ],
   "items": [
     {
@@ -1143,6 +1156,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Public game showing as locked to testers & hidden from group",
+      "url": "https://devforum.roblox.com/t/public-game-showing-as-locked-to-testers-hidden-from-group/4954220",
+      "published": "2026-10-24",
+      "excerpt": "Hi, one of my games is set to public and (should be) available to all ages , however: On create.roblox.com it shows locked to Playtesters It is hidden from our group home page Manage Audience shows it is locked to 16+ None of that should be true. It is a public game which should be available to all ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/public-game-showing-as-locked-to-testers-hidden-from-group/4954220.rss",
+      "id": "d65c54c7f416eb16e3f7114b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How to fix map gen water?",
       "url": "https://devforum.roblox.com/t/how-to-fix-map-gen-water/4953567",
       "published": "2026-10-24",
@@ -1150,6 +1175,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-fix-map-gen-water/4953567.rss",
       "id": "d218ee78a83ec5b01bd1cf25"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio",
+      "url": "https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218",
+      "published": "2026-10-24",
+      "excerpt": "Hello! I rarely use the forum, but I’ll make this in hopes this can solves someone who encounter the same problem as mine. I have this issue where the pivot point of the model were it defaulted to middle of the origin point While it does put the model location, the pivot however stayed in the middle",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218.rss",
+      "id": "cf583a5b9ef341259e30fbf9"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1161,6 +1198,30 @@
       "excerpt": "This stupid error message is so fucking annoying. It keeps delaying and laggy my play testing by 5-10 seconds after I click test. submitted by /u/MmmmPapadummmm [link] [comments]",
       "creator": "/u/MmmmPapadummmm https://www.reddit.com/user/MmmmPapadummmm",
       "id": "c9c7a67fd52a20272ef0c128"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Website Bug] Roblox repeatedly spamming identical 2-Step Verification via Authenticator messages daily",
+      "url": "https://devforum.roblox.com/t/website-bug-roblox-repeatedly-spamming-identical-2-step-verification-via-authenticator-messages-daily/4954197",
+      "published": "2026-10-24",
+      "excerpt": "The official Roblox account ( @Roblox ) is continuously spamming identical automated messages to my inbox every single day. The message instructs me to “Make Sure 2-Step Verification via Authenticator is Enabled” and repeats daily (as seen in the attached image, coming in back-to-back every 24 hours",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/website-bug-roblox-repeatedly-spamming-identical-2-step-verification-via-authenticator-messages-daily/4954197.rss",
+      "id": "c88c8852d605d1e733c4bac5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Success with emulating the new Steam Controller 2?",
+      "url": "https://devforum.roblox.com/t/success-with-emulating-the-new-steam-controller-2/4954256",
+      "published": "2026-10-24",
+      "excerpt": "Has anybody been able to emulate the steam controller as an xbox, ds4/5 to work with the game? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/success-with-emulating-the-new-steam-controller-2/4954256.rss",
+      "id": "bc87e044b7daedb184bd5630"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1233,16 +1294,50 @@
       "id": "9e66bedc5d5608076ebb77bc"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Need play tester :((",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe56m8/need_play_tester/",
+      "published": "2026-10-24",
+      "excerpt": "Sorry for not replying to my last post. Anyway, who wants to be a playtester for my game? Just DM me if you're interested. I can only offer a percentage shares of my game as I won't be able to pay anyone after the testing session. i only need 2-5 play tester submitted by /u/WinReasonable3771 [link] ",
+      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
+      "id": "9bfbe0d0cc52c09550ce5978"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
       "title": "Tlou2 type combat melees",
       "url": "https://devforum.roblox.com/t/tlou2-type-combat-melees/4954057",
       "published": "2026-10-24",
-      "excerpt": "Wsup so its been a while i decided to start with my own game so here is some of the melees Remember to send me any feedback! 2 posts - 2 participants Read full topic",
+      "excerpt": "Wsup so its been a while i decided to start with my own game so here is some of the melees Remember to send me any feedback! 4 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/tlou2-type-combat-melees/4954057.rss",
       "id": "8cd069dff03333af8cc83b02"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "debug.profileEnd() - No active profile annotation",
+      "url": "https://devforum.roblox.com/t/debugprofileend-no-active-profile-annotation/4954271",
+      "published": "2026-10-24",
+      "excerpt": "Every time I open a place in Studio, the Output shows this error from the built-in Material Manager plugin. It has happened on every session for several weeks. It doesn’t seem to break anything, but it shows up every session and fills the Output. The stack goes through the plugin’s own copy of React",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/debugprofileend-no-active-profile-annotation/4954271.rss",
+      "id": "89a4d15160aba081a09e4792"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Procedural-generating obby",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe4hl9/proceduralgenerating_obby/",
+      "published": "2026-10-24",
+      "excerpt": "https://www.roblox.com/games/17568684316/this-obby-will-never-end Hello everybody! I created the game quite a while ago, in about two weeks. I haven’t advertised it anywhere (I only recently started, posted it in a few Reddit channels, but it hasn’t generated much attention or feedback). The game is",
+      "creator": "/u/DevelopmentNew2182 https://www.reddit.com/user/DevelopmentNew2182",
+      "id": "7c3e7a407ff45079892001be"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1295,6 +1390,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Stuck on 0 players",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe5brh/stuck_on_0_players/",
+      "published": "2026-10-24",
+      "excerpt": "I just made my first actually good roblox game, and I have many idea's for future updates, but I'm stuck at 0 current players. How can I actually get more than 0 current players? I'd already be more than happy if there were like 10 players playing my game at once. It's also low playercount friendly ",
+      "creator": "/u/ConsequenceNo3174 https://www.reddit.com/user/ConsequenceNo3174",
+      "id": "6b2a7edcf78ca16e3474471c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "CHS school build news",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdv9zs/chs_school_build_news/",
       "published": "2026-10-24",
@@ -1313,6 +1419,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472.rss",
       "id": "62f2739165896aa2c6eaac52"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "KARDASHEV Aura",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe4l8l/kardashev_aura/",
+      "published": "2026-10-24",
+      "excerpt": "submitted by /u/Naive-Series821 [link] [comments]",
+      "creator": "/u/Naive-Series821 https://www.reddit.com/user/Naive-Series821",
+      "id": "60776724fd4146c54316575b"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1383,6 +1500,17 @@
       "id": "30d2aedbdb8ef84e072fdbed"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I know this isn't exactly a Roblox Studio problem, but how I can fix transparent head?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe58zd/i_know_this_isnt_exactly_a_roblox_studio_problem/",
+      "published": "2026-10-24",
+      "excerpt": "submitted by /u/imustbethereasonwh [link] [comments]",
+      "creator": "/u/imustbethereasonwh https://www.reddit.com/user/imustbethereasonwh",
+      "id": "2fb22e4d11095eb1a45ad8f0"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1417,13 +1545,24 @@
       "id": "271dae9b92d754bf95fc3757"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "X-29 Grumman",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe5lgy/x29_grumman/",
+      "published": "2026-10-24",
+      "excerpt": "submitted by /u/Own_Quote1469 [link] [comments]",
+      "creator": "/u/Own_Quote1469 https://www.reddit.com/user/Own_Quote1469",
+      "id": "25bd8b8f257f52b6c5d72d88"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
       "title": "3 Video Uploads per month per account is too low",
       "url": "https://devforum.roblox.com/t/3-video-uploads-per-month-per-account-is-too-low/4954113",
       "published": "2026-10-24",
-      "excerpt": "3 per game per month sure, but 3 per account is insane. I tried uploading a trailer for a quick project which got denied 3 times and now I cant release a trailer for my current project until 3 more weeks from now. 1 post - 1 participant Read full topic",
+      "excerpt": "3 per game per month sure, but 3 per account is insane. I tried uploading a trailer for a quick project which got denied 3 times and now I cant release a trailer for my current project until 3 more weeks from now. Please let me upload my video I’ll pay at this point.. 1 post - 1 participant Read ful",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/3-video-uploads-per-month-per-account-is-too-low/4954113.rss",
       "id": "178f5a68ed48369cfc884659"
@@ -1456,6 +1595,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "DETERMINISTIC: Remote Code Execution reachable by opening a place.",
+      "url": "https://devforum.roblox.com/t/deterministic-remote-code-execution-reachable-by-opening-a-place/4954232",
+      "published": "2026-10-24",
+      "excerpt": "Affected: Roblox Studio 0.744.0.7441077 (Windows x64). Full details and a reproducer are in the staff-only section. They were also submitted to CERT/CC (VINCE) and to MITRE for CVE assignment on 24.10.2026 5 PM. A private message is associated with this bug report 1 post - 1 participant Read full to",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/deterministic-remote-code-execution-reachable-by-opening-a-place/4954232.rss",
+      "id": "11ca4a5229c16c508baaa28b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "R6 & R15 Movement Animation Pack: 30 Animations",
       "url": "https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699",
       "published": "2026-10-24",
@@ -1463,6 +1614,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699.rss",
       "id": "1003b008848dd63fc9a8ca16"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for testers for my topdown ARPG game.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe4gar/looking_for_testers_for_my_topdown_arpg_game/",
+      "published": "2026-10-24",
+      "excerpt": "Hey so I am looking for testers for my topdown ARPG game. It needs bug testing, it has a lot of zones up to level 100 and also dungeons. It is topdown. My discord is : relyzishere submitted by /u/Common_Benefit8221 [link] [comments]",
+      "creator": "/u/Common_Benefit8221 https://www.reddit.com/user/Common_Benefit8221",
+      "id": "0bd24080836210d6a00384ad"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7801,150 +7963,6 @@
       "excerpt": "While using the Script Editor, I get this type error, of which the judgment in the soon-to-be-provided context is incorrect: Using this code, you can see how the behavior of the typechecker is faulty, per the comments next to each line: local tbl = {pcall(function() return \"abc\" end)} -- tbl becomes",
       "creator": "",
       "id": "6fd3b01bc7652d671d2a7bba"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How do you guys build large, natural-looking mountain maps in Roblox?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x98u1j/how_do_you_guys_build_large_naturallooking/",
-      "published": "2026-10-18",
-      "excerpt": "Hey everyone, I've been working on a Roblox game that needs a fairly large, natural-looking mountainous environment, and honestly, getting the map to look good has been one of the biggest challenges. I'm aiming for connected mountains, valleys, cliffs, overhangs, and natural transitions between area",
-      "creator": "/u/itswargamer https://www.reddit.com/user/itswargamer",
-      "id": "6e06f0484597421df6face0d"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents [2026] https://tech-insider.org/",
-      "creator": "",
-      "id": "6d44e30b1fb66533aa4b02a2"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "How to get the train ticket in Steal an Egg #roblox #stealanegg - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMlRIVTB2SmQ4NV96d0p3djhMeWZCbHRpTEdVbXV2QWFZRFB0QWthb01TSUFLdFJaNUZvcngxZjNNNFY4SS1wLTRta1k5cHhsNm5JR3pKN1U2a3VtaVBCdWJqMC1faUkwMDdaRg?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "How to get the train ticket in Steal an Egg #roblox #stealanegg TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "692847bfd5db459a87898690"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "ClientMovementDetector - cross-platform detection for jumps and movements",
-      "url": "https://devforum.roblox.com/t/clientmovementdetector-cross-platform-detection-for-jumps-and-movements/4941570",
-      "published": "2026-10-18",
-      "excerpt": "Client Movement Detector Source Code | Documentation | Wally Simple module for detecting jump requests and moving direction of the local player. https://create.roblox.com/store/asset/123613155007109/ClientMovementDetector Purpose ClientMovementDetector is a module that allows easy cross-platform det",
-      "creator": "",
-      "id": "67332d9a79ed282c2a1384cf"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unfairly removed my username and took away my ability to change it for free",
-      "url": "https://devforum.roblox.com/t/unfairly-removed-my-username-and-took-away-my-ability-to-change-it-for-free/4941658",
-      "published": "2026-10-18",
-      "excerpt": "I got my username taken down for “revealing” personal information, I was “Alex72620_YT” and now im “roblox_user_333172092”. The thing is that i thought that i would have a free username change since my old username “Alex72620_YT” got taken down. Im pretty sure this is a bug since the last time i was",
-      "creator": "",
-      "id": "671f4f8b33ae6e1e5598303b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Programming menu with 0 experience",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x9a358/programming_menu_with_0_experience/",
-      "published": "2026-10-18",
-      "excerpt": "Hey Reddit, I'm a 17 year old dude w 1 dream and no experience. I wanna programm a game but I have 1 no one, and no experience at all, what I need help with right now is mostly the menu and maybe finding helpers. What I have is different frames with buttons and that's about it, if someone could help",
-      "creator": "/u/Vaporeana69 https://www.reddit.com/user/Vaporeana69",
-      "id": "65b83237713c74c265cac5a2"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Feedback] Save Chickenity!!! – co-op chicken-vs-zoo-animals wave shooter",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8uws3/feedback_save_chickenity_coop_chickenvszooanimals/",
-      "published": "2026-10-18",
-      "excerpt": "So, im an indie dev and i've been working on this game for a while and it's finally in a state where I want outside opinions before I start spending money on ads. I would really love if yall can give feedback in any way possible. https://www.roblox.com/games/109573433314673 also if anyone here has g",
-      "creator": "/u/EggBig9638 https://www.reddit.com/user/EggBig9638",
-      "id": "65a13265e84f944c7c81550c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Whats the best way to structure a combat system?",
-      "url": "https://devforum.roblox.com/t/whats-the-best-way-to-structure-a-combat-system/4943155",
-      "published": "2026-10-18",
-      "excerpt": "Hey everyone, i’m curious how big games usually handle combat systems. i’m not trying to build the perfect system, i just want to understand what the professional approach looks like and how they structure everything. right now my setup is pretty simple: the controller just sends the input, then wea",
-      "creator": "",
-      "id": "65512364ce90fda32756bfa4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to get the scale of a ui drag button relative to the maximum and minimum it can move",
-      "url": "https://devforum.roblox.com/t/how-to-get-the-scale-of-a-ui-drag-button-relative-to-the-maximum-and-minimum-it-can-move/4941394",
-      "published": "2026-10-18",
-      "excerpt": "You can write your topic however you want, but you need to answer these questions: What do you want to achieve? I want to know how I can get the scale of the drag ui if that makes sense, like how to know if it has reached the 0.5 scale maximum that i set or -0.5 minimum because i am making a system ",
-      "creator": "",
-      "id": "635164041bf955a83b0dbf97"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "'Save' when choosing to collaborate on experience hidden by taskbar? Help?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8rzes/save_when_choosing_to_collaborate_on_experience/",
-      "published": "2026-10-18",
-      "excerpt": "submitted by /u/ExpensiveHour9968 [link] [comments]",
-      "creator": "/u/ExpensiveHour9968 https://www.reddit.com/user/ExpensiveHour9968",
-      "id": "611d86c33399eba624607340"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Mesh Assets can no longer be loaded into SpecialMeshes for content loading.",
-      "url": "https://devforum.roblox.com/t/mesh-assets-can-no-longer-be-loaded-into-specialmeshes-for-content-loading/4941681",
-      "published": "2026-10-18",
-      "excerpt": "These were fine until the latest update, now everything is screaming at me. Expected behavior SpecialMeshes are prefect for PreloadAsync of meshes we intend to use. There should be no problems with this implementation, it was fine yesterday. A private message is associated with this bug report 2 pos",
-      "creator": "",
-      "id": "5ca48cef4c0218c6bdaa99f3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Animation Graph tracks keep ~5–6 MB of client memory each after the track, Animator and model are destroyed",
-      "url": "https://devforum.roblox.com/t/animation-graph-tracks-keep-5%E2%80%936-mb-of-client-memory-each-after-the-track-animator-and-model-are-destroyed/4941183",
-      "published": "2026-10-18",
-      "excerpt": "Every AnimationTrack loaded from an Animation Graph asset ( Animator:LoadAnimation with the graph’s AnimationId) adds about 5–6 MB of client memory. That memory is never released : not when the track is stopped and destroyed, and not when its Animator and the whole model are destroyed. Each new grap",
-      "creator": "",
-      "id": "59719aee8a8b86e2e5390f69"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What do you think of my game? Give it a play.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x900n4/what_do_you_think_of_my_game_give_it_a_play/",
-      "published": "2026-10-18",
-      "excerpt": "Link to access the game: [ https://www.roblox.com/es/games/73782801025661/CRIMINAL-CITY\\](https://www.roblox.com/es/games/73782801025661/CRIMINAL-CITY) CRIMINAL CITY is an open-world game set in a crime-ridden environment on Roblox, where you can earn money by carrying out heists. You can rob jewelr",
-      "creator": "/u/Plus_ultra_5272 https://www.reddit.com/user/Plus_ultra_5272",
-      "id": "5934edeab3eb25221f511a7b"
     }
   ]
 }

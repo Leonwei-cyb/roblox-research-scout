@@ -5,32 +5,37 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-18
-  - Feed excerpt: Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) YouTube
-
 ## Community
 
-- **[Sears Tower 1:1 / Roblox Studio](https://www.reddit.com/r/ROBLOXStudio/comments/1xe3lgs/sears_tower_11_roblox_studio/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
-  - Feed excerpt: Height is completely 1:1 with the real sears tower (give or take like 30 feet), amount of floors is 100% accurate, basically an exact replica besides the lobby submitted by /u/pafis0 \[link\] \[comments\]
+- **[I know this isn't exactly a Roblox Studio problem, but how I can fix transparent head?](https://www.reddit.com/r/ROBLOXStudio/comments/1xe58zd/i_know_this_isnt_exactly_a_roblox_studio_problem/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: submitted by /u/imustbethereasonwh \[link\] \[comments\]
+- **[Need play tester :((](https://www.reddit.com/r/ROBLOXStudio/comments/1xe56m8/need_play_tester/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: Sorry for not replying to my last post. Anyway, who wants to be a playtester for my game? Just DM me if you're interested. I can only offer a percentage shares of my game as I won't be able to pay anyone after the testing session. i only ne
+- **[KARDASHEV Aura](https://www.reddit.com/r/ROBLOXStudio/comments/1xe4l8l/kardashev_aura/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: submitted by /u/Naive-Series821 \[link\] \[comments\]
+- **[Looking for testers for my topdown ARPG game.](https://www.reddit.com/r/ROBLOXStudio/comments/1xe4gar/looking_for_testers_for_my_topdown_arpg_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: Hey so I am looking for testers for my topdown ARPG game. It needs bug testing, it has a lot of zones up to level 100 and also dungeons. It is topdown. My discord is : relyzishere submitted by /u/Common_Benefit8221 \[link\] \[comments\]
+- **[Procedural-generating obby](https://www.reddit.com/r/ROBLOXStudio/comments/1xe4hl9/proceduralgenerating_obby/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: https://www.roblox.com/games/17568684316/this-obby-will-never-end Hello everybody! I created the game quite a while ago, in about two weeks. I haven’t advertised it anywhere (I only recently started, posted it in a few Reddit channels, but 
+- **[Stuck on 0 players](https://www.reddit.com/r/ROBLOXStudio/comments/1xe5brh/stuck_on_0_players/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: I just made my first actually good roblox game, and I have many idea's for future updates, but I'm stuck at 0 current players. How can I actually get more than 0 current players? I'd already be more than happy if there were like 10 players 
+- **[X-29 Grumman](https://www.reddit.com/r/ROBLOXStudio/comments/1xe5lgy/x29_grumman/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: submitted by /u/Own_Quote1469 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[3 Video Uploads per month per account is too low](https://devforum.roblox.com/t/3-video-uploads-per-month-per-account-is-too-low/4954113)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: 3 per game per month sure, but 3 per account is insane. I tried uploading a trailer for a quick project which got denied 3 times and now I cant release a trailer for my current project until 3 more weeks from now. 1 post - 1 participant Rea
-- **[\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Hybrid Heist Steal eggs. Hatch pets. Breed hybrids nobody else has. Play Hybrid Heist What is it? A pet tycoon with a heist twist. Run into the canyon, grab eggs and carry them home before other players knock them out of your hands. Hatch t
-- **[I need help in incorporating abilities into a system that gives all hostile npcs a pathfinding system](https://devforum.roblox.com/t/i-need-help-in-incorporating-abilities-into-a-system-that-gives-all-hostile-npcs-a-pathfinding-system/4954100)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Hello! i need help, REALLY BADLY ASAP I have a system that gives NPCs with a specific tag a pathfinding tag designed to make them wander and chase, but they are powerless as of now. And I need to give them Abilities. The problem is that thi
-- **[ID Verification No Longer Works After Account Termination and Restoration](https://devforum.roblox.com/t/id-verification-no-longer-works-after-account-termination-and-restoration/4954112)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: After my Roblox account ( @vixiqny ) was terminated and later restored, my previously completed ID verification stopped working. Before the termination, my age was fully verified, and everything worked correctly. Now, whenever I attempt ID 
-- **[My old builds from years ago when i was little](https://devforum.roblox.com/t/my-old-builds-from-years-ago-when-i-was-little/4954063)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: -Showcasing some of my builds from years ago this was the type of stuff i was making at 11 thinking they were good -i was using the toolbox like crazy -What do you guys think they were good or bad for that time? 1 post - 1 participant Read 
-- **[Plugin Capability required to change Parent of an instance](https://devforum.roblox.com/t/plugin-capability-required-to-change-parent-of-an-instance/4954058)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
-- **[Tlou2 type combat melees](https://devforum.roblox.com/t/tlou2-type-combat-melees/4954057)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Wsup so its been a while i decided to start with my own game so here is some of the melees Remember to send me any feedback! 2 posts - 2 participants Read full topic
+- **[DETERMINISTIC: Remote Code Execution reachable by opening a place.](https://devforum.roblox.com/t/deterministic-remote-code-execution-reachable-by-opening-a-place/4954232)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Affected: Roblox Studio 0.744.0.7441077 (Windows x64). Full details and a reproducer are in the staff-only section. They were also submitted to CERT/CC (VINCE) and to MITRE for CVE assignment on 24.10.2026 5 PM. A private message is associa
+- **[I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio](https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Hello! I rarely use the forum, but I’ll make this in hopes this can solves someone who encounter the same problem as mine. I have this issue where the pivot point of the model were it defaulted to middle of the origin point While it does pu
+- **[Public game showing as locked to testers & hidden from group](https://devforum.roblox.com/t/public-game-showing-as-locked-to-testers-hidden-from-group/4954220)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Hi, one of my games is set to public and (should be) available to all ages , however: On create.roblox.com it shows locked to Playtesters It is hidden from our group home page Manage Audience shows it is locked to 16+ None of that should be
+- **[Success with emulating the new Steam Controller 2?](https://devforum.roblox.com/t/success-with-emulating-the-new-steam-controller-2/4954256)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Has anybody been able to emulate the steam controller as an xbox, ds4/5 to work with the game? 1 post - 1 participant Read full topic
+- **[\[Website Bug\] Roblox repeatedly spamming identical 2-Step Verification via Authenticator messages daily](https://devforum.roblox.com/t/website-bug-roblox-repeatedly-spamming-identical-2-step-verification-via-authenticator-messages-daily/4954197)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: The official Roblox account ( @Roblox ) is continuously spamming identical automated messages to my inbox every single day. The message instructs me to “Make Sure 2-Step Verification via Authenticator is Enabled” and repeats daily (as seen 
+- **[debug.profileEnd() - No active profile annotation](https://devforum.roblox.com/t/debugprofileend-no-active-profile-annotation/4954271)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Every time I open a place in Studio, the Output shows this error from the built-in Material Manager plugin. It has happened on every session for several weeks. It doesn’t seem to break anything, but it shows up every session and fills the O
 
 ---
 
