@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "761551ef86c6ce2801a961db81c764db5e3f45fd",
+      "head": "318b7e6ac4e726e88a4ad326214866a93c373b1b",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.310",
@@ -105,11 +105,11 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "eaa91c1eb636544890cbc35b5b26ad6f9736ee41",
-      "head_subject": "Update changes for v2026.10.24",
+      "head": "4b6a356eb714a407590232cc62652ba43527a6a2",
+      "head_subject": "Merge pull request #3759 from dajiaohuang/fix-service-by-name-sqli",
       "name": "huginn/huginn",
-      "release_tag": "v2026.10.14",
-      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.14",
+      "release_tag": "v2026.10.24",
+      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.24",
       "url": "https://github.com/huginn/huginn"
     },
     "obra/superpowers": {

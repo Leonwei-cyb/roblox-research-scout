@@ -2220,6 +2220,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4953660:1",
+      "url": "https://devforum.roblox.com/t/should-i-pause-an-ad-campaign-over-night/4953660",
+      "title": "Should I pause an ad campaign over night?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8qu9i",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8qu9i/any_good_free_pathfinding_scripts_or_how_to_go/",
       "title": "Any good free pathfinding scripts? Or how to go about making one",
@@ -4321,6 +4334,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4953641:1",
+      "url": "https://devforum.roblox.com/t/bundles-which-have-sale-location-disabled-in-game-require-better-messaging/4953641",
+      "title": "Bundles which have sale location disabled in-game require better messaging",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "physical tycoon purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8spi7",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8spi7/i_made_my_first_game_and_i_dont_think_it_went/",
       "title": "I made my first game, and I don't think it went very well.",
@@ -4329,19 +4355,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8ugtd",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8ugtd/soft_body_physics_in_roblox_modelling_a_front/",
-      "title": "Soft body physics in Roblox: modelling a front bumper but spring contraints unstable",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5258,17 +5271,6 @@
       "key": "devforum:4943088:1",
       "url": "https://devforum.roblox.com/t/game-stuck-at-16-rating/4943088",
       "title": "Game stuck at 16+ Rating",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4943164:1",
-      "url": "https://devforum.roblox.com/t/lost-group-payout-permissions-after-reporting-a-payout-error/4943164",
-      "title": "Lost Group Payout Permissions After Reporting a Payout Error",
       "source": "roblox-devforum-latest",
       "published": "2026-10-18",
       "kind": "devforum",
@@ -7434,11 +7436,11 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMihgFBVV95cUxPUlFvSEladUVkZFRkUmY4ZUJENGNSclF1ejRENThnYU9FS291c243clpHTlNpNHloemREeHJVSm9QSE9wRDU0UXZ1eEhKNnlheFNEeHFrM2MwdkJxc1ZuNzV0MjZYN2xBWG1SZXk0RmtsWldlbzZQOVhTOTBSSUplNW1jMHRkUQ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlFvSEladUVkZFRkUmY4ZUJENGNSclF1ejRENThnYU9FS291c243clpHTlNpNHloemREeHJVSm9QSE9wRDU0UXZ1eEhKNnlheFNEeHFrM2MwdkJxc1ZuNzV0MjZYN2xBWG1SZXk0RmtsWldlbzZQOVhTOTBSSUplNW1jMHRkUQ?oc=5",
-      "title": "Claude Code Plugins Go Official at v2.1.302 [2026] - https://tech-insider.org/",
-      "source": "claude-news",
-      "published": "2026-10-18",
+      "key": "news.google.com/rss/articles/CBMimwFBVV95cUxNdEprV3J2b1V6NERrVk5hVWU3YlZYcHlCWTlOODBKT250bUFPeEpQTEE2UHRvWDZIdVU4a0pnVHhxOElYUzg4V0hYYVBsblBBR2wtM0E5YkNaVXRKazhkeFRBS3doUmE3TUZkZUVXNkhqZmlHZ3l1dS1UMnJCSjdtNkJiUFlBbFA0UTZRMV9QSEh6eFBoNU1TQ2NPWdIBoAFBVV95cUxNTmVSWVNOajlmcUJBM0pfd3hVODJKcHBXYXZZcmJEWWZrSkhLRTJwbU5JRGZWd2h4ZGhoTW1RRWNiZHlLdjJnR0FDQ0hXYUF",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEprV3J2b1V6NERrVk5hVWU3YlZYcHlCWTlOODBKT250bUFPeEpQTEE2UHRvWDZIdVU4a0pnVHhxOElYUzg4V0hYYVBsblBBR2wtM0E5YkNaVXRKazhkeFRBS3doUmE3TUZkZUVXNkhqZmlHZ3l1dS1UMnJCSjdtNkJiUFlBbFA0UTZRMV9QSEh6eFBoNU1TQ2NPWdIBoAFBVV95cUxNTmVSWVNOajlmcUJBM0pfd3hVODJKcHBXYXZZcmJEWWZrSkhLRTJwbU5JRGZWd2h4ZGhoTW1RRWNiZHlLdjJnR0FDQ0hXYUF",
+      "title": "Teach yourself to make Claude do the boring stuff for $20 - Boing Boing",
+      "source": "automation",
+      "published": "2026-10-23",
       "kind": "index-only",
       "signals": [],
       "score": 0,

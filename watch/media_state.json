@@ -1002,7 +1002,10 @@
     "d218ee78a83ec5b01bd1cf25",
     "580f164eb61be6a0dfc69ac6",
     "e384e0b849339030e0a01956",
-    "50306661a7ac8298f04bad4a"
+    "50306661a7ac8298f04bad4a",
+    "707bc0783ebc7ec5c54f663c",
+    "f867d060eb8df4e632cd2891",
+    "09568e1239124b131243f1fe"
   ],
   "items": [
     {
@@ -1028,6 +1031,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494.rss",
       "id": "fa172ac5c5dd917eedc49d93"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Bundles which have sale location disabled in-game require better messaging",
+      "url": "https://devforum.roblox.com/t/bundles-which-have-sale-location-disabled-in-game-require-better-messaging/4953641",
+      "published": "2026-10-24",
+      "excerpt": "Whenever you try to purchase an Asset that has sale-location restricted to not be sellable in-game, you are shown this message when you try to buy the item: However, whenever trying to buy a Bundle that has sale-location restricted, it appears to let you be able to buy it: Then clicking on the buy b",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/bundles-which-have-sale-location-disabled-in-game-require-better-messaging/4953641.rss",
+      "id": "f867d060eb8df4e632cd2891"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1087,6 +1102,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-experience-with-roblox%E2%80%99s-account-appeals-and-data-privacy/4953531.rss",
       "id": "783ab8b1a8986708412828c4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Should I pause an ad campaign over night?",
+      "url": "https://devforum.roblox.com/t/should-i-pause-an-ad-campaign-over-night/4953660",
+      "published": "2026-10-24",
+      "excerpt": "I have been running an ad campaign for 2.5 hours now. It is restricted to US/Canada. I have been in game the whole time, and not a single person has joined. It says it is in learning mode, and I only got 2 impressions. I need to sleep in about 4 to 5 hours. It is a multiplayer-required game so I hav",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/should-i-pause-an-ad-campaign-over-night/4953660.rss",
+      "id": "707bc0783ebc7ec5c54f663c"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2794,6 +2821,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/remote-code-execution-involving-third-party-library-on-roblox-client/4952147.rss",
       "id": "0ccac9c9b76963ad49722a48"
+    },
+    {
+      "source": "automation",
+      "label": "Google News indexed: Claude Code Roblox automation workflow game agent when:7d",
+      "category": "workflows",
+      "title": "Teach yourself to make Claude do the boring stuff for $20 - Boing Boing",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEprV3J2b1V6NERrVk5hVWU3YlZYcHlCWTlOODBKT250bUFPeEpQTEE2UHRvWDZIdVU4a0pnVHhxOElYUzg4V0hYYVBsblBBR2wtM0E5YkNaVXRKazhkeFRBS3doUmE3TUZkZUVXNkhqZmlHZ3l1dS1UMnJCSjdtNkJiUFlBbFA0UTZRMV9QSEh6eFBoNU1TQ2NPWdIBoAFBVV95cUxNTmVSWVNOajlmcUJBM0pfd3hVODJKcHBXYXZZcmJEWWZrSkhLRTJwbU5JRGZWd2h4ZGhoTW1RRWNiZHlLdjJnR0FDQ0hXYUF",
+      "published": "2026-10-23",
+      "excerpt": "Teach yourself to make Claude do the boring stuff for $20 Boing Boing",
+      "creator": "",
+      "publisher": "https://boingboing.net",
+      "id": "09568e1239124b131243f1fe"
     },
     {
       "source": "reddit-robloxdev",
@@ -7869,39 +7908,6 @@
       "excerpt": "Hola grupo, soy estudiante de diseño y estoy buscando desarrolladores que me ayuden a responder unas preguntas para mi trabajo de investigacion sobre su proceso a la hora de crear un juego, es completamente academica y no recopila ningun tipo de dato personal, espero porfavor me colaboren submitted ",
       "creator": "/u/123Luisa123 https://www.reddit.com/user/123Luisa123",
       "id": "2d923080191c73a768834d8f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Lost Group Payout Permissions After Reporting a Payout Error",
-      "url": "https://devforum.roblox.com/t/lost-group-payout-permissions-after-reporting-a-payout-error/4943164",
-      "published": "2026-10-18",
-      "excerpt": "Hello Roblox Staff and Developers, I need help with an issue involving my group’s payout permissions. A few weeks ago, I was still able to access the group payout feature. However, whenever I tried to send a payout, I received this error message: “An error occurred while sending payments.” I took a ",
-      "creator": "",
-      "id": "2d19d8564b99734e15329068"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Soft body physics in Roblox: modelling a front bumper but spring contraints unstable",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8ugtd/soft_body_physics_in_roblox_modelling_a_front/",
-      "published": "2026-10-18",
-      "excerpt": "Title explains it, but I'm trying to model a gavril d series front bumper from beamng in roblox. Ive taken node positions and beam links exactly, so its structure is relatively the exact same. however, setting values of stiffness and damping too high will cause the structure to explode, but values t",
-      "creator": "/u/lungo_mungo https://www.reddit.com/user/lungo_mungo",
-      "id": "2b16a82bfa88f339024fbd28"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Claude Code Plugins Go Official at v2.1.302 [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlFvSEladUVkZFRkUmY4ZUJENGNSclF1ejRENThnYU9FS291c243clpHTlNpNHloemREeHJVSm9QSE9wRDU0UXZ1eEhKNnlheFNEeHFrM2MwdkJxc1ZuNzV0MjZYN2xBWG1SZXk0RmtsWldlbzZQOVhTOTBSSUplNW1jMHRkUQ?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "Claude Code Plugins Go Official at v2.1.302 [2026] https://tech-insider.org/",
-      "creator": "",
-      "id": "29bc6357b54cdf9410c2bea0"
     }
   ]
 }

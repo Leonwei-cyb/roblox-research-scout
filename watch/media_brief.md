@@ -5,24 +5,17 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Build / 3D Examples
-
-- **[I Made 4 Roblox Games in 12 Hours with This AI..](https://www.youtube.com/watch?v=CqURW0YPo4A)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-18
-
-## Roblox Creator / Ai Development
-
-- **[I Made 4 Roblox Games in 12 Hours with This AI.. - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE44WXRqMDNXSmlETFFKQW9GUTFZSkI3UlhNUDBDbTRvc0NZY0RuZkg2b1lHQV94YWEtRFV4bEg1U29xeEhDMjdCS19DaW53dDQwdUFvMmZR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-18
-  - Feed excerpt: I Made 4 Roblox Games in 12 Hours with This AI.. YouTube
-
-## Community
-
-- **[ECLAT Aura](https://www.reddit.com/r/ROBLOXStudio/comments/1xdw7p7/eclat_aura/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
-  - Feed excerpt: submitted by /u/Naive-Series821 \[link\] \[comments\]
-
 ## Roblox Updates
 
-- **[How to fix map gen water?](https://devforum.roblox.com/t/how-to-fix-map-gen-water/4953567)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Hi, I’m trying to make map generation for an RTS game and I’m trying to stop the water from having grid lines, but I also want each water tile to be able to be coloured (for water pollution). How could I pull this off? This is what it looks
+- **[Bundles which have sale location disabled in-game require better messaging](https://devforum.roblox.com/t/bundles-which-have-sale-location-disabled-in-game-require-better-messaging/4953641)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Whenever you try to purchase an Asset that has sale-location restricted to not be sellable in-game, you are shown this message when you try to buy the item: However, whenever trying to buy a Bundle that has sale-location restricted, it appe
+- **[Should I pause an ad campaign over night?](https://devforum.roblox.com/t/should-i-pause-an-ad-campaign-over-night/4953660)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: I have been running an ad campaign for 2.5 hours now. It is restricted to US/Canada. I have been in game the whole time, and not a single person has joined. It says it is in learning mode, and I only got 2 impressions. I need to sleep in ab
+
+## Workflows
+
+- **[Teach yourself to make Claude do the boring stuff for $20 - Boing Boing](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEprV3J2b1V6NERrVk5hVWU3YlZYcHlCWTlOODBKT250bUFPeEpQTEE2UHRvWDZIdVU4a0pnVHhxOElYUzg4V0hYYVBsblBBR2wtM0E5YkNaVXRKazhkeFRBS3doUmE3TUZkZUVXNkhqZmlHZ3l1dS1UMnJCSjdtNkJiUFlBbFA0UTZRMV9QSEh6eFBoNU1TQ2NPWdIBoAFBVV95cUxNTmVSWVNOajlmcUJBM0pfd3hVODJKcHBXYXZZcmJEWWZrSkhLRTJwbU5JRGZWd2h4ZGhoTW1RRWNiZHlLdjJnR0FDQ0hXYUF)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-10-23
+  - Feed excerpt: Teach yourself to make Claude do the boring stuff for $20 Boing Boing
 
 ---
 
