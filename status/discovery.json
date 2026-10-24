@@ -9,19 +9,19 @@
     "rate": {
       "code_search": {
         "remaining": 7,
-        "reset_at": "2026-10-24T05:03:59Z"
+        "reset_at": "2026-10-24T11:30:20Z"
       },
       "core": {
-        "remaining": 4935,
-        "reset_at": "2026-10-24T05:50:10Z"
+        "remaining": 4920,
+        "reset_at": "2026-10-24T11:59:51Z"
       },
       "graphql": {
-        "remaining": 4996,
-        "reset_at": "2026-10-24T06:03:11Z"
+        "remaining": 4986,
+        "reset_at": "2026-10-24T11:30:53Z"
       },
       "search": {
-        "remaining": 1,
-        "reset_at": "2026-10-24T05:03:38Z"
+        "remaining": 23,
+        "reset_at": "2026-10-24T11:30:12Z"
       }
     }
   },
@@ -29,9 +29,9 @@
     {
       "repo": "23blocks-OS/ai-maestro",
       "score": 100,
-      "sha": "d3028389b5072b20c4be62f1adff32e7b4f242ff",
+      "sha": "3d9dca8b8f7611aab9b85f513a1728fa5e2667bc",
       "suggested_owner": "Wheel",
-      "task": "Pin 23blocks-OS/ai-maestro@d302838, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin 23blocks-OS/ai-maestro@3d9dca8, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "anurmatov/phleet",
@@ -57,9 +57,9 @@
     {
       "repo": "Chrrxs/robloxstudio-mcp",
       "score": 100,
-      "sha": "3a380b05ddf50e69bedfdcd5255d61e2e0bfc6bb",
+      "sha": "63ee9eef4a8c145c5e6268207e95ab57ff04b859",
       "suggested_owner": "hub",
-      "task": "Pin Chrrxs/robloxstudio-mcp@3a380b0, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Roblox game QA and evidence capture."
+      "task": "Pin Chrrxs/robloxstudio-mcp@63ee9ee, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Roblox game QA and evidence capture."
     },
     {
       "repo": "JasonColapietro/suede-creator-skills",
@@ -92,9 +92,9 @@
     {
       "repo": "open-mercato/cezar",
       "score": 100,
-      "sha": "8caad895c4354f56402aa78df460124254531147",
+      "sha": "e2bea1b441125a91f23d7def8f834be9c00b0fea",
       "suggested_owner": "Wheel",
-      "task": "Pin open-mercato/cezar@8caad89, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin open-mercato/cezar@e2bea1b, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "PsChina/deepseek-as-subagent",
@@ -112,16 +112,16 @@
     }
   ],
   "counts": {
-    "actionable_backlog": 94,
+    "actionable_backlog": 98,
     "adopt": 0,
-    "events_this_run": 89,
-    "needs_test": 100,
-    "new_candidates_this_run": 13,
-    "new_releases_this_run": 10,
-    "records": 299,
-    "reject": 155,
-    "repos_tracked": 255,
-    "updated_issues_this_run": 66
+    "events_this_run": 65,
+    "needs_test": 105,
+    "new_candidates_this_run": 9,
+    "new_releases_this_run": 4,
+    "records": 310,
+    "reject": 159,
+    "repos_tracked": 264,
+    "updated_issues_this_run": 52
   },
   "feed_health": {
     "ok": 38
@@ -351,10 +351,11 @@
       "status": "ok"
     },
     {
+      "detail": "1 repo(s) not found or not visible; 0 deferred after GraphQL field errors (prior record kept)",
       "id": "graphql:batch2",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 15,
+      "resolved": 14,
       "status": "ok"
     },
     {
@@ -384,11 +385,11 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-10-24T05:03:45Z",
+    "finished_at": "2026-10-24T11:30:21Z",
     "outcome": "ok",
-    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/40064702756",
-    "started_at": "2026-10-24T05:02:38Z",
-    "trigger": "schedule"
+    "run_url": "",
+    "started_at": "2026-10-24T11:28:49Z",
+    "trigger": "local"
   },
   "schema": 1
 }

@@ -193,7 +193,7 @@
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /repos/SillySerpent/Dichrome/git/trees/e927d6a12542dfeb33b275b77cc5ba9c38430632?recursive=1"
+        "what": "GET /repos/SillySerpent/Dichrome/git/trees/8fac1617d1352f62ecf1e32f3ccc8afe690946b6?recursive=1"
       },
       {
         "kind": "rest",
@@ -248,7 +248,7 @@
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /repos/totec448-spec/chat-on-steroids/git/trees/3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b?recursive=1"
+        "what": "GET /repos/totec448-spec/chat-on-steroids/git/trees/1e937a2fce1ec1b652b0db5f19280b9eefa3c3d1?recursive=1"
       },
       {
         "kind": "graphql",
@@ -266,7 +266,9 @@
   },
   "candidates": [
     {
-      "api_evidence": [],
+      "api_evidence": [
+        "needs a model API key"
+      ],
       "audited_elsewhere": null,
       "browser_evidence": [
         "browser automation dependency: @playwright/test",
@@ -274,16 +276,15 @@
         "references chat web apps: chat.openai.com, chatgpt.com",
         "content scripts on chat sites",
         "extension host permissions",
-        "chrome tabs/scripting API",
         "authenticated web session wording"
       ],
-      "days_since_commit": 40,
+      "days_since_commit": 0,
       "evidence": [
-        "https://github.com/SillySerpent/Dichrome/tree/e927d6a12542dfeb33b275b77cc5ba9c38430632",
-        "https://github.com/SillySerpent/Dichrome/blob/e927d6a12542dfeb33b275b77cc5ba9c38430632/README.md",
-        "https://github.com/SillySerpent/Dichrome/blob/e927d6a12542dfeb33b275b77cc5ba9c38430632/background/service-worker.js",
-        "https://github.com/SillySerpent/Dichrome/blob/e927d6a12542dfeb33b275b77cc5ba9c38430632/manifest.json",
-        "https://github.com/SillySerpent/Dichrome/blob/e927d6a12542dfeb33b275b77cc5ba9c38430632/package.json"
+        "https://github.com/SillySerpent/Dichrome/tree/8fac1617d1352f62ecf1e32f3ccc8afe690946b6",
+        "https://github.com/SillySerpent/Dichrome/blob/8fac1617d1352f62ecf1e32f3ccc8afe690946b6/README.md",
+        "https://github.com/SillySerpent/Dichrome/blob/8fac1617d1352f62ecf1e32f3ccc8afe690946b6/background/service-worker.js",
+        "https://github.com/SillySerpent/Dichrome/blob/8fac1617d1352f62ecf1e32f3ccc8afe690946b6/manifest.json",
+        "https://github.com/SillySerpent/Dichrome/blob/8fac1617d1352f62ecf1e32f3ccc8afe690946b6/package.json"
       ],
       "files_inspected": [
         "README.md",
@@ -303,14 +304,14 @@
       ],
       "inspection_error": null,
       "license": "Apache-2.0",
-      "mode": "browser-session",
-      "pack_reason": "browser-session orchestration evidence found; needs a pinned source-level reuse test",
+      "mode": "mixed",
+      "pack_reason": "drives browser sessions but also calls model APIs; check which path Leon would reuse",
       "pack_verdict": "needs-test",
-      "rank_score": 125,
+      "rank_score": 115,
       "repo": "SillySerpent/Dichrome",
       "repo_id": 1238375450,
       "search_rank": 13,
-      "sha": "e927d6a12542dfeb33b275b77cc5ba9c38430632",
+      "sha": "8fac1617d1352f62ecf1e32f3ccc8afe690946b6",
       "stars": 16,
       "suggested_owner": "Wheel",
       "tests_found": 1,
@@ -421,7 +422,7 @@
         "chrome tabs/scripting API",
         "drives the chat page DOM"
       ],
-      "days_since_commit": 91,
+      "days_since_commit": 92,
       "evidence": [
         "https://github.com/creosB/AI-Side-Panel-Extension/tree/e3935eb3342523f9a1bf259edda8f80dd8bc5fdd",
         "https://github.com/creosB/AI-Side-Panel-Extension/blob/e3935eb3342523f9a1bf259edda8f80dd8bc5fdd/README.md",
@@ -467,7 +468,7 @@
         "content scripts on chat sites",
         "extension host permissions"
       ],
-      "days_since_commit": 157,
+      "days_since_commit": 158,
       "evidence": [
         "https://github.com/Veverke/bAInder/tree/ed22774951480303c8abfd79a6eb882b793c7411",
         "https://github.com/Veverke/bAInder/blob/ed22774951480303c8abfd79a6eb882b793c7411/README.md",
@@ -515,7 +516,7 @@
         "content scripts on chat sites",
         "extension host permissions"
       ],
-      "days_since_commit": 43,
+      "days_since_commit": 44,
       "evidence": [
         "https://github.com/NateBJones-Projects/OB1/tree/238df6cefd307745d1fe49d10b96797903bf25ac",
         "https://github.com/NateBJones-Projects/OB1/blob/238df6cefd307745d1fe49d10b96797903bf25ac/README.md",
@@ -552,7 +553,7 @@
       "repo_id": 1179124545,
       "search_rank": 0,
       "sha": "238df6cefd307745d1fe49d10b96797903bf25ac",
-      "stars": 4750,
+      "stars": 4739,
       "suggested_owner": "Wheel",
       "tests_found": 9,
       "url": "https://github.com/NateBJones-Projects/OB1",
@@ -568,7 +569,7 @@
         "extension host permissions",
         "chrome tabs/scripting API"
       ],
-      "days_since_commit": 177,
+      "days_since_commit": 178,
       "evidence": [
         "https://github.com/Robbings/chatgpt-graph-navigator/tree/a616cefd3fb6764ad25f0d50417fbebe14156660",
         "https://github.com/Robbings/chatgpt-graph-navigator/blob/a616cefd3fb6764ad25f0d50417fbebe14156660/README.md",
@@ -705,7 +706,7 @@
       "repo_id": 793375104,
       "search_rank": 1,
       "sha": "6c16b23f1bacd0fdf240bb5141ef45e59e82c306",
-      "stars": 142839,
+      "stars": 142878,
       "suggested_owner": "Wheel",
       "tests_found": 48,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -726,11 +727,11 @@
       ],
       "days_since_commit": 0,
       "evidence": [
-        "https://github.com/totec448-spec/chat-on-steroids/tree/3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b",
-        "https://github.com/totec448-spec/chat-on-steroids/blob/3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b/README.md",
-        "https://github.com/totec448-spec/chat-on-steroids/blob/3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b/extension/active-tabs.js",
-        "https://github.com/totec448-spec/chat-on-steroids/blob/3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b/extension/browser-control-page.js",
-        "https://github.com/totec448-spec/chat-on-steroids/blob/3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b/extension/browser-control.js"
+        "https://github.com/totec448-spec/chat-on-steroids/tree/1e937a2fce1ec1b652b0db5f19280b9eefa3c3d1",
+        "https://github.com/totec448-spec/chat-on-steroids/blob/1e937a2fce1ec1b652b0db5f19280b9eefa3c3d1/README.md",
+        "https://github.com/totec448-spec/chat-on-steroids/blob/1e937a2fce1ec1b652b0db5f19280b9eefa3c3d1/extension/active-tabs.js",
+        "https://github.com/totec448-spec/chat-on-steroids/blob/1e937a2fce1ec1b652b0db5f19280b9eefa3c3d1/extension/browser-control-page.js",
+        "https://github.com/totec448-spec/chat-on-steroids/blob/1e937a2fce1ec1b652b0db5f19280b9eefa3c3d1/extension/browser-control.js"
       ],
       "files_inspected": [
         "README.md",
@@ -756,10 +757,10 @@
       "repo": "totec448-spec/chat-on-steroids",
       "repo_id": 1342876750,
       "search_rank": 13,
-      "sha": "3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b",
-      "stars": 5072,
+      "sha": "1e937a2fce1ec1b652b0db5f19280b9eefa3c3d1",
+      "stars": 5071,
       "suggested_owner": "Wheel",
-      "tests_found": 424,
+      "tests_found": 427,
       "url": "https://github.com/totec448-spec/chat-on-steroids",
       "version": "v2.1.45"
     },
@@ -800,7 +801,7 @@
       "repo_id": 658928958,
       "search_rank": 0,
       "sha": "675150d6ad2747df1e218ef59de9194bc4a7e538",
-      "stars": 184509,
+      "stars": 184595,
       "suggested_owner": null,
       "tests_found": 22,
       "url": "https://github.com/ollama/ollama",
@@ -841,7 +842,7 @@
     }
   ],
   "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
-  "distinct_repos_found": 273,
+  "distinct_repos_found": 275,
   "known_relevant": [
     {
       "found_by": [
@@ -938,7 +939,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-10-24T05:02:38Z",
+  "run_at": "2026-10-24T11:28:49Z",
   "schema": 1,
   "searches": [
     {
@@ -1062,5 +1063,5 @@
     }
   ],
   "status": "ok",
-  "trigger": "schedule"
+  "trigger": "local"
 }
