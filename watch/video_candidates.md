@@ -4,7 +4,6 @@
 
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
-- **[🎃 Playtesters wanted: The Neighbors Next Door (Halloween memory/puzzle game)](https://www.reddit.com/r/robloxgamedev/comments/1x8xjig/playtesters_wanted_the_neighbors_next_door/)** — Community showcase post (video not confirmed) · 2026-10-18
 - **[From a gray island to a colorful planet — BUILD A PLANET! beta showcase 🌎](https://www.reddit.com/r/robloxgamedev/comments/1xajnr7/from_a_gray_island_to_a_colorful_planet_build_a/)** — Community showcase post (video not confirmed) · 2026-10-20
 - **[Kinda getting tired of building so got into animation](https://www.reddit.com/r/ROBLOXStudio/comments/1xdt1yv/kinda_getting_tired_of_building_so_got_into/)** — Community showcase post (video not confirmed) · 2026-10-23
 - **[Looking for playtesters for our new Roblox game](https://www.reddit.com/r/ROBLOXStudio/comments/1xaz17k/looking_for_playtesters_for_our_new_roblox_game/)** — Community showcase post (video not confirmed) · 2026-10-20

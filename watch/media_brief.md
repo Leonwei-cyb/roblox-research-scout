@@ -5,34 +5,35 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[How to unlock the Abandoned Manor in Steal an Egg #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFBDVW44bHd6SnJ5ZnVfYWxwRTVuUGdTSHNZN1c3RXZuSFh1MmNQUHhUMWx1d1NvcjJXYWNRcms0QkNEbVZCR1dIU2k4R2lvUGpRTFM0UGc2Q2VhN29GbXp5N3luU212V1dRT2NfUg?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-24
-  - Feed excerpt: How to unlock the Abandoned Manor in Steal an Egg #roblox #stealanegg TikTok
-
 ## Community
 
-- **[I Would Love to Hear Peoples Thoughts On My Game "Delivery Frenzy", Thus Far? (Read Body) UPDATE!!](https://www.reddit.com/r/ROBLOXStudio/comments/1xeirua/i_would_love_to_hear_peoples_thoughts_on_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
-  - Feed excerpt: Hello Everyone! I have been working on my game "Delivery Frenzy". I have posted my game in this sub previously, but since then I have made enormous progress (If you want to see older versions of the game, you can view them on my profile). I
-- **[I built a tower defense in Roblox Studio where every secret you find lights a star in the night sky. This week's clue: where the old boards end and the water st](https://www.reddit.com/r/ROBLOXStudio/comments/1xeivz3/i_built_a_tower_defense_in_roblox_studio_where/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
-  - Feed excerpt: https://reddit.com/link/1xeivz3/video/iv5zgsr45hxh1/player I make a small tower defense in Roblox Studio, solo: Defend a Garden. Every wave is one night, and the night sky is part of the game. There's a constellation over the island, 12 sta
-- **[Looking for game testers!](https://www.reddit.com/r/ROBLOXStudio/comments/1xei918/looking_for_game_testers/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
-  - Feed excerpt: Hi, I’m looking for testers for my new game, so if you’re bored, I’d love to hear from you via DM! submitted by /u/MastodonAfter5540 \[link\] \[comments\]
+- **[chamber update](https://www.reddit.com/r/ROBLOXStudio/comments/1xelqrc/chamber_update/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: submitted by /u/One-Committee3602 \[link\] \[comments\]
+- **[Improving CCU?](https://www.reddit.com/r/ROBLOXStudio/comments/1xekpc9/improving_ccu/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-24
+  - Feed excerpt: What drove your CCU to rise organically without ads? Can’t seem to break into the 40’s naturally. CTR is 8.5% - and I’m slowly now seeing an uptrend of people joining from home page recs which is refreshing to see. Any recommendations to gi
 
 ## Roblox Updates
 
-- **[Character Controller Library leaks one AbilityManagerActor VM per character spawn, reproducible on a blank baseplate](https://devforum.roblox.com/t/character-controller-library-leaks-one-abilitymanageractor-vm-per-character-spawn-reproducible-on-a-blank-baseplate/4955426)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: With the Character Controller Library enabled, every character spawn permanently retains the previous character’s AbilityManagerActor Luau VM on the server. The retained VM holds the dead rig: its ability Configurations, body parts, connect
-- **[Creator Store accepts plugins that use CreateAssetAsync, but the API always fails for users who install them](https://devforum.roblox.com/t/creator-store-accepts-plugins-that-use-createassetasync-but-the-api-always-fails-for-users-who-install-them/4955322)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Hi there, I published a plugin to the Creator Store that builds road meshes as EditableMeshes and uploads them with AssetService:CreateAssetAsync . EditableMesh is fully released and works in store plugins, but EditableMesh content is not s
-- **[DO NOT USE ASSET: https://create.roblox.com/store/asset/108881710604209/Working-Coffee-Machine-Espresso-Cafe-Kitchen-Maker](https://devforum.roblox.com/t/do-not-use-asset-httpscreaterobloxcomstoreasset108881710604209working-coffee-machine-espresso-cafe-kitchen-maker/4955311)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Do not use the asset: https://create.roblox.com/store/asset/108881710604209/Working-Coffee-Machine-Espresso-Cafe-Kitchen-Maker as it has a VIRUS hidden within Model.Plate.Decal and several other things. Go to: \[VIRUS ALERT\] Ummm…Apparently 
-- **[Profile “Collections” row only displays 5 items, and adding a 6th item hides one of the others](https://devforum.roblox.com/t/profile-%E2%80%9Ccollections%E2%80%9D-row-only-displays-5-items-and-adding-a-6th-item-hides-one-of-the-others/4955402)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: The Collections section on my profile is supposed to show up to 6 items, but it only ever displays 5. When I add a 6th item, one of the existing items disappears from the row, even though it was added successfully. Visual Aid: Steps to repr
-- **[Really high studio camera sensitivity - affected by Pan Speed?](https://devforum.roblox.com/t/really-high-studio-camera-sensitivity-affected-by-pan-speed/4955323)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: Hi there, An issue I reported about a month ago that was fixed at the time (due to a problematic flag?) has begun happening again - I logged into Studio today and all of a sudden my camera sensitivity is outrageously high. Here is a link to
-- **[Verified checkmark in global chat renders client-side for sender but is invisible to other players](https://devforum.roblox.com/t/verified-checkmark-in-global-chat-renders-client-side-for-sender-but-is-invisible-to-other-players/4955353)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: When a verified user sends a message in the Global chat channel using TextChatService, the Verified Checkmark only displays on their own screen (local client view). On other players screens, the message renders without the Verified Checkmar
+- **[10+ years of Roblox development, but struggling to land interviews. Looking for advice!](https://devforum.roblox.com/t/10-years-of-roblox-development-but-struggling-to-land-interviews-looking-for-advice/4955485)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Hey everyone! I’ve been developing on Roblox for over 10 years, mostly self-taught. I’ve worked as lead developer on Airplane Simulator (220M+ visits) and Splatter Blocks (9M+ visits), contributed to Criminal Tycoon (137M+ visits), and inde
+- **[Optimizing the LuaU complier](https://devforum.roblox.com/t/optimizing-the-luau-complier/4955446)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Hey everyone, I’m back! I’ve been messing around with an experimental Luau fork and some native Studio patches that make a few common scripting operations cheaper under the hood. So far I’ve worked on table creation, unpacking, moving data 
+- **[A-200 Design for my upcoming Rooms Fangame - wanting feedback](https://devforum.roblox.com/t/a-200-design-for-my-upcoming-rooms-fangame-wanting-feedback/4955525)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: I’ve been designing A-200 for an upcoming Rooms Game I’m hoping to make Not sure if I want to continue the project but want feedback on my A-200 design View an article about my A-200: A-200 (VRG) \| The Rooms Ideas Wiki \| Fandom Note: I drew
+- **[Feedback on "apis.roblox.com"](https://devforum.roblox.com/t/feedback-on-apisrobloxcom/4955504)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: I’m trying to use the assets/asset-delivery-api endpoint to download a model asset in a rbxmx format so I can extract the asset IDs for the new meshes and textures that were created when uploading a model through the create asset endpoint. 
+- **[I can’t use with correct words.](https://devforum.roblox.com/t/i-can%E2%80%99t-use-with-correct-words/4955497)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: I was on mobile, it keeps using the “verification code for KennyZ076”, how can I use the correct words, replying to developers, and more. Expected behavior This keyboard have “verification code for KennyZ076”, sometimes, we need to change v
+- **[JetSki Model scrap](https://devforum.roblox.com/t/jetski-model-scrap/4955460)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Here is a Jet Ski I start modeling, most likely going to scrap it and start over as I feel as though I can make the shape way better, well I know I can. (No details, reference, or tracing by the way, so that’s why it may not be that close t
+- **[Plus Transfer Limit Stuck at 500/1000 due to "Recent Refund" Message](https://devforum.roblox.com/t/plus-transfer-limit-stuck-at-5001000-due-to-recent-refund-message/4955473)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: My Robux Plus Transfer limit has been stuck at 500/1000 for months. The system displays this message: “You are ineligible to get higher limits because there’s a recent refund or chargeback on your account”. However, I have not had any recen
+- **[Risk of uploading images](https://devforum.roblox.com/t/risk-of-uploading-images/4955477)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Hey everyone, I’m posting here because I’m honestly not sure what to do, and I’d really appreciate some advice. I’ve been making images for my Roblox game, and at one point, one of the images accidentally showed a character with a bit of cl
+- **[Version 743 may have broken collision physics for Server Authority](https://devforum.roblox.com/t/version-743-may-have-broken-collision-physics-for-server-authority/4955542)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Hello, I’ve been pretty familiar with working with server authority. Earlier today I noticed collisions for my car were not behaving normally. I initially thought this was a scripting issue, however I found on a build back in June that the 
+- **[\[URGENT\] New Termination Method](https://devforum.roblox.com/t/urgent-new-termination-method/4955507)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: I’ve recently discovered how myself and many other players have been getting hit with false enforcement bans recently, and it’s thanks to a massive oversight in how ROBLOX handles billing emails. If a billing email that’s still connected to
 
 ---
 
