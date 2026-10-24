@@ -1005,7 +1005,12 @@
     "50306661a7ac8298f04bad4a",
     "707bc0783ebc7ec5c54f663c",
     "f867d060eb8df4e632cd2891",
-    "09568e1239124b131243f1fe"
+    "09568e1239124b131243f1fe",
+    "16e8212da659f7d8f1a87a83",
+    "b4d76fbc7d22836307e83abd",
+    "f92d64ab8021af13e2406e21",
+    "1003b008848dd63fc9a8ca16",
+    "fca1dad69f7dbb527f20e3c2"
   ],
   "items": [
     {
@@ -1031,6 +1036,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494.rss",
       "id": "fa172ac5c5dd917eedc49d93"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "iPhone Duo support needs to be properly implemented based on Apple's documentation",
+      "url": "https://devforum.roblox.com/t/iphone-duo-support-needs-to-be-properly-implemented-based-on-apples-documentation/4953727",
+      "published": "2026-10-24",
+      "excerpt": "Hey! I just purchased a brand new iPhone Duo specifically for testing out stuff on the Roblox engine, and especially for making sure that all of my players have a great experience. I obviously knew what I was getting into, and I knew that day one of the iPhone Duo launch would be rough for most thir",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/iphone-duo-support-needs-to-be-properly-implemented-based-on-apples-documentation/4953727.rss",
+      "id": "f92d64ab8021af13e2406e21"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1066,6 +1083,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-fix-map-gen-water/4953567.rss",
       "id": "d218ee78a83ec5b01bd1cf25"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Exclude certain creators in \"Creator Store\" tab",
+      "url": "https://devforum.roblox.com/t/exclude-certain-creators-in-creator-store-tab/4953757",
+      "published": "2026-10-24",
+      "excerpt": "As a developer, it is currently difficult to find a good selection of human generated content when searching for assets in the “Creator Store” tab, particularly audios, which is currently a landfill for unthrottled AI generated audio uploaded via Distrokid. This uploader can only be excluded current",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/exclude-certain-creators-in-creator-store-tab/4953757.rss",
+      "id": "b4d76fbc7d22836307e83abd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1188,6 +1217,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "What are marketing strategies that work well for multiplayer team games?",
+      "url": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789",
+      "published": "2026-10-24",
+      "excerpt": "Me & my friend were wondering what strategies would be best for team based multiplayer games Would spending 10k Robux on marketing be worth it? He was thinking 5k on Roblox ads and 5k paying a YouTuber (who agreed to 5k for a video and he averages 30-200k views a short) to post a short showcasing th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789.rss",
+      "id": "16e8212da659f7d8f1a87a83"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Moon Legacy Patcher - Fix missing assets in Moon Animation Suite (Moon 1)",
       "url": "https://devforum.roblox.com/t/moon-legacy-patcher-fix-missing-assets-in-moon-animation-suite-moon-1/4953453",
       "published": "2026-10-24",
@@ -1195,6 +1236,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/moon-legacy-patcher-fix-missing-assets-in-moon-animation-suite-moon-1/4953453.rss",
       "id": "16286308a30f92e54713d345"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "R6 & R15 Movement Animation Pack: 30 Animations",
+      "url": "https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699",
+      "published": "2026-10-24",
+      "excerpt": "Hey developers! I’ve put together a Roblox Movement Animation Pack featuring 30 animations for both R6 and R15 characters. It’s designed for developers who want to add more variety to their character movement without having to create every animation from scratch. itch.io : [ https://beanystudios.itc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699.rss",
+      "id": "1003b008848dd63fc9a8ca16"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3894,7 +3947,7 @@
       "title": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
       "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
       "published": "2026-10-22",
-      "excerpt": "[Update - Bug for players on iOS on published games] Hey all quick update – Since this launch went out, we discovered a crash affecting some players on iOS during terrain streaming in live experiences. We have fixed the issue, and the fix will ship in an upcoming release. Read our full update below ",
+      "excerpt": "[Update - Bug for clients on published games] Hey all quick update – Since this launch went out, we discovered a crash affecting some players on iOS during terrain streaming in live experiences. We have fixed the issue, and the fix will ship in an upcoming release. Read our full update below for mor",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620.rss",
       "id": "352389a00512a99a8ac73143"
@@ -7864,50 +7917,6 @@
       "excerpt": "Hi everyone, I run PRISON RP (Universe ID 9150731899 ), a prison roleplay experience. Since mid-September, our Home Recommendation impressions dropped by more than half and have not recovered, even though our recommendation signals are back to (or better than) the level we had when we were getting t",
       "creator": "",
       "id": "377bd76ff2d64602c02b7d51"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "Microsoft Ships .NET 11 RC2, C# 15, dotnetup Tool [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qeVdqcmZ3LVc2Zy1NZmpSc29od0QxRW9sTUpQcjNoWG0zaVNZWWhaYkl2TFk1Y0FXN1lxaDZMXzd5b0ZPY3UyalVBVFhIdWFjazhWdUFpTTFzWi1lTEdSS21DSENIaHdIRWVmcC0wcUk4RnAwM2hZ?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "Microsoft Ships .NET 11 RC2, C# 15, dotnetup Tool [2026] https://tech-insider.org/",
-      "creator": "",
-      "id": "360f47366ce4bc1a1d29bdaa"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Tips or feedback on the design of my cabin?",
-      "url": "https://devforum.roblox.com/t/tips-or-feedback-on-the-design-of-my-cabin/4943046",
-      "published": "2026-10-18",
-      "excerpt": "Currently I am working on a cabin for my roblox horror game. The interior looks good but I’m not sure what I can do to make the exterior not look so bland. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "id": "2f2edd03fa05a87dc1259b84"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Team Fortress 2 x Roblox: Halloween Reveal Teaser",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8ximr/team_fortress_2_x_roblox_halloween_reveal_teaser/",
-      "published": "2026-10-18",
-      "excerpt": "Teaser for my Port of TF2 to Roblox! submitted by /u/Bapai12 [link] [comments]",
-      "creator": "/u/Bapai12 https://www.reddit.com/user/Bapai12",
-      "id": "2e7b0ad58037a9a8131e9519"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Ayuda con una encuesta para desarrolladores de roblox",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x9bsie/ayuda_con_una_encuesta_para_desarrolladores_de/",
-      "published": "2026-10-18",
-      "excerpt": "Hola grupo, soy estudiante de diseño y estoy buscando desarrolladores que me ayuden a responder unas preguntas para mi trabajo de investigacion sobre su proceso a la hora de crear un juego, es completamente academica y no recopila ningun tipo de dato personal, espero porfavor me colaboren submitted ",
-      "creator": "/u/123Luisa123 https://www.reddit.com/user/123Luisa123",
-      "id": "2d923080191c73a768834d8f"
     }
   ]
 }

@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "4b6a356eb714a407590232cc62652ba43527a6a2",
-      "head_subject": "Merge pull request #3759 from dajiaohuang/fix-service-by-name-sqli",
+      "head": "4d12afecb40e7e7a6fef2c3e7e36aebede3a099b",
+      "head_subject": "Merge pull request #3793 from kukirin-ui/dedup-skip-blank-property",
       "name": "huginn/huginn",
       "release_tag": "v2026.10.24",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.24",
