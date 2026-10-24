@@ -5,20 +5,20 @@
 | Classification | Entries |
 |---|---:|
 | original video/post URL (unwatched) | 8 |
-| public metadata / page | 575 |
-| indexed redirect (not original) | 17 |
+| public metadata / page | 576 |
+| indexed redirect (not original) | 16 |
 | promotional / risky title | 0 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
 Direct-original share: **1.3%** (still unwatched).
-Indexed redirects: **17**. They require primary-source verification.
+Indexed redirects: **16**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **592**; direct originals **8**; indexed redirects **9**.
+Active-source entries: **592**; direct originals **8**; indexed redirects **8**.
 Active-source direct-original share: **1.4%** (still unwatched).
 Entries from paused/unconfigured sources: **8** (claude-news, instagram-index, tiktok-index, video-index, x-index).
 
@@ -28,7 +28,7 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| www.youtube.com | 5 |
+| www.youtube.com | 4 |
 | https://tech-insider.org/ (title suffix) | 2 |
 | www.tiktok.com | 2 |
 | Instagram (title suffix) | 1 |

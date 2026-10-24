@@ -6,8 +6,8 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
+- **[My roblox game has just released, it is basically ball vs ball but simulator, and i NEED a tester.](https://www.reddit.com/r/ROBLOXStudio/comments/1xe2sb3/my_roblox_game_has_just_released_it_is_basically/)** — Public text/page, video not confirmed
 - **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Public text/page, video not confirmed
-- **[\[FREE\] Cartoon UI & Stylized Low-Poly Weapons Pack — Perfect for Roblox Simulators & Shooters! (Free for Commercial Use)](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqfxt/free_cartoon_ui_stylized_lowpoly_weapons_pack/)** — Public text/page, video not confirmed
 - **[Hope lost - Arctic tycoon 0.0.7.4 "Looking for feedback"](https://devforum.roblox.com/t/hope-lost-arctic-tycoon-0074-looking-for-feedback/4953149)** — Public text/page, video not confirmed
 
 ## UI / menus / effects

@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "22c3128b23bafd881a3b2266c305d3e77d2a3f68",
-      "head_subject": "Fix escaping of JSON dot notation categories (#9489)",
+      "head": "456b9fbff514feb27a50bb86e3990734ec87fa1e",
+      "head_subject": "Add a link checker workflow using lychee (#9209)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "9d2833c3f9e9ad87f8f9c344428ac82a21e4767a",
-      "head_subject": "Document Dokku deployment with the Docker image",
+      "head": "6ae4184b5674793b72de87aaf1bc57c232313013",
+      "head_subject": "Restore browser display after filter feature spec",
       "name": "huginn/huginn",
       "release_tag": "v2026.10.24",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.24",
@@ -223,6 +223,7 @@
     "rust-unofficial/awesome-rust",
     "sajadh76/awesome-AI-tools",
     "scenario-labs/skills",
+    "sei-studio/sei",
     "shaftoe/awesome-pi-coding-agent",
     "tayyabimam1/awesome-ai-agent-stack",
     "tbee6061-ctrl/studio-live-window-capture",
