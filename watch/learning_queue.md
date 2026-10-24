@@ -8,15 +8,15 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 322
-- index-only: 20
-- reddit: 243
-- youtube: 8
+- devforum: 328
+- index-only: 18
+- reddit: 240
+- youtube: 7
 
 ## First-Session And Mobile
 
 - [\[CRITICAL\] Server Animation Memory leaks continuously](https://devforum.roblox.com/t/critical-server-animation-memory-leaks-continuously/4946409) — devforum; **unviewed metadata**. Proposed test: Can a first-time phone player find and buy a desk within 20 seconds?
-- [Beginner Inventory System With DataSaving | Tutorial](https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967) — devforum; **unviewed metadata**. Proposed test: Can a first-time phone player find and buy a desk within 20 seconds?
+- [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472) — devforum; **unviewed metadata**. Proposed test: Can a first-time phone player find and buy a desk within 20 seconds?
 
 ## Physical Tycoon Purchases
 
@@ -31,7 +31,7 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 ## Ui And Menus
 
 - [Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
-- [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
+- [Beginner Inventory System With DataSaving | Tutorial](https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
 
 ## Cat Animation And Audio
 
@@ -55,8 +55,8 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Tools And Performance
 
+- [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
 - [Roblox Insights — How to Compare Performance, Errors, and Retention After an Update](https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
-- [Console + Phone Crashing/Memory](https://devforum.roblox.com/t/console-phone-crashingmemory/4946845) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
 
 ## Evidence required to turn a candidate into learning
 

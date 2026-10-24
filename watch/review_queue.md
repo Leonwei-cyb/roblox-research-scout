@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194)** — Public text/page, video not confirmed
+- **[\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
