@@ -9,9 +9,9 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 ## Saved source coverage
 
 - devforum: 330
-- index-only: 16
+- index-only: 17
 - reddit: 239
-- youtube: 8
+- youtube: 7
 
 ## First-Session And Mobile
 
@@ -20,8 +20,8 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Physical Tycoon Purchases
 
+- [\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061) — devforum; **unviewed metadata**. Proposed test: Does buying one physical pad build a desk and cat in 0.5-1 second?
 - [Looking for a blender animator, visual effects artist, and/or model/map builder](https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/) — reddit; **unviewed metadata**. Proposed test: Does buying one physical pad build a desk and cat in 0.5-1 second?
-- [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Does buying one physical pad build a desk and cat in 0.5-1 second?
 
 ## Tuition And Economy
 
@@ -30,8 +30,8 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Ui And Menus
 
-- [Roblox Simulator UI Pack with Animations, SFX, and UI FX](https://devforum.roblox.com/t/roblox-simulator-ui-pack-with-animations-sfx-and-ui-fx/4941194) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
 - [Beginner Inventory System With DataSaving | Tutorial](https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
+- [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?
 
 ## Cat Animation And Audio
 
