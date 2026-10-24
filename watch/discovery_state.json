@@ -1,5 +1,311 @@
 {
-  "deferred_until": "2026-10-23T21:42:57Z",
-  "etags": {},
-  "last_run": "2026-10-23T21:41:57Z"
+  "etags": {
+    "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
+      "data": {
+        "manifests": [
+          "server/package.json",
+          "dashboards/open-brain-dashboard-next/package.json",
+          "dashboards/open-brain-dashboard-pro/package.json",
+          "dashboards/open-brain-dashboard/package.json",
+          "integrations/chrome-capture-extension/manifest.json",
+          "recipes/brain-smoke-test/package.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "skills/auto-capture-claude-code/session-end-capture.mjs",
+          "dashboards/open-brain-dashboard-next/components/AgentMemoryBadges.tsx",
+          "dashboards/open-brain-dashboard-next/components/ConnectionsPanel.tsx",
+          "dashboards/open-brain-dashboard-next/lib/agent-memory.ts",
+          "dashboards/open-brain-dashboard-pro/components/ConnectionsPanel.tsx",
+          "docs/walkthroughs/ob1-agent-dashboard/walkthrough-content.mjs"
+        ],
+        "tests": 9,
+        "tests_sample": [
+          ".github/scripts/gate-context.test.cjs",
+          ".github/scripts/test_gate_artifact.py",
+          "integrations/chrome-capture-extension/lib/__tests__/extractor-gemini-history.test.js",
+          "integrations/chrome-capture-extension/lib/__tests__/gemini-sync-state.test.js",
+          "integrations/hermes-agent-memory/plugin/tests/__init__.py"
+        ],
+        "truncated": false
+      },
+      "etag": "\"317bfd5b05d96797ad9de815a2db86b070482c4652c35228caca6587f9024938\""
+    },
+    "https://api.github.com/repos/Robbings/chatgpt-graph-navigator/git/trees/a616cefd3fb6764ad25f0d50417fbebe14156660?recursive=1": {
+      "data": {
+        "manifests": [
+          "manifest.json",
+          "package.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "src/shared/tab-messaging.js",
+          "src/content/api/conversation.js",
+          "src/content/parser/content-processor.js",
+          "src/content/state/conversation-state.js",
+          "src/content/ui/floating-panel.js",
+          "src/sidepanel/hooks/useConversationData.js"
+        ],
+        "tests": 0,
+        "tests_sample": [],
+        "truncated": false
+      },
+      "etag": "\"b3c5ff4152d375b4762f53d88a289f453cd3f77512ded3077ade3142a603a2f2\""
+    },
+    "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps/git/trees/6c16b23f1bacd0fdf240bb5141ef45e59e82c306?recursive=1": {
+      "data": {
+        "manifests": [
+          "advanced_llm_apps/chat-with-tarots/requirements.txt",
+          "advanced_llm_apps/cursor_ai_experiments/requirements.txt",
+          "advanced_llm_apps/excaliflow/package.json",
+          "advanced_llm_apps/gpt_oss_critique_improvement_loop/requirements.txt",
+          "advanced_llm_apps/needle/package.json",
+          "advanced_llm_apps/resume_job_matcher/requirements.txt"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "advanced_llm_apps/cursor_ai_experiments/multi_agent_researcher.py",
+          "always_on_agents/always_on_hn_briefing_agent/agent.py",
+          "always_on_agents/release_radar_agent/agent.py",
+          "mcp_ai_agents/github_mcp_agent/github_agent.py",
+          "mcp_ai_agents/multi_mcp_agent/multi_mcp_agent.py",
+          "mcp_ai_agents/multi_mcp_agent_router/agent_forge.py"
+        ],
+        "tests": 48,
+        "tests_sample": [
+          "advanced_ai_agents/multi_agent_apps/ai_codebase_migration_agent/test_app_security.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/__init__.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/agent_agno_test.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/embedding_search_test.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/english_sample_0.wav"
+        ],
+        "truncated": false
+      },
+      "etag": "\"331d7c2125b70615f813b35ce1025bfbd626b23505221d36f43fbb267173564d\""
+    },
+    "https://api.github.com/repos/SillySerpent/Dichrome/git/trees/e927d6a12542dfeb33b275b77cc5ba9c38430632?recursive=1": {
+      "data": {
+        "manifests": [
+          "manifest.json",
+          "package.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "background/service-worker.js",
+          "scripts/test-automation-session.mjs",
+          "scripts/test-content-response-extraction.mjs",
+          "scripts/test-content-runtime-url.mjs",
+          "scripts/test-conversation-adapter.mjs",
+          "scripts/test-conversation-run-options.mjs"
+        ],
+        "tests": 1,
+        "tests_sample": [
+          "scripts/browser/sidebar.spec.js"
+        ],
+        "truncated": false
+      },
+      "etag": "\"209831b4601975814a4daee355841d97085e32711ddd87bd6d091d9e635947f3\""
+    },
+    "https://api.github.com/repos/TED-H-com/multi-ai-chat/git/trees/1e90319bb4a62d3366739e23701cda5732d5f2b8?recursive=1": {
+      "data": {
+        "manifests": [
+          "package.json",
+          "public/manifest.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "src/background/providerTabOwnership.ts",
+          "src/background/roundtableRecovery.ts",
+          "src/background/service-worker.ts",
+          "src/content/loginStatusStability.ts",
+          "src/shared/conversationContinuity.ts",
+          "src/shared/conversationPersistence.ts"
+        ],
+        "tests": 42,
+        "tests_sample": [
+          "test/autonomousRecovery.test.mts",
+          "test/chatgptDom.test.mts",
+          "test/chatgptStatusReporting.test.mts",
+          "test/contentRequestScope.test.mts",
+          "test/contentStreaming.test.mts"
+        ],
+        "truncated": false
+      },
+      "etag": "\"47932e9edad29c8008d9f71f69bcc4dfbd428feae4280367b9cbbc085721cbe4\""
+    },
+    "https://api.github.com/repos/Veverke/bAInder/git/trees/ed22774951480303c8abfd79a6eb882b793c7411?recursive=1": {
+      "data": {
+        "manifests": [
+          "manifest.json",
+          "package.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "src/background/background.js",
+          "src/content/content.js",
+          "src/sidepanel/sidepanel.js",
+          "src/sidepanel/features/settings-panel.js",
+          "src/lib/entities/extractors/tables.js",
+          "src/lib/renderer/entity-cards/table-card.js"
+        ],
+        "tests": 128,
+        "tests_sample": [
+          "e2e/fixtures/data.js",
+          "e2e/fixtures/extension.js",
+          "e2e/helpers/mock-pages.js",
+          "e2e/helpers/sidepanel.js",
+          "e2e/helpers/storage.js"
+        ],
+        "truncated": false
+      },
+      "etag": "\"6efc5de7be2ada9b7e3d055eebe7130f4f5d7461539d0dd0d2ceff58e5dc5158\""
+    },
+    "https://api.github.com/repos/axtonliu/ai-roundtable/git/trees/210a212f8c9111cea01201187fa94d1c9ad54338?recursive=1": {
+      "data": {
+        "manifests": [
+          "manifest.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "background.js",
+          "sidepanel/panel.js"
+        ],
+        "tests": 1,
+        "tests_sample": [
+          "test/dom-utils.test.js"
+        ],
+        "truncated": false
+      },
+      "etag": "\"7e86e70876a0a4afb3f98e142d8a86ca3751545ad278e245973cc3e66419a3c3\""
+    },
+    "https://api.github.com/repos/creosB/AI-Side-Panel-Extension/git/trees/e3935eb3342523f9a1bf259edda8f80dd8bc5fdd?recursive=1": {
+      "data": {
+        "manifests": [
+          "Source/manifest.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "Source/background.js",
+          "Source/sidepanel-modular.js",
+          "Source/modules/contentExtractor.js",
+          "Source/modules/conversationHub.js"
+        ],
+        "tests": 2,
+        "tests_sample": [
+          "Source/modules/privacy-mask/engine.stress.test.js",
+          "Source/modules/privacy-mask/engine.test.js"
+        ],
+        "truncated": false
+      },
+      "etag": "\"62cc6d5ee8bc541497ac7bc40fb6d51498e011febf99daaae78b8895e7658615\""
+    },
+    "https://api.github.com/repos/keyonzeng/prompt_ark/git/trees/8d4c1b36fd11bc0cf653c3b95cbca276c9c95ccb?recursive=1": {
+      "data": {
+        "manifests": [
+          "manifest.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "background.js",
+          "content.js",
+          "lib/popup/history-panel.js"
+        ],
+        "tests": 1,
+        "tests_sample": [
+          "docs/specs/prompt_translation.md"
+        ],
+        "truncated": false
+      },
+      "etag": "\"f94ec4e807f2ccef6474c6df0bd1bc9b869088da52113196c43f61833409ea45\""
+    },
+    "https://api.github.com/repos/kyrolabs/awesome-agents/git/trees/1c896ce92780416ce937c330d8205ee52a78d112?recursive=1": {
+      "data": {
+        "manifests": [],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [],
+        "tests": 0,
+        "tests_sample": [],
+        "truncated": false
+      },
+      "etag": "\"5c010fb2cddbda0c4121a40d2dcbf1ce1e3a18e7d5cedb5aa75c990292a05686\""
+    },
+    "https://api.github.com/repos/ollama/ollama/git/trees/675150d6ad2747df1e218ef59de9194bc4a7e538?recursive=1": {
+      "data": {
+        "manifests": [
+          "go.mod"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "integration/max_queue_test.go",
+          "app/store/database.go",
+          "app/store/database_test.go",
+          "app/tools/browser.go",
+          "app/tools/browser_crawl.go",
+          "app/tools/browser_test.go"
+        ],
+        "tests": 22,
+        "tests_sample": [
+          "app/ui/app/src/api.test.ts",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.interaction.test.tsx",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.test.tsx",
+          "app/ui/app/src/components/CodexConnectedIntro.test.tsx",
+          "app/ui/app/src/components/CodexDesktopModelsSettings.test.tsx"
+        ],
+        "truncated": false
+      },
+      "etag": "\"57a78aed61f5c5ccbe1b2d4bc9061040d50544bb2ca74443564773dd46d78f64\""
+    },
+    "https://api.github.com/repos/totec448-spec/chat-on-steroids/git/trees/3422c0fd9b2a6e2c6ac4b78dbb8f729c4e57976b?recursive=1": {
+      "data": {
+        "manifests": [
+          "package.json",
+          "extension/manifest.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "extension/active-tabs.js",
+          "extension/browser-control-page.js",
+          "extension/browser-control.js",
+          "scripts/verify-active-tabs.mjs",
+          "scripts/verify-background-process-dock.cjs",
+          "scripts/verify-browser-bridge-port.mjs"
+        ],
+        "tests": 424,
+        "tests_sample": [
+          "docs/superpowers/specs/2026-10-11-app-id-attribution-design.md",
+          "docs/superpowers/specs/2026-10-11-tab-group-placement-design.md",
+          "test/active-tabs.test.ts",
+          "test/agent-activity.test.ts",
+          "test/agent-communication.test.ts"
+        ],
+        "truncated": false
+      },
+      "etag": "\"71376be0d08c589da5e3eb7b5182be7e2fbe4ae5ea4391d1b3de50944c4ab545\""
+    }
+  },
+  "last_run": "2026-10-24T05:03:45Z"
 }
