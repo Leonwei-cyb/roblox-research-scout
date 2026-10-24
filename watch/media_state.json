@@ -1042,7 +1042,13 @@
     "2fb22e4d11095eb1a45ad8f0",
     "9bfbe0d0cc52c09550ce5978",
     "60776724fd4146c54316575b",
-    "7c3e7a407ff45079892001be"
+    "7c3e7a407ff45079892001be",
+    "905888f609f784bd9f01e664",
+    "f95a28465e0a9ed7174d4b24",
+    "b7ccdbcf62c2e709012734f6",
+    "983aa0c8f7001a5a6acc20d8",
+    "e046d83af24baee958bb96bc",
+    "d9042e994403a793cf92853d"
   ],
   "items": [
     {
@@ -1080,6 +1086,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494.rss",
       "id": "fa172ac5c5dd917eedc49d93"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Crater: the best new package manager for Roblox!",
+      "url": "https://devforum.roblox.com/t/crater-the-best-new-package-manager-for-roblox/4954418",
+      "published": "2026-10-24",
+      "excerpt": "crater: a package manager for Luau and Roblox that also installs from Wally index Hi everyone! I made crater , a free and open source package manager for Roblox projects. It works with Rojo, installs packages from its own registry and from Wally , and puts the tools around packages (Rojo, luau-lsp, ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/crater-the-best-new-package-manager-for-roblox/4954418.rss",
+      "id": "f95a28465e0a9ed7174d4b24"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1224,6 +1242,18 @@
       "id": "bc87e044b7daedb184bd5630"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SDF Font Rendering ( Signed Distance Field )",
+      "url": "https://devforum.roblox.com/t/sdf-font-rendering-signed-distance-field/4954351",
+      "published": "2026-10-24",
+      "excerpt": "As a Roblox developer, it is currently too hard to … Ensure visual consistency between resolutions when the Text does not support fractional sizes. The current rendering implementation is the wrong one for games, as it provides extremely limited size potential at both small and large sizes. If Roblo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sdf-font-rendering-signed-distance-field/4954351.rss",
+      "id": "b7ccdbcf62c2e709012734f6"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1303,6 +1333,30 @@
       "excerpt": "Sorry for not replying to my last post. Anyway, who wants to be a playtester for my game? Just DM me if you're interested. I can only offer a percentage shares of my game as I won't be able to pay anyone after the testing session. i only need 2-5 play tester submitted by /u/WinReasonable3771 [link] ",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "9bfbe0d0cc52c09550ce5978"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Failed to fetch place info",
+      "url": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4954331",
+      "published": "2026-10-24",
+      "excerpt": "The Image above shows what happens, if I try to open an experience in Roblox Studio. As you can see, it shows an message saying that they failed to fetch place info. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4954331.rss",
+      "id": "983aa0c8f7001a5a6acc20d8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback on a Granny style horror game",
+      "url": "https://devforum.roblox.com/t/feedback-on-a-granny-style-horror-game/4954427",
+      "published": "2026-10-24",
+      "excerpt": "Hey fellow devs! We are a brand new dev team and we just finished our very first project together: Chipy Murdy , a Piggy-inspired survival horror and puzzle escape game. Since we are a new team and currently working through the 16+ evaluation threshold so we can unlock All Ages before our main launc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-a-granny-style-horror-game/4954427.rss",
+      "id": "905888f609f784bd9f01e664"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1841,6 +1895,18 @@
       "excerpt": "For some reason, my camera is on low sensitivity, but it moves suspiciously fast which really annoys me when setting up jumps because it screws them up. Is there a way to make it normal? On my older games, which were made like 3 months ago, my camera moved normally. submitted by /u/TestAccount829 [l",
       "creator": "/u/TestAccount829 https://www.reddit.com/user/TestAccount829",
       "id": "d97ba932e319831e37c91039"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "Roblox Studio + Claude MCP Setup - Tutorial - Full Guide - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUmN4eUJ2aEI4SlJBNjZLdDB2eWx6VTRKZ3l3U3gtaWdXLXdsZGh6X2dZTjEtWUlHMm51ZmJEcjVXYWd1dnZuSDUtaEtFaU1mV1VVYWhSSl91Nld3RUE?oc=5",
+      "published": "2026-10-23",
+      "excerpt": "Roblox Studio + Claude MCP Setup - Tutorial - Full Guide YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "d9042e994403a793cf92853d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7304,6 +7370,18 @@
       "id": "e1c7fb7439cdcb12d463f376"
     },
     {
+      "source": "brock-tiktok",
+      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "How to get the train ticket in Steal an Egg #roblox #stealanegg - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMlRIVTB2SmQ4NV96d0p3djhMeWZCbHRpTEdVbXV2QWFZRFB0QWthb01TSUFLdFJaNUZvcngxZjNNNFY4SS1wLTRta1k5cHhsNm5JR3pKN1U2a3VtaVBCdWJqMC1faUkwMDdaRg?oc=5",
+      "published": "2026-10-18",
+      "excerpt": "How to get the train ticket in Steal an Egg #roblox #stealanegg TikTok",
+      "creator": "",
+      "publisher": "https://www.tiktok.com",
+      "id": "e046d83af24baee958bb96bc"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -7896,73 +7974,6 @@
       "excerpt": "i want to make a cash grab, which type of game should it be? submitted by /u/DigSubstantial5025 [link] [comments]",
       "creator": "/u/DigSubstantial5025 https://www.reddit.com/user/DigSubstantial5025",
       "id": "7b3a23a8f4d0c120e0ed0adf"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Auto head correction with any body type",
-      "url": "https://devforum.roblox.com/t/auto-head-correction-with-any-body-type/4941942",
-      "published": "2026-10-18",
-      "excerpt": "Hallo roblox lovely Community. would love to share this idea with you starting with the issue : most heads in store don’t fit any body type you buy in store Example image of the issue The solution : Auto head correction with body type : This system will auto resize and make head fits to body and giv",
-      "creator": "",
-      "id": "7773631fb14dfdbc177528f0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Need suggestions on a name for my upcoming Roblox game:",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8u74w/need_suggestions_on_a_name_for_my_upcoming_roblox/",
-      "published": "2026-10-18",
-      "excerpt": "I’m currently developing a new Roblox game and starting a YouTube series around its creation. Before I lock in creating the actual game, logo designs, and thumbnail assets, I’d love to get some honest feedback on the title The game combines AFK speed training , loot-based robberies , inventory capac",
-      "creator": "/u/Itchy_Camel3702 https://www.reddit.com/user/Itchy_Camel3702",
-      "id": "76b533357653babe79535b8e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "SURVEY FOR ROBLOX DEV",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x9duw8/survey_for_roblox_dev/",
-      "published": "2026-10-18",
-      "excerpt": "I am a design student and I am conducting a survey for a research project. I am looking for several Roblox developers—especially those responsible for the visual aspects of their game (UX)—to answer questions about their experience with choosing and designing. This survey is anonymous; no personal d",
-      "creator": "/u/123Luisa123 https://www.reddit.com/user/123Luisa123",
-      "id": "7438ed924b7cefa3fa162e41"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TU9zTkJrV0ZEaS1yQ2Z1SHB0em9OQmxKUTdBN2xfbXBEUnR4ZEpJR0Z4aDJxeVdnN085NFAyMS1UaWQ2WUIta1B3SU9EX3RPTjZOVThR?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "Can AI Make an Entire Roblox Horror Game? (Opus 5.5, Models, Cutscenes) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "70fbe8ac4798b10775799cb7"
-    },
-    {
-      "source": "claude-news",
-      "label": "Google News indexed: Claude Code new feature plugin update when:7d",
-      "category": "claude_updates",
-      "title": "This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWEzMmU1emhNU3NOS3hLdE1QWVFJYkIzZGIzS3JRUGdTMjBvRFk4Q2NCWTNScDlvOWVDUjJQQ0FPZlFleDdDNG0tUzNabXB0OHV4OXRKa3lxRjNuRUxrZWdjeTJoVW9xRWIydEtWc1ZXUERVVHM1cS1CbUhGZGVPdWdnbWFHOUFGZURDbjhFZlowTmZocGxlQ3VkRUI?oc=5",
-      "published": "2026-10-18",
-      "excerpt": "This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back MakeUseOf",
-      "creator": "",
-      "id": "70012d1bb13dede5b168a122"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Incorrect Type-checking Error for String Functions on Indexed Value from Table",
-      "url": "https://devforum.roblox.com/t/incorrect-type-checking-error-for-string-functions-on-indexed-value-from-table/4941120",
-      "published": "2026-10-18",
-      "excerpt": "While using the Script Editor, I get this type error, of which the judgment in the soon-to-be-provided context is incorrect: Using this code, you can see how the behavior of the typechecker is faulty, per the comments next to each line: local tbl = {pcall(function() return \"abc\" end)} -- tbl becomes",
-      "creator": "",
-      "id": "6fd3b01bc7652d671d2a7bba"
     }
   ]
 }

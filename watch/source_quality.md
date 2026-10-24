@@ -18,9 +18,9 @@ Indexed redirects: **15**. They require primary-source verification.
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **593**; direct originals **7**; indexed redirects **8**.
+Active-source entries: **594**; direct originals **7**; indexed redirects **9**.
 Active-source direct-original share: **1.2%** (still unwatched).
-Entries from paused/unconfigured sources: **7** (claude-news, instagram-index, tiktok-index, video-index, x-index).
+Entries from paused/unconfigured sources: **6** (claude-news, instagram-index, tiktok-index, video-index, x-index).
 
 ## Indexed redirects by publisher
 
@@ -29,8 +29,8 @@ Google News redirect links are not resolved: the current article format needs Go
 | Publisher | Redirects |
 |---|---:|
 | www.youtube.com | 5 |
+| www.tiktok.com | 2 |
 | Instagram (title suffix) | 1 |
-| MakeUseOf (title suffix) | 1 |
 | TikTok (title suffix) | 1 |
 | X (title suffix) | 1 |
 | YouTube (title suffix) | 1 |
@@ -38,7 +38,6 @@ Google News redirect links are not resolved: the current article format needs Go
 | https://tech-insider.org/ (title suffix) | 1 |
 | unknown | 1 |
 | www.instagram.com | 1 |
-| www.tiktok.com | 1 |
 
 ## Actionable interpretation
 
