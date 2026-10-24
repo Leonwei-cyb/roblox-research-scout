@@ -414,6 +414,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4954966:1",
+      "url": "https://devforum.roblox.com/t/studio-client-opening-a-place-with-a-crafted-wav-sound-terminates-studioclient-0xc00000fd/4954966",
+      "title": "[Studio & Client] Opening a place with a crafted .wav sound terminates Studio/Client (0xC00000FD)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "cat animation and audio",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4954987:1",
+      "url": "https://devforum.roblox.com/t/studio-client-opening-a-place-with-a-crafted-sound-possibly-causes-rce-primitivedos-on-applewindows-devices-on-studioclient/4954987",
+      "title": "[Studio & Client] Opening a place with a crafted sound possibly causes RCE primitive/DoS on Apple/Windows devices on Studio/Client",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "cat animation and audio",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xaql7x",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xaql7x/developing_a_custom_digging_system_in_roblox/",
       "title": "Developing a custom digging system in Roblox Studio that lets players create and swim in their own ponds!",
@@ -706,20 +734,6 @@
         "player feedback and marketing"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4942707:1",
-      "url": "https://devforum.roblox.com/t/ability-to-non-interactively-login-to-studio/4942707",
-      "title": "Ability to non-interactively login to Studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2236,6 +2250,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4955028:1",
+      "url": "https://devforum.roblox.com/t/maturity-compliance-questionnaire-stuck-on-final-review-in-progress-for-11-days/4955028",
+      "title": "Maturity & Compliance questionnaire stuck on \"Final Review in Progress\" for 11 days",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8v3zr",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8v3zr/working_on_a_snes_emulator_on_roblox_studio/",
       "title": "Working on a SNES Emulator on Roblox Studio",
@@ -2244,19 +2271,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8vyhi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8vyhi/some_bullshit_i_made_whit_eclipse_animator/",
-      "title": "Some BullShit i Made whit Eclipse Animator",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "cat animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3047,34 +3061,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x91rt4",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x91rt4/what_do_you_think_of_my_game_give_it_a_trythe/",
-      "title": "What do you think of my game? Give it a try—the link is in the description:",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "tuition and economy",
-        "cat animation and audio"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x93sgg",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x93sgg/unpaid_looking_for_volunteer_play_testers_for_my/",
-      "title": "[Unpaid] Looking for Volunteer Play testers for My Roblox Sword Battlegrounds Game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1x96oir",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x96oir/is_it_possible_to_port_games_over_to_roblox_using/",
       "title": "Is it possible to port games over to roblox using Artificial Intelligence",
@@ -3416,19 +3402,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4942768:1",
-      "url": "https://devforum.roblox.com/t/need-help-and-advise-with-advertising-testing-first-time-releasing-a-serious-game/4942768",
-      "title": "Need help and advise with advertising + testing, first time releasing a \"serious\" game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4942866:1",
       "url": "https://devforum.roblox.com/t/open-looking-for-volunteers-for-a-retro-roblox-cabal-arcade-shooter-project/4942866",
       "title": "[OPEN] Looking for volunteers for a Retro-Roblox Cabal (Arcade) Shooter Project!",
@@ -3437,19 +3410,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4942981:1",
-      "url": "https://devforum.roblox.com/t/can-an-npc-remember-nicknames-learned-through-speech-to-text-between-sessions/4942981",
-      "title": "Can an NPC remember nicknames learned through speech-to-text between sessions?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4300,6 +4260,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4955026:1",
+      "url": "https://devforum.roblox.com/t/opening-my-game-error/4955026",
+      "title": "Opening my game error",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8spi7",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8spi7/i_made_my_first_game_and_i_dont_think_it_went/",
       "title": "I made my first game, and I don't think it went very well.",
@@ -5062,6 +5035,19 @@
       "kind": "reddit",
       "signals": [
         "physical tycoon purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xecnsm",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xecnsm/why_does_the_texturematerial_on_this_part_have_2/",
+      "title": "Why does the texture/material on this part have 2 directions?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6453,12 +6439,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x8trww",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8trww/does_anyone_else_feel_guilty_for_using_ai/",
-      "title": "Does anyone else feel guilty for using AI?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
+      "key": "devforum:4954906:1",
+      "url": "https://devforum.roblox.com/t/should-spend-1k-robux-to-make-it-for-kids/4954906",
+      "title": "Should spend 1K robux to make it for kids?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7332,6 +7318,19 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9VX1BZMHl6NkxoVkRRUHYxS0J6ZEtjQXhNVnBSUlNkQTlZVjBzV0V0QmVYSGlwdWFuUmtxcUVVZGVEZTNZNXlrY2RrYTlGay1VUkkyUjdn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VX1BZMHl6NkxoVkRRUHYxS0J6ZEtjQXhNVnBSUlNkQTlZVjBzV0V0QmVYSGlwdWFuUmtxcUVVZGVEZTNZNXlrY2RrYTlGay1VUkkyUjdn?oc=5",
+      "title": "How to Make Roblox Animations With AI (R6 + R15, Claude Opus 5.5) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-10-24",
+      "kind": "index-only",
+      "signals": [
+        "cat animation and audio"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
