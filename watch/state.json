@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "a94605263fa2f5ad614fb40033e4057b875768f2",
-      "head_subject": "Merge pull request #3814 from huginn/renovate/docker-login-action-4.x",
+      "head": "af23181367a87efc2c5693d68b6887332b3239fd",
+      "head_subject": "Move aged lockfile updates to a workflow",
       "name": "huginn/huginn",
       "release_tag": "v2026.10.24",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.24",
@@ -129,11 +129,11 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "675150d6ad2747df1e218ef59de9194bc4a7e538",
-      "head_subject": "voice: add voice catalog for Phonon (#19242)",
+      "head": "d44c2581904a98430e348d89cc2af1529b1808a0",
+      "head_subject": "mlx: preserve small-image detail for compact Gemma 4 vision towers (#19247)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.10",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+      "release_tag": "v0.40.11",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
       "url": "https://github.com/ollama/ollama"
     }
   },

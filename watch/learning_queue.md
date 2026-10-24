@@ -8,9 +8,9 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 337
-- index-only: 14
-- reddit: 235
+- devforum: 340
+- index-only: 12
+- reddit: 234
 - youtube: 7
 
 ## First-Session And Mobile
@@ -56,7 +56,7 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 ## Tools And Performance
 
 - [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
-- [Roblox Insights — How to Compare Performance, Errors, and Retention After an Update](https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
+- [Console + Phone Crashing/Memory](https://devforum.roblox.com/t/console-phone-crashingmemory/4946845) — devforum; **unviewed metadata**. Proposed test: Check license, security and real Cat Magic benefit before adopting any tool.
 
 ## Evidence required to turn a candidate into learning
 

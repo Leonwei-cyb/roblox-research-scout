@@ -3,14 +3,14 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 593; direct candidates: 579;
+Indexed entries: 593; direct candidates: 581;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Roblox Insights — How to Compare Performance, Errors, and Retention After an Update](https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514)
+- **P0 · first-session and mobile:** [Beginner Inventory System With DataSaving \| Tutorial](https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967)
   - devforum · **UNVIEWED_METADATA** · Check: Can a new player identify and reach the first FREE pad from the normal spawn camera?
-- **P0 · physical tycoon purchases:** [Webhook, fully typed builder module to send Discord Webhooks](https://devforum.roblox.com/t/webhook-fully-typed-builder-module-to-send-discord-webhooks/4943169)
+- **P0 · physical tycoon purchases:** [Avatar Joint Upgrade - Tidy up how constraints are getting added to R15 avatar limbs](https://devforum.roblox.com/t/avatar-joint-upgrade-tidy-up-how-constraints-are-getting-added-to-r15-avatar-limbs/4947148)
   - devforum · **UNVIEWED_METADATA** · Check: Does buying a pad visibly build a desk and bring a cat into the classroom?
 - **P1 · cat animation and audio:** [Looking for animators](https://www.reddit.com/r/robloxgamedev/comments/1x96ml3/looking_for_animators/)
   - reddit · **UNVIEWED_METADATA** · Check: Does an arriving cat walk, sit, study and cast without clipping through the player?

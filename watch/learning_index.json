@@ -188,20 +188,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4942514:1",
-      "url": "https://devforum.roblox.com/t/roblox-insights-%E2%80%94-how-to-compare-performance-errors-and-retention-after-an-update/4942514",
-      "title": "Roblox Insights — How to Compare Performance, Errors, and Retention After an Update",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4946657:1",
       "url": "https://devforum.roblox.com/t/early-testers-cannot-run-animations-on-mobile/4946657",
       "title": "Early testers cannot run animations on mobile",
@@ -1245,19 +1231,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4943169:1",
-      "url": "https://devforum.roblox.com/t/webhook-fully-typed-builder-module-to-send-discord-webhooks/4943169",
-      "title": "Webhook, fully typed builder module to send Discord Webhooks",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "physical tycoon purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4945086:1",
       "url": "https://devforum.roblox.com/t/homepage-recommendation-eligibility-now-requires-a-custom-thumbnail/4945086",
       "title": "Homepage Recommendation Eligibility Now Requires a Custom Thumbnail",
@@ -2276,6 +2249,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4955176:1",
+      "url": "https://devforum.roblox.com/t/another-day-another-funnel-bug-and-this-time-entries-wipe-themselves/4955176",
+      "title": "Another day another funnel bug and this time entries wipe themselves",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8v3zr",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8v3zr/working_on_a_snes_emulator_on_roblox_studio/",
       "title": "Working on a SNES Emulator on Roblox Studio",
@@ -2284,32 +2270,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8x0vj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8x0vj/created_custom_coldgas_thruster_flight_dynamics/",
-      "title": "Created custom cold-gas thruster flight dynamics & lofted chassis for the new Roadster in Luau",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8y3p7",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8y3p7/i_really_need_feedback/",
-      "title": "I really need feedback",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2878,6 +2838,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xeh0dq",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeh0dq/recent_models/",
+      "title": "Recent models ! ☺️",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4944421:1",
       "url": "https://devforum.roblox.com/t/in-game-editable-image-publishing/4944421",
       "title": "In-Game Editable Image Publishing",
@@ -3410,19 +3383,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4942866:1",
-      "url": "https://devforum.roblox.com/t/open-looking-for-volunteers-for-a-retro-roblox-cabal-arcade-shooter-project/4942866",
-      "title": "[OPEN] Looking for volunteers for a Retro-Roblox Cabal (Arcade) Shooter Project!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4286,6 +4246,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4955123:1",
+      "url": "https://devforum.roblox.com/t/make-the-2022-limited-time-particle-hats-go-limited/4955123",
+      "title": "Make the 2022 limited time particle hats go Limited",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8spi7",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8spi7/i_made_my_first_game_and_i_dont_think_it_went/",
       "title": "I made my first game, and I don't think it went very well.",
@@ -4325,32 +4298,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x8xe20",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x8xe20/openworld_horror_games_or_enclosed_horror_games/",
-      "title": "Open-World Horror Games or Enclosed Horror Games?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8y0ih",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8y0ih/playtest_looking_for_testers_for_our_8v1/",
-      "title": "[Playtest] Looking for testers for our 8v1 asymmetrical horror game (original killers & survivors)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "physical tycoon purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1x98ub7",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1x98ub7/join_the_game_pls/",
       "title": "JOIN THE GAME PLS",
@@ -4380,19 +4327,6 @@
       "key": "reddit:1x9dss5",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x9dss5/i_need_beta_testers/",
       "title": "I need beta testers 🥶",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x9fl6v",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x9fl6v/great_argument_however_you_are_entering_cardiac/",
-      "title": "Great argument! However, you are entering cardiac arrest.",
       "source": "reddit-robloxstudio",
       "published": "2026-10-18",
       "kind": "reddit",
@@ -5053,6 +4987,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xeezl2",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeezl2/does_anyone_know_how_to_fix_this/",
+      "title": "Does anyone know how to fix this?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4941469:1",
       "url": "https://devforum.roblox.com/t/should-i-create-a-new-game-or-reuse-my-old-one-that-has-250-hep/4941469",
       "title": "Should I create a new game or reuse my old one that has 250 HEP?",
@@ -5111,17 +5058,6 @@
       "key": "devforum:4942138:1",
       "url": "https://devforum.roblox.com/t/devex-tax-french-minor-without-a-tin/4942138",
       "title": "DevEx Tax french minor without a TIN",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-18",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4942838:1",
-      "url": "https://devforum.roblox.com/t/low-resolution-rigs-in-viewportframes/4942838",
-      "title": "Low Resolution Rigs In Viewportframes",
       "source": "roblox-devforum-latest",
       "published": "2026-10-18",
       "kind": "devforum",
@@ -6450,6 +6386,61 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4955087:1",
+      "url": "https://devforum.roblox.com/t/creating-new-places-bug/4955087",
+      "title": "Creating new places bug",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4955106:1",
+      "url": "https://devforum.roblox.com/t/virus-alert-ummmapparently-my-workspace-verification-is-missing/4955106",
+      "title": "[VIRUS ALERT] Ummm...Apparently my workspace \"verification\" is \"missing\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4955226:1",
+      "url": "https://devforum.roblox.com/t/requesting-help-from-staff-ticket-184848321/4955226",
+      "title": "Requesting Help from Staff Ticket #184848321",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4955288:1",
+      "url": "https://devforum.roblox.com/t/i-just-found-out-what-editable-images-are/4955288",
+      "title": "I just found out what editable images are",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4955308:1",
+      "url": "https://devforum.roblox.com/t/add-the-ability-to-get-the-default-value-of-an-instance-property/4955308",
+      "title": "Add the ability to get the default value of an instance property",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1x8u7o7",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8u7o7/where_is_roblox_devs/",
       "title": "Where Is Roblox Devs???",
@@ -6486,17 +6477,6 @@
       "key": "reddit:1x931zx",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x931zx/would_you_play_this/",
       "title": "Would you play this?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x93c1e",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x93c1e/how_can_you_come_up_with_an_idea_for_your_roblox/",
-      "title": "How can you come up with an idea for your Roblox game that you won’t end up abandoning the very next day?",
       "source": "reddit-robloxstudio",
       "published": "2026-10-18",
       "kind": "reddit",
@@ -7275,6 +7255,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xeelwy",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeelwy/looking_for_playtest_opportunities_unpaid_or/",
+      "title": "Looking for playtest opportunities (unpaid or robux payed)",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xef63m",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xef63m/this_is_my_game_play_if_you_want_it_is_unfinshed/",
+      "title": "this is my game play if you want it is unfinshed thi",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xegxxw",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xegxxw/im_making_an_anime_roblox_game_called_anime/",
+      "title": "I'm Making an Anime Roblox Game Called Anime Summoner! Here's the First Teaser.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-24",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE44WXRqMDNXSmlETFFKQW9GUTFZSkI3UlhNUDBDbTRvc0NZY0RuZkg2b1lHQV94YWEtRFV4bEg1U29xeEhDMjdCS19DaW53dDQwdUFvMmZR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44WXRqMDNXSmlETFFKQW9GUTFZSkI3UlhNUDBDbTRvc0NZY0RuZkg2b1lHQV94YWEtRFV4bEg1U29xeEhDMjdCS19DaW53dDQwdUFvMmZR?oc=5",
       "title": "I Made 4 Roblox Games in 12 Hours with This AI.. - YouTube",
@@ -7331,19 +7344,6 @@
       "kind": "index-only",
       "signals": [
         "cat animation and audio"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiX0FVX3lxTE5fZllrMDl5VVF1RDk2YmptU3NicXBVUmI2X2IyRnZOOUpUVWVfeXVsQUZhbkJBWGJwR01VZkFjQVFRNk15QUdfLTVGS2NSRDlkNTRoeVJnSHlHZXhndEJ3",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fZllrMDl5VVF1RDk2YmptU3NicXBVUmI2X2IyRnZOOUpUVWVfeXVsQUZhbkJBWGJwR01VZkFjQVFRNk15QUdfLTVGS2NSRDlkNTRoeVJnSHlHZXhndEJ3?oc=5",
-      "title": "🔗 GitHub: https://t.co/EWkntqBVl9 --- ✉️ If you’re into AI, ML, agents, and building real systems, join my newsletter (it’s free): https://t.co/zpXbSNWr80 - X",
-      "source": "x-index",
-      "published": "2026-10-18",
-      "kind": "index-only",
-      "signals": [
-        "physical tycoon purchases"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -7406,19 +7406,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMibkFVX3lxTE02dzZaM09wT1k4eVJnWW5mQ0FnaWt4cFluSjRXWlFjM0M0SVpfUzhJbTBaRGZ0djVNMUEtdG9kUmlNOS1EZHN0NmUweGlqdl92ODdwSWxCck9FbUw3QnpjbVFlZ3I1TWtuaUFhOW5B",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02dzZaM09wT1k4eVJnWW5mQ0FnaWt4cFluSjRXWlFjM0M0SVpfUzhJbTBaRGZ0djVNMUEtdG9kUmlNOS1EZHN0NmUweGlqdl92ODdwSWxCck9FbUw3QnpjbVFlZ3I1TWtuaUFhOW5B?oc=5",
-      "title": "Such an awesome handheld and MP3 player. Never would I have ever imagined playing Ridge Racer 4 on the go like this on the GKD Pixel #handheld #ps1 #gkdpixel #fyp #foryoupage - TikTok",
-      "source": "tiktok-index",
-      "published": "2026-10-18",
-      "kind": "index-only",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
