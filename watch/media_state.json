@@ -1130,7 +1130,10 @@
     "512b3810493ce59c79692084",
     "f960ec8d9c314df19d4807c3",
     "9a7a081b30316f413ee871c6",
-    "7fb6520b2d187a042b0cb240"
+    "7fb6520b2d187a042b0cb240",
+    "20d31d06f0b860c7e808736f",
+    "5f45ca19500e8015d2463371",
+    "4d8e102fc8886ca51addc6ed"
   ],
   "items": [
     {
@@ -1273,6 +1276,17 @@
       "id": "726c098689cbde9114c0fbc9"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "does anyone know what this error is and whats causing it",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xerzh2/does_anyone_know_what_this_error_is_and_whats/",
+      "published": "2026-10-25",
+      "excerpt": "submitted by /u/DeanHutcherson [link] [comments]",
+      "creator": "/u/DeanHutcherson https://www.reddit.com/user/DeanHutcherson",
+      "id": "5f45ca19500e8015d2463371"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1283,6 +1297,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844.rss",
       "id": "512b3810493ce59c79692084"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Have you ever recreated evolution?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeqyma/have_you_ever_recreated_evolution/",
+      "published": "2026-10-25",
+      "excerpt": "Yeah that's what I'm doing, might need to watch an hour long biology video to understand it, major project, literally making things evolve, making a 5000 by 5000 stud map, just average studio stuff, just making predators and recreating the concept of extinction. submitted by /u/AnimaticKraken [link]",
+      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
+      "id": "4d8e102fc8886ca51addc6ed"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1318,6 +1343,18 @@
       "excerpt": "I saw this on my friends avatar and couldn't help but wish it wasnt offsale, is there a way that it can be recreated onsale? submitted by /u/No_Definition_384 [link] [comments]",
       "creator": "/u/No_Definition_384 https://www.reddit.com/user/No_Definition_384",
       "id": "28ce02f2e543761a912d2073"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Random 40 to 100 ms server stalls on live servers that we can't trace to our code (Server Authority)",
+      "url": "https://devforum.roblox.com/t/random-40-to-100-ms-server-stalls-on-live-servers-that-we-cant-trace-to-our-code-server-authority/4955951",
+      "published": "2026-10-25",
+      "excerpt": "Hi! We make MageBrawl, a fast PvP arena game on Server Authority ( RunService:BindToSimulation , 60 Hz, place ID 84169602023740). We’ve been chasing server lag for a long time and have fixed everything our own profiling could find. What’s left looks like the server itself pausing. We’d like help wor",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/random-40-to-100-ms-server-stalls-on-live-servers-that-we-cant-trace-to-our-code-server-authority/4955951.rss",
+      "id": "20d31d06f0b860c7e808736f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8071,40 +8108,6 @@
       "excerpt": "I'm looking for things to add into my Roblox game, any recommendations welcome and encouraged! Also, this post isn't an ad it's just a cinematic trailer of the game that I already made that showcases everything. I don't really want to create another showcase as theirs no need to reinvent the wheel 🤷",
       "creator": "/u/ImpressionLopsided22 https://www.reddit.com/user/ImpressionLopsided22",
       "id": "0b462201946ab4d48439495e"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "Drifters is coming soon. join the community now to playtest. sweet dreams 😈",
-      "url": "https://www.youtube.com/shorts/RvYLhEOcMJY",
-      "published": "2026-10-20",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "09d21366a056c508f166e105"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Pivot offset problem",
-      "url": "https://devforum.roblox.com/t/pivot-offset-problem/4945832",
-      "published": "2026-10-20",
-      "excerpt": "If model has pivot offset from center (PrimaryPart or without), starting drag along axis will result in unwanted offset from initial position. This offset will usually be equal to distance from pivot to center. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/pivot-offset-problem/4945832.rss",
-      "id": "0973ecdea75ce3027001279b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "80s mall nostalgia in roblox",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xazdb4/80s_mall_nostalgia_in_roblox/",
-      "published": "2026-10-20",
-      "excerpt": "hii! one of my local malls that hadn’t changed since the 80s had recently undergone modernization projects so i thought itd be nice to preserve its original classic look the best way i knew to:) https://www.roblox.com/share?code=a13d0edd49e679478f1376ca6e2b4c35&type=ExperienceDetails&stamp=179251923",
-      "creator": "/u/euka18 https://www.reddit.com/user/euka18",
-      "id": "093f6782aff2a775cd65cd97"
     }
   ]
 }
