@@ -7,29 +7,27 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Syncix — Bi-directional filesystem synchronization for Roblox Studio (Rust core)](https://www.reddit.com/r/robloxgamedev/comments/1xf9nbs/syncix_bidirectional_filesystem_synchronization/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: Most external development tooling for Roblox treats synchronization as a one-way pipeline from disk to memory, or relies on rigid file-mapping schemas that break down during routine refactoring. When developers rename files locally or make 
-- **[Title: Syncix — Bi-directional filesystem synchronization for Roblox Studioc](https://www.reddit.com/r/robloxgamedev/comments/1xf94eg/title_syncix_bidirectional_filesystem/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: Most external development tooling for Roblox treats synchronization as a one-way pipeline from disk to memory, or relies on complex file-mapping schemas that break down during routine refactoring. When developers rename files locally or mak
-- **[Here is my Roblox game Published pew days ago and you can test and check the game physics and ragdoll model.](https://www.reddit.com/r/robloxgamedev/comments/1xf95rv/here_is_my_roblox_game_published_pew_days_ago_and/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: submitted by /u/PugnaAbusive \[link\] \[comments\]
+- **[Eleições na Paulista AO VIVO com apurações](https://www.reddit.com/r/robloxgamedev/comments/1xfbmxd/eleições_na_paulista_ao_vivo_com_apurações/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: fiz a pauslita toda para apurações das eleições no brasil , entrem lá :D submitted by /u/DamasUnreal \[link\] \[comments\]
+- **[My first co-op horde-survival game: how I'm handling 300+ enemies without lag](https://www.reddit.com/r/robloxgamedev/comments/1xfby5u/my_first_coop_hordesurvival_game_how_im_handling/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Solo dev here. I've been building a 4-player co-op horde survival (think Vampire Survivors with creature companions that auto-fight). The hardest part so far was performance: each horde enemy is a single anchored part on the server (no Huma
+- **[My lucky block opening felt boring, so I added an "overheat" mechanic — does this look satisfying?](https://www.reddit.com/r/robloxgamedev/comments/1xfblej/my_lucky_block_opening_felt_boring_so_i_added_an/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Hi! I'm working on a trampoline + lucky block game and I've been trying to make opening blocks feel more exciting. How it works now: - You tap the block 3 times and it cracks - Sometimes it starts to OVERHEAT (shakes, glows red, needs 5 tap
+- **[Need help on thumbnails](https://www.reddit.com/r/robloxgamedev/comments/1xfba60/need_help_on_thumbnails/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: https://preview.redd.it/i0ni8l1jznxh1.png?width=767&format=png&auto=webp&s=1f19def21eb1f8f5ae63d8b67ac3a14ef2ec7ff6 https://preview.redd.it/s1ylg20kznxh1.png?width=788&format=png&auto=webp&s=fb5071798eff3de42f37892e9ef8cf25db610192 my game 
+- **[Stress test for the factory game, so far so good:)](https://www.reddit.com/r/robloxgamedev/comments/1xfaejc/stress_test_for_the_factory_game_so_far_so_good/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: submitted by /u/jebeDIEah_Kerbal \[link\] \[comments\]
+- **[\[Seeking testers\] \[Unpaid\] An early-access shooter game project is looking for testers for its alpha phase, in order to gather feedback and meet the requirement](https://www.reddit.com/r/robloxgamedev/comments/1xfbtho/seeking_testers_unpaid_an_earlyaccess_shooter/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Hi everyone! As required by the community guidelines, I am tagging this post as \[Looking for Devs\] and explicitly stating that this is an UNPAID request for volunteer alpha testers. I am not hiring or paying for development work at this tim
 
 ## Roblox Updates
 
-- **[Retarget-r15-to-r6 - stylistically convert your r15 anims to r6](https://devforum.roblox.com/t/retarget-r15-to-r6-stylistically-convert-your-r15-anims-to-r6/4957189)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: A library for stylistically converting R15 animations to R6. It also comes with a Studio plugin for converting animations by hand. Library: Wally · GitHub Plugin: Creator Store 1 post - 1 participant Read full topic
-- **[Studio Camera Controls acting very strange after a random studio update](https://devforum.roblox.com/t/studio-camera-controls-acting-very-strange-after-a-random-studio-update/4957165)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: The camera is always acting like I’ve pressed F to zoom into an object, forcing the orbit camera controls even when I have no object’s selected in studio. This bug is happening in all of my experiences (in studio) and I haven’t found a fix 
-- **[Are There Problems With The Badges In My Obby?](https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: My obby has badges in it for not only every 5 stages, but in different other parts in it too, but there might be problems with it. Roblox \[Hard\] 100 Stages Fun Obby! ⭐ There are 100 stages in this obby to complete to find something at the e
-- **[My game was deleted for sexual content (false)](https://devforum.roblox.com/t/my-game-was-deleted-for-sexual-content-false/4957171)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: My roblox game just started to pick up traction and it was false flagged for sexual content further more roblox then followed by deleting my entire game for a single asset that did not contain sexual content looking to get some help from so
-- **[Need help with off screen player indicator](https://devforum.roblox.com/t/need-help-with-off-screen-player-indicator/4957195)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Hello!! Recently, I’ve been trying to figure out how some games manage to do this effect where when a teammate / player goes off screen, it shows an arrow pointing to them. The problem is… well, I have no idea where to even start with this.
-- **[Programmatically edit Experience details](https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Hello, I am trying to achieve programmatically editing experience details (basically just using Roblox’s endpoints) but I am having issues finding out whether it is actually possible. Said experience details are as follows: Thumbnail and ex
-- **[\[URGENT\] Innapropriate game with 1k CCU, reports ignored](https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: I’ve reported FaultlineStudio’s “NovelAI” (Place ID 118074951239113) and “Character AI” (Place ID 123017733683462) several times through the in-experience Report button and through Support (ticket 177426510). Both are still labeled Minimal,
+- **[512x512 UGC accessory texture renders at noticeably lower resolution in Roblox Player than in Studio](https://devforum.roblox.com/t/512x512-ugc-accessory-texture-renders-at-noticeably-lower-resolution-in-roblox-player-than-in-studio/4957229)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: I uploaded a UGC accessory (pumpkin cat head) with a 512x512 texture. In Roblox Studio, the texture renders close to how it looks in Blender. In the Roblox Player, the same accessory renders at what appears to be a much lower resolution tha
+- **[How far can you go with cannibalism in a Roblox game?](https://devforum.roblox.com/t/how-far-can-you-go-with-cannibalism-in-a-roblox-game/4957325)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Hi! I thought of an idea for a game that revolves around cannibalism and processing noobs into food in exceedingly comical ways. I know that cannibalism itself is allowed on the platform (a game about it even made it into an official event!
+- **[Opinions on a game I recently made](https://devforum.roblox.com/t/opinions-on-a-game-i-recently-made/4957303)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Hello I’ve recently released a game with my friend and I’d appreciate some feedback Roblox \[🎃\] Feed The Head 🎁 Join the group for a FREE gift! 🍩 Welcome to Feed The Head! A giant head is HUNGRY. Feed it, survive the bite and be the last one
 
 ---
 

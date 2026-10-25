@@ -10,7 +10,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Console + Phone Crashing/Memory](https://devforum.roblox.com/t/console-phone-crashingmemory/4946845)
+- **P0 · first-session and mobile:** [Appeal workflow recursively leaves users unable to recieve an appeal verdict](https://devforum.roblox.com/t/appeal-workflow-recursively-leaves-users-unable-to-recieve-an-appeal-verdict/4947085)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
