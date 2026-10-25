@@ -428,6 +428,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4955670:1",
+      "url": "https://devforum.roblox.com/t/roblox-studio-ui-recreation-i-made/4955670",
+      "title": "Roblox studio UI recreation I made",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-24",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4955726:1",
+      "url": "https://devforum.roblox.com/t/outdated-animation-versions-intermittently-served-to-players-even-ones-who-have-not-encountered-the-old-versions-not-cache-related/4955726",
+      "title": "Outdated animation versions intermittently served to players - even ones who have not encountered the old versions (Not cache related?)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "cat animation and audio",
+        "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xaql7x",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xaql7x/developing_a_custom_digging_system_in_roblox/",
       "title": "Developing a custom digging system in Roblox Studio that lets players create and swim in their own ponds!",
@@ -2340,32 +2368,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x8v3zr",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8v3zr/working_on_a_snes_emulator_on_roblox_studio/",
-      "title": "Working on a SNES Emulator on Roblox Studio",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x98h20",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1x98h20/i_made_my_first_roblox_game_for_my_son_and_his/",
-      "title": "I made my first Roblox game for my son and his friends: Pickle Dash 🥒 (looking for feedback + a little help)",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-18",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xaehex",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaehex/w_ad_for_a_new_speed_running_game_any_not_made_by/",
       "title": "W ad for a new speed running game (any%) (not made by me)",
@@ -3348,6 +3350,17 @@
         "first-session and mobile",
         "player feedback and marketing"
       ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "youtube:11L3N8H86fQ",
+      "url": "https://www.youtube.com/shorts/11L3N8H86fQ",
+      "title": "all bite. no bark. tonight, Biter is hungry for you in The Hollow.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-10-24",
+      "kind": "youtube",
+      "signals": [],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -4371,19 +4384,6 @@
       "source": "roblox-devforum-latest",
       "published": "2026-10-24",
       "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1x8spi7",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8spi7/i_made_my_first_game_and_i_dont_think_it_went/",
-      "title": "I made my first game, and I don't think it went very well.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
       "signals": [
         "player feedback and marketing"
       ],
@@ -6499,12 +6499,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1x8u7o7",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1x8u7o7/where_is_roblox_devs/",
-      "title": "Where Is Roblox Devs???",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-18",
-      "kind": "reddit",
+      "key": "devforum:4955699:1",
+      "url": "https://devforum.roblox.com/t/unable-to-access-group-permissions-or-send-payouts-%E2%80%94-group-has-716k-robux/4955699",
+      "title": "Unable to Access Group Permissions or Send Payouts — Group Has 716K+ Robux",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"

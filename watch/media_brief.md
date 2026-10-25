@@ -7,12 +7,16 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Updates
 
-- **[Help with controlling motor6d's rotation](https://devforum.roblox.com/t/help-with-controlling-motor6ds-rotation/4955612)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: i have a gun system that uses the character’s real arms rather than any sort of viewmodel, which means that the arms very easily follow left and right (since they’re attached to the torso and the torso looks left and right) while they slowl
-- **[Mass Banwave Affecting Creators and Accounts Falsely Linked to Terminated Users.](https://devforum.roblox.com/t/mass-banwave-affecting-creators-and-accounts-falsely-linked-to-terminated-users/4955632)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: There currently seems to be a mass banwave going on as many Roblox players and creators have been met with an account termination the past few days, myself included. The most reported instances are either creators being terminated on ground
-- **[What's All the new blacklisted terms on Roblox? (August 2026 - The Future)](https://devforum.roblox.com/t/whats-all-the-new-blacklisted-terms-on-roblox-august-2026-the-future/4955619)** · Roblox Developer Forum latest · 2026-10-24
-  - Feed excerpt: What’s all the terms that will get you terminated / a temporary ban on Roblox? recently I was terminated for mentioning “comboy” by AI moderaton regardless of context in party chat, so im just wondering what other words are blacklisted. I m
+- **[Roblox studio UI recreation I made](https://devforum.roblox.com/t/roblox-studio-ui-recreation-i-made/4955670)** · Roblox Developer Forum latest · 2026-10-24
+  - Feed excerpt: Lol I just recreated this roblox UI in 30 minutes. 3 posts - 2 participants Read full topic
+- **[Outdated animation versions intermittently served to players - even ones who have not encountered the old versions (Not cache related?)](https://devforum.roblox.com/t/outdated-animation-versions-intermittently-served-to-players-even-ones-who-have-not-encountered-the-old-versions-not-cache-related/4955726)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: We have been developing a melee combat system that uses animations with events to signal when their hitboxes should become active. Through out this process, we’ve updated these animations multiple times, overwriting the developer assets. Oc
+- **[Unable to Access Group Permissions or Send Payouts — Group Has 716K+ Robux](https://devforum.roblox.com/t/unable-to-access-group-permissions-or-send-payouts-%E2%80%94-group-has-716k-robux/4955699)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Hello Roblox staff and developers, I am seeking assistance with an unresolved issue involving my Roblox community, i think games. Group link: i think games - Roblox Group ID: 458266917 My account has rank 254 and holds the Developer and Lea
+
+## Youtube
+
+- **[all bite. no bark. tonight, Biter is hungry for you in The Hollow.](https://www.youtube.com/shorts/11L3N8H86fQ)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-24
 
 ---
 
