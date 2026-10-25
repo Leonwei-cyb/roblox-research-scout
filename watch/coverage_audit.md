@@ -11,7 +11,7 @@ Links and metadata collected; original social videos are NOT automatically playe
 
 ## Failures to resolve
 
-- reddit-robloxdev: HTTP 429
+- reddit-robloxstudio: HTTP 429
 
 ## Actions
 

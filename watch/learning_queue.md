@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 355
+- devforum: 349
 - index-only: 9
-- reddit: 220
+- reddit: 226
 - youtube: 9
 
 ## First-Session And Mobile
 
+- [Solo dev, first game: 86% of new players leave within 5 minutes. How do you fix onboarding in a simulator?](https://www.reddit.com/r/robloxgamedev/comments/1xf1202/solo_dev_first_game_86_of_new_players_leave/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 - [\[CRITICAL\] Server Animation Memory leaks continuously](https://devforum.roblox.com/t/critical-server-animation-memory-leaks-continuously/4946409) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -37,8 +37,8 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Ui And Menus
 
+- [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 - [Beginner Inventory System With DataSaving | Tutorial](https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
-- [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
@@ -62,14 +62,14 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Tools And Performance
 
+- [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [I need advice on player retention](https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one I need advice on player retention test with measurable pass/fail.
+3. Explain WHY it matters and propose one ✲ UI designer & builder \[5 years+ experience\] test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
