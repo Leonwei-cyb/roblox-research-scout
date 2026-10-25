@@ -1177,7 +1177,16 @@
     "fe47a81bb6bea840b35e4cd0",
     "c2876aa3d2893707f264ec6b",
     "cd342fb32eb4b871b39f0ebc",
-    "835ed33cd648957da1b8867d"
+    "835ed33cd648957da1b8867d",
+    "46f357bc365629b3ad5df6f6",
+    "921c08683e31718e5539d35a",
+    "78653e9f60fe25609e6a698a",
+    "c3e36cc75fb05572731b99c1",
+    "57be66686888d68bebda2606",
+    "09670b6c58b5e68ed271439a",
+    "0c37f06c089920104b6c6848",
+    "084d70336a1d43ad7498c132",
+    "4dcfceabcfcd9edce0348b06"
   ],
   "items": [
     {
@@ -1364,6 +1373,18 @@
       "id": "c6c90e48e425a56175a4bbf8"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unknown erro Animation Post",
+      "url": "https://devforum.roblox.com/t/unknown-erro-animation-post/4956661",
+      "published": "2026-10-25",
+      "excerpt": "I am encountering an unknown error when trying to publish my avatar animations. This has never been an issue before; I have never experienced any complications like this. 3 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unknown-erro-animation-post/4956661.rss",
+      "id": "c3e36cc75fb05572731b99c1"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1482,6 +1503,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Group Polls percentage do not add up to 100%",
+      "url": "https://devforum.roblox.com/t/group-polls-percentage-do-not-add-up-to-100/4956717",
+      "published": "2026-10-25",
+      "excerpt": "Total percentage: 125% Total percentage: 106% Expected behavior Percentages should be out of 100% 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/group-polls-percentage-do-not-add-up-to-100/4956717.rss",
+      "id": "921c08683e31718e5539d35a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Unchanged Image Assets Repeatedly Moderated; Conflicting Appeals Leave Duplicate Account Penalties",
       "url": "https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965",
       "published": "2026-10-25",
@@ -1544,6 +1577,18 @@
       "excerpt": "I recently made a game called Knife Ability Arena, https://www.roblox.com/games/80673277702360/Knife-Ability-Arena I'm trying with ads but I feel like the ads don't bring in enough players at once to keep even like one full server alive like its almost constantly at 0ccu. How do I get over that init",
       "creator": "/u/Unhappy_Sprinkles_93 https://www.reddit.com/user/Unhappy_Sprinkles_93",
       "id": "79af9ccd4490a4cc594912e6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
+      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
+      "published": "2026-10-25",
+      "excerpt": "Hey everyone, I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in your group with an allowed rank, or if they own one of the ga",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701.rss",
+      "id": "78653e9f60fe25609e6a698a"
     },
     {
       "source": "reddit-robloxdev",
@@ -1625,6 +1670,18 @@
       "id": "5d500a6cfe35a732f4d8fb1c"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How do i start animating on blender for roblox?",
+      "url": "https://devforum.roblox.com/t/how-do-i-start-animating-on-blender-for-roblox/4956644",
+      "published": "2026-10-25",
+      "excerpt": "If you have any tutorials/recommendations it would help me so much, is it exactly like how you would animate for other studios or is there some properties that are inherent to rigging for roblox 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-i-start-animating-on-blender-for-roblox/4956644.rss",
+      "id": "57be66686888d68bebda2606"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1659,6 +1716,17 @@
       "id": "512b3810493ce59c79692084"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Animation not loading?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf1zgz/animation_not_loading/",
+      "published": "2026-10-25",
+      "excerpt": "so i need to import my animation to my character but the animation doesn't load i imported the character using robloxia-CAC importer and i got my rig using moon animator so their wasn't any compatibility issus but the rig that was imported using CAC importer doesn't work. EDIT: i even put the #AnimS",
+      "creator": "/u/Rjdoglover https://www.reddit.com/user/Rjdoglover",
+      "id": "4dcfceabcfcd9edce0348b06"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1691,6 +1759,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119.rss",
       "id": "480ea3b9988bc4cd0cd62f62"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "ScryptSync Folder Location Changed",
+      "url": "https://devforum.roblox.com/t/scryptsync-folder-location-changed/4956728",
+      "published": "2026-10-25",
+      "excerpt": "Setup: I connect the ServerScriptService and ReplicatedStorage etc with scryptsync to a Source folder. So it was mapped like Source/ServerScriptService, Source/ReplicatedStorage, etc. What Happened: Everything worked well only after some time when I reconnected (when I opened roblox studio again) th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/scryptsync-folder-location-changed/4956728.rss",
+      "id": "46f357bc365629b3ad5df6f6"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1842,6 +1922,39 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/track-your-robux-like-a-stock-robux-pl-an-open-source-earnings-dashboard/4955785.rss",
       "id": "19721250e5b18012d8cf972a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Remade Mont Blanc in Roblox and decided to turn it into a skiing game project",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf2x57/remade_mont_blanc_in_roblox_and_decided_to_turn/",
+      "published": "2026-10-25",
+      "excerpt": "Attached is a video showcasing some parts of the game. You can choose wherever you want to spawn on the map. A 1:1 copy of the real mountain. submitted by /u/GameKnight76 [link] [comments]",
+      "creator": "/u/GameKnight76 https://www.reddit.com/user/GameKnight76",
+      "id": "0c37f06c089920104b6c6848"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I'm new to roblox studio and right now I'm stuck at skybox",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf0k4n/im_new_to_roblox_studio_and_right_now_im_stuck_at/",
+      "published": "2026-10-25",
+      "excerpt": "I have Uninstalled and reinstall but it still suck, what the problem and what the solution? submitted by /u/Pure-Meringue7232 [link] [comments]",
+      "creator": "/u/Pure-Meringue7232 https://www.reddit.com/user/Pure-Meringue7232",
+      "id": "09670b6c58b5e68ed271439a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/",
+      "published": "2026-10-25",
+      "excerpt": "I’m making a top-down co-op zombie shooter (up to 4 players, 100+ zombies at once). With fully upgraded Uzis everything fell apart: zombies jittered, phones had shots “hit” on screen but deal no damage, and I was sure 4 players would melt the server. Here’s what was actually going on and how I fixed",
+      "creator": "/u/Markx02 https://www.reddit.com/user/Markx02",
+      "id": "084d70336a1d43ad7498c132"
     },
     {
       "source": "reddit-robloxdev",
@@ -8041,109 +8154,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/avatar-thumbnail-bounding-box-uses-physical-bounds-instead-of-visual-bounds/4947181.rss",
       "id": "6c54dd980101fad31f8eaff8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Keep loading ImageLabels while scrolling down",
-      "url": "https://devforum.roblox.com/t/keep-loading-imagelabels-while-scrolling-down/4945659",
-      "published": "2026-10-20",
-      "excerpt": "What do you want to achieve? For ImageLabels to keep loading while scrolling. What is the issue? Roblox loads the default 30 Labels but nothing after. What solutions have you tried so far? None, as I would not know how to make this work. Basically, I wanted to make a Catalog game and putting the ite",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/keep-loading-imagelabels-while-scrolling-down/4945659.rss",
-      "id": "6c28ad756792f46228be9864"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Titel: I built a free Discord bot that shows your Roblox game’s live player count and pings on spikes/drops",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xakk0u/titel_i_built_a_free_discord_bot_that_shows_your/",
-      "published": "2026-10-20",
-      "excerpt": "Hey! Disclosure: I built this (RoRadar), it's free and a solo side project. I kept refreshing my game page after updates to see if it worked, so I made a bot for it: - /setup → /track game <Roblox link> → live dashboard in your channel (players online, visits, favorites, likes, real 24 h change) - A",
-      "creator": "/u/No_Net_5715 https://www.reddit.com/user/No_Net_5715",
-      "id": "6b3cd904008c137d9cf079ea"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Avatar Joint Upgrade - Tidy up how constraints are getting added to R15 avatar limbs",
-      "url": "https://devforum.roblox.com/t/avatar-joint-upgrade-tidy-up-how-constraints-are-getting-added-to-r15-avatar-limbs/4947148",
-      "published": "2026-10-20",
-      "excerpt": "When the avatar joint upgrade feature was enabled for everyone, I noticed that the children of my avatar’s MeshParts suddenly became a lot more cluttered. It was already very noisy before, but this update made it even worse. Could these constraint objects maybe get packaged as children of the Animat",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/avatar-joint-upgrade-tidy-up-how-constraints-are-getting-added-to-r15-avatar-limbs/4947148.rss",
-      "id": "6af4dbaaff8e88267f3c9187"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "solo working on a interactive game Inspired by Detroit Become Human | 2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xaklf2/solo_working_on_a_interactive_game_inspired_by/",
-      "published": "2026-10-20",
-      "excerpt": "I think this is roughly what the game's pre-finale will look like; it’s not official yet - just a cutscene practice submitted by /u/Ir1n_ [link] [comments]",
-      "creator": "/u/Ir1n_ https://www.reddit.com/user/Ir1n_",
-      "id": "6261464af0f9ee494d6debf4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Why does my game have so many dislikes?",
-      "url": "https://devforum.roblox.com/t/why-does-my-game-have-so-many-dislikes/4945798",
-      "published": "2026-10-20",
-      "excerpt": "Hey everyone! I recently built a new game, a build-an-empire game that follows a similar but not the same trope as other games. Many games follow this build a type of business, but I decided to buidl a version where you can build multiple different types of businesses. Game Link: Build a Business Em",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/why-does-my-game-have-so-many-dislikes/4945798.rss",
-      "id": "5df40f44ac57fca0872e51fb"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "From a gray island to a colorful planet — BUILD A PLANET! beta showcase 🌎",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajnr7/from_a_gray_island_to_a_colorful_planet_build_a/",
-      "published": "2026-10-20",
-      "excerpt": "Hey everyone! I just published the beta of BUILD A PLANET! and wanted to share its planet transformation and decorating systems. You start on a small gray floating island. Collecting glowing orbs lets you bring it to life with grass, oversized flowers, candy trees, a crystal waterfall, and a rainbow",
-      "creator": "/u/GomuGNM https://www.reddit.com/user/GomuGNM",
-      "id": "592282f0fabcf8e449818b13"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is 25 dollars for 11.7k impressions super low?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xanevq/is_25_dollars_for_117k_impressions_super_low/",
-      "published": "2026-10-20",
-      "excerpt": "I'm running engagement ads for two days now, is this low or is it just me? A few months ago on my first game I ran ads for one day with 16 dollars and got something 200k impressions... submitted by /u/Fantastic-Pay9866 [link] [comments]",
-      "creator": "/u/Fantastic-Pay9866 https://www.reddit.com/user/Fantastic-Pay9866",
-      "id": "58f4c3e566a3ef9e2fa55b7d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Hiring Coders for An RPG",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajfs9/hiring_coders_for_an_rpg/",
-      "published": "2026-10-20",
-      "excerpt": "Hello! I’m Syemika. I am the director of an RPG called Extermination Union. If you’ve seen my other posts, you know what Extermination Union is. But incase you haven’t, Extermination Union is a Turn-based RPG inspired by Limbus Company! Currently, we are almost a week away from starting the game’s d",
-      "creator": "/u/dorowsyyy https://www.reddit.com/user/dorowsyyy",
-      "id": "576300ee174446c9a72dc604"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Les presento Zona de Juegos espero vuestro Feedback muchas gracias",
-      "url": "https://devforum.roblox.com/t/les-presento-zona-de-juegos-espero-vuestro-feedback-muchas-gracias/4946579",
-      "published": "2026-10-20",
-      "excerpt": "BIENVENIDOS A ZONA DE JUEGOS ¡Hola a todos! Estoy desarrollando este espacio interactivo para ofrecer una experiencia completa de entretenimiento multijugador, minijuegos clásicos y zona social. Una experiencia acojedora para matar el aburrimiento, pasar el rato, competir y relajarse. escuchado musi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/les-presento-zona-de-juegos-espero-vuestro-feedback-muchas-gracias/4946579.rss",
-      "id": "56b224bbc01311c68f49de3e"
     }
   ]
 }

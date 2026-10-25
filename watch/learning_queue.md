@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 349
+- devforum: 350
 - index-only: 9
-- reddit: 226
+- reddit: 225
 - youtube: 9
 
 ## First-Session And Mobile
@@ -23,7 +23,6 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 ## Board Game And Turn Flow
 
 - [Looking for Feedback on My Pixel Game](https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767) — devforum; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
-- [Hiring Coders for An RPG](https://www.reddit.com/r/robloxgamedev/comments/1xajfs9/hiring_coders_for_an_rpg/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
 
 ## Building And Purchases
 
