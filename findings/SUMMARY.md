@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-25T11:53:21Z (local, partial)
+- Last run: 2026-10-25T12:00:39Z (schedule, partial)
 - Repos tracked: 281; adopt 0, needs-test 110, reject 171
 - Actionable backlog: 102
-- Feed health: deferred 4, ok 34
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin PsChina/deepseek-as-subagent@​fa539bf, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [tempestai-dev/tempest](https://github.com/tempestai-dev/tempest/tree/1230d40c70d6e197e13690842779561ceb0267a3)
   - Pin tempestai-dev/tempest@​1230d40, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: obra/superpowers #2618 Six test-discipline gaps from heavy real-world use: mutation-survival diagnosis, escape-proof litera
-- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
-- Issue updated: earendil-works/pi #11335 MCP HTTP JSON responses bypass maxMessageBytes
-- Issue updated: earendil-works/pi #11376 Anthropic: removing an initial tool mid-session breaks every later request \(tool\_reference\_unresolve
-- Issue updated: earendil-works/pi #11375 -e npm: package never updates, stuck on first download
-- Issue updated: earendil-works/pi #11361 Expose inheritEnv: false for native MCP stdio server configuration
-- Issue updated: earendil-works/pi #9534 OpenRouter: signature-only reasoning chunks dropped for Claude
-- Issue updated: ComposioHQ/awesome-claude-skills #2380 Skill submission: information-is-beautiful — honest information design \(Data & Analysis\)
-- Issue updated: OpenHands/OpenHands #18898 \[Bug\]: Reset an open conversation after an active connection edit
-- Issue updated: OpenHands/OpenHands #18935 \[Bug\]: Unable to connect to server is now happening everywhere, making the product unusable
-- Issue updated: OpenHands/OpenHands #18931 \[Feature\]: Use existing theme aliases in model-profile settings
-- Issue updated: OpenHands/OpenHands #18932 \[Feature\]: Give Files Markdown preview a compiled color recipe
-- Issue updated: OpenHands/OpenHands #18928 \[Bug\]: Device-flow error text in dark themes and Solarized awaiting text stay below 4.5:1
-- Issue updated: modelcontextprotocol/servers #5275 Tracker: Time v2.3.0
-- Issue updated: modelcontextprotocol/servers #5274 Tracker: Sequential Thinking v2.3.0
-- Issue updated: modelcontextprotocol/servers #5273 Tracker: Memory v2.3.0
-- Issue updated: modelcontextprotocol/servers #5272 Tracker: Everything v2.3.0
-- Issue updated: modelcontextprotocol/servers #5271 Tracker: Fetch v2.3.0
-- Issue updated: anthropics/claude-code #104992 Remote Control: show the session's Browser preview \(localhost dev server\) on the phone
-- Issue updated: anthropics/claude-code #104991 Grep tool: one-level glob \(\*/\) misses files when the search path is inside the working directory
-- Issue updated: anthropics/claude-code #12705 \[BUG\] Unable to generate a AGPLv3 license due to content filtering policy
-- Issue updated: anthropics/claude-code #92089 \[BUG\] Second '/compact' in one process re-appends the history the first one summarized away, transcr
-- Issue updated: anthropics/claude-code #104990 \[Bug\] Request Blocked with \[cyber\] Flag
-- Issue updated: openai/codex #49729 Dot cannot create or follow up with local Codex tasks in saved projects
-- Issue updated: openai/codex #49566 dot cannot start a task on a connected, authorized computer: AppServerBackendRequestError \(UNKNOWN\)
-- Issue updated: openai/codex #56883 \[macOS\]\[Dots\] Missing in Desktop sidebar and Orbit stuck loading while web works \(26.1021.31345\)
-- Issue updated: openai/codex #56882 Windows desktop: Full access selected, permission controls disappear, and Git operations remain bloc
-- Issue updated: openai/codex #56881 Feature request: interrupt the voice assistant without ending Voice Chat \(Codex desktop, Windows\)
-- Issue updated: rojo-rbx/rojo #1348 Crash Bug - VSCode Rojo Roblox Studio Plugin
-- Issue updated: Shubhamsaboo/awesome-llm-apps #1185 Static social-media routes are shadowed by the post ID route
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
