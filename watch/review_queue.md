@@ -21,6 +21,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[DASHSHOT playtest at 1pm (ET)](https://www.reddit.com/r/robloxgamedev/comments/1xf3a1l/dashshot_playtest_at_1pm_et/)** — Public text/page, video not confirmed
 - **[Merge Toolbox into the Asset Manager](https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844)** — Public text/page, video not confirmed
-- **[goated ass plugin](https://www.reddit.com/r/robloxgamedev/comments/1xem74k/goated_ass_plugin/)** — Public text/page, video not confirmed
 - **[Looking for playtest opportunities (unpaid or robux payed)](https://www.reddit.com/r/ROBLOXStudio/comments/1xeelwy/looking_for_playtest_opportunities_unpaid_or/)** — Public text/page, video not confirmed

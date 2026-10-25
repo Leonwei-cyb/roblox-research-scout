@@ -7,27 +7,29 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[I'm new to roblox studio and right now I'm stuck at skybox](https://www.reddit.com/r/robloxgamedev/comments/1xf0k4n/im_new_to_roblox_studio_and_right_now_im_stuck_at/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: I have Uninstalled and reinstall but it still suck, what the problem and what the solution? submitted by /u/Pure-Meringue7232 \[link\] \[comments\]
-- **[Animation not loading?](https://www.reddit.com/r/robloxgamedev/comments/1xf1zgz/animation_not_loading/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: so i need to import my animation to my character but the animation doesn't load i imported the character using robloxia-CAC importer and i got my rig using moon animator so their wasn't any compatibility issus but the rig that was imported 
-- **[How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick](https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: I’m making a top-down co-op zombie shooter (up to 4 players, 100+ zombies at once). With fully upgraded Uzis everything fell apart: zombies jittered, phones had shots “hit” on screen but deal no damage, and I was sure 4 players would melt t
-- **[Remade Mont Blanc in Roblox and decided to turn it into a skiing game project](https://www.reddit.com/r/robloxgamedev/comments/1xf2x57/remade_mont_blanc_in_roblox_and_decided_to_turn/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: Attached is a video showcasing some parts of the game. You can choose wherever you want to spawn on the map. A 1:1 copy of the real mountain. submitted by /u/GameKnight76 \[link\] \[comments\]
+- **[\[Unpaid\] Looking for a few playtesters for a monster ranch tycoon, 10–15 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xf3lbq/unpaid_looking_for_a_few_playtesters_for_a/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: This is unpaid: I'm a solo dev looking for honest first impressions, not offering money. If that's not for you, no worries! The game is a tycoon where you hatch, breed and evolve monsters that work your ranch. It just went public and I want
+- **[DASHSHOT playtest at 1pm (ET)](https://www.reddit.com/r/robloxgamedev/comments/1xf3a1l/dashshot_playtest_at_1pm_et/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Come play tdm with me to test out my new third person parkour shooter. Everything feels smooth so far, now I just need actual people to come test submitted by /u/TensionSevere \[link\] \[comments\]
+- **[I've been working on a naval strategy game on Roblox. I love some feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xf3dp2/ive_been_working_on_a_naval_strategy_game_on/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Hey everyone, I've been working on a game called IRON TIDES for a while now. It's basically an open-world naval strategy game inspired by games like Total War, Mount & Blade and Grepolis. You can command fleets, fight naval battles, board e
+- **[Just released my new game: Bug Squisher Simulator! What do you guys think?](https://www.reddit.com/r/robloxgamedev/comments/1xf3ndw/just_released_my_new_game_bug_squisher_simulator/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Hey everyone! I just launched my first simulator game called Bug Squisher Simulator. You stomp bugs to collect parts, sell them for coins, hatch 20+ custom companion pets, unlock fantasy zones, and rebirth. I'm looking for some players to t
 
 ## Roblox Updates
 
-- **[How do i start animating on blender for roblox?](https://devforum.roblox.com/t/how-do-i-start-animating-on-blender-for-roblox/4956644)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: If you have any tutorials/recommendations it would help me so much, is it exactly like how you would animate for other studios or is there some properties that are inherent to rigging for roblox 2 posts - 2 participants Read full topic
-- **[ScryptSync Folder Location Changed](https://devforum.roblox.com/t/scryptsync-folder-location-changed/4956728)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Setup: I connect the ServerScriptService and ReplicatedStorage etc with scryptsync to a Source folder. So it was mapped like Source/ServerScriptService, Source/ReplicatedStorage, etc. What Happened: Everything worked well only after some ti
-- **[Group Polls percentage do not add up to 100%](https://devforum.roblox.com/t/group-polls-percentage-do-not-add-up-to-100/4956717)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Total percentage: 125% Total percentage: 106% Expected behavior Percentages should be out of 100% 2 posts - 2 participants Read full topic
-- **[Unknown erro Animation Post](https://devforum.roblox.com/t/unknown-erro-animation-post/4956661)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: I am encountering an unknown error when trying to publish my avatar animations. This has never been an issue before; I have never experienced any complications like this. 3 posts - 2 participants Read full topic
-- **[\[Free\] Door system for staff group ranks and VIP gamepass access](https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Hey everyone, I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in y
+- **[Are Self Surgeries allowed?](https://devforum.roblox.com/t/are-self-surgeries-allowed/4956801)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Hi, Im making an FPS shooter and thought about incorporating minor self surgery procedures (such as for example pulling a bullet out of a wound). You probably could’ve guessed by now that my Question is on how Roblox stance is on displaying
+- **[Kids & Select final review stuck for a week after accepted appeal](https://devforum.roblox.com/t/kids-select-final-review-stuck-for-a-week-after-accepted-appeal/4956766)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Our game, Kings of Eggland, is still restricted to ages 16+ even though all requirements on the Audience Reach dashboard show as complete. We originally received feedback about blood in the game. We fixed it, resubmitted the questionnaire, 
+- **[Possible Roblox moderation bot named "Player" joining my game for exactly 1 minute and 19 seconds every time?](https://devforum.roblox.com/t/possible-roblox-moderation-bot-named-player-joining-my-game-for-exactly-1-minute-and-19-seconds-every-time/4956758)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: I have server-side scripts that send webhooks whenever a player joins or leaves the game. On multiple occasions, an account with the username “Player” appeared. The strange part is that every time this account joined, it stayed for exactly 
+- **[Que puedo agregar en mi juego](https://devforum.roblox.com/t/que-puedo-agregar-en-mi-juego/4956765)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: ¡Hola gente! Estuve armando este juego con un amigo y me serviría un montón que entren a testearlo para darme ideas de qué cosas nuevas puedo meterle. Si ven que la tienda o el botón de vender no andan muy bien o les falta diseño, ignoren p
+- **[Standard R15 Resource "Blocky" is missing a corrective facial pose](https://devforum.roblox.com/t/standard-r15-resource-blocky-is-missing-a-corrective-facial-pose/4956755)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Overview: I used the Standard R15 Resource rig for Blocky to quickly set up a dynamic head for a Body package. When importing the body itself into Studio, it shows this warning. Process: I downloaded the Blocky resource file and imported it
+- **[Vape V4 Detection](https://devforum.roblox.com/t/vape-v4-detection/4956764)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: local KEY_CODE = Enum.KeyCode.RightShift --// For Vape V4 script:Destroy() script = nil local Players = game:GetService("Players") local UserInputService = game:GetService("UserInputService") local Stats = game:GetService("Stats") local Loc
 
 ---
 

@@ -1186,7 +1186,17 @@
     "09670b6c58b5e68ed271439a",
     "0c37f06c089920104b6c6848",
     "084d70336a1d43ad7498c132",
-    "4dcfceabcfcd9edce0348b06"
+    "4dcfceabcfcd9edce0348b06",
+    "67ade6abc449b82d7bed9d40",
+    "61a5d4bfd6fab8292ef99e91",
+    "ee35d2b61716046fad61fcee",
+    "efd0752486ddc6631c369d95",
+    "c1637404f42cc860569921b3",
+    "4930846127f563f603b2e6d1",
+    "0ed8b996523cbf32056f024a",
+    "3feb6d07879026fabe40872e",
+    "5561c50a216af193c21795fc",
+    "9f54dde2088a0b7043f11028"
   ],
   "items": [
     {
@@ -1257,6 +1267,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/krypton-anti-cheat-paid/4956083.rss",
       "id": "f27d8449fded687e776a0fce"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Vape V4 Detection",
+      "url": "https://devforum.roblox.com/t/vape-v4-detection/4956764",
+      "published": "2026-10-25",
+      "excerpt": "local KEY_CODE = Enum.KeyCode.RightShift --// For Vape V4 script:Destroy() script = nil local Players = game:GetService(\"Players\") local UserInputService = game:GetService(\"UserInputService\") local Stats = game:GetService(\"Stats\") local LocalPlayer = Players.LocalPlayer local score = 0 UserInputServ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/vape-v4-detection/4956764.rss",
+      "id": "efd0752486ddc6631c369d95"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Que puedo agregar en mi juego",
+      "url": "https://devforum.roblox.com/t/que-puedo-agregar-en-mi-juego/4956765",
+      "published": "2026-10-25",
+      "excerpt": "¡Hola gente! Estuve armando este juego con un amigo y me serviría un montón que entren a testearlo para darme ideas de qué cosas nuevas puedo meterle. Si ven que la tienda o el botón de vender no andan muy bien o les falta diseño, ignoren porque justo estoy laburando en eso y lo voy a cambiar comple",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/que-puedo-agregar-en-mi-juego/4956765.rss",
+      "id": "ee35d2b61716046fad61fcee"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1408,6 +1442,18 @@
       "id": "c1d7db4d758e7f29c567c9fa"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Possible Roblox moderation bot named \"Player\" joining my game for exactly 1 minute and 19 seconds every time?",
+      "url": "https://devforum.roblox.com/t/possible-roblox-moderation-bot-named-player-joining-my-game-for-exactly-1-minute-and-19-seconds-every-time/4956758",
+      "published": "2026-10-25",
+      "excerpt": "I have server-side scripts that send webhooks whenever a player joins or leaves the game. On multiple occasions, an account with the username “Player” appeared. The strange part is that every time this account joined, it stayed for exactly 1 minute and 19 seconds before leaving. This happened consis",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/possible-roblox-moderation-bot-named-player-joining-my-game-for-exactly-1-minute-and-19-seconds-every-time/4956758.rss",
+      "id": "c1637404f42cc860569921b3"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1440,6 +1486,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/meshparts-dont-cast-a-proper-deep-shadow-enviromentdiffusescale/4956259.rss",
       "id": "a5e6c485d9109e63ae4f8b92"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "DASHSHOT playtest at 1pm (ET)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3a1l/dashshot_playtest_at_1pm_et/",
+      "published": "2026-10-25",
+      "excerpt": "Come play tdm with me to test out my new third person parkour shooter. Everything feels smooth so far, now I just need actual people to come test submitted by /u/TensionSevere [link] [comments]",
+      "creator": "/u/TensionSevere https://www.reddit.com/user/TensionSevere",
+      "id": "9f54dde2088a0b7043f11028"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1636,6 +1693,30 @@
       "id": "6b0d65814375e8e2584bb3d8"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Are Self Surgeries allowed?",
+      "url": "https://devforum.roblox.com/t/are-self-surgeries-allowed/4956801",
+      "published": "2026-10-25",
+      "excerpt": "Hi, Im making an FPS shooter and thought about incorporating minor self surgery procedures (such as for example pulling a bullet out of a wound). You probably could’ve guessed by now that my Question is on how Roblox stance is on displaying self surgeries given that it could technically get interpre",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/are-self-surgeries-allowed/4956801.rss",
+      "id": "67ade6abc449b82d7bed9d40"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Kids & Select final review stuck for a week after accepted appeal",
+      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-for-a-week-after-accepted-appeal/4956766",
+      "published": "2026-10-25",
+      "excerpt": "Our game, Kings of Eggland, is still restricted to ages 16+ even though all requirements on the Audience Reach dashboard show as complete. We originally received feedback about blood in the game. We fixed it, resubmitted the questionnaire, and our appeal was accepted on October 18. Today is October ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/kids-select-final-review-stuck-for-a-week-after-accepted-appeal/4956766.rss",
+      "id": "61a5d4bfd6fab8292ef99e91"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1680,6 +1761,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-i-start-animating-on-blender-for-roblox/4956644.rss",
       "id": "57be66686888d68bebda2606"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I've been working on a naval strategy game on Roblox. I love some feedback!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3dp2/ive_been_working_on_a_naval_strategy_game_on/",
+      "published": "2026-10-25",
+      "excerpt": "Hey everyone, I've been working on a game called IRON TIDES for a while now. It's basically an open-world naval strategy game inspired by games like Total War, Mount & Blade and Grepolis. You can command fleets, fight naval battles, board enemy ships, build and manage cities, raise armies, fight lan",
+      "creator": "/u/SimplifieEDGaming https://www.reddit.com/user/SimplifieEDGaming",
+      "id": "5561c50a216af193c21795fc"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1752,6 +1844,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Standard R15 Resource \"Blocky\" is missing a corrective facial pose",
+      "url": "https://devforum.roblox.com/t/standard-r15-resource-blocky-is-missing-a-corrective-facial-pose/4956755",
+      "published": "2026-10-25",
+      "excerpt": "Overview: I used the Standard R15 Resource rig for Blocky to quickly set up a dynamic head for a Body package. When importing the body itself into Studio, it shows this warning. Process: I downloaded the Blocky resource file and imported it into Maya (2024). When scrubbing the Animation timeline in ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/standard-r15-resource-blocky-is-missing-a-corrective-facial-pose/4956755.rss",
+      "id": "4930846127f563f603b2e6d1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Studio eats all RAM (~500 MB/s) in edit mode when a ModuleScript loops :ToHSV() over a 40-entry untyped Color3 table",
       "url": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119",
       "published": "2026-10-25",
@@ -1793,6 +1897,17 @@
       "excerpt": "Anyone got any popular genres for games that aren't just either straight brainrot or some slow paced farming? I was making an fps then looked at others, and they're doing horribly. I wanna make a game, but don't want it to die out in 3 days of being released submitted by /u/Boring-Jeweler-8286 [link",
       "creator": "/u/Boring-Jeweler-8286 https://www.reddit.com/user/Boring-Jeweler-8286",
       "id": "461e60f25c9d2e404f5a2e7f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[Unpaid] Looking for a few playtesters for a monster ranch tycoon, 10–15 minutes",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3lbq/unpaid_looking_for_a_few_playtesters_for_a/",
+      "published": "2026-10-25",
+      "excerpt": "This is unpaid: I'm a solo dev looking for honest first impressions, not offering money. If that's not for you, no worries! The game is a tycoon where you hatch, breed and evolve monsters that work your ranch. It just went public and I want fresh eyes on the first session before I push it wider. Wha",
+      "creator": "/u/Mean_Purpose_4470 https://www.reddit.com/user/Mean_Purpose_4470",
+      "id": "3feb6d07879026fabe40872e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1922,6 +2037,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/track-your-robux-like-a-stock-robux-pl-an-open-source-earnings-dashboard/4955785.rss",
       "id": "19721250e5b18012d8cf972a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Just released my new game: Bug Squisher Simulator! What do you guys think?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3ndw/just_released_my_new_game_bug_squisher_simulator/",
+      "published": "2026-10-25",
+      "excerpt": "Hey everyone! I just launched my first simulator game called Bug Squisher Simulator. You stomp bugs to collect parts, sell them for coins, hatch 20+ custom companion pets, unlock fantasy zones, and rebirth. I'm looking for some players to test it out and give honest thoughts on balancing, pet progre",
+      "creator": "/u/RylieHa https://www.reddit.com/user/RylieHa",
+      "id": "0ed8b996523cbf32056f024a"
     },
     {
       "source": "reddit-robloxdev",
@@ -8037,123 +8163,6 @@
       "excerpt": "Is it looking good submitted by /u/Parking_Yam_5636 [link] [comments]",
       "creator": "/u/Parking_Yam_5636 https://www.reddit.com/user/Parking_Yam_5636",
       "id": "9735489d6d4dc9d3269fbe94"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "50% of Players leave within 2 minutes",
-      "url": "https://devforum.roblox.com/t/50-of-players-leave-within-2-minutes/4946893",
-      "published": "2026-10-20",
-      "excerpt": "We released our Roblox fashion game a few months ago, and we’re currently trying to figure out why our player retention and average session length are significantly lower than we’d hoped. Right now, our average playtime consistently sits at around 5 minutes. We’ve released multiple updates and impro",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/50-of-players-leave-within-2-minutes/4946893.rss",
-      "id": "93aa8ad0262ffd61468a89bc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "MeshPart Solid Modelling messes up Pivot",
-      "url": "https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315",
-      "published": "2026-10-20",
-      "excerpt": "Hey there fellas, I’ve been tinkering around with Mesh Solid Modelling for a bit now, and I’ve come across a persistent issue that I cannot resolve, no matter what I try. It seems that when I unionize a MeshPart together with a standard Part, the Pivot doesn’t set itself to the actual middle of this",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/meshpart-solid-modelling-messes-up-pivot/4947315.rss",
-      "id": "93699eb315780d2fdc434f99"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Thin text on SurfaceGuis appears scattered/jagged",
-      "url": "https://devforum.roblox.com/t/thin-text-on-surfaceguis-appears-scatteredjagged/4946031",
-      "published": "2026-10-20",
-      "excerpt": "Any text with a thin font above the size of 33 appears to be scattered/jagged when placed inside of a SurfaceGui (Size 47, Roboto Mono, Thin) (Size 47, Roboto Mono, Light) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/thin-text-on-surfaceguis-appears-scatteredjagged/4946031.rss",
-      "id": "90a48c32af608b02f041c169"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Game Title: BUILD A PLANET! — Beta",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajpbe/game_title_build_a_planet_beta/",
-      "published": "2026-10-20",
-      "excerpt": "Playable Link: https://www.roblox.com/games/137005017218055/ Platform: Roblox — PC and mobile Description: I’m looking for feedback on how the customization and progression systems work together in my Roblox project, BUILD A PLANET! Players start on a small gray floating island and collect orbs to e",
-      "creator": "/u/GomuGNM https://www.reddit.com/user/GomuGNM",
-      "id": "8e6933ebadcb95ba918aeb45"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I’m working on my first Roblox game in this genre and would love some honest feedback",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xanj42/im_working_on_my_first_roblox_game_in_this_genre/",
-      "published": "2026-10-20",
-      "excerpt": "Game link: https://www.roblox.com/games/70759742811712/Chemistry-Simulator I’m developing what I hope will become a fully-fledged chemistry simulator in Roblox, focused on realistic chemical reactions and laboratory experiments. The game currently features around 5,000 different chemical reaction co",
-      "creator": "/u/Immediate-Annual7634 https://www.reddit.com/user/Immediate-Annual7634",
-      "id": "7fff73fbdbb935b8df89c3fd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Cannot access any place with Team Create enabled",
-      "url": "https://devforum.roblox.com/t/cannot-access-any-place-with-team-create-enabled/4945825",
-      "published": "2026-10-20",
-      "excerpt": "I can’t open any game under my group that has team create enabled. Keep seeing this after like 5 minutes or more. Seems to affect all places with team create I have access to. A private message is associated with this bug report 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cannot-access-any-place-with-team-create-enabled/4945825.rss",
-      "id": "776fa7ab2f9a88956536df4d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Beginner Inventory System With DataSaving | Tutorial",
-      "url": "https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967",
-      "published": "2026-10-20",
-      "excerpt": "Hey, when i started out scripting on Roblox, an inventory system even a simple one would look like a tangled up mass of spaghetti. And it almost made me quit. I don’t you to quit as well. So, here’s a tutorial how to make a inventory system a beginner one with simple DataSaving Expect more Advanced ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/beginner-inventory-system-with-datasaving-tutorial/4945967.rss",
-      "id": "7364ef42ac01ec50236658f0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How to get an image to wrap around a union like this",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xapscu/how_to_get_an_image_to_wrap_around_a_union_like/",
-      "published": "2026-10-20",
-      "excerpt": "I found this in a game and I found it interesting, how can I get this effect on a union submitted by /u/Astromrsw [link] [comments]",
-      "creator": "/u/Astromrsw https://www.reddit.com/user/Astromrsw",
-      "id": "724b47e1a8df9ab2cf6bd766"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Path clips through slopes",
-      "url": "https://devforum.roblox.com/t/path-clips-through-slopes/4945877",
-      "published": "2026-10-20",
-      "excerpt": "Hello. I have made a path building system that uses waypoints. While it works perfectly on flat surfaces: The issue comes when its used with a sloped surface, as it clips into it: (ignore the cylinder corner, i will fix that on my own maybe) The path system uses this trigonometric formula for the or",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/path-clips-through-slopes/4945877.rss",
-      "id": "6efec52fe6468bae9a47f067"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Avatar thumbnail bounding box uses physical bounds instead of visual bounds",
-      "url": "https://devforum.roblox.com/t/avatar-thumbnail-bounding-box-uses-physical-bounds-instead-of-visual-bounds/4947181",
-      "published": "2026-10-20",
-      "excerpt": "When I created these scientist avatars for the UGC marketplace a few years ago, I made a mistake with the import. I’m not sure what exactly it was, but the end result is layered clothing getting physically moved to the bottom-center of the character’s intended bounding box: This has resulted in avat",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/avatar-thumbnail-bounding-box-uses-physical-bounds-instead-of-visual-bounds/4947181.rss",
-      "id": "6c54dd980101fad31f8eaff8"
     }
   ]
 }
