@@ -1149,7 +1149,11 @@
     "97262d636887c15b52055e99",
     "322e3f62a02f6622954ca465",
     "fbc17348156c529018437a87",
-    "d85490ee8be1bd0ac5b09255"
+    "d85490ee8be1bd0ac5b09255",
+    "a5e6c485d9109e63ae4f8b92",
+    "49631c3fb18fc95569ddb3c8",
+    "5d500a6cfe35a732f4d8fb1c",
+    "6b0d65814375e8e2584bb3d8"
   ],
   "items": [
     {
@@ -1292,6 +1296,18 @@
       "id": "a8a7a4001ae74f8a3b89bc23"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "MeshParts don't cast a proper deep shadow (EnviromentDiffuseScale)",
+      "url": "https://devforum.roblox.com/t/meshparts-dont-cast-a-proper-deep-shadow-enviromentdiffusescale/4956259",
+      "published": "2026-10-25",
+      "excerpt": "We need to talk about the atrocious ambient lighting. It’s fully lit under this bridge, which consists of multiple MeshParts. MeshParts don’t cast an “ambient shadow” in general. You can see even this huge cube without a MeshId does not cast anything. However when I put a ginormous BasePart right un",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/meshparts-dont-cast-a-proper-deep-shadow-enviromentdiffusescale/4956259.rss",
+      "id": "a5e6c485d9109e63ae4f8b92"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1410,12 +1426,34 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "This new UI is actually disgusting",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xewm1o/this_new_ui_is_actually_disgusting/",
+      "published": "2026-10-25",
+      "excerpt": "submitted by /u/trilalvor [link] [comments]",
+      "creator": "/u/trilalvor https://www.reddit.com/user/trilalvor",
+      "id": "6b0d65814375e8e2584bb3d8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "does anyone know what this error is and whats causing it",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xerzh2/does_anyone_know_what_this_error_is_and_whats/",
       "published": "2026-10-25",
       "excerpt": "submitted by /u/DeanHutcherson [link] [comments]",
       "creator": "/u/DeanHutcherson https://www.reddit.com/user/DeanHutcherson",
       "id": "5f45ca19500e8015d2463371"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "WIP Mario Kart Wii on Roblox with full physics engine recreation",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xewu1f/wip_mario_kart_wii_on_roblox_with_full_physics/",
+      "published": "2026-10-25",
+      "excerpt": "submitted by /u/Vast_Scratch9911 [link] [comments]",
+      "creator": "/u/Vast_Scratch9911 https://www.reddit.com/user/Vast_Scratch9911",
+      "id": "5d500a6cfe35a732f4d8fb1c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1439,6 +1477,17 @@
       "excerpt": "Yeah that's what I'm doing, might need to watch an hour long biology video to understand it, major project, literally making things evolve, making a 5000 by 5000 stud map, just average studio stuff, just making predators and recreating the concept of extinction. submitted by /u/AnimaticKraken [link]",
       "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
       "id": "4d8e102fc8886ca51addc6ed"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "need help!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xewz3j/need_help/",
+      "published": "2026-10-25",
+      "excerpt": "i made a roblox game solo its not the best but i love the idea of it and i would love if someone can help me make it better? it got almost 1k visits from a really small ad. submitted by /u/Nice-Ad-3552 [link] [comments]",
+      "creator": "/u/Nice-Ad-3552 https://www.reddit.com/user/Nice-Ad-3552",
+      "id": "49631c3fb18fc95569ddb3c8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8081,52 +8130,6 @@
       "excerpt": "submitted by /u/karolek848 [link] [comments]",
       "creator": "/u/karolek848 https://www.reddit.com/user/karolek848",
       "id": "2ddfbd98a9c7de0f296efa83"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SirenModule: A module for making tornado sirens",
-      "url": "https://devforum.roblox.com/t/sirenmodule-a-module-for-making-tornado-sirens/4946387",
-      "published": "2026-10-20",
-      "excerpt": "This module was made with the intention of making tornado siren synths easier. I know my coding is messy, but you’ll spend way less time coding one yourself. There are 2 versions of this module: one for single tone sirens, and the other for dual tone sirens. (see link at the bottom of this post) How",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/sirenmodule-a-module-for-making-tornado-sirens/4946387.rss",
-      "id": "2cc0337895b0c4c620cc5dbb"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Where to Hire Roblox Devs",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaxkpp/where_to_hire_roblox_devs/",
-      "published": "2026-10-20",
-      "excerpt": "Where is the best place to hire Roblox Devs? I have tried a Few places like Upwork and the Roblox Talent Hub, but every time I've hired someone from there, they do a bad job on the game. I could just be hiring the wrong people, but it seems very difficult to find devs. submitted by /u/tsuki____ [lin",
-      "creator": "/u/tsuki____ https://www.reddit.com/user/tsuki____",
-      "id": "2b7acc7bb6033aa3baf59bf3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How do you determine the prices for your animations?",
-      "url": "https://devforum.roblox.com/t/how-do-you-determine-the-prices-for-your-animations/4946444",
-      "published": "2026-10-20",
-      "excerpt": "Hello, I’ve been an animator for quite a few years now, but I’ve always struggled to put a definitive price on my animations, because it depends on the length and time I spent animating it. And thus I often put prices on things that didn’t really represent the time and effort I put into something, n",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-do-you-determine-the-prices-for-your-animations/4946444.rss",
-      "id": "27fe893706183c970c17e718"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Does my game look good?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb2l8v/does_my_game_look_good/",
-      "published": "2026-10-20",
-      "excerpt": "I was too lazy to walk around looking for different biomes… so I made the biomes change automatically every 10 minutes instead 😭🌳 Welcome to Shroom Life! 🍄 Search through bushes, discover rare mushrooms, and grow them at home to earn money! It’s my first game, and I’m still working on it! What do yo",
-      "creator": "/u/Conscious-King-9760 https://www.reddit.com/user/Conscious-King-9760",
-      "id": "27e936bc1fe80305147195dd"
     }
   ]
 }
