@@ -1122,9 +1122,22 @@
     "79af9ccd4490a4cc594912e6",
     "28ce02f2e543761a912d2073",
     "dfec70eb65ae42412f6ca4bd",
-    "57e4908034f68b4a68f6bbbf"
+    "57e4908034f68b4a68f6bbbf",
+    "ff57dcb8465ed1ac45198d2c"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to properly preload Ui images that aren't visible at runtime?",
+      "url": "https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795",
+      "published": "2026-10-25",
+      "excerpt": "I’ve been trying to preload Ui images on a surface gui that I have in startergui which aren’t visible at runtime. I’ve found that using “PreloadAsync” doesn’t help with this so I was wondering if there’s a good way to do this. I really need this since I hate the look of my menus having the textlabel",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795.rss",
+      "id": "ff57dcb8465ed1ac45198d2c"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -8082,18 +8095,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/automated-false-positive-ban-due-to-asset-description-metadata-false-terrorism-flag/4946286.rss",
       "id": "0045623688572f98850fc0d5"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "How to unlock the Ghost Fish in Steal an Egg #stealanegg #roblox - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lNlljdkRJZ2hMVlJvdk92Q3N0R2FMSDNjRjhJRnI0SFVEOEZkT3U4SThIRkxMRkhCNm5tV21TOEVVN25yUWZ4OWtibXNLaFhSZUF5cWRsQWZVVXg5OHJZQjhBaHZsb3pqVXhTOA?oc=5",
-      "published": "2026-10-19",
-      "excerpt": "How to unlock the Ghost Fish in Steal an Egg #stealanegg #roblox TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "f6c671be070761d92d65fd3e"
     }
   ]
 }
