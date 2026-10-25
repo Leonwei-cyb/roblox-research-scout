@@ -11,39 +11,35 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import urlsplit, parse_qs
 
+import active_game
+
 ROOT = Path(__file__).resolve().parents[1]
 MEDIA = ROOT / "watch/media_state.json"
 OUT = ROOT / "watch"
 
-# High-priority current-game questions plus general Roblox signals.
+# General Roblox signal patterns. The questions shown for each live in
+# active_game.PROFILES, so a held game never gets fresh current-game tasks.
 FOCUS = {
-    "first-session and mobile": (
+    "first-session and mobile":
         r"\bonboard\w*|\btutorial\b|\bretention\b|\bleav\w*|\bmobile\b|\bphone\b|\bfirst.minute\b|\bux\b",
-        "Can a first-time phone player find and buy a desk within 20 seconds?"),
-    "physical tycoon purchases": (
+    "board game and turn flow":
+        r"\bboard.?games?\b|\bcatan\b|\bcolonists?\b|\bhex(es|agon\w*)?\b|\bturn.based\b|\bdice\b",
+    "building and purchases":
         r"\btycoon\b|\bpurchas\w*|\bconstruct\w*|\bbuild\w*|\bupgrade\w*|\bbuy\b|\bpad\b",
-        "Does buying one physical pad build a desk and cat in 0.5-1 second?"),
-    "tuition and economy": (
+    "economy and income":
         r"\btuition\b|\bincome\b|\bearn\w*|\beconom\w*|\bcoins?\b|\bcash\b|\bidle\b",
-        "Does server-earned tuition visibly increase and reveal the next expansion pad?"),
-    "UI and menus": (
+    "UI and menus":
         r"\bui\b|\bhud\b|\bshop\b|\bmenu\b|\binventory\b|\bhotbar\b|\blayout\b",
-        "Is the simple Pet Simulator-style HUD readable at desktop and 390px phone width?"),
-    "cat animation and audio": (
+    "animation and audio":
         r"\bcats?\b|\bpets?\b|\banimat\w*|\bvfx\b|\bsfx\b|\bsounds?\b|\btween\w*",
-        "Do cat movement, construction effects and sound land together in a player recording?"),
-    "world and visual design": (
+    "world and visual design":
         r"\bgrass\b|\bterrain\b|\bclassroom\b|\benvironment\b|\blighting\b|\b3d\b|\bmodels?\b",
-        "Can the player clearly see the first pad and classroom on simple blue outdoor grass?"),
-    "genres and successful loops": (
+    "genres and successful loops":
         r"\bsteal\b|\bsimulator\b|\bviral\b|\brebirth\b|\bprestige\b|\brare\b|\bhatch\b|\bclicker\b|\btrend\b",
-        "Identify the visible reward loop and confirm it through actual gameplay before testing it."),
-    "player feedback and marketing": (
+    "player feedback and marketing":
         r"\bfeedback\b|\breviews?\b|\bplayers?\b|\bads?\b|\bimpressions?\b|\bthumbnail\b|\bctr\b|\bfunnel\b",
-        "Identify an observed complaint or funnel drop-off, then test one player-facing fix."),
-    "tools and performance": (
+    "tools and performance":
         r"\bplugin\b|\bluau\b|\bscript\w*|\bperformance\b|\bserver\b|\bmemory\b|\bsecurity\b|\bstudio\b",
-        "Check license, security and real Cat Magic benefit before adopting any tool."),
 }
 HOSTS = {
     "www.youtube.com": "youtube", "youtube.com": "youtube", "youtu.be": "youtube",
@@ -101,7 +97,7 @@ def triage(items):
         signals = []
         score = 4 if kind in ("youtube", "tiktok", "instagram", "x") else (
             2 if kind in ("devforum", "reddit") else 0)
-        for label, (pattern, _) in FOCUS.items():
+        for label, pattern in FOCUS.items():
             in_title = bool(re.search(pattern, title, re.I))
             if in_title or re.search(pattern, excerpt, re.I):
                 signals.append(label)
@@ -116,8 +112,17 @@ def triage(items):
     ranked = sorted(seen.values(), key=lambda x: (-x["score"], x["key"]))
     return dict(records_read=raw, unique_posts=len(ranked), reviewed_posts=0, posts=ranked)
 
-def render(result):
+def question(game, label):
+    if game not in active_game.PROFILES:
+        return active_game.NO_GAME_QUESTION
+    return active_game.PROFILES[game]["radar"].get(label, active_game.GENERIC_QUESTION)
+
+
+def render(result, game=None):
+    """game=None (unresolved authority) keeps the leads but proposes no game tasks."""
+    name = active_game.PROFILES[game]["name"] if game in active_game.PROFILES else None
     lines = ["# Leon media learning queue (Mac research scout)", "",
+        f"Active game: **{name}**." if name else "Active game: **UNKNOWN**. No game-specific tests are proposed.", "",
         "**Metadata-only. No videos watched, posts fully read, audio heard or gameplay verified.**",
         "Every captured public lead was triaged and deduplicated; this is NOT every post",
         "on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.",
@@ -127,7 +132,8 @@ def render(result):
     counts = Counter(p["kind"] for p in result["posts"])
     lines += ["## Saved source coverage", ""]
     lines += ["- " + kind + ": " + str(n) for kind, n in sorted(counts.items())]
-    for label, (_, test) in FOCUS.items():
+    for label in FOCUS:
+        test = question(game, label)
         lines += ["", "## " + label.title(), ""]
         selected = [p for p in result["posts"] if label in p["signals"] and
                     p["kind"] != "index-only" and p["key"] not in used][:2]
@@ -144,7 +150,7 @@ def render(result):
     lines += ["", "## Evidence required to turn a candidate into learning", "",
         "1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.",
         "2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.",
-        "3. Explain WHY it matters and propose one Cat Magic test with measurable pass/fail.",
+        "3. Explain WHY it matters and propose one " + (name or "active-game") + " test with measurable pass/fail.",
         "4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.",
         "5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.", ""]
     return "\n".join(lines)
@@ -161,7 +167,8 @@ def main():
         raise ValueError("media_state.items must be a list")
     result = triage(data["items"])
     a = save(OUT / "learning_index.json", json.dumps(result, indent=2, ensure_ascii=False) + "\n")
-    b = save(OUT / "learning_queue.md", render(result) + "\n")
+    game, _ = active_game.resolve()
+    b = save(OUT / "learning_queue.md", render(result, game) + "\n")
     print("Updated" if a or b else "Unchanged", "learning radar; metadata only")
 
 if __name__ == "__main__":

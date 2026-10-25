@@ -29,15 +29,22 @@ Current testable example: [One Tower Tycoon passive rate code review](https://gi
 
 The private [Roblox Development Kit adoption record](https://github.com/Leonwei-cyb/Roblox-Development-Kit/blob/main/ADOPTION.md) tracks what we actually used versus deferred. Source links are not implementation or licensing permission.
 
-## Cat Magic research analyst and reporter
+## Active-game research analyst and reporter
 
 The existing media collector runs one bounded pipeline: media metadata -> the
 [learning radar](scripts/learning_radar.py) -> the
 [evidence-safe reporter](scripts/research_reporter.py). This is **one existing
 schedule**, not extra bots or a new daemon.
 
-- **Human report:** [watch/cat_magic_research_report.md](watch/cat_magic_research_report.md).
-- **Machine summary:** [watch/cat_magic_research_report.json](watch/cat_magic_research_report.json).
+Reports follow the ONE active game named by the Mac's shared studio-gate
+authority ([active_game.py](scripts/active_game.py); `LEON_ACTIVE_GAME` or
+`LEON_ACTIVE_GAME_FILE` override it). A missing or unrecognized authority, as on
+GitHub Actions, means **no game-specific tasks**. Held games' report files are
+left untouched as historical records, never refreshed as current work.
+
+- **Human report:** [watch/current_game_research_report.md](watch/current_game_research_report.md).
+- **Machine summary:** [watch/current_game_research_report.json](watch/current_game_research_report.json).
+- Historical, Cat Magic on hold: [watch/cat_magic_research_report.md](watch/cat_magic_research_report.md).
 - Exactly one primary-source candidate per gameplay-critical topic, with a
   concrete player-test question; unsupported topics are labeled gaps.
 - Unviewed headlines and feed excerpts never count as video/animation analysis.

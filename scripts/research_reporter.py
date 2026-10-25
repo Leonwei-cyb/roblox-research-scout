@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Evidence-safe Cat Magic research analysis and report, within the existing scout.
+"""Evidence-safe research analysis and report for the ONE active Leon game.
+
+The game comes from the shared authority (active_game.resolve). Held games keep
+their historical report files untouched; an unknown game gets no game tasks.
 
 All inputs are public feed metadata. No network, AI, video playback, window
 capture, installations, GitHub issues or changes to game code. An unviewed
@@ -13,21 +16,13 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import urlsplit
 
+import active_game
 import learning_radar
 
 ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / "watch" / "learning_index.json"
 OUTPUT = ROOT / "watch"
 
-# Actual current game acceptance questions, not hypothetical new game features.
-LANES = (
-    ("first-session and mobile", "P0", "Can a new player identify and reach the first FREE pad from the normal spawn camera?"),
-    ("physical tycoon purchases", "P0", "Does buying a pad visibly build a desk and bring a cat into the classroom?"),
-    ("cat animation and audio", "P1", "Does an arriving cat walk, sit, study and cast without clipping through the player?"),
-    ("UI and menus", "P1", "Is the next upgrade price readable without covering the cat or Roblox mobile controls?"),
-    ("tuition and economy", "P1", "Does a completed lesson produce server-owned tuition and enable the next purchase?"),
-    ("world and visual design", "P1", "Are the blue grounds, simple entrance and first classroom visible and uncluttered?"),
-)
 # Source host must match its existing normalized type, never an arbitrary web URL.
 HOSTS = {
     "youtube": {"youtube.com", "www.youtube.com", "youtu.be"},
@@ -65,8 +60,11 @@ def clean(text: object, max_length: int = 130) -> str:
     return value
 
 
-def analyze(index: dict, limit: int = 6) -> dict:
-    """Choose independent, primary-source leads, not purported gameplay insights."""
+def analyze(index: dict, game: str | None, limit: int = 6) -> dict:
+    """Choose independent, primary-source leads, not purported gameplay insights.
+
+    game=None means the active game is unknown: no lanes, no game-specific tasks.
+    """
     if not isinstance(index, dict) or not isinstance(index.get("posts"), list):
         raise ValueError("Learning index missing or invalid")
     if len(index["posts"]) > 10000 or not 1 <= limit <= 12:
@@ -85,12 +83,14 @@ def analyze(index: dict, limit: int = 6) -> dict:
         if not all(isinstance(label, str) for label in signals):
             continue
         eligible.append(p)
+    profile = active_game.PROFILES.get(game)
+    lanes = profile["lanes"] if profile else ()
     seen, used_sources, results = set(), Counter(), []
-    for lane, priority, question in LANES:
+    for lane, priority, question in lanes:
         # The learning index may assign a signal based on an excerpt alone.
         # Require the actual public TITLE to independently mention the topic;
-        # otherwise general-feed items get mislabeled as Cat Magic leads.
-        title_pattern = learning_radar.FOCUS[lane][0]
+        # otherwise general-feed items get mislabeled as active-game leads.
+        title_pattern = learning_radar.FOCUS[lane]
         candidates = [p for p in eligible if lane in p["signals"] and p["key"] not in seen
                       and used_sources[str(p.get("source", ""))] < 2
                       and re.search(title_pattern, p["title"], re.I)]
@@ -113,27 +113,36 @@ def analyze(index: dict, limit: int = 6) -> dict:
             "question_for_reviewer": question,
         })
     return {
-        "schema": "LEON_CAT_MAGIC_RESEARCH_REPORT_V1",
-        "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
+        "schema": ("LEON_" + profile["slug"].upper() + "_RESEARCH_REPORT_V1") if profile
+                  else "LEON_ACTIVE_GAME_RESEARCH_REPORT_V1",
+        "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS" if profile else "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS",
+        "active_game": profile["name"] if profile else None,
+        "held_games_not_current": [active_game.PROFILES[g]["name"] for g in active_game.held(game)],
         "input_unique_posts": len(index["posts"]),
         "original_source_candidates": len(eligible),
         "inspected_videos": 0, "observed_gameplay_findings": 0,
         "new_code_changes_authorized": False,
         "candidates": results,
-        "unfilled_topics": [lane for lane, _, _ in LANES if not any(p["topic"] == lane for p in results)],
+        "unfilled_topics": [lane for lane, _, _ in lanes if not any(p["topic"] == lane for p in results)],
     }
 
 
 def render(report: dict) -> str:
+    name = report.get("active_game")
     lines = [
-        "# Cat Magic research intelligence — evidence-gated", "",
+        "# " + (clean(name) if name else "Active game UNKNOWN") + " research intelligence — evidence-gated", "",
         "**Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**",
         "This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.", "",
         f"Indexed entries: {report['input_unique_posts']}; direct candidates: {report['original_source_candidates']};",
         "Inspected videos: **0**; verified gameplay findings: **0**.", "",
-        "## Highest-value source checks", "",
     ]
-    if not report["candidates"]:
+    if report.get("held_games_not_current"):
+        lines.extend(["On hold, NOT current work: " + ", ".join(clean(g) for g in report["held_games_not_current"])
+                      + ". Their older report files are historical only.", ""])
+    lines.extend(["## Highest-value source checks", ""])
+    if not name:
+        lines.append("The shared active-game authority was missing or unrecognized, so no game-specific checks are listed.")
+    elif not report["candidates"]:
         lines.append("No eligible first-party/original leads. Research quality needs improvement before making recommendations.")
     for p in report["candidates"]:
         lines.extend([
@@ -145,7 +154,7 @@ def render(report: dict) -> str:
         lines.extend("- " + clean(topic) + ": no qualifying original/source-linked candidate" for topic in report["unfilled_topics"])
     lines.extend(["", "## Required before a verified improvement", "",
         "1. Inspect the original permitted source and record actual time-coded observations, creator, usage rights and uncertainty.",
-        "2. Compare the observation to the **existing** Cat Magic first-session defect and choose ONE measurable code/scene change.",
+        "2. Compare the observation to an **existing** " + (clean(name) if name else "active-game") + " defect and choose ONE measurable code/scene change.",
         "3. Codex works on an isolated branch; test Luau and normal-player Studio input with evidence before merging.",
         "4. Do not copy proprietary models, import untrusted scripts, or treat a screen capture alone as proof a video was watched.",
         "5. Peekaboo and full-video analysis remain separate, opt-in Mac verification gates; no Mac screenshots are uploaded here.", ""])
@@ -166,12 +175,20 @@ def main() -> None:
     if INDEX.stat().st_size > 8_000_000:
         raise ValueError("Learning index exceeds limit")
     index = json.loads(INDEX.read_text(encoding="utf-8"))
-    report = analyze(index)
-    written = [
-        save(OUTPUT / "cat_magic_research_report.json", json.dumps(report, indent=2, ensure_ascii=False) + "\n"),
-        save(OUTPUT / "cat_magic_research_report.md", render(report) + "\n"),
-    ]
-    print("Updated" if any(written) else "Unchanged", "evidence-safe Cat Magic research report")
+    game, authority = active_game.resolve()
+    report = analyze(index, game)
+    report["authority"] = authority
+    body_json = json.dumps(report, indent=2, ensure_ascii=False) + "\n"
+    body_md = render(report) + "\n"
+    written = [save(OUTPUT / "current_game_research_report.json", body_json),
+               save(OUTPUT / "current_game_research_report.md", body_md)]
+    if game:
+        # Held games' files are never touched, so they stay as historical records.
+        slug = active_game.PROFILES[game]["slug"]
+        written += [save(OUTPUT / (slug + "_research_report.json"), body_json),
+                    save(OUTPUT / (slug + "_research_report.md"), body_md)]
+    print("Updated" if any(written) else "Unchanged", "evidence-safe research report for",
+          report["active_game"] or "UNKNOWN active game", "(" + authority + ")")
 
 
 if __name__ == "__main__":

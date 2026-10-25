@@ -58,7 +58,7 @@ class LearningRadarTests(unittest.TestCase):
     def test_proposed_test_does_not_claim_video_watched(self):
         result = triage([{"url": "https://www.youtube.com/watch?v=KB5iAzy86Fo",
                           "title": "Roblox tycoon animation"}])
-        body = render(result)
+        body = render(result, "cat-magic")
         self.assertIn("unviewed metadata", body.lower())
         self.assertIn("No videos watched", body)
         self.assertIn("0.5-1 second", body)
@@ -71,8 +71,9 @@ class LearningRadarTests(unittest.TestCase):
 
     def test_signal_focus_is_broad_but_game_first(self):
         self.assertIn("first-session and mobile", FOCUS)
-        self.assertIn("physical tycoon purchases", FOCUS)
-        self.assertIn("cat animation and audio", FOCUS)
+        self.assertIn("building and purchases", FOCUS)
+        self.assertIn("board game and turn flow", FOCUS)
+        self.assertIn("animation and audio", FOCUS)
 
     def test_render_deterministic_independent_of_ingestion_order(self):
         items = [{"url": "https://devforum.roblox.com/t/a/1", "title": "mobile tutorial"},

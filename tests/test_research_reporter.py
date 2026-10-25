@@ -1,4 +1,4 @@
-"""Offline tests for the source-linked Cat Magic analyst and reporter."""
+"""Offline tests for the source-linked analyst and reporter (Cat Magic profile)."""
 import json
 import sys
 import tempfile
@@ -7,7 +7,10 @@ from pathlib import Path
 from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+import active_game
 import research_reporter as r
+
+CAT = active_game.PROFILES["cat-magic"]["lanes"]
 
 YT = "https://youtube.com/watch?v=ABCDEFGHIJK"
 DF = "https://devforum.roblox.com/t/a/4946218"
@@ -19,15 +22,22 @@ def row(key, url, kind, topic, *, score=9, source="firsthand", title="Roblox tyc
             "signals": [topic]}
 
 
+def _analyze_cat(index, limit=6):
+    return r.analyze(index, "cat-magic", limit)
+
+
+r.analyze_cat = _analyze_cat
+
+
 class ResearchReporterTests(unittest.TestCase):
     def test_original_and_relevance(self):
-        d = {"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube", "physical tycoon purchases")]}
-        out = r.analyze(d)
+        d = {"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube", "building and purchases")]}
+        out = r.analyze_cat(d)
         self.assertEqual(out["status"], "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS")
         self.assertEqual(out["inspected_videos"], 0)
         self.assertEqual(out["observed_gameplay_findings"], 0)
         self.assertEqual(len(out["candidates"]), 1)
-        self.assertEqual(out["candidates"][0]["question_for_reviewer"], r.LANES[1][2])
+        self.assertEqual(out["candidates"][0]["question_for_reviewer"], CAT[1][2])
         self.assertFalse(out["new_code_changes_authorized"])
 
     def test_blocks_index_redirect_and_spoofed_evidence(self):
@@ -36,7 +46,7 @@ class ResearchReporterTests(unittest.TestCase):
             row("youtube:ABCDEFGHIJK", YT, "youtube", "UI and menus", title="Studio footage"),
         ]
         entries[-1]["evidence"] = "VERIFIED"
-        out = r.analyze({"posts": entries})
+        out = r.analyze_cat({"posts": entries})
         self.assertEqual(out["candidates"], [])
         self.assertIn("UI and menus", out["unfilled_topics"])
 
@@ -54,29 +64,29 @@ class ResearchReporterTests(unittest.TestCase):
 
     def test_deterministic_rank_and_dedup(self):
         one = row("youtube:ABCDEFGHIJK", YT, "youtube", "first-session and mobile", score=17, title="Mobile tycoon onboarding")
-        one["signals"].append("physical tycoon purchases")
-        two = row("devforum:4946218:1", DF, "devforum", "physical tycoon purchases", score=10)
-        a = r.analyze({"posts": [two, one]})
-        b = r.analyze({"posts": [one, two]})
+        one["signals"].append("building and purchases")
+        two = row("devforum:4946218:1", DF, "devforum", "building and purchases", score=10)
+        a = r.analyze_cat({"posts": [two, one]})
+        b = r.analyze_cat({"posts": [one, two]})
         self.assertEqual(a, b)
         self.assertEqual(len(a["candidates"]), 2)
         self.assertEqual(a["candidates"][0]["key"], "youtube:ABCDEFGHIJK")
         self.assertEqual(a["candidates"][1]["key"], "devforum:4946218:1")
 
     def test_spam_rejected_and_hard_limit(self):
-        a = row("youtube:ABCDEFGHIJK", YT, "youtube", "physical tycoon purchases",
+        a = row("youtube:ABCDEFGHIJK", YT, "youtube", "building and purchases",
                 title="FREE ROBUX giveaway")
-        self.assertEqual(r.analyze({"posts": [a]})["candidates"], [])
+        self.assertEqual(r.analyze_cat({"posts": [a]})["candidates"], [])
         with self.assertRaises(ValueError):
-            r.analyze({"posts": [a] * 10001})
+            r.analyze_cat({"posts": [a] * 10001})
         with self.assertRaises(ValueError):
-            r.analyze({"posts": []}, limit=99)
+            r.analyze_cat({"posts": []}, limit=99)
         with self.assertRaises(ValueError):
-            r.analyze({"posts": "invalid"})
+            r.analyze_cat({"posts": "invalid"})
 
     def test_report_is_not_false_watched_claim(self):
-        d = r.analyze({"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube",
-                                     "physical tycoon purchases")]})
+        d = r.analyze_cat({"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube",
+                                     "building and purchases")]})
         md = r.render(d)
         self.assertIn("No video watched", md)
         self.assertIn("UNVIEWED_METADATA", md)
@@ -85,7 +95,7 @@ class ResearchReporterTests(unittest.TestCase):
     def test_markdown_sanitized(self):
         p = row("devforum:4946218:1", DF, "devforum", "UI and menus",
                 title="Roblox UI Hi [skip](https://evil.example) <tag>")
-        out = r.render(r.analyze({"posts": [p]}))
+        out = r.render(r.analyze_cat({"posts": [p]}))
         self.assertNotIn("[skip](https://evil.example)", out)
         self.assertIn(r"\[skip\]", out)
         self.assertIn(r"\<tag\>", out)
@@ -94,10 +104,10 @@ class ResearchReporterTests(unittest.TestCase):
         leads = [
             row("youtube:ABCDEFGHIJK", YT, "youtube", "first-session and mobile",
                 title="Server Animation Memory leaks continuously"),
-            row("devforum:4946218:1", DF, "devforum", "tuition and economy",
+            row("devforum:4946218:1", DF, "devforum", "economy and income",
                 title="Makeup Now Available for In-Experience Creation"),
         ]
-        self.assertEqual(r.analyze({"posts": leads})["candidates"], [])
+        self.assertEqual(r.analyze_cat({"posts": leads})["candidates"], [])
 
     def test_excerpt_stuffing_cannot_out_rank_stronger_title(self):
         clear = row("youtube:ABCDEFGHIJK", YT, "youtube", "UI and menus",
@@ -106,7 +116,7 @@ class ResearchReporterTests(unittest.TestCase):
                       "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
                       "youtube", "UI and menus", score=100,
                       title="Roblox UI")
-        chosen = r.analyze({"posts": [stuffed, clear]})["candidates"]
+        chosen = r.analyze_cat({"posts": [stuffed, clear]})["candidates"]
         self.assertEqual(len(chosen), 1)
         self.assertEqual(chosen[0]["key"], "youtube:ABCDEFGHIJK")
 
@@ -116,14 +126,14 @@ class ResearchReporterTests(unittest.TestCase):
         source = Path(__file__).resolve().parents[1] / "watch" / "media_state.json"
         raw = json.loads(source.read_text(encoding="utf-8"))
         index = learning_radar.triage(raw["items"])
-        report = r.analyze(index)
+        report = r.analyze_cat(index)
         self.assertLessEqual(len(report["candidates"]), 6)
         self.assertEqual(report["observed_gameplay_findings"], 0)
         self.assertEqual(len({x["key"] for x in report["candidates"]}),
                          len(report["candidates"]))
         for item in report["candidates"]:
             self.assertRegex(item["title"], re.compile(
-                learning_radar.FOCUS[item["topic"]][0], re.I))
+                learning_radar.FOCUS[item["topic"]], re.I))
             self.assertEqual(item["stage"], "UNVIEWED_METADATA")
 
     def test_idempotent_write(self):
@@ -134,12 +144,13 @@ class ResearchReporterTests(unittest.TestCase):
             self.assertTrue(r.save(dest, "two"))
 
     def test_main_writes_both_reports_offline(self):
-        data = {"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube", "physical tycoon purchases")]}
+        data = {"posts": [row("youtube:ABCDEFGHIJK", YT, "youtube", "building and purchases")]}
         with tempfile.TemporaryDirectory() as td:
             root = Path(td)
             (root / "watch").mkdir()
             (root / "watch" / "learning_index.json").write_text(json.dumps(data), encoding="utf-8")
-            with patch.object(r, "INDEX", root / "watch" / "learning_index.json"), \
+            with patch.dict("os.environ", {"LEON_ACTIVE_GAME": "cat-magic"}), \
+                 patch.object(r, "INDEX", root / "watch" / "learning_index.json"), \
                  patch.object(r, "OUTPUT", root / "watch"):
                 r.main()
             out = json.loads((root / "watch" / "cat_magic_research_report.json").read_text())
