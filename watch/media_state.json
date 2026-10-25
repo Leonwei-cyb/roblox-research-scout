@@ -1236,7 +1236,16 @@
     "ebd32ae4228a5a9ef6b2fb75",
     "b5c9ec5d1b5f2dcc838e4e02",
     "5ca45b8bc084728c93b71b9c",
-    "201ca5af2d319478857db76d"
+    "201ca5af2d319478857db76d",
+    "146f20d32e5a047e6bd3f2c8",
+    "b40c1270fff3ec2708dd60d1",
+    "14a3af19c4c20f3571894436",
+    "92636ba370fce2325aee7838",
+    "6cb03e6952c4e85c2811d082",
+    "1f8d64ec4899ce15b0b02689",
+    "d032563226a7c2a82f149a90",
+    "57c670e73e91e3e08c775616",
+    "b0eae4ce960b8089c5feb00d"
   ],
   "items": [
     {
@@ -1522,6 +1531,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I’m bringing back a Roblox security project I spent months on, would you use something like this?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfdw25/im_bringing_back_a_roblox_security_project_i/",
+      "published": "2026-10-25",
+      "excerpt": "Hey, I’m the person behind RoAtlas. Which you Definity haven't heard of yet, but i hope to make that change. I started building it because I kept thinking about how much useful information a Roblox game server can see, and how hard it can be for a developer or moderator to put all that information t",
+      "creator": "/u/Late-Midnight7327 https://www.reddit.com/user/Late-Midnight7327",
+      "id": "d032563226a7c2a82f149a90"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "[HIRING]GFX Artist for Dino Stampede Thumbnails",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xexhe2/hiringgfx_artist_for_dino_stampede_thumbnails/",
       "published": "2026-10-25",
@@ -1664,6 +1684,18 @@
       "excerpt": "Solo dev here. I've been building a 4-player co-op horde survival (think Vampire Survivors with creature companions that auto-fight). The hardest part so far was performance: each horde enemy is a single anchored part on the server (no Humanoids), moved with cheap spatial-hash separation so the swar",
       "creator": "/u/CritterForgeStudio https://www.reddit.com/user/CritterForgeStudio",
       "id": "b5c9ec5d1b5f2dcc838e4e02"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Sun Animator - Timelines, Snapping,IK,FK, Physics And More!",
+      "url": "https://devforum.roblox.com/t/sun-animator-timelines-snappingikfk-physics-and-more/4957550",
+      "published": "2026-10-25",
+      "excerpt": "SUN EDITOR Why Sun Editor Many other great animators exist such as Moon And Eclipse yet all of them are quite expensive and with the recent trend of reverse engineering existing stuff i decided to have a go and make an animator with all the features of the popular ones and release it for free with t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sun-animator-timelines-snappingikfk-physics-and-more/4957550.rss",
+      "id": "b40c1270fff3ec2708dd60d1"
     },
     {
       "source": "reddit-robloxdev",
@@ -1814,6 +1846,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-name-wouldnt-save/4957130.rss",
       "id": "92c0a6b7c0321e4293a85467"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox studio Still freeze up when try to Playtest",
+      "url": "https://devforum.roblox.com/t/roblox-studio-still-freeze-up-when-try-to-playtest/4957455",
+      "published": "2026-10-25",
+      "excerpt": "So i did actually post a post before but i think it got ignored. so basicly, what is happening is that i only can playtest once, or no playtest, and just freezes the studio, everything. heres proof of what is happening: https://youtu.be/TfHF7EVf4gg i will very pleased if someone tells me what is goi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-studio-still-freeze-up-when-try-to-playtest/4957455.rss",
+      "id": "92636ba370fce2325aee7838"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2010,6 +2054,17 @@
       "id": "6d369623c79328a4caa2a74f"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I’m tired of Slop Ai games and want to do something about it",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfcomt/im_tired_of_slop_ai_games_and_want_to_do/",
+      "published": "2026-10-25",
+      "excerpt": "I’ve been playing Roblox since i was 6 and i’m 22, I have a stable job and love to play games on my down time, especially with my siblings. That being said i’m tired of all these steal A blank/ brain rot games. I have a younger sibling and occasionally will play with them it just doesn’t hit the sam",
+      "creator": "/u/Educational_Team1515 https://www.reddit.com/user/Educational_Team1515",
+      "id": "6cb03e6952c4e85c2811d082"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2122,6 +2177,17 @@
       "excerpt": "Hi everyone! As required by the community guidelines, I am tagging this post as [Looking for Devs] and explicitly stating that this is an UNPAID request for volunteer alpha testers. I am not hiring or paying for development work at this time. I published a competitive shooter (Deathmatch subgenre) l",
       "creator": "/u/leandroaaa6 https://www.reddit.com/user/leandroaaa6",
       "id": "5ca45b8bc084728c93b71b9c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for devs for my upcoming project",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfdfwk/looking_for_devs_for_my_upcoming_project/",
+      "published": "2026-10-25",
+      "excerpt": "I will need: Scripters- Animators- Conceptors? Map builders and modelers. Visual effects artist I can do most things with time (i cant script) . This is my first game and ive never done this before, i am inexperienced. I dont have a group but i willing to pay you when i get one if it makes anything ",
+      "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
+      "id": "57c670e73e91e3e08c775616"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2470,6 +2536,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I made a Halloween raid where the whole server fights the Headless Horseman every hour",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfe6rm/i_made_a_halloween_raid_where_the_whole_server/",
+      "published": "2026-10-25",
+      "excerpt": "submitted by /u/Superb-Gap7952 [link] [comments]",
+      "creator": "/u/Superb-Gap7952 https://www.reddit.com/user/Superb-Gap7952",
+      "id": "1f8d64ec4899ce15b0b02689"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Uswen Kingdom Infantry and Officer",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xep4g2/uswen_kingdom_infantry_and_officer/",
       "published": "2026-10-25",
@@ -2488,6 +2565,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/track-your-robux-like-a-stock-robux-pl-an-open-source-earnings-dashboard/4955785.rss",
       "id": "19721250e5b18012d8cf972a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Need honest feedback of my first game, Gacha Garden",
+      "url": "https://devforum.roblox.com/t/need-honest-feedback-of-my-first-game-gacha-garden/4957524",
+      "published": "2026-10-25",
+      "excerpt": "Hello everyone! I’m Paco Barba, and exactly one week ago, I released my first game on Roblox. I’ve programmed video games before, but this was my first time doing so on Roblox. Let me introduce you to Gacha Garden . It might look like a typical farming/cultivation game, but it includes some interest",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-honest-feedback-of-my-first-game-gacha-garden/4957524.rss",
+      "id": "14a3af19c4c20f3571894436"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Remove the UV Bounds Requirement for UGCs",
+      "url": "https://devforum.roblox.com/t/remove-the-uv-bounds-requirement-for-ugcs/4957576",
+      "published": "2026-10-25",
+      "excerpt": "as a Community Owner of many UGC Creators, i have been getting reports of people getting errors regarding their UVs see https://devforum.roblox.com/t/ugc-publishing-requirement-that-was-not-announced/4956877 as you can see in the picture below , extending the uvs beyond the [0, 1] range allows peopl",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/remove-the-uv-bounds-requirement-for-ugcs/4957576.rss",
+      "id": "146f20d32e5a047e6bd3f2c8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8102,98 +8203,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-pixelation-filter/4946328.rss",
       "id": "f95b5ef9b2f9d34e527a6f55"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Appeal workflow recursively leaves users unable to recieve an appeal verdict",
-      "url": "https://devforum.roblox.com/t/appeal-workflow-recursively-leaves-users-unable-to-recieve-an-appeal-verdict/4947085",
-      "published": "2026-10-20",
-      "excerpt": "On October 7th, 2026, my account was terminated and closed, giving me 30 days to appeal as that is the reasonable window Roblox has applied under my jurisdiction. This post is NOT about me discussing the termination or its details. The violation provided on Roblox’s Violation’s and Appeals page redi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/appeal-workflow-recursively-leaves-users-unable-to-recieve-an-appeal-verdict/4947085.rss",
-      "id": "f68efdd9eb5cb48d2826eca4"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for feedback on this Roblox Dungeon Crawler",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xatx0h/looking_for_feedback_on_this_roblox_dungeon/",
-      "published": "2026-10-20",
-      "excerpt": "Title says it all just looking for some feedback. It would be much appreciated!:) https://www.roblox.com/share?code=f86a1bd5e347804488be8f6ab9d09a00&type=ExperienceDetails&stamp=1792507190391 submitted by /u/ReflectionSudden8823 [link] [comments]",
-      "creator": "/u/ReflectionSudden8823 https://www.reddit.com/user/ReflectionSudden8823",
-      "id": "f0d8581be514ddac513f40d4"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Busco gente que pueda jugar mi juego dentro de roblox.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb3hh1/busco_gente_que_pueda_jugar_mi_juego_dentro_de/",
-      "published": "2026-10-20",
-      "excerpt": "Supuestamente neceito 250 personas en mi juego, me gustaría que pudieran probar e opinar:)) submitted by /u/Previous-Wheel-3064 [link] [comments]",
-      "creator": "/u/Previous-Wheel-3064 https://www.reddit.com/user/Previous-Wheel-3064",
-      "id": "f04c8c8a12b84221aea90001"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UGC Particles feature",
-      "url": "https://devforum.roblox.com/t/ugc-particles-feature/4946397",
-      "published": "2026-10-20",
-      "excerpt": "i think that UGC should be allowed to have particles in them BUT not custom ones because that could easily get out of hand or be abused by bad actors ideas for implementation: allow UGC creators to use particles that are found on existing hats either just broadly or from a curated list (there isnt a",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ugc-particles-feature/4946397.rss",
-      "id": "efe828bdff61a8402899067e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "New Roblox Game Inspired by Warcraft 3 – Sheep Tag!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xak88c/new_roblox_game_inspired_by_warcraft_3_sheep_tag/",
-      "published": "2026-10-20",
-      "excerpt": "Hey everyone! 🐑 My partner has been spending a lot of time creating his own Roblox game called Sheep Tag, and I wanted to share it here! It's inspired by an old Warcraft 3 mod, but he's been putting his own spin on it with custom 3D models, environments and gameplay. You can play as a Runner, buildi",
-      "creator": "/u/TildaNova https://www.reddit.com/user/TildaNova",
-      "id": "ec692ba7d89c1a183b0c89fb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Players Sliding Off Rotating Platforms",
-      "url": "https://devforum.roblox.com/t/players-sliding-off-rotating-platforms/4946734",
-      "published": "2026-10-20",
-      "excerpt": "HiHi!! Im having an issue in my game where my character slowly slides off platforms that rotate around a fixed point ( or move in general ) and im looking for a simple fix for it. Im experiencing this with two types of moving platforms: 1. Physics-based platforms These platforms rotate using physics",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/players-sliding-off-rotating-platforms/4946734.rss",
-      "id": "ebcd4635c8b48c9c9c676a13"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[HIRING] 2D Artist for Cartoon-Style Game Icons",
-      "url": "https://devforum.roblox.com/t/hiring-2d-artist-for-cartoon-style-game-icons/4946741",
-      "published": "2026-10-20",
-      "excerpt": "I’m looking for a 2D artist to create a series of cartoon-style icons. If interested, please contact me with your portfolio, pricing, and estimated turnaround time. Examples of previous work are preferred. Payment will be discussed based on the scope of the commission. 1 post - 1 participant Read fu",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hiring-2d-artist-for-cartoon-style-game-icons/4946741.rss",
-      "id": "eb52f98c8e2d060f53e9d411"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is there some obvious problem with my game?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaofta/is_there_some_obvious_problem_with_my_game/",
-      "published": "2026-10-20",
-      "excerpt": "https://www.roblox.com/games/112468607238410/Ant-Incremental Hi everyone, I feel like my game is doing really poorly stats-wise especially for its genre, it might be cause it’s more of a niche genre or there could just something fundamentally wrong with my game The average playtime since release flu",
-      "creator": "/u/Accurate-Arugula7956 https://www.reddit.com/user/Accurate-Arugula7956",
-      "id": "ea6bf55efaa0149e2a6ff21e"
     }
   ]
 }

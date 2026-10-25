@@ -22,5 +22,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[how do I subdivide parts like in the images?? is there a plugin that can do that?](https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/)** — Public text/page, video not confirmed
-- **[Merge Toolbox into the Asset Manager](https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844)** — Public text/page, video not confirmed
+- **[Roblox studio Still freeze up when try to Playtest](https://devforum.roblox.com/t/roblox-studio-still-freeze-up-when-try-to-playtest/4957455)** — Public text/page, video not confirmed
 - **[Looking for playtest opportunities (unpaid or robux payed)](https://www.reddit.com/r/ROBLOXStudio/comments/1xeelwy/looking_for_playtest_opportunities_unpaid_or/)** — Public text/page, video not confirmed
