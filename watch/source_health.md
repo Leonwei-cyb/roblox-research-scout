@@ -23,7 +23,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - roblox-animation-showcases: 1
 - tizzy-roblox-design: 0
 - syphodev-claude: 12
-- youtube-UCjiPEaapiHbJMoAdi_L8fNA: 12
+- youtube-UC1g8RAPLVidtYUzZFFiX2GA: 11
 
 ## Deferred feeds — retry after temporary cooldown
 
@@ -31,5 +31,5 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 ## Failures (not silently skipped)
 
-- youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
-- youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 500
+- youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 404
+- youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 404

@@ -1123,7 +1123,14 @@
     "28ce02f2e543761a912d2073",
     "dfec70eb65ae42412f6ca4bd",
     "57e4908034f68b4a68f6bbbf",
-    "ff57dcb8465ed1ac45198d2c"
+    "ff57dcb8465ed1ac45198d2c",
+    "726c098689cbde9114c0fbc9",
+    "346442c07c0479bbfbfa0594",
+    "319982bfb52cfee23d8ee59d",
+    "512b3810493ce59c79692084",
+    "f960ec8d9c314df19d4807c3",
+    "9a7a081b30316f413ee871c6",
+    "7fb6520b2d187a042b0cb240"
   ],
   "items": [
     {
@@ -1137,6 +1144,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795.rss",
       "id": "ff57dcb8465ed1ac45198d2c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Object Alighment Produces Noticable Errors",
+      "url": "https://devforum.roblox.com/t/object-alighment-produces-noticable-errors/4955804",
+      "published": "2026-10-25",
+      "excerpt": "Recently, with one of the updates, moving objects, even with a grid increment selected, doesn’t align objects perfectly. Here is a example of it. It used to be that when you moved items, the edges would be perfectly flush, but now base parts of any type will not align with each other. I have tried a",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/object-alighment-produces-noticable-errors/4955804.rss",
+      "id": "f960ec8d9c314df19d4807c3"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1197,6 +1216,17 @@
       "id": "a8a7a4001ae74f8a3b89bc23"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Showcasing a few things in my game so far (super early WIP)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeql0z/showcasing_a_few_things_in_my_game_so_far_super/",
+      "published": "2026-10-25",
+      "excerpt": "Hey guys!! Currently working on a medical horror game set in 1806-1807. The premise is that you work as a nurse or medic just before the British bombardment, and once that happens, you start to notice irregularities in symptoms and realise that zombies have begun to infect people all over the world,",
+      "creator": "/u/TheLoveRiddle https://www.reddit.com/user/TheLoveRiddle",
+      "id": "9a7a081b30316f413ee871c6"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1212,12 +1242,71 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Kind developer of roblox",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeq2n0/kind_developer_of_roblox/",
+      "published": "2026-10-25",
+      "excerpt": "How do you get your sound effect for your games i mean there has to be a website for sound effects such as horror door closing or some sht like it submitted by /u/Broad_Reflection9452 [link] [comments]",
+      "creator": "/u/Broad_Reflection9452 https://www.reddit.com/user/Broad_Reflection9452",
+      "id": "7fb6520b2d187a042b0cb240"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "I need advice on player retention",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/",
       "published": "2026-10-25",
       "excerpt": "I recently made a game called Knife Ability Arena, https://www.roblox.com/games/80673277702360/Knife-Ability-Arena I'm trying with ads but I feel like the ads don't bring in enough players at once to keep even like one full server alive like its almost constantly at 0ccu. How do I get over that init",
       "creator": "/u/Unhappy_Sprinkles_93 https://www.reddit.com/user/Unhappy_Sprinkles_93",
       "id": "79af9ccd4490a4cc594912e6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Users are creating forum posts in Development-Discussion claiming the assistant is generating nonsense.",
+      "url": "https://devforum.roblox.com/t/users-are-creating-forum-posts-in-development-discussion-claiming-the-assistant-is-generating-nonsense/4955865",
+      "published": "2026-10-25",
+      "excerpt": "I’m not sure if these are just troll posts, they never post their full context or seem to have any intent on actually solving the problem. So I’m making a report to bring attention to it, as it might just be a prank-meme, but I’ve never had these problems and I find it odd that multiple other people",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/users-are-creating-forum-posts-in-development-discussion-claiming-the-assistant-is-generating-nonsense/4955865.rss",
+      "id": "726c098689cbde9114c0fbc9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Merge Toolbox into the Asset Manager",
+      "url": "https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844",
+      "published": "2026-10-25",
+      "excerpt": "As a Roblox developer, it’s annoying to open up two separate plugins to access the creator store, and my inventory. Some users have noticed that Roblox has already begun the process of deprecating the Toolbox Inventory tab, and prompting users to use Asset Manager instead. I believe this should be t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844.rss",
+      "id": "512b3810493ce59c79692084"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Open Source] Nerp - smooth 20hz server updates on a 60hz client",
+      "url": "https://devforum.roblox.com/t/open-source-nerp-smooth-20hz-server-updates-on-a-60hz-client/4955859",
+      "published": "2026-10-25",
+      "excerpt": "I just finished working on Nerp, a simple module that interpolates server driven transforms on the client. If you move a part on the server, client get its it at about 20 times a second but draws 60+, so it steps, the usual fix is to set the CFrame on the client and do the smoothing manually, but th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-source-nerp-smooth-20hz-server-updates-on-a-60hz-client/4955859.rss",
+      "id": "346442c07c0479bbfbfa0594"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Texture resolution 1378x1378 px found in Emissive Mask Content Despite it's 1024",
+      "url": "https://devforum.roblox.com/t/texture-resolution-1378x1378-px-found-in-emissive-mask-content-despite-its-1024/4955846",
+      "published": "2026-10-25",
+      "excerpt": "Despite my texture is 1024 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/texture-resolution-1378x1378-px-found-in-emissive-mask-content-despite-its-1024/4955846.rss",
+      "id": "319982bfb52cfee23d8ee59d"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8016,85 +8105,6 @@
       "excerpt": "hii! one of my local malls that hadn’t changed since the 80s had recently undergone modernization projects so i thought itd be nice to preserve its original classic look the best way i knew to:) https://www.roblox.com/share?code=a13d0edd49e679478f1376ca6e2b4c35&type=ExperienceDetails&stamp=179251923",
       "creator": "/u/euka18 https://www.reddit.com/user/euka18",
       "id": "093f6782aff2a775cd65cd97"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "made it using larpings in one prompt",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xamygt/made_it_using_larpings_in_one_prompt/",
-      "published": "2026-10-20",
-      "excerpt": "submitted by /u/simple_concuisness [link] [comments]",
-      "creator": "/u/simple_concuisness https://www.reddit.com/user/simple_concuisness",
-      "id": "088b26650178f5addea5a5a7"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "i made a platform, but it reminds me of a symbol that i cannot recall the meaning of (NSFW because idk if the symbol means something bad or not)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb5rq5/i_made_a_platform_but_it_reminds_me_of_a_symbol/",
-      "published": "2026-10-20",
-      "excerpt": "what i made the symbol in question does anybody know the meaning of this symbol? i just wanna make sure i am not about to make something with a controversial symbol in it. is it a flag? is it a zodiac? i don't know what it is, but damn its super familiar submitted by /u/legendOHguy [link] [comments]",
-      "creator": "/u/legendOHguy https://www.reddit.com/user/legendOHguy",
-      "id": "05de7709ea251d7c985aa4d8"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "how to actually get ur first players?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaln5m/how_to_actually_get_ur_first_players/",
-      "published": "2026-10-20",
-      "excerpt": "created my first game and i got no idea where to get my first players need help and suggestions:( submitted by /u/Automatic_Tooth2336 [link] [comments]",
-      "creator": "/u/Automatic_Tooth2336 https://www.reddit.com/user/Automatic_Tooth2336",
-      "id": "03f08a04fb6836b5bb1bb9cd"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "what can i add to my game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xan00c/what_can_i_add_to_my_game/",
-      "published": "2026-10-20",
-      "excerpt": "so i am not in a good situation and i would need some testers for my game i am desperate need of robux and i know i used AI but i did the modeling. link : https://www.roblox.com/games/91258748750969/ also i am forced to use flairs so dont take it seriously submitted by /u/ducky5265352 [link] [commen",
-      "creator": "/u/ducky5265352 https://www.reddit.com/user/ducky5265352",
-      "id": "03b410bb492efa550cf798f6"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox Islands / Skyblock players: I'm building a new floating-island game with automation! 🏝️",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaxb3y/roblox_islands_skyblock_players_im_building_a_new/",
-      "published": "2026-10-20",
-      "excerpt": "One of my favourite things about games like Roblox Islands and Skyblock was starting with almost nothing and gradually turning a tiny island into something massive, with automation! :) That's the feeling I'm trying to capture with Skyhaven , a Roblox game I've been developing. The idea is to start w",
-      "creator": "/u/Competitive_Pie_5394 https://www.reddit.com/user/Competitive_Pie_5394",
-      "id": "037f079dceeda547684acb0d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "HELP! help with setting position only once for my gun",
-      "url": "https://devforum.roblox.com/t/help-help-with-setting-position-only-once-for-my-gun/4945721",
-      "published": "2026-10-20",
-      "excerpt": "rightArm = the Right Shoulder motor6d in the torso AimCF is connected to the gun which is connected to the right arm instance right here i set the C0 twice that way i can get my gun into a position where it’s aiming down the sights aka AimCF. i really would like to turn this into one thing that way ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/help-help-with-setting-position-only-once-for-my-gun/4945721.rss",
-      "id": "0140773c799b251d082930e7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Automated false positive ban due to asset description metadata (False Terrorism flag)",
-      "url": "https://devforum.roblox.com/t/automated-false-positive-ban-due-to-asset-description-metadata-false-terrorism-flag/4946286",
-      "published": "2026-10-20",
-      "excerpt": "My friend’s account vDenamed was recently permanently terminated due to an automated false-positive moderation flag on UGC asset descriptions. The system incorrectly flagged technical/contact metadata strings (such as bloodsigns or specific collaborator tags) within item descriptions as “Terrorism /",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/automated-false-positive-ban-due-to-asset-description-metadata-false-terrorism-flag/4946286.rss",
-      "id": "0045623688572f98850fc0d5"
     }
   ]
 }

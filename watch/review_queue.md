@@ -22,5 +22,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Drifters is coming soon. join the community now to playtest. sweet dreams 😈](https://www.youtube.com/shorts/RvYLhEOcMJY)** — Original media link, not watched
-- **[Creator Store accepts plugins that use CreateAssetAsync, but the API always fails for users who install them](https://devforum.roblox.com/t/creator-store-accepts-plugins-that-use-createassetasync-but-the-api-always-fails-for-users-who-install-them/4955322)** — Public text/page, video not confirmed
+- **[Merge Toolbox into the Asset Manager](https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844)** — Public text/page, video not confirmed
 - **[Looking for playtest opportunities (unpaid or robux payed)](https://www.reddit.com/r/ROBLOXStudio/comments/1xeelwy/looking_for_playtest_opportunities_unpaid_or/)** — Public text/page, video not confirmed
