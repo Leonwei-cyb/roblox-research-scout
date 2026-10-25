@@ -6,7 +6,6 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 
 - **[From a gray island to a colorful planet — BUILD A PLANET! beta showcase 🌎](https://www.reddit.com/r/robloxgamedev/comments/1xajnr7/from_a_gray_island_to_a_colorful_planet_build_a/)** — Community showcase post (video not confirmed) · 2026-10-20
 - **[Kinda getting tired of building so got into animation](https://www.reddit.com/r/ROBLOXStudio/comments/1xdt1yv/kinda_getting_tired_of_building_so_got_into/)** — Community showcase post (video not confirmed) · 2026-10-23
-- **[Looking for playtesters for our new Roblox game](https://www.reddit.com/r/ROBLOXStudio/comments/1xaz17k/looking_for_playtesters_for_our_new_roblox_game/)** — Community showcase post (video not confirmed) · 2026-10-20
 - **[Looking for Playtesters! Pixel Anime MMO](https://www.reddit.com/r/ROBLOXStudio/comments/1xbp52f/looking_for_playtesters_pixel_anime_mmo/)** — Community showcase post (video not confirmed) · 2026-10-21
 - **[My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please](https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/)** — Community showcase post (video not confirmed) · 2026-10-22
 - **[Roblox rolling animation keeps falling over](https://www.reddit.com/r/ROBLOXStudio/comments/1xd927m/roblox_rolling_animation_keeps_falling_over/)** — Community showcase post (video not confirmed) · 2026-10-23

@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "7f67975143a6dc6fe7400c56208ff878ce6c3272",
-      "head_subject": "Add Abdullah to CREDITS.md (#9503)",
+      "head": "bc962e9aad024023208634b1b57f078a3d47922b",
+      "head_subject": "fix: escape labels during JSON import and render tag dropdown as text (#9504)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "058abcdaf4d398164df78181cd1499c395c816df",
-      "head_subject": "Update Brotli library specifics",
+      "head": "c21513aff741291d116a96ff02194541f95cc887",
+      "head_subject": "Update pydantic requirement from <3.0,>=2.14.0 to >=2.14.1,<3.0 (#4591)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.9",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
