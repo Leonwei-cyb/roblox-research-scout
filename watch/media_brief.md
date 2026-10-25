@@ -7,15 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Have you ever recreated evolution?](https://www.reddit.com/r/ROBLOXStudio/comments/1xeqyma/have_you_ever_recreated_evolution/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
-  - Feed excerpt: Yeah that's what I'm doing, might need to watch an hour long biology video to understand it, major project, literally making things evolve, making a 5000 by 5000 stud map, just average studio stuff, just making predators and recreating the 
-- **[does anyone know what this error is and whats causing it](https://www.reddit.com/r/ROBLOXStudio/comments/1xerzh2/does_anyone_know_what_this_error_is_and_whats/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
-  - Feed excerpt: submitted by /u/DeanHutcherson \[link\] \[comments\]
+- **[Apparently playing a roblox game gets warned](https://www.reddit.com/r/ROBLOXStudio/comments/1xeseki/apparently_playing_a_roblox_game_gets_warned/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: I was just casually playing speed run 4 when I randomly got kicked with this error without showing any context which doesnt make any sense submitted by /u/TommycoolGun \[link\] \[comments\]
+- **[How should I organize my animations for my game?](https://www.reddit.com/r/ROBLOXStudio/comments/1xesy2q/how_should_i_organize_my_animations_for_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: should I make one huge script that I can paste all the animations into for everyone, make smaller module scripts for each character that handles that characters animations solely with the animation ids, or use animation objects (physical in
 
 ## Roblox Updates
 
-- **[Random 40 to 100 ms server stalls on live servers that we can't trace to our code (Server Authority)](https://devforum.roblox.com/t/random-40-to-100-ms-server-stalls-on-live-servers-that-we-cant-trace-to-our-code-server-authority/4955951)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Hi! We make MageBrawl, a fast PvP arena game on Server Authority ( RunService:BindToSimulation , 60 Hz, place ID 84169602023740). We’ve been chasing server lag for a long time and have fixed everything our own profiling could find. What’s l
+- **[Memory leak freezing my game](https://devforum.roblox.com/t/memory-leak-freezing-my-game/4955970)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: when i try to have on high graphics 5-10 just closes and already made a report on this before please someone look into this and this has been mentioned in 2018 1 post - 1 participant Read full topic
+- **[Unchanged Image Assets Repeatedly Moderated; Conflicting Appeals Leave Duplicate Account Penalties](https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Category: Roblox Application and Website Bugs Affected account: Metapoly (user ID: 116511190) Affected systems: Image asset moderation, Violations & Appeals, account enforcement Incident dates: October 21–24, 2026 Summary I encountered what
 
 ---
 

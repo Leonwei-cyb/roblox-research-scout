@@ -1133,7 +1133,11 @@
     "7fb6520b2d187a042b0cb240",
     "20d31d06f0b860c7e808736f",
     "5f45ca19500e8015d2463371",
-    "4d8e102fc8886ca51addc6ed"
+    "4d8e102fc8886ca51addc6ed",
+    "393a60bcb3f071f48dff25d1",
+    "91ecbaf059a3c108147e9989",
+    "7d040e6abcd71a75e020c8cb",
+    "9ae3b6f5f166fd506b70596e"
   ],
   "items": [
     {
@@ -1222,6 +1226,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "How should I organize my animations for my game?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xesy2q/how_should_i_organize_my_animations_for_my_game/",
+      "published": "2026-10-25",
+      "excerpt": "should I make one huge script that I can paste all the animations into for everyone, make smaller module scripts for each character that handles that characters animations solely with the animation ids, or use animation objects (physical in the explorer) and put the id in there and place them in the",
+      "creator": "/u/Additional_Figure687 https://www.reddit.com/user/Additional_Figure687",
+      "id": "9ae3b6f5f166fd506b70596e"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Showcasing a few things in my game so far (super early WIP)",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeql0z/showcasing_a_few_things_in_my_game_so_far_super/",
       "published": "2026-10-25",
@@ -1242,6 +1257,18 @@
       "id": "934203426f97a2dc23a1bbb8"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unchanged Image Assets Repeatedly Moderated; Conflicting Appeals Leave Duplicate Account Penalties",
+      "url": "https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965",
+      "published": "2026-10-25",
+      "excerpt": "Category: Roblox Application and Website Bugs Affected account: Metapoly (user ID: 116511190) Affected systems: Image asset moderation, Violations & Appeals, account enforcement Incident dates: October 21–24, 2026 Summary I encountered what appears to be a repeat-enforcement issue involving identica",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965.rss",
+      "id": "91ecbaf059a3c108147e9989"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1251,6 +1278,17 @@
       "excerpt": "How do you get your sound effect for your games i mean there has to be a website for sound effects such as horror door closing or some sht like it submitted by /u/Broad_Reflection9452 [link] [comments]",
       "creator": "/u/Broad_Reflection9452 https://www.reddit.com/user/Broad_Reflection9452",
       "id": "7fb6520b2d187a042b0cb240"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Apparently playing a roblox game gets warned",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeseki/apparently_playing_a_roblox_game_gets_warned/",
+      "published": "2026-10-25",
+      "excerpt": "I was just casually playing speed run 4 when I randomly got kicked with this error without showing any context which doesnt make any sense submitted by /u/TommycoolGun [link] [comments]",
+      "creator": "/u/TommycoolGun https://www.reddit.com/user/TommycoolGun",
+      "id": "7d040e6abcd71a75e020c8cb"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1308,6 +1346,18 @@
       "excerpt": "Yeah that's what I'm doing, might need to watch an hour long biology video to understand it, major project, literally making things evolve, making a 5000 by 5000 stud map, just average studio stuff, just making predators and recreating the concept of extinction. submitted by /u/AnimaticKraken [link]",
       "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
       "id": "4d8e102fc8886ca51addc6ed"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Memory leak freezing my game",
+      "url": "https://devforum.roblox.com/t/memory-leak-freezing-my-game/4955970",
+      "published": "2026-10-25",
+      "excerpt": "when i try to have on high graphics 5-10 just closes and already made a report on this before please someone look into this and this has been mentioned in 2018 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/memory-leak-freezing-my-game/4955970.rss",
+      "id": "393a60bcb3f071f48dff25d1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8063,51 +8113,6 @@
       "excerpt": "Finally getting into Roblox game development after years of beating around the bush. I'm very excited. Have a dozen YouTube tutorials queued up, a bowl of popcorn, and an open idea journal. If you were starting out right now, what game genre would you dive into? submitted by /u/theshortirishman [lin",
       "creator": "/u/theshortirishman https://www.reddit.com/user/theshortirishman",
       "id": "1c420d76754e350f0de926b4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I am making a \"sub-engine\" how should I go along this?",
-      "url": "https://devforum.roblox.com/t/i-am-making-a-sub-engine-how-should-i-go-along-this/4946635",
-      "published": "2026-10-20",
-      "excerpt": "First, let me describe what I call a sub-engine. A sub engine is a library of tools inside of another engine. These tools basically do everything, they provide npc ai, tools, abilities, everything. Now my issue: having the full sub engine loaded in a place would be inefficient no? What could I do to",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-am-making-a-sub-engine-how-should-i-go-along-this/4946635.rss",
-      "id": "1ad8d44314d1f597deda6462"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "making free thumbnails",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xargr2/making_free_thumbnails/",
-      "published": "2026-10-20",
-      "excerpt": "submitted by /u/PenguDaFrie [link] [comments]",
-      "creator": "/u/PenguDaFrie https://www.reddit.com/user/PenguDaFrie",
-      "id": "1601f6f0b0345cd902d9814e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "W ad for a new speed running game (any%) (not made by me)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaehex/w_ad_for_a_new_speed_running_game_any_not_made_by/",
-      "published": "2026-10-20",
-      "excerpt": "submitted by /u/kerminister [link] [comments]",
-      "creator": "/u/kerminister https://www.reddit.com/user/kerminister",
-      "id": "0ed1633be39759f3f42e434f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "What should I add?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaknvi/what_should_i_add/",
-      "published": "2026-10-20",
-      "excerpt": "I'm looking for things to add into my Roblox game, any recommendations welcome and encouraged! Also, this post isn't an ad it's just a cinematic trailer of the game that I already made that showcases everything. I don't really want to create another showcase as theirs no need to reinvent the wheel 🤷",
-      "creator": "/u/ImpressionLopsided22 https://www.reddit.com/user/ImpressionLopsided22",
-      "id": "0b462201946ab4d48439495e"
     }
   ]
 }

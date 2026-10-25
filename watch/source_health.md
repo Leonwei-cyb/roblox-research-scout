@@ -30,6 +30,6 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 ## Failures (not silently skipped)
 
-- youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
+- youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 500
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 404
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 404
