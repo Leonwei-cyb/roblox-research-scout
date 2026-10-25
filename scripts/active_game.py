@@ -85,5 +85,8 @@ def resolve(environ=None):
 
 
 def held(game):
-    """Every other known profile is on hold while one game is active."""
-    return [g for g in PROFILES if g != game]
+    """Every other known profile is on hold while one game is active.
+
+    With no resolved game nothing is called held: that would be a false claim.
+    """
+    return [g for g in PROFILES if g != game] if game in PROFILES else []

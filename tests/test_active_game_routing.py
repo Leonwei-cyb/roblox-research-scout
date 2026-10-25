@@ -61,6 +61,8 @@ class ActiveGameRoutingTests(unittest.TestCase):
         self.assertEqual(current["status"], "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS")
         self.assertEqual(current["candidates"], [])
         self.assertTrue(current["authority"].endswith("MISSING"))
+        self.assertEqual(current["held_games_not_current"], [])
+        self.assertNotIn("On hold", (out / "current_game_research_report.md").read_text())
         self.assertEqual(sorted(p.name for p in out.glob("*_research_report.*")),
                          ["cat_magic_research_report.md",
                           "current_game_research_report.json", "current_game_research_report.md"])
