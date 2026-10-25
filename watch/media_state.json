@@ -1162,9 +1162,23 @@
     "461e60f25c9d2e404f5a2e7f",
     "5456246626bb5cda07df8df8",
     "54447d62749931802c5a361f",
-    "2b80b8c98e3e518111f8668a"
+    "2b80b8c98e3e518111f8668a",
+    "e4bb8660835e1dea6b65b5c4",
+    "ff8be647dfb7ce1a8607968b",
+    "1b7d77b90234387f84a417a2"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I want to make Barry prison run games (clones)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf0azl/i_want_to_make_barry_prison_run_games_clones/",
+      "published": "2026-10-25",
+      "excerpt": "Guys, I found an uncopylocked version of Barry’s Prison Run, but Barry and the police NPCs don’t move. People are saying I need to use Smoof Animations to make them work. Does anyone know how to do that? submitted by /u/Key_Gap_1948 [link] [comments]",
+      "creator": "/u/Key_Gap_1948 https://www.reddit.com/user/Key_Gap_1948",
+      "id": "ff8be647dfb7ce1a8607968b"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -1211,6 +1225,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/krypton-anti-cheat-paid/4956083.rss",
       "id": "f27d8449fded687e776a0fce"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Gamepass Sales Show Only 1-2 Robux Pending Instead of Expected Earnings",
+      "url": "https://devforum.roblox.com/t/gamepass-sales-show-only-1-2-robux-pending-instead-of-expected-earnings/4956491",
+      "published": "2026-10-25",
+      "excerpt": "Whenever I check my group’s Revenue → Sales, I see that purchases of gamepasses and developer products in my group’s game generate only 1-2 Robux in pending earnings, even though the amounts should be much higher. For example, I have a gamepass priced at 299 Robux, but the sale shows only 2 Robux pe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/gamepass-sales-show-only-1-2-robux-pending-instead-of-expected-earnings/4956491.rss",
+      "id": "e4bb8660835e1dea6b65b5c4"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8112,30 +8138,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/clientscriptservice-a-service-for-running-client-scripts/4947022.rss",
       "id": "452940360c2f6e0ec50ea106"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Requirement for increased Robux transfer limit is fulfilled but not applied",
-      "url": "https://devforum.roblox.com/t/requirement-for-increased-robux-transfer-limit-is-fulfilled-but-not-applied/4946757",
-      "published": "2026-10-20",
-      "excerpt": "Fulfilling the requirements (2FA enabled + account in good standing based off of official ROBLOX information on https://en.help.roblox.com/hc/en-us/articles/48510707796756-Sending-and-Receiving-Robux ) SHOULD increase the transfer limit from 500/day and 1000/month to 5000/day and 10000/month. This d",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/requirement-for-increased-robux-transfer-limit-is-fulfilled-but-not-applied/4946757.rss",
-      "id": "445ce123872224e81350b431"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game stuck in 48hr final review for 4 days despite 5,000+ HEP",
-      "url": "https://devforum.roblox.com/t/game-stuck-in-48hr-final-review-for-4-days-despite-5000-hep/4946121",
-      "published": "2026-10-20",
-      "excerpt": "Hi friends at Roblox, my game was reverted from all-ages to 16+ when my Roblox account was mistakenly terminated; my account is unbanned now, but alas I paid the 1,000 robux fee 4 days ago and it’s still stuck in final review. This game was all-ages for multiple months and accrued ~600k visits durin",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-stuck-in-48hr-final-review-for-4-days-despite-5000-hep/4946121.rss",
-      "id": "416c8fa5ce4f296174370574"
     }
   ]
 }
