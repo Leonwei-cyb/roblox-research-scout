@@ -1217,7 +1217,17 @@
     "c6a048b935fe6f157694bc8c",
     "ac5a53b17fe24cefadb463c9",
     "96bca1cda9e21a433308b6ab",
-    "39c6a1d0ef4476329be714d0"
+    "39c6a1d0ef4476329be714d0",
+    "70b2886c534b5790bc084804",
+    "e71f66f15a9a3b4cf1649a85",
+    "e3e503056e34abbf427fc213",
+    "88cdfeddfd040d77d3c26f2f",
+    "827a88d90ed26f966eac47d8",
+    "d0d7084dc6c45194f6f83f1f",
+    "a2ba55173ddc74ff687f39b4",
+    "4553037133d361d11fbfff7a",
+    "8753a147a6721da3044eaf26",
+    "c78853780cdf28b62bd10002"
   ],
   "items": [
     {
@@ -1329,6 +1339,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Programmatically edit Experience details",
+      "url": "https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190",
+      "published": "2026-10-25",
+      "excerpt": "Hello, I am trying to achieve programmatically editing experience details (basically just using Roblox’s endpoints) but I am having issues finding out whether it is actually possible. Said experience details are as follows: Thumbnail and experience icon Experience name Experience description My inte",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190.rss",
+      "id": "e71f66f15a9a3b4cf1649a85"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Gamepass Sales Show Only 1-2 Robux Pending Instead of Expected Earnings",
       "url": "https://devforum.roblox.com/t/gamepass-sales-show-only-1-2-robux-pending-instead-of-expected-earnings/4956491",
       "published": "2026-10-25",
@@ -1347,6 +1369,18 @@
       "excerpt": "hello everyone, im looking for a plugin or a way to subdivide parts in smaller parts, I found a plugin but only works in 1 direction, if anyone knwos a way or a plugin to do this please let me know in the comments, thanks! submitted by /u/matioxi333 [link] [comments]",
       "creator": "/u/matioxi333 https://www.reddit.com/user/matioxi333",
       "id": "e471843efbccdf51945088ca"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Retarget-r15-to-r6 - stylistically convert your r15 anims to r6",
+      "url": "https://devforum.roblox.com/t/retarget-r15-to-r6-stylistically-convert-your-r15-anims-to-r6/4957189",
+      "published": "2026-10-25",
+      "excerpt": "A library for stylistically converting R15 animations to R6. It also comes with a Studio plugin for converting animations by hand. Library: Wally · GitHub Plugin: Creator Store 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/retarget-r15-to-r6-stylistically-convert-your-r15-anims-to-r6/4957189.rss",
+      "id": "e3e503056e34abbf427fc213"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1406,6 +1440,18 @@
       "id": "d466cb161028353745496f39"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My game was deleted for sexual content (false)",
+      "url": "https://devforum.roblox.com/t/my-game-was-deleted-for-sexual-content-false/4957171",
+      "published": "2026-10-25",
+      "excerpt": "My roblox game just started to pick up traction and it was false flagged for sexual content further more roblox then followed by deleting my entire game for a single asset that did not contain sexual content looking to get some help from someone from roblox to help get this fixed, my community is ve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-game-was-deleted-for-sexual-content-false/4957171.rss",
+      "id": "d0d7084dc6c45194f6f83f1f"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1449,6 +1495,17 @@
       "excerpt": "Building a game, and it runs well in studio... Live game is OK as well (my game has 13,000 parts) though... But when testing in console, it does seem to lag (the moving parts) here, and there. How are some game so flawlessly optimized for console??? submitted by /u/BlueSorrows [link] [comments]",
       "creator": "/u/BlueSorrows https://www.reddit.com/user/BlueSorrows",
       "id": "cb91e8da0c3135e6a844b558"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Title: Syncix — Bi-directional filesystem synchronization for Roblox Studioc",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf94eg/title_syncix_bidirectional_filesystem/",
+      "published": "2026-10-25",
+      "excerpt": "Most external development tooling for Roblox treats synchronization as a one-way pipeline from disk to memory, or relies on complex file-mapping schemas that break down during routine refactoring. When developers rename files locally or make quick property tweaks directly inside Studio, the hierarch",
+      "creator": "/u/Syqopatt https://www.reddit.com/user/Syqopatt",
+      "id": "c78853780cdf28b62bd10002"
     },
     {
       "source": "reddit-robloxdev",
@@ -1577,6 +1634,18 @@
       "id": "a5e6c485d9109e63ae4f8b92"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio Camera Controls acting very strange after a random studio update",
+      "url": "https://devforum.roblox.com/t/studio-camera-controls-acting-very-strange-after-a-random-studio-update/4957165",
+      "published": "2026-10-25",
+      "excerpt": "The camera is always acting like I’ve pressed F to zoom into an object, forcing the orbit camera controls even when I have no object’s selected in studio. This bug is happening in all of my experiences (in studio) and I haven’t found a fix Here’s what I see every time I open a place file and try to ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-camera-controls-acting-very-strange-after-a-random-studio-update/4957165.rss",
+      "id": "a2ba55173ddc74ff687f39b4"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1693,6 +1762,29 @@
       "id": "91ecbaf059a3c108147e9989"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Are There Problems With The Badges In My Obby?",
+      "url": "https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186",
+      "published": "2026-10-25",
+      "excerpt": "My obby has badges in it for not only every 5 stages, but in different other parts in it too, but there might be problems with it. Roblox [Hard] 100 Stages Fun Obby! ⭐ There are 100 stages in this obby to complete to find something at the end! 💾 Use stage select to continue your obby and hunt for hi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186.rss",
+      "id": "88cdfeddfd040d77d3c26f2f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Here is my Roblox game Published pew days ago and you can test and check the game physics and ragdoll model.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf95rv/here_is_my_roblox_game_published_pew_days_ago_and/",
+      "published": "2026-10-25",
+      "excerpt": "submitted by /u/PugnaAbusive [link] [comments]",
+      "creator": "/u/PugnaAbusive https://www.reddit.com/user/PugnaAbusive",
+      "id": "8753a147a6721da3044eaf26"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1702,6 +1794,18 @@
       "excerpt": "https://preview.redd.it/dbhsorhaslxh1.png?width=775&format=png&auto=webp&s=9ef3475eb52708a2d3f79b71d69f0076ade6539c https://preview.redd.it/yqtpckebslxh1.png?width=512&format=png&auto=webp&s=b37725d940b4ab21082c0eb11d4d9ab3b7a1e599 Can anyone help me figure out why my sounds aren't loading? submitte",
       "creator": "/u/FlohG0 https://www.reddit.com/user/FlohG0",
       "id": "835ed33cd648957da1b8867d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[URGENT] Innapropriate game with 1k CCU, reports ignored",
+      "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
+      "published": "2026-10-25",
+      "excerpt": "I’ve reported FaultlineStudio’s “NovelAI” (Place ID 118074951239113) and “Character AI” (Place ID 123017733683462) several times through the in-experience Report button and through Support (ticket 177426510). Both are still labeled Minimal, yet players browse their AI characters by tags like #love ,",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176.rss",
+      "id": "827a88d90ed26f966eac47d8"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1803,6 +1907,18 @@
       "excerpt": "i'm attempting to design some character for an animation since i'm just starting to get into it, why does it still fail to load the head/face asset?? someone save me pls https://preview.redd.it/qtrdreuxclxh1.png?width=1198&format=png&auto=webp&s=632b1ffaa490bd995d624800da90d01912ce8c71 submitted by ",
       "creator": "/u/goopy0range_ https://www.reddit.com/user/goopy0range_",
       "id": "71a234731b3aa69628e2e12e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Need help with off screen player indicator",
+      "url": "https://devforum.roblox.com/t/need-help-with-off-screen-player-indicator/4957195",
+      "published": "2026-10-25",
+      "excerpt": "Hello!! Recently, I’ve been trying to figure out how some games manage to do this effect where when a teammate / player goes off screen, it shows an arrow pointing to them. The problem is… well, I have no idea where to even start with this. I’m not asking for an entire script, but some rather someon",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-help-with-off-screen-player-indicator/4957195.rss",
+      "id": "70b2886c534b5790bc084804"
     },
     {
       "source": "reddit-robloxdev",
@@ -2054,6 +2170,17 @@
       "excerpt": "Anyone got any popular genres for games that aren't just either straight brainrot or some slow paced farming? I was making an fps then looked at others, and they're doing horribly. I wanna make a game, but don't want it to die out in 3 days of being released submitted by /u/Boring-Jeweler-8286 [link",
       "creator": "/u/Boring-Jeweler-8286 https://www.reddit.com/user/Boring-Jeweler-8286",
       "id": "461e60f25c9d2e404f5a2e7f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Syncix — Bi-directional filesystem synchronization for Roblox Studio (Rust core)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf9nbs/syncix_bidirectional_filesystem_synchronization/",
+      "published": "2026-10-25",
+      "excerpt": "Most external development tooling for Roblox treats synchronization as a one-way pipeline from disk to memory, or relies on rigid file-mapping schemas that break down during routine refactoring. When developers rename files locally or make quick property tweaks directly inside Studio, the hierarchy ",
+      "creator": "/u/Syqopatt https://www.reddit.com/user/Syqopatt",
+      "id": "4553037133d361d11fbfff7a"
     },
     {
       "source": "reddit-robloxdev",
@@ -8060,122 +8187,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/a-new-game-idea/4946137.rss",
       "id": "d75eb64c353e5abdcf9c5941"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Day 1 of making my roblox game, suggestions please!!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaj8wg/day_1_of_making_my_roblox_game_suggestions_please/",
-      "published": "2026-10-20",
-      "excerpt": "Hii everyone! I have started documenting my journey building an extraction game called 'Loot & Escape' over at V Studio Roblox . Since I don't know how to code, I tried using an AI initially, but it kept breaking. then got the baseplate working, ran into a wierd 'noob' bug, and set up the Black Mark",
-      "creator": "/u/Itchy_Camel3702 https://www.reddit.com/user/Itchy_Camel3702",
-      "id": "d6a95dd048120e2a0e148983"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Group Social Link has improper validation",
-      "url": "https://devforum.roblox.com/t/group-social-link-has-improper-validation/4946497",
-      "published": "2026-10-20",
-      "excerpt": "When attempting to add a group social link to a game the regex validation is too strict and makes it awkward since when copying a group’s link https://www.roblox.com/communities/10280307/Nendo-Arts#!/about https://www.roblox.com/communities/10280307/Nendo-Arts https://www.roblox.com/communities/1028",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/group-social-link-has-improper-validation/4946497.rss",
-      "id": "d533ce0d57c9ecfb6c9e4cd3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Collaborators have disappeared from website, but still appear in Studio- my collaborators can't access the Creator Hub page anymore",
-      "url": "https://devforum.roblox.com/t/collaborators-have-disappeared-from-website-but-still-appear-in-studio-my-collaborators-cant-access-the-creator-hub-page-anymore/4945720",
-      "published": "2026-10-20",
-      "excerpt": "At 7:19 PM Central, one of my collaborators reported they could no longer access the Moderation page of our game. My other collaborators looked into it, and also cannot access any of the game’s pages on Creator Hub. On checking the Collaborators list on Creator Hub, I found it empty except for me. H",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/collaborators-have-disappeared-from-website-but-still-appear-in-studio-my-collaborators-cant-access-the-creator-hub-page-anymore/4945720.rss",
-      "id": "d3d0c9fa3cef0dc965fa7e65"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Console + Phone Crashing/Memory",
-      "url": "https://devforum.roblox.com/t/console-phone-crashingmemory/4946845",
-      "published": "2026-10-20",
-      "excerpt": "A private message is associated with this bug report 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/console-phone-crashingmemory/4946845.rss",
-      "id": "d3ca639b83c2890933499284"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Lighting GLitch",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xao529/lighting_glitch/",
-      "published": "2026-10-20",
-      "excerpt": "Just made a flashlight for my roblox game but if I shine the light on the wall at specific angles weird lines start appearing but I can't get rid of them without turning shadows off is there any other way to fix it submitted by /u/dooogbag [link] [comments]",
-      "creator": "/u/dooogbag https://www.reddit.com/user/dooogbag",
-      "id": "d334c807ecc373903fcf404c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for scripture or i could work as a builder in your game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaxjo6/looking_for_scripture_or_i_could_work_as_a/",
-      "published": "2026-10-20",
-      "excerpt": "Heyy I've been developing in roblox for like a good few months now and I've got decent experience in developing. Right now I haven't got any games or anything to work on i was looking for someone who can code/use claude wtv idm. If you haven't got any game ideas lmk i have a few if you do im willing",
-      "creator": "/u/Individual_Duck2620 https://www.reddit.com/user/Individual_Duck2620",
-      "id": "d23e3a8e39988cf193ce06c7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UI Scrolling Frame and Flex UI don't interact as intended",
-      "url": "https://devforum.roblox.com/t/ui-scrolling-frame-and-flex-ui-dont-interact-as-intended/4947136",
-      "published": "2026-10-20",
-      "excerpt": "When using a FlexUI object within a scrolling frame with a list object, the bottom frames clip past the scrolling frame bounds. The AutomaticCanvasSize for the scrolling frame is set to Y axis only. Adding padding does not affect the result. Please see attached minimum repro place in the private mes",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ui-scrolling-frame-and-flex-ui-dont-interact-as-intended/4947136.rss",
-      "id": "d19579c3240b0d29d3b692e9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Oklab Color Interpolation for UIGradient (and any element that accepts a colorsequence )",
-      "url": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043",
-      "published": "2026-10-20",
-      "excerpt": "This post emerges as an offshoot of the feature request. Optional Oklab Color Interpolation for UIGradient - Feature Requests / Engine Features - Developer Forum | Roblox (consider a bump!). this is a luau module that allows you to generate ColorSequence objects using Oklab color interpolation. The ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043.rss",
-      "id": "cdf1ca5215f798a269e6e504"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Does my game follow Roblox rules?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xanyjg/does_my_game_follow_roblox_rules/",
-      "published": "2026-10-20",
-      "excerpt": "My question is does my game follow Roblox rules? I want to make a Roblox game where people can donate to all players like I donated 10 robux and 10 players in the game so each players will get 1 credit cuz 10/10=1 so if there is 100 players so 10 robux donation = 0.1 token and 25 token = 5 robux. So",
-      "creator": "/u/TeachingSea4937 https://www.reddit.com/user/TeachingSea4937",
-      "id": "cd2bd0ac743bd648468458fc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Impossible to set my game Paid Access",
-      "url": "https://devforum.roblox.com/t/impossible-to-set-my-game-paid-access/4946370",
-      "published": "2026-10-20",
-      "excerpt": "Every time I try it get logged in the Activity history but it doesn’t work, the game is still public. Expected behavior It should set it in Paid access. Page URL: https://create.roblox.com/dashboard/creations/experiences/10770906119/advanced-settings 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/impossible-to-set-my-game-paid-access/4946370.rss",
-      "id": "c8e6e2176e774629f3b2c9b1"
     }
   ]
 }

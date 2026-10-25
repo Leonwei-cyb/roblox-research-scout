@@ -204,20 +204,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4946845:1",
-      "url": "https://devforum.roblox.com/t/console-phone-crashingmemory/4946845",
-      "title": "Console + Phone Crashing/Memory",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4947560:1",
       "url": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560",
       "title": "[OPEN] Animator / VFX Artist needed for Action MMORPG",
@@ -425,20 +411,6 @@
       "signals": [
         "animation and audio",
         "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xaxjo6",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaxjo6/looking_for_scripture_or_i_could_work_as_a/",
-      "title": "Looking for scripture or i could work as a builder in your game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-20",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -921,6 +893,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4957195:1",
+      "url": "https://devforum.roblox.com/t/need-help-with-off-screen-player-indicator/4957195",
+      "title": "Need help with off screen player indicator",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xb81n8",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb81n8/hey_guys_this_is_my_first_time_trying_to_build/",
       "title": "Hey guys this is my first time trying to build something like this but I need some critism",
@@ -1203,19 +1189,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4945720:1",
-      "url": "https://devforum.roblox.com/t/collaborators-have-disappeared-from-website-but-still-appear-in-studio-my-collaborators-cant-access-the-creator-hub-page-anymore/4945720",
-      "title": "Collaborators have disappeared from website, but still appear in Studio- my collaborators can't access the Creator Hub page anymore",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4946734:1",
       "url": "https://devforum.roblox.com/t/players-sliding-off-rotating-platforms/4946734",
       "title": "Players Sliding Off Rotating Platforms",
@@ -1250,19 +1223,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4947136:1",
-      "url": "https://devforum.roblox.com/t/ui-scrolling-frame-and-flex-ui-dont-interact-as-intended/4947136",
-      "title": "UI Scrolling Frame and Flex UI don't interact as intended",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2323,14 +2283,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xao529",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xao529/lighting_glitch/",
-      "title": "Lighting GLitch",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-20",
-      "kind": "reddit",
+      "key": "devforum:4957165:1",
+      "url": "https://devforum.roblox.com/t/studio-camera-controls-acting-very-strange-after-a-random-studio-update/4957165",
+      "title": "Studio Camera Controls acting very strange after a random studio update",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
       "signals": [
-        "world and visual design"
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2901,6 +2861,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xf95rv",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf95rv/here_is_my_roblox_game_published_pew_days_ago_and/",
+      "title": "Here is my Roblox game Published pew days ago and you can test and check the game physics and ragdoll model.",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xf9nbs",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf9nbs/syncix_bidirectional_filesystem_synchronization/",
+      "title": "Syncix — Bi-directional filesystem synchronization for Roblox Studio (Rust core)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4949137:1",
       "url": "https://devforum.roblox.com/t/high-quality-snowy-mountains/4949137",
       "title": "High quality snowy mountains",
@@ -3125,14 +3111,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xaj8wg",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xaj8wg/day_1_of_making_my_roblox_game_suggestions_please/",
-      "title": "Day 1 of making my roblox game, suggestions please!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-20",
-      "kind": "reddit",
+      "key": "devforum:4957189:1",
+      "url": "https://devforum.roblox.com/t/retarget-r15-to-r6-stylistically-convert-your-r15-anims-to-r6/4957189",
+      "title": "Retarget-r15-to-r6 - stylistically convert your r15 anims to r6",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
+        "animation and audio",
         "tools and performance"
       ],
       "score": 4,
@@ -3490,19 +3476,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946043:1",
-      "url": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043",
-      "title": "Oklab Color Interpolation for UIGradient (and any element that accepts a colorsequence )",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4468,12 +4441,25 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xanyjg",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xanyjg/does_my_game_follow_roblox_rules/",
-      "title": "Does my game follow Roblox rules?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-20",
-      "kind": "reddit",
+      "key": "devforum:4957176:1",
+      "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
+      "title": "[URGENT] Innapropriate game with 1k CCU, reports ignored",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4957190:1",
+      "url": "https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190",
+      "title": "Programmatically edit Experience details",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -5235,6 +5221,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xf94eg",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf94eg/title_syncix_bidirectional_filesystem/",
+      "title": "Title: Syncix — Bi-directional filesystem synchronization for Roblox Studioc",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4945957:1",
       "url": "https://devforum.roblox.com/t/optional-oklab-color-interpolation-for-uigradient/4945957",
       "title": "Optional Oklab Color Interpolation for UIGradient",
@@ -5268,31 +5267,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4946370:1",
-      "url": "https://devforum.roblox.com/t/impossible-to-set-my-game-paid-access/4946370",
-      "title": "Impossible to set my game Paid Access",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4946397:1",
       "url": "https://devforum.roblox.com/t/ugc-particles-feature/4946397",
       "title": "UGC Particles feature",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946497:1",
-      "url": "https://devforum.roblox.com/t/group-social-link-has-improper-validation/4946497",
-      "title": "Group Social Link has improper validation",
       "source": "roblox-devforum-latest",
       "published": "2026-10-20",
       "kind": "devforum",
@@ -6591,6 +6568,28 @@
       "key": "devforum:4957110:1",
       "url": "https://devforum.roblox.com/t/applydescription-sets-hipheight-to-zero/4957110",
       "title": "ApplyDescription sets HipHeight to zero",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4957171:1",
+      "url": "https://devforum.roblox.com/t/my-game-was-deleted-for-sexual-content-false/4957171",
+      "title": "My game was deleted for sexual content (false)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4957186:1",
+      "url": "https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186",
+      "title": "Are There Problems With The Badges In My Obby?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",

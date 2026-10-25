@@ -5,42 +5,31 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[How To Make An ENTIRE Roblox Game With AI - Full Guide - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtcTVTUkpoQVFhdEFSNkZzcUo2ZWNvRWFIS0p3dGdRZDhjT1RuVFk4am9TeHlOblY3Y0phQ2FSZVhpc1NubnhaTk1WTzNsb2Z5X1dSVC1B?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-17
-  - Feed excerpt: How To Make An ENTIRE Roblox Game With AI - Full Guide YouTube
-
 ## Community
 
-- **[Hey looking for 20+ ccu games](https://www.reddit.com/r/robloxgamedev/comments/1xf874u/hey_looking_for_20_ccu_games/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: I’m looking for new or early-stage Roblox games with a clear, engaging gameplay loop and room to grow. Simulator and tycoon games are a good fit, though I’m open to other genres if the concept is strong. Ideally, a game is recently released
-- **[How to hit the Roblox algorithm?](https://www.reddit.com/r/robloxgamedev/comments/1xf7sb3/how_to_hit_the_roblox_algorithm/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: How do you actually get your Roblox game picked up by the algorithm? I’ve been developing Roblox games and I’m trying to understand how the discovery algorithm works. From what I’ve seen, getting visits through ads doesn’t necessarily mean 
-- **[Looking for devs for a doors inspired game](https://www.reddit.com/r/robloxgamedev/comments/1xf8jot/looking_for_devs_for_a_doors_inspired_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: I'm looking for devs for a doors inspired game, I need modelers, animators, artists, composers and people to brainstorm ideas with. payment will be in revenue, if you're interested dm me on discord, @achefcat im available most of the time s
-- **[My game is failing again...](https://www.reddit.com/r/robloxgamedev/comments/1xf7dyn/my_game_is_failing_again/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: https://preview.redd.it/bswnbvk28nxh1.png?width=2266&format=png&auto=webp&s=4ac33d90a3b10d9e714ee2f8e8f55a21846461ed Hey so i've been developing this game for months and months and i have published a few days ago and it seems to not get any
-- **[\[Recruiting\] Starting a new Roblox game studio from scratch: Bad Banana Arts! (All skill levels welcome / Revenue Share + Future Payouts)](https://www.reddit.com/r/robloxgamedev/comments/1xf76or/recruiting_starting_a_new_roblox_game_studio_from/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: Hey everyone I am starting a brand Roblox game studio named Bad Banana Arts and I am looking for passionate developers, designers and creators who want to build something amazing from the ground up! Whether you are a developer or a beginner
-- **[how do I subdivide parts like in the images?? is there a plugin that can do that?](https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: hello everyone, im looking for a plugin or a way to subdivide parts in smaller parts, I found a plugin but only works in 1 direction, if anyone knwos a way or a plugin to do this please let me know in the comments, thanks! submitted by /u/m
-- **[looking for someone with a non-shit pc to help me record a video + feedback](https://www.reddit.com/r/robloxgamedev/comments/1xf7l9f/looking_for_someone_with_a_nonshit_pc_to_help_me/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: payment: I am completely new to this space, I do not know the appropriate price for some feedback plus recording some videos (no editing). So I am open to whatever price you think is appropriate. can pay with giftcards or any other payment 
+- **[Syncix — Bi-directional filesystem synchronization for Roblox Studio (Rust core)](https://www.reddit.com/r/robloxgamedev/comments/1xf9nbs/syncix_bidirectional_filesystem_synchronization/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Most external development tooling for Roblox treats synchronization as a one-way pipeline from disk to memory, or relies on rigid file-mapping schemas that break down during routine refactoring. When developers rename files locally or make 
+- **[Title: Syncix — Bi-directional filesystem synchronization for Roblox Studioc](https://www.reddit.com/r/robloxgamedev/comments/1xf94eg/title_syncix_bidirectional_filesystem/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: Most external development tooling for Roblox treats synchronization as a one-way pipeline from disk to memory, or relies on complex file-mapping schemas that break down during routine refactoring. When developers rename files locally or mak
+- **[Here is my Roblox game Published pew days ago and you can test and check the game physics and ragdoll model.](https://www.reddit.com/r/robloxgamedev/comments/1xf95rv/here_is_my_roblox_game_published_pew_days_ago_and/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+  - Feed excerpt: submitted by /u/PugnaAbusive \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[ApplyDescription sets HipHeight to zero](https://devforum.roblox.com/t/applydescription-sets-hipheight-to-zero/4957110)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: ApplyDescription sets HipHeight to zero. This causes the character to slide around on the ground. Trigger: Inserting a Part inside the character on CharacterAdded. This part doesn’t need to be sized, positioned, welded or anything done to i
-- **[For some reason my model doesn't get uploaded to the creator store](https://devforum.roblox.com/t/for-some-reason-my-model-doesnt-get-uploaded-to-the-creator-store/4956963)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: So I have a linked sword tool which is basically an improved linked sword. However, every time I try distribute it’s taken down for no apparent reason. I’ve read over the Creator Store Requirements, where all the requirements do not relate 
-- **[Game Name wouldnt save](https://devforum.roblox.com/t/game-name-wouldnt-save/4957130)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Hi fellow roblox devs! i actually need help from you guys! Ive been working on a game called Rabbit \[2 Player Obby\] but i have a problem with the name. The issue: Name wouldnt save after going thru moderation. moderation says its inappropri
-- **[When Trying to publish a dynamic head i get "content restricted assets"](https://devforum.roblox.com/t/when-trying-to-publish-a-dynamic-head-i-get-content-restricted-assets/4957094)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Expected behavior To get this fixed and hopefully not encounter this in the future 4 posts - 2 participants Read full topic
-
-## Youtube
-
-- **[forget 99 nights. try surviving one. tonight, The Deer is hunting you in The Hollow.](https://www.youtube.com/shorts/z_NngCP8_qg)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-25
+- **[Retarget-r15-to-r6 - stylistically convert your r15 anims to r6](https://devforum.roblox.com/t/retarget-r15-to-r6-stylistically-convert-your-r15-anims-to-r6/4957189)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: A library for stylistically converting R15 animations to R6. It also comes with a Studio plugin for converting animations by hand. Library: Wally · GitHub Plugin: Creator Store 1 post - 1 participant Read full topic
+- **[Studio Camera Controls acting very strange after a random studio update](https://devforum.roblox.com/t/studio-camera-controls-acting-very-strange-after-a-random-studio-update/4957165)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: The camera is always acting like I’ve pressed F to zoom into an object, forcing the orbit camera controls even when I have no object’s selected in studio. This bug is happening in all of my experiences (in studio) and I haven’t found a fix 
+- **[Are There Problems With The Badges In My Obby?](https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: My obby has badges in it for not only every 5 stages, but in different other parts in it too, but there might be problems with it. Roblox \[Hard\] 100 Stages Fun Obby! ⭐ There are 100 stages in this obby to complete to find something at the e
+- **[My game was deleted for sexual content (false)](https://devforum.roblox.com/t/my-game-was-deleted-for-sexual-content-false/4957171)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: My roblox game just started to pick up traction and it was false flagged for sexual content further more roblox then followed by deleting my entire game for a single asset that did not contain sexual content looking to get some help from so
+- **[Need help with off screen player indicator](https://devforum.roblox.com/t/need-help-with-off-screen-player-indicator/4957195)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Hello!! Recently, I’ve been trying to figure out how some games manage to do this effect where when a teammate / player goes off screen, it shows an arrow pointing to them. The problem is… well, I have no idea where to even start with this.
+- **[Programmatically edit Experience details](https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: Hello, I am trying to achieve programmatically editing experience details (basically just using Roblox’s endpoints) but I am having issues finding out whether it is actually possible. Said experience details are as follows: Thumbnail and ex
+- **[\[URGENT\] Innapropriate game with 1k CCU, reports ignored](https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176)** · Roblox Developer Forum latest · 2026-10-25
+  - Feed excerpt: I’ve reported FaultlineStudio’s “NovelAI” (Place ID 118074951239113) and “Character AI” (Place ID 123017733683462) several times through the in-experience Report button and through Support (ticket 177426510). Both are still labeled Minimal,
 
 ---
 
