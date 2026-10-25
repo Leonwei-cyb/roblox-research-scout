@@ -499,20 +499,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xb0vmr",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb0vmr/anyone_want_some_scripts_to_some_models_i_have_to/",
-      "title": "anyone want some scripts to some models ? i have to many",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-20",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xbmzu5",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbmzu5/just_wanted_to_share_this_model_i_made_in_roblox/",
       "title": "Just wanted to share this model i made in roblox studio",
@@ -625,6 +611,21 @@
         "board game and turn flow",
         "building and purchases",
         "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4956075:1",
+      "url": "https://devforum.roblox.com/t/i-made-a-website-that%E2%80%99s-pretty-much-studio-in-browser/4956075",
+      "title": "I made a website that’s pretty much studio in browser",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "player feedback and marketing",
+        "tools and performance"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -752,20 +753,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4946261:1",
-      "url": "https://devforum.roblox.com/t/suggestion-ai-assisted-r6-to-r15-animation-conversion/4946261",
-      "title": "Suggestion: AI-Assisted R6 to R15 Animation Conversion",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4946367:1",
       "url": "https://devforum.roblox.com/t/koi-solo-roblox-developer-portfolio/4946367",
       "title": "Koi | Solo Roblox Developer | Portfolio",
@@ -777,20 +764,6 @@
         "UI and menus",
         "animation and audio",
         "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946372:1",
-      "url": "https://devforum.roblox.com/t/fly-for-a-egg-looking-for-honest-feedback-on-what-its-missing/4946372",
-      "title": "Fly for a egg: looking for honest feedback on what it's missing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -987,20 +960,6 @@
       "signals": [
         "building and purchases",
         "world and visual design"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xajoln",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajoln/just_released_my_first_roblox_game_and_would_love/",
-      "title": "Just released my first Roblox game and would love honest feedback on the first 5 minutes",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-20",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops",
-        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1339,21 +1298,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4946536:1",
-      "url": "https://devforum.roblox.com/t/tilly-%E2%80%94-tailwind-for-roblox/4946536",
-      "title": "Tilly — Tailwind for Roblox",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "UI and menus",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4946579:1",
       "url": "https://devforum.roblox.com/t/les-presento-zona-de-juegos-espero-vuestro-feedback-muchas-gracias/4946579",
       "title": "Les presento Zona de Juegos espero vuestro Feedback muchas gracias",
@@ -1375,19 +1319,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946736:1",
-      "url": "https://devforum.roblox.com/t/urgent-iphone-duo-device-simulator-other-foldables/4946736",
-      "title": "URGENT: iPhone Duo Device Simulator & other foldables",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2435,6 +2366,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4956119:1",
+      "url": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119",
+      "title": "Studio eats all RAM (~500 MB/s) in edit mode when a ModuleScript loops :ToHSV() over a 40-entry untyped Color3 table",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4956122:1",
+      "url": "https://devforum.roblox.com/t/collectiononheartbeat-always-receives-deltatime-0-in-studio-edit-mode/4956122",
+      "title": "Collection.OnHeartbeat always receives deltaTime = 0 in Studio Edit Mode",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xakk0u",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xakk0u/titel_i_built_a_free_discord_bot_that_shows_your/",
       "title": "Titel: I built a free Discord bot that shows your Roblox game’s live player count and pings on spikes/drops",
@@ -2521,19 +2478,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xb2ldu",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb2ldu/my_first_game_in_roblox_studio/",
-      "title": "My First game in roblox studio",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-20",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4435,6 +4379,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4956047:1",
+      "url": "https://devforum.roblox.com/t/video-never-meets-video-quality-guidelines-despite-being-normal-gameplay/4956047",
+      "title": "Video never meets Video Quality Guidelines despite being normal gameplay",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4956072:1",
+      "url": "https://devforum.roblox.com/t/goodpool-a-flexible-and-lightweight-generic-object-pool/4956072",
+      "title": "GoodPool - A flexible and lightweight generic object pool",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4956083:1",
+      "url": "https://devforum.roblox.com/t/krypton-anti-cheat-paid/4956083",
+      "title": "Krypton Anti-Cheat [Paid]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xahmwy",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xahmwy/scratchstyle_coding_tool/",
       "title": "Scratch-style Coding Tool",
@@ -5314,17 +5297,6 @@
       "key": "devforum:4946804:1",
       "url": "https://devforum.roblox.com/t/passionate-collaborators-wanted-for-rpg-game/4946804",
       "title": "Passionate collaborators wanted for RPG game!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946916:1",
-      "url": "https://devforum.roblox.com/t/vehicle-streaming-network-receive-issue/4946916",
-      "title": "Vehicle Streaming Network Receive Issue",
       "source": "roblox-devforum-latest",
       "published": "2026-10-20",
       "kind": "devforum",
@@ -6546,6 +6518,28 @@
       "key": "devforum:4955865:1",
       "url": "https://devforum.roblox.com/t/users-are-creating-forum-posts-in-development-discussion-claiming-the-assistant-is-generating-nonsense/4955865",
       "title": "Users are creating forum posts in Development-Discussion claiming the assistant is generating nonsense.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4956054:1",
+      "url": "https://devforum.roblox.com/t/old-accounts-stuck-on-att-email-to-text-with-2fa-on/4956054",
+      "title": "Old accounts stuck on AT&T email-to-text with 2FA on",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4956082:1",
+      "url": "https://devforum.roblox.com/t/a-new-administration-system-from-the-creator-of-commander-4/4956082",
+      "title": "A new administration system from the creator of Commander 4!",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",

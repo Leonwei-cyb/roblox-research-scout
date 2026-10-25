@@ -1139,7 +1139,15 @@
     "7d040e6abcd71a75e020c8cb",
     "9ae3b6f5f166fd506b70596e",
     "bea8e9921497a39c8be5f4a4",
-    "89bc48f0968ed812cc38b5c3"
+    "89bc48f0968ed812cc38b5c3",
+    "3c46bbadd3bc00301bce93fd",
+    "480ea3b9988bc4cd0cd62f62",
+    "f27d8449fded687e776a0fce",
+    "9337ef1d0168c3bea529cfd4",
+    "cea6677facd667711eb327d8",
+    "2034756ff73c077616984eca",
+    "97262d636887c15b52055e99",
+    "322e3f62a02f6622954ca465"
   ],
   "items": [
     {
@@ -1165,6 +1173,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/object-alighment-produces-noticable-errors/4955804.rss",
       "id": "f960ec8d9c314df19d4807c3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Krypton Anti-Cheat [Paid]",
+      "url": "https://devforum.roblox.com/t/krypton-anti-cheat-paid/4956083",
+      "published": "2026-10-25",
+      "excerpt": "Hey hey, I’ve been working on krypton for a while, and thought it would be cool to share it publicly! It runs in your game and sends detections to a web panel, where you and your mods can go through them, look at the player, and decide on actions Here’s a list of what it can detect and what it does:",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/krypton-anti-cheat-paid/4956083.rss",
+      "id": "f27d8449fded687e776a0fce"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1200,6 +1220,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-access-group-permissions-or-send-payouts-%E2%80%94-group-has-716k-robux/4955699.rss",
       "id": "d466cb161028353745496f39"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I made a website that’s pretty much studio in browser",
+      "url": "https://devforum.roblox.com/t/i-made-a-website-that%E2%80%99s-pretty-much-studio-in-browser/4956075",
+      "published": "2026-10-25",
+      "excerpt": "ok so this started because my school chromebook can’t run studio. like at all. so i kept poking at “what if the editor just ran in chrome” and it kind of got out of hand lol it’s called Newly ( newly.gg ). you script in Luau, a lot of the API is the same (workspace, Players, RemoteEvents, TweenServi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-made-a-website-that%E2%80%99s-pretty-much-studio-in-browser/4956075.rss",
+      "id": "cea6677facd667711eb327d8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1261,6 +1293,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Old accounts stuck on AT&T email-to-text with 2FA on",
+      "url": "https://devforum.roblox.com/t/old-accounts-stuck-on-att-email-to-text-with-2fa-on/4956054",
+      "published": "2026-10-25",
+      "excerpt": "So uhh I’ve got an odd situation I really need help with. I linked a few accounts to either @txt.att.net or @mms.att.net years ago and completely forgot it existed By the time I remembered that they existed and wanted to check up on them the AT&T email-to-text program completely shut down. I have ab",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/old-accounts-stuck-on-att-email-to-text-with-2fa-on/4956054.rss",
+      "id": "97262d636887c15b52055e99"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Outdated animation versions intermittently served to players - even ones who have not encountered the old versions (Not cache related?)",
       "url": "https://devforum.roblox.com/t/outdated-animation-versions-intermittently-served-to-players-even-ones-who-have-not-encountered-the-old-versions-not-cache-related/4955726",
       "published": "2026-10-25",
@@ -1268,6 +1312,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/outdated-animation-versions-intermittently-served-to-players-even-ones-who-have-not-encountered-the-old-versions-not-cache-related/4955726.rss",
       "id": "934203426f97a2dc23a1bbb8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "A new administration system from the creator of Commander 4!",
+      "url": "https://devforum.roblox.com/t/a-new-administration-system-from-the-creator-of-commander-4/4956082",
+      "published": "2026-10-25",
+      "excerpt": "Hey! Been a while, like been years already! And I finally got the time to create a new administration system for Roblox! This is still in the works at the moment, I don’t know what the exact timeframe for release yet, but so far this is in a state where I feel confident sharing to everyone here! • •",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/a-new-administration-system-from-the-creator-of-commander-4/4956082.rss",
+      "id": "9337ef1d0168c3bea529cfd4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1364,10 +1420,34 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Studio eats all RAM (~500 MB/s) in edit mode when a ModuleScript loops :ToHSV() over a 40-entry untyped Color3 table",
+      "url": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119",
+      "published": "2026-10-25",
+      "excerpt": "Opening a place that contains one specific kind of ModuleScript makes Studio allocate memory continuously in edit mode , at roughly 400–500 MB per second, using about 3 CPU cores. Nothing has to be clicked, played or opened in the script editor. It never stops on its own. On my machine it reached 23",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119.rss",
+      "id": "480ea3b9988bc4cd0cd62f62"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Collection.OnHeartbeat always receives deltaTime = 0 in Studio Edit Mode",
+      "url": "https://devforum.roblox.com/t/collectiononheartbeat-always-receives-deltatime-0-in-studio-edit-mode/4956122",
+      "published": "2026-10-25",
+      "excerpt": "In Edit Mode, Collection.OnHeartbeat does fire, but dt is always 0. The callback runs every frame, but dt is always 0. Since Heartbeat is a variable-frame-rate event independent of simulation, dt should never be 0. Reproduction : collection = game.CollectionService:CreateCollection(\"Workspace\", game",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/collectiononheartbeat-always-receives-deltatime-0-in-studio-edit-mode/4956122.rss",
+      "id": "3c46bbadd3bc00301bce93fd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Memory leak freezing my game",
       "url": "https://devforum.roblox.com/t/memory-leak-freezing-my-game/4955970",
       "published": "2026-10-25",
-      "excerpt": "when i try to have on high graphics 5-10 just closes and already made a report on this before please someone look into this and this has been mentioned in 2018 2 posts - 2 participants Read full topic",
+      "excerpt": "when i try to have on high graphics 5-10 just closes and already made a report on this before please someone look into this and this has been mentioned in 2018 3 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/memory-leak-freezing-my-game/4955970.rss",
       "id": "393a60bcb3f071f48dff25d1"
@@ -1383,6 +1463,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/open-source-nerp-smooth-20hz-server-updates-on-a-60hz-client/4955859.rss",
       "id": "346442c07c0479bbfbfa0594"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Video never meets Video Quality Guidelines despite being normal gameplay",
+      "url": "https://devforum.roblox.com/t/video-never-meets-video-quality-guidelines-despite-being-normal-gameplay/4956047",
+      "published": "2026-10-25",
+      "excerpt": "Hello, I have repeatedly uploaded different versions of a video thumbnail to my new experience, but it has constantly been being rejected and saying “Video never meets Video Quality Guidelines” What should I do? The video is just normal gameplay and I have even changed the soundtrack between uploads",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/video-never-meets-video-quality-guidelines-despite-being-normal-gameplay/4956047.rss",
+      "id": "322e3f62a02f6622954ca465"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1418,6 +1510,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/random-40-to-100-ms-server-stalls-on-live-servers-that-we-cant-trace-to-our-code-server-authority/4955951.rss",
       "id": "20d31d06f0b860c7e808736f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "GoodPool - A flexible and lightweight generic object pool",
+      "url": "https://devforum.roblox.com/t/goodpool-a-flexible-and-lightweight-generic-object-pool/4956072",
+      "published": "2026-10-25",
+      "excerpt": "GoodPool A simple, flexible, and lightweight object pooling module for Roblox that works with any type of object, not just Instances. View docs Why GoodPool? In many Roblox projects, repeatedly creating and destroying objects can cause unnecessary allocations and performance overhead. Object pooling",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/goodpool-a-flexible-and-lightweight-generic-object-pool/4956072.rss",
+      "id": "2034756ff73c077616984eca"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8022,99 +8126,6 @@
       "excerpt": "Hey everyone, I just wanted to showcase off this cool pixel effect that I've been working on for the past weeks. I won't get into the specifics, but I am using Image APIs along with other stuff to help bring this to life! I sadly came to the realization that there's just too much math going on, so t",
       "creator": "/u/Bad-BackScratcha009 https://www.reddit.com/user/Bad-BackScratcha009",
       "id": "26cd78b16952f722e3c6ae55"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Vehicle Streaming Network Receive Issue",
-      "url": "https://devforum.roblox.com/t/vehicle-streaming-network-receive-issue/4946916",
-      "published": "2026-10-20",
-      "excerpt": "We have recently been suffering from a stutter issue that seems to be caused by a bug in Streaming. This is pretty impactful as it affects most public servers negatively. Here’s what I found/observed: Game: happens in our game Highway Legends ( Highway Legends | Play on Roblox ) Started: around Sept",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/vehicle-streaming-network-receive-issue/4946916.rss",
-      "id": "26b941908b2f30e002a8263b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Fly for a egg: looking for honest feedback on what it's missing",
-      "url": "https://devforum.roblox.com/t/fly-for-a-egg-looking-for-honest-feedback-on-what-its-missing/4946372",
-      "published": "2026-10-20",
-      "excerpt": "Hi everyone! On Sunday I finished building Fly for a egg, and I’d really appreciate your opinion. I feel it’s still missing something, but I don’t want it to end up like every other game of its kind. What do you think of it, and what would you change or add to make it feel unique? Any feedback is we",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/fly-for-a-egg-looking-for-honest-feedback-on-what-its-missing/4946372.rss",
-      "id": "26684a0e6ffcfc83dca05e94"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Tilly — Tailwind for Roblox",
-      "url": "https://devforum.roblox.com/t/tilly-%E2%80%94-tailwind-for-roblox/4946536",
-      "published": "2026-10-20",
-      "excerpt": "Tilly Like Tailwind, Tilly allows you to style your Roblox UI using utility tags and minimize your markup! Unlike Tailwind, Tilly is not a build tool and instead operates entirely at runtime. To save on performance, it renders and caches only the tags applied. [!IMPORTANT] Tilly is not stable or mat",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/tilly-%E2%80%94-tailwind-for-roblox/4946536.rss",
-      "id": "2621d59921d173cef7ba06cd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "My First game in roblox studio",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb2ldu/my_first_game_in_roblox_studio/",
-      "published": "2026-10-20",
-      "excerpt": "Hi guys, i hope u are doing great can you please play my game https://www.roblox.com/games/123335630565482/Pafys-Resturant Thanks submitted by /u/ordinaryboy98 [link] [comments]",
-      "creator": "/u/ordinaryboy98 https://www.reddit.com/user/ordinaryboy98",
-      "id": "2513eef7ac10795895d7a150"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Just released my first Roblox game and would love honest feedback on the first 5 minutes",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xajoln/just_released_my_first_roblox_game_and_would_love/",
-      "published": "2026-10-20",
-      "excerpt": "I just released my first Roblox game and I'd love some feedback It's called Steal the Summit. You climb a big mountain, find relics and carry them back to your camp, but anyone holding a relic can be tackled and robbed, so the trip back down is where most of the action happens. It took a lot longer ",
-      "creator": "/u/I_likememes https://www.reddit.com/user/I_likememes",
-      "id": "24f8fb937a36c2fc27cccdce"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "URGENT: iPhone Duo Device Simulator & other foldables",
-      "url": "https://devforum.roblox.com/t/urgent-iphone-duo-device-simulator-other-foldables/4946736",
-      "published": "2026-10-20",
-      "excerpt": "Hey! Foldable phones have been greatly increasing in popularity as of recent, especially with the brand new release of the brand new iPhone Duo on October 23rd. Why this is important Apple has already set a large list of requirements to make your compatibility for iPhone Duo a great experience for a",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/urgent-iphone-duo-device-simulator-other-foldables/4946736.rss",
-      "id": "22d7c20357b9c02a8618e084"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "anyone want some scripts to some models ? i have to many",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb0vmr/anyone_want_some_scripts_to_some_models_i_have_to/",
-      "published": "2026-10-20",
-      "excerpt": "bla bla bla submitted by /u/ducky5265352 [link] [comments]",
-      "creator": "/u/ducky5265352 https://www.reddit.com/user/ducky5265352",
-      "id": "210a10305b6c68d282416b50"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Suggestion: AI-Assisted R6 to R15 Animation Conversion",
-      "url": "https://devforum.roblox.com/t/suggestion-ai-assisted-r6-to-r15-animation-conversion/4946261",
-      "published": "2026-10-20",
-      "excerpt": "Suggestion: AI-Assisted R6 to R15 Animation Conversion What is your suggestion? I think it would be really useful if Roblox Studio had a built-in feature to convert R6 animations into R15 animations using AI. Roblox has been pushing R15 for quite a while now, and I understand why. However, one thing",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/suggestion-ai-assisted-r6-to-r15-animation-conversion/4946261.rss",
-      "id": "1f468ec6c4a749b51d6fdb63"
     }
   ]
 }
