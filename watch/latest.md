@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [drewbitt/starred](https://github.com/drewbitt/starred) (15 stars). 
+- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Update Brotli library specifics.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

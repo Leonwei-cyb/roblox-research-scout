@@ -1153,7 +1153,9 @@
     "a5e6c485d9109e63ae4f8b92",
     "49631c3fb18fc95569ddb3c8",
     "5d500a6cfe35a732f4d8fb1c",
-    "6b0d65814375e8e2584bb3d8"
+    "6b0d65814375e8e2584bb3d8",
+    "46235aa6e28872bdb1abf37a",
+    "3d55a6a3e2c756462675797a"
   ],
   "items": [
     {
@@ -1500,6 +1502,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119.rss",
       "id": "480ea3b9988bc4cd0cd62f62"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Could some one help my UI?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xexaak/could_some_one_help_my_ui/",
+      "published": "2026-10-25",
+      "excerpt": "I keep seeing this nothingness on the left when my Image label is beyond that point, so what properties should I change? submitted by /u/chickengunplayer123 [link] [comments]",
+      "creator": "/u/chickengunplayer123 https://www.reddit.com/user/chickengunplayer123",
+      "id": "46235aa6e28872bdb1abf37a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Order Up! (Highly Engaged Player Count Issue)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xexqat/order_up_highly_engaged_player_count_issue/",
+      "published": "2026-10-25",
+      "excerpt": "Hey there! i just created a game named Order Up! not long ago, ive gotten decent traction however im trying to get some more highly engaged users as 80% of my ad clicks dont get played due to more younger audience being interested in it, but cannot play due to it being 16+, itd be great if you could",
+      "creator": "/u/Secret-Recording4640 https://www.reddit.com/user/Secret-Recording4640",
+      "id": "3d55a6a3e2c756462675797a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8107,29 +8131,6 @@
       "excerpt": "Some work NOT all, for Seraphs End. If you are interested in the game lmk in comments wojld send discord link. Saving a lot for combat sneak. Scripted it all, did the art for finisher Port: https://discerninq.dev User: discerninq_ submitted by /u/discerninq [link] [comments]",
       "creator": "/u/discerninq https://www.reddit.com/user/discerninq",
       "id": "311903e99952da57cbdd628a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to optimize a game for 40+ CCU (Players) server",
-      "url": "https://devforum.roblox.com/t/how-to-optimize-a-game-for-40-ccu-players-server/4946987",
-      "published": "2026-10-20",
-      "excerpt": "こんにちは! As the world progresses, I have seen many games with over 40 players - often with lag and server crashes. But why? As we strip away the same repeated words about optimization, you may find out exactly how to do it. We use the word LSS (Large Server Sized) to define them in this post. Method 1",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-optimize-a-game-for-40-ccu-players-server/4946987.rss",
-      "id": "3027b11f72f3129cf3aaa843"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Scrapped voting system",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb5ksn/scrapped_voting_system/",
-      "published": "2026-10-20",
-      "excerpt": "submitted by /u/karolek848 [link] [comments]",
-      "creator": "/u/karolek848 https://www.reddit.com/user/karolek848",
-      "id": "2ddfbd98a9c7de0f296efa83"
     }
   ]
 }
