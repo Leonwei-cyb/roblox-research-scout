@@ -74,8 +74,11 @@ def resolve(environ=None):
         source = AUTHORITY_LABEL if path == AUTHORITY else "LEON_ACTIVE_GAME_FILE"
         try:
             raw = path.read_text(encoding="utf-8")[:200] if path.stat().st_size <= 4096 else ""
-        except OSError:
+        except FileNotFoundError:
             return None, source + ": MISSING"
+        except OSError as e:
+            # e.g. macOS folder privacy blocking a launchd job: say so, never guess.
+            return None, source + ": UNREADABLE (" + type(e).__name__ + ")"
     lines = str(raw).strip().splitlines()
     value = lines[0].strip().lower() if lines else ""
     game = ALIASES.get(value)

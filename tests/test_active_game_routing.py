@@ -67,6 +67,13 @@ class ActiveGameRoutingTests(unittest.TestCase):
                          ["cat_magic_research_report.md",
                           "current_game_research_report.json", "current_game_research_report.md"])
 
+    def test_blocked_authority_is_reported_not_called_missing(self):
+        import active_game
+        with patch.object(Path, "stat", side_effect=PermissionError("blocked")):
+            game, why = active_game.resolve({"LEON_ACTIVE_GAME_FILE": "/x/active_game.txt"})
+        self.assertIsNone(game)
+        self.assertEqual(why, "LEON_ACTIVE_GAME_FILE: UNREADABLE (PermissionError)")
+
     def test_unrecognized_authority_is_not_guessed(self):
         out = self.run_main("one-tower\n")
         current = json.loads((out / "current_game_research_report.json").read_text())
