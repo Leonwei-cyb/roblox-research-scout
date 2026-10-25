@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 593,
+  "unique_posts": 594,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -50,22 +50,6 @@
         "world and visual design"
       ],
       "score": 11,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946409:1",
-      "url": "https://devforum.roblox.com/t/critical-server-animation-memory-leaks-continuously/4946409",
-      "title": "[CRITICAL] Server Animation Memory leaks continuously",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "animation and audio",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 10,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -217,20 +201,6 @@
         "tools and performance"
       ],
       "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946657:1",
-      "url": "https://devforum.roblox.com/t/early-testers-cannot-run-animations-on-mobile/4946657",
-      "title": "Early testers cannot run animations on mobile",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "animation and audio"
-      ],
-      "score": 8,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -546,36 +516,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4945882:1",
-      "url": "https://devforum.roblox.com/t/feedback-on-private-servers/4945882",
-      "title": "Feedback on \"Private servers\"",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "economy and income",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4947178:1",
-      "url": "https://devforum.roblox.com/t/direction-keeps-changing-when-the-player-moves-object-carrying/4947178",
-      "title": "Direction keeps changing when the player moves (object carrying)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4950387:1",
       "url": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387",
       "title": "[Test] New Home Layout With More Built-in Utility",
@@ -796,22 +736,6 @@
         "genres and successful loops"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946367:1",
-      "url": "https://devforum.roblox.com/t/koi-solo-roblox-developer-portfolio/4946367",
-      "title": "Koi | Solo Roblox Developer | Portfolio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "UI and menus",
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1260,6 +1184,20 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xf76or",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf76or/recruiting_starting_a_new_roblox_game_studio_from/",
+      "title": "[Recruiting] Starting a new Roblox game studio from scratch: Bad Banana Arts! (All skill levels welcome / Revenue Share + Future Payouts)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2372,6 +2310,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4956963:1",
+      "url": "https://devforum.roblox.com/t/for-some-reason-my-model-doesnt-get-uploaded-to-the-creator-store/4956963",
+      "title": "For some reason my model doesn't get uploaded to the creator store",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xao529",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xao529/lighting_glitch/",
       "title": "Lighting GLitch",
@@ -2903,6 +2854,47 @@
       "published": "2026-10-25",
       "kind": "reddit",
       "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xf7fye",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/",
+      "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xf7l9f",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7l9f/looking_for_someone_with_a_nonshit_pc_to_help_me/",
+      "title": "looking for someone with a non-shit pc to help me record a video + feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xf874u",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf874u/hey_looking_for_20_ccu_games/",
+      "title": "Hey looking for 20+ ccu games",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "genres and successful loops",
         "player feedback and marketing"
       ],
       "score": 5,
@@ -3490,6 +3482,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "youtube:z_NngCP8_qg",
+      "url": "https://www.youtube.com/shorts/z_NngCP8_qg",
+      "title": "forget 99 nights. try surviving one. tonight, The Deer is hunting you in The Hollow.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-10-25",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4946043:1",
       "url": "https://devforum.roblox.com/t/oklab-color-interpolation-for-uigradient-and-any-element-that-accepts-a-colorsequence/4946043",
       "title": "Oklab Color Interpolation for UIGradient (and any element that accepts a colorsequence )",
@@ -3529,19 +3532,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4946258:1",
-      "url": "https://devforum.roblox.com/t/consistent-uiblox-warnings-on-client-that-cannot-be-tracked-down-or-resolved/4946258",
-      "title": "Consistent UIBlox warnings on client that cannot be tracked down or resolved",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4946375:1",
       "url": "https://devforum.roblox.com/t/new-dev-here-looking-for-info/4946375",
       "title": "New Dev here, looking for info!",
@@ -3550,19 +3540,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946767:1",
-      "url": "https://devforum.roblox.com/t/xeno-injection-detection/4946767",
-      "title": "Xeno Injection Detection",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4478,14 +4455,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xahmwy",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xahmwy/scratchstyle_coding_tool/",
-      "title": "Scratch-style Coding Tool",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-20",
-      "kind": "reddit",
+      "key": "devforum:4957130:1",
+      "url": "https://devforum.roblox.com/t/game-name-wouldnt-save/4957130",
+      "title": "Game Name wouldnt save",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
       "signals": [
-        "tools and performance"
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5219,14 +5196,42 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4945859:1",
-      "url": "https://devforum.roblox.com/t/group-community-locked-i-wait-7-days-my-holder-account-doesn%E2%80%99t-have-access-to-the-devforum/4945859",
-      "title": "Group Community locked i wait 7 days my holder account: doesn’t have access to the devforum",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xf7dyn",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7dyn/my_game_is_failing_again/",
+      "title": "My game is failing again...",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xf7sb3",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7sb3/how_to_hit_the_roblox_algorithm/",
+      "title": "How to hit the Roblox algorithm?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xf8jot",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf8jot/looking_for_devs_for_a_doors_inspired_game/",
+      "title": "Looking for devs for a doors inspired game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -5285,17 +5290,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4946481:1",
-      "url": "https://devforum.roblox.com/t/asset-manager-window-fails-to-open-after-selecting-files-to-upload/4946481",
-      "title": "Asset Manager window fails to open after selecting files to upload",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4946497:1",
       "url": "https://devforum.roblox.com/t/group-social-link-has-improper-validation/4946497",
       "title": "Group Social Link has improper validation",
@@ -5310,17 +5304,6 @@
       "key": "devforum:4946741:1",
       "url": "https://devforum.roblox.com/t/hiring-2d-artist-for-cartoon-style-game-icons/4946741",
       "title": "[HIRING] 2D Artist for Cartoon-Style Game Icons",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-20",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4946804:1",
-      "url": "https://devforum.roblox.com/t/passionate-collaborators-wanted-for-rpg-game/4946804",
-      "title": "Passionate collaborators wanted for RPG game!",
       "source": "roblox-devforum-latest",
       "published": "2026-10-20",
       "kind": "devforum",
@@ -6586,6 +6569,28 @@
       "key": "devforum:4956945:1",
       "url": "https://devforum.roblox.com/t/energy-generation-facility-a-new-idea/4956945",
       "title": "Energy Generation Facility - A New Idea",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4957094:1",
+      "url": "https://devforum.roblox.com/t/when-trying-to-publish-a-dynamic-head-i-get-content-restricted-assets/4957094",
+      "title": "When Trying to publish a dynamic head i get \"content restricted assets\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4957110:1",
+      "url": "https://devforum.roblox.com/t/applydescription-sets-hipheight-to-zero/4957110",
+      "title": "ApplyDescription sets HipHeight to zero",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",

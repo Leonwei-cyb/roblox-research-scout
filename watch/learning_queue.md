@@ -6,19 +6,19 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 593; fully reviewed: 0.
+Records processed: 600; unique posts: 594; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 348
+- devforum: 342
 - index-only: 9
-- reddit: 227
-- youtube: 9
+- reddit: 233
+- youtube: 10
 
 ## First-Session And Mobile
 
 - [Solo dev, first game: 86% of new players leave within 5 minutes. How do you fix onboarding in a simulator?](https://www.reddit.com/r/robloxgamedev/comments/1xf1202/solo_dev_first_game_86_of_new_players_leave/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [\[CRITICAL\] Server Animation Memory leaks continuously](https://devforum.roblox.com/t/critical-server-animation-memory-leaks-continuously/4946409) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
+- [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -36,13 +36,13 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Ui And Menus
 
-- [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 - [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
 - [How to script throwing a tool and how to make a tool play a sound when you equip it?](https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
-- [Early testers cannot run animations on mobile](https://devforum.roblox.com/t/early-testers-cannot-run-animations-on-mobile/4946657) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
+- [\[OPEN\] Animator / VFX Artist needed for Action MMORPG](https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
@@ -52,7 +52,7 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 ## Genres And Successful Loops
 
 - [\[Feedback Wanted\] Service Please! – A Restaurant Simulator Focused on Cooking & Service](https://devforum.roblox.com/t/feedback-wanted-service-please-%E2%80%93-a-restaurant-simulator-focused-on-cooking-service/4947839) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[OPEN\] Animator / VFX Artist needed for Action MMORPG](https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Roblox developers: how do you currently balance your game’s economy and progression?](https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 
@@ -61,14 +61,14 @@ Records processed: 600; unique posts: 593; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [I need advice on player retention](https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick](https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one I need advice on player retention test with measurable pass/fail.
+3. Explain WHY it matters and propose one How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
