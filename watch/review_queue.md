@@ -6,9 +6,9 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
+- **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
 - **[\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061)** — Public text/page, video not confirmed
 - **[I built a tower defense in Roblox Studio where every secret you find lights a star in the night sky. This week's clue: where the old boards end a](https://www.reddit.com/r/ROBLOXStudio/comments/1xeivz3/i_built_a_tower_defense_in_roblox_studio_where/)** — Public text/page, video not confirmed
-- **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
