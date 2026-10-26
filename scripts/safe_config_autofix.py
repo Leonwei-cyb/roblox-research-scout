@@ -35,7 +35,9 @@ def dedupe(values,identity):
         if not isinstance(key,str) or not key.strip():
             raise ValueError("Empty source key")
         if key in seen:
-            if seen[key]!=item:
+            # Python equality conflates booleans and numbers, even nested.
+            # Sorted JSON preserves types while ignoring object key order.
+            if json.dumps(seen[key],sort_keys=True,allow_nan=False)!=json.dumps(item,sort_keys=True,allow_nan=False):
                 raise ValueError("Conflicting entries for "+key+"; manual review required")
             continue
         seen[key]=item

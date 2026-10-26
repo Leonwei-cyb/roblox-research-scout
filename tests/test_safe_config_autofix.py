@@ -15,6 +15,29 @@ class SafeRepairTests(unittest.TestCase):
         value={"feeds":[{"id":"x","url":"https://a"},{"id":"x","url":"https://b"}]}
         with self.assertRaises(ValueError):
             m.repair(value,{"feeds":"id"})
+    def test_json_type_conflict_changes_neither_file(self):
+        # Python equality conflates True/1 and False/0 even inside nested lists.
+        for first, second in [(True, 1), (False, 0), (1, 1.0)]:
+            with self.subTest(first=first, second=second), tempfile.TemporaryDirectory() as d:
+                root=Path(d);(root/"watch").mkdir()
+                a=root/"watch/config.json";b=root/"watch/feeds.json"
+                a.write_text(json.dumps({"watch_repos":["Roblox/luau","Roblox/luau"]}))
+                b.write_text(json.dumps({"feeds":[
+                    {"id":"x","url":"https://example.org/rss","options":{"values":[first]}},
+                    {"id":"x","url":"https://example.org/rss","options":{"values":[second]}}
+                ]}))
+                before=(a.read_bytes(),b.read_bytes())
+                with self.assertRaisesRegex(ValueError, "Conflicting entries"):
+                    m.work(root,True)
+                self.assertEqual((a.read_bytes(),b.read_bytes()),before)
+
+    def test_identical_objects_with_reordered_keys_are_deduplicated(self):
+        value={"feeds":[{"id":"x","url":"https://example.org/rss"},
+                        {"url":"https://example.org/rss","id":"x"}]}
+        fixed,report=m.repair(value,{"feeds":"id"})
+        self.assertEqual(report,{"feeds":1})
+        self.assertEqual(fixed["feeds"],[value["feeds"][0]])
+
     def test_dry_run_and_source_scope(self):
         with tempfile.TemporaryDirectory() as d:
             root=Path(d);(root/"watch").mkdir()
