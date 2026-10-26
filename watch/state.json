@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "2eff7a8d21c80be48904f62ebdea36d945d7b504",
+      "head": "a5b0f2e03aba37ea34e527fe30b2f6aaa4895b9f",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.310",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "16974bf351cd68b1978af9494082b75efadaa8e0",
-      "head_subject": "0.60.10",
+      "head": "5305a34e31909d8d94488860b605773ba57c9f3f",
+      "head_subject": "Update jsonpath-ng requirement from ~=1.12.0 to ~=1.13.0 (#4603)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -211,6 +211,7 @@
     "kaixinbaba/awesome-rea",
     "killop/anything_about_game",
     "korchasa/awesome-mcp",
+    "krazydarky-code/Multi-Script",
     "krishna3163/best-root-apps-for-android",
     "krishna3163/best_shizuku_apps_for_android_no_root",
     "kumarsohitcate98-debug/kazehaya-luau-lab",

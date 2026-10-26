@@ -21,6 +21,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[Roblox Studio Toolbox bug](https://devforum.roblox.com/t/roblox-studio-toolbox-bug/4958630)** — Public text/page, video not confirmed
 - **[Looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xfscti/looking_for_playtesters/)** — Public text/page, video not confirmed
-- **[\[Studio Feature Request\] Plugin Saving Revamp — Data Deletion, Expansion & Optimization](https://devforum.roblox.com/t/studio-feature-request-plugin-saving-revamp-%E2%80%94-data-deletion-expansion-optimization/4958173)** — Public text/page, video not confirmed
 - **[how do I subdivide parts like in the images?? is there a plugin that can do that?](https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/)** — Public text/page, video not confirmed

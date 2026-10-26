@@ -7,28 +7,39 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[Connect Claude MCP Opus 5.5 With Roblox Studio - AI Makes a Working Hourglass in 2 Minutes - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vam9nZndKWmNZWVlrVmlDM0dhaGJ3QU9DMnJnLTE1Znp1V1UzbnByOUtFWE9XWUhqTnVxY3lYWjg0V1N5b0ZxRzlpRDN0WTFZMjRicEtR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-24
-  - Feed excerpt: Connect Claude MCP Opus 5.5 With Roblox Studio - AI Makes a Working Hourglass in 2 Minutes YouTube
+- **[How To Make An ENTIRE Roblox Game With AI - Full Guide - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdGdjazlvWkhxZXBTRmhYQ0hEd3p5cnZDN1BUVW9BSlUzUUNiVkhZb2hlLXEtVlZKYmM3SVdHWHFOSTFQekNlZGotbUNDQktERGNHSzhR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-21
+  - Feed excerpt: How To Make An ENTIRE Roblox Game With AI - Full Guide YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jZTNMbzdzTUEzb1BoSDNfV1lhYnB5dlBXLWt1YW05aVlJMWREU1JRaDctU0pKLVhVckk2cVktR3M5RmlGVmY1WkVNTlVsR1VJVDNrNUFB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-09-30
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
 
 ## Community
 
-- **[ForgeGUI vs a small YouTuber](https://www.reddit.com/r/ROBLOXStudio/comments/1xfwgtr/forgegui_vs_a_small_youtuber/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
-  - Feed excerpt: A random small YouTuber by the name of fwjelaa might have just made a Claude pipeline that operates on a similar level as forgeGUI for free! Crazy world we live in. submitted by /u/V3nd1ngMachine \[link\] \[comments\]
-- **[How do you make handheld weapons with 3d clothing?](https://www.reddit.com/r/ROBLOXStudio/comments/1xfyanm/how_do_you_make_handheld_weapons_with_3d_clothing/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
-  - Feed excerpt: So I have the ingame models of this weapon and shield from dungeon quest, and I'd like to turn it into an avatar item for my own use. I've seen other people upload hand held weapons as a Jacket Accessory with some success, but I'm confused 
-- **[How normal Roblox players feel after after hearing about code rot](https://www.reddit.com/r/ROBLOXStudio/comments/1xfxe7o/how_normal_roblox_players_feel_after_after/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
-  - Feed excerpt: Code rot is just when code becomes outdated and doesn't work properly. If you've ever messed around with old gear you know what I'm talking about. I've seen them say some really incorrect stuff in the comments of videos about it submitted b
-- **[Roblox's Most Interactive And Biggest Open World City Game - Welcome To Lendex - Coming Out Mabye Nov 28, 2026](https://www.reddit.com/r/ROBLOXStudio/comments/1xfxc5q/robloxs_most_interactive_and_biggest_open_world/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
-  - Feed excerpt: Hey lol, so I've been working on this Roblox game called Lendex RP for quite a while now and I wanted to share it here and maybe get some feedback. Before I start talking about the game I wanna clear up a few things. I originally started ma
+- **[Been working on making the creatures in my Roblox game feel more alive. How's this looking?](https://www.reddit.com/r/ROBLOXStudio/comments/1xg0s4k/been_working_on_making_the_creatures_in_my_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: Been working on some of the little creature interactions in my Roblox game, Stitched Up. This is Spoolie, one of the Fuzzlings that you'll come across while exploring. I've been playing around with the camera movement and animations to make
+- **[Modelling a mech for a game I'm planning](https://www.reddit.com/r/ROBLOXStudio/comments/1xg06cg/modelling_a_mech_for_a_game_im_planning/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: all modelled on studio because im allergic to blender. the exterior appearance is pretty much done. whats left is for me to model the interior of the cockpit as it is meant to look nice in first person. not a single line of code in the game
+- **[What would you like to see on the Roblox platform?](https://www.reddit.com/r/ROBLOXStudio/comments/1xfyryk/what_would_you_like_to_see_on_the_roblox_platform/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: I have a question for you: what bothers you the most on the Roblox platform, and what do you feel is missing the most (from both a player's and a developer's perspective)? submitted by /u/BTV_Rbx \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Do you need a developer?](https://devforum.roblox.com/t/do-you-need-a-developer/4958475)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: Hi folks , Are you looking for a developer ? I can help you for free during the weekends mainly Sundays. I can make you UIs , make some server stuff or give ideas, I can’t make animations or maps bcz I am trash at it lol but most of the oth
-- **[Feedback needed on a new project](https://devforum.roblox.com/t/feedback-needed-on-a-new-project/4958466)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: funniest answer wins - write a funny answer to a bunch of prompts, vote on who’s is the best and try and get #1 on the leaderboard Roblox \[NEW MAP\] Funniest Answer Wins! 😂 Think you're the funniest? PROVE IT! ✍️ Answer hilarious questions w
-- **[Module Scripts that extra Type Annotation?](https://devforum.roblox.com/t/module-scripts-that-extra-type-annotation/4958546)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: I’m currently looking into whether there are any packages or tools on Roblox made by others that can extract the full type annotation/schema of other scripts. The main purpose is to avoid relying on typeof(require(...)) to obtain type infor
+- **[Roblox Studio Toolbox bug](https://devforum.roblox.com/t/roblox-studio-toolbox-bug/4958630)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: When I open the Roblox Toolbox in my Roblox Studio, and I select All 2D Assets , when I try clicking anywhere, i can’t open anything because it seems like it did not render assets as a button. I tried updating and restarting Studio several 
+- **[Client-owned assembly teleports by its centre-of-mass shift when a part's density changes](https://devforum.roblox.com/t/client-owned-assembly-teleports-by-its-centre-of-mass-shift-when-a-parts-density-changes/4958646)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: When a client owns an unanchored assembly and the density of one of its welded parts changes, the whole assembly can teleport in a single frame by exactly the distance the assembly’s centre of mass moved within it. Nothing pushes it; only t
+- **[Help with the Joints of my bus going left and right](https://devforum.roblox.com/t/help-with-the-joints-of-my-bus-going-left-and-right/4958652)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: So when i drive really fast, my joints go left and right on my bus and this is everytime like that. i want to fix it and i dont know how. at the end you can see it really good 1 post - 1 participant Read full topic
+- **[I got a 7-day suspension for my bullet texture, why?](https://devforum.roblox.com/t/i-got-a-7-day-suspension-for-my-bullet-texture-why/4958698)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: Here is my image and I got a 7-day termination. How is this inappropriate? It is a bullet texture. 3 posts - 2 participants Read full topic
+- **[Implement "Clarity City" / "Metropolis" as a better replacement to GothamT](https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gothamt/4958682)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: When Gotham and Arial were removed in 2024 , Montserrat and Arimo were added as a replacement respectively. The reasoning for the removal is presumably due to licensing costs, which is understandable , the replacement for Arial was okay, bu
+- **[Json Handler Script](https://devforum.roblox.com/t/json-handler-script/4958576)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: Type : Module Recommended place for it : Replicated Storage What for / Name : SafeJson Script content : -- Json handler local SafeJson = {} function SafeJson.encode(value) local t = typeof(value) if t == "string" then return SafeJson._str(v
+- **[Style Editor's icon for "Colors" is broken and does not display](https://devforum.roblox.com/t/style-editors-icon-for-colors-is-broken-and-does-not-display/4958573)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: As the title suggests, naming a StyleSheet “Colors” in the Style Editor attempts to apply a custom icon, just like “Fonts” and “Sizes” does. However, the icon does not work and appears as invisible Expected behavior I expect the icon to fun
 
 ---
 
