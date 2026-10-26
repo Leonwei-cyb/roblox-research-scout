@@ -1,67 +1,14 @@
 {
-  "schema": "LEON_COLONISTS_RESEARCH_REPORT_V1",
-  "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
-  "active_game": "Colonists",
-  "held_games_not_current": [
-    "Cat Magic"
-  ],
+  "schema": "LEON_ACTIVE_GAME_RESEARCH_REPORT_V1",
+  "status": "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS",
+  "active_game": null,
+  "held_games_not_current": [],
   "input_unique_posts": 596,
-  "original_source_candidates": 582,
+  "original_source_candidates": 581,
   "inspected_videos": 0,
   "observed_gameplay_findings": 0,
   "new_code_changes_authorized": false,
-  "candidates": [
-    {
-      "priority": "P0",
-      "topic": "first-session and mobile",
-      "key": "devforum:4948295:1",
-      "title": "How do I make M1 attack less sensitive on mobile",
-      "url": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295",
-      "kind": "devforum",
-      "published": "2026-10-21",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Can a first-time desktop player place both opening settlements and roads without help text?"
-    },
-    {
-      "priority": "P1",
-      "topic": "UI and menus",
-      "key": "devforum:4953472:1",
-      "title": "[For Hire] Shop & Inventory UI Scripts",
-      "url": "https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472",
-      "kind": "devforum",
-      "published": "2026-10-24",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?"
-    },
-    {
-      "priority": "P1",
-      "topic": "world and visual design",
-      "key": "devforum:4950620:1",
-      "title": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
-      "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
-      "kind": "devforum",
-      "published": "2026-10-22",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?"
-    },
-    {
-      "priority": "P1",
-      "topic": "animation and audio",
-      "key": "reddit:1xc6u56",
-      "title": "How to script throwing a tool and how to make a tool play a sound when you equip it?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/",
-      "kind": "reddit",
-      "published": "2026-10-22",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?"
-    }
-  ],
-  "unfilled_topics": [
-    "board game and turn flow"
-  ],
-  "authority": "LEON_ACTIVE_GAME"
+  "candidates": [],
+  "unfilled_topics": [],
+  "authority": "studio-gate/active_game.txt: MISSING"
 }
