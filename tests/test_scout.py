@@ -1,10 +1,14 @@
 """Mocked, offline tests: no GitHub token, API calls, or CI minutes needed."""
 import importlib.util
+import os
+import sys
 import json
 import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
+
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]/"scripts"))
 
 SPEC = importlib.util.spec_from_file_location("scout", Path(__file__).resolve().parents[1] / "scripts" / "scout.py")
 scout = importlib.util.module_from_spec(SPEC)
@@ -86,6 +90,21 @@ class ScoutTest(unittest.TestCase):
         self.assertIn("Watchlist configured: 17",health)
         self.assertIn("Watchlist attempted: 17",health)
         self.assertIn("Repositories successfully checked: 16",health)
+
+    def test_hosted_autofix_is_bounded_and_does_not_touch_mac(self):
+        feeds=self.root/"watch/feeds.json"
+        feeds.write_text(json.dumps({"feeds":[{"id":"a","url":"https://a"},{"id":"a","url":"https://a"}]}))
+        original_cfg=json.loads(scout.CONFIG.read_text())
+        original_cfg["watch_repos"]=["owner/project","owner/project"]
+        scout.CONFIG.write_text(json.dumps(original_cfg))
+        with patch.dict(os.environ,{"GITHUB_ACTIONS":"false"}):
+            self.assertEqual(scout.hosted_config_autofix(self.root),[])
+        self.assertEqual(len(json.loads(scout.CONFIG.read_text())["watch_repos"]),2)
+        with patch.dict(os.environ,{"GITHUB_ACTIONS":"true"}):
+            updated=scout.hosted_config_autofix(self.root)
+        self.assertEqual(updated,[("watch/config.json",{"watch_repos":1}),("watch/feeds.json",{"feeds":1})])
+        self.assertEqual(len(json.loads(scout.CONFIG.read_text())["watch_repos"]),1)
+        self.assertEqual(len(json.loads(feeds.read_text())["feeds"]),1)
 
     def test_no_arbitrary_repository_names(self):
         with self.assertRaises(ValueError):
