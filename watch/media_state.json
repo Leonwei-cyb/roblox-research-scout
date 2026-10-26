@@ -1358,7 +1358,8 @@
     "da08d8cbe91f9563c9cf62f5",
     "a7a03cddcca7c8a534d1721e",
     "72bc68a0abfd970765c0d149",
-    "efbb41bb2cc45ad4d67554f8"
+    "efbb41bb2cc45ad4d67554f8",
+    "2f7fc9205b7465d3a42b0a27"
   ],
   "items": [
     {
@@ -2125,6 +2126,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/do-you-need-a-developer/4958475.rss",
       "id": "32b30523592474e26292dc72"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Z set completed again!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg7yve/z_set_completed_again/",
+      "published": "2026-10-26",
+      "excerpt": "I know I did say it was already completed, but I have redone some stuff. submitted by /u/Andrewwwww16 [link] [comments]",
+      "creator": "/u/Andrewwwww16 https://www.reddit.com/user/Andrewwwww16",
+      "id": "2f7fc9205b7465d3a42b0a27"
     },
     {
       "source": "reddit-robloxdev",
@@ -8292,18 +8304,6 @@
       "excerpt": "My account is 16-17 (With a parent account linked that's ID verified) and on my account I have Roblox plus (The cheapest) Am eligible for this to work in my game if I buy it? submitted by /u/Same_Environment_100 [link] [comments]",
       "creator": "/u/Same_Environment_100 https://www.reddit.com/user/Same_Environment_100",
       "id": "0e72578372d04fc894f51ad7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Batteries appear to defy gravity",
-      "url": "https://devforum.roblox.com/t/batteries-appear-to-defy-gravity/4951242",
-      "published": "2026-10-22",
-      "excerpt": "I made these battery models a while back nearing the start of my project and just recently (maybe with the addition of experimental fluid forces) they have started to float. 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/batteries-appear-to-defy-gravity/4951242.rss",
-      "id": "0c6f2e357b3a1425df1b94fd"
     }
   ]
 }
