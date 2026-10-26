@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "d44c2581904a98430e348d89cc2af1529b1808a0",
-      "head_subject": "mlx: preserve small-image detail for compact Gemma 4 vision towers (#19247)",
+      "head": "66ab8482e08035a3238dff04a5739c4371c61bfe",
+      "head_subject": "MLX, MLX-C: version bump - prompt speed up for gemma/flint/laguna (#19291)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.11",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
@@ -209,6 +209,7 @@
     "johe123qwe/github-trending",
     "jyyang621/DailyArXiv",
     "kaixinbaba/awesome-rea",
+    "korchasa/awesome-mcp",
     "krishna3163/best-root-apps-for-android",
     "krishna3163/best_shizuku_apps_for_android_no_root",
     "kumarsohitcate98-debug/kazehaya-luau-lab",
