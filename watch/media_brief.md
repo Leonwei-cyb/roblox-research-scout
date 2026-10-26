@@ -7,22 +7,22 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[How to unlock the Enchanted Mutation in Steal an Egg #roblox #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Iam5uMzhVaE9FdlZWRFF3eV9wbm9lbUpLRHJCS0RiZVpNUlpQNW15bVRsQWtuZWZ4T25VMnhBWExkbXBPRVExbWNhZHFUT0RibVpHMFR3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-04
-  - Feed excerpt: How to unlock the Enchanted Mutation in Steal an Egg #roblox #stealanegg Instagram
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OREIzdVNrMHBiY1lubElJNG15ODZkNTdid3lXTHJFRFdia3JtVGdzdDBFQlBFNzVRNUdIeUxHYl9xOHlrbU5GVktwQUJnRWJ0aUxaQzNn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-26
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
 
 ## Community
 
-- **[Me and my son just launched the alpha of our first Roblox game, an art museum tycoon](https://www.reddit.com/r/ROBLOXStudio/comments/1xg2nue/me_and_my_son_just_launched_the_alpha_of_our/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
-  - Feed excerpt: I've been lurking here for weeks while learning Roblox Studio for this project, so it's pretty exciting to finally have something of my own to share. About 6 weeks ago my 9 year old son said he wanted to build a Roblox game. I'm an artist a
+- **[A Quest For Cereal](https://www.reddit.com/r/ROBLOXStudio/comments/1xg3xp5/a_quest_for_cereal/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: He casts "A Box Of Cereal" submitted by /u/ErebusPr \[link\] \[comments\]
+- **[Check out My Roblox creation](https://www.reddit.com/r/ROBLOXStudio/comments/1xg3mwk/check_out_my_roblox_creation/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: https://www.roblox.com/join/zdc9j submitted by /u/creoslong98 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Feedback on Avakit’s UI and outfit discovery workflow](https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: Hey everyone! We’re building Avakit, a Roblox outfit creator and discovery platform for players who enjoy avatar styling. It connects a website with an in-game experience so you can create and share looks, explore Roblox outfit ideas from o
-- **[Unable to configure group from create.roblox.com](https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: After a group transfer, I am unable to select the group I wish to configure from create.roblox.com On the creator hub you can select which inventory to configure from a dropdown on the top left. Instead, when accessing the creator hub the l
-- **[Implement "Clarity City" / "Metropolis" as a better replacement to Gotham SSm](https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gotham-ssm/4958682)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: When Gotham and Arial were removed in 2024 , Montserrat and Arimo were added as a replacement respectively. The reasoning for the removal is presumably due to licensing costs, which is understandable , the replacement for Arial was okay, bu
+- **[Studio Camera Sensitivity greatly reduced after recent update](https://devforum.roblox.com/t/studio-camera-sensitivity-greatly-reduced-after-recent-update/4958964)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: This started happening some time around October 23rd at 19-23 CEST. I had been using studio just fine that day but after an update my studio camera sensitivity suddenly got more than halved. I was able to alleviate it slightly by maxing out
+- **[Auto translation overrides manual translations](https://devforum.roblox.com/t/auto-translation-overrides-manual-translations/4958947)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: Auto Translation seems to be overriding manual translations again. It doesn’t override the saved string in the localization table on the website, only what’s displayed in-game. Examples from our Russian translator: The actual strings in the
 
 ---
 

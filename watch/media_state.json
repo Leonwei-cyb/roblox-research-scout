@@ -1342,9 +1342,26 @@
     "589b8a5cc5e8d6d043c18483",
     "5c21432453c7aeb9b031405e",
     "8bcc2107ed76f36baac6f123",
-    "c85d2b0c43b4879db7b36e0d"
+    "c85d2b0c43b4879db7b36e0d",
+    "115ffc38b04059971be36e7b",
+    "ffd155f5b9fbc178d553c674",
+    "4fcc7d3927882af49066f536",
+    "d8c4bc8c6f3aa76a1786b590",
+    "7c67f147131d78d7cef56e5a"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Auto translation overrides manual translations",
+      "url": "https://devforum.roblox.com/t/auto-translation-overrides-manual-translations/4958947",
+      "published": "2026-10-26",
+      "excerpt": "Auto Translation seems to be overriding manual translations again. It doesn’t override the saved string in the localization table on the website, only what’s displayed in-game. Examples from our Russian translator: The actual strings in the localization table use the correct translations: This was f",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/auto-translation-overrides-manual-translations/4958947.rss",
+      "id": "ffd155f5b9fbc178d553c674"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -1396,7 +1413,7 @@
       "title": "I got a 7-day suspension for my bullet texture, why?",
       "url": "https://devforum.roblox.com/t/i-got-a-7-day-suspension-for-my-bullet-texture-why/4958698",
       "published": "2026-10-26",
-      "excerpt": "Here is my image and I got a 7-day termination. How is this inappropriate? It is a bullet texture. 3 posts - 2 participants Read full topic",
+      "excerpt": "Here is my image and I got a 7-day termination. How is this inappropriate? It is a bullet texture. 4 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-got-a-7-day-suspension-for-my-bullet-texture-why/4958698.rss",
       "id": "ec8b7cf0df5a6c028c87db9b"
@@ -1435,6 +1452,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-studio-toolbox-bug/4958630.rss",
       "id": "db74c35f740039dfce57a3b8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Check out My Roblox creation",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3mwk/check_out_my_roblox_creation/",
+      "published": "2026-10-26",
+      "excerpt": "https://www.roblox.com/join/zdc9j submitted by /u/creoslong98 [link] [comments]",
+      "creator": "/u/creoslong98 https://www.reddit.com/user/creoslong98",
+      "id": "d8c4bc8c6f3aa76a1786b590"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1678,6 +1706,18 @@
       "id": "82462424343e4e02d8bce7e1"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OREIzdVNrMHBiY1lubElJNG15ODZkNTdid3lXTHJFRFdia3JtVGdzdDBFQlBFNzVRNUdIeUxHYl9xOHlrbU5GVktwQUJnRWJ0aUxaQzNn?oc=5",
+      "published": "2026-10-26",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "7c67f147131d78d7cef56e5a"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1794,6 +1834,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773.rss",
       "id": "589b8a5cc5e8d6d043c18483"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "A Quest For Cereal",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3xp5/a_quest_for_cereal/",
+      "published": "2026-10-26",
+      "excerpt": "He casts \"A Box Of Cereal\" submitted by /u/ErebusPr [link] [comments]",
+      "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
+      "id": "4fcc7d3927882af49066f536"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2025,6 +2076,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831.rss",
       "id": "14bffe1daecc42e58d8bfdca"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio Camera Sensitivity greatly reduced after recent update",
+      "url": "https://devforum.roblox.com/t/studio-camera-sensitivity-greatly-reduced-after-recent-update/4958964",
+      "published": "2026-10-26",
+      "excerpt": "This started happening some time around October 23rd at 19-23 CEST. I had been using studio just fine that day but after an update my studio camera sensitivity suddenly got more than halved. I was able to alleviate it slightly by maxing out the in-game camera sensitivity during play solo. But now th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-camera-sensitivity-greatly-reduced-after-recent-update/4958964.rss",
+      "id": "115ffc38b04059971be36e7b"
     },
     {
       "source": "reddit-robloxdev",
@@ -8227,65 +8290,6 @@
       "excerpt": "link: https://www.roblox.com/es/games/73782801025661/CRIMINAL-CITY This is an open-world game set in a city where you can earn money by robbing jewelry stores, museums, casinos, ATMs, and more. Each heist requires specific tools to open doors and access the target; every tool features its own unique",
       "creator": "/u/Puzzled-Stranger5287 https://www.reddit.com/user/Puzzled-Stranger5287",
       "id": "f69edca607df046456c688ad"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to move new r15 limbs using scripts?",
-      "url": "https://devforum.roblox.com/t/how-to-move-new-r15-limbs-using-scripts/4948686",
-      "published": "2026-10-21",
-      "excerpt": "Basically, BEFORE it was “Motor6D” and everything was fine before. But now we get this abomination If someone knows a normal way to move limbs PLEASE TELL ME. I tried rotating attachments, and what i got is limb just offseting position and other stuff. I had a big suffering session trying to figure ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-move-new-r15-limbs-using-scripts/4948686.rss",
-      "id": "f5266b387615769067c01917"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Roblox Developers Are COOKED. (AI Is Taking Over) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbTBHSGk1OGlFSnhzMHRRZjZweTJJUDVJRnZKUmJPMmk5Z3RIZU5Hb2VFUGhWS1dackJmVGhna1BlR1F2YmFFTnhZZjMzVzl2aDRROS1R?oc=5",
-      "published": "2026-10-21",
-      "excerpt": "Roblox Developers Are COOKED. (AI Is Taking Over) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "f227433296e575eaa24ffa0a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Roblox game about collecting money",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbyyo8/roblox_game_about_collecting_money/",
-      "published": "2026-10-21",
-      "excerpt": "Earn Money Simulator | Play on Roblox what do yall think about this game? submitted by /u/DisastrousClient4214 [link] [comments]",
-      "creator": "/u/DisastrousClient4214 https://www.reddit.com/user/DisastrousClient4214",
-      "id": "f17a9c61dc21617ec4f63b7d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Automatically Generate Image Assets from Editable UI in Studio",
-      "url": "https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773",
-      "published": "2026-10-21",
-      "excerpt": "As a Roblox developer, I’d like a feature to bake UI into image assets directly in Studio. Studio would generate and update the assets automatically, while the original UI and effects stay editable. This could include frames, images, text, strokes, gradients, shadows, and rounded corners (or any UI ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773.rss",
-      "id": "ee92bade9507c57459a382d6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How do I make M1 attack less sensitive on mobile",
-      "url": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295",
-      "published": "2026-10-21",
-      "excerpt": "punch script works good on pc but it’s way too sensitive on mobile walking, rotating the camera, and just clicking buttons triggers it and that’s really annoying UIS.InputBegan:Connect(function(input, ev) if ev or ONCOOLDOWN then return end if input.UserInputType == Enum.UserInputType.MouseButton1 o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295.rss",
-      "id": "e9bef1a69f217b9fdde41d4a"
     }
   ]
 }
