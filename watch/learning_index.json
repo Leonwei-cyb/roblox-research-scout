@@ -1314,19 +1314,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4950336:1",
-      "url": "https://devforum.roblox.com/t/team-create-connection-error-279-when-rejoining-place-after-studio-crash/4950336",
-      "title": "Team Create: \"Connection error 279\" when rejoining place after Studio crash",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4950368:1",
       "url": "https://devforum.roblox.com/t/soundseekovertimeasync-seektime-number-duration-number/4950368",
       "title": "Sound:SeekOverTimeAsync( seekTime : number, duration : number )",
@@ -2304,6 +2291,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959420:1",
+      "url": "https://devforum.roblox.com/t/studio-wont-open-any-experiences/4959420",
+      "title": "Studio won't open any experiences.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc9zk3",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc9zk3/try_and_test_it_out_our_game_help_us_to_reach_250/",
       "title": "Try and test it out our game (help us to reach 250 players)",
@@ -2311,21 +2311,6 @@
       "published": "2026-10-22",
       "kind": "reddit",
       "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xceuaz",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xceuaz/game_about_collecting_money/",
-      "title": "Game about collecting money.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "economy and income",
-        "genres and successful loops",
         "player feedback and marketing"
       ],
       "score": 5,
@@ -2379,19 +2364,6 @@
       "kind": "reddit",
       "signals": [
         "UI and menus"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xcsv3p",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcsv3p/highly_engaged_player_stats/",
-      "title": "Highly Engaged Player Stats",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3005,6 +2977,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg8kb0",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg8kb0/error_501_cant_find_the_scripts_causing_it/",
+      "title": "Error 501, cant find the scripts causing it.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4949137:1",
       "url": "https://devforum.roblox.com/t/high-quality-snowy-mountains/4949137",
       "title": "High quality snowy mountains",
@@ -3280,6 +3265,34 @@
       "signals": [
         "world and visual design",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959230:1",
+      "url": "https://devforum.roblox.com/t/particleemitters-not-working/4959230",
+      "title": "ParticleEmitters not working",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959380:1",
+      "url": "https://devforum.roblox.com/t/game-marked-not-eligible-for-kids-select-due-to-maturity-rating-but-rating-is-minimal/4959380",
+      "title": "Game marked \"Not eligible for Kids & Select\" due to maturity rating, but rating is Minimal",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -4536,6 +4549,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959408:1",
+      "url": "https://devforum.roblox.com/t/the-availability-of-my-game/4959408",
+      "title": "The availability of my game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959411:1",
+      "url": "https://devforum.roblox.com/t/game-cap-at-16/4959411",
+      "title": "Game cap at 16+",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc743t",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc743t/experienced_modeler_for_hire/",
       "title": "Experienced Modeler For Hire",
@@ -4562,19 +4601,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xc7m8p",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc7m8p/roblox_game_coming_soon/",
-      "title": "Roblox Game coming soon...",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xc93ve",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc93ve/do_anime_roblox_devs_really_create_all_of_the/",
       "title": "Do anime roblox devs really create all of the assets by hand?",
@@ -4583,19 +4609,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xcip5h",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcip5h/is_my_account_eligible_for_an_avatar_creation/",
-      "title": "Is My Account eligible for an Avatar Creation Token?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4635,19 +4648,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xcy5q1",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcy5q1/how_much_did_reaching_250_hep_affect_your_game/",
-      "title": "How much did reaching 250 HEP affect your game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5353,17 +5353,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949141:1",
-      "url": "https://devforum.roblox.com/t/false-positive-ban-based-on-tcs/4949141",
-      "title": "False positive ban based on TCS",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949213:1",
       "url": "https://devforum.roblox.com/t/roblox-plus-requirement-for-clothing/4949213",
       "title": "Roblox Plus Requirement for Clothing",
@@ -5389,17 +5378,6 @@
       "key": "devforum:4949332:1",
       "url": "https://devforum.roblox.com/t/silence-warnings-from-debugprofileend/4949332",
       "title": "Silence warnings from debug.profileend()",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949465:1",
-      "url": "https://devforum.roblox.com/t/halloween-scene/4949465",
-      "title": "Halloween Scene;",
       "source": "roblox-devforum-latest",
       "published": "2026-10-22",
       "kind": "devforum",
@@ -5441,17 +5419,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949799:1",
-      "url": "https://devforum.roblox.com/t/new-regression-group-owned-assets-load-in-edit-mode-fail-in-play-mode-on-local-rbxl-files-changed-yesterday/4949799",
-      "title": "NEW REGRESSION: Group-owned assets load in Edit Mode, fail in Play Mode on local .rbxl files (changed yesterday)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949874:1",
       "url": "https://devforum.roblox.com/t/neversaynever-has-anyone-seen-a-slime-like-this-on-roblox/4949874",
       "title": "NeverSayNever: has anyone seen a slime like this on Roblox?",
@@ -5466,17 +5433,6 @@
       "key": "devforum:4950163:1",
       "url": "https://devforum.roblox.com/t/anyone-else-had-a-counter-notice-denied-with-zero-explanation/4950163",
       "title": "Anyone else had a counter-notice denied with zero explanation?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950356:1",
-      "url": "https://devforum.roblox.com/t/an-experiences-eligibility-to-go-public-can-only-be-checked-with-cookie-authenticated-endpoints-not-open-cloud/4950356",
-      "title": "An experience's eligibility to go public can only be checked with cookie-authenticated endpoints, not Open Cloud",
       "source": "roblox-devforum-latest",
       "published": "2026-10-22",
       "kind": "devforum",
@@ -6552,6 +6508,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959315:1",
+      "url": "https://devforum.roblox.com/t/strange-change-in-the-250-hau-counter-not-eligible-for-kids-select/4959315",
+      "title": "Strange change in the 250 HAU counter - Not eligible for Kids & Select",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xcaff5",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcaff5/clippers_needed/",
       "title": "Clippers needed!",
@@ -6588,17 +6555,6 @@
       "key": "reddit:1xctesv",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xctesv/added_a_new_machine_to_the_factory_game_im/",
       "title": "Added a new machine to the factory game I'm working on, the wire extruder. Some new copper elements and ground parts as well.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xcuaxm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcuaxm/how_should_i_approach_roblox_development_with_how/",
-      "title": "How should I approach Roblox development with how AI is changing the scene?",
       "source": "reddit-robloxdev",
       "published": "2026-10-22",
       "kind": "reddit",
@@ -7347,6 +7303,50 @@
       "key": "reddit:1xg7yve",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg7yve/z_set_completed_again/",
       "title": "Z set completed again!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg964r",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg964r/my_first_roblox_game_update/",
+      "title": "My First Roblox Game - Update",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg99yr",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg99yr/question_about_copyright/",
+      "title": "Question about copyright",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg9mif",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg9mif/dust_2_snowball_fight_in_our_fps_game/",
+      "title": "Dust 2 SnowBall Fight In our FPS Game!!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgaum3",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgaum3/jump_to_jump_higher/",
+      "title": "Jump To Jump Higher",
       "source": "reddit-robloxstudio",
       "published": "2026-10-26",
       "kind": "reddit",
