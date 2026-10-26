@@ -20,7 +20,7 @@ CAT_WORDS = re.compile(r"Cat Magic|\bcats?\b|tuition|\bdesks?\b|classroom|FREE p
 
 
 class ActiveGameRoutingTests(unittest.TestCase):
-    def run_main(self, authority_text):
+    def run_main(self, authority_text, *, hosted=False):
         """Run the real reporter main() against a temp watch dir and authority file."""
         td = tempfile.TemporaryDirectory()
         self.addCleanup(td.cleanup)
@@ -29,11 +29,18 @@ class ActiveGameRoutingTests(unittest.TestCase):
         (root / "watch" / "learning_index.json").write_text(json.dumps({"posts": [POST]}), encoding="utf-8")
         old = root / "watch" / "cat_magic_research_report.md"
         old.write_text("historical\n", encoding="utf-8")
+        if hosted:
+            (root / "watch" / "current_game_research_report.json").write_text(
+                '{"active_game":"Colonists","status":"TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS"}\n', encoding="utf-8")
+            (root / "watch" / "current_game_research_report.md").write_text(
+                "Colonists — Mac-authoritative saved report\n", encoding="utf-8")
         auth = root / "active_game.txt"
         if authority_text is not None:
             auth.write_text(authority_text, encoding="utf-8")
-        env = {k: v for k, v in os.environ.items() if k != "LEON_ACTIVE_GAME"}
+        env = {k: v for k, v in os.environ.items() if k not in {"LEON_ACTIVE_GAME", "GITHUB_ACTIONS"}}
         env["LEON_ACTIVE_GAME_FILE"] = str(auth)
+        if hosted:
+            env["GITHUB_ACTIONS"] = "true"
         with patch.dict(os.environ, env, clear=True), \
              patch.object(r, "INDEX", root / "watch" / "learning_index.json"), \
              patch.object(r, "OUTPUT", root / "watch"):
@@ -67,6 +74,23 @@ class ActiveGameRoutingTests(unittest.TestCase):
                          ["cat_magic_research_report.md",
                           "current_game_research_report.json", "current_game_research_report.md"])
 
+    def test_hosted_job_without_mac_authority_preserves_colonists_report(self):
+        out = self.run_main(None, hosted=True)
+        current = json.loads((out / "current_game_research_report.json").read_text())
+        self.assertEqual(current["active_game"], "Colonists")
+        self.assertEqual((out / "current_game_research_report.md").read_text(),
+                         "Colonists — Mac-authoritative saved report\n")
+        self.assertFalse((out / "colonists_research_report.md").exists())
+        self.assertEqual((out / "cat_magic_research_report.md").read_text(), "historical\n")
+
+    def test_hosted_job_with_real_game_authority_may_update_colonists(self):
+        out = self.run_main("hex-haven\n", hosted=True)
+        current = json.loads((out / "current_game_research_report.json").read_text())
+        self.assertEqual(current["active_game"], "Colonists")
+        self.assertEqual(current["authority"], "LEON_ACTIVE_GAME_FILE")
+        self.assertIn("Colonists research intelligence",
+                      (out / "current_game_research_report.md").read_text())
+
     def test_blocked_authority_is_reported_not_called_missing(self):
         import active_game
         with patch.object(Path, "stat", side_effect=PermissionError("blocked")):
@@ -85,6 +109,23 @@ class ActiveGameRoutingTests(unittest.TestCase):
         cat = json.loads((out / "cat_magic_research_report.json").read_text())
         self.assertEqual(cat["schema"], "LEON_CAT_MAGIC_RESEARCH_REPORT_V1")
         self.assertIn("Colonists", cat["held_games_not_current"])
+
+    def test_hosted_radar_preserves_mac_queue_and_updates_generic_index(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            media = root / "media_state.json"
+            media.write_text(json.dumps({"items": [{"url": YT, "title": "Roblox UI HUD layout"}]}),
+                             encoding="utf-8")
+            queue = root / "learning_queue.md"
+            queue.write_text("Colonists — Mac-authoritative queue\n", encoding="utf-8")
+            with patch.dict(os.environ, {
+                "GITHUB_ACTIONS": "true",
+                "LEON_ACTIVE_GAME_FILE": str(root / "missing_game.txt")}, clear=True), \
+                 patch.object(learning_radar, "MEDIA", media), \
+                 patch.object(learning_radar, "OUT", root):
+                learning_radar.main()
+            self.assertEqual(queue.read_text(), "Colonists — Mac-authoritative queue\n")
+            self.assertGreater(json.loads((root / "learning_index.json").read_text())["unique_posts"], 0)
 
     def test_learning_queue_questions_follow_the_game(self):
         result = learning_radar.triage([{"url": YT, "title": "Roblox tycoon UI animation"}])
