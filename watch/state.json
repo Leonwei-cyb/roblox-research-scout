@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "931fb4164018ddd955df61a97a43bc793e45c4a0",
-      "head_subject": "Keep JSON feed attachments as enclosures (#9510)",
+      "head": "fd3f75b3a225309d2255a7f221e10028d527edec",
+      "head_subject": "Require PHP 8.2+ (#9470)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "a5b0f2e03aba37ea34e527fe30b2f6aaa4895b9f",
-      "head_subject": "chore: Update mods/",
+      "head": "398b6d71cb850ddaa0a92e7005146d0f676a5db1",
+      "head_subject": "security-guidance: remove the copy here; install it from claude-plugins-official (#105270)",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.310",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",

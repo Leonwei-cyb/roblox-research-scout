@@ -1356,7 +1356,9 @@
     "c178f7a09e74fa14182e88d1",
     "df1f74a0ef26717de95372ce",
     "da08d8cbe91f9563c9cf62f5",
-    "a7a03cddcca7c8a534d1721e"
+    "a7a03cddcca7c8a534d1721e",
+    "72bc68a0abfd970765c0d149",
+    "efbb41bb2cc45ad4d67554f8"
   ],
   "items": [
     {
@@ -1414,6 +1416,18 @@
       "excerpt": "forgot to hide the view thingy submitted by /u/Royalty_Fish [link] [comments]",
       "creator": "/u/Royalty_Fish https://www.reddit.com/user/Royalty_Fish",
       "id": "f3036e6b85ee208a21fe3304"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Parts/Assets Flickering At Certain Camera Angles (2)",
+      "url": "https://devforum.roblox.com/t/partsassets-flickering-at-certain-camera-angles-2/4959110",
+      "published": "2026-10-26",
+      "excerpt": "At certain angles of the camera, at certain angles, various parts and models, local character included, stream in and out rapidly. This is a similar ticket as issued in forum post 4908206 . However, the difference is that there are no water in the region. The impacted CFrames and positions are as fo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/partsassets-flickering-at-certain-camera-angles-2/4959110.rss",
+      "id": "efbb41bb2cc45ad4d67554f8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1807,6 +1821,18 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "7c67f147131d78d7cef56e5a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Sunset Haven: a calm place for everyone (looking for testers)",
+      "url": "https://devforum.roblox.com/t/sunset-haven-a-calm-place-for-everyone-looking-for-testers/4959183",
+      "published": "2026-10-26",
+      "excerpt": "Just so you know: the cabin decorating update is brand new, but it isn’t the heart of the game. Sunset Haven has many other activities waiting for you, and I’d love for you to try them all. Hi everyone! Sunset Haven took me a while to make, because I spent that time talking with health professionals",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sunset-haven-a-calm-place-for-everyone-looking-for-testers/4959183.rss",
+      "id": "72bc68a0abfd970765c0d149"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8278,30 +8304,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/batteries-appear-to-defy-gravity/4951242.rss",
       "id": "0c6f2e357b3a1425df1b94fd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Open Cloud `activate` returns \"not authorized\" when an experience has no maturity rating, and can return 504 when it succeeds",
-      "url": "https://devforum.roblox.com/t/open-cloud-activate-returns-not-authorized-when-an-experience-has-no-maturity-rating-and-can-return-504-when-it-succeeds/4950361",
-      "published": "2026-10-22",
-      "excerpt": "The Open Cloud endpoint POST /legacy-develop/v1/universes/{universeId}/activate reports the wrong cause when an experience cannot be made public, and it can report a failure for a call that succeeded. First seen 2026-10-22 at 16:14 UTC. A similar 403 on the same endpoint was seen in May 2026, but no",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-cloud-activate-returns-not-authorized-when-an-experience-has-no-maturity-rating-and-can-return-504-when-it-succeeds/4950361.rss",
-      "id": "0af98fe80449a9317a1f5bf1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "BloxBans — Community-reported Roblox bans, tracked in real time",
-      "url": "https://devforum.roblox.com/t/bloxbans-%E2%80%94-community-reported-roblox-bans-tracked-in-real-time/4949191",
-      "published": "2026-10-22",
-      "excerpt": "BloxBans – Roblox bans, tracked by the community I was bored one night and randomly thought that everyone posts their Roblox bans on X, Reddit and here on the DevForum, but nobody’s actually keeping count. So I built BloxBans , which does that. It collects the bans people share publicly, reads the b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/bloxbans-%E2%80%94-community-reported-roblox-bans-tracked-in-real-time/4949191.rss",
-      "id": "06d8e42de02c0c23f89855ca"
     }
   ]
 }
