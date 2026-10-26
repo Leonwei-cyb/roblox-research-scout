@@ -1299,7 +1299,14 @@
     "82462424343e4e02d8bce7e1",
     "8e92cb67426ba3fb158b9747",
     "3f029a98120ca76af8c6345f",
-    "176dc47ab6d7ef1a77bc2640"
+    "176dc47ab6d7ef1a77bc2640",
+    "c2244f8db7421f4c52256a6c",
+    "23bdc50c5d2999dfd07e51f1",
+    "93609269ffb19ca011417f96",
+    "e4aa7ac934228adbdfab3d85",
+    "adb64b17cfaef71c1824b074",
+    "6477145504dfc0cc9afee799",
+    "d2adde40f2b2da83bc40d3cb"
   ],
   "items": [
     {
@@ -1323,6 +1330,18 @@
       "excerpt": "it's so repetitive, low effort, annoying, and ugly to look at. please do something different. submitted by /u/rilleryeah [link] [comments]",
       "creator": "/u/rilleryeah https://www.reddit.com/user/rilleryeah",
       "id": "f686797f7bbb059ad8969b4a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Feature Request] Eliminate JSON Serialization Overhead in DataStores — Native Binary Storage",
+      "url": "https://devforum.roblox.com/t/feature-request-eliminate-json-serialization-overhead-in-datastores-%E2%80%94-native-binary-storage/4958224",
+      "published": "2026-10-26",
+      "excerpt": "[Feature Request] Eliminate JSON Serialization Overhead in DataStores — Native Binary Storage Summary Roblox should replace JSON-based serialization in the DataStore backend with a native binary serialization format for all supported data types, including buffers, strings, numbers, booleans, nil val",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feature-request-eliminate-json-serialization-overhead-in-datastores-%E2%80%94-native-binary-storage/4958224.rss",
+      "id": "e4aa7ac934228adbdfab3d85"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1361,6 +1380,18 @@
       "id": "c29965712489335fd2a1b386"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "R6 Convert SpecialMesh/CharacterMesh to MeshParts",
+      "url": "https://devforum.roblox.com/t/r6-convert-specialmeshcharactermesh-to-meshparts/4958236",
+      "published": "2026-10-26",
+      "excerpt": "You can’t use transparency with special mesh or material with special mesh or character mesh. I feel as if I’m being forced to use r15 just to convert mesh to meshparts, that is unfair. R6 games have unreliable character effects because of this. There should be a workspace toggle to convert R6 speci",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/r6-convert-specialmeshcharactermesh-to-meshparts/4958236.rss",
+      "id": "c2244f8db7421f4c52256a6c"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1370,6 +1401,17 @@
       "excerpt": "roblox's rendering system is not liking what im doing submitted by /u/Co2_onit [link] [comments]",
       "creator": "/u/Co2_onit https://www.reddit.com/user/Co2_onit",
       "id": "b46bdf197a652d6d57a416c9"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for playtesters",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfscti/looking_for_playtesters/",
+      "published": "2026-10-26",
+      "excerpt": "If you wanna play test dm submitted by /u/unknown-alien- [link] [comments]",
+      "creator": "/u/unknown-alien- https://www.reddit.com/user/unknown-alien-",
+      "id": "adb64b17cfaef71c1824b074"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1406,6 +1448,18 @@
       "id": "94fdfaff83f078b86ac4696a"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What's the reason for this many dislikes on my game?",
+      "url": "https://devforum.roblox.com/t/whats-the-reason-for-this-many-dislikes-on-my-game/4958229",
+      "published": "2026-10-26",
+      "excerpt": "Hello! I recently published a new game called “Funniest Answer Wins”. The concept is similar to Quiplash, you just need to think of a funny answer to a bunch of prompts. However, I keep on getting disliked without any proper feedback. I’ve tried tweaking alot of things but it just didn’t work. I spe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/whats-the-reason-for-this-many-dislikes-on-my-game/4958229.rss",
+      "id": "93609269ffb19ca011417f96"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1439,6 +1493,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/viewmodel-animation-lag/4957799.rss",
       "id": "65bd9538ec76b521a4311922"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "where did this animation come from?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfs51w/where_did_this_animation_come_from/",
+      "published": "2026-10-26",
+      "excerpt": "i've seeing this everywhere submitted by /u/fun-Side-4745 [link] [comments]",
+      "creator": "/u/fun-Side-4745 https://www.reddit.com/user/fun-Side-4745",
+      "id": "6477145504dfc0cc9afee799"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1533,6 +1598,18 @@
       "excerpt": "Hey everyone! I've been working incredibly hard on my own to build a brand new pet-hatching and trading simulator called Pixel Pets . I just finished getting the core mechanics up and running along with a live Halloween event where you can roll mutations and giant sizes! The problem is, I only have ",
       "creator": "/u/Arigat0__ https://www.reddit.com/user/Arigat0__",
       "id": "2a223eee85a7c17efde68514"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to let MOBILE players open dev console without chat",
+      "url": "https://devforum.roblox.com/t/how-to-let-mobile-players-open-dev-console-without-chat/4958235",
+      "published": "2026-10-26",
+      "excerpt": "I’m testing my game with friends and there are still some client bugs on the loose. when something breaks on their clients I can’t know what went wrong because they don’t have chat due to “regional restrictions” (really?) any way I can add a way to open dev console on mobile without violating the TO",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-let-mobile-players-open-dev-console-without-chat/4958235.rss",
+      "id": "23bdc50c5d2999dfd07e51f1"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1926,6 +2003,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-access-group-permissions-or-send-payouts-%E2%80%94-group-has-716k-robux/4955699.rss",
       "id": "d466cb161028353745496f39"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "My boy @therealbrockodile leak how to unlock abandoned manor in steal an Egg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFWnliVjBXU1dzWVBpMHM5SnBlUGZ1YjVuVmdBNy01OGptb3Z1UnRXVW50aG1YT0lNbExDa2JjOURfRGg3elh0em5JTmJhSTVHMXZqUm5B?oc=5",
+      "published": "2026-10-25",
+      "excerpt": "My boy @therealbrockodile leak how to unlock abandoned manor in steal an Egg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "d2adde40f2b2da83bc40d3cb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8165,88 +8254,6 @@
       "excerpt": "",
       "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
       "id": "9f10b5f89ddb9a121809ab4d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Reduced Exposure for a game I was about to release?",
-      "url": "https://devforum.roblox.com/t/reduced-exposure-for-a-game-i-was-about-to-release/4949045",
-      "published": "2026-10-21",
-      "excerpt": "My experience, Hide & Sneak, is showing a warning in the Creator Dashboard saying it has reduced exposure across Home, Search, and Charts. The experience is public, but the warning doesn’t explain what specifically triggered the restriction or what I need to change. I’ve attached a screenshot showin",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/reduced-exposure-for-a-game-i-was-about-to-release/4949045.rss",
-      "id": "9a4bd032984ef436910521fa"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Cage part cage vertices error",
-      "url": "https://devforum.roblox.com/t/cage-part-cage-vertices-error/4948610",
-      "published": "2026-10-21",
-      "excerpt": "When trying to upload layered clothing items, I am getting an error saying that parts of the inner and outer cages do not have enough vertices. I have not deleted or removed any parts of the cages, and I have been using these cages for years. Expected behavior I expect to be able to upload the item ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cage-part-cage-vertices-error/4948610.rss",
-      "id": "93b080c17a8f31af234ad458"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for Playtesters! Pixel Anime MMO",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbp52f/looking_for_playtesters_pixel_anime_mmo/",
-      "published": "2026-10-21",
-      "excerpt": "Looking for Playtesters! Pixel Anime MMO https://www.roblox.com/games/89188392350363/Pixel-Anime#!/ submitted by /u/Redacted-Writer [link] [comments]",
-      "creator": "/u/Redacted-Writer https://www.reddit.com/user/Redacted-Writer",
-      "id": "9168ed898159aab79783298f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Universal Game Development Tool Kit",
-      "url": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948713",
-      "published": "2026-10-21",
-      "excerpt": "(This is not AI slop!! I spent 11 months making this) TestPlace: Uncopylocked | Discord: U.G.D | Patreon: Link : GoFundme: Link This project contains everything you could ever need for developing a complex Roblox Game. The codebase is designed to be optimized, easy to use, scale, and keep the networ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/universal-game-development-tool-kit/4948713.rss",
-      "id": "8bcb500ba39ef8768107b665"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Add a \"Scripted\" Option to the Maturity Questionnaire",
-      "url": "https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674",
-      "published": "2026-10-21",
-      "excerpt": "Add a “Scripted” Option to the Maturity Questionnaire I would like to request an additional “Scripted” option for applicable questions in Roblox’s experience maturity questionnaire, allowing developers to dynamically adjust content intensity based on the policies applicable to each player. The Probl",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/add-a-scripted-option-to-the-maturity-questionnaire/4947674.rss",
-      "id": "8800c28dc84ba1f1862f12cb"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Just released my tower defense game, looking for testers and feedback",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xb91uu/just_released_my_tower_defense_game_looking_for/",
-      "published": "2026-10-21",
-      "excerpt": "Hey, I just released a tower defense game called Bobblefall Defense. You summon units, build a team, and climb tower floors against bosses, and there's a limited-time Halloween event running now. It's still in beta, and right now I mainly want people to test it and tell me what needs work: balance, ",
-      "creator": "/u/Aggravating_Idea9614 https://www.reddit.com/user/Aggravating_Idea9614",
-      "id": "86be1a519315d1d8920672ca"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "The Hollow: New Platform-Wide Survival Event for Halloween",
-      "url": "https://devforum.roblox.com/t/the-hollow-new-platform-wide-survival-event-for-halloween/4948535",
-      "published": "2026-10-21",
-      "excerpt": "This Halloween we’re celebrating horror games, one of the most popular genres on Roblox, with a new platform-wide event: The Hollow. Starting tomorrow and running through Nov. 2, this shared survival event will be available to anyone with a Roblox Select or Roblox account (ages 9 and older in most r",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-hollow-new-platform-wide-survival-event-for-halloween/4948535.rss",
-      "id": "85754d7743c6beb2d6924bb8"
     }
   ]
 }
