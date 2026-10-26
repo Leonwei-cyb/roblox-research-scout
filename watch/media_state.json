@@ -1283,7 +1283,10 @@
     "7a8835343bad549c215a7d7b",
     "3c9e9c0aec0081009384cedb",
     "787223946b4691bbcf6790b2",
-    "d28d982ce05690d4639760b6"
+    "d28d982ce05690d4639760b6",
+    "a3d9a5b77c02347f92a12d4e",
+    "3b657119ca415ee84ce20ecb",
+    "15dc22ee98032f298e52a69b"
   ],
   "items": [
     {
@@ -1322,6 +1325,18 @@
       "id": "c29965712489335fd2a1b386"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking For Developers",
+      "url": "https://devforum.roblox.com/t/looking-for-developers/4957945",
+      "published": "2026-10-26",
+      "excerpt": "**Community/Game Dev Recruitment ** About Us Hi there! We are Tunde’s-Locker, a small upcoming development team. We’re looking for developers who are willing to join our team and work with us on our new game, Untitled Football! The Team @bro77545 - Managing Partner/Founder You can see our progress s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-developers/4957945.rss",
+      "id": "a3d9a5b77c02347f92a12d4e"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1357,6 +1372,17 @@
       "id": "5c72380f9e7d69c052b11929"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Bootiful view",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xflne9/bootiful_view/",
+      "published": "2026-10-26",
+      "excerpt": "😎 [link] [comments]",
+      "creator": "",
+      "id": "3b657119ca415ee84ce20ecb"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1389,6 +1415,17 @@
       "excerpt": "I am a beginner never modeled anything before I want to make a weapon model and a jump pad submitted by /u/Icy-Pattern1113 [link] [comments]",
       "creator": "/u/Icy-Pattern1113 https://www.reddit.com/user/Icy-Pattern1113",
       "id": "206596926c551c31ef4ac407"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Where can I find this cool baseplate?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfluwt/where_can_i_find_this_cool_baseplate/",
+      "published": "2026-10-26",
+      "excerpt": "submitted by /u/Additional_Figure687 [link] [comments]",
+      "creator": "/u/Additional_Figure687 https://www.reddit.com/user/Additional_Figure687",
+      "id": "15dc22ee98032f298e52a69b"
     },
     {
       "source": "reddit-robloxdev",
@@ -8196,42 +8233,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/linearvelocity-velocity-vectorzero-not-working-on-ground/4947408.rss",
       "id": "67337b4c14e12e01f6b97d3c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unexpected logouts in last three days",
-      "url": "https://devforum.roblox.com/t/unexpected-logouts-in-last-three-days/4948741",
-      "published": "2026-10-21",
-      "excerpt": "I’ve had all of my studio sessions on a computer get logged out suddenly, usually correlated with logging in from another computer at my house. I’ve had four complete unrequested logouts across three machines in the last three days. They are not requested by me and only impact studio - Roblox itself",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unexpected-logouts-in-last-three-days/4948741.rss",
-      "id": "65b27c37db83face89ea36d2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Eclipse Animator Manually Add Inverse Kinematics",
-      "url": "https://devforum.roblox.com/t/eclipse-animator-manually-add-inverse-kinematics/4948692",
-      "published": "2026-10-21",
-      "excerpt": "In Eclipse Animator, I have custom made R7 rigs however I do not see an option for IK on either of the legs, and was wondering how I could make them supported for IK? As you can see the limbs that are still parented to the original Torso have IK available, but the joints that were moved aren’t suppo",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/eclipse-animator-manually-add-inverse-kinematics/4948692.rss",
-      "id": "62400ae873a311cdec06de48"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Combat Legends Beta Testing Recruitment [OPEN]",
-      "url": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409",
-      "published": "2026-10-21",
-      "excerpt": "Combat Legends Beta Testing Hey everyone! I hope you all are doing well, I am Icy, the founder and CEO of a small game development team on the Roblox platform. Recently, we announced that our up and coming game, Combat Legends will be entering its closed beta testing phase! This project has been in ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409.rss",
-      "id": "62091f636f6db8149725b155"
     }
   ]
 }

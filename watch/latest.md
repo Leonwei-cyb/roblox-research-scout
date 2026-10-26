@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [gogolumo/rbsmithy-roblox-claude-skill](https://github.com/gogolumo/rbsmithy-roblox-claude-skill) (10 stars). A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D assets, optimization, QA, and production-ready Roblox release
+- **Unreviewed lead:** [zricethezav/h1domains](https://github.com/zricethezav/h1domains) (532 stars). HackerOne "in scope" domains
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

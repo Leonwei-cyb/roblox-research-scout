@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 595,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -1305,19 +1305,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4948692:1",
-      "url": "https://devforum.roblox.com/t/eclipse-animator-manually-add-inverse-kinematics/4948692",
-      "title": "Eclipse Animator Manually Add Inverse Kinematics",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -5432,17 +5419,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4947409:1",
-      "url": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409",
-      "title": "Combat Legends Beta Testing Recruitment [OPEN]",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4947513:1",
       "url": "https://devforum.roblox.com/t/surfacegui-textlabels-appear-warped-and-melted/4947513",
       "title": "SurfaceGui TextLabels appear warped and melted",
@@ -6631,6 +6607,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4957945:1",
+      "url": "https://devforum.roblox.com/t/looking-for-developers/4957945",
+      "title": "Looking For Developers",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xbapek",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbapek/rigging_problems/",
       "title": "Rigging problems",
@@ -7384,6 +7371,28 @@
       "title": "I'm a new Roblox Dev. I never fully completed a game.",
       "source": "reddit-robloxdev",
       "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xflne9",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xflne9/bootiful_view/",
+      "title": "Bootiful view",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xfluwt",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfluwt/where_can_i_find_this_cool_baseplate/",
+      "title": "Where can I find this cool baseplate?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
       "kind": "reddit",
       "signals": [],
       "score": 2,
