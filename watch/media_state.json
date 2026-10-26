@@ -1297,7 +1297,9 @@
     "6cd876faad51088b03545cde",
     "b46bdf197a652d6d57a416c9",
     "82462424343e4e02d8bce7e1",
-    "8e92cb67426ba3fb158b9747"
+    "8e92cb67426ba3fb158b9747",
+    "3f029a98120ca76af8c6345f",
+    "176dc47ab6d7ef1a77bc2640"
   ],
   "items": [
     {
@@ -1487,6 +1489,18 @@
       "id": "480360ad186ba8bb2fa36a9d"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Studio Feature Request] Plugin Saving Revamp — Data Deletion, Expansion & Optimization",
+      "url": "https://devforum.roblox.com/t/studio-feature-request-plugin-saving-revamp-%E2%80%94-data-deletion-expansion-optimization/4958173",
+      "published": "2026-10-26",
+      "excerpt": "[Studio Feature Request] Plugin Saving Revamp — Data Deletion, Expansion & Optimization Summary Roblox Studio’s current plugin persistence API, plugin:SetSetting() and plugin:GetSetting() , is functional but limited for complex data storage. It also lacks a proper mechanism for deleting plugin-gener",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-feature-request-plugin-saving-revamp-%E2%80%94-data-deletion-expansion-optimization/4958173.rss",
+      "id": "3f029a98120ca76af8c6345f"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1530,6 +1544,18 @@
       "excerpt": "I am a beginner never modeled anything before I want to make a weapon model and a jump pad submitted by /u/Icy-Pattern1113 [link] [comments]",
       "creator": "/u/Icy-Pattern1113 https://www.reddit.com/user/Icy-Pattern1113",
       "id": "206596926c551c31ef4ac407"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Converting R6 Head (SpecialMesh) to MeshPart",
+      "url": "https://devforum.roblox.com/t/converting-r6-head-specialmesh-to-meshpart/4958160",
+      "published": "2026-10-26",
+      "excerpt": "My game uses R6 and I’m unable to apply transparency or material to the head since it loads a special mesh rather than a meshpart. I attempted to just use a starter character and replaced the head with a meshpart. I do not want specialmesh inside of character bodyparts in my game even though I’m usi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/converting-r6-head-specialmesh-to-meshpart/4958160.rss",
+      "id": "176dc47ab6d7ef1a77bc2640"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8221,30 +8247,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-hollow-new-platform-wide-survival-event-for-halloween/4948535.rss",
       "id": "85754d7743c6beb2d6924bb8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "DevEx page frozen at \"last updated Oct 16\" - US 18+ rate being calculated as legacy rate",
-      "url": "https://devforum.roblox.com/t/devex-page-frozen-at-last-updated-oct-16-us-18-rate-being-calculated-as-legacy-rate/4948407",
-      "published": "2026-10-21",
-      "excerpt": "The DevEx page and billing API show “last updated Oct 16”. On Oct 17 it moved from Oct 15 to Oct 16, then stopped. My payout finished pending on Oct 17 and is flagged “U.S. 18+ rate” on the transactions page. I asked a friend to check his DevEx dashboard and it shows the same “last updated Oct 16”, ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/devex-page-frozen-at-last-updated-oct-16-us-18-rate-being-calculated-as-legacy-rate/4948407.rss",
-      "id": "84e49fa10300389359172665"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Lighting quality goes down far away",
-      "url": "https://devforum.roblox.com/t/lighting-quality-goes-down-far-away/4948520",
-      "published": "2026-10-21",
-      "excerpt": "Hi, I’m coming back to a game that i was working on a while ago and I’ve noticed that the lighting in it seems to be… acting off… I’ve included some examples, basically the quality of it goes down far away, which wouldn’t typically be an issue, but my map has some large open areas and it happens the",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/lighting-quality-goes-down-far-away/4948520.rss",
-      "id": "8380d5f415a48a24fbae35e9"
     }
   ]
 }

@@ -1270,19 +1270,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4948520:1",
-      "url": "https://devforum.roblox.com/t/lighting-quality-goes-down-far-away/4948520",
-      "title": "Lighting quality goes down far away",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4948686:1",
       "url": "https://devforum.roblox.com/t/how-to-move-new-r15-limbs-using-scripts/4948686",
       "title": "How to move new r15 limbs using scripts?",
@@ -2354,6 +2341,19 @@
       "key": "devforum:4958097:1",
       "url": "https://devforum.roblox.com/t/studio-feature-request-add-a-%E2%80%9Cdisable-script-parsing%E2%80%9D-setting/4958097",
       "title": "[Studio Feature Request] Add a “Disable Script Parsing” setting",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4958173:1",
+      "url": "https://devforum.roblox.com/t/studio-feature-request-plugin-saving-revamp-%E2%80%94-data-deletion-expansion-optimization/4958173",
+      "title": "[Studio Feature Request] Plugin Saving Revamp — Data Deletion, Expansion & Optimization",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -5427,17 +5427,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4948407:1",
-      "url": "https://devforum.roblox.com/t/devex-page-frozen-at-last-updated-oct-16-us-18-rate-being-calculated-as-legacy-rate/4948407",
-      "title": "DevEx page frozen at \"last updated Oct 16\" - US 18+ rate being calculated as legacy rate",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4948424:1",
       "url": "https://devforum.roblox.com/t/i-would-like-to-improve-my-hitbox-system/4948424",
       "title": "I would like to improve my hitbox system",
@@ -6585,6 +6574,17 @@
       "key": "devforum:4958128:1",
       "url": "https://devforum.roblox.com/t/terminated-while-suspended-by-automated-moderation-for-terrorismextremism-still-dont-have-proper-context-as-to-why-i-was-banned/4958128",
       "title": "Terminated while suspended by automated moderation for \"Terrorism/Extremism\". Still don't have proper context as to why I was banned",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4958160:1",
+      "url": "https://devforum.roblox.com/t/converting-r6-head-specialmesh-to-meshpart/4958160",
+      "title": "Converting R6 Head (SpecialMesh) to MeshPart",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
