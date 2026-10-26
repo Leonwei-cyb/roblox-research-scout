@@ -6,6 +6,7 @@ is a metadata index, NOT a report of observed gameplay or learned mechanics.
 """
 from __future__ import annotations
 import json
+import os
 import re
 from collections import Counter
 from pathlib import Path
@@ -167,7 +168,12 @@ def main():
         raise ValueError("media_state.items must be a list")
     result = triage(data["items"])
     a = save(OUT / "learning_index.json", json.dumps(result, indent=2, ensure_ascii=False) + "\n")
-    game, _ = active_game.resolve()
+    game, authority = active_game.resolve()
+    # Generic metadata indexing is safe on public CI, but a hosted job without
+    # the Mac's active-game authority must not replace its game-specific queue.
+    if game is None and os.environ.get("GITHUB_ACTIONS") == "true":
+        print("Preserved game-specific learning queue: no hosted game authority (" + authority + ")")
+        return
     b = save(OUT / "learning_queue.md", render(result, game) + "\n")
     print("Updated" if a or b else "Unchanged", "learning radar; metadata only")
 
