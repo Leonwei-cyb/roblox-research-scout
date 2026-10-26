@@ -2,7 +2,7 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — UI - Watchlist - "Mark unviewed" bulk operation (#4484).
-- **Source updated:** [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) — mirror: sync from upstream (707a5d1cfaeddde557e018b47719ae63e3d3cc92).
+- **Release:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 0.60.9 → 0.60.10.
+- **Unreviewed lead:** [killop/anything_about_game](https://github.com/killop/anything_about_game) (4180 stars). A wonderful list of Game Development resources.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

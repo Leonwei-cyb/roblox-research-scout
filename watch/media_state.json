@@ -1312,7 +1312,9 @@
     "3f34abef61b96d8dfd1b572c",
     "97e6d16ea738c8cd7a7db153",
     "3f293bb51cbcaba644e85fb4",
-    "d5698b4da64650e600efb6c1"
+    "d5698b4da64650e600efb6c1",
+    "298d724f7da10b1fb76753d9",
+    "f227433296e575eaa24ffa0a"
   ],
   "items": [
     {
@@ -1659,6 +1661,18 @@
       "excerpt": "Hey everyone! I've been working incredibly hard on my own to build a brand new pet-hatching and trading simulator called Pixel Pets . I just finished getting the core mechanics up and running along with a live Halloween event where you can roll mutations and giant sizes! The problem is, I only have ",
       "creator": "/u/Arigat0__ https://www.reddit.com/user/Arigat0__",
       "id": "2a223eee85a7c17efde68514"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "20% off for Roblox Plus subscribers not working",
+      "url": "https://devforum.roblox.com/t/20-off-for-roblox-plus-subscribers-not-working/4958330",
+      "published": "2026-10-26",
+      "excerpt": "I’m on my third consecutive month of Roblox Plus but the discount is still only 10% off and the message is stuck at 20% in 0 days. The items on marketplace are still stuck at 10% off for me. It’s been a few days already and the 20% discount has not been applied. I haven’t cancelled my subscription e",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/20-off-for-roblox-plus-subscribers-not-working/4958330.rss",
+      "id": "298d724f7da10b1fb76753d9"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7909,6 +7923,18 @@
       "id": "f5266b387615769067c01917"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "Roblox Developers Are COOKED. (AI Is Taking Over) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbTBHSGk1OGlFSnhzMHRRZjZweTJJUDVJRnZKUmJPMmk5Z3RIZU5Hb2VFUGhWS1dackJmVGhna1BlR1F2YmFFTnhZZjMzVzl2aDRROS1R?oc=5",
+      "published": "2026-10-21",
+      "excerpt": "Roblox Developers Are COOKED. (AI Is Taking Over) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "f227433296e575eaa24ffa0a"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -8234,30 +8260,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/svg-icons-in-roblox-rendered-at-runtime/4947402.rss",
       "id": "c118e7688921bdf6acb1a3f4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Officially Deprecate LocalScript in Studio's Insert Object Menu",
-      "url": "https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643",
-      "published": "2026-10-21",
-      "excerpt": "Officially Deprecate LocalScript in Studio’s Insert Object Menu I would like to request that Roblox officially deprecate the LocalScript instance in Studio’s Insert Object menu and instead encourage developers to use a regular Script with RunContext set to Client This builds upon the existing Live S",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643.rss",
-      "id": "bc1827cdfb4403f84914b475"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Imperium - Monopoly, open sourced",
-      "url": "https://devforum.roblox.com/t/imperium-monopoly-open-sourced/4948962",
-      "published": "2026-10-21",
-      "excerpt": "Imperium was a small school project I made a few years ago. It is a reimplementation of Monopoly on Roblox (if Hasbro asks, tell them that copyright doesn’t apply to game mechanics. Imagine I included the emoji with a certain finger stuck out here.) It uses Rojo and has a small publishing workflow s",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/imperium-monopoly-open-sourced/4948962.rss",
-      "id": "bbaf07c76df4870d6fb64cc8"
     }
   ]
 }

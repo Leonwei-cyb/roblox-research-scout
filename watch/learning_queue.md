@@ -10,8 +10,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 327
-- index-only: 13
+- devforum: 326
+- index-only: 14
 - reddit: 247
 - youtube: 9
 
@@ -36,8 +36,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Ui And Menus
 
-- [Officially Deprecate LocalScript in Studio's Insert Object Menu](https://devforum.roblox.com/t/officially-deprecate-localscript-in-studios-insert-object-menu/4947643) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 - [✲ UI designer & builder \[5 years+ experience\]](https://devforum.roblox.com/t/portfolio-%E2%9C%B2-ui-designer-builder-5-years-experience/4947719) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [Automatically Generate Image Assets from Editable UI in Studio](https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
