@@ -8,7 +8,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
 - **[\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061)** — Public text/page, video not confirmed
-- **[Solo dev, first game: 86% of new players leave within 5 minutes. How do you fix onboarding in a simulator?](https://www.reddit.com/r/robloxgamedev/comments/1xf1202/solo_dev_first_game_86_of_new_players_leave/)** — Public text/page, video not confirmed
+- **[Critique my pixel art thumbnails for my solo project, Pixel Pets? Which one stands out most?](https://www.reddit.com/r/robloxgamedev/comments/1xfi82f/critique_my_pixel_art_thumbnails_for_my_solo/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
