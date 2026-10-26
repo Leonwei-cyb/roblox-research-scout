@@ -278,7 +278,7 @@
         "extension host permissions",
         "authenticated web session wording"
       ],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "evidence": [
         "https://github.com/SillySerpent/Dichrome/tree/8fac1617d1352f62ecf1e32f3ccc8afe690946b6",
         "https://github.com/SillySerpent/Dichrome/blob/8fac1617d1352f62ecf1e32f3ccc8afe690946b6/README.md",
@@ -422,7 +422,7 @@
         "chrome tabs/scripting API",
         "drives the chat page DOM"
       ],
-      "days_since_commit": 93,
+      "days_since_commit": 94,
       "evidence": [
         "https://github.com/creosB/AI-Side-Panel-Extension/tree/e3935eb3342523f9a1bf259edda8f80dd8bc5fdd",
         "https://github.com/creosB/AI-Side-Panel-Extension/blob/e3935eb3342523f9a1bf259edda8f80dd8bc5fdd/README.md",
@@ -468,7 +468,7 @@
         "content scripts on chat sites",
         "extension host permissions"
       ],
-      "days_since_commit": 159,
+      "days_since_commit": 160,
       "evidence": [
         "https://github.com/Veverke/bAInder/tree/ed22774951480303c8abfd79a6eb882b793c7411",
         "https://github.com/Veverke/bAInder/blob/ed22774951480303c8abfd79a6eb882b793c7411/README.md",
@@ -516,7 +516,7 @@
         "content scripts on chat sites",
         "extension host permissions"
       ],
-      "days_since_commit": 45,
+      "days_since_commit": 46,
       "evidence": [
         "https://github.com/NateBJones-Projects/OB1/tree/238df6cefd307745d1fe49d10b96797903bf25ac",
         "https://github.com/NateBJones-Projects/OB1/blob/238df6cefd307745d1fe49d10b96797903bf25ac/README.md",
@@ -569,7 +569,7 @@
         "extension host permissions",
         "chrome tabs/scripting API"
       ],
-      "days_since_commit": 179,
+      "days_since_commit": 180,
       "evidence": [
         "https://github.com/Robbings/chatgpt-graph-navigator/tree/a616cefd3fb6764ad25f0d50417fbebe14156660",
         "https://github.com/Robbings/chatgpt-graph-navigator/blob/a616cefd3fb6764ad25f0d50417fbebe14156660/README.md",
@@ -706,7 +706,7 @@
       "repo_id": 793375104,
       "search_rank": 1,
       "sha": "6c16b23f1bacd0fdf240bb5141ef45e59e82c306",
-      "stars": 143070,
+      "stars": 143101,
       "suggested_owner": "Wheel",
       "tests_found": 48,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -749,7 +749,7 @@
       "repo_id": 658928958,
       "search_rank": 0,
       "sha": "66ab8482e08035a3238dff04a5739c4371c61bfe",
-      "stars": 184783,
+      "stars": 184830,
       "suggested_owner": null,
       "tests_found": 22,
       "url": "https://github.com/ollama/ollama",
@@ -782,7 +782,7 @@
       "repo_id": 661283123,
       "search_rank": 4,
       "sha": "1c896ce92780416ce937c330d8205ee52a78d112",
-      "stars": 2957,
+      "stars": 2960,
       "suggested_owner": null,
       "tests_found": 0,
       "url": "https://github.com/kyrolabs/awesome-agents",
@@ -819,7 +819,7 @@
       "repo_id": 622569125,
       "search_rank": 5,
       "sha": "2ee2b69b765b556ac49a999ee6d03a1be6c8bcc8",
-      "stars": 3328,
+      "stars": 3330,
       "suggested_owner": null,
       "tests_found": 0,
       "url": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
@@ -924,7 +924,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-10-26T05:19:17Z",
+  "run_at": "2026-10-26T12:02:27Z",
   "schema": 1,
   "searches": [
     {
@@ -1048,5 +1048,5 @@
     }
   ],
   "status": "ok",
-  "trigger": "schedule"
+  "trigger": "local"
 }
