@@ -1,12 +1,7 @@
 name: Local video lab regression tests
 
+# Mac launchd is the automatic scheduler. GitHub Actions manual-only by design.
 on:
-  pull_request:
-    paths:
-      - 'scripts/local_video_lab.py'
-      - 'scripts/local_batch_review.py'
-      - 'tests/**'
-      - '.github/workflows/local-video-tests.yml'
   workflow_dispatch:
 
 permissions:

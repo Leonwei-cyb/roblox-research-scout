@@ -1,15 +1,8 @@
 name: Public Roblox research bot health (no AI)
 
+# Mac launchd is the automatic scheduler. GitHub Actions manual-only by design.
 on:
   workflow_dispatch:
-  workflow_run:
-    # Watch real research completions immediately; timer below is a backstop.
-    workflows: ['Roblox research scout (no AI)']
-    types: [completed]
-  schedule:
-    # Hourly lightweight health check; 75% fewer polls than the former 15-minute watcher.
-    # GitHub scheduled executions are best-effort and may be delayed.
-    - cron: '11 * * * *'
 
 permissions:
   contents: read
