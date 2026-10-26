@@ -7,54 +7,38 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[I Recreated HUSS VALLEY in 2 HOURS (Using AI) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ueXJ1c3MxYzFQSDhBcWNhNkxDS3loZUU5Z0EzdHMzQThmMk0tOFNrSUJMZTY2endEVlQyMXRxNDRRamJkSExnTlJ1TU55a2pHd3ZMZDlR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-13
-  - Feed excerpt: I Recreated HUSS VALLEY in 2 HOURS (Using AI) YouTube
+- **[How To Connect Claude AI To Roblox Studio (Step By Step) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekVGalJYZVJ0UXVHUVhaVWFUTnF2R19JTkV3OW5CQndWMlB3LW9aX19CcDFia0FPQVBPWC1JSGRvT3N0djRMbFBNaHlGUjNCZE1WQmdB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-25
+  - Feed excerpt: How To Connect Claude AI To Roblox Studio (Step By Step) YouTube
 
 ## Community
 
-- **[My son and I have spent 6 weeks making an art museum tycoon. We'd love feedback on our Alpha.](https://www.reddit.com/r/robloxgamedev/comments/1xfcmcj/my_son_and_i_have_spent_6_weeks_making_an_art/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: About 6 weeks ago my 9 year old son said he wanted to make a Roblox game. I'm an artist and physical game designer by trade, but this is my first Roblox game beyond a basic obby. I play a good amount of Roblox with him and his friends. I ma
-- **[A clip from the Halloween event boss fight in my game](https://www.reddit.com/r/robloxgamedev/comments/1xffnnv/a_clip_from_the_halloween_event_boss_fight_in_my/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: Halfway through the fight the Horseman's horse turns into a ghost, and he keeps fighting on foot. submitted by /u/Superb-Gap7952 \[link\] \[comments\]
-- **[I made a creature-collecting game where your pets mutate and you build floating islands. Looking for feedback!Texte :](https://www.reddit.com/r/robloxgamedev/comments/1xfhjfq/i_made_a_creaturecollecting_game_where_your_pets/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: Hey everyone! I’ve been working on MUTATION ISLANDS, a Roblox game where you collect creatures, mutate them into rarer and weirder versions, and build your own islands. I’m a solo dev and I’d love some honest feedback on: Does the mutation 
-- **[I'm a new Roblox Dev. I never fully completed a game.](https://www.reddit.com/r/robloxgamedev/comments/1xfhgyq/im_a_new_roblox_dev_i_never_fully_completed_a_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
-  - Feed excerpt: Can someone give me advice about making games and choosing a game genre. Thanks! submitted by /u/Kirbzeeto \[link\] \[comments\]
-- **[My Batman Arkham Style Combat WIP](https://www.reddit.com/r/robloxgamedev/comments/1xfghi1/my_batman_arkham_style_combat_wip/)** · Reddit r/robloxgamedev public RSS · 2026-10-25
+- **[CinematicWorkflow(BlenderToRoblox)](https://www.reddit.com/r/ROBLOXStudio/comments/1xfj8q8/cinematicworkflowblendertoroblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: A simple animation showcase with animated props, 1:1 from blender to roblox, took a while to figure out the right dimensions, limitations and breathable room for an endless creation of stuff to be made with all things that can be made in bl
+- **[Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain section on its own axis freely?](https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: I want to take the landscape from one creation, so I can then manually place it directly next to some already established terrain. Basically expanding upon the landscape that was there before it. I think the main tools I am looking for are 
+- **[Gatchina palace parade ground circa 1797 build and display](https://www.reddit.com/r/ROBLOXStudio/comments/1xfga67/gatchina_palace_parade_ground_circa_1797_build/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: submitted by /u/Bandit1189 \[link\] \[comments\]
+- **[Hangar Aircraft Viewer](https://www.reddit.com/r/ROBLOXStudio/comments/1xf2asu/hangar_aircraft_viewer/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: The Jet is fictional, F-40 (future aircraft), youll see Z-Fighting in the scenery, its placeholder assets that I havent done in blender yet. submitted by /u/China_sauces \[link\] \[comments\]
+- **[I'm looking for people to test/play my game](https://www.reddit.com/r/ROBLOXStudio/comments/1xf7vth/im_looking_for_people_to_testplay_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: I want my fighting game to get players as well as people to test for bugs if your interested heres the link https://www.roblox.com/share?code=321748e35efc4b4987a45f56b71baea9&type=ExperienceDetails&stamp=1792947973859 my discord is linked t
+- **[Modelling a mechsuit for a game I planned](https://www.reddit.com/r/ROBLOXStudio/comments/1xf0w18/modelling_a_mechsuit_for_a_game_i_planned/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: currently only some of the arms, and most of the torso, is done. i will model the weapons and the cockpit soon. there is not a single line of code yet, and i definitely shouldve started the game with a more simple prototype model. but meh, 
+- **[My Batman Arkham Style Combat WIP](https://www.reddit.com/r/ROBLOXStudio/comments/1xfgxas/my_batman_arkham_style_combat_wip/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
   - Feed excerpt: Been trying to recreate the feel of Arkham Combat for a new game I'm working on. ideas and feedback are welcome. submitted by /u/PR0JECT_ARKHAM \[link\] \[comments\]
-- **[Critique my pixel art thumbnails for my solo project, Pixel Pets? Which one stands out most?](https://www.reddit.com/r/robloxgamedev/comments/1xfi82f/critique_my_pixel_art_thumbnails_for_my_solo/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: Hey everyone! I've been working incredibly hard on my own to build a brand new pet-hatching and trading simulator called Pixel Pets . I just finished getting the core mechanics up and running along with a live Halloween event where you can 
-- **[Looking for Roblox map builders](https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: Looking for Roblox map builders (16+) to create maps for an SCP-inspired psychological horror game. Contact Imjustagamin_JR on Roblox if you are interested in collaborating. ​Play the Demo: Search "Site-E17" on Roblox or visit Imjustagamin_
-- **[Thumbnail and icon tips?](https://www.reddit.com/r/robloxgamedev/comments/1xfi2mi/thumbnail_and_icon_tips/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: What are the best ways to create icons and thumbnails for a game that I am working on? I am a student without spare money for a graphic designer and generated ones look low quality. If anyone knows an easy way that I could make high quality
+- **[Need feedback or suggestions! :((](https://www.reddit.com/r/ROBLOXStudio/comments/1xff4x7/need_feedback_or_suggestions/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: I'm looking for feedback on my first game. I'd appreciate any advice on what's missing, what I should improve, or what features I should add. Here's the link to my game: https://www.roblox.com/share?code=f2e85f564fd92c46a5c186baca0e6137&typ
+- **[how do I subdivide parts like in the images?? is there a plugin that can do that?](https://www.reddit.com/r/ROBLOXStudio/comments/1xf7et2/how_do_i_subdivide_parts_like_in_the_images_is/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-25
+  - Feed excerpt: hello everyone, im looking for a plugin or a way to subdivide parts in smaller parts, I found a plugin but only works in 1 direction, if anyone knwos a way or a plugin to do this please let me know in the comments, thanks! submitted by /u/m
+- **[What's the right way to reference a tool?](https://www.reddit.com/r/ROBLOXStudio/comments/1xfiktv/whats_the_right_way_to_reference_a_tool/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: I know it's in the Backpack (unequipped) or in the Character (Equipped). The script is a whole system, so I have the code inside a different module in ServerScriptService instead of the Tool itself. I somehow need to reference my Tool, but 
+- **[Whats the best way to make models and can AI make them](https://www.reddit.com/r/ROBLOXStudio/comments/1xfj97y/whats_the_best_way_to_make_models_and_can_ai_make/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-26
+  - Feed excerpt: I am a beginner never modeled anything before I want to make a weapon model and a jump pad submitted by /u/Icy-Pattern1113 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Studio capped at ~13 FPS in empty baseplate; MicroProfiler ~72ms in Present/queuePresent while focused](https://devforum.roblox.com/t/studio-capped-at-13-fps-in-empty-baseplate-microprofiler-72ms-in-presentqueuepresent-while-focused/4957714)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Roblox Studio runs at ~13 FPS in a default empty baseplate while the window is focused. CPU/GPU usage stay very low (~2% / ~5%). Other apps/games on this PC are fine. Reproduction Steps: Open a new Baseplate with no plugins or beta features
-- **[2,000 waypoint-chasing npcs, procedurally animations + custom server authority & client prediction](https://devforum.roblox.com/t/2000-waypoint-chasing-npcs-procedurally-animations-custom-server-authority-client-prediction/4957707)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: mostly just posting because i think it’s cool, and i’m glad i finally have something useable. if you have seen my other posts, you might remember i have been working on a buffer-based entity component system, and this is where it has gotten
-- **[A HumanoidRigDescription disappears when the appearance changes on the Avatar](https://devforum.roblox.com/t/a-humanoidrigdescription-disappears-when-the-appearance-changes-on-the-avatar/4957717)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Description I’d like to invite Avatar Team or the team that develop HumanoidRigDescription because some kind of cataclysm that started since the bent arms were fixed and or since Animation Retargeting flags were enabled. Animation Retargeti
-- **[Animation Retargeting - ScaleTo on character distorts location, unless you put an empty HumanoidRigDescription](https://devforum.roblox.com/t/animation-retargeting-scaleto-on-character-distorts-location-unless-you-put-an-empty-humanoidrigdescription/4957687)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Description Uhhhhhh, this HumanoidRigDescription thing, what is so special about it? Why does inserting an empty one, solve certain issues? Animation Retargeting - Bug where descendants constraints of character keep the avatar deformed, des
-- **[Need feedback on my puzzle solving game](https://devforum.roblox.com/t/need-feedback-on-my-puzzle-solving-game/4957750)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Hello, I’m working on a game that’s similar to an escape room, and I’d like to know if the puzzles are too easy or too hard. I’d also appreciate feedback on whether the puzzles are fun or frustrating to solve, and if anything feels confusin
-- **[Re-parenting Accessories on the server, no longer fix their location on the Client](https://devforum.roblox.com/t/re-parenting-accessories-on-the-server-no-longer-fix-their-location-on-the-client/4957621)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Description When you: Parent an Accessory away from the Character and then re-scale the Character and then parent the accessory back Then the Accessory will be at a distorted location instead, but only on the Client, not on the Server. Vide
-- **[ViewportFrame Piping / Tethering](https://devforum.roblox.com/t/viewportframe-piping-tethering/4957689)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: As a Roblox developer, it is currently too hard to … Reuse the output of an existing ViewportFrame . Currently implementations require us to clone each, and its contents, for every output. If Roblox is able to address this issue, it would i
-- **[\[NEW\] Flop N Fight has been struggling trying to get CCU and the ads are doing poorly](https://devforum.roblox.com/t/new-flop-n-fight-has-been-struggling-trying-to-get-ccu-and-the-ads-are-doing-poorly/4957643)** · Roblox Developer Forum latest · 2026-10-25
-  - Feed excerpt: Roblox \[NEW\] Flop N Fight Flop n Fight is a round-based, physics battlegrounds game where you can challenge your friends, throw hands, and send people flying. Be the last one standing. 🎮 Available on PC, Mobile, Console, and VR. ❤️ Like and
-- **[The Hollow - Two stacked UIs making closing one of them more tricky](https://devforum.roblox.com/t/the-hollow-two-stacked-uis-making-closing-one-of-them-more-tricky/4957801)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: Description I don’t know where The Hollow issues go, so I put them here. So, I was holding out the Flashlight and clicked “Visit Games” and then for a moment I was trying to figure out how to close it… Normal (click for more details) It loo
-- **[Unable to Equip Profile Frames on Desktop and Mobile App on Certain Accounts](https://devforum.roblox.com/t/unable-to-equip-profile-frames-on-desktop-and-mobile-app-on-certain-accounts/4957787)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: My friend Csdi has been experiencing a strange issue that I haven’t seen reported or triaged anywhere else. They’re unable to apply a profile frame to their Roblox account. When attempting to do so on the website, nothing happens and no err
-- **[Viewmodel animation lag](https://devforum.roblox.com/t/viewmodel-animation-lag/4957799)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: Hi, I’m trying to make a viewmodel equip animation but when I equip it, for a few frames it has no animation? Does anyone know how I can fix this? Thank you. 1 post - 1 participant Read full topic
-- **[\[Roblox\]\[AssetManager.AssetManager.Packages Warning when opening Asset Manager.](https://devforum.roblox.com/t/robloxassetmanagerassetmanagerpackages-warning-when-opening-asset-manager/4957783)** · Roblox Developer Forum latest · 2026-10-26
-  - Feed excerpt: Hi, When I open Asset Manager in any project, even a new project, I get the below warning: \[Roblox\]\[AssetManager.AssetManager.Packages._Index.Foundation.Foundation.Utility.Logger\] \[Foundation - Warning\] - PopoverContent rendered in a plugin
+- **[Decimals don't exist](https://devforum.roblox.com/t/decimals-dont-exist/4957803)** · Roblox Developer Forum latest · 2026-10-26
+  - Feed excerpt: I’m trying to code a script where parts fade in as you walk closer to it. But usually, It will snap to either 1 or 0 transparency. anyone know why? heres the script: function r(n) -- So i can round to 2 decimal places, I tested it this isn'
 
 ---
 

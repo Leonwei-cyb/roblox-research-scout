@@ -3,14 +3,14 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 594; direct candidates: 585;
+Indexed entries: 595; direct candidates: 586;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 On hold, NOT current work: Cat Magic. Their older report files are historical only.
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Appeal workflow recursively leaves users unable to recieve an appeal verdict](https://devforum.roblox.com/t/appeal-workflow-recursively-leaves-users-unable-to-recieve-an-appeal-verdict/4947085)
+- **P0 · first-session and mobile:** [How do I make M1 attack less sensitive on mobile](https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?

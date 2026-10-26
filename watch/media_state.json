@@ -1266,7 +1266,20 @@
     "879e89146cf99d7698c65f06",
     "d91108fd87bb598f8e00bc12",
     "262935421d1338c7fa286925",
-    "f8e55d401aa73cae444499a8"
+    "f8e55d401aa73cae444499a8",
+    "5c72380f9e7d69c052b11929",
+    "7c7db9b477d521067d1cbb92",
+    "7742648be75e4956adc0b0f9",
+    "0c982bf21a633721d9e18b54",
+    "3e0ecb02360469d7d9b80495",
+    "94fdfaff83f078b86ac4696a",
+    "12558b31d7f850fc37e75446",
+    "206596926c551c31ef4ac407",
+    "40130ec71f2543ac402dc448",
+    "8b8ab1e0342f2fb03f5326a5",
+    "7bb7e7e560751f18f93ca858",
+    "bc89ca72fc67b79982493076",
+    "c4399afb1f46b201c6b236d8"
   ],
   "items": [
     {
@@ -1284,7 +1297,7 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
-      "title": "[Roblox][AssetManager.AssetManager.Packages Warning when opening Asset Manager.",
+      "title": "[Roblox][AssetManager.AssetManager.Packages Warning when opening Asset Manager",
       "url": "https://devforum.roblox.com/t/robloxassetmanagerassetmanagerpackages-warning-when-opening-asset-manager/4957783",
       "published": "2026-10-26",
       "excerpt": "Hi, When I open Asset Manager in any project, even a new project, I get the below warning: [Roblox][AssetManager.AssetManager.Packages._Index.Foundation.Foundation.Utility.Logger] [Foundation - Warning] - PopoverContent rendered in a plugin context without onPressedOutside. In Studio, the QWidget po",
@@ -1305,16 +1318,39 @@
       "id": "c29965712489335fd2a1b386"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "What's the right way to reference a tool?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfiktv/whats_the_right_way_to_reference_a_tool/",
+      "published": "2026-10-26",
+      "excerpt": "I know it's in the Backpack (unequipped) or in the Character (Equipped). The script is a whole system, so I have the code inside a different module in ServerScriptService instead of the Tool itself. I somehow need to reference my Tool, but it could switch parents during the function, so I'm not sure",
+      "creator": "/u/Hoverfly-Enthusiast https://www.reddit.com/user/Hoverfly-Enthusiast",
+      "id": "94fdfaff83f078b86ac4696a"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
       "title": "Viewmodel animation lag",
       "url": "https://devforum.roblox.com/t/viewmodel-animation-lag/4957799",
       "published": "2026-10-26",
-      "excerpt": "Hi, I’m trying to make a viewmodel equip animation but when I equip it, for a few frames it has no animation? Does anyone know how I can fix this? Thank you. 1 post - 1 participant Read full topic",
+      "excerpt": "Hi, I’m trying to make a viewmodel equip animation but when I equip it, for a few frames it has no animation? Does anyone know how I can fix this? Thank you. 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/viewmodel-animation-lag/4957799.rss",
       "id": "65bd9538ec76b521a4311922"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Decimals don't exist",
+      "url": "https://devforum.roblox.com/t/decimals-dont-exist/4957803",
+      "published": "2026-10-26",
+      "excerpt": "I’m trying to code a script where parts fade in as you walk closer to it. But usually, It will snap to either 1 or 0 transparency. anyone know why? heres the script: function r(n) -- So i can round to 2 decimal places, I tested it this isn't the problem. n = n*100 n = math.round(n) n = n/100 return ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/decimals-dont-exist/4957803.rss",
+      "id": "5c72380f9e7d69c052b11929"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1340,6 +1376,17 @@
       "id": "2a223eee85a7c17efde68514"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Whats the best way to make models and can AI make them",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj97y/whats_the_best_way_to_make_models_and_can_ai_make/",
+      "published": "2026-10-26",
+      "excerpt": "I am a beginner never modeled anything before I want to make a weapon model and a jump pad submitted by /u/Icy-Pattern1113 [link] [comments]",
+      "creator": "/u/Icy-Pattern1113 https://www.reddit.com/user/Icy-Pattern1113",
+      "id": "206596926c551c31ef4ac407"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1349,6 +1396,17 @@
       "excerpt": "What are the best ways to create icons and thumbnails for a game that I am working on? I am a student without spare money for a graphic designer and generated ones look low quality. If anyone knows an easy way that I could make high quality thumbnails and icons myself please tell me. submitted by /u",
       "creator": "/u/Sea-Status8991 https://www.reddit.com/user/Sea-Status8991",
       "id": "0d02a2ff112f70802b64bf57"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "CinematicWorkflow(BlenderToRoblox)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj8q8/cinematicworkflowblendertoroblox/",
+      "published": "2026-10-26",
+      "excerpt": "A simple animation showcase with animated props, 1:1 from blender to roblox, took a while to figure out the right dimensions, limitations and breathable room for an endless creation of stuff to be made with all things that can be made in blender, without relying on roblox's plugins and tools, all mo",
+      "creator": "/u/Powerful-Neck1528 https://www.reddit.com/user/Powerful-Neck1528",
+      "id": "0c982bf21a633721d9e18b54"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1777,6 +1835,18 @@
       "id": "c6a048b935fe6f157694bc8c"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Connect Claude AI To Roblox Studio (Step By Step) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekVGalJYZVJ0UXVHUVhaVWFUTnF2R19JTkV3OW5CQndWMlB3LW9aX19CcDFia0FPQVBPWC1JSGRvT3N0djRMbFBNaHlGUjNCZE1WQmdB?oc=5",
+      "published": "2026-10-25",
+      "excerpt": "How To Connect Claude AI To Roblox Studio (Step By Step) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "c4399afb1f46b201c6b236d8"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1833,6 +1903,17 @@
       "excerpt": "I recently made a game called Knife Ability Arena, https://www.roblox.com/games/80673277702360/Knife-Ability-Arena I'm trying with ads but I feel like the ads don't bring in enough players at once to keep even like one full server alive like its almost constantly at 0ccu. How do I get over that init",
       "creator": "/u/Unhappy_Sprinkles_93 https://www.reddit.com/user/Unhappy_Sprinkles_93",
       "id": "bea8e9921497a39c8be5f4a4"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Hangar Aircraft Viewer",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf2asu/hangar_aircraft_viewer/",
+      "published": "2026-10-25",
+      "excerpt": "The Jet is fictional, F-40 (future aircraft), youll see Z-Fighting in the scenery, its placeholder assets that I havent done in blender yet. submitted by /u/China_sauces [link] [comments]",
+      "creator": "/u/China_sauces https://www.reddit.com/user/China_sauces",
+      "id": "bc89ca72fc67b79982493076"
     },
     {
       "source": "reddit-robloxdev",
@@ -2056,6 +2137,17 @@
       "id": "91ecbaf059a3c108147e9989"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I'm looking for people to test/play my game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf7vth/im_looking_for_people_to_testplay_my_game/",
+      "published": "2026-10-25",
+      "excerpt": "I want my fighting game to get players as well as people to test for bugs if your interested heres the link https://www.roblox.com/share?code=321748e35efc4b4987a45f56b71baea9&type=ExperienceDetails&stamp=1792947973859 my discord is linked to my account if you wanna report something submitted by /u/S",
+      "creator": "/u/Sure_Risk_2766 https://www.reddit.com/user/Sure_Risk_2766",
+      "id": "8b8ab1e0342f2fb03f5326a5"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2135,6 +2227,28 @@
       "id": "7d040e6abcd71a75e020c8cb"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf7et2/how_do_i_subdivide_parts_like_in_the_images_is/",
+      "published": "2026-10-25",
+      "excerpt": "hello everyone, im looking for a plugin or a way to subdivide parts in smaller parts, I found a plugin but only works in 1 direction, if anyone knwos a way or a plugin to do this please let me know in the comments, thanks! submitted by /u/matioxi333 [link] [comments]",
+      "creator": "/u/matioxi333 https://www.reddit.com/user/matioxi333",
+      "id": "7c7db9b477d521067d1cbb92"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain section on its own axis freely?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/",
+      "published": "2026-10-25",
+      "excerpt": "I want to take the landscape from one creation, so I can then manually place it directly next to some already established terrain. Basically expanding upon the landscape that was there before it. I think the main tools I am looking for are a Terrain exporter, and something where I can manually selec",
+      "creator": "/u/bonniebull1987 https://www.reddit.com/user/bonniebull1987",
+      "id": "7bb7e7e560751f18f93ca858"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2167,6 +2281,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701.rss",
       "id": "78653e9f60fe25609e6a698a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Modelling a mechsuit for a game I planned",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf0w18/modelling_a_mechsuit_for_a_game_i_planned/",
+      "published": "2026-10-25",
+      "excerpt": "currently only some of the arms, and most of the torso, is done. i will model the weapons and the cockpit soon. there is not a single line of code yet, and i definitely shouldve started the game with a more simple prototype model. but meh, im bored. all modelled on studio because i am allergic to bl",
+      "creator": "/u/AppropriateGap2500 https://www.reddit.com/user/AppropriateGap2500",
+      "id": "7742648be75e4956adc0b0f9"
     },
     {
       "source": "reddit-robloxdev",
@@ -2579,6 +2704,17 @@
       "id": "438b4c269bbb0b12dbab0180"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "My Batman Arkham Style Combat WIP",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfgxas/my_batman_arkham_style_combat_wip/",
+      "published": "2026-10-25",
+      "excerpt": "Been trying to recreate the feel of Arkham Combat for a new game I'm working on. ideas and feedback are welcome. submitted by /u/PR0JECT_ARKHAM [link] [comments]",
+      "creator": "/u/PR0JECT_ARKHAM https://www.reddit.com/user/PR0JECT_ARKHAM",
+      "id": "40130ec71f2543ac402dc448"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2588,6 +2724,17 @@
       "excerpt": "This is unpaid: I'm a solo dev looking for honest first impressions, not offering money. If that's not for you, no worries! The game is a tycoon where you hatch, breed and evolve monsters that work your ranch. It just went public and I want fresh eyes on the first session before I push it wider. Wha",
       "creator": "/u/Mean_Purpose_4470 https://www.reddit.com/user/Mean_Purpose_4470",
       "id": "3feb6d07879026fabe40872e"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Gatchina palace parade ground circa 1797 build and display",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfga67/gatchina_palace_parade_ground_circa_1797_build/",
+      "published": "2026-10-25",
+      "excerpt": "submitted by /u/Bandit1189 [link] [comments]",
+      "creator": "/u/Bandit1189 https://www.reddit.com/user/Bandit1189",
+      "id": "3e0ecb02360469d7d9b80495"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2830,6 +2977,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/remove-the-uv-bounds-requirement-for-ugcs/4957576.rss",
       "id": "146f20d32e5a047e6bd3f2c8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Need feedback or suggestions! :((",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xff4x7/need_feedback_or_suggestions/",
+      "published": "2026-10-25",
+      "excerpt": "I'm looking for feedback on my first game. I'd appreciate any advice on what's missing, what I should improve, or what features I should add. Here's the link to my game: https://www.roblox.com/share?code=f2e85f564fd92c46a5c186baca0e6137&type=ExperienceDetails&stamp=1792965579519 submitted by /u/WinR",
+      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
+      "id": "12558b31d7f850fc37e75446"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8070,159 +8228,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850.rss",
       "id": "5c37aa3724a4ad24fc252856"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "I Asked Opus 5.5 To Make ANGRY BIRDS In Roblox! - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZ2c5a3NMQzBoMmU4cFpDWWRoVlVLQVdOLU1Qc0JkVDRrZWdSTFlMLVd4cFRtYXRfU2JQMXo2MXluSUlXM2RSQkxuZWtKRmNBUEV6YkVB?oc=5",
-      "published": "2026-10-21",
-      "excerpt": "I Asked Opus 5.5 To Make ANGRY BIRDS In Roblox! YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "57e4908034f68b4a68f6bbbf"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Limited sales not showing pending robux? / sale / transaction history",
-      "url": "https://devforum.roblox.com/t/limited-sales-not-showing-pending-robux-sale-transaction-history/4948901",
-      "published": "2026-10-21",
-      "excerpt": "I recently sold a limited item on the website, but it isn’t appearing nowhere in my summary or even as pending robux. I’m guessing there may be a bug with the sale of limited items? A private message is associated with this bug report 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/limited-sales-not-showing-pending-robux-sale-transaction-history/4948901.rss",
-      "id": "573a836bd444910e27f35a1c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Trailer Video follows Video Quality Guidelines and gets denied",
-      "url": "https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590",
-      "published": "2026-10-21",
-      "excerpt": "To the best of my knowledge, my video trailer follows the guidelines listed in the documentation tab and has still been denied twice by the AI moderation. All of the footage was screen-recorded in-game, and the 3 or 4 freecam shots simply showcase the gameplay from a different perspective. I contact",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590.rss",
-      "id": "54da3eec96c5f62a290cf939"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Global shadows from sun do not disappear with specific properties",
-      "url": "https://devforum.roblox.com/t/global-shadows-from-sun-do-not-disappear-with-specific-properties/4947525",
-      "published": "2026-10-21",
-      "excerpt": "Recently, Soft lighting appears to not work well with the Global Shadows bool. In the video below, Global shadows disappear when I have realistic lighting but not with soft lighting. It was working last week, but this week it appears to have broken soft lighting with no global shadows. It seems to h",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/global-shadows-from-sun-do-not-disappear-with-specific-properties/4947525.rss",
-      "id": "532b829ed52bfc09ad617954"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Ad eligibility broken?",
-      "url": "https://devforum.roblox.com/t/ad-eligibility-broken/4948501",
-      "published": "2026-10-21",
-      "excerpt": "It tells me I must compelte the quesstionairre, but I have already done that? 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ad-eligibility-broken/4948501.rss",
-      "id": "52ef65d6154ee5283e933d2e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Nvidia DLL \"nvspcap64\" causing roblox to crash a minute—or less—after start up",
-      "url": "https://devforum.roblox.com/t/nvidia-dll-nvspcap64-causing-roblox-to-crash-a-minute%E2%80%94or-less%E2%80%94after-start-up/4949031",
-      "published": "2026-10-21",
-      "excerpt": "I recently updated my 5080 drivers to the latest version, and now ever time I attempt to launch the roblox client I receive an Error: 2026-10-21T22:55:53.902Z,3.902621,4650,6,Error [DFLog::ClientBlockedImage] Blocked DLL: \\device\\harddiskvolume3\\windows\\system32\\nvspcap64.dll 2026-10-21T22:55:55.971",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/nvidia-dll-nvspcap64-causing-roblox-to-crash-a-minute%E2%80%94or-less%E2%80%94after-start-up/4949031.rss",
-      "id": "4ffef5baf5b1bab85bf702e0"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "paying robux for testers",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbokac/paying_robux_for_testers/",
-      "published": "2026-10-21",
-      "excerpt": "paying 30 robux for people to test my game. add me on dc aloosely submitted by /u/AgitatedFennel1317 [link] [comments]",
-      "creator": "/u/AgitatedFennel1317 https://www.reddit.com/user/AgitatedFennel1317",
-      "id": "4e135d275471d4ee2a4c059a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game review: a drawing game",
-      "url": "https://devforum.roblox.com/t/game-review-a-drawing-game/4948299",
-      "published": "2026-10-21",
-      "excerpt": "I made a game where the players can draw stuff by walking around, it was supposed to be a silly project just to show off to friends but it started gaining some players I got a tiny problem. I’m not sure on what to add to keep people playing since it gets really boring if you are alone, also I wanna ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-review-a-drawing-game/4948299.rss",
-      "id": "4c1660ea7d835ceb6115b1f6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[OPEN] Animator / VFX Artist needed for Action MMORPG",
-      "url": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560",
-      "published": "2026-10-21",
-      "excerpt": "Hey everyone! We’re AxisForge Studio, an indie team building an open-world Action MMORPG called Gauntlet: Rebirth . Our backend engine is already built and fully operational, so now we are looking for an Animator/VFX artist to join the crew and take complete ownership of how the game actually looks ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560.rss",
-      "id": "48cd55c60ec016e3c4f7d7c8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "We built a Roblox FPS game, looking for a feedback",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbbgvq/we_built_a_roblox_fps_game_looking_for_a_feedback/",
-      "published": "2026-10-21",
-      "excerpt": "Hi everyone! My friend and I have spent the last 9 months making **Stray Bullet**, a fast first-person shooter on Roblox. It's a small two-person project, and this is where it stands today. We'd really like to know what you think of it. In short: quick pistol fights on a map full of traps (saws, min",
-      "creator": "/u/Unable-Cat4264 https://www.reddit.com/user/Unable-Cat4264",
-      "id": "47d9f99efa820bec950da09b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "TextChatService game take down",
-      "url": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366",
-      "published": "2026-10-21",
-      "excerpt": "I seen multiple topics on this and have posted multiple comments on various topics relating to this issue, just thought I’d chime in and post a topic to see if it’ll maybe gain attention from people who haven’t seen the other posts because this is bizzar. My first moderation action occurred around t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366.rss",
-      "id": "4666c980c0631a85e0f25541"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I owned this group before my account was terminated, and I need help getting my group access back",
-      "url": "https://devforum.roblox.com/t/i-owned-this-group-before-my-account-was-terminated-and-i-need-help-getting-my-group-access-back/4949062",
-      "published": "2026-10-21",
-      "excerpt": "Hey Roblox Staff, I understand that the payout option showing up was a UI bug, but I would like to explain my situation regarding the group itself. I was the original owner of this group before my main account was terminated due to a DMCA violation. I submitted a counter-notice, and the game involve",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-owned-this-group-before-my-account-was-terminated-and-i-need-help-getting-my-group-access-back/4949062.rss",
-      "id": "38907fb55397a4eec373c55d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Calling all 3D Editors, i need help on something",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbmciq/calling_all_3d_editors_i_need_help_on_something/",
-      "published": "2026-10-21",
-      "excerpt": "so i wanna know how to decompile roblox models so i can rig them, or upload em to sketchfab can anyone tell me? submitted by /u/SatisfactionSorry731 [link] [comments]",
-      "creator": "/u/SatisfactionSorry731 https://www.reddit.com/user/SatisfactionSorry731",
-      "id": "2f352368df9f67e69a86217a"
     }
   ]
 }

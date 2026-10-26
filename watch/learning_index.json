@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 594,
+  "unique_posts": 595,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -216,22 +216,6 @@
         "tools and performance"
       ],
       "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4947560:1",
-      "url": "https://devforum.roblox.com/t/open-animator-vfx-artist-needed-for-action-mmorpg/4947560",
-      "title": "[OPEN] Animator / VFX Artist needed for Action MMORPG",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "genres and successful loops",
-        "tools and performance"
-      ],
-      "score": 8,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -512,6 +496,20 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xfgd71",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/",
+      "title": "Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain section on its own axis freely?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -1247,6 +1245,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xfj97y",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj97y/whats_the_best_way_to_make_models_and_can_ai_make/",
+      "title": "Whats the best way to make models and can AI make them",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "world and visual design"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4947525:1",
       "url": "https://devforum.roblox.com/t/global-shadows-do-not-work-with-soft-lighting-style/4947525",
       "title": "Global Shadows do not work with Soft Lighting Style",
@@ -1281,32 +1293,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4948299:1",
-      "url": "https://devforum.roblox.com/t/game-review-a-drawing-game/4948299",
-      "title": "Game review: a drawing game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4948501:1",
-      "url": "https://devforum.roblox.com/t/ad-eligibility-broken/4948501",
-      "title": "Ad eligibility broken?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2393,32 +2379,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xbbgvq",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbbgvq/we_built_a_roblox_fps_game_looking_for_a_feedback/",
-      "title": "We built a Roblox FPS game, looking for a feedback",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xbmciq",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbmciq/calling_all_3d_editors_i_need_help_on_something/",
-      "title": "Calling all 3D Editors, i need help on something",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xbq9cj",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbq9cj/what_is_the_best_way_of_learning_ui_design/",
       "title": "What is the best way of learning UI design?",
@@ -2878,6 +2838,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xf7et2",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf7et2/how_do_i_subdivide_parts_like_in_the_images_is/",
+      "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xf7fye",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/",
       "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
@@ -2996,6 +2969,32 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xff4x7",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xff4x7/need_feedback_or_suggestions/",
+      "title": "Need feedback or suggestions! :((",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xfga67",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfga67/gatchina_palace_parade_ground_circa_1797_build/",
+      "title": "Gatchina palace parade ground circa 1797 build and display",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3503,6 +3502,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xf0w18",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf0w18/modelling_a_mechsuit_for_a_game_i_planned/",
+      "title": "Modelling a mechsuit for a game I planned",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:11L3N8H86fQ",
       "url": "https://www.youtube.com/shorts/11L3N8H86fQ",
       "title": "all bite. no bark. tonight, Biter is hungry for you in The Hollow.",
@@ -3677,19 +3690,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949062:1",
-      "url": "https://devforum.roblox.com/t/i-owned-this-group-before-my-account-was-terminated-and-i-need-help-getting-my-group-access-back/4949062",
-      "title": "I owned this group before my account was terminated, and I need help getting my group access back",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4542,7 +4542,7 @@
     {
       "key": "devforum:4957783:1",
       "url": "https://devforum.roblox.com/t/robloxassetmanagerassetmanagerpackages-warning-when-opening-asset-manager/4957783",
-      "title": "[Roblox][AssetManager.AssetManager.Packages Warning when opening Asset Manager.",
+      "title": "[Roblox][AssetManager.AssetManager.Packages Warning when opening Asset Manager",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -4561,6 +4561,19 @@
       "kind": "devforum",
       "signals": [
         "UI and menus"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4957803:1",
+      "url": "https://devforum.roblox.com/t/decimals-dont-exist/4957803",
+      "title": "Decimals don't exist",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5281,6 +5294,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xf7vth",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf7vth/im_looking_for_people_to_testplay_my_game/",
+      "title": "I'm looking for people to test/play my game",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xf8jot",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf8jot/looking_for_devs_for_a_doors_inspired_game/",
       "title": "Looking for devs for a doors inspired game",
@@ -5346,14 +5372,42 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4947366:1",
-      "url": "https://devforum.roblox.com/t/textchatservice-game-take-down/4947366",
-      "title": "TextChatService game take down",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xfgxas",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfgxas/my_batman_arkham_style_combat_wip/",
+      "title": "My Batman Arkham Style Combat WIP",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xfiktv",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfiktv/whats_the_right_way_to_reference_a_tool/",
+      "title": "What's the right way to reference a tool?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xfj8q8",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj8q8/cinematicworkflowblendertoroblox/",
+      "title": "CinematicWorkflow(BlenderToRoblox)",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -5393,17 +5447,6 @@
       "key": "devforum:4947513:1",
       "url": "https://devforum.roblox.com/t/surfacegui-textlabels-appear-warped-and-melted/4947513",
       "title": "SurfaceGui TextLabels appear warped and melted",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4947590:1",
-      "url": "https://devforum.roblox.com/t/trailer-video-follows-video-quality-guidelines-and-gets-denied/4947590",
-      "title": "Trailer Video follows Video Quality Guidelines and gets denied",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",
@@ -5555,31 +5598,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4948901:1",
-      "url": "https://devforum.roblox.com/t/limited-sales-not-showing-pending-robux-sale-transaction-history/4948901",
-      "title": "Limited sales not showing pending robux? / sale / transaction history",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4948962:1",
       "url": "https://devforum.roblox.com/t/imperium-monopoly-open-sourced/4948962",
       "title": "Imperium - Monopoly, open sourced",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949031:1",
-      "url": "https://devforum.roblox.com/t/nvidia-dll-nvspcap64-causing-roblox-to-crash-a-minute%E2%80%94or-less%E2%80%94after-start-up/4949031",
-      "title": "Nvidia DLL \"nvspcap64\" causing roblox to crash a minute—or less—after start up",
       "source": "roblox-devforum-latest",
       "published": "2026-10-21",
       "kind": "devforum",
@@ -6677,17 +6698,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xbokac",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbokac/paying_robux_for_testers/",
-      "title": "paying robux for testers",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xbp52f",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbp52f/looking_for_playtesters_pixel_anime_mmo/",
       "title": "Looking for Playtesters! Pixel Anime MMO",
@@ -7304,6 +7314,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xf2asu",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf2asu/hangar_aircraft_viewer/",
+      "title": "Hangar Aircraft Viewer",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xf2x57",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf2x57/remade_mont_blanc_in_roblox_and_decided_to_turn/",
       "title": "Remade Mont Blanc in Roblox and decided to turn it into a skiing game project",
@@ -7392,6 +7413,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1HekVGalJYZVJ0UXVHUVhaVWFUTnF2R19JTkV3OW5CQndWMlB3LW9aX19CcDFia0FPQVBPWC1JSGRvT3N0djRMbFBNaHlGUjNCZE1WQmdB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekVGalJYZVJ0UXVHUVhaVWFUTnF2R19JTkV3OW5CQndWMlB3LW9aX19CcDFia0FPQVBPWC1JSGRvT3N0djRMbFBNaHlGUjNCZE1WQmdB?oc=5",
+      "title": "How To Connect Claude AI To Roblox Studio (Step By Step) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-10-25",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5SVjVnTHFxS2F2OVRmc2xtbzNST2tTb2ZYVEwtYjdWdHRXaHJMYWMtVUhuU1Nqb0p1QWx5YVNSWDlCb3lDM1EtbTBUWkxkaUVRTHFIeG93",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SVjVnTHFxS2F2OVRmc2xtbzNST2tTb2ZYVEwtYjdWdHRXaHJMYWMtVUhuU1Nqb0p1QWx5YVNSWDlCb3lDM1EtbTBUWkxkaUVRTHFIeG93?oc=5",
       "title": "How To Connect Claude AI To Roblox Studio - Full Guide - YouTube",
@@ -7414,17 +7448,6 @@
       "signals": [
         "genres and successful loops"
       ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9KZ2c5a3NMQzBoMmU4cFpDWWRoVlVLQVdOLU1Qc0JkVDRrZWdSTFlMLVd4cFRtYXRfU2JQMXo2MXluSUlXM2RSQkxuZWtKRmNBUEV6YkVB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZ2c5a3NMQzBoMmU4cFpDWWRoVlVLQVdOLU1Qc0JkVDRrZWdSTFlMLVd4cFRtYXRfU2JQMXo2MXluSUlXM2RSQkxuZWtKRmNBUEV6YkVB?oc=5",
-      "title": "I Asked Opus 5.5 To Make ANGRY BIRDS In Roblox! - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-21",
-      "kind": "index-only",
-      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
