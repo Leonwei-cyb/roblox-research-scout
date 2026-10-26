@@ -1279,7 +1279,11 @@
     "8b8ab1e0342f2fb03f5326a5",
     "7bb7e7e560751f18f93ca858",
     "bc89ca72fc67b79982493076",
-    "c4399afb1f46b201c6b236d8"
+    "c4399afb1f46b201c6b236d8",
+    "7a8835343bad549c215a7d7b",
+    "3c9e9c0aec0081009384cedb",
+    "787223946b4691bbcf6790b2",
+    "d28d982ce05690d4639760b6"
   ],
   "items": [
     {
@@ -2247,6 +2251,17 @@
       "excerpt": "I want to take the landscape from one creation, so I can then manually place it directly next to some already established terrain. Basically expanding upon the landscape that was there before it. I think the main tools I am looking for are a Terrain exporter, and something where I can manually selec",
       "creator": "/u/bonniebull1987 https://www.reddit.com/user/bonniebull1987",
       "id": "7bb7e7e560751f18f93ca858"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Did they learn to program in Roblox Studio, and, in general, how to make simple games?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xff3bp/did_they_learn_to_program_in_roblox_studio_and_in/",
+      "published": "2026-10-25",
+      "excerpt": "I’m very interested in learning how to use Roblox Studio, so I’m curious: what was the first thing you did, starting completely from scratch? P.S. Personally, I’m using AI to create simple games, and then I go back through the code to try and understand it. submitted by /u/Santx800 [link] [comments]",
+      "creator": "/u/Santx800 https://www.reddit.com/user/Santx800",
+      "id": "7a8835343bad549c215a7d7b"
     },
     {
       "source": "reddit-robloxdev",
@@ -6376,6 +6391,18 @@
       "id": "d3d1e835e1bdb75a22f14ec2"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Generate Roblox Materials With Claude AI - Full Guide - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUDNqak1mX3A0MWo0TXZleFkzVDduWmU2QXNyXzVWZHA2dlZFT0NLT3VCVFkxSERmMnNFSktIQllteDFfRDMtT0Q4Um9BU205VmI0V0hn?oc=5",
+      "published": "2026-10-22",
+      "excerpt": "How To Generate Roblox Materials With Claude AI - Full Guide YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "d28d982ce05690d4639760b6"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -6830,6 +6857,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061.rss",
       "id": "78d5f2ac46484fbea4800e4f"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "I Tried Making a Viral Roblox Automation Game With AI - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYzl1Y2JoNUswOElmbTFTRGZ1bXBIRGZReGthaVhZNVBBcllDb2EzLUJsYkZISVpSNWF5ejNJWWNNZHhNOThaQjdEWHRaOHNUODRqWjlB?oc=5",
+      "published": "2026-10-22",
+      "excerpt": "I Tried Making a Viral Roblox Automation Game With AI YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "787223946b4691bbcf6790b2"
     },
     {
       "source": "reddit-robloxdev",
@@ -8193,41 +8232,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/combat-legends-beta-testing-recruitment-open/4947409.rss",
       "id": "62091f636f6db8149725b155"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "game idea",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbemhn/game_idea/",
-      "published": "2026-10-21",
-      "excerpt": "If i made a game today about quick round based fighting free for all. visually simple cartoony low poly with more serious undertoned color palette. Fast paced, brawlhalla vibe where you either die by getting knocked off a large arena, or if your health depletes. 3 different playstyles that differs i",
-      "creator": "/u/floppedmind https://www.reddit.com/user/floppedmind",
-      "id": "6022239f221d1ddfde9f3e1c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SurfaceAppearance Textures Appear Glitched After Roblox Studio Update",
-      "url": "https://devforum.roblox.com/t/surfaceappearance-textures-appear-glitched-after-roblox-studio-update/4948194",
-      "published": "2026-10-21",
-      "excerpt": "Description After updating Roblox Studio and restarting it when prompted, I started experiencing visual glitches on MeshParts that use SurfaceAppearance . Before this update, everything was working normally. The issue affects both Roblox Studio and the Roblox Player, but only appears on MeshParts wi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/surfaceappearance-textures-appear-glitched-after-roblox-studio-update/4948194.rss",
-      "id": "5d53b4e7a67698b0fe5abc48"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Characters using PhysicsControllers glitch and fling on platforms using PrismaticConstraints",
-      "url": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850",
-      "published": "2026-10-21",
-      "excerpt": "This began happening fairly recently, within the last month I’d say. Some moving platforms / pistons in my project use PrismaticConstraints to align and propel themselves along an axis. My character uses a custom solution involving character physics controllers, and it began bouncing off and sinking",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850.rss",
-      "id": "5c37aa3724a4ad24fc252856"
     }
   ]
 }

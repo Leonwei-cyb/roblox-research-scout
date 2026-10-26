@@ -767,20 +767,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4948194:1",
-      "url": "https://devforum.roblox.com/t/surfaceappearance-textures-appear-glitched-after-roblox-studio-update/4948194",
-      "title": "SurfaceAppearance Textures Appear Glitched After Roblox Studio Update",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4948295:1",
       "url": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295",
       "title": "How do I make M1 attack less sensitive on mobile",
@@ -2965,6 +2951,19 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfe6rm/i_made_a_halloween_raid_where_the_whole_server/",
       "title": "I made a Halloween raid where the whole server fights the Headless Horseman every hour",
       "source": "reddit-robloxdev",
+      "published": "2026-10-25",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xff3bp",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xff3bp/did_they_learn_to_program_in_roblox_studio_and_in/",
+      "title": "Did they learn to program in Roblox Studio, and, in general, how to make simple games?",
+      "source": "reddit-robloxstudio",
       "published": "2026-10-25",
       "kind": "reddit",
       "signals": [
@@ -5466,17 +5465,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4947850:1",
-      "url": "https://devforum.roblox.com/t/characters-using-physicscontrollers-glitch-and-fling-on-platforms-using-prismaticconstraints/4947850",
-      "title": "Characters using PhysicsControllers glitch and fling on platforms using PrismaticConstraints",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4948114:1",
       "url": "https://devforum.roblox.com/t/experience-doesnt-have-permission-to-use-bug/4948114",
       "title": "Experience doesnt have permission to use bug",
@@ -6665,17 +6653,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xbemhn",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbemhn/game_idea/",
-      "title": "game idea",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xbfo6a",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbfo6a/does_anyone_know_how_to_get_rid_of_the_textures/",
       "title": "Does anyone know how to get rid of the textures that appear here when you use an image from your computer's archive?",
@@ -7460,6 +7437,30 @@
       "kind": "index-only",
       "signals": [
         "animation and audio"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBEUDNqak1mX3A0MWo0TXZleFkzVDduWmU2QXNyXzVWZHA2dlZFT0NLT3VCVFkxSERmMnNFSktIQllteDFfRDMtT0Q4Um9BU205VmI0V0hn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUDNqak1mX3A0MWo0TXZleFkzVDduWmU2QXNyXzVWZHA2dlZFT0NLT3VCVFkxSERmMnNFSktIQllteDFfRDMtT0Q4Um9BU205VmI0V0hn?oc=5",
+      "title": "How To Generate Roblox Materials With Claude AI - Full Guide - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-10-22",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBJYzl1Y2JoNUswOElmbTFTRGZ1bXBIRGZReGthaVhZNVBBcllDb2EzLUJsYkZISVpSNWF5ejNJWWNNZHhNOThaQjdEWHRaOHNUODRqWjlB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYzl1Y2JoNUswOElmbTFTRGZ1bXBIRGZReGthaVhZNVBBcllDb2EzLUJsYkZISVpSNWF5ejNJWWNNZHhNOThaQjdEWHRaOHNUODRqWjlB?oc=5",
+      "title": "I Tried Making a Viral Roblox Automation Game With AI - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-10-22",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
