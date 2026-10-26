@@ -1290,7 +1290,14 @@
     "c5541e81bf33bffb44ba1a3e",
     "480360ad186ba8bb2fa36a9d",
     "f686797f7bbb059ad8969b4a",
-    "a166f56c5e4c40d4a8c4d1d2"
+    "a166f56c5e4c40d4a8c4d1d2",
+    "5f146ff1f53a8d477cd9f96f",
+    "4ad53a7e8c4c10298b955cf3",
+    "029318b65723f9954a4996c2",
+    "6cd876faad51088b03545cde",
+    "b46bdf197a652d6d57a416c9",
+    "82462424343e4e02d8bce7e1",
+    "8e92cb67426ba3fb158b9747"
   ],
   "items": [
     {
@@ -1352,6 +1359,17 @@
       "id": "c29965712489335fd2a1b386"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "NOT cool flashlight",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfqgyv/not_cool_flashlight/",
+      "published": "2026-10-26",
+      "excerpt": "roblox's rendering system is not liking what im doing submitted by /u/Co2_onit [link] [comments]",
+      "creator": "/u/Co2_onit https://www.reddit.com/user/Co2_onit",
+      "id": "b46bdf197a652d6d57a416c9"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1386,6 +1404,29 @@
       "id": "94fdfaff83f078b86ac4696a"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "LOW POLY BUILDER NEEDED!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfpauq/low_poly_builder_needed/",
+      "published": "2026-10-26",
+      "excerpt": "🛠️ [HIRING] Low-Poly Builder for Roblox Game 🎮 🏡 Looking for a talented(accepting begginers who work hard) low-poly builder to help create interiors for a planned grand mansion map in my upcoming roblox game! 🎨 I'm aiming for a stylised, polished aesthetic and have reference images available to show",
+      "creator": "/u/chombiecat https://www.reddit.com/user/chombiecat",
+      "id": "82462424343e4e02d8bce7e1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Very critical] PC freezing studio glitch with typechecker",
+      "url": "https://devforum.roblox.com/t/very-critical-pc-freezing-studio-glitch-with-typechecker/4958087",
+      "published": "2026-10-26",
+      "excerpt": "So i have been writing type function to help with auto completion in my workflow and then my studio froze and second after PC become non responsive entirely had to use power button Eventually i had to download copy of my place and patch out the script using AI help with tooling type _Instance = Inst",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/very-critical-pc-freezing-studio-glitch-with-typechecker/4958087.rss",
+      "id": "6cd876faad51088b03545cde"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1401,6 +1442,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Terminated while suspended by automated moderation for \"Terrorism/Extremism\". Still don't have proper context as to why I was banned",
+      "url": "https://devforum.roblox.com/t/terminated-while-suspended-by-automated-moderation-for-terrorismextremism-still-dont-have-proper-context-as-to-why-i-was-banned/4958128",
+      "published": "2026-10-26",
+      "excerpt": "Good evening everybody, I’m mainly posting because it’s been about more than a week since I’ve been suspended and 5 days since I was terminated. And this entire appeal process has highly frustrating. Situation On October 15th, 2026, I was suspended due to “Terrorism/Extremism”, and only thing that w",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/terminated-while-suspended-by-automated-moderation-for-terrorismextremism-still-dont-have-proper-context-as-to-why-i-was-banned/4958128.rss",
+      "id": "5f146ff1f53a8d477cd9f96f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Decimals don't exist",
       "url": "https://devforum.roblox.com/t/decimals-dont-exist/4957803",
       "published": "2026-10-26",
@@ -1408,6 +1461,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/decimals-dont-exist/4957803.rss",
       "id": "5c72380f9e7d69c052b11929"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Attempt to call missing method 'IsA' of table",
+      "url": "https://devforum.roblox.com/t/attempt-to-call-missing-method-isa-of-table/4958111",
+      "published": "2026-10-26",
+      "excerpt": "You can write your topic however you want, but you need to answer these questions: What do you want to achieve? I want to fix this issue in my state manager script What is the issue? ReplicatedStorage.Modules.StateManager:29: attempt to call missing method ‘IsA’ of table What solutions have you trie",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/attempt-to-call-missing-method-isa-of-table/4958111.rss",
+      "id": "4ad53a7e8c4c10298b955cf3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1498,6 +1563,18 @@
       "excerpt": "A simple animation showcase with animated props, 1:1 from blender to roblox, took a while to figure out the right dimensions, limitations and breathable room for an endless creation of stuff to be made with all things that can be made in blender, without relying on roblox's plugins and tools, all mo",
       "creator": "/u/Powerful-Neck1528 https://www.reddit.com/user/Powerful-Neck1528",
       "id": "0c982bf21a633721d9e18b54"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Studio Feature Request] Add a “Disable Script Parsing” setting",
+      "url": "https://devforum.roblox.com/t/studio-feature-request-add-a-%E2%80%9Cdisable-script-parsing%E2%80%9D-setting/4958097",
+      "published": "2026-10-26",
+      "excerpt": "[Studio Feature Request] Add a “Disable Script Parsing” setting Summary Add a Disable Script Parsing setting to Roblox Studio that completely disables script analysis and all editor features that require parsing or understanding the code. The purpose is to let developers continue editing scripts eve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-feature-request-add-a-%E2%80%9Cdisable-script-parsing%E2%80%9D-setting/4958097.rss",
+      "id": "029318b65723f9954a4996c2"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2226,6 +2303,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965.rss",
       "id": "91ecbaf059a3c108147e9989"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waXd3Q09QSDVOODlmUWJmT0x1eG1qei1ra3NRMHVDcS1KZ2R0bXlMYkFLcFhuVWRmUjZLRFNGaEVDSEVVb2lZa0VKNC1yU3c3WDlpU0R3?oc=5",
+      "published": "2026-10-25",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "8e92cb67426ba3fb158b9747"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8156,86 +8245,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/lighting-quality-goes-down-far-away/4948520.rss",
       "id": "8380d5f415a48a24fbae35e9"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Game crashes whenever i test it,",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc2ue1/game_crashes_whenever_i_test_it/",
-      "published": "2026-10-21",
-      "excerpt": "I'm making a game but whenever I go into it it crashed and won't let me play, theres no free models, just one day it stopped working submitted by /u/Strange-Candidate563 [link] [comments]",
-      "creator": "/u/Strange-Candidate563 https://www.reddit.com/user/Strange-Candidate563",
-      "id": "80ff10e6c02579beda42913a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What is the best way of learning UI design?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbq9cj/what_is_the_best_way_of_learning_ui_design/",
-      "published": "2026-10-21",
-      "excerpt": "Based on your experience, what was the most effective method you used to learn UI design in Roblox? What sources did you use? Perhaps you could suggest some good YouTube tutorials. Maybe using external sources like Figma is the best way to go, or perhaps there are good Roblox plugins that can be use",
-      "creator": "/u/Monster-Games https://www.reddit.com/user/Monster-Games",
-      "id": "7bfb0be4523917794e3138d1"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Important TextChatService Updates: How to Test and What’s Next",
-      "url": "https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433",
-      "published": "2026-10-21",
-      "excerpt": "Key Takeaways We’re making chat functionality more native to reduce custom work for each game and enable consistent access to chat features and safety tools for every player. Start testing now and highlight any gaps we can address before the required migration in May 2027. Custom chat features will ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433.rss",
-      "id": "7b6e7e5e6a893721d2c94941"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Post Accidentally Deleted and Cant restore it",
-      "url": "https://devforum.roblox.com/t/post-accidentally-deleted-and-cant-restore-it/4948680",
-      "published": "2026-10-21",
-      "excerpt": "I don’t know what happened, but I clicked the 3 buttons out of curiosity and in an instant my post vanished. Why isn’t there a revert button? I made a duplicate post to hopefully get it republished. Could you please fix it? Page URL: https://devforum.roblox.com/t/universal-game-development-tool-kit/",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/post-accidentally-deleted-and-cant-restore-it/4948680.rss",
-      "id": "7a9d7149eeb2f7778b988999"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UIBlur is here. How to use it?",
-      "url": "https://devforum.roblox.com/t/uiblur-is-here-how-to-use-it/4948953",
-      "published": "2026-10-21",
-      "excerpt": "I hope Roblox Staff sees this, recently new class has been added called “UIBlur”, it has .Enabled, .Color3 and .Strength property which are self explanatory but the problem is actually using it. I’ve tried parenting it to any GUI object and Lighting but it just doesn’t work and creator docs don’t ha",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/uiblur-is-here-how-to-use-it/4948953.rss",
-      "id": "7a57da7682de82c5f8785d22"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Ive got a problem pleass help!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbmipl/ive_got_a_problem_pleass_help/",
-      "published": "2026-10-21",
-      "excerpt": "I just released my first game and I was going to advertise it until I realised I need to be 18 to pay with a card for ads. To pay with robux, it costs 4x what I was going to pay and there is absolutley no way on Gods green earth im paying that. Is ther any other way to do it other than just posting ",
-      "creator": "/u/RedVelvet0026 https://www.reddit.com/user/RedVelvet0026",
-      "id": "7a4353ba000e22cc1f77b866"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Another skill made for Seraph’s End LF COMMS",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc2pkc/another_skill_made_for_seraphs_end_lf_comms/",
-      "published": "2026-10-21",
-      "excerpt": "Another skill made for Seraph’s End. discord.gg/seraphsend Last sneak probably until combat showcase (unless big boss @cettisend says otherwise) LF USD COMMS Discord: discerninq_ Port(pending rework): discerninq.dev #RobloxDev #RobloxScripter submitted by /u/discerninq [link] [comments]",
-      "creator": "/u/discerninq https://www.reddit.com/user/discerninq",
-      "id": "7a2ad780cb8b314df446de80"
     }
   ]
 }
