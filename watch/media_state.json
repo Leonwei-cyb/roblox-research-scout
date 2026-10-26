@@ -1337,7 +1337,12 @@
     "ead6f0e360fdac6e853af85d",
     "ccf36e3ff1e235917fd079ae",
     "b9f7c185fe110f23439a1ef4",
-    "b22cfc0ecdbe75921f6b0c82"
+    "b22cfc0ecdbe75921f6b0c82",
+    "14bffe1daecc42e58d8bfdca",
+    "589b8a5cc5e8d6d043c18483",
+    "5c21432453c7aeb9b031405e",
+    "8bcc2107ed76f36baac6f123",
+    "c85d2b0c43b4879db7b36e0d"
   ],
   "items": [
     {
@@ -1654,6 +1659,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Me and my son just launched the alpha of our first Roblox game, an art museum tycoon",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg2nue/me_and_my_son_just_launched_the_alpha_of_our/",
+      "published": "2026-10-26",
+      "excerpt": "I've been lurking here for weeks while learning Roblox Studio for this project, so it's pretty exciting to finally have something of my own to share. About 6 weeks ago my 9 year old son said he wanted to build a Roblox game. I'm an artist and physical game designer but this is my first video game. I",
+      "creator": "/u/WrestleBull https://www.reddit.com/user/WrestleBull",
+      "id": "8bcc2107ed76f36baac6f123"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "LOW POLY BUILDER NEEDED!",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfpauq/low_poly_builder_needed/",
       "published": "2026-10-26",
@@ -1754,6 +1770,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/decimals-dont-exist/4957803.rss",
       "id": "5c72380f9e7d69c052b11929"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Implement \"Clarity City\" / \"Metropolis\" as a better replacement to Gotham SSm",
+      "url": "https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gotham-ssm/4958682",
+      "published": "2026-10-26",
+      "excerpt": "When Gotham and Arial were removed in 2024 , Montserrat and Arimo were added as a replacement respectively. The reasoning for the removal is presumably due to licensing costs, which is understandable , the replacement for Arial was okay, but the replacement for Gotham feels way too off , it doesn’t ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gotham-ssm/4958682.rss",
+      "id": "5c21432453c7aeb9b031405e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback on Avakit’s UI and outfit discovery workflow",
+      "url": "https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773",
+      "published": "2026-10-26",
+      "excerpt": "Hey everyone! We’re building Avakit, a Roblox outfit creator and discovery platform for players who enjoy avatar styling. It connects a website with an in-game experience so you can create and share looks, explore Roblox outfit ideas from other creators, and try outfits on your avatar. On the websit",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773.rss",
+      "id": "589b8a5cc5e8d6d043c18483"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1973,6 +2013,18 @@
       "excerpt": "submitted by /u/Additional_Figure687 [link] [comments]",
       "creator": "/u/Additional_Figure687 https://www.reddit.com/user/Additional_Figure687",
       "id": "15dc22ee98032f298e52a69b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to configure group from create.roblox.com",
+      "url": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831",
+      "published": "2026-10-26",
+      "excerpt": "After a group transfer, I am unable to select the group I wish to configure from create.roblox.com On the creator hub you can select which inventory to configure from a dropdown on the top left. Instead, when accessing the creator hub the loading bar times out after about five seconds and defaults b",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831.rss",
+      "id": "14bffe1daecc42e58d8bfdca"
     },
     {
       "source": "reddit-robloxdev",
@@ -8234,52 +8286,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-i-make-m1-attack-less-sensitive-on-mobile/4948295.rss",
       "id": "e9bef1a69f217b9fdde41d4a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I'm making an open-world sci-fi looter-shooter in Roblox! Here's my progress so far.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbes4j/im_making_an_openworld_scifi_lootershooter_in/",
-      "published": "2026-10-21",
-      "excerpt": "I've been working on an open-world sci-fi looter-shooter in Roblox Studio. So far, I've built a movement system, weapons, armour customization, enemy AI, and a floating companion called the Shard. I'm going for a blocky sci-fi art style, with plans to eventually add multiple open worlds, missions, r",
-      "creator": "/u/Dry_Plankton6642 https://www.reddit.com/user/Dry_Plankton6642",
-      "id": "e977fa8311b98a8dcd480684"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Robot 64 fun fact",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbywu0/robot_64_fun_fact/",
-      "published": "2026-10-21",
-      "excerpt": "According to the open source engine, Robot 64's player code is exactly 3724 lines of code. https://reddit.com/link/1xbywu0/video/hzkrm6nhrvwh1/player There are a total of 11 module scripts, 3 client scripts and 1 server script on the entire engine and a lot of scrolling to find stuff. What a guy 🔥🔥 ",
-      "creator": "/u/afkbansux https://www.reddit.com/user/afkbansux",
-      "id": "e97368d166c19e1df48bbebb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How can I improve my building and detail in studio?",
-      "url": "https://devforum.roblox.com/t/how-can-i-improve-my-building-and-detail-in-studio/4948677",
-      "published": "2026-10-21",
-      "excerpt": "How can I improve my building in Studio? How can I add details and enhance the look of the build? What do you suggest, and what do you think of the result?* 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-can-i-improve-my-building-and-detail-in-studio/4948677.rss",
-      "id": "e91356cbbc9c0936fb0a3f65"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "A Game about mining rocks",
-      "url": "https://devforum.roblox.com/t/a-game-about-mining-rocks/4948699",
-      "published": "2026-10-21",
-      "excerpt": "So i have made a game about mining rocks, and I am looking forward some people to test it! It has gone through a lot of changes, fixes, and re-makes so any little bug is possible but thats why I need you . To find it because I myself cant easily do that. I also really want to show this off because i",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/a-game-about-mining-rocks/4948699.rss",
-      "id": "e6742654fd1c0fd03b6cb137"
     }
   ]
 }

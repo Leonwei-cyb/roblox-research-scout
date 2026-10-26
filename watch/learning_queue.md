@@ -6,13 +6,13 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 596; fully reviewed: 0.
+Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
 - devforum: 322
 - index-only: 15
-- reddit: 250
+- reddit: 249
 - youtube: 9
 
 ## First-Session And Mobile
@@ -36,8 +36,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Ui And Menus
 
+- [Feedback on Avakit’s UI and outfit discovery workflow](https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 - [Automatically Generate Image Assets from Editable UI in Studio](https://devforum.roblox.com/t/automatically-generate-image-assets-from-editable-ui-in-studio/4948773) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
-- [UISim3D - A Per-Element Sub-Component for 3D Manipulation of UI](https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
@@ -47,7 +47,7 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 ## World And Visual Design
 
 - [\[Full Launch\] Publish Games with Custom Terrain Materials and Performance Improvements](https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio](https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [UISim3D - A Per-Element Sub-Component for 3D Manipulation of UI](https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 

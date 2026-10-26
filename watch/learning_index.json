@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 596,
+  "unique_posts": 595,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -129,6 +129,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4958773:1",
+      "url": "https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773",
+      "title": "Feedback on Avakit’s UI and outfit discovery workflow",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc6u56",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/",
       "title": "How to script throwing a tool and how to make a tool play a sound when you equip it?",
@@ -171,20 +186,6 @@
         "tools and performance"
       ],
       "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4948677:1",
-      "url": "https://devforum.roblox.com/t/how-can-i-improve-my-building-and-detail-in-studio/4948677",
-      "title": "How can I improve my building and detail in studio?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 8,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1167,6 +1168,20 @@
       "signals": [
         "building and purchases",
         "world and visual design"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg2nue",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg2nue/me_and_my_son_just_launched_the_alpha_of_our/",
+      "title": "Me and my son just launched the alpha of our first Roblox game, an art museum tycoon",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -3272,20 +3287,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xbywu0",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbywu0/robot_64_fun_fact/",
-      "title": "Robot 64 fun fact",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xbyyo8",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbyyo8/roblox_game_about_collecting_money/",
       "title": "Roblox game about collecting money",
@@ -4538,6 +4539,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4958831:1",
+      "url": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831",
+      "title": "Unable to configure group from create.roblox.com",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xbaz6e",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbaz6e/looking_for_someone_to_help_me_with_updating_my/",
       "title": "Looking for someone to help me with updating my game",
@@ -4546,19 +4560,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xbes4j",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbes4j/im_making_an_openworld_scifi_lootershooter_in/",
-      "title": "I'm making an open-world sci-fi looter-shooter in Roblox! Here's my progress so far.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5367,17 +5368,6 @@
         "animation and audio"
       ],
       "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4948699:1",
-      "url": "https://devforum.roblox.com/t/a-game-about-mining-rocks/4948699",
-      "title": "A Game about mining rocks",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6537,8 +6527,8 @@
     },
     {
       "key": "devforum:4958682:1",
-      "url": "https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gothamt/4958682",
-      "title": "Implement \"Clarity City\" / \"Metropolis\" as a better replacement to GothamT",
+      "url": "https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gotham-ssm/4958682",
+      "title": "Implement \"Clarity City\" / \"Metropolis\" as a better replacement to Gotham SSm",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
