@@ -110,6 +110,23 @@ class ActiveGameRoutingTests(unittest.TestCase):
         self.assertEqual(cat["schema"], "LEON_CAT_MAGIC_RESEARCH_REPORT_V1")
         self.assertIn("Colonists", cat["held_games_not_current"])
 
+    def test_hosted_radar_preserves_mac_queue_and_updates_generic_index(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            media = root / "media_state.json"
+            media.write_text(json.dumps({"items": [{"url": YT, "title": "Roblox UI HUD layout"}]}),
+                             encoding="utf-8")
+            queue = root / "learning_queue.md"
+            queue.write_text("Colonists — Mac-authoritative queue\n", encoding="utf-8")
+            with patch.dict(os.environ, {
+                "GITHUB_ACTIONS": "true",
+                "LEON_ACTIVE_GAME_FILE": str(root / "missing_game.txt")}, clear=True), \
+                 patch.object(learning_radar, "MEDIA", media), \
+                 patch.object(learning_radar, "OUT", root):
+                learning_radar.main()
+            self.assertEqual(queue.read_text(), "Colonists — Mac-authoritative queue\n")
+            self.assertGreater(json.loads((root / "learning_index.json").read_text())["unique_posts"], 0)
+
     def test_learning_queue_questions_follow_the_game(self):
         result = learning_radar.triage([{"url": YT, "title": "Roblox tycoon UI animation"}])
         colonists = learning_radar.render(result, "colonists")
