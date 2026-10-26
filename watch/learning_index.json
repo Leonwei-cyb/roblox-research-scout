@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 595,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -81,21 +81,6 @@
         "tools and performance"
       ],
       "score": 10,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949104:1",
-      "url": "https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-only-for-now/4949104",
-      "title": "Error 279 \"No response from server\" when joining our experience, mobile only for now",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -186,6 +171,20 @@
         "tools and performance"
       ],
       "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4949104:1",
+      "url": "https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-and-console-only-for-now/4949104",
+      "title": "Error 279 \"No response from server\" when joining our experience, mobile and console only for now",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-22",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 8,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -466,6 +465,20 @@
       "signals": [
         "UI and menus",
         "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg5wgm",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg5wgm/how_would_you_fix_this_mobile_ui/",
+      "title": "How would you fix this mobile UI?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "UI and menus"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -877,17 +890,29 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xbd51e",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbd51e/how_do_i_get_a_game_popular/",
-      "title": "How do i get a game popular?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
+      "key": "devforum:4958985:1",
+      "url": "https://devforum.roblox.com/t/server-fill-settings-not-being-respected-creating-unnecessary-splitting/4958985",
+      "title": "Server fill settings not being respected, creating unnecessary splitting",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959007:1",
+      "url": "https://devforum.roblox.com/t/looking-for-a-roblox-builder-or-development-partner/4959007",
+      "title": "Looking for a Roblox builder or development partner!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
       "signals": [
         "building and purchases",
-        "economy and income",
-        "UI and menus",
-        "genres and successful loops"
+        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1159,19 +1184,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4948943:1",
-      "url": "https://devforum.roblox.com/t/audience-reach-final-review-stuck-for-over-5-days-despite-meeting-all-requirements/4948943",
-      "title": "Audience Reach Final Review Stuck for Over 5 Days Despite Meeting All Requirements",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949292:1",
       "url": "https://devforum.roblox.com/t/roblox-player-for-windows-hangs-when-a-device-is-connecteddisconnected/4949292",
       "title": "Roblox Player for Windows hangs when a Device is connected/disconnected.",
@@ -1219,19 +1231,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949882:1",
-      "url": "https://devforum.roblox.com/t/linearvelocity-lifts-player-above-a-bit-and-the-velocity-causes-the-humanoidrootpart-to-tilt-forward-a-bit/4949882",
-      "title": "LinearVelocity lifts player above a bit and the velocity causes the humanoidrootpart to tilt forward a bit",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2292,6 +2291,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959067:1",
+      "url": "https://devforum.roblox.com/t/original-closed-accidentally-really-high-studio-camera-sensitivity-affected-by-pan-speed/4959067",
+      "title": "[Original closed accidentally] Really high studio camera sensitivity - affected by Pan Speed?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc9zk3",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc9zk3/try_and_test_it_out_our_game_help_us_to_reach_250/",
       "title": "Try and test it out our game (help us to reach 250 players)",
@@ -3259,6 +3271,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959045:1",
+      "url": "https://devforum.roblox.com/t/douglas-fir-pack-roblox-vs-unreal-engine-5/4959045",
+      "title": "Douglas Fir Pack | Roblox vs. Unreal Engine 5",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc83dc",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc83dc/outerwear_shirtspants/",
       "title": "outerwear shirts/pants",
@@ -3571,19 +3597,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4947443:1",
-      "url": "https://devforum.roblox.com/t/developers-6-months-free-roblox-plus-is-ending-in-1-month/4947443",
-      "title": "Developer's 6 months free Roblox Plus is ending in 1 month",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-21",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4510,32 +4523,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xbaz6e",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbaz6e/looking_for_someone_to_help_me_with_updating_my/",
-      "title": "Looking for someone to help me with updating my game",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xbwve8",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbwve8/what_do_you_think_of_my_game_play_it_and_let_me/",
-      "title": "What do you think of my game? Play it and let me know your opinion.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
-      "signals": [
-        "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xc743t",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc743t/experienced_modeler_for_hire/",
       "title": "Experienced Modeler For Hire",
@@ -5324,6 +5311,19 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg4wu6",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg4wu6/you_guys_think_its_possibleimage_unrelated/",
+      "title": "You guys think it's possible(image unrelated)",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6517,23 +6517,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xbe2ow",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xbe2ow/is_it_normal_to_play_a_level_from_a_game_made_by/",
-      "title": "Is it normal to play a level from a game made by me and being scared knowing there's nothing to be afraid of?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
+      "key": "devforum:4959011:1",
+      "url": "https://devforum.roblox.com/t/my-new-police-vs-criminal-manhunt-game/4959011",
+      "title": "My new police vs criminal manhunt game!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xc19oe",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc19oe/made_a_tiny_this_or_that_game/",
-      "title": "Made a tiny \"This or That\" game",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-21",
-      "kind": "reddit",
+      "key": "devforum:4959031:1",
+      "url": "https://devforum.roblox.com/t/what-do-you-like-most-about-military-combat-games-your-ideas-will-help-this-promising-game/4959031",
+      "title": "What do you like most about military combat games? Your ideas will help this promising game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959041:1",
+      "url": "https://devforum.roblox.com/t/contentid-assetid-failed-due-to-asset-content-representation-is-being-generated/4959041",
+      "title": "ContentId: assetid failed due to: Asset content representation is being generated",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"

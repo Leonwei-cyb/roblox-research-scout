@@ -6,13 +6,13 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 595; fully reviewed: 0.
+Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 321
+- devforum: 325
 - index-only: 15
-- reddit: 250
+- reddit: 247
 - youtube: 9
 
 ## First-Session And Mobile
@@ -56,19 +56,19 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [Error 279 "No response from server" when joining our experience, mobile only for now](https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-only-for-now/4949104) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [I need advice on player retention](https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick](https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 
 - [How to script throwing a tool and how to make a tool play a sound when you equip it?](https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick](https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Error 279 "No response from server" when joining our experience, mobile and console only for now](https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-and-console-only-for-now/4949104) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick test with measurable pass/fail.
+3. Explain WHY it matters and propose one Error 279 "No response from server" when joining our experience, mobile and console only for now test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
