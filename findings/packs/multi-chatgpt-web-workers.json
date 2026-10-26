@@ -233,7 +233,7 @@
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /repos/ollama/ollama/git/trees/d44c2581904a98430e348d89cc2af1529b1808a0?recursive=1"
+        "what": "GET /repos/ollama/ollama/git/trees/66ab8482e08035a3238dff04a5739c4371c61bfe?recursive=1"
       },
       {
         "kind": "rest",
@@ -621,7 +621,7 @@
         "chrome tabs/scripting API",
         "authenticated web session wording"
       ],
-      "days_since_commit": 156,
+      "days_since_commit": 157,
       "evidence": [
         "https://github.com/keyonzeng/prompt_ark/tree/8d4c1b36fd11bc0cf653c3b95cbca276c9c95ccb",
         "https://github.com/keyonzeng/prompt_ark/blob/8d4c1b36fd11bc0cf653c3b95cbca276c9c95ccb/README.md",
@@ -706,7 +706,7 @@
       "repo_id": 793375104,
       "search_rank": 1,
       "sha": "6c16b23f1bacd0fdf240bb5141ef45e59e82c306",
-      "stars": 143063,
+      "stars": 143070,
       "suggested_owner": "Wheel",
       "tests_found": 48,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -716,13 +716,13 @@
       "api_evidence": [],
       "audited_elsewhere": null,
       "browser_evidence": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "evidence": [
-        "https://github.com/ollama/ollama/tree/d44c2581904a98430e348d89cc2af1529b1808a0",
-        "https://github.com/ollama/ollama/blob/d44c2581904a98430e348d89cc2af1529b1808a0/README.md",
-        "https://github.com/ollama/ollama/blob/d44c2581904a98430e348d89cc2af1529b1808a0/app/store/database.go",
-        "https://github.com/ollama/ollama/blob/d44c2581904a98430e348d89cc2af1529b1808a0/app/store/database_test.go",
-        "https://github.com/ollama/ollama/blob/d44c2581904a98430e348d89cc2af1529b1808a0/app/tools/browser.go"
+        "https://github.com/ollama/ollama/tree/66ab8482e08035a3238dff04a5739c4371c61bfe",
+        "https://github.com/ollama/ollama/blob/66ab8482e08035a3238dff04a5739c4371c61bfe/README.md",
+        "https://github.com/ollama/ollama/blob/66ab8482e08035a3238dff04a5739c4371c61bfe/app/store/database.go",
+        "https://github.com/ollama/ollama/blob/66ab8482e08035a3238dff04a5739c4371c61bfe/app/store/database_test.go",
+        "https://github.com/ollama/ollama/blob/66ab8482e08035a3238dff04a5739c4371c61bfe/app/tools/browser.go"
       ],
       "files_inspected": [
         "README.md",
@@ -748,8 +748,8 @@
       "repo": "ollama/ollama",
       "repo_id": 658928958,
       "search_rank": 0,
-      "sha": "d44c2581904a98430e348d89cc2af1529b1808a0",
-      "stars": 184776,
+      "sha": "66ab8482e08035a3238dff04a5739c4371c61bfe",
+      "stars": 184783,
       "suggested_owner": null,
       "tests_found": 22,
       "url": "https://github.com/ollama/ollama",
@@ -924,7 +924,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-10-26T03:51:53Z",
+  "run_at": "2026-10-26T05:19:17Z",
   "schema": 1,
   "searches": [
     {
@@ -1048,5 +1048,5 @@
     }
   ],
   "status": "ok",
-  "trigger": "local"
+  "trigger": "schedule"
 }

@@ -3,24 +3,24 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-26T03:53:24Z (local, ok)
-- Repos tracked: 290; adopt 0, needs-test 114, reject 176
-- Actionable backlog: 105
+- Last run: 2026-10-26T05:20:26Z (schedule, ok)
+- Repos tracked: 296; adopt 0, needs-test 116, reject 180
+- Actionable backlog: 106
 - Feed health: ok 38
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
 
-- **Wheel** · score 100 · [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro/tree/1a3026cf6096d1247ab45a03e56f7cf282b9d071)
-  - Pin 23blocks-OS/ai-maestro@​1a3026c, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+- **Wheel** · score 100 · [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro/tree/bb54d5d8970bf3ddbc74fc3ff48061ae38025a6e)
+  - Pin 23blocks-OS/ai-maestro@​bb54d5d, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Work/dashboard** · score 100 · [anurmatov/phleet](https://github.com/anurmatov/phleet/tree/6a8ee30f7585707372651ccf380ef50d5b38cf4b)
   - Pin anurmatov/phleet@​6a8ee30, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Dashboard with live agent status \(Dashboard V2 on Claude-Code-Agent-Monitor\).
 - **Work/dashboard** · score 100 · [Ark0N/Codeman](https://github.com/Ark0N/Codeman/tree/3e06f3c1414153eefb87da9e2b2c4c5f689b6c1d)
   - Pin Ark0N/Codeman@​3e06f3c, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Dashboard with live agent status \(Dashboard V2 on Claude-Code-Agent-Monitor\).
 - **Wheel** · score 100 · [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator/tree/c75500958109815929acc3da774322114b2a9313)
   - Pin awslabs/cli-agent-orchestrator@​c755009, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-- **hub** · score 100 · [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp/tree/e50a7371dbf809c53851c22202756be17cb6cf1d)
-  - Pin Chrrxs/robloxstudio-mcp@​e50a737, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Roblox game QA and evidence capture.
+- **hub** · score 100 · [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp/tree/3efee60b01fc3cdea57e65503f74f4216d16dbca)
+  - Pin Chrrxs/robloxstudio-mcp@​3efee60, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Roblox game QA and evidence capture.
 - **Wheel** · score 100 · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills/tree/e41c028bb123163449397ca7529f226c9de99a17)
   - Pin JasonColapietro/suede-creator-skills@​e41c028, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/1b39ddb9212ada039c69384dac6d8801dca3999c)
@@ -38,35 +38,35 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
 
 ## Changes this run
 
-- Issue updated: open-mercato/cezar #1688 Add project: explain the browse-root boundary and link to its settings
-- Issue updated: open-mercato/cezar #581 Implement: Gemini CLI coding-agent runner
-- Issue updated: open-mercato/cezar #510 Implement: Kimi \(Moonshot\) coding-agent backend, first-class like claude/codex/opencode
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2618 Six test-discipline gaps from heavy real-world use: mutation-survival diagnosis, escape-proof litera
-- Issue updated: obra/superpowers #2628 diagnosing-superpowers: a fix request in the same turn as the skill is left after an intake question
-- Issue updated: obra/superpowers #715 How do I use superpower in kilocode to enforce a workflow?
-- Issue updated: obra/superpowers #2429 SDD scripts resolve repo and workspace from the cwd, not from PLAN\_FILE — wrong workspace when calle
-- Issue updated: obra/superpowers #2620 review-package: BASE/HEAD guards accept tree/blob revisions — descendant guard misdiagnoses with exi
-- Issue updated: earendil-works/pi #11377 stripAnsi leaves private-parameter CSI payloads in tool output \(ESC\[ ...M mouse reports, ESC\[ ...c r
-- Issue updated: earendil-works/pi #10650 codemode: preserve nested Error messages in allSettled output and returned values
-- Issue updated: earendil-works/pi #10885 Context overflow from llama.cpp server \("Context size has been exceeded."\) is not detected, so auto-
-- Issue updated: earendil-works/pi #10956 cacheWarming "idle" stops silently once an extension handles turn\_end and the context holds a custom
-- Issue updated: earendil-works/pi #10628 OSC 52 copy in fullscreen TUI is swallowed by tmux \(no passthrough wrap\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2381 Skill suggestion: check-blindspot
+- Issue updated: OpenHands/OpenHands #18961 Remove low-value tests and obsolete test-only reset helpers
+- Issue updated: OpenHands/OpenHands #18960 \[Bug\]: Workspace doesn't persist on Docker container restart
+- Issue updated: OpenHands/OpenHands #18953 \[Bug\]: Workspace bootstrap chmods optional .openhands/setup.sh and pre-commit.sh unconditionally, fa
+- Issue updated: OpenHands/OpenHands #18957 \[Bug\]: Bulk-adding Azure models with the same name overwrites a selected profile
 - Issue updated: OpenHands/OpenHands #18956 \[Bug\]: Third-party Chinese IMEs cannot type in the conversation composer on Windows
-- Issue updated: OpenHands/OpenHands #18955 \[Bug\]: Third-party Chinese IMEs cannot type in the conversation composer on Windows
-- Issue updated: OpenHands/OpenHands #18472 \[Bug\]: Third-party Chinese IMEs cannot type in the conversation composer on Windows
-- Issue updated: OpenHands/OpenHands #18885 \[Bug\]: Agent abandons the current goal, reverts to an older instruction context, and reports prematu
-- Issue updated: OpenHands/OpenHands #18942 First-class dependency-cache persistence for .openhands/setup.sh across sandbox HOME recycling
-- Issue updated: modelcontextprotocol/servers #4912 filesystem: clarify effective root state after initialization
-- Issue updated: anthropics/claude-code #103625 \[BUG\] Sign-in fails with permission\_error / sign\_in\_not\_permitted from verify\_magic\_link on macOS an
-- Issue updated: anthropics/claude-code #105119 git clone runs inside the sandbox despite excludedCommands when its destination is an absolute or pa
-- Issue updated: anthropics/claude-code #94291 \[BUG\] ALT/TAB doesnt work on Claude windows client
-- Issue updated: anthropics/claude-code #103788 \[BUG\] Claude Desktop \(macOS\): sign-in fails with "We couldn't verify your browser" — both Google and
-- Issue updated: anthropics/claude-code #105120 \[BUG\] Auth: Authorize bounces back to login and Google login shows "We couldn't verify your browser"
-- Issue updated: openai/codex #57008 \[Windows\] Windows 11: Maximized Codex window exposes a bottom resize border and prevents the auto-hi
-- Issue updated: openai/codex #56647 “macOS: ‘A JavaScript error occurred in the main process’ – setAcceptsMouseMovedEvents TypeError \(Ch
-- Issue updated: openai/codex #56264 Windows desktop: thread resume fails after update because MXC process.env lacks SYSTEMROOT
-- Issue updated: openai/codex #57007 \[Browser Use\] Optional per-tab cooperation guard to invalidate pending semantic writes after user ed
+- Issue updated: anthropics/claude-code #105125 \[Bug\] Opus usage limits draining \~5x faster, weekly usage at 72% after 2 days
+- Issue updated: anthropics/claude-code #95611 Worktree isolation refuses fifteen shell words in any argv position, including in read-only commands
+- Issue updated: anthropics/claude-code #100375 Desktop app: sidebar custom-group membership and session titles do not sync across devices; Remote C
+- Issue updated: anthropics/claude-code #105124 --resume keeps --agent but drops the agent's model and the launch --effort \(2.1.310\)
+- Issue updated: anthropics/claude-code #103994 \[BUG\] PreToolUse hook "ask" is overridden in bypassPermissions when the same call writes into .git/
+- Issue updated: openai/codex #56994 CLI/TUI hints hard-code 'codex', so users of wrapper launchers drop their profile when following the
+- Issue updated: openai/codex #56998 Codex server gets wedged
+- Issue updated: openai/codex #56474 Managed daemon 0.163 to 0.164 update forces active-turn shutdown, replacement fails readiness, and T
+- Issue updated: openai/codex #57028 Possible false positive: authorized read-only router planning blocked by cybersecurity screening
+- Issue updated: openai/codex #57027 \[IDE\] Repeated V8 OOM in long chats: strong transcript retainers and native history-eviction blocker
+- Issue updated: ollama/ollama #19293 /api/chat intermittently fails with 500 "llama-server apply-template error … write: broken pipe" rig
+- Issue updated: netresearch/git-workflow-skill #18 Dependency Dashboard
+- Issue updated: arjitj2/open-pstack #1 Track upstream changes and maintenance
+- New candidate: naodeng/awesome-qa-skills (reject)
+- New candidate: RobThePCGuy/Claude-Patent-Creator (reject)
+- New candidate: runesleo/claude-video-kit (reject)
+- New candidate: felipereisdev/code-review-skill (needs-test)
+- New candidate: curiositech/windags-skills (needs-test)
+- New candidate: superduck-ai/open-managed-agents (reject)
+- Release: Chrrxs/robloxstudio-mcp v3.4.0 to v3.4.2
+- Issue updated: gamedev-skills/awesome-gamedev-agent-skills #31 ebitengine-game: check\_ebitengine.py flags any '.At\(' in Draw as a GPU readback
+- Issue updated: gamedev-skills/awesome-gamedev-agent-skills #30 threejs-scene-setup: capping pixelRatio at 2 still leaves HiDPI games fill-rate bound
+- Issue updated: gamedev-skills/awesome-gamedev-agent-skills #29 threejs-scene-setup: the Timer loop pattern can produce a negative delta and freeze fixed-step games
+- Issue updated: gamedev-skills/awesome-gamedev-agent-skills #28 phaser-core: pitfall — keys stay "down" when keyup is cancelled before Phaser sees it
+- Release: hitosea/happy-next v2.21.0 to v2.22.0
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).

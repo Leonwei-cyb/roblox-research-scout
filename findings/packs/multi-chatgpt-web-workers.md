@@ -2,7 +2,7 @@
 
 Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub search returns at most 15 results per query here, ranked by GitHub's own relevance.
 
-- Run: 2026-10-26T03:51:53Z (local)
+- Run: 2026-10-26T05:19:17Z (schedule)
 - API calls: 51 total (graphql 7, rest 44)
 - Distinct repos found: 275; inspected: 12
 
@@ -25,7 +25,7 @@ Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub s
 | 7 | [Robbings/chatgpt-graph-navigator](https://github.com/Robbings/chatgpt-graph-navigator/tree/a616cefd3fb6764ad25f0d50417fbebe14156660) @ a616cef | browser-session | reject | 90 | no license: all rights reserved, ideas only, no code reuse. browser extension manifest targets chat sites \(manifest.json\); references chat web apps: chat.openai.com, chatgpt.com; content scripts on chat sites |
 | 8 | [keyonzeng/prompt\_ark](https://github.com/keyonzeng/prompt_ark/tree/8d4c1b36fd11bc0cf653c3b95cbca276c9c95ccb) @ 8d4c1b3 | mixed | reject | 85 | no license: all rights reserved, ideas only, no code reuse. browser extension manifest targets chat sites \(manifest.json\); references chat web apps: chat.openai.com, chatgpt.com, claude.ai, gemini.google.com; content scr |
 | 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/6c16b23f1bacd0fdf240bb5141ef45e59e82c306) @ 6c16b23 | mixed | needs-test | 85 | drives browser sessions but also calls model APIs; check which path Leon would reuse. browser automation dependency: playwright; authenticated web session wording |
-| 10 | [ollama/ollama](https://github.com/ollama/ollama/tree/d44c2581904a98430e348d89cc2af1529b1808a0) @ d44c258 | unknown | reject | 50 | no evidence of browser-session orchestration in README, manifests or key source. no signals |
+| 10 | [ollama/ollama](https://github.com/ollama/ollama/tree/66ab8482e08035a3238dff04a5739c4371c61bfe) @ 66ab848 | unknown | reject | 50 | no evidence of browser-session orchestration in README, manifests or key source. no signals |
 | 11 | [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents/tree/1c896ce92780416ce937c330d8205ee52a78d112) @ 1c896ce | unknown | reject | 40 | no license: all rights reserved, ideas only, no code reuse. no signals |
 | 12 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories/tree/2ee2b69b765b556ac49a999ee6d03a1be6c8bcc8) @ 2ee2b69 | api-only | reject | 40 | API-only multi-agent framework, not browser-session orchestration. authenticated web session wording |
 
