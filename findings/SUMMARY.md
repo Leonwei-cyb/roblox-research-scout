@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-26T12:04:17Z (local, ok)
+- Last run: 2026-10-26T13:36:22Z (schedule, partial)
 - Repos tracked: 309; adopt 0, needs-test 119, reject 190
 - Actionable backlog: 109
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin open-mercato/cezar@​f6b910f, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [PsChina/deepseek-as-subagent](https://github.com/PsChina/deepseek-as-subagent/tree/fa539bfaf0521cf4b639a5f1f0afbd4a7c6a7c64)
   - Pin PsChina/deepseek-as-subagent@​fa539bf, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #1691 Implement: inline Mermaid previews in conversation Markdown
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2451 subagent-driven-development / executing-plans: the final report should be derived from a plan-to-dif
-- Issue updated: obra/superpowers #2630 subagent-driven-development: review-package and sdd-workspace fail once a plan task deletes the plan
-- Issue updated: earendil-works/pi #11132 Use OpenCode's protocol-specific endpoints for opencode and opencode-go
-- Issue updated: earendil-works/pi #7547 \[Windows\] \[sink-thread\] How do you use Pi on windows? What issues are you seeing?
-- Issue updated: earendil-works/pi #10470 RPC new\_session/switch\_session/fork/clone emit session\_start twice
-- Issue updated: earendil-works/pi #11416 Bedrock: request fails when tools have more than 16 optional parameters
-- Issue updated: earendil-works/pi #11335 MCP HTTP JSON responses bypass maxMessageBytes
-- Issue updated: ComposioHQ/awesome-claude-skills #2382 \[Skill Submission\] Xiaozhi AI Media Skill — Seedance video / Seedream image / TTS via xzai.me
-- Issue updated: OpenHands/OpenHands #18976 \[Feature\]: Filter and edit automation tags in Agent Canvas
-- Issue updated: OpenHands/OpenHands #18969 \[Bug\]: Escape does not close the automation setup page's Event source menu
-- Issue updated: OpenHands/OpenHands #18340 \[agent-canvas\] Chat upload size limit is hard-coded to 3MB and not configurable
-- Issue updated: OpenHands/OpenHands #18964 Name command palette presentation recipes for agent-friendly linting
-- Issue updated: OpenHands/OpenHands #18965 Name connection chooser presentation recipes for agent-friendly linting
-- Issue updated: modelcontextprotocol/servers #5206 sequentialthinking: remove the unused yargs dependency
-- Issue updated: modelcontextprotocol/servers #5204 sequentialthinking: README names the tool sequential\_thinking, but it is registered as sequentialthi
-- Issue updated: modelcontextprotocol/servers #5184 filesystem: read\_text\_file with head: 0 or tail: 0 returns the whole file
-- Issue updated: modelcontextprotocol/servers #5201 memory: add\_observations stores a repeated observation twice when it appears twice in one call
-- Issue updated: anthropics/claude-code #105176 \[FEATURE\] Desktop Browser pane: an Extensions section \(install, pin, manage\), like the ChatGPT deskt
-- Issue updated: anthropics/claude-code #104032 \[BUG\] Desktop app Remote Control rejected as 'gone' since 2026-10-20: Projects "Work locally" says "
-- Issue updated: anthropics/claude-code #105175 \[BUG\] \[Windows\] VS Code extension 2.1.310 crashes on startup with Bun segfault, even with config rem
-- Issue updated: anthropics/claude-code #97729 \[FEATURE\] Desktop: in-app Browser in SSH remote sessions
-- Issue updated: anthropics/claude-code #75182 \[BUG\] Assistant text preceding an AskUserQuestion call in the same turn is never displayed \(terminal
-- Issue updated: openai/codex #56691 \[BUG\] Codex 26.1021.22027 fails to start UI in VS Code 1.143.1 on Windows
-- Issue updated: openai/codex #39421 Marketplace upgrade staging leak: 559 GB / 4,972 orphaned dirs in 41 days; cleanup janitor exists fo
-- Issue updated: openai/codex #57059 Codex App on Fedora repeatedly hides responses, including questions about the safety notice
-- Issue updated: openai/codex #57067 \[Linux\]\[Dots\] Model selector missing and direct messages stuck loading in dot-created tasks after up
-- Issue updated: openai/codex #31794 Sites Plugin Broken - won't re-auth on reinstall
-- Issue updated: ollama/ollama #19281 Claude Code with cloud model
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
