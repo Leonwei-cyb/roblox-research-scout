@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 310
-- index-only: 12
-- reddit: 267
+- devforum: 311
+- index-only: 14
+- reddit: 264
 - youtube: 9
 
 ## First-Session And Mobile
@@ -41,8 +41,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Animation And Audio
 
-- [Looking for a blender animator, visual effects artist, and/or model/map builder](https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 - [I made a creature-collecting game where your pets mutate and you build floating islands. Looking for feedback!Texte :](https://www.reddit.com/r/robloxgamedev/comments/1xfhjfq/i_made_a_creaturecollecting_game_where_your_pets/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
+- [I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
@@ -51,8 +51,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
-- [I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [First game, a cozy Halloween pumpkin-carving clicker: is the first 5 minutes fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdorso/first_game_a_cozy_halloween_pumpkincarving/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [\[FREE\] Cartoon UI & Stylized Low-Poly Weapons Pack — Perfect for Roblox Simulators & Shooters! (Free for Commercial Use)](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqfxt/free_cartoon_ui_stylized_lowpoly_weapons_pack/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 

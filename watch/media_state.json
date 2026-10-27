@@ -1519,9 +1519,34 @@
     "a29d62e2619e1871ba742bad",
     "2cb8599da6c8b07bf2d76d84",
     "7c9f9f07dcff30aaf77dfcde",
-    "0c5817cac52f291686fcf185"
+    "0c5817cac52f291686fcf185",
+    "d668b38c29d84eff2e270fae",
+    "d576c24658e84216f9632f9a",
+    "6df1349cd752a43761aba748",
+    "eb643dee60741f81d27ef207",
+    "e77fb9ac7c749d91090bf7aa",
+    "0f207d8197ae465934d621a2",
+    "b26049241a7afdac4233f891",
+    "37318beb310e2ee5728fb07e",
+    "6cb69ead50d824675f6bb30a",
+    "a8e5eadcdc509815695fe5d1",
+    "749807b36f10353140daa74a",
+    "ff8bdc6eb9ffffe567fde91f",
+    "20d02f62b0692b6d3e8dad9d",
+    "a5ef0d4383b697d213e75d10"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I've just released my first Roblox game into Public Beta! Looking for honest feedback 🏁",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh6tbn/ive_just_released_my_first_roblox_game_into/",
+      "published": "2026-10-27",
+      "excerpt": "Hey everyone! I've been working on my own Roblox game called Racing Universe , and I've finally decided to release it into Public Beta! 🏁 It's a time-trial racing game combining parkour and driving, with a focus on beating your own times and competing against other players. What's currently in the g",
+      "creator": "/u/jackishy https://www.reddit.com/user/jackishy",
+      "id": "ff8bdc6eb9ffffe567fde91f"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -1615,6 +1640,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Falsely banned for seemingly no reason",
+      "url": "https://devforum.roblox.com/t/falsely-banned-for-seemingly-no-reason/4961204",
+      "published": "2026-10-27",
+      "excerpt": "Hey DevForum users, Earlier today I was in a game owned by a small team I’m a part of discussing development topics, when out of nowhere I got kicked from the game. I went back to the Roblox home page to find this message. Clicking on “View more” I get taken to this page. As you can see, there is no",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/falsely-banned-for-seemingly-no-reason/4961204.rss",
+      "id": "eb643dee60741f81d27ef207"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Dual-Nil Checks Don't Satisfy `--!strict`",
       "url": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895",
       "published": "2026-10-27",
@@ -1622,6 +1659,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895.rss",
       "id": "ea9eca9f7a33d691529582dd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Camera Pan Speed slow on Studio and can't figure out why?",
+      "url": "https://devforum.roblox.com/t/camera-pan-speed-slow-on-studio-and-cant-figure-out-why/4961185",
+      "published": "2026-10-27",
+      "excerpt": "Upon opening Roblox Studio today I noticed my camera pan speed was much slower then usual, I’ve tried changing the pan speed in settings and restarting studio as well as my pc and it still remains the same? I have no idea why this is happening and I can’t find anything online about this. Any help is",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/camera-pan-speed-slow-on-studio-and-cant-figure-out-why/4961185.rss",
+      "id": "e77fb9ac7c749d91090bf7aa"
     },
     {
       "source": "reddit-robloxdev",
@@ -1701,6 +1750,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-can-i-make-camera-panning-smoother/4960411.rss",
       "id": "d6b6a3ac078ffa929b721860"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Accidentally Archived My UGC Glasses — Is Restoration Possible?",
+      "url": "https://devforum.roblox.com/t/accidentally-archived-my-ugc-glasses-%E2%80%94-is-restoration-possible/4961296",
+      "published": "2026-10-27",
+      "excerpt": "Hello Roblox staff and developers, I accidentally archived my UGC glasses through the Creator Dashboard and now they show “Cannot be sold.” These glasses are an important part of my UGC business, and I did not intend to permanently remove them from the Marketplace. I understand that Roblox’s archivi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/accidentally-archived-my-ugc-glasses-%E2%80%94-is-restoration-possible/4961296.rss",
+      "id": "d668b38c29d84eff2e270fae"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Commerce products not updating from Shopify",
+      "url": "https://devforum.roblox.com/t/commerce-products-not-updating-from-shopify/4961267",
+      "published": "2026-10-27",
+      "excerpt": "Products created on Shopify via the Roblox integration have stopped populating on the Roblox Creator Hub. Page URL: https://create.roblox.com/dashboard/creations/experiences/383310974/monetization/commerce A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/commerce-products-not-updating-from-shopify/4961267.rss",
+      "id": "d576c24658e84216f9632f9a"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1935,6 +2008,18 @@
       "id": "b6b51a7fd4c77f580cae9f06"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "VRService.VREnabled code snippet tells us to use UserInputService.VREnabled while that member is deprecated",
+      "url": "https://devforum.roblox.com/t/vrservicevrenabled-code-snippet-tells-us-to-use-userinputservicevrenabled-while-that-member-is-deprecated/4961145",
+      "published": "2026-10-27",
+      "excerpt": "The documentation tells us to use UserInputService.VREnabled while that member is deprecated create.roblox.com UserInputService | Documentation - Roblox Creator Hub `UserInputService` is primarily used to detect the input types available on a user's device, as well as detect input events. Page URL: ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/vrservicevrenabled-code-snippet-tells-us-to-use-userinputservicevrenabled-while-that-member-is-deprecated/4961145.rss",
+      "id": "b26049241a7afdac4233f891"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1990,6 +2075,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-client-repeatadly-changing-from-windowed-to-fullscreen-mode-and-viceversa/4960565.rss",
       "id": "a8f64d27eb96b511b639f9be"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "My pixel art for a game I'm planning to make in Roblox.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh6k5o/my_pixel_art_for_a_game_im_planning_to_make_in/",
+      "published": "2026-10-27",
+      "excerpt": "Id like to know some thoughts about this. I'm fully aware that a game like this with pixel art may not make the most money but it feels much better to make rather than some generic slop that we all see. Some of you might have seen this art style from a JRPG called Octopath Traveler. Yes. that is the",
+      "creator": "/u/MembershipDefiant962 https://www.reddit.com/user/MembershipDefiant962",
+      "id": "a8e5eadcdc509815695fe5d1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2296,6 +2392,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "INSANELY laggy studio for no clear reason?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh84ov/insanely_laggy_studio_for_no_clear_reason/",
+      "published": "2026-10-27",
+      "excerpt": "I was making an obby game, almost entirely with models I made myself except for 2 free models that I checked for viruses and found nothing. I wasn't even that far into it, I just made the beginning area and started on the first obstacle, and I was making the spawn point when it just randomly started",
+      "creator": "/u/Dry-Negotiation-1960 https://www.reddit.com/user/Dry-Negotiation-1960",
+      "id": "749807b36f10353140daa74a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Age Of Sail Progression",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgf0pi/age_of_sail_progression/",
       "published": "2026-10-27",
@@ -2324,6 +2431,30 @@
       "excerpt": "submitted by /u/laereland [link] [comments]",
       "creator": "/u/laereland https://www.reddit.com/user/laereland",
       "id": "6e77e695fa47118b1e39e1fa"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "The Hollow event item not being given to me even though i bought it in game",
+      "url": "https://devforum.roblox.com/t/the-hollow-event-item-not-being-given-to-me-even-though-i-bought-it-in-game/4961257",
+      "published": "2026-10-27",
+      "excerpt": "As the title states, i had enough currency so i bought the quack o lantern and the spectral skull of nevermoor however i did not receive the items NOR the badges. It does show that i bought them in game tho. I tried rejoining a couple times but that doesnt work 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-hollow-event-item-not-being-given-to-me-even-though-i-bought-it-in-game/4961257.rss",
+      "id": "6df1349cd752a43761aba748"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Free 3d Clothing Templates for R6 characters",
+      "url": "https://devforum.roblox.com/t/free-3d-clothing-templates-for-r6-characters/4961092",
+      "published": "2026-10-27",
+      "excerpt": "As of making this post, layered clothing cannot be applied to R6. So developers are stuck using classic clothing, which costs robux to upload. Classic clothing is also restricted to purely 2d elements, and is a whole process to modify or change. This system instead uses accessories to create 3d clot",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/free-3d-clothing-templates-for-r6-characters/4961092.rss",
+      "id": "6cb69ead50d824675f6bb30a"
     },
     {
       "source": "roblox-devforum-updates",
@@ -2656,6 +2787,18 @@
       "id": "3ce8507a2399bfdc74ce8ada"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Improve Your Game Security with the Device Trust API",
+      "url": "https://devforum.roblox.com/t/improve-your-game-security-with-the-device-trust-api/4961129",
+      "published": "2026-10-27",
+      "excerpt": "Key Takeaways The Device Trust API for Android and Web is now available. This lets you vet untrusted devices, like bots and modified clients, when players join and gate features. See documentation here. Hi Creators, To ensure a fair environment for everyone, we have a zero-tolerance policy against b",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/improve-your-game-security-with-the-device-trust-api/4961129.rss",
+      "id": "37318beb310e2ee5728fb07e"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2781,6 +2924,18 @@
       "id": "214c7a47ee4ee6ce45cc6b79"
     },
     {
+      "source": "x-ui",
+      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
+      "category": "UI showcases",
+      "title": "Acetul (@_acetul) - X",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
+      "published": "2026-10-27",
+      "excerpt": "Acetul (@_acetul) X",
+      "creator": "",
+      "publisher": "https://x.com",
+      "id": "20d02f62b0692b6d3e8dad9d"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2861,6 +3016,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598.rss",
       "id": "0f6cc7adf4738ec9b755b91b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "All-around developer with 7 yrs experience",
+      "url": "https://devforum.roblox.com/t/all-around-developer-with-7-yrs-experience/4961179",
+      "published": "2026-10-27",
+      "excerpt": "About Me Hello, my name is Deckno_Shade and I’ve been developing on Roblox for over 7 years now, I’m an experienced all around developer capable in interface design, scripting, modeling, vfx, and building. I love working on hyper-realistic maps, making in-depth modulare architecture systems I love d",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/all-around-developer-with-7-yrs-experience/4961179.rss",
+      "id": "0f207d8197ae465934d621a2"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3358,6 +3525,18 @@
       "excerpt": "I'm having a lot of problems making my game comfortable to play on mobiles maybe, It would really help me if someone could give me a suggestion, I need help :c submitted by /u/Horror-Grapefruit144 [link] [comments]",
       "creator": "/u/Horror-Grapefruit144 https://www.reddit.com/user/Horror-Grapefruit144",
       "id": "a7a03cddcca7c8a534d1721e"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How to Copy Any Roblox Game – Uncopylocked Games & Roblox Studio Guide (Copy Game Roblox 2026) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHUjlibmF6ZzdDaTFEUTZERktNRFpMeE4zeXZpWlpUZjZwUFhXVHc4V21ERlJ3ckdUdGN1R1BwLWwyT1ZGZ1JvRGhzR3hENGNvcjBpa3Rn?oc=5",
+      "published": "2026-10-26",
+      "excerpt": "How to Copy Any Roblox Game – Uncopylocked Games & Roblox Studio Guide (Copy Game Roblox 2026) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "a5ef0d4383b697d213e75d10"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8283,168 +8462,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/automated-%E2%80%9Ctextchatservice-api%E2%80%9D-moderation-repeatedly-actioning-an-experience-whose-chat-is-fully-on-textchannels/4953365.rss",
       "id": "602430a9b1c2c51f6b5fcf1d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Cant see models bought from Tool box.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdni4y/cant_see_models_bought_from_tool_box/",
-      "published": "2026-10-23",
-      "excerpt": "Hello, im new to Roblox studio and am working on a project that involves a skate park. I saw this pack for only $3 and figured id buy it so i didn't have to manually make the ramps. When i drop it into the world the models appear in the explorer but are invisable. I focus to them and they zoom to ju",
-      "creator": "/u/Accomplished-Bag201 https://www.reddit.com/user/Accomplished-Bag201",
-      "id": "5e472b8aa25c2b55e4b996b0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[FOR HIRE] Technical Lead & Full-Stack Backend Engineer | Python (FastAPI), MongoDB/SQL & Modular Luau",
-      "url": "https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947",
-      "published": "2026-10-23",
-      "excerpt": "[FOR HIRE] Technical Lead & Full-Stack Backend Engineer | Python (FastAPI), MongoDB/SQL & Modular Luau About Me Hey! I’m Ken , a backend and systems engineer specializing in high-performance external API integrations, web dashboards, microservices, and modular game architectures. Whether you need a ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947.rss",
-      "id": "5e10a37fd5cda3bceec78bbd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Realistic Weapon Animations",
-      "url": "https://devforum.roblox.com/t/realistic-weapon-animations/4951854",
-      "published": "2026-10-23",
-      "excerpt": "Hello! Over the past few months, I have been learning realistic animations for my upcoming competitive shooter game. The rigs have full articulated fingers, 3 joints per finger, wrist joints, elbow joints, and shoulder joints. Karambit P320 AK-103 M4A1 What do you think? The game is close to being f",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/realistic-weapon-animations/4951854.rss",
-      "id": "5db0b4433ecd43bcfa27a336"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need help m'y game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjof6/i_need_help_my_game/",
-      "published": "2026-10-23",
-      "excerpt": "Guys i need help m'y game 5 script 3 user model i can pay robux 2 gamepasse do not give m'y game to do big studio help m'y game is bite bi night x grimwork yeah pls lobby somme map and killer and fineli some générateur pls submitted by /u/DataTraining7017 [link] [comments]",
-      "creator": "/u/DataTraining7017 https://www.reddit.com/user/DataTraining7017",
-      "id": "5d432f04ee72f6adc2b80a4e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Massive increase in HttpError: Timedout",
-      "url": "https://devforum.roblox.com/t/massive-increase-in-httperror-timedout/4953324",
-      "published": "2026-10-23",
-      "excerpt": "For the past ~4 hours, there has been a massive increase in HttpError: Timedout failures. This is affecting HttpService , regardless of the domain the request is sent to, but is also affecting Player:IsInGroup() , Player:HasBadge() , TextService:GetTextBoundsAsync() , and probably more. This began n",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/massive-increase-in-httperror-timedout/4953324.rss",
-      "id": "5c540d0da8ecb089de9baada"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Velocity is behaving differently after returning to an older project",
-      "url": "https://devforum.roblox.com/t/velocity-is-behaving-differently-after-returning-to-an-older-project/4952673",
-      "published": "2026-10-23",
-      "excerpt": "Hello, I’ve run into a problem. I used to develop on a game my friend made a long time ago (the last update was a few months ago). I just recently came back to check up on the game and do some updates, but then my friend ran into an issue while testing. For context, this is an obby-type game, so the",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/velocity-is-behaving-differently-after-returning-to-an-older-project/4952673.rss",
-      "id": "5c2572c685cdb7b3a0658135"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can't buy a new roblox plus subscription with the free developer subscription active",
-      "url": "https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005",
-      "published": "2026-10-23",
-      "excerpt": "As a developer with 100+ playtime hours in one of my games, I got roblox plus for 6 months for free on May 19th. However, that free subscription is almost over, and I cannot buy another one before it ends to keep my 2 month 20% off discount. Is there a way to buy one with the developer subscription ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005.rss",
-      "id": "5bc105c93aa5b8796d822700"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Working on a solo horror/quest game set in a dark forest (\"just do nothing\"). What do you think about the lighting & vibe? 🇵🇱🌲",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdco1a/working_on_a_solo_horrorquest_game_set_in_a_dark/",
-      "published": "2026-10-23",
-      "excerpt": "Hey everyone! I'm a solo indie developer from Poland working on my upcoming Roblox game called \"just do nothing\" . I wanted to show off the core map setpiece and lighting setup I’ve built so far. How the core mechanics work: I would love to get your feedback on the overall visuals, atmosphere, and m",
-      "creator": "/u/Prochyll https://www.reddit.com/user/Prochyll",
-      "id": "59c686e06c5edb5ee313beb8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can't Easily Unlock Mouse on CoreGuis",
-      "url": "https://devforum.roblox.com/t/cant-easily-unlock-mouse-on-coreguis/4952826",
-      "published": "2026-10-23",
-      "excerpt": "As a player, if you’re in first-person mode, and you receive a Roblox CoreGui popup, (e.g. the favorite prompt, join group prompt, feedback prompt, etc), your mouse is stuck, and you can’t interact with the prompt nor can you scroll out (especially if the game is locked in first-person mode). There ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cant-easily-unlock-mouse-on-coreguis/4952826.rss",
-      "id": "599483fb404c373e6eafa3ed"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Feedback appreciated (Solo dev) first roblox game.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/",
-      "published": "2026-10-23",
-      "excerpt": "I created this game as a SOLO dev. this is my first game ever so i’m learning as i go. it’s been about 1 week of release and ive dropped $60 USD into ads over the course of this week. The game is essentially agario but with roblox players and added features. you eat food to get bigger and the bigger",
-      "creator": "/u/Illustrious-Ad5480 https://www.reddit.com/user/Illustrious-Ad5480",
-      "id": "583ae3f00485712dbbe0b142"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Trouble publishing and saving the game after the new Terrain update.",
-      "url": "https://devforum.roblox.com/t/trouble-publishing-and-saving-the-game-after-the-new-terrain-update/4952495",
-      "published": "2026-10-23",
-      "excerpt": "Hello, We are currently in trouble regarding our place since we’ve enabled the New Expanded terrain update, we are unable to save / publish on a Team create place, nor playtest in Team test. Since this happened, we are also unable to disable it. This happened by enabling the Expanded Terrain option.",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/trouble-publishing-and-saving-the-game-after-the-new-terrain-update/4952495.rss",
-      "id": "5587c6caafd4b1600cea3105"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Studio made thumbnails for my upcoming game HUSH",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd91zi/studio_made_thumbnails_for_my_upcoming_game_hush/",
-      "published": "2026-10-23",
-      "excerpt": "Put together a couple of surface lights together and filled up a scene, then added final touches in external editing software. Thoughts and any feedback would be great :) submitted by /u/slimebrowser [link] [comments]",
-      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
-      "id": "556e576b5c7bd5cf69722c6d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expended Terrain 16 voxels thick disapearing when looking at it from the sky",
-      "url": "https://devforum.roblox.com/t/expended-terrain-16-voxels-thick-disapearing-when-looking-at-it-from-the-sky/4952845",
-      "published": "2026-10-23",
-      "excerpt": "If I am in high in the air like in an aircraft or someting like that the terrain has major gaps in it like shown in the video if I move around the graps move to Reproduction staps. Join the game Jump down Walk around for 30 seconds when you hit the floor Reset. Now when you teleport back ontop the f",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expended-terrain-16-voxels-thick-disapearing-when-looking-at-it-from-the-sky/4952845.rss",
-      "id": "55402689e39194d4a331c8eb"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for a blender animator, visual effects artist, and/or model/map builder",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/",
-      "published": "2026-10-23",
-      "excerpt": "Im looking for people who need a lil project to work on that they can either do for free as a pass-time or will accept low pay as I do not have much money to my name. Im making a sci-fi styled game with both PVP and PVE but am having trouble making maps, character designs, guns, animations for movem",
-      "creator": "/u/Klol_5 https://www.reddit.com/user/Klol_5",
-      "id": "515b752d2c445077baef93c0"
     }
   ]
 }

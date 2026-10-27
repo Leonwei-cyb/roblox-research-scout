@@ -54,21 +54,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xd3wbw",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/",
-      "title": "Looking for a blender animator, visual effects artist, and/or model/map builder",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "world and visual design"
-      ],
-      "score": 11,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xfhjfq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfhjfq/i_made_a_creaturecollecting_game_where_your_pets/",
       "title": "I made a creature-collecting game where your pets mutate and you build floating islands. Looking for feedback!Texte :",
@@ -553,6 +538,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4961129:1",
+      "url": "https://devforum.roblox.com/t/improve-your-game-security-with-the-device-trust-api/4961129",
+      "title": "Improve Your Game Security with the Device Trust API",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xd2t46",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/",
       "title": "Roblox developers: how do you currently balance your game’s economy and progression?",
@@ -563,21 +563,6 @@
         "building and purchases",
         "economy and income",
         "genres and successful loops"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdni4y",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdni4y/cant_see_models_bought_from_tool_box/",
-      "title": "Cant see models bought from Tool box.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "world and visual design",
-        "tools and performance"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -967,34 +952,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xd91zi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd91zi/studio_made_thumbnails_for_my_upcoming_game_hush/",
-      "title": "Studio made thumbnails for my upcoming game HUSH",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdco1a",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdco1a/working_on_a_solo_horrorquest_game_set_in_a_dark/",
-      "title": "Working on a solo horror/quest game set in a dark forest (\"just do nothing\"). What do you think about the lighting & vibe? 🇵🇱🌲",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xdkcml",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdkcml/new_game_need_feedback/",
       "title": "New game, need feedback",
@@ -1237,35 +1194,23 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xh84ov",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh84ov/insanely_laggy_studio_for_no_clear_reason/",
+      "title": "INSANELY laggy studio for no clear reason?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4951788:1",
       "url": "https://devforum.roblox.com/t/solved-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788",
       "title": "[SOLVED] BindableFunction infinitely yielding script that invokes it",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4951854:1",
-      "url": "https://devforum.roblox.com/t/realistic-weapon-animations/4951854",
-      "title": "Realistic Weapon Animations",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4951947:1",
-      "url": "https://devforum.roblox.com/t/for-hire-technical-lead-full-stack-backend-engineer-python-fastapi-mongodbsql-modular-luau/4951947",
-      "title": "[FOR HIRE] Technical Lead & Full-Stack Backend Engineer | Python (FastAPI), MongoDB/SQL & Modular Luau",
       "source": "roblox-devforum-latest",
       "published": "2026-10-23",
       "kind": "devforum",
@@ -1302,19 +1247,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4952495:1",
-      "url": "https://devforum.roblox.com/t/trouble-publishing-and-saving-the-game-after-the-new-terrain-update/4952495",
-      "title": "Trouble publishing and saving the game after the new Terrain update.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4952629:1",
       "url": "https://devforum.roblox.com/t/getchatgroupsasync-returns-different-chat-group-ids-on-servers-started-after-oct-22-breaking-cross-server-matching/4952629",
       "title": "GetChatGroupsAsync returns different chat group IDs on servers started after Oct 22, breaking cross-server matching",
@@ -1341,19 +1273,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4952845:1",
-      "url": "https://devforum.roblox.com/t/expended-terrain-16-voxels-thick-disapearing-when-looking-at-it-from-the-sky/4952845",
-      "title": "Expended Terrain 16 voxels thick disapearing when looking at it from the sky",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4952999:1",
       "url": "https://devforum.roblox.com/t/studio-refusing-to-open-any-game/4952999",
       "title": "Studio refusing to open any game",
@@ -1362,19 +1281,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953005:1",
-      "url": "https://devforum.roblox.com/t/cant-buy-a-new-roblox-plus-subscription-with-the-free-developer-subscription-active/4953005",
-      "title": "Can't buy a new roblox plus subscription with the free developer subscription active",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2357,6 +2263,47 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4961092:1",
+      "url": "https://devforum.roblox.com/t/free-3d-clothing-templates-for-r6-characters/4961092",
+      "title": "Free 3d Clothing Templates for R6 characters",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961179:1",
+      "url": "https://devforum.roblox.com/t/all-around-developer-with-7-yrs-experience/4961179",
+      "title": "All-around developer with 7 yrs experience",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961185:1",
+      "url": "https://devforum.roblox.com/t/camera-pan-speed-slow-on-studio-and-cant-figure-out-why/4961185",
+      "title": "Camera Pan Speed slow on Studio and can't figure out why?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xczhrd",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczhrd/when_i_try_to_import_this_rig_into_studio_the/",
       "title": "when i try to import this rig into studio the weight paints completely mess up",
@@ -2414,19 +2361,6 @@
       "key": "reddit:1xd9m64",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd9m64/why_is_my_ctr_lowest_its_ever_been_14/",
       "title": "why is my ctr lowest its ever been 1.4%",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdak1x",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdak1x/feedback_appreciated_solo_dev_first_roblox_game/",
-      "title": "Feedback appreciated (Solo dev) first roblox game.",
       "source": "reddit-robloxdev",
       "published": "2026-10-23",
       "kind": "reddit",
@@ -3110,6 +3044,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xh6tbn",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh6tbn/ive_just_released_my_first_roblox_game_into/",
+      "title": "I've just released my first Roblox game into Public Beta! Looking for honest feedback 🏁",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4952234:1",
       "url": "https://devforum.roblox.com/t/why-is-he-spinning/4952234",
       "title": "Why is he spinning",
@@ -3351,20 +3298,6 @@
       "key": "reddit:1xdhdjm",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdhdjm/please_help_me_with_modeling_this_room/",
       "title": "Please help me with modeling this room",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdjof6",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjof6/i_need_help_my_game/",
-      "title": "I need help m'y game",
       "source": "reddit-robloxdev",
       "published": "2026-10-23",
       "kind": "reddit",
@@ -3720,32 +3653,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4952826:1",
-      "url": "https://devforum.roblox.com/t/cant-easily-unlock-mouse-on-coreguis/4952826",
-      "title": "Can't Easily Unlock Mouse on CoreGuis",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953324:1",
-      "url": "https://devforum.roblox.com/t/massive-increase-in-httperror-timedout/4953324",
-      "title": "Massive increase in HttpError: Timedout",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5421,17 +5328,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4952673:1",
-      "url": "https://devforum.roblox.com/t/velocity-is-behaving-differently-after-returning-to-an-older-project/4952673",
-      "title": "Velocity is behaving differently after returning to an older project",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4952705:1",
       "url": "https://devforum.roblox.com/t/automated-%E2%80%9Ctextchatservice-api%E2%80%9D-moderation-repeatedly-actioning-an-experience-whose-chat-is-fully-on-textchannels/4952705",
       "title": "Automated “TextChatService API” moderation repeatedly actioning an experience whose chat is fully on TextChannels",
@@ -6466,6 +6362,61 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4961145:1",
+      "url": "https://devforum.roblox.com/t/vrservicevrenabled-code-snippet-tells-us-to-use-userinputservicevrenabled-while-that-member-is-deprecated/4961145",
+      "title": "VRService.VREnabled code snippet tells us to use UserInputService.VREnabled while that member is deprecated",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961204:1",
+      "url": "https://devforum.roblox.com/t/falsely-banned-for-seemingly-no-reason/4961204",
+      "title": "Falsely banned for seemingly no reason",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961257:1",
+      "url": "https://devforum.roblox.com/t/the-hollow-event-item-not-being-given-to-me-even-though-i-bought-it-in-game/4961257",
+      "title": "The Hollow event item not being given to me even though i bought it in game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961267:1",
+      "url": "https://devforum.roblox.com/t/commerce-products-not-updating-from-shopify/4961267",
+      "title": "Commerce products not updating from Shopify",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961296:1",
+      "url": "https://devforum.roblox.com/t/accidentally-archived-my-ugc-glasses-%E2%80%94-is-restoration-possible/4961296",
+      "title": "Accidentally Archived My UGC Glasses — Is Restoration Possible?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xd33qs",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd33qs/maplevel_design/",
       "title": "Map/Level Design",
@@ -7401,6 +7352,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xh6k5o",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh6k5o/my_pixel_art_for_a_game_im_planning_to_make_in/",
+      "title": "My pixel art for a game I'm planning to make in Roblox.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
+      "title": "Acetul (@_acetul) - X",
+      "source": "x-ui",
+      "published": "2026-10-27",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1HekVGalJYZVJ0UXVHUVhaVWFUTnF2R19JTkV3OW5CQndWMlB3LW9aX19CcDFia0FPQVBPWC1JSGRvT3N0djRMbFBNaHlGUjNCZE1WQmdB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekVGalJYZVJ0UXVHUVhaVWFUTnF2R19JTkV3OW5CQndWMlB3LW9aX19CcDFia0FPQVBPWC1JSGRvT3N0djRMbFBNaHlGUjNCZE1WQmdB?oc=5",
       "title": "How To Connect Claude AI To Roblox Studio (Step By Step) - YouTube",
@@ -7500,6 +7473,19 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBHUjlibmF6ZzdDaTFEUTZERktNRFpMeE4zeXZpWlpUZjZwUFhXVHc4V21ERlJ3ckdUdGN1R1BwLWwyT1ZGZ1JvRGhzR3hENGNvcjBpa3Rn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHUjlibmF6ZzdDaTFEUTZERktNRFpMeE4zeXZpWlpUZjZwUFhXVHc4V21ERlJ3ckdUdGN1R1BwLWwyT1ZGZ1JvRGhzR3hENGNvcjBpa3Rn?oc=5",
+      "title": "How to Copy Any Roblox Game – Uncopylocked Games & Roblox Studio Guide (Copy Game Roblox 2026) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-10-26",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

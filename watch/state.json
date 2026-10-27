@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "b52de8d101f0dd4fab58a17427faee534a5a8890",
+      "head": "02c23e6297ebf7d86d15e90af438b08be0cbcc29",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "0e1f4789406477380b267a01f3ddd50b0211e5b3",
-      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
+      "head": "58d6da1e34d6cd1c6379dcbf568bd66f5f9b6102",
+      "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.312",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
@@ -132,8 +132,8 @@
       "head": "f067033f9126993b6172bdfffa71a74ad693fda4",
       "head_subject": "mlx: add LFM3 and d1 models (#19333)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.11",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+      "release_tag": "v0.40.12",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
       "url": "https://github.com/ollama/ollama"
     }
   },
