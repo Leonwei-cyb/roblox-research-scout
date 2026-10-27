@@ -1480,7 +1480,18 @@
     "b6b51a7fd4c77f580cae9f06",
     "20842f41f6639d9a522c079b",
     "42a4994646238f3559cc989c",
-    "b7a5fee3e5a59d3e08038cb2"
+    "b7a5fee3e5a59d3e08038cb2",
+    "9a8b76c40e8e59c26b887012",
+    "623c04a9c5d492af9b77c577",
+    "a192dc605eb1e8cc3abaf8de",
+    "66c23a0f846b11d2c4c91891",
+    "2990d98f029eb682c4bbdbb1",
+    "0f6cc7adf4738ec9b755b91b",
+    "4ac2010d51237159ca14f49f",
+    "d452b49b0148cb208458ffe1",
+    "c068538ae43ea7f13559f20d",
+    "d31f515b1a3670e97e118d0d",
+    "0efddfb4ccd2eae1161eab8e"
   ],
   "items": [
     {
@@ -1630,6 +1641,28 @@
       "id": "d6b6a3ac078ffa929b721860"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for Playtesters for my upcoming game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/",
+      "published": "2026-10-27",
+      "excerpt": "Hey everyone! I'm looking for people to playtest my upcoming Roblox game, Find the Pixel ! All you need to do is try out the game and share your feedback through a short questionnaire. Rewards for participating: 🏷️ Exclusive Tester title 🖱️ Exclusive Tester cursor If you're interested, contact me on",
+      "creator": "/u/Earthy001 https://www.reddit.com/user/Earthy001",
+      "id": "d452b49b0148cb208458ffe1"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Check out my game!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgjtxh/check_out_my_game/",
+      "published": "2026-10-27",
+      "excerpt": "only 30 more people needed for my goal! help me reach my goal! NEW PLAYERS ONLY! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! Gamepasses, and all moving parts work. My goal is to get 100 visits by th",
+      "creator": "/u/sailorvalley https://www.reddit.com/user/sailorvalley",
+      "id": "d31f515b1a3670e97e118d0d"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1699,6 +1732,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/gears-do-not-appear-in-currently-wearing/4959726.rss",
       "id": "c38c73ad13271bed5fe61c51"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "how do i get rid of this annoying command thingy. first time studio user",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgyrp6/how_do_i_get_rid_of_this_annoying_command_thingy/",
+      "published": "2026-10-27",
+      "excerpt": "https://preview.redd.it/06hgt6smn1yh1.png?width=2880&format=png&auto=webp&s=e053777521d08990437f7b74f84c36c2a1a686e5 the execure a command tab submitted by /u/Long_MouthAD [link] [comments]",
+      "creator": "/u/Long_MouthAD https://www.reddit.com/user/Long_MouthAD",
+      "id": "c068538ae43ea7f13559f20d"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1828,6 +1872,18 @@
       "id": "a8f64d27eb96b511b639f9be"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Extreme Lag on every place, even a new empty baseplate",
+      "url": "https://devforum.roblox.com/t/extreme-lag-on-every-place-even-a-new-empty-baseplate/4960619",
+      "published": "2026-10-27",
+      "excerpt": "A few weeks ago, studio used to work perfectly fine and the only times I would get lag are when I’m working on a highly dense place. But now, every single place I try working on just has unbearable lag, even on the homescreen and on an empty baseplate. I don’t have any of these issues on the Player,",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/extreme-lag-on-every-place-even-a-new-empty-baseplate/4960619.rss",
+      "id": "a192dc605eb1e8cc3abaf8de"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1860,6 +1916,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/fps-arms-colliding-with-player/4959572.rss",
       "id": "9e0ec0e434fc4b1158db4141"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "LeftAlt and RightAlt show as LAlt and RAlt on MacOS despite Macs not having an Alt key.",
+      "url": "https://devforum.roblox.com/t/leftalt-and-rightalt-show-as-lalt-and-ralt-on-macos-despite-macs-not-having-an-alt-key/4960629",
+      "published": "2026-10-27",
+      "excerpt": "Right now, regardless of OS, the LeftAlt and RightAlt modifiers will always show up as LAlt and RAlt in an InputActionLabel. This is fine on Windows computers, since those have an Alt key. However, the MacOS equivalent of this is known as Option, which means it may be unfamiliar to people who don’t ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/leftalt-and-rightalt-show-as-lalt-and-ralt-on-macos-despite-macs-not-having-an-alt-key/4960629.rss",
+      "id": "9a8b76c40e8e59c26b887012"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2060,6 +2128,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Double Joystick On Studio Mobile Emulator",
+      "url": "https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616",
+      "published": "2026-10-27",
+      "excerpt": "Randomly when testing with mobile in studio there will sometimes be two joysticks with no apparent cause, both joysticks will trigger click events which can be problematic for testing. Visual Aids: 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616.rss",
+      "id": "66c23a0f846b11d2c4c91891"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Проблема с загрузкой картинок в России",
       "url": "https://devforum.roblox.com/t/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-%D1%81-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%BA-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8/4959964",
       "published": "2026-10-27",
@@ -2067,6 +2147,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-%D1%81-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%BA-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8/4959964.rss",
       "id": "65b6c14bfb11954f45807e7e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Extremely Low Plays Compared to Ad Clicks Despite High CTR (6$ CPP)",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622",
+      "published": "2026-10-27",
+      "excerpt": "I’ve been running ads for my game, Huss Tackle, and I’m having trouble understanding why my ads are getting thousands of clicks but barely any reported plays. I’ve tested around 50 different thumbnails, and after improving them, multiple ads are now getting 3.1–3.6% CTR compared to my previous highe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622.rss",
+      "id": "623c04a9c5d492af9b77c577"
     },
     {
       "source": "reddit-robloxdev",
@@ -2197,6 +2289,18 @@
       "id": "4c81739b199d68bfb1af63e5"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to disable team create?!",
+      "url": "https://devforum.roblox.com/t/how-to-disable-team-create/4960583",
+      "published": "2026-10-27",
+      "excerpt": "SOMEHOW MY GAME GOT TEAM CREATE ENABLED ON ITS OWN AND NOW I CAN’T ACCESS IT HOW DO I TURN IT OFF ASAP?? PLEASE 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-disable-team-create/4960583.rss",
+      "id": "4ac2010d51237159ca14f49f"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2323,6 +2427,18 @@
       "id": "2ac828b58c8e7f69e9f99b50"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "InputActionLabel uses Ctrl and Alt on MacOS computers despite them being named differently",
+      "url": "https://devforum.roblox.com/t/inputactionlabel-uses-ctrl-and-alt-on-macos-computers-despite-them-being-named-differently/4960612",
+      "published": "2026-10-27",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/inputactionlabel-uses-ctrl-and-alt-on-macos-computers-despite-them-being-named-differently/4960612.rss",
+      "id": "2990d98f029eb682c4bbdbb1"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2402,6 +2518,18 @@
       "excerpt": "Hi, I just released a new project on Roblox that I've been working on and off for months. It's a project that is inspired by games I loved when I was a kid and just wanted to add my own twist to it. It would be awesome if I could get feedback on the overall game experience :) Thank you in advance! s",
       "creator": "/u/VityyOne https://www.reddit.com/user/VityyOne",
       "id": "101e5b4277a2db383720ea73"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[SEEKING INVESTMENT] — Fill In the Blank",
+      "url": "https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598",
+      "published": "2026-10-27",
+      "excerpt": "I’m a solo dev seeking up to 20,000 Robux or $75 USD in ads funding to grow Fill In the Blank [Beta], a completed casual multiplayer party game inspired by an original experience that reached around 15M visits and 3.5K CCU. The game features 500 highly curated prompts, fast-paced rounds, cosmetics, ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598.rss",
+      "id": "0f6cc7adf4738ec9b755b91b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5325,6 +5453,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/funnels-showing-incorrect-information/4956952.rss",
       "id": "1157bfe44bd06a3de1bd88d1"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Break and Steal An Egg Update New Zone! #roblox #breakandstealanegg #new #update #zone - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UbG9vRDU3UTR2Q1hpNWVtNjdkbzNwdUJsZGQwOFNnZUVaa0Y1d01kYUQzMTlqLU0yN1hGT0V6Q081UzhsLXdhcEJXblE2Q0RIeFZxNnV3?oc=5",
+      "published": "2026-10-25",
+      "excerpt": "Break and Steal An Egg Update New Zone! #roblox #breakandstealanegg #new #update #zone Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "0efddfb4ccd2eae1161eab8e"
     },
     {
       "source": "reddit-robloxdev",
@@ -8276,136 +8416,6 @@
       "excerpt": "it's insane how more or less every game is the same as the others, just reskinned differently, typically with dopamine simulators. yet, all of these AI games get hundreds and thousands of concurrent players, and whilst it's cool AI can do all of this, every game is losing its originality. we're more",
       "creator": "/u/SmoothChemistry8564 https://www.reddit.com/user/SmoothChemistry8564",
       "id": "24c7b025643160f8e997699c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "UGC emote issues. Anyone know how to fix this? (Read description)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjvla/ugc_emote_issues_anyone_know_how_to_fix_this_read/",
-      "published": "2026-10-23",
-      "excerpt": "Whenever i try exporting it says: \"The published animation is missing a valid UGC emote marker. Please republish the animation. In curveAnimation at time 0.16 seconds, bodypart RightFoot is at height -3.10 from the HumanoidRootPart. Body parts cannot be lower than -3.1 studs from the HumanoidRootPar",
-      "creator": "/u/Far_Strawberry_6855 https://www.reddit.com/user/Far_Strawberry_6855",
-      "id": "23d6696075926cf818a5943c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expanded Terrain removes >16 voxels thick terrain",
-      "url": "https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339",
-      "published": "2026-10-23",
-      "excerpt": "Terrain LOD mesh disappear when streaming radius is small and streaming is enabled Now: Before: The map is in the private message, Workspace settings has been tweaked to match the game ones. A private message is associated with this bug report 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339.rss",
-      "id": "21fc21f68f36d62173d09599"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox developers",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xda66e/roblox_developers/",
-      "published": "2026-10-23",
-      "excerpt": "What do you think is best making multiple games with core loop and aim for young player or make a detailed game like rpg to target older player. Which is more better to make money submitted by /u/Broad_Reflection9452 [link] [comments]",
-      "creator": "/u/Broad_Reflection9452 https://www.reddit.com/user/Broad_Reflection9452",
-      "id": "2101cc8c4fd2b39d422aa860"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expanded Terrain visually duplicates Terrain across a 2^14 stud grid",
-      "url": "https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769",
-      "published": "2026-10-23",
-      "excerpt": "Description : The duplication extends to the server’s initial bounding box for Workspace. Regardless of any changes made to the bounding box, it will always duplicate up to the initial box’s extents. The duplication only occurs on the positive axes of a grid with 2^14 stud cells. It will never dupli",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769.rss",
-      "id": "20d2a73043b07f4869b03b3a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Someone's account is logged into my studio",
-      "url": "https://devforum.roblox.com/t/someones-account-is-logged-into-my-studio/4952589",
-      "published": "2026-10-23",
-      "excerpt": "I opened studio today, and i saw someone else’s account logged in. Why is that, this is not my account. I searched up this dude on roblox and saw him online in a game. 3 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/someones-account-is-logged-into-my-studio/4952589.rss",
-      "id": "209748c51fc66dff6229e9f3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[URGENT] Mass False Enforcement Banwave",
-      "url": "https://devforum.roblox.com/t/urgent-mass-false-enforcement-banwave/4953226",
-      "published": "2026-10-23",
-      "excerpt": "My account and several others have been permanently banned for being linked to a completely unknown account. Nobody who got banned owns this “alternative account,” and is most likely either an AI banwave, or a ban method used on target individuals. It’s alleged that staff members are currently “look",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/urgent-mass-false-enforcement-banwave/4953226.rss",
-      "id": "1e27fe047eb432409be2c46b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Super Destroyer in Roblox",
-      "url": "https://devforum.roblox.com/t/super-destroyer-in-roblox/4952480",
-      "published": "2026-10-23",
-      "excerpt": "This is a showcase project I have been working on to let players experience the magnificent scale and immersive atmosphere of the Super Destroyer from Helldivers 2 inside of Roblox. Please note: A full game will NOT be made. All credits and rights go to Arrowhead Game Studios. This is just a passion",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/super-destroyer-in-roblox/4952480.rss",
-      "id": "1d9d5d30715061dd3f6cd500"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Feedback on my asset pack",
-      "url": "https://devforum.roblox.com/t/feedback-on-my-asset-pack/4952746",
-      "published": "2026-10-23",
-      "excerpt": "I decided to make a modular asset pack mainly consisting of ladders and pipes, I mainly do work on my game Intuneric but I thought I should branch out a bit, feedback on this would help alot, now of course it’s made only using Roblox parts and optimized meshes would be more performance friendly than",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-on-my-asset-pack/4952746.rss",
-      "id": "1b9c9767c275290c480a57bb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Corrupted Assistant Output",
-      "url": "https://devforum.roblox.com/t/corrupted-assistant-output/4953233",
-      "published": "2026-10-23",
-      "excerpt": "Output dosent show anything. Assistant is talking wierd. EDIT: It happend again 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/corrupted-assistant-output/4953233.rss",
-      "id": "1b090712660af55a7718374e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Voting screen not showing",
-      "url": "https://devforum.roblox.com/t/voting-screen-not-showing/4951827",
-      "published": "2026-10-23",
-      "excerpt": "local RS=game:GetService(\"ReplicatedStorage\") local VotingPhase=RS.Events.BeginVotingPhase local plr=game:GetService(\"Players\").LocalPlayer local StartingMatch=RS.Events.StartingMatch local plrVoted=RS.Events.PlayerVotedEvent local UpdateVotes=RS.Events.UpdateVoteCountClient local plrgui=plr:WaitFor",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/voting-screen-not-showing/4951827.rss",
-      "id": "194a418c8653ed09fbb84dd7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Iron Brainrot (Worked 11 months on it)",
-      "url": "https://devforum.roblox.com/t/iron-brainrot-worked-11-months-on-it/4952565",
-      "published": "2026-10-23",
-      "excerpt": "Game Link Even thought the game is really good I’m not getting any players on it even with ads. The new rule that new games can only be played by 16+ year olds is ruining this games progress. What else do you think might be causing the problem? 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/iron-brainrot-worked-11-months-on-it/4952565.rss",
-      "id": "192b380a2b6ae391149c9a37"
     }
   ]
 }

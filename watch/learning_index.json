@@ -379,6 +379,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4960616:1",
+      "url": "https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616",
+      "title": "Double Joystick On Studio Mobile Emulator",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xdt1yv",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdt1yv/kinda_getting_tired_of_building_so_got_into/",
       "title": "Kinda getting tired of building so got into animation",
@@ -714,20 +728,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4951769:1",
-      "url": "https://devforum.roblox.com/t/expanded-terrain-visually-duplicates-terrain-across-a-214-stud-grid/4951769",
-      "title": "Expanded Terrain visually duplicates Terrain across a 2^14 stud grid",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4952219:1",
       "url": "https://devforum.roblox.com/t/terrain-optimisations-full-launch-causing-severe-fps-issues-in-relation-to-updateterrainprepare-treetraversal-functions/4952219",
       "title": "Terrain Optimisations Full Launch causing severe FPS issues in relation to updateTerrainPrepare & TreeTraversal functions",
@@ -736,20 +736,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4952746:1",
-      "url": "https://devforum.roblox.com/t/feedback-on-my-asset-pack/4952746",
-      "title": "Feedback on my asset pack",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
         "tools and performance"
       ],
       "score": 6,
@@ -1234,19 +1220,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4951339:1",
-      "url": "https://devforum.roblox.com/t/expanded-terrain-removes-16-voxels-thick-terrain/4951339",
-      "title": "Expanded Terrain removes >16 voxels thick terrain",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4951788:1",
       "url": "https://devforum.roblox.com/t/solved-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788",
       "title": "[SOLVED] BindableFunction infinitely yielding script that invokes it",
@@ -1320,19 +1293,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4952589:1",
-      "url": "https://devforum.roblox.com/t/someones-account-is-logged-into-my-studio/4952589",
-      "title": "Someone's account is logged into my studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2315,6 +2275,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4960622:1",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622",
+      "title": "Extremely Low Plays Compared to Ad Clicks Despite High CTR (6$ CPP)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xczhrd",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczhrd/when_i_try_to_import_this_rig_into_studio_the/",
       "title": "when i try to import this rig into studio the weight paints completely mess up",
@@ -3042,6 +3015,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xgyrp6",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgyrp6/how_do_i_get_rid_of_this_annoying_command_thingy/",
+      "title": "how do i get rid of this annoying command thingy. first time studio user",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4952234:1",
       "url": "https://devforum.roblox.com/t/why-is-he-spinning/4952234",
       "title": "Why is he spinning",
@@ -3261,6 +3247,20 @@
       "signals": [
         "genres and successful loops",
         "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4960619:1",
+      "url": "https://devforum.roblox.com/t/extreme-lag-on-every-place-even-a-new-empty-baseplate/4960619",
+      "title": "Extreme Lag on every place, even a new empty baseplate",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3607,19 +3607,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4951827:1",
-      "url": "https://devforum.roblox.com/t/voting-screen-not-showing/4951827",
-      "title": "Voting screen not showing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4951989:1",
       "url": "https://devforum.roblox.com/t/how-do-you-report-a-vulnerability-to-robloxs-h1-program-while-being-in-sanctioned-country/4951989",
       "title": "How do you report a vulnerability to Roblox's H1 program while being in sanctioned country?",
@@ -3659,19 +3646,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4952480:1",
-      "url": "https://devforum.roblox.com/t/super-destroyer-in-roblox/4952480",
-      "title": "Super Destroyer in Roblox",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4952562:1",
       "url": "https://devforum.roblox.com/t/function-parameters-inside-an-overloaded-function-are-type-unknown/4952562",
       "title": "Function parameters inside an overloaded function are type unknown.",
@@ -3680,19 +3654,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4952565:1",
-      "url": "https://devforum.roblox.com/t/iron-brainrot-worked-11-months-on-it/4952565",
-      "title": "Iron Brainrot (Worked 11 months on it)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4465,6 +4426,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4960598:1",
+      "url": "https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598",
+      "title": "[SEEKING INVESTMENT] — Fill In the Blank",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xczgrc",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
       "title": "What should i do to get into the algorithm?",
@@ -4538,19 +4512,6 @@
       "kind": "reddit",
       "signals": [
         "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xda66e",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xda66e/roblox_developers/",
-      "title": "Roblox developers",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4707,19 +4668,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdjvla",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjvla/ugc_emote_issues_anyone_know_how_to_fix_this_read/",
-      "title": "UGC emote issues. Anyone know how to fix this? (Read description)",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5232,6 +5180,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xgjtxh",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgjtxh/check_out_my_game/",
+      "title": "Check out my game!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xgjv5q",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgjv5q/check_out_my_game/",
       "title": "Check out my game!",
@@ -5305,6 +5266,19 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgywhy",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/",
+      "title": "Looking for Playtesters for my upcoming game",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5500,28 +5474,6 @@
       "key": "devforum:4953224:1",
       "url": "https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224",
       "title": "Make \"Value\" in Experience Configs clickable",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953226:1",
-      "url": "https://devforum.roblox.com/t/urgent-mass-false-enforcement-banwave/4953226",
-      "title": "[URGENT] Mass False Enforcement Banwave",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953233:1",
-      "url": "https://devforum.roblox.com/t/corrupted-assistant-output/4953233",
-      "title": "Corrupted Assistant Output",
       "source": "roblox-devforum-latest",
       "published": "2026-10-23",
       "kind": "devforum",
@@ -6435,6 +6387,39 @@
       "key": "devforum:4960565:1",
       "url": "https://devforum.roblox.com/t/roblox-client-repeatadly-changing-from-windowed-to-fullscreen-mode-and-viceversa/4960565",
       "title": "Roblox client repeatadly changing from windowed to fullscreen mode and viceversa",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4960583:1",
+      "url": "https://devforum.roblox.com/t/how-to-disable-team-create/4960583",
+      "title": "How to disable team create?!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4960612:1",
+      "url": "https://devforum.roblox.com/t/inputactionlabel-uses-ctrl-and-alt-on-macos-computers-despite-them-being-named-differently/4960612",
+      "title": "InputActionLabel uses Ctrl and Alt on MacOS computers despite them being named differently",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4960629:1",
+      "url": "https://devforum.roblox.com/t/leftalt-and-rightalt-show-as-lalt-and-ralt-on-macos-despite-macs-not-having-an-alt-key/4960629",
+      "title": "LeftAlt and RightAlt show as LAlt and RAlt on MacOS despite Macs not having an Alt key.",
       "source": "roblox-devforum-latest",
       "published": "2026-10-27",
       "kind": "devforum",
@@ -7418,6 +7403,19 @@
       "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
       "source": "brock-ig-reels",
       "published": "2026-10-24",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1UbG9vRDU3UTR2Q1hpNWVtNjdkbzNwdUJsZGQwOFNnZUVaa0Y1d01kYUQzMTlqLU0yN1hGT0V6Q081UzhsLXdhcEJXblE2Q0RIeFZxNnV3",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UbG9vRDU3UTR2Q1hpNWVtNjdkbzNwdUJsZGQwOFNnZUVaa0Y1d01kYUQzMTlqLU0yN1hGT0V6Q081UzhsLXdhcEJXblE2Q0RIeFZxNnV3?oc=5",
+      "title": "Break and Steal An Egg Update New Zone! #roblox #breakandstealanegg #new #update #zone - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-10-25",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"

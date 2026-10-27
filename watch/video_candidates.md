@@ -10,6 +10,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Community showcase post (video not confirmed) · 2026-10-23
 - **[My IK system for Animations](https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/)** — Community showcase post (video not confirmed) · 2026-10-24
 - **[Animation not loading?](https://www.reddit.com/r/robloxgamedev/comments/1xf1zgz/animation_not_loading/)** — Community showcase post (video not confirmed) · 2026-10-25
+- **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Community showcase post (video not confirmed) · 2026-10-27
 - **[Is this animation good?](https://www.reddit.com/r/robloxgamedev/comments/1xgkh30/is_this_animation_good/)** — Community showcase post (video not confirmed) · 2026-10-27
 
 ## Coverage gap
