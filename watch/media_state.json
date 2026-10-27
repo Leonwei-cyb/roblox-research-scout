@@ -1371,9 +1371,57 @@
     "d6b4fed00cc416fe82ebbac8",
     "de206a91dddce4242cfee41a",
     "a11dc2b5c54a401045b93be1",
-    "0ce38298726687a0d2129ee0"
+    "0ce38298726687a0d2129ee0",
+    "07f9596bb95e2e9596191373",
+    "d0fa4397f066d912b178bafb",
+    "9e0ec0e434fc4b1158db4141",
+    "512e7b4f1dc41d6dfa7d5d6e",
+    "a08483f226bb2ad0abc0a3d0",
+    "8b8102de8160762875a15850",
+    "33b1f49b3a42d1225e1a4453",
+    "b93f57f0223794946042814d",
+    "13c192fc7178252fb33c60d0",
+    "f9de144d5e1bbbc504d1ea4c",
+    "eee8e54762e084fa751896a9",
+    "17a5b0b57642dd2c7d559f59"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Ads randomly rejected after 3 days of them running",
+      "url": "https://devforum.roblox.com/t/ads-randomly-rejected-after-3-days-of-them-running/4959586",
+      "published": "2026-10-27",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ads-randomly-rejected-after-3-days-of-them-running/4959586.rss",
+      "id": "d0fa4397f066d912b178bafb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "\"FPS\" Arms Colliding With Player",
+      "url": "https://devforum.roblox.com/t/fps-arms-colliding-with-player/4959572",
+      "published": "2026-10-27",
+      "excerpt": "You can write your topic however you want, but you need to answer these questions: What do you want to achieve? Keep it simple and clear! -Fixing the bug with the arms What is the issue? Include screenshots / videos if possible! -“FPS” Arms collide with the player when looking down, causing the play",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/fps-arms-colliding-with-player/4959572.rss",
+      "id": "9e0ec0e434fc4b1158db4141"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Ads getting rejected without any reason",
+      "url": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594",
+      "published": "2026-10-27",
+      "excerpt": "There is an issue which occurred about 10 minutes ago where it seems like everyone’s current running ads have been rejected without a valid reason. Assuming this is a bug, this happened to one other person and me at the same time. Expected behavior The ads should continue to work as normal 1 post - ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594.rss",
+      "id": "07f9596bb95e2e9596191373"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -1408,6 +1456,18 @@
       "excerpt": "Looking for Roblox map builders (16+) to create maps for an SCP-inspired psychological horror game. Contact Imjustagamin_JR on Roblox if you are interested in collaborating. ​Play the Demo: Search \"Site-E17\" on Roblox or visit Imjustagamin_JR's profile under the Experiences tab to try what is curren",
       "creator": "/u/Evening_Land_8156 https://www.reddit.com/user/Evening_Land_8156",
       "id": "fa2d14e8f54bad54b55b69f1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Rbxoc | A CLI for the Roblox Open Cloud API",
+      "url": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453",
+      "published": "2026-10-26",
+      "excerpt": "rbxoc is a command-line tool for the Roblox Open Cloud API, built so a coding agent can run it. Pin it next to Rojo and call it from a shell. The interface is agent-facing. rbxoc api list returns the command catalog, including commands that are not implemented yet. Every command prints one JSON obje",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453.rss",
+      "id": "f9de144d5e1bbbc504d1ea4c"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1657,7 +1717,7 @@
       "title": "Studio won't open any experiences.",
       "url": "https://devforum.roblox.com/t/studio-wont-open-any-experiences/4959420",
       "published": "2026-10-26",
-      "excerpt": "i cannot open any of my places on studio. Idk why? 1 post - 1 participant Read full topic",
+      "excerpt": "i cannot open any of my places on studio. Idk why? 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-wont-open-any-experiences/4959420.rss",
       "id": "c2a67665b25772d9cb39ac58"
@@ -1709,6 +1769,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/help-with-the-joints-of-my-bus-going-left-and-right/4958652.rss",
       "id": "c1472be153ea94ca1f3f22a0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SurfaceGui has lines on the edges when placed next to each other.",
+      "url": "https://devforum.roblox.com/t/surfacegui-has-lines-on-the-edges-when-placed-next-to-each-other/4959505",
+      "published": "2026-10-26",
+      "excerpt": "When SurfaceGuis with ClipsDescendants on are placed next to each other, a visible line can be seen. Was fine 7/30/2026 and 8/31/2026 I believe, but when we checked 10/25/2026, we saw it. Not sure when it was exactly updated for this to happen. Faint but it is there and it isn’t seamless anymore. Sy",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/surfacegui-has-lines-on-the-edges-when-placed-next-to-each-other/4959505.rss",
+      "id": "b93f57f0223794946042814d"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1788,6 +1860,18 @@
       "excerpt": "Hi, I am developing a new game and I keep getting error 501. I know that it is not a real error, but have gone through countless youtube tutorials on finding the malicious script but can’t, can anyone help me? submitted by /u/Longjumping-Basis627 [link] [comments]",
       "creator": "/u/Longjumping-Basis627 https://www.reddit.com/user/Longjumping-Basis627",
       "id": "a11dc2b5c54a401045b93be1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Plays Campaign randomly rejected?",
+      "url": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562",
+      "published": "2026-10-26",
+      "excerpt": "Hi everyone. Has anyone else experienced their plays campaign being rejected out of nowhere recently today? A few other people ive asked have had the same thing happen to them? 6 posts - 6 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562.rss",
+      "id": "a08483f226bb2ad0abc0a3d0"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1880,6 +1964,18 @@
       "excerpt": "I've been lurking here for weeks while learning Roblox Studio for this project, so it's pretty exciting to finally have something of my own to share. About 6 weeks ago my 9 year old son said he wanted to build a Roblox game. I'm an artist and physical game designer but this is my first video game. I",
       "creator": "/u/WrestleBull https://www.reddit.com/user/WrestleBull",
       "id": "8bcc2107ed76f36baac6f123"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Compromised account restored, but stolen limiteds, group Robux and display name still not returned",
+      "url": "https://devforum.roblox.com/t/compromised-account-restored-but-stolen-limiteds-group-robux-and-display-name-still-not-returned/4959558",
+      "published": "2026-10-26",
+      "excerpt": "Hi everyone, My account Accursed_Dev (owner of the group OddWorks Games, with Petopia! and Snatch a Seed) was hijacked on Oct 26, 2026 through a malware campaign targeting developers. I wrote that up here: https://devforum.roblox.com/t/psa-fake-game-studio-recruiters-are-hijacking-dev-accounts-throu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/compromised-account-restored-but-stolen-limiteds-group-robux-and-display-name-still-not-returned/4959558.rss",
+      "id": "8b8102de8160762875a15850"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2069,6 +2165,18 @@
       "id": "589b8a5cc5e8d6d043c18483"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Patching Hitbox Expanders (HBE)",
+      "url": "https://devforum.roblox.com/t/patching-hitbox-expanders-hbe/4959566",
+      "published": "2026-10-26",
+      "excerpt": "Hey everyone, I made a server-side fix for hitbox expanders (HBE) and figured I’d share it, since the main post on HBE is from 2020 and I couldn’t find anything newer that walks through fixing it. That post says: What Is A Hitbox Expander? How To Prevent It? This one’s tricky since it’ll rely on cli",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/patching-hitbox-expanders-hbe/4959566.rss",
+      "id": "512e7b4f1dc41d6dfa7d5d6e"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2246,6 +2354,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "FOES — fast-paced R6 shooter with paired takedowns (feedback wanted, public test soon)",
+      "url": "https://devforum.roblox.com/t/foes-%E2%80%94-fast-paced-r6-shooter-with-paired-takedowns-feedback-wanted-public-test-soon/4959534",
+      "published": "2026-10-26",
+      "excerpt": "Hey everyone! I’m working on FOES , a fast-paced R6 PvP shooter. It’s built around movement skill and takedowns: sneak up on someone from behind and finish them with a synced cinematic animation. What’s in so far: Movement: slide, slide-jump with air strafing, dash, mantling Takedowns: a paired anim",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/foes-%E2%80%94-fast-paced-r6-shooter-with-paired-takedowns-feedback-wanted-public-test-soon/4959534.rss",
+      "id": "33b1f49b3a42d1225e1a4453"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Do you need a developer?",
       "url": "https://devforum.roblox.com/t/do-you-need-a-developer/4958475",
       "published": "2026-10-26",
@@ -2335,6 +2455,17 @@
       "id": "206596926c551c31ef4ac407"
     },
     {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "critics are calling it “inescapable.” Hiachi, now playing in The Hollow.",
+      "url": "https://www.youtube.com/shorts/gcRDG8UGuqA",
+      "published": "2026-10-26",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "17a5b0b57642dd2c7d559f59"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2368,6 +2499,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831.rss",
       "id": "14bffe1daecc42e58d8bfdca"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox studio not allowing me to open up my experiences.",
+      "url": "https://devforum.roblox.com/t/roblox-studio-not-allowing-me-to-open-up-my-experiences/4959496",
+      "published": "2026-10-26",
+      "excerpt": "All of my experiences have greyed out placeholder icons, and any time I try to open one, it says “We could not open the place [place number] Failed to fetch place info.” with the red octagon and exclamation-mark. This is most likely an issue on my side rather than the studios, or it could be tempora",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-studio-not-allowing-me-to-open-up-my-experiences/4959496.rss",
+      "id": "13c192fc7178252fb33c60d0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8189,134 +8332,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/monster-mystery-analytics-feedback/4950052.rss",
       "id": "3df7260379dc46e1419f83b8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I started learning LUA to build my dream game then I found out about Claude OPUS, creating games that generates a lot of CCU. Is this a sign to quit for me??",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc9lty/i_started_learning_lua_to_build_my_dream_game/",
-      "published": "2026-10-22",
-      "excerpt": "I’m very passionate to building my dream game and I'm planning to make a virtual pet care experience inspired by Pou but using my cute OC. I don't mind how hard Lua is to learn, I just lost my spark after seeing someone else's create a succeeding game made entirely by ai like Huss Valley. Maybe i'm ",
-      "creator": "/u/Frequent-Photo-1788 https://www.reddit.com/user/Frequent-Photo-1788",
-      "id": "3dd7c09c568cc4d540f44a59"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How to script throwing a tool and how to make a tool play a sound when you equip it?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/",
-      "published": "2026-10-22",
-      "excerpt": "Hi! I’m having some trouble writing scripts for two functions in a tool I’m building for my game. I’d really appreciate some help! I tried looking for tutorials, but I only managed to find two old, non-functional scripts for these tasks. I want to know how to script throwing a tool and how to make a",
-      "creator": "/u/RoyaleLavenderSpinel https://www.reddit.com/user/RoyaleLavenderSpinel",
-      "id": "3d4ebec52c95d5e9f4bc4eba"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Repeated Automated TextChatService Suspensions Across Multiple Experiences, Missing Appeal Buttons",
-      "url": "https://devforum.roblox.com/t/repeated-automated-textchatservice-suspensions-across-multiple-experiences-missing-appeal-buttons/4950799",
-      "published": "2026-10-22",
-      "excerpt": "Hello Roblox Staff and Developers, I am creating this report because I have received multiple moderation actions for the same reason across several of my Roblox experiences, and I still have no clear explanation of what is actually wrong or a reliable way to appeal these actions. Every moderation ac",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/repeated-automated-textchatservice-suspensions-across-multiple-experiences-missing-appeal-buttons/4950799.rss",
-      "id": "3b2c856afc58f4b06648cf6a"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Improving Validation Checks for UGC Avatar Bodies: Visualization Tool and Asset Quality",
-      "url": "https://devforum.roblox.com/t/improving-validation-checks-for-ugc-avatar-bodies-visualization-tool-and-asset-quality/4950522",
-      "published": "2026-10-22",
-      "excerpt": "Key Takeaways We’re making UGC Validation Visualization available to creators in Studio, so you can see where validation issues occur and improve Asset Quality before publishing. Hi Creators, UGC Validation Visualization is now available in Studio to help you identify and understand validation issue",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/improving-validation-checks-for-ugc-avatar-bodies-visualization-tool-and-asset-quality/4950522.rss",
-      "id": "3adc67d89fa5b95035fdbc6c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "What makes a good Tower Defense game?",
-      "url": "https://devforum.roblox.com/t/what-makes-a-good-tower-defense-game/4949163",
-      "published": "2026-10-22",
-      "excerpt": "Hi! I’m currently making a Tower Defense game known as Tower Defense Initiative, and I was wondering, what exactly makes a good Tower Defense game? For some context, TDI is a somewhat complicated Tower Defense game, featuring towers with two different upgrade paths, multiple gamemodes, unique enemie",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-makes-a-good-tower-defense-game/4949163.rss",
-      "id": "3a84edabe63caae8d874b1d2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Plus Requirement for Clothing",
-      "url": "https://devforum.roblox.com/t/roblox-plus-requirement-for-clothing/4949213",
-      "published": "2026-10-22",
-      "excerpt": "Hello Roblox team and community! I would like to suggest reconsidering the Roblox Plus requirement for clothing creators. Requiring Roblox Plus to upload or sell clothing could create an additional barrier for aspiring creators who cannot afford a subscription. It may also limit the number of clothi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-plus-requirement-for-clothing/4949213.rss",
-      "id": "36acad09c0f96482e96431f0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Im making a new physics based roblox game!",
-      "url": "https://devforum.roblox.com/t/im-making-a-new-physics-based-roblox-game/4949271",
-      "published": "2026-10-22",
-      "excerpt": "This is a new game I have been working on, and it’s releasing soon. The players use an active ragdoll system so the combat and knockback has a nice physics feeling and make the game fun to play with. The combat system is unique as well as it uses the mouse movements to translate into swings rather t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/im-making-a-new-physics-based-roblox-game/4949271.rss",
-      "id": "35687e847fba0e2f0b788b43"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
-      "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
-      "published": "2026-10-22",
-      "excerpt": "[Update - Bug for clients on published games] Hey all quick update – Since this launch went out, we discovered a crash affecting some players on iOS during terrain streaming in live experiences. We have fixed the issue, and the fix will ship in an upcoming release. Read our full update below for mor",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620.rss",
-      "id": "352389a00512a99a8ac73143"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Video never meets the Video Quality Guidelines",
-      "url": "https://devforum.roblox.com/t/video-never-meets-the-video-quality-guidelines/4950069",
-      "published": "2026-10-22",
-      "excerpt": "i genuinely dont understand what else im supposed to do at this point. experiences/10770783191/places/138868081965452 my first upload included a cutscene that actually exists in the game. every player sees it when they start, and its part of the story. that upload was rejected. okay, fair enough. ma",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/video-never-meets-the-video-quality-guidelines/4950069.rss",
-      "id": "34ed1abf42b01a280768e093"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Bannerfall UI (Medieval ancient game)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcs96m/bannerfall_ui_medieval_ancient_game/",
-      "published": "2026-10-22",
-      "excerpt": "Hello there friends me and a couple lads are working on a medieval inspired game and i wanted to showcase the ui we got so far! Enjoy. submitted by /u/4DDStudios [link] [comments]",
-      "creator": "/u/4DDStudios https://www.reddit.com/user/4DDStudios",
-      "id": "343833f42a102e09dd2b3c61"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "the countdown’s over.",
-      "url": "https://www.youtube.com/shorts/jbwN3zcVbdk",
-      "published": "2026-10-22",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "32821ff4aeedcb3de8b41a80"
     }
   ]
 }

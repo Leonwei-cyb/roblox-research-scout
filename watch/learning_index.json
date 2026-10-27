@@ -84,21 +84,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4950620:1",
-      "url": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
-      "title": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4957229:1",
       "url": "https://devforum.roblox.com/t/512x512-ugc-accessory-texture-renders-at-noticeably-lower-resolution-in-roblox-player-than-in-studio/4957229",
       "title": "512x512 UGC accessory texture renders at noticeably lower resolution in Roblox Player than in Studio",
@@ -124,21 +109,6 @@
         "building and purchases",
         "UI and menus",
         "player feedback and marketing"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xc6u56",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/",
-      "title": "How to script throwing a tool and how to make a tool play a sound when you equip it?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "tools and performance"
       ],
       "score": 9,
       "evidence": "UNVIEWED_METADATA"
@@ -918,15 +888,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xc9lty",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc9lty/i_started_learning_lua_to_build_my_dream_game/",
-      "title": "I started learning LUA to build my dream game then I found out about Claude OPUS, creating games that generates a lot of CCU. Is this a sign to quit for me??",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-22",
-      "kind": "reddit",
+      "key": "devforum:4959534:1",
+      "url": "https://devforum.roblox.com/t/foes-%E2%80%94-fast-paced-r6-shooter-with-paired-takedowns-feedback-wanted-public-test-soon/4959534",
+      "title": "FOES — fast-paced R6 shooter with paired takedowns (feedback wanted, public test soon)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
-        "animation and audio"
+        "animation and audio",
+        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2304,6 +2274,58 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959496:1",
+      "url": "https://devforum.roblox.com/t/roblox-studio-not-allowing-me-to-open-up-my-experiences/4959496",
+      "title": "Roblox studio not allowing me to open up my experiences.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959572:1",
+      "url": "https://devforum.roblox.com/t/fps-arms-colliding-with-player/4959572",
+      "title": "\"FPS\" Arms Colliding With Player",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959586:1",
+      "url": "https://devforum.roblox.com/t/ads-randomly-rejected-after-3-days-of-them-running/4959586",
+      "title": "Ads randomly rejected after 3 days of them running",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959594:1",
+      "url": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594",
+      "title": "Ads getting rejected without any reason",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc9zk3",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc9zk3/try_and_test_it_out_our_game_help_us_to_reach_250/",
       "title": "Try and test it out our game (help us to reach 250 players)",
@@ -2351,19 +2373,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xcs96m",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcs96m/bannerfall_ui_medieval_ancient_game/",
-      "title": "Bannerfall UI (Medieval ancient game)",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3580,11 +3589,11 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:jbwN3zcVbdk",
-      "url": "https://www.youtube.com/shorts/jbwN3zcVbdk",
-      "title": "the countdown’s over.",
+      "key": "youtube:gcRDG8UGuqA",
+      "url": "https://www.youtube.com/shorts/gcRDG8UGuqA",
+      "title": "critics are calling it “inescapable.” Hiachi, now playing in The Hollow.",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-22",
+      "published": "2026-10-26",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -3634,32 +3643,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949163:1",
-      "url": "https://devforum.roblox.com/t/what-makes-a-good-tower-defense-game/4949163",
-      "title": "What makes a good Tower Defense game?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949271:1",
-      "url": "https://devforum.roblox.com/t/im-making-a-new-physics-based-roblox-game/4949271",
-      "title": "Im making a new physics based roblox game!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -3730,19 +3713,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4950069:1",
-      "url": "https://devforum.roblox.com/t/video-never-meets-the-video-quality-guidelines/4950069",
-      "title": "Video never meets the Video Quality Guidelines",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4950209:1",
       "url": "https://devforum.roblox.com/t/body-asset-always-fails-upload-validation-with-unknown-error/4950209",
       "title": "Body Asset always fails upload validation with \"Unknown Error\"",
@@ -3760,19 +3730,6 @@
       "url": "https://devforum.roblox.com/t/corepackages-uiblox-appstyleprovider178-error-shown-in-client-console-in-every-experience/4950275",
       "title": "CorePackages UIBlox AppStyleProvider:178 error shown in client console in every experience",
       "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950522:1",
-      "url": "https://devforum.roblox.com/t/improving-validation-checks-for-ugc-avatar-bodies-visualization-tool-and-asset-quality/4950522",
-      "title": "Improving Validation Checks for UGC Avatar Bodies: Visualization Tool and Asset Quality",
-      "source": "roblox-devforum-updates",
       "published": "2026-10-22",
       "kind": "devforum",
       "signals": [
@@ -4575,6 +4532,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959558:1",
+      "url": "https://devforum.roblox.com/t/compromised-account-restored-but-stolen-limiteds-group-robux-and-display-name-still-not-returned/4959558",
+      "title": "Compromised account restored, but stolen limiteds, group Robux and display name still not returned",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959566:1",
+      "url": "https://devforum.roblox.com/t/patching-hitbox-expanders-hbe/4959566",
+      "title": "Patching Hitbox Expanders (HBE)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc743t",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc743t/experienced_modeler_for_hire/",
       "title": "Experienced Modeler For Hire",
@@ -5353,17 +5336,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949213:1",
-      "url": "https://devforum.roblox.com/t/roblox-plus-requirement-for-clothing/4949213",
-      "title": "Roblox Plus Requirement for Clothing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949286:1",
       "url": "https://devforum.roblox.com/t/what-is-robloxs-limit-with-uploading-textures-containing-blood/4949286",
       "title": "What is roblox's limit with uploading textures containing blood?",
@@ -5477,17 +5449,6 @@
       "key": "devforum:4950587:1",
       "url": "https://devforum.roblox.com/t/roblox-client-randomly-crashing-for-no-reason/4950587",
       "title": "Roblox Client Randomly Crashing for No Reason",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950799:1",
-      "url": "https://devforum.roblox.com/t/repeated-automated-textchatservice-suspensions-across-multiple-experiences-missing-appeal-buttons/4950799",
-      "title": "Repeated Automated TextChatService Suspensions Across Multiple Experiences, Missing Appeal Buttons",
       "source": "roblox-devforum-latest",
       "published": "2026-10-22",
       "kind": "devforum",
@@ -6511,6 +6472,39 @@
       "key": "devforum:4959315:1",
       "url": "https://devforum.roblox.com/t/strange-change-in-the-250-hau-counter-not-eligible-for-kids-select/4959315",
       "title": "Strange change in the 250 HAU counter - Not eligible for Kids & Select",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959453:1",
+      "url": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453",
+      "title": "Rbxoc | A CLI for the Roblox Open Cloud API",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959505:1",
+      "url": "https://devforum.roblox.com/t/surfacegui-has-lines-on-the-edges-when-placed-next-to-each-other/4959505",
+      "title": "SurfaceGui has lines on the edges when placed next to each other.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4959562:1",
+      "url": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562",
+      "title": "Plays Campaign randomly rejected?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",

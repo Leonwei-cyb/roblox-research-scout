@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 326
+- devforum: 329
 - index-only: 15
-- reddit: 247
+- reddit: 244
 - youtube: 9
 
 ## First-Session And Mobile
@@ -46,8 +46,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## World And Visual Design
 
-- [\[Full Launch\] Publish Games with Custom Terrain Materials and Performance Improvements](https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 - [I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio](https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [What a good monitor for 3d animation/rendering? D](https://www.reddit.com/r/ROBLOXStudio/comments/1xebrtp/what_a_good_monitor_for_3d_animationrendering_d/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 
@@ -61,14 +61,14 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [How to script throwing a tool and how to make a tool play a sound when you equip it?](https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Error 279 "No response from server" when joining our experience, mobile and console only for now](https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-and-console-only-for-now/4949104) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Animate script have problems](https://devforum.roblox.com/t/animate-script-have-problems/4949474) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Error 279 "No response from server" when joining our experience, mobile and console only for now test with measurable pass/fail.
+3. Explain WHY it matters and propose one Animate script have problems test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

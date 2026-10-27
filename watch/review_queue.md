@@ -17,7 +17,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## 3D / models / environments
 
 - **[I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio](https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218)** — Public text/page, video not confirmed
-- **[\[Full Launch\] Publish Games with Custom Terrain Materials and Performance Improvements](https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 

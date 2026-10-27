@@ -14,9 +14,9 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
-- **P1 · world and visual design:** [\[Full Launch\] Publish Games with Custom Terrain Materials and Performance Improvements](https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620)
-  - devforum · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
-- **P1 · animation and audio:** [How to script throwing a tool and how to make a tool play a sound when you equip it?](https://www.reddit.com/r/ROBLOXStudio/comments/1xc6u56/how_to_script_throwing_a_tool_and_how_to_make_a/)
+- **P1 · world and visual design:** [Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain se](https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/)
+  - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
+- **P1 · animation and audio:** [Searching for animator](https://www.reddit.com/r/ROBLOXStudio/comments/1xcgohn/searching_for_animator/)
   - reddit · **UNVIEWED_METADATA** · Check: Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?
 
 ## Research gaps
