@@ -1392,9 +1392,35 @@
     "0996e86aedbfff61dcaf2621",
     "d8dcd32e37f82dfab056181f",
     "6f8a10107ab06fbca7c03afd",
-    "320c6c1c8b6d4b2c9de957b6"
+    "320c6c1c8b6d4b2c9de957b6",
+    "8a6f8b54989ad39213f7e3a9",
+    "355a83e577469afaed756464",
+    "ac6a3ad5cfe724559bd41976",
+    "0e5cfdaf87de1d1fc70b488e",
+    "ce1b74e7b984051ce02b9d92",
+    "b1169c522a2c6e565b989db6",
+    "2fd350da0073479df2be303c",
+    "540d43d82a464443c304d400",
+    "b6cda16d962c6e1fe660aad4",
+    "02c93095a0c3e68630127da7",
+    "38d9f5f1dec1e062870cc306",
+    "317c4c71ba98632e6a287f71",
+    "2c084931f18103f3a0cffcd9",
+    "fdc7daef19a3535fffbcaa72",
+    "7521472311aecac32948449e"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Any New Devs/Looking",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xggpn1/any_new_devslooking/",
+      "published": "2026-10-27",
+      "excerpt": "Any new developers wanting to set up a development team? submitted by /u/Ac-ro45 [link] [comments]",
+      "creator": "/u/Ac-ro45 https://www.reddit.com/user/Ac-ro45",
+      "id": "fdc7daef19a3535fffbcaa72"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -1419,6 +1445,17 @@
       "id": "d0fa4397f066d912b178bafb"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is this HUD/UI good?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgdqv1/is_this_hudui_good/",
+      "published": "2026-10-27",
+      "excerpt": "The UI is very much a work in progress—it’s just a concept, and I’m in urgent need of feedback! Thanks a lot! [I'm not looking for devs, this is because of the info-box/rules on this sub-reddit] submitted by /u/Sensitive_Bicycle809 [link] [comments]",
+      "creator": "/u/Sensitive_Bicycle809 https://www.reddit.com/user/Sensitive_Bicycle809",
+      "id": "ce1b74e7b984051ce02b9d92"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1431,6 +1468,28 @@
       "id": "c38c73ad13271bed5fe61c51"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Age Of Sail Progression",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgf0yq/age_of_sail_progression/",
+      "published": "2026-10-27",
+      "excerpt": "new ocean system underwater/swimming exploration realistic ship buoyancy and onboard station mechanics massive open-world (60,000+ studs) custom items, armor, tools, weapons, clothing dozens of ships day/night cycles with weather realistic sailing mechanics submitted by /u/Melodic-Sundae3403 [link] ",
+      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
+      "id": "b6cda16d962c6e1fe660aad4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I'm building a Destiny/Borderlands-inspired looter shooter. What do you think so far?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgetcu/im_building_a_destinyborderlandsinspired_looter/",
+      "published": "2026-10-27",
+      "excerpt": "submitted by /u/Dry_Plankton6642 [link] [comments]",
+      "creator": "/u/Dry_Plankton6642 https://www.reddit.com/user/Dry_Plankton6642",
+      "id": "ac6a3ad5cfe724559bd41976"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1441,6 +1500,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/fps-arms-colliding-with-player/4959572.rss",
       "id": "9e0ec0e434fc4b1158db4141"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Custom Enum Management Window",
+      "url": "https://devforum.roblox.com/t/custom-enum-management-window/4959810",
+      "published": "2026-10-27",
+      "excerpt": "As a Roblox developer, it is currently too hard to … Ensure a number is a valid ‘type’ or ‘index’. You can only union string representations, and the Enum table, while amazing, is an example of functionality that remains inaccessible to developers. If Roblox is able to address this issue, it would i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/custom-enum-management-window/4959810.rss",
+      "id": "8a6f8b54989ad39213f7e3a9"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1483,10 +1554,22 @@
       "title": "How do I weld a ragdoll properly?",
       "url": "https://devforum.roblox.com/t/how-do-i-weld-a-ragdoll-properly/4959768",
       "published": "2026-10-27",
-      "excerpt": "I’ve attempted to weld a ragdoll to my character. The limbs of the ragdoll are delayed behind the torso. I’ve tried doing the ragdoll on the server and client- neither worked. The limbs of the ragdoll have their assembly root part pointing to themselves, as long as this is the case the limbs are del",
+      "excerpt": "I’ve attempted to weld a ragdoll to my character. The limbs of the ragdoll are delayed behind the torso. I’ve tried doing the ragdoll on the server and client- neither worked. Despite all the limbs being massless, the ball-socket constraints are still applying force to my character as well? The limb",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-i-weld-a-ragdoll-properly/4959768.rss",
       "id": "48c3ce660f78bc6688f053d4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My Large Sized NPC stutters when they pathfind because their HumanoidRootPart is large",
+      "url": "https://devforum.roblox.com/t/my-large-sized-npc-stutters-when-they-pathfind-because-their-humanoidrootpart-is-large/4959783",
+      "published": "2026-10-27",
+      "excerpt": "In this npc, their HumanoidRootPart is sized to “16, 20, 21” but when i did that, they stutter when pathfinding and stops for a few seconds, which is annoying to fix for me >:C ignore killerkyle heres the NPC handler script local CollectionService = game:GetService(\"CollectionService\") local R = gam",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-large-sized-npc-stutters-when-they-pathfind-because-their-humanoidrootpart-is-large/4959783.rss",
+      "id": "355a83e577469afaed756464"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1498,6 +1581,28 @@
       "excerpt": "Hey everyone! I just launched GET A GOBLIN!, my new ans first Roblox game! You can hatch eggs, collect tons of unique goblins, build your collection, discover hidden secrets, complete challenging obbies, and fight through a tactical PvE mode called Goblin Gauntlet! The game is brand new, so I'm tryi",
       "creator": "/u/Significant-Gene6553 https://www.reddit.com/user/Significant-Gene6553",
       "id": "320c6c1c8b6d4b2c9de957b6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How do i model mass-produced endless suburban sprawl",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgf3h6/how_do_i_model_massproduced_endless_suburban/",
+      "published": "2026-10-27",
+      "excerpt": "this is a screenshot from patrol compton and i believe the game was made by one or few devs but the map looks detailed and massive i am thinking how can i apply this to my own map. I want it to look realistic but not necessarily 100% accurate but won't eat up all my time any help appreciated submitt",
+      "creator": "/u/Only-Nail-8839 https://www.reddit.com/user/Only-Nail-8839",
+      "id": "2fd350da0073479df2be303c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Making a neon arena FPS game!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgguyy/making_a_neon_arena_fps_game/",
+      "published": "2026-10-27",
+      "excerpt": "Gun game showcase! submitted by /u/LazyDevCreations [link] [comments]",
+      "creator": "/u/LazyDevCreations https://www.reddit.com/user/LazyDevCreations",
+      "id": "2c084931f18103f3a0cffcd9"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1907,6 +2012,17 @@
       "id": "b1e5df43b2b8c382a1e69204"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Orbitus M.1872 (Uswen Officer Revolver)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgbkd9/orbitus_m1872_uswen_officer_revolver/",
+      "published": "2026-10-26",
+      "excerpt": "Revolver i made for the Officer class for my game project (\"A Soldier's Poem\") Lengh : 1.14 Studs Calliber : 0.06 Studs Practical Range : 250 Studs Type of Firearm : Double Action 6 Shot revolver. Country of Adoption : Uswen Kingdom. Feel free to tell me what you think of it or if i should improve s",
+      "creator": "/u/Wooden_Cellist_755 https://www.reddit.com/user/Wooden_Cellist_755",
+      "id": "b1169c522a2c6e565b989db6"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2266,6 +2382,17 @@
       "id": "589b8a5cc5e8d6d043c18483"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Dinosaurs and models for my sci fi dinosaur game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg85o4/dinosaurs_and_models_for_my_sci_fi_dinosaur_game/",
+      "published": "2026-10-26",
+      "excerpt": "All species (besides humans) are genetically modified,while also keeping the scientifically accurate aspects of the real animals 1 - dearc 2 - herrerasaurus 3 - ceratosaurus 4 - microraptor 5 - homo sapiens submitted by /u/nerdyguy107291 [link] [comments]",
+      "creator": "/u/nerdyguy107291 https://www.reddit.com/user/nerdyguy107291",
+      "id": "540d43d82a464443c304d400"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2428,6 +2555,17 @@
       "id": "3a2a545b19adad5b515190fa"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Making my AI Better YAY Day 82",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg69b3/making_my_ai_better_yay_day_82/",
+      "published": "2026-10-26",
+      "excerpt": "I made the AI be able to traverse the mountainous terrain and now the AI can combat better. I am also making a new map with a new gamemode. submitted by /u/OkCupcake4034 [link] [comments]",
+      "creator": "/u/OkCupcake4034 https://www.reddit.com/user/OkCupcake4034",
+      "id": "38d9f5f1dec1e062870cc306"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2474,6 +2612,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/do-you-need-a-developer/4958475.rss",
       "id": "32b30523592474e26292dc72"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for playtesters for my Roguelite PvE FPS",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg9dzy/looking_for_playtesters_for_my_roguelite_pve_fps/",
+      "published": "2026-10-26",
+      "excerpt": "Looking for playtesters for my Roguelite PvE FPS. Send me your contact info via DMs or leave it as a comment in the thread please. Game is in late stages of development but I need opinions. Game premise is pretty simple. You start at 0 ELO and each game you win awards you with ELO depending on your ",
+      "creator": "/u/M3lonade https://www.reddit.com/user/M3lonade",
+      "id": "317c4c71ba98632e6a287f71"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2629,6 +2778,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Made a spell pvp game where you have to draw the symbol to cast it",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2w8o/made_a_spell_pvp_game_where_you_have_to_draw_the/",
+      "published": "2026-10-26",
+      "excerpt": "I've been working on a wizard dueling game and the main thing I wanted was for casting to feel like actual magic instead of just pressing a button. So every spell has its own symbol and you have to draw it with your wand while you're fighting. It makes fights feel a lot more intense, because you hav",
+      "creator": "/u/Big-Imagination-53 https://www.reddit.com/user/Big-Imagination-53",
+      "id": "0e5cfdaf87de1d1fc70b488e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Thumbnail and icon tips?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi2mi/thumbnail_and_icon_tips/",
       "published": "2026-10-26",
@@ -2658,6 +2818,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/infinite-level-0-backrooms-generation-20/4958251.rss",
       "id": "07a7ff7886986379155deed8"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Dust 2 Snowball Fight in our FPS Game!!!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg9n32/dust_2_snowball_fight_in_our_fps_game/",
+      "published": "2026-10-26",
+      "excerpt": "I have been seeing this all over Instagram, people playing in modded CS 1.6 lobbies, and it looked beautiful, so we brought it into our fps game!!! its actaully so fun LOL i love it so much 😄 ❤️ we added three skins for snowballs and im also going to add a dnacing santas elf too submitted by /u/Oppo",
+      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
+      "id": "02c93095a0c3e68630127da7"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8175,170 +8346,6 @@
       "excerpt": "submitted by /u/gneethbappyer1 [link] [comments]",
       "creator": "/u/gneethbappyer1 https://www.reddit.com/user/gneethbappyer1",
       "id": "78336ff15c3a3c9fe27886c8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "New account stuck in \"Account locked\" loop - CAPTCHA always fails, password reset returns \"Unknown Error\"",
-      "url": "https://devforum.roblox.com/t/new-account-stuck-in-account-locked-loop-captcha-always-fails-password-reset-returns-unknown-error/4949668",
-      "published": "2026-10-22",
-      "excerpt": "I made a new alt account yesterday and it got hit with the “Account locked - suspicious activity” screen within about an hour. Since then I’ve tried every recovery option Roblox offers and every single one fails at the last step, so I’m completely stuck. What happens: Logging in shows the “Account l",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-account-stuck-in-account-locked-loop-captcha-always-fails-password-reset-returns-unknown-error/4949668.rss",
-      "id": "76fd08116a1cfcea3c4bc1d8"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Test] New Home Layout With More Built-in Utility",
-      "url": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387",
-      "published": "2026-10-22",
-      "excerpt": "Key Takeaways Starting tomorrow, we’re testing a new Home layout on large landscape screens. A right-side pane keeps avatars visible and opens game details without leaving the grid. Eligible players see it automatically, and you don’t need to act. Hi Creators, Starting tomorrow, we’re running an exp",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387.rss",
-      "id": "71595b205afc7a33993ccdcf"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "New gameplay from INFECTED: STATION ZERO 🧟",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcr1bu/new_gameplay_from_infected_station_zero/",
-      "published": "2026-10-22",
-      "excerpt": "I’ve been polishing the UI, effects and combat a lot lately. Here’s a short gameplay clip showing some of the latest changes. Would love to hear what you think. submitted by /u/Severe-Sandwich9792 [link] [comments]",
-      "creator": "/u/Severe-Sandwich9792 https://www.reddit.com/user/Severe-Sandwich9792",
-      "id": "6ff952bc494638ae8403a046"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "The portal transition in my Void Lord boss fight",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcpkaw/the_portal_transition_in_my_void_lord_boss_fight/",
-      "published": "2026-10-22",
-      "excerpt": "The boss throws the player through a portal before the fight continues in a different arena. How does the pacing feel? Would you shorten the transition, or keep the build-up before the fight resumes? submitted by /u/Superb-Gap7952 [link] [comments]",
-      "creator": "/u/Superb-Gap7952 https://www.reddit.com/user/Superb-Gap7952",
-      "id": "6ce812a0c66e5f8189d1290e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Cannot upload Thumbnails to Experience Detail page",
-      "url": "https://devforum.roblox.com/t/cannot-upload-thumbnails-to-experience-detail-page/4950455",
-      "published": "2026-10-22",
-      "excerpt": "I cannot upload any thumbnails of any format, size, or quality to the Experience Details page of my games, as I will receive an error saying the “Upload image failed”. This happens on all browsers This happens for all image formats This happens for all image file sizes This happens for all image siz",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cannot-upload-thumbnails-to-experience-detail-page/4950455.rss",
-      "id": "6a3f21da406f6e7ff5854f2f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Plugin] Output+ | Script channels, colored outputs, rich text support and more",
-      "url": "https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229",
-      "published": "2026-10-22",
-      "excerpt": "Output+ | Output+ Lite What is Output+? Ever added a few prints to debug something, pressed Play, and watched them disappear into everything else your game was logging? Well, not anymore! Output+ is a plugin that helps you focus on the logs you actually need. It has a dockable output window with scr",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229.rss",
-      "id": "6724ec37b58726f497b1071b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Text chat not working between clients in Studio's Server & Client Testing.",
-      "url": "https://devforum.roblox.com/t/text-chat-not-working-between-clients-in-studios-server-client-testing/4949601",
-      "published": "2026-10-22",
-      "excerpt": "I can’t get text chat to work properly in Roblox Studio’s Server & Client Testing, it used to work awhile ago but not anymore. CanUsersChatAsync between the two clients returns false and I have no idea how to change it. I’ve tried to reinstall, disable beta features, adjust my comm. settings, and ot",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/text-chat-not-working-between-clients-in-studios-server-client-testing/4949601.rss",
-      "id": "62caf56b09fbc45e7ad4406e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "CorePackages UIBlox AppStyleProvider:178 error shown in client console in every experience",
-      "url": "https://devforum.roblox.com/t/corepackages-uiblox-appstyleprovider178-error-shown-in-client-console-in-every-experience/4950275",
-      "published": "2026-10-22",
-      "excerpt": "Since approximately October 15, 2026, the following error appears in the developer console of the Roblox client in every experience I join. It also appears in Roblox Studio on startup. Steps to reproduce: Launch the Roblox client. Join any experience. Open the developer console (F9). Check the Clien",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/corepackages-uiblox-appstyleprovider178-error-shown-in-client-console-in-every-experience/4950275.rss",
-      "id": "604655419c8ef56439d11000"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Error 279 \"No response from server\" when joining our experience, mobile and console only for now",
-      "url": "https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-and-console-only-for-now/4949104",
-      "published": "2026-10-22",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-and-console-only-for-now/4949104.rss",
-      "id": "5fb6561d1e7dfffd0dd917a8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "High quality snowy mountains",
-      "url": "https://devforum.roblox.com/t/high-quality-snowy-mountains/4949137",
-      "published": "2026-10-22",
-      "excerpt": "Some snowy mountains I worked on today ! Was thinking about adding a small cabin to it I don’t know tbh ?? What are your thoughts?? Leave some feedback and reviews below it is always appreciated! 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/high-quality-snowy-mountains/4949137.rss",
-      "id": "5e1a0f21e815fb253ca5e4c5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Tutorial is killing my game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq3zm/tutorial_is_killing_my_game/",
-      "published": "2026-10-22",
-      "excerpt": "Released my game the other day, general response from players I talked to was really positive and they loved the gameplay and theme. I noticed a lot of players would join, get stuck on the tutorial then rage quit and some players are downvoting the game because of it. I'm worried because the rating ",
-      "creator": "/u/Wildeofthewest https://www.reddit.com/user/Wildeofthewest",
-      "id": "5a6e3d762a5cd09354af9938"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.",
-      "url": "https://www.youtube.com/shorts/6aFu9wbY4js",
-      "published": "2026-10-22",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "5a1ca75fd6eea2adcb2c5898"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to Go About Ik Animations for R6?",
-      "url": "https://devforum.roblox.com/t/how-to-go-about-ik-animations-for-r6/4950171",
-      "published": "2026-10-22",
-      "excerpt": "I want to understand how to achieve a result similiar to this walking animation showcased here: The issue is conceptually I have no idea/experience with Ik constraints and don’t really no where to start. Ideally I can learn enough to be able to make all 4 of my different characters have a similiar w",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-go-about-ik-animations-for-r6/4950171.rss",
-      "id": "5a037b1aa187c3ea6b49bf38"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Server Authority: client CPU load alone causes rollbacks on a contact-free predicted part; each rollback costs 15–31 ms",
-      "url": "https://devforum.roblox.com/t/server-authority-client-cpu-load-alone-causes-rollbacks-on-a-contact-free-predicted-part-each-rollback-costs-15%E2%80%9331-ms/4949968",
-      "published": "2026-10-22",
-      "excerpt": "With Workspace.AuthorityMode = Server, a single predicted part that touches nothing gets rollbacks as soon as the client spends ~8 ms in a BindToSimulation callback. With no client load there are 0 rollbacks. In a real game every rollback resimulates many instances and freezes the frame, which then ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/server-authority-client-cpu-load-alone-causes-rollbacks-on-a-contact-free-predicted-part-each-rollback-costs-15%E2%80%9331-ms/4949968.rss",
-      "id": "59830defb81e6be3ff0313b6"
     }
   ]
 }

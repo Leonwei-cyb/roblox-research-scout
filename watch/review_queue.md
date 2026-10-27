@@ -8,7 +8,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
 - **[\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061)** — Public text/page, video not confirmed
-- **[Age Of Sail Progression](https://www.reddit.com/r/ROBLOXStudio/comments/1xgf0pi/age_of_sail_progression/)** — Public text/page, video not confirmed
+- **[Age Of Sail Progression](https://www.reddit.com/r/robloxgamedev/comments/1xgf0yq/age_of_sail_progression/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
@@ -22,4 +22,4 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Roblox Studio Toolbox bug](https://devforum.roblox.com/t/roblox-studio-toolbox-bug/4958630)** — Public text/page, video not confirmed
 - **[Looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xfscti/looking_for_playtesters/)** — Public text/page, video not confirmed
-- **[how do I subdivide parts like in the images?? is there a plugin that can do that?](https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/)** — Public text/page, video not confirmed
+- **[Looking for playtesters for my Roguelite PvE FPS](https://www.reddit.com/r/robloxgamedev/comments/1xg9dzy/looking_for_playtesters_for_my_roguelite_pve_fps/)** — Public text/page, video not confirmed

@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 327
+- devforum: 319
 - index-only: 15
-- reddit: 246
-- youtube: 9
+- reddit: 255
+- youtube: 8
 
 ## First-Session And Mobile
 
@@ -61,14 +61,14 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [Error 279 "No response from server" when joining our experience, mobile and console only for now](https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-and-console-only-for-now/4949104) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Animate script have problems](https://devforum.roblox.com/t/animate-script-have-problems/4949474) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Ui Saver \[FREE PLUGIN\]](https://devforum.roblox.com/t/ui-saver-free-plugin/4954867) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Animate script have problems test with measurable pass/fail.
+3. Explain WHY it matters and propose one Ui Saver \[FREE PLUGIN\] test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

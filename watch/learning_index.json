@@ -144,20 +144,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949104:1",
-      "url": "https://devforum.roblox.com/t/error-279-no-response-from-server-when-joining-our-experience-mobile-and-console-only-for-now/4949104",
-      "title": "Error 279 \"No response from server\" when joining our experience, mobile and console only for now",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949474:1",
       "url": "https://devforum.roblox.com/t/animate-script-have-problems/4949474",
       "title": "Animate script have problems",
@@ -451,21 +437,6 @@
         "UI and menus"
       ],
       "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950387:1",
-      "url": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387",
-      "title": "[Test] New Home Layout With More Built-in Utility",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "UI and menus",
-        "player feedback and marketing"
-      ],
-      "score": 7,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -917,20 +888,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xcq3zm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq3zm/tutorial_is_killing_my_game/",
-      "title": "Tutorial is killing my game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xcu58e",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
       "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
@@ -1169,6 +1126,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xgdqv1",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgdqv1/is_this_hudui_good/",
+      "title": "Is this HUD/UI good?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4949307:1",
       "url": "https://devforum.roblox.com/t/concerns-about-roblox-ads-home-recommendations-and-audience-targeting/4949307",
       "title": "Concerns About Roblox Ads, Home Recommendations, and Audience Targeting",
@@ -1195,32 +1166,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949601:1",
-      "url": "https://devforum.roblox.com/t/text-chat-not-working-between-clients-in-studios-server-client-testing/4949601",
-      "title": "Text chat not working between clients in Studio's Server & Client Testing.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949968:1",
-      "url": "https://devforum.roblox.com/t/server-authority-client-cpu-load-alone-causes-rollbacks-on-a-contact-free-predicted-part-each-rollback-costs-15%E2%80%9331-ms/4949968",
-      "title": "Server Authority: client CPU load alone causes rollbacks on a contact-free predicted part; each rollback costs 15–31 ms",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4950083:1",
       "url": "https://devforum.roblox.com/t/super-freeze-tag-feedback/4950083",
       "title": "Super Freeze Tag - Feedback",
@@ -1229,32 +1174,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950171:1",
-      "url": "https://devforum.roblox.com/t/how-to-go-about-ik-animations-for-r6/4950171",
-      "title": "How to Go About Ik Animations for R6?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950229:1",
-      "url": "https://devforum.roblox.com/t/plugin-output-script-channels-colored-outputs-rich-text-support-and-more/4950229",
-      "title": "[Plugin] Output+ | Script channels, colored outputs, rich text support and more",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2988,6 +2907,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg85o4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg85o4/dinosaurs_and_models_for_my_sci_fi_dinosaur_game/",
+      "title": "Dinosaurs and models for my sci fi dinosaur game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg8kb0",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg8kb0/error_501_cant_find_the_scripts_causing_it/",
       "title": "Error 501, cant find the scripts causing it.",
@@ -3014,17 +2946,29 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949137:1",
-      "url": "https://devforum.roblox.com/t/high-quality-snowy-mountains/4949137",
-      "title": "High quality snowy mountains",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
+      "key": "reddit:1xgetcu",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgetcu/im_building_a_destinyborderlandsinspired_looter/",
+      "title": "I'm building a Destiny/Borderlands-inspired looter shooter. What do you think so far?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
       "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
+        "building and purchases"
       ],
-      "score": 4,
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgf3h6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgf3h6/how_do_i_model_massproduced_endless_suburban/",
+      "title": "How do i model mass-produced endless suburban sprawl",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3322,20 +3266,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xcpkaw",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcpkaw/the_portal_transition_in_my_void_lord_boss_fight/",
-      "title": "The portal transition in my Void Lord boss fight",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xcq2fz",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq2fz/game_getting_0_home_recommendations_2_weeks_after/",
       "title": "Game getting 0 home recommendations 2 weeks after release",
@@ -3554,17 +3484,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:6aFu9wbY4js",
-      "url": "https://www.youtube.com/shorts/6aFu9wbY4js",
-      "title": "head’s off. gear’s on. the Hollow Horseman bundle is available now on marketplace.",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-22",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "youtube:Flb3G3BbOfY",
       "url": "https://www.youtube.com/watch?v=Flb3G3BbOfY",
       "title": "My Roblox Game SUCKED... So I Fixed EVERYTHING!",
@@ -3695,19 +3614,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950275:1",
-      "url": "https://devforum.roblox.com/t/corepackages-uiblox-appstyleprovider178-error-shown-in-client-console-in-every-experience/4950275",
-      "title": "CorePackages UIBlox AppStyleProvider:178 error shown in client console in every experience",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4532,6 +4438,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959783:1",
+      "url": "https://devforum.roblox.com/t/my-large-sized-npc-stutters-when-they-pathfind-because-their-humanoidrootpart-is-large/4959783",
+      "title": "My Large Sized NPC stutters when they pathfind because their HumanoidRootPart is large",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc743t",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc743t/experienced_modeler_for_hire/",
       "title": "Experienced Modeler For Hire",
@@ -4579,19 +4498,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xcr1bu",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcr1bu/new_gameplay_from_infected_station_zero/",
-      "title": "New gameplay from INFECTED: STATION ZERO 🧟",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5299,6 +5205,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg69b3",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg69b3/making_my_ai_better_yay_day_82/",
+      "title": "Making my AI Better YAY Day 82",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg9dzy",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg9dzy/looking_for_playtesters_for_my_roguelite_pve_fps/",
+      "title": "Looking for playtesters for my Roguelite PvE FPS",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xgeczl",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgeczl/atf54f_akumu/",
       "title": "ATF-54F \"Akumu\"",
@@ -5316,6 +5248,19 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgf0pi/age_of_sail_progression/",
       "title": "Age Of Sail Progression",
       "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgf0yq",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgf0yq/age_of_sail_progression/",
+      "title": "Age Of Sail Progression",
+      "source": "reddit-robloxdev",
       "published": "2026-10-27",
       "kind": "reddit",
       "signals": [
@@ -5380,17 +5325,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949668:1",
-      "url": "https://devforum.roblox.com/t/new-account-stuck-in-account-locked-loop-captcha-always-fails-password-reset-returns-unknown-error/4949668",
-      "title": "New account stuck in \"Account locked\" loop - CAPTCHA always fails, password reset returns \"Unknown Error\"",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949874:1",
       "url": "https://devforum.roblox.com/t/neversaynever-has-anyone-seen-a-slime-like-this-on-roblox/4949874",
       "title": "NeverSayNever: has anyone seen a slime like this on Roblox?",
@@ -5405,17 +5339,6 @@
       "key": "devforum:4950163:1",
       "url": "https://devforum.roblox.com/t/anyone-else-had-a-counter-notice-denied-with-zero-explanation/4950163",
       "title": "Anyone else had a counter-notice denied with zero explanation?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950455:1",
-      "url": "https://devforum.roblox.com/t/cannot-upload-thumbnails-to-experience-detail-page/4950455",
-      "title": "Cannot upload Thumbnails to Experience Detail page",
       "source": "roblox-devforum-latest",
       "published": "2026-10-22",
       "kind": "devforum",
@@ -6524,6 +6447,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959810:1",
+      "url": "https://devforum.roblox.com/t/custom-enum-management-window/4959810",
+      "title": "Custom Enum Management Window",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xcjfrv",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcjfrv/a_roblox_game_where_you_automate_by_coding_in/",
       "title": "A roblox game where you automate by coding in Python",
@@ -7272,6 +7206,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg2w8o",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2w8o/made_a_spell_pvp_game_where_you_have_to_draw_the/",
+      "title": "Made a spell pvp game where you have to draw the symbol to cast it",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg3mwk",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3mwk/check_out_my_roblox_creation/",
       "title": "Check out My Roblox creation",
@@ -7338,11 +7283,55 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg9n32",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg9n32/dust_2_snowball_fight_in_our_fps_game/",
+      "title": "Dust 2 Snowball Fight in our FPS Game!!!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xgaum3",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgaum3/jump_to_jump_higher/",
       "title": "Jump To Jump Higher",
       "source": "reddit-robloxstudio",
       "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgbkd9",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgbkd9/orbitus_m1872_uswen_officer_revolver/",
+      "title": "Orbitus M.1872 (Uswen Officer Revolver)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xggpn1",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xggpn1/any_new_devslooking/",
+      "title": "Any New Devs/Looking",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgguyy",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgguyy/making_a_neon_arena_fps_game/",
+      "title": "Making a neon arena FPS game!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
       "kind": "reddit",
       "signals": [],
       "score": 2,
