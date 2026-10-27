@@ -1197,19 +1197,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4950368:1",
-      "url": "https://devforum.roblox.com/t/soundseekovertimeasync-seektime-number-duration-number/4950368",
-      "title": "Sound:SeekOverTimeAsync( seekTime : number, duration : number )",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4950480:1",
       "url": "https://devforum.roblox.com/t/studio-beta-text-to-speech-asset-creation-support-in-lua/4950480",
       "title": "[Studio Beta] Text-to-Speech Asset Creation Support in Lua",
@@ -4467,6 +4454,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959969:1",
+      "url": "https://devforum.roblox.com/t/is-high-quality-chromatic-abberation-effect-possible-in-roblox/4959969",
+      "title": "Is High-Quality \"Chromatic Abberation\" effect possible in roblox?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc743t",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc743t/experienced_modeler_for_hire/",
       "title": "Experienced Modeler For Hire",
@@ -5286,6 +5286,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xgldlr",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgldlr/gameplay_too_boring/",
+      "title": "gameplay too boring?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xglnqh",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xglnqh/looking_for_team_matemates_to_make_roblox_games/",
+      "title": "looking for team mate/mates to make roblox games with ai",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "economy and income"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4949286:1",
       "url": "https://devforum.roblox.com/t/what-is-robloxs-limit-with-uploading-textures-containing-blood/4949286",
       "title": "What is roblox's limit with uploading textures containing blood?",
@@ -5355,28 +5381,6 @@
       "key": "devforum:4950587:1",
       "url": "https://devforum.roblox.com/t/roblox-client-randomly-crashing-for-no-reason/4950587",
       "title": "Roblox Client Randomly Crashing for No Reason",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4951009:1",
-      "url": "https://devforum.roblox.com/t/automaticcanvassize-does-not-properly-account-for-uipaddingpaddingtop-with-uigridlayout/4951009",
-      "title": "AutomaticCanvasSize does not properly account for UIPadding.PaddingTop with UIGridLayout",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4951240:1",
-      "url": "https://devforum.roblox.com/t/add-a-shadow-material/4951240",
-      "title": "Add a Shadow Material",
       "source": "roblox-devforum-latest",
       "published": "2026-10-22",
       "kind": "devforum",
@@ -6463,12 +6467,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xcjfrv",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcjfrv/a_roblox_game_where_you_automate_by_coding_in/",
-      "title": "A roblox game where you automate by coding in Python",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-22",
-      "kind": "reddit",
+      "key": "devforum:4959964:1",
+      "url": "https://devforum.roblox.com/t/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-%D1%81-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%BA-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8/4959964",
+      "title": "Проблема с загрузкой картинок в России",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
