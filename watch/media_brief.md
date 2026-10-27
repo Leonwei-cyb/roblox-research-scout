@@ -7,17 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[I've been working on a project for 5 months now and I'm starting to get overwhelmed](https://www.reddit.com/r/robloxgamedev/comments/1xgoosk/ive_been_working_on_a_project_for_5_months_now/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: Its a 3008 remake. I wanted to mix it with Project Lazarus and 3008 since theyre both cool games. 5 months into the project, I had just finished the 3008 part without an item system. I am an amateur dev and I sometimes use ai to help me. An
+- **[I built a Deepwoken-inspired combat system for Roblox (parry, guardbreak, i-frames)](https://www.reddit.com/r/robloxgamedev/comments/1xgpkky/i_built_a_deepwokeninspired_combat_system_for/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: Hey everyone, I'm Fr1zy. I've been building a combat system for Roblox inspired by Deepwoken's feel, and this is a duel between me and a friend. Everything is server-authoritative, so hits, blocks and parries are all decided on the server a
+- **[I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: https://preview.redd.it/5vav10ajvzxh1.png?width=1402&format=png&auto=webp&s=6a7c306602a025ea5255e2e4533464d30d193d85 Hey Please review my game even for a minute it helps the solo dev community alot! Hey everyone! I've been building a Roblox
 
 ## Roblox Updates
 
-- **[\[SHOWCASE / FEEDBACK\] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)](https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Hi everyone! I’d like to share an overview of a project I’ve been developing for Roblox Studio: Anima Suite. About Me & Why I Created This I’m an independent developer and still fairly new to the Roblox ecosystem. I’ve been learning Roblox 
-- **[Migration to Luau problem](https://devforum.roblox.com/t/migration-to-luau-problem/4960101)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: I know you guys are still proceeding with this but take a look at this lil tiny bug on iOS firefox. The player and the like count icons are slightly duplicating as you can see on their edges; while the like count icon has edge duplicating o
-- **[Check Out My Build](https://devforum.roblox.com/t/check-out-my-build/4960133)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Hi, I just wanted to show my building. I am mainly a scripter, but I decided to get into some other things in Studio. I’m only a beginner to developing games and I don’t have any games yet. Here are some photos of the build. I know it’s not
+- **[Request for Roblox Staff Assistance — Group Ownership Recovery After Owner Account Termination](https://devforum.roblox.com/t/request-for-roblox-staff-assistance-%E2%80%94-group-ownership-recovery-after-owner-account-termination/4960171)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Hi Roblox Staff, I’m reaching out again because I’m still having trouble recovering access to my Roblox group, i think games (Group ID: 458266917). I previously posted about this issue on the Developer Forum, and Roblox Staff member Hooksmi
+- **[What should I add?](https://devforum.roblox.com/t/what-should-i-add/4960156)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: I am making this UI for my friend : What else should I add (or modify) ? 3 posts - 2 participants Read full topic
 
 ---
 

@@ -1442,7 +1442,11 @@
     "5061ea65d7f5fb1a7586a2c4",
     "0d8ef1c5731e13e86c8434ef",
     "786fd0fd7d032bb07799a441",
-    "df174a5321e1314b29878fe4"
+    "df174a5321e1314b29878fe4",
+    "840b243708aa1b18c936415f",
+    "1a420d02bb54ce6e062fd24f",
+    "7a4a3243d6e028edff78cd0f",
+    "e767838e124174536e2b0b0d"
   ],
   "items": [
     {
@@ -1500,6 +1504,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895.rss",
       "id": "ea9eca9f7a33d691529582dd"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I built a Deepwoken-inspired combat system for Roblox (parry, guardbreak, i-frames)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpkky/i_built_a_deepwokeninspired_combat_system_for/",
+      "published": "2026-10-27",
+      "excerpt": "Hey everyone, I'm Fr1zy. I've been building a combat system for Roblox inspired by Deepwoken's feel, and this is a duel between me and a friend. Everything is server-authoritative, so hits, blocks and parries are all decided on the server and the client only sends input. It has directional blocking,",
+      "creator": "/u/Latter_Vehicle_4569 https://www.reddit.com/user/Latter_Vehicle_4569",
+      "id": "e767838e124174536e2b0b0d"
     },
     {
       "source": "reddit-robloxdev",
@@ -1703,10 +1718,22 @@
       "title": "My Games Are All Failed",
       "url": "https://devforum.roblox.com/t/my-games-are-all-failed/4960014",
       "published": "2026-10-27",
-      "excerpt": "Hello. I created the lot of Games, but that all are failed. I cant understand that why my game fail So, I want to understand that how to get the game success Please Teach me how to get game success My english is bad, sorry. Edit: Im creating the new game so maybe i publish new game here 1 post - 1 p",
+      "excerpt": "Hello. I created the lot of Games, but that all are failed. I cant understand that why my game fail So, I want to understand that how to get the game success Please Teach me how to get game success My english is bad, sorry. Edit: Im creating the new game so maybe i publish new game here 3 posts - 3 ",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-games-are-all-failed/4960014.rss",
       "id": "88e068e65ca5c9c6d46691dd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Request for Roblox Staff Assistance — Group Ownership Recovery After Owner Account Termination",
+      "url": "https://devforum.roblox.com/t/request-for-roblox-staff-assistance-%E2%80%94-group-ownership-recovery-after-owner-account-termination/4960171",
+      "published": "2026-10-27",
+      "excerpt": "Hi Roblox Staff, I’m reaching out again because I’m still having trouble recovering access to my Roblox group, i think games (Group ID: 458266917). I previously posted about this issue on the Developer Forum, and Roblox Staff member Hooksmith responded that I should contact Roblox Customer Support i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/request-for-roblox-staff-assistance-%E2%80%94-group-ownership-recovery-after-owner-account-termination/4960171.rss",
+      "id": "840b243708aa1b18c936415f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1730,6 +1757,17 @@
       "excerpt": "I made monster model in blender and imported him into Roblox Studio via FBX. I watched a tutorial by Gnomecode , but it was for a model already made in Roblox Studio, and in result the humanoid name wouldn't show up above my character. And when I tried tinkering it ended up making the models animati",
       "creator": "/u/sir_hmmmmmmms https://www.reddit.com/user/sir_hmmmmmmms",
       "id": "7aeebda782d230d8c402947c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/",
+      "published": "2026-10-27",
+      "excerpt": "https://preview.redd.it/5vav10ajvzxh1.png?width=1402&format=png&auto=webp&s=6a7c306602a025ea5255e2e4533464d30d193d85 Hey Please review my game even for a minute it helps the solo dev community alot! Hey everyone! I've been building a Roblox game called Rescue the Cat and it just launched. I'm a solo",
+      "creator": "/u/robloxdevs4n https://www.reddit.com/user/robloxdevs4n",
+      "id": "7a4a3243d6e028edff78cd0f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1865,7 +1903,7 @@
       "title": "Sci fi map building help",
       "url": "https://devforum.roblox.com/t/sci-fi-map-building-help/4959912",
       "published": "2026-10-27",
-      "excerpt": "I recently started making a city map for a game and i wanted it to have a sci-fi war torn feel.How does it look so far?What are some things i can add to make it better? 2 posts - 2 participants Read full topic",
+      "excerpt": "I recently started making a city map for a game and i wanted it to have a sci-fi war torn feel.How does it look so far?What are some things i can add to make it better? 3 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sci-fi-map-building-help/4959912.rss",
       "id": "49f649e92240e8520c30a02a"
@@ -1950,6 +1988,18 @@
       "id": "2837a228fd2d04e07eae7ac6"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What should I add?",
+      "url": "https://devforum.roblox.com/t/what-should-i-add/4960156",
+      "published": "2026-10-27",
+      "excerpt": "I am making this UI for my friend : What else should I add (or modify) ? 3 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-should-i-add/4960156.rss",
+      "id": "1a420d02bb54ce6e062fd24f"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1967,7 +2017,7 @@
       "title": "Migration to Luau problem",
       "url": "https://devforum.roblox.com/t/migration-to-luau-problem/4960101",
       "published": "2026-10-27",
-      "excerpt": "I know you guys are still proceeding with this but take a look at this lil tiny bug on iOS firefox. The player and the like count icons are slightly duplicating as you can see on their edges; while the like count icon has edge duplicating on the bottom, the player count icon has it on the top 1 post",
+      "excerpt": "I know you guys are still proceeding with this but take a look at this lil tiny bug on iOS firefox. The player and the like count icons are slightly duplicating as you can see on their edges; while the like count icon has edge duplicating on the bottom, the player count icon has it on the top 2 post",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/migration-to-luau-problem/4960101.rss",
       "id": "0d8ef1c5731e13e86c8434ef"
@@ -8324,53 +8374,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/is-play-time-with-multiple-places-a-losing-battle/4950632.rss",
       "id": "c99504770b84226693cde5fa"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Silence warnings from debug.profileend()",
-      "url": "https://devforum.roblox.com/t/silence-warnings-from-debugprofileend/4949332",
-      "published": "2026-10-22",
-      "excerpt": "Title says it all, either silence or add an option to silence debug.profileend() causing warnings for attempting to stop the current thread. parallel lua is currently quite buggy with microprofiler profiling, which is understandable considering core communication. this issue is that when that happen",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/silence-warnings-from-debugprofileend/4949332.rss",
-      "id": "c87baaeab88925141e114228"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Body Asset always fails upload validation with \"Unknown Error\"",
-      "url": "https://devforum.roblox.com/t/body-asset-always-fails-upload-validation-with-unknown-error/4950209",
-      "published": "2026-10-22",
-      "excerpt": "When attempting to publish an Avatar asset (first step for getting it up on Marketplace), the validation always fails with “Unknown Error”. This happens 100% of the time on this asset, and has been occurring since 21st Oct 2026. I’ve attempted to set up the Publish settings on an alternative Model i",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/body-asset-always-fails-upload-validation-with-unknown-error/4950209.rss",
-      "id": "c743afe0c69d36d5b65d3119"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Backrooms game Showcase, Feedback, and Suggestions!",
-      "url": "https://devforum.roblox.com/t/backrooms-game-showcase-feedback-and-suggestions/4949102",
-      "published": "2026-10-22",
-      "excerpt": "Over the past week, I’ve been working on the 3rd game in my Backrooms game series called “Lost Reality” The game is heavily inspired by The Complex series and is intended to be a walking simulator where you peacefully explore liminal spaces. I have around 50% of the game finished so far, and I wante",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/backrooms-game-showcase-feedback-and-suggestions/4949102.rss",
-      "id": "c73e43ef597116605b346dd0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox game feedback pleaseeee",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcq0ep/roblox_game_feedback_pleaseeee/",
-      "published": "2026-10-22",
-      "excerpt": "Guys so I made this game called Linkrush connect the numbers on Roblox also it's not an original concept. It's my first game and I would like to know what can I improve in this and I did use ai a lot for this. I need your genuine feedback on how to improve this please help me out. Thank you. submitt",
-      "creator": "/u/Lili23232300 https://www.reddit.com/user/Lili23232300",
-      "id": "c31063d6dbd9e1b91630beb4"
     }
   ]
 }

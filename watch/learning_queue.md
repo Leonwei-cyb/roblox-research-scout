@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 312
+- devforum: 311
 - index-only: 12
-- reddit: 265
+- reddit: 266
 - youtube: 8
 
 ## First-Session And Mobile
@@ -27,7 +27,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Building And Purchases
 
 - [\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Looking for a blender animator, visual effects artist, and/or model/map builder](https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Economy And Income
 
@@ -41,8 +41,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Animation And Audio
 
+- [Looking for a blender animator, visual effects artist, and/or model/map builder](https://www.reddit.com/r/robloxgamedev/comments/1xd3wbw/looking_for_a_blender_animator_visual_effects/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 - [I made a creature-collecting game where your pets mutate and you build floating islands. Looking for feedback!Texte :](https://www.reddit.com/r/robloxgamedev/comments/1xfhjfq/i_made_a_creaturecollecting_game_where_your_pets/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
-- [I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
@@ -51,8 +51,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
+- [I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Roblox developers: how do you currently balance your game’s economy and progression?](https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [First game, a cozy Halloween pumpkin-carving clicker: is the first 5 minutes fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdorso/first_game_a_cozy_halloween_pumpkincarving/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 
