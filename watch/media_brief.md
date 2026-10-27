@@ -7,12 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[PvE Shooter has struggled to gain traction - any advice?](https://www.reddit.com/r/robloxgamedev/comments/1xgn26n/pve_shooter_has_struggled_to_gain_traction_any/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: My game, Cats vs. Aliens is running ads for the second time but I just can’t seem to capture player retention. The first run 1.5 months ago had obvious churn signals which I’ve tried to address, stuff such as difficulty and economy. I have 
-- **[Looking for people to test my experience](https://www.reddit.com/r/robloxgamedev/comments/1xgn0jy/looking_for_people_to_test_my_experience/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: Hi, I just released a new project on Roblox that I've been working on and off for months. It's a project that is inspired by games I loved when I was a kid and just wanted to add my own twist to it. It would be awesome if I could get feedba
-- **[The Sovereign Games (RPG)](https://www.reddit.com/r/robloxgamedev/comments/1xgnhit/the_sovereign_games_rpg/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: Hi all, Just needing to post this one here. I’ve been a huge Hunger Games fan since forever and I have been lacking to play anything similar. The closest I got was back on 2016 or earlier which all hunger games similar games was a huge deal
+- **[I've been working on a project for 5 months now and I'm starting to get overwhelmed](https://www.reddit.com/r/robloxgamedev/comments/1xgoosk/ive_been_working_on_a_project_for_5_months_now/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: Its a 3008 remake. I wanted to mix it with Project Lazarus and 3008 since theyre both cool games. 5 months into the project, I had just finished the 3008 part without an item system. I am an amateur dev and I sometimes use ai to help me. An
+
+## Roblox Updates
+
+- **[\[SHOWCASE / FEEDBACK\] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)](https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Hi everyone! I’d like to share an overview of a project I’ve been developing for Roblox Studio: Anima Suite. About Me & Why I Created This I’m an independent developer and still fairly new to the Roblox ecosystem. I’ve been learning Roblox 
+- **[Migration to Luau problem](https://devforum.roblox.com/t/migration-to-luau-problem/4960101)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: I know you guys are still proceeding with this but take a look at this lil tiny bug on iOS firefox. The player and the like count icons are slightly duplicating as you can see on their edges; while the like count icon has edge duplicating o
+- **[Check Out My Build](https://devforum.roblox.com/t/check-out-my-build/4960133)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Hi, I just wanted to show my building. I am mainly a scripter, but I decided to get into some other things in Studio. I’m only a beginner to developing games and I don’t have any games yet. Here are some photos of the build. I know it’s not
 
 ---
 

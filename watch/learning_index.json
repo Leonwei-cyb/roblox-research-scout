@@ -130,6 +130,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4960088:1",
+      "url": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088",
+      "title": "[SHOWCASE / FEEDBACK] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xep609",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/",
       "title": "I need advice on player retention",
@@ -919,15 +934,29 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xcu58e",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
-      "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-22",
-      "kind": "reddit",
+      "key": "devforum:4960101:1",
+      "url": "https://devforum.roblox.com/t/migration-to-luau-problem/4960101",
+      "title": "Migration to Luau problem",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
       "signals": [
-        "first-session and mobile",
-        "genres and successful loops"
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4960133:1",
+      "url": "https://devforum.roblox.com/t/check-out-my-build/4960133",
+      "title": "Check Out My Build",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -3508,19 +3537,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949081:1",
-      "url": "https://devforum.roblox.com/t/release-notes-for-744/4949081",
-      "title": "Release Notes for 744",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949101:1",
       "url": "https://devforum.roblox.com/t/rendering-bug-please-oh-my-god-help/4949101",
       "title": "Rendering bug please oh my god help",
@@ -3547,19 +3563,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949756:1",
-      "url": "https://devforum.roblox.com/t/critical-appeals-wrongly-closed-by-ai-moderation-claiming-non-response-despite-email-replies/4949756",
-      "title": "[CRITICAL] Appeals wrongly closed by AI moderation claiming non-response despite email replies",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4949888:1",
       "url": "https://devforum.roblox.com/t/the-horror-mansion-remastered/4949888",
       "title": "The Horror Mansion [REMASTERED]",
@@ -3568,19 +3571,6 @@
       "kind": "devforum",
       "signals": [
         "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949895:1",
-      "url": "https://devforum.roblox.com/t/keybind-for-muting/4949895",
-      "title": "Keybind for muting",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5336,6 +5326,19 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgoosk",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgoosk/ive_been_working_on_a_project_for_5_months_now/",
+      "title": "I've been working on a project for 5 months now and I'm starting to get overwhelmed",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"

@@ -57,18 +57,18 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Player Feedback And Marketing
 
 - [512x512 UGC accessory texture renders at noticeably lower resolution in Roblox Player than in Studio](https://devforum.roblox.com/t/512x512-ugc-accessory-texture-renders-at-noticeably-lower-resolution-in-roblox-player-than-in-studio/4957229) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [I need advice on player retention](https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [\[SHOWCASE / FEEDBACK\] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)](https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 
+- [I need advice on player retention](https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick](https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Animate script have problems](https://devforum.roblox.com/t/animate-script-have-problems/4949474) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Animate script have problems test with measurable pass/fail.
+3. Explain WHY it matters and propose one How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

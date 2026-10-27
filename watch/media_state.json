@@ -1438,7 +1438,11 @@
     "91a7c9f8d95c8e32d9562897",
     "0d2a0ec0d33b88d5e9e12f5f",
     "3094b40e9c7da64be8853b54",
-    "101e5b4277a2db383720ea73"
+    "101e5b4277a2db383720ea73",
+    "5061ea65d7f5fb1a7586a2c4",
+    "0d8ef1c5731e13e86c8434ef",
+    "786fd0fd7d032bb07799a441",
+    "df174a5321e1314b29878fe4"
   ],
   "items": [
     {
@@ -1496,6 +1500,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895.rss",
       "id": "ea9eca9f7a33d691529582dd"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I've been working on a project for 5 months now and I'm starting to get overwhelmed",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgoosk/ive_been_working_on_a_project_for_5_months_now/",
+      "published": "2026-10-27",
+      "excerpt": "Its a 3008 remake. I wanted to mix it with Project Lazarus and 3008 since theyre both cool games. 5 months into the project, I had just finished the 3008 part without an item system. I am an amateur dev and I sometimes use ai to help me. Any advice? Also in the midst of working on an inventory syste",
+      "creator": "/u/vertisariuum https://www.reddit.com/user/vertisariuum",
+      "id": "df174a5321e1314b29878fe4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1717,6 +1732,18 @@
       "id": "7aeebda782d230d8c402947c"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[SHOWCASE / FEEDBACK] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)",
+      "url": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088",
+      "published": "2026-10-27",
+      "excerpt": "Hi everyone! I’d like to share an overview of a project I’ve been developing for Roblox Studio: Anima Suite. About Me & Why I Created This I’m an independent developer and still fairly new to the Roblox ecosystem. I’ve been learning Roblox Studio for about a year and a half, and while I haven’t publ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088.rss",
+      "id": "786fd0fd7d032bb07799a441"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1796,6 +1823,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/is-high-quality-chromatic-abberation-effect-possible-in-roblox/4959969.rss",
       "id": "5303427b59bb3dc01f1c23f1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Check Out My Build",
+      "url": "https://devforum.roblox.com/t/check-out-my-build/4960133",
+      "published": "2026-10-27",
+      "excerpt": "Hi, I just wanted to show my building. I am mainly a scripter, but I decided to get into some other things in Studio. I’m only a beginner to developing games and I don’t have any games yet. Here are some photos of the build. I know it’s not the best build but for a first big build for me, I’m pretty",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/check-out-my-build/4960133.rss",
+      "id": "5061ea65d7f5fb1a7586a2c4"
     },
     {
       "source": "reddit-robloxdev",
@@ -1920,6 +1959,18 @@
       "excerpt": "Hi, I just released a new project on Roblox that I've been working on and off for months. It's a project that is inspired by games I loved when I was a kid and just wanted to add my own twist to it. It would be awesome if I could get feedback on the overall game experience :) Thank you in advance! s",
       "creator": "/u/VityyOne https://www.reddit.com/user/VityyOne",
       "id": "101e5b4277a2db383720ea73"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Migration to Luau problem",
+      "url": "https://devforum.roblox.com/t/migration-to-luau-problem/4960101",
+      "published": "2026-10-27",
+      "excerpt": "I know you guys are still proceeding with this but take a look at this lil tiny bug on iOS firefox. The player and the like count icons are slightly duplicating as you can see on their edges; while the like count icon has edge duplicating on the bottom, the player count icon has it on the top 1 post",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/migration-to-luau-problem/4960101.rss",
+      "id": "0d8ef1c5731e13e86c8434ef"
     },
     {
       "source": "reddit-robloxdev",
@@ -8320,53 +8371,6 @@
       "excerpt": "Guys so I made this game called Linkrush connect the numbers on Roblox also it's not an original concept. It's my first game and I would like to know what can I improve in this and I did use ai a lot for this. I need your genuine feedback on how to improve this please help me out. Thank you. submitt",
       "creator": "/u/Lili23232300 https://www.reddit.com/user/Lili23232300",
       "id": "c31063d6dbd9e1b91630beb4"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
-      "published": "2026-10-22",
-      "excerpt": "Concept part: Hi! So, I got tired of the front page being the same sloptype games like those “Steal a ___” , \"Grow a __\" clones, so I made a game where you browse ~1,100 (still gathering more) smaller Roblox games and jump straight into them. Trend/cashgrab clones are hidden by default (you can choo",
-      "creator": "/u/Sorry_Adhesiveness49 https://www.reddit.com/user/Sorry_Adhesiveness49",
-      "id": "bfc582fb9af107f63a0a6aec"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Keybind for muting",
-      "url": "https://devforum.roblox.com/t/keybind-for-muting/4949895",
-      "published": "2026-10-22",
-      "excerpt": "When using voice chat, it’s often very annoying to move my mouse up (sometimes impossible without using the menu) to unmute or mute, and having a keybind to toggle whether you’re muted (for desktop clients) would be incredibly helpful and just a good quality of life feature. The keybind could be som",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/keybind-for-muting/4949895.rss",
-      "id": "bc3cfb1dea74d3d7f5b06352"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[CRITICAL] Appeals wrongly closed by AI moderation claiming non-response despite email replies",
-      "url": "https://devforum.roblox.com/t/critical-appeals-wrongly-closed-by-ai-moderation-claiming-non-response-despite-email-replies/4949756",
-      "published": "2026-10-22",
-      "excerpt": "Our group, Age of Rebellion , is currently experiencing a critical issue where experience appeals are automatically closed due to system errors with email processing, preventing reviews from Staff. Despite submitting multiple appeals and replying directly to every support email received, the automat",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/critical-appeals-wrongly-closed-by-ai-moderation-claiming-non-response-despite-email-replies/4949756.rss",
-      "id": "bc205ae5983ad9dc2e459e5a"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Release Notes for 744",
-      "url": "https://devforum.roblox.com/t/release-notes-for-744/4949081",
-      "published": "2026-10-22",
-      "excerpt": "Hey all, Studio 744 has landed! Here’s the release notes… create.roblox.com Introduced in version 744 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 744 IgnisRBX 12 posts - 11 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/release-notes-for-744/4949081.rss",
-      "id": "bb320047065b1cda6eea273f"
     }
   ]
 }
