@@ -1448,7 +1448,16 @@
     "7a4a3243d6e028edff78cd0f",
     "e767838e124174536e2b0b0d",
     "55dd6a9af1efbdb9aaaaf2fe",
-    "144ac567fe92bb45d096913a"
+    "144ac567fe92bb45d096913a",
+    "4e71b95ad5109a3a107068dd",
+    "03ece262803fc07b97054bd8",
+    "4540e0b23dc6a75d8de8114a",
+    "7662b674ac0b376886d753a1",
+    "a98d5a0e17d9ab3e500680e3",
+    "c5e50c83f33014ff9f4ec95c",
+    "8231146f0a01e487357ab6e1",
+    "b91bd8eb20b65cdfcdd48123",
+    "f1a27f5cd2e9b456ea59b042"
   ],
   "items": [
     {
@@ -1472,6 +1481,17 @@
       "excerpt": "reqs: claude max 5-20x, vision / we are currently 2 and 2 opens slots available / shared revenue when game makes income i have several different game projects in development, ranging from card games to sword-fighting duel games, but i haven’t released any of them because i don’t think they’re good e",
       "creator": "/u/brynoo5 https://www.reddit.com/user/brynoo5",
       "id": "faa68a88038b08d63ca2df60"
+    },
+    {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "please don’t feed the anomalies. tonight, The Mimic is saving room for you in The Hollow.",
+      "url": "https://www.youtube.com/shorts/Uy6W4Xbc3MM",
+      "published": "2026-10-27",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "f1a27f5cd2e9b456ea59b042"
     },
     {
       "source": "reddit-robloxdev",
@@ -1579,6 +1599,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Visual Shader Graph Editor for Custom Materials and Rendering Effects",
+      "url": "https://devforum.roblox.com/t/visual-shader-graph-editor-for-custom-materials-and-rendering-effects/4960281",
+      "published": "2026-10-27",
+      "excerpt": "As a Roblox developer, it is currently too hard to create custom rendering effects and materials that go beyond the capabilities exposed by roblox’s existing material system, lighting settings, and post-processing effects. many visual techniques that are relatively straightforward in other game engi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/visual-shader-graph-editor-for-custom-materials-and-rendering-effects/4960281.rss",
+      "id": "c5e50c83f33014ff9f4ec95c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Gears do not appear in Currently Wearing",
       "url": "https://devforum.roblox.com/t/gears-do-not-appear-in-currently-wearing/4959726",
       "published": "2026-10-27",
@@ -1631,6 +1663,18 @@
       "excerpt": "submitted by /u/Dry_Plankton6642 [link] [comments]",
       "creator": "/u/Dry_Plankton6642 https://www.reddit.com/user/Dry_Plankton6642",
       "id": "ac6a3ad5cfe724559bd41976"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Union disappear with Package",
+      "url": "https://devforum.roblox.com/t/union-disappear-with-package/4960283",
+      "published": "2026-10-27",
+      "excerpt": "Every time I update a package with union, the union disappear. It’s not normal to waste so much time and have these kinds of problems on such a large platform as Roblox. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/union-disappear-with-package/4960283.rss",
+      "id": "a98d5a0e17d9ab3e500680e3"
     },
     {
       "source": "reddit-robloxdev",
@@ -1738,6 +1782,17 @@
       "id": "840b243708aa1b18c936415f"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Hidden thumbnails and no visitors",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgrwae/hidden_thumbnails_and_no_visitors/",
+      "published": "2026-10-27",
+      "excerpt": "I recently made an obby game on Roblox called “Road to Celestia”. Since it’s still new, Roblox restricts it to “16+”, which makes it even harder for players to even play the game. To make things worse, they even hide my thumbnails. I created some with AI and they are correctly uploaded on the studio",
+      "creator": "/u/Heavenly_Principl3s https://www.reddit.com/user/Heavenly_Principl3s",
+      "id": "8231146f0a01e487357ab6e1"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1782,6 +1837,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088.rss",
       "id": "786fd0fd7d032bb07799a441"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Flickering Particle Flipbook with custom Layout",
+      "url": "https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299",
+      "published": "2026-10-27",
+      "excerpt": "The flipbook flickers when played within a custom layout 6x6 Video: System Information: CPU: Intel Core i3-10100 16 GB RAM GPU: RX 5700 XT 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299.rss",
+      "id": "7662b674ac0b376886d753a1"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1889,6 +1956,18 @@
       "id": "5061ea65d7f5fb1a7586a2c4"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What am im doing wrong with my game that it gets so little players?",
+      "url": "https://devforum.roblox.com/t/what-am-im-doing-wrong-with-my-game-that-it-gets-so-little-players/4960325",
+      "published": "2026-10-27",
+      "excerpt": "Hello guys, I have made a game in style of retrostudio called RO2016 , which is a 2015-2017 roblox simulation with a mostly accurate website/mobile/console ui and studio (includes filtering compliant lua scripting editor), groups and bunch more. The game has launched in july without scripting and bu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-am-im-doing-wrong-with-my-game-that-it-gets-so-little-players/4960325.rss",
+      "id": "4e71b95ad5109a3a107068dd"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1933,6 +2012,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-i-weld-a-ragdoll-properly/4959768.rss",
       "id": "48c3ce660f78bc6688f053d4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Project Chroma - custom character bodies",
+      "url": "https://devforum.roblox.com/t/project-chroma-custom-character-bodies/4960316",
+      "published": "2026-10-27",
+      "excerpt": "Hi all, I’ve been working on a sci-fi project in Roblox for a while, and one part of it is a character that doesn’t use Roblox’s Humanoid at all. The body, its contact with the ground and the animation are all written from scratch for this game. I tried uploading the stair clip but somehow Roblox is",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/project-chroma-custom-character-bodies/4960316.rss",
+      "id": "4540e0b23dc6a75d8de8114a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2008,7 +2099,7 @@
       "title": "What should I add?",
       "url": "https://devforum.roblox.com/t/what-should-i-add/4960156",
       "published": "2026-10-27",
-      "excerpt": "I am making this UI for my friend : What else should I add (or modify) ? 5 posts - 3 participants Read full topic",
+      "excerpt": "I am making this UI for my friend : What else should I add (or modify) ? 6 posts - 4 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/what-should-i-add/4960156.rss",
       "id": "1a420d02bb54ce6e062fd24f"
@@ -2104,6 +2195,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594.rss",
       "id": "07f9596bb95e2e9596191373"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Experience receiving near-zero Home Recommendation impressions despite being publicly available and acquiring players through advertising.",
+      "url": "https://devforum.roblox.com/t/experience-receiving-near-zero-home-recommendation-impressions-despite-being-publicly-available-and-acquiring-players-through-advertising/4960322",
+      "published": "2026-10-27",
+      "excerpt": "My experience, Funniest Answer Wins , was released publicly on 20 October 2026. Despite acquiring players through Roblox Sponsored Ads, the experience has received approximately zero Home Recommendation impressions . Steps to reproduce: Open Funniest Answer Wins in Creator Dashboard. Navigate to Acq",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/experience-receiving-near-zero-home-recommendation-impressions-despite-being-publicly-available-and-acquiring-players-through-advertising/4960322.rss",
+      "id": "03ece262803fc07b97054bd8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5357,6 +5460,18 @@
       "id": "bae8392040a5845fe86939da"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QYV84dnNvTk14dlJfTHlHLTlHdWpEc1RXelVBNVdTNzZtcUFvMURuaFR2clo4VTE0QnhtbjNfUFZ0bUdRTk40eHN3NGhLajg2SFVxVUJR?oc=5",
+      "published": "2026-10-24",
+      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "b91bd8eb20b65cdfcdd48123"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -8272,111 +8387,6 @@
       "excerpt": "",
       "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
       "id": "d9b8e918b6a7fae84bf138e6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to animate rigs with objects meshs",
-      "url": "https://devforum.roblox.com/t/how-to-animate-rigs-with-objects-meshs/4950322",
-      "published": "2026-10-22",
-      "excerpt": "What do you want to achieve? Keep it simple and clear! I want to achieve animate riga and with objects, parts, meshs, tools. What is the issue? Include screenshots / videos if possible! I really don’tknow how to do this. What solutions have you tried so far? Did you look for solutions on the Creator",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-animate-rigs-with-objects-meshs/4950322.rss",
-      "id": "d80d30411f25d4f9fb6031f1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Rendering bug please oh my god help",
-      "url": "https://devforum.roblox.com/t/rendering-bug-please-oh-my-god-help/4949101",
-      "published": "2026-10-22",
-      "excerpt": "After studio has updated, ive found it bugs out in different ways depending on which graphics option i use (they all completely hinder me making anything) Vulkan: Blacks out half of my options or makes it so i cant move the camera around Direct3D11 and OpenGL: Extremely laggy Ive tried clearing out ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/rendering-bug-please-oh-my-god-help/4949101.rss",
-      "id": "d72373da6fdfe9c7ea98289a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Horror farming game",
-      "url": "https://devforum.roblox.com/t/horror-farming-game/4949345",
-      "published": "2026-10-22",
-      "excerpt": "Hello there! I am a solo developer and I just started making a game heavily inspired by “Cryptid Farm” I got the majority of it down but I suck at sprite sheets and can’t seem to animate properly. If you guys are interested, give it a try. Nothing I make is that pay to win crap, but there are purcha",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/horror-farming-game/4949345.rss",
-      "id": "d4c9f43b7117a2e8863f0c67"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Batteries appear to defy gravity (Please actually help this isint a joke post)",
-      "url": "https://devforum.roblox.com/t/batteries-appear-to-defy-gravity-please-actually-help-this-isint-a-joke-post/4951242",
-      "published": "2026-10-22",
-      "excerpt": "I made these battery models a while back nearing the start of my project and just recently (maybe with the addition of experimental fluid forces) they have started to float. 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/batteries-appear-to-defy-gravity-please-actually-help-this-isint-a-joke-post/4951242.rss",
-      "id": "d3d1e835e1bdb75a22f14ec2"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How To Generate Roblox Materials With Claude AI - Full Guide - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUDNqak1mX3A0MWo0TXZleFkzVDduWmU2QXNyXzVWZHA2dlZFT0NLT3VCVFkxSERmMnNFSktIQllteDFfRDMtT0Q4Um9BU205VmI0V0hn?oc=5",
-      "published": "2026-10-22",
-      "excerpt": "How To Generate Roblox Materials With Claude AI - Full Guide YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "d28d982ce05690d4639760b6"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "outerwear shirts/pants",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc83dc/outerwear_shirtspants/",
-      "published": "2026-10-22",
-      "excerpt": "how do i set these blender models in roblox studio into outerwear (shirts/pants) i have the models imported onto the baseplate, they look fine. the legs and torso + arms dont work when i try to make them into accessories. the avatar arms/legs just clip right through the clothing while they dont move",
-      "creator": "/u/FutureChemist4373 https://www.reddit.com/user/FutureChemist4373",
-      "id": "d0e6039d15110d94791c01f5"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Do anime roblox devs really create all of the assets by hand?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc93ve/do_anime_roblox_devs_really_create_all_of_the/",
-      "published": "2026-10-22",
-      "excerpt": "Title basically. I’m wondering, how do games like those anime tower defense games (and others) do it for the accessories, hairs, faces and clothing that the anime characters wear? Do they really produce everything by hand? I also saw a couple of anime games that had a decent amount of players but ha",
-      "creator": "/u/AttitudeEither7472 https://www.reddit.com/user/AttitudeEither7472",
-      "id": "d0913f4af3e8e39041f63941"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Technologically impressive simcade FPS game, needs review before GA",
-      "url": "https://devforum.roblox.com/t/technologically-impressive-simcade-fps-game-needs-review-before-ga/4951094",
-      "published": "2026-10-22",
-      "excerpt": "I’m making a dual-genre game of simulation shooters like Arma and Squad, with arcade shooters like Battlefield and MW. Right now it’s in its very first steps, need advice from more experienced people to guide me towards making the next best thing with impressive advancements in technology with what ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/technologically-impressive-simcade-fps-game-needs-review-before-ga/4951094.rss",
-      "id": "ccee97c3380484c09907c228"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Searching for animator",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcgohn/searching_for_animator/",
-      "published": "2026-10-22",
-      "excerpt": "I need an animator for a SCPF project. I can pay in both robux and money via PayPal, preferably PayPal, dm me if you're interested with examples. Focused on movement animations with regular R6 characters, I will send more details in DMs. Thanks for reading. submitted by /u/Random-doggo12 [link] [com",
-      "creator": "/u/Random-doggo12 https://www.reddit.com/user/Random-doggo12",
-      "id": "cb1c50bfc66fdd4bb0cfb585"
     }
   ]
 }
