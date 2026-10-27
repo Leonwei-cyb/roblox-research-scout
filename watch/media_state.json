@@ -1446,7 +1446,9 @@
     "840b243708aa1b18c936415f",
     "1a420d02bb54ce6e062fd24f",
     "7a4a3243d6e028edff78cd0f",
-    "e767838e124174536e2b0b0d"
+    "e767838e124174536e2b0b0d",
+    "55dd6a9af1efbdb9aaaaf2fe",
+    "144ac567fe92bb45d096913a"
   ],
   "items": [
     {
@@ -1854,6 +1856,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "krOS - REALISTIC Roblox OS [PC only]",
+      "url": "https://devforum.roblox.com/t/kros-realistic-roblox-os-pc-only/4960270",
+      "published": "2026-10-27",
+      "excerpt": "Introduction Roblox krOS krOS is a realistic OS simulation that has: - A process manager - A VFS - Applications - Libraries to make coding easier (in root/lib) - Windowing - GUI - Bugs (it's still in active development) - And more! There is currently no way to make a script... krOS is a realistic OS",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/kros-realistic-roblox-os-pc-only/4960270.rss",
+      "id": "55dd6a9af1efbdb9aaaaf2fe"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Is High-Quality \"Chromatic Abberation\" effect possible in roblox?",
       "url": "https://devforum.roblox.com/t/is-high-quality-chromatic-abberation-effect-possible-in-roblox/4959969",
       "published": "2026-10-27",
@@ -1994,10 +2008,22 @@
       "title": "What should I add?",
       "url": "https://devforum.roblox.com/t/what-should-i-add/4960156",
       "published": "2026-10-27",
-      "excerpt": "I am making this UI for my friend : What else should I add (or modify) ? 3 posts - 2 participants Read full topic",
+      "excerpt": "I am making this UI for my friend : What else should I add (or modify) ? 5 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/what-should-i-add/4960156.rss",
       "id": "1a420d02bb54ce6e062fd24f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I can't use studio properly. (Templates/Online Assets/Experiences won't load)",
+      "url": "https://devforum.roblox.com/t/i-cant-use-studio-properly-templatesonline-assetsexperiences-wont-load/4960219",
+      "published": "2026-10-27",
+      "excerpt": "Hi! I’ve tried uninstalling and re-installing studio and no luck I can’t ‘Open templates’ I can’t insert assets from myself or from the toolbox that are free 07:33:41.367 [Roblox][sabuiltin_StartPage.rbxm.StartPage.Src.Network.DiscoverReachStatus] DiscoverReachStatus experienced an error for univers",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-cant-use-studio-properly-templatesonline-assetsexperiences-wont-load/4960219.rss",
+      "id": "144ac567fe92bb45d096913a"
     },
     {
       "source": "reddit-robloxdev",
@@ -8351,29 +8377,6 @@
       "excerpt": "I need an animator for a SCPF project. I can pay in both robux and money via PayPal, preferably PayPal, dm me if you're interested with examples. Focused on movement animations with regular R6 characters, I will send more details in DMs. Thanks for reading. submitted by /u/Random-doggo12 [link] [com",
       "creator": "/u/Random-doggo12 https://www.reddit.com/user/Random-doggo12",
       "id": "cb1c50bfc66fdd4bb0cfb585"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Crazy Washing Machine",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcs4ms/crazy_washing_machine/",
-      "published": "2026-10-22",
-      "excerpt": "but roblox studio not boring. submitted by /u/GgSuclces99 [link] [comments]",
-      "creator": "/u/GgSuclces99 https://www.reddit.com/user/GgSuclces99",
-      "id": "caee485e8b20c9d199bd9bba"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Is play time with multiple places a losing battle?",
-      "url": "https://devforum.roblox.com/t/is-play-time-with-multiple-places-a-losing-battle/4950632",
-      "published": "2026-10-22",
-      "excerpt": "I have a pool game, with a lobby and a game place. Idea is you join the lobby, teleported to play the game, back to lobby and loop that cycle. Problem is, player’s are only gonna be in the lobby for <30 seconds, and in a game for ~3-4m So everytime they leave the game place (to return to lobby) even",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/is-play-time-with-multiple-places-a-losing-battle/4950632.rss",
-      "id": "c99504770b84226693cde5fa"
     }
   ]
 }
