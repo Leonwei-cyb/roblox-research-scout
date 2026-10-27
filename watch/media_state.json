@@ -1533,7 +1533,8 @@
     "749807b36f10353140daa74a",
     "ff8bdc6eb9ffffe567fde91f",
     "20d02f62b0692b6d3e8dad9d",
-    "a5ef0d4383b697d213e75d10"
+    "a5ef0d4383b697d213e75d10",
+    "041ad150375e30467de27769"
   ],
   "items": [
     {
@@ -3097,6 +3098,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594.rss",
       "id": "07f9596bb95e2e9596191373"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "AlwaysOnTop LineHandleAdornment / WireframeHandleAdornment render at 50% brightness",
+      "url": "https://devforum.roblox.com/t/alwaysontop-linehandleadornment-wireframehandleadornment-render-at-50-brightness/4961329",
+      "published": "2026-10-27",
+      "excerpt": "Since around Oct 27th @ 3 pm CET , LineHandleAdornment and WireframeHandleAdornment with AlwaysOnTop = true render at exactly half their Color3 . The same adornments with AlwaysOnTop = false render normally. Solid adornments ( Cylinder / Box / Cone ) with AlwaysOnTop = true are unaffected. It happen",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/alwaysontop-linehandleadornment-wireframehandleadornment-render-at-50-brightness/4961329.rss",
+      "id": "041ad150375e30467de27769"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8450,18 +8463,6 @@
       "excerpt": "Looking for some testers for my upcoming 5v5 hero shooter game. haven't been able to get a full lobby yet so some of the clips may seem empty. currently only available on PC as of now , let me know if you're interested!! submitted by /u/Possible-Novel2712 [link] [comments]",
       "creator": "/u/Possible-Novel2712 https://www.reddit.com/user/Possible-Novel2712",
       "id": "60aa119cc9ad52e77b9ed8e9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Automated “TextChatService API” moderation repeatedly actioning an experience whose chat is fully on TextChannels",
-      "url": "https://devforum.roblox.com/t/automated-%E2%80%9Ctextchatservice-api%E2%80%9D-moderation-repeatedly-actioning-an-experience-whose-chat-is-fully-on-textchannels/4953365",
-      "published": "2026-10-23",
-      "excerpt": "Since 17 October 2026 my experience has received four escalating automated moderation actions citing “Misusing Roblox Systems - Your experience has failed to properly implement Roblox’s TextChatService API”, even though the chat is built on TextChatService and follows the Experience Communication Gu",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/automated-%E2%80%9Ctextchatservice-api%E2%80%9D-moderation-repeatedly-actioning-an-experience-whose-chat-is-fully-on-textchannels/4953365.rss",
-      "id": "602430a9b1c2c51f6b5fcf1d"
     }
   ]
 }
