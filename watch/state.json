@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "6c15b26ba0d053eecbf63b5fc5a6cbf262b1014c",
-      "head_subject": "llama.cpp: version bump b11901 (#19311)",
+      "head": "b2137a1435033c7999385306ccdf33ec8a2a5733",
+      "head_subject": "Fix kimi cli tool-only assistant turns (#19312)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.11",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",

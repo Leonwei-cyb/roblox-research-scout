@@ -4,7 +4,7 @@
 
 | Topic | Mention count | Source examples |
 |---|---:|---|
-| 3D / art | 40 | [Looking for Roblox map builders](https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/); [I got a 7-day suspension for my bullet texture, why?](https://devforum.roblox.com/t/i-got-a-7-day-suspension-for-my-bullet-texture-why/4958698) |
+| 3D / art | 41 | [I'm building a Destiny/Borderlands inspired looter shooter. What do you thin](https://www.reddit.com/r/ROBLOXStudio/comments/1xge28k/im_building_a_destinyborderlands_inspired_looter/); [Looking for Roblox map builders](https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/) |
 | Animation / feel | 24 | [Been working on making the creatures in my Roblox game feel more alive. How'](https://www.reddit.com/r/ROBLOXStudio/comments/1xg0s4k/been_working_on_making_the_creatures_in_my_roblox/); [Viewmodel animation lag](https://devforum.roblox.com/t/viewmodel-animation-lag/4957799) |
 | UI / UX | 20 | [The Hollow - Two stacked UIs making closing one of them more tricky](https://devforum.roblox.com/t/the-hollow-two-stacked-uis-making-closing-one-of-them-more-tricky/4957801); [How would you fix this mobile UI?](https://www.reddit.com/r/ROBLOXStudio/comments/1xg5wgm/how_would_you_fix_this_mobile_ui/) |
 | Pets / collection | 13 | [can we start a petition to ban brainrot posts from this sub?](https://www.reddit.com/r/ROBLOXStudio/comments/1xfonv5/can_we_start_a_petition_to_ban_brainrot_posts/); [Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp -](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OREIzdVNrMHBiY1lubElJNG15ODZkNTdid3lXTHJFRFdia3JtVGdzdDBFQlBFNzVRNUdIeUxHYl9xOHlrbU5GVktwQUJnRWJ0aUxaQzNn?oc=5) |

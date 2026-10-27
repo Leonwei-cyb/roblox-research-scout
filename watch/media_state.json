@@ -1383,7 +1383,10 @@
     "13c192fc7178252fb33c60d0",
     "f9de144d5e1bbbc504d1ea4c",
     "eee8e54762e084fa751896a9",
-    "17a5b0b57642dd2c7d559f59"
+    "17a5b0b57642dd2c7d559f59",
+    "6039c42e542fba7dff74de41",
+    "89a416b8cedd97832e08ca24",
+    "9d03d54734ebbb978d5591b5"
   ],
   "items": [
     {
@@ -1411,13 +1414,36 @@
       "id": "9e0ec0e434fc4b1158db4141"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I'm building a Destiny/Borderlands inspired looter shooter. What do you think so far?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xge28k/im_building_a_destinyborderlands_inspired_looter/",
+      "published": "2026-10-27",
+      "excerpt": "submitted by /u/Dry_Plankton6642 [link] [comments]",
+      "creator": "/u/Dry_Plankton6642 https://www.reddit.com/user/Dry_Plankton6642",
+      "id": "89a416b8cedd97832e08ca24"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio Uses All RAM, Fills up C: Drive, Crashes Computer",
+      "url": "https://devforum.roblox.com/t/studio-uses-all-ram-fills-up-c-drive-crashes-computer/4959645",
+      "published": "2026-10-27",
+      "excerpt": "My other developers and I on Refuse 2 Die have been having a great deal of difficulty using Roblox Studio for the last couple of months. We have been observing Studio taking a great deal of memory, and completely filling up our drives. This is something that was discussed here previously; however, i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-uses-all-ram-fills-up-c-drive-crashes-computer/4959645.rss",
+      "id": "6039c42e542fba7dff74de41"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
       "title": "Ads getting rejected without any reason",
       "url": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594",
       "published": "2026-10-27",
-      "excerpt": "There is an issue which occurred about 10 minutes ago where it seems like everyone’s current running ads have been rejected without a valid reason. Assuming this is a bug, this happened to one other person and me at the same time. Expected behavior The ads should continue to work as normal 1 post - ",
+      "excerpt": "There is an issue which occurred about 10 minutes ago where it seems like everyone’s current running ads have been rejected without a valid reason. Assuming this is a bug, this happened to one other person and me at the same time. Expected behavior The ads should continue to work as normal 6 posts -",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594.rss",
       "id": "07f9596bb95e2e9596191373"
@@ -1868,7 +1894,7 @@
       "title": "Plays Campaign randomly rejected?",
       "url": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562",
       "published": "2026-10-26",
-      "excerpt": "Hi everyone. Has anyone else experienced their plays campaign being rejected out of nowhere recently today? A few other people ive asked have had the same thing happen to them? 6 posts - 6 participants Read full topic",
+      "excerpt": "Hi everyone. Has anyone else experienced their plays campaign being rejected out of nowhere recently today? A few other people ive asked have had the same thing happen to them? 13 posts - 13 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562.rss",
       "id": "a08483f226bb2ad0abc0a3d0"
@@ -8308,30 +8334,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-player-for-windows-hangs-when-a-device-is-connecteddisconnected/4949292.rss",
       "id": "4494193cbb99a7fff9baf06a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Topbar error, becoming uninteractable and invisible",
-      "url": "https://devforum.roblox.com/t/topbar-error-becoming-uninteractable-and-invisible/4949516",
-      "published": "2026-10-22",
-      "excerpt": "H! I’ve been encountering this error all the time and it has been irritating me alot. Everytime i playtest games in studio, my topbar always errors like this, i had to restart the playtest numerous times just for it to work. I dont really know what causes this to happen, This happens in all games Pr",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/topbar-error-becoming-uninteractable-and-invisible/4949516.rss",
-      "id": "43cd90dfda78ee5d842e23f6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Monster Mystery - Analytics Feedback",
-      "url": "https://devforum.roblox.com/t/monster-mystery-analytics-feedback/4950052",
-      "published": "2026-10-22",
-      "excerpt": "Hi guys, currently working on a MM2 variation but with monsters. Each round there is a sherrif and a monster and the sherrif has to catch before monster eats all. I believe the core loop is repeatable and engaging enough but the stats, especially D1 and PTR are low. I’d appreciate any feedback on im",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/monster-mystery-analytics-feedback/4950052.rss",
-      "id": "3df7260379dc46e1419f83b8"
     }
   ]
 }
