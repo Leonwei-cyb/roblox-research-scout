@@ -3,13 +3,13 @@
   "api": {
     "calls": {
       "graphql": 0,
-      "rest": 23,
+      "rest": 21,
       "rest_not_modified": 0
     },
     "rate": {
       "search": {
-        "remaining": 3,
-        "reset_at": "2026-10-27T11:28:56Z"
+        "remaining": 9,
+        "reset_at": "2026-10-27T12:42:24Z"
       }
     }
   },
@@ -113,7 +113,7 @@
   },
   "feed_health": {
     "deferred": 6,
-    "ok": 23
+    "ok": 21
   },
   "feeds": [
     {
@@ -208,7 +208,7 @@
     },
     {
       "id": "pack:multi-chatgpt-web-workers:a:strict",
-      "items": 15,
+      "items": 13,
       "kind": "search",
       "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
       "status": "ok"
@@ -242,22 +242,8 @@
       "status": "ok"
     },
     {
-      "id": "pack:multi-chatgpt-web-workers:c:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:d:strict",
-      "items": 2,
-      "kind": "search",
-      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
       "detail": "GitHub rate limit for /search/repositories",
-      "id": "pack:multi-chatgpt-web-workers:d:relaxed",
+      "id": "pack:multi-chatgpt-web-workers:c:relaxed",
       "kind": "search",
       "status": "deferred"
     },
@@ -309,11 +295,11 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-10-27T11:28:54Z",
+    "finished_at": "2026-10-27T12:41:41Z",
     "outcome": "partial",
-    "run_url": "",
-    "started_at": "2026-10-27T11:28:30Z",
-    "trigger": "local"
+    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/40505729994",
+    "started_at": "2026-10-27T12:41:24Z",
+    "trigger": "schedule"
   },
   "schema": 1
 }

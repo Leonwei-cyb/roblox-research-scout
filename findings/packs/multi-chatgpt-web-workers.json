@@ -1,7 +1,7 @@
 {
   "api_calls": {
     "by_kind": {
-      "rest": 23
+      "rest": 21
     },
     "calls": [
       {
@@ -106,27 +106,17 @@
       },
       {
         "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=LLM+web+agents+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=multi-agent+coding+chat+workspace+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
         "outcome": "403",
-        "what": "GET /search/repositories?q=multi-agent+workspace+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=LLM+web+agents+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
       }
     ],
     "note": "every GitHub request this run made, pack and non-pack",
-    "total": 23
+    "total": 21
   },
   "candidates": [],
   "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
   "detail": "search stopped early: GitHub rate limit for /search/repositories",
-  "distinct_repos_found": 77,
+  "distinct_repos_found": 68,
   "known_relevant": [
     {
       "found_by": [],
@@ -219,12 +209,12 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-10-27T11:28:30Z",
+  "run_at": "2026-10-27T12:41:24Z",
   "schema": 1,
   "searches": [
     {
       "id": "pack:multi-chatgpt-web-workers:a:strict",
-      "items": 15,
+      "items": 13,
       "kind": "search",
       "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
       "status": "ok"
@@ -258,26 +248,12 @@
       "status": "ok"
     },
     {
-      "id": "pack:multi-chatgpt-web-workers:c:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:d:strict",
-      "items": 2,
-      "kind": "search",
-      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
       "detail": "GitHub rate limit for /search/repositories",
-      "id": "pack:multi-chatgpt-web-workers:d:relaxed",
+      "id": "pack:multi-chatgpt-web-workers:c:relaxed",
       "kind": "search",
       "status": "deferred"
     }
   ],
   "status": "partial",
-  "trigger": "local"
+  "trigger": "schedule"
 }
