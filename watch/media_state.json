@@ -1475,7 +1475,12 @@
     "53f5e7831a469a852f1c4acf",
     "4a5bbf46db62d9ee358be9c0",
     "b1fb74992113b8288d5e1b38",
-    "2e5cda96b63313b4a79f8e43"
+    "2e5cda96b63313b4a79f8e43",
+    "a8f64d27eb96b511b639f9be",
+    "b6b51a7fd4c77f580cae9f06",
+    "20842f41f6639d9a522c079b",
+    "42a4994646238f3559cc989c",
+    "b7a5fee3e5a59d3e08038cb2"
   ],
   "items": [
     {
@@ -1742,6 +1747,18 @@
       "id": "bcdebceb5a2aa84e16680843"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Server jobs only scheduled on max 3 threads even when more threads are allocated",
+      "url": "https://devforum.roblox.com/t/server-jobs-only-scheduled-on-max-3-threads-even-when-more-threads-are-allocated/4960500",
+      "published": "2026-10-27",
+      "excerpt": "Screenshot of a server’s microprofiler dump, it shows worker A to E, but only A to C is actually being used? Issue seems to be around for a month now, I initially thought it was a “only use more threads when demand is there” but obviously that doesn’t seem to be the case when streaming is taking 300",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/server-jobs-only-scheduled-on-max-3-threads-even-when-more-threads-are-allocated/4960500.rss",
+      "id": "b7a5fee3e5a59d3e08038cb2"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1751,6 +1768,18 @@
       "excerpt": "new ocean system underwater/swimming exploration realistic ship buoyancy and onboard station mechanics massive open-world (60,000+ studs) custom items, armor, tools, weapons, clothing dozens of ships day/night cycles with weather realistic sailing mechanics submitted by /u/Melodic-Sundae3403 [link] ",
       "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
       "id": "b6cda16d962c6e1fe660aad4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Decal ZIndex is ignored depending on camera angle – decals flip behind other decals when the camera angle changes",
+      "url": "https://devforum.roblox.com/t/decal-zindex-is-ignored-depending-on-camera-angle-%E2%80%93-decals-flip-behind-other-decals-when-the-camera-angle-changes/4960535",
+      "published": "2026-10-27",
+      "excerpt": "Overlapping decals don’t keep the order their ZIndex sets. Which decal draws on top depends on the camera’s horizontal view direction: When the camera faces more to the right , the decals render correctly. The decal with the higher ZIndex draws in front. When the camera faces more to the left , the ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/decal-zindex-is-ignored-depending-on-camera-angle-%E2%80%93-decals-flip-behind-other-decals-when-the-camera-angle-changes/4960535.rss",
+      "id": "b6b51a7fd4c77f580cae9f06"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1785,6 +1814,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/union-disappear-with-package/4960283.rss",
       "id": "a98d5a0e17d9ab3e500680e3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox client repeatadly changing from windowed to fullscreen mode and viceversa",
+      "url": "https://devforum.roblox.com/t/roblox-client-repeatadly-changing-from-windowed-to-fullscreen-mode-and-viceversa/4960565",
+      "published": "2026-10-27",
+      "excerpt": "While playing Roblox, I pressed F11 to switch Roblox from fullscreen mode to windowed. Right after, it started glitching, repeatedly changing from windowed to fullscreen mode in a very quick way. Also, the game I was playing froze. Visual evidence Caught on video, as i was recording the game as the ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-client-repeatadly-changing-from-windowed-to-fullscreen-mode-and-viceversa/4960565.rss",
+      "id": "a8f64d27eb96b511b639f9be"
     },
     {
       "source": "reddit-robloxdev",
@@ -2206,6 +2247,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Lighting issue, delayed light rendering which impacts certain gameplay",
+      "url": "https://devforum.roblox.com/t/lighting-issue-delayed-light-rendering-which-impacts-certain-gameplay/4960504",
+      "published": "2026-10-27",
+      "excerpt": "Description This video shows a very minimalistic re-production of the issue. When I dropped down, the light took a very long amount of time until it appeared. This happens with and without StreamingEnabled as well. Once the light appears, if you go too far away from it (or if the Camera goes too far",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/lighting-issue-delayed-light-rendering-which-impacts-certain-gameplay/4960504.rss",
+      "id": "42a4994646238f3559cc989c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "My Large Sized NPC stutters when they pathfind because their HumanoidRootPart is large",
       "url": "https://devforum.roblox.com/t/my-large-sized-npc-stutters-when-they-pathfind-because-their-humanoidrootpart-is-large/4959783",
       "published": "2026-10-27",
@@ -2302,6 +2355,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/pending-final-review-for-longer-than-48-hours/4960376.rss",
       "id": "214c7a47ee4ee6ce45cc6b79"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio MCP: Studio always gets 401 Unauthorized from StudioMCP (token enforcement on, Studio never passes)",
+      "url": "https://devforum.roblox.com/t/studio-mcp-studio-always-gets-401-unauthorized-from-studiomcp-token-enforcement-on-studio-never-passes/4960526",
+      "published": "2026-10-27",
+      "excerpt": "So as of today, Studio just stopped connecting to the MCP. It was working fine yesterday and I didn’t update anything. The Studio and StudioMCP files are still from Oct 22, so I’m pretty sure it’s a flag change on Roblox’s end. Claude Code and Codex both just get {“studios”: }, and Studio keeps popp",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-mcp-studio-always-gets-401-unauthorized-from-studiomcp-token-enforcement-on-studio-never-passes/4960526.rss",
+      "id": "20842f41f6639d9a522c079b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8341,65 +8406,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/iron-brainrot-worked-11-months-on-it/4952565.rss",
       "id": "192b380a2b6ae391149c9a37"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Parallax-Based Window Interiors",
-      "url": "https://devforum.roblox.com/t/parallax-based-window-interiors/4952253",
-      "published": "2026-10-23",
-      "excerpt": "As a Roblox developer, it is currently too hard to … Create a cool skyline that’s not just glass towers to the sun, or create a diverse metropolis to traverse, without using a ton of extraneous assets. Forza uses this extensively , Cyberpunk did as well, and I’m pretty sure this would go HARD in Rob",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/parallax-based-window-interiors/4952253.rss",
-      "id": "1700639bc9cdd37b75df5aa9"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "anyone know RIG 15 adaptive animation cheer asset id?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdqsut/anyone_know_rig_15_adaptive_animation_cheer_asset/",
-      "published": "2026-10-23",
-      "excerpt": "i've been searching for an hour and cant find it anywhere, i've seen lots of games use this animation but i can't find the asset id submitted by /u/asyrox404 [link] [comments]",
-      "creator": "/u/asyrox404 https://www.reddit.com/user/asyrox404",
-      "id": "16a572e99da435f80f374659"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to update an item",
-      "url": "https://devforum.roblox.com/t/unable-to-update-an-item/4951475",
-      "published": "2026-10-23",
-      "excerpt": "I was trying to update some hoodies with the newer feature where you can update UGC items.. I had to fix the LC caging for a batch of hoodies i’ve made however for some reason one of them won’t update and gives me this message shortly after i prompt an item update: I’m confused about it since its th",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-update-an-item/4951475.rss",
-      "id": "0e43f52477a777e77a73eb50"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Granfjell Mountain Resort, Norway",
-      "url": "https://devforum.roblox.com/t/granfjell-mountain-resort-norway/4952802",
-      "published": "2026-10-23",
-      "excerpt": "Currently working on a large 14k x 14k mountain resort, set high in the snowy mountains of Norway. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/granfjell-mountain-resort-norway/4952802.rss",
-      "id": "0e08852c769827e06ed87a2b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Remote Code Execution involving third party library on Roblox Client.",
-      "url": "https://devforum.roblox.com/t/remote-code-execution-involving-third-party-library-on-roblox-client/4952147",
-      "published": "2026-10-23",
-      "excerpt": "Remote Code Execution involving third party library. Due to the severity and impact of the vulnerability, the detail disclosure is only allowed for staff members to escalate this further. A private message is associated with this bug report 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/remote-code-execution-involving-third-party-library-on-roblox-client/4952147.rss",
-      "id": "0ccac9c9b76963ad49722a48"
     }
   ]
 }

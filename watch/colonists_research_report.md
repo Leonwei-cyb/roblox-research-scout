@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 597; direct candidates: 585;
+Indexed entries: 598; direct candidates: 586;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 On hold, NOT current work: Cat Magic. Their older report files are historical only.

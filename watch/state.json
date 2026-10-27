@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "5305a34e31909d8d94488860b605773ba57c9f3f",
-      "head_subject": "Update jsonpath-ng requirement from ~=1.12.0 to ~=1.13.0 (#4603)",
+      "head": "155ef07c0dd14f6d05033dc97ae4cbefc288dce7",
+      "head_subject": "i18n: Extract restock strings and add ja translations (#4608)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "8ec9ecdf692e417798169ff8d5972159078d3754",
-      "head_subject": "cmd/launch: fix OpenCode v2 launch and config parsing (#19310)",
+      "head": "f067033f9126993b6172bdfffa71a74ad693fda4",
+      "head_subject": "mlx: add LFM3 and d1 models (#19333)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.11",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
