@@ -5,32 +5,26 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Roblox Creator / Ai Development
 
-- **[How to unlock the Pumpkin King Pet in Steal an Egg 🎃 #stealanegg #roblox - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE9rbUpPSWV3ZjdZRGhjTUE4dEFSeWplVk5PZ2ljWDAtNVREVG51elJpTmNhMHU3T1RfQWR5UVJCTkRiREdJMjBrZW94MjdvWUsxUEtMYmFSRnVyNl9OWm9zRFdUanlzMDlyRHNrcg?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-27
-  - Feed excerpt: How to unlock the Pumpkin King Pet in Steal an Egg 🎃 #stealanegg #roblox TikTok
+- **[I Turned Grow a Garden Into an FPS in Roblox - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE16TGUtSnpEUUVXdkVZLVUybzViUnJVNWZkdjA5RmUyZXNwdHJ0NmN4cGdzYnp1VWwtcUhSNXlnNXBpSWlwV2hLOThwUGU3YWVlc1UtMFNR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-18
+  - Feed excerpt: I Turned Grow a Garden Into an FPS in Roblox YouTube
 
 ## Community
 
-- **[interesting](https://www.reddit.com/r/ROBLOXStudio/comments/1xh31oh/interesting/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
-  - Feed excerpt: little bug submitted by /u/3177399680 \[link\] \[comments\]
-- **[🚗💥 I made a Roblox game where cars fly over 100 speed bumps !](https://www.reddit.com/r/ROBLOXStudio/comments/1xh3uds/i_made_a_roblox_game_where_cars_fly_over_100/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
-  - Feed excerpt: Welcome to Cars vs 100 Speedbumps \[CRASH\]! 🏎️ Crazy jumps 💥 Epic crashes ⚡ Upgrade your cars 🚚 Unlock unique vehicles Which vehicle would you choose to beat all 100 speed bumps? submitted by /u/0x_akerue \[link\] \[comments\]
+- **[A look at my survival train looter shooter](https://www.reddit.com/r/ROBLOXStudio/comments/1xh4bkm/a_look_at_my_survival_train_looter_shooter/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: Hello New here and wanted to share some progress on my Roblox game. No name yet officially. I do want to disclose I’m using ai for code and store asset packs for art. Majority of art is coming from Synty and Kenny art packs as well as free 
 
 ## Roblox Updates
 
-- **[I can't access a specific experience in Roblox Studio](https://devforum.roblox.com/t/i-cant-access-a-specific-experience-in-roblox-studio/4960962)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
-- **[Plugin Screenshot Support in Studio](https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Key Takeaways You can now capture individual plugin windows in Studio by using Ctrl + Shift + 2 , selecting your window, and copying it to your clipboard. Find it in Roblox Studio via the new hotkey or quick actions! Rebind as you wish! Gre
-- **[Plugin Screenshot Support in Studio](https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927)** · Roblox updates category (availability may vary) · 2026-10-27
-  - Feed excerpt: Key Takeaways You can now capture individual plugin windows in Studio by using Ctrl + Shift + 2 , selecting your window, and copying it to your clipboard. Find it in Roblox Studio via the new hotkey or quick actions! Rebind as you wish! Gre
-- **[How would I make a game like Jujutsu Shenanigans?](https://devforum.roblox.com/t/how-would-i-make-a-game-like-jujutsu-shenanigans/4960895)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Hello everyone, this is one of my first posts here but I just thought I’d come here for some advice on scripting. How Jujutsu Shenanigans (or The Strongest Battlegrounds and Legends Battlegrounds) makes their game so responsive. I’ve been d
-- **[NPC Outfit Creator plugin](https://devforum.roblox.com/t/npc-outfit-creator-plugin/4960938)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Quick Demo: I got tired of dressing NPCs by pasting asset IDs into a HumanoidDescription one property at a time. So I built a plugin that does it the way the avatar editor does. You pick clothes from the catalog, see them on a rig, and drop
-- **[The Hollow LOLWEN Bug](https://devforum.roblox.com/t/the-hollow-lolwen-bug/4960936)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: I completed the Banana eats quest and when I joined I went throught the process of going in sixth floor and going to the room and there I claim the item I also recall seeing the badge but when I left to equip it I couldn’t find it so I chec
+- **[Highly engaged players bug](https://devforum.roblox.com/t/highly-engaged-players-bug/4961027)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: My game has been on Roblox for over 2 years and has suddenly disappeared from search, despite previously appearing without any issues. I haven’t updated or changed anything in over a year. Also, as shown in the screenshot, the requirement f
+- **[Remove or increase CanvasGroup maximum resolution](https://devforum.roblox.com/t/remove-or-increase-canvasgroup-maximum-resolution/4960987)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: As a Roblox developer, it is currently too hard to crossfade between multiple fullscreen elements because the maximum resolution of CanvasGroups is lower than my monitor’s resolution. (Yes, it’s that blurry.) If Roblox is able to address th
+- **[game:SavePlace() and AssetService:SavePlaceAsync() don't work correctly for rbxl files](https://devforum.roblox.com/t/gamesaveplace-and-assetservicesaveplaceasync-dont-work-correctly-for-rbxl-files/4961025)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: If you can game:SavePlace() or AssetService:SavePlaceAsync() in a local rbxl file, it errors saying the place id is invalid. Expected behavior What I expect to happen is the apis work as they currently do, except if its a local rbxl file, i
+- **[“Verifying you’re not a bot” fails because of http error (Code 529)](https://devforum.roblox.com/t/%E2%80%9Cverifying-you%E2%80%99re-not-a-bot%E2%80%9D-fails-because-of-http-error-code-529/4961024)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: When I try to enter a game, it directs me to verifying you are not a bot page, and when I complete it, the game throws error 529. Next time I join a game the same thing happens, infinite loop. 1 post - 1 participant Read full topic
 
 ---
 

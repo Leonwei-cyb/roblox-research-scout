@@ -1513,7 +1513,13 @@
     "9472ea1e1335882115c40cb7",
     "af98f90357ffb479a43af462",
     "facd52b4bf28cf745cc6a8cd",
-    "5ceef5d7015c77f06ea45114"
+    "5ceef5d7015c77f06ea45114",
+    "cfd07c808ba763d9beafe9fe",
+    "59ea8ea333f350244fd3e0e4",
+    "a29d62e2619e1871ba742bad",
+    "2cb8599da6c8b07bf2d76d84",
+    "7c9f9f07dcff30aaf77dfcde",
+    "0c5817cac52f291686fcf185"
   ],
   "items": [
     {
@@ -1754,6 +1760,18 @@
       "id": "d011608604117db335e6b648"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Highly engaged players bug",
+      "url": "https://devforum.roblox.com/t/highly-engaged-players-bug/4961027",
+      "published": "2026-10-27",
+      "excerpt": "My game has been on Roblox for over 2 years and has suddenly disappeared from search, despite previously appearing without any issues. I haven’t updated or changed anything in over a year. Also, as shown in the screenshot, the requirement for 250 highly engaged players remains unchecked despite show",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/highly-engaged-players-bug/4961027.rss",
+      "id": "cfd07c808ba763d9beafe9fe"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1977,6 +1995,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "“Verifying you’re not a bot” fails because of http error (Code 529)",
+      "url": "https://devforum.roblox.com/t/%E2%80%9Cverifying-you%E2%80%99re-not-a-bot%E2%80%9D-fails-because-of-http-error-code-529/4961024",
+      "published": "2026-10-27",
+      "excerpt": "When I try to enter a game, it directs me to verifying you are not a bot page, and when I complete it, the game throws error 529. Next time I join a game the same thing happens, infinite loop. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/%E2%80%9Cverifying-you%E2%80%99re-not-a-bot%E2%80%9D-fails-because-of-http-error-code-529/4961024.rss",
+      "id": "a29d62e2619e1871ba742bad"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Extreme Lag on every place, even a new empty baseplate",
       "url": "https://devforum.roblox.com/t/extreme-lag-on-every-place-even-a-new-empty-baseplate/4960619",
       "published": "2026-10-27",
@@ -2184,6 +2214,17 @@
       "id": "7de4a09f8d5308b980bbe8d2"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "A look at my survival train looter shooter",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh4bkm/a_look_at_my_survival_train_looter_shooter/",
+      "published": "2026-10-27",
+      "excerpt": "Hello New here and wanted to share some progress on my Roblox game. No name yet officially. I do want to disclose I’m using ai for code and store asset packs for art. Majority of art is coming from Synty and Kenny art packs as well as free creator store content. I’m mostly hands on with some art and",
+      "creator": "/u/t0fus0up https://www.reddit.com/user/t0fus0up",
+      "id": "7c9f9f07dcff30aaf77dfcde"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2378,6 +2419,18 @@
       "creator": "",
       "publisher": "https://www.tiktok.com",
       "id": "5ceef5d7015c77f06ea45114"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "game:SavePlace() and AssetService:SavePlaceAsync() don't work correctly for rbxl files",
+      "url": "https://devforum.roblox.com/t/gamesaveplace-and-assetservicesaveplaceasync-dont-work-correctly-for-rbxl-files/4961025",
+      "published": "2026-10-27",
+      "excerpt": "If you can game:SavePlace() or AssetService:SavePlaceAsync() in a local rbxl file, it errors saying the place id is invalid. Expected behavior What I expect to happen is the apis work as they currently do, except if its a local rbxl file, it just saves the file in place, exactly as the ctrl s shortc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/gamesaveplace-and-assetservicesaveplaceasync-dont-work-correctly-for-rbxl-files/4961025.rss",
+      "id": "59ea8ea333f350244fd3e0e4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2646,6 +2699,18 @@
       "excerpt": "this is a screenshot from patrol compton and i believe the game was made by one or few devs but the map looks detailed and massive i am thinking how can i apply this to my own map. I want it to look realistic but not necessarily 100% accurate but won't eat up all my time any help appreciated submitt",
       "creator": "/u/Only-Nail-8839 https://www.reddit.com/user/Only-Nail-8839",
       "id": "2fd350da0073479df2be303c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Remove or increase CanvasGroup maximum resolution",
+      "url": "https://devforum.roblox.com/t/remove-or-increase-canvasgroup-maximum-resolution/4960987",
+      "published": "2026-10-27",
+      "excerpt": "As a Roblox developer, it is currently too hard to crossfade between multiple fullscreen elements because the maximum resolution of CanvasGroups is lower than my monitor’s resolution. (Yes, it’s that blurry.) If Roblox is able to address this issue, it would improve my development experience because",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/remove-or-increase-canvasgroup-maximum-resolution/4960987.rss",
+      "id": "2cb8599da6c8b07bf2d76d84"
     },
     {
       "source": "reddit-robloxdev",
@@ -8380,63 +8445,6 @@
       "excerpt": "Im looking for people who need a lil project to work on that they can either do for free as a pass-time or will accept low pay as I do not have much money to my name. Im making a sci-fi styled game with both PVP and PVE but am having trouble making maps, character designs, guns, animations for movem",
       "creator": "/u/Klol_5 https://www.reddit.com/user/Klol_5",
       "id": "515b752d2c445077baef93c0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "If i learn, would i ever get a popular game?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd2okp/if_i_learn_would_i_ever_get_a_popular_game/",
-      "published": "2026-10-23",
-      "excerpt": "i like coding, i tried coding lots of times, the start was amazing, until you have to debug, i stopped everytime when i had to debug because it’d be 20 minutes of staring and its just that parent wasnt capitalized lol. i restarted lately bcs i saw a lot about studio and went “oh! This isnt dead!” Wi",
-      "creator": "/u/Lucky-Improvement-25 https://www.reddit.com/user/Lucky-Improvement-25",
-      "id": "4e4f7dbfac072a1e1d39fa7e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "seeking advice :0",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdjxj2/seeking_advice_0/",
-      "published": "2026-10-23",
-      "excerpt": "i’m very aware of the common question is, “where do I start?” all i’ve been told is to join into AI and make games and such through that. but at that point i wouldn’t even feel fulfilled, and it seems like everyone’s doing that so often that i wouldn’t be able to keep up. does anyone think it would ",
-      "creator": "/u/hatingass https://www.reddit.com/user/hatingass",
-      "id": "47e948d91a415ab2c13d9dc2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "cage meshes have validation issues with the new bundle bounds",
-      "url": "https://devforum.roblox.com/t/cage-meshes-have-validation-issues-with-the-new-bundle-bounds/4952325",
-      "published": "2026-10-23",
-      "excerpt": "bundles that use the new maximum requirements for bundles arent possible as the ugc validation tool complains about the cages being above the limit even though the cages are the exact shape and size as the bundle. making the cages smaller causes another error of the cage intersecting with the body m",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cage-meshes-have-validation-issues-with-the-new-bundle-bounds/4952325.rss",
-      "id": "47e77b9e11fd6bf4acfe0864"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hWWlvSklEQXF1VXU5dW04anVLQjlxN0NuRW9jaUstMVVnNTY4S3BWS0U5akFZd29nUWUycW9qSmNqei1Id19kaWNpcmREWnhYX2szeTJESHNuMEdvSEE?oc=5",
-      "published": "2026-10-23",
-      "excerpt": "How To Use Claude Code With An Existing Roblox Game - Full Guide YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "45b7315c6847ceb14ac15806"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "get in the mix 🎛️ Beat Battles x Hit-Boy limited time collab, live now.",
-      "url": "https://www.youtube.com/shorts/qkpBgy4860o",
-      "published": "2026-10-23",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "4210ac098b77f9af130df377"
     }
   ]
 }
