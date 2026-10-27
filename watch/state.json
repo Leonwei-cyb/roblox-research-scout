@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "08c6a4f5121ae140d3c1b5c96e3e5ae53587b54b",
+      "head": "0e1f4789406477380b267a01f3ddd50b0211e5b3",
       "head_subject": "chore: Update CHANGELOG.md and feed.xml",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.311",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
+      "release_tag": "v2.1.312",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -227,6 +227,7 @@
     "ollama/ollama",
     "pogogt12/slime-tycoon-forge",
     "public-apis/public-apis",
+    "rodeo-rbx/rodeo",
     "rust-unofficial/awesome-rust",
     "sajadh76/awesome-AI-tools",
     "scenario-labs/skills",

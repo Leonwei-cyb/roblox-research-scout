@@ -1505,7 +1505,15 @@
     "f51f553134786a4aadd206f4",
     "d942c326364e1bf37e9a62dd",
     "d412c530cbb9aa1426cb8e1d",
-    "4f99ad582a353e87b0f11054"
+    "4f99ad582a353e87b0f11054",
+    "3ce8507a2399bfdc74ce8ada",
+    "6a65536400771ab1a4c73c52",
+    "82ce8136a80eb3ff3e74b78d",
+    "b6fb08ba66ebb867a180590a",
+    "9472ea1e1335882115c40cb7",
+    "af98f90357ffb479a43af462",
+    "facd52b4bf28cf745cc6a8cd",
+    "5ceef5d7015c77f06ea45114"
   ],
   "items": [
     {
@@ -1518,6 +1526,17 @@
       "excerpt": "Any new developers wanting to set up a development team? submitted by /u/Ac-ro45 [link] [comments]",
       "creator": "/u/Ac-ro45 https://www.reddit.com/user/Ac-ro45",
       "id": "fdc7daef19a3535fffbcaa72"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "interesting",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh31oh/interesting/",
+      "published": "2026-10-27",
+      "excerpt": "little bug submitted by /u/3177399680 [link] [comments]",
+      "creator": "/u/3177399680 https://www.reddit.com/user/3177399680",
+      "id": "facd52b4bf28cf745cc6a8cd"
     },
     {
       "source": "reddit-robloxdev",
@@ -1863,6 +1882,18 @@
       "id": "b7a5fee3e5a59d3e08038cb2"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Plugin Screenshot Support in Studio",
+      "url": "https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927",
+      "published": "2026-10-27",
+      "excerpt": "Key Takeaways You can now capture individual plugin windows in Studio by using Ctrl + Shift + 2 , selecting your window, and copying it to your clipboard. Find it in Roblox Studio via the new hotkey or quick actions! Rebind as you wish! Greetings Creators You can now capture individual plugin window",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927.rss",
+      "id": "b6fb08ba66ebb867a180590a"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1895,6 +1926,17 @@
       "excerpt": "I can’t even like publish my game because I can’t see file / edit / etc submitted by /u/Weird-Fall5825 [link] [comments]",
       "creator": "/u/Weird-Fall5825 https://www.reddit.com/user/Weird-Fall5825",
       "id": "b1fb74992113b8288d5e1b38"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "🚗💥 I made a Roblox game where cars fly over 100 speed bumps !",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh3uds/i_made_a_roblox_game_where_cars_fly_over_100/",
+      "published": "2026-10-27",
+      "excerpt": "Welcome to Cars vs 100 Speedbumps [CRASH]! 🏎️ Crazy jumps 💥 Epic crashes ⚡ Upgrade your cars 🚚 Unlock unique vehicles Which vehicle would you choose to beat all 100 speed bumps? submitted by /u/0x_akerue [link] [comments]",
+      "creator": "/u/0x_akerue https://www.reddit.com/user/0x_akerue",
+      "id": "af98f90357ffb479a43af462"
     },
     {
       "source": "reddit-robloxdev",
@@ -2028,6 +2070,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "How would I make a game like Jujutsu Shenanigans?",
+      "url": "https://devforum.roblox.com/t/how-would-i-make-a-game-like-jujutsu-shenanigans/4960895",
+      "published": "2026-10-27",
+      "excerpt": "Hello everyone, this is one of my first posts here but I just thought I’d come here for some advice on scripting. How Jujutsu Shenanigans (or The Strongest Battlegrounds and Legends Battlegrounds) makes their game so responsive. I’ve been dabbling in Object Oriented Programming and such, though I’ve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-would-i-make-a-game-like-jujutsu-shenanigans/4960895.rss",
+      "id": "9472ea1e1335882115c40cb7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Studio Playtesting: Distant Objects & ForceField Effect Disappear When Switching Windows or Taking Screenshots",
       "url": "https://devforum.roblox.com/t/studio-playtesting-distant-objects-forcefield-effect-disappear-when-switching-windows-or-taking-screenshots/4959999",
       "published": "2026-10-27",
@@ -2093,6 +2147,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/request-for-roblox-staff-assistance-%E2%80%94-group-ownership-recovery-after-owner-account-termination/4960171.rss",
       "id": "840b243708aa1b18c936415f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "The Hollow LOLWEN Bug",
+      "url": "https://devforum.roblox.com/t/the-hollow-lolwen-bug/4960936",
+      "published": "2026-10-27",
+      "excerpt": "I completed the Banana eats quest and when I joined I went throught the process of going in sixth floor and going to the room and there I claim the item I also recall seeing the badge but when I left to equip it I couldn’t find it so I checked to see if I got the badge and it said I didn’t even thou",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-hollow-lolwen-bug/4960936.rss",
+      "id": "82ce8136a80eb3ff3e74b78d"
     },
     {
       "source": "reddit-robloxdev",
@@ -2234,6 +2300,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "NPC Outfit Creator plugin",
+      "url": "https://devforum.roblox.com/t/npc-outfit-creator-plugin/4960938",
+      "published": "2026-10-27",
+      "excerpt": "Quick Demo: I got tired of dressing NPCs by pasting asset IDs into a HumanoidDescription one property at a time. So I built a plugin that does it the way the avatar editor does. You pick clothes from the catalog, see them on a rig, and drop the NPC into your place. I thought to myself, why there isn",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/npc-outfit-creator-plugin/4960938.rss",
+      "id": "6a65536400771ab1a4c73c52"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Double Joystick On Studio Mobile Emulator",
       "url": "https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616",
       "published": "2026-10-27",
@@ -2288,6 +2366,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-uses-all-ram-fills-up-c-drive-crashes-computer/4959645.rss",
       "id": "6039c42e542fba7dff74de41"
+    },
+    {
+      "source": "brock-tiktok",
+      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "How to unlock the Pumpkin King Pet in Steal an Egg 🎃 #stealanegg #roblox - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rbUpPSWV3ZjdZRGhjTUE4dEFSeWplVk5PZ2ljWDAtNVREVG51elJpTmNhMHU3T1RfQWR5UVJCTkRiREdJMjBrZW94MjdvWUsxUEtMYmFSRnVyNl9OWm9zRFdUanlzMDlyRHNrcg?oc=5",
+      "published": "2026-10-27",
+      "excerpt": "How to unlock the Pumpkin King Pet in Steal an Egg 🎃 #stealanegg #roblox TikTok",
+      "creator": "",
+      "publisher": "https://www.tiktok.com",
+      "id": "5ceef5d7015c77f06ea45114"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2504,6 +2594,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "I can't access a specific experience in Roblox Studio",
+      "url": "https://devforum.roblox.com/t/i-cant-access-a-specific-experience-in-roblox-studio/4960962",
+      "published": "2026-10-27",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-cant-access-a-specific-experience-in-roblox-studio/4960962.rss",
+      "id": "3ce8507a2399bfdc74ce8ada"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "My Large Sized NPC stutters when they pathfind because their HumanoidRootPart is large",
       "url": "https://devforum.roblox.com/t/my-large-sized-npc-stutters-when-they-pathfind-because-their-humanoidrootpart-is-large/4959783",
       "published": "2026-10-27",
@@ -2632,7 +2734,7 @@
       "title": "Release Notes for 745",
       "url": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
       "published": "2026-10-27",
-      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 4 posts - 4 participants Read full topic",
+      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 9 posts - 9 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-745/4960754.rss",
       "id": "1bbc848dbd6d3c954f224a54"
@@ -8335,99 +8437,6 @@
       "excerpt": "",
       "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
       "id": "4210ac098b77f9af130df377"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My First Solo Game After Many Years!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd3k5j/my_first_solo_game_after_many_years/",
-      "published": "2026-10-23",
-      "excerpt": "Hey everyone! First, thanks for giving me the motivation to continue building this from all the cool posts about your own games, it kept me going. I am a game developer who works mostly in Unity. I've never released a full game of my own. I only have an archive full of hobby side projects. This is o",
-      "creator": "/u/TraverseNull https://www.reddit.com/user/TraverseNull",
-      "id": "3ceba22c25deab94ed9cb712"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Hope lost - Arctic tycoon 0.0.7.4 \"Looking for feedback\"",
-      "url": "https://devforum.roblox.com/t/hope-lost-arctic-tycoon-0074-looking-for-feedback/4953149",
-      "published": "2026-10-23",
-      "excerpt": "Hello devs, I have been working on a game, and I got the idea to share it here, I already got a ton of feedback from a youtuber Ii am kinda friends with, but i am looking for more, to make my game even better! Hope lost is a game about you being stuck in the arctic and just building to survive, the ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hope-lost-arctic-tycoon-0074-looking-for-feedback/4953149.rss",
-      "id": "3cd521ec07a0fc36188e2f69"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What songs should I put in my game?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdg0au/what_songs_should_i_put_in_my_game/",
-      "published": "2026-10-23",
-      "excerpt": "I need help choosing track ID's for my tower defense game, the generic ones I find are pretty bad. I need like 3 - 4 looping songs for the lobby, and one song for normal waves and one song for boss waves. Any suggestions? submitted by /u/CommercialFrame8733 [link] [comments]",
-      "creator": "/u/CommercialFrame8733 https://www.reddit.com/user/CommercialFrame8733",
-      "id": "3a535c9dccbdb3eec6a5fabd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unragdolling flings character",
-      "url": "https://devforum.roblox.com/t/unragdolling-flings-character/4953054",
-      "published": "2026-10-23",
-      "excerpt": "Hey guys! Got a problem regarding my ragdoll script, for some odd reason whenever the player unragdolls, they fling around, which I don’t want that. Is there a fix regarding it? function module.createRagdoll(character) if not character then warn(\"CHAR NOT FOUND\") return end local humanoid = characte",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unragdolling-flings-character/4953054.rss",
-      "id": "377257a67d84ba7a4a2d5401"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How would I make this generation faster (or have a BulkMoveTo like thingy m' jing)?",
-      "url": "https://devforum.roblox.com/t/how-would-i-make-this-generation-faster-or-have-a-bulkmoveto-like-thingy-m-jing/4951278",
-      "published": "2026-10-23",
-      "excerpt": "currently its like this: and heres the code (comments aren’t in the actual code): --!optimize 2 -- yea this optimize flag is unnecessary, idk what it even does but I'll include it anyways const runService = game:GetService(\"RunService\") const RootAttach = workspace.Terrain.LoadSpawn -- this is an at",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-would-i-make-this-generation-faster-or-have-a-bulkmoveto-like-thingy-m-jing/4951278.rss",
-      "id": "361427266eb422618eadcc97"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Dev's Art -- Help </3-",
-      "url": "https://devforum.roblox.com/t/devs-art-help-3/4952103",
-      "published": "2026-10-23",
-      "excerpt": "Good morning peeps :\") I need help with improving my art! Its been 23 days since I have started digital art again, I see some improvement? – but personally still suck at it. . . . 10/23/2026 --now 10/1/2026 --started Any tips or advise would greatly help me out!!! – thank you all in advance :\")! 2 p",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/devs-art-help-3/4952103.rss",
-      "id": "3613b72b9c908979b5016d67"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Progress on Phase 1 Of the Boss Fight",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdcpld/progress_on_phase_1_of_the_boss_fight/",
-      "published": "2026-10-23",
-      "excerpt": "This is just a short demo of how the boss fight will initially work. I will be adding 2 more new moves to phase 1 before moving on to phase 2, where his moves will get lot harder. Map will be changed after the boss fight is complete. Let me know your thoughts on my current progress. submitted by /u/",
-      "creator": "/u/CoffeeTime5610 https://www.reddit.com/user/CoffeeTime5610",
-      "id": "3186e00aebdcf51a0187af74"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Help Identifying TextChatService Compliance Issues in My Roblox Experience",
-      "url": "https://devforum.roblox.com/t/help-identifying-textchatservice-compliance-issues-in-my-roblox-experience/4952207",
-      "published": "2026-10-23",
-      "excerpt": "Hello everyone, My Roblox experience Hanoi Military Academy (Asset ID: 118313137950095) has been repeatedly moderated for the following reason: “Your experience has failed to properly implement Roblox’s TextChatService API.” Previously, I received a warning about not properly implementing TextChatSe",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/help-identifying-textchatservice-compliance-issues-in-my-roblox-experience/4952207.rss",
-      "id": "30f431e11a3000c8ae02add2"
     }
   ]
 }

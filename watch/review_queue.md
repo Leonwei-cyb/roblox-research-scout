@@ -21,5 +21,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Public text/page, video not confirmed
+- **[Plugin Screenshot Support in Studio](https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927)** — Public text/page, video not confirmed
 - **[Studio Playtesting: Distant Objects & ForceField Effect Disappear When Switching Windows or Taking Screenshots](https://devforum.roblox.com/t/studio-playtesting-distant-objects-forcefield-effect-disappear-when-switching-windows-or-taking-screenshots/4959999)** — Public text/page, video not confirmed
-- **[Looking for playtesters for my Roguelite PvE FPS](https://www.reddit.com/r/robloxgamedev/comments/1xg9dzy/looking_for_playtesters_for_my_roguelite_pve_fps/)** — Public text/page, video not confirmed
