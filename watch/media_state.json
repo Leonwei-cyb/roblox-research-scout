@@ -1407,7 +1407,13 @@
     "317c4c71ba98632e6a287f71",
     "2c084931f18103f3a0cffcd9",
     "fdc7daef19a3535fffbcaa72",
-    "7521472311aecac32948449e"
+    "7521472311aecac32948449e",
+    "dcf001b1014696f424118078",
+    "98c15b8271b781241628906e",
+    "ee3f434dfe3bcb888e2f44e8",
+    "4e69126fad77645499124f36",
+    "7aeebda782d230d8c402947c",
+    "a0c1cba770bc19c853b53951"
   ],
   "items": [
     {
@@ -1420,6 +1426,29 @@
       "excerpt": "Any new developers wanting to set up a development team? submitted by /u/Ac-ro45 [link] [comments]",
       "creator": "/u/Ac-ro45 https://www.reddit.com/user/Ac-ro45",
       "id": "fdc7daef19a3535fffbcaa72"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I genuinely, GENUINELY need an answer for this.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgi7mb/i_genuinely_genuinely_need_an_answer_for_this/",
+      "published": "2026-10-27",
+      "excerpt": "I seriously need an answer for this phenomenon. Not even the game owner knows what's happening. I haven't been able to sleep for 3 days straight because of this. Is this a client side issue? Is this a server issue? Just what the hell is this??? submitted by /u/Shot_Monitor796 [link] [comments]",
+      "creator": "/u/Shot_Monitor796 https://www.reddit.com/user/Shot_Monitor796",
+      "id": "ee3f434dfe3bcb888e2f44e8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio frozen in read-only mode, refuses to crash.",
+      "url": "https://devforum.roblox.com/t/studio-frozen-in-read-only-mode-refuses-to-crash/4959846",
+      "published": "2026-10-27",
+      "excerpt": "I came back after just a couple minutes of idling, and I’d entered ‘unstable connection mode’, even though the roblox game I’m in has had no network issues. Normally, I’d just restart studio, but I had changes that needed to be saved. I tried to save them, and the studio just froze up. It will not c",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-frozen-in-read-only-mode-refuses-to-crash/4959846.rss",
+      "id": "dcf001b1014696f424118078"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1490,6 +1519,17 @@
       "id": "ac6a3ad5cfe724559bd41976"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "looking for any team member/members to create games with ai",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgilf6/looking_for_any_team_membermembers_to_create/",
+      "published": "2026-10-27",
+      "excerpt": "reqs: claude max 5x 20x submitted by /u/brynoo5 [link] [comments]",
+      "creator": "/u/brynoo5 https://www.reddit.com/user/brynoo5",
+      "id": "a0c1cba770bc19c853b53951"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1500,6 +1540,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/fps-arms-colliding-with-player/4959572.rss",
       "id": "9e0ec0e434fc4b1158db4141"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[For Hire] Qd_awg | Composer | [5 Years+ of Experience]",
+      "url": "https://devforum.roblox.com/t/for-hire-qdawg-composer-5-years-of-experience/4959840",
+      "published": "2026-10-27",
+      "excerpt": "Who am I? Hello! My name is Qd_awg, I am a music composer! I use FL Studio to create Original music, fitting for anything your game needs! I have been making music for 5 years and have made Custom Tracks for many of my own projects, and for some friends! My Work! You can listen to my music here! Str",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/for-hire-qdawg-composer-5-years-of-experience/4959840.rss",
+      "id": "98c15b8271b781241628906e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1525,6 +1577,17 @@
       "id": "89a416b8cedd97832e08ca24"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Anyone knows any tutorials to make a character made in BLENDER player controlled",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/",
+      "published": "2026-10-27",
+      "excerpt": "I made monster model in blender and imported him into Roblox Studio via FBX. I watched a tutorial by Gnomecode , but it was for a model already made in Roblox Studio, and in result the humanoid name wouldn't show up above my character. And when I tried tinkering it ended up making the models animati",
+      "creator": "/u/sir_hmmmmmmms https://www.reddit.com/user/sir_hmmmmmmms",
+      "id": "7aeebda782d230d8c402947c"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1546,6 +1609,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-uses-all-ram-fills-up-c-drive-crashes-computer/4959645.rss",
       "id": "6039c42e542fba7dff74de41"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for an Experienced Roblox Developer / Builder LongTerm Partnership",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgg56c/looking_for_an_experienced_roblox_developer/",
+      "published": "2026-10-27",
+      "excerpt": "​ Hey everyone! I'm currently working on a private Roblox game project and looking for an experienced developer or builder interested in a long-term revenue-share partnership. I'm keeping the specific concept and gameplay mechanics confidential during early recruitment. Looking for: - Experienced Ro",
+      "creator": "/u/Ruiss2 https://www.reddit.com/user/Ruiss2",
+      "id": "4e69126fad77645499124f36"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8276,76 +8350,6 @@
       "excerpt": "Slimehunt | Play on Roblox If you wanna have fun, play this, and be part of the Playtesters, this is my first Roblox game, and I am incredibly happy with how it turned out. You take pictures of Slimbos, to get money, to meet quota, and then you use the excess money to buy upgrades, to get more money",
       "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
       "id": "93e4119bdc04f01f6ba00e14"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for a map builder",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcrbbr/looking_for_a_map_builder/",
-      "published": "2026-10-22",
-      "excerpt": "Hello everyone! Are there any map builders here who offer affordable commissions? Unfortunately, I have a very limited budget and cannot afford expensive builders. I'm looking for someone who could create a custom tow yard for my Roblox game . Ideally, the map should be well-organized and designed s",
-      "creator": "/u/FlohG0 https://www.reddit.com/user/FlohG0",
-      "id": "919ec5805cf761860c748b13"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aEdOMEpvV2NvYjQtMDR1WE5IdGJad3B1bDVaQ01PQnU2dXRYcnc4NjBmMlVWM1hyb2VVcHJETnFMMV9vNFR5bDh1ZmQyMnNpYkliZ0xn?oc=5",
-      "published": "2026-10-22",
-      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "820c8227385f06468a3061bf"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "First (I think) live stream in Roblox at 480p and 24fps",
-      "url": "https://devforum.roblox.com/t/first-i-think-live-stream-in-roblox-at-480p-and-24fps/4949105",
-      "published": "2026-10-22",
-      "excerpt": "I have made the first live stream (to my knowledge) in 480p and 24fps inside of Roblox. It uses a custom encoding format so Roblox can render a single frame at 2ms! It makes rendering faster, though it requires 30-60Mbps . Here’s the video, recorded on my iPhone, streaming from my PC: Live streaming",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/first-i-think-live-stream-in-roblox-at-480p-and-24fps/4949105.rss",
-      "id": "7d16c3e3635579fd859b15e0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UISim3D - A Per-Element Sub-Component for 3D Manipulation of UI",
-      "url": "https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061",
-      "published": "2026-10-22",
-      "excerpt": "As a Roblox developer, it is currently too hard to … Position, Rotate, and Skew / Scale UI Components ( Without eating your CPU, dry, no jam ) This is literally impossible atm without a bunch of SurfaceGuis, and it’s been a standard of UI across the board for years: If Roblox is able to address this",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061.rss",
-      "id": "78d5f2ac46484fbea4800e4f"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "I Tried Making a Viral Roblox Automation Game With AI - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYzl1Y2JoNUswOElmbTFTRGZ1bXBIRGZReGthaVhZNVBBcllDb2EzLUJsYkZISVpSNWF5ejNJWWNNZHhNOThaQjdEWHRaOHNUODRqWjlB?oc=5",
-      "published": "2026-10-22",
-      "excerpt": "I Tried Making a Viral Roblox Automation Game With AI YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "787223946b4691bbcf6790b2"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Legion titan model for our Titanfall 2 Roblox project",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcwnum/legion_titan_model_for_our_titanfall_2_roblox/",
-      "published": "2026-10-22",
-      "excerpt": "submitted by /u/gneethbappyer1 [link] [comments]",
-      "creator": "/u/gneethbappyer1 https://www.reddit.com/user/gneethbappyer1",
-      "id": "78336ff15c3a3c9fe27886c8"
     }
   ]
 }

@@ -11,8 +11,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Saved source coverage
 
 - devforum: 319
-- index-only: 15
-- reddit: 255
+- index-only: 13
+- reddit: 257
 - youtube: 8
 
 ## First-Session And Mobile
@@ -37,7 +37,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Ui And Menus
 
 - [Feedback on Avakit’s UI and outfit discovery workflow](https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
-- [UISim3D - A Per-Element Sub-Component for 3D Manipulation of UI](https://devforum.roblox.com/t/uisim3d-a-per-element-sub-component-for-3d-manipulation-of-ui/4951061) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [Ui Saver \[FREE PLUGIN\]](https://devforum.roblox.com/t/ui-saver-free-plugin/4954867) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
@@ -46,8 +46,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## World And Visual Design
 
+- [Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 - [I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio](https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [What a good monitor for 3d animation/rendering? D](https://www.reddit.com/r/ROBLOXStudio/comments/1xebrtp/what_a_good_monitor_for_3d_animationrendering_d/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 
@@ -62,13 +62,13 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Tools And Performance
 
 - [Animate script have problems](https://devforum.roblox.com/t/animate-script-have-problems/4949474) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Ui Saver \[FREE PLUGIN\]](https://devforum.roblox.com/t/ui-saver-free-plugin/4954867) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [\[Studio & Client\] Opening a place with a crafted .wav sound terminates Studio/Client (0xC00000FD)](https://devforum.roblox.com/t/studio-client-opening-a-place-with-a-crafted-wav-sound-terminates-studioclient-0xc00000fd/4954966) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Ui Saver \[FREE PLUGIN\] test with measurable pass/fail.
+3. Explain WHY it matters and propose one \[Studio & Client\] Opening a place with a crafted .wav sound terminates Studio/Client (0xC00000FD) test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

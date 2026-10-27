@@ -65,8 +65,8 @@ Account provenance: [https://gnomecode.com/about](https://gnomecode.com/about)
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/@GnomeCode) — author website; direct posts: public videos; channel ID not captured
 
-**Collected media leads:** 0 matched metadata records.
-- None verified in currently collected public feeds.
+**Collected media leads:** 1 matched metadata records.
+- [Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/) — public source mention — authorship NOT verified · 2026-10-27
 
 ## BlueRain — developer visual builds
 
