@@ -5,36 +5,50 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Build / 3D Examples
+
+- **[Updating My DREAM GAME!](https://www.youtube.com/watch?v=WaYEOwv42_o)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-10-27
+
 ## Roblox Creator / Steal An Egg
 
-- **[Break and Steal An Egg Update New Zone! #roblox #breakandstealanegg #new #update #zone - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UbG9vRDU3UTR2Q1hpNWVtNjdkbzNwdUJsZGQwOFNnZUVaa0Y1d01kYUQzMTlqLU0yN1hGT0V6Q081UzhsLXdhcEJXblE2Q0RIeFZxNnV3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-25
-  - Feed excerpt: Break and Steal An Egg Update New Zone! #roblox #breakandstealanegg #new #update #zone Instagram
+- **[NEW INDEX HALLOWEEN EGGS IN STEAL AN EGG 🥚 🎃 #roblox #stealanegg #robloxgames #steal #egg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsdzJCUWVwd1V2aE14ZDJjTENBUjZlNURIQlQtbTdsc1Bnay1QUnQ1WFJWSWRZUkVSbEFqTXQ3VW5rcDJhcjMybWZMdnhYV0thZzJ6RTVB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-18
+  - Feed excerpt: NEW INDEX HALLOWEEN EGGS IN STEAL AN EGG 🥚 🎃 #roblox #stealanegg #robloxgames #steal #egg Instagram
 
 ## Community
 
-- **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
-  - Feed excerpt: Hey everyone! I'm looking for people to playtest my upcoming Roblox game, Find the Pixel ! All you need to do is try out the game and share your feedback through a short questionnaire. Rewards for participating: 🏷️ Exclusive Tester title 🖱️
-- **[Check out my game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xgjtxh/check_out_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
-  - Feed excerpt: only 30 more people needed for my goal! help me reach my goal! NEW PLAYERS ONLY! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! Gamepasses, a
-- **[how do i get rid of this annoying command thingy. first time studio user](https://www.reddit.com/r/ROBLOXStudio/comments/1xgyrp6/how_do_i_get_rid_of_this_annoying_command_thingy/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
-  - Feed excerpt: https://preview.redd.it/06hgt6smn1yh1.png?width=2880&format=png&auto=webp&s=e053777521d08990437f7b74f84c36c2a1a686e5 the execure a command tab submitted by /u/Long_MouthAD \[link\] \[comments\]
+- **[I am Sorry](https://www.reddit.com/r/ROBLOXStudio/comments/1xgzo9i/i_am_sorry/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: Yes, I apologize if my game resembles those "egg-stealing" games or other similar titles on Roblox; please accept my apologies. It’s my very first game... I was quite confident, but I ended up receiving some albeit mild criticism. You know,
+- **[Looking for investors to help grow my Roblox game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xh0ut6/looking_for_investors_to_help_grow_my_roblox_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: Hey everyone! I’m the developer of STEAL & BUILD , a Roblox game where players steal valuable loot, escape the chase, and use their earnings to build their dream home. Check out the game: https://www.roblox.com/games/85678755517424/Steal-Bu
+- **[Uswenian Border Guard](https://www.reddit.com/r/ROBLOXStudio/comments/1xh020d/uswenian_border_guard/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: Autumn 1880 at the Western border of the Uswen Kingdom, stood a lone sentry at his post. Made a render for my roblox game project named "A Soldier's Poem" submitted by /u/Wooden_Cellist_755 \[link\] \[comments\]
+- **[animation im making for my friend since her birthday is coming up](https://www.reddit.com/r/ROBLOXStudio/comments/1xh00bv/animation_im_making_for_my_friend_since_her/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: it's wip still so it sucks, but it's good practice ig submitted by /u/OutcomeFlat7568 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Double Joystick On Studio Mobile Emulator](https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Randomly when testing with mobile in studio there will sometimes be two joysticks with no apparent cause, both joysticks will trigger click events which can be problematic for testing. Visual Aids: 1 post - 1 participant Read full topic
-- **[Extreme Lag on every place, even a new empty baseplate](https://devforum.roblox.com/t/extreme-lag-on-every-place-even-a-new-empty-baseplate/4960619)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: A few weeks ago, studio used to work perfectly fine and the only times I would get lag are when I’m working on a highly dense place. But now, every single place I try working on just has unbearable lag, even on the homescreen and on an empt
-- **[Extremely Low Plays Compared to Ad Clicks Despite High CTR (6$ CPP)](https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: I’ve been running ads for my game, Huss Tackle, and I’m having trouble understanding why my ads are getting thousands of clicks but barely any reported plays. I’ve tested around 50 different thumbnails, and after improving them, multiple ad
-- **[How to disable team create?!](https://devforum.roblox.com/t/how-to-disable-team-create/4960583)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: SOMEHOW MY GAME GOT TEAM CREATE ENABLED ON ITS OWN AND NOW I CAN’T ACCESS IT HOW DO I TURN IT OFF ASAP?? PLEASE 1 post - 1 participant Read full topic
-- **[InputActionLabel uses Ctrl and Alt on MacOS computers despite them being named differently](https://devforum.roblox.com/t/inputactionlabel-uses-ctrl-and-alt-on-macos-computers-despite-them-being-named-differently/4960612)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
-- **[LeftAlt and RightAlt show as LAlt and RAlt on MacOS despite Macs not having an Alt key.](https://devforum.roblox.com/t/leftalt-and-rightalt-show-as-lalt-and-ralt-on-macos-despite-macs-not-having-an-alt-key/4960629)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Right now, regardless of OS, the LeftAlt and RightAlt modifiers will always show up as LAlt and RAlt in an InputActionLabel. This is fine on Windows computers, since those have an Alt key. However, the MacOS equivalent of this is known as O
-- **[\[SEEKING INVESTMENT\] — Fill In the Blank](https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: I’m a solo dev seeking up to 20,000 Robux or $75 USD in ads funding to grow Fill In the Blank \[Beta\], a completed casual multiplayer party game inspired by an original experience that reached around 15M visits and 3.5K CCU. The game feature
+- **[Group Cover transition gradient doesn't match with theme colour](https://devforum.roblox.com/t/group-cover-transition-gradient-doesnt-match-with-theme-colour/4960836)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: When using an app theme that isn’t the default light or dark mode, the gradient transition that is used between a group cover and the background does not update to the specific colour, and instead just uses the dark or light mode colours, a
+- **[Release Notes for 745](https://devforum.roblox.com/t/release-notes-for-745/4960754)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 4 posts - 4 participants Read full topic
+- **[Release Notes for 745](https://devforum.roblox.com/t/release-notes-for-745/4960754)** · Roblox updates category (availability may vary) · 2026-10-27
+  - Feed excerpt: Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 4 posts - 4 participants Read full topic
+- **[How to make a cloned NPC follow the player?](https://devforum.roblox.com/t/how-to-make-a-cloned-npc-follow-the-player/4960729)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: What do you want to achieve? I want to create a system where a cloned NPC follows the player. Attached is a short video showing the effect/behavior I’m trying to achieve. What is the issue? I’m not sure where to start writing the script or 
+- **[Limiteds not showing up in Trade Tab](https://devforum.roblox.com/t/limiteds-not-showing-up-in-trade-tab/4960767)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Trading uses this API to check what items are owned by the User https://trades.roblox.com/v2/users/USER_ID/tradableItems However, not all of my owned limiteds show up. This has been an on-going issue for over a year and I was expecting for 
+- **[Undeletable DebugDraw instance on workspace](https://devforum.roblox.com/t/undeletable-debugdraw-instance-on-workspace/4960695)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: There is an undeletable instance in workspace named “DebugDraw” that causes a black bone visualizer overlay to appear on every rig in the game, i need to disable this in order to record an animation, however, i dont know what enabled this a
+- **[\[Early Access Program\] Build 2D Games With 'AnimatedImages'](https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Key Takeaways Sign up for Early Access to easily import 2D assets and build flipbook animations on Roblox. You can import Aseprite (.ase) files directly into Studio and configure animation tracks at runtime using the new AnimationPlayer API
+- **[\[Early Access Program\] Build 2D Games With 'AnimatedImages'](https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734)** · Roblox updates category (availability may vary) · 2026-10-27
+  - Feed excerpt: Key Takeaways Sign up for Early Access to easily import 2D assets and build flipbook animations on Roblox. You can import Aseprite (.ase) files directly into Studio and configure animation tracks at runtime using the new AnimationPlayer API
+- **[\[OPEN\] Looking for a Low-Poly 3D Vehicle Artist \| Robux Payment Possible](https://devforum.roblox.com/t/open-looking-for-a-low-poly-3d-vehicle-artist-robux-payment-possible/4960778)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Hi everyone! I’m looking for a talented 3D artist to create low-poly vehicle models for a Roblox game. What I’m Looking For Stylized, low-poly car models Clean geometry and appealing proportions Models optimized for Roblox Unique designs wi
+
+## Youtube
+
+- **[How to Give Parental Permission on Your Child’s Device](https://www.youtube.com/watch?v=BTpJCuSYLFs)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-27
 
 ---
 

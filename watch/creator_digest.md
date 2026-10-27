@@ -53,8 +53,8 @@ Account provenance: [https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ) — channel ID in public channel stats; direct posts: YouTube RSS
 
-**Collected media leads:** 0 matched metadata records.
-- None verified in currently collected public feeds.
+**Collected media leads:** 1 matched metadata records.
+- [Updating My DREAM GAME!](https://www.youtube.com/watch?v=WaYEOwv42_o) — verified channel upload · 2026-10-27
 
 ## GnomeCode — Roblox game systems
 
