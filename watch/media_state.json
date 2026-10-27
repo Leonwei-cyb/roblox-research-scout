@@ -1433,7 +1433,9 @@
     "faa68a88038b08d63ca2df60",
     "4c81739b199d68bfb1af63e5",
     "9293983c2b347a12887bc528",
-    "ef27b70b18cdcf236c203be3"
+    "ef27b70b18cdcf236c203be3",
+    "88e068e65ca5c9c6d46691dd",
+    "91a7c9f8d95c8e32d9562897"
   ],
   "items": [
     {
@@ -1645,6 +1647,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Studio Playtesting: Distant Objects & ForceField Effect Disappear When Switching Windows or Taking Screenshots",
+      "url": "https://devforum.roblox.com/t/studio-playtesting-distant-objects-forcefield-effect-disappear-when-switching-windows-or-taking-screenshots/4959999",
+      "published": "2026-10-27",
+      "excerpt": "Description When playtesting a game in Roblox Studio, if I click on another application window, this causes distant objects in the Studio window, including Parts and Terrain, to progressively disappear. When I click back onto Roblox Studio, the missing objects and effects gradually reappear, sometim",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-playtesting-distant-objects-forcefield-effect-disappear-when-switching-windows-or-taking-screenshots/4959999.rss",
+      "id": "91a7c9f8d95c8e32d9562897"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Custom Enum Management Window",
       "url": "https://devforum.roblox.com/t/custom-enum-management-window/4959810",
       "published": "2026-10-27",
@@ -1663,6 +1677,18 @@
       "excerpt": "submitted by /u/Dry_Plankton6642 [link] [comments]",
       "creator": "/u/Dry_Plankton6642 https://www.reddit.com/user/Dry_Plankton6642",
       "id": "89a416b8cedd97832e08ca24"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My Games Are All Failed",
+      "url": "https://devforum.roblox.com/t/my-games-are-all-failed/4960014",
+      "published": "2026-10-27",
+      "excerpt": "Hello. I created the lot of Games, but that all are failed. I cant understand that why my game fail So, I want to understand that how to get the game success Please Teach me how to get game success My english is bad, sorry. Edit: Im creating the new game so maybe i publish new game here 1 post - 1 p",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-games-are-all-failed/4960014.rss",
+      "id": "88e068e65ca5c9c6d46691dd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8341,30 +8367,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/anyone-else-had-a-counter-notice-denied-with-zero-explanation/4950163.rss",
       "id": "b7f72a7b6aedae677714c7d9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My Co-Developer's account was false banned for unknown linked account",
-      "url": "https://devforum.roblox.com/t/my-co-developers-account-was-false-banned-for-unknown-linked-account/4949473",
-      "published": "2026-10-22",
-      "excerpt": "Hi, I am a small developer with ~1.4M visits on my game Ragdoll Legends. My friend and collaborator @seldomlight was permanently banned today for a linked account that she does not recognize. She has no alternate accounts that start with “ @ro *****”, and is unaware of any other accounts associated ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-co-developers-account-was-false-banned-for-unknown-linked-account/4949473.rss",
-      "id": "b7a8185012e90eb80fb0704b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Place Publishing API: every public publish returns 409 \"Your public publish limit has been exceeded\" since 2026-10-17",
-      "url": "https://devforum.roblox.com/t/place-publishing-api-every-public-publish-returns-409-your-public-publish-limit-has-been-exceeded-since-2026-10-17/4950527",
-      "published": "2026-10-22",
-      "excerpt": "We publish our games from CI through the Open Cloud Place Publishing API ( POST /universes/v1/{universeId}/places/{placeId}/versions?versionType=Published ). Since 2026-10-17 19:45 UTC, every publish to a public game from our publishing account fails with: HTTP 409 {\"code\":\"Conflict\",\"message\":\"Publ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/place-publishing-api-every-public-publish-returns-409-your-public-publish-limit-has-been-exceeded-since-2026-10-17/4950527.rss",
-      "id": "b53896461125eb4d3b8b4e07"
     }
   ]
 }
