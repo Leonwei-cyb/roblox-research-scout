@@ -8,7 +8,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
 - **[\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061)** — Public text/page, video not confirmed
-- **[can we start a petition to ban brainrot posts from this sub?](https://www.reddit.com/r/ROBLOXStudio/comments/1xfonv5/can_we_start_a_petition_to_ban_brainrot_posts/)** — Public text/page, video not confirmed
+- **[Age Of Sail Progression](https://www.reddit.com/r/ROBLOXStudio/comments/1xgf0pi/age_of_sail_progression/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 

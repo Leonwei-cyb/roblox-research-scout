@@ -1386,9 +1386,26 @@
     "17a5b0b57642dd2c7d559f59",
     "6039c42e542fba7dff74de41",
     "89a416b8cedd97832e08ca24",
-    "9d03d54734ebbb978d5591b5"
+    "9d03d54734ebbb978d5591b5",
+    "48c3ce660f78bc6688f053d4",
+    "c38c73ad13271bed5fe61c51",
+    "0996e86aedbfff61dcaf2621",
+    "d8dcd32e37f82dfab056181f",
+    "6f8a10107ab06fbca7c03afd",
+    "320c6c1c8b6d4b2c9de957b6"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "ATF-54F \"Akumu\"",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgeczl/atf54f_akumu/",
+      "published": "2026-10-27",
+      "excerpt": "A large, seventh-generation, optionally manned, multi-atmospheric fighter aircraft developed by the Nievian Republic's aerospace contractor, Arashi Munitions. The Akumu utilizes a combination of separate nose and wing units to form a single aircraft. An onboard AI, codenamed Seranity, is housed with",
+      "creator": "/u/cavespider0305 https://www.reddit.com/user/cavespider0305",
+      "id": "d8dcd32e37f82dfab056181f"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -1400,6 +1417,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ads-randomly-rejected-after-3-days-of-them-running/4959586.rss",
       "id": "d0fa4397f066d912b178bafb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Gears do not appear in Currently Wearing",
+      "url": "https://devforum.roblox.com/t/gears-do-not-appear-in-currently-wearing/4959726",
+      "published": "2026-10-27",
+      "excerpt": "It’s been a while now that “gears” no longer appear under “Currently Wearing”, neither on one’s profile nor when using “Examine Avatar” inside a game… I assumed someone else would have reported it by now, but it still hasn’t been fixed Expected behavior 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/gears-do-not-appear-in-currently-wearing/4959726.rss",
+      "id": "c38c73ad13271bed5fe61c51"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1425,6 +1454,17 @@
       "id": "89a416b8cedd97832e08ca24"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Age Of Sail Progression",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgf0pi/age_of_sail_progression/",
+      "published": "2026-10-27",
+      "excerpt": "new ocean system underwater/swimming exploration realistic ship buoyancy and onboard station mechanics massive open-world (60,000+ studs) custom items, armor, tools, weapons, clothing dozens of ships day/night cycles with weather realistic sailing mechanics submitted by /u/Melodic-Sundae3403 [link] ",
+      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
+      "id": "6f8a10107ab06fbca7c03afd"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1440,10 +1480,45 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "How do I weld a ragdoll properly?",
+      "url": "https://devforum.roblox.com/t/how-do-i-weld-a-ragdoll-properly/4959768",
+      "published": "2026-10-27",
+      "excerpt": "I’ve attempted to weld a ragdoll to my character. The limbs of the ragdoll are delayed behind the torso. I’ve tried doing the ragdoll on the server and client- neither worked. The limbs of the ragdoll have their assembly root part pointing to themselves, as long as this is the case the limbs are del",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-i-weld-a-ragdoll-properly/4959768.rss",
+      "id": "48c3ce660f78bc6688f053d4"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I just released my first Roblox game! Would love some feedback",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgexnq/i_just_released_my_first_roblox_game_would_love/",
+      "published": "2026-10-27",
+      "excerpt": "Hey everyone! I just launched GET A GOBLIN!, my new ans first Roblox game! You can hatch eggs, collect tons of unique goblins, build your collection, discover hidden secrets, complete challenging obbies, and fight through a tactical PvE mode called Goblin Gauntlet! The game is brand new, so I'm tryi",
+      "creator": "/u/Significant-Gene6553 https://www.reddit.com/user/Significant-Gene6553",
+      "id": "320c6c1c8b6d4b2c9de957b6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "{VULNERABILITY} SCAN FOR VIRUSES ASAP! [Continuing about the \"Runtime\" virus]",
+      "url": "https://devforum.roblox.com/t/vulnerability-scan-for-viruses-asap-continuing-about-the-runtime-virus/4959651",
+      "published": "2026-10-27",
+      "excerpt": "What??? I found a virus in the files in the Roblox appdata–not a joke. Interestingly, it was in the Roblox folder… About So, if you haven’t heard, read this . Anyways, this Trojan virus that I said was caused by the Roblox virus and it was true. That httpservice thing or whatever I tested in the com",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/vulnerability-scan-for-viruses-asap-continuing-about-the-runtime-virus/4959651.rss",
+      "id": "0996e86aedbfff61dcaf2621"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Ads getting rejected without any reason",
       "url": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594",
       "published": "2026-10-27",
-      "excerpt": "There is an issue which occurred about 10 minutes ago where it seems like everyone’s current running ads have been rejected without a valid reason. Assuming this is a bug, this happened to one other person and me at the same time. Expected behavior The ads should continue to work as normal 6 posts -",
+      "excerpt": "There is an issue which occurred about 10 minutes ago where it seems like everyone’s current running ads have been rejected without a valid reason. Assuming this is a bug, this happened to one other person and me at the same time. Expected behavior The ads should continue to work as normal 16 posts ",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594.rss",
       "id": "07f9596bb95e2e9596191373"
@@ -1894,7 +1969,7 @@
       "title": "Plays Campaign randomly rejected?",
       "url": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562",
       "published": "2026-10-26",
-      "excerpt": "Hi everyone. Has anyone else experienced their plays campaign being rejected out of nowhere recently today? A few other people ive asked have had the same thing happen to them? 13 posts - 13 participants Read full topic",
+      "excerpt": "Hi everyone. Has anyone else experienced their plays campaign being rejected out of nowhere recently today? A few other people ive asked have had the same thing happen to them? 19 posts - 17 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562.rss",
       "id": "a08483f226bb2ad0abc0a3d0"
@@ -8264,76 +8339,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/server-authority-client-cpu-load-alone-causes-rollbacks-on-a-contact-free-predicted-part-each-rollback-costs-15%E2%80%9331-ms/4949968.rss",
       "id": "59830defb81e6be3ff0313b6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Refund request failed. Please check your connection and try again",
-      "url": "https://devforum.roblox.com/t/refund-request-failed-please-check-your-connection-and-try-again/4950904",
-      "published": "2026-10-22",
-      "excerpt": "i get this error whenever i try and request a refund for the expedited review 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/refund-request-failed-please-check-your-connection-and-try-again/4950904.rss",
-      "id": "55ae69f6a03832dcca00e5c0"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "help me",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcaxki/help_me/",
-      "published": "2026-10-22",
-      "excerpt": "i made this turtle model in blender i used mirror modifier to reflect the legs and eyes (the eyes are fine) but the legs appear as transparent inside out on roblox studio i followed some tutorials and did flip normals but it didnt work please help submitted by /u/blurbeeYT [link] [comments]",
-      "creator": "/u/blurbeeYT https://www.reddit.com/user/blurbeeYT",
-      "id": "544a7c9dabe0040dc7235a17"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Stopping A Grillion Million Trillion Functions That Aren't :Connect() Functions?",
-      "url": "https://devforum.roblox.com/t/stopping-a-grillion-million-trillion-functions-that-arent-connect-functions/4949352",
-      "published": "2026-10-22",
-      "excerpt": "I’m having an issue with stopping functions that I’m running. I want to have functions stop when the player dies – problem is – I can’t just attach them to StarterCharacter and call it a day because the functions that I need to stop come from module scripts. And I cant disable the script that requir",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/stopping-a-grillion-million-trillion-functions-that-arent-connect-functions/4949352.rss",
-      "id": "52fecfb20e08e7cba3223e44"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[REV-SHARE] Recruiting Team for \"Chica’s Lost World\" (Compact FNaF RP Project)",
-      "url": "https://devforum.roblox.com/t/rev-share-recruiting-team-for-chica%E2%80%99s-lost-world-compact-fnaf-rp-project/4950439",
-      "published": "2026-10-22",
-      "excerpt": "About the Project Chica’s Lost World (CLW) is a compact, high-quality FNaF -inspired roleplay and secret-hunting experience centered strictly around the obscure lore of Chica’s Party World . Note: This is a structured side project run alongside my primary development work. It features a strictly man",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/rev-share-recruiting-team-for-chica%E2%80%99s-lost-world-compact-fnaf-rp-project/4950439.rss",
-      "id": "52f1744a57dbb6ff05576738"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Clippers needed!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcaff5/clippers_needed/",
-      "published": "2026-10-22",
-      "excerpt": "I made this new game, its basically bomb tag but with abilities, its far from done, but its already a lot of fun to play, but no one knows about it. So thats where you guys come in. You guys can clip this game with any type of content, and post it on social media. This is the link to the game: https",
-      "creator": "/u/SubstantialChannel77 https://www.reddit.com/user/SubstantialChannel77",
-      "id": "50d8e8a82cd3028cdc6a4175"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Player for Windows hangs when a Device is connected/disconnected.",
-      "url": "https://devforum.roblox.com/t/roblox-player-for-windows-hangs-when-a-device-is-connecteddisconnected/4949292",
-      "published": "2026-10-22",
-      "excerpt": "On a Windows PC, if you join any Roblox game and connect/disconnect any Device from your PC while the Player is open, the game will abruptly hang after a few seconds. This issue happens regardless of the device, and in my below recording I used my Xbox Controller. This issue occurs independent of St",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-player-for-windows-hangs-when-a-device-is-connecteddisconnected/4949292.rss",
-      "id": "4494193cbb99a7fff9baf06a"
     }
   ]
 }
