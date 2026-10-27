@@ -7,21 +7,25 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: I made monster model in blender and imported him into Roblox Studio via FBX. I watched a tutorial by Gnomecode , but it was for a model already made in Roblox Studio, and in result the humanoid name wouldn't show up above my character. And 
-- **[I genuinely, GENUINELY need an answer for this.](https://www.reddit.com/r/robloxgamedev/comments/1xgi7mb/i_genuinely_genuinely_need_an_answer_for_this/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: I seriously need an answer for this phenomenon. Not even the game owner knows what's happening. I haven't been able to sleep for 3 days straight because of this. Is this a client side issue? Is this a server issue? Just what the hell is thi
-- **[Looking for an Experienced Roblox Developer / Builder LongTerm Partnership](https://www.reddit.com/r/robloxgamedev/comments/1xgg56c/looking_for_an_experienced_roblox_developer/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: ​ Hey everyone! I'm currently working on a private Roblox game project and looking for an experienced developer or builder interested in a long-term revenue-share partnership. I'm keeping the specific concept and gameplay mechanics confiden
-- **[looking for any team member/members to create games with ai](https://www.reddit.com/r/robloxgamedev/comments/1xgilf6/looking_for_any_team_membermembers_to_create/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: reqs: claude max 5x 20x submitted by /u/brynoo5 \[link\] \[comments\]
+- **[Check out my game!](https://www.reddit.com/r/robloxgamedev/comments/1xgjv5q/check_out_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: only 30 more people needed for my goal! help me reach my goal! NEW PLAYERS ONLY! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! Gamepasses, a
+- **[Lighting a lantern in my Roblox game felt like nothing. Here's what changed before my Halloween event (before/after)](https://www.reddit.com/r/robloxgamedev/comments/1xgjxeq/lighting_a_lantern_in_my_roblox_game_felt_like/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: Top half is what the game shipped with; bottom half is the same scripted walk after a day on it. My tower defense, Defend a Garden, has a Halloween event this Friday: you relight nine lanterns in the order an old keeper walked them. The wal
+- **[Looking to collab with devs 15 shorts 90$/month](https://www.reddit.com/r/robloxgamedev/comments/1xgjvrs/looking_to_collab_with_devs_15_shorts_90month/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: Is here any roblox dev wanna collab/paid promo? I have a small Roblox youtube shorts channel (510k views last 28 days)... If u wanna promote ur roblox games on my youtube shorts please DM for more details....thanks!! submitted by /u/imam212
+- **[Pet island (kids game) - Solo developer - Used AI during game development](https://www.reddit.com/r/robloxgamedev/comments/1xgjyzl/pet_island_kids_game_solo_developer_used_ai/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: submitted by /u/laereland \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Studio frozen in read-only mode, refuses to crash.](https://devforum.roblox.com/t/studio-frozen-in-read-only-mode-refuses-to-crash/4959846)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: I came back after just a couple minutes of idling, and I’d entered ‘unstable connection mode’, even though the roblox game I’m in has had no network issues. Normally, I’d just restart studio, but I had changes that needed to be saved. I tri
-- **[\[For Hire\] Qd_awg \| Composer \| \[5 Years+ of Experience\]](https://devforum.roblox.com/t/for-hire-qdawg-composer-5-years-of-experience/4959840)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Who am I? Hello! My name is Qd_awg, I am a music composer! I use FL Studio to create Original music, fitting for anything your game needs! I have been making music for 5 years and have made Custom Tracks for many of my own projects, and for
+- **[Dual-Nil Checks Don't Satisfy '--!strict'](https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: An example of the issue: local a : BasePart? = script:WaitForChild("A") local b : BasePart? = script:WaitForChild("B") if ( a ~= nil and b ~= nil ) then local nestedX : number = a.Position.X + b.Position.X -- b is flagged as an error end if
+- **[PromptBulkPurchase Purchases seem to actually attempt to charge you](https://devforum.roblox.com/t/promptbulkpurchase-purchases-seem-to-actually-attempt-to-charge-you/4959902)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: This is my first post on the devforum so apologise if it isn’t great. I found this issue a while ago and I’m not sure if it DOES actually charge you but I’m not gonna be the one to find out (lost 13k robux last time I did ) Not much else to
+- **[Sci fi map building help](https://devforum.roblox.com/t/sci-fi-map-building-help/4959912)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: I recently started making a city map for a game and i wanted it to have a sci-fi war torn feel.How does it look so far?What are some things i can add to make it better? 1 post - 1 participant Read full topic
+- **[Support Tickets Automatically Marked as Solved Despite Multiple Email Replies](https://devforum.roblox.com/t/support-tickets-automatically-marked-as-solved-despite-multiple-email-replies/4959901)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Hello, I am fish500m, a developer of the Roblox experience Nonsan Training Center (Asset ID: 2433583525). I am experiencing almost the exact same issue described in this bug report, and I would like to share our experience in the hope that 
 
 ---
 

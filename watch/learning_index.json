@@ -891,6 +891,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959902:1",
+      "url": "https://devforum.roblox.com/t/promptbulkpurchase-purchases-seem-to-actually-attempt-to-charge-you/4959902",
+      "title": "PromptBulkPurchase Purchases seem to actually attempt to charge you",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xcu58e",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xcu58e/my_roblox_game_gets_90_no_retention_id_like_some/",
       "title": "My roblox game gets 90% no retention, I'd like some playtesterrs and advice ! Please",
@@ -1143,16 +1157,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4949307:1",
-      "url": "https://devforum.roblox.com/t/concerns-about-roblox-ads-home-recommendations-and-audience-targeting/4949307",
-      "title": "Concerns About Roblox Ads, Home Recommendations, and Audience Targeting",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
+      "key": "reddit:1xgjxeq",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgjxeq/lighting_a_lantern_in_my_roblox_game_felt_like/",
+      "title": "Lighting a lantern in my Roblox game felt like nothing. Here's what changed before my Halloween event (before/after)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
       "signals": [
-        "player feedback and marketing"
+        "world and visual design",
+        "tools and performance"
       ],
-      "score": 5,
+      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1164,19 +1179,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950083:1",
-      "url": "https://devforum.roblox.com/t/super-freeze-tag-feedback/4950083",
-      "title": "Super Freeze Tag - Feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -1216,45 +1218,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950696:1",
-      "url": "https://devforum.roblox.com/t/terrain-over-the-recommended-16-voxels-thickness-disappears-at-distance/4950696",
-      "title": "Terrain over the recommended 16 voxels thickness disappears at distance",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950870:1",
-      "url": "https://devforum.roblox.com/t/editablemesh-writes-batchsetvaluessetposition-intermittently-350x-slower-in-windows-client-744-3-5-fps-never-in-studio/4950870",
-      "title": "EditableMesh writes (BatchSetValues/SetPosition) intermittently ~350x slower in Windows client 744: 3-5 FPS, never in Studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950995:1",
-      "url": "https://devforum.roblox.com/t/what-is-the-issue-with-roblox-ui/4950995",
-      "title": "What is the issue with ROBLOX UI?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2263,6 +2226,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959912:1",
+      "url": "https://devforum.roblox.com/t/sci-fi-map-building-help/4959912",
+      "title": "Sci fi map building help",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc9zk3",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc9zk3/try_and_test_it_out_our_game_help_us_to_reach_250/",
       "title": "Try and test it out our game (help us to reach 250 players)",
@@ -2975,6 +2951,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xgjyzl",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgjyzl/pet_island_kids_game_solo_developer_used_ai/",
+      "title": "Pet island (kids game) - Solo developer - Used AI during game development",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4949245:1",
       "url": "https://devforum.roblox.com/t/my-game-fumo-popper/4949245",
       "title": "My Game , Fumo Popper",
@@ -2983,20 +2972,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4950390:1",
-      "url": "https://devforum.roblox.com/t/asset-contentids-beginning-with-rbxgameasset-are-not-loading-properly/4950390",
-      "title": "Asset ContentIds beginning with \"rbxgameasset://\" are not loading properly",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
         "tools and performance"
       ],
       "score": 4,
@@ -4467,6 +4442,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959895:1",
+      "url": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895",
+      "title": "Dual-Nil Checks Don't Satisfy `--!strict`",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xc743t",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc743t/experienced_modeler_for_hire/",
       "title": "Experienced Modeler For Hire",
@@ -4501,19 +4489,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xcoheo",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcoheo/slimehunt_is_done/",
-      "title": "SLIMEHUNT IS DONE!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-22",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5299,6 +5274,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xgjv5q",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgjv5q/check_out_my_game/",
+      "title": "Check out my game!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4949286:1",
       "url": "https://devforum.roblox.com/t/what-is-robloxs-limit-with-uploading-textures-containing-blood/4949286",
       "title": "What is roblox's limit with uploading textures containing blood?",
@@ -5335,17 +5323,6 @@
       "key": "devforum:4949540:1",
       "url": "https://devforum.roblox.com/t/can-you-make-type-function-support-generic-input/4949540",
       "title": "Can you make type function support generic input?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-22",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4949874:1",
-      "url": "https://devforum.roblox.com/t/neversaynever-has-anyone-seen-a-slime-like-this-on-roblox/4949874",
-      "title": "NeverSayNever: has anyone seen a slime like this on Roblox?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-22",
       "kind": "devforum",
@@ -6476,6 +6453,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4959901:1",
+      "url": "https://devforum.roblox.com/t/support-tickets-automatically-marked-as-solved-despite-multiple-email-replies/4959901",
+      "title": "Support Tickets Automatically Marked as Solved Despite Multiple Email Replies",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xcjfrv",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xcjfrv/a_roblox_game_where_you_automate_by_coding_in/",
       "title": "A roblox game where you automate by coding in Python",
@@ -7359,6 +7347,17 @@
       "key": "reddit:1xgilf6",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgilf6/looking_for_any_team_membermembers_to_create/",
       "title": "looking for any team member/members to create games with ai",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgjvrs",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgjvrs/looking_to_collab_with_devs_15_shorts_90month/",
+      "title": "Looking to collab with devs 15 shorts 90$/month",
       "source": "reddit-robloxdev",
       "published": "2026-10-27",
       "kind": "reddit",

@@ -16,10 +16,10 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## 3D / models / environments
 
-- **[I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio](https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218)** — Public text/page, video not confirmed
+- **[Sci fi map building help](https://devforum.roblox.com/t/sci-fi-map-building-help/4959912)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
-- **[Roblox Studio Toolbox bug](https://devforum.roblox.com/t/roblox-studio-toolbox-bug/4958630)** — Public text/page, video not confirmed
+- **[Support Tickets Automatically Marked as Solved Despite Multiple Email Replies](https://devforum.roblox.com/t/support-tickets-automatically-marked-as-solved-despite-multiple-email-replies/4959901)** — Public text/page, video not confirmed
 - **[Looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xfscti/looking_for_playtesters/)** — Public text/page, video not confirmed
 - **[Looking for playtesters for my Roguelite PvE FPS](https://www.reddit.com/r/robloxgamedev/comments/1xg9dzy/looking_for_playtesters_for_my_roguelite_pve_fps/)** — Public text/page, video not confirmed
