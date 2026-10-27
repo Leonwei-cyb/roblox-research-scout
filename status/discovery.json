@@ -3,17 +3,13 @@
   "api": {
     "calls": {
       "graphql": 0,
-      "rest": 30,
+      "rest": 23,
       "rest_not_modified": 0
     },
     "rate": {
-      "code_search": {
-        "remaining": 10,
-        "reset_at": "2026-10-27T05:38:53Z"
-      },
       "search": {
-        "remaining": 1,
-        "reset_at": "2026-10-27T05:38:31Z"
+        "remaining": 3,
+        "reset_at": "2026-10-27T11:28:56Z"
       }
     }
   },
@@ -117,7 +113,7 @@
   },
   "feed_health": {
     "deferred": 6,
-    "ok": 30
+    "ok": 23
   },
   "feeds": [
     {
@@ -254,96 +250,47 @@
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:strict",
-      "items": 15,
+      "items": 2,
       "kind": "search",
       "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
       "status": "ok"
     },
     {
+      "detail": "GitHub rate limit for /search/repositories",
       "id": "pack:multi-chatgpt-web-workers:d:relaxed",
-      "items": 15,
       "kind": "search",
-      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:e:strict",
-      "items": 15,
-      "kind": "search",
-      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:e:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:f:strict",
-      "items": 15,
-      "kind": "search",
-      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:f:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:g:strict",
-      "items": 15,
-      "kind": "search",
-      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:g:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "detail": "GitHub rate limit for /search/code",
-      "id": "pack:multi-chatgpt-web-workers:s1:source",
-      "kind": "code_search",
       "status": "deferred"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "GitHub rate limit for /search/repositories",
       "id": "graphql:batch0",
       "kind": "graphql",
       "repos": 15,
       "status": "deferred"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "GitHub rate limit for /search/repositories",
       "id": "graphql:batch1",
       "kind": "graphql",
       "repos": 15,
       "status": "deferred"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "GitHub rate limit for /search/repositories",
       "id": "graphql:batch2",
       "kind": "graphql",
       "repos": 15,
       "status": "deferred"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "GitHub rate limit for /search/repositories",
       "id": "graphql:batch3",
       "kind": "graphql",
       "repos": 15,
       "status": "deferred"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "GitHub rate limit for /search/repositories",
       "id": "graphql:batch4",
       "kind": "graphql",
       "repos": 15,
@@ -362,11 +309,11 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-10-27T05:37:53Z",
+    "finished_at": "2026-10-27T11:28:54Z",
     "outcome": "partial",
-    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/40456369517",
-    "started_at": "2026-10-27T05:37:31Z",
-    "trigger": "schedule"
+    "run_url": "",
+    "started_at": "2026-10-27T11:28:30Z",
+    "trigger": "local"
   },
   "schema": 1
 }

@@ -1,7 +1,7 @@
 {
   "api_calls": {
     "by_kind": {
-      "rest": 30
+      "rest": 23
     },
     "calls": [
       {
@@ -116,52 +116,17 @@
       },
       {
         "kind": "rest",
-        "outcome": "200",
+        "outcome": "403",
         "what": "GET /search/repositories?q=multi-agent+workspace+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=agent+task+dispatch+browser+extension+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=agent+browser+extension+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=authenticated+ChatGPT+web+conversation+queue+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=ChatGPT+conversation+queue+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=durable+agent+session+manager+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=agent+session+manager+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-27+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "429",
-        "what": "GET /search/code?q=%22chatgpt.com%22+content_scripts+sidePanel+filename%3Amanifest.json&per_page=50&page=1"
       }
     ],
     "note": "every GitHub request this run made, pack and non-pack",
-    "total": 30
+    "total": 23
   },
   "candidates": [],
   "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
-  "detail": "search stopped early: GitHub rate limit for /search/code",
-  "distinct_repos_found": 151,
+  "detail": "search stopped early: GitHub rate limit for /search/repositories",
+  "distinct_repos_found": 77,
   "known_relevant": [
     {
       "found_by": [],
@@ -254,7 +219,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-10-27T05:37:31Z",
+  "run_at": "2026-10-27T11:28:30Z",
   "schema": 1,
   "searches": [
     {
@@ -301,67 +266,18 @@
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:strict",
-      "items": 15,
+      "items": 2,
       "kind": "search",
       "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
       "status": "ok"
     },
     {
+      "detail": "GitHub rate limit for /search/repositories",
       "id": "pack:multi-chatgpt-web-workers:d:relaxed",
-      "items": 15,
       "kind": "search",
-      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:e:strict",
-      "items": 15,
-      "kind": "search",
-      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:e:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:f:strict",
-      "items": 15,
-      "kind": "search",
-      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:f:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:g:strict",
-      "items": 15,
-      "kind": "search",
-      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:g:relaxed",
-      "items": 15,
-      "kind": "search",
-      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-10-27 archived:false",
-      "status": "ok"
-    },
-    {
-      "detail": "GitHub rate limit for /search/code",
-      "id": "pack:multi-chatgpt-web-workers:s1:source",
-      "kind": "code_search",
       "status": "deferred"
     }
   ],
   "status": "partial",
-  "trigger": "schedule"
+  "trigger": "local"
 }
