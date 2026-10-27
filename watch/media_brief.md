@@ -5,25 +5,36 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Ai Development
+
+- **[Building a Viral Roblox Game with AI \[FULL PROCESS\] - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZZWlTeW5HQWQtUFZFb0YyalF3emZERDNkSU9zR0ZLaGdCT1Y4aURfQkhWS1E0QWdrM1ZRT1lHRU40V2hHYUxQN1NoVUFxNng0R2hMSzh3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-23
+  - Feed excerpt: Building a Viral Roblox Game with AI \[FULL PROCESS\] YouTube
+
 ## Community
 
-- **[I have been a Roblox dev for 7 years and its not worth it](https://www.reddit.com/r/robloxgamedev/comments/1xgt5up/i_have_been_a_roblox_dev_for_7_years_and_its_not/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: I have been a Roblox developer for nearly 7 years, starting from late 2019 and ending June this year. Simply put: Roblox development isnt worth it in 2026 The reason I quit after 7 years is because of these things: 1. The Roblox algorthim i
-- **[Roblox Halloween game](https://www.reddit.com/r/robloxgamedev/comments/1xgtckr/roblox_halloween_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: Helo everyone I am a beginner who trying to make a fun game In upcoming Halloween.i am making a drive thru game where you have to serve to monster in the drive thru window and each interaction with the "customers "is going to be chaotic and
-- **[Thougts on the shop ui](https://www.reddit.com/r/robloxgamedev/comments/1xgtw48/thougts_on_the_shop_ui/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: should i change anything? submitted by /u/SweatyEducation9431 \[link\] \[comments\]
+- **[Endless Classic \| Play on Roblox](https://www.reddit.com/r/ROBLOXStudio/comments/1xgtxp8/endless_classic_play_on_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: my new game ! ⛏️ ENDLESS STUD BASEPLATE + MINING SYSTEM ⛏️ Grab your pickaxe and start digging! The stud baseplate never ends, and every block you stand on is ready to break. 🔥 HOW TO PLAY • Swing to break the block under your feet • Chain 
+- **[Ground Branch inspired game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgv1w9/ground_branch_inspired_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: submitted by /u/Recoden \[link\] \[comments\]
+- **[Hey Roblox geniuses, I need some help. 😇😇😇](https://www.reddit.com/r/ROBLOXStudio/comments/1xgpn1q/hey_roblox_geniuses_i_need_some_help/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: I'm currently building a map in Studio and ran into a crisis right from the start. How on earth do you add 'Terrain' materials??? ExpandedTerrain is enabled, Studio has been properly rebooted, and it's the latest version... GEMINI told me d
+- **[Hi guys, this is my first time making a map, lmk what you think!](https://www.reddit.com/r/ROBLOXStudio/comments/1xgmx0l/hi_guys_this_is_my_first_time_making_a_map_lmk/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: If anyone's wondering, I'm creating a game like splatoon because I love the game but haven't been able to play it for a few years ;-; Please give tips on making weapons-like the ink projectiles and splash on impact/collision If anyone wants
+- **[Sto per aprire la mia agenzia su roblox rp](https://www.reddit.com/r/ROBLOXStudio/comments/1xgub9l/sto_per_aprire_la_mia_agenzia_su_roblox_rp/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: Sono da solo ed essendo nuovo non ho amici volevo sapere se avevate consigli per una possibile agenzia su roblox ho scoperto da poco che è stata già già fatta un agenzia tipo d’amore di Roby non voglio copiare le idee altrui ma a me piacere
+- **[Where is my file at](https://www.reddit.com/r/ROBLOXStudio/comments/1xgk4kl/where_is_my_file_at/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: I can’t even like publish my game because I can’t see file / edit / etc submitted by /u/Weird-Fall5825 \[link\] \[comments\]
+- **[how do i fix my smoke Particle Emmiter?](https://www.reddit.com/r/ROBLOXStudio/comments/1xgu8ob/how_do_i_fix_my_smoke_particle_emmiter/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: it should be locked to the part and why isnt it straight? please no hate if I made a stupid mistake and the fix is just 1 click this is my first time working with the particle emmiters thank you! submitted by /u/Cool_Dude_86888 \[link\] \[comm
+- **[making a souls like](https://www.reddit.com/r/ROBLOXStudio/comments/1xgukkg/making_a_souls_like/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-27
+  - Feed excerpt: Currently working on a Soulslike RPG in Roblox, wanted to share the concept and get some thoughts. The game takes place in a world where people's souls can be forcibly extracted, usually by powerful people who want to control others. Losing
 
 ## Roblox Updates
 
-- **[Pending final review for longer than 48 hours](https://devforum.roblox.com/t/pending-final-review-for-longer-than-48-hours/4960376)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: This is a support category for asking questions about how to get something done on the Roblox websites or how to do something on Roblox applications such as Roblox Studio. You can write your topic however you want, but you need to answer th
-- **[How can i make camera panning smoother?](https://devforum.roblox.com/t/how-can-i-make-camera-panning-smoother/4960411)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: I want to make the camera movement smoother by letting it glide for a short amount of time after being panned. The topics I Could find on this topic were almost helpful, where I need to recreate the camera’s angle using the mouse delta. Alt
-- **[No AI - Custom Game Thumbnail for Grab a Plush](https://devforum.roblox.com/t/no-ai-custom-game-thumbnail-for-grab-a-plush/4960366)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Let your eyes take a break from AI game thumbnails. Look at my hand-drawn game thumbnail for Grab A Plush \| Play on Roblox ! Every detail was drawn by hand to give the game its own unique charm instead of relying on generic AI artwork. Made
-- **[\[FOR HIRE\] 3D Modeler \| Weapons, Props, Low-Poly Assets & More](https://devforum.roblox.com/t/for-hire-3d-modeler-weapons-props-low-poly-assets-more/4960351)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
+- **[BUG \| Cursor no longer visible when switching windows / monitor.](https://devforum.roblox.com/t/bug-cursor-no-longer-visible-when-switching-windows-monitor/4960424)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: \[ Weird cursor disappearance bug \] So i use 2 monitors and when i move my mouse over to my other monitor or another window in general, Roblox cursor just disappears. I’m not sure how else to explain it but the cursor quite literally vanishe
+- **[I struggling to keep players](https://devforum.roblox.com/t/i-struggling-to-keep-players/4960496)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Hi, why am I struggling to keep players in the game consistently? I’ve tried to replicate the gameplay of War Robots while incorporating some of my own ideas… what should I do to attract more players and make the game enjoyable? Roblox WAR 
 
 ---
 

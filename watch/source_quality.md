@@ -28,9 +28,8 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| www.youtube.com | 6 |
+| www.youtube.com | 7 |
 | www.instagram.com | 4 |
-| boingboing.net | 1 |
 | www.tiktok.com | 1 |
 
 ## Actionable interpretation

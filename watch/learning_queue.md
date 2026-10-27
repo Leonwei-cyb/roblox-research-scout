@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 313
+- devforum: 308
 - index-only: 12
-- reddit: 264
+- reddit: 269
 - youtube: 8
 
 ## First-Session And Mobile
