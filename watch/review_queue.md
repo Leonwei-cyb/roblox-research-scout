@@ -16,7 +16,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## 3D / models / environments
 
-- **[Sci fi map building help](https://devforum.roblox.com/t/sci-fi-map-building-help/4959912)** — Public text/page, video not confirmed
+- **[\[FOR HIRE\] 3D Modeler \| Weapons, Props, Low-Poly Assets & More](https://devforum.roblox.com/t/for-hire-3d-modeler-weapons-props-low-poly-assets-more/4960351)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 

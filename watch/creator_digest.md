@@ -53,8 +53,8 @@ Account provenance: [https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ) — channel ID in public channel stats; direct posts: YouTube RSS
 
-**Collected media leads:** 1 matched metadata records.
-- [My Roblox Game SUCKED... So I Fixed EVERYTHING!](https://www.youtube.com/watch?v=Flb3G3BbOfY) — verified channel upload · 2026-10-22
+**Collected media leads:** 0 matched metadata records.
+- None verified in currently collected public feeds.
 
 ## GnomeCode — Roblox game systems
 

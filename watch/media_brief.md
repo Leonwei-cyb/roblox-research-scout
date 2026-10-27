@@ -5,34 +5,25 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QYV84dnNvTk14dlJfTHlHLTlHdWpEc1RXelVBNVdTNzZtcUFvMURuaFR2clo4VTE0QnhtbjNfUFZ0bUdRTk40eHN3NGhLajg2SFVxVUJR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-24
-  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
-
 ## Community
 
-- **[Hidden thumbnails and no visitors](https://www.reddit.com/r/robloxgamedev/comments/1xgrwae/hidden_thumbnails_and_no_visitors/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
-  - Feed excerpt: I recently made an obby game on Roblox called “Road to Celestia”. Since it’s still new, Roblox restricts it to “16+”, which makes it even harder for players to even play the game. To make things worse, they even hide my thumbnails. I create
+- **[I have been a Roblox dev for 7 years and its not worth it](https://www.reddit.com/r/robloxgamedev/comments/1xgt5up/i_have_been_a_roblox_dev_for_7_years_and_its_not/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: I have been a Roblox developer for nearly 7 years, starting from late 2019 and ending June this year. Simply put: Roblox development isnt worth it in 2026 The reason I quit after 7 years is because of these things: 1. The Roblox algorthim i
+- **[Roblox Halloween game](https://www.reddit.com/r/robloxgamedev/comments/1xgtckr/roblox_halloween_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: Helo everyone I am a beginner who trying to make a fun game In upcoming Halloween.i am making a drive thru game where you have to serve to monster in the drive thru window and each interaction with the "customers "is going to be chaotic and
+- **[Thougts on the shop ui](https://www.reddit.com/r/robloxgamedev/comments/1xgtw48/thougts_on_the_shop_ui/)** · Reddit r/robloxgamedev public RSS · 2026-10-27
+  - Feed excerpt: should i change anything? submitted by /u/SweatyEducation9431 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Union disappear with Package](https://devforum.roblox.com/t/union-disappear-with-package/4960283)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Every time I update a package with union, the union disappear. It’s not normal to waste so much time and have these kinds of problems on such a large platform as Roblox. 1 post - 1 participant Read full topic
-- **[Experience receiving near-zero Home Recommendation impressions despite being publicly available and acquiring players through advertising.](https://devforum.roblox.com/t/experience-receiving-near-zero-home-recommendation-impressions-despite-being-publicly-available-and-acquiring-players-through-advertising/4960322)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: My experience, Funniest Answer Wins , was released publicly on 20 October 2026. Despite acquiring players through Roblox Sponsored Ads, the experience has received approximately zero Home Recommendation impressions . Steps to reproduce: Ope
-- **[Flickering Particle Flipbook with custom Layout](https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: The flipbook flickers when played within a custom layout 6x6 Video: System Information: CPU: Intel Core i3-10100 16 GB RAM GPU: RX 5700 XT 1 post - 1 participant Read full topic
-- **[Project Chroma - custom character bodies](https://devforum.roblox.com/t/project-chroma-custom-character-bodies/4960316)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Hi all, I’ve been working on a sci-fi project in Roblox for a while, and one part of it is a character that doesn’t use Roblox’s Humanoid at all. The body, its contact with the ground and the animation are all written from scratch for this 
-- **[Visual Shader Graph Editor for Custom Materials and Rendering Effects](https://devforum.roblox.com/t/visual-shader-graph-editor-for-custom-materials-and-rendering-effects/4960281)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: As a Roblox developer, it is currently too hard to create custom rendering effects and materials that go beyond the capabilities exposed by roblox’s existing material system, lighting settings, and post-processing effects. many visual techn
-- **[What am im doing wrong with my game that it gets so little players?](https://devforum.roblox.com/t/what-am-im-doing-wrong-with-my-game-that-it-gets-so-little-players/4960325)** · Roblox Developer Forum latest · 2026-10-27
-  - Feed excerpt: Hello guys, I have made a game in style of retrostudio called RO2016 , which is a 2015-2017 roblox simulation with a mostly accurate website/mobile/console ui and studio (includes filtering compliant lua scripting editor), groups and bunch 
-
-## Youtube
-
-- **[please don’t feed the anomalies. tonight, The Mimic is saving room for you in The Hollow.](https://www.youtube.com/shorts/Uy6W4Xbc3MM)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-27
+- **[Pending final review for longer than 48 hours](https://devforum.roblox.com/t/pending-final-review-for-longer-than-48-hours/4960376)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: This is a support category for asking questions about how to get something done on the Roblox websites or how to do something on Roblox applications such as Roblox Studio. You can write your topic however you want, but you need to answer th
+- **[How can i make camera panning smoother?](https://devforum.roblox.com/t/how-can-i-make-camera-panning-smoother/4960411)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: I want to make the camera movement smoother by letting it glide for a short amount of time after being panned. The topics I Could find on this topic were almost helpful, where I need to recreate the camera’s angle using the mouse delta. Alt
+- **[No AI - Custom Game Thumbnail for Grab a Plush](https://devforum.roblox.com/t/no-ai-custom-game-thumbnail-for-grab-a-plush/4960366)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: Let your eyes take a break from AI game thumbnails. Look at my hand-drawn game thumbnail for Grab A Plush \| Play on Roblox ! Every detail was drawn by hand to give the game its own unique charm instead of relying on generic AI artwork. Made
+- **[\[FOR HIRE\] 3D Modeler \| Weapons, Props, Low-Poly Assets & More](https://devforum.roblox.com/t/for-hire-3d-modeler-weapons-props-low-poly-assets-more/4960351)** · Roblox Developer Forum latest · 2026-10-27
+  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
 
 ---
 
