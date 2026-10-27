@@ -1421,7 +1421,13 @@
     "6e77e695fa47118b1e39e1fa",
     "ec59c4fa8d335b6ba0110d14",
     "bcdebceb5a2aa84e16680843",
-    "60fcd80189cc53cf6d6311db"
+    "60fcd80189cc53cf6d6311db",
+    "bd264933e5dde339ccfe2460",
+    "2837a228fd2d04e07eae7ac6",
+    "0b0917925d0e03963b032843",
+    "9e6c4e062a6eb0d17bf36bcf",
+    "08a534a5e0f5fa05fb1e908b",
+    "9b008f64a76787b209c6a825"
   ],
   "items": [
     {
@@ -1528,6 +1534,18 @@
       "id": "c38c73ad13271bed5fe61c51"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Modulize or use ServerScript for NPCs?",
+      "url": "https://devforum.roblox.com/t/modulize-or-use-serverscript-for-npcs/4959915",
+      "published": "2026-10-27",
+      "excerpt": "Recently i was making an Enemy Npc AI for my game and I tried Modulizing it and I used Claude and it gave me this SoldierAI.__index = SoldierAI function SoldierAI.new(model, Stats) local Self = setmetatable({}, SoldierAI) Stats = Stats or {} Stats.Damage = Stats.Damage or 1.5 Stats.FireRate = Stats.",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/modulize-or-use-serverscript-for-npcs/4959915.rss",
+      "id": "bd264933e5dde339ccfe2460"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1570,6 +1588,17 @@
       "excerpt": "reqs: claude max 5x 20x submitted by /u/brynoo5 [link] [comments]",
       "creator": "/u/brynoo5 https://www.reddit.com/user/brynoo5",
       "id": "a0c1cba770bc19c853b53951"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/",
+      "published": "2026-10-27",
+      "excerpt": "Hi! I just released my first game, Cosmic Pets. It's a pet collecting game with a twist: 🥚 You buy eggs on a conveyor belt and they incubate in your base (90 s) 🦝 While they incubate, other players can steal them, so you have to chase the thief and tag them to get it back ⭐ Fuse 3 identical pets int",
+      "creator": "/u/Nice-Low-3632 https://www.reddit.com/user/Nice-Low-3632",
+      "id": "9e6c4e062a6eb0d17bf36bcf"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1716,7 +1745,7 @@
       "title": "Sci fi map building help",
       "url": "https://devforum.roblox.com/t/sci-fi-map-building-help/4959912",
       "published": "2026-10-27",
-      "excerpt": "I recently started making a city map for a game and i wanted it to have a sci-fi war torn feel.How does it look so far?What are some things i can add to make it better? 1 post - 1 participant Read full topic",
+      "excerpt": "I recently started making a city map for a game and i wanted it to have a sci-fi war torn feel.How does it look so far?What are some things i can add to make it better? 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sci-fi-map-building-help/4959912.rss",
       "id": "49f649e92240e8520c30a02a"
@@ -1779,6 +1808,28 @@
       "id": "2c084931f18103f3a0cffcd9"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[Looking for Team] Need Programmers, UI Makers, and Builders (21+) for \"Eat the Egg\"",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkp59/looking_for_team_need_programmers_ui_makers_and/",
+      "published": "2026-10-27",
+      "excerpt": "Looking for UI makers, coders, and a builder in the 21+ age group . Since I'm currently on a tight budget, I'm offering a 20% share of the game's Robux revenue for each role (60% total for the team, leaving 40% for me). I can pay out via Gamepasses or Developer Products—whichever you prefer. My drea",
+      "creator": "/u/IhateAIlikereally https://www.reddit.com/user/IhateAIlikereally",
+      "id": "2837a228fd2d04e07eae7ac6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is this animation good?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkh30/is_this_animation_good/",
+      "published": "2026-10-27",
+      "excerpt": "do you guys think this animation looks good or does it need anything else (apart from sound effects that i will add later)? submitted by /u/SweatyEducation9431 [link] [comments]",
+      "creator": "/u/SweatyEducation9431 https://www.reddit.com/user/SweatyEducation9431",
+      "id": "0b0917925d0e03963b032843"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1789,6 +1840,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/vulnerability-scan-for-viruses-asap-continuing-about-the-runtime-virus/4959651.rss",
       "id": "0996e86aedbfff61dcaf2621"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Why have I gotten less impressions in my new campaign even though I've spent more money on it and have ran it longer than my old campaign?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkf63/why_have_i_gotten_less_impressions_in_my_new/",
+      "published": "2026-10-27",
+      "excerpt": "I have better CTR and I've spent more money on my current campaign, but my plays, playtime, CPP, and impressions are worse than my old campaign. I haven't changed much about the game since, other than bug fixing and making it feel more satisfying to play, so I'm not sure why these stats are so bad. ",
+      "creator": "/u/Legal_Ad2945 https://www.reddit.com/user/Legal_Ad2945",
+      "id": "08a534a5e0f5fa05fb1e908b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8298,63 +8360,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/add-a-shadow-material/4951240.rss",
       "id": "accbb83f995264141ee73995"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Try and test it out our game (help us to reach 250 players)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc9zk3/try_and_test_it_out_our_game_help_us_to_reach_250/",
-      "published": "2026-10-22",
-      "excerpt": "Hello everyone! please try our new game we’re trying to reach 250 players (16+). It’s honestly a great game but we’re also improving every little details especially everything that comes from all of the feedbacks! game: https://www.roblox.com/share?code=31fab126ebb3054d9dbab4c0f1d88e64&type=Experien",
-      "creator": "/u/Reisu07 https://www.reddit.com/user/Reisu07",
-      "id": "acaa63e063db652dd76d5168"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Commissions Open!!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc3rwh/commissions_open/",
-      "published": "2026-10-22",
-      "excerpt": "Experience: - 4 Years of Roblox Development experience in Building and 3D Modelling - 1 Year of Roblox Development experience in Scripting and UI/UX Design (Rest of my portfolio can be seen in my profile.) Rates & ToS - The rate depends on the Size, Quality and Deadline given to me (Inquire by messa",
-      "creator": "/u/therealestcomrade https://www.reddit.com/user/therealestcomrade",
-      "id": "ac8dc1500aaf7460b5c129d4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Degraded Performance after potential Roblox Server Memory Optimization",
-      "url": "https://devforum.roblox.com/t/degraded-performance-after-potential-roblox-server-memory-optimization/4949621",
-      "published": "2026-10-22",
-      "excerpt": "Hello! We’ve been receiving a ton of reports regarding degraded perofmance in Blox Fruits over the last ~2 days. For context - we have not updated in almost 2 weeks. It seems to be frontloaded, a player will have <1 fps for a bit after joining but the fps will slowly climb the longer they play. Ther",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/degraded-performance-after-potential-roblox-server-memory-optimization/4949621.rss",
-      "id": "ac7adc05e6ad079555b8cd4a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "New type of virus",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xc7m8g/new_type_of_virus/",
-      "published": "2026-10-22",
-      "excerpt": "I was browsing gun models, inserted one (I don't have the exact creator) and playtesting separately a bit later, before the first screenshot appeared with a blurry background (Similar to when you get kicked in a normal game). Before clicking anything I searched up the error \"0x89AF2\" which is not a ",
-      "creator": "/u/AdDear9761 https://www.reddit.com/user/AdDear9761",
-      "id": "a92aa47de87d6ba90068bf94"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My Game , Fumo Popper",
-      "url": "https://devforum.roblox.com/t/my-game-fumo-popper/4949245",
-      "published": "2026-10-22",
-      "excerpt": "Hey guys!, Some time ago i’ve made a game fumo popper, it was about time i shared it here so here it is Roblox Fumo Pop ever wanted to kill fumos?, Me too actually, well, now you can -- CREDITS -- Scripting : me (Spook) Building : Spook (for now..?) icon : spook -------------------------------------",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-game-fumo-popper/4949245.rss",
-      "id": "a83653f2704b125f8fb2473f"
     }
   ]
 }

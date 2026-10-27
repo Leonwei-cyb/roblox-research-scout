@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — cmd/launch: fix OpenCode v2 launch and config parsing (#19310).
+- **Unreviewed lead:** [zengzzzzz/golang-trending-archive](https://github.com/zengzzzzz/golang-trending-archive) (26 stars). track golang trending in github
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
