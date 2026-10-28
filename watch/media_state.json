@@ -1569,7 +1569,11 @@
     "58514cd28937463486e676e3",
     "c7f9ae9934bd7ff7e8794261",
     "66f992aba50d7270f84a8344",
-    "76e6e3d21e53631c49f71348"
+    "76e6e3d21e53631c49f71348",
+    "2b568f40ad518bae7198d4a8",
+    "b9861cd25a6cc06ed4145680",
+    "cdf962182a0e231fe636dd0a",
+    "3aa66b1bd9133e3f7426cdb6"
   ],
   "items": [
     {
@@ -1623,12 +1627,34 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I’m making a BioShock game!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhfcjk/im_making_a_bioshock_game/",
+      "published": "2026-10-28",
+      "excerpt": "https://preview.redd.it/v1c39rlb55yh1.png?width=1584&format=png&auto=webp&s=ccebd54377369f84f9e5bd1fd11c879417732139 I’m making a game based on BioShock, and here is my attempt at replicating the wrench. My intention is for it to be a PvE game, and later on, I’d like to try creating something simila",
+      "creator": "/u/san-jg https://www.reddit.com/user/san-jg",
+      "id": "cdf962182a0e231fe636dd0a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "[recruiting] looking for developers to build profitable roblox games with ai",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhets0/recruiting_looking_for_developers_to_build/",
       "published": "2026-10-28",
       "excerpt": "we’re currently a team of 3, looking for 1 more developers to build and launch original roblox games using ai-assisted development. requirements: claude max 5x/20x, some development experience, creativity, and a strong entrepreneurial mindset. our goal is to divide responsibilities, streamline devel",
       "creator": "/u/brynoo5 https://www.reddit.com/user/brynoo5",
       "id": "c7f9ae9934bd7ff7e8794261"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Help with Robux transfer cancellation/fail recognition",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhfma4/help_with_robux_transfer_cancellationfail/",
+      "published": "2026-10-28",
+      "excerpt": "My game has a system that gives limited quantity items to players who send Robux to other players to other players through the Robux transfer system. Due to the fact that the items that players get for sending Robux are limited, the current system works like this in an effort to stop the same item f",
+      "creator": "/u/Independent-Okra7985 https://www.reddit.com/user/Independent-Okra7985",
+      "id": "b9861cd25a6cc06ed4145680"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1823,6 +1849,17 @@
       "id": "3cb5e81a63379d3702cd1fe2"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for devs to help me make a battlegrounds game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhfc1x/looking_for_devs_to_help_me_make_a_battlegrounds/",
+      "published": "2026-10-28",
+      "excerpt": "I want to make a battle grounds game similar to jujutsu shenanigans, it will be pretty unserious but a fun fighting game. I expect this to be a longer project because i want to put a lot into it. I myself and learning modeling and animating but i will need scripters for all the systems, map builders",
+      "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
+      "id": "3aa66b1bd9133e3f7426cdb6"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1833,6 +1870,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/verified-checkmark-is-oversized-in-playerlist/4961547.rss",
       "id": "395dbe69a0d06a58b23fb288"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "We would LOVE your feedback: Casual and slightly goofy school evasion game made by father/daughter duo!",
+      "url": "https://devforum.roblox.com/t/we-would-love-your-feedback-casual-and-slightly-goofy-school-evasion-game-made-by-fatherdaughter-duo/4961730",
+      "published": "2026-10-28",
+      "excerpt": "Hi! We’re a father/daughter duo working on a new game that’s available to try out right now – and we would love if you could give it a try! It’s got a fairly simple core game loop, aimed it being an easy to pick up casual experience. Playtest thought starters down below… Roblox [🎃] Cheat or FAIL! ✏️",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/we-would-love-your-feedback-casual-and-slightly-goofy-school-evasion-game-made-by-fatherdaughter-duo/4961730.rss",
+      "id": "2b568f40ad518bae7198d4a8"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8448,53 +8497,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-player-crashes-on-launch/4953418.rss",
       "id": "a93c0d0655ac5af14252c126"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Tester long term",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdfud0/tester_long_term/",
-      "published": "2026-10-23",
-      "excerpt": "Is it possible to earn good money by being a long term tester, and if so how much do you think you'll earn per week/month submitted by /u/JamalDsea [link] [comments]",
-      "creator": "/u/JamalDsea https://www.reddit.com/user/JamalDsea",
-      "id": "a70265e1aed4ed729abf77e9"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How To Use Claude Code With An Existing Roblox Game - Full Guide - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZGpPSmFBWFMwcHdOakR3RXo1Vkc2MjVOTXM0alhleldFNS1XRVRNWENXYWcwNVcwdHl4d2VHMzF2SWVYVm4yS0lIVUZQTmkyT1pKUXc1cEFkMlpJNnc?oc=5",
-      "published": "2026-10-23",
-      "excerpt": "How To Use Claude Code With An Existing Roblox Game - Full Guide YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "a2767885e0814a87605c72cb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[PLEASE HELP] BindableFunction infinitely yielding script that invokes it",
-      "url": "https://devforum.roblox.com/t/please-help-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788",
-      "published": "2026-10-23",
-      "excerpt": "i’m so confused i’ve literally been trying to figure out why this is happening for actual hours, and it’s not even an issue with my code or organization, it just REFUSES to work >:[ the callback is set before the BindableFunction is invoked i am not passing any invalid parameters (it literally only ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/please-help-bindablefunction-infinitely-yielding-script-that-invokes-it/4951788.rss",
-      "id": "9dd46f04ac6ae16f81138482"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Support not processing requests (+Discovery Quality Issue)",
-      "url": "https://devforum.roblox.com/t/roblox-support-not-processing-requests-discovery-quality-issue/4952265",
-      "published": "2026-10-23",
-      "excerpt": "Hey! I’ve been trying to submit a bug report for discovery content quality, but this keeps occurring: I haven’t received any confirmation issues. I’ve attached my original support request in private messages. Page URL: https://create.roblox.com/dashboard/creations/experiences/10770433275/places/7368",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-support-not-processing-requests-discovery-quality-issue/4952265.rss",
-      "id": "9d605442136ec51bb7306882"
     }
   ]
 }
