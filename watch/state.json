@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "46d2e4e8fbf9329601452ede6d21b4030faa5607",
-      "head_subject": "llama.cpp: version bump b11963 (#19360)",
+      "head": "04088e7c9d41cba5d33bafbf788d87a465c79d5b",
+      "head_subject": "llama.cpp: workaround Metal unary crash (#19372)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.12",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",

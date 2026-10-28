@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472)** — Public text/page, video not confirmed
+- **[Commerce products not updating from Shopify](https://devforum.roblox.com/t/commerce-products-not-updating-from-shopify/4961267)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
@@ -21,5 +21,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[GML — open-source Luau module loader and utility library](https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208)** — Public text/page, video not confirmed
-- **[I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/)** — Public text/page, video not confirmed
+- **[Perf Auditor roblox studio plugin](https://www.reddit.com/r/robloxgamedev/comments/1xi1jm9/perf_auditor_roblox_studio_plugin/)** — Public text/page, video not confirmed
 - **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Public text/page, video not confirmed
