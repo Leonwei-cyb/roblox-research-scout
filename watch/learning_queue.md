@@ -11,8 +11,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Saved source coverage
 
 - devforum: 308
-- index-only: 15
-- reddit: 267
+- index-only: 14
+- reddit: 268
 - youtube: 8
 
 ## First-Session And Mobile
@@ -51,8 +51,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
+- [My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [My roblox game has just released, it is basically ball vs ball but simulator, and i NEED a tester.](https://www.reddit.com/r/ROBLOXStudio/comments/1xe2sb3/my_roblox_game_has_just_released_it_is_basically/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[Unpaid\] Looking for a few playtesters for a monster ranch tycoon, 10–15 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xf3lbq/unpaid_looking_for_a_few_playtesters_for_a/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 

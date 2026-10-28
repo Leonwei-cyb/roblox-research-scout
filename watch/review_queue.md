@@ -20,6 +20,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[GML — open-source Luau module loader and utility library](https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208)** — Public text/page, video not confirmed
 - **[I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/)** — Public text/page, video not confirmed
-- **[Roblox Studio freezing after playtesting](https://devforum.roblox.com/t/roblox-studio-freezing-after-playtesting/4962001)** — Public text/page, video not confirmed
 - **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Public text/page, video not confirmed

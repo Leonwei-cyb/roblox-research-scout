@@ -5,23 +5,26 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[Steal an Egg is better than Steal a Brainrot, and here's why. Do you agree? Comment your pick and follow for more. #stealanegg #stealabrainrot #roblox #robloxsh](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNWYzWEJ1QnNZQzlkOUZEb05jcURLLUNSN1JXRGpOcVBNa3RQTmROWXFxU21ycVl0M0ltbDVQREU1cTN0NUpIMnAxWWg5YVhLYWFicnFn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-05
+  - Feed excerpt: Steal an Egg is better than Steal a Brainrot, and here's why. Do you agree? Comment your pick and follow for more. #stealanegg #stealabrainrot #roblox #robloxshorts Instagram
+
 ## Community
 
-- **[Do these thumbnails and icons look okay?](https://www.reddit.com/r/robloxgamedev/comments/1xhl2or/do_these_thumbnails_and_icons_look_okay/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: I'm releasing my first game and these are the thumbnails I've made for it. I've tried to take inspiration from other games in this genre for my thumbnails. Personally I think that people are getting sick of smooth looking/AI thumbnails. So 
-- **[My first game feedback](https://www.reddit.com/r/robloxgamedev/comments/1xhliwi/my_first_game_feedback/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: I need players to test my game but for free. Is there any volunteer submitted by /u/Responsible_Data3383 \[link\] \[comments\]
-- **[small edit for our upcoming game called bomb rush join our discord for more updates! https://discord.gg/dc4n9QHfz](https://www.reddit.com/r/robloxgamedev/comments/1xhlp2i/small_edit_for_our_upcoming_game_called_bomb_rush/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: submitted by /u/NasioVector \[link\] \[comments\]
+- **[Could you test my game?](https://www.reddit.com/r/robloxgamedev/comments/1xhmdzu/could_you_test_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Anyone to test my Persona fan game? PersoBlox submitted by /u/Vegetable-Ad8326 \[link\] \[comments\]
+- **[My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Hey everyone! My friend and I have been working on our very first Roblox game, Steal & Escape, and it's finally playable. We'd really love to hear what you think. The idea: you and up to 3 friends pull off night-time heists for a shady boss
+- **[any suggestions](https://www.reddit.com/r/robloxgamedev/comments/1xhn45v/any_suggestions/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: submitted by /u/Fast-Guarantee-946 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Roblox Studio Bug](https://devforum.roblox.com/t/roblox-studio-bug/4962087)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Hello, since yesterday, after installing the latest Studio update, the app has been loading for ever and I’ve been unable to open any games resulting to the error linked down below. I tried deleting and instaling the game back, switching Wi
-- **[Looking for feedback on my first game(Sandbox Tycoon)](https://devforum.roblox.com/t/looking-for-feedback-on-my-first-gamesandbox-tycoon/4962101)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: I have been working on this project for about a month, and am looking to get as much outsider perspective as possible, including what I can improve, what works well/what doesn’t, or anything/suggestions that come to mind when playing it. Re
-- **[Roblox Studio \| 8K Viewport Forced](https://devforum.roblox.com/t/roblox-studio-8k-viewport-forced/4962100)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Since October 26, 2026, I’ve been experiencing recurring Roblox Studio crashes that interrupt development and prevent me from reliably creating and publishing updates to my projects. Logs show the edit layout being restored, followed by a D
+- **[GML — open-source Luau module loader and utility library](https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Hi everyone! I built GML , an MIT-licensed framework for organising Roblox modules and sharing common Luau utilities. The source and full setup guide are here: GitHub - Faruk-Icn/GML: Open source Roblox Luau module lifecycle loader and util
+- **[Roblox's AI Moderation May Violate the EU DSA: Article 17 and Article 53](https://devforum.roblox.com/t/robloxs-ai-moderation-may-violate-the-eu-dsa-article-17-and-article-53/4962200)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: This account was recently terminated without any specific reason being given! I have received two moderation notices, neither of which provided any details about the alleged violations, and both appear to have resulted in my account being t
 
 ---
 

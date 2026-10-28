@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "c2db8acea74cc7aba6731f3916eb8a0039717dee",
-      "head_subject": "README - Link to LLM key setup tutorial",
+      "head": "960eb997b2d9f9bd5811ddf8ae1019649062d484",
+      "head_subject": "Important HTML->text library update (inscriptis) fixes memory use expansion caused by tables, remove phantom whitespaces from selected elements, may cause whitespace changes.",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -156,6 +156,7 @@
     "FreshRSS/FreshRSS",
     "Geek-Cheth/AI-Tools-Hub",
     "JefferyLee/awesome-vibe-coded-apps",
+    "LinuxSuRen/awesome-ai",
     "MSayib/roblox-dev-skill",
     "Manavarya09/public-apis-live",
     "MichengAI/dsh-agency-agents",
