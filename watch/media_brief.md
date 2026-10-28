@@ -5,33 +5,28 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Animations And Vfx
+
+- **[Eclipse Animator - Beginner's Guide (2026) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZnV4NEhQS0lHR2pEUzhxc2ZBQS1naEpMdUpjc015M19Pdm8yZ05xWDd3ZDBrNWFQUFBtbjFjck9QNjV6M1ZWaFJBRVNjZ1ppOXVld1B3?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-10-14
+  - Feed excerpt: Eclipse Animator - Beginner's Guide (2026) YouTube
+
 ## Community
 
-- **[How much should I spend on ads?](https://www.reddit.com/r/robloxgamedev/comments/1xhqbvl/how_much_should_i_spend_on_ads/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: I have been working on a few projects, but whenever I publicize them, they get 0 player engagement. The metrics show that they never even appeared to a player’s page in the first place. This makes it seem imperative to spend money on ads, a
-- **[I Published my First Roblox and It's an Horror Game](https://www.reddit.com/r/robloxgamedev/comments/1xhpnmc/i_published_my_first_roblox_and_its_an_horror_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Doing this as an Hobby and happy that it's now published hahaha Game: https://www.roblox.com/games/86963659572996/Dont-Shoot submitted by /u/Sharp_Project_893 \[link\] \[comments\]
-- **[I finally released my Bonsai Garden Roblox Game](https://www.reddit.com/r/robloxgamedev/comments/1xhooqk/i_finally_released_my_bonsai_garden_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: This game has been a solo passion project for I dont even know how long. It was an incredible learning journey and hope you will all enjoy playing it as much as I enjoyed building it. You will have the chance to create your own personal Jap
-- **[Roblox is testing the web client (run roblox in browser)](https://www.reddit.com/r/robloxgamedev/comments/1xhpud3/roblox_is_testing_the_web_client_run_roblox_in/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: https://play.roblox.com/games/start?placeid=189707 Just replace it to your account game placeid it will work Note: take care your ram https://preview.redd.it/a7v7146zy7yh1.png?width=1080&format=png&auto=webp&s=52f03d4ff0be08afdb13ecbe1cd2b6
-- **[Use of AI in the current Roblox Development Scene](https://www.reddit.com/r/robloxgamedev/comments/1xhqhs8/use_of_ai_in_the_current_roblox_development_scene/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Was wondering what everyone’s thoughts are on the unequivocal increase in the use of AI in Roblox Development. It seems that every game uses it now, albeit different in the magnitude of its usage, which brings up the question whether or not
+- **[If you like Steal the Egg games, check out mine: cool maps, house building and tons of eggs!](https://www.reddit.com/r/robloxgamedev/comments/1xhr7sx/if_you_like_steal_the_egg_games_check_out_mine/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Hi everyone, I made a Steal the Egg game on Roblox called STEAL THE EGG (creator: buujaa01), and if you enjoy this genre, I think you might like it. What makes it special: - Cool maps: different areas to explore, each with its own style - H
+- **[Made a +1 mining simulator solo — looking for honest feedback and testers before launch](https://www.reddit.com/r/robloxgamedev/comments/1xhrb99/made_a_1_mining_simulator_solo_looking_for_honest/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Hey everyone! I've been working on my game \[+1\] Ore Mining Simulator for about 4.5 months and I'm planning to launch it in early December. Before that, I'd really love some fresh eyes on it. You mine ores to gain Mining Power, unlock better
+- **[My first Roblox game lets you steal other players' creatures and carry them over your head](https://www.reddit.com/r/robloxgamedev/comments/1xhrkz6/my_first_roblox_game_lets_you_steal_other_players/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: I've been working on my first game, Steal a Mutation. You collect creatures, mutate them in a machine into rare versions (Legendary, Secret, Cosmic), and can sneak into other players' bases to steal them. Some things I added: When you steal
+- **[Roblox... or is it minecraft?](https://www.reddit.com/r/robloxgamedev/comments/1xhqqjh/roblox_or_is_it_minecraft/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: I made ported 1.7.10 Minecraft Bedwars onto Roblox! https://preview.redd.it/1miazu6y48yh1.png?width=1920&format=png&auto=webp&s=1638d41a70517b617b3f22cfc1c2b74f77a464e5 submitted by /u/Superb_Criticism8504 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Failed to fetch Place info](https://devforum.roblox.com/t/failed-to-fetch-place-info/4962380)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Hello I can open roblox studio. It says failed to fetch info 129660986403142 A private message is associated with this bug report 1 post - 1 participant Read full topic
-- **[My roblox studio doesn't load](https://devforum.roblox.com/t/my-roblox-studio-doesnt-load/4962348)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: I got an issue when I open roblox studio it doesn’t load anything, I tried to reinstall it and its the same issue. someone please help me 2 posts - 2 participants Read full topic
-- **["Emotes are disabled in this experience" when you have none equipped](https://devforum.roblox.com/t/emotes-are-disabled-in-this-experience-when-you-have-none-equipped/4962372)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: If you have no emotes equipped, it says emotes are not enabled in the experience. This is consistent across all experiences Expected behavior It should not say emotes are disabled. The message should imply I dont have any equipped 1 post - 
-- **[Able to join games you dont own in your browser](https://devforum.roblox.com/t/able-to-join-games-you-dont-own-in-your-browser/4962398)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Hey, as far as I know you should only be able to join your own games in your browser right now: Open Roblox Web Experience (Dont replace URPLACEID) It will connect you to the Homepage (Not like the browser, like the App) Click play on any g
-- **[Opt-in per-experience relaxation of age-based chat restrictions](https://devforum.roblox.com/t/opt-in-per-experience-relaxation-of-age-based-chat-restrictions/4962382)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: 2455 words (including this sentence at the top). Apologies for whoever was expecting a short read. As a Roblox developer, it is currently too hard to create community and communication-centered roleplay, specifically “LARP” games and commun
-- **[Where do MicroProfiler logs go and how do I clear cache and memory or localappdata of https://play.roblox.com/games/start?placeId=](https://devforum.roblox.com/t/where-do-microprofiler-logs-go-and-how-do-i-clear-cache-and-memory-or-localappdata-of-httpsplayrobloxcomgamesstartplaceid/4962293)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Description https://play.roblox.com/games/start?placeId= Where do captured MicroProfiler logs go when you capture it from Roblox Browser, and where can you clear the download cache and other stuff for it without clearing all the cookies? e.
+- **[Client and Server Cooldown Desync](https://devforum.roblox.com/t/client-and-server-cooldown-desync/4962409)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Hello everyone, I am currently in process of developing a weapon-based combat system, and I am having issues with the client-server boundary while managing cooldowns, ammo, etc. How my current structure works: The client will validate if co
+- **[Journey Funnel Event page error](https://devforum.roblox.com/t/journey-funnel-event-page-error/4962455)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Journeys gives me a could not load error. A staff member enabled this view for me (see this post, Log Journey Events not appearing - #2 by srakurinho ) but it won’t actually load any of the journey events. Later in the same post another sta
 
 ---
 
