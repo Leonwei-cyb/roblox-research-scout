@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 305
-- index-only: 15
-- reddit: 270
+- devforum: 308
+- index-only: 16
+- reddit: 266
 - youtube: 8
 
 ## First-Session And Mobile
@@ -32,7 +32,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Economy And Income
 
 - [Just released my new game: Bug Squisher Simulator! What do you guys think?](https://www.reddit.com/r/robloxgamedev/comments/1xf3ndw/just_released_my_new_game_bug_squisher_simulator/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Roblox developers: how do you currently balance your game’s economy and progression?](https://www.reddit.com/r/robloxgamedev/comments/1xd2t46/roblox_developers_how_do_you_currently_balance/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Solo Roblox developer looking for honest feedback on my first game — what should I improve?](https://www.reddit.com/r/ROBLOXStudio/comments/1xdua6k/solo_roblox_developer_looking_for_honest_feedback/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 

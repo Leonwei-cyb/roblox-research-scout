@@ -5,24 +5,26 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Roblox Creator / Ai Development
 
-- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeHl4aTJBa3BWdUpwN0FtVWV1aW9CLTljV3d4TDMyOUMwZEM5YkJXVDVJVjZNSl81cER2SDB4Q2FqYWNwbHV5cFlWTVlad0hDUjZUekRR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-20
-  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+- **[The New Rules of the Algorithm (2026) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYdXZQLXZFX0U0cFU3aW1MWW9sZU1BNEZZTTg4X0lDWU9Pd0pmaTQ5UV91MldwNHhFbFNPSWViVmlhZUxTczlYY2s1UHE2VWM2bEdUczZ3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-23
+  - Feed excerpt: The New Rules of the Algorithm (2026) YouTube
 
 ## Community
 
-- **[STEAL A LUCKY BLOCK](https://www.reddit.com/r/robloxgamedev/comments/1xhj43g/steal_a_lucky_block/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: https://www.roblox.com/games/109334681527519/Lucky-Heist-And-Race submitted by /u/Miserable-Arm-3693 \[link\] \[comments\]
+- **[Looking for 16+ Roblox playtesters — I’ll test your game too!](https://www.reddit.com/r/robloxgamedev/comments/1xhjwhm/looking_for_16_roblox_playtesters_ill_test_your/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Hey everyone! I’m looking for players with eligible 16+ Roblox accounts to try my game for a few minutes and share some honest feedback. If you try mine, leave your game link in the comments and I’ll return the favor! Please mention what yo
+- **[I made a horror game about an abandoned subway and an anomaly controller. Looking for feedback on the atmosphere!](https://www.reddit.com/r/robloxgamedev/comments/1xhkfqp/i_made_a_horror_game_about_an_abandoned_subway/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Hi everyone! I've been working on this game called Last Station. It's a horror game with 3 endings and two modes: you can play as the controller (with other players) OR play solo against a bot controller. I tried to make the lighting and lo
 
 ## Roblox Updates
 
-- **[Add an Option to require approval for Team Create invites](https://devforum.roblox.com/t/add-an-option-to-require-approval-for-team-create-invites/4961938)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: As a Roblox developer, it is currently too hard to Control which Team Create sessions I am added to by trusted Friends. Currently, if another user is age verified, in the proper age group, and on my friends list, they can automatically add 
-- **[Benchmarks overview 7 day average is broken](https://devforum.roblox.com/t/benchmarks-overview-7-day-average-is-broken/4961975)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: I couldn’t find a thread about this yet, which is surprising as this has been a bug for over a week at this point; The toggle between 7-day average and Daily benchmark stats is completely broken. Switching between the two only seems to chan
-- **[More Detailed Dislike Analytics in Creator Dashboard](https://devforum.roblox.com/t/more-detailed-dislike-analytics-in-creator-dashboard/4961959)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: As a Roblox developer, it is currently difficult to understand why players dislike an experience. While the Feedback Dashboard and existing analytics provide useful information, I believe there is still a lack of insight into the gameplay b
+- **[Roblox Studio freezing after playtesting](https://devforum.roblox.com/t/roblox-studio-freezing-after-playtesting/4962001)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: The freezing started from the 25th, which, at that time i downloaded two plugins, i deleted them or tried disabling other plugins, still did not fix I tried: Disabling Beta features Redownloading Studio freezes like this, some buttons work,
+- **[Free Low-Poly 3D Assets](https://devforum.roblox.com/t/free-low-poly-3d-assets/4962046)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: I make all these models myself, so feel free to use them however you want! I’ll keep updating this topic with new models as I create them, as long as the topic stays open and allows me to. Enjoy the assets! Kawaii Onigiri Simpsons Prop Pack
+- **[Reminder: Your RNG Logic Can Still Be Broken](https://devforum.roblox.com/t/reminder-your-rng-logic-can-still-be-broken/4962011)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: I keep getting DMs that look something like this: “exploiters keep getting rare items, my remotes have sanity checks, I have no idea how” In almost every case the remotes are fine. The loot RNG is predictable and someone is abusing it. Does
 
 ---
 
