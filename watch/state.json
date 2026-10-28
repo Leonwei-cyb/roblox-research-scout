@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "f067033f9126993b6172bdfffa71a74ad693fda4",
-      "head_subject": "mlx: add LFM3 and d1 models (#19333)",
+      "head": "3fbc609be4b3ac5af8061bef6b0013a32e50d17f",
+      "head_subject": "llm: LFM3 GGUF fixes and llama-server speech (#19344)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.12",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",

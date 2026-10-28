@@ -1547,7 +1547,11 @@
     "7afa74531a4188fb116218a4",
     "755e8e95d69e057f5f8b5eac",
     "fd1c52e6c3173dbb7011edd4",
-    "28ef93be621c290db2fcb940"
+    "28ef93be621c290db2fcb940",
+    "395dbe69a0d06a58b23fb288",
+    "b49454b5011def51ca494a0b",
+    "b259dbc4c90a220fb7eae69b",
+    "7220e4c065d2dcec29ca221b"
   ],
   "items": [
     {
@@ -1584,6 +1588,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/rbx-worker-c-thread-30-gigabyte-request-streaming-crash/4961412.rss",
       "id": "de15b00cbb30a1ee31428fba"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I need someone to test the game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhchmv/i_need_someone_to_test_the_game/",
+      "published": "2026-10-28",
+      "excerpt": "submitted by /u/PsychologicalTie1794 [link] [comments]",
+      "creator": "/u/PsychologicalTie1794 https://www.reddit.com/user/PsychologicalTie1794",
+      "id": "b49454b5011def51ca494a0b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Day 3 for Peryaan! (Dev voice over)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhcf5n/day_3_for_peryaan_dev_voice_over/",
+      "published": "2026-10-28",
+      "excerpt": "Peryaan is a Philippine Carnival held in most Barangays and Cities in the Philippines. It consists of attractions, stalls, game booths, and street foods scattered all over. It is a famous hangout spot whenever a Perya is in town, and it opens at night and gets busier just before they close. It is on",
+      "creator": "/u/Hellzyne https://www.reddit.com/user/Hellzyne",
+      "id": "b259dbc4c90a220fb7eae69b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1665,6 +1691,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/account-registration-fails-to-apply-gendered-head-shapes-to-the-stevie-standard-head/4961386.rss",
       "id": "506d85b1ee732b095abca9bc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Verified Checkmark Is Oversized in Playerlist",
+      "url": "https://devforum.roblox.com/t/verified-checkmark-is-oversized-in-playerlist/4961547",
+      "published": "2026-10-28",
+      "excerpt": "Visual Aids: Direct Links: N/A System Information: Client Version: 0.745.0.7451137 (d2664f) Server Version: 0.745.0.7451137 (d2664f) Server Channel: production Place Version: 2371 Client CoreScript Version: 80471914653504.15919 Browser Information: Available upon Request Description: When you have y",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/verified-checkmark-is-oversized-in-playerlist/4961547.rss",
+      "id": "395dbe69a0d06a58b23fb288"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2604,7 +2642,7 @@
       "title": "The Hollow event item not being given to me even though i bought it in game",
       "url": "https://devforum.roblox.com/t/the-hollow-event-item-not-being-given-to-me-even-though-i-bought-it-in-game/4961257",
       "published": "2026-10-27",
-      "excerpt": "As the title states, i had enough currency so i bought the quack o lantern and the spectral skull of nevermoor however i did not receive the items NOR the badges. It does show that i bought them in game tho. I tried rejoining a couple times but that doesnt work 1 post - 1 participant Read full topic",
+      "excerpt": "As the title states, i had enough currency so i bought the quack o lantern and the spectral skull of nevermoor however i did not receive the items NOR the badges. It does show that i bought them in game tho. I tried rejoining a couple times but that doesnt work 2 posts - 2 participants Read full top",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-hollow-event-item-not-being-given-to-me-even-though-i-bought-it-in-game/4961257.rss",
       "id": "6df1349cd752a43761aba748"
@@ -8444,40 +8482,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767.rss",
       "id": "778f0bfa2db7ddae3a1757a6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Why is he spinning",
-      "url": "https://devforum.roblox.com/t/why-is-he-spinning/4952234",
-      "published": "2026-10-23",
-      "excerpt": "All im trying to do is create custom animations for my game but for SOME REASON the HUMANOID ROOT PART, IS SPINNING i have NO IDEA what to do and i need HELP. notes: i checked the animation and it doesnt spin like that The humanoidrootpart is the one spinning it only happens with Idle Animations ple",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/why-is-he-spinning/4952234.rss",
-      "id": "7603fb40695c03da8595163a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Map/Level Design",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd33qs/maplevel_design/",
-      "published": "2026-10-23",
-      "excerpt": "Any tips on leveraging AI for map/level design? I’m struggling to get a nice design for a lobby. At what point should I outsource this? And where could I outsource this? submitted by /u/AuPo_2 [link] [comments]",
-      "creator": "/u/AuPo_2 https://www.reddit.com/user/AuPo_2",
-      "id": "753e7bea2ce3f28c53ad325f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "tool and arms doesn't animate :(",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczajw/tool_and_arms_doesnt_animate/",
-      "published": "2026-10-23",
-      "excerpt": "I use moon animator, I use 3 animations for the hammer, idle, movement and action, but when I equip the hammer, the arms and the hammer doesn't animate, is there a way to solve this? I will appreciate help, ty submitted by /u/matioxi333 [link] [comments]",
-      "creator": "/u/matioxi333 https://www.reddit.com/user/matioxi333",
-      "id": "744beb920d949412ef9c9458"
     }
   ]
 }
