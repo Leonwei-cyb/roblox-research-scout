@@ -20,6 +20,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[Looking for 16+ Roblox playtesters — I’ll test your game too!](https://www.reddit.com/r/robloxgamedev/comments/1xhepgq/looking_for_16_roblox_playtesters_ill_test_your/)** — Public text/page, video not confirmed
+- **[I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/)** — Public text/page, video not confirmed
 - **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Public text/page, video not confirmed
 - **[Plugin Screenshot Support in Studio](https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927)** — Public text/page, video not confirmed

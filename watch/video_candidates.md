@@ -4,6 +4,7 @@
 
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
+- **[I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[\[Unpaid\] Looking for a few playtesters for a monster ranch tycoon, 10–15 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xf3lbq/unpaid_looking_for_a_few_playtesters_for_a/)** — Community showcase post (video not confirmed) · 2026-10-25
 - **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Community showcase post (video not confirmed) · 2026-10-23
 - **[My IK system for Animations](https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/)** — Community showcase post (video not confirmed) · 2026-10-24
