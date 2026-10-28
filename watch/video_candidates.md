@@ -9,6 +9,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[My IK system for Animations](https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/)** — Community showcase post (video not confirmed) · 2026-10-24
 - **[Animation not loading?](https://www.reddit.com/r/robloxgamedev/comments/1xf1zgz/animation_not_loading/)** — Community showcase post (video not confirmed) · 2026-10-25
 - **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Community showcase post (video not confirmed) · 2026-10-27
+- **[Looking for 16+ Roblox playtesters — I’ll test your game too!](https://www.reddit.com/r/robloxgamedev/comments/1xhepgq/looking_for_16_roblox_playtesters_ill_test_your/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[Tips for animation?](https://www.reddit.com/r/robloxgamedev/comments/1xhdh8w/tips_for_animation/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[Is this animation good?](https://www.reddit.com/r/robloxgamedev/comments/1xgkh30/is_this_animation_good/)** — Community showcase post (video not confirmed) · 2026-10-27
 

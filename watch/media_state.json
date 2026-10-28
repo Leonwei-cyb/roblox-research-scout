@@ -1563,7 +1563,13 @@
     "8565c7a19b0a9f17ab946461",
     "265a7eeedc319ce70c1d9359",
     "97745aa1ba2477557329d43d",
-    "c6841a36198658e4678ea059"
+    "c6841a36198658e4678ea059",
+    "e31032c0ab7ca9c4ea5cd656",
+    "04e6c978435fa7eea7959c9b",
+    "58514cd28937463486e676e3",
+    "c7f9ae9934bd7ff7e8794261",
+    "66f992aba50d7270f84a8344",
+    "76e6e3d21e53631c49f71348"
   ],
   "items": [
     {
@@ -1593,6 +1599,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Multiple stolen copies of my original UGC “Waist | The Killer Jester” (including by a verified group)",
+      "url": "https://devforum.roblox.com/t/multiple-stolen-copies-of-my-original-ugc-%E2%80%9Cwaist-the-killer-jester%E2%80%9D-including-by-a-verified-group/4961663",
+      "published": "2026-10-28",
+      "excerpt": "I am writing this post with a significant amount of frustration. I am the original creator of the UGC accessory Waist | The Killer Jester. The only official uploads of this item are from these two groups: Strictly Business Productions → Strictly Business Productions - Roblox Bonnies Paradise → Bonni",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/multiple-stolen-copies-of-my-original-ugc-%E2%80%9Cwaist-the-killer-jester%E2%80%9D-including-by-a-verified-group/4961663.rss",
+      "id": "e31032c0ab7ca9c4ea5cd656"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "\"RBX Worker C\" Thread 30 Gigabyte Request (Streaming Crash)",
       "url": "https://devforum.roblox.com/t/rbx-worker-c-thread-30-gigabyte-request-streaming-crash/4961412",
       "published": "2026-10-28",
@@ -1600,6 +1618,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/rbx-worker-c-thread-30-gigabyte-request-streaming-crash/4961412.rss",
       "id": "de15b00cbb30a1ee31428fba"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[recruiting] looking for developers to build profitable roblox games with ai",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhets0/recruiting_looking_for_developers_to_build/",
+      "published": "2026-10-28",
+      "excerpt": "we’re currently a team of 3, looking for 1 more developers to build and launch original roblox games using ai-assisted development. requirements: claude max 5x/20x, some development experience, creativity, and a strong entrepreneurial mindset. our goal is to divide responsibilities, streamline devel",
+      "creator": "/u/brynoo5 https://www.reddit.com/user/brynoo5",
+      "id": "c7f9ae9934bd7ff7e8794261"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1630,7 +1659,7 @@
       "title": "ParticleEmitters with orientation set to \"VelocityPerpendicular\" will not align correctly with it's parent",
       "url": "https://devforum.roblox.com/t/particleemitters-with-orientation-set-to-velocityperpendicular-will-not-align-correctly-with-its-parent/4961610",
       "published": "2026-10-28",
-      "excerpt": "SORRY if this is worded weirdly, never posted much in forums in general and it’s a first time here, onto the issue: as you can see, the cube’s orientation is not one divisible by 90, w, and that is causing for the particles to clip out of the cube, ruining the expected visual Expected behavior What ",
+      "excerpt": "SORRY if this is worded weirdly, never posted much in forums in general and it’s a first time here, onto the issue: as you can see, the cube’s orientation is not one divisible by 90, and that is causing for the particles to clip out of the cube, ruining the expected visual Expected behavior What I e",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/particleemitters-with-orientation-set-to-velocityperpendicular-will-not-align-correctly-with-its-parent/4961610.rss",
       "id": "b062a627cf8176f0b94ac8c6"
@@ -1737,6 +1766,17 @@
       "id": "72ab19c676e8abd278d0932a"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for 16+ Roblox playtesters — I’ll test your game too!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhepgq/looking_for_16_roblox_playtesters_ill_test_your/",
+      "published": "2026-10-28",
+      "excerpt": "Hey everyone! I’m looking for players with eligible 16+ Roblox accounts to try my game for a few minutes and share some honest feedback. If you try mine, leave your game link in the comments and I’ll return the favor! Please mention what you played and one thing you liked or thought could be improve",
+      "creator": "/u/Candid_Stand4237 https://www.reddit.com/user/Candid_Stand4237",
+      "id": "66f992aba50d7270f84a8344"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1747,6 +1787,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/just-a-console-warning/4961417.rss",
       "id": "5916689c21d6672bd74b6928"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I Updated my gibbing / added blood",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhb15s/i_updated_my_gibbing_added_blood/",
+      "published": "2026-10-28",
+      "excerpt": "really really really goery 😮😮 submitted by /u/No_Application6917 [link] [comments]",
+      "creator": "/u/No_Application6917 https://www.reddit.com/user/No_Application6917",
+      "id": "58514cd28937463486e676e3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1816,6 +1867,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/never-gotten-3-of-my-crown-of-os/4961366.rss",
       "id": "063f10ada8e01144048efb83"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Would adding a comments under books system in my game be allowed or not?",
+      "url": "https://devforum.roblox.com/t/would-adding-a-comments-under-books-system-in-my-game-be-allowed-or-not/4961659",
+      "published": "2026-10-28",
+      "excerpt": "I’m thinking about adding a system where players can write books in one of the games I’m working on, and I was wondering if making players able to comment on books would be allowed with the recent updates. On the chat system guidelines page it says that comments on posts in games are not considered ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/would-adding-a-comments-under-books-system-in-my-game-be-allowed-or-not/4961659.rss",
+      "id": "04e6c978435fa7eea7959c9b"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8432,65 +8495,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-support-not-processing-requests-discovery-quality-issue/4952265.rss",
       "id": "9d605442136ec51bb7306882"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Function parameters inside an overloaded function are type unknown.",
-      "url": "https://devforum.roblox.com/t/function-parameters-inside-an-overloaded-function-are-type-unknown/4952562",
-      "published": "2026-10-23",
-      "excerpt": "type TestOverload = ((k: \"SomeNumber\", func: (nv: number) -> ()) -> ()) & ((k: \"SomeBoolean\", func: (nv: boolean) -> ()) -> ()) const Test: TestOverload = function(k, func) end Test(\"SomeNumber\", function(nv) -- nv is unknown. end) Studio’s tooltip does recognizes the correct overload from the first",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/function-parameters-inside-an-overloaded-function-are-type-unknown/4952562.rss",
-      "id": "9baec534bdc702e1c8d0d7f0"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How to prevent getting banned for stupid stuff?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdt39n/how_to_prevent_getting_banned_for_stupid_stuff/",
-      "published": "2026-10-23",
-      "excerpt": "https://preview.redd.it/wc8r8bssuaxh1.png?width=502&format=png&auto=webp&s=d70bfddfe5dd039bb5c1af9c29e4e71a65a43ad5 This is actually ridiculous. It flagged it twice. I get banned. And now I have to appeal the ban and wait 5 business days. There is literally nothing wrong with this image and now I ca",
-      "creator": "/u/Todzlerr https://www.reddit.com/user/Todzlerr",
-      "id": "997bb81200196304481d2471"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Android] Unable to scroll through the end of the App information]",
-      "url": "https://devforum.roblox.com/t/android-unable-to-scroll-through-the-end-of-the-app-information/4952196",
-      "published": "2026-10-23",
-      "excerpt": "As you see in the video, when I went to the about section and then clicking on the app information,I can’t scroll through the end of the longer text to read because, it’s getting blocked by the navigation bottom. This issue can be fixed by leaving more space to the text 1 post - 1 participant Read f",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/android-unable-to-scroll-through-the-end-of-the-app-information/4952196.rss",
-      "id": "98a60c4f37523a5cd3a3f8f4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Not Compatible with IPhone Duo SDK iOS 27.1",
-      "url": "https://devforum.roblox.com/t/roblox-not-compatible-with-iphone-duo-sdk-ios-271/4952618",
-      "published": "2026-10-23",
-      "excerpt": "On the iPhone Duo, the Roblox app doesn’t use the inner display full size. When the phone is unfolded, the whole app runs inside a small, iPhone-sized window in the middle of the screen with black borders around it, so more than half of the display stays black. This happens in both orientations: Lan",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-not-compatible-with-iphone-duo-sdk-ios-271/4952618.rss",
-      "id": "9879cb46d820c5be04e6de67"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Account Ban Lifted, but Group Remains Locked - Support Tickets Ignored",
-      "url": "https://devforum.roblox.com/t/account-ban-lifted-but-group-remains-locked-support-tickets-ignored/4952638",
-      "published": "2026-10-23",
-      "excerpt": "Hello everyone, I am currently dealing with a known bug that is completely blocking my game’s live test phase. A while ago, my account was temporarily banned, which naturally locked my groups. My appeal was successful and the account ban was lifted. However, due to a system bug, the group locks were",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/account-ban-lifted-but-group-remains-locked-support-tickets-ignored/4952638.rss",
-      "id": "9765bb91318eacbc0dc75fd7"
     }
   ]
 }
