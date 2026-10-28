@@ -5,26 +5,19 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[Steal an Egg is better than Steal a Brainrot, and here's why. Do you agree? Comment your pick and follow for more. #stealanegg #stealabrainrot #roblox #robloxsh](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNWYzWEJ1QnNZQzlkOUZEb05jcURLLUNSN1JXRGpOcVBNa3RQTmROWXFxU21ycVl0M0ltbDVQREU1cTN0NUpIMnAxWWg5YVhLYWFicnFn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-05
-  - Feed excerpt: Steal an Egg is better than Steal a Brainrot, and here's why. Do you agree? Comment your pick and follow for more. #stealanegg #stealabrainrot #roblox #robloxshorts Instagram
-
 ## Community
 
-- **[Could you test my game?](https://www.reddit.com/r/robloxgamedev/comments/1xhmdzu/could_you_test_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Anyone to test my Persona fan game? PersoBlox submitted by /u/Vegetable-Ad8326 \[link\] \[comments\]
-- **[My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hey everyone! My friend and I have been working on our very first Roblox game, Steal & Escape, and it's finally playable. We'd really love to hear what you think. The idea: you and up to 3 friends pull off night-time heists for a shady boss
-- **[any suggestions](https://www.reddit.com/r/robloxgamedev/comments/1xhn45v/any_suggestions/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: submitted by /u/Fast-Guarantee-946 \[link\] \[comments\]
+- **[Game Difficulty (And what to do)](https://www.reddit.com/r/robloxgamedev/comments/1xhngbn/game_difficulty_and_what_to_do/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: When building a game I always struggle on the balance part of it. So, what are you guys aiming at ? Simple game that can be mastered easily or a bit of difficulty so the game is longer but creates frustration ? Right now I am creating a rog
+- **[Looking for 16+ testers for two arcade MVP games (Will test yours back!)](https://www.reddit.com/r/robloxgamedev/comments/1xhnlfu/looking_for_16_testers_for_two_arcade_mvp_games/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Hey everyone, I’ve recently pushed out two small arcade MVP games, but as a solo dev dealing with the new platform restrictions, I'm currently stuck trying to clear the initial 250-player threshold to unlock organic traffic for under-16 use
+- **[My first roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xhnm8y/my_first_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Axe Master Simulator. Hello I'm a new developer. This is my first game and I would like to hear what you think about it, what I can improve. The link to the game is against the group terms so you can search my name "BladePool_X" and find it
 
 ## Roblox Updates
 
-- **[GML — open-source Luau module loader and utility library](https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Hi everyone! I built GML , an MIT-licensed framework for organising Roblox modules and sharing common Luau utilities. The source and full setup guide are here: GitHub - Faruk-Icn/GML: Open source Roblox Luau module lifecycle loader and util
-- **[Roblox's AI Moderation May Violate the EU DSA: Article 17 and Article 53](https://devforum.roblox.com/t/robloxs-ai-moderation-may-violate-the-eu-dsa-article-17-and-article-53/4962200)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: This account was recently terminated without any specific reason being given! I have received two moderation notices, neither of which provided any details about the alleged violations, and both appear to have resulted in my account being t
+- **[Is hot swapping code & assets on production game servers against TOS?](https://devforum.roblox.com/t/is-hot-swapping-code-assets-on-production-game-servers-against-tos/4962250)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: With the new publishing requirement changes it just occurred to me that a development tool I’ve been working on for a while called “TypeTorch” may cause some issues and questions in “Place Review” phase. It basically allows you to replace c
 
 ---
 

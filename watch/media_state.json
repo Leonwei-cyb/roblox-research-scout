@@ -1609,7 +1609,11 @@
     "21b1a910b0965e62b1d1cfc3",
     "a6a28573803cb7d83116b206",
     "896f1ea5b95a6d8b18a07c09",
-    "b662b4c4e39fd02851493c48"
+    "b662b4c4e39fd02851493c48",
+    "79370d65bae6dac287300ba4",
+    "2ed979c1e7564c5a3a65a888",
+    "6044a83aa9dfaffff723beb2",
+    "9851601aa1cfe8b9e4626036"
   ],
   "items": [
     {
@@ -1910,6 +1914,17 @@
       "id": "99d9c4bc3ccf7523bf081dff"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Game Difficulty (And what to do)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhngbn/game_difficulty_and_what_to_do/",
+      "published": "2026-10-28",
+      "excerpt": "When building a game I always struggle on the balance part of it. So, what are you guys aiming at ? Simple game that can be mastered easily or a bit of difficulty so the game is longer but creates frustration ? Right now I am creating a rogue like door runner and I am really struggling to have a smo",
+      "creator": "/u/Top_Switch_7164 https://www.reddit.com/user/Top_Switch_7164",
+      "id": "9851601aa1cfe8b9e4626036"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1992,6 +2007,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Is hot swapping code & assets on production game servers against TOS?",
+      "url": "https://devforum.roblox.com/t/is-hot-swapping-code-assets-on-production-game-servers-against-tos/4962250",
+      "published": "2026-10-28",
+      "excerpt": "With the new publishing requirement changes it just occurred to me that a development tool I’ve been working on for a while called “TypeTorch” may cause some issues and questions in “Place Review” phase. It basically allows you to replace code and marked assets in a live server, making publishing up",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/is-hot-swapping-code-assets-on-production-game-servers-against-tos/4962250.rss",
+      "id": "79370d65bae6dac287300ba4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Notify the player whenever a game they have notifications on for has an event",
       "url": "https://devforum.roblox.com/t/notify-the-player-whenever-a-game-they-have-notifications-on-for-has-an-event/4961469",
       "published": "2026-10-28",
@@ -2055,6 +2082,17 @@
       "excerpt": "Hello everyone! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested submitted by /u/WinReasonable3771 [link] [comments]",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "627572ba10928c1d0fd34721"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for 16+ testers for two arcade MVP games (Will test yours back!)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhnlfu/looking_for_16_testers_for_two_arcade_mvp_games/",
+      "published": "2026-10-28",
+      "excerpt": "Hey everyone, I’ve recently pushed out two small arcade MVP games, but as a solo dev dealing with the new platform restrictions, I'm currently stuck trying to clear the initial 250-player threshold to unlock organic traffic for under-16 users. The games are currently running smoothly for our 16+ tes",
+      "creator": "/u/Old_Eye_9624 https://www.reddit.com/user/Old_Eye_9624",
+      "id": "6044a83aa9dfaffff723beb2"
     },
     {
       "source": "reddit-robloxdev",
@@ -2181,6 +2219,17 @@
       "excerpt": "Fullmetal is an ambitious open-world Roblox RPG inspired by Fullmetal Alchemist: Brotherhood . The project focuses on creating an immersive anime experience with fluid combat, detailed environments, cinematic animations, and long-term character progression. The game will feature a skill-based combat",
       "creator": "/u/Cool-Compote-9179 https://www.reddit.com/user/Cool-Compote-9179",
       "id": "34137746094085f5d748378d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "My first roblox game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhnm8y/my_first_roblox_game/",
+      "published": "2026-10-28",
+      "excerpt": "Axe Master Simulator. Hello I'm a new developer. This is my first game and I would like to hear what you think about it, what I can improve. The link to the game is against the group terms so you can search my name \"BladePool_X\" and find it there. The game is 16+ because I need 250 testers before it",
+      "creator": "/u/Particular-Lead5861 https://www.reddit.com/user/Particular-Lead5861",
+      "id": "2ed979c1e7564c5a3a65a888"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2316,7 +2365,7 @@
       "title": "Roblox Studio Bug",
       "url": "https://devforum.roblox.com/t/roblox-studio-bug/4962087",
       "published": "2026-10-28",
-      "excerpt": "Hello, since yesterday, after installing the latest Studio update, the app has been loading for ever and I’ve been unable to open any games resulting to the error linked down below. I tried deleting and instaling the game back, switching WiFi but nothing worked. 1 post - 1 participant Read full topi",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-studio-bug/4962087.rss",
       "id": "00bc983ef9b1b4e5c59ed806"
@@ -3818,7 +3867,7 @@
       "title": "Release Notes for 745",
       "url": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
       "published": "2026-10-27",
-      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 9 posts - 9 participants Read full topic",
+      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 10 posts - 10 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-745/4960754.rss",
       "id": "1bbc848dbd6d3c954f224a54"
@@ -8489,52 +8538,6 @@
       "excerpt": "https://preview.redd.it/r9dvd98y19xh1.png?width=254&format=png&auto=webp&s=3eb49bda5766e9ca3fdcc3f1f0b131400bd71dc5 i have quite a long list of games (78, to be exact!) in my archived that i want to delete. ive heard there was no point in deleting archived games, however ive gotten banned from archi",
       "creator": "/u/RichExpression8949 https://www.reddit.com/user/RichExpression8949",
       "id": "e8ed7d4434ae53938b155e19"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Friends of mine have been telling me that you should stop working on this project its not gonna work out.Please give your honest opinions.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdagav/friends_of_mine_have_been_telling_me_that_you/",
-      "published": "2026-10-23",
-      "excerpt": "Various friends told me that in todays market, games like steal a brainrot and similar are way better to work rather then simulator games.These kind of games are left behind in 2020.Please share your opinion. submitted by /u/Parking_Yam_5636 [link] [comments]",
-      "creator": "/u/Parking_Yam_5636 https://www.reddit.com/user/Parking_Yam_5636",
-      "id": "e513c1064c0467b97f18f68e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Make \"Value\" in Experience Configs clickable",
-      "url": "https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224",
-      "published": "2026-10-23",
-      "excerpt": "Right now, to edit a JSON config value, you highlight the text and press anything on your keyboard (CTRL, W, A, S, D, etc) to make an edit. This is very confusing. Make it so the field itself is simply a button that expands the greater editing field. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224.rss",
-      "id": "e0af2a8d8c198c592949b761"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Gaps, but I could swear they are aligned?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdqbis/gaps_but_i_could_swear_they_are_aligned/",
-      "published": "2026-10-23",
-      "excerpt": "Context: It's a generated map made from the the sizes and positions of blocks relative to the ground. All block sizes don't have any decimal place, the positions are all .5 and .0 . I did't round the UDim2 values of the frames either. Is it a normal visual thing, because it's only on the right side ",
-      "creator": "/u/Hoverfly-Enthusiast https://www.reddit.com/user/Hoverfly-Enthusiast",
-      "id": "df8a33d7c46a42754417c77d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[HIRING] Looking for game testers!",
-      "url": "https://devforum.roblox.com/t/hiring-looking-for-game-testers/4951354",
-      "published": "2026-10-23",
-      "excerpt": "Hi I am a solo dev working on a manhunt inspired game, I am at the phase where I am looking for play testers who enjoy the hunt and want to experience it before its released. For any questions leave a comment on this post or add my discord to contact me at mutual1. Thank you for reading! 1 post - 1 ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hiring-looking-for-game-testers/4951354.rss",
-      "id": "ded96bc9e2db9a6619ddbe49"
     }
   ]
 }
