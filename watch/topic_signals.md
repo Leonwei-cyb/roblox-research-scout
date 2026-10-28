@@ -4,7 +4,7 @@
 
 | Topic | Mention count | Source examples |
 |---|---:|---|
-| 3D / art | 32 | [Free Low-Poly 3D Assets](https://devforum.roblox.com/t/free-low-poly-3d-assets/4962046); [\[FOR HIRE\] 3D Modeler \| Weapons, Props, Low-Poly Assets & More](https://devforum.roblox.com/t/for-hire-3d-modeler-weapons-props-low-poly-assets-more/4960351) |
+| 3D / art | 31 | [Free Low-Poly 3D Assets](https://devforum.roblox.com/t/free-low-poly-3d-assets/4962046); [\[FOR HIRE\] 3D Modeler \| Weapons, Props, Low-Poly Assets & More](https://devforum.roblox.com/t/for-hire-3d-modeler-weapons-props-low-poly-assets-more/4960351) |
 | Animation / feel | 22 | [would this work if i made an animation for a game?](https://www.reddit.com/r/robloxgamedev/comments/1xha75k/would_this_work_if_i_made_an_animation_for_a_game/); [Tips for animation?](https://www.reddit.com/r/robloxgamedev/comments/1xhdh8w/tips_for_animation/) |
 | Pets / collection | 20 | [I made my first Roblox game: hatch cosmic eggs… and protect them from thieve](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/); [I made a Roblox game where you steal eggs, hatch cats and outrun monsters. W](https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/) |
 | UI / UX | 16 | [Commerce products not updating from Shopify](https://devforum.roblox.com/t/commerce-products-not-updating-from-shopify/4961267); [Is this HUD/UI good?](https://www.reddit.com/r/robloxgamedev/comments/1xgdqv1/is_this_hudui_good/) |

@@ -7,17 +7,31 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Game Difficulty (And what to do)](https://www.reddit.com/r/robloxgamedev/comments/1xhngbn/game_difficulty_and_what_to_do/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: When building a game I always struggle on the balance part of it. So, what are you guys aiming at ? Simple game that can be mastered easily or a bit of difficulty so the game is longer but creates frustration ? Right now I am creating a rog
-- **[Looking for 16+ testers for two arcade MVP games (Will test yours back!)](https://www.reddit.com/r/robloxgamedev/comments/1xhnlfu/looking_for_16_testers_for_two_arcade_mvp_games/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hey everyone, I’ve recently pushed out two small arcade MVP games, but as a solo dev dealing with the new platform restrictions, I'm currently stuck trying to clear the initial 250-player threshold to unlock organic traffic for under-16 use
-- **[My first roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xhnm8y/my_first_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Axe Master Simulator. Hello I'm a new developer. This is my first game and I would like to hear what you think about it, what I can improve. The link to the game is against the group terms so you can search my name "BladePool_X" and find it
+- **[How much should I spend on ads?](https://www.reddit.com/r/robloxgamedev/comments/1xhqbvl/how_much_should_i_spend_on_ads/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: I have been working on a few projects, but whenever I publicize them, they get 0 player engagement. The metrics show that they never even appeared to a player’s page in the first place. This makes it seem imperative to spend money on ads, a
+- **[I Published my First Roblox and It's an Horror Game](https://www.reddit.com/r/robloxgamedev/comments/1xhpnmc/i_published_my_first_roblox_and_its_an_horror_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Doing this as an Hobby and happy that it's now published hahaha Game: https://www.roblox.com/games/86963659572996/Dont-Shoot submitted by /u/Sharp_Project_893 \[link\] \[comments\]
+- **[I finally released my Bonsai Garden Roblox Game](https://www.reddit.com/r/robloxgamedev/comments/1xhooqk/i_finally_released_my_bonsai_garden_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: This game has been a solo passion project for I dont even know how long. It was an incredible learning journey and hope you will all enjoy playing it as much as I enjoyed building it. You will have the chance to create your own personal Jap
+- **[Roblox is testing the web client (run roblox in browser)](https://www.reddit.com/r/robloxgamedev/comments/1xhpud3/roblox_is_testing_the_web_client_run_roblox_in/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: https://play.roblox.com/games/start?placeid=189707 Just replace it to your account game placeid it will work Note: take care your ram https://preview.redd.it/a7v7146zy7yh1.png?width=1080&format=png&auto=webp&s=52f03d4ff0be08afdb13ecbe1cd2b6
+- **[Use of AI in the current Roblox Development Scene](https://www.reddit.com/r/robloxgamedev/comments/1xhqhs8/use_of_ai_in_the_current_roblox_development_scene/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Was wondering what everyone’s thoughts are on the unequivocal increase in the use of AI in Roblox Development. It seems that every game uses it now, albeit different in the magnitude of its usage, which brings up the question whether or not
 
 ## Roblox Updates
 
-- **[Is hot swapping code & assets on production game servers against TOS?](https://devforum.roblox.com/t/is-hot-swapping-code-assets-on-production-game-servers-against-tos/4962250)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: With the new publishing requirement changes it just occurred to me that a development tool I’ve been working on for a while called “TypeTorch” may cause some issues and questions in “Place Review” phase. It basically allows you to replace c
+- **[Failed to fetch Place info](https://devforum.roblox.com/t/failed-to-fetch-place-info/4962380)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Hello I can open roblox studio. It says failed to fetch info 129660986403142 A private message is associated with this bug report 1 post - 1 participant Read full topic
+- **[My roblox studio doesn't load](https://devforum.roblox.com/t/my-roblox-studio-doesnt-load/4962348)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: I got an issue when I open roblox studio it doesn’t load anything, I tried to reinstall it and its the same issue. someone please help me 2 posts - 2 participants Read full topic
+- **["Emotes are disabled in this experience" when you have none equipped](https://devforum.roblox.com/t/emotes-are-disabled-in-this-experience-when-you-have-none-equipped/4962372)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: If you have no emotes equipped, it says emotes are not enabled in the experience. This is consistent across all experiences Expected behavior It should not say emotes are disabled. The message should imply I dont have any equipped 1 post - 
+- **[Able to join games you dont own in your browser](https://devforum.roblox.com/t/able-to-join-games-you-dont-own-in-your-browser/4962398)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Hey, as far as I know you should only be able to join your own games in your browser right now: Open Roblox Web Experience (Dont replace URPLACEID) It will connect you to the Homepage (Not like the browser, like the App) Click play on any g
+- **[Opt-in per-experience relaxation of age-based chat restrictions](https://devforum.roblox.com/t/opt-in-per-experience-relaxation-of-age-based-chat-restrictions/4962382)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: 2455 words (including this sentence at the top). Apologies for whoever was expecting a short read. As a Roblox developer, it is currently too hard to create community and communication-centered roleplay, specifically “LARP” games and commun
+- **[Where do MicroProfiler logs go and how do I clear cache and memory or localappdata of https://play.roblox.com/games/start?placeId=](https://devforum.roblox.com/t/where-do-microprofiler-logs-go-and-how-do-i-clear-cache-and-memory-or-localappdata-of-httpsplayrobloxcomgamesstartplaceid/4962293)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Description https://play.roblox.com/games/start?placeId= Where do captured MicroProfiler logs go when you capture it from Roblox Browser, and where can you clear the download cache and other stuff for it without clearing all the cookies? e.
 
 ---
 

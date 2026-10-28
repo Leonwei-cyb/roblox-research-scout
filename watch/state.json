@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "960eb997b2d9f9bd5811ddf8ae1019649062d484",
-      "head_subject": "Important HTML->text library update (inscriptis) fixes memory use expansion caused by tables, remove phantom whitespaces from selected elements, may cause whitespace changes.",
+      "head": "7ab613236a24b7ed744805f5c900218f01f6c334",
+      "head_subject": "Bumping NOTICE and ensuring compatibility (#4618)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
