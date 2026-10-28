@@ -865,20 +865,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xdkcml",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdkcml/new_game_need_feedback/",
-      "title": "New game, need feedback",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xe036a",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/",
       "title": "My IK system for Animations",
@@ -1101,19 +1087,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4952347:1",
-      "url": "https://devforum.roblox.com/t/approved-image-appeal-not-applied-7-day-suspension-and-%E2%80%9Ccritical%E2%80%9D-account-status-remain-automated-false-positive-on-a-ui-icon/4952347",
-      "title": "Approved image appeal not applied: 7-day suspension and “critical” account status remain (automated false positive on a UI icon)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3009,6 +2982,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhj43g",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhj43g/steal_a_lucky_block/",
+      "title": "STEAL A LUCKY BLOCK",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4953490:1",
       "url": "https://devforum.roblox.com/t/visual-bug-roblox-app-store/4953490",
       "title": "Visual Bug - Roblox App Store",
@@ -3214,6 +3200,20 @@
       "signals": [
         "animation and audio",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961959:1",
+      "url": "https://devforum.roblox.com/t/more-detailed-dislike-analytics-in-creator-dashboard/4961959",
+      "title": "More Detailed Dislike Analytics in Creator Dashboard",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3434,17 +3434,6 @@
       "title": "all bite. no bark. tonight, Biter is hungry for you in The Hollow.",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "published": "2026-10-24",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:4G0Lc0D1lco",
-      "url": "https://www.youtube.com/shorts/4G0Lc0D1lco",
-      "title": "you can’t stay in the elevator forever. tonight, Twisted Dandy is waiting for you in The Hollow.",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-23",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -5112,17 +5101,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4952247:1",
-      "url": "https://devforum.roblox.com/t/guy-size-unproportioned/4952247",
-      "title": "Guy size unproportioned",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4953224:1",
       "url": "https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224",
       "title": "Make \"Value\" in Experience Configs clickable",
@@ -6270,6 +6248,28 @@
       "key": "devforum:4961843:1",
       "url": "https://devforum.roblox.com/t/no-option-to-remove-or-modify-through-creator-store-seller-stripe-custom-account/4961843",
       "title": "No option to remove or modify through Creator Store Seller (Stripe Custom) account",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961938:1",
+      "url": "https://devforum.roblox.com/t/add-an-option-to-require-approval-for-team-create-invites/4961938",
+      "title": "Add an Option to require approval for Team Create invites",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961975:1",
+      "url": "https://devforum.roblox.com/t/benchmarks-overview-7-day-average-is-broken/4961975",
+      "title": "Benchmarks overview 7 day average is broken",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
