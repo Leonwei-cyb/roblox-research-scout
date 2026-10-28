@@ -4,7 +4,6 @@
 
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
-- **[Kinda getting tired of building so got into animation](https://www.reddit.com/r/ROBLOXStudio/comments/1xdt1yv/kinda_getting_tired_of_building_so_got_into/)** — Community showcase post (video not confirmed) · 2026-10-23
 - **[\[Unpaid\] Looking for a few playtesters for a monster ranch tycoon, 10–15 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xf3lbq/unpaid_looking_for_a_few_playtesters_for_a/)** — Community showcase post (video not confirmed) · 2026-10-25
 - **[Roblox rolling animation keeps falling over](https://www.reddit.com/r/ROBLOXStudio/comments/1xd927m/roblox_rolling_animation_keeps_falling_over/)** — Community showcase post (video not confirmed) · 2026-10-23
 - **[\[Playtesters Needed\] Early prototype of my new Roblox game: Steal a Ghost – Is it fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdi58m/playtesters_needed_early_prototype_of_my_new/)** — Community showcase post (video not confirmed) · 2026-10-23

@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 598,
+  "unique_posts": 597,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -374,20 +374,6 @@
       "signals": [
         "first-session and mobile",
         "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdt1yv",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdt1yv/kinda_getting_tired_of_building_so_got_into/",
-      "title": "Kinda getting tired of building so got into animation",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "animation and audio"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -1273,19 +1259,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4952999:1",
-      "url": "https://devforum.roblox.com/t/studio-refusing-to-open-any-game/4952999",
-      "title": "Studio refusing to open any game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4953192:1",
       "url": "https://devforum.roblox.com/t/unlock-hidden-lighting-engine-parameters-for-developer-use/4953192",
       "title": "Unlock Hidden Lighting Engine Parameters for Developer Use",
@@ -1302,19 +1275,6 @@
       "key": "devforum:4953295:1",
       "url": "https://devforum.roblox.com/t/the-expedited-review-for-my-roblox-game-has-taken-over-a-week-with-no-sign-of-success/4953295",
       "title": "The Expedited Review for my Roblox game has taken over a week with no sign of success",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953387:1",
-      "url": "https://devforum.roblox.com/t/roblox-player-crashes-on-launch/4953387",
-      "title": "Roblox Player Crashes on Launch",
       "source": "roblox-devforum-latest",
       "published": "2026-10-23",
       "kind": "devforum",
@@ -2304,14 +2264,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xczhrd",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczhrd/when_i_try_to_import_this_rig_into_studio_the/",
-      "title": "when i try to import this rig into studio the weight paints completely mess up",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
+      "key": "devforum:4961469:1",
+      "url": "https://devforum.roblox.com/t/notify-the-player-whenever-a-game-they-have-notifications-on-for-has-an-event/4961469",
+      "title": "Notify the player whenever a game they have notifications on for has an event",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
       "signals": [
-        "tools and performance"
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3057,6 +3017,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xh9hx5",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh9hx5/script_not_showing/",
+      "title": "script not showing",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xhasa9",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhasa9/localplayer_is_type_player_how_do_i_prevent_the/",
+      "title": "LocalPlayer is type `Player?`. How do i prevent the possibility of it being nil?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4952234:1",
       "url": "https://devforum.roblox.com/t/why-is-he-spinning/4952234",
       "title": "Why is he spinning",
@@ -3477,6 +3463,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhb1d7",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhb1d7/need_people_to_my_game_project/",
+      "title": "Need people to my game project.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:11L3N8H86fQ",
       "url": "https://www.youtube.com/shorts/11L3N8H86fQ",
       "title": "all bite. no bark. tonight, Biter is hungry for you in The Hollow.",
@@ -3580,35 +3580,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4951651:1",
-      "url": "https://devforum.roblox.com/t/made-this-early-access-ww2-game/4951651",
-      "title": "Made this early access ww2 game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4951775:1",
       "url": "https://devforum.roblox.com/t/how-do-developers-grow-multiplayer-games-nowadays/4951775",
       "title": "How do developers grow multiplayer games nowadays?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4951989:1",
-      "url": "https://devforum.roblox.com/t/how-do-you-report-a-vulnerability-to-robloxs-h1-program-while-being-in-sanctioned-country/4951989",
-      "title": "How do you report a vulnerability to Roblox's H1 program while being in sanctioned country?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-23",
       "kind": "devforum",
@@ -4399,6 +4373,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4961364:1",
+      "url": "https://devforum.roblox.com/t/textchatservice-remove-whisper/4961364",
+      "title": "[TextChatService] Remove /whisper",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961508:1",
+      "url": "https://devforum.roblox.com/t/account-deletion-does-not-terminate-active-game-session/4961508",
+      "title": "Account deletion does not terminate active game session",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xczgrc",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xczgrc/what_should_i_do_to_get_into_the_algorithm/",
       "title": "What should i do to get into the algorithm?",
@@ -4438,19 +4438,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xd7xjv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd7xjv/an_oval_racing_game_with_more_focus_on_tactics/",
-      "title": "An oval racing game with more focus on tactics",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xdagav",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdagav/friends_of_mine_have_been_telling_me_that_you/",
       "title": "Friends of mine have been telling me that you should stop working on this project its not gonna work out.Please give your honest opinions.",
@@ -4477,19 +4464,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xdbc7p",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdbc7p/just_released_my_first_game_and_the_crt_actual/",
-      "title": "Just released my first game and the CRT -> actual PLAYS is concerning low and im not sure what to do.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xdc48f",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdc48f/how_to_automatically_assign_lowest_rank_in_a_group/",
       "title": "How to automatically assign lowest rank in a group.",
@@ -4511,19 +4485,6 @@
       "kind": "reddit",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdcfkh",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdcfkh/what_genre_would_this_be/",
-      "title": "What genre would this be?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5218,6 +5179,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhb06u",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhb06u/summon_system_for_my_upcoming_roblox_game/",
+      "title": "Summon system for my upcoming roblox game",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4951511:1",
       "url": "https://devforum.roblox.com/t/joining-games-became-inconsistent-troubles-with-joining-places-within-experiences/4951511",
       "title": "Joining Games Became Inconsistent, Troubles With Joining Places Within Experiences",
@@ -5262,17 +5236,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4952147:1",
-      "url": "https://devforum.roblox.com/t/remote-code-execution-involving-third-party-library/4952147",
-      "title": "Remote Code Execution involving third party library",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4952192:1",
       "url": "https://devforum.roblox.com/t/android-when-visiting-the-robux-page-through-the-app-all-the-text-is-now-black-in-dark-mode/4952192",
       "title": "[Android] When visiting the robux page through the app, all the text is now black in dark mode",
@@ -5298,17 +5261,6 @@
       "key": "devforum:4952265:1",
       "url": "https://devforum.roblox.com/t/roblox-support-not-processing-requests-discovery-quality-issue/4952265",
       "title": "Roblox Support not processing requests (+Discovery Quality Issue)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4952301:1",
-      "url": "https://devforum.roblox.com/t/why-is-tintmask-background-showing-up-as-black/4952301",
-      "title": "Why is TintMask background showing up as Black?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-23",
       "kind": "devforum",
@@ -6407,10 +6359,54 @@
     },
     {
       "key": "devforum:4961329:1",
-      "url": "https://devforum.roblox.com/t/alwaysontop-linehandleadornment-wireframehandleadornment-render-at-50-brightness/4961329",
-      "title": "AlwaysOnTop LineHandleAdornment / WireframeHandleAdornment render at 50% brightness",
+      "url": "https://devforum.roblox.com/t/alwaysontop-linewireframe-handleadornments-with-zindex-%E2%89%A5-0-render-at-half-brightness/4961329",
+      "title": "AlwaysOnTop Line/Wireframe HandleAdornments with ZIndex ≥ 0 render at half brightness",
       "source": "roblox-devforum-latest",
       "published": "2026-10-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961366:1",
+      "url": "https://devforum.roblox.com/t/never-gotten-3-of-my-crown-of-os/4961366",
+      "title": "Never gotten 3 of my Crown of O's",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961386:1",
+      "url": "https://devforum.roblox.com/t/account-registration-fails-to-apply-gendered-head-shapes-to-the-stevie-standard-head/4961386",
+      "title": "Account registration fails to apply gendered head shapes to the Stevie Standard head.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961412:1",
+      "url": "https://devforum.roblox.com/t/rbx-worker-c-thread-30-gigabyte-request-streaming-crash/4961412",
+      "title": "\"RBX Worker C\" Thread 30 Gigabyte Request (Streaming Crash)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4961417:1",
+      "url": "https://devforum.roblox.com/t/just-a-console-warning/4961417",
+      "title": "Just a console warning",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
       "kind": "devforum",
       "signals": [],
       "score": 2,
@@ -6483,32 +6479,10 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xdno7r",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdno7r/making_my_map_better_day_80/",
-      "title": "Making my MAP BETTER! Day 80",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xdp2hr",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdp2hr/working_on_a_jojo_game_with_map_destruction/",
       "title": "Working on a jojo game with map destruction (ABD/JJS type)",
       "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdqazs",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdqazs/looking_for_playtesters/",
-      "title": "Looking for playtesters!",
-      "source": "reddit-robloxstudio",
       "published": "2026-10-23",
       "kind": "reddit",
       "signals": [],
@@ -7357,6 +7331,17 @@
       "title": "My pixel art for a game I'm planning to make in Roblox.",
       "source": "reddit-robloxstudio",
       "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xhb2fl",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhb2fl/flagging/",
+      "title": "Flagging",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-28",
       "kind": "reddit",
       "signals": [],
       "score": 2,
