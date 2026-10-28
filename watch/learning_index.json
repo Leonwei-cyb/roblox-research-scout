@@ -1199,19 +1199,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4953418:1",
-      "url": "https://devforum.roblox.com/t/roblox-player-crashes-on-launch/4953418",
-      "title": "Roblox Player Crashes on Launch",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4953445:1",
       "url": "https://devforum.roblox.com/t/custom-terrain-materials-full-launch-issues-with-terrain-geometry-loading/4953445",
       "title": "CUSTOM TERRAIN MATERIALS Full Launch Issues With Terrain GEOMETRY / LOADING",
@@ -7347,6 +7334,17 @@
       "key": "reddit:1xhfcjk",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhfcjk/im_making_a_bioshock_game/",
       "title": "I’m making a BioShock game!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xhg3dm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg3dm/roblox_game_out_looking_for_investor_feedbacks/",
+      "title": "Roblox game out looking for investor / feedbacks",
       "source": "reddit-robloxdev",
       "published": "2026-10-28",
       "kind": "reddit",
