@@ -2,7 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — llama.cpp: version bump b11963 (#19360).
-- **Unreviewed lead:** [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) (691 stars). Track 500+ Awesome List Updates, Track it - not just star it!
+- **Unreviewed lead:** [EL4CTEO/rbx-studio-mcp](https://github.com/EL4CTEO/rbx-studio-mcp) (12 stars). Free, open-source MCP server for Roblox Studio. 35 tools, a console panel that runs coding agents, editor-safe script edits.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

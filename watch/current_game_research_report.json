@@ -1,14 +1,67 @@
 {
-  "schema": "LEON_ACTIVE_GAME_RESEARCH_REPORT_V1",
-  "status": "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS",
-  "active_game": null,
-  "held_games_not_current": [],
-  "input_unique_posts": 598,
-  "original_source_candidates": 583,
+  "schema": "LEON_COLONISTS_RESEARCH_REPORT_V1",
+  "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
+  "active_game": "Colonists",
+  "held_games_not_current": [
+    "Cat Magic"
+  ],
+  "input_unique_posts": 597,
+  "original_source_candidates": 582,
   "inspected_videos": 0,
   "observed_gameplay_findings": 0,
   "new_code_changes_authorized": false,
-  "candidates": [],
-  "unfilled_topics": [],
-  "authority": "studio-gate/active_game.txt: MISSING"
+  "candidates": [
+    {
+      "priority": "P0",
+      "topic": "first-session and mobile",
+      "key": "devforum:4955965:1",
+      "title": "Unchanged Image Assets Repeatedly Moderated; Conflicting Appeals Leave Duplicate Account Penalties",
+      "url": "https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965",
+      "kind": "devforum",
+      "published": "2026-10-25",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Can a first-time desktop player place both opening settlements and roads without help text?"
+    },
+    {
+      "priority": "P1",
+      "topic": "UI and menus",
+      "key": "devforum:4953472:1",
+      "title": "[For Hire] Shop & Inventory UI Scripts",
+      "url": "https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472",
+      "kind": "devforum",
+      "published": "2026-10-24",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?"
+    },
+    {
+      "priority": "P1",
+      "topic": "world and visual design",
+      "key": "reddit:1xfgd71",
+      "title": "Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain section on its own axis freely?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/",
+      "kind": "reddit",
+      "published": "2026-10-25",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?"
+    },
+    {
+      "priority": "P1",
+      "topic": "animation and audio",
+      "key": "devforum:4960734:1",
+      "title": "[Early Access Program] Build 2D Games With `AnimatedImages`",
+      "url": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
+      "kind": "devforum",
+      "published": "2026-10-27",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?"
+    }
+  ],
+  "unfilled_topics": [
+    "board game and turn flow"
+  ],
+  "authority": "LEON_ACTIVE_GAME"
 }
