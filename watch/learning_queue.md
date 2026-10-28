@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 312
+- devforum: 309
 - index-only: 14
-- reddit: 262
+- reddit: 265
 - youtube: 9
 
 ## First-Session And Mobile
@@ -22,7 +22,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Board Game And Turn Flow
 
-- [Looking for Feedback on My Pixel Game](https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767) — devforum; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
+- No relevant direct candidate in stored leads.
 
 ## Building And Purchases
 
@@ -51,8 +51,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
-- [First game, a cozy Halloween pumpkin-carving clicker: is the first 5 minutes fun?](https://www.reddit.com/r/robloxgamedev/comments/1xdorso/first_game_a_cozy_halloween_pumpkincarving/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [\[FREE\] Cartoon UI & Stylized Low-Poly Weapons Pack — Perfect for Roblox Simulators & Shooters! (Free for Commercial Use)](https://www.reddit.com/r/ROBLOXStudio/comments/1xdqfxt/free_cartoon_ui_stylized_lowpoly_weapons_pack/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [My roblox game has just released, it is basically ball vs ball but simulator, and i NEED a tester.](https://www.reddit.com/r/ROBLOXStudio/comments/1xe2sb3/my_roblox_game_has_just_released_it_is_basically/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 

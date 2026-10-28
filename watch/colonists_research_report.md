@@ -10,7 +10,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Looking for Onboarding Feedback – TURBOSTORM Car Racing (10 Min Avg Session, 0 Organic Traffic)](https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901)
+- **P0 · first-session and mobile:** [Unchanged Image Assets Repeatedly Moderated; Conflicting Appeals Leave Duplicate Account Penalties](https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [\[For Hire\] Shop & Inventory UI Scripts](https://devforum.roblox.com/t/for-hire-shop-inventory-ui-scripts/4953472)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?

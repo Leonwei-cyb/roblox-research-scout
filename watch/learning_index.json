@@ -223,20 +223,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4951901:1",
-      "url": "https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901",
-      "title": "Looking for Onboarding Feedback – TURBOSTORM Car Racing (10 Min Avg Session, 0 Organic Traffic)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4954218:1",
       "url": "https://devforum.roblox.com/t/i-need-help-with-my-obj-model-imported-from-from-blender-always-defaulted-my-pivot-point-to-000-in-roblox-studio/4954218",
       "title": "I need help with my OBJ model imported from from Blender always defaulted my pivot point to 0.0.0. in Roblox Studio",
@@ -479,21 +465,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4951767:1",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767",
-      "title": "Looking for Feedback on My Pixel Game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "board game and turn flow",
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4956075:1",
       "url": "https://devforum.roblox.com/t/i-made-a-website-that%E2%80%99s-pretty-much-studio-in-browser/4956075",
       "title": "I made a website that’s pretty much studio in browser",
@@ -549,21 +520,6 @@
         "building and purchases",
         "economy and income",
         "genres and successful loops"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdorso",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdorso/first_game_a_cozy_halloween_pumpkincarving/",
-      "title": "First game, a cozy Halloween pumpkin-carving clicker: is the first 5 minutes fun?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "genres and successful loops",
-        "player feedback and marketing"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -932,34 +888,6 @@
       "kind": "reddit",
       "signals": [
         "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdkiuc",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdkiuc/new_game_need_feedback/",
-      "title": "New game, need feedback",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdombv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdombv/i_made_a_prisonbreak_manhunt_where_the_hunters/",
-      "title": "I made a prison-break manhunt where the hunters get your location every 45 seconds. Looking for feedback!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops",
         "player feedback and marketing"
       ],
       "score": 6,
@@ -2291,19 +2219,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xd927m",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xd927m/roblox_rolling_animation_keeps_falling_over/",
-      "title": "Roblox rolling animation keeps falling over",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xd9m64",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd9m64/why_is_my_ctr_lowest_its_ever_been_14/",
       "title": "why is my ctr lowest its ever been 1.4%",
@@ -2990,6 +2905,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xh6mhi",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh6mhi/looking_for_feedback/",
+      "title": "Looking for feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xh6tbn",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh6tbn/ive_just_released_my_first_roblox_game_into/",
       "title": "I've just released my first Roblox game into Public Beta! Looking for honest feedback 🏁",
@@ -2998,6 +2926,19 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xh7a9i",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh7a9i/first_script_ive_written_by_myself_if_you_dont/",
+      "title": "First script ive written by myself (if you dont count documention)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3016,6 +2957,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xha75k",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xha75k/would_this_work_if_i_made_an_animation_for_a_game/",
+      "title": "would this work if i made an animation for a game?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhasa9",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhasa9/localplayer_is_type_player_how_do_i_prevent_the/",
       "title": "LocalPlayer is type `Player?`. How do i prevent the possibility of it being nil?",
@@ -3024,6 +2978,19 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xhdh8w",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhdh8w/tips_for_animation/",
+      "title": "Tips for animation?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3248,20 +3215,6 @@
       "signals": [
         "UI and menus",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdhdjm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdhdjm/please_help_me_with_modeling_this_room/",
-      "title": "Please help me with modeling this room",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3599,19 +3552,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953368:1",
-      "url": "https://devforum.roblox.com/t/the-hollow-ugc-claim-not-working-ao-oni/4953368",
-      "title": "The Hollow: UGC Claim Not Working (Ao Oni)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4410,19 +4350,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xd7dst",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd7dst/looking_for_collaborators/",
-      "title": "Looking for collaborators",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xdagav",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdagav/friends_of_mine_have_been_telling_me_that_you/",
       "title": "Friends of mine have been telling me that you should stop working on this project its not gonna work out.Please give your honest opinions.",
@@ -4457,19 +4384,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdceus",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdceus/i_made_a_jetpack_racing_game_where_your_trail_is/",
-      "title": "I made a jetpack racing game where your trail is a weapon – Trail Rush",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5177,6 +5091,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhd298",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhd298/i_need_99_more_16_game_testers_in_my_roblox_game/",
+      "title": "I need 99 more 16+ game testers in my roblox game to unlock minimal for all, if you join mine for a couple mins i join your link to my game is in comments, post the link to y Ou r games in comments MU",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4951511:1",
       "url": "https://devforum.roblox.com/t/joining-games-became-inconsistent-troubles-with-joining-places-within-experiences/4951511",
       "title": "Joining Games Became Inconsistent, Troubles With Joining Places Within Experiences",
@@ -5279,17 +5206,6 @@
       "key": "devforum:4953224:1",
       "url": "https://devforum.roblox.com/t/make-value-in-experience-configs-clickable/4953224",
       "title": "Make \"Value\" in Experience Configs clickable",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-23",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953355:1",
-      "url": "https://devforum.roblox.com/t/issues-with-the-new-avatar-item-update-feature/4953355",
-      "title": "Issues with the New Avatar Item Update Feature",
       "source": "roblox-devforum-latest",
       "published": "2026-10-23",
       "kind": "devforum",
@@ -6398,6 +6314,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4961610:1",
+      "url": "https://devforum.roblox.com/t/particleemitters-with-orientation-set-to-velocityperpendicular-will-not-align-correctly-with-its-parent/4961610",
+      "title": "ParticleEmitters with orientation set to \"VelocityPerpendicular\" will not align correctly with it's parent",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xda3is",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xda3is/i_need_feedbacks_for_my_game/",
       "title": "I need feedbacks for my game!",
@@ -6413,17 +6340,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdf2ct/procuro_uma_equipe_para_criar_um_jogo/",
       "title": "Procuro uma equipe para criar um jogo.",
       "source": "reddit-robloxdev",
-      "published": "2026-10-23",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xdhk33",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdhk33/does_anyone_know_what_this_effect_is_called/",
-      "title": "does anyone know what this effect is called?",
-      "source": "reddit-robloxstudio",
       "published": "2026-10-23",
       "kind": "reddit",
       "signals": [],
@@ -7256,6 +7172,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xgw9em",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgw9em/how_do_i_improve_my_teaser_trailer/",
+      "title": "how do i improve my teaser trailer",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xgzo9i",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgzo9i/i_am_sorry/",
       "title": "I am Sorry",
@@ -7300,10 +7227,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xh5ews",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh5ews/ive_been_working_on_a_project_for_5_months_now/",
+      "title": "I've been working on a project for 5 months now and I'm getting overwhelmed",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xh6k5o",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh6k5o/my_pixel_art_for_a_game_im_planning_to_make_in/",
       "title": "My pixel art for a game I'm planning to make in Roblox.",
       "source": "reddit-robloxstudio",
+      "published": "2026-10-27",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xh6x68",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh6x68/xbox_360_blades_dashboard/",
+      "title": "Xbox 360 Blades Dashboard",
+      "source": "reddit-robloxdev",
       "published": "2026-10-27",
       "kind": "reddit",
       "signals": [],
@@ -7322,6 +7271,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhbcfy",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhbcfy/ive_been_wanting_to_make_a_ben_10_game_on_roblox/",
+      "title": "I've been wanting to make a Ben 10 game on Roblox!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhcf5n",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhcf5n/day_3_for_peryaan_dev_voice_over/",
       "title": "Day 3 for Peryaan! (Dev voice over)",
@@ -7333,10 +7293,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhcg0t",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhcg0t/day_3_for_peryaan_dev_voice_over/",
+      "title": "Day 3 for Peryaan! (Dev voice over)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhchmv",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhchmv/i_need_someone_to_test_the_game/",
       "title": "I need someone to test the game",
       "source": "reddit-robloxstudio",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xhdnbs",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhdnbs/do_you_guys_think_my_game_idea_is_good_would_you/",
+      "title": "Do you guys think my game idea is good? Would you play a game like this?",
+      "source": "reddit-robloxdev",
       "published": "2026-10-28",
       "kind": "reddit",
       "signals": [],

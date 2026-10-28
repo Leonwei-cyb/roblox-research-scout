@@ -1551,7 +1551,19 @@
     "395dbe69a0d06a58b23fb288",
     "b49454b5011def51ca494a0b",
     "b259dbc4c90a220fb7eae69b",
-    "7220e4c065d2dcec29ca221b"
+    "7220e4c065d2dcec29ca221b",
+    "b062a627cf8176f0b94ac8c6",
+    "8c6acfd288e1655cc9b1bcb0",
+    "72ab19c676e8abd278d0932a",
+    "6a2e581f83203d215b9914b1",
+    "a038cec9491804fed244a920",
+    "a71263eeaa4a3d1c2771e473",
+    "3cb5e81a63379d3702cd1fe2",
+    "fbf82110483dd75135ca7293",
+    "8565c7a19b0a9f17ab946461",
+    "265a7eeedc319ce70c1d9359",
+    "97745aa1ba2477557329d43d",
+    "c6841a36198658e4678ea059"
   ],
   "items": [
     {
@@ -1615,6 +1627,40 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "ParticleEmitters with orientation set to \"VelocityPerpendicular\" will not align correctly with it's parent",
+      "url": "https://devforum.roblox.com/t/particleemitters-with-orientation-set-to-velocityperpendicular-will-not-align-correctly-with-its-parent/4961610",
+      "published": "2026-10-28",
+      "excerpt": "SORRY if this is worded weirdly, never posted much in forums in general and it’s a first time here, onto the issue: as you can see, the cube’s orientation is not one divisible by 90, w, and that is causing for the particles to clip out of the cube, ruining the expected visual Expected behavior What ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/particleemitters-with-orientation-set-to-velocityperpendicular-will-not-align-correctly-with-its-parent/4961610.rss",
+      "id": "b062a627cf8176f0b94ac8c6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Do you guys think my game idea is good? Would you play a game like this?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhdnbs/do_you_guys_think_my_game_idea_is_good_would_you/",
+      "published": "2026-10-28",
+      "excerpt": "I am working on this game now, but it isn't really going anywhere. Its an infinitely generated world with campsites spawning around randomly. You can go type messages in them and they stay the for other people too read. Like geo-caching. The campsites are all seed based, so they are the same through",
+      "creator": "/u/bigdick4484720 https://www.reddit.com/user/bigdick4484720",
+      "id": "a71263eeaa4a3d1c2771e473"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "would this work if i made an animation for a game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xha75k/would_this_work_if_i_made_an_animation_for_a_game/",
+      "published": "2026-10-28",
+      "excerpt": "submitted by /u/kerminister [link] [comments]",
+      "creator": "/u/kerminister https://www.reddit.com/user/kerminister",
+      "id": "a038cec9491804fed244a920"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[TextChatService] Remove /whisper",
       "url": "https://devforum.roblox.com/t/textchatservice-remove-whisper/4961364",
       "published": "2026-10-28",
@@ -1633,6 +1679,17 @@
       "excerpt": "LocalPlayer is type Player? (which means it's either Player or nil ) The documentation on Players.LocalPlayer and replication order don't say anything about this. And DataModel#IsLoaded isn't definitive. How do i make sure that LocalPlayer isn't nil ? Like how do i wait for it to become Player ? I c",
       "creator": "/u/NormalAppearance2851 https://www.reddit.com/user/NormalAppearance2851",
       "id": "913a855b8202b8d6e6ab0aae"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I need 99 more 16+ game testers in my roblox game to unlock minimal for all, if you join mine for a couple mins i join your link to my game is in comments, post the link to y Ou r games in comments MU",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhd298/i_need_99_more_16_game_testers_in_my_roblox_game/",
+      "published": "2026-10-28",
+      "excerpt": "I need 99 more 16+ players to play my game to bypass the 16+ thing and it unlocks my game for all ages if you join my game I will join your link to game in comments, comment the link to your Roblox game in comments, MUST JOIN MY GAME FIRST submitted by /u/Interesting_Kale1161 [link] [comments]",
+      "creator": "/u/Interesting_Kale1161 https://www.reddit.com/user/Interesting_Kale1161",
+      "id": "8565c7a19b0a9f17ab946461"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1669,6 +1726,17 @@
       "id": "755e8e95d69e057f5f8b5eac"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I've been wanting to make a Ben 10 game on Roblox!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhbcfy/ive_been_wanting_to_make_a_ben_10_game_on_roblox/",
+      "published": "2026-10-28",
+      "excerpt": "submitted by /u/Romal_Dev [link] [comments]",
+      "creator": "/u/Romal_Dev https://www.reddit.com/user/Romal_Dev",
+      "id": "72ab19c676e8abd278d0932a"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1693,6 +1761,17 @@
       "id": "506d85b1ee732b095abca9bc"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Tips for animation?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhdh8w/tips_for_animation/",
+      "published": "2026-10-28",
+      "excerpt": "I'm making a Roblox game that also has an animation engine inside it. The problem is that I suck at animation. Yes, I was able to code the different directions like inout, out etc.. and the different curves too since it's not hard to understand. But my animations have been pretty bad, even tho I hav",
+      "creator": "/u/RangeAcrobatic877 https://www.reddit.com/user/RangeAcrobatic877",
+      "id": "3cb5e81a63379d3702cd1fe2"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1714,6 +1793,17 @@
       "excerpt": "https://preview.redd.it/chasqqiqp3yh1.png?width=1498&format=png&auto=webp&s=089593c50c7611fffaaa846d242bd47cc1a8f46e something is wrong with my monitor i cant even see my script, file edit and whatever else is gone at the top.. submitted by /u/UnableActuator5315 [link] [comments]",
       "creator": "/u/UnableActuator5315 https://www.reddit.com/user/UnableActuator5315",
       "id": "28ef93be621c290db2fcb940"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Day 3 for Peryaan! (Dev voice over)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhcg0t/day_3_for_peryaan_dev_voice_over/",
+      "published": "2026-10-28",
+      "excerpt": "Peryaan is a Philippine Carnival held in most Barangays and Cities in the Philippines. It consists of attractions, stalls, game booths, and street foods scattered all over. It is a famous hangout spot whenever a Perya is in town, and it opens at night and gets busier just before they close. It is on",
+      "creator": "/u/Hellzyne https://www.reddit.com/user/Hellzyne",
+      "id": "265a7eeedc319ce70c1d9359"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1748,6 +1838,17 @@
       "excerpt": "Any new developers wanting to set up a development team? submitted by /u/Ac-ro45 [link] [comments]",
       "creator": "/u/Ac-ro45 https://www.reddit.com/user/Ac-ro45",
       "id": "fdc7daef19a3535fffbcaa72"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I've been working on a project for 5 months now and I'm getting overwhelmed",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh5ews/ive_been_working_on_a_project_for_5_months_now/",
+      "published": "2026-10-27",
+      "excerpt": "I've been balancing school and making this project. This project is so incredibly complicated to work with even with the side help of AI as I am just an amateur programmer. This project is a mix between 3008 and Project Lazarus. Ive got done the 3008 part without items or hunger system. I don't know",
+      "creator": "/u/vertisariuum https://www.reddit.com/user/vertisariuum",
+      "id": "fbf82110483dd75135ca7293"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2057,6 +2158,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-struggling-to-keep-players/4960496.rss",
       "id": "c958010408e5db2d094a86ef"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "how do i improve my teaser trailer",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgw9em/how_do_i_improve_my_teaser_trailer/",
+      "published": "2026-10-27",
+      "excerpt": "submitted by /u/Distinct-Tie-3285 [link] [comments]",
+      "creator": "/u/Distinct-Tie-3285 https://www.reddit.com/user/Distinct-Tie-3285",
+      "id": "c6841a36198658e4678ea059"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2384,6 +2496,17 @@
       "id": "98c15b8271b781241628906e"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for feedback",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh6mhi/looking_for_feedback/",
+      "published": "2026-10-27",
+      "excerpt": "Hello everyone! I just finished my first real Roblox game and would love for you to try it out and give me feedback! I would be very grateful if you could tell me what you like, what could be improved, or what you would change about the game. While I've gotten some help from Gemini, for example, des",
+      "creator": "/u/Current-Staff770 https://www.reddit.com/user/Current-Staff770",
+      "id": "97745aa1ba2477557329d43d"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2418,6 +2541,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/alwaysontop-linewireframe-handleadornments-with-zindex-%E2%89%A5-0-render-at-half-brightness/4961329.rss",
       "id": "8d0e632cf3b20bc52fc12020"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Xbox 360 Blades Dashboard",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh6x68/xbox_360_blades_dashboard/",
+      "published": "2026-10-27",
+      "excerpt": "submitted by /u/SamsonDoesThings [link] [comments]",
+      "creator": "/u/SamsonDoesThings https://www.reddit.com/user/SamsonDoesThings",
+      "id": "8c6acfd288e1655cc9b1bcb0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2682,6 +2816,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/npc-outfit-creator-plugin/4960938.rss",
       "id": "6a65536400771ab1a4c73c52"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "First script ive written by myself (if you dont count documention)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh7a9i/first_script_ive_written_by_myself_if_you_dont/",
+      "published": "2026-10-27",
+      "excerpt": "a bit sloppy sadly but this is literally the first completed script ive made submitted by /u/castoffshell9013 [link] [comments]",
+      "creator": "/u/castoffshell9013 https://www.reddit.com/user/castoffshell9013",
+      "id": "6a2e581f83203d215b9914b1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8346,142 +8491,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/account-ban-lifted-but-group-remains-locked-support-tickets-ignored/4952638.rss",
       "id": "9765bb91318eacbc0dc75fd7"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "First game, a cozy Halloween pumpkin-carving clicker: is the first 5 minutes fun?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdorso/first_game_a_cozy_halloween_pumpkincarving/",
-      "published": "2026-10-23",
-      "excerpt": "Hi! I just published my first game, Lantern Patch. You tap pumpkins to carve lanterns, sell them at a cart, and every lantern you sell lights up a shared hill with your name on it. I’d love honest feedback: does the first minute make sense without reading anything? On phone, do the camera and the pu",
-      "creator": "/u/Mages17 https://www.reddit.com/user/Mages17",
-      "id": "923e3486418637386c082689"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Please help me with modeling this room",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdhdjm/please_help_me_with_modeling_this_room/",
-      "published": "2026-10-23",
-      "excerpt": "Could someone please create or find an exact model of the room shown in the video—one that’s compatible with Roblox Studio? (To clarify: the rooms on the floor and the small stand/holder aren't needed.) I’d really appreciate the help! submitted by /u/Chemical-Homework110 [link] [comments]",
-      "creator": "/u/Chemical-Homework110 https://www.reddit.com/user/Chemical-Homework110",
-      "id": "919f2821f83fa65a79a2b93f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "does anyone know what this effect is called?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdhk33/does_anyone_know_what_this_effect_is_called/",
-      "published": "2026-10-23",
-      "excerpt": "i dont know how to explain it but you can see the door and go inside the room but if you walk around its just the wall? i remember seeing it somewhere but i cant find how to make it submitted by /u/Lumberjack009 [link] [comments]",
-      "creator": "/u/Lumberjack009 https://www.reddit.com/user/Lumberjack009",
-      "id": "8de1c85b63f7c5ab8a832b3a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Roblox rolling animation keeps falling over",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xd927m/roblox_rolling_animation_keeps_falling_over/",
-      "published": "2026-10-23",
-      "excerpt": "Every time that i play my roll animation, my character falls over. I don't know what happend and like 3 days ago it worked fine. pls help because i have tryed again and again to make it work and nothing works. submitted by /u/Extra-Back2257 [link] [comments]",
-      "creator": "/u/Extra-Back2257 https://www.reddit.com/user/Extra-Back2257",
-      "id": "8c43f8888e1c9763b7b241f1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made a prison-break manhunt where the hunters get your location every 45 seconds. Looking for feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdombv/i_made_a_prisonbreak_manhunt_where_the_hunters/",
-      "published": "2026-10-23",
-      "excerpt": "Fugitives break out of a prison in a Dutch village, hunters (players + AI) chase them with a van, drone and CCTV. You can hide in bushes, steal bikes and drop spike strips to pop the van's tyre 🛞. Reach the helicopter to escape. It's brand new, so I'd really appreciate people trying a round and tell",
-      "creator": "/u/RobloxGameDev1979 https://www.reddit.com/user/RobloxGameDev1979",
-      "id": "85f63e3e359f2111b1ba94e9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for Onboarding Feedback – TURBOSTORM Car Racing (10 Min Avg Session, 0 Organic Traffic)",
-      "url": "https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901",
-      "published": "2026-10-23",
-      "excerpt": "Yo, I’m the developer of [ Turbostorm Car Racing ], a racing game called TURBOSTORM Car Racing . I recently ran some ad campaigns and the initial data looks promising: once players actually get behind the wheel, they stick around for an average of 10 minutes . I’m happy with how the core mechanics l",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-onboarding-feedback-%E2%80%93-turbostorm-car-racing-10-min-avg-session-0-organic-traffic/4951901.rss",
-      "id": "8405fdbd65d2d76707f5067b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for collaborators",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xd7dst/looking_for_collaborators/",
-      "published": "2026-10-23",
-      "excerpt": "I have some games in mind I have the codes ready but i really need some people to help me with the animations and graphics cuz I am unable to do it pls send me a friend req on discord Kkumar0406 submitted by /u/Agile_Garlic_5380 [link] [comments]",
-      "creator": "/u/Agile_Garlic_5380 https://www.reddit.com/user/Agile_Garlic_5380",
-      "id": "82b2a795129eba9151bbb301"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "New game, need feedback",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdkiuc/new_game_need_feedback/",
-      "published": "2026-10-23",
-      "excerpt": "i needs honest opinions, just from what you're seeing in this early game development, what can you assume the future of the game could be? Game core loop, success, retention etc. Clip is from Aug 26, 2026 roughly 2 months old submitted by /u/venx_ [link] [comments]",
-      "creator": "/u/venx_ https://www.reddit.com/user/venx_",
-      "id": "81ba65c37f0224ef14d43752"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "The Hollow: UGC Claim Not Working (Ao Oni)",
-      "url": "https://devforum.roblox.com/t/the-hollow-ugc-claim-not-working-ao-oni/4953368",
-      "published": "2026-10-23",
-      "excerpt": "Issue I am having an issue with The Hollow as the claim for the U.G.C. of “Ao Oni” ( Aooni Nightmare ) is not working. Badge I also have the badge, so it should work. Here is the badge ID: 2718134257426022 My inventory is also public if anyone needs proof. Any help is appreciated! Pretzel Expected b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-hollow-ugc-claim-not-working-ao-oni/4953368.rss",
-      "id": "7d90b047761bdbb2201db63b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made a jetpack racing game where your trail is a weapon – Trail Rush",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xdceus/i_made_a_jetpack_racing_game_where_your_trail_is/",
-      "published": "2026-10-23",
-      "excerpt": "Hey everyone! I've been working on Trail Rush , a fast-paced jetpack arena game, and I wanted to share a short clip of it. How it works: you fly around a small planet with your jetpack and leave a glowing ribbon trail behind you. Crash into someone else's trail, and you're out, so the goal is to cut",
-      "creator": "/u/Ill_Rhubarb_4587 https://www.reddit.com/user/Ill_Rhubarb_4587",
-      "id": "7a45635aa8ed43f012eeae71"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Issues with the New Avatar Item Update Feature",
-      "url": "https://devforum.roblox.com/t/issues-with-the-new-avatar-item-update-feature/4953355",
-      "published": "2026-10-23",
-      "excerpt": "When selecting an item to update, only the 30 most recently published items show up , with no way to switch pages or acess older items. There’s also an option to enter an Asset ID manually, but entering a valid ID doesn’t do anything . The item doesn’t load, and no error message appears. This makes ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/issues-with-the-new-avatar-item-update-feature/4953355.rss",
-      "id": "7977a37b124f933125e508fe"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for Feedback on My Pixel Game",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767",
-      "published": "2026-10-23",
-      "excerpt": "I’ve been working on a pixel roguelite game DIce War, and wanted to hear what you guys think! game link: [( Dice War | Play on Roblox )] about the game It’s a dice-based roguelite where you roll for units, build your team, and fight through stages You can upgrade your units, promote them into differ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-my-pixel-game/4951767.rss",
-      "id": "778f0bfa2db7ddae3a1757a6"
     }
   ]
 }
