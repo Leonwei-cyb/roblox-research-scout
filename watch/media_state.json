@@ -1640,7 +1640,23 @@
     "e5c072cb1b90fbd23e76f6e5",
     "7b506c369b0ef27e18b8b983",
     "9fb51167c79fa57427f0ec02",
-    "e9f3a8d4111a890bd17dbb50"
+    "e9f3a8d4111a890bd17dbb50",
+    "75a0c43860eb75f1950b7a56",
+    "8bfe4418ec3ca58e9093775d",
+    "fd6b05972905e91b3f6f4e40",
+    "da7044527857372de3d7d8ce",
+    "2509ade311b9660150b2653d",
+    "d6c4915c3184d3594eac6f85",
+    "b123e579e7c0bf80bd132db1",
+    "27367c45e33d8dcb6581396f",
+    "f41dcbae85b9b8d700346704",
+    "d2c7df2d38993030eb1901d7",
+    "151af66777fd95a5ff3c8fb6",
+    "008c8e892a7ee4f6a39129c2",
+    "cf307f598d2b4a62105bafa0",
+    "9df87ff320f95c225769eca6",
+    "d03667eda0beb38d3f7bc754",
+    "5031e85591c63bd026355546"
   ],
   "items": [
     {
@@ -1654,6 +1670,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/no-option-to-remove-or-modify-through-creator-store-seller-stripe-custom-account/4961843.rss",
       "id": "fe72de07ccc56f2d0bdcc4ee"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game stuck on final review for all ages",
+      "url": "https://devforum.roblox.com/t/game-stuck-on-final-review-for-all-ages/4962731",
+      "published": "2026-10-28",
+      "excerpt": "Hi everyone, I’m looking for an experienced developer or technician who can help me review or fix an issue with the audience settings on my experience. My game, “El Barrio Boliviano”, has been stuck under the provisional 16+ ranking for days. In my Creators Dashboard, everything looks perfect and me",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-stuck-on-final-review-for-all-ages/4962731.rss",
+      "id": "fd6b05972905e91b3f6f4e40"
     },
     {
       "source": "reddit-robloxstudio",
@@ -1689,6 +1717,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/more-detailed-dislike-analytics-in-creator-dashboard/4961959.rss",
       "id": "f4e103dcafce5e20063c34d3"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "LOOKING FOR ARTISTS",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhvqp0/looking_for_artists/",
+      "published": "2026-10-28",
+      "excerpt": "if ur interested add me on discord: jim_jam777 were making a roguelike more details will be discussed if u dm me payment is a cut from the overall revenue of the game submitted by /u/Mean_Boysenberry138 [link] [comments]",
+      "creator": "/u/Mean_Boysenberry138 https://www.reddit.com/user/Mean_Boysenberry138",
+      "id": "f41dcbae85b9b8d700346704"
     },
     {
       "source": "reddit-robloxdev",
@@ -1795,6 +1834,18 @@
       "id": "dd7cb93bd8418bd0ba77649c"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Major TOS Discrepancy",
+      "url": "https://devforum.roblox.com/t/major-tos-discrepancy/4962717",
+      "published": "2026-10-28",
+      "excerpt": "[ private topic, please check notes intended for staff ] A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/major-tos-discrepancy/4962717.rss",
+      "id": "da7044527857372de3d7d8ce"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1804,6 +1855,18 @@
       "excerpt": "Hi everyone! I've been working on this game called Last Station. It's a horror game with 3 endings and two modes: you can play as the controller (with other players) OR play solo against a bot controller. I tried to make the lighting and locations feel realistic and gloomy. I'm not here to spam, I j",
       "creator": "/u/aleksays1010 https://www.reddit.com/user/aleksays1010",
       "id": "d7dfc8c382baa04af6b44784"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Type Solver / Checker breaks indefinitely as it starts scanning Huge scripts meant for data and makes studio closing process infinite",
+      "url": "https://devforum.roblox.com/t/type-solver-checker-breaks-indefinitely-as-it-starts-scanning-huge-scripts-meant-for-data-and-makes-studio-closing-process-infinite/4962659",
+      "published": "2026-10-28",
+      "excerpt": "I made a tool that is effective at encoding any video format (supported by ffmpeg) and a player to unpack that bufferized string data at stable 60 fps using EditableImages; During benchmarking, with scripts holding strings for a total of > 60 MB the Roblox Studio type checker would start scanning th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/type-solver-checker-breaks-indefinitely-as-it-starts-scanning-huge-scripts-meant-for-data-and-makes-studio-closing-process-infinite/4962659.rss",
+      "id": "d6c4915c3184d3594eac6f85"
     },
     {
       "source": "reddit-robloxdev",
@@ -1817,6 +1880,17 @@
       "id": "d4cbe042e9c7c575a2ad02ec"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is there an AI capable of creating flashy animations?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhvzn2/is_there_an_ai_capable_of_creating_flashy/",
+      "published": "2026-10-28",
+      "excerpt": "Hi, I have been creating a game for a few months now and have mostly used AI for things regarding 3D models since I have 0 knowledge when it comes to that. I was wondering if there is an AI capable of rigging 3D models and applying animations. I have been using Meshy but its animation AI is quite li",
+      "creator": "/u/actualmoron_ https://www.reddit.com/user/actualmoron_",
+      "id": "d2c7df2d38993030eb1901d7"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1827,6 +1901,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208.rss",
       "id": "d2a8fad0dc7c834e725ad5cf"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Any german devs here?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhugul/any_german_devs_here/",
+      "published": "2026-10-28",
+      "excerpt": "How do you handle business registration and taxes when developing a game with someone else and splitting revenue 50/50? Does this automatically count as a GbR (partnership), or can both developers register separate businesses, especially if Roblox splits the Robux automatically submitted by /u/Low_R",
+      "creator": "/u/Low_Rock_6520 https://www.reddit.com/user/Low_Rock_6520",
+      "id": "d03667eda0beb38d3f7bc754"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Home Recommendations Timeline?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhvg6z/home_recommendations_timeline/",
+      "published": "2026-10-28",
+      "excerpt": "I released my second game and its been around 6 days, my last game didnt have the best stats and it started getting home reccomendations at around day 3, but this game has much better stats and still hasnt gotten any. is this normal? What has your experience been with getting home reccomendations. T",
+      "creator": "/u/LazyTotal7279 https://www.reddit.com/user/LazyTotal7279",
+      "id": "cf307f598d2b4a62105bafa0"
     },
     {
       "source": "reddit-robloxdev",
@@ -1915,6 +2011,18 @@
       "excerpt": "Peryaan is a Philippine Carnival held in most Barangays and Cities in the Philippines. It consists of attractions, stalls, game booths, and street foods scattered all over. It is a famous hangout spot whenever a Perya is in town, and it opens at night and gets busier just before they close. It is on",
       "creator": "/u/Hellzyne https://www.reddit.com/user/Hellzyne",
       "id": "b259dbc4c90a220fb7eae69b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Issue With Shovel And Terrain",
+      "url": "https://devforum.roblox.com/t/issue-with-shovel-and-terrain/4962656",
+      "published": "2026-10-28",
+      "excerpt": "I have a shovel system that adds and removes terrain. For the most part it works great However, occasionally when a player is adding terrain under themselves to build, Something closely tied to the game, they can get engulfed by the added terrain and fall through the map. The game therefore has a fa",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/issue-with-shovel-and-terrain/4962656.rss",
+      "id": "b123e579e7c0bf80bd132db1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2035,6 +2143,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Build a Plane for Treasure",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhv9ye/build_a_plane_for_treasure/",
+      "published": "2026-10-28",
+      "excerpt": "I am currently in the Ad phase for Build a Plane for Treasure & was looking for some critical feedback. I really enjoy build a boat and wanted something similar and now this project has gotten bigger than I was imagining. I am most concerned on gameplay mechanics, & user retention now. I also am uns",
+      "creator": "/u/Defiant-Ad-9227 https://www.reddit.com/user/Defiant-Ad-9227",
+      "id": "9df87ff320f95c225769eca6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "If you like Steal the Egg games, check out mine: cool maps, house building and tons of eggs!",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhr7sx/if_you_like_steal_the_egg_games_check_out_mine/",
       "published": "2026-10-28",
@@ -2132,6 +2251,18 @@
       "excerpt": "Hey everyone! I'm an indie Roblox developer, and I'm looking for a few players to test my new Roblox project. It's still a work in progress, and I'd really appreciate some honest feedback on the gameplay, map, and overall experience. If you're interested in trying it out, here's the link: [ https://",
       "creator": "/u/Beneficial_Ball_2622 https://www.reddit.com/user/Beneficial_Ball_2622",
       "id": "8f219e10764372ca1dd5b1ed"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Minimum Ad Credits Amount",
+      "url": "https://devforum.roblox.com/t/minimum-ad-credits-amount/4962747",
+      "published": "2026-10-28",
+      "excerpt": "Hey guys! So I was working on my game and started thinking about running an ad. But I want to know, what is the minimum ad credits amount you need to have to run an ad? Is it 5 ad credits? Is it 10? Or is there no minimum value and you can run an ad even on 1 credit? 1 post - 1 participant Read full",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/minimum-ad-credits-amount/4962747.rss",
+      "id": "8bfe4418ec3ca58e9093775d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2276,6 +2407,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "What is \"Pose Texture\"?",
+      "url": "https://devforum.roblox.com/t/what-is-pose-texture/4962794",
+      "published": "2026-10-28",
+      "excerpt": "About I’ve been seeing a “PoseTexture” thing everywhere with stub objects. I’ve seen it in decals even though it does nothing. It seems to be related to the “Runtime” virus. And the rigid contraint is literally blank and it doesn’t make sense to have anything physical related in this form. I’ve seen",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-is-pose-texture/4962794.rss",
+      "id": "75a0c43860eb75f1950b7a56"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[CRITICAL] Fake 'studio dependency' popup appearing in experience playests",
       "url": "https://devforum.roblox.com/t/critical-fake-studio-dependency-popup-appearing-in-experience-playests/4962614",
       "published": "2026-10-28",
@@ -2409,6 +2552,17 @@
       "id": "506d85b1ee732b095abca9bc"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "how do i change an animation depending on if the player is holding something?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhu422/how_do_i_change_an_animation_depending_on_if_the/",
+      "published": "2026-10-28",
+      "excerpt": "ive just started on trying to make some custom animations for my game, and i was having issues with how the flashlight gear in my game interferes with the animation, if i have the right arm as part of the animation, it faces down and doesnt properly shine the light forward, but if i dont have it as ",
+      "creator": "/u/Danielisgamer https://www.reddit.com/user/Danielisgamer",
+      "id": "5031e85591c63bd026355546"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2484,7 +2638,7 @@
       "title": "'Import from file' context option gone all of a sudden in explorer?",
       "url": "https://devforum.roblox.com/t/import-from-file-context-option-gone-all-of-a-sudden-in-explorer/4962553",
       "published": "2026-10-28",
-      "excerpt": "Hi there, I’m attempting to import an .rbxm, and noticed that all of a sudden today the context option ‘Import from file’ is completely gone. Is this a bug? I’m trying to import to ServerScriptService but it happens no matter where I try to import to. 1 post - 1 participant Read full topic",
+      "excerpt": "Hi there, I’m attempting to import an .rbxm, and noticed that all of a sudden today the context option ‘Import from file’ is completely gone. Is this a bug? I’m trying to import to ServerScriptService but it happens no matter where I try to import to. 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/import-from-file-context-option-gone-all-of-a-sudden-in-explorer/4962553.rss",
       "id": "35fc80b630cdaed9faa3c82c"
@@ -2549,6 +2703,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Avatar upload - will this be a violation?",
+      "url": "https://devforum.roblox.com/t/avatar-upload-will-this-be-a-violation/4962653",
+      "published": "2026-10-28",
+      "excerpt": "Will this Avatar be classed as violation? ie. they will say it has tattoos and make up i would imagine 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatar-upload-will-this-be-a-violation/4962653.rss",
+      "id": "27367c45e33d8dcb6581396f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox Studio | 8K Viewport Forced",
       "url": "https://devforum.roblox.com/t/roblox-studio-8k-viewport-forced/4962100",
       "published": "2026-10-28",
@@ -2567,6 +2733,18 @@
       "excerpt": "Peryaan is a Philippine Carnival held in most Barangays and Cities in the Philippines. It consists of attractions, stalls, game booths, and street foods scattered all over. It is a famous hangout spot whenever a Perya is in town, and it opens at night and gets busier just before they close. It is on",
       "creator": "/u/Hellzyne https://www.reddit.com/user/Hellzyne",
       "id": "265a7eeedc319ce70c1d9359"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Major Policy Discrepancy: Breaking Terms of Service",
+      "url": "https://devforum.roblox.com/t/major-policy-discrepancy-breaking-terms-of-service/4962700",
+      "published": "2026-10-28",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/major-policy-discrepancy-breaking-terms-of-service/4962700.rss",
+      "id": "2509ade311b9660150b2653d"
     },
     {
       "source": "reddit-robloxdev",
@@ -2626,6 +2804,17 @@
       "id": "1545074a64f881040f2b390c"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What do you think of the new update in UGC Hunt?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhwu2p/what_do_you_think_of_the_new_update_in_ugc_hunt/",
+      "published": "2026-10-28",
+      "excerpt": "The link to the game is in my profile. submitted by /u/BandicootOk8815 [link] [comments]",
+      "creator": "/u/BandicootOk8815 https://www.reddit.com/user/BandicootOk8815",
+      "id": "151af66777fd95a5ff3c8fb6"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2683,6 +2872,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-studio-bug/4962087.rss",
       "id": "00bc983ef9b1b4e5c59ed806"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Thumbnail Art for My HOI4 style countryball game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhwdyp/thumbnail_art_for_my_hoi4_style_countryball_game/",
+      "published": "2026-10-28",
+      "excerpt": "Hi! Im currently working on artwork for my Cb hoi4 style game! Its not finished yet but how do yall feel about it? 🙂 submitted by /u/Even_Direction_8940 [link] [comments]",
+      "creator": "/u/Even_Direction_8940 https://www.reddit.com/user/Even_Direction_8940",
+      "id": "008c8e892a7ee4f6a39129c2"
     },
     {
       "source": "reddit-robloxstudio",
@@ -4181,7 +4381,7 @@
       "title": "Release Notes for 745",
       "url": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
       "published": "2026-10-27",
-      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 15 posts - 14 participants Read full topic",
+      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 16 posts - 14 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-745/4960754.rss",
       "id": "1bbc848dbd6d3c954f224a54"
@@ -8381,189 +8581,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/visual-bug-roblox-app-store/4953490.rss",
       "id": "3123ab0ce34bd9bfcb18138f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "My roblox game has just released, it is basically ball vs ball but simulator, and i NEED a tester.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe2sb3/my_roblox_game_has_just_released_it_is_basically/",
-      "published": "2026-10-24",
-      "excerpt": "The tutorial is in the game, everything is explained there, i really need a play tester to test out my game if its too complicated or even the whole game is trash I will accept ANY feedback, i can handle criticism, i just need honesty To play : LINK Thank you so much!! submitted by /u/Smooth_Key_543",
-      "creator": "/u/Smooth_Key_5431 https://www.reddit.com/user/Smooth_Key_5431",
-      "id": "30d2aedbdb8ef84e072fdbed"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for playtest opportunities (unpaid or robux payed)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeelwy/looking_for_playtest_opportunities_unpaid_or/",
-      "published": "2026-10-24",
-      "excerpt": "Hello! I can playtest for games! This includes both the contribution of ideas and spotting glitches. I can either be unpaid or given robux pay, I honestly dont mind, lol. I just am trying to assist in improving game ideas so that more people might enjoy them! I will NOT be playtesting any of those u",
-      "creator": "/u/Tiny-Instruction-578 https://www.reddit.com/user/Tiny-Instruction-578",
-      "id": "2fbf7fbb11a20b377fbd19cd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I know this isn't exactly a Roblox Studio problem, but how I can fix transparent head?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe58zd/i_know_this_isnt_exactly_a_roblox_studio_problem/",
-      "published": "2026-10-24",
-      "excerpt": "submitted by /u/imustbethereasonwh [link] [comments]",
-      "creator": "/u/imustbethereasonwh https://www.reddit.com/user/imustbethereasonwh",
-      "id": "2fb22e4d11095eb1a45ad8f0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Version 743 may have broken collision physics for Server Authority",
-      "url": "https://devforum.roblox.com/t/version-743-may-have-broken-collision-physics-for-server-authority/4955542",
-      "published": "2026-10-24",
-      "excerpt": "Hello, I’ve been pretty familiar with working with server authority. Earlier today I noticed collisions for my car were not behaving normally. I initially thought this was a scripting issue, however I found on a build back in June that the issue can be repo’d there, so I believe this is a engine iss",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/version-743-may-have-broken-collision-physics-for-server-authority/4955542.rss",
-      "id": "2f2a5ab480d10bd520b2746c"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "all bite. no bark. tonight, Biter is hungry for you in The Hollow.",
-      "url": "https://www.youtube.com/shorts/11L3N8H86fQ",
-      "published": "2026-10-24",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "2e5e6117c224c4af66745c2f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I Would Love to Hear Peoples Thoughts On My Game \"Delivery Frenzy\", Thus Far? (Read Body) UPDATE!!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeirua/i_would_love_to_hear_peoples_thoughts_on_my_game/",
-      "published": "2026-10-24",
-      "excerpt": "Hello Everyone! I have been working on my game \"Delivery Frenzy\". I have posted my game in this sub previously, but since then I have made enormous progress (If you want to see older versions of the game, you can view them on my profile). I would love to hear everyone's thoughts on my game so far. 😁",
-      "creator": "/u/Help_Insurance https://www.reddit.com/user/Help_Insurance",
-      "id": "2cebbb59b4873ae05820b670"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Raycast Chassis lagspike issue",
-      "url": "https://devforum.roblox.com/t/raycast-chassis-lagspike-issue/4953477",
-      "published": "2026-10-24",
-      "excerpt": "I’ve recently gotten into Raycast driving systems. But after testing it i’ve found an issue. Whenever the player gets a lagspike or lags in general the Vehicle jumps around. I’ve tried doing anything to fix this issue. Nothing has helped. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/raycast-chassis-lagspike-issue/4953477.rss",
-      "id": "2b70e84f0ec5aaefc5e8849a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Add a way to unlock All Ages via USD",
-      "url": "https://devforum.roblox.com/t/add-a-way-to-unlock-all-ages-via-usd/4954751",
-      "published": "2026-10-24",
-      "excerpt": "Recently because of the influx of new games and therefore people running ads, using Engagement ads has become marginally less efficient. While you could easily get with subpar CTR the 250 HEP player requirement in a few days, it’s become much slower for the same spend with similar CTR. Not all devel",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/add-a-way-to-unlock-all-ages-via-usd/4954751.rss",
-      "id": "2b3940736fac3f91ef265b75"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I made an Incremental Simulator",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xebpa4/i_made_an_incremental_simulator/",
-      "published": "2026-10-24",
-      "excerpt": "I wanted to make a +1 game, but with more progression and things to do than just clicking to increase a number. I’ve been working on this Roblox game for a while now, and I’d really appreciate it if some of you could give it a try! I’m mainly looking for honest feedback on the gameplay, progression,",
-      "creator": "/u/Competitive_Oil2162 https://www.reddit.com/user/Competitive_Oil2162",
-      "id": "2a902332ea9fda0825127729"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Over a Year Since South Korea's Limited Trading Ban — Will Roblox Reconsider Its Decision?",
-      "url": "https://devforum.roblox.com/t/over-a-year-since-south-koreas-limited-trading-ban-%E2%80%94-will-roblox-reconsider-its-decision/4954850",
-      "published": "2026-10-24",
-      "excerpt": "Hello Roblox Team, It has now been over a year since Roblox restricted Limited and Limited U item trading and reselling for users in South Korea in October 2025. Despite the amount of time that has passed, many Korean users are still waiting for a clear explanation of why these restrictions remain i",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/over-a-year-since-south-koreas-limited-trading-ban-%E2%80%94-will-roblox-reconsider-its-decision/4954850.rss",
-      "id": "2a2d5f7d8603a18a405ee005"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Solo Roblox developer looking for honest feedback on my first game — what should I improve?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdua6k/solo_roblox_developer_looking_for_honest_feedback/",
-      "published": "2026-10-24",
-      "excerpt": "BRAINROT DYNASTY | Play on Roblox , Hey everyone! I've spent a lot of time developing my Roblox game, Brainrot Dynasty, a collection/tycoon game where players collect brainrots, unlock mutations, earn cash, and progress through 15 ranks. I'm having trouble attracting players, and before trying to pr",
-      "creator": "/u/ALEX67ZOT https://www.reddit.com/user/ALEX67ZOT",
-      "id": "2746ff81fdea959502683f6a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Attack on Titan - CC / Permadeath game - LOOKING FOR COMMUNITY MANAGERS / TESTERS",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xdv9hl/attack_on_titan_cc_permadeath_game_looking_for/",
-      "published": "2026-10-24",
-      "excerpt": "Hey, I've been developing an AOT game for a good bit now. It's getting to the stage where I need to start building up a community, but I don't really know how other than through here. If you're interested in helping me make the community, be a community manager, a tester, a lore writer, or even inte",
-      "creator": "/u/PracticalAccident650 https://www.reddit.com/user/PracticalAccident650",
-      "id": "271dae9b92d754bf95fc3757"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "X-29 Grumman",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe5lgy/x29_grumman/",
-      "published": "2026-10-24",
-      "excerpt": "submitted by /u/Own_Quote1469 [link] [comments]",
-      "creator": "/u/Own_Quote1469 https://www.reddit.com/user/Own_Quote1469",
-      "id": "25bd8b8f257f52b6c5d72d88"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Analytics' 'Bounce Rate' genre benchmark always shows 0.00% for all games",
-      "url": "https://devforum.roblox.com/t/analytics-bounce-rate-genre-benchmark-always-shows-000-for-all-games/4954670",
-      "published": "2026-10-24",
-      "excerpt": "0% bounce rate is physically impossible, this data error makes it difficult to tell what a good bounce rate for your genre is another game where this is happening It will stay at 0% until your game starts getting compared to similar games rather than gene in this one you can see it shift when it sta",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/analytics-bounce-rate-genre-benchmark-always-shows-000-for-all-games/4954670.rss",
-      "id": "1aa995cd2eb3fd66123ef245"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "3 Video Uploads per month per account is too low",
-      "url": "https://devforum.roblox.com/t/3-video-uploads-per-month-per-account-is-too-low/4954113",
-      "published": "2026-10-24",
-      "excerpt": "3 per game per month sure, but 3 per account is insane. I tried uploading a trailer for a quick project which got denied 3 times and now I cant release a trailer for my current project until 3 more weeks from now. Please let me upload my video I’ll pay at this point.. 1 post - 1 participant Read ful",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/3-video-uploads-per-month-per-account-is-too-low/4954113.rss",
-      "id": "178f5a68ed48369cfc884659"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "What are marketing strategies that work well for multiplayer team games?",
-      "url": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789",
-      "published": "2026-10-24",
-      "excerpt": "Me & my friend were wondering what strategies would be best for team based multiplayer games Would spending 10k Robux on marketing be worth it? He was thinking 5k on Roblox ads and 5k paying a YouTuber (who agreed to 5k for a video and he averages 30-200k views a short) to post a short showcasing th",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789.rss",
-      "id": "16e8212da659f7d8f1a87a83"
     }
   ]
 }

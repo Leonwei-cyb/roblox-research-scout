@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "3fbc609be4b3ac5af8061bef6b0013a32e50d17f",
-      "head_subject": "llm: LFM3 GGUF fixes and llama-server speech (#19344)",
+      "head": "46d2e4e8fbf9329601452ede6d21b4030faa5607",
+      "head_subject": "llama.cpp: version bump b11963 (#19360)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.12",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
@@ -241,6 +241,7 @@
     "tbee6061-ctrl/studio-live-window-capture",
     "thryvaan-hub/pi-roblox-bridge",
     "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+    "trackawesomelist/trackawesomelist",
     "uhub/awesome-lua",
     "wh000wh000/awesome-jev-live",
     "xianyu110/awesome-gpt-6-astra",
