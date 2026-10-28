@@ -5,26 +5,23 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[The New Rules of the Algorithm (2026) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYdXZQLXZFX0U0cFU3aW1MWW9sZU1BNEZZTTg4X0lDWU9Pd0pmaTQ5UV91MldwNHhFbFNPSWViVmlhZUxTczlYY2s1UHE2VWM2bEdUczZ3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-23
-  - Feed excerpt: The New Rules of the Algorithm (2026) YouTube
-
 ## Community
 
-- **[Looking for 16+ Roblox playtesters — I’ll test your game too!](https://www.reddit.com/r/robloxgamedev/comments/1xhjwhm/looking_for_16_roblox_playtesters_ill_test_your/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hey everyone! I’m looking for players with eligible 16+ Roblox accounts to try my game for a few minutes and share some honest feedback. If you try mine, leave your game link in the comments and I’ll return the favor! Please mention what yo
-- **[I made a horror game about an abandoned subway and an anomaly controller. Looking for feedback on the atmosphere!](https://www.reddit.com/r/robloxgamedev/comments/1xhkfqp/i_made_a_horror_game_about_an_abandoned_subway/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hi everyone! I've been working on this game called Last Station. It's a horror game with 3 endings and two modes: you can play as the controller (with other players) OR play solo against a bot controller. I tried to make the lighting and lo
+- **[Do these thumbnails and icons look okay?](https://www.reddit.com/r/robloxgamedev/comments/1xhl2or/do_these_thumbnails_and_icons_look_okay/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: I'm releasing my first game and these are the thumbnails I've made for it. I've tried to take inspiration from other games in this genre for my thumbnails. Personally I think that people are getting sick of smooth looking/AI thumbnails. So 
+- **[My first game feedback](https://www.reddit.com/r/robloxgamedev/comments/1xhliwi/my_first_game_feedback/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: I need players to test my game but for free. Is there any volunteer submitted by /u/Responsible_Data3383 \[link\] \[comments\]
+- **[small edit for our upcoming game called bomb rush join our discord for more updates! https://discord.gg/dc4n9QHfz](https://www.reddit.com/r/robloxgamedev/comments/1xhlp2i/small_edit_for_our_upcoming_game_called_bomb_rush/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: submitted by /u/NasioVector \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Roblox Studio freezing after playtesting](https://devforum.roblox.com/t/roblox-studio-freezing-after-playtesting/4962001)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: The freezing started from the 25th, which, at that time i downloaded two plugins, i deleted them or tried disabling other plugins, still did not fix I tried: Disabling Beta features Redownloading Studio freezes like this, some buttons work,
-- **[Free Low-Poly 3D Assets](https://devforum.roblox.com/t/free-low-poly-3d-assets/4962046)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: I make all these models myself, so feel free to use them however you want! I’ll keep updating this topic with new models as I create them, as long as the topic stays open and allows me to. Enjoy the assets! Kawaii Onigiri Simpsons Prop Pack
-- **[Reminder: Your RNG Logic Can Still Be Broken](https://devforum.roblox.com/t/reminder-your-rng-logic-can-still-be-broken/4962011)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: I keep getting DMs that look something like this: “exploiters keep getting rare items, my remotes have sanity checks, I have no idea how” In almost every case the remotes are fine. The loot RNG is predictable and someone is abusing it. Does
+- **[Roblox Studio Bug](https://devforum.roblox.com/t/roblox-studio-bug/4962087)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Hello, since yesterday, after installing the latest Studio update, the app has been loading for ever and I’ve been unable to open any games resulting to the error linked down below. I tried deleting and instaling the game back, switching Wi
+- **[Looking for feedback on my first game(Sandbox Tycoon)](https://devforum.roblox.com/t/looking-for-feedback-on-my-first-gamesandbox-tycoon/4962101)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: I have been working on this project for about a month, and am looking to get as much outsider perspective as possible, including what I can improve, what works well/what doesn’t, or anything/suggestions that come to mind when playing it. Re
+- **[Roblox Studio \| 8K Viewport Forced](https://devforum.roblox.com/t/roblox-studio-8k-viewport-forced/4962100)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Since October 26, 2026, I’ve been experiencing recurring Roblox Studio crashes that interrupt development and prevent me from reliably creating and publishing updates to my projects. Logs show the edit layout being restored, followed by a D
 
 ---
 

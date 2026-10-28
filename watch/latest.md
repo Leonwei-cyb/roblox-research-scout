@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [taskade/awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) (143 stars). 🚀 The complete guide to vibe coding — build software with AI through natural language prompts. Tools, frameworks, best practices, and resources curated by Taskade.
+- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — README - Link to LLM key setup tutorial.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
