@@ -5,28 +5,34 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Animations And Vfx
+## Roblox Creator / Ai Development
 
-- **[Eclipse Animator - Beginner's Guide (2026) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZnV4NEhQS0lHR2pEUzhxc2ZBQS1naEpMdUpjc015M19Pdm8yZ05xWDd3ZDBrNWFQUFBtbjFjck9QNjV6M1ZWaFJBRVNjZ1ppOXVld1B3?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-10-14
-  - Feed excerpt: Eclipse Animator - Beginner's Guide (2026) YouTube
+- **[Opus 5.5 vs GPT 6 Astra make Blox Fruits - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kR0lUbzQyZzc1RUVWSGdiZFJVZnZlUDNEeU9NLVFlclhDUDBzWEdpMHVFODJ4eFNYSkFBNVNubnFxUnlkVFk4UEQ1T1ZfTFNVX29OQXlR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-09-28
+  - Feed excerpt: Opus 5.5 vs GPT 6 Astra make Blox Fruits YouTube
 
 ## Community
 
-- **[If you like Steal the Egg games, check out mine: cool maps, house building and tons of eggs!](https://www.reddit.com/r/robloxgamedev/comments/1xhr7sx/if_you_like_steal_the_egg_games_check_out_mine/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hi everyone, I made a Steal the Egg game on Roblox called STEAL THE EGG (creator: buujaa01), and if you enjoy this genre, I think you might like it. What makes it special: - Cool maps: different areas to explore, each with its own style - H
-- **[Made a +1 mining simulator solo — looking for honest feedback and testers before launch](https://www.reddit.com/r/robloxgamedev/comments/1xhrb99/made_a_1_mining_simulator_solo_looking_for_honest/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hey everyone! I've been working on my game \[+1\] Ore Mining Simulator for about 4.5 months and I'm planning to launch it in early December. Before that, I'd really love some fresh eyes on it. You mine ores to gain Mining Power, unlock better
-- **[My first Roblox game lets you steal other players' creatures and carry them over your head](https://www.reddit.com/r/robloxgamedev/comments/1xhrkz6/my_first_roblox_game_lets_you_steal_other_players/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: I've been working on my first game, Steal a Mutation. You collect creatures, mutate them in a machine into rare versions (Legendary, Secret, Cosmic), and can sneak into other players' bases to steal them. Some things I added: When you steal
-- **[Roblox... or is it minecraft?](https://www.reddit.com/r/robloxgamedev/comments/1xhqqjh/roblox_or_is_it_minecraft/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: I made ported 1.7.10 Minecraft Bedwars onto Roblox! https://preview.redd.it/1miazu6y48yh1.png?width=1920&format=png&auto=webp&s=1638d41a70517b617b3f22cfc1c2b74f77a464e5 submitted by /u/Superb_Criticism8504 \[link\] \[comments\]
+- **[🛠️ GASHLOCK-looking for Scripters, Builders & Playtesters and more!](https://www.reddit.com/r/robloxgamedev/comments/1xhs9qs/gashlocklooking_for_scripters_builders/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: Hey guys im ballyhat and im looking for people to work on my upcoming asym game called "gash-lock" the theme of the asym game has modern-mix retro like for example studs. im only looking for. 💻 Scripter — MAIN PRIORITY Someone who can help 
+- **[How difficult should my game be from the start?](https://www.reddit.com/r/robloxgamedev/comments/1xhti8n/how_difficult_should_my_game_be_from_the_start/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: I’m building/built a game where you fight waves of elemental enemies atop your wizard tower. They get stronger, you and get upgrades and shuffle what element you and your friends shoot. I’m struggling on where to start the difficulty to kee
+- **[My first mesh part has black spot which is on the model](https://www.reddit.com/r/robloxgamedev/comments/1xhtehm/my_first_mesh_part_has_black_spot_which_is_on_the/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
+  - Feed excerpt: https://preview.redd.it/7g423i4dl8yh1.png?width=966&format=png&auto=webp&s=4cc7b68a98703b4e5d8966ca437c35e0dfa13225 I tried to make a pine. I looks really fine on Blender but when I import on studio the .fbx file. It generates the shape cor
 
 ## Roblox Updates
 
-- **[Client and Server Cooldown Desync](https://devforum.roblox.com/t/client-and-server-cooldown-desync/4962409)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Hello everyone, I am currently in process of developing a weapon-based combat system, and I am having issues with the client-server boundary while managing cooldowns, ammo, etc. How my current structure works: The client will validate if co
-- **[Journey Funnel Event page error](https://devforum.roblox.com/t/journey-funnel-event-page-error/4962455)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Journeys gives me a could not load error. A staff member enabled this view for me (see this post, Log Journey Events not appearing - #2 by srakurinho ) but it won’t actually load any of the journey events. Later in the same post another sta
+- **[\[CRITICAL\] Fake 'studio dependency' popup appearing in experience playests](https://devforum.roblox.com/t/critical-fake-studio-dependency-popup-appearing-in-experience-playests/4962614)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: There is currently a popup that is currently going around claiming that the studio experience disconnected during playtesting and requires dependencies for the session to recover, and you can clearly see that it is fake; however, multiple c
+- **['Import from file' context option gone all of a sudden in explorer?](https://devforum.roblox.com/t/import-from-file-context-option-gone-all-of-a-sudden-in-explorer/4962553)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Hi there, I’m attempting to import an .rbxm, and noticed that all of a sudden today the context option ‘Import from file’ is completely gone. Is this a bug? I’m trying to import to ServerScriptService but it happens no matter where I try to
+- **[Kids & Select final review stuck after accepted appeal, game still 16+](https://devforum.roblox.com/t/kids-select-final-review-stuck-after-accepted-appeal-game-still-16/4962616)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: Hello, Our game, Ragdoll Playground , is still restricted to ages 16+ even though every requirement on the Audience Reach dashboard shows as complete. We originally got feedback about Content Rating. We fixed it, resubmitted the questionnai
+- **[Massive ban wave](https://devforum.roblox.com/t/massive-ban-wave/4962583)** · Roblox Developer Forum latest · 2026-10-28
+  - Feed excerpt: There is a huge ban wave that is happening right now which has led to over a million of innocent players being banned for “linked accounts” also known as enforcement bans. Please if you know anyone of status or if you are able to, post abou
+
+## Youtube
+
+- **[welcome to the xperiment 🧪 Ken Carson hits The Block on oct 30.](https://www.youtube.com/shorts/5QjkE1qZpqM)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-28
 
 ---
 

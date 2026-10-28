@@ -1631,7 +1631,16 @@
     "c34ad32961f79446b6169368",
     "9d66a370e3f2a8cabbc5a676",
     "a3d30d4eaa0aef71cda5072a",
-    "5ce1ce49dbb280c7a3fd6ae4"
+    "5ce1ce49dbb280c7a3fd6ae4",
+    "8a4d90f73c5b977ea6038a90",
+    "7566d6341860ee2e629c1fee",
+    "81c1d4480c38b7e0a369e23b",
+    "35fc80b630cdaed9faa3c82c",
+    "d4cbe042e9c7c575a2ad02ec",
+    "e5c072cb1b90fbd23e76f6e5",
+    "7b506c369b0ef27e18b8b983",
+    "9fb51167c79fa57427f0ec02",
+    "e9f3a8d4111a890bd17dbb50"
   ],
   "items": [
     {
@@ -1664,7 +1673,7 @@
       "title": "Failed to fetch Place info",
       "url": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4962380",
       "published": "2026-10-28",
-      "excerpt": "Hello I can open roblox studio. It says failed to fetch info 129660986403142 A private message is associated with this bug report 2 posts - 2 participants Read full topic",
+      "excerpt": "Hello I can open roblox studio. It says failed to fetch info 129660986403142 A private message is associated with this bug report 4 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4962380.rss",
       "id": "f4e819be387d4f8755d3027c"
@@ -1693,6 +1702,17 @@
       "id": "ef05c88826514e646dc13850"
     },
     {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "welcome to the xperiment 🧪 Ken Carson hits The Block on oct 30.",
+      "url": "https://www.youtube.com/shorts/5QjkE1qZpqM",
+      "published": "2026-10-28",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "e9f3a8d4111a890bd17dbb50"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1715,6 +1735,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-would-like-clarification-of-recent-chat-updates-and-how-this-works-for-review-based-games/4961783.rss",
       "id": "e6a3604e08faac21475723c6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "My first mesh part has black spot which is on the model",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhtehm/my_first_mesh_part_has_black_spot_which_is_on_the/",
+      "published": "2026-10-28",
+      "excerpt": "https://preview.redd.it/7g423i4dl8yh1.png?width=966&format=png&auto=webp&s=4cc7b68a98703b4e5d8966ca437c35e0dfa13225 I tried to make a pine. I looks really fine on Blender but when I import on studio the .fbx file. It generates the shape correctly but with a giant black stain on the model, of course ",
+      "creator": "/u/Then-Adhesiveness877 https://www.reddit.com/user/Then-Adhesiveness877",
+      "id": "e5c072cb1b90fbd23e76f6e5"
     },
     {
       "source": "reddit-robloxdev",
@@ -1773,6 +1804,17 @@
       "excerpt": "Hi everyone! I've been working on this game called Last Station. It's a horror game with 3 endings and two modes: you can play as the controller (with other players) OR play solo against a bot controller. I tried to make the lighting and locations feel realistic and gloomy. I'm not here to spam, I j",
       "creator": "/u/aleksays1010 https://www.reddit.com/user/aleksays1010",
       "id": "d7dfc8c382baa04af6b44784"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How difficult should my game be from the start?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhti8n/how_difficult_should_my_game_be_from_the_start/",
+      "published": "2026-10-28",
+      "excerpt": "I’m building/built a game where you fight waves of elemental enemies atop your wizard tower. They get stronger, you and get upgrades and shuffle what element you and your friends shoot. I’m struggling on where to start the difficulty to keep. People engaged from the start, but also learn the mechani",
+      "creator": "/u/GoLuckyProd https://www.reddit.com/user/GoLuckyProd",
+      "id": "d4cbe042e9c7c575a2ad02ec"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1939,7 +1981,7 @@
       "title": "Where do MicroProfiler logs go and how do I clear cache and memory or localappdata of https://play.roblox.com/games/start?placeId=",
       "url": "https://devforum.roblox.com/t/where-do-microprofiler-logs-go-and-how-do-i-clear-cache-and-memory-or-localappdata-of-httpsplayrobloxcomgamesstartplaceid/4962293",
       "published": "2026-10-28",
-      "excerpt": "Description https://play.roblox.com/games/start?placeId= Where do captured MicroProfiler logs go when you capture it from Roblox Browser, and where can you clear the download cache and other stuff for it without clearing all the cookies? e.g. The Hollow: Roblox Web Experience 1 post - 1 participant ",
+      "excerpt": "Description https://play.roblox.com/games/start?placeId= Where do captured MicroProfiler logs go when you capture it from Roblox Browser, and where can you clear the download cache and other stuff for it without clearing all the cookies? e.g. The Hollow: Roblox Web Experience Re-production Steps Mak",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/where-do-microprofiler-logs-go-and-how-do-i-clear-cache-and-memory-or-localappdata-of-httpsplayrobloxcomgamesstartplaceid/4962293.rss",
       "id": "a4b183388bc6514343f24003"
@@ -2092,6 +2134,18 @@
       "id": "8f219e10764372ca1dd5b1ed"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Kids & Select final review stuck after accepted appeal, game still 16+",
+      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-after-accepted-appeal-game-still-16/4962616",
+      "published": "2026-10-28",
+      "excerpt": "Hello, Our game, Ragdoll Playground , is still restricted to ages 16+ even though every requirement on the Audience Reach dashboard shows as complete. We originally got feedback about Content Rating. We fixed it, resubmitted the questionnaire, and our appeal was accepted on 20-25. Today is October 2",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/kids-select-final-review-stuck-after-accepted-appeal-game-still-16/4962616.rss",
+      "id": "8a4d90f73c5b977ea6038a90"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2135,6 +2189,29 @@
       "excerpt": "I need 99 more 16+ players to play my game to bypass the 16+ thing and it unlocks my game for all ages if you join my game I will join your link to game in comments, comment the link to your Roblox game in comments, MUST JOIN MY GAME FIRST submitted by /u/Interesting_Kale1161 [link] [comments]",
       "creator": "/u/Interesting_Kale1161 https://www.reddit.com/user/Interesting_Kale1161",
       "id": "8565c7a19b0a9f17ab946461"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Massive ban wave",
+      "url": "https://devforum.roblox.com/t/massive-ban-wave/4962583",
+      "published": "2026-10-28",
+      "excerpt": "There is a huge ban wave that is happening right now which has led to over a million of innocent players being banned for “linked accounts” also known as enforcement bans. Please if you know anyone of status or if you are able to, post about this ban wave so Roblox sees it. This is a reupload. On Oc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/massive-ban-wave/4962583.rss",
+      "id": "81c1d4480c38b7e0a369e23b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "🛠️ GASHLOCK-looking for Scripters, Builders & Playtesters and more!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhs9qs/gashlocklooking_for_scripters_builders/",
+      "published": "2026-10-28",
+      "excerpt": "Hey guys im ballyhat and im looking for people to work on my upcoming asym game called \"gash-lock\" the theme of the asym game has modern-mix retro like for example studs. im only looking for. 💻 Scripter — MAIN PRIORITY Someone who can help with: Round and match systems Killer abilities and combat Su",
+      "creator": "/u/Ballyhat https://www.reddit.com/user/Ballyhat",
+      "id": "7b506c369b0ef27e18b8b983"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2194,6 +2271,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/notify-the-player-whenever-a-game-they-have-notifications-on-for-has-an-event/4961469.rss",
       "id": "761c7cacc0130eda0cf19b7f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[CRITICAL] Fake 'studio dependency' popup appearing in experience playests",
+      "url": "https://devforum.roblox.com/t/critical-fake-studio-dependency-popup-appearing-in-experience-playests/4962614",
+      "published": "2026-10-28",
+      "excerpt": "There is currently a popup that is currently going around claiming that the studio experience disconnected during playtesting and requires dependencies for the session to recover, and you can clearly see that it is fake; however, multiple creators are falling for this from the sound of it as iv seen",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-fake-studio-dependency-popup-appearing-in-experience-playests/4962614.rss",
+      "id": "7566d6341860ee2e629c1fee"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2387,6 +2476,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/verified-checkmark-is-oversized-in-playerlist/4961547.rss",
       "id": "395dbe69a0d06a58b23fb288"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "'Import from file' context option gone all of a sudden in explorer?",
+      "url": "https://devforum.roblox.com/t/import-from-file-context-option-gone-all-of-a-sudden-in-explorer/4962553",
+      "published": "2026-10-28",
+      "excerpt": "Hi there, I’m attempting to import an .rbxm, and noticed that all of a sudden today the context option ‘Import from file’ is completely gone. Is this a bug? I’m trying to import to ServerScriptService but it happens no matter where I try to import to. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/import-from-file-context-option-gone-all-of-a-sudden-in-explorer/4962553.rss",
+      "id": "35fc80b630cdaed9faa3c82c"
     },
     {
       "source": "reddit-robloxdev",
@@ -8463,101 +8564,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/what-are-marketing-strategies-that-work-well-for-multiplayer-team-games/4953789.rss",
       "id": "16e8212da659f7d8f1a87a83"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Moon Legacy Patcher - Fix missing assets in Moon Animation Suite (Moon 1)",
-      "url": "https://devforum.roblox.com/t/moon-legacy-patcher-fix-missing-assets-in-moon-animation-suite-moon-1/4953453",
-      "published": "2026-10-24",
-      "excerpt": "— Creator Store Page — Source Code — Sometime between 2020 and now xSIXx archived around half of the assets that Moon Animation Suite used for its interface. This lead to the entire thing being practically unusable since you couldn’t even see the buttons needed to include a joint in the animation. T",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/moon-legacy-patcher-fix-missing-assets-in-moon-animation-suite-moon-1/4953453.rss",
-      "id": "16286308a30f92e54713d345"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[VIRUS ALERT] Ummm...Apparently my workspace \"verification\" is \"missing\"",
-      "url": "https://devforum.roblox.com/t/virus-alert-ummmapparently-my-workspace-verification-is-missing/4955106",
-      "published": "2026-10-24",
-      "excerpt": "What is it? My game has this message: The play button is just GUI I made. So, I tried clicking on it when it showed up, and it gave me code to recover the game, but I have no idea what any of this means. What I Need Answers please! I want to know what is happening and maybe give solution to someone ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/virus-alert-ummmapparently-my-workspace-verification-is-missing/4955106.rss",
-      "id": "13a3dd063ddf8b41b2215ce4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[URGENT] New Termination Method",
-      "url": "https://devforum.roblox.com/t/urgent-new-termination-method/4955507",
-      "published": "2026-10-24",
-      "excerpt": "I’ve recently discovered how myself and many other players have been getting hit with false enforcement bans recently, and it’s thanks to a massive oversight in how ROBLOX handles billing emails. If a billing email that’s still connected to your account was included in any data breach or is leaked b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/urgent-new-termination-method/4955507.rss",
-      "id": "12fe26cd72fac84cb8d4ddb4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "DETERMINISTIC: Remote Code Execution reachable by opening a place.",
-      "url": "https://devforum.roblox.com/t/deterministic-remote-code-execution-reachable-by-opening-a-place/4954232",
-      "published": "2026-10-24",
-      "excerpt": "Affected: Roblox Studio 0.744.0.7441077 (Windows x64). Full details and a reproducer are in the staff-only section. They were also submitted to CERT/CC (VINCE) and to MITRE for CVE assignment on 24.10.2026 5 PM. A private message is associated with this bug report 1 post - 1 participant Read full to",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/deterministic-remote-code-execution-reachable-by-opening-a-place/4954232.rss",
-      "id": "11ca4a5229c16c508baaa28b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I can’t use with correct words.",
-      "url": "https://devforum.roblox.com/t/i-can%E2%80%99t-use-with-correct-words/4955497",
-      "published": "2026-10-24",
-      "excerpt": "I was on mobile, it keeps using the “verification code for KennyZ076”, how can I use the correct words, replying to developers, and more. Expected behavior This keyboard have “verification code for KennyZ076”, sometimes, we need to change verification code to the text replacement, and correct words.",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-can%E2%80%99t-use-with-correct-words/4955497.rss",
-      "id": "115c8d82714f3a9a0f7c30f2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "R6 & R15 Movement Animation Pack: 30 Animations",
-      "url": "https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699",
-      "published": "2026-10-24",
-      "excerpt": "Hey developers! I’ve put together a Roblox Movement Animation Pack featuring 30 animations for both R6 and R15 characters. It’s designed for developers who want to add more variety to their character movement without having to create every animation from scratch. itch.io : [ https://beanystudios.itc",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699.rss",
-      "id": "1003b008848dd63fc9a8ca16"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What a good monitor for 3d animation/rendering? D",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xebrtp/what_a_good_monitor_for_3d_animationrendering_d/",
-      "published": "2026-10-24",
-      "excerpt": "S submitted by /u/JustTinyBitHungry [link] [comments]",
-      "creator": "/u/JustTinyBitHungry https://www.reddit.com/user/JustTinyBitHungry",
-      "id": "0ef88ef8c90ffb23bdaa986f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Optimizing the LuaU complier",
-      "url": "https://devforum.roblox.com/t/optimizing-the-luau-complier/4955446",
-      "published": "2026-10-24",
-      "excerpt": "Hey everyone, I’m back! I’ve been messing around with an experimental Luau fork and some native Studio patches that make a few common scripting operations cheaper under the hood. So far I’ve worked on table creation, unpacking, moving data around, string ops, numeric sorting, and packed-bit access. ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/optimizing-the-luau-complier/4955446.rss",
-      "id": "0cff1fd0dce4114cd19fe4a8"
     }
   ]
 }

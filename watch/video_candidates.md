@@ -6,6 +6,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 
 - **[I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[\[Unpaid\] Looking for a few playtesters for a monster ranch tycoon, 10–15 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xf3lbq/unpaid_looking_for_a_few_playtesters_for_a/)** — Community showcase post (video not confirmed) · 2026-10-25
+- **[🛠️ GASHLOCK-looking for Scripters, Builders & Playtesters and more!](https://www.reddit.com/r/robloxgamedev/comments/1xhs9qs/gashlocklooking_for_scripters_builders/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[My IK system for Animations](https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/)** — Community showcase post (video not confirmed) · 2026-10-24
 - **[Animation not loading?](https://www.reddit.com/r/robloxgamedev/comments/1xf1zgz/animation_not_loading/)** — Community showcase post (video not confirmed) · 2026-10-25
 - **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Community showcase post (video not confirmed) · 2026-10-27

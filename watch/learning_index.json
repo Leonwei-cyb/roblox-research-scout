@@ -395,20 +395,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xebrtp",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xebrtp/what_a_good_monitor_for_3d_animationrendering_d/",
-      "title": "What a good monitor for 3d animation/rendering? D",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-24",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "world and visual design"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xf3ndw",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3ndw/just_released_my_new_game_bug_squisher_simulator/",
       "title": "Just released my new game: Bug Squisher Simulator! What do you guys think?",
@@ -518,6 +504,20 @@
       "signals": [
         "genres and successful loops",
         "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xhs9qs",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhs9qs/gashlocklooking_for_scripters_builders/",
+      "title": "🛠️ GASHLOCK-looking for Scripters, Builders & Playtesters and more!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -922,6 +922,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4962614:1",
+      "url": "https://devforum.roblox.com/t/critical-fake-studio-dependency-popup-appearing-in-experience-playests/4962614",
+      "title": "[CRITICAL] Fake 'studio dependency' popup appearing in experience playests",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xe036a",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe036a/my_ik_system_for_animations/",
       "title": "My IK system for Animations",
@@ -1136,6 +1150,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhtehm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhtehm/my_first_mesh_part_has_black_spot_which_is_on_the/",
+      "title": "My first mesh part has black spot which is on the model",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4953445:1",
       "url": "https://devforum.roblox.com/t/custom-terrain-materials-full-launch-issues-with-terrain-geometry-loading/4953445",
       "title": "CUSTOM TERRAIN MATERIALS Full Launch Issues With Terrain GEOMETRY / LOADING",
@@ -1144,19 +1172,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953453:1",
-      "url": "https://devforum.roblox.com/t/moon-legacy-patcher-fix-missing-assets-in-moon-animation-suite-moon-1/4953453",
-      "title": "Moon Legacy Patcher - Fix missing assets in Moon Animation Suite (Moon 1)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -1183,19 +1198,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953699:1",
-      "url": "https://devforum.roblox.com/t/r6-r15-movement-animation-pack-30-animations/4953699",
-      "title": "R6 & R15 Movement Animation Pack: 30 Animations",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -1315,19 +1317,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955446:1",
-      "url": "https://devforum.roblox.com/t/optimizing-the-luau-complier/4955446",
-      "title": "Optimizing the LuaU complier",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2248,6 +2237,19 @@
       "key": "devforum:4962455:1",
       "url": "https://devforum.roblox.com/t/journey-funnel-event-page-error/4962455",
       "title": "Journey Funnel Event page error",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4962616:1",
+      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-after-accepted-appeal-game-still-16/4962616",
+      "title": "Kids & Select final review stuck after accepted appeal, game still 16+",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
@@ -3534,6 +3536,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "youtube:5QjkE1qZpqM",
+      "url": "https://www.youtube.com/shorts/5QjkE1qZpqM",
+      "title": "welcome to the xperiment 🧪 Ken Carson hits The Block on oct 30.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-10-28",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:BTpJCuSYLFs",
       "url": "https://www.youtube.com/watch?v=BTpJCuSYLFs",
       "title": "How to Give Parental Permission on Your Child’s Device",
@@ -3654,19 +3667,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4954232:1",
-      "url": "https://devforum.roblox.com/t/deterministic-remote-code-execution-reachable-by-opening-a-place/4954232",
-      "title": "DETERMINISTIC: Remote Code Execution reachable by opening a place.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4954271:1",
       "url": "https://devforum.roblox.com/t/debugprofileend-no-active-profile-annotation/4954271",
       "title": "debug.profileEnd() - No active profile annotation",
@@ -3779,32 +3779,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955497:1",
-      "url": "https://devforum.roblox.com/t/i-can%E2%80%99t-use-with-correct-words/4955497",
-      "title": "I can’t use with correct words.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955507:1",
-      "url": "https://devforum.roblox.com/t/urgent-new-termination-method/4955507",
-      "title": "[URGENT] New Termination Method",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4377,6 +4351,19 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4962583:1",
+      "url": "https://devforum.roblox.com/t/massive-ban-wave/4962583",
+      "title": "Massive ban wave",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5084,6 +5071,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xhti8n",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhti8n/how_difficult_should_my_game_be_from_the_start/",
+      "title": "How difficult should my game be from the start?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4953494:1",
       "url": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494",
       "title": "How would i make a proper meele system anticheat?",
@@ -5285,17 +5285,6 @@
       "key": "devforum:4955087:1",
       "url": "https://devforum.roblox.com/t/creating-new-places-bug/4955087",
       "title": "Creating new places bug",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955106:1",
-      "url": "https://devforum.roblox.com/t/virus-alert-ummmapparently-my-workspace-verification-is-missing/4955106",
-      "title": "[VIRUS ALERT] Ummm...Apparently my workspace \"verification\" is \"missing\"",
       "source": "roblox-devforum-latest",
       "published": "2026-10-24",
       "kind": "devforum",
@@ -6275,6 +6264,17 @@
       "key": "devforum:4962398:1",
       "url": "https://devforum.roblox.com/t/able-to-join-games-you-dont-own-in-your-browser/4962398",
       "title": "Able to join games you dont own in your browser",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4962553:1",
+      "url": "https://devforum.roblox.com/t/import-from-file-context-option-gone-all-of-a-sudden-in-explorer/4962553",
+      "title": "'Import from file' context option gone all of a sudden in explorer?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
