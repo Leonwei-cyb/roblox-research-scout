@@ -1713,9 +1713,23 @@
     "4f958cd1fba6290aa815793a",
     "696df10eaed7e445817bc802",
     "1947deb1fd4ea7f50929f924",
-    "fcd3a4cc3de28d4417ebd6e7"
+    "fcd3a4cc3de28d4417ebd6e7",
+    "ee24d4f6e27a8e5847269869",
+    "6940deda2904ba1e986c4974"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Please add Ball Socket Constraints rigidity! Single assembly constraints?",
+      "url": "https://devforum.roblox.com/t/please-add-ball-socket-constraints-rigidity-single-assembly-constraints/4963544",
+      "published": "2026-10-29",
+      "excerpt": "Please allow BallSocket Constraints to connect two parts as one assembly so that they can be teleported together and move smoothly without a reaction force. It’s impossible to create a welded ragdoll in roblox! BallSocket constraints are extremely limited in how they can move when attaching a welded",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/please-add-ball-socket-constraints-rigidity-single-assembly-constraints/4963544.rss",
+      "id": "ee24d4f6e27a8e5847269869"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -1760,6 +1774,17 @@
       "excerpt": "Hey, I’m working on a Roblox game called Lumber Legends and I’d like a few people to play it and tell me what they think. It’s a cartoony chop-trees-and-upgrade game. You chop trees, sell the wood, upgrade your axe, collect pets, and hire lumberjacks to chop for you while you’re away. The map goes f",
       "creator": "/u/PocketCometRBLX https://www.reddit.com/user/PocketCometRBLX",
       "id": "696df10eaed7e445817bc802"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Could This Be a Unique Game on Roblox?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi7uo7/could_this_be_a_unique_game_on_roblox/",
+      "published": "2026-10-29",
+      "excerpt": "ICONS ARE TEMPORARY i followed your guys' feedback and redid the camera; i also added extra stuff to make my game more interesting. any other feedback? most of the sound got cut off from obs and idk why submitted by /u/Moist_Type_252 [link] [comments]",
+      "creator": "/u/Moist_Type_252 https://www.reddit.com/user/Moist_Type_252",
+      "id": "6940deda2904ba1e986c4974"
     },
     {
       "source": "reddit-robloxdev",
@@ -8609,29 +8634,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/really-high-studio-camera-sensitivity-affected-by-pan-speed/4955323.rss",
       "id": "a1de6f6d26dd0f67a63d6271"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Discord Server",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe0ou1/discord_server/",
-      "published": "2026-10-24",
-      "excerpt": "What does a basic Roblox Discord server need? Like what roles, channels, permissions, bots, and other stuff should I add? I'm trying to make a proper server and want to know the essentials without making it too complicated. submitted by /u/JamalDsea [link] [comments]",
-      "creator": "/u/JamalDsea https://www.reddit.com/user/JamalDsea",
-      "id": "a0d63ff40266f83b0e96f33f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How do i go on about making a a flying npc ai similar to that of Gabriel ULTRAKILL or mineflayers Ultrakill",
-      "url": "https://devforum.roblox.com/t/how-do-i-go-on-about-making-a-a-flying-npc-ai-similar-to-that-of-gabriel-ultrakill-or-mineflayers-ultrakill/4954043",
-      "published": "2026-10-24",
-      "excerpt": "Hello! if you havent played ULTRAKILL, havent watched ULTRAKILL, or not even know ULTRAKILL, you may ignore this post unless you do know ULTRAKILL, then you would know what Gabriel ULTRAKILL and or Mindflayer ULTRAKILL’s flying behavior looks like. I would like info and advice way before getting on ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-do-i-go-on-about-making-a-a-flying-npc-ai-similar-to-that-of-gabriel-ultrakill-or-mineflayers-ultrakill/4954043.rss",
-      "id": "9fbe9c567f759ff3f0dfa2f7"
     }
   ]
 }
