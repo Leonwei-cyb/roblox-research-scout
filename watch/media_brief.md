@@ -7,49 +7,31 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[I need 16+ playtesters in my game to be exact only 100 please join the link to my game is in my comments if you join my game i will gladly join yours](https://www.reddit.com/r/robloxgamedev/comments/1xgbncg/i_need_16_playtesters_in_my_game_to_be_exact_only/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: Hey everyone I'm currently trying to hit the Roblox Audience Reach threshold of 100 16+ players to unlock my game for younger audiences, I will join your roblox game if you join mine Link to my game is in comments paste the link to your gam
-- **[I tried to "remake" SAS: Zombie Assault 3 and 4.](https://www.reddit.com/r/robloxgamedev/comments/1xg03u4/i_tried_to_remake_sas_zombie_assault_3_and_4/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: So i did an attempt to remake SAS: Zombie Assault 3 and 4 series from Ninja Kiwi, with a bit of my own tweaks, the project is going into it's 4th months and got to this stage which most of the mechanics is finished and ready to release. But
-- **[I’m working on a base-building rocket combat game — is the early-game progression clear?](https://www.reddit.com/r/robloxgamedev/comments/1xg46m1/im_working_on_a_basebuilding_rocket_combat_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: I’m developing Rocket War, a Roblox game where you build a base, buy rockets, and add defenses. This clip shows the early-game loop: placing your first building, buying a rocket, attacking a bot, and using the reward to upgrade your base. I
-- **[Hi, uh I'd like to ask for some help because I've heard this community is really talented, and my team is looking for scripters for our asym game \[more in body\]](https://www.reddit.com/r/robloxgamedev/comments/1xg22he/hi_uh_id_like_to_ask_for_some_help_because_ive/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: It's a sonic asym \[who could've guessed\] Called "yet another sonic asym" We've got models and renders, but we've been in desperate need of scripters for a while now, and we have our own official discord server. I sadly can't pay anyone, as 
-- **[How to fix Map Glitch](https://www.reddit.com/r/robloxgamedev/comments/1xg2rjt/how_to_fix_map_glitch/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: Hey guys, This is currently only a test map but I have the issue of this huge box in the middle of it - which I cannot select nor seem to delete. Any ideas why this is and how to get rid of it? I have attached some photos of what it looks l
-- **[I made a Roblox game that retells the Ramayana, 7 chapters, solo dev.](https://www.reddit.com/r/robloxgamedev/comments/1xg25ok/i_made_a_roblox_game_that_retells_the_ramayana_7/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: I've been building Ramayana: The Epic, a stage-based action game where each Kanda is a chapter (Bala → Ayodhya → Aranya → Kishkindha → Sundara → Yuddha → Uttara). I sculpted Hanuman and Ravan myself and added a co-op mode. It's free. submit
-- **[I made a Roblox game where every food combo makes a unique fart (2,000+ of them). Here's how the generator works](https://www.reddit.com/r/robloxgamedev/comments/1xg3isv/i_made_a_roblox_game_where_every_food_combo_makes/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: Hey r/robloxgamedev ! My game Toot Town went live today, and I wanted to share how the core system works, since it was the most fun part to build. The idea: you eat foods, each food adds "traits" to your gut, and the set of traits decides w
-- **[I require help!!!](https://www.reddit.com/r/robloxgamedev/comments/1xfxanf/i_require_help/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: I am releasing my game on 1 November 2026 but i HAVE no idea how to make like game trailers is there a plugin or app that would help me plsss submitted by /u/Prudent_Win2490 \[link\] \[comments\]
-- **[Looking for bored Devs to bug-test and Scrutinize](https://www.reddit.com/r/robloxgamedev/comments/1xgafbd/looking_for_bored_devs_to_bugtest_and_scrutinize/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: Howdy, this is Alphabeast Zoup! An HTML game that I created and then ported onto roblox. It is an automation and breeding sim where you combine Alphabeasts to create denser and denser particles all the way to Z in the alphabet. You can also
-- **[Looking for ideas on how to make a day trader game more engaging](https://www.reddit.com/r/robloxgamedev/comments/1xg3zzb/looking_for_ideas_on_how_to_make_a_day_trader/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: I got the idea to make a game where you can get something like the wallstreetbets experience, with being able to put money on stocks, shares, options and currencies. But I'm thinking a game with just a bunch of candlestick charts isn't goin
-- **[New gun physics game](https://www.reddit.com/r/robloxgamedev/comments/1xg3pa9/new_gun_physics_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-26
-  - Feed excerpt: I’m trying to make a new game let me know what i should add or change submitted by /u/thisusertsken \[link\] \[comments\]
+- **[Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: Curious how many people are actually using AI through MCP in Roblox Studio. Which MCP / tool are you using? What do you use it for (scripting, building, UI, debugging)? What annoys you most about it, or what made you stop using it? If you t
+- **[Is it possible to import my rbxl file from my browser](https://www.reddit.com/r/robloxgamedev/comments/1xivxs1/is_it_possible_to_import_my_rbxl_file_from_my/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: As the title states, I don't have access to my roblox studio at the moment and I need to upload a file, is there any way to do it without roblox studio preferably on a browser. Thanks! submitted by /u/DrDonut_1 \[link\] \[comments\]
+- **[Looking for PlayTester?](https://www.reddit.com/r/robloxgamedev/comments/1xiuqep/looking_for_playtester/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: Hello everyone its me again! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested I
+- **[I added an acid lake to my lumber game.](https://www.reddit.com/r/robloxgamedev/comments/1xivzws/i_added_an_acid_lake_to_my_lumber_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: Solo dev on a Roblox lumber game (Lumber Garden). This is the Exclusion Zone: a Chernobyl-style area with an acid lake that kills on touch, an abandoned fairground, a skeleton and two rusted forestry trucks that didn't make it. The only leg
+- **[I've been developing a Bomberman-inspired game on Roblox! I'd love some feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xiwhiy/ive_been_developing_a_bombermaninspired_game_on/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: Hey everyone! 💣 I've been working on a Bomberman-inspired Roblox game called BombGry , and I wanted to share some of my progress! I've been experimenting with different game modes, maps, and mechanics to make the classic Bomberman gameplay 
+- **[Upcoming horror asym](https://www.reddit.com/r/robloxgamedev/comments/1xivlux/upcoming_horror_asym/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: It's on Roblox, of course Titled "Eternally Bound" It's a really early alpha, the public testing week might be soon Will be looking forward to criticism and balancing suggestions :-) Upcoming survivors: Kitt Jam Upcoming killers: Rami There
 
 ## Roblox Updates
 
-- **[Initial bugs found with web play](https://devforum.roblox.com/t/initial-bugs-found-with-web-play/4964835)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: Roblox \[V3\] Sakari's Blizzard Training R8/9 A blizzard game with a time trial system. v3.0 v3 Leaderboard, R8 / R9 Helicopters, New spawners. v2.10 v2 Leaderboard v2.9 Spawner groups, repsawn & spawn queue v2.8 Internal Leaderboard mannager
-- **[Smooth Terrain Grass Decorations Not Visible in Roblox Browser Client](https://devforum.roblox.com/t/smooth-terrain-grass-decorations-not-visible-in-roblox-browser-client/4964964)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: Issue: Smooth terrain grass decorations (grass blades) do not render when playing Roblox in a web browser. The terrain appears completely bare. Steps to Reproduce: Open a place in Roblox Studio that has Smooth Terrain grass with “Decoration
-- **[\[Studio Beta\] Generate Game Characters with Prompt-to-Avatar](https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: Key Takeaways Generate game character models from text prompts. It’s a faster way to produce game characters with or without Dynamic Heads through the Avatar Setup tool in Studio, Assistant, and Studio MCP. Enable it in File > Beta Features
-- **[\[Studio Beta\] Generate Game Characters with Prompt-to-Avatar](https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945)** · Roblox updates category (availability may vary) · 2026-10-29
-  - Feed excerpt: Key Takeaways Generate game character models from text prompts. It’s a faster way to produce game characters with or without Dynamic Heads through the Avatar Setup tool in Studio, Assistant, and Studio MCP. Enable it in File > Beta Features
-- **[Editable Mesh fails on group experiences with owned assets despite Asset Privacy permissions](https://devforum.roblox.com/t/editable-mesh-fails-on-group-experiences-with-owned-assets-despite-asset-privacy-permissions/4964962)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: I found an issue involving Asset Privacy and Editable Meshes . Whenever I attempt to use an Editable Mesh on a mesh asset that I personally own while testing inside a group-owned experience, the following warning appears: “Asset is not allo
-- **[How to count all the attributes what starts with the same name in scripting?](https://devforum.roblox.com/t/how-to-count-all-the-attributes-what-starts-with-the-same-name-in-scripting/4964968)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: Hey, guys I wanna make a camera script what changes matrix, rotation (z, x, y), and field of view at the same time, and then changing its settings through other scripts. I want to make all these calculations by calculating special attribute
-- **[Railwreck's client prediction](https://devforum.roblox.com/t/railwrecks-client-prediction/4964932)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: Hello devforum! I want to showcase my client-side prediction in my upcoming game. I did custom server authority that validate movement and don’t allow client to ownership the network (nil). I had a problem with 150+ ping players, when someo
-
-## Youtube
-
-- **[all eyes on you. tonight, the Overseer is watching The Hollow.](https://www.youtube.com/shorts/apNMDNX7Eh4)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-29
+- **[\[Full Release\] Input Action Manager](https://devforum.roblox.com/t/full-release-input-action-manager/4965021)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: Key Takeaways The Input Action Manager is now fully released. This visual editor helps you build and audit cross-platform control mappings for your game. Find it under Windows > Input > Actions. Hi Creators! The Input Action Manager is now 
+- **[\[Full Release\] Input Action Manager](https://devforum.roblox.com/t/full-release-input-action-manager/4965021)** · Roblox updates category (availability may vary) · 2026-10-29
+  - Feed excerpt: Key Takeaways The Input Action Manager is now fully released. This visual editor helps you build and audit cross-platform control mappings for your game. Find it under Windows > Input > Actions. Hi Creators! The Input Action Manager is now 
+- **[EditableImage DrawCircle, DrawImage, and DrawImageTransformed missing alphaBlendType parameter](https://devforum.roblox.com/t/editableimage-drawcircle-drawimage-and-drawimagetransformed-missing-alphablendtype-parameter/4964989)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: The EditableImage documentation says that DrawCircle and DrawImage accepts a Enum.ImageAlphaType as a parameter, but the engine does not appear to accept this parameter when calling either method. DrawImageTransformed also does not accept A
+- **[We could not open the place. Failed to fetch place info.](https://devforum.roblox.com/t/we-could-not-open-the-place-failed-to-fetch-place-info/4965030)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: Every time I try to open a game of mine to edit im shown this Error We could not open the place \[#\]. Failed to fetch place info. If you continue to encounter this error, please report it on the Developer Forum. This has been happening for 2
+- **[Workspace.Exterior Door.SlidingDoor.Detectors.Script:8: attempt to index nil with 'GetAttribute'](https://devforum.roblox.com/t/workspaceexterior-doorslidingdoordetectorsscript-attempt-to-index-nil-with-getattribute/4965023)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: The Problem So, my script is supposed to check if the player’s ID (a tool) has the same ID attribute as the gate. The facts: The gate has the attribute. The IDs have the attribute. The tools are valid. The output says: Workspace.Exterior Do
 
 ---
 

@@ -220,17 +220,18 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4955726:1",
-      "url": "https://devforum.roblox.com/t/outdated-animation-versions-intermittently-served-to-players-even-ones-who-have-not-encountered-the-old-versions-not-cache-related/4955726",
-      "title": "Outdated animation versions intermittently served to players - even ones who have not encountered the old versions (Not cache related?)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
+      "key": "reddit:1xivmfa",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/",
+      "title": "Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
       "signals": [
-        "animation and audio",
-        "player feedback and marketing"
+        "building and purchases",
+        "UI and menus",
+        "tools and performance"
       ],
-      "score": 8,
+      "score": 9,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -946,6 +947,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965023:1",
+      "url": "https://devforum.roblox.com/t/workspaceexterior-doorslidingdoordetectorsscript-attempt-to-index-nil-with-getattribute/4965023",
+      "title": "Workspace.Exterior Door.SlidingDoor.Detectors.Script:8: attempt to index nil with 'GetAttribute'",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xesy2q",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xesy2q/how_should_i_organize_my_animations_for_my_game/",
       "title": "How should I organize my animations for my game?",
@@ -1231,19 +1246,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4955965:1",
-      "url": "https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965",
-      "title": "Unchanged Image Assets Repeatedly Moderated; Conflicting Appeals Leave Duplicate Account Penalties",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4956661:1",
       "url": "https://devforum.roblox.com/t/unknown-erro-animation-post/4956661",
       "title": "Unknown erro Animation Post",
@@ -1260,32 +1262,6 @@
       "key": "devforum:4957165:1",
       "url": "https://devforum.roblox.com/t/studio-camera-controls-acting-very-strange-after-a-random-studio-update/4957165",
       "title": "Studio Camera Controls acting very strange after a random studio update",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957455:1",
-      "url": "https://devforum.roblox.com/t/roblox-studio-still-freeze-up-when-try-to-playtest/4957455",
-      "title": "Roblox studio Still freeze up when try to Playtest",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957621:1",
-      "url": "https://devforum.roblox.com/t/re-parenting-accessories-on-the-server-no-longer-fix-their-location-on-the-client/4957621",
-      "title": "Re-parenting Accessories on the server, no longer fix their location on the Client",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",
@@ -2872,6 +2848,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xiwhiy",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiwhiy/ive_been_developing_a_bombermaninspired_game_on/",
+      "title": "I've been developing a Bomberman-inspired game on Roblox! I'd love some feedback!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4956764:1",
       "url": "https://devforum.roblox.com/t/vape-v4-detection/4956764",
       "title": "Vape V4 Detection",
@@ -3478,19 +3467,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4957130:1",
-      "url": "https://devforum.roblox.com/t/game-name-wouldnt-save/4957130",
-      "title": "Game Name wouldnt save",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4957190:1",
       "url": "https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190",
       "title": "Programmatically edit Experience details",
@@ -4076,6 +4052,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965021:1",
+      "url": "https://devforum.roblox.com/t/full-release-input-action-manager/4965021",
+      "title": "[Full Release] Input Action Manager",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xew70k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xew70k/trying_to_make_iphone_simluator/",
       "title": "Trying to make iPhone simluator",
@@ -4119,19 +4108,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7sb3/how_to_hit_the_roblox_algorithm/",
       "title": "How to hit the Roblox algorithm?",
       "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf7vth",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf7vth/im_looking_for_people_to_testplay_my_game/",
-      "title": "I'm looking for people to test/play my game",
-      "source": "reddit-robloxstudio",
       "published": "2026-10-25",
       "kind": "reddit",
       "signals": [
@@ -4895,6 +4871,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xiuqep",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiuqep/looking_for_playtester/",
+      "title": "Looking for PlayTester?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xivxs1",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivxs1/is_it_possible_to_import_my_rbxl_file_from_my/",
+      "title": "Is it possible to import my rbxl file from my browser",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4955699:1",
       "url": "https://devforum.roblox.com/t/unable-to-access-group-permissions-or-send-payouts-%E2%80%94-group-has-716k-robux/4955699",
       "title": "Unable to Access Group Permissions or Send Payouts — Group Has 716K+ Robux",
@@ -4920,39 +4922,6 @@
       "key": "devforum:4955804:1",
       "url": "https://devforum.roblox.com/t/object-alighment-produces-noticable-errors/4955804",
       "title": "Object Alighment Produces Noticable Errors",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956054:1",
-      "url": "https://devforum.roblox.com/t/old-accounts-stuck-on-att-email-to-text-with-2fa-on/4956054",
-      "title": "Old accounts stuck on AT&T email-to-text with 2FA on",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956082:1",
-      "url": "https://devforum.roblox.com/t/a-new-administration-system-from-the-creator-of-commander-4/4956082",
-      "title": "A new administration system from the creator of Commander 4!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956717:1",
-      "url": "https://devforum.roblox.com/t/group-polls-percentage-do-not-add-up-to-100/4956717",
-      "title": "Group Polls percentage do not add up to 100%",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",
@@ -6226,6 +6195,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4964989:1",
+      "url": "https://devforum.roblox.com/t/editableimage-drawcircle-drawimage-and-drawimagetransformed-missing-alphablendtype-parameter/4964989",
+      "title": "EditableImage DrawCircle, DrawImage, and DrawImageTransformed missing alphaBlendType parameter",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965030:1",
+      "url": "https://devforum.roblox.com/t/we-could-not-open-the-place-failed-to-fetch-place-info/4965030",
+      "title": "We could not open the place. Failed to fetch place info.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xeofo1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeofo1/showing_the_combat_for_my_game_uproot/",
       "title": "Showing the Combat for my game UPROOT",
@@ -7293,6 +7284,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xivlux",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivlux/upcoming_horror_asym/",
+      "title": "Upcoming horror asym",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xivzws",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivzws/i_added_an_acid_lake_to_my_lumber_game/",
+      "title": "I added an acid lake to my lumber game.",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr",
       "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
       "title": "Acetul (@_acetul) - X",
@@ -7346,19 +7359,6 @@
       "published": "2026-10-28",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5waXd3Q09QSDVOODlmUWJmT0x1eG1qei1ra3NRMHVDcS1KZ2R0bXlMYkFLcFhuVWRmUjZLRFNGaEVDSEVVb2lZa0VKNC1yU3c3WDlpU0R3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waXd3Q09QSDVOODlmUWJmT0x1eG1qei1ra3NRMHVDcS1KZ2R0bXlMYkFLcFhuVWRmUjZLRFNGaEVDSEVVb2lZa0VKNC1yU3c3WDlpU0R3?oc=5",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-25",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

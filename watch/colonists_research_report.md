@@ -3,14 +3,14 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 595; direct candidates: 581;
+Indexed entries: 595; direct candidates: 582;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 On hold, NOT current work: Cat Magic. Their older report files are historical only.
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Unchanged Image Assets Repeatedly Moderated; Conflicting Appeals Leave Duplicate Account Penalties](https://devforum.roblox.com/t/unchanged-image-assets-repeatedly-moderated-conflicting-appeals-leave-duplicate-account-penalties/4955965)
+- **P0 · first-session and mobile:** [Unable to Equip Profile Frames on Desktop and Mobile App on Certain Accounts](https://devforum.roblox.com/t/unable-to-equip-profile-frames-on-desktop-and-mobile-app-on-certain-accounts/4957787)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [How to properly preload Ui images that aren't visible at runtime?](https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
