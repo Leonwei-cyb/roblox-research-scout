@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 597,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -981,6 +981,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4963395:1",
+      "url": "https://devforum.roblox.com/t/immersive-ads-questionnaire-review-resets-from-pending-back-to-request-review-daily-%E2%80%94-all-other-requirements-met-no-feedback-given/4963395",
+      "title": "Immersive Ads \"Questionnaire Review\" resets from Pending back to \"Request Review\" daily — all other requirements met, no feedback given",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xeivz3",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeivz3/i_built_a_tower_defense_in_roblox_studio_where/",
       "title": "I built a tower defense in Roblox Studio where every secret you find lights a star in the night sky. This week's clue: where the old boards end and the water starts listening",
@@ -1195,6 +1209,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xi5b96",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5b96/ui_for_my_upcoming_roblox_game/",
+      "title": "UI for my upcoming roblox game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4953445:1",
       "url": "https://devforum.roblox.com/t/custom-terrain-materials-full-launch-issues-with-terrain-geometry-loading/4953445",
       "title": "CUSTOM TERRAIN MATERIALS Full Launch Issues With Terrain GEOMETRY / LOADING",
@@ -1229,34 +1257,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4954427:1",
-      "url": "https://devforum.roblox.com/t/feedback-on-a-granny-style-horror-game/4954427",
-      "title": "Feedback on a Granny style horror game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4954846:1",
-      "url": "https://devforum.roblox.com/t/gui-scaling-issues/4954846",
-      "title": "GUI scaling issues",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "UI and menus",
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2317,6 +2317,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4963388:1",
+      "url": "https://devforum.roblox.com/t/new-terrain-material-manager-grass-decoration-doesnt-render/4963388",
+      "title": "New Terrain Material Manager Grass Decoration Doesn't Render",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xe0ou1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe0ou1/discord_server/",
       "title": "Discord Server",
@@ -2334,19 +2347,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe3lgs/sears_tower_11_roblox_studio/",
       "title": "Sears Tower 1:1 / Roblox Studio",
       "source": "reddit-robloxstudio",
-      "published": "2026-10-24",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xem74k",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xem74k/goated_ass_plugin/",
-      "title": "goated ass plugin",
-      "source": "reddit-robloxdev",
       "published": "2026-10-24",
       "kind": "reddit",
       "signals": [
@@ -3122,6 +3122,47 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xi3xia",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3xia/need_improvements_for_my_shop/",
+      "title": "need improvements for my shop",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xi4436",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi4436/would_you_play/",
+      "title": "Would you play?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "economy and income",
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xi4oty",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi4oty/intergalactic_kingdom_tycoon_planet_1_mars/",
+      "title": "Intergalactic Kingdom Tycoon ( Planet 1 -Mars)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4953727:1",
       "url": "https://devforum.roblox.com/t/iphone-duo-support-needs-to-be-properly-implemented-based-on-apples-documentation/4953727",
       "title": "iPhone Duo support needs to be properly implemented based on Apple's documentation",
@@ -3131,34 +3172,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955311:1",
-      "url": "https://devforum.roblox.com/t/do-not-use-asset-httpscreaterobloxcomstoreasset108881710604209working-coffee-machine-espresso-cafe-kitchen-maker/4955311",
-      "title": "DO NOT USE ASSET: https://create.roblox.com/store/asset/108881710604209/Working-Coffee-Machine-Espresso-Cafe-Kitchen-Maker",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955485:1",
-      "url": "https://devforum.roblox.com/t/10-years-of-roblox-development-but-struggling-to-land-interviews-looking-for-advice/4955485",
-      "title": "10+ years of Roblox development, but struggling to land interviews. Looking for advice!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "genres and successful loops"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3556,6 +3569,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xi3y3l",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3y3l/ages_16_killed_discovery_for_our_roblox_arcade/",
+      "title": "Ages 16+ killed discovery for our Roblox arcade shooter — how are other small teams getting real playtests?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:5QjkE1qZpqM",
       "url": "https://www.youtube.com/shorts/5QjkE1qZpqM",
       "title": "welcome to the xperiment 🧪 Ken Carson hits The Block on oct 30.",
@@ -3646,32 +3673,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4954057:1",
-      "url": "https://devforum.roblox.com/t/tlou2-type-combat-melees/4954057",
-      "title": "Tlou2 type combat melees",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4954271:1",
-      "url": "https://devforum.roblox.com/t/debugprofileend-no-active-profile-annotation/4954271",
-      "title": "debug.profileEnd() - No active profile annotation",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4954331:1",
       "url": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4954331",
       "title": "Failed to fetch place info",
@@ -3719,19 +3720,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955123:1",
-      "url": "https://devforum.roblox.com/t/make-the-2022-limited-time-particle-hats-go-limited/4955123",
-      "title": "Make the 2022 limited time particle hats go Limited",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4387,6 +4375,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4963364:1",
+      "url": "https://devforum.roblox.com/t/please-fix-explorer-not-going-to-selected-object-in-the-tab/4963364",
+      "title": "Please fix explorer not going to selected object in the tab.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-28",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xduqtz",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xduqtz/how_do_i_zoom_in/",
       "title": "How do I zoom in?",
@@ -4421,19 +4422,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xeezl2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeezl2/does_anyone_know_how_to_fix_this/",
-      "title": "Does anyone know how to fix this?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-24",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5115,6 +5103,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xi403t",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi403t/are_you_looking_for_a_playtester/",
+      "title": "Are you looking for a playtester?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-28",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xi5uus",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5uus/okay_guys_i_have_a_question_about_my_horror_game/",
+      "title": "Okay guys i have a question about my horror game i'm working on",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4953494:1",
       "url": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494",
       "title": "How would i make a proper meele system anticheat?",
@@ -5247,53 +5261,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4954906:1",
-      "url": "https://devforum.roblox.com/t/should-spend-1k-robux-to-make-it-for-kids/4954906",
-      "title": "Should spend 1K robux to make it for kids?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955288:1",
-      "url": "https://devforum.roblox.com/t/i-just-found-out-what-editable-images-are/4955288",
-      "title": "I just found out what editable images are",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955473:1",
-      "url": "https://devforum.roblox.com/t/plus-transfer-limit-stuck-at-5001000-due-to-recent-refund-message/4955473",
-      "title": "Plus Transfer Limit Stuck at 500/1000 due to \"Recent Refund\" Message",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4955612:1",
       "url": "https://devforum.roblox.com/t/help-with-controlling-motor6ds-rotation/4955612",
       "title": "Help with controlling motor6d's rotation",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955619:1",
-      "url": "https://devforum.roblox.com/t/whats-all-the-new-blacklisted-terms-on-roblox-august-2026-the-future/4955619",
-      "title": "What's All the new blacklisted terms on Roblox? (August 2026 - The Future)",
       "source": "roblox-devforum-latest",
       "published": "2026-10-24",
       "kind": "devforum",
@@ -7348,6 +7318,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xi5gjc",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5gjc/gewehr_m1869_eisenreich_empire_rifle/",
+      "title": "Gewehr M.1869 (Eisenreich Empire Rifle)",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr",
       "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
       "title": "Acetul (@_acetul) - X",
@@ -7418,6 +7399,17 @@
       "signals": [
         "tools and performance"
       ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5VcG1zcmNMTXBqRUhjT2Q4N0p2SndKSVVyUWwtTkJKb1ZCZ2JwMjkzNkphSWVSWGF1M09SM3BEVXdCYzU0V1hCV29MUW9DRlhLMmo0M2VR",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcG1zcmNMTXBqRUhjT2Q4N0p2SndKSVVyUWwtTkJKb1ZCZ2JwMjkzNkphSWVSWGF1M09SM3BEVXdCYzU0V1hCV29MUW9DRlhLMmo0M2VR?oc=5",
+      "title": "mini admin abuse + artist reveal + new divine ☠️ #roblox #stealanegg #adminabuse #update #divine - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-10-28",
+      "kind": "index-only",
+      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

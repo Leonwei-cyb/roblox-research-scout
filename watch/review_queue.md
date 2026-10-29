@@ -8,7 +8,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
 - **[\[Feedback\] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids](https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061)** — Public text/page, video not confirmed
-- **[Made a +1 mining simulator solo — looking for honest feedback and testers before launch](https://www.reddit.com/r/robloxgamedev/comments/1xhrb99/made_a_1_mining_simulator_solo_looking_for_honest/)** — Public text/page, video not confirmed
+- **[Intergalactic Kingdom Tycoon ( Planet 1 -Mars)](https://www.reddit.com/r/robloxgamedev/comments/1xi4oty/intergalactic_kingdom_tycoon_planet_1_mars/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
@@ -21,5 +21,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[GML — open-source Luau module loader and utility library](https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208)** — Public text/page, video not confirmed
-- **[Perf Auditor roblox studio plugin](https://www.reddit.com/r/robloxgamedev/comments/1xi1jm9/perf_auditor_roblox_studio_plugin/)** — Public text/page, video not confirmed
+- **[Ages 16+ killed discovery for our Roblox arcade shooter — how are other small teams getting real playtests?](https://www.reddit.com/r/robloxgamedev/comments/1xi3y3l/ages_16_killed_discovery_for_our_roblox_arcade/)** — Public text/page, video not confirmed
 - **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Public text/page, video not confirmed

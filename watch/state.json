@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "02c23e6297ebf7d86d15e90af438b08be0cbcc29",
+      "head": "c8f5276703948ef4868c9b9fd44fae619dbe2f11",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "04088e7c9d41cba5d33bafbf788d87a465c79d5b",
-      "head_subject": "llama.cpp: workaround Metal unary crash (#19372)",
+      "head": "6db7be24cc3b7a53506640e88856746e27d60caa",
+      "head_subject": "ci: pin buildx to workaround deadlock (#19373)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.12",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
@@ -180,6 +180,7 @@
     "adamenrem-jpg/Roblox-Live-Bridge-MCP",
     "adamkhalile/luau-docs-oracle",
     "amanbolat/awesome-rust-with-stars",
+    "andrew/ultimate-awesome",
     "aneasystone/github-trending",
     "animeshsingh3434/roblox-ui-component-foundry",
     "anthropics/claude-code",
