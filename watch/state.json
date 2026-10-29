@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "c0b9320ef3da6098a4922f37cae28202b6db09fe",
-      "head_subject": "Example plugins - Each example is a standalone 'pip install .' package, README per example",
+      "head": "00177311d5b0c7b5a70da2edf1d7632815919c78",
+      "head_subject": "Bug: A watch that was fine (200) and then starts getting 403 must not keep reporting the old 200 (#4606)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -212,6 +212,7 @@
     "jisancreativestudio-dev/Steam-Happy-Roblox-Vault",
     "jnMetaCode/agency-agents-zh",
     "johe123qwe/github-trending",
+    "jqueryscript/awesome-claude-code",
     "jyyang621/DailyArXiv",
     "kaixinbaba/awesome-rea",
     "killop/anything_about_game",
