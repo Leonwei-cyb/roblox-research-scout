@@ -946,6 +946,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4964703:1",
+      "url": "https://devforum.roblox.com/t/game-incorrectly-banned-for-terrorism-banning-players/4964703",
+      "title": "Game Incorrectly Banned For Terrorism & Banning Players",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xesy2q",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xesy2q/how_should_i_organize_my_animations_for_my_game/",
       "title": "How should I organize my animations for my game?",
@@ -955,20 +969,6 @@
       "signals": [
         "animation and audio",
         "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf3dp2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3dp2/ive_been_working_on_a_naval_strategy_game_on/",
-      "title": "I've been working on a naval strategy game on Roblox. I love some feedback!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1211,32 +1211,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956119:1",
-      "url": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119",
-      "title": "Studio eats all RAM (~500 MB/s) in edit mode when a ModuleScript loops :ToHSV() over a 40-entry untyped Color3 table",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956644:1",
-      "url": "https://devforum.roblox.com/t/how-do-i-start-animating-on-blender-for-roblox/4956644",
-      "title": "How do i start animating on blender for roblox?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2167,6 +2141,58 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4964594:1",
+      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-%E2%80%94-crown-or-pass-suddenly-restricted-to-16/4964594",
+      "title": "Kids & Select final review stuck — Crown or Pass suddenly restricted to 16+",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964598:1",
+      "url": "https://devforum.roblox.com/t/possible-bug-%E2%80%93-maturity-compliance-final-review-stuck-on-%E2%80%9C48-hours%E2%80%9D/4964598",
+      "title": "Possible Bug – Maturity & Compliance Final Review Stuck on “48 Hours”",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964750:1",
+      "url": "https://devforum.roblox.com/t/horror-game-feedback/4964750",
+      "title": "Horror Game Feedback!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964773:1",
+      "url": "https://devforum.roblox.com/t/uploaded-video-still-under-review-after-24-hours/4964773",
+      "title": "Uploaded Video Still Under Review After 24+ Hours",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xeo2x9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeo2x9/i_tried_to_build_in_stud_form/",
       "title": "I tried to build in stud form",
@@ -2196,19 +2222,6 @@
       "key": "reddit:1xf0kma",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf0kma/sounds_not_loading/",
       "title": "Sounds not loading?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf1zgz",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf1zgz/animation_not_loading/",
-      "title": "Animation not loading?",
       "source": "reddit-robloxdev",
       "published": "2026-10-25",
       "kind": "reddit",
@@ -2271,19 +2284,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xfbtho",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfbtho/seeking_testers_unpaid_an_earlyaccess_shooter/",
-      "title": "[Seeking testers] [Unpaid] An early-access shooter game project is looking for testers for its alpha phase, in order to gather feedback and meet the requirements for Roblox age-rating reviews.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xfby5u",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfby5u/my_first_coop_hordesurvival_game_how_im_handling/",
       "title": "My first co-op horde-survival game: how I'm handling 300+ enemies without lag",
@@ -2293,21 +2293,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xfdfwk",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfdfwk/looking_for_devs_for_my_upcoming_project/",
-      "title": "Looking for devs for my upcoming project",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
         "tools and performance"
       ],
       "score": 5,
@@ -2922,17 +2907,31 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4956755:1",
-      "url": "https://devforum.roblox.com/t/standard-r15-resource-blocky-is-missing-a-corrective-facial-pose/4956755",
-      "title": "Standard R15 Resource \"Blocky\" is missing a corrective facial pose",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
+      "key": "reddit:1xiqfh0",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiqfh0/new_game_up_to_fate/",
+      "title": "New game: “up to fate”",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
       "signals": [
-        "animation and audio",
-        "tools and performance"
+        "board game and turn flow",
+        "UI and menus",
+        "player feedback and marketing"
       ],
-      "score": 4,
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xiqqaz",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiqqaz/how_do_you_turn_tiktok_views_into_actual_players/",
+      "title": "How do you turn TikTok views into actual players?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3132,15 +3131,29 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xeqyma",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeqyma/have_you_ever_recreated_evolution/",
-      "title": "Have you ever recreated evolution?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
+      "key": "devforum:4964592:1",
+      "url": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592",
+      "title": "Creators Can Test Games on the Web",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-29",
+      "kind": "devforum",
       "signals": [
-        "animation and audio",
+        "player feedback and marketing",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964716:1",
+      "url": "https://devforum.roblox.com/t/little-extension-i-made-for-bloodshot-ruby-eye/4964716",
+      "title": "Little extension i made for bloodshot ruby eye",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3169,34 +3182,6 @@
       "signals": [
         "genres and successful loops",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xeyi7h",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeyi7h/hobby_looking_for_roblox_developers_to_help/",
-      "title": "[Hobby] Looking for Roblox Developers to Help Create a Downball / 4-Square Game!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xeyijl",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeyijl/hiring/",
-      "title": "HIRING",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "world and visual design"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3505,19 +3490,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4955844:1",
-      "url": "https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844",
-      "title": "Merge Toolbox into the Asset Manager",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4956083:1",
       "url": "https://devforum.roblox.com/t/krypton-anti-cheat-paid/4956083",
       "title": "Krypton Anti-Cheat [Paid]",
@@ -3539,19 +3511,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956429:1",
-      "url": "https://devforum.roblox.com/t/experimental-sign-in-feature/4956429",
-      "title": "Experimental Sign in feature??",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4215,19 +4174,6 @@
       "kind": "reddit",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xewz3j",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xewz3j/need_help/",
-      "title": "need help!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4995,6 +4941,19 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xiq59k",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiq59k/roblox_does_not_see_you_as_expendable/",
+      "title": "Roblox Does Not See You As Expendable",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6254,6 +6213,61 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4964674:1",
+      "url": "https://devforum.roblox.com/t/web-play-gets-stuck-on-loading-screen-with-rapid-flashing-colours/4964674",
+      "title": "Web-Play gets stuck on loading screen with rapid flashing colours",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964720:1",
+      "url": "https://devforum.roblox.com/t/typing-in-a-text-box-causes-a-crash-in-some-games/4964720",
+      "title": "Typing in a text box causes a crash in some games",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964761:1",
+      "url": "https://devforum.roblox.com/t/unexpected-engine-crash-when-pressing-a-key-combination/4964761",
+      "title": "Unexpected engine crash when pressing a key combination",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964763:1",
+      "url": "https://devforum.roblox.com/t/test-bug-for-roblox-web-play-can-close/4964763",
+      "title": "Test bug for Roblox Web-Play (can close)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964770:1",
+      "url": "https://devforum.roblox.com/t/test-bug-for-roblox-login-can-close/4964770",
+      "title": "Test bug for Roblox Login (can close)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xeofo1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeofo1/showing_the_combat_for_my_game_uproot/",
       "title": "Showing the Combat for my game UPROOT",
@@ -6298,31 +6312,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xerzh2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xerzh2/does_anyone_know_what_this_error_is_and_whats/",
-      "title": "does anyone know what this error is and whats causing it",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xeseki",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeseki/apparently_playing_a_roblox_game_gets_warned/",
       "title": "Apparently playing a roblox game gets warned",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xewu1f",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xewu1f/wip_mario_kart_wii_on_roblox_with_full_physics/",
-      "title": "WIP Mario Kart Wii on Roblox with full physics engine recreation",
       "source": "reddit-robloxstudio",
       "published": "2026-10-25",
       "kind": "reddit",
@@ -6389,17 +6381,6 @@
       "key": "reddit:1xfbmxd",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfbmxd/eleições_na_paulista_ao_vivo_com_apurações/",
       "title": "Eleições na Paulista AO VIVO com apurações",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xffnnv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xffnnv/a_clip_from_the_halloween_event_boss_fight_in_my/",
-      "title": "A clip from the Halloween event boss fight in my game",
       "source": "reddit-robloxdev",
       "published": "2026-10-25",
       "kind": "reddit",
@@ -7313,6 +7294,17 @@
       "key": "reddit:1xioj2u",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xioj2u/roblox_icon_image_importance/",
       "title": "Roblox Icon Image Importance",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xir9g0",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xir9g0/loading_screen_opinion/",
+      "title": "Loading screen opinion.",
       "source": "reddit-robloxdev",
       "published": "2026-10-29",
       "kind": "reddit",

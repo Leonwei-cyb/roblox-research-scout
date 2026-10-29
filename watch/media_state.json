@@ -1796,9 +1796,38 @@
     "f616a71ba01bb1ee394d4776",
     "2c7637aaddd1b2679562558f",
     "3fe3c555fba95e3df9a6490c",
-    "c46e0bcd8f1cf3af5238e9ac"
+    "c46e0bcd8f1cf3af5238e9ac",
+    "b1c4bdd64eb77d050d5f6b4a",
+    "8bc051d397f5d8bf1adba568",
+    "5ff1fb935af5212b7b09dca5",
+    "0734be9b99944d0874e03581",
+    "271fb39666d1d4094c98a38f",
+    "fb5aff71529ef3c9e479ca4c",
+    "cf29af8264589a1b74bc9a24",
+    "25f362f93ba8a616f58499ea",
+    "077681418c5dd51185b1aadd",
+    "9d992747db59d785fc1c7ed1",
+    "828e28d6dda9cd99d1da82f7",
+    "461e69c02ba74bbb041e35a1",
+    "131b68226441b4399362f7ad",
+    "fe0b28388b16e7d87c6c8b19",
+    "8493a4a70839a2a297812496",
+    "e1715e0a1b277be81a25f6b6",
+    "f0a663b9794c52954f72480c",
+    "312f452b6effa4eebc374cb2"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Roblox Does Not See You As Expendable",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiq59k/roblox_does_not_see_you_as_expendable/",
+      "published": "2026-10-29",
+      "excerpt": "I keep seeing people talk about \"AI slop\" or \"low effort games\" on the front page. I made a pretty massive comment on one of these posts. I'm Kotojo and I've been on Roblox doing games (not gonna say making cause 4 years of it was free model slop) since 2010 under the name zman3599. Today I'm old an",
+      "creator": "/u/Kotojokes https://www.reddit.com/user/Kotojokes",
+      "id": "fe0b28388b16e7d87c6c8b19"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -1821,6 +1850,18 @@
       "excerpt": "not really feeling motivated to learn roblox dev ive been learning lua for a few months now and recently saw a video of claude making almost an entire game in roblox studio. honestly, it kinda makes me wonder why im spending so much time learning to make games when ai can already do so much on its o",
       "creator": "/u/BadalHoMa https://www.reddit.com/user/BadalHoMa",
       "id": "fd153ccc764b4efa498d52d4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Typing in a text box causes a crash in some games",
+      "url": "https://devforum.roblox.com/t/typing-in-a-text-box-causes-a-crash-in-some-games/4964720",
+      "published": "2026-10-29",
+      "excerpt": "When typing in certain textboxes like the command bar which is opened with ’ or CMDR that can be opened with F2 the game seems to show a crash but it continues to run in the background. Only some textboxes in the game seem to be affected both chat and dev console search work and I can type fine in t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/typing-in-a-text-box-causes-a-crash-in-some-games/4964720.rss",
+      "id": "fb5aff71529ef3c9e479ca4c"
     },
     {
       "source": "reddit-robloxdev",
@@ -1879,6 +1920,17 @@
       "id": "e31b4d0b867967aea0863025"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "New game: “up to fate”",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiqfh0/new_game_up_to_fate/",
+      "published": "2026-10-29",
+      "excerpt": "Hi everybody, recently me and some friends developed a roblox game that comes from inspiration from the board game “risk”. The game is named up to fate and it’s me and my friends first attempt at making a roblox game so feedback specifically about the UI and the map. Thanks, submitted by /u/Inflatio",
+      "creator": "/u/InflationSevere8239 https://www.reddit.com/user/InflationSevere8239",
+      "id": "e1715e0a1b277be81a25f6b6"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1912,6 +1964,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/video-under-review-taking-more-than-24-hours/4964135.rss",
       "id": "d773ce588f6d9d1aad175816"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Little extension i made for bloodshot ruby eye",
+      "url": "https://devforum.roblox.com/t/little-extension-i-made-for-bloodshot-ruby-eye/4964716",
+      "published": "2026-10-29",
+      "excerpt": "not much of a modeler / texturer myself but i made this for myself, however due to roblox’s bounds i had to botch the wings #sad and they do not look as pretty anymore feedback is appreciated as i’m still trying to learn (i also use a mouse to texture & model cause i have no drawing tablet) 1 post -",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/little-extension-i-made-for-bloodshot-ruby-eye/4964716.rss",
+      "id": "cf29af8264589a1b74bc9a24"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2019,6 +2083,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Uploaded Video Still Under Review After 24+ Hours",
+      "url": "https://devforum.roblox.com/t/uploaded-video-still-under-review-after-24-hours/4964773",
+      "published": "2026-10-29",
+      "excerpt": "I uploaded a video for my Roblox experience, Make Pinatas!, but it has been stuck on “video under review” for more than 24 hours. Video Asset ID: 98247017388130 Expected behavior I expect the uploaded video to finish the moderation process within the stated 24-hour timeframe, either being approved o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/uploaded-video-still-under-review-after-24-hours/4964773.rss",
+      "id": "b1c4bdd64eb77d050d5f6b4a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Are this not allowed?",
       "url": "https://devforum.roblox.com/t/are-this-not-allowed/4963864",
       "published": "2026-10-29",
@@ -2108,6 +2184,18 @@
       "id": "9e2a6a4eac8376379f8ba733"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Possible Bug – Maturity & Compliance Final Review Stuck on “48 Hours”",
+      "url": "https://devforum.roblox.com/t/possible-bug-%E2%80%93-maturity-compliance-final-review-stuck-on-%E2%80%9C48-hours%E2%80%9D/4964598",
+      "published": "2026-10-29",
+      "excerpt": "Hello Roblox Creator Hub team, I’m reporting a possible issue with the Maturity & Compliance final review system. My experience, +1 Boxing Evolution (Experience ID: 10771608910), was initially rejected due to inaccurate answers in the Maturity & Compliance questionnaire. I reviewed the feedback, cor",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/possible-bug-%E2%80%93-maturity-compliance-final-review-stuck-on-%E2%80%9C48-hours%E2%80%9D/4964598.rss",
+      "id": "9d992747db59d785fc1c7ed1"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2188,6 +2276,41 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/cannot-access-my-own-game/4963825.rss",
       "id": "909b70c60d79deeee0f67100"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Test bug for Roblox Login (can close)",
+      "url": "https://devforum.roblox.com/t/test-bug-for-roblox-login-can-close/4964770",
+      "published": "2026-10-29",
+      "excerpt": "Test bug for Roblox Login (can close) Expected behavior Test bug for Roblox Login (can close) A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/test-bug-for-roblox-login-can-close/4964770.rss",
+      "id": "8bc051d397f5d8bf1adba568"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Loading screen opinion.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xir9g0/loading_screen_opinion/",
+      "published": "2026-10-29",
+      "excerpt": "I think the loading screen ended up looking quite nice. submitted by /u/EmirGammesLD [link] [comments]",
+      "creator": "/u/EmirGammesLD https://www.reddit.com/user/EmirGammesLD",
+      "id": "8493a4a70839a2a297812496"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Kids & Select final review stuck — Crown or Pass suddenly restricted to 16+",
+      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-%E2%80%94-crown-or-pass-suddenly-restricted-to-16/4964594",
+      "published": "2026-10-29",
+      "excerpt": "Hello, My game, Crown or Pass , is restricted to players ages 16 and up, even though every requirement on the Manage Audience page is marked complete. This happened out of nowhere. I made zero changes to the game that would have caused this restriction. The dashboard currently says: Final review in ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/kids-select-final-review-stuck-%E2%80%94-crown-or-pass-suddenly-restricted-to-16/4964594.rss",
+      "id": "828e28d6dda9cd99d1da82f7"
     },
     {
       "source": "reddit-robloxdev",
@@ -2324,6 +2447,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/traitor-a-recreation-of-ttt-open-sourced/4964166.rss",
       "id": "6238663730e49665455acb09"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Test bug for Roblox Web-Play (can close)",
+      "url": "https://devforum.roblox.com/t/test-bug-for-roblox-web-play-can-close/4964763",
+      "published": "2026-10-29",
+      "excerpt": "Test bug for Roblox Web-Play (can close) Expected behavior Test bug for Roblox Web-Play (can close) A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/test-bug-for-roblox-web-play-can-close/4964763.rss",
+      "id": "5ff1fb935af5212b7b09dca5"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2479,6 +2614,18 @@
       "id": "46d426e0e50f9705661638a0"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Creators Can Test Games on the Web",
+      "url": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592",
+      "published": "2026-10-29",
+      "excerpt": "Key Takeaways Web Play early access is now available for Creators only to test your games in Chrome. This lets you find bugs and tune performance before we open Web Play to all players. Click Play in Browser on your game in Creator Hub. Hi Creators, We’re launching Web Play beta, which lets you play",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592.rss",
+      "id": "461e69c02ba74bbb041e35a1"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2595,6 +2742,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Horror Game Feedback!",
+      "url": "https://devforum.roblox.com/t/horror-game-feedback/4964750",
+      "published": "2026-10-29",
+      "excerpt": "Hey everyone! I’ve been working on a horror game called THE GAUNT and recently got it to a point where it’s playable. The game is definitely still a work in progress, and there’s a lot I still want to add and improve, but the main gameplay and mechanics are pretty much done. I’d really appreciate it",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/horror-game-feedback/4964750.rss",
+      "id": "271fb39666d1d4094c98a38f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game Incorrectly Banned For Terrorism & Banning Players",
+      "url": "https://devforum.roblox.com/t/game-incorrectly-banned-for-terrorism-banning-players/4964703",
+      "published": "2026-10-29",
+      "excerpt": "My friend @CUPlDSBOW has a home store called [ Outfits] Cupid’s Corner Kawaii Cutecore Ideas that was incorrectly banned for Terrorism/Extremism. Place ID: 3145291404 The game is a home store where users can customize their avatar using the group’s clothing, paramnesia. After I purchased some clothi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-incorrectly-banned-for-terrorism-banning-players/4964703.rss",
+      "id": "25f362f93ba8a616f58499ea"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Plugins Not Showing up",
       "url": "https://devforum.roblox.com/t/plugins-not-showing-up/4964560",
       "published": "2026-10-29",
@@ -2630,12 +2801,47 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "How do you turn TikTok views into actual players?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiqqaz/how_do_you_turn_tiktok_views_into_actual_players/",
+      "published": "2026-10-29",
+      "excerpt": "I launched my first Roblox horror game this week. My TikToks got ~3,000 views but only 18 people actually played. Some searched the name and landed in a different game with a similar name. For those of you who promote on TikTok: what actually worked to get viewers into your game? And would a tool th",
+      "creator": "/u/Complete-Mess-2422 https://www.reddit.com/user/Complete-Mess-2422",
+      "id": "131b68226441b4399362f7ad"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Looking for a scripter for my game FALSE PROMISE",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xip8zo/looking_for_a_scripter_for_my_game_false_promise/",
       "published": "2026-10-29",
       "excerpt": "Hi there! I'm looking for scripture for my upcoming game as co-creators for my new game FALSE PROMISE Which is a PVP AND a PVE game! (Splitting future earnings 50/50 via a Roblox group) I've already done all of the character design, lore and gameplay and I'm looking for a coder cuz I'm on mobile so ",
       "creator": "/u/AX0L0TL_K1TTY https://www.reddit.com/user/AX0L0TL_K1TTY",
       "id": "0cd6420dd2edcb2b574db5fd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Web-Play gets stuck on loading screen with rapid flashing colours",
+      "url": "https://devforum.roblox.com/t/web-play-gets-stuck-on-loading-screen-with-rapid-flashing-colours/4964674",
+      "published": "2026-10-29",
+      "excerpt": "When attempting to launch an experience using the new Web-Play feature, the game stays on the loading screen never becomes playable. The loading screen’s background and central square rapidly cycle through different colours, producing an intense flashing effect across most of the screen. This contin",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/web-play-gets-stuck-on-loading-screen-with-rapid-flashing-colours/4964674.rss",
+      "id": "077681418c5dd51185b1aadd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unexpected engine crash when pressing a key combination",
+      "url": "https://devforum.roblox.com/t/unexpected-engine-crash-when-pressing-a-key-combination/4964761",
+      "published": "2026-10-29",
+      "excerpt": "Repro the problem: Join СБЕГИ ОТ САХАРКА! via Roblox Web Press the ’ key, then hold down ’ and Shift keys on the keyboard Engine will crash System info: Broswer info Chrome 156 on Windows 11 Expected behavior The engine should not crash with this key combination 2 posts - 1 participant Read full top",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unexpected-engine-crash-when-pressing-a-key-combination/4964761.rss",
+      "id": "0734be9b99944d0874e03581"
     },
     {
       "source": "reddit-robloxdev",
@@ -8525,187 +8731,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-capped-at-13-fps-in-empty-baseplate-microprofiler-72ms-in-presentqueuepresent-while-focused/4957714.rss",
       "id": "613025f368a7127f56318f1d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "does anyone know what this error is and whats causing it",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xerzh2/does_anyone_know_what_this_error_is_and_whats/",
-      "published": "2026-10-25",
-      "excerpt": "submitted by /u/DeanHutcherson [link] [comments]",
-      "creator": "/u/DeanHutcherson https://www.reddit.com/user/DeanHutcherson",
-      "id": "5f45ca19500e8015d2463371"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Experimental Sign in feature??",
-      "url": "https://devforum.roblox.com/t/experimental-sign-in-feature/4956429",
-      "published": "2026-10-25",
-      "excerpt": "Roblox Studio blank-screen/login experiment bug Roblox Studio became completely unusable. I tried reinstalling Studio, changing networks, signing out. After logging out, Studio opened to a completely blank screen with no menus, Explorer, viewport, or login controls. The cause was an experimental Rob",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/experimental-sign-in-feature/4956429.rss",
-      "id": "5e3839c8b89e98b58235ef33"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "WIP Mario Kart Wii on Roblox with full physics engine recreation",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xewu1f/wip_mario_kart_wii_on_roblox_with_full_physics/",
-      "published": "2026-10-25",
-      "excerpt": "submitted by /u/Vast_Scratch9911 [link] [comments]",
-      "creator": "/u/Vast_Scratch9911 https://www.reddit.com/user/Vast_Scratch9911",
-      "id": "5d500a6cfe35a732f4d8fb1c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Seeking testers] [Unpaid] An early-access shooter game project is looking for testers for its alpha phase, in order to gather feedback and meet the requirements for Roblox age-rating reviews.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfbtho/seeking_testers_unpaid_an_earlyaccess_shooter/",
-      "published": "2026-10-25",
-      "excerpt": "Hi everyone! As required by the community guidelines, I am tagging this post as [Looking for Devs] and explicitly stating that this is an UNPAID request for volunteer alpha testers. I am not hiring or paying for development work at this time. I published a competitive shooter (Deathmatch subgenre) l",
-      "creator": "/u/leandroaaa6 https://www.reddit.com/user/leandroaaa6",
-      "id": "5ca45b8bc084728c93b71b9c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for devs for my upcoming project",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfdfwk/looking_for_devs_for_my_upcoming_project/",
-      "published": "2026-10-25",
-      "excerpt": "I will need: Scripters- Animators- Conceptors? Map builders and modelers. Visual effects artist I can do most things with time (i cant script) . This is my first game and ive never done this before, i am inexperienced. I dont have a group but i willing to pay you when i get one if it makes anything ",
-      "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
-      "id": "57c670e73e91e3e08c775616"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How do i start animating on blender for roblox?",
-      "url": "https://devforum.roblox.com/t/how-do-i-start-animating-on-blender-for-roblox/4956644",
-      "published": "2026-10-25",
-      "excerpt": "If you have any tutorials/recommendations it would help me so much, is it exactly like how you would animate for other studios or is there some properties that are inherent to rigging for roblox 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-do-i-start-animating-on-blender-for-roblox/4956644.rss",
-      "id": "57be66686888d68bebda2606"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I've been working on a naval strategy game on Roblox. I love some feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3dp2/ive_been_working_on_a_naval_strategy_game_on/",
-      "published": "2026-10-25",
-      "excerpt": "Hey everyone, I've been working on a game called IRON TIDES for a while now. It's basically an open-world naval strategy game inspired by games like Total War, Mount & Blade and Grepolis. You can command fleets, fight naval battles, board enemy ships, build and manage cities, raise armies, fight lan",
-      "creator": "/u/SimplifieEDGaming https://www.reddit.com/user/SimplifieEDGaming",
-      "id": "5561c50a216af193c21795fc"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "A clip from the Halloween event boss fight in my game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xffnnv/a_clip_from_the_halloween_event_boss_fight_in_my/",
-      "published": "2026-10-25",
-      "excerpt": "Halfway through the fight the Horseman's horse turns into a ghost, and he keeps fighting on foot. submitted by /u/Superb-Gap7952 [link] [comments]",
-      "creator": "/u/Superb-Gap7952 https://www.reddit.com/user/Superb-Gap7952",
-      "id": "551615ffb829551c5b2c0111"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "HIRING",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeyijl/hiring/",
-      "published": "2026-10-25",
-      "excerpt": "There is a game called encore, development is finished we just need finishing 3D animation touches, since our past 3D animators has left, you must have discord, and everything will be explained i’m not the owner i’m helping him, rn we need 3D animators that can animate 3D models, we are at the edge ",
-      "creator": "/u/Open-Recipe2476 https://www.reddit.com/user/Open-Recipe2476",
-      "id": "5456246626bb5cda07df8df8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "[Hobby] Looking for Roblox Developers to Help Create a Downball / 4-Square Game!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeyi7h/hobby_looking_for_roblox_developers_to_help/",
-      "published": "2026-10-25",
-      "excerpt": "Hey everyone! I’m a mobile Roblox player, and one of my favourite games to play is Downball/Four Square—whatever you call it. I’d love to see a Roblox version of it, but I don’t want it to be overly simple or based on rolling and gambling for different characters or powers that make it easier to win",
-      "creator": "/u/Lead_8 https://www.reddit.com/user/Lead_8",
-      "id": "54447d62749931802c5a361f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Merge Toolbox into the Asset Manager",
-      "url": "https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844",
-      "published": "2026-10-25",
-      "excerpt": "As a Roblox developer, it’s annoying to open up two separate plugins to access the creator store, and my inventory. Some users have noticed that Roblox has already begun the process of deprecating the Toolbox Inventory tab, and prompting users to use Asset Manager instead. I believe this should be t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/merge-toolbox-into-the-asset-manager/4955844.rss",
-      "id": "512b3810493ce59c79692084"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Animation not loading?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf1zgz/animation_not_loading/",
-      "published": "2026-10-25",
-      "excerpt": "so i need to import my animation to my character but the animation doesn't load i imported the character using robloxia-CAC importer and i got my rig using moon animator so their wasn't any compatibility issus but the rig that was imported using CAC importer doesn't work. EDIT: i even put the #AnimS",
-      "creator": "/u/Rjdoglover https://www.reddit.com/user/Rjdoglover",
-      "id": "4dcfceabcfcd9edce0348b06"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Have you ever recreated evolution?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeqyma/have_you_ever_recreated_evolution/",
-      "published": "2026-10-25",
-      "excerpt": "Yeah that's what I'm doing, might need to watch an hour long biology video to understand it, major project, literally making things evolve, making a 5000 by 5000 stud map, just average studio stuff, just making predators and recreating the concept of extinction. submitted by /u/AnimaticKraken [link]",
-      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
-      "id": "4d8e102fc8886ca51addc6ed"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "need help!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xewz3j/need_help/",
-      "published": "2026-10-25",
-      "excerpt": "i made a roblox game solo its not the best but i love the idea of it and i would love if someone can help me make it better? it got almost 1k visits from a really small ad. submitted by /u/Nice-Ad-3552 [link] [comments]",
-      "creator": "/u/Nice-Ad-3552 https://www.reddit.com/user/Nice-Ad-3552",
-      "id": "49631c3fb18fc95569ddb3c8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Standard R15 Resource \"Blocky\" is missing a corrective facial pose",
-      "url": "https://devforum.roblox.com/t/standard-r15-resource-blocky-is-missing-a-corrective-facial-pose/4956755",
-      "published": "2026-10-25",
-      "excerpt": "Overview: I used the Standard R15 Resource rig for Blocky to quickly set up a dynamic head for a Body package. When importing the body itself into Studio, it shows this warning. Process: I downloaded the Blocky resource file and imported it into Maya (2024). When scrubbing the Animation timeline in ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/standard-r15-resource-blocky-is-missing-a-corrective-facial-pose/4956755.rss",
-      "id": "4930846127f563f603b2e6d1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio eats all RAM (~500 MB/s) in edit mode when a ModuleScript loops :ToHSV() over a 40-entry untyped Color3 table",
-      "url": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119",
-      "published": "2026-10-25",
-      "excerpt": "Opening a place that contains one specific kind of ModuleScript makes Studio allocate memory continuously in edit mode , at roughly 400–500 MB per second, using about 3 CPU cores. Nothing has to be clicked, played or opened in the script editor. It never stops on its own. On my machine it reached 23",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-eats-all-ram-500-mbs-in-edit-mode-when-a-modulescript-loops-tohsv-over-a-40-entry-untyped-color3-table/4956119.rss",
-      "id": "480ea3b9988bc4cd0cd62f62"
     }
   ]
 }
