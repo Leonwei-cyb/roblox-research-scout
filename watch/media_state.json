@@ -1749,7 +1749,11 @@
     "3e8119fd15711c89298d7096",
     "cb98e4bea5f4dda7a866ca36",
     "721cbd715fe0c6ca304f58e7",
-    "aff4be2b9686a6a6e1e8b51d"
+    "aff4be2b9686a6a6e1e8b51d",
+    "b0cdb38d023f343827559364",
+    "9e2a6a4eac8376379f8ba733",
+    "9c73caa51589015863429b06",
+    "909b70c60d79deeee0f67100"
   ],
   "items": [
     {
@@ -1826,6 +1830,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Are this not allowed?",
+      "url": "https://devforum.roblox.com/t/are-this-not-allowed/4963864",
+      "published": "2026-10-29",
+      "excerpt": "I have a question that’s been bothering me a lot, mainly because I might have misunderstood some things regarding UGC. I’ve seen accessories made specifically for Korblox, basically small add-ons (not accessories that recreate or imitate Korblox itself), but simple decorations like bows, little anim",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/are-this-not-allowed/4963864.rss",
+      "id": "b0cdb38d023f343827559364"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Studio reporting inaccurate bandwidth under high-stress conditions",
       "url": "https://devforum.roblox.com/t/studio-reporting-inaccurate-bandwidth-under-high-stress-conditions/4963686",
       "published": "2026-10-29",
@@ -1861,6 +1877,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Plumbline: A Fast, Zero-Allocation Spatial Debugger (Stop crashing Studio to draw a line fr)",
+      "url": "https://devforum.roblox.com/t/plumbline-a-fast-zero-allocation-spatial-debugger-stop-crashing-studio-to-draw-a-line-fr/4963860",
+      "published": "2026-10-29",
+      "excerpt": "Last week, I was trying to debug a simple shotgun spread. To see where my raycasts were going, I wrote a quick script to spawn thin red neon parts along the paths. I accidentally put the part-spawning logic inside a RunService loop and forgot to add a Debris:AddItem() cleanup. I clicked my mouse onc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/plumbline-a-fast-zero-allocation-spatial-debugger-stop-crashing-studio-to-draw-a-line-fr/4963860.rss",
+      "id": "9e2a6a4eac8376379f8ba733"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Talent Hub Messages Not Working",
+      "url": "https://devforum.roblox.com/t/talent-hub-messages-not-working/4963828",
+      "published": "2026-10-29",
+      "excerpt": "Hi, I’ve been trying to contact two different potential posters on the talent hub via the talent hub’s message feature, but none of my messages seem to go through at all. I’ve tried to refresh the page and use the refresh button provided under the ‘no messages found’ text and still none of my messag",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/talent-hub-messages-not-working/4963828.rss",
+      "id": "9c73caa51589015863429b06"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox Not Reponsive After a few mins of playing.",
       "url": "https://devforum.roblox.com/t/roblox-not-reponsive-after-a-few-mins-of-playing/4963721",
       "published": "2026-10-29",
@@ -1880,6 +1920,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/falsely-blacklisted-from-verification-badge/4963594.rss",
       "id": "921743b4c652b5a63e572574"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Cannot access my own game",
+      "url": "https://devforum.roblox.com/t/cannot-access-my-own-game/4963825",
+      "published": "2026-10-29",
+      "excerpt": "A private message is associated with this bug report tried to access my game multiple times and kept on showing this error 3 posts - 3 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cannot-access-my-own-game/4963825.rss",
+      "id": "909b70c60d79deeee0f67100"
     },
     {
       "source": "reddit-robloxdev",
@@ -1933,7 +1985,7 @@
       "title": "Avatar Gfx in a abandonated museum",
       "url": "https://devforum.roblox.com/t/avatar-gfx-in-a-abandonated-museum/4963775",
       "published": "2026-10-29",
-      "excerpt": "1 post - 1 participant Read full topic",
+      "excerpt": "-This gfx was made in 40 minutes 1 post - 1 participant Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/avatar-gfx-in-a-abandonated-museum/4963775.rss",
       "id": "721cbd715fe0c6ca304f58e7"
@@ -8610,54 +8662,6 @@
       "excerpt": "This is 10 minutes of real gameplay footage from my game. As you can see, there are still a lot of things that look rough, unfinished, or need improvement. I think the game could be ready for release as early as next week, but I want to hear some honest feedback before making that decision. Please g",
       "creator": "/u/iknowankn https://www.reddit.com/user/iknowankn",
       "id": "fe47a81bb6bea840b35e4cd0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "CUSTOM TERRAIN MATERIALS Full Launch Issues With Terrain GEOMETRY / LOADING",
-      "url": "https://devforum.roblox.com/t/custom-terrain-materials-full-launch-issues-with-terrain-geometry-loading/4953445",
-      "published": "2026-10-24",
-      "excerpt": "This issue happened directly after switching place from Expanded Terrain default to Enabled. First gameplay of game after publishing. My game has a feature where you’re able to teleport to different regions within the same place, across the map. During this teleport, a black screen temporarily appea",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/custom-terrain-materials-full-launch-issues-with-terrain-geometry-loading/4953445.rss",
-      "id": "fd63f25c1691fc3fef0dcaf6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Ticket Id: 183157762 Account terminated Sept 17, Support keeps sending unrelated DSA replies",
-      "url": "https://devforum.roblox.com/t/ticket-id-183157762-account-terminated-sept-17-support-keeps-sending-unrelated-dsa-replies/4954037",
-      "published": "2026-10-24",
-      "excerpt": "My roblox account was permanently terminated on September 17 for Inappropriate content/behavior, with the reason listed as Other. I wasn’t shown the specific content or activity behind the decision I appealed through support, but across five tickets I received replies about a “DSA Illegal Content re",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ticket-id-183157762-account-terminated-sept-17-support-keeps-sending-unrelated-dsa-replies/4954037.rss",
-      "id": "fa27b6cc3ab4891fc74a4094"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How would i make a proper meele system anticheat?",
-      "url": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494",
-      "published": "2026-10-24",
-      "excerpt": "Hello! Recently, i’ve been wanting to make my own meele system for my game (basically just the basic one, getpartsboundinwhaterever calls (take IA for example)) but i don’t really know how to implement anticheat if anybody could give me a good explanation on what i could do, thanks! sorry if the pos",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494.rss",
-      "id": "fa172ac5c5dd917eedc49d93"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Crater: the best new package manager for Roblox!",
-      "url": "https://devforum.roblox.com/t/crater-the-best-new-package-manager-for-roblox/4954418",
-      "published": "2026-10-24",
-      "excerpt": "crater: a package manager for Luau and Roblox that also installs from Wally index Hi everyone! I made crater , a free and open source package manager for Roblox projects. It works with Rojo, installs packages from its own registry and from Wally , and puts the tools around packages (Rojo, luau-lsp, ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/crater-the-best-new-package-manager-for-roblox/4954418.rss",
-      "id": "f95a28465e0a9ed7174d4b24"
     }
   ]
 }
