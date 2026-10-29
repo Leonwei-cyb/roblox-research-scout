@@ -8,7 +8,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
 - **[Intergalactic Kingdom Tycoon ( Planet 1 -Mars)](https://www.reddit.com/r/robloxgamedev/comments/1xi4oty/intergalactic_kingdom_tycoon_planet_1_mars/)** — Public text/page, video not confirmed
-- **[Looking for feedback on my first game(Sandbox Tycoon)](https://devforum.roblox.com/t/looking-for-feedback-on-my-first-gamesandbox-tycoon/4962101)** — Public text/page, video not confirmed
+- **[What whould be a good name for my roblox real time strategy game set in modern day.](https://www.reddit.com/r/ROBLOXStudio/comments/1xhvpqj/what_whould_be_a_good_name_for_my_roblox_real/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
@@ -20,6 +20,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xia0zb/playtest_mine_ill_test_yours/)** — Public text/page, video not confirmed
 - **[Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)](https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/)** — Public text/page, video not confirmed
 - **[GML — open-source Luau module loader and utility library](https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208)** — Public text/page, video not confirmed
-- **[Looking for Playtesters for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xgywhy/looking_for_playtesters_for_my_upcoming_game/)** — Public text/page, video not confirmed
