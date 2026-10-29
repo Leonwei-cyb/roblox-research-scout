@@ -250,20 +250,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4954987:1",
-      "url": "https://devforum.roblox.com/t/studio-client-opening-a-place-with-a-crafted-sound-possibly-causes-rce-primitivedos-on-applewindows-devices-on-studioclient/4954987",
-      "title": "[Studio & Client] Opening a place with a crafted sound possibly causes RCE primitive/DoS on Apple/Windows devices on Studio/Client",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4955726:1",
       "url": "https://devforum.roblox.com/t/outdated-animation-versions-intermittently-served-to-players-even-ones-who-have-not-encountered-the-old-versions-not-cache-related/4955726",
       "title": "Outdated animation versions intermittently served to players - even ones who have not encountered the old versions (Not cache related?)",
@@ -1199,19 +1185,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955525:1",
-      "url": "https://devforum.roblox.com/t/a-200-design-for-my-upcoming-rooms-fangame-wanting-feedback/4955525",
-      "title": "A-200 Design for my upcoming Rooms Fangame - wanting feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2228,6 +2201,19 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4963686:1",
+      "url": "https://devforum.roblox.com/t/studio-reporting-inaccurate-bandwidth-under-high-stress-conditions/4963686",
+      "title": "Studio reporting inaccurate bandwidth under high-stress conditions",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4322,6 +4308,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4963696:1",
+      "url": "https://devforum.roblox.com/t/open-volunteers-for-a-dinosaur-game/4963696",
+      "title": "[OPEN] Volunteers for a Dinosaur Game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xduqtz",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xduqtz/how_do_i_zoom_in/",
       "title": "How do I zoom in?",
@@ -5129,28 +5128,6 @@
       "key": "devforum:4954037:1",
       "url": "https://devforum.roblox.com/t/ticket-id-183157762-account-terminated-sept-17-support-keeps-sending-unrelated-dsa-replies/4954037",
       "title": "Ticket Id: 183157762 Account terminated Sept 17, Support keeps sending unrelated DSA replies",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4954100:1",
-      "url": "https://devforum.roblox.com/t/i-need-help-in-incorporating-abilities-into-a-system-that-gives-all-hostile-npcs-a-pathfinding-system/4954100",
-      "title": "I need help in incorporating abilities into a system that gives all hostile npcs a pathfinding system",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955612:1",
-      "url": "https://devforum.roblox.com/t/help-with-controlling-motor6ds-rotation/4955612",
-      "title": "Help with controlling motor6d's rotation",
       "source": "roblox-devforum-latest",
       "published": "2026-10-24",
       "kind": "devforum",
@@ -6295,6 +6272,28 @@
       "key": "devforum:4963658:1",
       "url": "https://devforum.roblox.com/t/textchatcommandrunarg1arg2arg3/4963658",
       "title": "TextChatCommand:Run(arg1,arg2,arg3)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4963673:1",
+      "url": "https://devforum.roblox.com/t/badges-for-floors-still-not-awarded-despite-completion-the-hollow/4963673",
+      "title": "Badges for floors still not awarded despite completion (The Hollow)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4963695:1",
+      "url": "https://devforum.roblox.com/t/how-long-does-account-status-take-to-improve/4963695",
+      "title": "How long does account status take to improve?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",

@@ -1739,7 +1739,11 @@
     "3fefad3ee536ac08f52eb755",
     "b7f2b204fbb28bc31c151f62",
     "08c32f7fcc7dcc3ffea4be79",
-    "85174e0e6bfa041a90457ca9"
+    "85174e0e6bfa041a90457ca9",
+    "037cf7437202317e402b4e9d",
+    "7782a9f360e3e7cb788c1501",
+    "b0ccca45a362d0c9ac05a600",
+    "bf7dc0bf65ec86834f07d78b"
   ],
   "items": [
     {
@@ -1778,6 +1782,18 @@
       "id": "daab742ad4799946489e130b"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Badges for floors still not awarded despite completion (The Hollow)",
+      "url": "https://devforum.roblox.com/t/badges-for-floors-still-not-awarded-despite-completion-the-hollow/4963673",
+      "published": "2026-10-29",
+      "excerpt": "This is a follow up to an issue i had reported 6 days ago, i have since the issue was first reported, been soft-locked on an alt account and have seen at least 8 people report the same issue within event related servers. Despite completion on a floor (for me 1 and 2) the badges never awarded resulti",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/badges-for-floors-still-not-awarded-despite-completion-the-hollow/4963673.rss",
+      "id": "bf7dc0bf65ec86834f07d78b"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -1787,6 +1803,18 @@
       "excerpt": "I've been battling with Roblox Studio for 3 months now, just trying to get my PC to run it a bit better. The thing is, my setup is an old laptop that used to handle RS, but as you can guess, it can't anymore. I just want to create games without having to wait until I get a new PC. Any tech-savvy peo",
       "creator": "/u/Ze_Data37 https://www.reddit.com/user/Ze_Data37",
       "id": "b7f2b204fbb28bc31c151f62"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio reporting inaccurate bandwidth under high-stress conditions",
+      "url": "https://devforum.roblox.com/t/studio-reporting-inaccurate-bandwidth-under-high-stress-conditions/4963686",
+      "published": "2026-10-29",
+      "excerpt": "AS A DISCLAIMER: I use a custom replication library but I have everything physics/ownership replication related disabled (meaning EVERYTHING related to my stress-test goes through a remote) Here’s the repro for everyone to use. Every module here is open-source afaik. Innacurate data reporting.rbxl (",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-reporting-inaccurate-bandwidth-under-high-stress-conditions/4963686.rss",
+      "id": "b0ccca45a362d0c9ac05a600"
     },
     {
       "source": "reddit-robloxdev",
@@ -1855,6 +1883,18 @@
       "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
       "creator": "/u/vestive https://www.reddit.com/user/vestive",
       "id": "7a05e3916dcd96562c3f0df5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How long does account status take to improve?",
+      "url": "https://devforum.roblox.com/t/how-long-does-account-status-take-to-improve/4963695",
+      "published": "2026-10-29",
+      "excerpt": "Around a week ago, I was falsely moderated for my avatar and received a timeout for 20 minutes for it. That caused my account status to go from “All Good” to “Critical”. I tried appealing but Roblox says that my account wasn’t recently moderated. The page says that account status will improve with t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-long-does-account-status-take-to-improve/4963695.rss",
+      "id": "7782a9f360e3e7cb788c1501"
     },
     {
       "source": "reddit-robloxdev",
@@ -2025,6 +2065,18 @@
       "excerpt": "Yes, the game was made with AI but if for one second you could just ignore that fact or at least not immediately have a bad initial reaction, what are the honest opinions, advice, and if I should move onto a new game idea. I’ll attach pictures in replies. submitted by /u/Low-Dimension5920 [link] [co",
       "creator": "/u/Low-Dimension5920 https://www.reddit.com/user/Low-Dimension5920",
       "id": "0714d39c02763e32ba1e1fa1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] Volunteers for a Dinosaur Game",
+      "url": "https://devforum.roblox.com/t/open-volunteers-for-a-dinosaur-game/4963696",
+      "published": "2026-10-29",
+      "excerpt": "About Me Hello, my name is Memphis, and this is my first post (and job post) on the DevForum! I’ve been a modeler using the F3X building tools for over 5 years, starting from being obsessed with dinosaurs, then military stuff, then moving onto dinosaurs again! Quite the rollercoaster I’ll tell you. ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-volunteers-for-a-dinosaur-game/4963696.rss",
+      "id": "037cf7437202317e402b4e9d"
     },
     {
       "source": "reddit-robloxdev",
@@ -8600,54 +8652,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/opening-my-game-error/4955026.rss",
       "id": "eefc6bfe11be38f2e9ae423c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I need help in incorporating abilities into a system that gives all hostile npcs a pathfinding system",
-      "url": "https://devforum.roblox.com/t/i-need-help-in-incorporating-abilities-into-a-system-that-gives-all-hostile-npcs-a-pathfinding-system/4954100",
-      "published": "2026-10-24",
-      "excerpt": "Hello! i need help, REALLY BADLY ASAP I have a system that gives NPCs with a specific tag a pathfinding tag designed to make them wander and chase, but they are powerless as of now. And I need to give them Abilities. The problem is that this is a universal AI system, and i need it to tell different ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-need-help-in-incorporating-abilities-into-a-system-that-gives-all-hostile-npcs-a-pathfinding-system/4954100.rss",
-      "id": "ed08d396a1e2ba7bd23208e1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "A-200 Design for my upcoming Rooms Fangame - wanting feedback",
-      "url": "https://devforum.roblox.com/t/a-200-design-for-my-upcoming-rooms-fangame-wanting-feedback/4955525",
-      "published": "2026-10-24",
-      "excerpt": "I’ve been designing A-200 for an upcoming Rooms Game I’m hoping to make Not sure if I want to continue the project but want feedback on my A-200 design View an article about my A-200: A-200 (VRG) | The Rooms Ideas Wiki | Fandom Note: I drew this A-200 in Paint.net which I am somewhat new to using. I",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/a-200-design-for-my-upcoming-rooms-fangame-wanting-feedback/4955525.rss",
-      "id": "eb312c13fb628e0e4604a8a8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Studio & Client] Opening a place with a crafted sound possibly causes RCE primitive/DoS on Apple/Windows devices on Studio/Client",
-      "url": "https://devforum.roblox.com/t/studio-client-opening-a-place-with-a-crafted-sound-possibly-causes-rce-primitivedos-on-applewindows-devices-on-studioclient/4954987",
-      "published": "2026-10-24",
-      "excerpt": "Studio version: 0.744.0.7441077 OS: Windows 11 Already reported and filed as a CVE using MITRE, VINCE. A private message is associated with this bug report 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-client-opening-a-place-with-a-crafted-sound-possibly-causes-rce-primitivedos-on-applewindows-devices-on-studioclient/4954987.rss",
-      "id": "e601eb82cdd807907fd816bd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Help with controlling motor6d's rotation",
-      "url": "https://devforum.roblox.com/t/help-with-controlling-motor6ds-rotation/4955612",
-      "published": "2026-10-24",
-      "excerpt": "i have a gun system that uses the character’s real arms rather than any sort of viewmodel, which means that the arms very easily follow left and right (since they’re attached to the torso and the torso looks left and right) while they slowly transition up rather than staying in place (since the tors",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/help-with-controlling-motor6ds-rotation/4955612.rss",
-      "id": "e173c9582cc4cbe1a0b500b3"
     }
   ]
 }
