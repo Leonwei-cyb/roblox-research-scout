@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Commerce products not updating from Shopify](https://devforum.roblox.com/t/commerce-products-not-updating-from-shopify/4961267)** — Public text/page, video not confirmed
+- **[UI Issues: Miscoloring, Invisible, Etc.](https://devforum.roblox.com/t/ui-issues-miscoloring-invisible-etc/4964875)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
