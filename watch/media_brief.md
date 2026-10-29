@@ -5,16 +5,17 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Community
+
+- **[Isle of Rogues - Age of Sail](https://www.reddit.com/r/ROBLOXStudio/comments/1xic85y/isle_of_rogues_age_of_sail/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-29
+  - Feed excerpt: I've been working on an ambitious, large-scale open-world Age of Sail game, combining elements of Windrose , Assassin's Creed IV: Black Flag , RuneScape , Skull & Bones , and Puzzle Pirates . My goal is to create an immersive, historically 
+- **[Roblox Marvel Showdown!](https://www.reddit.com/r/ROBLOXStudio/comments/1xiddly/roblox_marvel_showdown/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-29
+  - Feed excerpt: Wanted to create a Marvel based Battleground game and need some feedback and help! Want it to be top tier so any feedback or tips? Anything on models, assets, animations, etc!! submitted by /u/Express-Economics476 \[link\] \[comments\]
+
 ## Roblox Updates
 
-- **[Studio reporting inaccurate bandwidth under high-stress conditions](https://devforum.roblox.com/t/studio-reporting-inaccurate-bandwidth-under-high-stress-conditions/4963686)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: AS A DISCLAIMER: I use a custom replication library but I have everything physics/ownership replication related disabled (meaning EVERYTHING related to my stress-test goes through a remote) Here’s the repro for everyone to use. Every module
-- **[Badges for floors still not awarded despite completion (The Hollow)](https://devforum.roblox.com/t/badges-for-floors-still-not-awarded-despite-completion-the-hollow/4963673)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: This is a follow up to an issue i had reported 6 days ago, i have since the issue was first reported, been soft-locked on an alt account and have seen at least 8 people report the same issue within event related servers. Despite completion 
-- **[How long does account status take to improve?](https://devforum.roblox.com/t/how-long-does-account-status-take-to-improve/4963695)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: Around a week ago, I was falsely moderated for my avatar and received a timeout for 20 minutes for it. That caused my account status to go from “All Good” to “Critical”. I tried appealing but Roblox says that my account wasn’t recently mode
-- **[\[OPEN\] Volunteers for a Dinosaur Game](https://devforum.roblox.com/t/open-volunteers-for-a-dinosaur-game/4963696)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: About Me Hello, my name is Memphis, and this is my first post (and job post) on the DevForum! I’ve been a modeler using the F3X building tools for over 5 years, starting from being obsessed with dinosaurs, then military stuff, then moving o
+- **[Roblox Not Reponsive After a few mins of playing.](https://devforum.roblox.com/t/roblox-not-reponsive-after-a-few-mins-of-playing/4963721)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: I had never crashed in the Hollow before, until it updated. Specs: 1 post - 1 participant Read full topic
 
 ---
 
