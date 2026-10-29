@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "00177311d5b0c7b5a70da2edf1d7632815919c78",
-      "head_subject": "Bug: A watch that was fine (200) and then starts getting 403 must not keep reporting the old 200 (#4606)",
+      "head": "7d8fcdb0ddc3d2ade088f24c68b259ab5d715689",
+      "head_subject": "Bug: Successful checks always reset the filter failure streak, \"no text found\" records last_check_status (#4620) (#4624)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
