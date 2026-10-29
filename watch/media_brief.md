@@ -5,17 +5,17 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Community
+## Roblox Creator / Ai Development
 
-- **[Isle of Rogues - Age of Sail](https://www.reddit.com/r/ROBLOXStudio/comments/1xic85y/isle_of_rogues_age_of_sail/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-29
-  - Feed excerpt: I've been working on an ambitious, large-scale open-world Age of Sail game, combining elements of Windrose , Assassin's Creed IV: Black Flag , RuneScape , Skull & Bones , and Puzzle Pirates . My goal is to create an immersive, historically 
-- **[Roblox Marvel Showdown!](https://www.reddit.com/r/ROBLOXStudio/comments/1xiddly/roblox_marvel_showdown/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-29
-  - Feed excerpt: Wanted to create a Marvel based Battleground game and need some feedback and help! Want it to be top tier so any feedback or tips? Anything on models, assets, animations, etc!! submitted by /u/Express-Economics476 \[link\] \[comments\]
+- **[How To Connect Gemini To Roblox Studio - Tutorial - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHUkFiMnltcXNWWlp1M2gxamhNQlJSdzQyRk5wdmRESGRKb1JZdHdLRFAwdl9VYUg0LWMwWGwzLVBCOFFZV0RvczE2MlVTZENYU2hJT0xn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-25
+  - Feed excerpt: How To Connect Gemini To Roblox Studio - Tutorial YouTube
 
 ## Roblox Updates
 
-- **[Roblox Not Reponsive After a few mins of playing.](https://devforum.roblox.com/t/roblox-not-reponsive-after-a-few-mins-of-playing/4963721)** · Roblox Developer Forum latest · 2026-10-29
-  - Feed excerpt: I had never crashed in the Hollow before, until it updated. Specs: 1 post - 1 participant Read full topic
+- **[Avatar Gfx in a abandonated museum](https://devforum.roblox.com/t/avatar-gfx-in-a-abandonated-museum/4963775)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: 1 post - 1 participant Read full topic
+- **[False Flagging Chat Ban Message](https://devforum.roblox.com/t/false-flagging-chat-ban-message/4963786)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: Seems like almost everyone is getting hit with a moderation message about chatting. I personally don’t think I’ve used Roblox at all today. One of these screenshots was taken from the RobloxHelp reddit and the other one was taken from my sc
 
 ---
 

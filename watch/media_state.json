@@ -1746,7 +1746,10 @@
     "bf7dc0bf65ec86834f07d78b",
     "9a22b6f6a477da2cd0e5c5c0",
     "3f0587f6e09f1fd2eb8eaa3c",
-    "3e8119fd15711c89298d7096"
+    "3e8119fd15711c89298d7096",
+    "cb98e4bea5f4dda7a866ca36",
+    "721cbd715fe0c6ca304f58e7",
+    "aff4be2b9686a6a6e1e8b51d"
   ],
   "items": [
     {
@@ -1783,6 +1786,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/guys-i-don%E2%80%99t-think-that-is-super-super-happy-face/4963591.rss",
       "id": "daab742ad4799946489e130b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "False Flagging Chat Ban Message",
+      "url": "https://devforum.roblox.com/t/false-flagging-chat-ban-message/4963786",
+      "published": "2026-10-29",
+      "excerpt": "Seems like almost everyone is getting hit with a moderation message about chatting. I personally don’t think I’ve used Roblox at all today. One of these screenshots was taken from the RobloxHelp reddit and the other one was taken from my screen when I clicked the home page to check my robux amount i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/false-flagging-chat-ban-message/4963786.rss",
+      "id": "cb98e4bea5f4dda7a866ca36"
     },
     {
       "source": "roblox-devforum-latest",
@@ -1910,6 +1925,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-long-does-account-status-take-to-improve/4963695.rss",
       "id": "7782a9f360e3e7cb788c1501"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Avatar Gfx in a abandonated museum",
+      "url": "https://devforum.roblox.com/t/avatar-gfx-in-a-abandonated-museum/4963775",
+      "published": "2026-10-29",
+      "excerpt": "1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatar-gfx-in-a-abandonated-museum/4963775.rss",
+      "id": "721cbd715fe0c6ca304f58e7"
     },
     {
       "source": "reddit-robloxdev",
@@ -5447,7 +5474,7 @@
       "title": "Release Notes for 745",
       "url": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
       "published": "2026-10-27",
-      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 18 posts - 16 participants Read full topic",
+      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 19 posts - 17 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-745/4960754.rss",
       "id": "1bbc848dbd6d3c954f224a54"
@@ -7396,6 +7423,18 @@
       "id": "b40c1270fff3ec2708dd60d1"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Connect Gemini To Roblox Studio - Tutorial - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHUkFiMnltcXNWWlp1M2gxamhNQlJSdzQyRk5wdmRESGRKb1JZdHdLRFAwdl9VYUg0LWMwWGwzLVBCOFFZV0RvczE2MlVTZENYU2hJT0xn?oc=5",
+      "published": "2026-10-25",
+      "excerpt": "How To Connect Gemini To Roblox Studio - Tutorial YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "aff4be2b9686a6a6e1e8b51d"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -8619,42 +8658,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/crater-the-best-new-package-manager-for-roblox/4954418.rss",
       "id": "f95a28465e0a9ed7174d4b24"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "iPhone Duo support needs to be properly implemented based on Apple's documentation",
-      "url": "https://devforum.roblox.com/t/iphone-duo-support-needs-to-be-properly-implemented-based-on-apples-documentation/4953727",
-      "published": "2026-10-24",
-      "excerpt": "Hey! I just purchased a brand new iPhone Duo specifically for testing out stuff on the Roblox engine, and especially for making sure that all of my players have a great experience. I obviously knew what I was getting into, and I knew that day one of the iPhone Duo launch would be rough for most thir",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/iphone-duo-support-needs-to-be-properly-implemented-based-on-apples-documentation/4953727.rss",
-      "id": "f92d64ab8021af13e2406e21"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Bundles which have sale location disabled in-game require better messaging",
-      "url": "https://devforum.roblox.com/t/bundles-which-have-sale-location-disabled-in-game-require-better-messaging/4953641",
-      "published": "2026-10-24",
-      "excerpt": "Whenever you try to purchase an Asset that has sale-location restricted to not be sellable in-game, you are shown this message when you try to buy the item: However, whenever trying to buy a Bundle that has sale-location restricted, it appears to let you be able to buy it: Then clicking on the buy b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/bundles-which-have-sale-location-disabled-in-game-require-better-messaging/4953641.rss",
-      "id": "f867d060eb8df4e632cd2891"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My old builds from years ago when i was little",
-      "url": "https://devforum.roblox.com/t/my-old-builds-from-years-ago-when-i-was-little/4954063",
-      "published": "2026-10-24",
-      "excerpt": "-Showcasing some of my builds from years ago this was the type of stuff i was making at 11 thinking they were good -i was using the toolbox like crazy -What do you guys think they were good or bad for that time? 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-old-builds-from-years-ago-when-i-was-little/4954063.rss",
-      "id": "f4513101e342a1d473669307"
     }
   ]
 }
