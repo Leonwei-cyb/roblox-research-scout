@@ -1853,7 +1853,9 @@
     "cde87c5b93ff6777e0c700f0",
     "4b15cef027e3a8cad3d146fa",
     "dfb8e33186be9c7f6629c1d3",
-    "e4cbdbe59d4252da834d84bd"
+    "e4cbdbe59d4252da834d84bd",
+    "11172e071dbe0e9733be886d",
+    "b6f4c4ee21e4fe15a09fb500"
   ],
   "items": [
     {
@@ -2256,6 +2258,17 @@
       "excerpt": "I've been battling with Roblox Studio for 3 months now, just trying to get my PC to run it a bit better. The thing is, my setup is an old laptop that used to handle RS, but as you can guess, it can't anymore. I just want to create games without having to wait until I get a new PC. Any tech-savvy peo",
       "creator": "/u/Ze_Data37 https://www.reddit.com/user/Ze_Data37",
       "id": "b7f2b204fbb28bc31c151f62"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Yo, got a question, would you play this roblox game????",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xix4m3/yo_got_a_question_would_you_play_this_roblox_game/",
+      "published": "2026-10-29",
+      "excerpt": "So the thumbnail above is not for the game. Btw, the game is not mine I am a tester and this is my friends. Basically, it is a fps game but there is a shadow realm where everything is flipped around u can switch between each by pressing shift but would you play it, it is still in development and any",
+      "creator": "/u/TRUX_TYGER https://www.reddit.com/user/TRUX_TYGER",
+      "id": "b6f4c4ee21e4fe15a09fb500"
     },
     {
       "source": "reddit-robloxdev",
@@ -3159,6 +3172,18 @@
       "excerpt": "I launched my first Roblox horror game this week. My TikToks got ~3,000 views but only 18 people actually played. Some searched the name and landed in a different game with a similar name. For those of you who promote on TikTok: what actually worked to get viewers into your game? And would a tool th",
       "creator": "/u/Complete-Mess-2422 https://www.reddit.com/user/Complete-Mess-2422",
       "id": "131b68226441b4399362f7ad"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Limited resales don't show up in the original creator's avatar item analytics",
+      "url": "https://devforum.roblox.com/t/limited-resales-dont-show-up-in-the-original-creators-avatar-item-analytics/4965067",
+      "published": "2026-10-29",
+      "excerpt": "Resales of our Limited UGC aren’t showing up in the item’s Creator Hub analytics. The item’s marketplace page shows the resales, but the analytics page reports no sales and no revenue for them. Example: the Medal Hoodie . It’s a free Limited with 10,000 copies that sold out on June 11–12, 2026. Its ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/limited-resales-dont-show-up-in-the-original-creators-avatar-item-analytics/4965067.rss",
+      "id": "11172e071dbe0e9733be886d"
     },
     {
       "source": "reddit-robloxdev",
@@ -8746,28 +8771,6 @@
       "excerpt": "Come play tdm with me to test out my new third person parkour shooter. Everything feels smooth so far, now I just need actual people to come test submitted by /u/TensionSevere [link] [comments]",
       "creator": "/u/TensionSevere https://www.reddit.com/user/TensionSevere",
       "id": "9f54dde2088a0b7043f11028"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How should I organize my animations for my game?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xesy2q/how_should_i_organize_my_animations_for_my_game/",
-      "published": "2026-10-25",
-      "excerpt": "should I make one huge script that I can paste all the animations into for everyone, make smaller module scripts for each character that handles that characters animations solely with the animation ids, or use animation objects (physical in the explorer) and put the id in there and place them in the",
-      "creator": "/u/Additional_Figure687 https://www.reddit.com/user/Additional_Figure687",
-      "id": "9ae3b6f5f166fd506b70596e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Showcasing a few things in my game so far (super early WIP)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeql0z/showcasing_a_few_things_in_my_game_so_far_super/",
-      "published": "2026-10-25",
-      "excerpt": "Hey guys!! Currently working on a medical horror game set in 1806-1807. The premise is that you work as a nurse or medic just before the British bombardment, and once that happens, you start to notice irregularities in symptoms and realise that zombies have begun to infect people all over the world,",
-      "creator": "/u/TheLoveRiddle https://www.reddit.com/user/TheLoveRiddle",
-      "id": "9a7a081b30316f413ee871c6"
     }
   ]
 }
