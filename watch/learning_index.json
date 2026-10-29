@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 596,
+  "unique_posts": 595,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -122,21 +122,6 @@
       "signals": [
         "building and purchases",
         "animation and audio",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xep609",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/",
-      "title": "I need advice on player retention",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing",
         "tools and performance"
       ],
       "score": 9,
@@ -351,34 +336,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xfcmcj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfcmcj/my_son_and_i_have_spent_6_weeks_making_an_art/",
-      "title": "My son and I have spent 6 weeks making an art museum tycoon. We'd love feedback on our Alpha.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xfgd71",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/",
-      "title": "Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain section on its own axis freely?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xfw5k8",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfw5k8/quickui_vector_creator_draw_custom_shapes_create/",
       "title": "QuickUi+ Vector Creator – Draw Custom Shapes, Create Vector UI Graphics & Edit Bézier Paths in Roblox Studio - How to create Ui vector directly inside roblox studio",
@@ -547,6 +504,21 @@
         "first-session and mobile",
         "genres and successful loops",
         "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964945:1",
+      "url": "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945",
+      "title": "[Studio Beta] Generate Game Characters with Prompt-to-Avatar",
+      "source": "roblox-devforum-updates",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "world and visual design",
+        "tools and performance"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -960,6 +932,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4964964:1",
+      "url": "https://devforum.roblox.com/t/smooth-terrain-grass-decorations-not-visible-in-roblox-browser-client/4964964",
+      "title": "Smooth Terrain Grass Decorations Not Visible in Roblox Browser Client",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xesy2q",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xesy2q/how_should_i_organize_my_animations_for_my_game/",
       "title": "How should I organize my animations for my game?",
@@ -1002,6 +988,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg22he",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg22he/hi_uh_id_like_to_ask_for_some_help_because_ive/",
+      "title": "Hi, uh I'd like to ask for some help because I've heard this community is really talented, and my team is looking for scripters for our asym game [more in body]",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg2nue",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg2nue/me_and_my_son_just_launched_the_alpha_of_our/",
       "title": "Me and my son just launched the alpha of our first Roblox game, an art museum tycoon",
@@ -1011,6 +1011,20 @@
       "signals": [
         "building and purchases",
         "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg46m1",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg46m1/im_working_on_a_basebuilding_rocket_combat_game/",
+      "title": "I’m working on a base-building rocket combat game — is the early-game progression clear?",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2168,38 +2182,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xeo2x9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeo2x9/i_tried_to_build_in_stud_form/",
-      "title": "I tried to build in stud form",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf0kma",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf0kma/sounds_not_loading/",
-      "title": "Sounds not loading?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf7et2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf7et2/how_do_i_subdivide_parts_like_in_the_images_is/",
-      "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
+      "key": "devforum:4964968:1",
+      "url": "https://devforum.roblox.com/t/how-to-count-all-the-attributes-what-starts-with-the-same-name-in-scripting/4964968",
+      "title": "How to count all the attributes what starts with the same name in scripting?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
       "signals": [
         "tools and performance"
       ],
@@ -2233,19 +2221,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xf95rv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf95rv/here_is_my_roblox_game_published_pew_days_ago_and/",
-      "title": "Here is my Roblox game Published pew days ago and you can test and check the game physics and ragdoll model.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xfby5u",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfby5u/my_first_coop_hordesurvival_game_how_im_handling/",
       "title": "My first co-op horde-survival game: how I'm handling 300+ enemies without lag",
@@ -2255,19 +2230,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xff3bp",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xff3bp/did_they_learn_to_program_in_roblox_studio_and_in/",
-      "title": "Did they learn to program in Roblox Studio, and, in general, how to make simple games?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
         "tools and performance"
       ],
       "score": 5,
@@ -3148,6 +3110,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4964932:1",
+      "url": "https://devforum.roblox.com/t/railwrecks-client-prediction/4964932",
+      "title": "Railwreck's client prediction",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xetcdi",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xetcdi/needed_help_on_how_to_keep_audience/",
       "title": "Needed help on how to keep audience.",
@@ -3184,20 +3160,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf0w18",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf0w18/modelling_a_mechsuit_for_a_game_i_planned/",
-      "title": "Modelling a mechsuit for a game I planned",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
         "tools and performance"
       ],
       "score": 4,
@@ -3455,6 +3417,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "youtube:apNMDNX7Eh4",
+      "url": "https://www.youtube.com/shorts/apNMDNX7Eh4",
+      "title": "all eyes on you. tonight, the Overseer is watching The Hollow.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-10-29",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:gcRDG8UGuqA",
       "url": "https://www.youtube.com/shorts/gcRDG8UGuqA",
       "title": "critics are calling it “inescapable.” Hiachi, now playing in The Hollow.",
@@ -3505,35 +3478,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4956701:1",
-      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
-      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4957130:1",
       "url": "https://devforum.roblox.com/t/game-name-wouldnt-save/4957130",
       "title": "Game Name wouldnt save",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957176:1",
-      "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
-      "title": "[URGENT] Innapropriate game with 1k CCU, reports ignored",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",
@@ -4129,32 +4076,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xeq2n0",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeq2n0/kind_developer_of_roblox/",
-      "title": "Kind developer of roblox",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xevt2g",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xevt2g/i_made_a_roblox_game_with_ai_in_3_weeks_heres_how/",
-      "title": "I Made a Roblox Game With AI in 3 Weeks. Here's How It Went.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xew70k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xew70k/trying_to_make_iphone_simluator/",
       "title": "Trying to make iPhone simluator",
@@ -4163,19 +4084,6 @@
       "kind": "reddit",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xez0kx",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xez0kx/asset_loading/",
-      "title": "asset loading!!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4228,19 +4136,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf8jot",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf8jot/looking_for_devs_for_a_doors_inspired_game/",
-      "title": "Looking for devs for a doors inspired game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4324,6 +4219,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xfxanf",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfxanf/i_require_help/",
+      "title": "I require help!!!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xfxc5q",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfxc5q/robloxs_most_interactive_and_biggest_open_world/",
       "title": "Roblox's Most Interactive And Biggest Open World City Game - Welcome To Lendex - Coming Out Mabye Nov 28, 2026",
@@ -4363,6 +4271,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg25ok",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg25ok/i_made_a_roblox_game_that_retells_the_ramayana_7/",
+      "title": "I made a Roblox game that retells the Ramayana, 7 chapters, solo dev.",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg3isv",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3isv/i_made_a_roblox_game_where_every_food_combo_makes/",
+      "title": "I made a Roblox game where every food combo makes a unique fart (2,000+ of them). Here's how the generator works",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg4wu6",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg4wu6/you_guys_think_its_possibleimage_unrelated/",
       "title": "You guys think it's possible(image unrelated)",
@@ -4397,6 +4331,19 @@
       "kind": "reddit",
       "signals": [
         "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgbncg",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgbncg/i_need_16_playtesters_in_my_game_to_be_exact_only/",
+      "title": "I need 16+ playtesters in my game to be exact only 100 please join the link to my game is in my comments if you join my game i will gladly join yours",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4981,17 +4928,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4955865:1",
-      "url": "https://devforum.roblox.com/t/users-are-creating-forum-posts-in-development-discussion-claiming-the-assistant-is-generating-nonsense/4955865",
-      "title": "Users are creating forum posts in Development-Discussion claiming the assistant is generating nonsense.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4956054:1",
       "url": "https://devforum.roblox.com/t/old-accounts-stuck-on-att-email-to-text-with-2fa-on/4956054",
       "title": "Old accounts stuck on AT&T email-to-text with 2FA on",
@@ -5061,17 +4997,6 @@
       "key": "devforum:4957171:1",
       "url": "https://devforum.roblox.com/t/my-game-was-deleted-for-sexual-content-false/4957171",
       "title": "My game was deleted for sexual content (false)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957186:1",
-      "url": "https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186",
-      "title": "Are There Problems With The Badges In My Obby?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",
@@ -6258,8 +6183,8 @@
     },
     {
       "key": "devforum:4964835:1",
-      "url": "https://devforum.roblox.com/t/initial-bugs-found-with-new-feature/4964835",
-      "title": "Initial bugs found with new feature",
+      "url": "https://devforum.roblox.com/t/initial-bugs-found-with-web-play/4964835",
+      "title": "Initial bugs found with web play",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6282,6 +6207,17 @@
       "key": "devforum:4964877:1",
       "url": "https://devforum.roblox.com/t/closely-fitted-body-cages-fail-validation-near-the-new-bundle-size-limits/4964877",
       "title": "Closely fitted body cages fail validation near the new bundle size limits",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964962:1",
+      "url": "https://devforum.roblox.com/t/editable-mesh-fails-on-group-experiences-with-owned-assets-despite-asset-privacy-permissions/4964962",
+      "title": "Editable Mesh fails on group experiences with owned assets despite Asset Privacy permissions",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6326,17 +6262,6 @@
       "key": "reddit:1xeql0z",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeql0z/showcasing_a_few_things_in_my_game_so_far_super/",
       "title": "Showcasing a few things in my game so far (super early WIP)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xeseki",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeseki/apparently_playing_a_roblox_game_gets_warned/",
-      "title": "Apparently playing a roblox game gets warned",
       "source": "reddit-robloxstudio",
       "published": "2026-10-25",
       "kind": "reddit",
@@ -6488,6 +6413,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg03u4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg03u4/i_tried_to_remake_sas_zombie_assault_3_and_4/",
+      "title": "I tried to \"remake\" SAS: Zombie Assault 3 and 4.",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg2rjt",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2rjt/how_to_fix_map_glitch/",
+      "title": "How to fix Map Glitch",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg2w8o",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2w8o/made_a_spell_pvp_game_where_you_have_to_draw_the/",
       "title": "Made a spell pvp game where you have to draw the symbol to cast it",
@@ -6510,10 +6457,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xg3pa9",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3pa9/new_gun_physics_game/",
+      "title": "New gun physics game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg3xp5",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3xp5/a_quest_for_cereal/",
       "title": "A Quest For Cereal",
       "source": "reddit-robloxstudio",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xg3zzb",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3zzb/looking_for_ideas_on_how_to_make_a_day_trader/",
+      "title": "Looking for ideas on how to make a day trader game more engaging",
+      "source": "reddit-robloxdev",
       "published": "2026-10-26",
       "kind": "reddit",
       "signals": [],
@@ -6568,6 +6537,17 @@
       "key": "reddit:1xg9n32",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg9n32/dust_2_snowball_fight_in_our_fps_game/",
       "title": "Dust 2 Snowball Fight in our FPS Game!!!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-26",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xgafbd",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgafbd/looking_for_bored_devs_to_bugtest_and_scrutinize/",
+      "title": "Looking for bored Devs to bug-test and Scrutinize",
       "source": "reddit-robloxdev",
       "published": "2026-10-26",
       "kind": "reddit",

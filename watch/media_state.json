@@ -1825,7 +1825,25 @@
     "d02814717b1b277e661844bc",
     "8f79ba111c448c93749189be",
     "9fb3ce978c0a94e5b5d1f3da",
-    "e72d9302802385c0b82696f3"
+    "e72d9302802385c0b82696f3",
+    "6a9ef58648a1906ab676ab43",
+    "8b95759261845bfb23fa5ed3",
+    "d922234a98e43ed1616d9b71",
+    "3e98f7c30472eff2e8040d00",
+    "eb5a54f99d677108ae2dda96",
+    "ca185b1a346cba08b1d94619",
+    "faecbfd60f60afb3f7552c83",
+    "f560f60250db56718a01042b",
+    "11dca9ebf01184bac2371942",
+    "9d79888cf79158264ae159fe",
+    "b9e40e750b27a9bc8c2699d7",
+    "d0d21b901663743c20dd6e3b",
+    "1d7f9d4a214a6bdc2bfc807f",
+    "ee08bb45763d6cabd7bf5930",
+    "6a7d790de7b7bd25e9000ef0",
+    "bac2826e0d133fddd0ddc88d",
+    "9a52fe239ede682f3aee8475",
+    "ca00e9c934450d85710fd2af"
   ],
   "items": [
     {
@@ -1910,6 +1928,18 @@
       "id": "ee24d4f6e27a8e5847269869"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Railwreck's client prediction",
+      "url": "https://devforum.roblox.com/t/railwrecks-client-prediction/4964932",
+      "published": "2026-10-29",
+      "excerpt": "Hello devforum! I want to showcase my client-side prediction in my upcoming game. I did custom server authority that validate movement and don’t allow client to ownership the network (nil). I had a problem with 150+ ping players, when someone got 150 ping movement becomes jitter-lagging and some tel",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/railwrecks-client-prediction/4964932.rss",
+      "id": "eb5a54f99d677108ae2dda96"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1991,6 +2021,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Editable Mesh fails on group experiences with owned assets despite Asset Privacy permissions",
+      "url": "https://devforum.roblox.com/t/editable-mesh-fails-on-group-experiences-with-owned-assets-despite-asset-privacy-permissions/4964962",
+      "published": "2026-10-29",
+      "excerpt": "I found an issue involving Asset Privacy and Editable Meshes . Whenever I attempt to use an Editable Mesh on a mesh asset that I personally own while testing inside a group-owned experience, the following warning appears: “Asset is not allowed to be forked. Please contact the owner to share the asse",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/editable-mesh-fails-on-group-experiences-with-owned-assets-despite-asset-privacy-permissions/4964962.rss",
+      "id": "d922234a98e43ed1616d9b71"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Video under Review taking more than 24 hours?",
       "url": "https://devforum.roblox.com/t/video-under-review-taking-more-than-24-hours/4964135",
       "published": "2026-10-29",
@@ -2033,6 +2075,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/false-flagging-chat-ban-message/4963786.rss",
       "id": "cb98e4bea5f4dda7a866ca36"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Initial bugs found with web play",
+      "url": "https://devforum.roblox.com/t/initial-bugs-found-with-web-play/4964835",
+      "published": "2026-10-29",
+      "excerpt": "Roblox [V3] Sakari's Blizzard Training R8/9 A blizzard game with a time trial system. v3.0 v3 Leaderboard, R8 / R9 Helicopters, New spawners. v2.10 v2 Leaderboard v2.9 Spawner groups, repsawn & spawn queue v2.8 Internal Leaderboard mannager overhall v2.7 SpeedRun Scores Saving added v2.6... The robl",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/initial-bugs-found-with-web-play/4964835.rss",
+      "id": "ca185b1a346cba08b1d94619"
+    },
+    {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "all eyes on you. tonight, the Overseer is watching The Hollow.",
+      "url": "https://www.youtube.com/shorts/apNMDNX7Eh4",
+      "published": "2026-10-29",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "ca00e9c934450d85710fd2af"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2381,6 +2446,18 @@
       "id": "8bc051d397f5d8bf1adba568"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Smooth Terrain Grass Decorations Not Visible in Roblox Browser Client",
+      "url": "https://devforum.roblox.com/t/smooth-terrain-grass-decorations-not-visible-in-roblox-browser-client/4964964",
+      "published": "2026-10-29",
+      "excerpt": "Issue: Smooth terrain grass decorations (grass blades) do not render when playing Roblox in a web browser. The terrain appears completely bare. Steps to Reproduce: Open a place in Roblox Studio that has Smooth Terrain grass with “Decorations” enabled. Publish the game and join it via the Roblox desk",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/smooth-terrain-grass-decorations-not-visible-in-roblox-browser-client/4964964.rss",
+      "id": "8b95759261845bfb23fa5ed3"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2505,6 +2582,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/avatar-gfx-in-a-abandonated-museum/4963775.rss",
       "id": "721cbd715fe0c6ca304f58e7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to count all the attributes what starts with the same name in scripting?",
+      "url": "https://devforum.roblox.com/t/how-to-count-all-the-attributes-what-starts-with-the-same-name-in-scripting/4964968",
+      "published": "2026-10-29",
+      "excerpt": "Hey, guys I wanna make a camera script what changes matrix, rotation (z, x, y), and field of view at the same time, and then changing its settings through other scripts. I want to make all these calculations by calculating special attributes on the camera. For example changing FOV: -- fflags local c",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-count-all-the-attributes-what-starts-with-the-same-name-in-scripting/4964968.rss",
+      "id": "6a9ef58648a1906ab676ab43"
     },
     {
       "source": "reddit-robloxdev",
@@ -2784,6 +2873,18 @@
       "excerpt": "I've been working on an ambitious, large-scale open-world Age of Sail game, combining elements of Windrose , Assassin's Creed IV: Black Flag , RuneScape , Skull & Bones , and Puzzle Pirates . My goal is to create an immersive, historically inspired maritime world that combines realistic naval mechan",
       "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
       "id": "3f0587f6e09f1fd2eb8eaa3c"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Studio Beta] Generate Game Characters with Prompt-to-Avatar",
+      "url": "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945",
+      "published": "2026-10-29",
+      "excerpt": "Key Takeaways Generate game character models from text prompts. It’s a faster way to produce game characters with or without Dynamic Heads through the Avatar Setup tool in Studio, Assistant, and Studio MCP. Enable it in File > Beta Features , then find Build Avatar (Beta) in Avatar Setup. Hello Crea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945.rss",
+      "id": "3e98f7c30472eff2e8040d00"
     },
     {
       "source": "reddit-robloxstudio",
@@ -6569,6 +6670,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I’m working on a base-building rocket combat game — is the early-game progression clear?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg46m1/im_working_on_a_basebuilding_rocket_combat_game/",
+      "published": "2026-10-26",
+      "excerpt": "I’m developing Rocket War, a Roblox game where you build a base, buy rockets, and add defenses. This clip shows the early-game loop: placing your first building, buying a rocket, attacking a bot, and using the reward to upgrade your base. I’d appreciate feedback on a few things: • Is it clear what a",
+      "creator": "/u/RoDevv https://www.reddit.com/user/RoDevv",
+      "id": "faecbfd60f60afb3f7552c83"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Looking for Roblox map builders",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/",
       "published": "2026-10-26",
@@ -6611,6 +6723,17 @@
       "id": "f686797f7bbb059ad8969b4a"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for ideas on how to make a day trader game more engaging",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3zzb/looking_for_ideas_on_how_to_make_a_day_trader/",
+      "published": "2026-10-26",
+      "excerpt": "I got the idea to make a game where you can get something like the wallstreetbets experience, with being able to put money on stocks, shares, options and currencies. But I'm thinking a game with just a bunch of candlestick charts isn't going to be very interesting to most people. Any ideas on how I ",
+      "creator": "/u/GreenockScatman https://www.reddit.com/user/GreenockScatman",
+      "id": "f560f60250db56718a01042b"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -6632,6 +6755,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/partsassets-flickering-at-certain-camera-angles-2/4959110.rss",
       "id": "efbb41bb2cc45ad4d67554f8"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made a Roblox game that retells the Ramayana, 7 chapters, solo dev.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg25ok/i_made_a_roblox_game_that_retells_the_ramayana_7/",
+      "published": "2026-10-26",
+      "excerpt": "I've been building Ramayana: The Epic, a stage-based action game where each Kanda is a chapter (Bala → Ayodhya → Aranya → Kishkindha → Sundara → Yuddha → Uttara). I sculpted Hanuman and Ravan myself and added a co-op mode. It's free. submitted by /u/vijayamin83 [link] [comments]",
+      "creator": "/u/vijayamin83 https://www.reddit.com/user/vijayamin83",
+      "id": "ee08bb45763d6cabd7bf5930"
     },
     {
       "source": "roblox-devforum-latest",
@@ -6772,6 +6906,17 @@
       "id": "d5698b4da64650e600efb6c1"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How to fix Map Glitch",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2rjt/how_to_fix_map_glitch/",
+      "published": "2026-10-26",
+      "excerpt": "Hey guys, This is currently only a test map but I have the issue of this huge box in the middle of it - which I cannot select nor seem to delete. Any ideas why this is and how to get rid of it? I have attached some photos of what it looks like. How the Cube looks from outside Inside the cube submitt",
+      "creator": "/u/IllustriousMemory231 https://www.reddit.com/user/IllustriousMemory231",
+      "id": "d0d21b901663743c20dd6e3b"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -6888,6 +7033,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/help-with-the-joints-of-my-bus-going-left-and-right/4958652.rss",
       "id": "c1472be153ea94ca1f3f22a0"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for bored Devs to bug-test and Scrutinize",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgafbd/looking_for_bored_devs_to_bugtest_and_scrutinize/",
+      "published": "2026-10-26",
+      "excerpt": "Howdy, this is Alphabeast Zoup! An HTML game that I created and then ported onto roblox. It is an automation and breeding sim where you combine Alphabeasts to create denser and denser particles all the way to Z in the alphabet. You can also form complex molecules and in the future spell words with t",
+      "creator": "/u/Accomplished_Fuel459 https://www.reddit.com/user/Accomplished_Fuel459",
+      "id": "bac2826e0d133fddd0ddc88d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I require help!!!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfxanf/i_require_help/",
+      "published": "2026-10-26",
+      "excerpt": "I am releasing my game on 1 November 2026 but i HAVE no idea how to make like game trailers is there a plugin or app that would help me plsss submitted by /u/Prudent_Win2490 [link] [comments]",
+      "creator": "/u/Prudent_Win2490 https://www.reddit.com/user/Prudent_Win2490",
+      "id": "b9e40e750b27a9bc8c2699d7"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7014,6 +7181,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/plays-campaign-randomly-rejected/4959562.rss",
       "id": "a08483f226bb2ad0abc0a3d0"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made a Roblox game where every food combo makes a unique fart (2,000+ of them). Here's how the generator works",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3isv/i_made_a_roblox_game_where_every_food_combo_makes/",
+      "published": "2026-10-26",
+      "excerpt": "Hey r/robloxgamedev ! My game Toot Town went live today, and I wanted to share how the core system works, since it was the most fun part to build. The idea: you eat foods, each food adds \"traits\" to your gut, and the set of traits decides which fart you get. There are 2,000+ possible farts, and each",
+      "creator": "/u/TootTownStudios https://www.reddit.com/user/TootTownStudios",
+      "id": "9d79888cf79158264ae159fe"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I tried to \"remake\" SAS: Zombie Assault 3 and 4.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg03u4/i_tried_to_remake_sas_zombie_assault_3_and_4/",
+      "published": "2026-10-26",
+      "excerpt": "So i did an attempt to remake SAS: Zombie Assault 3 and 4 series from Ninja Kiwi, with a bit of my own tweaks, the project is going into it's 4th months and got to this stage which most of the mechanics is finished and ready to release. But now i'm stuck at wondering about how would you properly rel",
+      "creator": "/u/Jaystervoorgen https://www.reddit.com/user/Jaystervoorgen",
+      "id": "9a52fe239ede682f3aee8475"
     },
     {
       "source": "reddit-robloxstudio",
@@ -7199,6 +7388,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/very-critical-pc-freezing-studio-glitch-with-typechecker/4958087.rss",
       "id": "6cd876faad51088b03545cde"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Hi, uh I'd like to ask for some help because I've heard this community is really talented, and my team is looking for scripters for our asym game [more in body]",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg22he/hi_uh_id_like_to_ask_for_some_help_because_ive/",
+      "published": "2026-10-26",
+      "excerpt": "It's a sonic asym [who could've guessed] Called \"yet another sonic asym\" We've got models and renders, but we've been in desperate need of scripters for a while now, and we have our own official discord server. I sadly can't pay anyone, as I'm still rather young. But if you have spare time, I'd love",
+      "creator": "/u/Big_Beautiful_9814 https://www.reddit.com/user/Big_Beautiful_9814",
+      "id": "6a7d790de7b7bd25e9000ef0"
     },
     {
       "source": "reddit-robloxstudio",
@@ -7630,6 +7830,17 @@
       "id": "206596926c551c31ef4ac407"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I need 16+ playtesters in my game to be exact only 100 please join the link to my game is in my comments if you join my game i will gladly join yours",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgbncg/i_need_16_playtesters_in_my_game_to_be_exact_only/",
+      "published": "2026-10-26",
+      "excerpt": "Hey everyone I'm currently trying to hit the Roblox Audience Reach threshold of 100 16+ players to unlock my game for younger audiences, I will join your roblox game if you join mine Link to my game is in comments paste the link to your games and i will play. submitted by /u/Interesting_Kale1161 [li",
+      "creator": "/u/Interesting_Kale1161 https://www.reddit.com/user/Interesting_Kale1161",
+      "id": "1d7f9d4a214a6bdc2bfc807f"
+    },
+    {
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
       "category": "youtube",
@@ -7686,6 +7897,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-studio-not-allowing-me-to-open-up-my-experiences/4959496.rss",
       "id": "13c192fc7178252fb33c60d0"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "New gun physics game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3pa9/new_gun_physics_game/",
+      "published": "2026-10-26",
+      "excerpt": "I’m trying to make a new game let me know what i should add or change submitted by /u/thisusertsken [link] [comments]",
+      "creator": "/u/thisusertsken https://www.reddit.com/user/thisusertsken",
+      "id": "11dca9ebf01184bac2371942"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8541,208 +8763,6 @@
       "excerpt": "I want my fighting game to get players as well as people to test for bugs if your interested heres the link https://www.roblox.com/share?code=321748e35efc4b4987a45f56b71baea9&type=ExperienceDetails&stamp=1792947973859 my discord is linked to my account if you wanna report something submitted by /u/S",
       "creator": "/u/Sure_Risk_2766 https://www.reddit.com/user/Sure_Risk_2766",
       "id": "8b8ab1e0342f2fb03f5326a5"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Are There Problems With The Badges In My Obby?",
-      "url": "https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186",
-      "published": "2026-10-25",
-      "excerpt": "My obby has badges in it for not only every 5 stages, but in different other parts in it too, but there might be problems with it. Roblox [Hard] 100 Stages Fun Obby! ⭐ There are 100 stages in this obby to complete to find something at the end! 💾 Use stage select to continue your obby and hunt for hi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/are-there-problems-with-the-badges-in-my-obby/4957186.rss",
-      "id": "88cdfeddfd040d77d3c26f2f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My son and I have spent 6 weeks making an art museum tycoon. We'd love feedback on our Alpha.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfcmcj/my_son_and_i_have_spent_6_weeks_making_an_art/",
-      "published": "2026-10-25",
-      "excerpt": "About 6 weeks ago my 9 year old son said he wanted to make a Roblox game. I'm an artist and physical game designer by trade, but this is my first Roblox game beyond a basic obby. I play a good amount of Roblox with him and his friends. I made the game I would want to play most as an adult playing wi",
-      "creator": "/u/WrestleBull https://www.reddit.com/user/WrestleBull",
-      "id": "879e89146cf99d7698c65f06"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Here is my Roblox game Published pew days ago and you can test and check the game physics and ragdoll model.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf95rv/here_is_my_roblox_game_published_pew_days_ago_and/",
-      "published": "2026-10-25",
-      "excerpt": "submitted by /u/PugnaAbusive [link] [comments]",
-      "creator": "/u/PugnaAbusive https://www.reddit.com/user/PugnaAbusive",
-      "id": "8753a147a6721da3044eaf26"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Sounds not loading?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf0kma/sounds_not_loading/",
-      "published": "2026-10-25",
-      "excerpt": "https://preview.redd.it/dbhsorhaslxh1.png?width=775&format=png&auto=webp&s=9ef3475eb52708a2d3f79b71d69f0076ade6539c https://preview.redd.it/yqtpckebslxh1.png?width=512&format=png&auto=webp&s=b37725d940b4ab21082c0eb11d4d9ab3b7a1e599 Can anyone help me figure out why my sounds aren't loading? submitte",
-      "creator": "/u/FlohG0 https://www.reddit.com/user/FlohG0",
-      "id": "835ed33cd648957da1b8867d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[URGENT] Innapropriate game with 1k CCU, reports ignored",
-      "url": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176",
-      "published": "2026-10-25",
-      "excerpt": "I’ve reported FaultlineStudio’s “NovelAI” (Place ID 118074951239113) and “Character AI” (Place ID 123017733683462) several times through the in-experience Report button and through Support (ticket 177426510). Both are still labeled Minimal, yet players browse their AI characters by tags like #love ,",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/urgent-innapropriate-game-with-1k-ccu-reports-ignored/4957176.rss",
-      "id": "827a88d90ed26f966eac47d8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Kind developer of roblox",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeq2n0/kind_developer_of_roblox/",
-      "published": "2026-10-25",
-      "excerpt": "How do you get your sound effect for your games i mean there has to be a website for sound effects such as horror door closing or some sht like it submitted by /u/Broad_Reflection9452 [link] [comments]",
-      "creator": "/u/Broad_Reflection9452 https://www.reddit.com/user/Broad_Reflection9452",
-      "id": "7fb6520b2d187a042b0cb240"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Apparently playing a roblox game gets warned",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeseki/apparently_playing_a_roblox_game_gets_warned/",
-      "published": "2026-10-25",
-      "excerpt": "I was just casually playing speed run 4 when I randomly got kicked with this error without showing any context which doesnt make any sense submitted by /u/TommycoolGun [link] [comments]",
-      "creator": "/u/TommycoolGun https://www.reddit.com/user/TommycoolGun",
-      "id": "7d040e6abcd71a75e020c8cb"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf7et2/how_do_i_subdivide_parts_like_in_the_images_is/",
-      "published": "2026-10-25",
-      "excerpt": "hello everyone, im looking for a plugin or a way to subdivide parts in smaller parts, I found a plugin but only works in 1 direction, if anyone knwos a way or a plugin to do this please let me know in the comments, thanks! submitted by /u/matioxi333 [link] [comments]",
-      "creator": "/u/matioxi333 https://www.reddit.com/user/matioxi333",
-      "id": "7c7db9b477d521067d1cbb92"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain section on its own axis freely?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/",
-      "published": "2026-10-25",
-      "excerpt": "I want to take the landscape from one creation, so I can then manually place it directly next to some already established terrain. Basically expanding upon the landscape that was there before it. I think the main tools I am looking for are a Terrain exporter, and something where I can manually selec",
-      "creator": "/u/bonniebull1987 https://www.reddit.com/user/bonniebull1987",
-      "id": "7bb7e7e560751f18f93ca858"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Did they learn to program in Roblox Studio, and, in general, how to make simple games?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xff3bp/did_they_learn_to_program_in_roblox_studio_and_in/",
-      "published": "2026-10-25",
-      "excerpt": "I’m very interested in learning how to use Roblox Studio, so I’m curious: what was the first thing you did, starting completely from scratch? P.S. Personally, I’m using AI to create simple games, and then I go back through the code to try and understand it. submitted by /u/Santx800 [link] [comments]",
-      "creator": "/u/Santx800 https://www.reddit.com/user/Santx800",
-      "id": "7a8835343bad549c215a7d7b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I Made a Roblox Game With AI in 3 Weeks. Here's How It Went.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xevt2g/i_made_a_roblox_game_with_ai_in_3_weeks_heres_how/",
-      "published": "2026-10-25",
-      "excerpt": "AI is everywhere these days. Everyone's talking about how powerful it is, what it can do, how it's gonna change everything, blah blah blah. So yeah, I finally gave in and decided to build something myself. The first thing that popped into my head was Roblox. Why? Honestly, I have absolutely no idea ",
-      "creator": "/u/infazkonsth https://www.reddit.com/user/infazkonsth",
-      "id": "7a6a4638d07f2cb5b3664bb8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I need advice on player retention",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/",
-      "published": "2026-10-25",
-      "excerpt": "I recently made a game called Knife Ability Arena, https://www.roblox.com/games/80673277702360/Knife-Ability-Arena I'm trying with ads but I feel like the ads don't bring in enough players at once to keep even like one full server alive like its almost constantly at 0ccu. How do I get over that init",
-      "creator": "/u/Unhappy_Sprinkles_93 https://www.reddit.com/user/Unhappy_Sprinkles_93",
-      "id": "79af9ccd4490a4cc594912e6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Free] Door system for staff group ranks and VIP gamepass access",
-      "url": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701",
-      "published": "2026-10-25",
-      "excerpt": "Hey everyone, I made a simple door system I use for staff-only and VIP areas and figured I’d share it, since I kept rebuilding the same thing for different games. It’s a door with a forcefield. A player can walk through only if they’re in your group with an allowed rank, or if they own one of the ga",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/free-door-system-for-staff-group-ranks-and-vip-gamepass-access/4956701.rss",
-      "id": "78653e9f60fe25609e6a698a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Modelling a mechsuit for a game I planned",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf0w18/modelling_a_mechsuit_for_a_game_i_planned/",
-      "published": "2026-10-25",
-      "excerpt": "currently only some of the arms, and most of the torso, is done. i will model the weapons and the cockpit soon. there is not a single line of code yet, and i definitely shouldve started the game with a more simple prototype model. but meh, im bored. all modelled on studio because i am allergic to bl",
-      "creator": "/u/AppropriateGap2500 https://www.reddit.com/user/AppropriateGap2500",
-      "id": "7742648be75e4956adc0b0f9"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I tried to build in stud form",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeo2x9/i_tried_to_build_in_stud_form/",
-      "published": "2026-10-25",
-      "excerpt": "Lowkey was hard but I did my best submitted by /u/OId-Foot [link] [comments]",
-      "creator": "/u/OId-Foot https://www.reddit.com/user/OId-Foot",
-      "id": "73d59410eb1d613bf96b4288"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for devs for a doors inspired game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf8jot/looking_for_devs_for_a_doors_inspired_game/",
-      "published": "2026-10-25",
-      "excerpt": "I'm looking for devs for a doors inspired game, I need modelers, animators, artists, composers and people to brainstorm ideas with. payment will be in revenue, if you're interested dm me on discord, @achefcat im available most of the time submitted by /u/Lopsided_Panic1642 [link] [comments]",
-      "creator": "/u/Lopsided_Panic1642 https://www.reddit.com/user/Lopsided_Panic1642",
-      "id": "72bde2e6178c6d831a2bf226"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Users are creating forum posts in Development-Discussion claiming the assistant is generating nonsense.",
-      "url": "https://devforum.roblox.com/t/users-are-creating-forum-posts-in-development-discussion-claiming-the-assistant-is-generating-nonsense/4955865",
-      "published": "2026-10-25",
-      "excerpt": "I’m not sure if these are just troll posts, they never post their full context or seem to have any intent on actually solving the problem. So I’m making a report to bring attention to it, as it might just be a prank-meme, but I’ve never had these problems and I find it odd that multiple other people",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/users-are-creating-forum-posts-in-development-discussion-claiming-the-assistant-is-generating-nonsense/4955865.rss",
-      "id": "726c098689cbde9114c0fbc9"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "asset loading!!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xez0kx/asset_loading/",
-      "published": "2026-10-25",
-      "excerpt": "i'm attempting to design some character for an animation since i'm just starting to get into it, why does it still fail to load the head/face asset?? someone save me pls https://preview.redd.it/qtrdreuxclxh1.png?width=1198&format=png&auto=webp&s=632b1ffaa490bd995d624800da90d01912ce8c71 submitted by ",
-      "creator": "/u/goopy0range_ https://www.reddit.com/user/goopy0range_",
-      "id": "71a234731b3aa69628e2e12e"
     }
   ]
 }

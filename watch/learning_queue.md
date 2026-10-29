@@ -6,19 +6,19 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 596; fully reviewed: 0.
+Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 299
+- devforum: 300
 - index-only: 13
-- reddit: 274
-- youtube: 10
+- reddit: 271
+- youtube: 11
 
 ## First-Session And Mobile
 
 - [Solo dev, first game: 86% of new players leave within 5 minutes. How do you fix onboarding in a simulator?](https://www.reddit.com/r/robloxgamedev/comments/1xf1202/solo_dev_first_game_86_of_new_players_leave/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [I need advice on player retention](https://www.reddit.com/r/ROBLOXStudio/comments/1xep609/i_need_advice_on_player_retention/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
+- [Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -46,8 +46,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## World And Visual Design
 
-- [Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [Are there any Plug-ins for exporting Terrain from one studio map to another, or for manually moving an already existing Terrain section on its own axis freely?](https://www.reddit.com/r/ROBLOXStudio/comments/1xfgd71/are_there_any_plugins_for_exporting_terrain_from/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [Castle Building For a Dystopian Environment ( inside of Roblox at the end )](https://www.reddit.com/r/ROBLOXStudio/comments/1xin6ep/castle_building_for_a_dystopian_environment/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [Improve Your Game Security with the Device Trust API](https://devforum.roblox.com/t/improve-your-game-security-with-the-device-trust-api/4961129) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 
