@@ -49,8 +49,8 @@
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "32c28089305f488f901aaf1dbf3fd1cb65fa3d11",
-      "head_subject": "Sync to upstream/release/744 (#3071)",
+      "head": "a4818b6678822bb726a0eb2299cae751d3017a6a",
+      "head_subject": "Provide extra details for issues we consider out of scope in SECURITY.md (#3077)",
       "name": "Roblox/luau",
       "release_tag": "0.744",
       "release_url": "https://github.com/luau-lang/luau/releases/tag/0.744",
@@ -81,16 +81,16 @@
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
-      "head": "a7fc0819bc7bbfe16dcd84e4319874ca04484e0d",
-      "head_subject": "mirror: sync from upstream (a9df2cc05c0a9f526800db659975fc9104ecdd98)",
+      "head": "2790b4d2368b2dc28df9e3affca9d2fe5426dcc8",
+      "head_subject": "mirror: sync from upstream (24943478f54b2dd8b70bce2c22f25ddcf0ff4400)",
       "name": "buriedsignals/scoutpost-os",
       "release_tag": "scout-v0.1.22",
       "release_url": "https://github.com/buriedsignals/scoutpost-os/releases/tag/scout-v0.1.22",
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "6495eb9936d48951a64252b166f504639e82fd7f",
-      "head_subject": "Update README.md",
+      "head": "c0b9320ef3da6098a4922f37cae28202b6db09fe",
+      "head_subject": "Example plugins - Each example is a standalone 'pip install .' package, README per example",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
