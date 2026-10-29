@@ -7,38 +7,24 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[mini admin abuse + artist reveal + new divine ☠️ #roblox #stealanegg #adminabuse #update #divine - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcG1zcmNMTXBqRUhjT2Q4N0p2SndKSVVyUWwtTkJKb1ZCZ2JwMjkzNkphSWVSWGF1M09SM3BEVXdCYzU0V1hCV29MUW9DRlhLMmo0M2VR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-28
-  - Feed excerpt: mini admin abuse + artist reveal + new divine ☠️ #roblox #stealanegg #adminabuse #update #divine Instagram
+- **[THE DIVINE ROYAL SKYWHALE TITAN EGG IS INSANE! #roblox #stealanegg #robloxgames #steal #egg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtbVdMRHEwR3N2eExlUTVFT0VIaDFqSFA3dzF2OHlqWC1XMUdiZllTeUdfMGdmdXpmaGNEemVIdjdoLVhzX1V4TmlPVFFPaDNBUHc4ckhn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-21
+  - Feed excerpt: THE DIVINE ROYAL SKYWHALE TITAN EGG IS INSANE! #roblox #stealanegg #robloxgames #steal #egg Instagram
 
 ## Community
 
-- **[Ages 16+ killed discovery for our Roblox arcade shooter — how are other small teams getting real playtests?](https://www.reddit.com/r/robloxgamedev/comments/1xi3y3l/ages_16_killed_discovery_for_our_roblox_arcade/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hey — first proper post here. My daughter and I built NEON \| Arcade Shooter in Studio (PC / mobile / console). The game’s Live/Public, but Ages 16+ means we’re basically invisible in discovery, so growth is link-shares and asking people dir
-- **[Are you looking for a playtester?](https://www.reddit.com/r/robloxgamedev/comments/1xi403t/are_you_looking_for_a_playtester/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hey everyone! I just finished playtesting and giving advice to three of my clients. If you’re looking for an affordable playtesting service, feel free to DM me! I don’t just provide basic feedback; I also share what I’ve learned from workin
-- **[Intergalactic Kingdom Tycoon ( Planet 1 -Mars)](https://www.reddit.com/r/robloxgamedev/comments/1xi4oty/intergalactic_kingdom_tycoon_planet_1_mars/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: submitted by /u/CelestialArcherX \[link\] \[comments\]
-- **[Would you play?](https://www.reddit.com/r/robloxgamedev/comments/1xi4436/would_you_play/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: Hey everyone! I’m building a transport tycoon on Roblox called Towns in Transit, and I’d love your opinions. The idea: Prices aren’t set by NPCs. Players drive the economy. Businesses make, buy and sell goods, and it’s up to you to move car
-- **[need improvements for my shop](https://www.reddit.com/r/robloxgamedev/comments/1xi3xia/need_improvements_for_my_shop/)** · Reddit r/robloxgamedev public RSS · 2026-10-28
-  - Feed excerpt: submitted by /u/LankyPollution3102 \[link\] \[comments\]
-- **[Gewehr M.1869 (Eisenreich Empire Rifle)](https://www.reddit.com/r/robloxgamedev/comments/1xi5gjc/gewehr_m1869_eisenreich_empire_rifle/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
-  - Feed excerpt: Eisenreich standard issue rifle i made for my game project ("A soldier's Poem") Length : 6.49 Stud Calliber : 0.04 Stud Mechanism of the Rifle : Lever action sliding block. Country of Adoption : Eisenreich Empire Insperation : Gevelot 11mm 
-- **[Okay guys i have a question about my horror game i'm working on](https://www.reddit.com/r/robloxgamedev/comments/1xi5uus/okay_guys_i_have_a_question_about_my_horror_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
-  - Feed excerpt: Should I make one of the monsters be able to copy dead players / possess their bodies so I can make a "Yo, Satoru" reference in a devlog the reference i am gonna try and make a clip of (from JJK) submitted by /u/XxRainbow_ManxX \[link\] \[comm
-- **[UI for my upcoming roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xi5b96/ui_for_my_upcoming_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
-  - Feed excerpt: any feedback? submitted by /u/vestive \[link\] \[comments\]
+- **[Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)](https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: Hey, I’m working on a Roblox game called Lumber Legends and I’d like a few people to play it and tell me what they think. It’s a cartoony chop-trees-and-upgrade game. You chop trees, sell the wood, upgrade your axe, collect pets, and hire l
+- **[Looking to hire someone to build a small sized map with destructive physics for an up & coming Marvel related game!](https://www.reddit.com/r/robloxgamedev/comments/1xi6ase/looking_to_hire_someone_to_build_a_small_sized/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: What I am in search for: Optimized small map with destructive physics Budget: open to negotiate submitted by /u/uponthehill_ \[link\] \[comments\]
+- **[Made a Halloween co-op game with a boss that crashes through the roof for phase 2](https://www.reddit.com/r/robloxgamedev/comments/1xi74ij/made_a_halloween_coop_game_with_a_boss_that/)** · Reddit r/robloxgamedev public RSS · 2026-10-29
+  - Feed excerpt: First game I've shipped. It's a Halloween co-op thing: hold off a pumpkin horde in the lobby, then take on the Midnight King in a raid. At 10% health he freezes, retreats and smashes through the roof, so the fight finishes on the floor belo
 
 ## Roblox Updates
 
-- **[Encore \| The music player Roblox never made](https://devforum.roblox.com/t/encore-the-music-player-roblox-never-made/4963339)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: Encore is a remake of my old music player, which got over 500 uses. Everyone in the server hears the same part of the song, and it finally works properly on mobile. It’s built with Builder Sans and Builder Icons , the same font and icons Ro
-- **[Immersive Ads "Questionnaire Review" resets from Pending back to "Request Review" daily — all other requirements met, no feedback given](https://devforum.roblox.com/t/immersive-ads-questionnaire-review-resets-from-pending-back-to-request-review-daily-%E2%80%94-all-other-requirements-met-no-feedback-given/4963395)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: On the Ads page for my experience Steal A Dinosaur Eggs (Universe ID 7289650639 ), every automated item in the Eligibility Requirements checklist is checked: Verify your ID (13+) Enable 2-Step Verification Make the experience public Complet
-- **[New Terrain Material Manager Grass Decoration Doesn't Render](https://devforum.roblox.com/t/new-terrain-material-manager-grass-decoration-doesnt-render/4963388)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: ~3 days ago I enabled ExpandedTerrain in workspace, re-opened my place, didn’t get any new material manager, but, now today, I finally opened the same place, and found the new Terrain Material Manager, but, I looked at my terrain, and saw t
-- **[Please fix explorer not going to selected object in the tab.](https://devforum.roblox.com/t/please-fix-explorer-not-going-to-selected-object-in-the-tab/4963364)** · Roblox Developer Forum latest · 2026-10-28
-  - Feed excerpt: I don’t know if it’s a me problem or a problem for anyone else but previously before the new studio revamp thingy majig, you were able to search up any object in your Explorer window, and if you were to select it, it’d automatically bring i
+- **[How would I go about an aiming system with my character-based viewmodel?](https://devforum.roblox.com/t/how-would-i-go-about-an-aiming-system-with-my-character-based-viewmodel/4963488)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: Hello! I’ve recently been messing around with a gun system where the viewmodel is based on the character’s arms and the Motor6Ds in the torso are used to move them. One thing I’ve been having trouble with for a few days now is how am I supp
+- **[Just a day and night cycle](https://devforum.roblox.com/t/just-a-day-and-night-cycle/4963497)** · Roblox Developer Forum latest · 2026-10-29
+  - Feed excerpt: Let me know your thoughts! 1 post - 1 participant Read full topic
 
 ---
 

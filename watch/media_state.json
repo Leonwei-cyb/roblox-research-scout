@@ -1707,7 +1707,13 @@
     "c47231e554ba8d5a53ff8819",
     "bd96e1fe1484c26c16365220",
     "0a3f493e9b9733d3ae496dbf",
-    "991ca5a13440fa91ed5bcba0"
+    "991ca5a13440fa91ed5bcba0",
+    "4f2e76020bdfcc947a530cee",
+    "a0b213887aab8b941f89c16f",
+    "4f958cd1fba6290aa815793a",
+    "696df10eaed7e445817bc802",
+    "1947deb1fd4ea7f50929f924",
+    "fcd3a4cc3de28d4417ebd6e7"
   ],
   "items": [
     {
@@ -1720,6 +1726,18 @@
       "excerpt": "Eisenreich standard issue rifle i made for my game project (\"A soldier's Poem\") Length : 6.49 Stud Calliber : 0.04 Stud Mechanism of the Rifle : Lever action sliding block. Country of Adoption : Eisenreich Empire Insperation : Gevelot 11mm Sliding-Chamber Pinfire Rifle Feel free to tell me what you ",
       "creator": "/u/Wooden_Cellist_755 https://www.reddit.com/user/Wooden_Cellist_755",
       "id": "a676830690dca5c36cd04765"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How would I go about an aiming system with my character-based viewmodel?",
+      "url": "https://devforum.roblox.com/t/how-would-i-go-about-an-aiming-system-with-my-character-based-viewmodel/4963488",
+      "published": "2026-10-29",
+      "excerpt": "Hello! I’ve recently been messing around with a gun system where the viewmodel is based on the character’s arms and the Motor6Ds in the torso are used to move them. One thing I’ve been having trouble with for a few days now is how am I supposed to have a system where the gun smoothly aims into a par",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-would-i-go-about-an-aiming-system-with-my-character-based-viewmodel/4963488.rss",
+      "id": "a0b213887aab8b941f89c16f"
     },
     {
       "source": "reddit-robloxdev",
@@ -1736,12 +1754,57 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/",
+      "published": "2026-10-29",
+      "excerpt": "Hey, I’m working on a Roblox game called Lumber Legends and I’d like a few people to play it and tell me what they think. It’s a cartoony chop-trees-and-upgrade game. You chop trees, sell the wood, upgrade your axe, collect pets, and hire lumberjacks to chop for you while you’re away. The map goes f",
+      "creator": "/u/PocketCometRBLX https://www.reddit.com/user/PocketCometRBLX",
+      "id": "696df10eaed7e445817bc802"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Okay guys i have a question about my horror game i'm working on",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5uus/okay_guys_i_have_a_question_about_my_horror_game/",
       "published": "2026-10-29",
       "excerpt": "Should I make one of the monsters be able to copy dead players / possess their bodies so I can make a \"Yo, Satoru\" reference in a devlog the reference i am gonna try and make a clip of (from JJK) submitted by /u/XxRainbow_ManxX [link] [comments]",
       "creator": "/u/XxRainbow_ManxX https://www.reddit.com/user/XxRainbow_ManxX",
       "id": "67294d28541817194ccd3ad8"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Made a Halloween co-op game with a boss that crashes through the roof for phase 2",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi74ij/made_a_halloween_coop_game_with_a_boss_that/",
+      "published": "2026-10-29",
+      "excerpt": "First game I've shipped. It's a Halloween co-op thing: hold off a pumpkin horde in the lobby, then take on the Midnight King in a raid. At 10% health he freezes, retreats and smashes through the roof, so the fight finishes on the floor below. AI disclosure: I'm a software developer and cybersecurity",
+      "creator": "/u/thefilthybeard https://www.reddit.com/user/thefilthybeard",
+      "id": "4f958cd1fba6290aa815793a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Just a day and night cycle",
+      "url": "https://devforum.roblox.com/t/just-a-day-and-night-cycle/4963497",
+      "published": "2026-10-29",
+      "excerpt": "Let me know your thoughts! 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/just-a-day-and-night-cycle/4963497.rss",
+      "id": "4f2e76020bdfcc947a530cee"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking to hire someone to build a small sized map with destructive physics for an up & coming Marvel related game!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi6ase/looking_to_hire_someone_to_build_a_small_sized/",
+      "published": "2026-10-29",
+      "excerpt": "What I am in search for: Optimized small map with destructive physics Budget: open to negotiate submitted by /u/uponthehill_ [link] [comments]",
+      "creator": "/u/uponthehill_ https://www.reddit.com/user/uponthehill_",
+      "id": "1947deb1fd4ea7f50929f924"
     },
     {
       "source": "reddit-robloxdev",
@@ -8569,65 +8632,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-i-go-on-about-making-a-a-flying-npc-ai-similar-to-that-of-gabriel-ultrakill-or-mineflayers-ultrakill/4954043.rss",
       "id": "9fbe9c567f759ff3f0dfa2f7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Feedback] Hybrid Heist - steal eggs, breed pets into one-of-a-kind hybrids",
-      "url": "https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061",
-      "published": "2026-10-24",
-      "excerpt": "Hybrid Heist Steal eggs. Hatch pets. Breed hybrids nobody else has. Play Hybrid Heist What is it? A pet tycoon with a heist twist. Run into the canyon, grab eggs and carry them home before other players knock them out of your hands. Hatch them on your plot, place your pets to earn money, get faster ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-hybrid-heist-steal-eggs-breed-pets-into-one-of-a-kind-hybrids/4954061.rss",
-      "id": "9e66bedc5d5608076ebb77bc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Universal Teleport stays stuck forever for multiple games",
-      "url": "https://devforum.roblox.com/t/universal-teleport-stays-stuck-forever-for-multiple-games/4954635",
-      "published": "2026-10-24",
-      "excerpt": "Anytime I get universal teleported to another place of a game, it freezes roblox and my only option is to close the application entirely, this is happening to any game I’ve played. I’ve updated my GPU drivers to ensure it wasn’t an issue. Please check the video below. External Media 1 post - 1 parti",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/universal-teleport-stays-stuck-forever-for-multiple-games/4954635.rss",
-      "id": "9c0e060fa8bf0338172e0024"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Need play tester :((",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe56m8/need_play_tester/",
-      "published": "2026-10-24",
-      "excerpt": "Sorry for not replying to my last post. Anyway, who wants to be a playtester for my game? Just DM me if you're interested. I can only offer a percentage shares of my game as I won't be able to pay anyone after the testing session. i only need 2-5 play tester submitted by /u/WinReasonable3771 [link] ",
-      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
-      "id": "9bfbe0d0cc52c09550ce5978"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "JetSki Model scrap",
-      "url": "https://devforum.roblox.com/t/jetski-model-scrap/4955460",
-      "published": "2026-10-24",
-      "excerpt": "Here is a Jet Ski I start modeling, most likely going to scrap it and start over as I feel as though I can make the shape way better, well I know I can. (No details, reference, or tracing by the way, so that’s why it may not be that close to a realistic version) 2 posts - 1 participant Read full top",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/jetski-model-scrap/4955460.rss",
-      "id": "9bddeafadcdef1f0a0130048"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Failed to fetch place info",
-      "url": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4954331",
-      "published": "2026-10-24",
-      "excerpt": "The Image above shows what happens, if I try to open an experience in Roblox Studio. As you can see, it shows an message saying that they failed to fetch place info. 3 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4954331.rss",
-      "id": "983aa0c8f7001a5a6acc20d8"
     }
   ]
 }
