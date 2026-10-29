@@ -143,21 +143,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xf2uqo",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/",
-      "title": "How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xgiwq2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/",
       "title": "Anyone knows any tutorials to make a character made in BLENDER player controlled",
@@ -554,6 +539,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4963999:1",
+      "url": "https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999",
+      "title": "Wumby Zoo is now in beta — feedback on the early progression?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xf3lbq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3lbq/unpaid_looking_for_a_few_playtesters_for_a/",
       "title": "[Unpaid] Looking for a few playtesters for a monster ranch tycoon, 10–15 minutes",
@@ -707,20 +707,6 @@
       "signals": [
         "animation and audio",
         "genres and successful loops"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957643:1",
-      "url": "https://devforum.roblox.com/t/new-flop-n-fight-has-been-struggling-trying-to-get-ccu-and-the-ads-are-doing-poorly/4957643",
-      "title": "[NEW] Flop N Fight has been struggling trying to get CCU and the ads are doing poorly",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1304,19 +1290,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956823:1",
-      "url": "https://devforum.roblox.com/t/ui-dragdetector-rotation-dragging-weirdly/4956823",
-      "title": "UI Dragdetector rotation dragging weirdly",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4270,6 +4243,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4963989:1",
+      "url": "https://devforum.roblox.com/t/account-recovery-rate-limiting-is-helping-attackers-keep-stolen-accounts/4963989",
+      "title": "Account Recovery Rate Limiting Is Helping Attackers Keep Stolen Accounts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xeq2n0",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeq2n0/kind_developer_of_roblox/",
       "title": "Kind developer of roblox",
@@ -6261,6 +6247,17 @@
       "key": "devforum:4963864:1",
       "url": "https://devforum.roblox.com/t/are-this-not-allowed/4963864",
       "title": "Are this not allowed?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4963954:1",
+      "url": "https://devforum.roblox.com/t/game-stuck-at-16-help/4963954",
+      "title": "Game Stuck at +16 Help",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",

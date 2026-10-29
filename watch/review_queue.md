@@ -7,8 +7,8 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
+- **[Wumby Zoo is now in beta — feedback on the early progression?](https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999)** — Public text/page, video not confirmed
 - **[Intergalactic Kingdom Tycoon ( Planet 1 -Mars)](https://www.reddit.com/r/robloxgamedev/comments/1xi4oty/intergalactic_kingdom_tycoon_planet_1_mars/)** — Public text/page, video not confirmed
-- **[What whould be a good name for my roblox real time strategy game set in modern day.](https://www.reddit.com/r/ROBLOXStudio/comments/1xhvpqj/what_whould_be_a_good_name_for_my_roblox_real/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 

@@ -1754,7 +1754,10 @@
     "9e2a6a4eac8376379f8ba733",
     "9c73caa51589015863429b06",
     "909b70c60d79deeee0f67100",
-    "750d2b5c9a5efa4fbf6271d0"
+    "750d2b5c9a5efa4fbf6271d0",
+    "431b2aae151228bc9823084d",
+    "5adbb063520ab4412e60b26d",
+    "012c3147851199ba21702014"
   ],
   "items": [
     {
@@ -2039,6 +2042,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Account Recovery Rate Limiting Is Helping Attackers Keep Stolen Accounts",
+      "url": "https://devforum.roblox.com/t/account-recovery-rate-limiting-is-helping-attackers-keep-stolen-accounts/4963989",
+      "published": "2026-10-29",
+      "excerpt": "Every week I hear about another high-value Roblox creator getting compromised, often through malicious community content on Steam and similar attack vectors. I understand Roblox isn’t responsible for what happens on other platforms, and it already recommends good security practices on its own. But t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/account-recovery-rate-limiting-is-helping-attackers-keep-stolen-accounts/4963989.rss",
+      "id": "5adbb063520ab4412e60b26d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Game down when in good standing",
       "url": "https://devforum.roblox.com/t/game-down-when-in-good-standing/4963572",
       "published": "2026-10-29",
@@ -2092,6 +2107,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/just-a-day-and-night-cycle/4963497.rss",
       "id": "4f2e76020bdfcc947a530cee"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Wumby Zoo is now in beta — feedback on the early progression?",
+      "url": "https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999",
+      "published": "2026-10-29",
+      "excerpt": "Hi! Wumby Zoo has reached beta. You find eggs on safari, carry them home, hatch Wumbies and care for them in your own yard. Since my September devlog, I’ve reworked the visuals, interface, tutorial and early progression. The opening now includes step-by-step missions and a quicker path to your first",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999.rss",
+      "id": "431b2aae151228bc9823084d"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2205,6 +2232,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/open-volunteers-for-a-dinosaur-game/4963696.rss",
       "id": "037cf7437202317e402b4e9d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game Stuck at +16 Help",
+      "url": "https://devforum.roblox.com/t/game-stuck-at-16-help/4963954",
+      "published": "2026-10-29",
+      "excerpt": "Hi, I have an issue with the audience settings based on my experience. My game, “El Barrio Boliviano,” has been stuck under the provisional 16+ ranking for days. In my Creators Dashboard, everything looks perfect and meets the criteria:• Content Maturity Questionnaire: Completed as “Soft” (suitable ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-stuck-at-16-help/4963954.rss",
+      "id": "012c3147851199ba21702014"
     },
     {
       "source": "reddit-robloxdev",
@@ -5538,7 +5577,7 @@
       "title": "Release Notes for 745",
       "url": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
       "published": "2026-10-27",
-      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 19 posts - 17 participants Read full topic",
+      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 22 posts - 19 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-745/4960754.rss",
       "id": "1bbc848dbd6d3c954f224a54"
@@ -8628,41 +8667,6 @@
       "excerpt": "I have Uninstalled and reinstall but it still suck, what the problem and what the solution? submitted by /u/Pure-Meringue7232 [link] [comments]",
       "creator": "/u/Pure-Meringue7232 https://www.reddit.com/user/Pure-Meringue7232",
       "id": "09670b6c58b5e68ed271439a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How I kept 120 zombies and 4 players with 18-shots-a-second Uzis at under 0.5 ms of server time a tick",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf2uqo/how_i_kept_120_zombies_and_4_players_with/",
-      "published": "2026-10-25",
-      "excerpt": "I’m making a top-down co-op zombie shooter (up to 4 players, 100+ zombies at once). With fully upgraded Uzis everything fell apart: zombies jittered, phones had shots “hit” on screen but deal no damage, and I was sure 4 players would melt the server. Here’s what was actually going on and how I fixed",
-      "creator": "/u/Markx02 https://www.reddit.com/user/Markx02",
-      "id": "084d70336a1d43ad7498c132"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UI Dragdetector rotation dragging weirdly",
-      "url": "https://devforum.roblox.com/t/ui-dragdetector-rotation-dragging-weirdly/4956823",
-      "published": "2026-10-25",
-      "excerpt": "What do you want to achieve? i’m trying to make this uidragdetector properly point to where the mouse is What is the issue? You can see how moving the mouse makes the Ui point in weird directions What solutions have you tried so far? I’ve tried changing the reference ui, seeing if it’s an issue with",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ui-dragdetector-rotation-dragging-weirdly/4956823.rss",
-      "id": "05d0254afc58fe061ba3f2b3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[NEW] Flop N Fight has been struggling trying to get CCU and the ads are doing poorly",
-      "url": "https://devforum.roblox.com/t/new-flop-n-fight-has-been-struggling-trying-to-get-ccu-and-the-ads-are-doing-poorly/4957643",
-      "published": "2026-10-25",
-      "excerpt": "Roblox [NEW] Flop N Fight Flop n Fight is a round-based, physics battlegrounds game where you can challenge your friends, throw hands, and send people flying. Be the last one standing. 🎮 Available on PC, Mobile, Console, and VR. ❤️ Like and favorite the game to support... Can anyone review my game? ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-flop-n-fight-has-been-struggling-trying-to-get-ccu-and-the-ads-are-doing-poorly/4957643.rss",
-      "id": "01181e7a36cb37d283afc78e"
     }
   ]
 }
