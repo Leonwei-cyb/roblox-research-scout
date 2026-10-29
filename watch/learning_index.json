@@ -712,20 +712,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4955504:1",
-      "url": "https://devforum.roblox.com/t/feedback-on-apisrobloxcom/4955504",
-      "title": "Feedback on \"apis.roblox.com\"",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4956491:1",
       "url": "https://devforum.roblox.com/t/gamepass-sales-show-only-1-2-robux-pending-instead-of-expected-earnings/4956491",
       "title": "Gamepass Sales Show Only 1-2 Robux Pending Instead of Expected Earnings",
@@ -1219,19 +1205,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4953468:1",
-      "url": "https://devforum.roblox.com/t/floors-soft-locking-players-from-getting-items-in-the-hollow/4953468",
-      "title": "Floors soft-locking players from getting items in The Hollow",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4954063:1",
       "url": "https://devforum.roblox.com/t/my-old-builds-from-years-ago-when-i-was-little/4954063",
       "title": "My old builds from years ago when i was little",
@@ -1240,19 +1213,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4955323:1",
-      "url": "https://devforum.roblox.com/t/really-high-studio-camera-sensitivity-affected-by-pan-speed/4955323",
-      "title": "Really high studio camera sensitivity - affected by Pan Speed?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2295,19 +2255,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xe3lgs",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe3lgs/sears_tower_11_roblox_studio/",
-      "title": "Sears Tower 1:1 / Roblox Studio",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-24",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3575,6 +3522,34 @@
       "kind": "reddit",
       "signals": [
         "animation and audio",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xi8bw7",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi8bw7/im_looking_for_talented_devs_for_my_game/",
+      "title": "Im looking for talented devs for my game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "world and visual design"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xi9n3b",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi9n3b/stuck_at_10_20_ccu/",
+      "title": "Stuck at 10 - 20 ccu",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
         "player feedback and marketing"
       ],
       "score": 4,
@@ -5114,6 +5089,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xi8dvp",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi8dvp/i_need_youre_help/",
+      "title": "I need you're help",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4953494:1",
       "url": "https://devforum.roblox.com/t/how-would-i-make-a-proper-meele-system-anticheat/4953494",
       "title": "How would i make a proper meele system anticheat?",
@@ -5128,17 +5116,6 @@
       "key": "devforum:4953567:1",
       "url": "https://devforum.roblox.com/t/how-to-fix-map-gen-water/4953567",
       "title": "How to fix map gen water?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4953757:1",
-      "url": "https://devforum.roblox.com/t/exclude-certain-creators-in-creator-store-tab/4953757",
-      "title": "Exclude certain creators in \"Creator Store\" tab",
       "source": "roblox-devforum-latest",
       "published": "2026-10-24",
       "kind": "devforum",
@@ -5205,17 +5182,6 @@
       "key": "devforum:4954256:1",
       "url": "https://devforum.roblox.com/t/success-with-emulating-the-new-steam-controller-2/4954256",
       "title": "Success with emulating the new Steam Controller 2?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-24",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4954351:1",
-      "url": "https://devforum.roblox.com/t/sdf-font-rendering-signed-distance-field/4954351",
-      "title": "SDF Font Rendering ( Signed Distance Field )",
       "source": "roblox-devforum-latest",
       "published": "2026-10-24",
       "kind": "devforum",
@@ -6313,6 +6279,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4963572:1",
+      "url": "https://devforum.roblox.com/t/game-down-when-in-good-standing/4963572",
+      "title": "Game down when in good standing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4963591:1",
+      "url": "https://devforum.roblox.com/t/guys-i-don%E2%80%99t-think-that-is-super-super-happy-face/4963591",
+      "title": "Guys I don’t think that is Super Super Happy Face",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4963594:1",
+      "url": "https://devforum.roblox.com/t/falsely-blacklisted-from-verification-badge/4963594",
+      "title": "Falsely blacklisted from verification badge",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4963600:1",
+      "url": "https://devforum.roblox.com/t/limited-not-displaying-correctly-when-using-high-to-low-sorting-for-roblox-uploaded-hats/4963600",
+      "title": "Limited not displaying correctly when using High to Low sorting for Roblox-uploaded hats",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xe2jh9",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xe2jh9/why_is_this_still_happening_what_does_it_mean_how/",
       "title": "WHY IS THIS STILL HAPPENING? WHAT DOES IT MEAN? HOW DO I FIX IT????",
@@ -6338,17 +6348,6 @@
       "key": "reddit:1xeci8s",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeci8s/seraphim_aura/",
       "title": "SERAPHIM Aura",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-24",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xef63m",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xef63m/this_is_my_game_play_if_you_want_it_is_unfinshed/",
-      "title": "this is my game play if you want it is unfinshed thi",
       "source": "reddit-robloxstudio",
       "published": "2026-10-24",
       "kind": "reddit",
@@ -7325,6 +7324,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xi8u74",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi8u74/looking_for_honest_opinions/",
+      "title": "Looking for honest opinions",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr",
       "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
       "title": "Acetul (@_acetul) - X",
@@ -7381,19 +7391,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5Vam9nZndKWmNZWVlrVmlDM0dhaGJ3QU9DMnJnLTE1Znp1V1UzbnByOUtFWE9XWUhqTnVxY3lYWjg0V1N5b0ZxRzlpRDN0WTFZMjRicEtR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vam9nZndKWmNZWVlrVmlDM0dhaGJ3QU9DMnJnLTE1Znp1V1UzbnByOUtFWE9XWUhqTnVxY3lYWjg0V1N5b0ZxRzlpRDN0WTFZMjRicEtR?oc=5",
-      "title": "Connect Claude MCP Opus 5.5 With Roblox Studio - AI Makes a Working Hourglass in 2 Minutes - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-24",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

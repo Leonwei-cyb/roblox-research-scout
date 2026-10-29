@@ -20,6 +20,6 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | [huginn/huginn](https://github.com/huginn/huginn) | MIT — license present, inspect asset and dependency rights | 2026-10-26 | No |
 | [obris-dev/openmagpie](https://github.com/obris-dev/openmagpie) | No verified license — do NOT copy source/assets | 2026-10-14 | No |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | AGPL-3.0 — copyleft, review conditions | 2026-10-26 | No |
-| [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) | AGPL-3.0 — copyleft, review conditions | 2026-10-26 | No |
+| [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) | AGPL-3.0 — copyleft, review conditions | 2026-10-29 | No |
 
 Before copying code/assets, inspect source safety, the complete license and dependency rights.

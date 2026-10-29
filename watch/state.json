@@ -129,11 +129,11 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "6db7be24cc3b7a53506640e88856746e27d60caa",
-      "head_subject": "ci: pin buildx to workaround deadlock (#19373)",
+      "head": "8861adaa77839c961d3c574232a8865d65a426b6",
+      "head_subject": "openai: preserve readable Responses input content (#19192)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.12",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
+      "release_tag": "v0.40.13",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
       "url": "https://github.com/ollama/ollama"
     }
   },
