@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 291
-- index-only: 13
-- reddit: 283
+- devforum: 293
+- index-only: 12
+- reddit: 282
 - youtube: 9
 
 ## First-Session And Mobile
@@ -31,8 +31,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Economy And Income
 
-- [Just released my new game: Bug Squisher Simulator! What do you guys think?](https://www.reddit.com/r/robloxgamedev/comments/1xf3ndw/just_released_my_new_game_bug_squisher_simulator/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Gamepass Sales Show Only 1-2 Robux Pending Instead of Expected Earnings](https://devforum.roblox.com/t/gamepass-sales-show-only-1-2-robux-pending-instead-of-expected-earnings/4956491) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [PvE Shooter has struggled to gain traction - any advice?](https://www.reddit.com/r/robloxgamedev/comments/1xgn26n/pve_shooter_has_struggled_to_gain_traction_any/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 

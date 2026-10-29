@@ -337,22 +337,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xf3ndw",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3ndw/just_released_my_new_game_bug_squisher_simulator/",
-      "title": "Just released my new game: Bug Squisher Simulator! What do you guys think?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "economy and income",
-        "animation and audio",
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xf469b",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf469b/3rd_studio_made_thumbnail_for_upcoming_game/",
       "title": "3rd Studio made thumbnail for upcoming game",
@@ -2181,6 +2165,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4964135:1",
+      "url": "https://devforum.roblox.com/t/video-under-review-taking-more-than-24-hours/4964135",
+      "title": "Video under Review taking more than 24 hours?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xeo2x9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xeo2x9/i_tried_to_build_in_stud_form/",
       "title": "I tried to build in stud form",
@@ -2228,19 +2225,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf0k4n",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf0k4n/im_new_to_roblox_studio_and_right_now_im_stuck_at/",
-      "title": "I'm new to roblox studio and right now I'm stuck at skybox",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2429,19 +2413,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xff4x7",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xff4x7/need_feedback_or_suggestions/",
-      "title": "Need feedback or suggestions! :((",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3684,19 +3655,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4956952:1",
-      "url": "https://devforum.roblox.com/t/funnels-showing-incorrect-information/4956952",
-      "title": "Funnels showing incorrect information",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4957130:1",
       "url": "https://devforum.roblox.com/t/game-name-wouldnt-save/4957130",
       "title": "Game Name wouldnt save",
@@ -4246,6 +4204,32 @@
       "key": "devforum:4963989:1",
       "url": "https://devforum.roblox.com/t/account-recovery-rate-limiting-is-helping-attackers-keep-stolen-accounts/4963989",
       "title": "Account Recovery Rate Limiting Is Helping Attackers Keep Stolen Accounts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964076:1",
+      "url": "https://devforum.roblox.com/t/robloxs-copyright-agent-refuses-to-process-my-dmca-counter-notice-despite-meeting-the-requirements/4964076",
+      "title": "Roblox's Copyright Agent Refuses to Process My DMCA Counter-Notice Despite Meeting the Requirements",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4964107:1",
+      "url": "https://devforum.roblox.com/t/ability-to-actually-permanently-ban-a-person/4964107",
+      "title": "Ability to actually permanently ban a person",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -5018,6 +5002,32 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xihl6r",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xihl6r/gray_screen_in_roblox/",
+      "title": "gray screen in Roblox",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xiiwta",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xiiwta/struggling_with_ccu_or_need_playtesting/",
+      "title": "Struggling with CCU or Need Playtesting?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6398,17 +6408,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xf2x57",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf2x57/remade_mont_blanc_in_roblox_and_decided_to_turn/",
-      "title": "Remade Mont Blanc in Roblox and decided to turn it into a skiing game project",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xf3a1l",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3a1l/dashshot_playtest_at_1pm_et/",
       "title": "DASHSHOT playtest at 1pm (ET)",
@@ -7322,6 +7321,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xij4si",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xij4si/heres_the_names_people_suggested_for_my_roblox/",
+      "title": "Heres the names people suggested for my roblox strategy game, which one should it be",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr",
       "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
       "title": "Acetul (@_acetul) - X",
@@ -7352,19 +7362,6 @@
       "kind": "index-only",
       "signals": [
         "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1UbG9vRDU3UTR2Q1hpNWVtNjdkbzNwdUJsZGQwOFNnZUVaa0Y1d01kYUQzMTlqLU0yN1hGT0V6Q081UzhsLXdhcEJXblE2Q0RIeFZxNnV3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UbG9vRDU3UTR2Q1hpNWVtNjdkbzNwdUJsZGQwOFNnZUVaa0Y1d01kYUQzMTlqLU0yN1hGT0V6Q081UzhsLXdhcEJXblE2Q0RIeFZxNnV3?oc=5",
-      "title": "Break and Steal An Egg Update New Zone! #roblox #breakandstealanegg #new #update #zone - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-25",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
