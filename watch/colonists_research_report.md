@@ -10,7 +10,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Unable to Equip Profile Frames on Desktop and Mobile App on Certain Accounts](https://devforum.roblox.com/t/unable-to-equip-profile-frames-on-desktop-and-mobile-app-on-certain-accounts/4957787)
+- **P0 · first-session and mobile:** [Double Joystick On Studio Mobile Emulator](https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [Feedback on Avakit’s UI and outfit discovery workflow](https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
