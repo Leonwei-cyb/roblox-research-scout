@@ -2,14 +2,14 @@
 
 Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub search returns at most 15 results per query here, ranked by GitHub's own relevance.
 
-- Run: 2026-10-30T03:52:43Z (push) - **PARTIAL**: search stopped early: GitHub rate limit for /search/code
-- API calls: 28 total (rest 28)
-- Distinct repos found: 173; inspected: 0
+- Run: 2026-10-30T06:28:24Z (schedule) - **PARTIAL**: search stopped early: GitHub rate limit for /search/code
+- API calls: 30 total (rest 30)
+- Distinct repos found: 152; inspected: 0
 
 ## Rediscovery check (known repos were NOT used as search input)
 
-- Xalzeroph/Charterion: found by queries s1, not inspected
-- megamen32/chatgpt-multi: found by queries s1, not inspected
+- Xalzeroph/Charterion: **not found** by this run
+- megamen32/chatgpt-multi: **not found** by this run
 - paritoshv/multi-llm-web-orchestrator: **not found** by this run
 
 ## Ranked candidates
@@ -30,10 +30,9 @@ Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub s
 - pack:multi-chatgpt-web-workers:e:strict: ok (15 results)
 - pack:multi-chatgpt-web-workers:e:relaxed: ok (15 results)
 - pack:multi-chatgpt-web-workers:f:strict: ok (15 results)
-- pack:multi-chatgpt-web-workers:f:relaxed: deferred search budget low
-- pack:multi-chatgpt-web-workers:g:strict: deferred search budget low
-- pack:multi-chatgpt-web-workers:g:relaxed: deferred search budget low
-- pack:multi-chatgpt-web-workers:s1:source: ok (50 results)
-- pack:multi-chatgpt-web-workers:s2:source: deferred GitHub rate limit for /search/code
+- pack:multi-chatgpt-web-workers:f:relaxed: ok (15 results)
+- pack:multi-chatgpt-web-workers:g:strict: ok (15 results)
+- pack:multi-chatgpt-web-workers:g:relaxed: ok (15 results)
+- pack:multi-chatgpt-web-workers:s1:source: deferred GitHub rate limit for /search/code
 
 Verdicts are pack-specific. Only a tested review in findings/reviews can make anything adopt.

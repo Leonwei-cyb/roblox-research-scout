@@ -1,7 +1,7 @@
 {
   "api_calls": {
     "by_kind": {
-      "rest": 28
+      "rest": 30
     },
     "calls": [
       {
@@ -137,33 +137,39 @@
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/code?q=%22chatgpt.com%22+content_scripts+sidePanel+filename%3Amanifest.json&per_page=50&page=1"
+        "what": "GET /search/repositories?q=ChatGPT+conversation+queue+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
+      },
+      {
+        "kind": "rest",
+        "outcome": "200",
+        "what": "GET /search/repositories?q=durable+agent+session+manager+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
+      },
+      {
+        "kind": "rest",
+        "outcome": "200",
+        "what": "GET /search/repositories?q=agent+session+manager+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "429",
-        "what": "GET /search/code?q=%22chat.openai.com%22+tabs+scripting+filename%3Amanifest.json&per_page=50&page=1"
+        "what": "GET /search/code?q=%22chatgpt.com%22+content_scripts+sidePanel+filename%3Amanifest.json&per_page=50&page=1"
       }
     ],
     "note": "every GitHub request this run made, pack and non-pack",
-    "total": 28
+    "total": 30
   },
   "candidates": [],
   "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
   "detail": "search stopped early: GitHub rate limit for /search/code",
-  "distinct_repos_found": 173,
+  "distinct_repos_found": 152,
   "known_relevant": [
     {
-      "found_by": [
-        "s1"
-      ],
+      "found_by": [],
       "rank": null,
       "repo": "Xalzeroph/Charterion"
     },
     {
-      "found_by": [
-        "s1"
-      ],
+      "found_by": [],
       "rank": null,
       "repo": "megamen32/chatgpt-multi"
     },
@@ -248,7 +254,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-10-30T03:52:43Z",
+  "run_at": "2026-10-30T06:28:24Z",
   "schema": 1,
   "searches": [
     {
@@ -329,37 +335,33 @@
       "status": "ok"
     },
     {
-      "detail": "search budget low",
       "id": "pack:multi-chatgpt-web-workers:f:relaxed",
+      "items": 15,
       "kind": "search",
-      "status": "deferred"
+      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
+      "status": "ok"
     },
     {
-      "detail": "search budget low",
       "id": "pack:multi-chatgpt-web-workers:g:strict",
+      "items": 15,
       "kind": "search",
-      "status": "deferred"
+      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
+      "status": "ok"
     },
     {
-      "detail": "search budget low",
       "id": "pack:multi-chatgpt-web-workers:g:relaxed",
+      "items": 15,
       "kind": "search",
-      "status": "deferred"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:s1:source",
-      "items": 50,
-      "kind": "code_search",
-      "query": "\"chatgpt.com\" content_scripts sidePanel filename:manifest.json",
+      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "detail": "GitHub rate limit for /search/code",
-      "id": "pack:multi-chatgpt-web-workers:s2:source",
+      "id": "pack:multi-chatgpt-web-workers:s1:source",
       "kind": "code_search",
       "status": "deferred"
     }
   ],
   "status": "partial",
-  "trigger": "push"
+  "trigger": "schedule"
 }
