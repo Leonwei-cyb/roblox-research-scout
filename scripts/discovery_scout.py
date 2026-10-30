@@ -143,6 +143,7 @@ class GitHub:
         self.rate = {}              # resource -> {"remaining": int, "reset_at": iso}
         self.calls = {"rest": 0, "rest_not_modified": 0, "graphql": 0}
         self.log = []               # every request made: kind, what, outcome (no headers, no token)
+        self.budget_skipped = False # a caller skipped requests on a low budget: this scan is incomplete
 
     def _headers(self, extra=None):
         headers = {"Accept": "application/vnd.github+json",
@@ -168,7 +169,9 @@ class GitHub:
 
     def budget_ok(self, resource, minimum):
         info = self.rate.get(resource)
-        return info is None or info.get("remaining", minimum) >= minimum
+        ok = info is None or info.get("remaining", minimum) >= minimum
+        self.budget_skipped = self.budget_skipped or not ok
+        return ok
 
     def _raise_for(self, err, what):
         headers = err.headers or {}
@@ -252,13 +255,23 @@ class GitHub:
             raise RateLimited("GitHub GraphQL rate limit", str(rate.get("resetAt", "")))
         return payload.get("data") or {}, errors
 
-    def prune(self, keep_max=400):
-        """Drop ETags for URLs we no longer request, so the cache stays bounded."""
-        stale = [u for u in self.etags if u not in self.used_urls]
-        for url in stale:
+    def prune(self, keep_max=400, drop_unvisited=True):
+        """Keep the ETag cache bounded. A complete scan drops URLs it no longer requests; an incomplete one
+        (rate limit, backoff, low budget) keeps them for the next run, and the cap still holds, unvisited first."""
+        unvisited = [u for u in self.etags if u not in self.used_urls]
+        if drop_unvisited:
+            for url in unvisited:
+                self.etags.pop(url, None)
+        for url in unvisited + [u for u in self.etags if u in self.used_urls]:
+            if len(self.etags) <= keep_max:
+                break
             self.etags.pop(url, None)
-        while len(self.etags) > keep_max:
-            self.etags.pop(next(iter(self.etags)))
+
+
+def scan_complete(rate_stop, feeds, gh):
+    """Only a scan that made all its requests may forget the URLs it did not request. Low-budget skips count even
+    when no feed shows them (inspect_sources records 'core budget low' per repo and its feed still says ok)."""
+    return not rate_stop and not gh.budget_skipped and not any(f["status"] in {"error", "deferred"} for f in feeds)
 
 
 def compact_search(body):
@@ -1004,7 +1017,9 @@ def run(now=None, token=None, requests_text=None, event="local", run_url=""):
     if not rate_stop and state.get("deferred_until") and (parse_iso(state["deferred_until"]) or now) <= now:
         state.pop("deferred_until", None)
 
-    gh.prune()
+    # A rate-limited, backed-off or low-budget run requested few or no URLs; pruning them all then emptied the cache
+    # (2026-10-29: 0 not-modified). Incomplete scans keep unvisited entries; the cap still holds.
+    gh.prune(drop_unvisited=scan_complete(rate_stop, feeds, gh))
     finished = now if fixed_clock else utcnow()
     status = build_status(rows, feeds, events, gh, cfg, started, iso(finished), outcome, event, run_url)
     text = "".join(json.dumps(r, sort_keys=True, ensure_ascii=False) + "\n" for r in rows)
