@@ -17,7 +17,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)](https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/)** — Community showcase post (video not confirmed) · 2026-10-29
 - **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xia0zb/playtest_mine_ill_test_yours/)** — Community showcase post (video not confirmed) · 2026-10-29
 - **[Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/)** — Community showcase post (video not confirmed) · 2026-10-29
-- **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xj2tbz/playtest_mine_ill_test_yours/)** — Community showcase post (video not confirmed) · 2026-10-30
+- **[+1 Power per click: smash 5 walls and evolve your critter, Trailer (not actual gameplay)](https://www.reddit.com/r/ROBLOXStudio/comments/1xjq94m/1_power_per_click_smash_5_walls_and_evolve_your/)** — Community showcase post (video not confirmed) · 2026-10-30
 
 ## Coverage gap
 

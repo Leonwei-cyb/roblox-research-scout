@@ -7,25 +7,25 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[2 players needed!](https://www.reddit.com/r/ROBLOXStudio/comments/1xjo05r/2_players_needed/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 sta
-- **[Help](https://www.reddit.com/r/ROBLOXStudio/comments/1xjnpfh/help/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: Hello, im a beginner roblox scripter and id like to know after making lobbies or match systems, how do you as developer and builders access them in a way that is different from players? Like for example, A developer and builder can teleport
-- **[LOOKING FOR TEAM](https://www.reddit.com/r/ROBLOXStudio/comments/1xjoc6w/looking_for_team/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: ݁ ˖Ი𐑼⋆ Sweets Boutique - LOOKING FOR TEAM MEMBERS !! Hello guys! My friend and I are starting a new Roblox fashion game project called Sweets Boutique, and I'm looking for a small team who would love to join our project! 𑣲⋆ About game Sweet
-- **[What 15 hours of work does to my dreams...](https://www.reddit.com/r/ROBLOXStudio/comments/1xjo85v/what_15_hours_of_work_does_to_my_dreams/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: Maybe I should take a brake... submitted by /u/Character_Pear_5065 \[link\] \[comments\]
+- **[+1 Power per click: smash 5 walls and evolve your critter, Trailer (not actual gameplay)](https://www.reddit.com/r/ROBLOXStudio/comments/1xjq94m/1_power_per_click_smash_5_walls_and_evolve_your/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: Solo-ish dev here. This is a rendered trailer (not actual gameplay) for my Roblox game +1 Evolution Per Click: Escape the Walls. In the game you get +1 Power every second and per click, break 5 walls (Sprout Fence to the Titan Wall), evolve
+- **[Fake missing or disconnected studio dependecy popum scam](https://www.reddit.com/r/ROBLOXStudio/comments/1xjpnjt/fake_missing_or_disconnected_studio_dependecy/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: https://preview.redd.it/kt6i5vwounyh1.png?width=125&format=png&auto=webp&s=c5a7ba3f0a57276ae381835938ea47dc6a577040 https://preview.redd.it/joy9wsununyh1.png?width=115&format=png&auto=webp&s=ff49c4ce9fe0fc73cf39831e7415713e2b56d670 Hello ev
+- **[help me!](https://www.reddit.com/r/ROBLOXStudio/comments/1xjqe56/help_me/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: Hi Everyone, I am a Roblox dev and I'm trying to make TriMet MAX in roblox. this is what i got in my testing world, A baseplate with decals of real type 6, and blueprints for type 5 & 4. A attempted model of station things But as you can se
 
 ## Roblox Updates
 
-- **[self\[function\]:Connect()?](https://devforum.roblox.com/t/selffunctionconnect/4966541)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: (sorry i got 0 clue what to name this) In Roblox studio objects have that like “button.mousebutton1down:connect(function()” is it possible to make something like this with objects in OOP (self)? like the object causes a function to happen i
-- **[Anyone else figure out how to use the 2 new easing styles?](https://devforum.roblox.com/t/anyone-else-figure-out-how-to-use-the-2-new-easing-styles/4966524)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Not sure if anyone else has noticed, but recently, 2 new easing styles have been sneakily added into Enum.EasingStyles ! These are live, actually, and you can actually reference them in tweens! …With an exception: Now, has anyone figured ou
-- **[MoveDirection AlignOrientation flight with zeroed out Z axis of CFrame Angles?](https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Hello, I use movedirection for my alignorientation flight system but I can’t quite figure out how to zero out the Z axis of the CFrame orientation of the AlignOrientation. I need it to continually be zero or else the plane ends up spinning 
-- **['Player' instance replication behaves strangely when '.Character' is set](https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Currently, there appears to be a very bizarre behavior / bug with replication that only seems to occur with the Player object. If properties, attributes and tags are applied to the player object & a player’s avatar before Player.Character i
+- **[Can't open my game inside studio](https://devforum.roblox.com/t/cant-open-my-game-inside-studio/4966664)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: I wanted to open my game and continue developing it but the first thing i noticed is that none of the games had any icons, tought its not loaded yet, then tried opening my game and i got this error saying : “We could not open the place. Fai
+- **[How to add advection to eulerian incompressible fluid sim?](https://devforum.roblox.com/t/how-to-add-advection-to-eulerian-incompressible-fluid-sim/4966681)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: I’ve been confused for forever now, would anyone be able to help and explain it? I’ve setup velocity and divergence, how would I get advection to work? 1 post - 1 participant Read full topic
+- **[Introducing Scene Generation: Prototype Scenes Faster](https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Key Takeaways Prototype and test ideas in minutes with Scene Generation. Now in beta, Studio Generation takes images and prompts and generates an editable scene of models, textures, and terrain, so you can quickly prototype and test ideas f
+- **[Introducing Scene Generation: Prototype Scenes Faster](https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611)** · Roblox updates category (availability may vary) · 2026-10-30
+  - Feed excerpt: Key Takeaways Prototype and test ideas in minutes with Scene Generation. Now in beta, Studio Generation takes images and prompts and generates an editable scene of models, textures, and terrain, so you can quickly prototype and test ideas f
+- **[New products appearing in community transactions at 50% revenue instead of 70%](https://devforum.roblox.com/t/new-products-appearing-in-community-transactions-at-50-revenue-instead-of-70/4966620)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
 
 ---
 
