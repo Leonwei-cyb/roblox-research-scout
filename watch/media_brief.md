@@ -7,15 +7,19 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[My animation is not loading!](https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
-  - Feed excerpt: i imported the avatar using robloxia cac importer and for some reason the animation doesn't load. the avatar on the right though is imported using moon animator and it works perfectly. Edit: i fixed it using clip editor from roblox studio t
-- **[Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card arts and animations of 7 class](https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
-  - Feed excerpt: The progress is going well, but animating is taking me a lot of time. I'm making my own art using free models and my Roblox avatars. I am proud of the Rokurokubi card I've designed as I also careful approach the balance. I've been designing
+- **[Looking for Playtester?](https://www.reddit.com/r/robloxgamedev/comments/1xj3vso/looking_for_playtester/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
+  - Feed excerpt: Hello everyone its me again! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested I
+- **[How much does it change when players under 16 are cleared to play?](https://www.reddit.com/r/robloxgamedev/comments/1xj46qo/how_much_does_it_change_when_players_under_16_are/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
+  - Feed excerpt: Lately, I've noticed that a major goal for Roblox game developers is to eventually get their game approved for players under 16 that is, all players. And while I completely understand that, I’d like to know how much that can actually boost 
+- **[Let's build the largest AI Slop library possible](https://www.reddit.com/r/robloxgamedev/comments/1xj4a8r/lets_build_the_largest_ai_slop_library_possible/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
+  - Feed excerpt: Here’s my idea: I’d like this post to compile as many patterns, design choices, gameplay elements, bugs, etc., as possible that are considered “AI slop.” The purpose of this—beyond creating more games considered “slop”—is actually the oppos
+- **[hi im making a old roblox game like a back rooms type](https://www.reddit.com/r/robloxgamedev/comments/1xj48oh/hi_im_making_a_old_roblox_game_like_a_back_rooms/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
+  - Feed excerpt: im making in on a real client to later post it in modern roblox also,how do i fix the brick glitches in the pirate ship map? in every map theres a glitch like that and i dont know why it happens,also give me some ideas for rooms or places o
 
 ## Roblox Updates
 
-- **[Voice chat stuck connecting / Cannot hear other players](https://devforum.roblox.com/t/voice-chat-stuck-connecting-cannot-hear-other-players/4965355)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: This issue randomly started occurring yesterday for me and has now persisted for over 24 hours. Every time I join a Roblox game, I can hear everyone’s voice chat for about 5 seconds before it suddenly disconnects, and everyone goes silent. 
+- **[Text on TextLabel not being able to be clicked through (Or it appears not to be able to)](https://devforum.roblox.com/t/text-on-textlabel-not-being-able-to-be-clicked-through-or-it-appears-not-to-be-able-to/4965439)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
 
 ---
 
