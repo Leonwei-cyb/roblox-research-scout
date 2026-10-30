@@ -5,28 +5,25 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[No way i just got meowl🦉 #stealabrai̇nrot #stealabrainrotscript #coderedeemer #robaunbrainrot #robloxfyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTVJDQXNCZlJjX2taNks4amVZT1pfdklHb3dvNkQyUm1felBSUjUyMlJHeXNxWGtvVmtqOVNHeERDRFYxVU51ZW1VSzRzYkFMVU44NTZB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-06
-  - Feed excerpt: No way i just got meowl🦉 #stealabrai̇nrot #stealabrainrotscript #coderedeemer #robaunbrainrot #robloxfyp Instagram
-
 ## Community
 
-- **[Bus in Vain - Halloween Game](https://www.reddit.com/r/ROBLOXStudio/comments/1xje661/bus_in_vain_halloween_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: Hey everyone! I’ve been working on a Halloween game for Roblox called Bus In Vain, and it’s finally out. I’d love to hear what you think. The premise: The Halloween Party is waiting, but the town is crawling with things that don’t want you 
-- **[Roblox using fake accounts to burn your ad credits?](https://www.reddit.com/r/ROBLOXStudio/comments/1xjeq7o/roblox_using_fake_accounts_to_burn_your_ad_credits/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: submitted by /u/grasharcu \[link\] \[comments\]
+- **[Any New Attack Ideas for this Boss Fight??](https://www.reddit.com/r/ROBLOXStudio/comments/1xjgk25/any_new_attack_ideas_for_this_boss_fight/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: This is a complete version of phase 2 of the boss fight, And now I will be working on a phase 3(final phase), so I need more powerful and harder attacks to add for phase 3. Let me know if you have any unique attack ideas! submitted by /u/Co
+- **[Best ways to learn lua](https://www.reddit.com/r/ROBLOXStudio/comments/1xjg4tw/best_ways_to_learn_lua/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: Not the most fun ones. The ones that will teach you everything you want, without cheap work and shortcuts and ofc without $. Lets see submitted by /u/Vagg_13 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Roblox Studio crashes during Team Create session when collaborators edit place](https://devforum.roblox.com/t/roblox-studio-crashes-during-team-create-session-when-collaborators-edit-place/4965945)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Roblox Studio crashes during Team Create session when collaborators edit place Expected Behavior Roblox Studio remains stable, allowing collaborators to make edits continuously without losing connection or crashing. Actual Behavior Studio e
-- **[Account Location Issue](https://devforum.roblox.com/t/account-location-issue/4965911)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I have been told to paste this here by DevRel Account location changes do not properly get picked up in time; My Account Location has been stuck on one country for over two and a half months, and it’s preventing me from collaborating with o
-- **[DMCA Counter-Notice Exceeded 14 Business Days](https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: What do you want to achieve? I want Roblox to investigate the delay in restoring my experience after the DMCA counter-notice process. What is the issue? On October 6, 2026, at 9:14 PM UTC, Roblox confirmed by email that my partner’s counter
-- **[Unable to Create Topics in Help and Feedback](https://devforum.roblox.com/t/unable-to-create-topics-in-help-and-feedback/4965958)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Hello! I’m a 13+ age-verified DevForum Member, but when I click “New Topic” in Help and Feedback, I get the message “You don’t have permission to create topics.” I can create topics in Platform Usage Support. Could someone clarify why I can
+- **[Fallout 4 Plot Building System](https://devforum.roblox.com/t/fallout-4-plot-building-system/4966002)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Place in ServerScriptService, and it will run automatically. Make sure to enable API Services in your Roblox Studio settings, or it won’t work. If you’d prefer not to use the automatic installer, a manual installation guide is included in t
+- **[Trouble Opening Game Files and Creating Baseplate](https://devforum.roblox.com/t/trouble-opening-game-files-and-creating-baseplate/4966005)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Hi Everyone, my friend can’t open his Roblox Games for like a week or two now. He also can’t create a new baseplate because it shows this error when trying to open one. He also tried reinstalling Roblox Studio but it still didn’t work. Plea
+- **[Dynamic Head without Eyebrows](https://devforum.roblox.com/t/dynamic-head-without-eyebrows/4966001)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: pretty self-explanatory what to do if ur head just doesnt have eyebrows? because it is required to be animated for example, a robot head 1 post - 1 participant Read full topic
+- **[Game review Honest](https://devforum.roblox.com/t/game-review-honest/4966050)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Hello I’m currently working on a Harvest Farm type of Game and basically you have a cutter and u plant plants and maybe even own animals on the farm to get a lot of money and basically I just want a super honest review of the game because m
+- **[GetFriendsAsync exposes UK friends lists hidden on the website, including through headless execution](https://devforum.roblox.com/t/getfriendsasync-exposes-uk-friends-lists-hidden-on-the-website-including-through-headless-execution/4965973)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: UK friends lists hidden on the website remain accessible through Players:GetFriendsAsync, including through headless execution I am reporting a friends-list visibility inconsistency affecting UK accounts. Friends lists that are unavailable 
 
 ---
 

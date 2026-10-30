@@ -1921,7 +1921,14 @@
     "1130cc9a508287f09b5e666b",
     "a0129a4a3a519be8a807bf87",
     "0790867a159d93894410e803",
-    "1de2fc1c00a9df0837b20c82"
+    "1de2fc1c00a9df0837b20c82",
+    "ce83dbdd6112626428ebf361",
+    "4ed92303a3e6878b9f6fb7fc",
+    "69b631f05de2ddfb267842f1",
+    "167f9355627c4392ae411326",
+    "b19852aaf475dcf2a66880ec",
+    "d5bbb7ea2960f7e7e9550910",
+    "9a38566f238efd51d706e260"
   ],
   "items": [
     {
@@ -2028,6 +2035,17 @@
       "id": "d88cd6b21162fdbc9de619c0"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Any New Attack Ideas for this Boss Fight??",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjgk25/any_new_attack_ideas_for_this_boss_fight/",
+      "published": "2026-10-30",
+      "excerpt": "This is a complete version of phase 2 of the boss fight, And now I will be working on a phase 3(final phase), so I need more powerful and harder attacks to add for phase 3. Let me know if you have any unique attack ideas! submitted by /u/CoffeeTime5610 [link] [comments]",
+      "creator": "/u/CoffeeTime5610 https://www.reddit.com/user/CoffeeTime5610",
+      "id": "d5bbb7ea2960f7e7e9550910"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2038,6 +2056,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-trailer-under-review-for-more-than-24-hours/4965714.rss",
       "id": "d1fa66b3544e56047dea7945"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game review Honest",
+      "url": "https://devforum.roblox.com/t/game-review-honest/4966050",
+      "published": "2026-10-30",
+      "excerpt": "Hello I’m currently working on a Harvest Farm type of Game and basically you have a cutter and u plant plants and maybe even own animals on the farm to get a lot of money and basically I just want a super honest review of the game because most reviews came from my friends which obviously might lie o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-review-honest/4966050.rss",
+      "id": "ce83dbdd6112626428ebf361"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2084,6 +2114,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287.rss",
       "id": "ba7ce0474d5cdbf39af28d7e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "GetFriendsAsync exposes UK friends lists hidden on the website, including through headless execution",
+      "url": "https://devforum.roblox.com/t/getfriendsasync-exposes-uk-friends-lists-hidden-on-the-website-including-through-headless-execution/4965973",
+      "published": "2026-10-30",
+      "excerpt": "UK friends lists hidden on the website remain accessible through Players:GetFriendsAsync, including through headless execution I am reporting a friends-list visibility inconsistency affecting UK accounts. Friends lists that are unavailable through Roblox’s website can still be retrieved through Play",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/getfriendsasync-exposes-uk-friends-lists-hidden-on-the-website-including-through-headless-execution/4965973.rss",
+      "id": "b19852aaf475dcf2a66880ec"
     },
     {
       "source": "reddit-robloxdev",
@@ -2162,6 +2204,17 @@
       "excerpt": "Here’s my idea: I’d like this post to compile as many patterns, design choices, gameplay elements, bugs, etc., as possible that are considered “AI slop.” The purpose of this—beyond creating more games considered “slop”—is actually the opposite: to avoid them. If you’re creating a game and your game ",
       "creator": "/u/Yoelplayer https://www.reddit.com/user/Yoelplayer",
       "id": "9ffffb4321e548c0e9b8390b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Best ways to learn lua",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjg4tw/best_ways_to_learn_lua/",
+      "published": "2026-10-30",
+      "excerpt": "Not the most fun ones. The ones that will teach you everything you want, without cheap work and shortcuts and ofc without $. Lets see submitted by /u/Vagg_13 [link] [comments]",
+      "creator": "/u/Vagg_13 https://www.reddit.com/user/Vagg_13",
+      "id": "9a38566f238efd51d706e260"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2269,6 +2322,18 @@
       "id": "7ae89919a37bdaefea8bfd5c"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Fallout 4 Plot Building System",
+      "url": "https://devforum.roblox.com/t/fallout-4-plot-building-system/4966002",
+      "published": "2026-10-30",
+      "excerpt": "Place in ServerScriptService, and it will run automatically. Make sure to enable API Services in your Roblox Studio settings, or it won’t work. If you’d prefer not to use the automatic installer, a manual installation guide is included in the README. Inspired by Fallout 4, featuring PBR assets based",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/fallout-4-plot-building-system/4966002.rss",
+      "id": "69b631f05de2ddfb267842f1"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2301,6 +2366,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-on-my-food-collecting-party-game/4965309.rss",
       "id": "52b396d98fed3468835697a7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Trouble Opening Game Files and Creating Baseplate",
+      "url": "https://devforum.roblox.com/t/trouble-opening-game-files-and-creating-baseplate/4966005",
+      "published": "2026-10-30",
+      "excerpt": "Hi Everyone, my friend can’t open his Roblox Games for like a week or two now. He also can’t create a new baseplate because it shows this error when trying to open one. He also tried reinstalling Roblox Studio but it still didn’t work. Please Help out if you know how to fix this issue, we have been ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/trouble-opening-game-files-and-creating-baseplate/4966005.rss",
+      "id": "4ed92303a3e6878b9f6fb7fc"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2406,6 +2483,18 @@
       "excerpt": "i imported the avatar using robloxia cac importer and for some reason the animation doesn't load. the avatar on the right though is imported using moon animator and it works perfectly. Edit: i fixed it using clip editor from roblox studio turns out if your rig is anchored it will make it non animata",
       "creator": "/u/Rjdoglover https://www.reddit.com/user/Rjdoglover",
       "id": "1815a47b57fe4da0cb78f8e1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Dynamic Head without Eyebrows",
+      "url": "https://devforum.roblox.com/t/dynamic-head-without-eyebrows/4966001",
+      "published": "2026-10-30",
+      "excerpt": "pretty self-explanatory what to do if ur head just doesnt have eyebrows? because it is required to be animated for example, a robot head 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dynamic-head-without-eyebrows/4966001.rss",
+      "id": "167f9355627c4392ae411326"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8756,86 +8845,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/20-off-for-roblox-plus-subscribers-not-working/4958330.rss",
       "id": "298d724f7da10b1fb76753d9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to let MOBILE players open dev console without chat",
-      "url": "https://devforum.roblox.com/t/how-to-let-mobile-players-open-dev-console-without-chat/4958235",
-      "published": "2026-10-26",
-      "excerpt": "I’m testing my game with friends and there are still some client bugs on the loose. when something breaks on their clients I can’t know what went wrong because they don’t have chat due to “regional restrictions” (really?) any way I can add a way to open dev console on mobile without violating the TO",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-let-mobile-players-open-dev-console-without-chat/4958235.rss",
-      "id": "23bdc50c5d2999dfd07e51f1"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Whats the best way to make models and can AI make them",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj97y/whats_the_best_way_to_make_models_and_can_ai_make/",
-      "published": "2026-10-26",
-      "excerpt": "I am a beginner never modeled anything before I want to make a weapon model and a jump pad submitted by /u/Icy-Pattern1113 [link] [comments]",
-      "creator": "/u/Icy-Pattern1113 https://www.reddit.com/user/Icy-Pattern1113",
-      "id": "206596926c551c31ef4ac407"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need 16+ playtesters in my game to be exact only 100 please join the link to my game is in my comments if you join my game i will gladly join yours",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgbncg/i_need_16_playtesters_in_my_game_to_be_exact_only/",
-      "published": "2026-10-26",
-      "excerpt": "Hey everyone I'm currently trying to hit the Roblox Audience Reach threshold of 100 16+ players to unlock my game for younger audiences, I will join your roblox game if you join mine Link to my game is in comments paste the link to your games and i will play. submitted by /u/Interesting_Kale1161 [li",
-      "creator": "/u/Interesting_Kale1161 https://www.reddit.com/user/Interesting_Kale1161",
-      "id": "1d7f9d4a214a6bdc2bfc807f"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "critics are calling it “inescapable.” Hiachi, now playing in The Hollow.",
-      "url": "https://www.youtube.com/shorts/gcRDG8UGuqA",
-      "published": "2026-10-26",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "17a5b0b57642dd2c7d559f59"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Converting R6 Head (SpecialMesh) to MeshPart",
-      "url": "https://devforum.roblox.com/t/converting-r6-head-specialmesh-to-meshpart/4958160",
-      "published": "2026-10-26",
-      "excerpt": "My game uses R6 and I’m unable to apply transparency or material to the head since it loads a special mesh rather than a meshpart. I attempted to just use a starter character and replaced the head with a meshpart. I do not want specialmesh inside of character bodyparts in my game even though I’m usi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/converting-r6-head-specialmesh-to-meshpart/4958160.rss",
-      "id": "176dc47ab6d7ef1a77bc2640"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Where can I find this cool baseplate?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfluwt/where_can_i_find_this_cool_baseplate/",
-      "published": "2026-10-26",
-      "excerpt": "submitted by /u/Additional_Figure687 [link] [comments]",
-      "creator": "/u/Additional_Figure687 https://www.reddit.com/user/Additional_Figure687",
-      "id": "15dc22ee98032f298e52a69b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to configure group from create.roblox.com",
-      "url": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831",
-      "published": "2026-10-26",
-      "excerpt": "After a group transfer, I am unable to select the group I wish to configure from create.roblox.com On the creator hub you can select which inventory to configure from a dropdown on the top left. Instead, when accessing the creator hub the loading bar times out after about five seconds and defaults b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831.rss",
-      "id": "14bffe1daecc42e58d8bfdca"
     }
   ]
 }

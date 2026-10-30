@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "e128ec7190993e133dd63667c112a8be60085e5d",
-      "head_subject": "Notifications - post:// get:// etc, a header with capitals (?+X-Key=...) was also sent as a query parameter (#4633)",
+      "head": "73e4b22de901c368b7398d4418c99cd72a9b729b",
+      "head_subject": "Plugins - register_blueprints hook so plugins can mount their own Flask blueprints (#4632)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
