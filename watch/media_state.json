@@ -1953,7 +1953,15 @@
     "10e6f2410ee16c9573d0c165",
     "2166ea16dc9016a80c095341",
     "6e50535103a7688258501c6f",
-    "485c55921bb130ed1b20a8fe"
+    "485c55921bb130ed1b20a8fe",
+    "105ed8320c724e561a22babd",
+    "0728eeffacd59f04083c8437",
+    "ba1ad99c63ef4fb8e446819d",
+    "d30b423bb9eef34feb878865",
+    "7cbdefdb2c97994b02eb4208",
+    "231f97bc4b5e5372e7c804b0",
+    "9c08a5591d7bc19e5fa2d83b",
+    "86777062ffa09f7784b010f2"
   ],
   "items": [
     {
@@ -2169,6 +2177,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "MoveDirection AlignOrientation flight with zeroed out Z axis of CFrame Angles?",
+      "url": "https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475",
+      "published": "2026-10-30",
+      "excerpt": "Hello, I use movedirection for my alignorientation flight system but I can’t quite figure out how to zero out the Z axis of the CFrame orientation of the AlignOrientation. I need it to continually be zero or else the plane ends up spinning left or right. Ideas? 2 posts - 2 participants Read full top",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475.rss",
+      "id": "d30b423bb9eef34feb878865"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Group Ownership Issue – Which Roblox Support Category Should I Use?",
       "url": "https://devforum.roblox.com/t/group-ownership-issue-%E2%80%93-which-roblox-support-category-should-i-use/4966130",
       "published": "2026-10-30",
@@ -2258,6 +2278,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287.rss",
       "id": "ba7ce0474d5cdbf39af28d7e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Anyone else figure out how to use the 2 new easing styles?",
+      "url": "https://devforum.roblox.com/t/anyone-else-figure-out-how-to-use-the-2-new-easing-styles/4966524",
+      "published": "2026-10-30",
+      "excerpt": "Not sure if anyone else has noticed, but recently, 2 new easing styles have been sneakily added into Enum.EasingStyles ! These are live, actually, and you can actually reference them in tweens! …With an exception: Now, has anyone figured out how these work yet? Or is their behavior still a mystery t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/anyone-else-figure-out-how-to-use-the-2-new-easing-styles/4966524.rss",
+      "id": "ba1ad99c63ef4fb8e446819d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2353,6 +2385,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "2 players needed!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjo05r/2_players_needed/",
+      "published": "2026-10-30",
+      "excerpt": "help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 stages to work through, ranging from effortless to some serious",
+      "creator": "/u/sailorvalley https://www.reddit.com/user/sailorvalley",
+      "id": "9c08a5591d7bc19e5fa2d83b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Best ways to learn lua",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjg4tw/best_ways_to_learn_lua/",
       "published": "2026-10-30",
@@ -2420,6 +2463,17 @@
       "id": "8ee6c2189c3abbd0d4a90587"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Help",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjnpfh/help/",
+      "published": "2026-10-30",
+      "excerpt": "Hello, im a beginner roblox scripter and id like to know after making lobbies or match systems, how do you as developer and builders access them in a way that is different from players? Like for example, A developer and builder can teleport to each places to change, build, etc. Players can only of c",
+      "creator": "/u/Healthy-Frosting-608 https://www.reddit.com/user/Healthy-Frosting-608",
+      "id": "86777062ffa09f7784b010f2"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2453,6 +2507,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/serious-frame-lag-every-1-second-on-empty-baseplate/4965471.rss",
       "id": "7ed9b83cfcd5959c977a34cf"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "What 15 hours of work does to my dreams...",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjo85v/what_15_hours_of_work_does_to_my_dreams/",
+      "published": "2026-10-30",
+      "excerpt": "Maybe I should take a brake... submitted by /u/Character_Pear_5065 [link] [comments]",
+      "creator": "/u/Character_Pear_5065 https://www.reddit.com/user/Character_Pear_5065",
+      "id": "7cbdefdb2c97994b02eb4208"
     },
     {
       "source": "reddit-robloxdev",
@@ -2714,6 +2779,17 @@
       "id": "2ef54cfbb52c3754341d8d47"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "LOOKING FOR TEAM",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjoc6w/looking_for_team/",
+      "published": "2026-10-30",
+      "excerpt": "݁ ˖Ი𐑼⋆ Sweets Boutique - LOOKING FOR TEAM MEMBERS !! Hello guys! My friend and I are starting a new Roblox fashion game project called Sweets Boutique, and I'm looking for a small team who would love to join our project! 𑣲⋆ About game Sweets Boutique is inspired by Style Savvy and early 2000’s Korea",
+      "creator": "/u/Civil-Flight7843 https://www.reddit.com/user/Civil-Flight7843",
+      "id": "231f97bc4b5e5372e7c804b0"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2808,6 +2884,18 @@
       "id": "10e6f2410ee16c9573d0c165"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "`Player` instance replication behaves strangely when `.Character` is set",
+      "url": "https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568",
+      "published": "2026-10-30",
+      "excerpt": "Currently, there appears to be a very bizarre behavior / bug with replication that only seems to occur with the Player object. If properties, attributes and tags are applied to the player object & a player’s avatar before Player.Character is set, the changed signals for those will all be received by",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568.rss",
+      "id": "105ed8320c724e561a22babd"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2875,6 +2963,18 @@
       "excerpt": "submitted by /u/grasharcu [link] [comments]",
       "creator": "/u/grasharcu https://www.reddit.com/user/grasharcu",
       "id": "0790867a159d93894410e803"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "self[function]:Connect()?",
+      "url": "https://devforum.roblox.com/t/selffunctionconnect/4966541",
+      "published": "2026-10-30",
+      "excerpt": "(sorry i got 0 clue what to name this) In Roblox studio objects have that like “button.mousebutton1down:connect(function()” is it possible to make something like this with objects in OOP (self)? like the object causes a function to happen in a script instead of the script causing a function to happe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/selffunctionconnect/4966541.rss",
+      "id": "0728eeffacd59f04083c8437"
     },
     {
       "source": "reddit-robloxdev",
@@ -8784,100 +8884,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/viewmodel-animation-lag/4957799.rss",
       "id": "65bd9538ec76b521a4311922"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "where did this animation come from?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfs51w/where_did_this_animation_come_from/",
-      "published": "2026-10-26",
-      "excerpt": "i've seeing this everywhere submitted by /u/fun-Side-4745 [link] [comments]",
-      "creator": "/u/fun-Side-4745 https://www.reddit.com/user/fun-Side-4745",
-      "id": "6477145504dfc0cc9afee799"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Module Scripts that extra Type Annotation?",
-      "url": "https://devforum.roblox.com/t/module-scripts-that-extra-type-annotation/4958546",
-      "published": "2026-10-26",
-      "excerpt": "I’m currently looking into whether there are any packages or tools on Roblox made by others that can extract the full type annotation/schema of other scripts. The main purpose is to avoid relying on typeof(require(...)) to obtain type information from another module. In my project, this has been cau",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/module-scripts-that-extra-type-annotation/4958546.rss",
-      "id": "6208cad9cc9b95d300eaf9e1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Terminated while suspended by automated moderation for \"Terrorism/Extremism\". Still don't have proper context as to why I was banned",
-      "url": "https://devforum.roblox.com/t/terminated-while-suspended-by-automated-moderation-for-terrorismextremism-still-dont-have-proper-context-as-to-why-i-was-banned/4958128",
-      "published": "2026-10-26",
-      "excerpt": "Good evening everybody, I’m mainly posting because it’s been about more than a week since I’ve been suspended and 5 days since I was terminated. And this entire appeal process has highly frustrating. Situation On October 15th, 2026, I was suspended due to “Terrorism/Extremism”, and only thing that w",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/terminated-while-suspended-by-automated-moderation-for-terrorismextremism-still-dont-have-proper-context-as-to-why-i-was-banned/4958128.rss",
-      "id": "5f146ff1f53a8d477cd9f96f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Decimals don't exist",
-      "url": "https://devforum.roblox.com/t/decimals-dont-exist/4957803",
-      "published": "2026-10-26",
-      "excerpt": "I’m trying to code a script where parts fade in as you walk closer to it. But usually, It will snap to either 1 or 0 transparency. anyone know why? heres the script: function r(n) -- So i can round to 2 decimal places, I tested it this isn't the problem. n = n*100 n = math.round(n) n = n/100 return ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/decimals-dont-exist/4957803.rss",
-      "id": "5c72380f9e7d69c052b11929"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Implement \"Clarity City\" / \"Metropolis\" as a better replacement to Gotham SSm",
-      "url": "https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gotham-ssm/4958682",
-      "published": "2026-10-26",
-      "excerpt": "When Gotham and Arial were removed in 2024 , Montserrat and Arimo were added as a replacement respectively. The reasoning for the removal is presumably due to licensing costs, which is understandable , the replacement for Arial was okay, but the replacement for Gotham feels way too off , it doesn’t ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gotham-ssm/4958682.rss",
-      "id": "5c21432453c7aeb9b031405e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My new police vs criminal manhunt game!",
-      "url": "https://devforum.roblox.com/t/my-new-police-vs-criminal-manhunt-game/4959011",
-      "published": "2026-10-26",
-      "excerpt": "1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-new-police-vs-criminal-manhunt-game/4959011.rss",
-      "id": "5b7078463c87d494cddde161"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Feedback on Avakit’s UI and outfit discovery workflow",
-      "url": "https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773",
-      "published": "2026-10-26",
-      "excerpt": "Hey everyone! We’re building Avakit, a Roblox outfit creator and discovery platform for players who enjoy avatar styling. It connects a website with an in-game experience so you can create and share looks, explore Roblox outfit ideas from other creators, and try outfits on your avatar. On the websit",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773.rss",
-      "id": "589b8a5cc5e8d6d043c18483"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Dinosaurs and models for my sci fi dinosaur game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg85o4/dinosaurs_and_models_for_my_sci_fi_dinosaur_game/",
-      "published": "2026-10-26",
-      "excerpt": "All species (besides humans) are genetically modified,while also keeping the scientifically accurate aspects of the real animals 1 - dearc 2 - herrerasaurus 3 - ceratosaurus 4 - microraptor 5 - homo sapiens submitted by /u/nerdyguy107291 [link] [comments]",
-      "creator": "/u/nerdyguy107291 https://www.reddit.com/user/nerdyguy107291",
-      "id": "540d43d82a464443c304d400"
     }
   ]
 }

@@ -36,21 +36,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958773:1",
-      "url": "https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773",
-      "title": "Feedback on Avakit’s UI and outfit discovery workflow",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "UI and menus",
-        "player feedback and marketing"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4960088:1",
       "url": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088",
       "title": "[SHOWCASE / FEEDBACK] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)",
@@ -1273,19 +1258,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958546:1",
-      "url": "https://devforum.roblox.com/t/module-scripts-that-extra-type-annotation/4958546",
-      "title": "Module Scripts that extra Type Annotation?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4958576:1",
       "url": "https://devforum.roblox.com/t/json-handler-script/4958576",
       "title": "Json Handler Script",
@@ -2252,6 +2224,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4966568:1",
+      "url": "https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568",
+      "title": "`Player` instance replication behaves strangely when `.Character` is set",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xfi8qf",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/",
       "title": "Looking for Roblox map builders",
@@ -2273,19 +2258,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xfs51w",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfs51w/where_did_this_animation_come_from/",
-      "title": "where did this animation come from?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2314,19 +2286,6 @@
         "animation and audio",
         "world and visual design",
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xg85o4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg85o4/dinosaurs_and_models_for_my_sci_fi_dinosaur_game/",
-      "title": "Dinosaurs and models for my sci fi dinosaur game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2953,6 +2912,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xjnpfh",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjnpfh/help/",
+      "title": "Help",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xjo05r",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjo05r/2_players_needed/",
+      "title": "2 players needed!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4959045:1",
       "url": "https://devforum.roblox.com/t/douglas-fir-pack-roblox-vs-unreal-engine-5/4959045",
       "title": "Douglas Fir Pack | Roblox vs. Unreal Engine 5",
@@ -3474,19 +3461,6 @@
       "kind": "devforum",
       "signals": [
         "UI and menus"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957803:1",
-      "url": "https://devforum.roblox.com/t/decimals-dont-exist/4957803",
-      "title": "Decimals don't exist",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4111,6 +4085,32 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4966524:1",
+      "url": "https://devforum.roblox.com/t/anyone-else-figure-out-how-to-use-the-2-new-easing-styles/4966524",
+      "title": "Anyone else figure out how to use the 2 new easing styles?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4966541:1",
+      "url": "https://devforum.roblox.com/t/selffunctionconnect/4966541",
+      "title": "self[function]:Connect()?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4905,17 +4905,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958128:1",
-      "url": "https://devforum.roblox.com/t/terminated-while-suspended-by-automated-moderation-for-terrorismextremism-still-dont-have-proper-context-as-to-why-i-was-banned/4958128",
-      "title": "Terminated while suspended by automated moderation for \"Terrorism/Extremism\". Still don't have proper context as to why I was banned",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4958224:1",
       "url": "https://devforum.roblox.com/t/feature-request-eliminate-json-serialization-overhead-in-datastores-%E2%80%94-native-binary-storage/4958224",
       "title": "[Feature Request] Eliminate JSON Serialization Overhead in DataStores — Native Binary Storage",
@@ -4971,17 +4960,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958682:1",
-      "url": "https://devforum.roblox.com/t/implement-clarity-city-metropolis-as-a-better-replacement-to-gotham-ssm/4958682",
-      "title": "Implement \"Clarity City\" / \"Metropolis\" as a better replacement to Gotham SSm",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4958698:1",
       "url": "https://devforum.roblox.com/t/i-got-a-7-day-suspension-for-my-bullet-texture-why/4958698",
       "title": "I got a 7-day suspension for my bullet texture, why?",
@@ -4996,17 +4974,6 @@
       "key": "devforum:4958947:1",
       "url": "https://devforum.roblox.com/t/auto-translation-overrides-manual-translations/4958947",
       "title": "Auto translation overrides manual translations",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959011:1",
-      "url": "https://devforum.roblox.com/t/my-new-police-vs-criminal-manhunt-game/4959011",
-      "title": "My new police vs criminal manhunt game!",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -6291,6 +6258,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4966475:1",
+      "url": "https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475",
+      "title": "MoveDirection AlignOrientation flight with zeroed out Z axis of CFrame Angles?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xfonv5",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfonv5/can_we_start_a_petition_to_ban_brainrot_posts/",
       "title": "can we start a petition to ban brainrot posts from this sub?",
@@ -7328,6 +7306,28 @@
       "key": "reddit:1xjh4zv",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjh4zv/i_have_choosen_the_name_for_my_roblox_strategy/",
       "title": "I have choosen the name for my roblox strategy game, thank you all for your suggestions, \"Bloxy Wars: Modern Warfare\" will be the games name!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xjo85v",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjo85v/what_15_hours_of_work_does_to_my_dreams/",
+      "title": "What 15 hours of work does to my dreams...",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xjoc6w",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjoc6w/looking_for_team/",
+      "title": "LOOKING FOR TEAM",
       "source": "reddit-robloxstudio",
       "published": "2026-10-30",
       "kind": "reddit",

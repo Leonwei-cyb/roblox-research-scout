@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 309
+- devforum: 307
 - index-only: 10
-- reddit: 269
+- reddit: 271
 - youtube: 8
 
 ## First-Session And Mobile
@@ -36,8 +36,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Ui And Menus
 
-- [Feedback on Avakit’s UI and outfit discovery workflow](https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 - [I built a tool that turns ideas into actual Roblox Studio UI in under 5 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xi1ac5/i_built_a_tool_that_turns_ideas_into_actual/) — reddit; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xi2qe8/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
@@ -56,8 +56,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xi2qe8/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I just launched my first Roblox game: dig junk, build a robot buddy, fuse parts to Gold. Looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xj05d7/i_just_launched_my_first_roblox_game_dig_junk/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 

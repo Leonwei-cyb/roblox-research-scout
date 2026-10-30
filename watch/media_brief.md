@@ -7,23 +7,25 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[SURVIVE 30 WAVES OF TERROR IN CINDER CITY PROTECT THE REACTOR PICK YOUR TEAM IN THIS REALISTIC FREE CLASS BASED SHOOTER!](https://www.reddit.com/r/ROBLOXStudio/comments/1xjm85i/survive_30_waves_of_terror_in_cinder_city_protect/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: We're a 2 person team working hard on THE DEADLOCK, a 30-wave free class based zombie shooter on Roblox. Since new games are hard to find via search right now, we'd love for fellow devs and players to play it out and let us know what you th
+- **[2 players needed!](https://www.reddit.com/r/ROBLOXStudio/comments/1xjo05r/2_players_needed/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 sta
+- **[Help](https://www.reddit.com/r/ROBLOXStudio/comments/1xjnpfh/help/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: Hello, im a beginner roblox scripter and id like to know after making lobbies or match systems, how do you as developer and builders access them in a way that is different from players? Like for example, A developer and builder can teleport
+- **[LOOKING FOR TEAM](https://www.reddit.com/r/ROBLOXStudio/comments/1xjoc6w/looking_for_team/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: ݁ ˖Ი𐑼⋆ Sweets Boutique - LOOKING FOR TEAM MEMBERS !! Hello guys! My friend and I are starting a new Roblox fashion game project called Sweets Boutique, and I'm looking for a small team who would love to join our project! 𑣲⋆ About game Sweet
+- **[What 15 hours of work does to my dreams...](https://www.reddit.com/r/ROBLOXStudio/comments/1xjo85v/what_15_hours_of_work_does_to_my_dreams/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: Maybe I should take a brake... submitted by /u/Character_Pear_5065 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Feature Request: Remove the Roblox Plus Requirement for Classic Clothing](https://devforum.roblox.com/t/feature-request-remove-the-roblox-plus-requirement-for-classic-clothing/4966393)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Hello Roblox team! I would like to request the removal of the Roblox Plus requirement for creating, uploading, and selling classic clothing on Roblox. Classic clothing creation is an important part of the Roblox creator community. Many tale
-- **[Game review and feedback](https://devforum.roblox.com/t/game-review-and-feedback/4966434)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I recently picked up an old project and am back to working on it. I really refined a lot of UI and other systems. My question is, is this worth my time and does it have potential? My biggest mistake when i first released this project was I 
-- **[Low poly developer for hire!](https://devforum.roblox.com/t/low-poly-developer-for-hire/4966414)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Hi there! I am offering my services as a modeler. I specialize in low poly models. I have been using Blender for 6 years and have previously worked on few games such as WW1/WW2 themed Warborne, sadly never released, Orion Maryland, and a fe
-- **[Unable to join Team Create sessions of places under a certain group.](https://devforum.roblox.com/t/unable-to-join-team-create-sessions-of-places-under-a-certain-group/4966400)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I am unable to join active team create sessions under the BloxStrike group. Namely; This Dev Place . I have no issues joining team create sessions in other groups, and I am able to open places where there are no active users even under this
-- **[What are Enum.EasingStyle.Spring and Enum.EasingStyle.Bezier for?](https://devforum.roblox.com/t/what-are-enumeasingstylespring-and-enumeasingstylebezier-for/4966407)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I was defining a TweenInfo in one of my scripts, started typing in Enum.EasingStyle.S and saw an option to auto-fill to Spring . I looked in the documentation and I can’t find this mentioned anywhere. It is not listed in EasingStyle Documen
-- **[error code 249, team create session](https://devforum.roblox.com/t/error-code-249-team-create-session/4966389)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: error code 249, happens when launching a team create session from a Mac Expected behavior allow me to join a team create session 2 posts - 2 participants Read full topic
+- **[self\[function\]:Connect()?](https://devforum.roblox.com/t/selffunctionconnect/4966541)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: (sorry i got 0 clue what to name this) In Roblox studio objects have that like “button.mousebutton1down:connect(function()” is it possible to make something like this with objects in OOP (self)? like the object causes a function to happen i
+- **[Anyone else figure out how to use the 2 new easing styles?](https://devforum.roblox.com/t/anyone-else-figure-out-how-to-use-the-2-new-easing-styles/4966524)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Not sure if anyone else has noticed, but recently, 2 new easing styles have been sneakily added into Enum.EasingStyles ! These are live, actually, and you can actually reference them in tweens! …With an exception: Now, has anyone figured ou
+- **[MoveDirection AlignOrientation flight with zeroed out Z axis of CFrame Angles?](https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Hello, I use movedirection for my alignorientation flight system but I can’t quite figure out how to zero out the Z axis of the CFrame orientation of the AlignOrientation. I need it to continually be zero or else the plane ends up spinning 
+- **['Player' instance replication behaves strangely when '.Character' is set](https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Currently, there appears to be a very bizarre behavior / bug with replication that only seems to occur with the Player object. If properties, attributes and tags are applied to the player object & a player’s avatar before Player.Character i
 
 ---
 
