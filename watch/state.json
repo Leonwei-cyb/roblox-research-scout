@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "b3f291d131924810e2b7713ededc144843a229d5",
-      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
+      "head": "d4dfed4e1c578cfea8bd6e64873e4f5e5b7e36f0",
+      "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.314",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "73e4b22de901c368b7398d4418c99cd72a9b729b",
-      "head_subject": "Plugins - register_blueprints hook so plugins can mount their own Flask blueprints (#4632)",
+      "head": "de0b4a32cb5af21f2d804c77fd8d396c8a992541",
+      "head_subject": "API - systeminfo overdue_watches no longer lists paused watches (#4607) (#4635)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -183,6 +183,7 @@
     "adamkhalile/luau-docs-oracle",
     "amanbolat/awesome-rust-with-stars",
     "andrew/ultimate-awesome",
+    "andrian-syh/roblox-best-practices-skill",
     "aneasystone/github-trending",
     "animeshsingh3434/roblox-ui-component-foundry",
     "anthropics/claude-code",

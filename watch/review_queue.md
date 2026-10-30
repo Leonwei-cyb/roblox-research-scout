@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Rotated UI stroke pixelated.](https://devforum.roblox.com/t/rotated-ui-stroke-pixelated/4965776)** — Public text/page, video not confirmed
+- **[How is it possible to achieve this vfx effect?](https://devforum.roblox.com/t/how-is-it-possible-to-achieve-this-vfx-effect/4966210)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
