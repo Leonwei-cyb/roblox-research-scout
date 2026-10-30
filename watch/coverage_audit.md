@@ -11,7 +11,7 @@ Links and metadata collected; original social videos are NOT automatically playe
 
 ## Failures to resolve
 
-- reddit-robloxstudio: HTTP 429
+- reddit-robloxdev: HTTP 429
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 404
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 404

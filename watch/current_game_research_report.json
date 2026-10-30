@@ -1,14 +1,67 @@
 {
-  "schema": "LEON_ACTIVE_GAME_RESEARCH_REPORT_V1",
-  "status": "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS",
-  "active_game": null,
-  "held_games_not_current": [],
+  "schema": "LEON_COLONISTS_RESEARCH_REPORT_V1",
+  "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
+  "active_game": "Colonists",
+  "held_games_not_current": [
+    "Cat Magic"
+  ],
   "input_unique_posts": 595,
   "original_source_candidates": 585,
   "inspected_videos": 0,
   "observed_gameplay_findings": 0,
   "new_code_changes_authorized": false,
-  "candidates": [],
-  "unfilled_topics": [],
-  "authority": "studio-gate/active_game.txt: MISSING"
+  "candidates": [
+    {
+      "priority": "P0",
+      "topic": "first-session and mobile",
+      "key": "devforum:4957787:1",
+      "title": "Unable to Equip Profile Frames on Desktop and Mobile App on Certain Accounts",
+      "url": "https://devforum.roblox.com/t/unable-to-equip-profile-frames-on-desktop-and-mobile-app-on-certain-accounts/4957787",
+      "kind": "devforum",
+      "published": "2026-10-26",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Can a first-time desktop player place both opening settlements and roads without help text?"
+    },
+    {
+      "priority": "P1",
+      "topic": "UI and menus",
+      "key": "devforum:4955795:1",
+      "title": "How to properly preload Ui images that aren't visible at runtime?",
+      "url": "https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795",
+      "kind": "devforum",
+      "published": "2026-10-25",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?"
+    },
+    {
+      "priority": "P1",
+      "topic": "world and visual design",
+      "key": "reddit:1xfj97y",
+      "title": "Whats the best way to make models and can AI make them",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj97y/whats_the_best_way_to_make_models_and_can_ai_make/",
+      "kind": "reddit",
+      "published": "2026-10-26",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?"
+    },
+    {
+      "priority": "P1",
+      "topic": "animation and audio",
+      "key": "devforum:4960734:1",
+      "title": "[Early Access Program] Build 2D Games With `AnimatedImages`",
+      "url": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
+      "kind": "devforum",
+      "published": "2026-10-27",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?"
+    }
+  ],
+  "unfilled_topics": [
+    "board game and turn flow"
+  ],
+  "authority": "LEON_ACTIVE_GAME"
 }

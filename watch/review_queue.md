@@ -8,7 +8,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[next stop on The Burning Up Tour All Over Again: Steal an Egg. Jonas Brothers live this Halloween.](https://www.youtube.com/shorts/sRNaj6S0zhY)** — Original media link, not watched
 - **[How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE)** — Original media link, not watched
-- **[Wumby Zoo is now in beta — feedback on the early progression?](https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999)** — Public text/page, video not confirmed
+- **[Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
@@ -21,5 +21,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/)** — Public text/page, video not confirmed
-- **[Struggling with CCU or Need Playtesting?](https://www.reddit.com/r/ROBLOXStudio/comments/1xiiwta/struggling_with_ccu_or_need_playtesting/)** — Public text/page, video not confirmed
+- **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xj2tbz/playtest_mine_ill_test_yours/)** — Public text/page, video not confirmed
 - **[Claude Integrated Into Roblox Studio!](https://devforum.roblox.com/t/claude-integrated-into-roblox-studio/4965139)** — Public text/page, video not confirmed

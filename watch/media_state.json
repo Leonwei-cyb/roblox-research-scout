@@ -1887,7 +1887,16 @@
     "7ae89919a37bdaefea8bfd5c",
     "4738ee0057a9369121db1859",
     "f5082b59065dda9aa8b01419",
-    "ad435c02b2fbb80329042b21"
+    "ad435c02b2fbb80329042b21",
+    "7ed9b83cfcd5959c977a34cf",
+    "200f1bdb09357de3c0eace0f",
+    "82bf940dcd6386ee05a1230b",
+    "b5bed1df585a7bd2e2378eca",
+    "51d1f4b76a739bc484795adb",
+    "65b355920713ab7174021bba",
+    "0ae1bcd31f57a1df2c7a941d",
+    "0959e7bacb07546b97f5d55c",
+    "f84ec95d096b7107cb855ff3"
   ],
   "items": [
     {
@@ -2061,6 +2070,29 @@
       "id": "8ee6c2189c3abbd0d4a90587"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Playtest mine I’ll test yours!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj2tbz/playtest_mine_ill_test_yours/",
+      "published": "2026-10-30",
+      "excerpt": "DEVELOPERS LETS HELP EACH OTHER OUT!! I’m trying to get my Roblox game S WORLD through the 16+ trial phase, and I need people to actually try it out! I’d be happy to try yours as well! I’ve been working really hard on mine, I need to get past this trial phase. If you’re 16+ and age-checked on Roblox",
+      "creator": "/u/Party_Preparation596 https://www.reddit.com/user/Party_Preparation596",
+      "id": "82bf940dcd6386ee05a1230b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Serious frame lag every 1 second on empty baseplate",
+      "url": "https://devforum.roblox.com/t/serious-frame-lag-every-1-second-on-empty-baseplate/4965471",
+      "published": "2026-10-30",
+      "excerpt": "Almost exactly every 1 second, the frame takes super long to render and causes a sudden lagspike. I reinstalled studio and disabled all plugins, then opened a new empty baseplate. You don’t even have to play the game – it lags like this in the studio window too (also ingame). I’ve attached the full ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/serious-frame-lag-every-1-second-on-empty-baseplate/4965471.rss",
+      "id": "7ed9b83cfcd5959c977a34cf"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2070,6 +2102,17 @@
       "excerpt": "Hello everyone its me again! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested I currently have 2 playtesting sessions scheduled this weeken",
       "creator": "/u/WeirdSecretary8064 https://www.reddit.com/user/WeirdSecretary8064",
       "id": "7ae89919a37bdaefea8bfd5c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Trailer for a new Roblox Wordle Game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj27wt/trailer_for_a_new_roblox_wordle_game/",
+      "published": "2026-10-30",
+      "excerpt": "For the past year, I've been working on a ROBLOX Wordle game. I made all the assets, including the Game Icon, Thumbnails, and obtainable in-game items, myself using Photopea or Canva (mostly Photopea). Comment your thoughts below submitted by /u/Upbeat_Time785 [link] [comments]",
+      "creator": "/u/Upbeat_Time785 https://www.reddit.com/user/Upbeat_Time785",
+      "id": "65b355920713ab7174021bba"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2105,6 +2148,17 @@
       "excerpt": "i imported the avatar using robloxia cac importer and for some reason the animation doesn't load. the avatar on the right though is imported using moon animator and it works perfectly. Edit: i fixed it using clip editor from roblox studio turns out if your rig is anchored it will make it non animata",
       "creator": "/u/Rjdoglover https://www.reddit.com/user/Rjdoglover",
       "id": "1815a47b57fe4da0cb78f8e1"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Tutorial system for my upcoming roblox game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj1wk2/tutorial_system_for_my_upcoming_roblox_game/",
+      "published": "2026-10-30",
+      "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
+      "creator": "/u/vestive https://www.reddit.com/user/vestive",
+      "id": "0ae1bcd31f57a1df2c7a941d"
     },
     {
       "source": "reddit-robloxdev",
@@ -2162,6 +2216,17 @@
       "excerpt": "modeled 3 uniforms for the second nation of my game project, \"A Soldier's Poem\" they are from the Eisenreich Empire a Austrian/Bavarian inspired nation that speak German. The Eisenreich Empire it self is a imaginary nation heavely imperialist (ence the name) and are actively trying to expand their b",
       "creator": "/u/Wooden_Cellist_755 https://www.reddit.com/user/Wooden_Cellist_755",
       "id": "fa065ebf71243ce4fbd3cee5"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Made a free crafting + forge/upgrade system for Roblox, looking for feedback",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/",
+      "published": "2026-10-29",
+      "excerpt": "Hey, I've been working on a crafting system for a while and just put it up for free. Posting here because I'd like to hear what people who actually ship Roblox games think. It's recipes + stations + an upgrade/enchant forge, with a UI already built so you can drop it in and see it working. Recipes l",
+      "creator": "/u/elabsurdo1234 https://www.reddit.com/user/elabsurdo1234",
+      "id": "f84ec95d096b7107cb855ff3"
     },
     {
       "source": "reddit-robloxdev",
@@ -2562,6 +2627,17 @@
       "excerpt": "Devotion Devotion is a roguelike/PVE game looking for devs currently in its early stages: Currently looking for - Modeller 0/2 Scripter 1/2 Animator 0/2 Composer 0/1 Builder 0/2 Rev Share Info (To split between with) Scripters - 10% Modellers - 5% Animators - 5% Builders - 10% Composers - Agreement ",
       "creator": "/u/Mean_Boysenberry138 https://www.reddit.com/user/Mean_Boysenberry138",
       "id": "b6134bd09de11c50ec0af323"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "my cute stud animals :')",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xitt8j/my_cute_stud_animals/",
+      "published": "2026-10-29",
+      "excerpt": "these were made totally in studio with mesh parts and they have that really nice steal an egg style texture on them, its kinda different but they are still really cute, and they use a procedural idle and walk animation !! submitted by /u/OppositeMental4347 [link] [comments]",
+      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
+      "id": "b5bed1df585a7bd2e2378eca"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3194,6 +3270,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Does this get more enjoyable the more you learn",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xixny5/does_this_get_more_enjoyable_the_more_you_learn/",
+      "published": "2026-10-29",
+      "excerpt": "I’m a beginner I’m trying to create an fps game there is a lot of friction for any little thing I want to change or add I have to look up a tutorial or rely on ai and there is a lot of stuff you have to learn like modeling gui animation coding does it become more enjoyable the more you learn so you ",
+      "creator": "/u/Icy-Pattern1113 https://www.reddit.com/user/Icy-Pattern1113",
+      "id": "51d1f4b76a739bc484795adb"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Jail Cell Suggestions?",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xia5te/jail_cell_suggestions/",
       "published": "2026-10-29",
@@ -3493,6 +3580,17 @@
       "id": "22de51cfa4f149f38dbcc81b"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Swirl",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xivs4s/swirl/",
+      "published": "2026-10-29",
+      "excerpt": "Fun model I created using some of my older assets and putting them together in one thing. submitted by /u/CryNo4699 [link] [comments]",
+      "creator": "/u/CryNo4699 https://www.reddit.com/user/CryNo4699",
+      "id": "200f1bdb09357de3c0eace0f"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3583,6 +3681,17 @@
       "excerpt": "Hi there! I'm looking for scripture for my upcoming game as co-creators for my new game FALSE PROMISE Which is a PVP AND a PVE game! (Splitting future earnings 50/50 via a Roblox group) I've already done all of the character design, lore and gameplay and I'm looking for a coder cuz I'm on mobile so ",
       "creator": "/u/AX0L0TL_K1TTY https://www.reddit.com/user/AX0L0TL_K1TTY",
       "id": "0cd6420dd2edcb2b574db5fd"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "What?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xiuqrz/what/",
+      "published": "2026-10-29",
+      "excerpt": "It was fine 30 minutes ago Found the problem submitted by /u/Select_Stretch_625 [link] [comments]",
+      "creator": "/u/Select_Stretch_625 https://www.reddit.com/user/Select_Stretch_625",
+      "id": "0959e7bacb07546b97f5d55c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8699,110 +8808,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/when-trying-to-publish-a-dynamic-head-i-get-content-restricted-assets/4957094.rss",
       "id": "e7a6da93176dce6d94e27cf4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Programmatically edit Experience details",
-      "url": "https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190",
-      "published": "2026-10-25",
-      "excerpt": "Hello, I am trying to achieve programmatically editing experience details (basically just using Roblox’s endpoints) but I am having issues finding out whether it is actually possible. Said experience details are as follows: Thumbnail and experience icon Experience name Experience description My inte",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/programmatically-edit-experience-details/4957190.rss",
-      "id": "e71f66f15a9a3b4cf1649a85"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "512x512 UGC accessory texture renders at noticeably lower resolution in Roblox Player than in Studio",
-      "url": "https://devforum.roblox.com/t/512x512-ugc-accessory-texture-renders-at-noticeably-lower-resolution-in-roblox-player-than-in-studio/4957229",
-      "published": "2026-10-25",
-      "excerpt": "I uploaded a UGC accessory (pumpkin cat head) with a 512x512 texture. In Roblox Studio, the texture renders close to how it looks in Blender. In the Roblox Player, the same accessory renders at what appears to be a much lower resolution than 512x512. Edges become blurry and smeared, and the sharp, i",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/512x512-ugc-accessory-texture-renders-at-noticeably-lower-resolution-in-roblox-player-than-in-studio/4957229.rss",
-      "id": "e53f561d28163c4a5619f476"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Gamepass Sales Show Only 1-2 Robux Pending Instead of Expected Earnings",
-      "url": "https://devforum.roblox.com/t/gamepass-sales-show-only-1-2-robux-pending-instead-of-expected-earnings/4956491",
-      "published": "2026-10-25",
-      "excerpt": "Whenever I check my group’s Revenue → Sales, I see that purchases of gamepasses and developer products in my group’s game generate only 1-2 Robux in pending earnings, even though the amounts should be much higher. For example, I have a gamepass priced at 299 Robux, but the sale shows only 2 Robux pe",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/gamepass-sales-show-only-1-2-robux-pending-instead-of-expected-earnings/4956491.rss",
-      "id": "e4bb8660835e1dea6b65b5c4"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/",
-      "published": "2026-10-25",
-      "excerpt": "hello everyone, im looking for a plugin or a way to subdivide parts in smaller parts, I found a plugin but only works in 1 direction, if anyone knwos a way or a plugin to do this please let me know in the comments, thanks! submitted by /u/matioxi333 [link] [comments]",
-      "creator": "/u/matioxi333 https://www.reddit.com/user/matioxi333",
-      "id": "e471843efbccdf51945088ca"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Retarget-r15-to-r6 - stylistically convert your r15 anims to r6",
-      "url": "https://devforum.roblox.com/t/retarget-r15-to-r6-stylistically-convert-your-r15-anims-to-r6/4957189",
-      "published": "2026-10-25",
-      "excerpt": "A library for stylistically converting R15 animations to R6. It also comes with a Studio plugin for converting animations directly in Studio. Library: Wally · GitHub Plugin: Creator Store 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/retarget-r15-to-r6-stylistically-convert-your-r15-anims-to-r6/4957189.rss",
-      "id": "e3e503056e34abbf427fc213"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Showing the Combat for my game UPROOT",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeofz3/showing_the_combat_for_my_game_uproot/",
-      "published": "2026-10-25",
-      "excerpt": "i have not posted in a while hello submitted by /u/PlugsyOfficialRBLX [link] [comments]",
-      "creator": "/u/PlugsyOfficialRBLX https://www.reddit.com/user/PlugsyOfficialRBLX",
-      "id": "dfec70eb65ae42412f6ca4bd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "2,000 waypoint-chasing npcs, procedurally animations + custom server authority & client prediction",
-      "url": "https://devforum.roblox.com/t/2000-waypoint-chasing-npcs-procedurally-animations-custom-server-authority-client-prediction/4957707",
-      "published": "2026-10-25",
-      "excerpt": "mostly just posting because i think it’s cool, and i’m glad i finally have something useable. if you have seen my other posts, you might remember i have been working on a buffer-based entity component system, and this is where it has gotten me. npcs have 0 server-parts, 0 humanoids, 0 animators. ani",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/2000-waypoint-chasing-npcs-procedurally-animations-custom-server-authority-client-prediction/4957707.rss",
-      "id": "de73bb964bb68f07b22626ca"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How to hit the Roblox algorithm?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7sb3/how_to_hit_the_roblox_algorithm/",
-      "published": "2026-10-25",
-      "excerpt": "How do you actually get your Roblox game picked up by the algorithm? I’ve been developing Roblox games and I’m trying to understand how the discovery algorithm works. From what I’ve seen, getting visits through ads doesn’t necessarily mean your game will start getting recommended organically. For de",
-      "creator": "/u/muffinstaken_PROx https://www.reddit.com/user/muffinstaken_PROx",
-      "id": "dd3b9728f67281976284a5fd"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made a creature-collecting game where your pets mutate and you build floating islands. Looking for feedback!Texte :",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfhjfq/i_made_a_creaturecollecting_game_where_your_pets/",
-      "published": "2026-10-25",
-      "excerpt": "Hey everyone! I’ve been working on MUTATION ISLANDS, a Roblox game where you collect creatures, mutate them into rarer and weirder versions, and build your own islands. I’m a solo dev and I’d love some honest feedback on: Does the mutation system feel rewarding? What would you add to make the island",
-      "creator": "/u/KillerNoob00876 https://www.reddit.com/user/KillerNoob00876",
-      "id": "d91108fd87bb598f8e00bc12"
     }
   ]
 }
