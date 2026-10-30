@@ -11,8 +11,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 ## Saved source coverage
 
 - devforum: 309
-- index-only: 9
-- reddit: 270
+- index-only: 10
+- reddit: 269
 - youtube: 8
 
 ## First-Session And Mobile
@@ -47,7 +47,7 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 ## World And Visual Design
 
 - [Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [Castle Building For a Dystopian Environment ( inside of Roblox at the end )](https://www.reddit.com/r/ROBLOXStudio/comments/1xin6ep/castle_building_for_a_dystopian_environment/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [Because my last post got positive feedback, I thought I would post my other builds, here's some of my builds as someone who just started building](https://www.reddit.com/r/ROBLOXStudio/comments/1xjuejk/because_my_last_post_got_positive_feedback_i/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 

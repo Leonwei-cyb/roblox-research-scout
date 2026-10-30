@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 596; direct candidates: 586;
+Indexed entries: 596; direct candidates: 585;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 On hold, NOT current work: Cat Magic. Their older report files are historical only.
@@ -12,7 +12,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 - **P0 · first-session and mobile:** [Double Joystick On Studio Mobile Emulator](https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
-- **P1 · UI and menus:** [Flickering Particle Flipbook with custom Layout](https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299)
+- **P1 · UI and menus:** [\[Feedback\] Which of these UI frames is your favorite? (WIP UI Pack)](https://devforum.roblox.com/t/feedback-which-of-these-ui-frames-is-your-favorite-wip-ui-pack/4966865)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [How do i model mass-produced endless suburban sprawl](https://www.reddit.com/r/robloxgamedev/comments/1xgf3h6/how_do_i_model_massproduced_endless_suburban/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?

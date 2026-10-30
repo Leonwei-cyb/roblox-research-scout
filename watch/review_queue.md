@@ -16,7 +16,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## 3D / models / environments
 
-- **[\[FOR HIRE\] 3D Modeler \| Weapons, Props, Low-Poly Assets & More](https://devforum.roblox.com/t/for-hire-3d-modeler-weapons-props-low-poly-assets-more/4960351)** — Public text/page, video not confirmed
+- **[CatOFC 3D Modeling/Mesher \[Open for Work\]](https://devforum.roblox.com/t/catofc-3d-modelingmesher-open-for-work/4966900)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
