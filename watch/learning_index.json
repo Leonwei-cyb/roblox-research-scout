@@ -902,6 +902,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4966434:1",
+      "url": "https://devforum.roblox.com/t/game-review-and-feedback/4966434",
+      "title": "Game review and feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg22he",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg22he/hi_uh_id_like_to_ask_for_some_help_because_ive/",
       "title": "Hi, uh I'd like to ask for some help because I've heard this community is really talented, and my team is looking for scripters for our asym game [more in body]",
@@ -2939,20 +2953,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958042:1",
-      "url": "https://devforum.roblox.com/t/feature-request-allow-toggling-roblox-plus-auto-renew/4958042",
-      "title": "[Feature Request] Allow Toggling Roblox Plus Auto-Renew",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4959045:1",
       "url": "https://devforum.roblox.com/t/douglas-fir-pack-roblox-vs-unreal-engine-5/4959045",
       "title": "Douglas Fir Pack | Roblox vs. Unreal Engine 5",
@@ -2961,20 +2961,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959230:1",
-      "url": "https://devforum.roblox.com/t/particleemitters-not-working/4959230",
-      "title": "ParticleEmitters not working",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
         "tools and performance"
       ],
       "score": 4,
@@ -3157,6 +3143,20 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4966407:1",
+      "url": "https://devforum.roblox.com/t/what-are-enumeasingstylespring-and-enumeasingstylebezier-for/4966407",
+      "title": "What are Enum.EasingStyle.Spring and Enum.EasingStyle.Bezier for?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
         "tools and performance"
       ],
       "score": 4,
@@ -3492,19 +3492,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958111:1",
-      "url": "https://devforum.roblox.com/t/attempt-to-call-missing-method-isa-of-table/4958111",
-      "title": "Attempt to call missing method 'IsA' of table",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4958229:1",
       "url": "https://devforum.roblox.com/t/whats-the-reason-for-this-many-dislikes-on-my-game/4958229",
       "title": "What's the reason for this many dislikes on my game?",
@@ -3531,35 +3518,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4959411:1",
-      "url": "https://devforum.roblox.com/t/game-cap-at-16/4959411",
-      "title": "Game cap at 16+",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4959558:1",
       "url": "https://devforum.roblox.com/t/compromised-account-restored-but-stolen-limiteds-group-robux-and-display-name-still-not-returned/4959558",
       "title": "Compromised account restored, but stolen limiteds, group Robux and display name still not returned",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959566:1",
-      "url": "https://devforum.roblox.com/t/patching-hitbox-expanders-hbe/4959566",
-      "title": "Patching Hitbox Expanders (HBE)",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -4137,6 +4098,19 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4966414:1",
+      "url": "https://devforum.roblox.com/t/low-poly-developer-for-hire/4966414",
+      "title": "Low poly developer for hire!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4896,6 +4870,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xjm85i",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjm85i/survive_30_waves_of_terror_in_cinder_city_protect/",
+      "title": "SURVIVE 30 WAVES OF TERROR IN CINDER CITY PROTECT THE REACTOR PICK YOUR TEAM IN THIS REALISTIC FREE CLASS BASED SHOOTER!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4957945:1",
       "url": "https://devforum.roblox.com/t/looking-for-developers/4957945",
       "title": "Looking For Developers",
@@ -4965,17 +4952,6 @@
       "key": "devforum:4958573:1",
       "url": "https://devforum.roblox.com/t/style-editors-icon-for-colors-is-broken-and-does-not-display/4958573",
       "title": "Style Editor's icon for \"Colors\" is broken and does not display",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4958646:1",
-      "url": "https://devforum.roblox.com/t/client-owned-assembly-teleports-by-its-centre-of-mass-shift-when-a-parts-density-changes/4958646",
-      "title": "Client-owned assembly teleports by its centre-of-mass shift when a part's density changes",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -6282,6 +6258,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4966389:1",
+      "url": "https://devforum.roblox.com/t/error-code-249-team-create-session/4966389",
+      "title": "error code 249, team create session",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4966393:1",
+      "url": "https://devforum.roblox.com/t/feature-request-remove-the-roblox-plus-requirement-for-classic-clothing/4966393",
+      "title": "Feature Request: Remove the Roblox Plus Requirement for Classic Clothing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4966400:1",
+      "url": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions-of-places-under-a-certain-group/4966400",
+      "title": "Unable to join Team Create sessions of places under a certain group.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xfonv5",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfonv5/can_we_start_a_petition_to_ban_brainrot_posts/",
       "title": "can we start a petition to ban brainrot posts from this sub?",
@@ -6373,17 +6382,6 @@
       "key": "reddit:1xg3mwk",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3mwk/check_out_my_roblox_creation/",
       "title": "Check out My Roblox creation",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xg3xp5",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3xp5/a_quest_for_cereal/",
-      "title": "A Quest For Cereal",
       "source": "reddit-robloxstudio",
       "published": "2026-10-26",
       "kind": "reddit",

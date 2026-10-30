@@ -1946,7 +1946,14 @@
     "cfc9a032717caa3b831f046a",
     "f5a4cdfb2244760e6cf6b44e",
     "31b901f763ec1b83fa3e85c6",
-    "d35b2b41430c48178bd1087d"
+    "d35b2b41430c48178bd1087d",
+    "6301cfcaa6da545bb620bd38",
+    "0eff6e26a2b820e481a012f6",
+    "d5edf918a674a861ac935e0b",
+    "10e6f2410ee16c9573d0c165",
+    "2166ea16dc9016a80c095341",
+    "6e50535103a7688258501c6f",
+    "485c55921bb130ed1b20a8fe"
   ],
   "items": [
     {
@@ -2122,6 +2129,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-250k-visit-game-taken-down-over-platform-bug/4965559.rss",
       "id": "d88cd6b21162fdbc9de619c0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What are Enum.EasingStyle.Spring and Enum.EasingStyle.Bezier for?",
+      "url": "https://devforum.roblox.com/t/what-are-enumeasingstylespring-and-enumeasingstylebezier-for/4966407",
+      "published": "2026-10-30",
+      "excerpt": "I was defining a TweenInfo in one of my scripts, started typing in Enum.EasingStyle.S and saw an option to auto-fill to Spring . I looked in the documentation and I can’t find this mentioned anywhere. It is not listed in EasingStyle Documentation . After trying to use it, it errors with the message:",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-are-enumeasingstylespring-and-enumeasingstylebezier-for/4966407.rss",
+      "id": "d5edf918a674a861ac935e0b"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2450,6 +2469,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "error code 249, team create session",
+      "url": "https://devforum.roblox.com/t/error-code-249-team-create-session/4966389",
+      "published": "2026-10-30",
+      "excerpt": "error code 249, happens when launching a team create session from a Mac Expected behavior allow me to join a team create session 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/error-code-249-team-create-session/4966389.rss",
+      "id": "6e50535103a7688258501c6f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Fallout 4 Plot Building System",
       "url": "https://devforum.roblox.com/t/fallout-4-plot-building-system/4966002",
       "published": "2026-10-30",
@@ -2496,10 +2527,22 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Game review and feedback",
+      "url": "https://devforum.roblox.com/t/game-review-and-feedback/4966434",
+      "published": "2026-10-30",
+      "excerpt": "I recently picked up an old project and am back to working on it. I really refined a lot of UI and other systems. My question is, is this worth my time and does it have potential? My biggest mistake when i first released this project was I didn’t include bots, so a player would just be waiting in th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-review-and-feedback/4966434.rss",
+      "id": "6301cfcaa6da545bb620bd38"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How do you write an actual code after learning the basics?",
       "url": "https://devforum.roblox.com/t/how-do-you-write-an-actual-code-after-learning-the-basics/4966273",
       "published": "2026-10-30",
-      "excerpt": "For the past year ish I have been learning scripting, but never gotten into writing my own actual code. I either edited some of existing code of my game a bit or wrote scripts I could find in toolbox instead of writing them myself 1 post - 1 participant Read full topic",
+      "excerpt": "For the past year ish I have been learning scripting, but never gotten into writing my own actual code. I either edited some of existing code of my game a bit or wrote scripts I could find in toolbox instead of writing them myself 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-you-write-an-actual-code-after-learning-the-basics/4966273.rss",
       "id": "5ec5f2d3e0c1373c45528b4b"
@@ -2551,6 +2594,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/rotated-ui-stroke-pixelated/4965776.rss",
       "id": "4a549240c1d6eef63b9832e8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "SURVIVE 30 WAVES OF TERROR IN CINDER CITY PROTECT THE REACTOR PICK YOUR TEAM IN THIS REALISTIC FREE CLASS BASED SHOOTER!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjm85i/survive_30_waves_of_terror_in_cinder_city_protect/",
+      "published": "2026-10-30",
+      "excerpt": "We're a 2 person team working hard on THE DEADLOCK, a 30-wave free class based zombie shooter on Roblox. Since new games are hard to find via search right now, we'd love for fellow devs and players to play it out and let us know what you think of the game!, please support us we've put huge efforts o",
+      "creator": "/u/NightFall-Studios https://www.reddit.com/user/NightFall-Studios",
+      "id": "485c55921bb130ed1b20a8fe"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2672,6 +2726,18 @@
       "id": "22bceecfdb481e07bb77083b"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feature Request: Remove the Roblox Plus Requirement for Classic Clothing",
+      "url": "https://devforum.roblox.com/t/feature-request-remove-the-roblox-plus-requirement-for-classic-clothing/4966393",
+      "published": "2026-10-30",
+      "excerpt": "Hello Roblox team! I would like to request the removal of the Roblox Plus requirement for creating, uploading, and selling classic clothing on Roblox. Classic clothing creation is an important part of the Roblox creator community. Many talented designers want to create and share shirts and pants but",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feature-request-remove-the-roblox-plus-requirement-for-classic-clothing/4966393.rss",
+      "id": "2166ea16dc9016a80c095341"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2730,6 +2796,18 @@
       "id": "111e1fae4e27cf57a16f1fc2"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to join Team Create sessions of places under a certain group.",
+      "url": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions-of-places-under-a-certain-group/4966400",
+      "published": "2026-10-30",
+      "excerpt": "I am unable to join active team create sessions under the BloxStrike group. Namely; This Dev Place . I have no issues joining team create sessions in other groups, and I am able to open places where there are no active users even under this group, however if the team create session is ongoing and al",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions-of-places-under-a-certain-group/4966400.rss",
+      "id": "10e6f2410ee16c9573d0c165"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2739,6 +2817,18 @@
       "excerpt": "I am making a roblox strategy game and asked you guys to suggest some names, thank you all, for those who wonder how the game looks or havent seen my post heres some drawings and pictures of my units submitted by /u/Mr_president850 [link] [comments]",
       "creator": "/u/Mr_president850 https://www.reddit.com/user/Mr_president850",
       "id": "0f2c906788c44e65b63c0838"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Low poly developer for hire!",
+      "url": "https://devforum.roblox.com/t/low-poly-developer-for-hire/4966414",
+      "published": "2026-10-30",
+      "excerpt": "Hi there! I am offering my services as a modeler. I specialize in low poly models. I have been using Blender for 6 years and have previously worked on few games such as WW1/WW2 themed Warborne, sadly never released, Orion Maryland, and a few other games. Availability: Just contact me and we’ll discu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/low-poly-developer-for-hire/4966414.rss",
+      "id": "0eff6e26a2b820e481a012f6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7232,7 +7322,7 @@
       "title": "[Early Access Program] Build 2D Games With `AnimatedImages`",
       "url": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
       "published": "2026-10-27",
-      "excerpt": "Key Takeaways Sign up for Early Access to easily import 2D assets and build flipbook animations on Roblox. You can import Aseprite (.ase) files directly into Studio and configure animation tracks at runtime using the new AnimationPlayer API. Hi Creators, We want Roblox to be the place you build the ",
+      "excerpt": "Key Takeaways Sign up for Early Access to easily import 2D assets and build flipbook animations on Roblox. You can import Aseprite (.ase) files directly into Studio and configure animation tracks at runtime using the new AnimationPlayer API. [Update] October 30, 2026 missymandypanda: Hi everyone! Qu",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734.rss",
       "id": "6bfda6f5aabbb91a39d0e078"
@@ -8788,89 +8878,6 @@
       "excerpt": "All species (besides humans) are genetically modified,while also keeping the scientifically accurate aspects of the real animals 1 - dearc 2 - herrerasaurus 3 - ceratosaurus 4 - microraptor 5 - homo sapiens submitted by /u/nerdyguy107291 [link] [comments]",
       "creator": "/u/nerdyguy107291 https://www.reddit.com/user/nerdyguy107291",
       "id": "540d43d82a464443c304d400"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Patching Hitbox Expanders (HBE)",
-      "url": "https://devforum.roblox.com/t/patching-hitbox-expanders-hbe/4959566",
-      "published": "2026-10-26",
-      "excerpt": "Hey everyone, I made a server-side fix for hitbox expanders (HBE) and figured I’d share it, since the main post on HBE is from 2020 and I couldn’t find anything newer that walks through fixing it. That post says: What Is A Hitbox Expander? How To Prevent It? This one’s tricky since it’ll rely on cli",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/patching-hitbox-expanders-hbe/4959566.rss",
-      "id": "512e7b4f1dc41d6dfa7d5d6e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "A Quest For Cereal",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3xp5/a_quest_for_cereal/",
-      "published": "2026-10-26",
-      "excerpt": "He casts \"A Box Of Cereal\" submitted by /u/ErebusPr [link] [comments]",
-      "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
-      "id": "4fcc7d3927882af49066f536"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "ParticleEmitters not working",
-      "url": "https://devforum.roblox.com/t/particleemitters-not-working/4959230",
-      "published": "2026-10-26",
-      "excerpt": "anyone know why the vfx here isnt working, i used emit(1) in the script yet it just doesnt play it (the parts are even there to show that IT IS cloning and in the right spot, the particles just arent emitting) 3 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/particleemitters-not-working/4959230.rss",
-      "id": "4eb6de4d98d446d5dfbb616f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game cap at 16+",
-      "url": "https://devforum.roblox.com/t/game-cap-at-16/4959411",
-      "published": "2026-10-26",
-      "excerpt": "Hello, @Roblox I recently made a game, “Obby But You’re a Heavy Chud!”, which recently reached the 250 Highly Engaged player requirement. However, instead of the 16+ Lock being taken off, it said that the game is only available to player 16 and up due to its rating; even though the game rating is se",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-cap-at-16/4959411.rss",
-      "id": "4c4f521a87dbc83d96408f38"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Attempt to call missing method 'IsA' of table",
-      "url": "https://devforum.roblox.com/t/attempt-to-call-missing-method-isa-of-table/4958111",
-      "published": "2026-10-26",
-      "excerpt": "You can write your topic however you want, but you need to answer these questions: What do you want to achieve? I want to fix this issue in my state manager script What is the issue? ReplicatedStorage.Modules.StateManager:29: attempt to call missing method ‘IsA’ of table What solutions have you trie",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/attempt-to-call-missing-method-isa-of-table/4958111.rss",
-      "id": "4ad53a7e8c4c10298b955cf3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Feature Request] Allow Toggling Roblox Plus Auto-Renew",
-      "url": "https://devforum.roblox.com/t/feature-request-allow-toggling-roblox-plus-auto-renew/4958042",
-      "published": "2026-10-26",
-      "excerpt": "It is very unfortunate that you can’t have the 20% discount of Roblox Plus without being forced into leaving a credit card permanently linked to the platform. Some people are very reluctant to keep payment methods attached due to data privacy, security concerns, or accidental recurring billing. If R",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feature-request-allow-toggling-roblox-plus-auto-renew/4958042.rss",
-      "id": "480360ad186ba8bb2fa36a9d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Client-owned assembly teleports by its centre-of-mass shift when a part's density changes",
-      "url": "https://devforum.roblox.com/t/client-owned-assembly-teleports-by-its-centre-of-mass-shift-when-a-parts-density-changes/4958646",
-      "published": "2026-10-26",
-      "excerpt": "When a client owns an unanchored assembly and the density of one of its welded parts changes, the whole assembly can teleport in a single frame by exactly the distance the assembly’s centre of mass moved within it. Nothing pushes it; only the mass distribution inside the assembly changes, so it shou",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/client-owned-assembly-teleports-by-its-centre-of-mass-shift-when-a-parts-density-changes/4958646.rss",
-      "id": "4497f41876629f0312430f4e"
     }
   ]
 }
