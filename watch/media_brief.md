@@ -7,17 +7,19 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[To Test My Game (Lendex RP) Construction System, I Built A Home. And Heres The Progress So Far (Read Linked Post To Understand More About The Project)](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbbwt/to_test_my_game_lendex_rp_construction_system_i/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: https://www.reddit.com/r/ROBLOXStudio/s/k64NZbYklW - read this to understand more about the project so no one will probably care about this post but i just wanted to share how my construction system looks in lendex rp. i wanted to make buil
-- **[\[Hiring\] Blender Animator — R6 & Custom Rigs for Asymmetrical Horror Game (1v8) \| Paid in Robux](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbls9/hiring_blender_animator_r6_custom_rigs_for/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: 🎭 Blender Animator Wanted — R6 & Custom Rigs Asymmetrical horror · 1 killer vs 8 survivors · Roblox The work: killer attacks/abilities, survivor loops (repairs, heals, vaults, pallets), locomotion, downs, moris. Some R6, some custom rigs: b
+- **[roblox studio crashing because of device simulator](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbyuc/roblox_studio_crashing_because_of_device_simulator/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: that bullshit is on until i do something bad it all started when i was gonna render something and i clicked on device simulator and it crashed my roblox studio please Help submitted by /u/FastAd5670 \[link\] \[comments\]
+- **[hey! made a little halloween obby, would love for you to try it 🎃](https://www.reddit.com/r/ROBLOXStudio/comments/1xjcldq/hey_made_a_little_halloween_obby_would_love_for/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: hi everyone! just finished my first game, Gate Hoppers, and wanted to share it here cozy spooky hub with gates to different worlds halloween tower climb + 5 zones to explore beat your time and your ghost shows up to race you 👻 silly random 
 
 ## Roblox Updates
 
-- **[Game Trailer Under Review for More Than 24 Hours](https://devforum.roblox.com/t/game-trailer-under-review-for-more-than-24-hours/4965714)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: My game trailer has been under review for more than 24 hours with no update. As far as I’m aware, it doesn’t break any rules. Game ID: 126636267366326 Video ID: 10773257867 I’d appreciate it if someone could look into this. The delay is hol
-- **[Is this dangerous?](https://devforum.roblox.com/t/is-this-dangerous/4965680)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: This message is coming from the model: Security Integration Solutions CCTV Camera. Although after I reviewed both the ‘Script’ and ‘Setup’, there seems to be no hazards. Main Script local setup = require(script.Parent.Setup) local tweenserv
+- **[Community Clothing Sales Robux Remain Pending for Over a Week](https://devforum.roblox.com/t/community-clothing-sales-robux-remain-pending-for-over-a-week/4965765)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: I am experiencing an issue with community clothing revenue in my Roblox community, Svalbard Expeditions. Clothing sales have remained pending for over a week, and the transactions still display the clock icon. Here is what I have noticed: C
+- **[Rotated UI stroke pixelated.](https://devforum.roblox.com/t/rotated-ui-stroke-pixelated/4965776)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Game UI frames, when rotated, the stroke becomes really pixelated 1 post - 1 participant Read full topic
+- **[What's going on with sponsored ads lately?](https://devforum.roblox.com/t/whats-going-on-with-sponsored-ads-lately/4965763)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: campaign Id = e54eb7e8-33bd-409e-abb4-8eef82a3aefb I know the campaign is still in the learning phase, but that doesn’t make this pattern any less strange. For the first 6 hours, it barely delivered anything and spent literally $0.04. Then,
 
 ---
 

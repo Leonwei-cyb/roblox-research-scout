@@ -12,7 +12,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 - **P0 · first-session and mobile:** [Unable to Equip Profile Frames on Desktop and Mobile App on Certain Accounts](https://devforum.roblox.com/t/unable-to-equip-profile-frames-on-desktop-and-mobile-app-on-certain-accounts/4957787)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
-- **P1 · UI and menus:** [How to properly preload Ui images that aren't visible at runtime?](https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795)
+- **P1 · UI and menus:** [Feedback on Avakit’s UI and outfit discovery workflow](https://devforum.roblox.com/t/feedback-on-avakit%E2%80%99s-ui-and-outfit-discovery-workflow/4958773)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [Whats the best way to make models and can AI make them](https://www.reddit.com/r/ROBLOXStudio/comments/1xfj97y/whats_the_best_way_to_make_models_and_can_ai_make/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?

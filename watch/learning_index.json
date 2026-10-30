@@ -433,6 +433,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xjbyuc",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjbyuc/roblox_studio_crashing_because_of_device_simulator/",
+      "title": "roblox studio crashing because of device simulator",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4961129:1",
       "url": "https://devforum.roblox.com/t/improve-your-game-security-with-the-device-trust-api/4961129",
       "title": "Improve Your Game Security with the Device Trust API",
@@ -1235,19 +1249,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4955795:1",
-      "url": "https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795",
-      "title": "How to properly preload Ui images that aren't visible at runtime?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4957787:1",
       "url": "https://devforum.roblox.com/t/unable-to-equip-profile-frames-on-desktop-and-mobile-app-on-certain-accounts/4957787",
       "title": "Unable to Equip Profile Frames on Desktop and Mobile App on Certain Accounts",
@@ -1277,19 +1278,6 @@
       "key": "devforum:4958087:1",
       "url": "https://devforum.roblox.com/t/very-critical-pc-freezing-studio-glitch-with-typechecker/4958087",
       "title": "[Very critical] PC freezing studio glitch with typechecker",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4958097:1",
-      "url": "https://devforum.roblox.com/t/studio-feature-request-add-a-%E2%80%9Cdisable-script-parsing%E2%80%9D-setting/4958097",
-      "title": "[Studio Feature Request] Add a “Disable Script Parsing” setting",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -2222,6 +2210,32 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965763:1",
+      "url": "https://devforum.roblox.com/t/whats-going-on-with-sponsored-ads-lately/4965763",
+      "title": "What's going on with sponsored ads lately?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965776:1",
+      "url": "https://devforum.roblox.com/t/rotated-ui-stroke-pixelated/4965776",
+      "title": "Rotated UI stroke pixelated.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4090,19 +4104,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xf0azl",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf0azl/i_want_to_make_barry_prison_run_games_clones/",
-      "title": "I want to make Barry prison run games (clones)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xfiktv",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfiktv/whats_the_right_way_to_reference_a_tool/",
       "title": "What's the right way to reference a tool?",
@@ -4967,17 +4968,6 @@
       "key": "devforum:4958236:1",
       "url": "https://devforum.roblox.com/t/r6-convert-specialmeshcharactermesh-to-meshparts/4958236",
       "title": "R6 Convert SpecialMesh/CharacterMesh to MeshParts",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4958251:1",
-      "url": "https://devforum.roblox.com/t/infinite-level-0-backrooms-generation-20/4958251",
-      "title": "Infinite level 0 backrooms generation! [2.0]",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -6251,6 +6241,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965765:1",
+      "url": "https://devforum.roblox.com/t/community-clothing-sales-robux-remain-pending-for-over-a-week/4965765",
+      "title": "Community Clothing Sales Robux Remain Pending for Over a Week",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xflne9",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xflne9/bootiful_view/",
       "title": "Bootiful view",
@@ -6464,17 +6465,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg9mif/dust_2_snowball_fight_in_our_fps_game/",
       "title": "Dust 2 SnowBall Fight In our FPS Game!!",
       "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xg9n32",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg9n32/dust_2_snowball_fight_in_our_fps_game/",
-      "title": "Dust 2 Snowball Fight in our FPS Game!!!",
-      "source": "reddit-robloxdev",
       "published": "2026-10-26",
       "kind": "reddit",
       "signals": [],
@@ -7322,6 +7312,17 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj48oh/hi_im_making_a_old_roblox_game_like_a_back_rooms/",
       "title": "hi im making a old roblox game like a back rooms type",
       "source": "reddit-robloxdev",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xjcldq",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjcldq/hey_made_a_little_halloween_obby_would_love_for/",
+      "title": "hey! made a little halloween obby, would love for you to try it 🎃",
+      "source": "reddit-robloxstudio",
       "published": "2026-10-30",
       "kind": "reddit",
       "signals": [],

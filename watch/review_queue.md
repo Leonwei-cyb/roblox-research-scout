@@ -7,12 +7,12 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[next stop on The Burning Up Tour All Over Again: Steal an Egg. Jonas Brothers live this Halloween.](https://www.youtube.com/shorts/sRNaj6S0zhY)** — Original media link, not watched
-- **[Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/)** — Public text/page, video not confirmed
+- **[roblox studio crashing because of device simulator](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbyuc/roblox_studio_crashing_because_of_device_simulator/)** — Public text/page, video not confirmed
 - **[Wumby Zoo is now in beta — feedback on the early progression?](https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
-- **[UI Issues: Miscoloring, Invisible, Etc.](https://devforum.roblox.com/t/ui-issues-miscoloring-invisible-etc/4964875)** — Public text/page, video not confirmed
+- **[Rotated UI stroke pixelated.](https://devforum.roblox.com/t/rotated-ui-stroke-pixelated/4965776)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
