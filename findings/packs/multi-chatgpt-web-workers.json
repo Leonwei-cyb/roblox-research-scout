@@ -1,175 +1,169 @@
 {
   "api_calls": {
     "by_kind": {
-      "rest": 30
+      "rest": 28
     },
     "calls": [
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=multi-agent+orchestration+claude+codex+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=multi-agent+orchestration+claude+codex+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=agent+task+queue+retry+dedup+llm+workers+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=agent+task+queue+retry+dedup+llm+workers+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=claude+code+subagents+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=claude+code+subagents+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=codex+cli+agent+tool+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=codex+cli+agent+tool+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=chatgpt+claude+bridge+automation+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=chatgpt+claude+bridge+automation+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=roblox+studio+mcp+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=roblox+studio+mcp+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=roblox+luau+testing+framework+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=roblox+luau+testing+framework+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=roblox+rojo+tooling+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=roblox+rojo+tooling+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=agent+monitor+dashboard+realtime+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=agent+monitor+dashboard+realtime+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=automated+code+review+linter+pull+request+comments+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=automated+code+review+linter+pull+request+comments+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=topic%3Amcp-server+github+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=topic%3Amcp-server+github+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=claude+skills+agent+skills+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=claude+skills+agent+skills+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=github+webhook+forward+localhost+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=github+webhook+forward+localhost+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=visual+regression+screenshot+testing+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=visual+regression+screenshot+testing+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=research+agent+github+monitor+releases+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-01+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
+        "what": "GET /search/repositories?q=research+agent+github+monitor+releases+in%3Aname%2Cdescription+stars%3A%3E%3D15+pushed%3A%3E%3D2026-07-02+archived%3Afalse&sort=updated&order=desc&per_page=20&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=ChatGPT+multi+conversation+orchestration+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=ChatGPT+multi+conversation+orchestration+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=ChatGPT+orchestration+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=ChatGPT+orchestration+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=persistent+ChatGPT+browser+sessions+workers+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=persistent+ChatGPT+browser+sessions+workers+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=ChatGPT+browser+sessions+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=ChatGPT+browser+sessions+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=parallel+LLM+web+agents+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=parallel+LLM+web+agents+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=LLM+web+agents+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=LLM+web+agents+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=multi-agent+coding+chat+workspace+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=multi-agent+coding+chat+workspace+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=multi-agent+workspace+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=multi-agent+workspace+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=agent+task+dispatch+browser+extension+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=agent+task+dispatch+browser+extension+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=agent+browser+extension+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=agent+browser+extension+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=authenticated+ChatGPT+web+conversation+queue+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/repositories?q=authenticated+ChatGPT+web+conversation+queue+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-30+archived%3Afalse&per_page=15&page=1"
       },
       {
         "kind": "rest",
         "outcome": "200",
-        "what": "GET /search/repositories?q=ChatGPT+conversation+queue+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=durable+agent+session+manager+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/repositories?q=agent+session+manager+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A%3E%3D2025-10-29+archived%3Afalse&per_page=15&page=1"
+        "what": "GET /search/code?q=%22chatgpt.com%22+content_scripts+sidePanel+filename%3Amanifest.json&per_page=50&page=1"
       },
       {
         "kind": "rest",
         "outcome": "429",
-        "what": "GET /search/code?q=%22chatgpt.com%22+content_scripts+sidePanel+filename%3Amanifest.json&per_page=50&page=1"
+        "what": "GET /search/code?q=%22chat.openai.com%22+tabs+scripting+filename%3Amanifest.json&per_page=50&page=1"
       }
     ],
     "note": "every GitHub request this run made, pack and non-pack",
-    "total": 30
+    "total": 28
   },
   "candidates": [],
   "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
   "detail": "search stopped early: GitHub rate limit for /search/code",
-  "distinct_repos_found": 153,
+  "distinct_repos_found": 173,
   "known_relevant": [
     {
-      "found_by": [],
+      "found_by": [
+        "s1"
+      ],
       "rank": null,
       "repo": "Xalzeroph/Charterion"
     },
     {
-      "found_by": [],
+      "found_by": [
+        "s1"
+      ],
       "rank": null,
       "repo": "megamen32/chatgpt-multi"
     },
@@ -254,114 +248,118 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-10-29T22:58:37Z",
+  "run_at": "2026-10-30T03:52:43Z",
   "schema": 1,
   "searches": [
     {
       "id": "pack:multi-chatgpt-web-workers:a:strict",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:a:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT orchestration in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "ChatGPT orchestration in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:b:strict",
       "items": 15,
       "kind": "search",
-      "query": "persistent ChatGPT browser sessions workers in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "persistent ChatGPT browser sessions workers in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:b:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT browser sessions in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "ChatGPT browser sessions in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:c:strict",
       "items": 15,
       "kind": "search",
-      "query": "parallel LLM web agents in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "parallel LLM web agents in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:c:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:strict",
       "items": 15,
       "kind": "search",
-      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:e:strict",
       "items": 15,
       "kind": "search",
-      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:e:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:f:strict",
       "items": 15,
       "kind": "search",
-      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-10-30 archived:false",
       "status": "ok"
     },
     {
+      "detail": "search budget low",
       "id": "pack:multi-chatgpt-web-workers:f:relaxed",
-      "items": 15,
       "kind": "search",
-      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
-      "status": "ok"
+      "status": "deferred"
     },
     {
+      "detail": "search budget low",
       "id": "pack:multi-chatgpt-web-workers:g:strict",
-      "items": 15,
       "kind": "search",
-      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
-      "status": "ok"
+      "status": "deferred"
     },
     {
+      "detail": "search budget low",
       "id": "pack:multi-chatgpt-web-workers:g:relaxed",
-      "items": 15,
       "kind": "search",
-      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-10-29 archived:false",
+      "status": "deferred"
+    },
+    {
+      "id": "pack:multi-chatgpt-web-workers:s1:source",
+      "items": 50,
+      "kind": "code_search",
+      "query": "\"chatgpt.com\" content_scripts sidePanel filename:manifest.json",
       "status": "ok"
     },
     {
       "detail": "GitHub rate limit for /search/code",
-      "id": "pack:multi-chatgpt-web-workers:s1:source",
+      "id": "pack:multi-chatgpt-web-workers:s2:source",
       "kind": "code_search",
       "status": "deferred"
     }
   ],
   "status": "partial",
-  "trigger": "schedule"
+  "trigger": "push"
 }
