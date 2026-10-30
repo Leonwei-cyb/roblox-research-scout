@@ -235,6 +235,36 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xizp35",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/",
+      "title": "Testing animations and UI for my Ben 10 game",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "animation and audio",
+        "world and visual design"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xj05d7",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj05d7/i_just_launched_my_first_roblox_game_dig_junk/",
+      "title": "I just launched my first Roblox game: dig junk, build a robot buddy, fuse parts to Gold. Looking for honest feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4957707:1",
       "url": "https://devforum.roblox.com/t/2000-waypoint-chasing-npcs-procedurally-animations-custom-server-authority-client-prediction/4957707",
       "title": "2,000 waypoint-chasing npcs, procedurally animations + custom server authority & client prediction",
@@ -323,15 +353,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xf469b",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf469b/3rd_studio_made_thumbnail_for_upcoming_game/",
-      "title": "3rd Studio made thumbnail for upcoming game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
+      "key": "devforum:4965216:1",
+      "url": "https://devforum.roblox.com/t/ios-japan-only-screen-turns-sideways-when-player-opens-buy-robux-from-the-bulk-purchase-prompt/4965216",
+      "title": "iOS (Japan only): Screen turns sideways when player opens \"Buy Robux\" from the bulk purchase prompt",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
       "signals": [
-        "player feedback and marketing",
-        "tools and performance"
+        "building and purchases",
+        "player feedback and marketing"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -681,20 +711,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4957550:1",
-      "url": "https://devforum.roblox.com/t/sun-animator-timelines-snappingikfk-physics-and-more/4957550",
-      "title": "Sun Animator - Timelines, Snapping,IK,FK, Physics And More!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "genres and successful loops"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4958985:1",
       "url": "https://devforum.roblox.com/t/server-fill-settings-not-being-respected-creating-unnecessary-splitting/4958985",
       "title": "Server fill settings not being respected, creating unnecessary splitting",
@@ -961,6 +977,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965139:1",
+      "url": "https://devforum.roblox.com/t/claude-integrated-into-roblox-studio/4965139",
+      "title": "Claude Integrated Into Roblox Studio!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xfdw25",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfdw25/im_bringing_back_a_roblox_security_project_i/",
       "title": "I’m bringing back a Roblox security project I spent months on, would you use something like this?",
@@ -1219,6 +1249,22 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xitrzc",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xitrzc/my_cute_stud_animals/",
+      "title": "my cute stud animals",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "economy and income",
+        "animation and audio",
+        "genres and successful loops",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4955795:1",
       "url": "https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795",
       "title": "How to properly preload Ui images that aren't visible at runtime?",
@@ -1240,19 +1286,6 @@
       "kind": "devforum",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957165:1",
-      "url": "https://devforum.roblox.com/t/studio-camera-controls-acting-very-strange-after-a-random-studio-update/4957165",
-      "title": "Studio Camera Controls acting very strange after a random studio update",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2157,6 +2190,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965140:1",
+      "url": "https://devforum.roblox.com/t/unable-to-get-player-data-repeated-false-datastore-key-rate-limits-error/4965140",
+      "title": "Unable to get player data - Repeated False Datastore Key Rate limits error",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xf7fye",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/",
       "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
@@ -2178,21 +2224,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xfby5u",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfby5u/my_first_coop_hordesurvival_game_how_im_handling/",
-      "title": "My first co-op horde-survival game: how I'm handling 300+ enemies without lag",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing",
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2847,6 +2878,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xizhk9",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xizhk9/making_a_deploy_menu_day_83/",
+      "title": "Making a Deploy Menu Day 83",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-29",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4956764:1",
       "url": "https://devforum.roblox.com/t/vape-v4-detection/4956764",
       "title": "Vape V4 Detection",
@@ -3091,20 +3135,6 @@
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xetcdi",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xetcdi/needed_help_on_how_to_keep_audience/",
-      "title": "Needed help on how to keep audience.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
       "signals": [
         "player feedback and marketing",
         "tools and performance"
@@ -3435,19 +3465,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956259:1",
-      "url": "https://devforum.roblox.com/t/meshparts-dont-cast-a-proper-deep-shadow-enviromentdiffusescale/4956259",
-      "title": "MeshParts don't cast a proper deep shadow (EnviromentDiffuseScale)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4051,6 +4068,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965176:1",
+      "url": "https://devforum.roblox.com/t/custom-r15-uv-support-for-shirtspants/4965176",
+      "title": "Custom R15 UV Support for Shirts/Pants",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965231:1",
+      "url": "https://devforum.roblox.com/t/realistic-elm-tree-pack/4965231",
+      "title": "Realistic Elm Tree Pack",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xew70k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xew70k/trying_to_make_iphone_simluator/",
       "title": "Trying to make iPhone simluator",
@@ -4072,19 +4115,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf7dyn",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7dyn/my_game_is_failing_again/",
-      "title": "My game is failing again...",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4932,17 +4962,6 @@
       "key": "devforum:4956765:1",
       "url": "https://devforum.roblox.com/t/que-puedo-agregar-en-mi-juego/4956765",
       "title": "Que puedo agregar en mi juego",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956945:1",
-      "url": "https://devforum.roblox.com/t/energy-generation-facility-a-new-idea/4956945",
-      "title": "Energy Generation Facility - A New Idea",
       "source": "roblox-devforum-latest",
       "published": "2026-10-25",
       "kind": "devforum",
@@ -6207,7 +6226,7 @@
     {
       "key": "devforum:4965030:1",
       "url": "https://devforum.roblox.com/t/we-could-not-open-the-place-failed-to-fetch-place-info/4965030",
-      "title": "We could not open the place. Failed to fetch place info.",
+      "title": "We could not open the place. Failed to fetch place info",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6219,6 +6238,39 @@
       "key": "devforum:4965067:1",
       "url": "https://devforum.roblox.com/t/limited-resales-dont-show-up-in-the-original-creators-avatar-item-analytics/4965067",
       "title": "Limited resales don't show up in the original creator's avatar item analytics",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965114:1",
+      "url": "https://devforum.roblox.com/t/not-receiving-creator-store-payouts/4965114",
+      "title": "Not receiving creator store payouts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965204:1",
+      "url": "https://devforum.roblox.com/t/crown-of-os-skipped/4965204",
+      "title": "Crown of O's Skipped?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-29",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965236:1",
+      "url": "https://devforum.roblox.com/t/this-is-possibly-my-best-or-worst-feature-request-yet/4965236",
+      "title": "This is possibly my best OR WORST Feature Request yet",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6249,42 +6301,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xeomsh",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xeomsh/what_do_yall_think/",
-      "title": "what do yall think?? :')",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xex6f2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xex6f2/added_trading_opinions/",
       "title": "Added Trading, opinions?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf2asu",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xf2asu/hangar_aircraft_viewer/",
-      "title": "Hangar Aircraft Viewer",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xf3a1l",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf3a1l/dashshot_playtest_at_1pm_et/",
-      "title": "DASHSHOT playtest at 1pm (ET)",
       "source": "reddit-robloxdev",
       "published": "2026-10-25",
       "kind": "reddit",
@@ -7408,20 +7427,6 @@
       "published": "2026-10-26",
       "kind": "index-only",
       "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBHUkFiMnltcXNWWlp1M2gxamhNQlJSdzQyRk5wdmRESGRKb1JZdHdLRFAwdl9VYUg0LWMwWGwzLVBCOFFZV0RvczE2MlVTZENYU2hJT0xn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHUkFiMnltcXNWWlp1M2gxamhNQlJSdzQyRk5wdmRESGRKb1JZdHdLRFAwdl9VYUg0LWMwWGwzLVBCOFFZV0RvczE2MlVTZENYU2hJT0xn?oc=5",
-      "title": "How To Connect Gemini To Roblox Studio - Tutorial - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-25",
-      "kind": "index-only",
-      "signals": [
-        "first-session and mobile",
         "tools and performance"
       ],
       "score": 0,

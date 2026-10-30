@@ -22,4 +22,4 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/)** — Public text/page, video not confirmed
 - **[Struggling with CCU or Need Playtesting?](https://www.reddit.com/r/ROBLOXStudio/comments/1xiiwta/struggling_with_ccu_or_need_playtesting/)** — Public text/page, video not confirmed
-- **[Plugins Not Showing up](https://devforum.roblox.com/t/plugins-not-showing-up/4964560)** — Public text/page, video not confirmed
+- **[Claude Integrated Into Roblox Studio!](https://devforum.roblox.com/t/claude-integrated-into-roblox-studio/4965139)** — Public text/page, video not confirmed
