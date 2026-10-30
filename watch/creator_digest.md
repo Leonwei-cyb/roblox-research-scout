@@ -16,8 +16,8 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 1 matched metadata records.
-- [How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE) — channel upload — creator identity check · 2026-10-25
+**Collected media leads:** 0 matched metadata records.
+- None verified in currently collected public feeds.
 
 ## Tizzy RBLX — Roblox game design
 

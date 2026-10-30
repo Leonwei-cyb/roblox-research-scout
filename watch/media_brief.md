@@ -5,26 +5,19 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[Thankyou Steal An Egg & Ben for the memories #roblox #stealanegg #trickwell #ben #memories - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE91dUNzME1MbUhLY2ZFQTZlQVUyb2JYOEVpdGkxM19NMUZlank5V2VMUkE1YktnRTFrZ0hpcUJrUDVpUnMwMzF1dVhuWnV0LWd1VXREbHJn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-30
-  - Feed excerpt: Thankyou Steal An Egg & Ben for the memories #roblox #stealanegg #trickwell #ben #memories Instagram
-
 ## Community
 
-- **[test out my game](https://www.reddit.com/r/ROBLOXStudio/comments/1xj8k44/test_out_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: Laser arena batttles \| Play on Roblox recently started building the game and the gun models are not that good but hope u like it(im still beginner) submitted by /u/antivirus112 \[link\] \[comments\]
+- **[To Test My Game (Lendex RP) Construction System, I Built A Home. And Heres The Progress So Far (Read Linked Post To Understand More About The Project)](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbbwt/to_test_my_game_lendex_rp_construction_system_i/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: https://www.reddit.com/r/ROBLOXStudio/s/k64NZbYklW - read this to understand more about the project so no one will probably care about this post but i just wanted to share how my construction system looks in lendex rp. i wanted to make buil
+- **[\[Hiring\] Blender Animator — R6 & Custom Rigs for Asymmetrical Horror Game (1v8) \| Paid in Robux](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbls9/hiring_blender_animator_r6_custom_rigs_for/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: 🎭 Blender Animator Wanted — R6 & Custom Rigs Asymmetrical horror · 1 killer vs 8 survivors · Roblox The work: killer attacks/abilities, survivor loops (repairs, heals, vaults, pallets), locomotion, downs, moris. Some R6, some custom rigs: b
 
 ## Roblox Updates
 
-- **[Help with UI showing up](https://devforum.roblox.com/t/help-with-ui-showing-up/4965644)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I’m sorry to ask this as it seems like such a small and simple issue, but i can’t find anything on it anywhere. I don’t know when, but it seems there’s a new update with UI and i can’t figure it out. A couple days ago, my UI worked fine, bu
-- **["Roblox encountered a problem. Check the console and reload" error on a past project.](https://devforum.roblox.com/t/roblox-encountered-a-problem-check-the-console-and-reload-error-on-a-past-project/4965592)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I haven’t checked any other game under my profile, but this came to my mind first. I tried booting up the game and saw that it for some reason didn’t boot up. WebClient errors out on line 1 WasmPlayer errors out on line 4 Despite the popup,
-- **[Groups Remain Locked After Unban](https://devforum.roblox.com/t/groups-remain-locked-after-unban/4965632)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Hello, 7 days ago, I was falsely IP banned then unbanned a few hours later. However, ALL of my groups are still locked. Roblox AI can automatically IP ban and lock groups en masse yet when confronting Roblox support they “want a specified l
-- **[Voice chat still reports me even after leaving a game](https://devforum.roblox.com/t/voice-chat-still-reports-me-even-after-leaving-a-game/4965616)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Even after leaving a game, I’m still getting banned for things I’ve said AFTER leaving the game. The AI is too aggressive, or it’s genuinely listening when it shouldn’t. Either way, being a 21+ player, this just makes no sense to me. I’m cu
+- **[Game Trailer Under Review for More Than 24 Hours](https://devforum.roblox.com/t/game-trailer-under-review-for-more-than-24-hours/4965714)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: My game trailer has been under review for more than 24 hours with no update. As far as I’m aware, it doesn’t break any rules. Game ID: 126636267366326 Video ID: 10773257867 I’d appreciate it if someone could look into this. The delay is hol
+- **[Is this dangerous?](https://devforum.roblox.com/t/is-this-dangerous/4965680)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: This message is coming from the model: Security Integration Solutions CCTV Camera. Although after I reviewed both the ‘Script’ and ‘Setup’, there seems to be no hazards. Main Script local setup = require(script.Parent.Setup) local tweenserv
 
 ---
 

@@ -1905,7 +1905,11 @@
     "8f747d620f755a7e68e71a3f",
     "111e1fae4e27cf57a16f1fc2",
     "c6e9f8e839149bd5a4d2a6c5",
-    "40522056131ad66b72bb30f7"
+    "40522056131ad66b72bb30f7",
+    "d1fa66b3544e56047dea7945",
+    "eb5863ad7a4149b08dd59b0b",
+    "1f25bd170bbf0c8009befd4f",
+    "4204c52007c72454dd2d0305"
   ],
   "items": [
     {
@@ -1954,6 +1958,18 @@
       "id": "efc2f56f93bb9cb03103b9a1"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Is this dangerous?",
+      "url": "https://devforum.roblox.com/t/is-this-dangerous/4965680",
+      "published": "2026-10-30",
+      "excerpt": "This message is coming from the model: Security Integration Solutions CCTV Camera. Although after I reviewed both the ‘Script’ and ‘Setup’, there seems to be no hazards. Main Script local setup = require(script.Parent.Setup) local tweenservice = game:GetService(\"TweenService\") local tweeninfo = Twee",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/is-this-dangerous/4965680.rss",
+      "id": "eb5863ad7a4149b08dd59b0b"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -1986,6 +2002,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-250k-visit-game-taken-down-over-platform-bug/4965559.rss",
       "id": "d88cd6b21162fdbc9de619c0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game Trailer Under Review for More Than 24 Hours",
+      "url": "https://devforum.roblox.com/t/game-trailer-under-review-for-more-than-24-hours/4965714",
+      "published": "2026-10-30",
+      "excerpt": "My game trailer has been under review for more than 24 hours with no update. As far as I’m aware, it doesn’t break any rules. Game ID: 126636267366326 Video ID: 10773257867 I’d appreciate it if someone could look into this. The delay is holding back my game’s promotion and keeping new players from f",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-trailer-under-review-for-more-than-24-hours/4965714.rss",
+      "id": "d1fa66b3544e56047dea7945"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2230,6 +2258,17 @@
       "id": "4738ee0057a9369121db1859"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "To Test My Game (Lendex RP) Construction System, I Built A Home. And Heres The Progress So Far (Read Linked Post To Understand More About The Project)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjbbwt/to_test_my_game_lendex_rp_construction_system_i/",
+      "published": "2026-10-30",
+      "excerpt": "https://www.reddit.com/r/ROBLOXStudio/s/k64NZbYklW - read this to understand more about the project so no one will probably care about this post but i just wanted to share how my construction system looks in lendex rp. i wanted to make building properties in this game diffrent so i made it so you ha",
+      "creator": "/u/Physical_Can4434 https://www.reddit.com/user/Physical_Can4434",
+      "id": "4204c52007c72454dd2d0305"
+    },
+    {
       "source": "brock-ig-reels",
       "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
       "category": "Roblox creator / Steal An Egg",
@@ -2240,6 +2279,17 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "40522056131ad66b72bb30f7"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[Hiring] Blender Animator — R6 & Custom Rigs for Asymmetrical Horror Game (1v8) | Paid in Robux",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjbls9/hiring_blender_animator_r6_custom_rigs_for/",
+      "published": "2026-10-30",
+      "excerpt": "🎭 Blender Animator Wanted — R6 & Custom Rigs Asymmetrical horror · 1 killer vs 8 survivors · Roblox The work: killer attacks/abilities, survivor loops (repairs, heals, vaults, pallets), locomotion, downs, moris. Some R6, some custom rigs: box heads, floating limbs, mech legs. Those are the priority.",
+      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
+      "id": "1f25bd170bbf0c8009befd4f"
     },
     {
       "source": "reddit-robloxdev",
@@ -8772,53 +8822,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-properly-preload-ui-images-that-arent-visible-at-runtime/4955795.rss",
       "id": "ff57dcb8465ed1ac45198d2c"
-    },
-    {
-      "source": "youtube-UC1g8RAPLVidtYUzZFFiX2GA",
-      "label": "YouTube direct channel: Brockodile developer — self-described Steal An Egg creator; separate YouTube handle, check original account",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg",
-      "url": "https://www.youtube.com/shorts/_H4D7YAOFHE",
-      "published": "2026-10-25",
-      "excerpt": "",
-      "creator": "Brockodile https://www.youtube.com/channel/UC1g8RAPLVidtYUzZFFiX2GA",
-      "id": "fbc17348156c529018437a87"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How far can you go with cannibalism in a Roblox game?",
-      "url": "https://devforum.roblox.com/t/how-far-can-you-go-with-cannibalism-in-a-roblox-game/4957325",
-      "published": "2026-10-25",
-      "excerpt": "Hi! I thought of an idea for a game that revolves around cannibalism and processing noobs into food in exceedingly comical ways. I know that cannibalism itself is allowed on the platform (a game about it even made it into an official event!) but I’m just wondering how far you could go with it before",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-far-can-you-go-with-cannibalism-in-a-roblox-game/4957325.rss",
-      "id": "f9c93c13d6be645b7c28143c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Object Alighment Produces Noticable Errors",
-      "url": "https://devforum.roblox.com/t/object-alighment-produces-noticable-errors/4955804",
-      "published": "2026-10-25",
-      "excerpt": "Recently, with one of the updates, moving objects, even with a grid increment selected, doesn’t align objects perfectly. Here is a example of it. It used to be that when you moved items, the edges would be perfectly flush, but now base parts of any type will not align with each other. I have tried a",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/object-alighment-produces-noticable-errors/4955804.rss",
-      "id": "f960ec8d9c314df19d4807c3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Need feedback on my puzzle solving game",
-      "url": "https://devforum.roblox.com/t/need-feedback-on-my-puzzle-solving-game/4957750",
-      "published": "2026-10-25",
-      "excerpt": "Hello, I’m working on a game that’s similar to an escape room, and I’d like to know if the puzzles are too easy or too hard. I’d also appreciate feedback on whether the puzzles are fun or frustrating to solve, and if anything feels confusing or unclear. Game link: Aetherworks | Play on Roblox 1 post",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/need-feedback-on-my-puzzle-solving-game/4957750.rss",
-      "id": "f8b5c9799e930366e3e8a7bd"
     }
   ]
 }
