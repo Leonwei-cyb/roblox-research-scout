@@ -4,7 +4,9 @@
 
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
+- **[My animation is not loading!](https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/)** — Community showcase post (video not confirmed) · 2026-10-30
 - **[Ages 16+ killed discovery for our Roblox arcade shooter — how are other small teams getting real playtests?](https://www.reddit.com/r/robloxgamedev/comments/1xi3y3l/ages_16_killed_discovery_for_our_roblox_arcade/)** — Community showcase post (video not confirmed) · 2026-10-28
+- **[Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card arts and animat](https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/)** — Community showcase post (video not confirmed) · 2026-10-30
 - **[I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[Is there an AI capable of creating flashy animations?](https://www.reddit.com/r/robloxgamedev/comments/1xhvzn2/is_there_an_ai_capable_of_creating_flashy/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[🛠️ GASHLOCK-looking for Scripters, Builders & Playtesters and more!](https://www.reddit.com/r/robloxgamedev/comments/1xhs9qs/gashlocklooking_for_scripters_builders/)** — Community showcase post (video not confirmed) · 2026-10-28
@@ -16,7 +18,6 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)](https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/)** — Community showcase post (video not confirmed) · 2026-10-29
 - **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xia0zb/playtest_mine_ill_test_yours/)** — Community showcase post (video not confirmed) · 2026-10-29
 - **[Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/)** — Community showcase post (video not confirmed) · 2026-10-29
-- **[Is this animation good?](https://www.reddit.com/r/robloxgamedev/comments/1xgkh30/is_this_animation_good/)** — Community showcase post (video not confirmed) · 2026-10-27
 
 ## Coverage gap
 

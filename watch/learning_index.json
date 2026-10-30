@@ -4,23 +4,6 @@
   "reviewed_posts": 0,
   "posts": [
     {
-      "key": "reddit:1xf1202",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf1202/solo_dev_first_game_86_of_new_players_leave/",
-      "title": "Solo dev, first game: 86% of new players leave within 5 minutes. How do you fix onboarding in a simulator?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "building and purchases",
-        "animation and audio",
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 13,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xgpysp",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/",
       "title": "I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!",
@@ -476,21 +459,6 @@
         "world and visual design"
       ],
       "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4956075:1",
-      "url": "https://devforum.roblox.com/t/i-made-a-website-that%E2%80%99s-pretty-much-studio-in-browser/4956075",
-      "title": "I made a website that’s pretty much studio in browser",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-25",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 7,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1273,6 +1241,34 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xj2ht6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/",
+      "title": "My animation is not loading!",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xj2oj4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/",
+      "title": "Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card arts and animations of 7 classes. (emote, damage taken, overloading...",
+      "source": "reddit-robloxdev",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "world and visual design"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2229,6 +2225,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965355:1",
+      "url": "https://devforum.roblox.com/t/voice-chat-stuck-connecting-cannot-hear-other-players/4965355",
+      "title": "Voice chat stuck connecting / Cannot hear other players",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xf7fye",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf7fye/how_do_i_subdivide_parts_like_in_the_images_is/",
       "title": "how do I subdivide parts like in the images?? is there a plugin that can do that?",
@@ -3165,20 +3174,6 @@
       "signals": [
         "genres and successful loops",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xez02m",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xez02m/how_are_you_optimizing_your_games_for_console/",
-      "title": "How are you optimizing your games for console?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-25",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"

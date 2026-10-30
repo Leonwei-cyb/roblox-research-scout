@@ -5,32 +5,17 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[How to Connect Claude Code to Unity (Unity CLI Setup) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHejA3akhQSlJPQmNib1paLU9kcGQ3ZHRPNjBidUtyY1pzNS1QdWNZdWFuVExxNmdDYUpQRG9TZVhiREdVR2dsNGxUelFySk9YMFBUM0d3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-09
-  - Feed excerpt: How to Connect Claude Code to Unity (Unity CLI Setup) YouTube
-
 ## Community
 
-- **[Tutorial system for my upcoming roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xj1x3x/tutorial_system_for_my_upcoming_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
-  - Feed excerpt: any feedback? submitted by /u/vestive \[link\] \[comments\]
-- **[Are these game stats good?](https://www.reddit.com/r/robloxgamedev/comments/1xj1mvl/are_these_game_stats_good/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
-  - Feed excerpt: Average ccu of 20, tho it can drop at low as 5 during night and as high as 40 during peak times submitted by /u/Fun_Net3400 \[link\] \[comments\]
-- **[I made this in a day. (horpse: the game)](https://www.reddit.com/r/robloxgamedev/comments/1xj1i4f/i_made_this_in_a_day_horpse_the_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
-  - Feed excerpt: submitted by /u/Aaronledev \[link\] \[comments\]
-- **[Trailer for new Roblox Wordle Game](https://www.reddit.com/r/robloxgamedev/comments/1xj295d/trailer_for_new_roblox_wordle_game/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
-  - Feed excerpt: For the past year, I've been working on a ROBLOX Wordle game. I made all the assets, including the Game Icon, Thumbnails, and obtainable in-game items, myself using Photopea or Canva (mostly Photopea). Thoughts on the trailer? submitted by 
+- **[My animation is not loading!](https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
+  - Feed excerpt: i imported the avatar using robloxia cac importer and for some reason the animation doesn't load. the avatar on the right though is imported using moon animator and it works perfectly. Edit: i fixed it using clip editor from roblox studio t
+- **[Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card arts and animations of 7 class](https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/)** · Reddit r/robloxgamedev public RSS · 2026-10-30
+  - Feed excerpt: The progress is going well, but animating is taking me a lot of time. I'm making my own art using free models and my Roblox avatars. I am proud of the Rokurokubi card I've designed as I also careful approach the balance. I've been designing
 
 ## Roblox Updates
 
-- **[Feedback on my food collecting party game](https://devforum.roblox.com/t/feedback-on-my-food-collecting-party-game/4965309)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Fill the Fridge: Looking for Feedback A round-based party game where players fight and race to collect the most food before time runs out. Feedback I’m after Clarity: Is the objective clear without explanation? Enjoyment: Is the core loop e
-- **[Characters drift and slide on the ground when playing on mobile devices in server authority](https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Characters will drift and slide on the ground when playing on mobile devices in server authority. Here is a gif that shows the problem. This is captured after I moved around for a bit, and then completely stop touching the mobile touch inpu
-- **[Group to Group Robux Transfers](https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I think Roblox should add a feature that allows group owners to transfer Robux directly from one group to another. The way this would work is pretty simple. Group owners would have an option to transfer Robux from their group’s funds to ano
-- **[Need Robloxes Help Restoring Group Ownership : Fake “game studio” recruiters are hijacking dev accounts through VS Code Live Share](https://devforum.roblox.com/t/need-robloxes-help-restoring-group-ownership-fake-%E2%80%9Cgame-studio%E2%80%9D-recruiters-are-hijacking-dev-accounts-through-vs-code-live-share/4965331)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: \[URGENT\] Our Roblox Group and Games Were Stolen Through a Malicious VS Code Extension — Seeking Asset Recovery Hello everyone, I’m writing on behalf of Tokyoxoxo1432 (original group owner) and myself, Sike_NL (co-owner) , to share how our R
+- **[Voice chat stuck connecting / Cannot hear other players](https://devforum.roblox.com/t/voice-chat-stuck-connecting-cannot-hear-other-players/4965355)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: This issue randomly started occurring yesterday for me and has now persisted for over 24 hours. Every time I join a Roblox game, I can hear everyone’s voice chat for about 5 seconds before it suddenly disconnects, and everyone goes silent. 
 
 ---
 

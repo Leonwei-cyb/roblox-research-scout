@@ -1876,7 +1876,10 @@
     "bb73fa8b2a4b7290fc291b73",
     "e661417a5895301502c51504",
     "f59a71f0483291eeb4cc1ed1",
-    "b1bc86cb8883599f78f35076"
+    "b1bc86cb8883599f78f35076",
+    "bd3a0f6832332207d3528784",
+    "8ee6c2189c3abbd0d4a90587",
+    "1815a47b57fe4da0cb78f8e1"
   ],
   "items": [
     {
@@ -1900,6 +1903,18 @@
       "excerpt": "For the past year, I've been working on a ROBLOX Wordle game. I made all the assets, including the Game Icon, Thumbnails, and obtainable in-game items, myself using Photopea or Canva (mostly Photopea). Thoughts on the trailer? submitted by /u/Upbeat_Time785 [link] [comments]",
       "creator": "/u/Upbeat_Time785 https://www.reddit.com/user/Upbeat_Time785",
       "id": "e661417a5895301502c51504"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Voice chat stuck connecting / Cannot hear other players",
+      "url": "https://devforum.roblox.com/t/voice-chat-stuck-connecting-cannot-hear-other-players/4965355",
+      "published": "2026-10-30",
+      "excerpt": "This issue randomly started occurring yesterday for me and has now persisted for over 24 hours. Every time I join a Roblox game, I can hear everyone’s voice chat for about 5 seconds before it suddenly disconnects, and everyone goes silent. I can disconnect and reconnect, but everyone is still silent",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/voice-chat-stuck-connecting-cannot-hear-other-players/4965355.rss",
+      "id": "bd3a0f6832332207d3528784"
     },
     {
       "source": "reddit-robloxdev",
@@ -1960,6 +1975,17 @@
       "id": "9422308f2769843df3920c3d"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card arts and animations of 7 classes. (emote, damage taken, overloading...",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/",
+      "published": "2026-10-30",
+      "excerpt": "The progress is going well, but animating is taking me a lot of time. I'm making my own art using free models and my Roblox avatars. I am proud of the Rokurokubi card I've designed as I also careful approach the balance. I've been designing this many sets for years and scaped a lot of classes/sets. ",
+      "creator": "/u/Consistent_Group8723 https://www.reddit.com/user/Consistent_Group8723",
+      "id": "8ee6c2189c3abbd0d4a90587"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -1970,6 +1996,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-on-my-food-collecting-party-game/4965309.rss",
       "id": "52b396d98fed3468835697a7"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "My animation is not loading!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/",
+      "published": "2026-10-30",
+      "excerpt": "i imported the avatar using robloxia cac importer and for some reason the animation doesn't load. the avatar on the right though is imported using moon animator and it works perfectly. Edit: i fixed it using clip editor from roblox studio turns out if your rig is anchored it will make it non animata",
+      "creator": "/u/Rjdoglover https://www.reddit.com/user/Rjdoglover",
+      "id": "1815a47b57fe4da0cb78f8e1"
     },
     {
       "source": "reddit-robloxdev",
@@ -8761,40 +8798,6 @@
       "excerpt": "I'm looking for a GFX artist to make 2 thumbnails for my Roblox game \"Steal the Dino Stampede!\". Players grab glowing ambers in a valley and run them home while huge dino herds stampede at them. What you'll be doing: • Thumbnail 1 – My avatar holding a glowing amber over their head, running in panic",
       "creator": "/u/Equivalent_Paint_372 https://www.reddit.com/user/Equivalent_Paint_372",
       "id": "cecb02c4e4e5dbac207aabe5"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I made a website that’s pretty much studio in browser",
-      "url": "https://devforum.roblox.com/t/i-made-a-website-that%E2%80%99s-pretty-much-studio-in-browser/4956075",
-      "published": "2026-10-25",
-      "excerpt": "ok so this started because my school chromebook can’t run studio. like at all. so i kept poking at “what if the editor just ran in chrome” and it kind of got out of hand lol it’s called Newly ( newly.gg ). you script in Luau, a lot of the API is the same (workspace, Players, RemoteEvents, TweenServi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-made-a-website-that%E2%80%99s-pretty-much-studio-in-browser/4956075.rss",
-      "id": "cea6677facd667711eb327d8"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Solo dev, first game: 86% of new players leave within 5 minutes. How do you fix onboarding in a simulator?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xf1202/solo_dev_first_game_86_of_new_players_leave/",
-      "published": "2026-10-25",
-      "excerpt": "I released my first Roblox game a week ago, a snow-shoveling simulator (dig snow, sell it, upgrade your shovel, hatch pets). I ran a small ad test and the numbers were rough: - 77% of players start digging - 50% make their first sale - 31% buy their first upgrade - only 14% are still playing after 5",
-      "creator": "/u/Global-Avocado-4833 https://www.reddit.com/user/Global-Avocado-4833",
-      "id": "cd342fb32eb4b871b39f0ebc"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How are you optimizing your games for console?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xez02m/how_are_you_optimizing_your_games_for_console/",
-      "published": "2026-10-25",
-      "excerpt": "Building a game, and it runs well in studio... Live game is OK as well (my game has 13,000 parts) though... But when testing in console, it does seem to lag (the moving parts) here, and there. How are some game so flawlessly optimized for console??? submitted by /u/BlueSorrows [link] [comments]",
-      "creator": "/u/BlueSorrows https://www.reddit.com/user/BlueSorrows",
-      "id": "cb91e8da0c3135e6a844b558"
     }
   ]
 }

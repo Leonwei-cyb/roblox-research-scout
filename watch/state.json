@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "8861adaa77839c961d3c574232a8865d65a426b6",
-      "head_subject": "openai: preserve readable Responses input content (#19192)",
+      "head": "4d22e65d493f281adce5e4de7f2cd1efa847cd13",
+      "head_subject": "mlx: sort long top-k rows in chunks (#19392)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.13",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
