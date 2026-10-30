@@ -2,26 +2,18 @@
   "adopted": [],
   "api": {
     "calls": {
-      "graphql": 7,
-      "rest": 44,
+      "graphql": 0,
+      "rest": 31,
       "rest_not_modified": 0
     },
     "rate": {
       "code_search": {
-        "remaining": 7,
-        "reset_at": "2026-10-30T12:31:24Z"
-      },
-      "core": {
-        "remaining": 4891,
-        "reset_at": "2026-10-30T12:50:01Z"
-      },
-      "graphql": {
-        "remaining": 4993,
-        "reset_at": "2026-10-30T13:23:15Z"
+        "remaining": 9,
+        "reset_at": "2026-10-30T13:37:37Z"
       },
       "search": {
-        "remaining": 24,
-        "reset_at": "2026-10-30T12:31:15Z"
+        "remaining": 2,
+        "reset_at": "2026-10-30T13:37:18Z"
       }
     }
   },
@@ -114,17 +106,18 @@
   "counts": {
     "actionable_backlog": 136,
     "adopt": 0,
-    "events_this_run": 85,
+    "events_this_run": 0,
     "needs_test": 146,
-    "new_candidates_this_run": 15,
-    "new_releases_this_run": 8,
+    "new_candidates_this_run": 0,
+    "new_releases_this_run": 0,
     "records": 475,
     "reject": 238,
     "repos_tracked": 384,
-    "updated_issues_this_run": 62
+    "updated_issues_this_run": 0
   },
   "feed_health": {
-    "ok": 38
+    "deferred": 6,
+    "ok": 31
   },
   "feeds": [
     {
@@ -323,54 +316,45 @@
       "status": "ok"
     },
     {
+      "detail": "GitHub rate limit for /search/code",
       "id": "pack:multi-chatgpt-web-workers:s2:source",
-      "items": 50,
       "kind": "code_search",
-      "query": "\"chat.openai.com\" tabs scripting filename:manifest.json",
-      "status": "ok"
+      "status": "deferred"
     },
     {
-      "id": "pack:multi-chatgpt-web-workers:s3:source",
-      "items": 50,
-      "kind": "code_search",
-      "query": "\"chatgpt.com\" launchPersistentContext",
-      "status": "ok"
-    },
-    {
+      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch0",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 15,
-      "status": "ok"
+      "status": "deferred"
     },
     {
+      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch1",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 15,
-      "status": "ok"
+      "status": "deferred"
     },
     {
-      "detail": "1 repo(s) not found or not visible; 0 deferred after GraphQL field errors (prior record kept)",
+      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch2",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 14,
-      "status": "ok"
+      "status": "deferred"
     },
     {
+      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch3",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 15,
-      "status": "ok"
+      "status": "deferred"
     },
     {
+      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch4",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 15,
-      "status": "ok"
+      "status": "deferred"
     },
     {
       "id": "pack-inspect:multi-chatgpt-web-workers",
@@ -385,11 +369,11 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-10-30T12:31:28Z",
-    "outcome": "ok",
-    "run_url": "",
-    "started_at": "2026-10-30T12:29:49Z",
-    "trigger": "local"
+    "finished_at": "2026-10-30T13:36:39Z",
+    "outcome": "partial",
+    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/41064619540",
+    "started_at": "2026-10-30T13:36:17Z",
+    "trigger": "schedule"
   },
   "schema": 1
 }

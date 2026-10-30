@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-30T12:31:28Z (local, ok)
+- Last run: 2026-10-30T13:36:39Z (schedule, partial)
 - Repos tracked: 384; adopt 0, needs-test 146, reject 238
 - Actionable backlog: 136
-- Feed health: ok 38
+- Feed health: deferred 6, ok 31
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin josstei/maestro-orchestrate@​285aede, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [open-mercato/cezar](https://github.com/open-mercato/cezar/tree/eb157816aac7e0d4676c007e2f7d14b397588784)
   - Pin open-mercato/cezar@​eb15781, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #1540 Autonomy: persist external blockers and pause nudges until explicit resume or prerequisite change
-- Issue updated: open-mercato/cezar #1487 Feat: queue a message to a running workflow while a check step runs, instead of 409 session closed
-- Issue updated: open-mercato/cezar #1533 github.wait-ci answers for the previous PR head right after git.push \(stale red/green; waits to time
-- Issue updated: open-mercato/cezar #1807 \[Feature Request\] Allow users to select the dictation language independently of the browser language
-- Issue updated: open-mercato/cezar #1801 Implement: "wait for previous execution" \(singleton\) option for automations
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2638 writing-plans / using-superpowers: multi-step cleanup executed directly after diagnostic recommendat
-- Issue updated: obra/superpowers #2386 test-driven-development is not invoked for a plain "add a function" request, even with the using-sup
-- Issue updated: obra/superpowers #2634 Some skills don't follow Anthropic's skill authoring best practices \(size, test files, contents list
-- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
-- Issue updated: earendil-works/pi #10605 ChatGPT/OpenAI OAuth 403 issue
-- Issue updated: earendil-works/pi #11532 Document which cwd a resumed session runs in, per entry point
-- Issue updated: earendil-works/pi #10256 0.99.x: terminal color query replies leak into the prompt and BEL opens the external editor \(mintty
-- Issue updated: earendil-works/pi #11557 pi-durable: hand off at the context limit and keep the run going
-- Issue updated: earendil-works/pi #6665 TUI pins a full core while streaming: uncached Intl.Segmenter + per-chunk Markdown rebuild
-- Issue updated: ComposioHQ/awesome-claude-skills #2406 Skill submission: vuln-guardian \(Security & Systems\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2405 Skill submission: persona-collection \(proposing a new Persona & Companionship category\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2404 Skill submission: bumpmap \(Development & Code Tools\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2403 Skill submission: hookbench \(Development & Code Tools\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2402 Skill submission: loglens \(Development & Code Tools\)
-- Issue updated: OpenHands/OpenHands #19090 Input and output costs should be in $/M, not per token
-- Issue updated: OpenHands/OpenHands #19115 \[Bug\]: Files tab preview actions are clipped or off screen on a phone when the file tree is shown
-- Issue updated: OpenHands/OpenHands #19112 \[Feature\]: Resizable sidebar, larger sidebar text and a cleaner backend/org picker
-- Issue updated: OpenHands/OpenHands #19110 agent-canvas bundles Node.js 24.21.0 \(openvscode-server 1.109.5\), affected by CVE-2026-111497
-- Issue updated: OpenHands/OpenHands #19104 \[Bug\]: Reload compares agent-server timestamps with the browser clock, so model switches roll back o
-- Issue updated: modelcontextprotocol/servers #5416 memory: add descriptions to the top-level array parameters of create\_entities, create\_relations, add
-- Issue updated: modelcontextprotocol/servers #5415 Add mcp.market to the Resources section of ADDITIONAL.md
-- Release: anthropics/claude-code v2.1.312 to v2.1.314
-- Issue updated: anthropics/claude-code #106100 \[BUG\] MCP HTTPS: a trust anchor with an iPAddress name constraint fails with UNSUPPORTED\_CONSTRAINT\_
-- Issue updated: anthropics/claude-code #99042 \[FEATURE\] Desktop app: show changes for every git repo a session touches in the diff pane
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
