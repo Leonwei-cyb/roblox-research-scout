@@ -1,67 +1,14 @@
 {
-  "schema": "LEON_COLONISTS_RESEARCH_REPORT_V1",
-  "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
-  "active_game": "Colonists",
-  "held_games_not_current": [
-    "Cat Magic"
-  ],
+  "schema": "LEON_ACTIVE_GAME_RESEARCH_REPORT_V1",
+  "status": "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS",
+  "active_game": null,
+  "held_games_not_current": [],
   "input_unique_posts": 596,
   "original_source_candidates": 585,
   "inspected_videos": 0,
   "observed_gameplay_findings": 0,
   "new_code_changes_authorized": false,
-  "candidates": [
-    {
-      "priority": "P0",
-      "topic": "first-session and mobile",
-      "key": "devforum:4960616:1",
-      "title": "Double Joystick On Studio Mobile Emulator",
-      "url": "https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616",
-      "kind": "devforum",
-      "published": "2026-10-27",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Can a first-time desktop player place both opening settlements and roads without help text?"
-    },
-    {
-      "priority": "P1",
-      "topic": "UI and menus",
-      "key": "devforum:4960299:1",
-      "title": "Flickering Particle Flipbook with custom Layout",
-      "url": "https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299",
-      "kind": "devforum",
-      "published": "2026-10-27",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?"
-    },
-    {
-      "priority": "P1",
-      "topic": "world and visual design",
-      "key": "reddit:1xgf3h6",
-      "title": "How do i model mass-produced endless suburban sprawl",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgf3h6/how_do_i_model_massproduced_endless_suburban/",
-      "kind": "reddit",
-      "published": "2026-10-27",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?"
-    },
-    {
-      "priority": "P1",
-      "topic": "animation and audio",
-      "key": "devforum:4960734:1",
-      "title": "[Early Access Program] Build 2D Games With `AnimatedImages`",
-      "url": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
-      "kind": "devforum",
-      "published": "2026-10-27",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?"
-    }
-  ],
-  "unfilled_topics": [
-    "board game and turn flow"
-  ],
-  "authority": "LEON_ACTIVE_GAME"
+  "candidates": [],
+  "unfilled_topics": [],
+  "authority": "studio-gate/active_game.txt: MISSING"
 }
