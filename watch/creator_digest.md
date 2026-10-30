@@ -16,9 +16,8 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 2 matched metadata records.
+**Collected media leads:** 1 matched metadata records.
 - [How to unlock the Ghost Fish in Steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/_H4D7YAOFHE) — channel upload — creator identity check · 2026-10-25
-- [How to unlock the Abandoned Manor in steal an egg #roblox #stealanegg](https://www.youtube.com/shorts/8Mo-fugcSUk) — channel upload — creator identity check · 2026-10-25
 
 ## Tizzy RBLX — Roblox game design
 
