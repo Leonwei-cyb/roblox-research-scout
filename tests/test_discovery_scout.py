@@ -64,7 +64,13 @@ class FakeGitHub(ds.GitHub):
     search_items = []
     calls_log = []
     rate_limit_search = False
+    low_search_budget = False
     graphql_errors = []       # repo names whose licenseInfo field errors (null + error entry)
+
+    def budget_ok(self, resource, minimum):
+        if resource == "search" and FakeGitHub.low_search_budget:
+            self.rate["search"] = {"remaining": 0}
+        return super().budget_ok(resource, minimum)
 
     def get(self, path, params, compact):
         FakeGitHub.calls_log.append(("GET", path))
@@ -114,6 +120,7 @@ class DiscoveryRunTests(unittest.TestCase):
         FakeGitHub.search_items = []
         FakeGitHub.calls_log = []
         FakeGitHub.rate_limit_search = False
+        FakeGitHub.low_search_budget = False
         FakeGitHub.graphql_errors = []
         self.root = root
 
@@ -204,6 +211,31 @@ class DiscoveryRunTests(unittest.TestCase):
         self.run_once(now=NOW.replace(hour=8))
         self.assertTrue([c for c in FakeGitHub.calls_log if c[0] == "GET"])
         self.assertNotIn("deferred_until", json.loads(ds.STATE.read_text()))
+
+    def test_a_rate_limited_run_keeps_the_etag_cache(self):
+        # 2026-10-29: every rate-limited Actions run saved "etags": {}, so the Mac's next run had 0 not-modified
+        ds.STATE.parent.mkdir(parents=True, exist_ok=True)
+        cache = {"https://api.github.com/repos/a/b": {"etag": "W/x", "data": {}}}
+        ds.STATE.write_text(json.dumps({"etags": cache}))
+        FakeGitHub.rate_limit_search = True
+        self.run_once()
+        self.assertEqual(cache, json.loads(ds.STATE.read_text())["etags"])
+
+    def test_backoff_and_low_budget_runs_keep_the_cache_and_a_full_run_prunes_again(self):
+        ds.STATE.parent.mkdir(parents=True, exist_ok=True)
+        cache = {"https://api.github.com/repos/a/b": {"etag": "W/x", "data": {}}}
+        ds.STATE.write_text(json.dumps({"etags": cache, "deferred_until": "2026-10-20T07:00:00Z"}))
+        self.run_once()  # backoff only: no request at all
+        self.assertEqual(cache, json.loads(ds.STATE.read_text())["etags"])
+        state = json.loads(ds.STATE.read_text())
+        state.pop("deferred_until", None)
+        ds.STATE.write_text(json.dumps(state))
+        FakeGitHub.low_search_budget = True  # searches deferred without a rate limit (rate_stop stays unset)
+        self.run_once()
+        self.assertEqual(cache, json.loads(ds.STATE.read_text())["etags"])
+        FakeGitHub.low_search_budget = False
+        self.run_once()  # a complete scan that never asked for the URL forgets it
+        self.assertEqual({}, json.loads(ds.STATE.read_text())["etags"])
 
     def test_review_record_is_the_only_way_to_adopt(self):
         FakeGitHub.search_items = [search_item("acme/relay", 1)]
@@ -582,6 +614,64 @@ class WorkflowTests(unittest.TestCase):
         self.assertEqual(["git add findings/ status/discovery.json watch/discovery_state.json",
                           "git add findings/issue_ledger.json 2>/dev/null || true"], adds)
         self.assertNotIn("git add -A", self.data)
+
+
+
+
+class EtagCacheTests(unittest.TestCase):
+    """The real client, network mocked: the cache an incomplete scan keeps is still bounded and still used."""
+
+    def entries(self, n):
+        return {ds.API + "/r/%d" % i: {"etag": "W/%d" % i, "data": {"i": i}} for i in range(n)}
+
+    def test_an_incomplete_scan_keeps_unvisited_entries_but_holds_the_cap(self):
+        gh = ds.GitHub("", self.entries(401), {}, NOW)
+        gh.used_urls = {ds.API + "/r/0"}  # oldest entry, but requested this run
+        gh.prune(drop_unvisited=False)
+        self.assertEqual(400, len(gh.etags))
+        self.assertIn(ds.API + "/r/0", gh.etags)  # the unvisited ones go first
+        self.assertNotIn(ds.API + "/r/1", gh.etags)
+
+    def test_a_complete_scan_drops_unvisited_entries(self):
+        gh = ds.GitHub("", self.entries(3), {}, NOW)
+        gh.used_urls = {ds.API + "/r/2"}
+        gh.prune()
+        self.assertEqual([ds.API + "/r/2"], list(gh.etags))
+
+    def test_a_kept_entry_is_sent_as_if_none_match_and_a_304_reuses_it(self):
+        gh = ds.GitHub("", {ds.API + "/r/a": {"etag": "W/kept", "data": {"x": 1}}}, {}, NOW)
+        sent = []
+
+        def not_modified(req, timeout):
+            sent.append(req.get_header("If-none-match"))
+            raise HTTPError(req.full_url, 304, "Not Modified", Message(), None)
+        with patch.object(ds, "urlopen", not_modified):
+            data, status = gh.get("/r/a", {}, lambda body: body)
+        self.assertEqual((["W/kept"], {"x": 1}, "not_modified", 1), (sent, data, status, gh.calls["rest_not_modified"]))
+
+    def test_a_tree_skipped_on_low_core_budget_stays_cached(self):
+        # Found in review: fetching tree A drops the core budget below the minimum, B is skipped with
+        # only a per-repo 'core budget low' note, and the pack-inspect feed still says ok
+        url = lambda r: ds.API + "/repos/o/" + r + "/git/trees/s?recursive=1"
+        cache = self.entries(399)  # older entries first: the cap evicts the oldest unvisited (r/0), not B
+        cache.update({url("a"): {"etag": "W/a", "data": {}}, url("b"): {"etag": "W/b", "data": {}}})
+        gh = ds.GitHub("", cache, {}, NOW)
+
+        class Resp(io.BytesIO):
+            headers = {"X-RateLimit-Resource": "core", "X-RateLimit-Remaining": "5", "ETag": "W/a2"}
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+        with patch.object(ds, "urlopen", lambda req, timeout: Resp(json.dumps({"tree": []}).encode())):
+            out = ds.inspect_sources(gh, [{"repo": "o/a", "sha": "s"}, {"repo": "o/b", "sha": "s"}],
+                                     {"min_rest_remaining": 120})
+        self.assertEqual({"error": "core budget low"}, out["o/b"])
+        feeds = [{"id": "pack-inspect:p", "kind": "inspect", "status": "ok"}]
+        self.assertFalse(ds.scan_complete(None, feeds, gh))
+        gh.prune(drop_unvisited=ds.scan_complete(None, feeds, gh))
+        self.assertTrue(url("b") in gh.etags, "skipped tree B was evicted")
+        self.assertFalse(ds.API + "/r/0" in gh.etags, "the cap did not evict the oldest unvisited entry")
+        self.assertEqual("W/a2", gh.etags[url("a")]["etag"])
+        self.assertEqual(400, len(gh.etags))  # the cap still holds, unvisited first
 
 
 if __name__ == "__main__":
