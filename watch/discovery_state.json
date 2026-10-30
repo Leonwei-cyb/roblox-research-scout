@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-10-30T13:37:37Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -278,7 +277,7 @@
       },
       "etag": "\"92fb53746d302c4043cea5c9b42189870148dd5c16c0448c26d383dd77c64180\""
     },
-    "https://api.github.com/repos/totec448-spec/chat-on-steroids/git/trees/145fb314089f2ae67fde01bcc01d29fcbf879935?recursive=1": {
+    "https://api.github.com/repos/totec448-spec/chat-on-steroids/git/trees/ba9e911f0d413eefcb04656bf0d699e72722bc45?recursive=1": {
       "data": {
         "manifests": [
           "package.json",
@@ -295,7 +294,7 @@
           "scripts/verify-background-process-dock.cjs",
           "scripts/verify-browser-bridge-port.mjs"
         ],
-        "tests": 473,
+        "tests": 483,
         "tests_sample": [
           "docs/superpowers/specs/2026-10-11-app-id-attribution-design.md",
           "docs/superpowers/specs/2026-10-11-tab-group-placement-design.md",
@@ -305,8 +304,8 @@
         ],
         "truncated": false
       },
-      "etag": "\"3ce635c05a1272147cb57d131ce8b0ca9fc5225aab31c2c85c52b2278ba0a13c\""
+      "etag": "\"6aed2ec1f3b6c203fbc5cdf50e70ca8bcb60af4d6c770c0ae3734c08baba4337\""
     }
   },
-  "last_run": "2026-10-30T13:36:39Z"
+  "last_run": "2026-10-30T18:43:24Z"
 }
