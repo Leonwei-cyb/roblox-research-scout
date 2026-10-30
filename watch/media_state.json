@@ -1914,7 +1914,14 @@
     "3c2738d6c5213d08bbe73e66",
     "f2cd6a4a4ba022ae53e7f128",
     "6479afb25ee96d4b3b0acc93",
-    "a57249aacd23dc077d18577c"
+    "a57249aacd23dc077d18577c",
+    "83471ecb338282614fdf2eb2",
+    "0d58a26cd7a1f18a11581c8a",
+    "46dd2cba80853099c618b983",
+    "1130cc9a508287f09b5e666b",
+    "a0129a4a3a519be8a807bf87",
+    "0790867a159d93894410e803",
+    "1de2fc1c00a9df0837b20c82"
   ],
   "items": [
     {
@@ -2135,6 +2142,17 @@
       "id": "a1fa07f85657f75baccf960b"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Bus in Vain - Halloween Game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xje661/bus_in_vain_halloween_game/",
+      "published": "2026-10-30",
+      "excerpt": "Hey everyone! I’ve been working on a Halloween game for Roblox called Bus In Vain, and it’s finally out. I’d love to hear what you think. The premise: The Halloween Party is waiting, but the town is crawling with things that don’t want you to get there. You have to pick up the kids and reach the Hal",
+      "creator": "/u/Bubbly-Timely https://www.reddit.com/user/Bubbly-Timely",
+      "id": "a0129a4a3a519be8a807bf87"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2203,6 +2221,18 @@
       "excerpt": "The progress is going well, but animating is taking me a lot of time. I'm making my own art using free models and my Roblox avatars. I am proud of the Rokurokubi card I've designed as I also careful approach the balance. I've been designing this many sets for years and scaped a lot of classes/sets. ",
       "creator": "/u/Consistent_Group8723 https://www.reddit.com/user/Consistent_Group8723",
       "id": "8ee6c2189c3abbd0d4a90587"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to Create Topics in Help and Feedback",
+      "url": "https://devforum.roblox.com/t/unable-to-create-topics-in-help-and-feedback/4965958",
+      "published": "2026-10-30",
+      "excerpt": "Hello! I’m a 13+ age-verified DevForum Member, but when I click “New Topic” in Help and Feedback, I get the message “You don’t have permission to create topics.” I can create topics in Platform Usage Support. Could someone clarify why I can’t create topics in Help and Feedback and whether access can",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-create-topics-in-help-and-feedback/4965958.rss",
+      "id": "83471ecb338282614fdf2eb2"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2309,6 +2339,18 @@
       "id": "4738ee0057a9369121db1859"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Studio crashes during Team Create session when collaborators edit place",
+      "url": "https://devforum.roblox.com/t/roblox-studio-crashes-during-team-create-session-when-collaborators-edit-place/4965945",
+      "published": "2026-10-30",
+      "excerpt": "Roblox Studio crashes during Team Create session when collaborators edit place Expected Behavior Roblox Studio remains stable, allowing collaborators to make edits continuously without losing connection or crashing. Actual Behavior Studio eventually crashes with an “Unable to connect to server” erro",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-studio-crashes-during-team-create-session-when-collaborators-edit-place/4965945.rss",
+      "id": "46dd2cba80853099c618b983"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2369,6 +2411,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Account Location Issue",
+      "url": "https://devforum.roblox.com/t/account-location-issue/4965911",
+      "published": "2026-10-30",
+      "excerpt": "I have been told to paste this here by DevRel Account location changes do not properly get picked up in time; My Account Location has been stuck on one country for over two and a half months, and it’s preventing me from collaborating with others. Expected Behaviour Account location should switch whe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/account-location-issue/4965911.rss",
+      "id": "1130cc9a508287f09b5e666b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "\"Roblox encountered a problem. Check the console and reload\" error on a past project.",
       "url": "https://devforum.roblox.com/t/roblox-encountered-a-problem-check-the-console-and-reload-error-on-a-past-project/4965592",
       "published": "2026-10-30",
@@ -2376,6 +2430,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-encountered-a-problem-check-the-console-and-reload-error-on-a-past-project/4965592.rss",
       "id": "111e1fae4e27cf57a16f1fc2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "DMCA Counter-Notice Exceeded 14 Business Days",
+      "url": "https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946",
+      "published": "2026-10-30",
+      "excerpt": "What do you want to achieve? I want Roblox to investigate the delay in restoring my experience after the DMCA counter-notice process. What is the issue? On October 6, 2026, at 9:14 PM UTC, Roblox confirmed by email that my partner’s counter-notice had been forwarded to the original complainant. As o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946.rss",
+      "id": "0d58a26cd7a1f18a11581c8a"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2387,6 +2453,17 @@
       "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
       "creator": "/u/vestive https://www.reddit.com/user/vestive",
       "id": "0ae1bcd31f57a1df2c7a941d"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox using fake accounts to burn your ad credits?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjeq7o/roblox_using_fake_accounts_to_burn_your_ad_credits/",
+      "published": "2026-10-30",
+      "excerpt": "submitted by /u/grasharcu [link] [comments]",
+      "creator": "/u/grasharcu https://www.reddit.com/user/grasharcu",
+      "id": "0790867a159d93894410e803"
     },
     {
       "source": "reddit-robloxdev",
@@ -8759,74 +8836,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-configure-group-from-createrobloxcom/4958831.rss",
       "id": "14bffe1daecc42e58d8bfdca"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox studio not allowing me to open up my experiences.",
-      "url": "https://devforum.roblox.com/t/roblox-studio-not-allowing-me-to-open-up-my-experiences/4959496",
-      "published": "2026-10-26",
-      "excerpt": "All of my experiences have greyed out placeholder icons, and any time I try to open one, it says “We could not open the place [place number] Failed to fetch place info.” with the red octagon and exclamation-mark. This is most likely an issue on my side rather than the studios, or it could be tempora",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-studio-not-allowing-me-to-open-up-my-experiences/4959496.rss",
-      "id": "13c192fc7178252fb33c60d0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "New gun physics game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3pa9/new_gun_physics_game/",
-      "published": "2026-10-26",
-      "excerpt": "I’m trying to make a new game let me know what i should add or change submitted by /u/thisusertsken [link] [comments]",
-      "creator": "/u/thisusertsken https://www.reddit.com/user/thisusertsken",
-      "id": "11dca9ebf01184bac2371942"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio Camera Sensitivity greatly reduced after recent update",
-      "url": "https://devforum.roblox.com/t/studio-camera-sensitivity-greatly-reduced-after-recent-update/4958964",
-      "published": "2026-10-26",
-      "excerpt": "This started happening some time around October 23rd at 19-23 CEST. I had been using studio just fine that day but after an update my studio camera sensitivity suddenly got more than halved. I was able to alleviate it slightly by maxing out the in-game camera sensitivity during play solo. But now th",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-camera-sensitivity-greatly-reduced-after-recent-update/4958964.rss",
-      "id": "115ffc38b04059971be36e7b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made a spell pvp game where you have to draw the symbol to cast it",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2w8o/made_a_spell_pvp_game_where_you_have_to_draw_the/",
-      "published": "2026-10-26",
-      "excerpt": "I've been working on a wizard dueling game and the main thing I wanted was for casting to feel like actual magic instead of just pressing a button. So every spell has its own symbol and you have to draw it with your wand while you're fighting. It makes fights feel a lot more intense, because you hav",
-      "creator": "/u/Big-Imagination-53 https://www.reddit.com/user/Big-Imagination-53",
-      "id": "0e5cfdaf87de1d1fc70b488e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Thumbnail and icon tips?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi2mi/thumbnail_and_icon_tips/",
-      "published": "2026-10-26",
-      "excerpt": "What are the best ways to create icons and thumbnails for a game that I am working on? I am a student without spare money for a graphic designer and generated ones look low quality. If anyone knows an easy way that I could make high quality thumbnails and icons myself please tell me. submitted by /u",
-      "creator": "/u/Sea-Status8991 https://www.reddit.com/user/Sea-Status8991",
-      "id": "0d02a2ff112f70802b64bf57"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "CinematicWorkflow(BlenderToRoblox)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj8q8/cinematicworkflowblendertoroblox/",
-      "published": "2026-10-26",
-      "excerpt": "A simple animation showcase with animated props, 1:1 from blender to roblox, took a while to figure out the right dimensions, limitations and breathable room for an endless creation of stuff to be made with all things that can be made in blender, without relying on roblox's plugins and tools, all mo",
-      "creator": "/u/Powerful-Neck1528 https://www.reddit.com/user/Powerful-Neck1528",
-      "id": "0c982bf21a633721d9e18b54"
     }
   ]
 }

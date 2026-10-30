@@ -5,21 +5,28 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[No way i just got meowl🦉 #stealabrai̇nrot #stealabrainrotscript #coderedeemer #robaunbrainrot #robloxfyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTVJDQXNCZlJjX2taNks4amVZT1pfdklHb3dvNkQyUm1felBSUjUyMlJHeXNxWGtvVmtqOVNHeERDRFYxVU51ZW1VSzRzYkFMVU44NTZB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-06
+  - Feed excerpt: No way i just got meowl🦉 #stealabrai̇nrot #stealabrainrotscript #coderedeemer #robaunbrainrot #robloxfyp Instagram
+
 ## Community
 
-- **[roblox studio crashing because of device simulator](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbyuc/roblox_studio_crashing_because_of_device_simulator/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: that bullshit is on until i do something bad it all started when i was gonna render something and i clicked on device simulator and it crashed my roblox studio please Help submitted by /u/FastAd5670 \[link\] \[comments\]
-- **[hey! made a little halloween obby, would love for you to try it 🎃](https://www.reddit.com/r/ROBLOXStudio/comments/1xjcldq/hey_made_a_little_halloween_obby_would_love_for/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
-  - Feed excerpt: hi everyone! just finished my first game, Gate Hoppers, and wanted to share it here cozy spooky hub with gates to different worlds halloween tower climb + 5 zones to explore beat your time and your ghost shows up to race you 👻 silly random 
+- **[Bus in Vain - Halloween Game](https://www.reddit.com/r/ROBLOXStudio/comments/1xje661/bus_in_vain_halloween_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: Hey everyone! I’ve been working on a Halloween game for Roblox called Bus In Vain, and it’s finally out. I’d love to hear what you think. The premise: The Halloween Party is waiting, but the town is crawling with things that don’t want you 
+- **[Roblox using fake accounts to burn your ad credits?](https://www.reddit.com/r/ROBLOXStudio/comments/1xjeq7o/roblox_using_fake_accounts_to_burn_your_ad_credits/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: submitted by /u/grasharcu \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Community Clothing Sales Robux Remain Pending for Over a Week](https://devforum.roblox.com/t/community-clothing-sales-robux-remain-pending-for-over-a-week/4965765)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: I am experiencing an issue with community clothing revenue in my Roblox community, Svalbard Expeditions. Clothing sales have remained pending for over a week, and the transactions still display the clock icon. Here is what I have noticed: C
-- **[Rotated UI stroke pixelated.](https://devforum.roblox.com/t/rotated-ui-stroke-pixelated/4965776)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: Game UI frames, when rotated, the stroke becomes really pixelated 1 post - 1 participant Read full topic
-- **[What's going on with sponsored ads lately?](https://devforum.roblox.com/t/whats-going-on-with-sponsored-ads-lately/4965763)** · Roblox Developer Forum latest · 2026-10-30
-  - Feed excerpt: campaign Id = e54eb7e8-33bd-409e-abb4-8eef82a3aefb I know the campaign is still in the learning phase, but that doesn’t make this pattern any less strange. For the first 6 hours, it barely delivered anything and spent literally $0.04. Then,
+- **[Roblox Studio crashes during Team Create session when collaborators edit place](https://devforum.roblox.com/t/roblox-studio-crashes-during-team-create-session-when-collaborators-edit-place/4965945)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Roblox Studio crashes during Team Create session when collaborators edit place Expected Behavior Roblox Studio remains stable, allowing collaborators to make edits continuously without losing connection or crashing. Actual Behavior Studio e
+- **[Account Location Issue](https://devforum.roblox.com/t/account-location-issue/4965911)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: I have been told to paste this here by DevRel Account location changes do not properly get picked up in time; My Account Location has been stuck on one country for over two and a half months, and it’s preventing me from collaborating with o
+- **[DMCA Counter-Notice Exceeded 14 Business Days](https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: What do you want to achieve? I want Roblox to investigate the delay in restoring my experience after the DMCA counter-notice process. What is the issue? On October 6, 2026, at 9:14 PM UTC, Roblox confirmed by email that my partner’s counter
+- **[Unable to Create Topics in Help and Feedback](https://devforum.roblox.com/t/unable-to-create-topics-in-help-and-feedback/4965958)** · Roblox Developer Forum latest · 2026-10-30
+  - Feed excerpt: Hello! I’m a 13+ age-verified DevForum Member, but when I click “New Topic” in Help and Feedback, I get the message “You don’t have permission to create topics.” I can create topics in Platform Usage Support. Could someone clarify why I can
 
 ---
 

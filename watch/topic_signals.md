@@ -4,7 +4,7 @@
 
 | Topic | Mention count | Source examples |
 |---|---:|---|
-| 3D / art | 31 | [\[Hiring\] Blender Animator — R6 & Custom Rigs for Asymmetrical Horror Game (1](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbls9/hiring_blender_animator_r6_custom_rigs_for/); [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) |
+| 3D / art | 30 | [\[Hiring\] Blender Animator — R6 & Custom Rigs for Asymmetrical Horror Game (1](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbls9/hiring_blender_animator_r6_custom_rigs_for/); [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) |
 | UI / UX | 18 | [Help with UI showing up](https://devforum.roblox.com/t/help-with-ui-showing-up/4965644); [Rotated UI stroke pixelated.](https://devforum.roblox.com/t/rotated-ui-stroke-pixelated/4965776) |
 | Animation / feel | 16 | [Development progress showcase for my Card battler. Currently going through t](https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/); [My animation is not loading!](https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/) |
 | Steal / risk | 14 | [Thankyou Steal An Egg & Ben for the memories #roblox #stealanegg #trickwell](https://news.google.com/rss/articles/CBMiVkFVX3lxTE91dUNzME1MbUhLY2ZFQTZlQVUyb2JYOEVpdGkxM19NMUZlank5V2VMUkE1YktnRTFrZ0hpcUJrUDVpUnMwMzF1dVhuWnV0LWd1VXREbHJn?oc=5); [next stop on The Burning Up Tour All Over Again: Steal an Egg. Jonas Brother](https://www.youtube.com/shorts/sRNaj6S0zhY) |

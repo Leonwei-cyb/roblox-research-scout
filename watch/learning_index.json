@@ -1353,19 +1353,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958964:1",
-      "url": "https://devforum.roblox.com/t/studio-camera-sensitivity-greatly-reduced-after-recent-update/4958964",
-      "title": "Studio Camera Sensitivity greatly reduced after recent update",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4959067:1",
       "url": "https://devforum.roblox.com/t/original-closed-accidentally-really-high-studio-camera-sensitivity-affected-by-pan-speed/4959067",
       "title": "[Original closed accidentally] Really high studio camera sensitivity - affected by Pan Speed?",
@@ -1382,19 +1369,6 @@
       "key": "devforum:4959420:1",
       "url": "https://devforum.roblox.com/t/studio-wont-open-any-experiences/4959420",
       "title": "Studio won't open any experiences.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959496:1",
-      "url": "https://devforum.roblox.com/t/roblox-studio-not-allowing-me-to-open-up-my-experiences/4959496",
-      "title": "Roblox studio not allowing me to open up my experiences.",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -2241,12 +2215,25 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xfi2mi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi2mi/thumbnail_and_icon_tips/",
-      "title": "Thumbnail and icon tips?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-26",
-      "kind": "reddit",
+      "key": "devforum:4965945:1",
+      "url": "https://devforum.roblox.com/t/roblox-studio-crashes-during-team-create-session-when-collaborators-edit-place/4965945",
+      "title": "Roblox Studio crashes during Team Create session when collaborators edit place",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965958:1",
+      "url": "https://devforum.roblox.com/t/unable-to-create-topics-in-help-and-feedback/4965958",
+      "title": "Unable to Create Topics in Help and Feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -2963,6 +2950,19 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xjeq7o",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjeq7o/roblox_using_fake_accounts_to_burn_your_ad_credits/",
+      "title": "Roblox using fake accounts to burn your ad credits?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4112,19 +4112,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xfj8q8",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfj8q8/cinematicworkflowblendertoroblox/",
-      "title": "CinematicWorkflow(BlenderToRoblox)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6252,6 +6239,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4965911:1",
+      "url": "https://devforum.roblox.com/t/account-location-issue/4965911",
+      "title": "Account Location Issue",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4965946:1",
+      "url": "https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946",
+      "title": "DMCA Counter-Notice Exceeded 14 Business Days",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-30",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xflne9",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xflne9/bootiful_view/",
       "title": "Bootiful view",
@@ -6373,32 +6382,10 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xg2w8o",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2w8o/made_a_spell_pvp_game_where_you_have_to_draw_the/",
-      "title": "Made a spell pvp game where you have to draw the symbol to cast it",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xg3mwk",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3mwk/check_out_my_roblox_creation/",
       "title": "Check out My Roblox creation",
       "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xg3pa9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3pa9/new_gun_physics_game/",
-      "title": "New gun physics game",
-      "source": "reddit-robloxdev",
       "published": "2026-10-26",
       "kind": "reddit",
       "signals": [],
@@ -7322,6 +7309,17 @@
       "key": "reddit:1xjcldq",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjcldq/hey_made_a_little_halloween_obby_would_love_for/",
       "title": "hey! made a little halloween obby, would love for you to try it 🎃",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-30",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xje661",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xje661/bus_in_vain_halloween_game/",
+      "title": "Bus in Vain - Halloween Game",
       "source": "reddit-robloxstudio",
       "published": "2026-10-30",
       "kind": "reddit",
