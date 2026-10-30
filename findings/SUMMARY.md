@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-30T18:43:24Z (local, ok)
+- Last run: 2026-10-30T22:39:38Z (schedule, partial)
 - Repos tracked: 389; adopt 0, needs-test 149, reject 240
 - Actionable backlog: 139
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin jmagly/aiwg@​d88d04e, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmylchreest/aide](https://github.com/jmylchreest/aide/tree/a20298d39fd9839f1db1eacc6c463d5ff418b891)
   - Pin jmylchreest/aide@​a20298d, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #1623 Show recent automation runs on automations page
-- Issue updated: open-mercato/cezar #1688 Add project: explain the browse-root boundary and link to its settings
-- Issue updated: open-mercato/cezar #1819 Implement: reorder and sort automations in the list
-- Issue updated: open-mercato/cezar #886 Implement: finish GitHub Automations editor and show Test filter matches
-- Issue updated: open-mercato/cezar #1818 Implement: multiple schedules for one automation
-- Issue updated: obra/superpowers #2642 executing-plans/scripts/task-start and task-done fail without +x \(\#2040\)
-- Issue updated: earendil-works/pi #10256 0.99.x: terminal color query replies leak into the prompt and BEL opens the external editor \(mintty
-- Issue updated: earendil-works/pi #11602 Branch summaries replay assistant content omitted by automatic retry
-- Issue updated: earendil-works/pi #11599 RPC mode: async ctx.shutdown\(\) does not exit an idle process
-- Issue updated: earendil-works/pi #10924 Custom message can make a submitted prompt fail while its input handlers or auth check run
-- Issue updated: earendil-works/pi #11376 Anthropic: removing an initial tool mid-session breaks every later request \(tool\_reference\_unresolve
-- Issue updated: OpenHands/OpenHands #18484 \[Feature\]: Native per-conversation priority scheduling for LLM requests
-- Issue updated: OpenHands/OpenHands #15657 Unified conversations view across all registered backends
-- Issue updated: OpenHands/OpenHands #15751 Cloud VS Code tab needs reliable in-app rendering or new-tab fallback
-- Issue updated: OpenHands/OpenHands #15631 \[Bug\]: Windows + Cloud backend can fail with LiteLLM InternalServerError wrapping down.app.all-hands
-- Issue updated: OpenHands/OpenHands #15061 Architecture: extract conversation WebSocket event interpreter
-- Issue updated: anthropics/claude-code #106269 \[BUG\] Desktop app \(macOS\): Account → Passkey creates the passkey on the Mac with no authenticator ch
-- Issue updated: anthropics/claude-code #106268 \[BUG\] claude-artifacts MCP server replaces the Artifact tool but refuses typed artifacts \(Design can
-- Issue updated: anthropics/claude-code #103209 \[FEATURE\] Long-lived token with artifact/Claude Design scope for headless \(CI\) sessions
-- Issue updated: anthropics/claude-code #106267 \[BUG\] Plugins synced from the claude.ai plugin catalog arrive with CRLF line endings on Linux; every
-- Issue updated: anthropics/claude-code #92051 Desktop WSL sessions get no 'ccd\_session' host MCP: 'mark\_chapter' is unavailable, so chapter divide
-- Issue updated: openai/codex #45541 \[Windows/Mobile Remote Voice\] Voice session abruptly drops to text and loses context after reconnect
-- Issue updated: openai/codex #58409 \[Windows Desktop\] @​ file mention picker returns no local workspace files
-- Issue updated: openai/codex #30957 SQLite WAL journal mode corrupts runtime DBs \(logs\_2, state\_5, …\) when CODEX\_HOME is on a network fi
-- Issue updated: openai/codex #40203 Codex Desktop: expose task summaries and show them on sidebar hover
-- Issue updated: openai/codex #58408 \[Windows\] ChatGPT 26.1027.30824 uses 18 processes and memory grows from 1.75 to 1.98 GB without usin
-- Issue updated: ollama/ollama #19407 \[Feature Request\] Make the fixed 1 GiB mmproj headroom configurable while preserving automatic --fit
-- Issue updated: ollama/ollama #19405 docs: Modelfile is documented as case insensitive, but parameter names and message roles are not
-- Issue updated: ollama/ollama #19404 parser: CRLF Modelfiles keep \\r inside triple-quoted values
-- Issue updated: ollama/ollama #19403 model/parsers: cogito with think and tools puts the reasoning and  /think  in the content
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
