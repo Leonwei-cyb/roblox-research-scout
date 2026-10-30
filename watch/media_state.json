@@ -1968,7 +1968,9 @@
     "d4e9dd4052baec20942ee3f1",
     "40ec56f25604c2b3dfe3995f",
     "3940409c3176c9a8f727e026",
-    "04f426fce9483f6fafba96da"
+    "04f426fce9483f6fafba96da",
+    "07c75df69d959220bb0919a9",
+    "d60efa426ae23571d55a889b"
   ],
   "items": [
     {
@@ -2156,6 +2158,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-250k-visit-game-taken-down-over-platform-bug/4965559.rss",
       "id": "d88cd6b21162fdbc9de619c0"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Studio Beta] Inspect Your Live Server During Team Test",
+      "url": "https://devforum.roblox.com/t/studio-beta-inspect-your-live-server-during-team-test/4966700",
+      "published": "2026-10-30",
+      "excerpt": "Key Takeaways You can now see and inspect the live server’s viewport and Data Model during Team Test sessions. A new read-only Server view shows the server’s instance tree, properties, and 3D world, including ServerScriptService and ServerStorage , and lets you open server scripts and debug them wit",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-inspect-your-live-server-during-team-test/4966700.rss",
+      "id": "d60efa426ae23571d55a889b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2500,7 +2514,7 @@
       "title": "How to add advection to eulerian incompressible fluid sim?",
       "url": "https://devforum.roblox.com/t/how-to-add-advection-to-eulerian-incompressible-fluid-sim/4966681",
       "published": "2026-10-30",
-      "excerpt": "I’ve been confused for forever now, would anyone be able to help and explain it? I’ve setup velocity and divergence, how would I get advection to work? 1 post - 1 participant Read full topic",
+      "excerpt": "I’ve been confused for forever now, would anyone be able to help and explain it? I’ve setup velocity and divergence, how would I get advection to work? 3 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-add-advection-to-eulerian-incompressible-fluid-sim/4966681.rss",
       "id": "89d3f811c2252327b0d55c45"
@@ -3029,6 +3043,18 @@
       "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
       "creator": "/u/vestive https://www.reddit.com/user/vestive",
       "id": "0ae1bcd31f57a1df2c7a941d"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Studio Beta] Build 2D, Isometric, and Top-Down Games With Orthographic Camera",
+      "url": "https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772",
+      "published": "2026-10-30",
+      "excerpt": "Key Takeaways Orthographic Camera is rolling out now in Studio Beta. You can build 2D, isometric, and top-down games where objects stay the same size at any distance. Find it in File > Beta Features , then set Camera.ProjectionType to Orthographic . Hi Creators, We’re launching the Orthographic Came",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772.rss",
+      "id": "07c75df69d959220bb0919a9"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8868,29 +8894,6 @@
       "excerpt": "As planned, I’ve added some wind turbines, and I also tried to create a \"relaxation area\" to fill the empty space and show that this game isn’t just about \"grinding\" <3 submitted by /u/Zarboxys [link] [comments]",
       "creator": "/u/Zarboxys https://www.reddit.com/user/Zarboxys",
       "id": "86cc622e789273d49e2307a9"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "LOW POLY BUILDER NEEDED!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfpauq/low_poly_builder_needed/",
-      "published": "2026-10-26",
-      "excerpt": "🛠️ [HIRING] Low-Poly Builder for Roblox Game 🎮 🏡 Looking for a talented(accepting begginers who work hard) low-poly builder to help create interiors for a planned grand mansion map in my upcoming roblox game! 🎨 I'm aiming for a stylised, polished aesthetic and have reference images available to show",
-      "creator": "/u/chombiecat https://www.reddit.com/user/chombiecat",
-      "id": "82462424343e4e02d8bce7e1"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OREIzdVNrMHBiY1lubElJNG15ODZkNTdid3lXTHJFRFdia3JtVGdzdDBFQlBFNzVRNUdIeUxHYl9xOHlrbU5GVktwQUJnRWJ0aUxaQzNn?oc=5",
-      "published": "2026-10-26",
-      "excerpt": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "7c67f147131d78d7cef56e5a"
     }
   ]
 }

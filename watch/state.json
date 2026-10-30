@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "fd3f75b3a225309d2255a7f221e10028d527edec",
-      "head_subject": "Require PHP 8.2+ (#9470)",
+      "head": "d4964dc1ff80eb1e2292c9b44642f3c49af4b866",
+      "head_subject": "WebSub: Implement support for hub.secret (#9430)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "4d22e65d493f281adce5e4de7f2cd1efa847cd13",
-      "head_subject": "mlx: sort long top-k rows in chunks (#19392)",
+      "head": "f9323416f0c3f84d82f6c4a7bde75b717448bd44",
+      "head_subject": "feat(launch): use model output limits for Claude Code (#19410)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.13",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
