@@ -2044,7 +2044,12 @@
     "9e36b916014dbd73507ca222",
     "4790bb83dcda32edc993a891",
     "4cf810cacc7fe1e8eb7fd008",
-    "b2e2ddac1363632a10009549"
+    "b2e2ddac1363632a10009549",
+    "0b2b6e16d5a354f186f9593e",
+    "eb20c31babfc271b0fb72cd5",
+    "f7525e50737998e8e5118c3d",
+    "c32971b04cc600511abefcfc",
+    "c7a568566ff694bed2487440"
   ],
   "items": [
     {
@@ -2058,6 +2063,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223.rss",
       "id": "fd582cd602526141952a7055"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Plugin] UI2Code — Converts Studio UI to Lua/React code",
+      "url": "https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118",
+      "published": "2026-10-31",
+      "excerpt": "[Plugin] UI2Code — Convert Studio UI to Lua/React Code What does this plugin do? UI2Code analyzes any ScreenGui (or UI hierarchy) in your place and generates ready-to-copy/paste code that recreates that UI programmatically. Output Typical Use Lua (Luau) Server/client scripts, modules, plugins React ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118.rss",
+      "id": "f7525e50737998e8e5118c3d"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2104,6 +2121,18 @@
       "excerpt": "Phases 6-8 not yet implemented. submitted by /u/Adept-Flamingo8070 [link] [comments]",
       "creator": "/u/Adept-Flamingo8070 https://www.reddit.com/user/Adept-Flamingo8070",
       "id": "ef702b5d1643ec756c65da4d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Can creator-defined preset system encode messages strictly pertaining to information relative to \"objective intent\"?",
+      "url": "https://devforum.roblox.com/t/can-creator-defined-preset-system-encode-messages-strictly-pertaining-to-information-relative-to-objective-intent/4968143",
+      "published": "2026-10-31",
+      "excerpt": "For example, if my custom non-Roblox preset system configuration is: Help me! I am at #LOCATION# And #LOCATION# is a wildcard that encodes, prior to being seen by other players, a location on the map (i.e. Objective Bravo), thus other players across the server, irrespective to age group, see: [Playe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/can-creator-defined-preset-system-encode-messages-strictly-pertaining-to-information-relative-to-objective-intent/4968143.rss",
+      "id": "eb20c31babfc271b0fb72cd5"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2221,6 +2250,17 @@
       "excerpt": "The Broken | Play on Roblox i just need to test it out tbh :P submitted by /u/LillyFrogz123 [link] [comments]",
       "creator": "/u/LillyFrogz123 https://www.reddit.com/user/LillyFrogz123",
       "id": "c8dde8748806c80c3c653d5a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "LEGION Aura",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkd91h/legion_aura/",
+      "published": "2026-10-31",
+      "excerpt": "I dont think I can even really call this an \"aura\" anymore. submitted by /u/Naive-Series821 [link] [comments]",
+      "creator": "/u/Naive-Series821 https://www.reddit.com/user/Naive-Series821",
+      "id": "c32971b04cc600511abefcfc"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2575,7 +2615,7 @@
       "title": "[Plugin] HTTP Requests take 2-3+ minutes",
       "url": "https://devforum.roblox.com/t/plugin-http-requests-take-2-3-minutes/4967743",
       "published": "2026-10-31",
-      "excerpt": "Hi. I have one plugin I have been working on for quite a while. Whenever I try to send a HTTP request to a domain, it can sometimes take up to 3 minutes for a response. I haven’t really seen anyone explaining how to fix this.. And no, I am not in playtest mode. 5 posts - 3 participants Read full top",
+      "excerpt": "Hi. I have one plugin I have been working on for quite a while. Whenever I try to send a HTTP request to a domain, it can sometimes take up to 3 minutes for a response. I haven’t really seen anyone explaining how to fix this.. And no, I am not in playtest mode. 6 posts - 3 participants Read full top",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/plugin-http-requests-take-2-3-minutes/4967743.rss",
       "id": "3463c9725cd5d3992d4a037e"
@@ -2626,6 +2666,18 @@
       "excerpt": "Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used in the making of it btw. :) So, (even though there's many mis",
       "creator": "/u/LordChud21 https://www.reddit.com/user/LordChud21",
       "id": "11f60ce58f359376aac39cba"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Flare Icons - Thousands of Icons at Your Disposal",
+      "url": "https://devforum.roblox.com/t/flare-icons-thousands-of-icons-at-your-disposal/4968150",
+      "published": "2026-10-31",
+      "excerpt": "Flare Icons For Your Design. Get the Highlights. Latest Update (Build 101) All-new design Over 2k icons available 3 styles available: Outline, Colored, Shaded(3D) Similar icons section to help you find the perfect icon Switch between grid or list layout Ability to find icons that are from the explor",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/flare-icons-thousands-of-icons-at-your-disposal/4968150.rss",
+      "id": "0b2b6e16d5a354f186f9593e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8926,52 +8978,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/what-should-i-add/4960156.rss",
       "id": "1a420d02bb54ce6e062fd24f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "animation im making for my friend since her birthday is coming up",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh00bv/animation_im_making_for_my_friend_since_her/",
-      "published": "2026-10-27",
-      "excerpt": "it's wip still so it sucks, but it's good practice ig submitted by /u/OutcomeFlat7568 [link] [comments]",
-      "creator": "/u/OutcomeFlat7568 https://www.reddit.com/user/OutcomeFlat7568",
-      "id": "14518d2b2459a6096cb09d99"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I can't use studio properly. (Templates/Online Assets/Experiences won't load)",
-      "url": "https://devforum.roblox.com/t/i-cant-use-studio-properly-templatesonline-assetsexperiences-wont-load/4960219",
-      "published": "2026-10-27",
-      "excerpt": "Hi! I’ve tried uninstalling and re-installing studio and no luck I can’t ‘Open templates’ I can’t insert assets from myself or from the toolbox that are free 07:33:41.367 [Roblox][sabuiltin_StartPage.rbxm.StartPage.Src.Network.DiscoverReachStatus] DiscoverReachStatus experienced an error for univers",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-cant-use-studio-properly-templatesonline-assetsexperiences-wont-load/4960219.rss",
-      "id": "144ac567fe92bb45d096913a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for people to test my experience",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgn0jy/looking_for_people_to_test_my_experience/",
-      "published": "2026-10-27",
-      "excerpt": "Hi, I just released a new project on Roblox that I've been working on and off for months. It's a project that is inspired by games I loved when I was a kid and just wanted to add my own twist to it. It would be awesome if I could get feedback on the overall game experience :) Thank you in advance! s",
-      "creator": "/u/VityyOne https://www.reddit.com/user/VityyOne",
-      "id": "101e5b4277a2db383720ea73"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[SEEKING INVESTMENT] — Fill In the Blank",
-      "url": "https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598",
-      "published": "2026-10-27",
-      "excerpt": "I’m a solo dev seeking up to 20,000 Robux or $75 USD in ads funding to grow Fill In the Blank [Beta], a completed casual multiplayer party game inspired by an original experience that reached around 15M visits and 3.5K CCU. The game features 500 highly curated prompts, fast-paced rounds, cosmetics, ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598.rss",
-      "id": "0f6cc7adf4738ec9b755b91b"
     }
   ]
 }
