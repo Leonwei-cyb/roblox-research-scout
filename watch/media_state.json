@@ -2049,7 +2049,16 @@
     "eb20c31babfc271b0fb72cd5",
     "f7525e50737998e8e5118c3d",
     "c32971b04cc600511abefcfc",
-    "c7a568566ff694bed2487440"
+    "c7a568566ff694bed2487440",
+    "90a7b618fe7a6b283e4d92ea",
+    "41af9726cd794d3059620146",
+    "e61c9e3431c04393fcd7bda0",
+    "c2fddd404c174a297c59e184",
+    "78faa95077921d4da5e1253a",
+    "bbaa37bf0245b7e23975dcf9",
+    "6ae262efd97a2f919b301fdb",
+    "c16fc8dbb740b847b587272a",
+    "03e0d67b25a96bcaa5c0f760"
   ],
   "items": [
     {
@@ -2162,6 +2171,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "SocialService:CanUsePlayerSupportAsync()",
+      "url": "https://devforum.roblox.com/t/socialservicecanuseplayersupportasync/4968205",
+      "published": "2026-10-31",
+      "excerpt": "As a Roblox developer, I currently can’t check whether a player can use Player Support via SocialService:PromptFeedbackSubmissionAsync() . I’d like to create a SocialService:CanUsePlayerSupportAsync() function that would return a boolean indicating whether the local player can use Player Support. Ex",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/socialservicecanuseplayersupportasync/4968205.rss",
+      "id": "e61c9e3431c04393fcd7bda0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox Moderation Appeal Portal Fails With Upstream Request Timeout for Months",
       "url": "https://devforum.roblox.com/t/roblox-moderation-appeal-portal-fails-with-upstream-request-timeout-for-months/4967533",
       "published": "2026-10-31",
@@ -2263,6 +2284,18 @@
       "id": "c32971b04cc600511abefcfc"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Experience stuck in \"Final review in progress\" for 48+ hours after correcting Maturity Questionnaire",
+      "url": "https://devforum.roblox.com/t/experience-stuck-in-final-review-in-progress-for-48-hours-after-correcting-maturity-questionnaire/4968170",
+      "published": "2026-10-31",
+      "excerpt": "Hello! I wanted to report what looks like a possible issue with the final review for my experience The Villa — Universe ID 9649357470 , Place ID 95146415604579 ( game link ). On October 29, 2026 the experience was restricted to Ages 16+ with the “Social Hangout” descriptor. The Villa is a music conc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/experience-stuck-in-final-review-in-progress-for-48-hours-after-correcting-maturity-questionnaire/4968170.rss",
+      "id": "c2fddd404c174a297c59e184"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2294,6 +2327,17 @@
       "excerpt": "Hey! I've been working on Dino World Builder, a dinosaur park game on Roblox. I wanted something like Theme Park Tycoon 2 but with dinosaurs, since most dino games on here are just hatching eggs on fixed plots. What you can do: - Build paths, fences, shops and viewing spots anywhere on your land - M",
       "creator": "/u/Double-Ear7796 https://www.reddit.com/user/Double-Ear7796",
       "id": "c0279b72c7dbef1c1c22ed72"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "felt like einstein writing this code 😼",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkg525/felt_like_einstein_writing_this_code/",
+      "published": "2026-10-31",
+      "excerpt": "https://preview.redd.it/ws96d8tf8uyh1.png?width=811&format=png&auto=webp&s=db7e862a11c6bddb2e12a6d44268501983d2eaa4 anythign I could improve on tho? Just curious ^^ submitted by /u/RoutriVenti [link] [comments]",
+      "creator": "/u/RoutriVenti https://www.reddit.com/user/RoutriVenti",
+      "id": "bbaa37bf0245b7e23975dcf9"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2423,6 +2467,18 @@
       "id": "913f032cc1bc89fdf928c921"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Let us announce updates without an exact date (\"Coming Soon\" / \"This Fall\")",
+      "url": "https://devforum.roblox.com/t/let-us-announce-updates-without-an-exact-date-coming-soon-this-fall/4968275",
+      "published": "2026-10-31",
+      "excerpt": "As a Roblox developer, it is currently too hard to tell players an update is coming when I don’t know the exact date yet. Events & Updates only works with a fixed start and end time. But in real dev life dates slip all the time - bugs, testing, life stuff. So right now I have 2 bad options: put a da",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/let-us-announce-updates-without-an-exact-date-coming-soon-this-fall/4968275.rss",
+      "id": "90a7b618fe7a6b283e4d92ea"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2454,6 +2510,28 @@
       "excerpt": "Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used in the making of it btw. :) So, (even though there's many mis",
       "creator": "/u/LordChud21 https://www.reddit.com/user/LordChud21",
       "id": "8583ba9849bc82fbf5321281"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for a Team to Make Roblox Games.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkef56/looking_for_a_team_to_make_roblox_games/",
+      "published": "2026-10-31",
+      "excerpt": "Looking for a Roblox Development Team I'm looking for people to help me create Roblox games, mainly UI Designers and Scripters. I have several game ideas, and I'm looking for a team to work with on developing them. Our goal will also be to improve and develop our skills in our respective fields over",
+      "creator": "/u/BroIsNotHere https://www.reddit.com/user/BroIsNotHere",
+      "id": "78faa95077921d4da5e1253a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Check Out My New Game Pls",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkf3gk/check_out_my_new_game_pls/",
+      "published": "2026-10-31",
+      "excerpt": "🔥 CHECK OUT MY NEW ROBLOX GAME! 🔥 🎮 Looking for a new Roblox game to play? Come check out my game and be part of the community! ✨ Why should you play? 🎯 Fun gameplay 🚀 Exciting adventures 💎 Discover new things 🏆 Challenge yourself and improve! ❤️ Every player and every bit of feedback helps! 🔗 PLAY ",
+      "creator": "/u/BasicAdhesiveness304 https://www.reddit.com/user/BasicAdhesiveness304",
+      "id": "6ae262efd97a2f919b301fdb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2598,6 +2676,18 @@
       "id": "4433fa5f496e07346dcda671"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Submitters of the Illegal Content Report Form are unable to enter more than 1 Content URL, even though the UI says \"(up to 5)*\"",
+      "url": "https://devforum.roblox.com/t/submitters-of-the-illegal-content-report-form-are-unable-to-enter-more-than-1-content-url-even-though-the-ui-says-up-to-5/4968265",
+      "published": "2026-10-31",
+      "excerpt": "Submitters of the Illegal Content Report Form are currently unable to enter more than one Content URL in the “Content URLs you are reporting (up to 5)*” field. This is particularly frustrating because the UI explicitly states that up to five links can be added. Whenever multiple links are entered, t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/submitters-of-the-illegal-content-report-form-are-unable-to-enter-more-than-1-content-url-even-though-the-ui-says-up-to-5/4968265.rss",
+      "id": "41af9726cd794d3059620146"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2678,6 +2768,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/flare-icons-thousands-of-icons-at-your-disposal/4968150.rss",
       "id": "0b2b6e16d5a354f186f9593e"
+    },
+    {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "it’s not over until The Hollow says it is. time for one. last. scare.",
+      "url": "https://www.youtube.com/shorts/evnIFforv7E",
+      "published": "2026-10-31",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "03e0d67b25a96bcaa5c0f760"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8884,100 +8985,6 @@
       "excerpt": "I'm currently building a map in Studio and ran into a crisis right from the start. How on earth do you add 'Terrain' materials??? ExpandedTerrain is enabled, Studio has been properly rebooted, and it's the latest version... GEMINI told me doing this would make a + button appear in the Terrain Editor",
       "creator": "/u/AbaloneEffective1018 https://www.reddit.com/user/AbaloneEffective1018",
       "id": "2ac828b58c8e7f69e9f99b50"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "InputActionLabel uses Ctrl and Alt on MacOS computers despite them being named differently",
-      "url": "https://devforum.roblox.com/t/inputactionlabel-uses-ctrl-and-alt-on-macos-computers-despite-them-being-named-differently/4960612",
-      "published": "2026-10-27",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/inputactionlabel-uses-ctrl-and-alt-on-macos-computers-despite-them-being-named-differently/4960612.rss",
-      "id": "2990d98f029eb682c4bbdbb1"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "making a souls like",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgukkg/making_a_souls_like/",
-      "published": "2026-10-27",
-      "excerpt": "Currently working on a Soulslike RPG in Roblox, wanted to share the concept and get some thoughts. The game takes place in a world where people's souls can be forcibly extracted, usually by powerful people who want to control others. Losing parts of your soul can strip away your free will, essential",
-      "creator": "/u/Capital-Ad9419 https://www.reddit.com/user/Capital-Ad9419",
-      "id": "295afa04c6d01364f427e14d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Looking for Team] Need Programmers, UI Makers, and Builders (21+) for \"Eat the Egg\"",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkp59/looking_for_team_need_programmers_ui_makers_and/",
-      "published": "2026-10-27",
-      "excerpt": "Looking for UI makers, coders, and a builder in the 21+ age group . Since I'm currently on a tight budget, I'm offering a 20% share of the game's Robux revenue for each role (60% total for the team, leaving 40% for me). I can pay out via Gamepasses or Developer Products—whichever you prefer. My drea",
-      "creator": "/u/IhateAIlikereally https://www.reddit.com/user/IhateAIlikereally",
-      "id": "2837a228fd2d04e07eae7ac6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Pending final review for longer than 48 hours",
-      "url": "https://devforum.roblox.com/t/pending-final-review-for-longer-than-48-hours/4960376",
-      "published": "2026-10-27",
-      "excerpt": "This is a support category for asking questions about how to get something done on the Roblox websites or how to do something on Roblox applications such as Roblox Studio. You can write your topic however you want, but you need to answer these questions: What do you want to achieve? To get All Ages ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/pending-final-review-for-longer-than-48-hours/4960376.rss",
-      "id": "214c7a47ee4ee6ce45cc6b79"
-    },
-    {
-      "source": "x-ui",
-      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
-      "category": "UI showcases",
-      "title": "Acetul (@_acetul) - X",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
-      "published": "2026-10-27",
-      "excerpt": "Acetul (@_acetul) X",
-      "creator": "",
-      "publisher": "https://x.com",
-      "id": "20d02f62b0692b6d3e8dad9d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio MCP: Studio always gets 401 Unauthorized from StudioMCP (token enforcement on, Studio never passes)",
-      "url": "https://devforum.roblox.com/t/studio-mcp-studio-always-gets-401-unauthorized-from-studiomcp-token-enforcement-on-studio-never-passes/4960526",
-      "published": "2026-10-27",
-      "excerpt": "So as of today, Studio just stopped connecting to the MCP. It was working fine yesterday and I didn’t update anything. The Studio and StudioMCP files are still from Oct 22, so I’m pretty sure it’s a flag change on Roblox’s end. Claude Code and Codex both just get {“studios”: }, and Studio keeps popp",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-mcp-studio-always-gets-401-unauthorized-from-studiomcp-token-enforcement-on-studio-never-passes/4960526.rss",
-      "id": "20842f41f6639d9a522c079b"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Release Notes for 745",
-      "url": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
-      "published": "2026-10-27",
-      "excerpt": "Howdy! I hope you all are having a great day. Here are the release notes: Version 745: Introduced in version 745 Weekly update: Week of October 26, 2026 21 posts - 18 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/release-notes-for-745/4960754.rss",
-      "id": "1bbc848dbd6d3c954f224a54"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "What should I add?",
-      "url": "https://devforum.roblox.com/t/what-should-i-add/4960156",
-      "published": "2026-10-27",
-      "excerpt": "I am making this UI for my friend : What else should I add (or modify) ? 6 posts - 4 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-should-i-add/4960156.rss",
-      "id": "1a420d02bb54ce6e062fd24f"
     }
   ]
 }

@@ -98,21 +98,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xgkp59",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkp59/looking_for_team_need_programmers_ui_makers_and/",
-      "title": "[Looking for Team] Need Programmers, UI Makers, and Builders (21+) for \"Eat the Egg\"",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "building and purchases",
-        "UI and menus"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xhn9d2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/",
       "title": "My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?",
@@ -703,20 +688,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4960376:1",
-      "url": "https://devforum.roblox.com/t/pending-final-review-for-longer-than-48-hours/4960376",
-      "title": "Pending final review for longer than 48 hours",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
         "tools and performance"
       ],
       "score": 6,
@@ -1445,19 +1416,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4960526:1",
-      "url": "https://devforum.roblox.com/t/studio-mcp-studio-always-gets-401-unauthorized-from-studiomcp-token-enforcement-on-studio-never-passes/4960526",
-      "title": "Studio MCP: Studio always gets 401 Unauthorized from StudioMCP (token enforcement on, Studio never passes)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2348,6 +2306,32 @@
         "building and purchases",
         "UI and menus",
         "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968170:1",
+      "url": "https://devforum.roblox.com/t/experience-stuck-in-final-review-in-progress-for-48-hours-after-correcting-maturity-questionnaire/4968170",
+      "title": "Experience stuck in \"Final review in progress\" for 48+ hours after correcting Maturity Questionnaire",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968265:1",
+      "url": "https://devforum.roblox.com/t/submitters-of-the-illegal-content-report-form-are-unable-to-enter-more-than-1-content-url-even-though-the-ui-says-up-to-5/4968265",
+      "title": "Submitters of the Illegal Content Report Form are unable to enter more than 1 Content URL, even though the UI says \"(up to 5)*\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3544,6 +3528,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xkef56",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkef56/looking_for_a_team_to_make_roblox_games/",
+      "title": "Looking for a Team to Make Roblox Games.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:5QjkE1qZpqM",
       "url": "https://www.youtube.com/shorts/5QjkE1qZpqM",
       "title": "welcome to the xperiment 🧪 Ken Carson hits The Block on oct 30.",
@@ -3615,6 +3613,17 @@
       "title": "all eyes on you. tonight, the Overseer is watching The Hollow.",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "published": "2026-10-29",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "youtube:evnIFforv7E",
+      "url": "https://www.youtube.com/shorts/evnIFforv7E",
+      "title": "it’s not over until The Hollow says it is. time for one. last. scare.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-10-31",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -3694,19 +3703,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4960156:1",
-      "url": "https://devforum.roblox.com/t/what-should-i-add/4960156",
-      "title": "What should I add?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4292,6 +4288,32 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968205:1",
+      "url": "https://devforum.roblox.com/t/socialservicecanuseplayersupportasync/4968205",
+      "title": "SocialService:CanUsePlayerSupportAsync()",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968275:1",
+      "url": "https://devforum.roblox.com/t/let-us-announce-updates-without-an-exact-date-coming-soon-this-fall/4968275",
+      "title": "Let us announce updates without an exact date (\"Coming Soon\" / \"This Fall\")",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5025,6 +5047,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xkf3gk",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkf3gk/check_out_my_new_game_pls/",
+      "title": "Check Out My New Game Pls",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4959726:1",
       "url": "https://devforum.roblox.com/t/gears-do-not-appear-in-currently-wearing/4959726",
       "title": "Gears do not appear in Currently Wearing",
@@ -5157,32 +5192,10 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4960612:1",
-      "url": "https://devforum.roblox.com/t/inputactionlabel-uses-ctrl-and-alt-on-macos-computers-despite-them-being-named-differently/4960612",
-      "title": "InputActionLabel uses Ctrl and Alt on MacOS computers despite them being named differently",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4960629:1",
       "url": "https://devforum.roblox.com/t/leftalt-and-rightalt-show-as-lalt-and-ralt-on-macos-despite-macs-not-having-an-alt-key/4960629",
       "title": "LeftAlt and RightAlt show as LAlt and RAlt on MacOS despite Macs not having an Alt key.",
       "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4960754:1",
-      "url": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
-      "title": "Release Notes for 745",
-      "source": "roblox-devforum-updates",
       "published": "2026-10-27",
       "kind": "devforum",
       "signals": [],
@@ -6466,17 +6479,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xgukkg",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgukkg/making_a_souls_like/",
-      "title": "making a souls like",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xgv1w9",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgv1w9/ground_branch_inspired_game/",
       "title": "Ground Branch inspired game",
@@ -7390,14 +7392,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5XclI2UkZfaHZPLXN1UzdrSGRPVWRJb2E0bC1vUkk0bzNRb29aSWJwS0hzdk9NcUtr?oc=5",
-      "title": "Acetul (@_acetul) - X",
-      "source": "x-ui",
-      "published": "2026-10-27",
-      "kind": "index-only",
+      "key": "reddit:1xkg525",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkg525/felt_like_einstein_writing_this_code/",
+      "title": "felt like einstein writing this code 😼",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
       "signals": [],
-      "score": 0,
+      "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
