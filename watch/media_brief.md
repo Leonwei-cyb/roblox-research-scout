@@ -5,17 +5,24 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
+## Roblox Creator / Steal An Egg
 
-- **[How To CONNECT CLAUDE AI To ROBLOX STUDIO! (Easiest Guide) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tLXhkTnlndUZ5S1p0ZnZLdHUweVNvR1lkdy1LZzRtTEY4TTNfTWRHcWxHN1o4aUdnbm1pS3FsalVYOEgyZml5YnFCR2ZSNEhrT05DQ2xR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-21
-  - Feed excerpt: How To CONNECT CLAUDE AI To ROBLOX STUDIO! (Easiest Guide) YouTube
+- **[The end of Steal A Brainrot? 😭 #sammy #stealabrainrot #nostalgia #jandel #roblox - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScTJtSE52RS1RUE9KaFVXcXZLVERzdEtCSVdIZF8wUDJlZTUxd05zUW1MWW1EMHhTcUNjSHBUNFhQX3l4NHV3OWxYUUYxNWEwWXRnV3R3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-23
+  - Feed excerpt: The end of Steal A Brainrot? 😭 #sammy #stealabrainrot #nostalgia #jandel #roblox Instagram
+
+## Community
+
+- **[Wanna try my Passion Project BLOCKMANIA? (Upcoming Update!)](https://www.reddit.com/r/ROBLOXStudio/comments/1xk5ikj/wanna_try_my_passion_project_blockmania_upcoming/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: Good day! My name is Blockyguy1122! If you want to try my game BLOCKMANIA!, read my comment and click on this link: https://www.roblox.com/games/76360169927708/Blockmania P.S. Read my comment if you want to know the premise of the game! AND
+- **[So I might've made something...](https://www.reddit.com/r/ROBLOXStudio/comments/1xk64ba/so_i_mightve_made_something/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: I suppose Bassie has a quest for you! The game is currently in beta, and I'd love to hear some feedback! Does the UI fit the overall theme? Does it feel cohesive with the game? I've been working on a lot more content, but honestly, I've bee
 
 ## Roblox Updates
 
-- **[Error creating texture: 80070057](https://devforum.roblox.com/t/error-creating-texture-80070057/4967517)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: Recently, I’ve run into this issue when attempting to change the viewport window size using the Device Emulator. When changing the device emulator device to my 5120 x 2880 device, which I primarily use for screenshotting areas, it throws an
-- **[Why isn't it not ignoring the ghost?](https://devforum.roblox.com/t/why-isnt-it-not-ignoring-the-ghost/4967510)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: idk whats wrong but it better not be fucking simple --\[\[ ReplicatedFirst/LocalScript part of the script also ignore how scuffed the code is --\]\] const runservice = game:GetService("RunService") const plrs = game:GetService("Players") const 
+- **[Add a Steam-like Curator System for Game Discovery](https://devforum.roblox.com/t/add-a-steam-like-curator-system-for-game-discovery/4967581)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: As a Roblox developer, it is difficult to connect games made for specific interests with the players most likely to enjoy them. I would like Roblox to introduce a system similar to Steam Curators : individuals or communities recommend games
+- **[Roblox Moderation Appeal Portal Fails With Upstream Request Timeout for Months](https://devforum.roblox.com/t/roblox-moderation-appeal-portal-fails-with-upstream-request-timeout-for-months/4967533)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: Hello Roblox staff and developers, I’m requesting assistance regarding my Roblox account, @Sytexprime , which was terminated. The termination notice states that an alternative account violated Roblox’s rules. However, the account mentioned 
 
 ---
 
