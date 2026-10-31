@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "f9323416f0c3f84d82f6c4a7bde75b717448bd44",
-      "head_subject": "feat(launch): use model output limits for Claude Code (#19410)",
+      "head": "c1db5f9ef203b2e946161bf4c6bd4f2ec7f123b3",
+      "head_subject": "openai: don't override model sampler defaults (#19432)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.13",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
