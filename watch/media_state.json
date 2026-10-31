@@ -1998,9 +1998,25 @@
     "ef7e9a7b2ce6ecee08bf6322",
     "8e0c129546f3df0edf97cff8",
     "87e0fae735f6dc80d418c463",
-    "eeb0e8adff02a9218b41aa19"
+    "eeb0e8adff02a9218b41aa19",
+    "effd73457d3e02d9aa10e34b",
+    "a8430edeae4258ea18c378f8",
+    "ef702b5d1643ec756c65da4d",
+    "940bc5b55db02531ae44fc0f"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[CRITICAL] Fake ‘studio dependency’ popup appearing in experience playests",
+      "url": "https://devforum.roblox.com/t/critical-fake-%E2%80%98studio-dependency%E2%80%99-popup-appearing-in-experience-playests/4967145",
+      "published": "2026-10-31",
+      "excerpt": "There is this backdoor going around that pretends to be a legitmate studio popup message that requires you to run a script (that is I assume a backdoor) code it wants to run: -- Game must be stopped before running. local a = \"HttpService\" local HttpService = game:GetService(a) HttpService.HttpEnable",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-fake-%E2%80%98studio-dependency%E2%80%99-popup-appearing-in-experience-playests/4967145.rss",
+      "id": "effd73457d3e02d9aa10e34b"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -2012,6 +2028,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-2d-clothing-been-taken-off-sale-since-idk/4967050.rss",
       "id": "ef7e9a7b2ce6ecee08bf6322"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "WITHERSTORM Model",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjz00m/witherstorm_model/",
+      "published": "2026-10-31",
+      "excerpt": "Phases 6-8 not yet implemented. submitted by /u/Adept-Flamingo8070 [link] [comments]",
+      "creator": "/u/Adept-Flamingo8070 https://www.reddit.com/user/Adept-Flamingo8070",
+      "id": "ef702b5d1643ec756c65da4d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2038,6 +2065,18 @@
       "id": "d34b13fe0471e076c24e83e2"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "badges not awarding to my user anymore",
+      "url": "https://devforum.roblox.com/t/badges-not-awarding-to-my-user-anymore/4967114",
+      "published": "2026-10-31",
+      "excerpt": "i noticed today while trying to complete a quest that the badge didnt award for some reason, tried it again and same thing, then i went on another experience to test to notice that it also didnt award badges anymore, no matter what game i played, kinda frustrating considering the timing of the curre",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/badges-not-awarding-to-my-user-anymore/4967114.rss",
+      "id": "a8430edeae4258ea18c378f8"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2059,6 +2098,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975.rss",
       "id": "a54b15d4619b2482b5db410e"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I'm a playtester, and I'd love to test your game!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjy54c/im_a_playtester_and_id_love_to_test_your_game/",
+      "published": "2026-10-31",
+      "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
+      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
+      "id": "940bc5b55db02531ae44fc0f"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8877,54 +8927,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/robloxassetmanagerassetmanagerpackages-warning-when-opening-asset-manager/4957783.rss",
       "id": "c4a8026aff7fea5ff9dabf5e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game marked \"Not eligible for Kids & Select\" due to maturity rating, but rating is Minimal",
-      "url": "https://devforum.roblox.com/t/game-marked-not-eligible-for-kids-select-due-to-maturity-rating-but-rating-is-minimal/4959380",
-      "published": "2026-10-26",
-      "excerpt": "Hello My experience “[W2] Fish and Steal a Meme” (Universe ID: 99789131321010) suddenly shows on the Manage Audience page: “Not eligible for Kids & Select – Because of its maturity rating, this game is only available to players 16 and older.” Facts: Maturity & Compliance Questionnaire completed abou",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-marked-not-eligible-for-kids-select-due-to-maturity-rating-but-rating-is-minimal/4959380.rss",
-      "id": "c3f11ec5e002a4513615ecb1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio won't open any experiences.",
-      "url": "https://devforum.roblox.com/t/studio-wont-open-any-experiences/4959420",
-      "published": "2026-10-26",
-      "excerpt": "i cannot open any of my places on studio. Idk why? 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-wont-open-any-experiences/4959420.rss",
-      "id": "c2a67665b25772d9cb39ac58"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "The Hollow - Two stacked UIs making closing one of them more tricky",
-      "url": "https://devforum.roblox.com/t/the-hollow-two-stacked-uis-making-closing-one-of-them-more-tricky/4957801",
-      "published": "2026-10-26",
-      "excerpt": "Description I don’t know where The Hollow issues go, so I put them here. So, I was holding out the Flashlight and clicked “Visit Games” and then for a moment I was trying to figure out how to close it… Normal (click for more details) It looks like the Flashlight UI, is covering the “Got It” button. ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-hollow-two-stacked-uis-making-closing-one-of-them-more-tricky/4957801.rss",
-      "id": "c29965712489335fd2a1b386"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "R6 Convert SpecialMesh/CharacterMesh to MeshParts",
-      "url": "https://devforum.roblox.com/t/r6-convert-specialmeshcharactermesh-to-meshparts/4958236",
-      "published": "2026-10-26",
-      "excerpt": "You can’t use transparency with special mesh or material with special mesh or character mesh. I feel as if I’m being forced to use r15 just to convert mesh to meshparts, that is unfair. R6 games have unreliable character effects because of this. There should be a workspace toggle to convert R6 speci",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/r6-convert-specialmeshcharactermesh-to-meshparts/4958236.rss",
-      "id": "c2244f8db7421f4c52256a6c"
     }
   ]
 }
