@@ -2028,7 +2028,11 @@
     "c2654a213f3833eee9bbad76",
     "5cce35beba84d84b9c714f78",
     "548ad66ea9b158fe3fef0b11",
-    "b6b00458e122a02ad05c70dd"
+    "b6b00458e122a02ad05c70dd",
+    "48b55f082b1bb8fd4748999e",
+    "3463c9725cd5d3992d4a037e",
+    "e0f5f4841d3b8786dbdfb1bc",
+    "c0279b72c7dbef1c1c22ed72"
   ],
   "items": [
     {
@@ -2138,6 +2142,18 @@
       "id": "e12e5cf16ff675bf70190ee8"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What is your opinion about the Roblox website?",
+      "url": "https://devforum.roblox.com/t/what-is-your-opinion-about-the-roblox-website/4967732",
+      "published": "2026-10-31",
+      "excerpt": "As a developer, what do you think is missing from Roblox developer-focused sites—such as the talent/Create a new Topic.category.pages or similar platforms? For instance, could there be a dedicated section for specific skills, a personal introduction area, or perhaps an assessment/test to help rank y",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-is-your-opinion-about-the-roblox-website/4967732.rss",
+      "id": "e0f5f4841d3b8786dbdfb1bc"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2192,6 +2208,17 @@
       "excerpt": "game.GetService.player = Enum.KeyCode(g) playEmote = Humanoid:LoadAnimation(80261291488409) Humanoid = playEmote.parent:findFirstChild(\"Humanoid\") playEmote:play(g) playEmote = (true) game.player = Enum.KeyCode(g) playEmote = (if true then playEmote else nil) playEmote = (if not false then nil else ",
       "creator": "/u/Mindless-Soil-5310 https://www.reddit.com/user/Mindless-Soil-5310",
       "id": "c18bc8e99acb63031e754e0a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I made a sandbox dinosaur park game where you can build anywhere (Dino World Builder)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk81on/i_made_a_sandbox_dinosaur_park_game_where_you_can/",
+      "published": "2026-10-31",
+      "excerpt": "Hey! I've been working on Dino World Builder, a dinosaur park game on Roblox. I wanted something like Theme Park Tycoon 2 but with dinosaurs, since most dino games on here are just hatching eggs on fixed plots. What you can do: - Build paths, fences, shops and viewing spots anywhere on your land - M",
+      "creator": "/u/Double-Ear7796 https://www.reddit.com/user/Double-Ear7796",
+      "id": "c0279b72c7dbef1c1c22ed72"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2370,6 +2397,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
+      "url": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745",
+      "published": "2026-10-31",
+      "excerpt": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are regular matches, dif",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745.rss",
+      "id": "48b55f082b1bb8fd4748999e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Why isn't it not ignoring the ghost?",
       "url": "https://devforum.roblox.com/t/why-isnt-it-not-ignoring-the-ghost/4967510",
       "published": "2026-10-31",
@@ -2388,6 +2427,18 @@
       "excerpt": "its called black hallow submitted by /u/TravelEmergency9529 [link] [comments]",
       "creator": "/u/TravelEmergency9529 https://www.reddit.com/user/TravelEmergency9529",
       "id": "3cf6c75a602300cd4cdc1237"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Plugin] HTTP Requests take 2-3+ minutes",
+      "url": "https://devforum.roblox.com/t/plugin-http-requests-take-2-3-minutes/4967743",
+      "published": "2026-10-31",
+      "excerpt": "Hi. I have one plugin I have been working on for quite a while. Whenever I try to send a HTTP request to a domain, it can sometimes take up to 3 minutes for a response. I haven’t really seen anyone explaining how to fix this.. And no, I am not in playtest mode. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/plugin-http-requests-take-2-3-minutes/4967743.rss",
+      "id": "3463c9725cd5d3992d4a037e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8910,51 +8961,6 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "fc84b8d3ed36bb7ebbff25bd"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I’m working on a base-building rocket combat game — is the early-game progression clear?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg46m1/im_working_on_a_basebuilding_rocket_combat_game/",
-      "published": "2026-10-26",
-      "excerpt": "I’m developing Rocket War, a Roblox game where you build a base, buy rockets, and add defenses. This clip shows the early-game loop: placing your first building, buying a rocket, attacking a bot, and using the reward to upgrade your base. I’d appreciate feedback on a few things: • Is it clear what a",
-      "creator": "/u/RoDevv https://www.reddit.com/user/RoDevv",
-      "id": "faecbfd60f60afb3f7552c83"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for Roblox map builders",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/",
-      "published": "2026-10-26",
-      "excerpt": "Looking for Roblox map builders (16+) to create maps for an SCP-inspired psychological horror game. Contact Imjustagamin_JR on Roblox if you are interested in collaborating. ​Play the Demo: Search \"Site-E17\" on Roblox or visit Imjustagamin_JR's profile under the Experiences tab to try what is curren",
-      "creator": "/u/Evening_Land_8156 https://www.reddit.com/user/Evening_Land_8156",
-      "id": "fa2d14e8f54bad54b55b69f1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Rbxoc | A CLI for the Roblox Open Cloud API",
-      "url": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453",
-      "published": "2026-10-26",
-      "excerpt": "rbxoc is a command-line tool for the Roblox Open Cloud API, built so a coding agent can run it. Pin it next to Rojo and call it from a shell. The interface is agent-facing. rbxoc api list returns the command catalog, including commands that are not implemented yet. Every command prints one JSON obje",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453.rss",
-      "id": "f9de144d5e1bbbc504d1ea4c"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "My First Roblox Game - 31 October",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfvpmj/my_first_roblox_game_31_october/",
-      "published": "2026-10-26",
-      "excerpt": "Heyyy! I know it’s been a while, but for those who don’t know me, my name is \"Zarboxys.\" I’m 14, I’m French, and for the past 8 months, I’ve been working on a Roblox game all by myself, WITHOUT any AI (because AI is just bad...). I’m posting this update to share that the game is 95% complete, the mu",
-      "creator": "/u/Zarboxys https://www.reddit.com/user/Zarboxys",
-      "id": "f7f22b6b5ea42e0be8b2922f"
     }
   ]
 }

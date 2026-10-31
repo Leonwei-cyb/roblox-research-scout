@@ -1002,20 +1002,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xg46m1",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg46m1/im_working_on_a_basebuilding_rocket_combat_game/",
-      "title": "I’m working on a base-building rocket combat game — is the early-game progression clear?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xgdqv1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgdqv1/is_this_hudui_good/",
       "title": "Is this HUD/UI good?",
@@ -2336,14 +2322,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xfi8qf",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xfi8qf/looking_for_roblox_map_builders/",
-      "title": "Looking for Roblox map builders",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-26",
-      "kind": "reddit",
+      "key": "devforum:4967743:1",
+      "url": "https://devforum.roblox.com/t/plugin-http-requests-take-2-3-minutes/4967743",
+      "title": "[Plugin] HTTP Requests take 2-3+ minutes",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
       "signals": [
-        "building and purchases"
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3063,6 +3049,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xk81on",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk81on/i_made_a_sandbox_dinosaur_park_game_where_you_can/",
+      "title": "I made a sandbox dinosaur park game where you can build anywhere (Dino World Builder)",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4960619:1",
       "url": "https://devforum.roblox.com/t/extreme-lag-on-every-place-even-a-new-empty-baseplate/4960619",
       "title": "Extreme Lag on every place, even a new empty baseplate",
@@ -3296,6 +3295,20 @@
       "signals": [
         "player feedback and marketing",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4967745:1",
+      "url": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745",
+      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -5015,17 +5028,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4959453:1",
-      "url": "https://devforum.roblox.com/t/rbxoc-a-cli-for-the-roblox-open-cloud-api/4959453",
-      "title": "Rbxoc | A CLI for the Roblox Open Cloud API",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4959651:1",
       "url": "https://devforum.roblox.com/t/vulnerability-scan-for-viruses-asap-continuing-about-the-runtime-virus/4959651",
       "title": "{VULNERABILITY} SCAN FOR VIRUSES ASAP! [Continuing about the \"Runtime\" virus]",
@@ -6324,12 +6326,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xfvpmj",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfvpmj/my_first_roblox_game_31_october/",
-      "title": "My First Roblox Game - 31 October",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
+      "key": "devforum:4967732:1",
+      "url": "https://devforum.roblox.com/t/what-is-your-opinion-about-the-roblox-website/4967732",
+      "title": "What is your opinion about the Roblox website?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
