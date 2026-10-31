@@ -2006,7 +2006,9 @@
     "fd582cd602526141952a7055",
     "597baaae40695600df43274b",
     "c8dde8748806c80c3c653d5a",
-    "50a29a997dbab3a982705ea1"
+    "50a29a997dbab3a982705ea1",
+    "9b2f4dc5528ccdbb3cdce51d",
+    "dcdc13cb85e38cf11f5bc10e"
   ],
   "items": [
     {
@@ -2069,6 +2071,17 @@
       "id": "e84debaea85deac1a4a3666a"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Demo video of a new game I'm working on! Please let me know what you think!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk2dfl/demo_video_of_a_new_game_im_working_on_please_let/",
+      "published": "2026-10-31",
+      "excerpt": "I'm working on an auto battler unit drafting game similar to clash royale, but classic roblox styled! I'm calling it Blox Battles, and I just wanted to post this here to see what you guys think of it so far! I would love to hear any thoughts or suggestions! https://reddit.com/link/1xk2dfl/video/siev",
+      "creator": "/u/asher476 https://www.reddit.com/user/asher476",
+      "id": "dcdc13cb85e38cf11f5bc10e"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2125,6 +2138,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975.rss",
       "id": "a54b15d4619b2482b5db410e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Expedited Review fee can’t be paid from a collaborator’s balance on a group-owned experience",
+      "url": "https://devforum.roblox.com/t/expedited-review-fee-can%E2%80%99t-be-paid-from-a-collaborator%E2%80%99s-balance-on-a-group-owned-experience/4967366",
+      "published": "2026-10-31",
+      "excerpt": "Our experience is owned by a group and is locked to 16+ under Kids and Select. Steps: Sign in as a group collaborator who is not the group owner. Open Creator Hub, select [experience], and go to Manage Audience. Start the Expedited Review purchase for 50,000 Robux. Result: only using group funds is ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/expedited-review-fee-can%E2%80%99t-be-paid-from-a-collaborator%E2%80%99s-balance-on-a-group-owned-experience/4967366.rss",
+      "id": "9b2f4dc5528ccdbb3cdce51d"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8909,28 +8934,6 @@
       "excerpt": "hello guys can you tell me where do i start when creating roblox like what is the step by step or progress of creating game. should i start creating lobby first or ui or designing maps? submitted by /u/ihabdigbick [link] [comments]",
       "creator": "/u/ihabdigbick https://www.reddit.com/user/ihabdigbick",
       "id": "d5698b4da64650e600efb6c1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How to fix Map Glitch",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg2rjt/how_to_fix_map_glitch/",
-      "published": "2026-10-26",
-      "excerpt": "Hey guys, This is currently only a test map but I have the issue of this huge box in the middle of it - which I cannot select nor seem to delete. Any ideas why this is and how to get rid of it? I have attached some photos of what it looks like. How the Cube looks from outside Inside the cube submitt",
-      "creator": "/u/IllustriousMemory231 https://www.reddit.com/user/IllustriousMemory231",
-      "id": "d0d21b901663743c20dd6e3b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What would you like to see on the Roblox platform?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfyryk/what_would_you_like_to_see_on_the_roblox_platform/",
-      "published": "2026-10-26",
-      "excerpt": "I have a question for you: what bothers you the most on the Roblox platform, and what do you feel is missing the most (from both a player's and a developer's perspective)? submitted by /u/BTV_Rbx [link] [comments]",
-      "creator": "/u/BTV_Rbx https://www.reddit.com/user/BTV_Rbx",
-      "id": "ccf36e3ff1e235917fd079ae"
     }
   ]
 }

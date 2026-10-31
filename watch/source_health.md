@@ -1,8 +1,8 @@
 # Public research feed coverage
 
 Feeds read successfully: 15
-Feeds unavailable: 3
-Feeds deferred (temporary cooldown): 1
+Feeds unavailable: 4
+Feeds deferred (temporary cooldown): 0
 
 Availability is not guaranteed for public Reddit, third-party indexed searches or YouTube feeds.
 
@@ -24,12 +24,9 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - tizzy-roblox-design: 2
 - syphodev-claude: 12
 
-## Deferred feeds — retry after temporary cooldown
-
-- reddit-robloxdev: HTTP 429
-
 ## Failures (not silently skipped)
 
+- reddit-robloxdev: HTTP 429
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 404
-- youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 500
+- youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 404
