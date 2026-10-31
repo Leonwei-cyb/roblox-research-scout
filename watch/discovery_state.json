@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-10-30T22:40:38Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -33,6 +32,39 @@
         "truncated": false
       },
       "etag": "\"1d3191b57b8ecfa850a75c21f049ad7bc306f52a52bae0edb095f81d863c81f8\""
+    },
+    "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/50d2adf1cd070b178eb454d86c794f72933b9518?recursive=1": {
+      "data": {
+        "manifests": [
+          "package.json",
+          "pyproject.toml",
+          "setup.py",
+          "hermes_cli/setup.py",
+          "pm/pyproject.toml",
+          "tests-js/package.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "hermes_state_api_content.py",
+          "hermes_state_portability.py",
+          "hermes_state_runtime_workers.py",
+          "hermes_state_session_list.py",
+          "hermes_state_sessions.py",
+          "hermes_state_sessions_model_config.py"
+        ],
+        "tests": 10016,
+        "tests_sample": [
+          "apps/desktop/e2e/at-rest-connection-token.spec.ts",
+          "apps/desktop/e2e/batch-clarify.spec.ts",
+          "apps/desktop/e2e/boot-failure.spec.ts",
+          "apps/desktop/e2e/boot.spec.ts",
+          "apps/desktop/e2e/bot-screen-stale-status-reply.spec.ts"
+        ],
+        "truncated": false
+      },
+      "etag": "\"0283c6c2edbb161e20eac71fce3a8f643573961f9671682530fa0cbdaaf78a04\""
     },
     "https://api.github.com/repos/Robbings/chatgpt-graph-navigator/git/trees/a616cefd3fb6764ad25f0d50417fbebe14156660?recursive=1": {
       "data": {
@@ -250,7 +282,7 @@
       },
       "etag": "\"b3a5fd0c18abc343f558791104600adebd8d77d6a03e16df1ec3fbe3741a29bc\""
     },
-    "https://api.github.com/repos/ollama/ollama/git/trees/4d22e65d493f281adce5e4de7f2cd1efa847cd13?recursive=1": {
+    "https://api.github.com/repos/ollama/ollama/git/trees/f9323416f0c3f84d82f6c4a7bde75b717448bd44?recursive=1": {
       "data": {
         "manifests": [
           "go.mod"
@@ -276,37 +308,8 @@
         ],
         "truncated": false
       },
-      "etag": "\"92fb53746d302c4043cea5c9b42189870148dd5c16c0448c26d383dd77c64180\""
-    },
-    "https://api.github.com/repos/totec448-spec/chat-on-steroids/git/trees/ba9e911f0d413eefcb04656bf0d699e72722bc45?recursive=1": {
-      "data": {
-        "manifests": [
-          "package.json",
-          "extension/manifest.json"
-        ],
-        "readme": [
-          "README.md"
-        ],
-        "sources": [
-          "extension/active-tabs.js",
-          "extension/browser-control-page.js",
-          "extension/browser-control.js",
-          "scripts/verify-active-tabs.mjs",
-          "scripts/verify-background-process-dock.cjs",
-          "scripts/verify-browser-bridge-port.mjs"
-        ],
-        "tests": 483,
-        "tests_sample": [
-          "docs/superpowers/specs/2026-10-11-app-id-attribution-design.md",
-          "docs/superpowers/specs/2026-10-11-tab-group-placement-design.md",
-          "test/active-tabs.test.ts",
-          "test/age.test.ts",
-          "test/agent-activity.test.ts"
-        ],
-        "truncated": false
-      },
-      "etag": "\"6aed2ec1f3b6c203fbc5cdf50e70ca8bcb60af4d6c770c0ae3734c08baba4337\""
+      "etag": "\"b795d3ea7c574f561eb3b900dc8a9edfdbd986f61844567cd641e48ece7b58a5\""
     }
   },
-  "last_run": "2026-10-30T22:39:38Z"
+  "last_run": "2026-10-31T04:58:56Z"
 }

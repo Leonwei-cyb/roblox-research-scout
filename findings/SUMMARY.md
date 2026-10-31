@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-10-30T22:39:38Z (schedule, partial)
-- Repos tracked: 389; adopt 0, needs-test 149, reject 240
-- Actionable backlog: 139
-- Feed health: deferred 6, ok 30
+- Last run: 2026-10-31T04:58:56Z (local, ok)
+- Repos tracked: 395; adopt 0, needs-test 150, reject 245
+- Actionable backlog: 140
+- Feed health: ok 38
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,5 +35,38 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin jmagly/aiwg@​d88d04e, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmylchreest/aide](https://github.com/jmylchreest/aide/tree/a20298d39fd9839f1db1eacc6c463d5ff418b891)
   - Pin jmylchreest/aide@​a20298d, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+
+## Changes this run
+
+- Issue updated: open-mercato/cezar #1621 More actions on github issues list page
+- Issue updated: open-mercato/cezar #1700 Implement: select Codex Daybreak mode independently of the underlying model
+- Issue updated: open-mercato/cezar #1600 Add UI button to remove worktree of completed tasks
+- Issue updated: open-mercato/cezar #1853 Fix: Windows home-safety tests overwrite the real project registry
+- Issue updated: open-mercato/cezar #980 Validate an explicit Codex reasoning effort against the model's discovered capabilities at run start
+- Issue updated: obra/superpowers #2083 Pi extension bootstrap only injected on the first turn: agent\_end fires per run, not per session
+- Issue updated: obra/superpowers #2651 subagent-driven-development: task reviewer isn't told to flag a report with no RED evidence
+- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
+- Issue updated: earendil-works/pi #10618 GNU screen: inherited COLORTERM overrides the screen guard, so the TUI loses all colors
+- Issue updated: earendil-works/pi #11602 Branch summaries replay assistant content omitted by automatic retry
+- Issue updated: earendil-works/pi #10157 Gemini tool-call thought signatures are dropped with the AI Studio OpenAI-compatible endpoint
+- Issue updated: earendil-works/pi #7547 \[Windows\] \[sink-thread\] How do you use Pi on windows? What issues are you seeing?
+- Issue updated: OpenHands/OpenHands #19119 Verify local Agent Canvas install on Windows end-to-end \(external user could not install at all\)
+- Issue updated: OpenHands/OpenHands #19139 \[Bug\]: ACP \(Claude Code\) MCP sessions don't inherit OAuth tokens already granted via the Customize/i
+- Issue updated: OpenHands/OpenHands #19044 Model Router: "Run at first message" toggle is global, silently no-ops when active profile has no ro
+- Issue updated: OpenHands/OpenHands #19138 Route-at-start suppression leaks across non-home launches, ACP picks, and backends
+- Issue updated: OpenHands/OpenHands #19136 \[Bug\]: "Creating conversation…" toast flashes on fast conversation starts
+- Release: anthropics/claude-code v2.1.314 to v2.1.316
+- Issue updated: anthropics/claude-code #101369 \[BUG\]\[REGRESSION\] Broken Projects upgrade wiped out classic projects with no no opt-out
+- Issue updated: anthropics/claude-code #106349 \[GitHub integration\]
+- Issue updated: anthropics/claude-code #105765 \[FEATURE\] Status line: expose Enterprise usage credits in rate\_limits.spend\_limit
+- Issue updated: anthropics/claude-code #106348 \[Bug\] Anthropic API Error: reasoning\_extraction
+- Issue updated: anthropics/claude-code #106347 \[BUG\] \[Desktop, Windows\] Rewind to an earlier prompt fails, and the prompt I was typing was lost
+- Issue updated: openai/codex #58485 Windows: Whale window returned as Naver\_Whale is rejected as belonging to Naver\_Whale
+- Issue updated: openai/codex #57623 Windows Codex returns “blocked by policy” without an actionable reason
+- Issue updated: openai/codex #58484 \[macOS\] Dictation teardown hangs coreaudiod; AirPlay plug-ins accumulate after resets
+- Issue updated: openai/codex #58483 \[Windows\] GPT-6.1 Sol effective throughput dropped significantly on Oct 30–31
+- Issue updated: openai/codex #23257 Desktop compaction repeatedly embeds full image base64 in compacted checkpoints
+- Issue updated: ollama/ollama #19420 Fresh install of Ollama and trying to use Gemma4 but getting errors.
+- Issue updated: ollama/ollama #19418 Windows 11 26H2: native TCP tables return non-LISTEN states for the Ollama loopback endpoint
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
