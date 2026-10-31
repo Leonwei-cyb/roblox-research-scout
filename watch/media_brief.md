@@ -5,15 +5,25 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[Admin Treadmill in Steal an Egg #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE9CM1pIYmlKYjVoVGlfSG9aNXdGc05ocGNqeWFra2hFd2ZKQUxuY3VsNThpZUU1cld4Snh3bDdISm01UExScU1GVEZkMDBjZGFjQ2gzZEpiRnMzMEt2a0hnYm5YLXVGanUwUDl4Zg?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-13
+  - Feed excerpt: Admin Treadmill in Steal an Egg #roblox #stealanegg TikTok
+
 ## Community
 
-- **[Demo video of a new game I'm working on! Please let me know what you think!](https://www.reddit.com/r/ROBLOXStudio/comments/1xk2dfl/demo_video_of_a_new_game_im_working_on_please_let/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: I'm working on an auto battler unit drafting game similar to clash royale, but classic roblox styled! I'm calling it Blox Battles, and I just wanted to post this here to see what you guys think of it so far! I would love to hear any thought
+- **[weird lighting bug thing?](https://www.reddit.com/r/ROBLOXStudio/comments/1xk39w6/weird_lighting_bug_thing/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: hey hey!! im new to roblox studio and i need help to with this weird bug on mobile that makes everything except the skybox black. on console and pc it's perfectly fine, but for some reason it absolutely HATES mobile. if someone could help m
+- **[1 more player needed!](https://www.reddit.com/r/ROBLOXStudio/comments/1xk3g0z/1_more_player_needed/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 sta
+- **[please try my first proper roblox game iv spent a while learning how to make games and i want people to play it and give me feadback](https://www.reddit.com/r/ROBLOXStudio/comments/1xk2zyp/please_try_my_first_proper_roblox_game_iv_spent_a/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: its called black hallow submitted by /u/TravelEmergency9529 \[link\] \[comments\]
+- **[what wrong with my code](https://www.reddit.com/r/ROBLOXStudio/comments/1xk3eyw/what_wrong_with_my_code/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: game.GetService.player = Enum.KeyCode(g) playEmote = Humanoid:LoadAnimation(80261291488409) Humanoid = playEmote.parent:findFirstChild("Humanoid") playEmote:play(g) playEmote = (true) game.player = Enum.KeyCode(g) playEmote = (if true then 
 
-## Roblox Updates
+## Youtube
 
-- **[Expedited Review fee can’t be paid from a collaborator’s balance on a group-owned experience](https://devforum.roblox.com/t/expedited-review-fee-can%E2%80%99t-be-paid-from-a-collaborator%E2%80%99s-balance-on-a-group-owned-experience/4967366)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: Our experience is owned by a group and is locked to 16+ under Kids and Select. Steps: Sign in as a group collaborator who is not the group owner. Open Creator Hub, select \[experience\], and go to Manage Audience. Start the Expedited Review p
+- **[saved the worst for last. Piggy is the final challenge in The Hollow. for now.](https://www.youtube.com/shorts/HT68bKhThxg)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-31
 
 ---
 

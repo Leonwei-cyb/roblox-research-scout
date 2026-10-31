@@ -2008,7 +2008,13 @@
     "c8dde8748806c80c3c653d5a",
     "50a29a997dbab3a982705ea1",
     "9b2f4dc5528ccdbb3cdce51d",
-    "dcdc13cb85e38cf11f5bc10e"
+    "dcdc13cb85e38cf11f5bc10e",
+    "f19a41250d8b14293c9f7841",
+    "c18bc8e99acb63031e754e0a",
+    "0072ab732b20f8496b51e4b3",
+    "3cf6c75a602300cd4cdc1237",
+    "b629177401b8d4472ce6ddd8",
+    "913f032cc1bc89fdf928c921"
   ],
   "items": [
     {
@@ -2022,6 +2028,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223.rss",
       "id": "fd582cd602526141952a7055"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "1 more player needed!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk3g0z/1_more_player_needed/",
+      "published": "2026-10-31",
+      "excerpt": "help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 stages to work through, ranging from effortless to some serious",
+      "creator": "/u/sailorvalley https://www.reddit.com/user/sailorvalley",
+      "id": "f19a41250d8b14293c9f7841"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2105,6 +2122,17 @@
       "id": "c8dde8748806c80c3c653d5a"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "what wrong with my code",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk3eyw/what_wrong_with_my_code/",
+      "published": "2026-10-31",
+      "excerpt": "game.GetService.player = Enum.KeyCode(g) playEmote = Humanoid:LoadAnimation(80261291488409) Humanoid = playEmote.parent:findFirstChild(\"Humanoid\") playEmote:play(g) playEmote = (true) game.player = Enum.KeyCode(g) playEmote = (if true then playEmote else nil) playEmote = (if not false then nil else ",
+      "creator": "/u/Mindless-Soil-5310 https://www.reddit.com/user/Mindless-Soil-5310",
+      "id": "c18bc8e99acb63031e754e0a"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2161,6 +2189,17 @@
       "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "940bc5b55db02531ae44fc0f"
+    },
+    {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "saved the worst for last. Piggy is the final challenge in The Hollow. for now.",
+      "url": "https://www.youtube.com/shorts/HT68bKhThxg",
+      "published": "2026-10-31",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "913f032cc1bc89fdf928c921"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2221,6 +2260,17 @@
       "id": "4a13cffdc5199a51d2684b65"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "please try my first proper roblox game iv spent a while learning how to make games and i want people to play it and give me feadback",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk2zyp/please_try_my_first_proper_roblox_game_iv_spent_a/",
+      "published": "2026-10-31",
+      "excerpt": "its called black hallow submitted by /u/TravelEmergency9529 [link] [comments]",
+      "creator": "/u/TravelEmergency9529 https://www.reddit.com/user/TravelEmergency9529",
+      "id": "3cf6c75a602300cd4cdc1237"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2231,6 +2281,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057.rss",
       "id": "1f47bfce8d3472004f760c19"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "weird lighting bug thing?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk39w6/weird_lighting_bug_thing/",
+      "published": "2026-10-31",
+      "excerpt": "hey hey!! im new to roblox studio and i need help to with this weird bug on mobile that makes everything except the skybox black. on console and pc it's perfectly fine, but for some reason it absolutely HATES mobile. if someone could help me out here it'd be greatly appreciated! please im freaking o",
+      "creator": "/u/SirSculxed https://www.reddit.com/user/SirSculxed",
+      "id": "0072ab732b20f8496b51e4b3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8878,62 +8939,6 @@
       "excerpt": "I am currently making a game involving \"spinning\" crates to open for famous streamers. I am a little confused on what to do for their skins, will I be copyrighted if I use the skins they use in game? How should I approach this? Thank you if you respond, I am completely new to making games and this w",
       "creator": "/u/RiceMuncherXD https://www.reddit.com/user/RiceMuncherXD",
       "id": "de206a91dddce4242cfee41a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Studio Toolbox bug",
-      "url": "https://devforum.roblox.com/t/roblox-studio-toolbox-bug/4958630",
-      "published": "2026-10-26",
-      "excerpt": "When I open the Roblox Toolbox in my Roblox Studio, and I select All 2D Assets , when I try clicking anywhere, i can’t open anything because it seems like it did not render assets as a button. I tried updating and restarting Studio several times and it did not work. Please fix this issue. Expected b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-studio-toolbox-bug/4958630.rss",
-      "id": "db74c35f740039dfce57a3b8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "You guys think it's possible(image unrelated)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg4wu6/you_guys_think_its_possibleimage_unrelated/",
-      "published": "2026-10-26",
-      "excerpt": "I KINDA wanna make a yume nikki type game but like idk how to code for shit and that's my ONLY issue right? but this is a yume nikki type game. so I was wondering, do you guys think it's possible to make a game with Toolbox stuff? I specifically mean whatever script it is from the toolbox, whether i",
-      "creator": "/u/mrharha https://www.reddit.com/user/mrharha",
-      "id": "da08d8cbe91f9563c9cf62f5"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Check out My Roblox creation",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg3mwk/check_out_my_roblox_creation/",
-      "published": "2026-10-26",
-      "excerpt": "https://www.roblox.com/join/zdc9j submitted by /u/creoslong98 [link] [comments]",
-      "creator": "/u/creoslong98 https://www.reddit.com/user/creoslong98",
-      "id": "d8c4bc8c6f3aa76a1786b590"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Jump To Jump Higher",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgaum3/jump_to_jump_higher/",
-      "published": "2026-10-26",
-      "excerpt": "My first creation (give me tips for an update ! :) ) submitted by /u/Infinite_Cabinet8294 [link] [comments]",
-      "creator": "/u/Infinite_Cabinet8294 https://www.reddit.com/user/Infinite_Cabinet8294",
-      "id": "d6b4fed00cc416fe82ebbac8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "im beginner, idk where to start",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xft44s/im_beginner_idk_where_to_start/",
-      "published": "2026-10-26",
-      "excerpt": "hello guys can you tell me where do i start when creating roblox like what is the step by step or progress of creating game. should i start creating lobby first or ui or designing maps? submitted by /u/ihabdigbick [link] [comments]",
-      "creator": "/u/ihabdigbick https://www.reddit.com/user/ihabdigbick",
-      "id": "d5698b4da64650e600efb6c1"
     }
   ]
 }
