@@ -624,20 +624,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958985:1",
-      "url": "https://devforum.roblox.com/t/server-fill-settings-not-being-respected-creating-unnecessary-splitting/4958985",
-      "title": "Server fill settings not being respected, creating unnecessary splitting",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4959902:1",
       "url": "https://devforum.roblox.com/t/promptbulkpurchase-purchases-seem-to-actually-attempt-to-charge-you/4959902",
       "title": "PromptBulkPurchase Purchases seem to actually attempt to charge you",
@@ -2319,6 +2305,32 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4967462:1",
+      "url": "https://devforum.roblox.com/t/how-do-i-make-a-procedural-animation-like-this-using-ikcontrol-or-wtv/4967462",
+      "title": "How do i make a procedural animation like this using IKControl or wtv",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4967468:1",
+      "url": "https://devforum.roblox.com/t/devex-portal-sms-unexpected-error-bug-with-62-phone-number/4967468",
+      "title": "Devex Portal SMS \"Unexpected Error\" Bug With +62 Phone Number",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4993,17 +5005,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958224:1",
-      "url": "https://devforum.roblox.com/t/feature-request-eliminate-json-serialization-overhead-in-datastores-%E2%80%94-native-binary-storage/4958224",
-      "title": "[Feature Request] Eliminate JSON Serialization Overhead in DataStores — Native Binary Storage",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4958698:1",
       "url": "https://devforum.roblox.com/t/i-got-a-7-day-suspension-for-my-bullet-texture-why/4958698",
       "title": "I got a 7-day suspension for my bullet texture, why?",
@@ -5018,17 +5019,6 @@
       "key": "devforum:4958947:1",
       "url": "https://devforum.roblox.com/t/auto-translation-overrides-manual-translations/4958947",
       "title": "Auto translation overrides manual translations",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959031:1",
-      "url": "https://devforum.roblox.com/t/what-do-you-like-most-about-military-combat-games-your-ideas-will-help-this-promising-game/4959031",
-      "title": "What do you like most about military combat games? Your ideas will help this promising game",
       "source": "roblox-devforum-latest",
       "published": "2026-10-26",
       "kind": "devforum",
@@ -6357,17 +6347,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xg99yr",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg99yr/question_about_copyright/",
-      "title": "Question about copyright",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xggpn1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xggpn1/any_new_devslooking/",
       "title": "Any New Devs/Looking",
@@ -7361,6 +7340,28 @@
       "key": "reddit:1xk2zyp",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk2zyp/please_try_my_first_proper_roblox_game_iv_spent_a/",
       "title": "please try my first proper roblox game iv spent a while learning how to make games and i want people to play it and give me feadback",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xk3yik",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk3yik/would_you_play_this_game_if_it_was_finished/",
+      "title": "Would you play this game if it was finished?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xk4061",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk4061/would_you_play_this_game_if_it_was_finished/",
+      "title": "Would you play this game if it was finished?",
       "source": "reddit-robloxstudio",
       "published": "2026-10-31",
       "kind": "reddit",

@@ -5,25 +5,19 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[Admin Treadmill in Steal an Egg #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE9CM1pIYmlKYjVoVGlfSG9aNXdGc05ocGNqeWFra2hFd2ZKQUxuY3VsNThpZUU1cld4Snh3bDdISm01UExScU1GVEZkMDBjZGFjQ2gzZEpiRnMzMEt2a0hnYm5YLXVGanUwUDl4Zg?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-13
-  - Feed excerpt: Admin Treadmill in Steal an Egg #roblox #stealanegg TikTok
-
 ## Community
 
-- **[weird lighting bug thing?](https://www.reddit.com/r/ROBLOXStudio/comments/1xk39w6/weird_lighting_bug_thing/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: hey hey!! im new to roblox studio and i need help to with this weird bug on mobile that makes everything except the skybox black. on console and pc it's perfectly fine, but for some reason it absolutely HATES mobile. if someone could help m
-- **[1 more player needed!](https://www.reddit.com/r/ROBLOXStudio/comments/1xk3g0z/1_more_player_needed/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 sta
-- **[please try my first proper roblox game iv spent a while learning how to make games and i want people to play it and give me feadback](https://www.reddit.com/r/ROBLOXStudio/comments/1xk2zyp/please_try_my_first_proper_roblox_game_iv_spent_a/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: its called black hallow submitted by /u/TravelEmergency9529 \[link\] \[comments\]
-- **[what wrong with my code](https://www.reddit.com/r/ROBLOXStudio/comments/1xk3eyw/what_wrong_with_my_code/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: game.GetService.player = Enum.KeyCode(g) playEmote = Humanoid:LoadAnimation(80261291488409) Humanoid = playEmote.parent:findFirstChild("Humanoid") playEmote:play(g) playEmote = (true) game.player = Enum.KeyCode(g) playEmote = (if true then 
+- **[Would you play this game if it was finished?](https://www.reddit.com/r/ROBLOXStudio/comments/1xk4061/would_you_play_this_game_if_it_was_finished/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used i
+- **[Would you play this game if it was finished?](https://www.reddit.com/r/ROBLOXStudio/comments/1xk3yik/would_you_play_this_game_if_it_was_finished/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used i
 
-## Youtube
+## Roblox Updates
 
-- **[saved the worst for last. Piggy is the final challenge in The Hollow. for now.](https://www.youtube.com/shorts/HT68bKhThxg)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-10-31
+- **[Devex Portal SMS "Unexpected Error" Bug With +62 Phone Number](https://devforum.roblox.com/t/devex-portal-sms-unexpected-error-bug-with-62-phone-number/4967468)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: I seem to be having this bug when trying to authenticate my phone number for devex portal while logging in. I’ve contacted support about this and they had reset my 2FA but the problem still persists. So I think this may be a bug on the webs
+- **[How do i make a procedural animation like this using IKControl or wtv](https://devforum.roblox.com/t/how-do-i-make-a-procedural-animation-like-this-using-ikcontrol-or-wtv/4967462)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: External Media External Media External Media Look at the videos above, thats what kind of procedural animation im referring and i dont know where to start 1 post - 1 participant Read full topic
 
 ---
 
