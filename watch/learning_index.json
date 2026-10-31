@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 596,
+  "unique_posts": 597,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -443,6 +443,20 @@
       "signals": [
         "genres and successful loops",
         "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xka8jn",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xka8jn/i_did_it_i_did_it_i_coded_an_inventory_without_a/",
+      "title": "I DID IT I DID IT I CODED AN INVENTORY WITHOUT A TUTORIAL",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "UI and menus"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -1377,19 +1391,6 @@
       "kind": "devforum",
       "signals": [
         "UI and menus"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4960322:1",
-      "url": "https://devforum.roblox.com/t/experience-receiving-near-zero-home-recommendation-impressions-despite-being-publicly-available-and-acquiring-players-through-advertising/4960322",
-      "title": "Experience receiving near-zero Home Recommendation impressions despite being publicly available and acquiring players through advertising.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2330,6 +2331,19 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4967880:1",
+      "url": "https://devforum.roblox.com/t/game-reviews-and-difficulty/4967880",
+      "title": "Game Reviews and Difficulty",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -5006,25 +5020,16 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958947:1",
-      "url": "https://devforum.roblox.com/t/auto-translation-overrides-manual-translations/4958947",
-      "title": "Auto translation overrides manual translations",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959315:1",
-      "url": "https://devforum.roblox.com/t/strange-change-in-the-250-hau-counter-not-eligible-for-kids-select/4959315",
-      "title": "Strange change in the 250 HAU counter - Not eligible for Kids & Select",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xk9fpk",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk9fpk/please_try_my_game/",
+      "title": "Please try my game",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6337,6 +6342,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4967863:1",
+      "url": "https://devforum.roblox.com/t/openarena-088-ported-to-roblox/4967863",
+      "title": "OpenArena 0.8.8 ported to Roblox",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xggpn1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xggpn1/any_new_devslooking/",
       "title": "Any New Devs/Looking",
@@ -7428,14 +7444,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBERGdPaExTdC1JZklVNnFrYmhQaUxDTU5DN3NlUUtHNmxSZExpYVMtckJRTU9uenNsbE1TZ2N0UlRWY1VsWE5QVU9vR08wNUdtbnpxRjF3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBERGdPaExTdC1JZklVNnFrYmhQaUxDTU5DN3NlUUtHNmxSZExpYVMtckJRTU9uenNsbE1TZ2N0UlRWY1VsWE5QVU9vR08wNUdtbnpxRjF3?oc=5",
-      "title": "1 OF 1 Starry Fox with the most mutations?! 🦊 #roblox #stealanegg #robloxgames #steal #egg - Instagram",
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9pblFzc2VVUE5wOUVaakxlN1RNUHRhVnRUVkJFb1VILWNqSGdNUTZGSlRIS2NEOEh1bTRaMlQ5dHNCRmkxbEVIRWk4QWJPVVhSTkhPRWtB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pblFzc2VVUE5wOUVaakxlN1RNUHRhVnRUVkJFb1VILWNqSGdNUTZGSlRIS2NEOEh1bTRaMlQ5dHNCRmkxbEVIRWk4QWJPVVhSTkhPRWtB?oc=5",
+      "title": "Server Admin Steal an egg #stealanegg #game #gaming #funny #roblox robloxedit meme - Instagram",
       "source": "brock-ig-reels",
-      "published": "2026-10-26",
+      "published": "2026-10-31",
       "kind": "index-only",
       "signals": [
-        "genres and successful loops"
+        "genres and successful loops",
+        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
