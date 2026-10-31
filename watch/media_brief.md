@@ -5,24 +5,25 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[What Pet would you use the Star on? 🦁 #roblox #stealanegg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aVN5Wnk5dVpmN21fV01kMFUxMThDUmMzTGxsTmduNHctWWNCNGI3dWpuN2NQLXNPODBGNkJINTN4OEEyVHc5LUExRk8zUUx5SkNLZnFGZGRxM1ZKOFoyU05aNXF5Y2V1VnpCNA?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-11
-  - Feed excerpt: What Pet would you use the Star on? 🦁 #roblox #stealanegg TikTok
-
 ## Community
 
-- **[Early access](https://www.reddit.com/r/ROBLOXStudio/comments/1xjw6ip/early_access/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: About a week ago i asked this sub and 2 others where they saw my game going. i released it that same weekend and this is how the game looks. What do you think? its still in early access. any criticism will be taken into consideration!! Than
+- **[let me know what you think](https://www.reddit.com/r/ROBLOXStudio/comments/1xju9ls/let_me_know_what_you_think/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-30
+  - Feed excerpt: First post on Reddit, so I’m still finding my way around here. submitted by /u/roblbck \[link\] \[comments\]
+- **[Anyone have a guide to weld item with the eclipse animator ?](https://www.reddit.com/r/ROBLOXStudio/comments/1xjwyqb/anyone_have_a_guide_to_weld_item_with_the_eclipse/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: Welding multiple things on each body part for R6 rig submitted by /u/Hena-Goblin-Tuo \[link\] \[comments\]
+- **[Battle in my upcoming roblox game](https://www.reddit.com/r/ROBLOXStudio/comments/1xjx01l/battle_in_my_upcoming_roblox_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: any feedback? submitted by /u/vestive \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[(play.roblox.com) dynamic shadows can't be casted on terrain AND grass is broken](https://devforum.roblox.com/t/playrobloxcom-dynamic-shadows-cant-be-casted-on-terrain-and-grass-is-broken/4966984)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: Basically, the terrain in the web version of roblox is kind of broken? since it doesn’t allow parts to cast shadows on the terrain, and also the grass doesn’t appear. Game is at max graphics, and with decoration enabled, yet the shadows and
-- **[Audience Reach final review stuck — Crown or Pass remains restricted to 16+](https://devforum.roblox.com/t/audience-reach-final-review-stuck-%E2%80%94-crown-or-pass-remains-restricted-to-16/4966990)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: Hello Roblox Engineering Team, My experience, Crown or Pass, was suddenly restricted to players ages 16 and older. This happened out of nowhere, and I made zero changes to the game that would have caused the restriction. The game was briefl
-- **[Need help and feedback! Why are my game's stats that bad?](https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: Hello, I’m looking for developers who might wanna take some time to hint me on why my game’s stats are so bad. This is the first message i post on the devforum. I launched ads, twice, to test and see if it’s worth it to spend much more (ove
+- **[Looking for feedback/criticism for UI](https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: Im currently making a sandbox tycoon game similar to restaurant tycoon 2/3 and retail tycoon. I was looking for some feedback on my UI, im not sure if its actually any good or if im just used to it, and this is my first go at actually makin
+- **[native flag client vs playtest mismatch](https://devforum.roblox.com/t/native-flag-client-vs-playtest-mismatch/4967076)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: when running the “–!native” flag within the roblox studio playtest it seamingly functions durring a playtest on local scripts, allowing me to pull 165 FPS with my 256x256 classic NES style game, but that exact same game running on the acctu
+- **[HELP: recently found bug](https://devforum.roblox.com/t/help-recently-found-bug/4967071)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: I have recently found a bug where players who use a morph in my game, are suddenly unable to use parts with clickdetectors to add accessories to their character(s). This was not the case this morning, I was able to use my accessory parts on
+- **[My 2d clothing been taken off sale since idk](https://devforum.roblox.com/t/my-2d-clothing-been-taken-off-sale-since-idk/4967050)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: does anyone know why this is ? because to my knowledge , this shouldnt be happening cuz of my region. im in russia which you know i cant buy premium for anything, and im pretty sure ive heard from an literal admin here when the updates for 
 
 ---
 
