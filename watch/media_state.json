@@ -2026,7 +2026,9 @@
     "e30c2e235e964c50ecaf9ecd",
     "4c3e40aba544d91f5865c226",
     "c2654a213f3833eee9bbad76",
-    "5cce35beba84d84b9c714f78"
+    "5cce35beba84d84b9c714f78",
+    "548ad66ea9b158fe3fef0b11",
+    "b6b00458e122a02ad05c70dd"
   ],
   "items": [
     {
@@ -2195,6 +2197,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Games not becoming all ages",
+      "url": "https://devforum.roblox.com/t/games-not-becoming-all-ages/4967642",
+      "published": "2026-10-31",
+      "excerpt": "I have 2 games which have had the all ages requirement hit for about 3 days now. While it says “This can take up to 48h” Roblox 💧 DONT SPLASH Tower 👋 Welcome to DONT SPLASH Tower! 💦🏗️ 🧗‍♂️ Climb the tower and try to reach the top... but DON'T TOUCH THE WATER! 🌊 ⚠️ Be careful... IT CAN HEAR THE WATER",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/games-not-becoming-all-ages/4967642.rss",
+      "id": "b6b00458e122a02ad05c70dd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "badges not awarding to my user anymore",
       "url": "https://devforum.roblox.com/t/badges-not-awarding-to-my-user-anymore/4967114",
       "published": "2026-10-31",
@@ -2316,6 +2330,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198.rss",
       "id": "597baaae40695600df43274b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Feature Request] Expose Native Screen-Space Compute Passes, G-Buffer Access, and a Sandboxed `GRLScript` Pipeline for Advanced Rendering]",
+      "url": "https://devforum.roblox.com/t/feature-request-expose-native-screen-space-compute-passes-g-buffer-access-and-a-sandboxed-grlscript-pipeline-for-advanced-rendering/4967644",
+      "published": "2026-10-31",
+      "excerpt": "[Feature Request] Expose Native Screen-Space Compute Passes, G-Buffer Access, and a Sandboxed GRLScript Pipeline for Advanced Rendering] Executive Summary & Problem Statement Current engine abstractions impose rigid CPU-to-GPU bandwidth bottlenecks and severe sandboxing constraints that preclude hig",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feature-request-expose-native-screen-space-compute-passes-g-buffer-access-and-a-sandboxed-grlscript-pipeline-for-advanced-rendering/4967644.rss",
+      "id": "548ad66ea9b158fe3fef0b11"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8929,28 +8955,6 @@
       "excerpt": "Heyyy! I know it’s been a while, but for those who don’t know me, my name is \"Zarboxys.\" I’m 14, I’m French, and for the past 8 months, I’ve been working on a Roblox game all by myself, WITHOUT any AI (because AI is just bad...). I’m posting this update to share that the game is 95% complete, the mu",
       "creator": "/u/Zarboxys https://www.reddit.com/user/Zarboxys",
       "id": "f7f22b6b5ea42e0be8b2922f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "can we start a petition to ban brainrot posts from this sub?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfonv5/can_we_start_a_petition_to_ban_brainrot_posts/",
-      "published": "2026-10-26",
-      "excerpt": "it's so repetitive, low effort, annoying, and ugly to look at. please do something different. submitted by /u/rilleryeah [link] [comments]",
-      "creator": "/u/rilleryeah https://www.reddit.com/user/rilleryeah",
-      "id": "f686797f7bbb059ad8969b4a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for ideas on how to make a day trader game more engaging",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg3zzb/looking_for_ideas_on_how_to_make_a_day_trader/",
-      "published": "2026-10-26",
-      "excerpt": "I got the idea to make a game where you can get something like the wallstreetbets experience, with being able to put money on stocks, shares, options and currencies. But I'm thinking a game with just a bunch of candlestick charts isn't going to be very interesting to most people. Any ideas on how I ",
-      "creator": "/u/GreenockScatman https://www.reddit.com/user/GreenockScatman",
-      "id": "f560f60250db56718a01042b"
     }
   ]
 }
