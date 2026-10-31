@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 314
-- index-only: 8
-- reddit: 265
+- devforum: 313
+- index-only: 10
+- reddit: 264
 - youtube: 10
 
 ## First-Session And Mobile
 
+- [!!MOBILE PLAYERS!! How is this UI setup for you?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Board Game And Turn Flow
 
@@ -32,7 +32,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Economy And Income
 
 - [Looking for a scripter for my game FALSE PROMISE](https://www.reddit.com/r/robloxgamedev/comments/1xip8zo/looking_for_a_scripter_for_my_game_false_promise/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [PvE Shooter has struggled to gain traction - any advice?](https://www.reddit.com/r/robloxgamedev/comments/1xgn26n/pve_shooter_has_struggled_to_gain_traction_any/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Looking for investors to help grow my Roblox game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xh0ut6/looking_for_investors_to_help_grow_my_roblox_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Ui And Menus
 
@@ -51,8 +51,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
+- [My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Made a +1 mining simulator solo — looking for honest feedback and testers before launch](https://www.reddit.com/r/robloxgamedev/comments/1xhrb99/made_a_1_mining_simulator_solo_looking_for_honest/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [I just launched my first Roblox game: dig junk, build a robot buddy, fuse parts to Gold. Looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xj05d7/i_just_launched_my_first_roblox_game_dig_junk/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Player Feedback And Marketing
 
@@ -62,13 +62,13 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Tools And Performance
 
 - [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [What am im doing wrong with my game that it gets so little players?](https://devforum.roblox.com/t/what-am-im-doing-wrong-with-my-game-that-it-gets-so-little-players/4960325) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Double Joystick On Studio Mobile Emulator](https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one What am im doing wrong with my game that it gets so little players? test with measurable pass/fail.
+3. Explain WHY it matters and propose one Double Joystick On Studio Mobile Emulator test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
