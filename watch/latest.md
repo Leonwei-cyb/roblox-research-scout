@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) — Add feeds_after_actualize hook (#9438).
+- **Source updated:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) — Fix non-ASCII characters in scripts of fetched HTML pages (#9384).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

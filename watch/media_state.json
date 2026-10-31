@@ -2037,7 +2037,14 @@
     "4433fa5f496e07346dcda671",
     "e2fa34cd45a8847a41ec2308",
     "aed25ad5a02802c012fd622f",
-    "061ef64d8865109c38233f0c"
+    "061ef64d8865109c38233f0c",
+    "65d0dc7a17a4239958652f7e",
+    "6263303d6be6109acbba3dfb",
+    "ddb63c6bfac93ae2a624d87e",
+    "9e36b916014dbd73507ca222",
+    "4790bb83dcda32edc993a891",
+    "4cf810cacc7fe1e8eb7fd008",
+    "b2e2ddac1363632a10009549"
   ],
   "items": [
     {
@@ -2170,6 +2177,18 @@
       "id": "e0f5f4841d3b8786dbdfb1bc"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How can I restore my date of birth on the account if a hacker changed it using the ID?",
+      "url": "https://devforum.roblox.com/t/how-can-i-restore-my-date-of-birth-on-the-account-if-a-hacker-changed-it-using-the-id/4968016",
+      "published": "2026-10-31",
+      "excerpt": "Hi everyone, I’m UGC Creator fireldan2. My account was hacked via cookies files, and my 2FA didn’t work. The hacker stole some Robux from me, and the worst part is that they changed my date of birth to September 9, 2014, using a government document. Moreover, they used a function that resets the age",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-can-i-restore-my-date-of-birth-on-the-account-if-a-hacker-changed-it-using-the-id/4968016.rss",
+      "id": "ddb63c6bfac93ae2a624d87e"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2252,6 +2271,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "My new menu logo game.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkbucv/my_new_menu_logo_game/",
+      "published": "2026-10-31",
+      "excerpt": "submitted by /u/GgSuclces99 [link] [comments]",
+      "creator": "/u/GgSuclces99 https://www.reddit.com/user/GgSuclces99",
+      "id": "b2e2ddac1363632a10009549"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Please try my game",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk9fpk/please_try_my_game/",
       "published": "2026-10-31",
@@ -2305,6 +2335,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-reviews-and-difficulty/4967880.rss",
       "id": "a3d82a48da3dfe079fd52727"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Plugin] SurfaceGui Editor — SlimeyHD’s Edition",
+      "url": "https://devforum.roblox.com/t/plugin-surfacegui-editor-%E2%80%94-slimeyhd%E2%80%99s-edition/4967982",
+      "published": "2026-10-31",
+      "excerpt": "[Plugin - FREE] SurfaceGui Editor — SlimeyHD’s Edition Edit SurfaceGui elements right on the 3D surface. Move, resize, and rotate your UI with viewport handles—without opening a separate settings window every time you select an element. Free download: SurfaceGui Editor — SlimeyHD’s Edition Highlight",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/plugin-surfacegui-editor-%E2%80%94-slimeyhd%E2%80%99s-edition/4967982.rss",
+      "id": "9e36b916014dbd73507ca222"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2389,6 +2431,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Making a dev team of 10 people, who wanna join?",
+      "url": "https://devforum.roblox.com/t/making-a-dev-team-of-10-people-who-wanna-join/4968039",
+      "published": "2026-10-31",
+      "excerpt": "Hi all! I am working on a game called Brickbattling Plus, an action roguelite inspired by Nullscape and Combat Initiation, and ULTRAKILL. I wanna create a dev team of 6-10 people, only requirement is you have to be in the 21+ age group (bro) Roles needed are animators, scripters, builders, musicians",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/making-a-dev-team-of-10-people-who-wanna-join/4968039.rss",
+      "id": "65d0dc7a17a4239958652f7e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Update an existing asset: only the 30 newest avatar items are selectable; older items can't be found, even by asset ID",
+      "url": "https://devforum.roblox.com/t/update-an-existing-asset-only-the-30-newest-avatar-items-are-selectable-older-items-cant-be-found-even-by-asset-id/4968033",
+      "published": "2026-10-31",
+      "excerpt": "The recent “Update an existing asset” feature only allows me to select from my 30 most recently uploaded items. Anything past that is not displayed, and typing its asset ID into the “Original asset ID” field returns nothing. No pagination, no “load more,” just nothing. I only wish to alter an older ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/update-an-existing-asset-only-the-30-newest-avatar-items-are-selectable-older-items-cant-be-found-even-by-asset-id/4968033.rss",
+      "id": "6263303d6be6109acbba3dfb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Transfer Bug when User is unable to see game, inept require \"[TITLE UNAVAILABLE]\" for verification acceptance",
       "url": "https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198",
       "published": "2026-10-31",
@@ -2408,6 +2474,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feature-request-expose-native-screen-space-compute-passes-g-buffer-access-and-a-sandboxed-grlscript-pipeline-for-advanced-rendering/4967644.rss",
       "id": "548ad66ea9b158fe3fef0b11"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I Finally Published My First Horror Game after 4-5Months",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkbkba/i_finally_published_my_first_horror_game_after/",
+      "published": "2026-10-31",
+      "excerpt": "​ Looking for Feedback on My Roblox Horror Game – Bucktooth (Early Development) Hey everyone! I've been working on a Roblox horror game called Bucktooth , and I'd love to get some feedback from people who enjoy horror and adventure games. The game is still in its early development phase, so there ar",
+      "creator": "/u/Two-South https://www.reddit.com/user/Two-South",
+      "id": "4cf810cacc7fe1e8eb7fd008"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2443,6 +2520,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745.rss",
       "id": "48b55f082b1bb8fd4748999e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add the ability to ban people from groups who aren't in the group + timed bans",
+      "url": "https://devforum.roblox.com/t/add-the-ability-to-ban-people-from-groups-who-arent-in-the-group-timed-bans/4967972",
+      "published": "2026-10-31",
+      "excerpt": "I am requesting for the ability to ban people from groups even if they aren’t in the group to be added as well as timed bans. Why? Currently, group admins/owners can only ban group members if they are in the group. This allows people to leave the group to prevent being banned, then potentially join ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-the-ability-to-ban-people-from-groups-who-arent-in-the-group-timed-bans/4967972.rss",
+      "id": "4790bb83dcda32edc993a891"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2486,7 +2575,7 @@
       "title": "[Plugin] HTTP Requests take 2-3+ minutes",
       "url": "https://devforum.roblox.com/t/plugin-http-requests-take-2-3-minutes/4967743",
       "published": "2026-10-31",
-      "excerpt": "Hi. I have one plugin I have been working on for quite a while. Whenever I try to send a HTTP request to a domain, it can sometimes take up to 3 minutes for a response. I haven’t really seen anyone explaining how to fix this.. And no, I am not in playtest mode. 1 post - 1 participant Read full topic",
+      "excerpt": "Hi. I have one plugin I have been working on for quite a while. Whenever I try to send a HTTP request to a domain, it can sometimes take up to 3 minutes for a response. I haven’t really seen anyone explaining how to fix this.. And no, I am not in playtest mode. 5 posts - 3 participants Read full top",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/plugin-http-requests-take-2-3-minutes/4967743.rss",
       "id": "3463c9725cd5d3992d4a037e"
@@ -2537,18 +2626,6 @@
       "excerpt": "Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used in the making of it btw. :) So, (even though there's many mis",
       "creator": "/u/LordChud21 https://www.reddit.com/user/LordChud21",
       "id": "11f60ce58f359376aac39cba"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Server Admin Steal an egg #stealanegg #game #gaming #funny #roblox robloxedit meme - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pblFzc2VVUE5wOUVaakxlN1RNUHRhVnRUVkJFb1VILWNqSGdNUTZGSlRIS2NEOEh1bTRaMlQ5dHNCRmkxbEVIRWk4QWJPVVhSTkhPRWtB?oc=5",
-      "published": "2026-10-31",
-      "excerpt": "Server Admin Steal an egg #stealanegg #game #gaming #funny #roblox robloxedit meme Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "061ef64d8865109c38233f0c"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3861,6 +3938,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/selffunctionconnect/4966541.rss",
       "id": "0728eeffacd59f04083c8437"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Server Admin Steal an egg #stealanegg #game #gaming #funny #roblox robloxedit meme - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pblFzc2VVUE5wOUVaakxlN1RNUHRhVnRUVkJFb1VILWNqSGdNUTZGSlRIS2NEOEh1bTRaMlQ5dHNCRmkxbEVIRWk4QWJPVVhSTkhPRWtB?oc=5",
+      "published": "2026-10-30",
+      "excerpt": "Server Admin Steal an egg #stealanegg #game #gaming #funny #roblox robloxedit meme Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "061ef64d8865109c38233f0c"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8883,87 +8972,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/seeking-investment-%E2%80%94-fill-in-the-blank/4960598.rss",
       "id": "0f6cc7adf4738ec9b755b91b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "All-around developer with 7 yrs experience",
-      "url": "https://devforum.roblox.com/t/all-around-developer-with-7-yrs-experience/4961179",
-      "published": "2026-10-27",
-      "excerpt": "About Me Hello, my name is Deckno_Shade and I’ve been developing on Roblox for over 7 years now, I’m an experienced all around developer capable in interface design, scripting, modeling, vfx, and building. I love working on hyper-realistic maps, making in-depth modulare architecture systems I love d",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/all-around-developer-with-7-yrs-experience/4961179.rss",
-      "id": "0f207d8197ae465934d621a2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Migration to Luau problem",
-      "url": "https://devforum.roblox.com/t/migration-to-luau-problem/4960101",
-      "published": "2026-10-27",
-      "excerpt": "I know you guys are still proceeding with this but take a look at this lil tiny bug on iOS firefox. The player and the like count icons are slightly duplicating as you can see on their edges; while the like count icon has edge duplicating on the bottom, the player count icon has it on the top 2 post",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/migration-to-luau-problem/4960101.rss",
-      "id": "0d8ef1c5731e13e86c8434ef"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "The Sovereign Games (RPG)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgnhit/the_sovereign_games_rpg/",
-      "published": "2026-10-27",
-      "excerpt": "Hi all, Just needing to post this one here. I’ve been a huge Hunger Games fan since forever and I have been lacking to play anything similar. The closest I got was back on 2016 or earlier which all hunger games similar games was a huge deal on Roblox. Never got to play anything similar now due to Ro",
-      "creator": "/u/ian_jerao https://www.reddit.com/user/ian_jerao",
-      "id": "0d2a0ec0d33b88d5e9e12f5f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is this animation good?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkh30/is_this_animation_good/",
-      "published": "2026-10-27",
-      "excerpt": "do you guys think this animation looks good or does it need anything else (apart from sound effects that i will add later)? submitted by /u/SweatyEducation9431 [link] [comments]",
-      "creator": "/u/SweatyEducation9431 https://www.reddit.com/user/SweatyEducation9431",
-      "id": "0b0917925d0e03963b032843"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "{VULNERABILITY} SCAN FOR VIRUSES ASAP! [Continuing about the \"Runtime\" virus]",
-      "url": "https://devforum.roblox.com/t/vulnerability-scan-for-viruses-asap-continuing-about-the-runtime-virus/4959651",
-      "published": "2026-10-27",
-      "excerpt": "What??? I found a virus in the files in the Roblox appdata–not a joke. Interestingly, it was in the Roblox folder… About So, if you haven’t heard, read this . Anyways, this Trojan virus that I said was caused by the Roblox virus and it was true. That httpservice thing or whatever I tested in the com",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/vulnerability-scan-for-viruses-asap-continuing-about-the-runtime-virus/4959651.rss",
-      "id": "0996e86aedbfff61dcaf2621"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Why have I gotten less impressions in my new campaign even though I've spent more money on it and have ran it longer than my old campaign?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgkf63/why_have_i_gotten_less_impressions_in_my_new/",
-      "published": "2026-10-27",
-      "excerpt": "I have better CTR and I've spent more money on my current campaign, but my plays, playtime, CPP, and impressions are worse than my old campaign. I haven't changed much about the game since, other than bug fixing and making it feel more satisfying to play, so I'm not sure why these stats are so bad. ",
-      "creator": "/u/Legal_Ad2945 https://www.reddit.com/user/Legal_Ad2945",
-      "id": "08a534a5e0f5fa05fb1e908b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Ads getting rejected without any reason",
-      "url": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594",
-      "published": "2026-10-27",
-      "excerpt": "There is an issue which occurred about 10 minutes ago where it seems like everyone’s current running ads have been rejected without a valid reason. Assuming this is a bug, this happened to one other person and me at the same time. Expected behavior The ads should continue to work as normal 16 posts ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ads-getting-rejected-without-any-reason/4959594.rss",
-      "id": "07f9596bb95e2e9596191373"
     }
   ]
 }
