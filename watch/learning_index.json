@@ -973,6 +973,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4967223:1",
+      "url": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223",
+      "title": "Allow toggling VFX on Accessories",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xg46m1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xg46m1/im_working_on_a_basebuilding_rocket_combat_game/",
       "title": "I’m working on a base-building rocket combat game — is the early-game progression clear?",
@@ -2320,21 +2334,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xg06cg",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg06cg/modelling_a_mech_for_a_game_im_planning/",
-      "title": "Modelling a mech for a game I'm planning",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-26",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xge28k",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xge28k/im_building_a_destinyborderlands_inspired_looter/",
       "title": "I'm building a Destiny/Borderlands inspired looter shooter. What do you think so far?",
@@ -3547,19 +3546,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4957783:1",
-      "url": "https://devforum.roblox.com/t/robloxassetmanagerassetmanagerpackages-warning-when-opening-asset-manager/4957783",
-      "title": "[Roblox][AssetManager.AssetManager.Packages Warning when opening Asset Manager",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4993,17 +4979,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4958069:1",
-      "url": "https://devforum.roblox.com/t/my-experience-is-unavailable-after-failing-the-questionnaire/4958069",
-      "title": "My experience is unavailable after failing the questionnaire.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-26",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4958224:1",
       "url": "https://devforum.roblox.com/t/feature-request-eliminate-json-serialization-overhead-in-datastores-%E2%80%94-native-binary-storage/4958224",
       "title": "[Feature Request] Eliminate JSON Serialization Overhead in DataStores — Native Binary Storage",
@@ -6324,6 +6299,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4967198:1",
+      "url": "https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198",
+      "title": "Transfer Bug when User is unable to see game, inept require \"[TITLE UNAVAILABLE]\" for verification acceptance",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xfonv5",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xfonv5/can_we_start_a_petition_to_ban_brainrot_posts/",
       "title": "can we start a petition to ban brainrot posts from this sub?",
@@ -7361,6 +7347,17 @@
       "key": "reddit:1xjw6ip",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjw6ip/early_access/",
       "title": "Early access",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xjzd66",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjzd66/playtesters_i_summon_theee/",
+      "title": "Playtesters, I SUMMON THEEE",
       "source": "reddit-robloxstudio",
       "published": "2026-10-31",
       "kind": "reddit",

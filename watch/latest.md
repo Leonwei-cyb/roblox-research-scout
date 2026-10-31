@@ -2,7 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Release:** [anthropics/claude-code](https://github.com/anthropics/claude-code) v2.1.314 → v2.1.316.
-- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Restock - Prices in the visitor's language with the currency's own decimal places (ISO 4217), the same on every page (#4615) (#4640).
+- **Unreviewed lead:** [aliammari1/awesome-ai-tools](https://github.com/aliammari1/awesome-ai-tools) (108 stars). Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

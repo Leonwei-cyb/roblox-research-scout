@@ -2002,9 +2002,24 @@
     "effd73457d3e02d9aa10e34b",
     "a8430edeae4258ea18c378f8",
     "ef702b5d1643ec756c65da4d",
-    "940bc5b55db02531ae44fc0f"
+    "940bc5b55db02531ae44fc0f",
+    "fd582cd602526141952a7055",
+    "597baaae40695600df43274b",
+    "c8dde8748806c80c3c653d5a"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Allow toggling VFX on Accessories",
+      "url": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223",
+      "published": "2026-10-31",
+      "excerpt": "currently we can toggle Facial Animations on avatars but we cant toggle VFX on items, i think it’d be nice if players could choose a accessory and in the accessory adjustment area there was just a per accessory toggle “Enable VFX” turned on by default but able to be toggled by the user example case:",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223.rss",
+      "id": "fd582cd602526141952a7055"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -2063,6 +2078,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/audience-reach-final-review-stuck-%E2%80%94-crown-or-pass-remains-restricted-to-16/4966990.rss",
       "id": "d34b13fe0471e076c24e83e2"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Playtesters, I SUMMON THEEE",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjzd66/playtesters_i_summon_theee/",
+      "published": "2026-10-31",
+      "excerpt": "The Broken | Play on Roblox i just need to test it out tbh :P submitted by /u/LillyFrogz123 [link] [comments]",
+      "creator": "/u/LillyFrogz123 https://www.reddit.com/user/LillyFrogz123",
+      "id": "c8dde8748806c80c3c653d5a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2143,6 +2169,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/native-flag-client-vs-playtest-mismatch/4967076.rss",
       "id": "6a9b6a6db0dee81257f5b998"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Transfer Bug when User is unable to see game, inept require \"[TITLE UNAVAILABLE]\" for verification acceptance",
+      "url": "https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198",
+      "published": "2026-10-31",
+      "excerpt": "Issue Issue that occurs when User A. is trying to transfer a experience to User B. or Group B. User B or Group B. doesn’t have access to the experience. where the Transfer details shows [TITLE UNAVAILABLE] to User B. and to enter [TITLE UNAVAILABLE], when it should be the experience name (and only w",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198.rss",
+      "id": "597baaae40695600df43274b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8892,41 +8930,6 @@
       "excerpt": "I have a question for you: what bothers you the most on the Roblox platform, and what do you feel is missing the most (from both a player's and a developer's perspective)? submitted by /u/BTV_Rbx [link] [comments]",
       "creator": "/u/BTV_Rbx https://www.reddit.com/user/BTV_Rbx",
       "id": "ccf36e3ff1e235917fd079ae"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Modelling a mech for a game I'm planning",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg06cg/modelling_a_mech_for_a_game_im_planning/",
-      "published": "2026-10-26",
-      "excerpt": "all modelled on studio because im allergic to blender. the exterior appearance is pretty much done. whats left is for me to model the interior of the cockpit as it is meant to look nice in first person. not a single line of code in the game yet. as a solo dev, i am the modeller, animator, coder, and",
-      "creator": "/u/AppropriateGap2500 https://www.reddit.com/user/AppropriateGap2500",
-      "id": "c6a4f7ca78d661f32601bfb2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My experience is unavailable after failing the questionnaire.",
-      "url": "https://devforum.roblox.com/t/my-experience-is-unavailable-after-failing-the-questionnaire/4958069",
-      "published": "2026-10-26",
-      "excerpt": "My experience is unavailable after I failed the questionnaire. I submitted appeals, but they were rejected. The experience is public and available to all ages. No messages about the game being blocked were sent. The game has been unavailable for about 3 months now. (I’m waiting for a response for ab",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-experience-is-unavailable-after-failing-the-questionnaire/4958069.rss",
-      "id": "c5541e81bf33bffb44ba1a3e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Roblox][AssetManager.AssetManager.Packages Warning when opening Asset Manager",
-      "url": "https://devforum.roblox.com/t/robloxassetmanagerassetmanagerpackages-warning-when-opening-asset-manager/4957783",
-      "published": "2026-10-26",
-      "excerpt": "Hi, When I open Asset Manager in any project, even a new project, I get the below warning: [Roblox][AssetManager.AssetManager.Packages._Index.Foundation.Foundation.Utility.Logger] [Foundation - Warning] - PopoverContent rendered in a plugin context without onPressedOutside. In Studio, the QWidget po",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/robloxassetmanagerassetmanagerpackages-warning-when-opening-asset-manager/4957783.rss",
-      "id": "c4a8026aff7fea5ff9dabf5e"
     }
   ]
 }

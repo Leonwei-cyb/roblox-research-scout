@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[How is it possible to achieve this vfx effect?](https://devforum.roblox.com/t/how-is-it-possible-to-achieve-this-vfx-effect/4966210)** — Public text/page, video not confirmed
+- **[Allow toggling VFX on Accessories](https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
@@ -22,4 +22,4 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Allow us to Disable the "MCP off" Toolbar](https://devforum.roblox.com/t/allow-us-to-disable-the-mcp-off-toolbar/4966132)** — Public text/page, video not confirmed
 - **[Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/)** — Public text/page, video not confirmed
-- **[I'm a playtester, and I'd love to test your game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xjy54c/im_a_playtester_and_id_love_to_test_your_game/)** — Public text/page, video not confirmed
+- **[Playtesters, I SUMMON THEEE](https://www.reddit.com/r/ROBLOXStudio/comments/1xjzd66/playtesters_i_summon_theee/)** — Public text/page, video not confirmed

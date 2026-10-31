@@ -7,17 +7,15 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[I'm a playtester, and I'd love to test your game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xjy54c/im_a_playtester_and_id_love_to_test_your_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working wi
-- **[WITHERSTORM Model](https://www.reddit.com/r/ROBLOXStudio/comments/1xjz00m/witherstorm_model/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: Phases 6-8 not yet implemented. submitted by /u/Adept-Flamingo8070 \[link\] \[comments\]
+- **[Playtesters, I SUMMON THEEE](https://www.reddit.com/r/ROBLOXStudio/comments/1xjzd66/playtesters_i_summon_theee/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
+  - Feed excerpt: The Broken \| Play on Roblox i just need to test it out tbh :P submitted by /u/LillyFrogz123 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[\[CRITICAL\] Fake ‘studio dependency’ popup appearing in experience playests](https://devforum.roblox.com/t/critical-fake-%E2%80%98studio-dependency%E2%80%99-popup-appearing-in-experience-playests/4967145)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: There is this backdoor going around that pretends to be a legitmate studio popup message that requires you to run a script (that is I assume a backdoor) code it wants to run: -- Game must be stopped before running. local a = "HttpService" l
-- **[badges not awarding to my user anymore](https://devforum.roblox.com/t/badges-not-awarding-to-my-user-anymore/4967114)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: i noticed today while trying to complete a quest that the badge didnt award for some reason, tried it again and same thing, then i went on another experience to test to notice that it also didnt award badges anymore, no matter what game i p
+- **[Allow toggling VFX on Accessories](https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: currently we can toggle Facial Animations on avatars but we cant toggle VFX on items, i think it’d be nice if players could choose a accessory and in the accessory adjustment area there was just a per accessory toggle “Enable VFX” turned on
+- **[Transfer Bug when User is unable to see game, inept require "\[TITLE UNAVAILABLE\]" for verification acceptance](https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: Issue Issue that occurs when User A. is trying to transfer a experience to User B. or Group B. User B or Group B. doesn’t have access to the experience. where the Transfer details shows \[TITLE UNAVAILABLE\] to User B. and to enter \[TITLE UNA
 
 ---
 
