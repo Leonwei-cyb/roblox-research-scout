@@ -5,19 +5,17 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Community
+## Roblox Creator / Ai Development
 
-- **[Would you play this game if it was finished?](https://www.reddit.com/r/ROBLOXStudio/comments/1xk4061/would_you_play_this_game_if_it_was_finished/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used i
-- **[Would you play this game if it was finished?](https://www.reddit.com/r/ROBLOXStudio/comments/1xk3yik/would_you_play_this_game_if_it_was_finished/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used i
+- **[How To CONNECT CLAUDE AI To ROBLOX STUDIO! (Easiest Guide) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tLXhkTnlndUZ5S1p0ZnZLdHUweVNvR1lkdy1LZzRtTEY4TTNfTWRHcWxHN1o4aUdnbm1pS3FsalVYOEgyZml5YnFCR2ZSNEhrT05DQ2xR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-21
+  - Feed excerpt: How To CONNECT CLAUDE AI To ROBLOX STUDIO! (Easiest Guide) YouTube
 
 ## Roblox Updates
 
-- **[Devex Portal SMS "Unexpected Error" Bug With +62 Phone Number](https://devforum.roblox.com/t/devex-portal-sms-unexpected-error-bug-with-62-phone-number/4967468)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: I seem to be having this bug when trying to authenticate my phone number for devex portal while logging in. I’ve contacted support about this and they had reset my 2FA but the problem still persists. So I think this may be a bug on the webs
-- **[How do i make a procedural animation like this using IKControl or wtv](https://devforum.roblox.com/t/how-do-i-make-a-procedural-animation-like-this-using-ikcontrol-or-wtv/4967462)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: External Media External Media External Media Look at the videos above, thats what kind of procedural animation im referring and i dont know where to start 1 post - 1 participant Read full topic
+- **[Error creating texture: 80070057](https://devforum.roblox.com/t/error-creating-texture-80070057/4967517)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: Recently, I’ve run into this issue when attempting to change the viewport window size using the Device Emulator. When changing the device emulator device to my 5120 x 2880 device, which I primarily use for screenshotting areas, it throws an
+- **[Why isn't it not ignoring the ghost?](https://devforum.roblox.com/t/why-isnt-it-not-ignoring-the-ghost/4967510)** · Roblox Developer Forum latest · 2026-10-31
+  - Feed excerpt: idk whats wrong but it better not be fucking simple --\[\[ ReplicatedFirst/LocalScript part of the script also ignore how scuffed the code is --\]\] const runservice = game:GetService("RunService") const plrs = game:GetService("Players") const 
 
 ---
 

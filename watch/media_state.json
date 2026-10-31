@@ -2018,7 +2018,10 @@
     "2fe6b5a22c5d61693096b32e",
     "e12e5cf16ff675bf70190ee8",
     "8583ba9849bc82fbf5321281",
-    "11f60ce58f359376aac39cba"
+    "11f60ce58f359376aac39cba",
+    "e907157a74ae334265b4e3b0",
+    "45f184d343ccb72cb306c0bd",
+    "1426b8f7b0b2bc53f2b5715a"
   ],
   "items": [
     {
@@ -2078,6 +2081,18 @@
       "excerpt": "Phases 6-8 not yet implemented. submitted by /u/Adept-Flamingo8070 [link] [comments]",
       "creator": "/u/Adept-Flamingo8070 https://www.reddit.com/user/Adept-Flamingo8070",
       "id": "ef702b5d1643ec756c65da4d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Error creating texture: 80070057",
+      "url": "https://devforum.roblox.com/t/error-creating-texture-80070057/4967517",
+      "published": "2026-10-31",
+      "excerpt": "Recently, I’ve run into this issue when attempting to change the viewport window size using the Device Emulator. When changing the device emulator device to my 5120 x 2880 device, which I primarily use for screenshotting areas, it throws an error and eventually crashes my studio. The error in questi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/error-creating-texture-80070057/4967517.rss",
+      "id": "e907157a74ae334265b4e3b0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2285,6 +2300,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/help-recently-found-bug/4967071.rss",
       "id": "4a13cffdc5199a51d2684b65"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Why isn't it not ignoring the ghost?",
+      "url": "https://devforum.roblox.com/t/why-isnt-it-not-ignoring-the-ghost/4967510",
+      "published": "2026-10-31",
+      "excerpt": "idk whats wrong but it better not be fucking simple --[[ ReplicatedFirst/LocalScript part of the script also ignore how scuffed the code is --]] const runservice = game:GetService(\"RunService\") const plrs = game:GetService(\"Players\") const replicatedstorage = game:GetService(\"ReplicatedStorage\") con",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/why-isnt-it-not-ignoring-the-ghost/4967510.rss",
+      "id": "45f184d343ccb72cb306c0bd"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8919,29 +8946,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-got-a-7-day-suspension-for-my-bullet-texture-why/4958698.rss",
       "id": "ec8b7cf0df5a6c028c87db9b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Douglas Fir Pack | Roblox vs. Unreal Engine 5",
-      "url": "https://devforum.roblox.com/t/douglas-fir-pack-roblox-vs-unreal-engine-5/4959045",
-      "published": "2026-10-26",
-      "excerpt": "Douglas Fir Pack | Roblox vs. Unreal Engine 5 A few comparison shots of my Douglas Fir Pack running in both Roblox Studio and Unreal Engine 5! These trees were originally created and optimized for Roblox, so seeing how well they translate into UE5 has been pretty amazing. Same models, two completely",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/douglas-fir-pack-roblox-vs-unreal-engine-5/4959045.rss",
-      "id": "ec481cce394f4b70b41b3c97"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Been working on making the creatures in my Roblox game feel more alive. How's this looking?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xg0s4k/been_working_on_making_the_creatures_in_my_roblox/",
-      "published": "2026-10-26",
-      "excerpt": "Been working on some of the little creature interactions in my Roblox game, Stitched Up. This is Spoolie, one of the Fuzzlings that you'll come across while exploring. I've been playing around with the camera movement and animations to make these little moments feel more natural. Still got some poli",
-      "creator": "/u/Leather-Following-38 https://www.reddit.com/user/Leather-Following-38",
-      "id": "ead6f0e360fdac6e853af85d"
     }
   ]
 }
