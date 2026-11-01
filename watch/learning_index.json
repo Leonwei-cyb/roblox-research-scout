@@ -66,21 +66,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4960734:1",
-      "url": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
-      "title": "[Early Access Program] Build 2D Games With `AnimatedImages`",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4967057:1",
       "url": "https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057",
       "title": "Looking for feedback/criticism for UI",
@@ -1349,19 +1334,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4960938:1",
-      "url": "https://devforum.roblox.com/t/npc-outfit-creator-plugin/4960938",
-      "title": "NPC Outfit Creator plugin",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4961027:1",
       "url": "https://devforum.roblox.com/t/highly-engaged-players-bug/4961027",
       "title": "Highly engaged players bug",
@@ -1370,19 +1342,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4961092:1",
-      "url": "https://devforum.roblox.com/t/free-3d-clothing-templates-for-r6-characters/4961092",
-      "title": "Free 3d Clothing Templates for R6 characters",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3536,6 +3495,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xkrbwv",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkrbwv/is_it_wrong_to_use_ai/",
+      "title": "Is it wrong to use ai?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "world and visual design"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:5QjkE1qZpqM",
       "url": "https://www.youtube.com/shorts/5QjkE1qZpqM",
       "title": "welcome to the xperiment 🧪 Ken Carson hits The Block on oct 30.",
@@ -4271,6 +4244,19 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968994:1",
+      "url": "https://devforum.roblox.com/t/private-servers-displaying-that-they-require-payment-when-free-with-plus/4968994",
+      "title": "Private servers displaying that they require payment when free with plus",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -7486,6 +7472,19 @@
       "title": "Join me at the Jonas Brothers Concert on Halloween in Steal an Egg #Roblox #stealanegg #jonasbrothers - TikTok",
       "source": "brock-tiktok",
       "published": "2026-10-30",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiekFVX3lxTE1ObzIySkw3eEprWkU3VUhSY252VldyR0hVU3BGczlaNGoyNzJfd3ZEUG9vTUlNQzhYRGU0Unpzc010NFFzR0lhbmRyY3NwSzhPUjc5VXhHWFREZXFIaXNLeDZwd1JkT0Q5czJLelJ3dVE4b3hiMzNpZWpB",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ObzIySkw3eEprWkU3VUhSY252VldyR0hVU3BGczlaNGoyNzJfd3ZEUG9vTUlNQzhYRGU0Unpzc010NFFzR0lhbmRyY3NwSzhPUjc5VXhHWFREZXFIaXNLeDZwd1JkT0Q5czJLelJ3dVE4b3hiMzNpZWpB?oc=5",
+      "title": "Owner of steal an egg ✅ #stealanegg #roblox #viral #fyp - TikTok",
+      "source": "brock-tiktok",
+      "published": "2026-10-28",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"

@@ -5,31 +5,22 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[LIMITED SECRET EGG RACE CHEETAH?! W OR L? #roblox #stealanegg #robloxgames #steal #egg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82cDVEeUhWcVg2czdaVFRjZzNuWXlOTDVKX3J0NFdlQUJ0X1M0a19HTUx1V1l6R096bVlKbEg3UjVhQjdfNDBLRUt6aFdhSkhSVG9KbmtB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-13
+  - Feed excerpt: LIMITED SECRET EGG RACE CHEETAH?! W OR L? #roblox #stealanegg #robloxgames #steal #egg Instagram
+- **[Owner of steal an egg ✅ #stealanegg #roblox #viral #fyp - TikTok](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ObzIySkw3eEprWkU3VUhSY252VldyR0hVU3BGczlaNGoyNzJfd3ZEUG9vTUlNQzhYRGU0Unpzc010NFFzR0lhbmRyY3NwSzhPUjc5VXhHWFREZXFIaXNLeDZwd1JkT0Q5czJLelJ3dVE4b3hiMzNpZWpB?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-10-28
+  - Feed excerpt: Owner of steal an egg ✅ #stealanegg #roblox #viral #fyp TikTok
+
 ## Community
 
-- **[Roblox studio mouse randomly "teleporting"](https://www.reddit.com/r/ROBLOXStudio/comments/1xkqs4v/roblox_studio_mouse_randomly_teleporting/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-01
-  - Feed excerpt: at first it started with my mouse snapping weirdly to certain part edges,even when not testing, now its straight up teleporting my mouse so far away with the slightest movements. this is EXTREMELY annoying, anyone have any fixes? submitted 
-- **[BlastOut is live — an FPS where you blast opponents out of the arena](https://www.reddit.com/r/ROBLOXStudio/comments/1xkoyz2/blastout_is_live_an_fps_where_you_blast_opponents/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: I've been working on BlastOut, an FPS Platform Fighter on Roblox, and it's now live! There are no traditional health bars. Hits build your opponent's Impact Value and knock them back. The higher their Impact, the farther they fly — blast th
-- **[how do I fix my highlight from doing this?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkp1o5/how_do_i_fix_my_highlight_from_doing_this/)** · Reddit r/ROBLOXStudio public RSS · 2026-10-31
-  - Feed excerpt: the highlight is still supposed to be visible but its only visible when its out of my sight and back. How do I fix it. submitted by /u/G1ANNAAAA \[link\] \[comments\]
-- **[🌑 THE HOLLOW — Looking for Founding Developers](https://www.reddit.com/r/ROBLOXStudio/comments/1xkr0k1/the_hollow_looking_for_founding_developers/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-01
-  - Feed excerpt: Hello! I’m creating The Hollow , an ambitious Roblox multiplayer horror game with a heavy focus on atmosphere, suspense, and original creature design. I’m looking for passionate people who want to help build something memorable from the gro
+- **[Is it wrong to use ai?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkrbwv/is_it_wrong_to_use_ai/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-01
+  - Feed excerpt: Hello, ive been working on a game, where im still a beginner coder, I make the code myself, and use ai to fix the holes when it goes wrong, from that I think people are okay with, but while I actually build the structure for my game, is it 
 
 ## Roblox Updates
 
-- **[BlastOut — an FPS Platform Fighter with knockback eliminations, now live (feedback welcome)](https://devforum.roblox.com/t/blastout-%E2%80%94-an-fps-platform-fighter-with-knockback-eliminations-now-live-feedback-welcome/4968890)** · Roblox Developer Forum latest · 2026-10-31
-  - Feed excerpt: Hi everyone! I’ve been working on BlastOut , an FPS Platform Fighter on Roblox. The game is now live, and I’d love to hear what you think. How it plays There are no traditional health bars . Hits build your opponent’s Impact Value and knock
-- **[Allow Game Name A-B Testing](https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: We have thumbnail A-B Testing which has drastically improved quality of life for maximizing CTR but it’d be alot better if we could also have in-nate game Name A-B Testing aswell which would help us maximize the best possible game name aswe
-- **[How to install the Roblox Developer Forum app on mobile](https://devforum.roblox.com/t/how-to-install-the-roblox-developer-forum-app-on-mobile/4968951)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: When you use the Roblox Developer Forum on mobile, you can use the Roblox Developer Forum app for all iOS, Android, and all mobile OS devices. However, Roblox Developer Forum may not be available on Safari, Google Chrome, and other websites
-- **[How to sync custom animations with Roblox's default movement](https://devforum.roblox.com/t/how-to-sync-custom-animations-with-robloxs-default-movement/4968992)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: I’ve been in the process of developing a survival fighting game which includes multiple weapons, some being two handed and such. I’ve put together custom animations for idling, movement, and attacks, but for the most part left the lower hal
-- **[Looking for feedback for my incremental game!](https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: here is the link: Roblox \[🏆\] +1 Race Run Train on treadmills ⚡ and race down the track 🏟️ for Wins 🏆! 🥚 Hatch cute pets 👟 Buy flashy shoes 🌀 Roll glowing auras 🔄 Rebirth to get stronger ❄️ Go through the portal to new worlds Run faster, col
-- **[\[Assets\] Allow folder/model imports from game explorer](https://devforum.roblox.com/t/assets-allow-foldermodel-imports-from-game-explorer/4968960)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: As a Roblox developer I sometimes run into the situation where I have assets I need to save or may want to reuse later but don’t need to store them in my game. If you have a bulk amount of them this process may take a decent amount of time.
+- **[Private servers displaying that they require payment when free with plus](https://devforum.roblox.com/t/private-servers-displaying-that-they-require-payment-when-free-with-plus/4968994)** · Roblox Developer Forum latest · 2026-11-01
+  - Feed excerpt: When you have roblox plus you get one free private server/vip server in every game, however on some games it displays that they cost robux. For example, on the game page for Evade it says it costs 56 robux monthly even though private server
 
 ---
 

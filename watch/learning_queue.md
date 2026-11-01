@@ -1,6 +1,6 @@
 # Leon media learning queue (Mac research scout)
 
-Active game: **Colonists**.
+Active game: **UNKNOWN**. No game-specific tests are proposed.
 
 **Metadata-only. No videos watched, posts fully read, audio heard or gameplay verified.**
 Every captured public lead was triaged and deduplicated; this is NOT every post
@@ -10,59 +10,59 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 312
-- index-only: 9
-- reddit: 267
+- devforum: 310
+- index-only: 10
+- reddit: 268
 - youtube: 9
 
 ## First-Session And Mobile
 
-- [!!MOBILE PLAYERS!! How is this UI setup for you?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
+- [!!MOBILE PLAYERS!! How is this UI setup for you?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Anyone knows any tutorials to make a character made in BLENDER player controlled](https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Board Game And Turn Flow
 
-- [New game: “up to fate”](https://www.reddit.com/r/robloxgamedev/comments/1xiqfh0/new_game_up_to_fate/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
+- [New game: “up to fate”](https://www.reddit.com/r/robloxgamedev/comments/1xiqfh0/new_game_up_to_fate/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Building And Purchases
 
-- [I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Economy And Income
 
-- [Looking for a scripter for my game FALSE PROMISE](https://www.reddit.com/r/robloxgamedev/comments/1xip8zo/looking_for_a_scripter_for_my_game_false_promise/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Looking for investors to help grow my Roblox game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xh0ut6/looking_for_investors_to_help_grow_my_roblox_game/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Looking for a scripter for my game FALSE PROMISE](https://www.reddit.com/r/robloxgamedev/comments/1xip8zo/looking_for_a_scripter_for_my_game_false_promise/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Looking for investors to help grow my Roblox game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xh0ut6/looking_for_investors_to_help_grow_my_roblox_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Ui And Menus
 
-- [Looking for feedback/criticism for UI](https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
-- [I built a tool that turns ideas into actual Roblox Studio UI in under 5 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xi1ac5/i_built_a_tool_that_turns_ideas_into_actual/) — reddit; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [Looking for feedback/criticism for UI](https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [I built a tool that turns ideas into actual Roblox Studio UI in under 5 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xi1ac5/i_built_a_tool_that_turns_ideas_into_actual/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Animation And Audio
 
-- [\[SHOWCASE / FEEDBACK\] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)](https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
-- [\[Early Access Program\] Build 2D Games With `AnimatedImages`](https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
+- [\[SHOWCASE / FEEDBACK\] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)](https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Made a +1 mining simulator solo — looking for honest feedback and testers before launch](https://www.reddit.com/r/robloxgamedev/comments/1xhrb99/made_a_1_mining_simulator_solo_looking_for_honest/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## World And Visual Design
 
-- [Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [Because my last post got positive feedback, I thought I would post my other builds, here's some of my builds as someone who just started building](https://www.reddit.com/r/ROBLOXStudio/comments/1xjuejk/because_my_last_post_got_positive_feedback_i/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Because my last post got positive feedback, I thought I would post my other builds, here's some of my builds as someone who just started building](https://www.reddit.com/r/ROBLOXStudio/comments/1xjuejk/because_my_last_post_got_positive_feedback_i/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Genres And Successful Loops
 
-- [My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Made a +1 mining simulator solo — looking for honest feedback and testers before launch](https://www.reddit.com/r/robloxgamedev/comments/1xhrb99/made_a_1_mining_simulator_solo_looking_for_honest/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [I just launched my first Roblox game: dig junk, build a robot buddy, fuse parts to Gold. Looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xj05d7/i_just_launched_my_first_roblox_game_dig_junk/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Player Feedback And Marketing
 
-- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xi2qe8/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xi2qe8/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
-- [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Encore | A synced music player that looks built into Roblox](https://devforum.roblox.com/t/encore-a-synced-music-player-that-looks-built-into-roblox/4963339) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Encore | A synced music player that looks built into Roblox](https://devforum.roblox.com/t/encore-a-synced-music-player-that-looks-built-into-roblox/4963339) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
