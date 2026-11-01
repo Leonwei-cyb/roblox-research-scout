@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 313
-- index-only: 10
-- reddit: 265
+- devforum: 312
+- index-only: 9
+- reddit: 267
 - youtube: 9
 
 ## First-Session And Mobile
@@ -62,13 +62,13 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Tools And Performance
 
 - [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Double Joystick On Studio Mobile Emulator](https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Encore | A synced music player that looks built into Roblox](https://devforum.roblox.com/t/encore-a-synced-music-player-that-looks-built-into-roblox/4963339) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Double Joystick On Studio Mobile Emulator test with measurable pass/fail.
+3. Explain WHY it matters and propose one Encore | A synced music player that looks built into Roblox test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

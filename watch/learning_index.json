@@ -248,20 +248,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4960616:1",
-      "url": "https://devforum.roblox.com/t/double-joystick-on-studio-mobile-emulator/4960616",
-      "title": "Double Joystick On Studio Mobile Emulator",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4962101:1",
       "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-first-gamesandbox-tycoon/4962101",
       "title": "Looking for feedback on my first game(Sandbox Tycoon)",
@@ -357,6 +343,22 @@
       "signals": [
         "UI and menus",
         "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968987:1",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987",
+      "title": "Looking for feedback for my incremental game!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "animation and audio",
+        "genres and successful loops",
+        "player feedback and marketing"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -943,6 +945,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4968890:1",
+      "url": "https://devforum.roblox.com/t/blastout-%E2%80%94-an-fps-platform-fighter-with-knockback-eliminations-now-live-feedback-welcome/4968890",
+      "title": "BlastOut — an FPS Platform Fighter with knockback eliminations, now live (feedback welcome)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-10-31",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xgdqv1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgdqv1/is_this_hudui_good/",
       "title": "Is this HUD/UI good?",
@@ -1229,19 +1245,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4959645:1",
-      "url": "https://devforum.roblox.com/t/studio-uses-all-ram-fills-up-c-drive-crashes-computer/4959645",
-      "title": "Studio Uses All RAM, Fills up C: Drive, Crashes Computer",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4959846:1",
       "url": "https://devforum.roblox.com/t/studio-frozen-in-read-only-mode-refuses-to-crash/4959846",
       "title": "Studio frozen in read-only mode, refuses to crash.",
@@ -1315,19 +1318,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4960622:1",
-      "url": "https://devforum.roblox.com/t/extremely-low-plays-compared-to-ad-clicks-despite-high-ctr-6-cpp/4960622",
-      "title": "Extremely Low Plays Compared to Ad Clicks Despite High CTR (6$ CPP)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2288,6 +2278,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4968951:1",
+      "url": "https://devforum.roblox.com/t/how-to-install-the-roblox-developer-forum-app-on-mobile/4968951",
+      "title": "How to install the Roblox Developer Forum app on mobile",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968960:1",
+      "url": "https://devforum.roblox.com/t/assets-allow-foldermodel-imports-from-game-explorer/4968960",
+      "title": "[Assets] Allow folder/model imports from game explorer",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4968992:1",
+      "url": "https://devforum.roblox.com/t/how-to-sync-custom-animations-with-robloxs-default-movement/4968992",
+      "title": "How to sync custom animations with Roblox's default movement",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xge28k",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xge28k/im_building_a_destinyborderlands_inspired_looter/",
       "title": "I'm building a Destiny/Borderlands inspired looter shooter. What do you think so far?",
@@ -2374,19 +2403,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xh7a9i",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh7a9i/first_script_ive_written_by_myself_if_you_dont/",
-      "title": "First script ive written by myself (if you dont count documention)",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2956,6 +2972,19 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xkqs4v",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkqs4v/roblox_studio_mouse_randomly_teleporting/",
+      "title": "Roblox studio mouse randomly \"teleporting\"",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3623,19 +3652,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4960270:1",
-      "url": "https://devforum.roblox.com/t/kros-realistic-roblox-os-pc-only/4960270",
-      "title": "krOS - REALISTIC Roblox OS [PC only]",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4960281:1",
       "url": "https://devforum.roblox.com/t/visual-shader-graph-editor-for-custom-materials-and-rendering-effects/4960281",
       "title": "Visual Shader Graph Editor for Custom Materials and Rendering Effects",
@@ -4247,6 +4263,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4968911:1",
+      "url": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911",
+      "title": "Allow Game Name A-B Testing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xgeczl",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgeczl/atf54f_akumu/",
       "title": "ATF-54F \"Akumu\"",
@@ -4303,19 +4332,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgjtxh/check_out_my_game/",
       "title": "Check out my game!",
       "source": "reddit-robloxstudio",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xgjv5q",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgjv5q/check_out_my_game/",
-      "title": "Check out my game!",
-      "source": "reddit-robloxdev",
       "published": "2026-10-27",
       "kind": "reddit",
       "signals": [
@@ -4975,6 +4991,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xkoyz2",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkoyz2/blastout_is_live_an_fps_where_you_blast_opponents/",
+      "title": "BlastOut is live — an FPS where you blast opponents out of the arena",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xkr0k1",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkr0k1/the_hollow_looking_for_founding_developers/",
+      "title": "🌑 THE HOLLOW — Looking for Founding Developers",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4959726:1",
       "url": "https://devforum.roblox.com/t/gears-do-not-appear-in-currently-wearing/4959726",
       "title": "Gears do not appear in Currently Wearing",
@@ -4989,28 +5031,6 @@
       "key": "devforum:4959810:1",
       "url": "https://devforum.roblox.com/t/custom-enum-management-window/4959810",
       "title": "Custom Enum Management Window",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959901:1",
-      "url": "https://devforum.roblox.com/t/support-tickets-automatically-marked-as-solved-despite-multiple-email-replies/4959901",
-      "title": "Support Tickets Automatically Marked as Solved Despite Multiple Email Replies",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959964:1",
-      "url": "https://devforum.roblox.com/t/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-%D1%81-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%BA-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8/4959964",
-      "title": "Проблема с загрузкой картинок в России",
       "source": "roblox-devforum-latest",
       "published": "2026-10-27",
       "kind": "devforum",
@@ -5121,17 +5141,6 @@
       "key": "devforum:4961024:1",
       "url": "https://devforum.roblox.com/t/%E2%80%9Cverifying-you%E2%80%99re-not-a-bot%E2%80%9D-fails-because-of-http-error-code-529/4961024",
       "title": "“Verifying you’re not a bot” fails because of http error (Code 529)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4961025:1",
-      "url": "https://devforum.roblox.com/t/gamesaveplace-and-assetservicesaveplaceasync-dont-work-correctly-for-rbxl-files/4961025",
-      "title": "game:SavePlace() and AssetService:SavePlaceAsync() don't work correctly for rbxl files",
       "source": "roblox-devforum-latest",
       "published": "2026-10-27",
       "kind": "devforum",
@@ -7362,6 +7371,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xkp1o5",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkp1o5/how_do_i_fix_my_highlight_from_doing_this/",
+      "title": "how do I fix my highlight from doing this?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-10-31",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiTEFVX3lxTFBiamtLV0JiNGR1UURjN09xN25LdWU4YTh4V0NJbmpEVThGdmNZR0pqeEg2V3pLS0J5X3dkc21yVERoSTlKN0ZSVWtRYkc",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiamtLV0JiNGR1UURjN09xN25LdWU4YTh4V0NJbmpEVThGdmNZR0pqeEg2V3pLS0J5X3dkc21yVERoSTlKN0ZSVWtRYkc?oc=5",
       "title": "asimo3089 - X",
@@ -7443,20 +7463,6 @@
       "signals": [
         "genres and successful loops",
         "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMibEFVX3lxTE9rbUpPSWV3ZjdZRGhjTUE4dEFSeWplVk5PZ2ljWDAtNVREVG51elJpTmNhMHU3T1RfQWR5UVJCTkRiREdJMjBrZW94MjdvWUsxUEtMYmFSRnVyNl9OWm9zRFdUanlzMDlyRHNrcg",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rbUpPSWV3ZjdZRGhjTUE4dEFSeWplVk5PZ2ljWDAtNVREVG51elJpTmNhMHU3T1RfQWR5UVJCTkRiREdJMjBrZW94MjdvWUsxUEtMYmFSRnVyNl9OWm9zRFdUanlzMDlyRHNrcg?oc=5",
-      "title": "How to unlock the Pumpkin King Pet in Steal an Egg 🎃 #stealanegg #roblox - TikTok",
-      "source": "brock-tiktok",
-      "published": "2026-10-27",
-      "kind": "index-only",
-      "signals": [
-        "animation and audio",
-        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Allow toggling VFX on Accessories](https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223)** — Public text/page, video not confirmed
+- **[How to sync custom animations with Roblox's default movement](https://devforum.roblox.com/t/how-to-sync-custom-animations-with-robloxs-default-movement/4968992)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
