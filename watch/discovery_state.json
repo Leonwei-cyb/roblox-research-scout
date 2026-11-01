@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-10-31T21:53:54Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -283,6 +282,34 @@
       },
       "etag": "\"b3a5fd0c18abc343f558791104600adebd8d77d6a03e16df1ec3fbe3741a29bc\""
     },
+    "https://api.github.com/repos/ollama/ollama/git/trees/c1db5f9ef203b2e946161bf4c6bd4f2ec7f123b3?recursive=1": {
+      "data": {
+        "manifests": [
+          "go.mod"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "integration/max_queue_test.go",
+          "middleware/responses_input_content_test.go",
+          "openai/responses_input_content_test.go",
+          "app/store/database.go",
+          "app/store/database_test.go",
+          "app/tools/browser.go"
+        ],
+        "tests": 22,
+        "tests_sample": [
+          "app/ui/app/src/api.test.ts",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.interaction.test.tsx",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.test.tsx",
+          "app/ui/app/src/components/CodexConnectedIntro.test.tsx",
+          "app/ui/app/src/components/CodexDesktopModelsSettings.test.tsx"
+        ],
+        "truncated": false
+      },
+      "etag": "\"7e4da5f2a44a43cb0dcb03f16f8c6076fa0b873b808552290ff40a76f875313d\""
+    },
     "https://api.github.com/repos/ollama/ollama/git/trees/f9323416f0c3f84d82f6c4a7bde75b717448bd44?recursive=1": {
       "data": {
         "manifests": [
@@ -310,7 +337,36 @@
         "truncated": false
       },
       "etag": "\"b795d3ea7c574f561eb3b900dc8a9edfdbd986f61844567cd641e48ece7b58a5\""
+    },
+    "https://api.github.com/repos/totec448-spec/chat-on-steroids/git/trees/2fdc777d16f4997f129522f31966dba596cacf68?recursive=1": {
+      "data": {
+        "manifests": [
+          "package.json",
+          "extension/manifest.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "extension/active-tabs.js",
+          "extension/browser-control-page.js",
+          "extension/browser-control.js",
+          "scripts/verify-active-tabs.mjs",
+          "scripts/verify-background-process-dock.cjs",
+          "scripts/verify-browser-bridge-port.mjs"
+        ],
+        "tests": 485,
+        "tests_sample": [
+          "docs/superpowers/specs/2026-10-11-app-id-attribution-design.md",
+          "docs/superpowers/specs/2026-10-11-tab-group-placement-design.md",
+          "test/active-tabs.test.ts",
+          "test/age.test.ts",
+          "test/agent-activity.test.ts"
+        ],
+        "truncated": false
+      },
+      "etag": "\"705ed6068679bd2c81d7f846446c9e50eb2d0881f4d591db8c1164b123c1270f\""
     }
   },
-  "last_run": "2026-10-31T21:52:54Z"
+  "last_run": "2026-11-01T04:45:33Z"
 }
