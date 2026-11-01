@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 292
+- devforum: 295
 - index-only: 8
-- reddit: 290
-- youtube: 7
+- reddit: 288
+- youtube: 6
 
 ## First-Session And Mobile
 
@@ -37,7 +37,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Ui And Menus
 
-- [I built a tool that turns ideas into actual Roblox Studio UI in under 5 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xi1ac5/i_built_a_tool_that_turns_ideas_into_actual/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Looking for an Animator, Builder for an asymmetric game like Dead by Daylight | Rev share](https://devforum.roblox.com/t/looking-for-an-animator-builder-for-an-asymmetric-game-like-dead-by-daylight-rev-share/4970535) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xi2qe8/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Animation And Audio
