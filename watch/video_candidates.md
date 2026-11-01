@@ -5,6 +5,7 @@
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
 - **[My animation is not loading!](https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/)** — Community showcase post (video not confirmed) · 2026-10-30
+- **[🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun?](https://www.reddit.com/r/robloxgamedev/comments/1xl3fj4/looking_for_roblox_playtesters_16_which_shark/)** — Community showcase post (video not confirmed) · 2026-11-01
 - **[Ages 16+ killed discovery for our Roblox arcade shooter — how are other small teams getting real playtests?](https://www.reddit.com/r/robloxgamedev/comments/1xi3y3l/ages_16_killed_discovery_for_our_roblox_arcade/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card arts and animat](https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/)** — Community showcase post (video not confirmed) · 2026-10-30
 - **[I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/)** — Community showcase post (video not confirmed) · 2026-10-28
@@ -17,7 +18,6 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xia0zb/playtest_mine_ill_test_yours/)** — Community showcase post (video not confirmed) · 2026-10-29
 - **[Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/)** — Community showcase post (video not confirmed) · 2026-10-29
 - **[+1 Power per click: smash 5 walls and evolve your critter, Trailer (not actual gameplay)](https://www.reddit.com/r/ROBLOXStudio/comments/1xjq94m/1_power_per_click_smash_5_walls_and_evolve_your/)** — Community showcase post (video not confirmed) · 2026-10-30
-- **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xj2tbz/playtest_mine_ill_test_yours/)** — Community showcase post (video not confirmed) · 2026-10-30
 
 ## Coverage gap
 

@@ -7,21 +7,29 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Thank you guys for the tips!](https://www.reddit.com/r/robloxgamedev/comments/1xl16or/thank_you_guys_for_the_tips/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: So a couple days ago I showed some images of my game on here trying to get some advice about it and I got a lot of people saying to have a UI update, so here it is! I’d love to hear some more feedback, it’s always very appreciated and often
-- **[Help me Test it pls<3](https://www.reddit.com/r/robloxgamedev/comments/1xl1wd0/help_me_test_it_pls3/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: I’m working on Bag Heist , where you grab a bag from a boutique and escape mall security before delivering it to your collection. Yeah Yeah, sounds like Steal An Egg... I’d like feedback, is everything clear and not so copy-pasty from steal
-- **[Project Coding Help](https://www.reddit.com/r/robloxgamedev/comments/1xl24wu/project_coding_help/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: Hi yal, My close friend and I decided to start a game project based off of the new cod game on NK, I'm a coder and UI maker (from Hong Kong) whilst he (from Australia) makes the maps. However, I'm trash at coding complex specialisations suc
-- **[Roblox campaigns instantly rejected](https://www.reddit.com/r/robloxgamedev/comments/1xl1poi/roblox_campaigns_instantly_rejected/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: I'm developing a Roblox game and I'm trying to launch my first sponsored ad campaign, but every single thumbnail I upload gets rejected almost instantly https://preview.redd.it/shk8brdmtzyh1.png?width=715&format=png&auto=webp&s=24807c144bc5
-- **[What would you consider advanced/intermediate level in Roblox development?](https://www.reddit.com/r/robloxgamedev/comments/1xl209r/what_would_you_consider_advancedintermediate/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: Question submitted by /u/Zoneistaken \[link\] \[comments\]
+- **[🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun?](https://www.reddit.com/r/robloxgamedev/comments/1xl3fj4/looking_for_roblox_playtesters_16_which_shark/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: 🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun? Hey everyone! We're a tiny indie studio called Atelier 452. We've made two free Roblox shark games, and we'd love some honest feedback. 🌊 1. AKUVA: Shark Ocean Run Swim 
+- **[Co-op zombie survival feedback](https://www.reddit.com/r/robloxgamedev/comments/1xl3jdx/coop_zombie_survival_feedback/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: My daughter and I have created a co-op zombie survival game in Roblox called "Last Shift". Unfortunately, because my daughter and her friends are all under 13, her friends can't play with her, so even though we enjoy the game, I have no ide
+- **[Help me build VORAKHAN - Looking for an AI co-creator to make my world real i don't have a laptop or computer](https://www.reddit.com/r/robloxgamedev/comments/1xl342v/help_me_build_vorakhan_looking_for_an_ai/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: VORAKHAN is a dark fantasy universe I've been creating. A world of ancient kingdoms, warlords, monsters, and forgotten gods. I've got the lore, characters, and vision, but I need help bringing it to life visually. I'm looking for someone wh
+- **[I've been making a fantasy RPG on Roblox called Mistfell](https://www.reddit.com/r/robloxgamedev/comments/1xl329x/ive_been_making_a_fantasy_rpg_on_roblox_called/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: Hi! I've created a combination of an open-world game, Destiny 2, and Path of Exile in Roblox. I'd be extremely grateful for any feedback: https://www.roblox.com/games/72434522051923/Mistfell-Chapter-I-The-Hollow submitted by /u/FeelingGrape
+- **[New to Game Dev](https://www.reddit.com/r/robloxgamedev/comments/1xl32dq/new_to_game_dev/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: Has anyone cracked the code for building their community 😭🥲I’m just getting started submitted by /u/SafiyaStreams \[link\] \[comments\]
+- **[What are the top 3 skillsets that get the most comms in servers like ERC or HiddenDevs?](https://www.reddit.com/r/robloxgamedev/comments/1xl3l5v/what_are_the_top_3_skillsets_that_get_the_most/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: personally i animate a bit and i was just wondering what to pick up because im tryna get a good amount of robux in my account submitted by /u/ludicrousleukocyte \[link\] \[comments\]
+- **[What's the best app on creating game icons](https://www.reddit.com/r/robloxgamedev/comments/1xl3ij7/whats_the_best_app_on_creating_game_icons/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: I want to make a really fresh game icon but I keep struggling to find a good app i dont Want to use ai so some can give recommendations submitted by /u/Prudent_Win2490 \[link\] \[comments\]
+- **[more of the physics based arms](https://www.reddit.com/r/robloxgamedev/comments/1xl3e9d/more_of_the_physics_based_arms/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: they are attached to the character via prismatic and ballsocket constraints and i use align orientation and positions to match the physics arms to the character's real arms which are invisible but still being animated. no ai used and i dont
 
 ## Roblox Updates
 
-- **[Feedback - roblox ai moderation](https://devforum.roblox.com/t/feedback-roblox-ai-moderation/4969715)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: How do I even begin this.. The current Roblox AI moderation system handling practically everything from general questions to appeals is absolute horrible. You are always met with the same response seconds after appealing something. "We care
+- **[My self-recommendation \[OPEN\]](https://devforum.roblox.com/t/my-self-recommendation-open/4969790)** · Roblox Developer Forum latest · 2026-11-01
+  - Feed excerpt: Hello everyone, this is the second time I’ve ever post on this forum. And I want to do a quick introduce of myself. My basic information GMT +8, He / Him, 4 to 6 years of scripting experience. Since last time I post, I’ve been consistently 
+- **[Some players fail to load any assets in my game + game crash](https://devforum.roblox.com/t/some-players-fail-to-load-any-assets-in-my-game-game-crash/4969767)** · Roblox Developer Forum latest · 2026-11-01
+  - Feed excerpt: I’ve received a report today from someone who is a player that commonly plays my game where none of the blocks stopped loading. I investigated and for some reason all assets including roblox assets failed to load. Even when rejoining to dif
 
 ---
 

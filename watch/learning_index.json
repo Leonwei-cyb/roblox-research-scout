@@ -1217,32 +1217,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4959846:1",
-      "url": "https://devforum.roblox.com/t/studio-frozen-in-read-only-mode-refuses-to-crash/4959846",
-      "title": "Studio frozen in read-only mode, refuses to crash.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4961185:1",
-      "url": "https://devforum.roblox.com/t/camera-pan-speed-slow-on-studio-and-cant-figure-out-why/4961185",
-      "title": "Camera Pan Speed slow on Studio and can't figure out why?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4961469:1",
       "url": "https://devforum.roblox.com/t/notify-the-player-whenever-a-game-they-have-notifications-on-for-has-an-event/4961469",
       "title": "Notify the player whenever a game they have notifications on for has an event",
@@ -2289,6 +2263,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4969767:1",
+      "url": "https://devforum.roblox.com/t/some-players-fail-to-load-any-assets-in-my-game-game-crash/4969767",
+      "title": "Some players fail to load any assets in my game + game crash",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xh6tbn",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh6tbn/ive_just_released_my_first_roblox_game_into/",
       "title": "I've just released my first Roblox game into Public Beta! Looking for honest feedback 🏁",
@@ -2988,6 +2975,47 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xl342v",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl342v/help_me_build_vorakhan_looking_for_an_ai/",
+      "title": "Help me build VORAKHAN - Looking for an AI co-creator to make my world real i don't have a laptop or computer",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xl3fj4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3fj4/looking_for_roblox_playtesters_16_which_shark/",
+      "title": "🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xl3jdx",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3jdx/coop_zombie_survival_feedback/",
+      "title": "Co-op zombie survival feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4960695:1",
       "url": "https://devforum.roblox.com/t/undeletable-debugdraw-instance-on-workspace/4960695",
       "title": "Undeletable DebugDraw instance on workspace",
@@ -3249,20 +3277,6 @@
       "signals": [
         "world and visual design",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xgpkky",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpkky/i_built_a_deepwokeninspired_combat_system_for/",
-      "title": "I built a Deepwoken-inspired combat system for Roblox (parry, guardbreak, i-frames)",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3625,19 +3639,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4959895:1",
-      "url": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895",
-      "title": "Dual-Nil Checks Don't Satisfy `--!strict`",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4291,14 +4292,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xgeczl",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgeczl/atf54f_akumu/",
-      "title": "ATF-54F \"Akumu\"",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-27",
-      "kind": "reddit",
+      "key": "devforum:4969790:1",
+      "url": "https://devforum.roblox.com/t/my-self-recommendation-open/4969790",
+      "title": "My self-recommendation [OPEN]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
       "signals": [
-        "first-session and mobile"
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4325,19 +4326,6 @@
       "kind": "reddit",
       "signals": [
         "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xgoosk",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgoosk/ive_been_working_on_a_project_for_5_months_now/",
-      "title": "I've been working on a project for 5 months now and I'm starting to get overwhelmed",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5032,25 +5020,55 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4960411:1",
-      "url": "https://devforum.roblox.com/t/how-can-i-make-camera-panning-smoother/4960411",
-      "title": "How can i make camera panning smoother?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xl329x",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl329x/ive_been_making_a_fantasy_rpg_on_roblox_called/",
+      "title": "I've been making a fantasy RPG on Roblox called Mistfell",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4961204:1",
-      "url": "https://devforum.roblox.com/t/falsely-banned-for-seemingly-no-reason/4961204",
-      "title": "Falsely banned for seemingly no reason",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xl32dq",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl32dq/new_to_game_dev/",
+      "title": "New to Game Dev",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xl3e9d",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3e9d/more_of_the_physics_based_arms/",
+      "title": "more of the physics based arms",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xl3l5v",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3l5v/what_are_the_top_3_skillsets_that_get_the_most/",
+      "title": "What are the top 3 skillsets that get the most comms in servers like ERC or HiddenDevs?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6231,28 +6249,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xgtckr",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgtckr/roblox_halloween_game/",
-      "title": "Roblox Halloween game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xgu8ob",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgu8ob/how_do_i_fix_my_smoke_particle_emmiter/",
-      "title": "how do i fix my smoke Particle Emmiter?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xgzo9i",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgzo9i/i_am_sorry/",
       "title": "I am Sorry",
@@ -7389,6 +7385,17 @@
       "key": "reddit:1xl209r",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl209r/what_would_you_consider_advancedintermediate/",
       "title": "What would you consider advanced/intermediate level in Roblox development?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xl3ij7",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3ij7/whats_the_best_app_on_creating_game_icons/",
+      "title": "What's the best app on creating game icons",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",

@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "8670227056524e08792f3eb15dce79ae0e1c6849",
-      "head_subject": "Merge pull request #3820 from huginn/renovate/github-actions",
+      "head": "d3c4e1d075a0a689b74b8329c5055ef30ee17509",
+      "head_subject": "Merge pull request #3824 from huginn/update-aged-gems",
       "name": "huginn/huginn",
       "release_tag": "v2026.10.26",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.10.26",
@@ -138,6 +138,7 @@
     }
   },
   "seen": [
+    "AIshihzong/awesome-reverse-engineer-anything",
     "AallamR/RobloxForge-Intelligence",
     "Aaron617/agent-arXiv-daily",
     "AnEntrypoint/awesome-github",

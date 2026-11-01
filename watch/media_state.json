@@ -2168,7 +2168,17 @@
     "aaeefb969dd26afaea76a2b2",
     "59d94b12e49ec63de10df084",
     "115aad9e515f08c929d0998b",
-    "23c65ecfae491c3626e90f98"
+    "23c65ecfae491c3626e90f98",
+    "0e8f611d4f42a3f10dfbb799",
+    "fb54ccd323ada7ad1f80ce3f",
+    "81b9abd857ad7364244cce52",
+    "5408c5e2f159490ca0ae639a",
+    "ee4f3be8ee03bc8d9d6dc3df",
+    "87be622d2ba61a273469c203",
+    "da37279db5436bd1b78da742",
+    "f996d81751c3bac89fe09768",
+    "171d76c17884e5ed289553ca",
+    "c883d26f619a8538191efe88"
   ],
   "items": [
     {
@@ -2186,6 +2196,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Some players fail to load any assets in my game + game crash",
+      "url": "https://devforum.roblox.com/t/some-players-fail-to-load-any-assets-in-my-game-game-crash/4969767",
+      "published": "2026-11-01",
+      "excerpt": "I’ve received a report today from someone who is a player that commonly plays my game where none of the blocks stopped loading. I investigated and for some reason all assets including roblox assets failed to load. Even when rejoining to different servers it kept happening It was fixed after joining ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/some-players-fail-to-load-any-assets-in-my-game-game-crash/4969767.rss",
+      "id": "fb54ccd323ada7ad1f80ce3f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Requesting help with Downslams in my Combat System",
       "url": "https://devforum.roblox.com/t/requesting-help-with-downslams-in-my-combat-system/4969168",
       "published": "2026-11-01",
@@ -2193,6 +2215,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/requesting-help-with-downslams-in-my-combat-system/4969168.rss",
       "id": "fb499ea31fbdb4b65b0a2d87"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Help me build VORAKHAN - Looking for an AI co-creator to make my world real i don't have a laptop or computer",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl342v/help_me_build_vorakhan_looking_for_an_ai/",
+      "published": "2026-11-01",
+      "excerpt": "VORAKHAN is a dark fantasy universe I've been creating. A world of ancient kingdoms, warlords, monsters, and forgotten gods. I've got the lore, characters, and vision, but I need help bringing it to life visually. I'm looking for someone who loves working with AI tools like Midjourney / Stable Diffu",
+      "creator": "/u/Critical_Hunter_8664 https://www.reddit.com/user/Critical_Hunter_8664",
+      "id": "f996d81751c3bac89fe09768"
     },
     {
       "source": "reddit-robloxdev",
@@ -2226,6 +2259,17 @@
       "excerpt": "at first it started with my mouse snapping weirdly to certain part edges,even when not testing, now its straight up teleporting my mouse so far away with the slightest movements. this is EXTREMELY annoying, anyone have any fixes? submitted by /u/abho_idk [link] [comments]",
       "creator": "/u/abho_idk https://www.reddit.com/user/abho_idk",
       "id": "f3b06e637483eb67c8c4ff1e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What's the best app on creating game icons",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3ij7/whats_the_best_app_on_creating_game_icons/",
+      "published": "2026-11-01",
+      "excerpt": "I want to make a really fresh game icon but I keep struggling to find a good app i dont Want to use ai so some can give recommendations submitted by /u/Prudent_Win2490 [link] [comments]",
+      "creator": "/u/Prudent_Win2490 https://www.reddit.com/user/Prudent_Win2490",
+      "id": "ee4f3be8ee03bc8d9d6dc3df"
     },
     {
       "source": "reddit-robloxdev",
@@ -2306,6 +2350,17 @@
       "id": "dadc895df46fb5c8d6a64476"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "more of the physics based arms",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3e9d/more_of_the_physics_based_arms/",
+      "published": "2026-11-01",
+      "excerpt": "they are attached to the character via prismatic and ballsocket constraints and i use align orientation and positions to match the physics arms to the character's real arms which are invisible but still being animated. no ai used and i dont consent to ai stealing my idea submitted by /u/aliacfvb [li",
+      "creator": "/u/aliacfvb https://www.reddit.com/user/aliacfvb",
+      "id": "da37279db5436bd1b78da742"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2339,6 +2394,17 @@
       "excerpt": "Hi everyone, I’m considering getting into the business of creating, publishing, and marketing games on Roblox. Before committing serious time or money, I’d like to understand what running this kind of business actually involves. The possibility of building a game that people enjoy and turning it int",
       "creator": "/u/uuua_a https://www.reddit.com/user/uuua_a",
       "id": "cd1eeead20752e5bd8744c46"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I've been making a fantasy RPG on Roblox called Mistfell",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl329x/ive_been_making_a_fantasy_rpg_on_roblox_called/",
+      "published": "2026-11-01",
+      "excerpt": "Hi! I've created a combination of an open-world game, Destiny 2, and Path of Exile in Roblox. I'd be extremely grateful for any feedback: https://www.roblox.com/games/72434522051923/Mistfell-Chapter-I-The-Hollow submitted by /u/FeelingGrape94 [link] [comments]",
+      "creator": "/u/FeelingGrape94 https://www.reddit.com/user/FeelingGrape94",
+      "id": "c883d26f619a8538191efe88"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2547,6 +2613,17 @@
       "id": "881cd03d6dcc274daac90486"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3fj4/looking_for_roblox_playtesters_16_which_shark/",
+      "published": "2026-11-01",
+      "excerpt": "🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun? Hey everyone! We're a tiny indie studio called Atelier 452. We've made two free Roblox shark games, and we'd love some honest feedback. 🌊 1. AKUVA: Shark Ocean Run Swim through the ocean, eat fish, build combos, dodge obstacles, ",
+      "creator": "/u/Greece_Feta https://www.reddit.com/user/Greece_Feta",
+      "id": "87be622d2ba61a273469c203"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2569,6 +2646,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/new-luau-typechecker-appears-to-use-excessive-ram-in-studio-while-in-large-scale-projects/4969303.rss",
       "id": "83edbdbb77bcc938778b363e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What are the top 3 skillsets that get the most comms in servers like ERC or HiddenDevs?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3l5v/what_are_the_top_3_skillsets_that_get_the_most/",
+      "published": "2026-11-01",
+      "excerpt": "personally i animate a bit and i was just wondering what to pick up because im tryna get a good amount of robux in my account submitted by /u/ludicrousleukocyte [link] [comments]",
+      "creator": "/u/ludicrousleukocyte https://www.reddit.com/user/ludicrousleukocyte",
+      "id": "81b9abd857ad7364244cce52"
     },
     {
       "source": "reddit-robloxdev",
@@ -2729,6 +2817,17 @@
       "id": "595dadb2c10e24feebab49cc"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Co-op zombie survival feedback",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3jdx/coop_zombie_survival_feedback/",
+      "published": "2026-11-01",
+      "excerpt": "My daughter and I have created a co-op zombie survival game in Roblox called \"Last Shift\". Unfortunately, because my daughter and her friends are all under 13, her friends can't play with her, so even though we enjoy the game, I have no idea if the game is actually fun for groups. I would really app",
+      "creator": "/u/JohnS-FL https://www.reddit.com/user/JohnS-FL",
+      "id": "5408c5e2f159490ca0ae639a"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2879,6 +2978,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "New to Game Dev",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl32dq/new_to_game_dev/",
+      "published": "2026-11-01",
+      "excerpt": "Has anyone cracked the code for building their community 😭🥲I’m just getting started submitted by /u/SafiyaStreams [link] [comments]",
+      "creator": "/u/SafiyaStreams https://www.reddit.com/user/SafiyaStreams",
+      "id": "171d76c17884e5ed289553ca"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "is my CTR terrible?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzaxr/is_my_ctr_terrible/",
       "published": "2026-11-01",
@@ -2964,6 +3074,18 @@
       "excerpt": "My first time trying to launch a game, been away from Roblox a little while but recently came back. Inspiration from mega ramp on Fortnite. Straightforward gameplay, run up the ramp and dodge the hazards rolling down at you. Love to hear any thoughts anyone has. https://www.roblox.com/share?code=891",
       "creator": "/u/Pretty-Light5769 https://www.reddit.com/user/Pretty-Light5769",
       "id": "10f860c58db8e89a5913b04b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My self-recommendation [OPEN]",
+      "url": "https://devforum.roblox.com/t/my-self-recommendation-open/4969790",
+      "published": "2026-11-01",
+      "excerpt": "Hello everyone, this is the second time I’ve ever post on this forum. And I want to do a quick introduce of myself. My basic information GMT +8, He / Him, 4 to 6 years of scripting experience. Since last time I post, I’ve been consistently improving my scripting skills till nowadays. And the reason ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-self-recommendation-open/4969790.rss",
+      "id": "0e8f611d4f42a3f10dfbb799"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8962,121 +9084,6 @@
       "excerpt": "Top half is what the game shipped with; bottom half is the same scripted walk after a day on it. My tower defense, Defend a Garden, has a Halloween event this Friday: you relight nine lanterns in the order an old keeper walked them. The walk worked, but lighting one was a prompt and a toast. It felt",
       "creator": "/u/TheDoctorVortex9 https://www.reddit.com/user/TheDoctorVortex9",
       "id": "ec59c4fa8d335b6ba0110d14"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Falsely banned for seemingly no reason",
-      "url": "https://devforum.roblox.com/t/falsely-banned-for-seemingly-no-reason/4961204",
-      "published": "2026-10-27",
-      "excerpt": "Hey DevForum users, Earlier today I was in a game owned by a small team I’m a part of discussing development topics, when out of nowhere I got kicked from the game. I went back to the Roblox home page to find this message. Clicking on “View more” I get taken to this page. As you can see, there is no",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/falsely-banned-for-seemingly-no-reason/4961204.rss",
-      "id": "eb643dee60741f81d27ef207"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Dual-Nil Checks Don't Satisfy `--!strict`",
-      "url": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895",
-      "published": "2026-10-27",
-      "excerpt": "An example of the issue: local a : BasePart? = script:WaitForChild(\"A\") local b : BasePart? = script:WaitForChild(\"B\") if ( a ~= nil and b ~= nil ) then local nestedX : number = a.Position.X + b.Position.X -- b is flagged as an error end if ( a == nil or b == nil ) then return nil end local cumulati",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/dual-nil-checks-dont-satisfy-strict/4959895.rss",
-      "id": "ea9eca9f7a33d691529582dd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Camera Pan Speed slow on Studio and can't figure out why?",
-      "url": "https://devforum.roblox.com/t/camera-pan-speed-slow-on-studio-and-cant-figure-out-why/4961185",
-      "published": "2026-10-27",
-      "excerpt": "Upon opening Roblox Studio today I noticed my camera pan speed was much slower then usual, I’ve tried changing the pan speed in settings and restarting studio as well as my pc and it still remains the same? I have no idea why this is happening and I can’t find anything online about this. Any help is",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/camera-pan-speed-slow-on-studio-and-cant-figure-out-why/4961185.rss",
-      "id": "e77fb9ac7c749d91090bf7aa"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I built a Deepwoken-inspired combat system for Roblox (parry, guardbreak, i-frames)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpkky/i_built_a_deepwokeninspired_combat_system_for/",
-      "published": "2026-10-27",
-      "excerpt": "Hey everyone, I'm Fr1zy. I've been building a combat system for Roblox inspired by Deepwoken's feel, and this is a duel between me and a friend. Everything is server-authoritative, so hits, blocks and parries are all decided on the server and the client only sends input. It has directional blocking,",
-      "creator": "/u/Latter_Vehicle_4569 https://www.reddit.com/user/Latter_Vehicle_4569",
-      "id": "e767838e124174536e2b0b0d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox Halloween game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgtckr/roblox_halloween_game/",
-      "published": "2026-10-27",
-      "excerpt": "Helo everyone I am a beginner who trying to make a fun game In upcoming Halloween.i am making a drive thru game where you have to serve to monster in the drive thru window and each interaction with the \"customers \"is going to be chaotic and funny movements in between The game is not really all about",
-      "creator": "/u/Broad_Reflection9452 https://www.reddit.com/user/Broad_Reflection9452",
-      "id": "e3449aa2e8da565b5672c52d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I've been working on a project for 5 months now and I'm starting to get overwhelmed",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgoosk/ive_been_working_on_a_project_for_5_months_now/",
-      "published": "2026-10-27",
-      "excerpt": "Its a 3008 remake. I wanted to mix it with Project Lazarus and 3008 since theyre both cool games. 5 months into the project, I had just finished the 3008 part without an item system. I am an amateur dev and I sometimes use ai to help me. Any advice? Also in the midst of working on an inventory syste",
-      "creator": "/u/vertisariuum https://www.reddit.com/user/vertisariuum",
-      "id": "df174a5321e1314b29878fe4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio frozen in read-only mode, refuses to crash.",
-      "url": "https://devforum.roblox.com/t/studio-frozen-in-read-only-mode-refuses-to-crash/4959846",
-      "published": "2026-10-27",
-      "excerpt": "I came back after just a couple minutes of idling, and I’d entered ‘unstable connection mode’, even though the roblox game I’m in has had no network issues. Normally, I’d just restart studio, but I had changes that needed to be saved. I tried to save them, and the studio just froze up. It will not c",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-frozen-in-read-only-mode-refuses-to-crash/4959846.rss",
-      "id": "dcf001b1014696f424118078"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "how do i fix my smoke Particle Emmiter?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgu8ob/how_do_i_fix_my_smoke_particle_emmiter/",
-      "published": "2026-10-27",
-      "excerpt": "it should be locked to the part and why isnt it straight? please no hate if I made a stupid mistake and the fix is just 1 click this is my first time working with the particle emmiters thank you! submitted by /u/Cool_Dude_86888 [link] [comments]",
-      "creator": "/u/Cool_Dude_86888 https://www.reddit.com/user/Cool_Dude_86888",
-      "id": "d98296705aadb873bcd23098"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "ATF-54F \"Akumu\"",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgeczl/atf54f_akumu/",
-      "published": "2026-10-27",
-      "excerpt": "A large, seventh-generation, optionally manned, multi-atmospheric fighter aircraft developed by the Nievian Republic's aerospace contractor, Arashi Munitions. The Akumu utilizes a combination of separate nose and wing units to form a single aircraft. An onboard AI, codenamed Seranity, is housed with",
-      "creator": "/u/cavespider0305 https://www.reddit.com/user/cavespider0305",
-      "id": "d8dcd32e37f82dfab056181f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How can i make camera panning smoother?",
-      "url": "https://devforum.roblox.com/t/how-can-i-make-camera-panning-smoother/4960411",
-      "published": "2026-10-27",
-      "excerpt": "I want to make the camera movement smoother by letting it glide for a short amount of time after being panned. The topics I Could find on this topic were almost helpful, where I need to recreate the camera’s angle using the mouse delta. Although I can easily get the mouse delta I do not know how to ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-can-i-make-camera-panning-smoother/4960411.rss",
-      "id": "d6b6a3ac078ffa929b721860"
     }
   ]
 }
