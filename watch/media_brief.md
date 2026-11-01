@@ -7,27 +7,21 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Can we make cutscenes using eclipse animator??](https://www.reddit.com/r/robloxgamedev/comments/1xl09rp/can_we_make_cutscenes_using_eclipse_animator/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: Ive been trying to find tutorial on the internet but theres none ive made a n animation for it but i just dont know how to export it and make it play in game submitted by /u/EditorHead4321 \[link\] \[comments\]
-- **[Added a "mid-battle" bubble so players on a shared server can see who's fighting. Now I need a few people on one server to try and break my PvP arena](https://www.reddit.com/r/robloxgamedev/comments/1xl0i2c/added_a_midbattle_bubble_so_players_on_a_shared/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: I'm a solo dev with a day job, building a turn-based creature-collecting RPG on Roblox called Pet Battle Arena. It's a well known formula. You will recognise some game mechanics from a popular franchise.... The multiplayer side is the part 
-- **[Attack on Titan: Rampage \[DEMO\]](https://www.reddit.com/r/robloxgamedev/comments/1xl09hr/attack_on_titan_rampage_demo/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: Hey everyone. Just made my AOT game public. Hoping to get some feedback on the map and the ODM gear scripting side. Entirely made by me. Thanks! ( Tagged as looking for devs as per the rules - Looking for feedback. I am a Solo Dev. ) https:
-- **[Has officially released my game on roblox](https://www.reddit.com/r/robloxgamedev/comments/1xl0dlx/has_officially_released_my_game_on_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: Name fishing legends it took 2 months hope it's worth it submitted by /u/Prudent_Win2490 \[link\] \[comments\]
-- **[Looking for Devs — I need honest feedback on my new Roblox game!](https://www.reddit.com/r/robloxgamedev/comments/1xl0mm2/looking_for_devs_i_need_honest_feedback_on_my_new/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: 👾 Hey everyone! I'm a Roblox developer working on a game called Steal a Monster , and I'm looking for people willing to test it and share their honest opinions! I've put a lot of effort into this project, and I'd really appreciate some feed
-- **[Looking for feedback on my new 2-player co-op game. Grab a friend and try to Steal a Something with friend](https://www.reddit.com/r/robloxgamedev/comments/1xl0gt0/looking_for_feedback_on_my_new_2player_coop_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: Hey everyone! 👋 I’ve been working on a 2-player cooperative game called Steal a Digger and I just published it. It’s a game where you and a friend have to work together to complete the objective. Since it strictly requires 2 players, it's b
-- **[Tips for using ambient/world instrumental music in Roblox (+ 68 AI-generated tracks in the Creator Store)](https://www.reddit.com/r/robloxgamedev/comments/1xl0v3r/tips_for_using_ambientworld_instrumental_music_in/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
-  - Feed excerpt: I'm Chris, a Norwegian/Welsh creator behind Obby Music, which is now used in 300+ Roblox experiences. I've put 68 instrumental tracks inspired by places around the world into the Creator Store. Up front: they're AI-generated with Suno, all 
+- **[Thank you guys for the tips!](https://www.reddit.com/r/robloxgamedev/comments/1xl16or/thank_you_guys_for_the_tips/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: So a couple days ago I showed some images of my game on here trying to get some advice about it and I got a lot of people saying to have a UI update, so here it is! I’d love to hear some more feedback, it’s always very appreciated and often
+- **[Help me Test it pls<3](https://www.reddit.com/r/robloxgamedev/comments/1xl1wd0/help_me_test_it_pls3/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: I’m working on Bag Heist , where you grab a bag from a boutique and escape mall security before delivering it to your collection. Yeah Yeah, sounds like Steal An Egg... I’d like feedback, is everything clear and not so copy-pasty from steal
+- **[Project Coding Help](https://www.reddit.com/r/robloxgamedev/comments/1xl24wu/project_coding_help/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: Hi yal, My close friend and I decided to start a game project based off of the new cod game on NK, I'm a coder and UI maker (from Hong Kong) whilst he (from Australia) makes the maps. However, I'm trash at coding complex specialisations suc
+- **[Roblox campaigns instantly rejected](https://www.reddit.com/r/robloxgamedev/comments/1xl1poi/roblox_campaigns_instantly_rejected/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: I'm developing a Roblox game and I'm trying to launch my first sponsored ad campaign, but every single thumbnail I upload gets rejected almost instantly https://preview.redd.it/shk8brdmtzyh1.png?width=715&format=png&auto=webp&s=24807c144bc5
+- **[What would you consider advanced/intermediate level in Roblox development?](https://www.reddit.com/r/robloxgamedev/comments/1xl209r/what_would_you_consider_advancedintermediate/)** · Reddit r/robloxgamedev public RSS · 2026-11-01
+  - Feed excerpt: Question submitted by /u/Zoneistaken \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Layered clothing tearing at the seams (LITERALLY!)](https://devforum.roblox.com/t/layered-clothing-tearing-at-the-seams-literally/4969623)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: Hello! I am currently learning how to make my own piece of layered clothing (blatantly obvious I know). I’ve been graciously following along with one of Roblox’s official tutorials on setting up the mesh accordingly for a multitude of avata
-- **[Obby Music – 68 AI-generated instrumental world music tracks in the Creator Store (exploration, hubs, open-world, menus)](https://devforum.roblox.com/t/obby-music-%E2%80%93-68-ai-generated-instrumental-world-music-tracks-in-the-creator-store-exploration-hubs-open-world-menus/4969550)** · Roblox Developer Forum latest · 2026-11-01
-  - Feed excerpt: Hi developers! I’m Chris (Obby Music). I’d like to share 68 instrumental background music tracks inspired by real places around the world. You can find them in the Creator Store and use them in your experiences. AI disclosure All tracks are
+- **[Feedback - roblox ai moderation](https://devforum.roblox.com/t/feedback-roblox-ai-moderation/4969715)** · Roblox Developer Forum latest · 2026-11-01
+  - Feed excerpt: How do I even begin this.. The current Roblox AI moderation system handling practically everything from general questions to appeals is absolute horrible. You are always met with the same response seconds after appealing something. "We care
 
 ---
 
