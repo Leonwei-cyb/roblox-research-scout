@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[How to sync custom animations with Roblox's default movement](https://devforum.roblox.com/t/how-to-sync-custom-animations-with-robloxs-default-movement/4968992)** — Public text/page, video not confirmed
+- **[from the new friend request ui no evidencely change to legacy one](https://devforum.roblox.com/t/from-the-new-friend-request-ui-no-evidencely-change-to-legacy-one/4969380)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
