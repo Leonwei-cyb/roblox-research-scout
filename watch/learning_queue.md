@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 307
+- devforum: 306
 - index-only: 10
-- reddit: 271
+- reddit: 272
 - youtube: 9
 
 ## First-Session And Mobile
@@ -26,8 +26,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Building And Purchases
 
-- [I made my first Roblox game: hatch cosmic eggs… and protect them from thieves 🥚🦝 Feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xgkgdx/i_made_my_first_roblox_game_hatch_cosmic_eggs_and/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Looking for feedback/criticism for UI](https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I built a tool that turns ideas into actual Roblox Studio UI in under 5 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xi1ac5/i_built_a_tool_that_turns_ideas_into_actual/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Economy And Income
 
@@ -36,8 +36,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Ui And Menus
 
-- [I built a tool that turns ideas into actual Roblox Studio UI in under 5 minutes](https://www.reddit.com/r/robloxgamedev/comments/1xi1ac5/i_built_a_tool_that_turns_ideas_into_actual/) — reddit; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 - [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xi2qe8/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
@@ -56,19 +56,19 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Looking for feedback on my first game(Sandbox Tycoon)](https://devforum.roblox.com/t/looking-for-feedback-on-my-first-gamesandbox-tycoon/4962101) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Encore | A synced music player that looks built into Roblox](https://devforum.roblox.com/t/encore-a-synced-music-player-that-looks-built-into-roblox/4963339) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 
 - [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Encore | A synced music player that looks built into Roblox](https://devforum.roblox.com/t/encore-a-synced-music-player-that-looks-built-into-roblox/4963339) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Characters drift and slide on the ground when playing on mobile devices in server authority](https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Encore | A synced music player that looks built into Roblox test with measurable pass/fail.
+3. Explain WHY it matters and propose one Characters drift and slide on the ground when playing on mobile devices in server authority test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
