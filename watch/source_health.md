@@ -1,8 +1,8 @@
 # Public research feed coverage
 
 Feeds read successfully: 18
-Feeds unavailable: 0
-Feeds deferred (temporary cooldown): 1
+Feeds unavailable: 1
+Feeds deferred (temporary cooldown): 0
 
 Availability is not guaranteed for public Reddit, third-party indexed searches or YouTube feeds.
 
@@ -18,7 +18,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - automation: 0
 - x-ui: 1
 - brock-ig-reels: 12
-- brock-tiktok: 9
+- brock-tiktok: 8
 - brock-x: 0
 - roblox-animation-showcases: 1
 - tizzy-roblox-design: 1
@@ -27,8 +27,6 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: 12
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: 12
 
-## Deferred feeds — retry after temporary cooldown
+## Failures (not silently skipped)
 
 - reddit-robloxstudio: HTTP 429
-
-No new source failures on the most recent scan. Deferred feeds remain.
