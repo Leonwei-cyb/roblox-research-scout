@@ -560,20 +560,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4959902:1",
-      "url": "https://devforum.roblox.com/t/promptbulkpurchase-purchases-seem-to-actually-attempt-to-charge-you/4959902",
-      "title": "PromptBulkPurchase Purchases seem to actually attempt to charge you",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4959999:1",
       "url": "https://devforum.roblox.com/t/studio-playtesting-distant-objects-forcefield-effect-disappear-when-switching-windows-or-taking-screenshots/4959999",
       "title": "Studio Playtesting: Distant Objects & ForceField Effect Disappear When Switching Windows or Taking Screenshots",
@@ -2895,6 +2881,19 @@
       "kind": "reddit",
       "signals": [
         "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xkuwwz",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkuwwz/roblox_studio_will_not_work/",
+      "title": "Roblox studio will not work",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -6406,17 +6405,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xh4bkm",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh4bkm/a_look_at_my_survival_train_looter_shooter/",
-      "title": "A look at my survival train looter shooter",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xh5ews",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xh5ews/ive_been_working_on_a_project_for_5_months_now/",
       "title": "I've been working on a project for 5 months now and I'm getting overwhelmed",
@@ -7344,6 +7332,17 @@
       "key": "reddit:1xkspa1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkspa1/age_of_sails_isle_of_rogues/",
       "title": "Age of Sails - Isle of Rogues",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xkujdx",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkujdx/stupid_issues_per_usual_need_help/",
+      "title": "stupid issues per usual (need help!!!)",
       "source": "reddit-robloxstudio",
       "published": "2026-11-01",
       "kind": "reddit",

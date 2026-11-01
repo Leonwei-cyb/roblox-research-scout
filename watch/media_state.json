@@ -2112,7 +2112,9 @@
     "8ce34baf7b111fff9fcc8980",
     "c13f91bce1b3c64e6ed8e41d",
     "5e478646b3ae15f1b9e35e46",
-    "960e53d895060b384af42c26"
+    "960e53d895060b384af42c26",
+    "8e1f2a70b2b424a70d902c4d",
+    "5167200ca37d5aadc39e2f7a"
   ],
   "items": [
     {
@@ -2181,7 +2183,7 @@
       "title": "Allow Game Name A-B Testing",
       "url": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911",
       "published": "2026-11-01",
-      "excerpt": "We have thumbnail A-B Testing which has drastically improved quality of life for maximizing CTR but it’d be alot better if we could also have in-nate game Name A-B Testing aswell which would help us maximize the best possible game name aswell or if we’re unsure of a name or etc. 3 posts - 3 particip",
+      "excerpt": "We have thumbnail A-B Testing which has drastically improved quality of life for maximizing CTR but it’d be alot better if we could also have in-nate game Name A-B Testing aswell which would help us maximize the best possible game name aswell or if we’re unsure of a name or etc. 4 posts - 4 particip",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911.rss",
       "id": "a58fc8c5d68711ac881e0ee8"
@@ -2219,6 +2221,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987.rss",
       "id": "8e4ab9f35df5dfb62c226438"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox studio will not work",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkuwwz/roblox_studio_will_not_work/",
+      "published": "2026-11-01",
+      "excerpt": "I’m going to first list all the problems before actually give context -can’t open through the application picture, it keeps closing -Have to run as administrator through windows key + R -the screen constantly flashes white like a glitch effect -I’m unable to open any old experiences or create any ne",
+      "creator": "/u/Legendhate https://www.reddit.com/user/Legendhate",
+      "id": "8e1f2a70b2b424a70d902c4d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2290,6 +2303,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/highlights-appear-on-all-parts-within-a-model-including-parts-with-transparency-of-1-on-roblox-client/4969127.rss",
       "id": "5e478646b3ae15f1b9e35e46"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "stupid issues per usual (need help!!!)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkujdx/stupid_issues_per_usual_need_help/",
+      "published": "2026-11-01",
+      "excerpt": "https://preview.redd.it/iaiba6lvmxyh1.png?width=1907&format=png&auto=webp&s=52d66b1ab062843d4b0bcaacb521845cf2870d3a its not letting me save, and its not giving a good reason either :/ on that note, i cant open any templates or open some older games im not id verified in anyway nor do i have plus, a",
+      "creator": "/u/poopooharrison https://www.reddit.com/user/poopooharrison",
+      "id": "5167200ca37d5aadc39e2f7a"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9018,29 +9042,6 @@
       "excerpt": "I recently made an obby game on Roblox called “Road to Celestia”. Since it’s still new, Roblox restricts it to “16+”, which makes it even harder for players to even play the game. To make things worse, they even hide my thumbnails. I created some with AI and they are correctly uploaded on the studio",
       "creator": "/u/Heavenly_Principl3s https://www.reddit.com/user/Heavenly_Principl3s",
       "id": "8231146f0a01e487357ab6e1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "PromptBulkPurchase Purchases seem to actually attempt to charge you",
-      "url": "https://devforum.roblox.com/t/promptbulkpurchase-purchases-seem-to-actually-attempt-to-charge-you/4959902",
-      "published": "2026-10-27",
-      "excerpt": "This is my first post on the devforum so apologise if it isn’t great. I found this issue a while ago and I’m not sure if it DOES actually charge you but I’m not gonna be the one to find out (lost 13k robux last time I did ) Not much else to say really, this happens any time you try do it in studio. ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/promptbulkpurchase-purchases-seem-to-actually-attempt-to-charge-you/4959902.rss",
-      "id": "7de4a09f8d5308b980bbe8d2"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "A look at my survival train looter shooter",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh4bkm/a_look_at_my_survival_train_looter_shooter/",
-      "published": "2026-10-27",
-      "excerpt": "Hello New here and wanted to share some progress on my Roblox game. No name yet officially. I do want to disclose I’m using ai for code and store asset packs for art. Majority of art is coming from Synty and Kenny art packs as well as free creator store content. I’m mostly hands on with some art and",
-      "creator": "/u/t0fus0up https://www.reddit.com/user/t0fus0up",
-      "id": "7c9f9f07dcff30aaf77dfcde"
     }
   ]
 }
