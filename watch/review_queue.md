@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[From the new friend request ui no evidencely change to legacy one](https://devforum.roblox.com/t/from-the-new-friend-request-ui-no-evidencely-change-to-legacy-one/4969380)** — Public text/page, video not confirmed
+- **[Obby Music – 68 AI-generated instrumental world music tracks in the Creator Store (exploration, hubs, open-world, menus)](https://devforum.roblox.com/t/obby-music-%E2%80%93-68-ai-generated-instrumental-world-music-tracks-in-the-creator-store-exploration-hubs-open-world-menus/4969550)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 

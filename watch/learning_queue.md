@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 301
-- index-only: 9
-- reddit: 278
+- devforum: 298
+- index-only: 8
+- reddit: 282
 - youtube: 9
 
 ## First-Session And Mobile
@@ -22,6 +22,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Board Game And Turn Flow
 
+- [Added a "mid-battle" bubble so players on a shared server can see who's fighting. Now I need a few people on one server to try and break my PvP arena](https://www.reddit.com/r/robloxgamedev/comments/1xl0i2c/added_a_midbattle_bubble_so_players_on_a_shared/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
 - [New game: “up to fate”](https://www.reddit.com/r/robloxgamedev/comments/1xiqfh0/new_game_up_to_fate/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
 
 ## Building And Purchases
