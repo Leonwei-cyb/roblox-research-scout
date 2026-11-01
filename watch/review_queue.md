@@ -7,12 +7,12 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[next stop on The Burning Up Tour All Over Again: Steal an Egg. Jonas Brothers live this Halloween.](https://www.youtube.com/shorts/sRNaj6S0zhY)** — Original media link, not watched
+- **[Looking for Volunteer/Rev-Share Scripters & Modelers for a Skibidi-Inspired Tower Defense Project](https://www.reddit.com/r/robloxgamedev/comments/1xkyhx9/looking_for_volunteerrevshare_scripters_modelers/)** — Public text/page, video not confirmed
 - **[roblox studio crashing because of device simulator](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbyuc/roblox_studio_crashing_because_of_device_simulator/)** — Public text/page, video not confirmed
-- **[Wumby Zoo is now in beta — feedback on the early progression?](https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
-- **[from the new friend request ui no evidencely change to legacy one](https://devforum.roblox.com/t/from-the-new-friend-request-ui-no-evidencely-change-to-legacy-one/4969380)** — Public text/page, video not confirmed
+- **[From the new friend request ui no evidencely change to legacy one](https://devforum.roblox.com/t/from-the-new-friend-request-ui-no-evidencely-change-to-legacy-one/4969380)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
