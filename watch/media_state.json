@@ -2099,7 +2099,14 @@
     "c60ea230ed5c1e4fa2429298",
     "33e64f45597295a5db03618a",
     "6aeeae8fb18f1d378a405691",
-    "143fd1b034c70b796cb57168"
+    "143fd1b034c70b796cb57168",
+    "cdf0d6ff5352d84119ccbe84",
+    "126332a2a8ed910b2bb7c20e",
+    "131f6a9310c93115494dcafe",
+    "4cf43bf935a695fe2bcc29e5",
+    "93cfdc643b3374b8807b7294",
+    "92a0c13cd4a40793a5910217",
+    "1b3e9be3fdf2879a31ed3df4"
   ],
   "items": [
     {
@@ -2112,6 +2119,18 @@
       "excerpt": "at first it started with my mouse snapping weirdly to certain part edges,even when not testing, now its straight up teleporting my mouse so far away with the slightest movements. this is EXTREMELY annoying, anyone have any fixes? submitted by /u/abho_idk [link] [comments]",
       "creator": "/u/abho_idk https://www.reddit.com/user/abho_idk",
       "id": "f3b06e637483eb67c8c4ff1e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Strata - Data without the overhead",
+      "url": "https://devforum.roblox.com/t/strata-data-without-the-overhead/4969072",
+      "published": "2026-11-01",
+      "excerpt": "Strata Data, without the overhead. Strata isn’t the data system with the most features. It’s the one that asks the least of you to get a great one. You describe your player data once. Strata loads each player’s session, keeps it saved, replicates changes to the client, and types every field for you.",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/strata-data-without-the-overhead/4969072.rss",
+      "id": "cdf0d6ff5352d84119ccbe84"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2136,6 +2155,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911.rss",
       "id": "a58fc8c5d68711ac881e0ee8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox project ( LF PEOPLE TO HELP) PAYMENT IS %",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkrywe/roblox_project_lf_people_to_help_payment_is/",
+      "published": "2026-11-01",
+      "excerpt": "So I’m making a Roblox game I already have a builder and I need VFX 0/2 OR 1 SCRIPTEUR 0/2 OR 1 ANIMATEURS 1/1 BUILDERS 1/2 UI DESIGNER 0/1 DM ME ON DISCORD FOR FURTHER INFORMATIONS USER : fazeruggy. IMPORTANT PAYMENT IS IN % (REVSHARE) submitted by /u/LETVVC [link] [comments]",
+      "creator": "/u/LETVVC https://www.reddit.com/user/LETVVC",
+      "id": "93cfdc643b3374b8807b7294"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2188,6 +2218,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Need help with making a successful game on rblx.",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xksgdr/need_help_with_making_a_successful_game_on_rblx/",
+      "published": "2026-11-01",
+      "excerpt": "Alr So I recently checked out ppl making hella money off developing games on roblox I figured out Ai was doing most of the work So I heard Abt Forge Gui and Claude Opus 5.5 the catch is I cant afford That and I really want to develop a successful Game also is their any suggestions on which Game i sh",
+      "creator": "/u/New_Start_4518 https://www.reddit.com/user/New_Start_4518",
+      "id": "4cf43bf935a695fe2bcc29e5"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Is it wrong to use ai?",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkrbwv/is_it_wrong_to_use_ai/",
       "published": "2026-11-01",
@@ -2206,6 +2247,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-install-the-roblox-developer-forum-app-on-mobile/4968951.rss",
       "id": "15a97bf5e9db728253a860be"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Age of Sails - Isle of Rogues",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkspa1/age_of_sails_isle_of_rogues/",
+      "published": "2026-11-01",
+      "excerpt": "Been adding physics and game mechanics everyday, trying to add as much useful and immersive content as possible, without making the game complex. Recent additions include : ship signals/emblems for non-verbal communication visuals for underwater exploration carts to load and pull up to 7 cargo items",
+      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
+      "id": "131f6a9310c93115494dcafe"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Removing several places from \"Recents\" suddenly shows \"No experiences to display\"",
+      "url": "https://devforum.roblox.com/t/removing-several-places-from-recents-suddenly-shows-no-experiences-to-display/4969058",
+      "published": "2026-11-01",
+      "excerpt": "If you have several places you want to get rid of, the first few will remove fine. After about the 5th removal, the recents list suddenly changes to “No experiences to display”. After clicking “Home” and then “Recents”, the remaining Recent places is displayed again. Here is a video of the issue: ht",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/removing-several-places-from-recents-suddenly-shows-no-experiences-to-display/4969058.rss",
+      "id": "126332a2a8ed910b2bb7c20e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8968,62 +9032,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299.rss",
       "id": "7662b674ac0b376886d753a1"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "INSANELY laggy studio for no clear reason?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh84ov/insanely_laggy_studio_for_no_clear_reason/",
-      "published": "2026-10-27",
-      "excerpt": "I was making an obby game, almost entirely with models I made myself except for 2 free models that I checked for viruses and found nothing. I wasn't even that far into it, I just made the beginning area and started on the first obstacle, and I was making the spawn point when it just randomly started",
-      "creator": "/u/Dry-Negotiation-1960 https://www.reddit.com/user/Dry-Negotiation-1960",
-      "id": "749807b36f10353140daa74a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Age Of Sail Progression",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgf0pi/age_of_sail_progression/",
-      "published": "2026-10-27",
-      "excerpt": "new ocean system underwater/swimming exploration realistic ship buoyancy and onboard station mechanics massive open-world (60,000+ studs) custom items, armor, tools, weapons, clothing dozens of ships day/night cycles with weather realistic sailing mechanics submitted by /u/Melodic-Sundae3403 [link] ",
-      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
-      "id": "6f8a10107ab06fbca7c03afd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Sto per aprire la mia agenzia su roblox rp",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xgub9l/sto_per_aprire_la_mia_agenzia_su_roblox_rp/",
-      "published": "2026-10-27",
-      "excerpt": "Sono da solo ed essendo nuovo non ho amici volevo sapere se avevate consigli per una possibile agenzia su roblox ho scoperto da poco che è stata già già fatta un agenzia tipo d’amore di Roby non voglio copiare le idee altrui ma a me piacerebbe fare delle puntate su YouTube in cui creiamo una mini se",
-      "creator": "/u/Edoquest https://www.reddit.com/user/Edoquest",
-      "id": "6e7983c54e7925c9b2ad6a47"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Pet island (kids game) - Solo developer - Used AI during game development",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgjyzl/pet_island_kids_game_solo_developer_used_ai/",
-      "published": "2026-10-27",
-      "excerpt": "submitted by /u/laereland [link] [comments]",
-      "creator": "/u/laereland https://www.reddit.com/user/laereland",
-      "id": "6e77e695fa47118b1e39e1fa"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "The Hollow event item not being given to me even though i bought it in game",
-      "url": "https://devforum.roblox.com/t/the-hollow-event-item-not-being-given-to-me-even-though-i-bought-it-in-game/4961257",
-      "published": "2026-10-27",
-      "excerpt": "As the title states, i had enough currency so i bought the quack o lantern and the spectral skull of nevermoor however i did not receive the items NOR the badges. It does show that i bought them in game tho. I tried rejoining a couple times but that doesnt work 2 posts - 2 participants Read full top",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-hollow-event-item-not-being-given-to-me-even-though-i-bought-it-in-game/4961257.rss",
-      "id": "6df1349cd752a43761aba748"
     }
   ]
 }
