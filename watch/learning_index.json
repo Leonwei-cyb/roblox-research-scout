@@ -4,22 +4,6 @@
   "reviewed_posts": 0,
   "posts": [
     {
-      "key": "reddit:1xgpysp",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/",
-      "title": "I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 12,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xkkdbz",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/",
       "title": "!!MOBILE PLAYERS!! How is this UI setup for you?",
@@ -51,21 +35,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4960088:1",
-      "url": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088",
-      "title": "[SHOWCASE / FEEDBACK] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4967057:1",
       "url": "https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057",
       "title": "Looking for feedback/criticism for UI",
@@ -76,23 +45,6 @@
         "building and purchases",
         "UI and menus",
         "player feedback and marketing"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xgiwq2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/",
-      "title": "Anyone knows any tutorials to make a character made in BLENDER player controlled",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "animation and audio",
-        "world and visual design",
-        "player feedback and marketing",
-        "tools and performance"
       ],
       "score": 9,
       "evidence": "UNVIEWED_METADATA"
@@ -972,22 +924,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xh0ut6",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh0ut6/looking_for_investors_to_help_grow_my_roblox_game/",
-      "title": "Looking for investors to help grow my Roblox game!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "economy and income",
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xhkfqp",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhkfqp/i_made_a_horror_game_about_an_abandoned_subway/",
       "title": "I made a horror game about an abandoned subway and an anomaly controller. Looking for feedback on the atmosphere!",
@@ -1240,19 +1176,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4960299:1",
-      "url": "https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299",
-      "title": "Flickering Particle Flipbook with custom Layout",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-27",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2278,6 +2201,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4969127:1",
+      "url": "https://devforum.roblox.com/t/highlights-appear-on-all-parts-within-a-model-including-parts-with-transparency-of-1-on-roblox-client/4969127",
+      "title": "Highlights Appear on All Parts within a Model, Including Parts with Transparency of 1 on Roblox Client",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4969148:1",
+      "url": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148",
+      "title": "Weird MCP Text On Studio",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4969167:1",
+      "url": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167",
+      "title": "PhysBone - Streamlined Bone Simulation Plugin",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xge28k",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xge28k/im_building_a_destinyborderlands_inspired_looter/",
       "title": "I'm building a Destiny/Borderlands inspired looter shooter. What do you think so far?",
@@ -2299,19 +2261,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xgtw48",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgtw48/thougts_on_the_shop_ui/",
-      "title": "Thougts on the shop ui",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-27",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2933,6 +2882,19 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xktgu2",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xktgu2/is_my_ui_fine_or_good/",
+      "title": "Is my ui fine or good?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -6282,6 +6244,28 @@
       "key": "devforum:4969058:1",
       "url": "https://devforum.roblox.com/t/removing-several-places-from-recents-suddenly-shows-no-experiences-to-display/4969058",
       "title": "Removing several places from \"Recents\" suddenly shows \"No experiences to display\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4969150:1",
+      "url": "https://devforum.roblox.com/t/error-trying-to-make-a-new-experience/4969150",
+      "title": "Error trying to make a new experience",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4969168:1",
+      "url": "https://devforum.roblox.com/t/requesting-help-with-downslams-in-my-combat-system/4969168",
+      "title": "Requesting help with Downslams in my Combat System",
       "source": "roblox-devforum-latest",
       "published": "2026-11-01",
       "kind": "devforum",

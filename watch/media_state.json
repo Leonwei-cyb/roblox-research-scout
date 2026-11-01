@@ -2106,9 +2106,27 @@
     "4cf43bf935a695fe2bcc29e5",
     "93cfdc643b3374b8807b7294",
     "92a0c13cd4a40793a5910217",
-    "1b3e9be3fdf2879a31ed3df4"
+    "1b3e9be3fdf2879a31ed3df4",
+    "fb499ea31fbdb4b65b0a2d87",
+    "6ee2fcb3841c3fcddf61d4cb",
+    "8ce34baf7b111fff9fcc8980",
+    "c13f91bce1b3c64e6ed8e41d",
+    "5e478646b3ae15f1b9e35e46",
+    "960e53d895060b384af42c26"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Requesting help with Downslams in my Combat System",
+      "url": "https://devforum.roblox.com/t/requesting-help-with-downslams-in-my-combat-system/4969168",
+      "published": "2026-11-01",
+      "excerpt": "Hello. I am working on a combat system with my friend similar to the combat systems in battle ARENA games such as ABA, anime showdown, shonen unleashed, etc. These combat systems follow the basic 5 m1s, uptilt, downslam, mechanics My issue is that i cannot seem to get a proper downslam. Basically th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/requesting-help-with-downslams-in-my-combat-system/4969168.rss",
+      "id": "fb499ea31fbdb4b65b0a2d87"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -2148,6 +2166,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Weird MCP Text On Studio",
+      "url": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148",
+      "published": "2026-11-01",
+      "excerpt": "As of recently, I saw this on Roblox Studio… The text, and the bar, is VERY bothering to me when I’m on studio since the bar is right there. Watching me. I tried for maybe a half hour attempting to remove it? Would their be any method of removing it? I have zero use for MCPS, nor will I ever use it,",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148.rss",
+      "id": "c13f91bce1b3c64e6ed8e41d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Allow Game Name A-B Testing",
       "url": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911",
       "published": "2026-11-01",
@@ -2155,6 +2185,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911.rss",
       "id": "a58fc8c5d68711ac881e0ee8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Is my ui fine or good?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xktgu2/is_my_ui_fine_or_good/",
+      "published": "2026-11-01",
+      "excerpt": "This is the ui for my game and I wanted to know if it’s good or not. To me it looks fine but i know I’m biased. If I should change anything what would it be? submitted by /u/Original-Fault1420 [link] [comments]",
+      "creator": "/u/Original-Fault1420 https://www.reddit.com/user/Original-Fault1420",
+      "id": "960e53d895060b384af42c26"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2183,6 +2224,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Error trying to make a new experience",
+      "url": "https://devforum.roblox.com/t/error-trying-to-make-a-new-experience/4969150",
+      "published": "2026-11-01",
+      "excerpt": "getting error \"we could not open the place, failed to fetch place info 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/error-trying-to-make-a-new-experience/4969150.rss",
+      "id": "8ce34baf7b111fff9fcc8980"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How to sync custom animations with Roblox's default movement",
       "url": "https://devforum.roblox.com/t/how-to-sync-custom-animations-with-robloxs-default-movement/4968992",
       "published": "2026-11-01",
@@ -2206,6 +2259,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "PhysBone - Streamlined Bone Simulation Plugin",
+      "url": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167",
+      "published": "2026-11-01",
+      "excerpt": "PhysBone Get PhysBone on the Creator Store PhysBone adds secondary motion to skinned meshes in Roblox. Hair sways when a character turns, tails swing behind them, capes and flags ripple in the wind, and ears bounce when they land. You set it up once in Studio, and it runs by itself in your game with",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167.rss",
+      "id": "6ee2fcb3841c3fcddf61d4cb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[Assets] Allow folder/model imports from game explorer",
       "url": "https://devforum.roblox.com/t/assets-allow-foldermodel-imports-from-game-explorer/4968960",
       "published": "2026-11-01",
@@ -2213,6 +2278,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/assets-allow-foldermodel-imports-from-game-explorer/4968960.rss",
       "id": "63f2bcdfa2191040b56e5de8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Highlights Appear on All Parts within a Model, Including Parts with Transparency of 1 on Roblox Client",
+      "url": "https://devforum.roblox.com/t/highlights-appear-on-all-parts-within-a-model-including-parts-with-transparency-of-1-on-roblox-client/4969127",
+      "published": "2026-11-01",
+      "excerpt": "Highlights on any model are rendered/shown on any part within a model/assembly group, even ones with invisible parts. I personally don’t know if this is a roblox client issue or an issue I’m just having with my graphics driver as a friend of mine hasnt been experiencing said issue. Started seeing th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/highlights-appear-on-all-parts-within-a-model-including-parts-with-transparency-of-1-on-roblox-client/4969127.rss",
+      "id": "5e478646b3ae15f1b9e35e46"
     },
     {
       "source": "reddit-robloxstudio",
@@ -8964,74 +9041,6 @@
       "excerpt": "Hello New here and wanted to share some progress on my Roblox game. No name yet officially. I do want to disclose I’m using ai for code and store asset packs for art. Majority of art is coming from Synty and Kenny art packs as well as free creator store content. I’m mostly hands on with some art and",
       "creator": "/u/t0fus0up https://www.reddit.com/user/t0fus0up",
       "id": "7c9f9f07dcff30aaf77dfcde"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Thougts on the shop ui",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgtw48/thougts_on_the_shop_ui/",
-      "published": "2026-10-27",
-      "excerpt": "should i change anything? submitted by /u/SweatyEducation9431 [link] [comments]",
-      "creator": "/u/SweatyEducation9431 https://www.reddit.com/user/SweatyEducation9431",
-      "id": "7b3a158edfc4b07bea44b987"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Anyone knows any tutorials to make a character made in BLENDER player controlled",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgiwq2/anyone_knows_any_tutorials_to_make_a_character/",
-      "published": "2026-10-27",
-      "excerpt": "I made monster model in blender and imported him into Roblox Studio via FBX. I watched a tutorial by Gnomecode , but it was for a model already made in Roblox Studio, and in result the humanoid name wouldn't show up above my character. And when I tried tinkering it ended up making the models animati",
-      "creator": "/u/sir_hmmmmmmms https://www.reddit.com/user/sir_hmmmmmmms",
-      "id": "7aeebda782d230d8c402947c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/",
-      "published": "2026-10-27",
-      "excerpt": "https://preview.redd.it/5vav10ajvzxh1.png?width=1402&format=png&auto=webp&s=6a7c306602a025ea5255e2e4533464d30d193d85 Hey Please review my game even for a minute it helps the solo dev community alot! Hey everyone! I've been building a Roblox game called Rescue the Cat and it just launched. I'm a solo",
-      "creator": "/u/robloxdevs4n https://www.reddit.com/user/robloxdevs4n",
-      "id": "7a4a3243d6e028edff78cd0f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[SHOWCASE / FEEDBACK] Anima Suite — Fast Rigging & Animation Workflow for Custom Monsters (Would you find this useful?)",
-      "url": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088",
-      "published": "2026-10-27",
-      "excerpt": "Hi everyone! I’d like to share an overview of a project I’ve been developing for Roblox Studio: Anima Suite. About Me & Why I Created This I’m an independent developer and still fairly new to the Roblox ecosystem. I’ve been learning Roblox Studio for about a year and a half, and while I haven’t publ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/showcase-feedback-anima-suite-%E2%80%94-fast-rigging-animation-workflow-for-custom-monsters-would-you-find-this-useful/4960088.rss",
-      "id": "786fd0fd7d032bb07799a441"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for investors to help grow my Roblox game!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xh0ut6/looking_for_investors_to_help_grow_my_roblox_game/",
-      "published": "2026-10-27",
-      "excerpt": "Hey everyone! I’m the developer of STEAL & BUILD , a Roblox game where players steal valuable loot, escape the chase, and use their earnings to build their dream home. Check out the game: https://www.roblox.com/games/85678755517424/Steal-Build I’m currently looking for people interested in investing",
-      "creator": "/u/kiaramariaxo https://www.reddit.com/user/kiaramariaxo",
-      "id": "76bae12820cbf186f0d8c962"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Flickering Particle Flipbook with custom Layout",
-      "url": "https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299",
-      "published": "2026-10-27",
-      "excerpt": "The flipbook flickers when played within a custom layout 6x6 Video: System Information: CPU: Intel Core i3-10100 16 GB RAM GPU: RX 5700 XT 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/flickering-particle-flipbook-with-custom-layout/4960299.rss",
-      "id": "7662b674ac0b376886d753a1"
     }
   ]
 }

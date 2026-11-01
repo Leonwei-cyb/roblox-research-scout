@@ -16,7 +16,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [Lighting a lantern in my Roblox game felt like nothing. Here's what changed before my Halloween event (before/after)](https://www.reddit.com/r/robloxgamedev/comments/1xgjxeq/lighting_a_lantern_in_my_roblox_game_felt_like/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
-- **P1 · animation and audio:** [I made a Roblox game where you steal eggs, hatch cats and outrun monsters. Would love your feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xgpysp/i_made_a_roblox_game_where_you_steal_eggs_hatch/)
+- **P1 · animation and audio:** [would this work if i made an animation for a game?](https://www.reddit.com/r/robloxgamedev/comments/1xha75k/would_this_work_if_i_made_an_animation_for_a_game/)
   - reddit · **UNVIEWED_METADATA** · Check: Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?
 
 ## Research gaps
