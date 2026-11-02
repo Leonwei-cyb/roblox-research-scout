@@ -2304,21 +2304,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xi4436",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi4436/would_you_play/",
-      "title": "Would you play?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "economy and income",
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xi4oty",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi4oty/intergalactic_kingdom_tycoon_planet_1_mars/",
       "title": "Intergalactic Kingdom Tycoon ( Planet 1 -Mars)",
@@ -3067,6 +3052,19 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xm2nwf",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm2nwf/how_to_run_a_successful_ad_campaign_for_newbies/",
+      "title": "How to run a successful ad campaign [for newbies]",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4373,19 +4371,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhvpqj",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhvpqj/what_whould_be_a_good_name_for_my_roblox_real/",
-      "title": "What whould be a good name for my roblox real time strategy game set in modern day.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6196,6 +6181,17 @@
       "key": "devforum:4971788:1",
       "url": "https://devforum.roblox.com/t/game-still-banned-nearly-a-month-later-with-no-response-from-moderation/4971788",
       "title": "Game still banned nearly a month later with no response from Moderation",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4971938:1",
+      "url": "https://devforum.roblox.com/t/issues-with-dsaosa-content-reporting/4971938",
+      "title": "Issues with DSA/OSA Content Reporting",
       "source": "roblox-devforum-latest",
       "published": "2026-11-02",
       "kind": "devforum",
