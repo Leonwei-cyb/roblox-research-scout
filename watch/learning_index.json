@@ -432,16 +432,16 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhypq9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhypq9/saving_the_players_last_saved_position_through/",
-      "title": "Saving The Players Last Saved Position Through Places",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
+      "key": "devforum:4971528:1",
+      "url": "https://devforum.roblox.com/t/how-to-list-developer-products-on-the-experience-store-page-external-purchase-option-missing/4971528",
+      "title": "How to list Developer Products on the Experience Store Page? (External Purchase Option Missing)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
       "signals": [
-        "first-session and mobile",
-        "player feedback and marketing",
-        "tools and performance"
+        "building and purchases",
+        "UI and menus",
+        "player feedback and marketing"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -1261,19 +1261,6 @@
       "key": "devforum:4962208:1",
       "url": "https://devforum.roblox.com/t/gml-%E2%80%94-open-source-luau-module-loader-and-utility-library/4962208",
       "title": "GML — open-source Luau module loader and utility library",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4962293:1",
-      "url": "https://devforum.roblox.com/t/where-do-microprofiler-logs-go-and-how-do-i-clear-cache-and-memory-or-localappdata-of-httpsplayrobloxcomgamesstartplaceid/4962293",
-      "title": "Where do MicroProfiler logs go and how do I clear cache and memory or localappdata of https://play.roblox.com/games/start?placeId=",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
@@ -2278,6 +2265,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4971599:1",
+      "url": "https://devforum.roblox.com/t/paid-plugin-datamap-total-visualized-datastore-editor/4971599",
+      "title": "[Paid] [Plugin] DataMap: Total Visualized Datastore & Editor",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhets0",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhets0/recruiting_looking_for_developers_to_build/",
       "title": "[recruiting] looking for developers to build profitable roblox games with ai",
@@ -3054,6 +3054,19 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xlvu61",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlvu61/for_hire_expert_builder_modeler_looking_for_work/",
+      "title": "[ FOR HIRE ] Expert Builder / Modeler looking for work !",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -6285,17 +6298,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi11lp/most_real_image_of_all_time/",
       "title": "Most real image of all time",
       "source": "reddit-robloxstudio",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xi1i3a",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi1i3a/llevo_rato_desarrollando_un_juego_pero_no_sé_cómo/",
-      "title": "Llevo rato desarrollando un juego pero no sé cómo lograr que mi juego llegue a la gente, algún consejo ?",
-      "source": "reddit-robloxdev",
       "published": "2026-10-28",
       "kind": "reddit",
       "signals": [],

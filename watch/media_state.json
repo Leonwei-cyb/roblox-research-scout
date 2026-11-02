@@ -2292,7 +2292,10 @@
     "cd308a5741c9bb00c4f3a113",
     "d11d8724c5e96fc58dbf50bc",
     "5c8662694499bbecfe6b5ec8",
-    "1b4f406d46bc5f694f92be9b"
+    "1b4f406d46bc5f694f92be9b",
+    "f4849eb8155d4137b2b75c8f",
+    "56f0e57d442e3c499adcf9dd",
+    "99cddc7840c534badc11c5fb"
   ],
   "items": [
     {
@@ -2339,6 +2342,18 @@
       "excerpt": "So I’m making a game right now with cool game mechanics the problem is I don’t exactly know how I’d implement them for mobile while keeping the game fun and movement system smooth, I know a large majority of the player base is mobile but if I target my game for older users who I’m assuming use PC an",
       "creator": "/u/BrotatoGalileo https://www.reddit.com/user/BrotatoGalileo",
       "id": "f54bce023b6f91cfeeaed096"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Paid] [Plugin] DataMap: Total Visualized Datastore & Editor",
+      "url": "https://devforum.roblox.com/t/paid-plugin-datamap-total-visualized-datastore-editor/4971599",
+      "published": "2026-11-02",
+      "excerpt": "DataMap: Visualized Datastores Hey everyone! I’ve been working on a plugin called DataMap and I think it’s finally ready to share. I’ve always liked the DataStore Editor plugin because you can edit data right from Studio, but I kept wishing I could visually see everything. Which stores I have, what’",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/paid-plugin-datamap-total-visualized-datastore-editor/4971599.rss",
+      "id": "f4849eb8155d4137b2b75c8f"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2447,7 +2462,7 @@
       "title": "studio wont open place",
       "url": "https://devforum.roblox.com/t/studio-wont-open-place/4971409",
       "published": "2026-11-02",
-      "excerpt": "Expected behavior A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "excerpt": "Expected behavior A private message is associated with this bug report 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-wont-open-place/4971409.rss",
       "id": "cd308a5741c9bb00c4f3a113"
@@ -2530,6 +2545,17 @@
       "excerpt": "I'm new to Lua and I'm trying to add animations to a model so that he will both aim, but also rest the gun while aiming. I used eclipse to create the animations already, and I uploaded them and got their IDs, I just don't know how to make the scripts. A guide (especially one that walks me through) w",
       "creator": "/u/SolidSnakeFan177 https://www.reddit.com/user/SolidSnakeFan177",
       "id": "99f825015d55399e864940b5"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[ FOR HIRE ] Expert Builder / Modeler looking for work !",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlvu61/for_hire_expert_builder_modeler_looking_for_work/",
+      "published": "2026-11-02",
+      "excerpt": "my discord --> jakartacardiana , my artstation --> https://www.artstation.com/jakartacardiana submitted by /u/PrintOk5395 [link] [comments]",
+      "creator": "/u/PrintOk5395 https://www.reddit.com/user/PrintOk5395",
+      "id": "99cddc7840c534badc11c5fb"
     },
     {
       "source": "reddit-robloxdev",
@@ -2726,6 +2752,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "How to list Developer Products on the Experience Store Page? (External Purchase Option Missing)",
+      "url": "https://devforum.roblox.com/t/how-to-list-developer-products-on-the-experience-store-page-external-purchase-option-missing/4971528",
+      "published": "2026-11-02",
+      "excerpt": "Hi everyone, I’m trying to figure out how to get my Developer Products to appear on my game’s Experience Store page (the #!/store page), so players can buy them without joining the game first. I have followed the documentation: My products are marked as Listed in Creator Hub → Monetization → Shop. T",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-list-developer-products-on-the-experience-store-page-external-purchase-option-missing/4971528.rss",
+      "id": "56f0e57d442e3c499adcf9dd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Sinister W cant be bought",
       "url": "https://devforum.roblox.com/t/sinister-w-cant-be-bought/4970878",
       "published": "2026-11-02",
@@ -2843,7 +2881,7 @@
       "title": "Profile Image won't update",
       "url": "https://devforum.roblox.com/t/profile-image-wont-update/4971392",
       "published": "2026-11-02",
-      "excerpt": "So I changed my avatar to a bacon minimum 15 hours since I did and my profile image on dev forum still hasn’t updated lol … Page URL: https://devforum.roblox.com/u/slayqu987/summary 5 posts - 3 participants Read full topic",
+      "excerpt": "So I changed my avatar to a bacon minimum 15 hours since I did and my profile image on dev forum still hasn’t updated lol … Page URL: https://devforum.roblox.com/u/slayqu987/summary 12 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/profile-image-wont-update/4971392.rss",
       "id": "19bd13cee4160df10b6b5afa"
@@ -9155,40 +9193,6 @@
       "excerpt": "Hey everyone! My friend and I have been working on our very first Roblox game, Steal & Escape, and it's finally playable. We'd really love to hear what you think. The idea: you and up to 3 friends pull off night-time heists for a shady boss named Viktor (who takes his cut, of course). - Family House",
       "creator": "/u/tomas125cz https://www.reddit.com/user/tomas125cz",
       "id": "a6a28573803cb7d83116b206"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Saving The Players Last Saved Position Through Places",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhypq9/saving_the_players_last_saved_position_through/",
-      "published": "2026-10-28",
-      "excerpt": "Hello All, I want to preference that I'm more trying to understand why the script doesn't save through the places more than an active script rewrite but any tips are appreciated. I currently have this script that I got through watching a YouTube tutorial as I'm still relatively new to lua. I complet",
-      "creator": "/u/IllustriousMemory231 https://www.reddit.com/user/IllustriousMemory231",
-      "id": "a572158c716aff0d13bdb9de"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Llevo rato desarrollando un juego pero no sé cómo lograr que mi juego llegue a la gente, algún consejo ?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi1i3a/llevo_rato_desarrollando_un_juego_pero_no_sé_cómo/",
-      "published": "2026-10-28",
-      "excerpt": "submitted by /u/Chemical-Reading3163 [link] [comments]",
-      "creator": "/u/Chemical-Reading3163 https://www.reddit.com/user/Chemical-Reading3163",
-      "id": "a4cb4979c713f5241fe36c3c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Where do MicroProfiler logs go and how do I clear cache and memory or localappdata of https://play.roblox.com/games/start?placeId=",
-      "url": "https://devforum.roblox.com/t/where-do-microprofiler-logs-go-and-how-do-i-clear-cache-and-memory-or-localappdata-of-httpsplayrobloxcomgamesstartplaceid/4962293",
-      "published": "2026-10-28",
-      "excerpt": "Description https://play.roblox.com/games/start?placeId= Where do captured MicroProfiler logs go when you capture it from Roblox Browser, and where can you clear the download cache and other stuff for it without clearing all the cookies? e.g. The Hollow: Roblox Web Experience Re-production Steps Mak",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/where-do-microprofiler-logs-go-and-how-do-i-clear-cache-and-memory-or-localappdata-of-httpsplayrobloxcomgamesstartplaceid/4962293.rss",
-      "id": "a4b183388bc6514343f24003"
     }
   ]
 }

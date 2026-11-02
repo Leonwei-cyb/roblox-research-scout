@@ -7,10 +7,15 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Hello, gamers!](https://www.reddit.com/r/ROBLOXStudio/comments/1xlvbao/hello_gamers/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-02
-  - Feed excerpt: I’d like to create a new game for you, and I’m curious to hear your ideas. What kind of game would you like—a tycoon, a simulator, or something else? Please share your ideas here. Thanks in advance! submitted by /u/szafka-09 \[link\] \[comment
-- **[Looking for players to try out my Roblox FPS game (FRAGIX)](https://www.reddit.com/r/ROBLOXStudio/comments/1xluxd2/looking_for_players_to_try_out_my_roblox_fps_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-02
-  - Feed excerpt: I've been working on my Roblox FPS game, FRAGIX. Looking for people to try it out! I've been putting a lot of time into this game and would really appreciate some players giving it a shot. It's a fast-paced free-for-all shooter where you ca
+- **[\[ FOR HIRE \] Expert Builder / Modeler looking for work !](https://www.reddit.com/r/ROBLOXStudio/comments/1xlvu61/for_hire_expert_builder_modeler_looking_for_work/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-02
+  - Feed excerpt: my discord --> jakartacardiana , my artstation --> https://www.artstation.com/jakartacardiana submitted by /u/PrintOk5395 \[link\] \[comments\]
+
+## Roblox Updates
+
+- **[How to list Developer Products on the Experience Store Page? (External Purchase Option Missing)](https://devforum.roblox.com/t/how-to-list-developer-products-on-the-experience-store-page-external-purchase-option-missing/4971528)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: Hi everyone, I’m trying to figure out how to get my Developer Products to appear on my game’s Experience Store page (the #!/store page), so players can buy them without joining the game first. I have followed the documentation: My products 
+- **[\[Paid\] \[Plugin\] DataMap: Total Visualized Datastore & Editor](https://devforum.roblox.com/t/paid-plugin-datamap-total-visualized-datastore-editor/4971599)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: DataMap: Visualized Datastores Hey everyone! I’ve been working on a plugin called DataMap and I think it’s finally ready to share. I’ve always liked the DataStore Editor plugin because you can edit data right from Studio, but I kept wishing
 
 ---
 
