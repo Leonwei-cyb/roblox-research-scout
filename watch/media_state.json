@@ -2307,7 +2307,11 @@
     "e420bb116a4da12be355d881",
     "a5409b99cc8764e84ec8f9d8",
     "f644c70b15484d84481f5bbf",
-    "3e7ba94d7014570dafc05fc3"
+    "3e7ba94d7014570dafc05fc3",
+    "45b606ae0b23bd0d78e6a000",
+    "33ae5f95d8828cf349a9babf",
+    "9e299b2346c85f764047edbf",
+    "d074b4933e165711224e5d5c"
   ],
   "items": [
     {
@@ -2504,6 +2508,17 @@
       "id": "d11d8724c5e96fc58dbf50bc"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[HELP] brutally honest review",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm0i4d/help_brutally_honest_review/",
+      "published": "2026-11-02",
+      "excerpt": "https://preview.redd.it/hlln28jdy7zh1.png?width=1909&format=png&auto=webp&s=fa7712422f9119c695749916fc8024ca00231d87 as the title says, i really need feedbacks from other perspectives Would you play this game? (or play it again) What do you think of the tutorial? Is the gameplay repetitive? What wou",
+      "creator": "/u/banaenae3321 https://www.reddit.com/user/banaenae3321",
+      "id": "d074b4933e165711224e5d5c"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2617,6 +2632,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/request-for-assistance-multiple-alt-account-bans-and-closed-appeal-windows-1sytex/4971702.rss",
       "id": "a5409b99cc8764e84ec8f9d8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "1v1 in musical chairs inspired gamemode",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm19hi/1v1_in_musical_chairs_inspired_gamemode/",
+      "published": "2026-11-02",
+      "excerpt": "have you ever played musical chairs with ur life on the line? gamemode is called: Rendezvous https://www.roblox.com/games/128842554068260/OVERDUE submitted by /u/slimebrowser [link] [comments]",
+      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
+      "id": "9e299b2346c85f764047edbf"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2903,6 +2929,18 @@
       "id": "4ffdee2fdfbf84cda1c36276"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game still banned nearly a month later with no response from Moderation",
+      "url": "https://devforum.roblox.com/t/game-still-banned-nearly-a-month-later-with-no-response-from-moderation/4971788",
+      "published": "2026-11-02",
+      "excerpt": "My ROBLOX game Washington, District of Columbia , is not allowing me to change my audience to public and there’s a banner saying we violated standards or something. We made the game compliant with the TextChatService API and appealed, and it’s still not letting us publish. Its been nearly a month no",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-still-banned-nearly-a-month-later-with-no-response-from-moderation/4971788.rss",
+      "id": "45b606ae0b23bd0d78e6a000"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2946,6 +2984,18 @@
       "excerpt": "been working on this roblox game, what do y’all think? https://www.roblox.com/games/90700639417957/ submitted by /u/RedWaifuu [link] [comments]",
       "creator": "/u/RedWaifuu https://www.reddit.com/user/RedWaifuu",
       "id": "39d7150e947afa2a55ec88f2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Appeals for TextChatService ban not reinstated after following ROBLOX's direction",
+      "url": "https://devforum.roblox.com/t/appeals-for-textchatservice-ban-not-reinstated-after-following-robloxs-direction/4971781",
+      "published": "2026-11-02",
+      "excerpt": "My ROBLOX game, https://www.roblox.com/games/121872407220230/STAN-WARS was initially taken down for failing to implement TextChatService appropriately. I have looked into it and realized that it is likely due to the implementation of Adonis Admin, a free Admin module that I’ve used multiple times in",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/appeals-for-textchatservice-ban-not-reinstated-after-following-robloxs-direction/4971781.rss",
+      "id": "33ae5f95d8828cf349a9babf"
     },
     {
       "source": "reddit-robloxdev",
@@ -9163,51 +9213,6 @@
       "excerpt": "Hey everyone! I’m building a transport tycoon on Roblox called Towns in Transit, and I’d love your opinions. The idea: Prices aren’t set by NPCs. Players drive the economy. Businesses make, buy and sell goods, and it’s up to you to move cargo between them and make a profit. What’s in so far: A suppl",
       "creator": "/u/Shaqqe https://www.reddit.com/user/Shaqqe",
       "id": "bd96e1fe1484c26c16365220"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Most real image of all time",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi11lp/most_real_image_of_all_time/",
-      "published": "2026-10-28",
-      "excerpt": "who ever made this we need more... submitted by /u/Character_Pear_5065 [link] [comments]",
-      "creator": "/u/Character_Pear_5065 https://www.reddit.com/user/Character_Pear_5065",
-      "id": "bcdc7d777a733985aef32361"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Native canyon feedback",
-      "url": "https://devforum.roblox.com/t/native-canyon-feedback/4963331",
-      "published": "2026-10-28",
-      "excerpt": "I built this in a style trying to be kinda Polynesian, based on the models. I’m kinda blanking on what I should put in the middle areas due to not having many references for what traditional Polynesian furniture looked like. Any ideas? 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/native-canyon-feedback/4963331.rss",
-      "id": "ba0b17019f70db4eed72e3d9"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Help with Robux transfer cancellation/fail recognition",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhfma4/help_with_robux_transfer_cancellationfail/",
-      "published": "2026-10-28",
-      "excerpt": "My game has a system that gives limited quantity items to players who send Robux to other players to other players through the Robux transfer system. Due to the fact that the items that players get for sending Robux are limited, the current system works like this in an effort to stop the same item f",
-      "creator": "/u/Independent-Okra7985 https://www.reddit.com/user/Independent-Okra7985",
-      "id": "b9861cd25a6cc06ed4145680"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "What is the best way to promote a game if you have no money?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhgmv0/what_is_the_best_way_to_promote_a_game_if_you/",
-      "published": "2026-10-28",
-      "excerpt": "This question has been on my mind for a while and I was wondering if there's anything else you can do than to pay Roblox to push your game out and obviously I'm not broke I'm just wondering submitted by /u/alinota445 [link] [comments]",
-      "creator": "/u/alinota445 https://www.reddit.com/user/alinota445",
-      "id": "b4b28ce301a225ecafd1f575"
     }
   ]
 }
