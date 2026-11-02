@@ -2,7 +2,7 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [Xuchen-Li/cv-arxiv-daily](https://github.com/Xuchen-Li/cv-arxiv-daily) (48 stars). Automatically update arXiv papers about SOT & VLT,  Multi-modal Learning, LLM and Video Understanding using Github Actions.
-- **Unreviewed lead:** [cnlinxi/LLM-paper-daily](https://github.com/cnlinxi/LLM-paper-daily) (11 stars). Automatically Update LLM Papers Daily using Github Actions. Ref: https://github.com/Vincentqyw/cv-arxiv-daily
+- **Source updated:** [Roblox/luau](https://github.com/Roblox/luau) — Report type error when iterating over type containing tables that is not itself a subtype of 'table' (#3090).
+- **Source updated:** [anthropics/claude-code](https://github.com/anthropics/claude-code) — Merge pull request #106583 from anthropics/claude/gh-triage-workflows-5-5-m7kir1.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

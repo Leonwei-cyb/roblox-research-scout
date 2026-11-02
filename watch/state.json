@@ -49,8 +49,8 @@
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "2a3d8937c19c8fd9f7b72b6ec9068c62760e6588",
-      "head_subject": "Sync to upstream/release/745 (#3093)",
+      "head": "e3275c20972d97fd5b230b89b742770064004256",
+      "head_subject": "Report type error when iterating over type containing tables that is not itself a subtype of 'table' (#3090)",
       "name": "Roblox/luau",
       "release_tag": "0.745",
       "release_url": "https://github.com/luau-lang/luau/releases/tag/0.745",
@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "f0b737f94f3b09bafd851ce47414f9877e06922e",
-      "head_subject": "chore: Update mods/",
+      "head": "1a0f9a9d18e1272d3fbaa817d192b6b057bba623",
+      "head_subject": "Merge pull request #106583 from anthropics/claude/gh-triage-workflows-5-5-m7kir1",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.316",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",

@@ -8,7 +8,6 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[My animation is not loading!](https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/)** — Community showcase post (video not confirmed) · 2026-10-30
 - **[🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun?](https://www.reddit.com/r/robloxgamedev/comments/1xl3fj4/looking_for_roblox_playtesters_16_which_shark/)** — Community showcase post (video not confirmed) · 2026-11-01
 - **[Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card arts and animat](https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/)** — Community showcase post (video not confirmed) · 2026-10-30
-- **[Is there an AI capable of creating flashy animations?](https://www.reddit.com/r/robloxgamedev/comments/1xhvzn2/is_there_an_ai_capable_of_creating_flashy/)** — Community showcase post (video not confirmed) · 2026-10-28
 - **[🎮 Looking for FREE Playtesters — Roblox Mining Adventure!](https://www.reddit.com/r/robloxgamedev/comments/1xlngiw/looking_for_free_playtesters_roblox_mining/)** — Community showcase post (video not confirmed) · 2026-11-02
 - **[Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)](https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/)** — Community showcase post (video not confirmed) · 2026-10-29
 - **[Playtest mine I’ll test yours!](https://www.reddit.com/r/ROBLOXStudio/comments/1xia0zb/playtest_mine_ill_test_yours/)** — Community showcase post (video not confirmed) · 2026-10-29
@@ -18,6 +17,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[I'm a playtester, and I'd love to test your game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xjy54c/im_a_playtester_and_id_love_to_test_your_game/)** — Community showcase post (video not confirmed) · 2026-10-31
 - **[Playtesters, I SUMMON THEEE](https://www.reddit.com/r/ROBLOXStudio/comments/1xjzd66/playtesters_i_summon_theee/)** — Community showcase post (video not confirmed) · 2026-10-31
 - **[I'm a playtester, and I'd love to test your game!](https://www.reddit.com/r/robloxgamedev/comments/1xkvett/im_a_playtester_and_id_love_to_test_your_game/)** — Community showcase post (video not confirmed) · 2026-11-01
+- **[Looking for a few playtesters for my Roblox physics game! 🚚](https://www.reddit.com/r/robloxgamedev/comments/1xle84u/looking_for_a_few_playtesters_for_my_roblox/)** — Community showcase post (video not confirmed) · 2026-11-01
 
 ## Coverage gap
 
