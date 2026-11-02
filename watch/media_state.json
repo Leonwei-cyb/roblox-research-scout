@@ -2239,9 +2239,22 @@
     "c38cd3150654e116b4fc7a2e",
     "c8901310733a0d9d8efcc3a7",
     "8405d53a67933440bb7d3fc4",
-    "5d623a7b0f7649c6d64f9ae8"
+    "5d623a7b0f7649c6d64f9ae8",
+    "a9fb88dbf5ac924fd754540a",
+    "f54bce023b6f91cfeeaed096"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Mobile optimization question",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkwxu/mobile_optimization_question/",
+      "published": "2026-11-02",
+      "excerpt": "So I’m making a game right now with cool game mechanics the problem is I don’t exactly know how I’d implement them for mobile while keeping the game fun and movement system smooth, I know a large majority of the player base is mobile but if I target my game for older users who I’m assuming use PC an",
+      "creator": "/u/BrotatoGalileo https://www.reddit.com/user/BrotatoGalileo",
+      "id": "f54bce023b6f91cfeeaed096"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -2260,7 +2273,7 @@
       "title": "RENDEZVOUS, Musical chairs inspired gamemode",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlksih/rendezvous_musical_chairs_inspired_gamemode/",
       "published": "2026-11-02",
-      "excerpt": "would u guys play something like this? submitted by /u/slimebrowser [link] [comments]",
+      "excerpt": "Grab a book, secure a seat or get eliminated. would you guys play smth like this? submitted by /u/slimebrowser [link] [comments]",
       "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
       "id": "c8901310733a0d9d8efcc3a7"
     },
@@ -2275,6 +2288,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952.rss",
       "id": "c38cd3150654e116b4fc7a2e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I added Mounts to my Roblox RPG!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xllf2w/i_added_mounts_to_my_roblox_rpg/",
+      "published": "2026-11-02",
+      "excerpt": "Growing up, I loved playing multiplayer RPGs where you could earn cool flex drops like a Mount or a rare Pet/Aura. It's really actualizing to come full circle and add such a mechanic to a game of my own. submitted by /u/existential-asthma [link] [comments]",
+      "creator": "/u/existential-asthma https://www.reddit.com/user/existential-asthma",
+      "id": "a9fb88dbf5ac924fd754540a"
     },
     {
       "source": "reddit-robloxdev",
@@ -9124,29 +9148,6 @@
       "excerpt": "Hello everyone! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested submitted by /u/WinReasonable3771 [link] [comments]",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "627572ba10928c1d0fd34721"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for 16+ testers for two arcade MVP games (Will test yours back!)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhnlfu/looking_for_16_testers_for_two_arcade_mvp_games/",
-      "published": "2026-10-28",
-      "excerpt": "Hey everyone, I’ve recently pushed out two small arcade MVP games, but as a solo dev dealing with the new platform restrictions, I'm currently stuck trying to clear the initial 250-player threshold to unlock organic traffic for under-16 users. The games are currently running smoothly for our 16+ tes",
-      "creator": "/u/Old_Eye_9624 https://www.reddit.com/user/Old_Eye_9624",
-      "id": "6044a83aa9dfaffff723beb2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "AutoLocalize doesn't seem to detect strings with RichText tags",
-      "url": "https://devforum.roblox.com/t/autolocalize-doesnt-seem-to-detect-strings-with-richtext-tags/4963129",
-      "published": "2026-10-28",
-      "excerpt": "The following instance is created at runtime in-game and contains localizable text on a TextLabel with AutoLocalize=true, however we don’t seem to be detecting it or any other strings with RichText tags. Expected behavior I expect it to capture the “ContentText” field 1 post - 1 participant Read ful",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/autolocalize-doesnt-seem-to-detect-strings-with-richtext-tags/4963129.rss",
-      "id": "5ddae1833065532fec48a389"
     }
   ]
 }

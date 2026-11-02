@@ -7,19 +7,10 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Need some clarification regarding engagement ads](https://www.reddit.com/r/robloxgamedev/comments/1xlkf99/need_some_clarification_regarding_engagement_ads/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: https://preview.redd.it/9d8niceyr3zh1.png?width=830&format=png&auto=webp&s=edd732720d4413f992171f6cb12f534ffb893bfd Hello! I'm a developer for a game that's currently running ads for the first time, and I realized that the current # impress
-- **[RENDEZVOUS, Musical chairs inspired gamemode](https://www.reddit.com/r/robloxgamedev/comments/1xlksih/rendezvous_musical_chairs_inspired_gamemode/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: would u guys play something like this? submitted by /u/slimebrowser \[link\] \[comments\]
-- **[TRYING TO GET MY CCRP NOTICED](https://www.reddit.com/r/robloxgamedev/comments/1xlkn3j/trying_to_get_my_ccrp_noticed/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: What is the best way to get my game out there and noticed by the community and youtubers then also gain traction from potential investors. someone please help as some advice would be nice. submitted by /u/DrKozlon \[link\] \[comments\]
-
-## Roblox Updates
-
-- **[I still don't have quick words despite being in the US](https://devforum.roblox.com/t/i-still-dont-have-quick-words-despite-being-in-the-us/4970955)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: I still don’t have the quick words feature despite being in the united states I don’t even see gameplay coordination in my settings I have chat summaries and voice typing but still no access to quick words but I see the option to make custo
-- **[Video Ads Close Button sometimes does not work](https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: When I finish watching an ad and I press the X to close it, I have to spam press it many times to get it to close. Previously, ads would immediately close upon finishing but I was told this is intentional behaviour, I believe this should re
+- **[I added Mounts to my Roblox RPG!](https://www.reddit.com/r/robloxgamedev/comments/1xllf2w/i_added_mounts_to_my_roblox_rpg/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: Growing up, I loved playing multiplayer RPGs where you could earn cool flex drops like a Mount or a rare Pet/Aura. It's really actualizing to come full circle and add such a mechanic to a game of my own. submitted by /u/existential-asthma \[
+- **[Mobile optimization question](https://www.reddit.com/r/robloxgamedev/comments/1xlkwxu/mobile_optimization_question/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: So I’m making a game right now with cool game mechanics the problem is I don’t exactly know how I’d implement them for mobile while keeping the game fun and movement system smooth, I know a large majority of the player base is mobile but if
 
 ---
 
