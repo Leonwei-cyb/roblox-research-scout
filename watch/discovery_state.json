@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-11-01T22:27:58Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -216,6 +215,19 @@
       },
       "etag": "\"4e7ffa328b885aa14e7f1780e5d4f6d119bbf0bd31eaacc166a0b20ab4c59b01\""
     },
+    "https://api.github.com/repos/e2b-dev/awesome-ai-agents/git/trees/9596ab1e69fbbb6c95291141c8dab5c181083216?recursive=1": {
+      "data": {
+        "manifests": [],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [],
+        "tests": 0,
+        "tests_sample": [],
+        "truncated": false
+      },
+      "etag": "\"6a3e76892ef4731d888f967edafb354c399887a479abe12e94317d5d50fd5f19\""
+    },
     "https://api.github.com/repos/keyonzeng/prompt_ark/git/trees/8d4c1b36fd11bc0cf653c3b95cbca276c9c95ccb?recursive=1": {
       "data": {
         "manifests": [
@@ -277,36 +289,7 @@
         "truncated": false
       },
       "etag": "\"7e4da5f2a44a43cb0dcb03f16f8c6076fa0b873b808552290ff40a76f875313d\""
-    },
-    "https://api.github.com/repos/totec448-spec/chat-on-steroids/git/trees/7565eb31df2023cdee4f4eea59ffd386cfaee584?recursive=1": {
-      "data": {
-        "manifests": [
-          "package.json",
-          "extension/manifest.json"
-        ],
-        "readme": [
-          "README.md"
-        ],
-        "sources": [
-          "extension/active-tabs.js",
-          "extension/browser-control-page.js",
-          "extension/browser-control.js",
-          "scripts/verify-active-tabs.mjs",
-          "scripts/verify-background-process-dock.cjs",
-          "scripts/verify-browser-bridge-port.mjs"
-        ],
-        "tests": 485,
-        "tests_sample": [
-          "docs/superpowers/specs/2026-10-11-app-id-attribution-design.md",
-          "docs/superpowers/specs/2026-10-11-tab-group-placement-design.md",
-          "test/active-tabs.test.ts",
-          "test/age.test.ts",
-          "test/agent-activity.test.ts"
-        ],
-        "truncated": false
-      },
-      "etag": "\"e27451545ba4395534d4da1c1a24fd2b8a0b9d45e3c86927c2a17108a210eb02\""
     }
   },
-  "last_run": "2026-11-01T22:26:59Z"
+  "last_run": "2026-11-02T05:00:05Z"
 }
