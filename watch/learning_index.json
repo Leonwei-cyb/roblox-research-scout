@@ -82,21 +82,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhn9d2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhn9d2/my_friend_and_i_made_our_first_roblox_game_our_ad/",
-      "title": "My friend and I made our first Roblox game – our ad brought players, but we can't figure out why they leave. Honest feedback?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xhrb99",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhrb99/made_a_1_mining_simulator_solo_looking_for_honest/",
       "title": "Made a +1 mining simulator solo — looking for honest feedback and testers before launch",
@@ -855,6 +840,20 @@
       "signals": [
         "first-session and mobile",
         "animation and audio"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4971644:1",
+      "url": "https://devforum.roblox.com/t/999-car-pack-10-low-poly-driveable-cars-pc-mobile-console/4971644",
+      "title": "[$9.99] Car Pack | 10 Low Poly Driveable Cars (PC, Mobile & Console)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -4299,6 +4298,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4971635:1",
+      "url": "https://devforum.roblox.com/t/sudden-type-change-on-my-ugc-accessories/4971635",
+      "title": "Sudden \"Type\" Change on my UGC accessories",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhb06u",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhb06u/summon_system_for_my_upcoming_roblox_game/",
       "title": "Summon system for my upcoming roblox game",
@@ -4372,19 +4384,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xi40s3",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi40s3/are_you_looking_for_a_playtester/",
-      "title": "Are you looking for a playtester?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5040,6 +5039,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xlxgdk",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlxgdk/my_euphoria_inspired_ragdoll_system/",
+      "title": "My Euphoria inspired ragdoll system",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xlxrbl",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlxrbl/im_a_playtester_can_i_test_your_game/",
+      "title": "I'm a playtester, can i test your game?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4961412:1",
       "url": "https://devforum.roblox.com/t/rbx-worker-c-thread-30-gigabyte-request-streaming-crash/4961412",
       "title": "\"RBX Worker C\" Thread 30 Gigabyte Request (Streaming Crash)",
@@ -5065,17 +5090,6 @@
       "key": "devforum:4961663:1",
       "url": "https://devforum.roblox.com/t/multiple-stolen-copies-of-my-original-ugc-%E2%80%9Cwaist-the-killer-jester%E2%80%9D-including-by-a-verified-group/4961663",
       "title": "Multiple stolen copies of my original UGC “Waist | The Killer Jester” (including by a verified group)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4961771:1",
-      "url": "https://devforum.roblox.com/t/home-recommendations-buggedacting-weird/4961771",
-      "title": "Home Recommendations Bugged/Acting Weird",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
@@ -6166,17 +6180,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhchmv/i_need_someone_to_test_the_game/",
       "title": "I need someone to test the game",
       "source": "reddit-robloxstudio",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhdnbs",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhdnbs/do_you_guys_think_my_game_idea_is_good_would_you/",
-      "title": "Do you guys think my game idea is good? Would you play a game like this?",
-      "source": "reddit-robloxdev",
       "published": "2026-10-28",
       "kind": "reddit",
       "signals": [],

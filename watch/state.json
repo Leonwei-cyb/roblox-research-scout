@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "b2ea4da3db1fc1f2272a6f11841d51be0ece32f3",
-      "head_subject": "Docs - Use explicit container registry (#4648)",
+      "head": "ec81dce7828996242723466299fb651ac6e9fafe",
+      "head_subject": "MCP - history tools: list_snapshots, find_change (Watch.find_change) and get_history (snapshots as diffs) (#4649)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "d3c4e1d075a0a689b74b8329c5055ef30ee17509",
-      "head_subject": "Merge pull request #3824 from huginn/update-aged-gems",
+      "head": "3f235626d35375f0a4372a8fca91cef7996e8feb",
+      "head_subject": "Merge pull request #3825 from huginn/actions-lock-migration",
       "name": "huginn/huginn",
       "release_tag": "v2026.11.01",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.01",
