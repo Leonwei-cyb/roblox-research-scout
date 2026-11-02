@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) — Fix overlapping saved search references (#9484).
+- **Release:** [huginn/huginn](https://github.com/huginn/huginn) v2026.10.26 → v2026.11.01.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 597,
+  "unique_posts": 598,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -202,20 +202,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4962101:1",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-first-gamesandbox-tycoon/4962101",
-      "title": "Looking for feedback on my first game(Sandbox Tycoon)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4963339:1",
       "url": "https://devforum.roblox.com/t/encore-a-synced-music-player-that-looks-built-into-roblox/4963339",
       "title": "Encore | A synced music player that looks built into Roblox",
@@ -341,20 +327,6 @@
       "signals": [
         "building and purchases",
         "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhu422",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhu422/how_do_i_change_an_animation_depending_on_if_the/",
-      "title": "how do i change an animation depending on if the player is holding something?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "player feedback and marketing"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -578,6 +550,21 @@
         "genres and successful loops",
         "player feedback and marketing",
         "tools and performance"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xlj9c8",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlj9c8/i_made_a_multiplayer_roblox_game_about_stealing/",
+      "title": "I made a multiplayer Roblox game about stealing crops and bidding on critters. Looking for honest feedback on the first 5 minutes",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "genres and successful loops",
+        "player feedback and marketing"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -1384,32 +1371,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963113:1",
-      "url": "https://devforum.roblox.com/t/heavy-lags-due-to-high-memory/4963113",
-      "title": "Heavy lags due to high memory",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963126:1",
-      "url": "https://devforum.roblox.com/t/i-cant-buy-roblox-plus-1000-with-paypal/4963126",
-      "title": "I CAN'T BUY ROBLOX PLUS 1000 WITH PAYPAL",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2279,6 +2240,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4970652:1",
+      "url": "https://devforum.roblox.com/t/game-reviews-and-feedback-needed/4970652",
+      "title": "Game Reviews and Feedback Needed",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4970750:1",
+      "url": "https://devforum.roblox.com/t/studio-mcp-glitching/4970750",
+      "title": "Studio MCP Glitching",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4970756:1",
+      "url": "https://devforum.roblox.com/t/i-want-to-become-a-sound-designer-genxgamer0415/4970756",
+      "title": "\"I Want to Become A Sound Designer\" - genXgamer0415",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xha75k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xha75k/would_this_work_if_i_made_an_animation_for_a_game/",
       "title": "would this work if i made an animation for a game?",
@@ -2305,19 +2305,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhdh8w",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhdh8w/tips_for_animation/",
-      "title": "Tips for animation?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xhets0",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhets0/recruiting_looking_for_developers_to_build/",
       "title": "[recruiting] looking for developers to build profitable roblox games with ai",
@@ -2326,21 +2313,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhfc1x",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhfc1x/looking_for_devs_to_help_me_make_a_battlegrounds/",
-      "title": "Looking for devs to help me make a battlegrounds game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2375,19 +2347,6 @@
       "key": "reddit:1xhliwi",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhliwi/my_first_game_feedback/",
       "title": "My first game feedback",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhqbvl",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhqbvl/how_much_should_i_spend_on_ads/",
-      "title": "How much should I spend on ads?",
       "source": "reddit-robloxdev",
       "published": "2026-10-28",
       "kind": "reddit",
@@ -3006,6 +2965,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xlh71n",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlh71n/im_making_a_coaster_building_game/",
+      "title": "I'm making a coaster building game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4961959:1",
       "url": "https://devforum.roblox.com/t/more-detailed-dislike-analytics-in-creator-dashboard/4961959",
       "title": "More Detailed Dislike Analytics in Creator Dashboard",
@@ -3253,6 +3225,20 @@
       "signals": [
         "world and visual design",
         "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4970878:1",
+      "url": "https://devforum.roblox.com/t/sinister-w-cant-be-bought/4970878",
+      "title": "Sinister W cant be bought",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "UI and menus"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3608,19 +3594,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4961547:1",
-      "url": "https://devforum.roblox.com/t/verified-checkmark-is-oversized-in-playerlist/4961547",
-      "title": "Verified Checkmark Is Oversized in Playerlist",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4962011:1",
       "url": "https://devforum.roblox.com/t/reminder-your-rng-logic-can-still-be-broken/4962011",
       "title": "Reminder: Your RNG Logic Can Still Be Broken",
@@ -3660,19 +3633,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4962930:1",
-      "url": "https://devforum.roblox.com/t/is-there-a-way-to-disable-2d-clothing-being-blurry-when-like-few-studs-away/4962930",
-      "title": "Is there a way to disable 2D clothing being blurry when like few studs away?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4962957:1",
       "url": "https://devforum.roblox.com/t/robux-have-been-pending-for-an-unreasonable-amount-of-time/4962957",
       "title": "Robux have been pending for an unreasonable amount of time.",
@@ -3681,19 +3641,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963301:1",
-      "url": "https://devforum.roblox.com/t/my-tool-wont-save-and-gets-turned-nil/4963301",
-      "title": "My tool wont save and gets turned nil",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4245,6 +4192,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4970738:1",
+      "url": "https://devforum.roblox.com/t/fixing-character-delay-on-moving-train/4970738",
+      "title": "Fixing character delay on moving train",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4970810:1",
+      "url": "https://devforum.roblox.com/t/will-my-plus-renew-with-credit/4970810",
+      "title": "Will My Plus Renew With Credit?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhb06u",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhb06u/summon_system_for_my_upcoming_roblox_game/",
       "title": "Summon system for my upcoming roblox game",
@@ -4297,19 +4270,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhgygu",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhgygu/i_have_a_game_idea_and_i_need_devs/",
-      "title": "I have a game idea and i need devs",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xhiaom",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhiaom/looking_for_playtester/",
       "title": "Looking for PlayTester?",
@@ -4344,19 +4304,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhnm8y",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhnm8y/my_first_roblox_game/",
-      "title": "My first roblox game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5113,17 +5060,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4961975:1",
-      "url": "https://devforum.roblox.com/t/benchmarks-overview-7-day-average-is-broken/4961975",
-      "title": "Benchmarks overview 7 day average is broken",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4962200:1",
       "url": "https://devforum.roblox.com/t/robloxs-ai-moderation-may-violate-the-eu-dsa-article-17-and-article-53/4962200",
       "title": "Roblox's AI Moderation May Violate the EU DSA: Article 17 and Article 53",
@@ -5157,17 +5093,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4962553:1",
-      "url": "https://devforum.roblox.com/t/import-from-file-context-option-gone-all-of-a-sudden-in-explorer/4962553",
-      "title": "'Import from file' context option gone all of a sudden in explorer?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4962717:1",
       "url": "https://devforum.roblox.com/t/major-tos-discrepancy/4962717",
       "title": "Major TOS Discrepancy",
@@ -5182,17 +5107,6 @@
       "key": "devforum:4962794:1",
       "url": "https://devforum.roblox.com/t/virusbackdoor-alert-what-is-pose-texture/4962794",
       "title": "{VIRUS/BACKDOOR ALERT} What is \"Pose Texture\"?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4962963:1",
-      "url": "https://devforum.roblox.com/t/am-i-doing-error-handling-decently/4962963",
-      "title": "Am i doing error handling decently?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
@@ -6213,6 +6127,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4970683:1",
+      "url": "https://devforum.roblox.com/t/800000-robux-stuck-in-limbo/4970683",
+      "title": "800000 robux stuck in limbo",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4970709:1",
+      "url": "https://devforum.roblox.com/t/hiring-community-management-scouts-payment-usd-robux/4970709",
+      "title": "Hiring Community Management Scouts | Payment USD & Robux",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4970714:1",
+      "url": "https://devforum.roblox.com/t/my-yet-unnamed-weather-module/4970714",
+      "title": "My yet-unnamed weather module",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-01",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhb15s",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhb15s/i_updated_my_gibbing_added_blood/",
       "title": "I Updated my gibbing / added blood",
@@ -6304,17 +6251,6 @@
       "key": "reddit:1xhgmv0",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhgmv0/what_is_the_best_way_to_promote_a_game_if_you/",
       "title": "What is the best way to promote a game if you have no money?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhhprb",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhhprb/i_cant_lock_in/",
-      "title": "I cant lock in.",
       "source": "reddit-robloxdev",
       "published": "2026-10-28",
       "kind": "reddit",
@@ -7401,6 +7337,61 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xleq8u",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xleq8u/game_peaked_at_13k_ccu/",
+      "title": "Game peaked at 13k ccu!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xlgbaa",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlgbaa/100_hep_requirement_reduction/",
+      "title": "100 HEP Requirement Reduction",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xlhb94",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlhb94/152_year_modelling_difference/",
+      "title": "1.5-2 Year modelling difference",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xlhrr8",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlhrr8/need_help_for_big_project_dream/",
+      "title": "Need help for big project dream",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-01",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xljhwf",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xljhwf/this_is_my_new_game_vantex_if_youd_like_to_test/",
+      "title": "This is my new game, Vantex. If you’d like to test it out. Thank you all!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE14ZGs4WHM3WkJhYUJXSGtvZWJHeW83WHBBczgzTnczeU9PZ1ZwcFZ5ZG1pMWdESzd3OGt0RFNsaWhxRVVoZkZ4X09nOVB4cGtrU1U0MmZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ZGs4WHM3WkJhYUJXSGtvZWJHeW83WHBBczgzTnczeU9PZ1ZwcFZ5ZG1pMWdESzd3OGt0RFNsaWhxRVVoZkZ4X09nOVB4cGtrU1U0MmZB?oc=5",
       "title": "Steal An Egg Update Jonas Brothers LIVE! #roblox #stealanegg #new #update #jonasbrotherlive - Instagram",
@@ -7409,6 +7400,19 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1fTm9jekpQbElFcUVWSzd4REhBRjhCbW1JazZacEZDaG1HUG0zbzQtXzZ1cjNJc3NPQTUwNG9zOFQ1d0tQNG1GQzFZOE5jQ3hVMWRhdkJn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fTm9jekpQbElFcUVWSzd4REhBRjhCbW1JazZacEZDaG1HUG0zbzQtXzZ1cjNJc3NPQTUwNG9zOFQ1d0tQNG1GQzFZOE5jQ3hVMWRhdkJn?oc=5",
+      "title": "How to Connect Claude AI to Roblox Studio Updated - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-01",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
