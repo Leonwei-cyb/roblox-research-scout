@@ -2234,7 +2234,12 @@
     "50449d4c1e87b88e38028bab",
     "942b7b713bc75e29728dc020",
     "d0557ca347ea28f55cbb7fad",
-    "da27b6f1cf0d02eb543efd63"
+    "da27b6f1cf0d02eb543efd63",
+    "0d33dba45277a4e92ed16706",
+    "c38cd3150654e116b4fc7a2e",
+    "c8901310733a0d9d8efcc3a7",
+    "8405d53a67933440bb7d3fc4",
+    "5d623a7b0f7649c6d64f9ae8"
   ],
   "items": [
     {
@@ -2252,12 +2257,57 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "RENDEZVOUS, Musical chairs inspired gamemode",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlksih/rendezvous_musical_chairs_inspired_gamemode/",
+      "published": "2026-11-02",
+      "excerpt": "would u guys play something like this? submitted by /u/slimebrowser [link] [comments]",
+      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
+      "id": "c8901310733a0d9d8efcc3a7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Video Ads Close Button sometimes does not work",
+      "url": "https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952",
+      "published": "2026-11-02",
+      "excerpt": "When I finish watching an ad and I press the X to close it, I have to spam press it many times to get it to close. Previously, ads would immediately close upon finishing but I was told this is intentional behaviour, I believe this should return as the ad button does not work properly most of the tim",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952.rss",
+      "id": "c38cd3150654e116b4fc7a2e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "This is my new game, Vantex. If you’d like to test it out. Thank you all!",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xljhwf/this_is_my_new_game_vantex_if_youd_like_to_test/",
       "published": "2026-11-02",
       "excerpt": "Please criticize all you want so I can make it better and better. Thanks again! submitted by /u/Chrispy_650 [link] [comments]",
       "creator": "/u/Chrispy_650 https://www.reddit.com/user/Chrispy_650",
       "id": "942b7b713bc75e29728dc020"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "TRYING TO GET MY CCRP NOTICED",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkn3j/trying_to_get_my_ccrp_noticed/",
+      "published": "2026-11-02",
+      "excerpt": "What is the best way to get my game out there and noticed by the community and youtubers then also gain traction from potential investors. someone please help as some advice would be nice. submitted by /u/DrKozlon [link] [comments]",
+      "creator": "/u/DrKozlon https://www.reddit.com/user/DrKozlon",
+      "id": "8405d53a67933440bb7d3fc4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Need some clarification regarding engagement ads",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkf99/need_some_clarification_regarding_engagement_ads/",
+      "published": "2026-11-02",
+      "excerpt": "https://preview.redd.it/9d8niceyr3zh1.png?width=830&format=png&auto=webp&s=edd732720d4413f992171f6cb12f534ffb893bfd Hello! I'm a developer for a game that's currently running ads for the first time, and I realized that the current # impressions and CPC is abnormally high. I've seen other developers ",
+      "creator": "/u/SomeoneNoobyYT https://www.reddit.com/user/SomeoneNoobyYT",
+      "id": "5d623a7b0f7649c6d64f9ae8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2270,6 +2320,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sinister-w-cant-be-bought/4970878.rss",
       "id": "569e5c5c13a517578fd7d008"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I still don't have quick words despite being in the US",
+      "url": "https://devforum.roblox.com/t/i-still-dont-have-quick-words-despite-being-in-the-us/4970955",
+      "published": "2026-11-02",
+      "excerpt": "I still don’t have the quick words feature despite being in the united states I don’t even see gameplay coordination in my settings I have chat summaries and voice typing but still no access to quick words but I see the option to make custom quick words when I am in the creator hub editing one of my",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-still-dont-have-quick-words-despite-being-in-the-us/4970955.rss",
+      "id": "0d33dba45277a4e92ed16706"
     },
     {
       "source": "reddit-robloxdev",
@@ -9085,63 +9147,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/autolocalize-doesnt-seem-to-detect-strings-with-richtext-tags/4963129.rss",
       "id": "5ddae1833065532fec48a389"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Looking for Co-Developer]",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3per/looking_for_codeveloper/",
-      "published": "2026-10-28",
-      "excerpt": "Roblox Game Looking for a co-developer for my nearly completed Roblox game, primarily a scripter. No experience required, and vibe coding is welcome as long as you’re willing to research, learn, and improve. DM me if interested! submitted by /u/Feeling_Fan_9246 [link] [comments]",
-      "creator": "/u/Feeling_Fan_9246 https://www.reddit.com/user/Feeling_Fan_9246",
-      "id": "5a8ff416920a5b21d1a7b90c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My first game feedback",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhliwi/my_first_game_feedback/",
-      "published": "2026-10-28",
-      "excerpt": "I need players to test my game but for free. Is there any volunteer submitted by /u/Responsible_Data3383 [link] [comments]",
-      "creator": "/u/Responsible_Data3383 https://www.reddit.com/user/Responsible_Data3383",
-      "id": "596a3f219f34f0cd47654eea"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Just a console warning",
-      "url": "https://devforum.roblox.com/t/just-a-console-warning/4961417",
-      "published": "2026-10-28",
-      "excerpt": "I was using the assistant and gave it a good prompt and after a while this warning happened in the console: 00:26:05.402 [Roblox][Assistant.Assistant.Src.Components.Contexts.StudioLLM.StudioLLMRequest] [StudioLLMRequest] notification seq=26 never arrived after 20s; resuming at seq=667 (641 event(s) ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/just-a-console-warning/4961417.rss",
-      "id": "5916689c21d6672bd74b6928"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I Updated my gibbing / added blood",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhb15s/i_updated_my_gibbing_added_blood/",
-      "published": "2026-10-28",
-      "excerpt": "really really really goery 😮😮 submitted by /u/No_Application6917 [link] [comments]",
-      "creator": "/u/No_Application6917 https://www.reddit.com/user/No_Application6917",
-      "id": "58514cd28937463486e676e3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Account registration fails to apply gendered head shapes to the Stevie Standard head.",
-      "url": "https://devforum.roblox.com/t/account-registration-fails-to-apply-gendered-head-shapes-to-the-stevie-standard-head/4961386",
-      "published": "2026-10-28",
-      "excerpt": "When a brand-new user signs up for Roblox, they automatically get either the default “Bacon Hair” (Pal Hair) or the default “Acorn Hair” avatar bundle, depending on the gender selected on signup. Following the dynamic head migration, these starter bundles have been updated to use the Stevie Standard",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/account-registration-fails-to-apply-gendered-head-shapes-to-the-stevie-standard-head/4961386.rss",
-      "id": "506d85b1ee732b095abca9bc"
     }
   ]
 }

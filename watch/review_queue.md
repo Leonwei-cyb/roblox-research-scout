@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Obby Music – 68 AI-generated instrumental world music tracks in the Creator Store (exploration, hubs, open-world, menus)](https://devforum.roblox.com/t/obby-music-%E2%80%93-68-ai-generated-instrumental-world-music-tracks-in-the-creator-store-exploration-hubs-open-world-menus/4969550)** — Public text/page, video not confirmed
+- **[Video Ads Close Button sometimes does not work](https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
