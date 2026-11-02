@@ -2271,7 +2271,20 @@
     "3d711b24b7609d2607dfc51c",
     "a795d27bc55b4f15f7caf1e2",
     "fe122225b9edf71cb3a26f5d",
-    "d3614974a18dd9aa193d725a"
+    "d3614974a18dd9aa193d725a",
+    "6d73168e2646aa6173426d15",
+    "e8895f60fe4aa447ca19face",
+    "31708674f7b05864c53d13cc",
+    "845e67dd4c61eef7ad657350",
+    "45ee0de3c02e0f0f4cb18d37",
+    "be87a511878e2ea02ff3c6f1",
+    "125c75aa955d050d3a26d1dc",
+    "5f224cc6f174a7d58f86c5df",
+    "99f825015d55399e864940b5",
+    "ce3b20287d6bbcb52445f65c",
+    "f0fffaa3df2453e3431a302c",
+    "0a89fe82dcac56e7e32e0a45",
+    "f4df7bf2894a5212610b4aae"
   ],
   "items": [
     {
@@ -2318,6 +2331,28 @@
       "excerpt": "So I’m making a game right now with cool game mechanics the problem is I don’t exactly know how I’d implement them for mobile while keeping the game fun and movement system smooth, I know a large majority of the player base is mobile but if I target my game for older users who I’m assuming use PC an",
       "creator": "/u/BrotatoGalileo https://www.reddit.com/user/BrotatoGalileo",
       "id": "f54bce023b6f91cfeeaed096"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I need your honest review",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlmham/i_need_your_honest_review/",
+      "published": "2026-11-02",
+      "excerpt": "Hey everyone! 👋 I've recently created my first Roblox game called Ballhalla , and I'd really appreciate some honest feedback! I'm currently running ads, but I'm struggling to get players to stick around, and I'm honestly not sure what I'm doing wrong. I'd love to hear your thoughts on the gameplay. ",
+      "creator": "/u/VisRank https://www.reddit.com/user/VisRank",
+      "id": "f0fffaa3df2453e3431a302c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I made a Roblox anomaly game about selling burgers in space and I'd love your honest opinion",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlq7r8/i_made_a_roblox_anomaly_game_about_selling/",
+      "published": "2026-11-02",
+      "excerpt": "Hey! So I made a Roblox minigame where you're running a burger kitchen in space, and then things go wrong and your kitchen gets stuck to an abandoned space station. It's an anomaly game, so weird stuff starts showing up, and you also have to deal with problems like the lights, oxygen and power faili",
+      "creator": "/u/Fun_Ball_5029 https://www.reddit.com/user/Fun_Ball_5029",
+      "id": "e8895f60fe4aa447ca19face"
     },
     {
       "source": "reddit-robloxdev",
@@ -2431,6 +2466,17 @@
       "id": "a795d27bc55b4f15f7caf1e2"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Can I get help with animation?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlnbcs/can_i_get_help_with_animation/",
+      "published": "2026-11-02",
+      "excerpt": "I'm new to Lua and I'm trying to add animations to a model so that he will both aim, but also rest the gun while aiming. I used eclipse to create the animations already, and I uploaded them and got their IDs, I just don't know how to make the scripts. A guide (especially one that walks me through) w",
+      "creator": "/u/SolidSnakeFan177 https://www.reddit.com/user/SolidSnakeFan177",
+      "id": "99f825015d55399e864940b5"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2474,6 +2520,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dockable-studio-widgets-for-plugins-title-bar-color-has-black-text-on-dark-charcoal-background-which-makes-it-hard-to-see/4971246.rss",
       "id": "8b01d5294d2d4a90a8b6bf03"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I am a beginner dev but I cant find anyone to work with",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlpowx/i_am_a_beginner_dev_but_i_cant_find_anyone_to/",
+      "published": "2026-11-02",
+      "excerpt": "I wanted to do game dev for a while working for a team but I tried to reach out to some people but I keep getting ghosted or they ask me to make super complex stuff for free. I am a builder and I have tried to work on some stuff on my own already like building some stuff, but im still ghosted. What ",
+      "creator": "/u/jfckckvk https://www.reddit.com/user/jfckckvk",
+      "id": "845e67dd4c61eef7ad657350"
     },
     {
       "source": "reddit-robloxdev",
@@ -2521,6 +2578,18 @@
       "id": "6f6958969cff34c5b54b1a3c"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[ FrameToCanvas ] - A Lean & Lightweight Studio Plugin + Copy/Paste UI Positioning",
+      "url": "https://devforum.roblox.com/t/frametocanvas-a-lean-lightweight-studio-plugin-copypaste-ui-positioning/4971281",
+      "published": "2026-11-02",
+      "excerpt": "Ever been in that situation where you have everything setup under a Frame instance, but then realize you wanted a CanvasGroup? Or Vice-Versa? Yeah. Me too. May I present: [ FrameToCanvas ] - It’s just five buttons! I found myself constantly repeating these actions, hence a plugin seemed in order. Ma",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/frametocanvas-a-lean-lightweight-studio-plugin-copypaste-ui-positioning/4971281.rss",
+      "id": "6d73168e2646aa6173426d15"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2553,6 +2622,17 @@
       "excerpt": "I was planning for a new update but have no idea how to update a game is it like go to studio make the update and publish again or smth submitted by /u/Prudent_Win2490 [link] [comments]",
       "creator": "/u/Prudent_Win2490 https://www.reddit.com/user/Prudent_Win2490",
       "id": "6473902db883816482cf233b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "PUBLIC SERVICE ANNOUCEMENT: UNIONS",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlny4j/public_service_annoucement_unions/",
+      "published": "2026-11-02",
+      "excerpt": "DO NOT USE THEM First image: My map with a lot of unions ( using like 4300 memory ) Seconed Image: I just seperated my unions into normal parts ( using like 3100 memory ) submitted by /u/ReceptionJazzlike372 [link] [comments]",
+      "creator": "/u/ReceptionJazzlike372 https://www.reddit.com/user/ReceptionJazzlike372",
+      "id": "5f224cc6f174a7d58f86c5df"
     },
     {
       "source": "reddit-robloxdev",
@@ -2998,6 +3078,17 @@
       "id": "d71edd498b7dea6409e2dd29"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for feedback on a diegetic horror game. [The Midway Shift]",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xli3sk/looking_for_feedback_on_a_diegetic_horror_game/",
+      "published": "2026-11-01",
+      "excerpt": "Two game modes, with a VHS-style gameplay. Best experience with headphones on. 1) The full escape, power back up the carnival, deal with inconveniences, run staff duties and do not die to the entity, there are chases, escapes and things involved. Do not let your flashlight overheat as keeping it on ",
+      "creator": "/u/After_Replacement621 https://www.reddit.com/user/After_Replacement621",
+      "id": "ce3b20287d6bbcb52445f65c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3112,6 +3203,17 @@
       "excerpt": "somebody help me with this fucking bullshit feature bro 🫩🫩 cant even rotate textures on the x axis THAT easily makes me want to quit i already tried setting it to facecameraworldup it didn't work - rotation did nothing submitted by /u/Sea_Flight4593 [link] [comments]",
       "creator": "/u/Sea_Flight4593 https://www.reddit.com/user/Sea_Flight4593",
       "id": "beef94d5b6f4e54021ee4e91"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "cool thingy i made",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xl8fi4/cool_thingy_i_made/",
+      "published": "2026-11-01",
+      "excerpt": "its pretty simple, i did use a kill brick script from a free model for it to actually kill people tho cuz i suck at scripting :( off camrea i added more particle effects to it and im planning to somehow try to make a script where it doesnt collide when its touching a player. but collides on the grou",
+      "creator": "/u/BlockHead2018Person https://www.reddit.com/user/BlockHead2018Person",
+      "id": "be87a511878e2ea02ff3c6f1"
     },
     {
       "source": "reddit-robloxdev",
@@ -3831,6 +3933,17 @@
       "id": "4be2d761b6f5bb4288d4df9e"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "little vid about my game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xl367c/little_vid_about_my_game/",
+      "published": "2026-11-01",
+      "excerpt": "like the title says, also its an arcade style pvp / pve game no story mode and such what do you think? i would love to hear your thoughts submitted by /u/banaenae3321 [link] [comments]",
+      "creator": "/u/banaenae3321 https://www.reddit.com/user/banaenae3321",
+      "id": "45ee0de3c02e0f0f4cb18d37"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3898,6 +4011,17 @@
       "excerpt": "Hello, ive been working on a game, where im still a beginner coder, I make the code myself, and use ai to fix the holes when it goes wrong, from that I think people are okay with, but while I actually build the structure for my game, is it wrong if I use it for my models for the short term? As in us",
       "creator": "/u/Double_Neck_7749 https://www.reddit.com/user/Double_Neck_7749",
       "id": "33e64f45597295a5db03618a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "After 1 month of work, here is my skill based medieval melee fighter inspired by For Honor, Chivalry & Mordhau. I would love your feedback (KNIGHT FIGHT)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xl6q5d/after_1_month_of_work_here_is_my_skill_based/",
+      "published": "2026-11-01",
+      "excerpt": "Been playing roblox since the builders club times and always wanted to make a roblox game of my own. Knight Fight is my first project. I've been working on it for about a month now. I dont know how to code, so I built it with a lot of help from AI tools. The game is mostly inspired by For Honor, Chi",
+      "creator": "/u/Scoundra https://www.reddit.com/user/Scoundra",
+      "id": "31708674f7b05864c53d13cc"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4139,6 +4263,17 @@
       "id": "126332a2a8ed910b2bb7c20e"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Heres a window design i made for my game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlh6cm/heres_a_window_design_i_made_for_my_game/",
+      "published": "2026-11-01",
+      "excerpt": "submitted by /u/ErebusPr [link] [comments]",
+      "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
+      "id": "125c75aa955d050d3a26d1dc"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -4183,6 +4318,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox%E2%80%A6-you-content-deleted-your-own-image/4969289.rss",
       "id": "0ca317775cba50ed861191e7"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for players to try out my Roblox FPS game (FRAGIX)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlf7t7/looking_for_players_to_try_out_my_roblox_fps_game/",
+      "published": "2026-11-01",
+      "excerpt": "I've been working on my Roblox FPS game, FRAGIX. Looking for people to try it out! I've been putting a lot of time into this game and would really appreciate some players giving it a shot. It's a fast-paced free-for-all shooter where you can fight other players, unlock weapons, collect skins, and im",
+      "creator": "/u/RexarTheGoat https://www.reddit.com/user/RexarTheGoat",
+      "id": "0a89fe82dcac56e7e32e0a45"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5398,6 +5544,18 @@
       "excerpt": "Ever since I started making renders, Ive wanted to make one themed around the frutiger aero aesthetic, and finally after like 8 months, here it is!! I loved sm the result and, even though it took 2 whole hours, i enjoyed the process! By the way, the render was made in studio and the background and o",
       "creator": "/u/Nuggy_GFX https://www.reddit.com/user/Nuggy_GFX",
       "id": "f5082b59065dda9aa8b01419"
+    },
+    {
+      "source": "roblox-news",
+      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
+      "category": "roblox_updates",
+      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
+      "published": "2026-10-30",
+      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
+      "creator": "",
+      "publisher": "https://fr.tradingview.com",
+      "id": "f4df7bf2894a5212610b4aae"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9020,155 +9178,6 @@
       "excerpt": "Hi everyone, I made a Steal the Egg game on Roblox called STEAL THE EGG (creator: buujaa01), and if you enjoy this genre, I think you might like it. What makes it special: - Cool maps: different areas to explore, each with its own style - House building system: build and customize your own base - Lo",
       "creator": "/u/EntertainerOk3320 https://www.reddit.com/user/EntertainerOk3320",
       "id": "9d66a370e3f2a8cabbc5a676"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "STEAL A LUCKY BLOCK",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhj43g/steal_a_lucky_block/",
-      "published": "2026-10-28",
-      "excerpt": "https://www.roblox.com/games/109334681527519/Lucky-Heist-And-Race submitted by /u/Miserable-Arm-3693 [link] [comments]",
-      "creator": "/u/Miserable-Arm-3693 https://www.reddit.com/user/Miserable-Arm-3693",
-      "id": "9c5fb9023c3396c8a522839d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I finally released my Bonsai Garden Roblox Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhooqk/i_finally_released_my_bonsai_garden_roblox_game/",
-      "published": "2026-10-28",
-      "excerpt": "This game has been a solo passion project for I dont even know how long. It was an incredible learning journey and hope you will all enjoy playing it as much as I enjoyed building it. You will have the chance to create your own personal Japanese Garden to showcase your creations for people to see, w",
-      "creator": "/u/Sickhorse131 https://www.reddit.com/user/Sickhorse131",
-      "id": "9a84e590636b15cb1211b998"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox's AI Moderation May Violate the EU DSA: Article 17 and Article 53",
-      "url": "https://devforum.roblox.com/t/robloxs-ai-moderation-may-violate-the-eu-dsa-article-17-and-article-53/4962200",
-      "published": "2026-10-28",
-      "excerpt": "This account was recently terminated without any specific reason being given! I have received two moderation notices, neither of which provided any details about the alleged violations, and both appear to have resulted in my account being terminated out of nowhere. Under Article 17 of the EU Digital",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/robloxs-ai-moderation-may-violate-the-eu-dsa-article-17-and-article-53/4962200.rss",
-      "id": "99d9c4bc3ccf7523bf081dff"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "mini admin abuse + artist reveal + new divine ☠️ #roblox #stealanegg #adminabuse #update #divine - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcG1zcmNMTXBqRUhjT2Q4N0p2SndKSVVyUWwtTkJKb1ZCZ2JwMjkzNkphSWVSWGF1M09SM3BEVXdCYzU0V1hCV29MUW9DRlhLMmo0M2VR?oc=5",
-      "published": "2026-10-28",
-      "excerpt": "mini admin abuse + artist reveal + new divine ☠️ #roblox #stealanegg #adminabuse #update #divine Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "991ca5a13440fa91ed5bcba0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Game Difficulty (And what to do)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhngbn/game_difficulty_and_what_to_do/",
-      "published": "2026-10-28",
-      "excerpt": "When building a game I always struggle on the balance part of it. So, what are you guys aiming at ? Simple game that can be mastered easily or a bit of difficulty so the game is longer but creates frustration ? Right now I am creating a rogue like door runner and I am really struggling to have a smo",
-      "creator": "/u/Top_Switch_7164 https://www.reddit.com/user/Top_Switch_7164",
-      "id": "9851601aa1cfe8b9e4626036"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Are you looking for a playtester?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi403t/are_you_looking_for_a_playtester/",
-      "published": "2026-10-28",
-      "excerpt": "Hey everyone! I just finished playtesting and giving advice to three of my clients. If you’re looking for an affordable playtesting service, feel free to DM me! I don’t just provide basic feedback; I also share what I’ve learned from working with past clients who successfully grew their games to tho",
-      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
-      "id": "981503fb6080d6b172b17663"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Robux have been pending for an unreasonable amount of time.",
-      "url": "https://devforum.roblox.com/t/robux-have-been-pending-for-an-unreasonable-amount-of-time/4962957",
-      "published": "2026-10-28",
-      "excerpt": "On 09/28/26 the following T-Shirt Asset ( Cooolshirt - Roblox ) was purchased. It has been over a month, and the Robux are still pending. Usually they come in a week or two, but this time - a whole month I have filed multiple tickets to Roblox Support, without getting anything back. This has never h",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/robux-have-been-pending-for-an-unreasonable-amount-of-time/4962957.rss",
-      "id": "96ce5dfb4b834ab5365980eb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[TextChatService] Remove /whisper",
-      "url": "https://devforum.roblox.com/t/textchatservice-remove-whisper/4961364",
-      "published": "2026-10-28",
-      "excerpt": "/whisper is a threat to safety. Why is this the case? Whisper makes communication between two users private; which is both good and bad. It is good because, for mystery games where you need to work with other people; or developers need to silence players from ruining the game for others, (in cases l",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/textchatservice-remove-whisper/4961364.rss",
-      "id": "9636c45c0b0e4ce7a4081a39"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My roblox studio doesn't load",
-      "url": "https://devforum.roblox.com/t/my-roblox-studio-doesnt-load/4962348",
-      "published": "2026-10-28",
-      "excerpt": "I got an issue when I open roblox studio it doesn’t load anything, I tried to reinstall it and its the same issue. someone please help me 3 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-roblox-studio-doesnt-load/4962348.rss",
-      "id": "943d7ec14bc1c266764a1657"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made a free crafting + forge/upgrade system for Roblox, looking for feedback",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi2qe8/made_a_free_crafting_forgeupgrade_system_for/",
-      "published": "2026-10-28",
-      "excerpt": "Hey, I've been working on a crafting system for a while and just put it up for free. Posting here because I'd like to hear what people who actually ship Roblox games think. It's recipes + stations + an upgrade/enchant forge, with a UI already built so you can drop it in and see it working. Recipes l",
-      "creator": "/u/elabsurdo1234 https://www.reddit.com/user/elabsurdo1234",
-      "id": "9171e62f41b6018596105b07"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "LocalPlayer is type `Player?`. How do i prevent the possibility of it being nil?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhasa9/localplayer_is_type_player_how_do_i_prevent_the/",
-      "published": "2026-10-28",
-      "excerpt": "LocalPlayer is type Player? (which means it's either Player or nil ) The documentation on Players.LocalPlayer and replication order don't say anything about this. And DataModel#IsLoaded isn't definitive. How do i make sure that LocalPlayer isn't nil ? Like how do i wait for it to become Player ? I c",
-      "creator": "/u/NormalAppearance2851 https://www.reddit.com/user/NormalAppearance2851",
-      "id": "913a855b8202b8d6e6ab0aae"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I Made a Roblox Game and Need Honest Feedback — Playtesters Wanted!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhif2k/i_made_a_roblox_game_and_need_honest_feedback/",
-      "published": "2026-10-28",
-      "excerpt": "Hey everyone! I'm an indie Roblox developer, and I'm looking for a few players to test my new Roblox project. It's still a work in progress, and I'd really appreciate some honest feedback on the gameplay, map, and overall experience. If you're interested in trying it out, here's the link: [ https://",
-      "creator": "/u/Beneficial_Ball_2622 https://www.reddit.com/user/Beneficial_Ball_2622",
-      "id": "8f219e10764372ca1dd5b1ed"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Minimum Ad Credits Amount",
-      "url": "https://devforum.roblox.com/t/minimum-ad-credits-amount/4962747",
-      "published": "2026-10-28",
-      "excerpt": "Hey guys! So I was working on my game and started thinking about running an ad. But I want to know, what is the minimum ad credits amount you need to have to run an ad? Is it 5 ad credits? Is it 10? Or is there no minimum value and you can run an ad even on 1 credit? 1 post - 1 participant Read full",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/minimum-ad-credits-amount/4962747.rss",
-      "id": "8bfe4418ec3ca58e9093775d"
     }
   ]
 }
