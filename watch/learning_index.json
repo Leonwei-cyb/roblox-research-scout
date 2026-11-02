@@ -342,6 +342,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xm5efi",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm5efi/i_made_my_first_roblox_game_a_petrolling_farm_on/",
+      "title": "I made my first Roblox game: a pet-rolling farm on sky islands. Looking for testers and honest feedback!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4963999:1",
       "url": "https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999",
       "title": "Wumby Zoo is now in beta — feedback on the early progression?",
@@ -1272,19 +1286,6 @@
       "key": "devforum:4962731:1",
       "url": "https://devforum.roblox.com/t/game-stuck-on-final-review-for-all-ages/4962731",
       "title": "Game stuck on final review for all ages",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4962952:1",
-      "url": "https://devforum.roblox.com/t/harsh-game-feedback-needed-why-is-my-playtime-and-monetization-so-low/4962952",
-      "title": "Harsh Game Feedback Needed - Why is my playtime and monetization so low",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
@@ -3321,20 +3322,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xi3y3l",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3y3l/ages_16_killed_discovery_for_our_roblox_arcade/",
-      "title": "Ages 16+ killed discovery for our Roblox arcade shooter — how are other small teams getting real playtests?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xi6w5a",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi6w5a/paid_playtest_roblox_lumberjack_game_16_30_min/",
       "title": "Paid playtest: Roblox lumberjack game (16+, ~30 min, 100 Robux)",
@@ -3675,19 +3662,6 @@
       "key": "devforum:4962380:1",
       "url": "https://devforum.roblox.com/t/failed-to-fetch-place-info/4962380",
       "title": "Failed to fetch Place info",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963364:1",
-      "url": "https://devforum.roblox.com/t/please-fix-explorer-not-going-to-selected-object-in-the-tab/4963364",
-      "title": "Please fix explorer not going to selected object in the tab.",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
@@ -6185,6 +6159,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4972057:1",
+      "url": "https://devforum.roblox.com/t/can-we-run-roblox-inside-a-vm/4972057",
+      "title": "Can we run Roblox inside a VM?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhfcjk",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhfcjk/im_making_a_bioshock_game/",
       "title": "I’m making a BioShock game!",
@@ -7416,6 +7401,19 @@
       "kind": "index-only",
       "signals": [
         "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1sdlk5ZzN3NUs1TUQyMFBaRnhZSjlxV2pkSzJCMlFCZWgyTWo1MTR4V1R6eTJPLWZNaEdWbktRNlRKT2I1c1pwelU2SnZZeXpRSldqVWJB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sdlk5ZzN3NUs1TUQyMFBaRnhZSjlxV2pkSzJCMlFCZWgyTWo1MTR4V1R6eTJPLWZNaEdWbktRNlRKT2I1c1pwelU2SnZZeXpRSldqVWJB?oc=5",
+      "title": "FINALLY! THE LIMITED DIVINE HEADLESS HORSEMAN! 🎃 #roblox #stealanegg #robloxgames #steal #egg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-02",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
