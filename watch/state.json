@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "c1db5f9ef203b2e946161bf4c6bd4f2ec7f123b3",
-      "head_subject": "openai: don't override model sampler defaults (#19432)",
+      "head": "0c85e0afbe61402bc585ebccf15a3f4d358aa784",
+      "head_subject": "launch: check ChatGPT routing before configuring (#19470)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.13",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
