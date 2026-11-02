@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 288
+- devforum: 286
 - index-only: 10
-- reddit: 294
+- reddit: 296
 - youtube: 6
 
 ## First-Session And Mobile
@@ -33,7 +33,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Economy And Income
 
 - [Looking for a scripter for my game FALSE PROMISE](https://www.reddit.com/r/robloxgamedev/comments/1xip8zo/looking_for_a_scripter_for_my_game_false_promise/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Roblox Marvel Showdown!](https://www.reddit.com/r/ROBLOXStudio/comments/1xiddly/roblox_marvel_showdown/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Looking for someone to script this dude](https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 

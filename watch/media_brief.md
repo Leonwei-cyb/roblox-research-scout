@@ -5,36 +5,25 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[How to Connect Claude AI to Roblox Studio (INSTANT) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTE4zLXN5V2VISWw3M0xVa0hycV94RjNvUmx3Q05mcWpLRnBBOFY5MmFqUG5qR21ZY2ZJMWptRWVEWnlhb0liLUhHYWtnYS15c0c4R1pB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-31
-  - Feed excerpt: How to Connect Claude AI to Roblox Studio (INSTANT) YouTube
-
 ## Community
 
-- **[Is there anyway I could make an animated viewmodels without Plugins?](https://www.reddit.com/r/robloxgamedev/comments/1xlnwc0/is_there_anyway_i_could_make_an_animated/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: I wanted to make an animated viewmodel for my game but the only technique I know is the one without the humanoid, and do the animations one by one via coding. K{}. I saw a lot of tutorials that need plugins but I don't want to add plugins o
-- **[🎮 Looking for FREE Playtesters — Roblox Mining Adventure!](https://www.reddit.com/r/robloxgamedev/comments/1xlngiw/looking_for_free_playtesters_roblox_mining/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: ​ Hey everyone! 🤗I'm a solo developer working on a Roblox mining adventure game. The game features procedurally generated mines, different underground biomes, dungeons, collectible pets, and equipment progression. I'm looking for volunteers
-- **[How do I update my game?](https://www.reddit.com/r/robloxgamedev/comments/1xlob60/how_do_i_update_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: I was planning for a new update but have no idea how to update a game is it like go to studio make the update and publish again or smth submitted by /u/Prudent_Win2490 \[link\] \[comments\]
-- **[Just made my first ever game! I would love some feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xlnt3s/just_made_my_first_ever_game_i_would_love_some/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: Check out this game I just made and give it a play! Looking for good and bad feedback. thanks! It's called Junk Empire! submitted by /u/Disastrous_Ease_9981 \[link\] \[comments\]
-- **[Looking For Builders For My Zombie Game](https://www.reddit.com/r/robloxgamedev/comments/1xlo0ce/looking_for_builders_for_my_zombie_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: I have been working on a project solo for a bit, and well, building maps/decorating is hard.. Especially since its a chapter based game, and the Prologue takes place in a smaller area while Chapter 1 takes place in a city + store/butcher sh
-- **[Opinions on thumbnails for zombie game](https://www.reddit.com/r/robloxgamedev/comments/1xlobbn/opinions_on_thumbnails_for_zombie_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: I recently uploaded my game and started pushing ads but the ads aren't really performing well, I used some of the thumbnails from the game page for my ads and I would appreciate any advice on what I'm doing wrong in terms of thumbnails for 
-- **[help with my salvage based Roblox game?](https://www.reddit.com/r/robloxgamedev/comments/1xlo2hj/help_with_my_salvage_based_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: (^examples of stuff made^) I'm making a co-op horror game on Roblox, inspired by R.E.P.O. and Lethal Company. Your crew rides an elevator down from an abandoned train station, grabs what you can, and gets out before time runs out. The lobby
+- **[Am I just cooked?](https://www.reddit.com/r/robloxgamedev/comments/1xlpfyk/am_i_just_cooked/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: So not even an hour ago i released an update specifically meant to try and hold engagement and make the onboarding process super smooth for the user. I stopped ads a couple days ago and then ccus dropped which had been tanking my benchmark 
+- **[Anyone been offered $ for their game, didnt take it, and regretted it?](https://www.reddit.com/r/robloxgamedev/comments/1xlofz6/anyone_been_offered_for_their_game_didnt_take_it/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: or vice versa. submitted by /u/Sufficient_Tackle552 \[link\] \[comments\]
+- **[Lighting help a](https://www.reddit.com/r/robloxgamedev/comments/1xlp9av/lighting_help_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: https://preview.redd.it/xui1fta115zh1.png?width=971&format=png&auto=webp&s=bbac78a72032510d41becdfab6876f82d3b628c5 I'm trying to light up my entire frozen waterfall, but the light cuts off after 1/3rd the way up. Is there a way to light up
+- **[Looking for someone to script this dude](https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: I'm trying to make him playable to walk around as. That's it. (I already did his Walk/Run/Idle animations) I'm not asking for scripting with his abilities or anything like that, I'm only asking for him to be playable for now, mostly so I ac
+- **[made my own perlin noise generator, used it for terrain and accidentally made something very smooth](https://www.reddit.com/r/robloxgamedev/comments/1xlofe3/made_my_own_perlin_noise_generator_used_it_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: kinda cool actually i put 2 special numbers in the noise: Seed, and Multiplier (frequency actually), and used math.random() to generate them, the seed was 195 and the multiplier was 0.06039902591250854 submitted by /u/RedboiGtag \[link\] \[com
 
 ## Roblox Updates
 
-- **[Customizable SelectionBoxes Plugin](https://devforum.roblox.com/t/customizable-selectionboxes-plugin/4971146)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: Allows you to customize the boring and ugly dragger selection box – Preview – – Install – CreatorStore \[FREE\] 1 post - 1 participant Read full topic
-- **[Player Ping spiking ridiculously high in 'live' server but not in studio? Server Stalling?](https://devforum.roblox.com/t/player-ping-spiking-ridiculously-high-in-live-server-but-not-in-studio-server-stalling/4971164)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: This has driven me nuts for the past day, as yesterday night is when I first noticed it I had my performance stats active as usual, and noticed at essentially random times, ping would spike up, usually noticed at start of server sometimes I
-- **[Snapwise: snap, array, stairs and grip tools for whole selections \[$5.99\]](https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: Everything you need to build faster, in one compact panel : resize, move, rotate and duplicate many parts at once with snapping, align and spread them in one click, build curved arrays, rings and spiral staircases, mirror, paint selections 
+- **[Avatar meshes or clothes do not seem to load sometimes](https://devforum.roblox.com/t/avatar-meshes-or-clothes-do-not-seem-to-load-sometimes/4971172)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: This has been happening for about a week now. But whenever I respawn in a game. My avatar fails to load meshes or clothing. This happens to other players on my screen as well. I’ve reinstalled Roblox twice and cleared rbx-storage in appdata
+- **[Fitting Room \| Browse the catalog & dress R6/R15 rigs in Studio](https://devforum.roblox.com/t/fitting-room-browse-the-catalog-dress-r6r15-rigs-in-studio/4971167)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: Get it on the Creator Store for Free The whole Marketplace, right in your Studio viewport. I originally made this just for myself and have been using it in my own projects for a while. It’s saved me so much time that I decided to clean it u
 
 ---
 

@@ -2257,9 +2257,27 @@
     "573d12bfe314b40ff76c64f1",
     "aab71f0c9fc69990a193e39f",
     "d2001ec2c69ebb19cfb6dcb5",
-    "a5ce986a7fb845327bdc5d63"
+    "a5ce986a7fb845327bdc5d63",
+    "72e55afdaacad81e858bbae4",
+    "3a8b175f76de8abf3f2cf27b",
+    "99822efac738c75ec8fabcfe",
+    "32dfbf0e4a81dd882e48a134",
+    "ffadb1154eb9e0ac8f9c9edf",
+    "2db451772e24c399a62cc45c",
+    "8eb5ed7f5a5b7d76ce5b7238"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Lighting help a",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlp9av/lighting_help_a/",
+      "published": "2026-11-02",
+      "excerpt": "https://preview.redd.it/xui1fta115zh1.png?width=971&format=png&auto=webp&s=bbac78a72032510d41becdfab6876f82d3b628c5 I'm trying to light up my entire frozen waterfall, but the light cuts off after 1/3rd the way up. Is there a way to light up the whole thing? submitted by /u/StaticGalaxyWasTaken [link",
+      "creator": "/u/StaticGalaxyWasTaken https://www.reddit.com/user/StaticGalaxyWasTaken",
+      "id": "ffadb1154eb9e0ac8f9c9edf"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -2376,12 +2394,34 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Looking for someone to script this dude",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/",
+      "published": "2026-11-02",
+      "excerpt": "I'm trying to make him playable to walk around as. That's it. (I already did his Walk/Run/Idle animations) I'm not asking for scripting with his abilities or anything like that, I'm only asking for him to be playable for now, mostly so I actually have a killer base script stuff, and I actually have ",
+      "creator": "/u/sir_hmmmmmmms https://www.reddit.com/user/sir_hmmmmmmms",
+      "id": "99822efac738c75ec8fabcfe"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "This is my new game, Vantex. If you’d like to test it out. Thank you all!",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xljhwf/this_is_my_new_game_vantex_if_youd_like_to_test/",
       "published": "2026-11-02",
       "excerpt": "Please criticize all you want so I can make it better and better. Thanks again! submitted by /u/Chrispy_650 [link] [comments]",
       "creator": "/u/Chrispy_650 https://www.reddit.com/user/Chrispy_650",
       "id": "942b7b713bc75e29728dc020"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "made my own perlin noise generator, used it for terrain and accidentally made something very smooth",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlofe3/made_my_own_perlin_noise_generator_used_it_for/",
+      "published": "2026-11-02",
+      "excerpt": "kinda cool actually i put 2 special numbers in the noise: Seed, and Multiplier (frequency actually), and used math.random() to generate them, the seed was 195 and the multiplier was 0.06039902591250854 submitted by /u/RedboiGtag [link] [comments]",
+      "creator": "/u/RedboiGtag https://www.reddit.com/user/RedboiGtag",
+      "id": "8eb5ed7f5a5b7d76ce5b7238"
     },
     {
       "source": "reddit-robloxdev",
@@ -2404,6 +2444,18 @@
       "excerpt": "Hey all, I've been trying to run an ad for my game through Roblox's Ads Manager (create.roblox.com/advertise) and I can't create a campaign at all. I fill everything in, click Publish, confirm the box that says $5 will be deducted, and after a few seconds I get \"Creation failed.\" The browser console",
       "creator": "/u/CCCIsTheBest1 https://www.reddit.com/user/CCCIsTheBest1",
       "id": "81ff55677470a47b5be7208d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Avatar meshes or clothes do not seem to load sometimes",
+      "url": "https://devforum.roblox.com/t/avatar-meshes-or-clothes-do-not-seem-to-load-sometimes/4971172",
+      "published": "2026-11-02",
+      "excerpt": "This has been happening for about a week now. But whenever I respawn in a game. My avatar fails to load meshes or clothing. This happens to other players on my screen as well. I’ve reinstalled Roblox twice and cleared rbx-storage in appdata and nothing. I do not know if anyone else has experienced o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatar-meshes-or-clothes-do-not-seem-to-load-sometimes/4971172.rss",
+      "id": "72e55afdaacad81e858bbae4"
     },
     {
       "source": "reddit-robloxdev",
@@ -2497,6 +2549,18 @@
       "id": "4ffdee2fdfbf84cda1c36276"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Fitting Room | Browse the catalog & dress R6/R15 rigs in Studio",
+      "url": "https://devforum.roblox.com/t/fitting-room-browse-the-catalog-dress-r6r15-rigs-in-studio/4971167",
+      "published": "2026-11-02",
+      "excerpt": "Get it on the Creator Store for Free The whole Marketplace, right in your Studio viewport. I originally made this just for myself and have been using it in my own projects for a while. It’s saved me so much time that I decided to clean it up and share it with the community. Hope it helps you as much",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/fitting-room-browse-the-catalog-dress-r6r15-rigs-in-studio/4971167.rss",
+      "id": "3a8b175f76de8abf3f2cf27b"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2506,6 +2570,28 @@
       "excerpt": "been working on this roblox game, what do y’all think? https://www.roblox.com/games/90700639417957/ submitted by /u/RedWaifuu [link] [comments]",
       "creator": "/u/RedWaifuu https://www.reddit.com/user/RedWaifuu",
       "id": "39d7150e947afa2a55ec88f2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Am I just cooked?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlpfyk/am_i_just_cooked/",
+      "published": "2026-11-02",
+      "excerpt": "So not even an hour ago i released an update specifically meant to try and hold engagement and make the onboarding process super smooth for the user. I stopped ads a couple days ago and then ccus dropped which had been tanking my benchmark average. With this new update I just launched a 2 day, 5$ pe",
+      "creator": "/u/Low-Dimension5920 https://www.reddit.com/user/Low-Dimension5920",
+      "id": "32dfbf0e4a81dd882e48a134"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Anyone been offered $ for their game, didnt take it, and regretted it?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlofz6/anyone_been_offered_for_their_game_didnt_take_it/",
+      "published": "2026-11-02",
+      "excerpt": "or vice versa. submitted by /u/Sufficient_Tackle552 [link] [comments]",
+      "creator": "/u/Sufficient_Tackle552 https://www.reddit.com/user/Sufficient_Tackle552",
+      "id": "2db451772e24c399a62cc45c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9078,87 +9164,6 @@
       "creator": "",
       "publisher": "https://www.tiktok.com",
       "id": "85174e0e6bfa041a90457ca9"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Starbase Recreation",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi3uqx/starbase_recreation/",
-      "published": "2026-10-28",
-      "excerpt": "Working on a recreation of SpaceX's Starbase Launch Facility. So far made the Raptor Engines, The Launch Tower (Mechazilla) with functioning catch arms, Launch Pad (Not complete) submitted by /u/ethnMo [link] [comments]",
-      "creator": "/u/ethnMo https://www.reddit.com/user/ethnMo",
-      "id": "82f9b9084ce1000688c5d1c3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Massive ban wave",
-      "url": "https://devforum.roblox.com/t/massive-ban-wave/4962583",
-      "published": "2026-10-28",
-      "excerpt": "There is a huge ban wave that is happening right now which has led to over a million of innocent players being banned for “linked accounts” also known as enforcement bans. Please if you know anyone of status or if you are able to, post about this ban wave so Roblox sees it. This is a reupload. On Oc",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/massive-ban-wave/4962583.rss",
-      "id": "81c1d4480c38b7e0a369e23b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Severe streaming performance regression",
-      "url": "https://devforum.roblox.com/t/severe-streaming-performance-regression/4963160",
-      "published": "2026-10-28",
-      "excerpt": "Streaming performance has significantly regressed for us, specifically due to the Gather From Uncollected Regions step. Provided is a screenshot of a server microprofiler dump, server FPS has really been ruined, and the event processing backlog it causes does not help either. This appears consistent",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/severe-streaming-performance-regression/4963160.rss",
-      "id": "7d523d4e2e5393a67ecb1aec"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "🛠️ GASHLOCK-looking for Scripters, Builders & Playtesters and more!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhs9qs/gashlocklooking_for_scripters_builders/",
-      "published": "2026-10-28",
-      "excerpt": "Hey guys im ballyhat and im looking for people to work on my upcoming asym game called \"gash-lock\" the theme of the asym game has modern-mix retro like for example studs. im only looking for. 💻 Scripter — MAIN PRIORITY Someone who can help with: Round and match systems Killer abilities and combat Su",
-      "creator": "/u/Ballyhat https://www.reddit.com/user/Ballyhat",
-      "id": "7b506c369b0ef27e18b8b983"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Flagging",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhb2fl/flagging/",
-      "published": "2026-10-28",
-      "excerpt": "Hello guys, I'm new to this group, so feel free to correct me if I'm wrong. I'm seeking assistance regarding an issue with my game. I've been creating a game recently. The game's purpose is typing a word start with \"p\" and there's a small \"words you've typed\" on the right corner. That's all. But whe",
-      "creator": "/u/Unusual_Tennis7963 https://www.reddit.com/user/Unusual_Tennis7963",
-      "id": "7afa74531a4188fb116218a4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "\"Emotes are disabled in this experience\" when you have none equipped",
-      "url": "https://devforum.roblox.com/t/emotes-are-disabled-in-this-experience-when-you-have-none-equipped/4962372",
-      "published": "2026-10-28",
-      "excerpt": "If you have no emotes equipped, it says emotes are not enabled in the experience. This is consistent across all experiences Expected behavior It should not say emotes are disabled. The message should imply I dont have any equipped 3 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/emotes-are-disabled-in-this-experience-when-you-have-none-equipped/4962372.rss",
-      "id": "7a26a8e5cca6c4bffc432e7c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Is hot swapping code & assets on production game servers against TOS?",
-      "url": "https://devforum.roblox.com/t/is-hot-swapping-code-assets-on-production-game-servers-against-tos/4962250",
-      "published": "2026-10-28",
-      "excerpt": "With the new publishing requirement changes it just occurred to me that a development tool I’ve been working on for a while called “TypeTorch” may cause some issues and questions in “Place Review” phase. It basically allows you to replace code and marked assets in a live server, making publishing up",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/is-hot-swapping-code-assets-on-production-game-servers-against-tos/4962250.rss",
-      "id": "79370d65bae6dac287300ba4"
     }
   ]
 }
