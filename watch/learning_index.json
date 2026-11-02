@@ -52,6 +52,22 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4972355:1",
+      "url": "https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355",
+      "title": "Scripts says that the animation track's length is 0, while its a ctually not",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "animation and audio",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 10,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4967057:1",
       "url": "https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057",
       "title": "Looking for feedback/criticism for UI",
@@ -858,34 +874,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhkfqp",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhkfqp/i_made_a_horror_game_about_an_abandoned_subway/",
-      "title": "I made a horror game about an abandoned subway and an anomaly controller. Looking for feedback on the atmosphere!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhtehm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhtehm/my_first_mesh_part_has_black_spot_which_is_on_the/",
-      "title": "My first mesh part has black spot which is on the model",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xi5b7v",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi5b7v/ui_for_my_upcoming_roblox_game/",
       "title": "UI for my upcoming roblox game",
@@ -1244,32 +1232,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4961783:1",
-      "url": "https://devforum.roblox.com/t/i-would-like-clarification-of-recent-chat-updates-and-how-this-works-for-review-based-games/4961783",
-      "title": "I would like clarification of recent chat updates and how this work's for review-based game's?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4962455:1",
-      "url": "https://devforum.roblox.com/t/journey-funnel-event-page-error/4962455",
-      "title": "Journey Funnel Event page error",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4962731:1",
       "url": "https://devforum.roblox.com/t/game-stuck-on-final-review-for-all-ages/4962731",
       "title": "Game stuck on final review for all ages",
@@ -1278,19 +1240,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963388:1",
-      "url": "https://devforum.roblox.com/t/new-terrain-material-manager-grass-decoration-doesnt-render/4963388",
-      "title": "New Terrain Material Manager Grass Decoration Doesn't Render",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3017,6 +2966,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xlzoo1",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlzoo1/some_stylized_crafting_stations_ive_been_working/",
+      "title": "Some stylized crafting stations I've been working on for Indie devs!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xm2079",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm2079/its_my_first_time_in_windows_using_studio_and_it/",
+      "title": "It's my first time in windows using studio and it started lagging in the game space",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xm2nwf",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm2nwf/how_to_run_a_successful_ad_campaign_for_newbies/",
       "title": "How to run a successful ad campaign [for newbies]",
@@ -3030,6 +3007,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xm2wyh",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm2wyh/how_we_handled_lookalike_npcs_and_mannequin/",
+      "title": "How we handled lookalike NPCs and mannequin blending in our co-op mall stealth game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xm3ep6",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm3ep6/anyone_wanna_trade_plays_for_250_highly_engaged/",
       "title": "Anyone Wanna Trade Plays For 250 Highly Engaged Players?",
@@ -3037,6 +3029,34 @@
       "published": "2026-11-02",
       "kind": "reddit",
       "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xm8new",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm8new/made_this_in_studio_what_else_could_i_add/",
+      "title": "Made this in studio what else could i add?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xm9q84",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9q84/my_crypto_titan_game_80_complete/",
+      "title": "My Crypto Titan game 80% complete.",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "animation and audio",
         "player feedback and marketing"
       ],
       "score": 5,
@@ -3289,20 +3309,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xi2e8d",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi2e8d/opinion_on_thumbnails/",
-      "title": "Opinion on thumbnails",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
         "player feedback and marketing"
       ],
       "score": 4,
@@ -3589,6 +3595,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xm7rn3",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm7rn3/how_do_i_make_my_game_better/",
+      "title": "How do I make my game better?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "world and visual design"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xm89t4",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm89t4/second_try_on_this_now/",
       "title": "Second try on this now",
@@ -3655,19 +3675,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4961508:1",
-      "url": "https://devforum.roblox.com/t/account-deletion-does-not-terminate-active-game-session/4961508",
-      "title": "Account deletion does not terminate active game session",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4342,19 +4349,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xi2xzw",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi2xzw/my_first_game_late_night_shapeshifters/",
-      "title": "My first game, Late Night ShapeShifters.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5036,53 +5030,35 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4961412:1",
-      "url": "https://devforum.roblox.com/t/rbx-worker-c-thread-30-gigabyte-request-streaming-crash/4961412",
-      "title": "\"RBX Worker C\" Thread 30 Gigabyte Request (Streaming Crash)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xm9b7l",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9b7l/48_npc_agents_in_battle_simulation_work_in/",
+      "title": "48 NPC agents in battle simulation [work in progress]",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4961663:1",
-      "url": "https://devforum.roblox.com/t/multiple-stolen-copies-of-my-original-ugc-%E2%80%9Cwaist-the-killer-jester%E2%80%9D-including-by-a-verified-group/4961663",
-      "title": "Multiple stolen copies of my original UGC “Waist | The Killer Jester” (including by a verified group)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xm9wus",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9wus/my_life_sim_just_hit_1400_ccu/",
+      "title": "My life sim just hit 1,400 CCU!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
       "key": "devforum:4961843:1",
       "url": "https://devforum.roblox.com/t/no-option-to-remove-or-modify-through-creator-store-seller-stripe-custom-account/4961843",
       "title": "No option to remove or modify through Creator Store Seller (Stripe Custom) account",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4962717:1",
-      "url": "https://devforum.roblox.com/t/major-tos-discrepancy/4962717",
-      "title": "Major TOS Discrepancy",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4962794:1",
-      "url": "https://devforum.roblox.com/t/virusbackdoor-alert-what-is-pose-texture/4962794",
-      "title": "{VIRUS/BACKDOOR ALERT} What is \"Pose Texture\"?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
@@ -6202,20 +6178,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhg3dm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg3dm/roblox_game_out_looking_for_investor_feedbacks/",
-      "title": "Roblox game out looking for investor / feedbacks",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
+      "key": "devforum:4972330:1",
+      "url": "https://devforum.roblox.com/t/how-to-change-a-rigs-height/4972330",
+      "title": "How to change a rig's height?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhpud3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhpud3/roblox_is_testing_the_web_client_run_roblox_in/",
-      "title": "Roblox is testing the web client (run roblox in browser)",
+      "key": "reddit:1xhg3dm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg3dm/roblox_game_out_looking_for_investor_feedbacks/",
+      "title": "Roblox game out looking for investor / feedbacks",
       "source": "reddit-robloxdev",
       "published": "2026-10-28",
       "kind": "reddit",
@@ -7379,6 +7355,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xm8w3u",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm8w3u/made_a_game_you_can_create_potions/",
+      "title": "Made a Game You Can Create Potions",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xm9hda",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9hda/testing_a_new_style/",
+      "title": "Testing a new style",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE14ZGs4WHM3WkJhYUJXSGtvZWJHeW83WHBBczgzTnczeU9PZ1ZwcFZ5ZG1pMWdESzd3OGt0RFNsaWhxRVVoZkZ4X09nOVB4cGtrU1U0MmZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ZGs4WHM3WkJhYUJXSGtvZWJHeW83WHBBczgzTnczeU9PZ1ZwcFZ5ZG1pMWdESzd3OGt0RFNsaWhxRVVoZkZ4X09nOVB4cGtrU1U0MmZB?oc=5",
       "title": "Steal An Egg Update Jonas Brothers LIVE! #roblox #stealanegg #new #update #jonasbrotherlive - Instagram",
@@ -7471,6 +7469,19 @@
     {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBxTE4zLXN5V2VISWw3M0xVa0hycV94RjNvUmx3Q05mcWpLRnBBOFY5MmFqUG5qR21ZY2ZJMWptRWVEWnlhb0liLUhHYWtnYS15c0c4R1pB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTE4zLXN5V2VISWw3M0xVa0hycV94RjNvUmx3Q05mcWpLRnBBOFY5MmFqUG5qR21ZY2ZJMWptRWVEWnlhb0liLUhHYWtnYS15c0c4R1pB?oc=5",
+      "title": "How to Connect Claude AI to Roblox Studio (INSTANT) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-10-31",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiYkFVX3lxTE9WSmhQcG9Ub3FwSndWZklDR21NUjRuWTJnMDk2ZjRVUEhNYjNNMkJCc0VjZThRWmNPNTdZRkhqNVA1c1E1b3BCdzJzT010ZEFaZGY5QTBWWENOU0hibk1vZHJB",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WSmhQcG9Ub3FwSndWZklDR21NUjRuWTJnMDk2ZjRVUEhNYjNNMkJCc0VjZThRWmNPNTdZRkhqNVA1c1E1b3BCdzJzT010ZEFaZGY5QTBWWENOU0hibk1vZHJB?oc=5",
       "title": "How to Connect Claude AI to Roblox Studio (INSTANT) - YouTube",
       "source": "syphodev-claude",
       "published": "2026-10-31",

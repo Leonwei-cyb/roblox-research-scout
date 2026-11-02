@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 293
-- index-only: 10
-- reddit: 287
+- devforum: 287
+- index-only: 11
+- reddit: 292
 - youtube: 7
 
 ## First-Session And Mobile
 
 - [!!MOBILE PLAYERS!! How is this UI setup for you?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [Characters drift and slide on the ground when playing on mobile devices in server authority](https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
+- [Scripts says that the animation track's length is 0, while its a ctually not](https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -63,13 +63,13 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Tools And Performance
 
 - [Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[Studio Beta\] Build 2D, Isometric, and Top-Down Games With Orthographic Camera](https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Characters drift and slide on the ground when playing on mobile devices in server authority](https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one \[Studio Beta\] Build 2D, Isometric, and Top-Down Games With Orthographic Camera test with measurable pass/fail.
+3. Explain WHY it matters and propose one Characters drift and slide on the ground when playing on mobile devices in server authority test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
