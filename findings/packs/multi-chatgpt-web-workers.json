@@ -247,8 +247,8 @@
       },
       {
         "kind": "rest",
-        "outcome": "304",
-        "what": "GET /repos/kyrolabs/awesome-agents/git/trees/619aaf207e51ae51b7f88cafad848600c035fe30?recursive=1"
+        "outcome": "200",
+        "what": "GET /repos/kyrolabs/awesome-agents/git/trees/4bf3bc9afbee6a4f0a723b616e67050bf3a5b2c9?recursive=1"
       },
       {
         "kind": "graphql",
@@ -328,7 +328,7 @@
         "extension host permissions",
         "chrome tabs/scripting API"
       ],
-      "days_since_commit": 3,
+      "days_since_commit": 4,
       "evidence": [
         "https://github.com/TED-H-com/multi-ai-chat/tree/c93fef795b7209e8a95e7276352149b40417d5de",
         "https://github.com/TED-H-com/multi-ai-chat/blob/c93fef795b7209e8a95e7276352149b40417d5de/README.md",
@@ -553,7 +553,7 @@
       "repo_id": 1179124545,
       "search_rank": 1,
       "sha": "238df6cefd307745d1fe49d10b96797903bf25ac",
-      "stars": 4752,
+      "stars": 4751,
       "suggested_owner": "Wheel",
       "tests_found": 9,
       "url": "https://github.com/NateBJones-Projects/OB1",
@@ -706,7 +706,7 @@
       "repo_id": 793375104,
       "search_rank": 1,
       "sha": "6c16b23f1bacd0fdf240bb5141ef45e59e82c306",
-      "stars": 143733,
+      "stars": 143751,
       "suggested_owner": "Wheel",
       "tests_found": 48,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -749,7 +749,7 @@
       "repo_id": 658928958,
       "search_rank": 0,
       "sha": "c1db5f9ef203b2e946161bf4c6bd4f2ec7f123b3",
-      "stars": 185660,
+      "stars": 185694,
       "suggested_owner": null,
       "tests_found": 22,
       "url": "https://github.com/ollama/ollama",
@@ -759,7 +759,7 @@
       "api_evidence": [],
       "audited_elsewhere": null,
       "browser_evidence": [],
-      "days_since_commit": 72,
+      "days_since_commit": 73,
       "evidence": [
         "https://github.com/e2b-dev/awesome-ai-agents/tree/9596ab1e69fbbb6c95291141c8dab5c181083216",
         "https://github.com/e2b-dev/awesome-ai-agents/blob/9596ab1e69fbbb6c95291141c8dab5c181083216/README.md"
@@ -782,7 +782,7 @@
       "repo_id": 655459367,
       "search_rank": 3,
       "sha": "9596ab1e69fbbb6c95291141c8dab5c181083216",
-      "stars": 30760,
+      "stars": 30765,
       "suggested_owner": null,
       "tests_found": 0,
       "url": "https://github.com/e2b-dev/awesome-ai-agents",
@@ -792,10 +792,10 @@
       "api_evidence": [],
       "audited_elsewhere": null,
       "browser_evidence": [],
-      "days_since_commit": 3,
+      "days_since_commit": 0,
       "evidence": [
-        "https://github.com/kyrolabs/awesome-agents/tree/619aaf207e51ae51b7f88cafad848600c035fe30",
-        "https://github.com/kyrolabs/awesome-agents/blob/619aaf207e51ae51b7f88cafad848600c035fe30/README.md"
+        "https://github.com/kyrolabs/awesome-agents/tree/4bf3bc9afbee6a4f0a723b616e67050bf3a5b2c9",
+        "https://github.com/kyrolabs/awesome-agents/blob/4bf3bc9afbee6a4f0a723b616e67050bf3a5b2c9/README.md"
       ],
       "files_inspected": [
         "README.md"
@@ -814,7 +814,7 @@
       "repo": "kyrolabs/awesome-agents",
       "repo_id": 661283123,
       "search_rank": 4,
-      "sha": "619aaf207e51ae51b7f88cafad848600c035fe30",
+      "sha": "4bf3bc9afbee6a4f0a723b616e67050bf3a5b2c9",
       "stars": 2983,
       "suggested_owner": null,
       "tests_found": 0,
@@ -920,7 +920,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-11-02T13:09:23Z",
+  "run_at": "2026-11-02T19:18:29Z",
   "schema": 1,
   "searches": [
     {

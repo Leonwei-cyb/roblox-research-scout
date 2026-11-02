@@ -249,7 +249,7 @@
       },
       "etag": "\"518e0f0b7921e1bec497e1303f75d9cd2dd637ffc85477c64ef5af4861edac00\""
     },
-    "https://api.github.com/repos/kyrolabs/awesome-agents/git/trees/619aaf207e51ae51b7f88cafad848600c035fe30?recursive=1": {
+    "https://api.github.com/repos/kyrolabs/awesome-agents/git/trees/4bf3bc9afbee6a4f0a723b616e67050bf3a5b2c9?recursive=1": {
       "data": {
         "manifests": [],
         "readme": [
@@ -260,7 +260,7 @@
         "tests_sample": [],
         "truncated": false
       },
-      "etag": "\"b3a5fd0c18abc343f558791104600adebd8d77d6a03e16df1ec3fbe3741a29bc\""
+      "etag": "\"665f8746c08a7a2aa329f023b364c644e254ce815799113a66dd850b4091d72b\""
     },
     "https://api.github.com/repos/ollama/ollama/git/trees/c1db5f9ef203b2e946161bf4c6bd4f2ec7f123b3?recursive=1": {
       "data": {
@@ -291,5 +291,5 @@
       "etag": "\"7e4da5f2a44a43cb0dcb03f16f8c6076fa0b873b808552290ff40a76f875313d\""
     }
   },
-  "last_run": "2026-11-02T13:11:00Z"
+  "last_run": "2026-11-02T19:20:05Z"
 }

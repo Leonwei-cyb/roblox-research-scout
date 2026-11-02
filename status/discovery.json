@@ -4,24 +4,24 @@
     "calls": {
       "graphql": 7,
       "rest": 44,
-      "rest_not_modified": 12
+      "rest_not_modified": 11
     },
     "rate": {
       "code_search": {
         "remaining": 7,
-        "reset_at": "2026-11-02T13:10:58Z"
+        "reset_at": "2026-11-02T19:20:05Z"
       },
       "core": {
-        "remaining": 4943,
-        "reset_at": "2026-11-02T14:02:35Z"
+        "remaining": 4998,
+        "reset_at": "2026-11-02T20:18:51Z"
       },
       "graphql": {
-        "remaining": 4990,
-        "reset_at": "2026-11-02T13:44:15Z"
+        "remaining": 4994,
+        "reset_at": "2026-11-02T19:55:25Z"
       },
       "search": {
-        "remaining": 21,
-        "reset_at": "2026-11-02T13:10:45Z"
+        "remaining": 1,
+        "reset_at": "2026-11-02T19:19:30Z"
       }
     }
   },
@@ -92,9 +92,9 @@
     {
       "repo": "escoffier-labs/brigade",
       "score": 100,
-      "sha": "491ae25bc24aa73ad1f4a65a38701b3c79995a8a",
+      "sha": "b18e6f51d8a02f033045a2c35338b6dd30e65f6c",
       "suggested_owner": "Wheel",
-      "task": "Pin escoffier-labs/brigade@491ae25, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin escoffier-labs/brigade@b18e6f5, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "JasonColapietro/suede-creator-skills",
@@ -114,14 +114,14 @@
   "counts": {
     "actionable_backlog": 145,
     "adopt": 0,
-    "events_this_run": 53,
-    "needs_test": 155,
-    "new_candidates_this_run": 4,
-    "new_releases_this_run": 3,
-    "records": 533,
-    "reject": 273,
-    "repos_tracked": 428,
-    "updated_issues_this_run": 46
+    "events_this_run": 48,
+    "needs_test": 156,
+    "new_candidates_this_run": 10,
+    "new_releases_this_run": 4,
+    "records": 543,
+    "reject": 282,
+    "repos_tracked": 438,
+    "updated_issues_this_run": 34
   },
   "feed_health": {
     "ok": 38
@@ -385,10 +385,10 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-11-02T13:11:00Z",
+    "finished_at": "2026-11-02T19:20:05Z",
     "outcome": "ok",
     "run_url": "",
-    "started_at": "2026-11-02T13:09:23Z",
+    "started_at": "2026-11-02T19:18:29Z",
     "trigger": "local"
   },
   "schema": 1

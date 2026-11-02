@@ -2,7 +2,7 @@
 
 Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub search returns at most 15 results per query here, ranked by GitHub's own relevance.
 
-- Run: 2026-11-02T13:09:23Z (local)
+- Run: 2026-11-02T19:18:29Z (local)
 - API calls: 51 total (graphql 7, rest 44)
 - Distinct repos found: 277; inspected: 12
 
@@ -27,7 +27,7 @@ Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub s
 | 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/6c16b23f1bacd0fdf240bb5141ef45e59e82c306) @ 6c16b23 | mixed | needs-test | 85 | drives browser sessions but also calls model APIs; check which path Leon would reuse. browser automation dependency: playwright; authenticated web session wording |
 | 10 | [ollama/ollama](https://github.com/ollama/ollama/tree/c1db5f9ef203b2e946161bf4c6bd4f2ec7f123b3) @ c1db5f9 | unknown | reject | 50 | no evidence of browser-session orchestration in README, manifests or key source. no signals |
 | 11 | [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents/tree/9596ab1e69fbbb6c95291141c8dab5c181083216) @ 9596ab1 | unknown | reject | 40 | no evidence of browser-session orchestration in README, manifests or key source. no signals |
-| 12 | [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents/tree/619aaf207e51ae51b7f88cafad848600c035fe30) @ 619aaf2 | unknown | reject | 40 | no license: all rights reserved, ideas only, no code reuse. no signals |
+| 12 | [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents/tree/4bf3bc9afbee6a4f0a723b616e67050bf3a5b2c9) @ 4bf3bc9 | unknown | reject | 40 | no license: all rights reserved, ideas only, no code reuse. no signals |
 
 ## Searches
 
