@@ -2,7 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — MCP - history tools: list_snapshots, find_change (Watch.find_change) and get_history (snapshots as diffs) (#4649).
-- **Source updated:** [huginn/huginn](https://github.com/huginn/huginn) — Merge pull request #3825 from huginn/actions-lock-migration.
+- **Source updated:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) — Fix more overlapping search replacements (#9524).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
