@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "5e96ae4895ebdc130bceb46954b0955b0969e7ea",
-      "head_subject": "AI settings - Load models / Test connection work for a keyless server (Ollama) at an address not saved yet (#4645)",
+      "head": "588814e6129d26dbc3990965d94fc3f85a64b368",
+      "head_subject": "AI - Remove the unused llm_prefilter (AI CSS pre-filter) and its setup call (#4646)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",

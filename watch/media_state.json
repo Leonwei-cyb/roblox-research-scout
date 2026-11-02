@@ -2286,7 +2286,11 @@
     "0a89fe82dcac56e7e32e0a45",
     "f4df7bf2894a5212610b4aae",
     "19bd13cee4160df10b6b5afa",
-    "e533485402c5d71040f5136f"
+    "e533485402c5d71040f5136f",
+    "cfb3cfd336ae41446341ad94",
+    "a82e66d1ef0184c414d8fd6f",
+    "cd308a5741c9bb00c4f3a113",
+    "d11d8724c5e96fc58dbf50bc"
   ],
   "items": [
     {
@@ -2401,6 +2405,17 @@
       "id": "d1cf2e148fa8bc4c73d408b7"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "What do you think of my new updated map?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xltw3v/what_do_you_think_of_my_new_updated_map/",
+      "published": "2026-11-02",
+      "excerpt": "What do you think of the new map design for my game BLOCKMANIA? This will come out in the next update! Thank you for the feedback! Interested? Play now! https://www.roblox.com/games/76360169927708/Blockmania submitted by /u/Forsaken_Swan_6968 [link] [comments]",
+      "creator": "/u/Forsaken_Swan_6968 https://www.reddit.com/user/Forsaken_Swan_6968",
+      "id": "d11d8724c5e96fc58dbf50bc"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2410,6 +2425,30 @@
       "excerpt": "Hi! I’m an indie dev and I’ve been building Protect Your Critters! You hatch critters, grow an island base, farm crops and defend it at night. Other players can steal your ripe crops and critters (and you can tackle thieves), shove rivals, and bid against each other for rare critters at a daily para",
       "creator": "/u/blockjun https://www.reddit.com/user/blockjun",
       "id": "d0557ca347ea28f55cbb7fad"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "IsNewUser on custom events is wrong in both directions since 2026-10-26 00:00 UTC",
+      "url": "https://devforum.roblox.com/t/isnewuser-on-custom-events-is-wrong-in-both-directions-since-2026-10-26-0000-utc/4971453",
+      "published": "2026-11-02",
+      "excerpt": "Since 26 Oct 2026 00:00 UTC, the IsNewUser dimension on custom-event metrics (CustomEventCountUser, CustomEventCount, Open Cloud Analytics API) no longer matches the users’ real history. DailyActiveUsers by IsNewUser still looks correct. New users are tagged Returning. Our server logs the custom eve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/isnewuser-on-custom-events-is-wrong-in-both-directions-since-2026-10-26-0000-utc/4971453.rss",
+      "id": "cfb3cfd336ae41446341ad94"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "studio wont open place",
+      "url": "https://devforum.roblox.com/t/studio-wont-open-place/4971409",
+      "published": "2026-11-02",
+      "excerpt": "Expected behavior A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-wont-open-place/4971409.rss",
+      "id": "cd308a5741c9bb00c4f3a113"
     },
     {
       "source": "reddit-robloxdev",
@@ -2455,6 +2494,18 @@
       "excerpt": "Growing up, I loved playing multiplayer RPGs where you could earn cool flex drops like a Mount or a rare Pet/Aura. It's really actualizing to come full circle and add such a mechanic to a game of my own. submitted by /u/existential-asthma [link] [comments]",
       "creator": "/u/existential-asthma https://www.reddit.com/user/existential-asthma",
       "id": "a9fb88dbf5ac924fd754540a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio fail to open place",
+      "url": "https://devforum.roblox.com/t/studio-fail-to-open-place/4971415",
+      "published": "2026-11-02",
+      "excerpt": "2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-fail-to-open-place/4971415.rss",
+      "id": "a82e66d1ef0184c414d8fd6f"
     },
     {
       "source": "reddit-robloxdev",
@@ -2768,7 +2819,7 @@
       "title": "Profile Image won't update",
       "url": "https://devforum.roblox.com/t/profile-image-wont-update/4971392",
       "published": "2026-11-02",
-      "excerpt": "So I changed my avatar to a bacon like minimum 15 hours ago and my profile image on dev forum still hasn’t updated lol … Page URL: https://devforum.roblox.com/u/slayqu987/summary 1 post - 1 participant Read full topic",
+      "excerpt": "So I changed my avatar to a bacon minimum 15 hours since I did and my profile image on dev forum still hasn’t updated lol … Page URL: https://devforum.roblox.com/u/slayqu987/summary 1 post - 1 participant Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/profile-image-wont-update/4971392.rss",
       "id": "19bd13cee4160df10b6b5afa"
@@ -9136,51 +9187,6 @@
       "excerpt": "I made ported 1.7.10 Minecraft Bedwars onto Roblox! https://preview.redd.it/1miazu6y48yh1.png?width=1920&format=png&auto=webp&s=1638d41a70517b617b3f22cfc1c2b74f77a464e5 submitted by /u/Superb_Criticism8504 [link] [comments]",
       "creator": "/u/Superb_Criticism8504 https://www.reddit.com/user/Superb_Criticism8504",
       "id": "a3d30d4eaa0aef71cda5072a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Opt-in per-experience relaxation of age-based chat restrictions",
-      "url": "https://devforum.roblox.com/t/opt-in-per-experience-relaxation-of-age-based-chat-restrictions/4962382",
-      "published": "2026-10-28",
-      "excerpt": "2455 words (including this sentence at the top). Apologies for whoever was expecting a short read. As a Roblox developer, it is currently too hard to create community and communication-centered roleplay, specifically “LARP” games and communities. Allow me to first explain what those are: Such games ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/opt-in-per-experience-relaxation-of-age-based-chat-restrictions/4962382.rss",
-      "id": "a3083c214831996eb2dbe3bf"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "would this work if i made an animation for a game?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xha75k/would_this_work_if_i_made_an_animation_for_a_game/",
-      "published": "2026-10-28",
-      "excerpt": "submitted by /u/kerminister [link] [comments]",
-      "creator": "/u/kerminister https://www.reddit.com/user/kerminister",
-      "id": "a038cec9491804fed244a920"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
-      "published": "2026-10-28",
-      "excerpt": "We're a team of 4 Roblox developers from different countries, planning to build and monetize games together. None of us knows each other personally, and we want everyone to have equal ownership and a 25% revenue share. The problem is that Roblox groups only have one owner, who can potentially remove",
-      "creator": "/u/brynoo5 https://www.reddit.com/user/brynoo5",
-      "id": "9e3f8af63b23ffe069ecdc50"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Build a Plane for Treasure",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhv9ye/build_a_plane_for_treasure/",
-      "published": "2026-10-28",
-      "excerpt": "I am currently in the Ad phase for Build a Plane for Treasure & was looking for some critical feedback. I really enjoy build a boat and wanted something similar and now this project has gotten bigger than I was imagining. I am most concerned on gameplay mechanics, & user retention now. I also am uns",
-      "creator": "/u/Defiant-Ad-9227 https://www.reddit.com/user/Defiant-Ad-9227",
-      "id": "9df87ff320f95c225769eca6"
     }
   ]
 }

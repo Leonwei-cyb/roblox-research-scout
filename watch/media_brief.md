@@ -5,15 +5,19 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Community
 
-- **[FINALLY! NEW DIVINE SPIRIT WORLD GUARDIAN UNLOCKED! Watch the full video on YouTube: Yonatan Pattinson! #roblox #stealanegg #robloxgames #steal #egg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PYUNRbFB1ZW5EUDZldVY0dl9TNWNEd091aEU3SWk5TVBWdHdtS3JOaUxzN0k2VkR1TGUxY3ZvVVZhUUZNMXVvcWF0Yy1QSHV6VEFhTXFn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-23
-  - Feed excerpt: FINALLY! NEW DIVINE SPIRIT WORLD GUARDIAN UNLOCKED! Watch the full video on YouTube: Yonatan Pattinson! #roblox #stealanegg #robloxgames #steal #egg Instagram
+- **[What do you think of my new updated map?](https://www.reddit.com/r/ROBLOXStudio/comments/1xltw3v/what_do_you_think_of_my_new_updated_map/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-02
+  - Feed excerpt: What do you think of the new map design for my game BLOCKMANIA? This will come out in the next update! Thank you for the feedback! Interested? Play now! https://www.roblox.com/games/76360169927708/Blockmania submitted by /u/Forsaken_Swan_69
 
 ## Roblox Updates
 
-- **[Profile Image won't update](https://devforum.roblox.com/t/profile-image-wont-update/4971392)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: So I changed my avatar to a bacon like minimum 15 hours ago and my profile image on dev forum still hasn’t updated lol … Page URL: https://devforum.roblox.com/u/slayqu987/summary 1 post - 1 participant Read full topic
+- **[IsNewUser on custom events is wrong in both directions since 2026-10-26 00:00 UTC](https://devforum.roblox.com/t/isnewuser-on-custom-events-is-wrong-in-both-directions-since-2026-10-26-0000-utc/4971453)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: Since 26 Oct 2026 00:00 UTC, the IsNewUser dimension on custom-event metrics (CustomEventCountUser, CustomEventCount, Open Cloud Analytics API) no longer matches the users’ real history. DailyActiveUsers by IsNewUser still looks correct. Ne
+- **[Studio fail to open place](https://devforum.roblox.com/t/studio-fail-to-open-place/4971415)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: 2 posts - 2 participants Read full topic
+- **[studio wont open place](https://devforum.roblox.com/t/studio-wont-open-place/4971409)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: Expected behavior A private message is associated with this bug report 1 post - 1 participant Read full topic
 
 ---
 

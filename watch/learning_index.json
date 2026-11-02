@@ -432,21 +432,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xhv9ye",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhv9ye/build_a_plane_for_treasure/",
-      "title": "Build a Plane for Treasure",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xhypq9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhypq9/saving_the_players_last_saved_position_through/",
       "title": "Saving The Players Last Saved Position Through Places",
@@ -2267,14 +2252,27 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xha75k",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xha75k/would_this_work_if_i_made_an_animation_for_a_game/",
-      "title": "would this work if i made an animation for a game?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
+      "key": "devforum:4971409:1",
+      "url": "https://devforum.roblox.com/t/studio-wont-open-place/4971409",
+      "title": "studio wont open place",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
       "signals": [
-        "animation and audio"
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4971415:1",
+      "url": "https://devforum.roblox.com/t/studio-fail-to-open-place/4971415",
+      "title": "Studio fail to open place",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4262,6 +4260,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4971453:1",
+      "url": "https://devforum.roblox.com/t/isnewuser-on-custom-events-is-wrong-in-both-directions-since-2026-10-26-0000-utc/4971453",
+      "title": "IsNewUser on custom events is wrong in both directions since 2026-10-26 00:00 UTC",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-02",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xhb06u",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xhb06u/summon_system_for_my_upcoming_roblox_game/",
       "title": "Summon system for my upcoming roblox game",
@@ -4283,19 +4294,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xhg9yr",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhg9yr/how_can_4_strangers_safely_coown_a_roblox_game/",
-      "title": "how can 4 strangers safely co-own a Roblox game without trusting one group owner?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-28",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5003,6 +5001,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xltw3v",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xltw3v/what_do_you_think_of_my_new_updated_map/",
+      "title": "What do you think of my new updated map?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-02",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4961412:1",
       "url": "https://devforum.roblox.com/t/rbx-worker-c-thread-30-gigabyte-request-streaming-crash/4961412",
       "title": "\"RBX Worker C\" Thread 30 Gigabyte Request (Streaming Crash)",
@@ -5050,17 +5061,6 @@
       "key": "devforum:4961843:1",
       "url": "https://devforum.roblox.com/t/no-option-to-remove-or-modify-through-creator-store-seller-stripe-custom-account/4961843",
       "title": "No option to remove or modify through Creator Store Seller (Stripe Custom) account",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-28",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4962382:1",
-      "url": "https://devforum.roblox.com/t/opt-in-per-experience-relaxation-of-age-based-chat-restrictions/4962382",
-      "title": "Opt-in per-experience relaxation of age-based chat restrictions",
       "source": "roblox-devforum-latest",
       "published": "2026-10-28",
       "kind": "devforum",
