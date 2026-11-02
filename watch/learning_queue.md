@@ -6,13 +6,13 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 598; fully reviewed: 0.
+Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 294
+- devforum: 292
 - index-only: 9
-- reddit: 289
+- reddit: 290
 - youtube: 6
 
 ## First-Session And Mobile
@@ -58,7 +58,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Player Feedback And Marketing
 
 - [Made a free crafting + forge/upgrade system for Roblox, looking for feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xiviko/made_a_free_crafting_forgeupgrade_system_for/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Encore | A synced music player that looks built into Roblox](https://devforum.roblox.com/t/encore-a-synced-music-player-that-looks-built-into-roblox/4963339) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [iOS (Japan only): Screen turns sideways when player opens "Buy Robux" from the bulk purchase prompt](https://devforum.roblox.com/t/ios-japan-only-screen-turns-sideways-when-player-opens-buy-robux-from-the-bulk-purchase-prompt/4965216) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 
