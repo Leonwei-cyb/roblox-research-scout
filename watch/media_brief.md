@@ -7,23 +7,23 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Am I just cooked?](https://www.reddit.com/r/robloxgamedev/comments/1xlpfyk/am_i_just_cooked/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: So not even an hour ago i released an update specifically meant to try and hold engagement and make the onboarding process super smooth for the user. I stopped ads a couple days ago and then ccus dropped which had been tanking my benchmark 
-- **[Anyone been offered $ for their game, didnt take it, and regretted it?](https://www.reddit.com/r/robloxgamedev/comments/1xlofz6/anyone_been_offered_for_their_game_didnt_take_it/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: or vice versa. submitted by /u/Sufficient_Tackle552 \[link\] \[comments\]
-- **[Lighting help a](https://www.reddit.com/r/robloxgamedev/comments/1xlp9av/lighting_help_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: https://preview.redd.it/xui1fta115zh1.png?width=971&format=png&auto=webp&s=bbac78a72032510d41becdfab6876f82d3b628c5 I'm trying to light up my entire frozen waterfall, but the light cuts off after 1/3rd the way up. Is there a way to light up
-- **[Looking for someone to script this dude](https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: I'm trying to make him playable to walk around as. That's it. (I already did his Walk/Run/Idle animations) I'm not asking for scripting with his abilities or anything like that, I'm only asking for him to be playable for now, mostly so I ac
-- **[made my own perlin noise generator, used it for terrain and accidentally made something very smooth](https://www.reddit.com/r/robloxgamedev/comments/1xlofe3/made_my_own_perlin_noise_generator_used_it_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: kinda cool actually i put 2 special numbers in the noise: Seed, and Multiplier (frequency actually), and used math.random() to generate them, the seed was 195 and the multiplier was 0.06039902591250854 submitted by /u/RedboiGtag \[link\] \[com
+- **[Looking for devs to do a mutual playtest exchange (I test yours, you test mine)](https://www.reddit.com/r/robloxgamedev/comments/1xlpsan/looking_for_devs_to_do_a_mutual_playtest_exchange/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: Hey everyone, I'm looking for a group of 4-6 developers who want to do a mutual playtest exchange. The idea is simple: we all join a Discord server, share our games, and take turns playing each other's projects. You give me honest feedback 
+- **[I am a beginner dev but I cant find anyone to work with](https://www.reddit.com/r/robloxgamedev/comments/1xlpmqw/i_am_a_beginner_dev_but_i_cant_find_anyone_to/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: I wanted to do game dev for a while working for a team but I tried to reach out to some people but I keep getting ghosted or they ask me to make super complex stuff for free. I am a builder and I have tried to work on some stuff on my own a
+- **[I made a Roblox anomaly game about selling burgers in space and I'd love your honest opinion](https://www.reddit.com/r/robloxgamedev/comments/1xlq7i1/i_made_a_roblox_anomaly_game_about_selling/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: Hey! So I made a Roblox minigame where you're running a burger kitchen in space, and then things go wrong and your kitchen gets stuck to an abandoned space station. It's an anomaly game, so weird stuff starts showing up, and you also have t
+- **[I need help with this avatar](https://www.reddit.com/r/robloxgamedev/comments/1xlqs6k/i_need_help_with_this_avatar/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: Hi, Im someone with little to no experience in game development, i ran into a problem on an avatar i was rigging where after adjusting the hair & parts, duplicating it or uploading it to roblox made it snap back to its original position, ho
+- **[Where do I even start?](https://www.reddit.com/r/robloxgamedev/comments/1xlqrt3/where_do_i_even_start/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
+  - Feed excerpt: Been working on an Attack on Titan game for a little over a month now. I've finally finished the demo map and released to the public and over the last roughly 10 days, started up a discord server. But still despite making the game in what I
 
 ## Roblox Updates
 
-- **[Avatar meshes or clothes do not seem to load sometimes](https://devforum.roblox.com/t/avatar-meshes-or-clothes-do-not-seem-to-load-sometimes/4971172)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: This has been happening for about a week now. But whenever I respawn in a game. My avatar fails to load meshes or clothing. This happens to other players on my screen as well. I’ve reinstalled Roblox twice and cleared rbx-storage in appdata
-- **[Fitting Room \| Browse the catalog & dress R6/R15 rigs in Studio](https://devforum.roblox.com/t/fitting-room-browse-the-catalog-dress-r6r15-rigs-in-studio/4971167)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: Get it on the Creator Store for Free The whole Marketplace, right in your Studio viewport. I originally made this just for myself and have been using it in my own projects for a while. It’s saved me so much time that I decided to clean it u
+- **[Dockable studio widgets for plugins title bar color has black text on dark charcoal background which makes it hard to see.](https://devforum.roblox.com/t/dockable-studio-widgets-for-plugins-title-bar-color-has-black-text-on-dark-charcoal-background-which-makes-it-hard-to-see/4971246)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: Problem As the title states, when the theme changes from light to dark, the DockWidgetPluginGui title bar does not update with the theme change. The text stays black or nearly black which makes it very difficult, if not impossible, to read.
+- **[\[ FrameToGroup \] - A Lean & Lightweight Studio Plugin](https://devforum.roblox.com/t/frametogroup-a-lean-lightweight-studio-plugin/4971281)** · Roblox Developer Forum latest · 2026-11-02
+  - Feed excerpt: Ever been in that situation where you have everything setup under a Frame instance, but then realize you wanted a CanvasGroup? Or Vice-Versa? Yeah. Me too. May I present: \[ FrameToCanvas \] - It’s just five buttons! I found myself constantly
 
 ---
 

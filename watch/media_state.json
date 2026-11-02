@@ -2264,7 +2264,14 @@
     "32dfbf0e4a81dd882e48a134",
     "ffadb1154eb9e0ac8f9c9edf",
     "2db451772e24c399a62cc45c",
-    "8eb5ed7f5a5b7d76ce5b7238"
+    "8eb5ed7f5a5b7d76ce5b7238",
+    "2ff4e1a8e79ba1edda5b596c",
+    "8b01d5294d2d4a90a8b6bf03",
+    "26063074aacc8347a54e6d73",
+    "3d711b24b7609d2607dfc51c",
+    "a795d27bc55b4f15f7caf1e2",
+    "fe122225b9edf71cb3a26f5d",
+    "d3614974a18dd9aa193d725a"
   ],
   "items": [
     {
@@ -2277,6 +2284,17 @@
       "excerpt": "https://preview.redd.it/xui1fta115zh1.png?width=971&format=png&auto=webp&s=bbac78a72032510d41becdfab6876f82d3b628c5 I'm trying to light up my entire frozen waterfall, but the light cuts off after 1/3rd the way up. Is there a way to light up the whole thing? submitted by /u/StaticGalaxyWasTaken [link",
       "creator": "/u/StaticGalaxyWasTaken https://www.reddit.com/user/StaticGalaxyWasTaken",
       "id": "ffadb1154eb9e0ac8f9c9edf"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made a Roblox anomaly game about selling burgers in space and I'd love your honest opinion",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlq7i1/i_made_a_roblox_anomaly_game_about_selling/",
+      "published": "2026-11-02",
+      "excerpt": "Hey! So I made a Roblox minigame where you're running a burger kitchen in space, and then things go wrong and your kitchen gets stuck to an abandoned space station. It's an anomaly game, so weird stuff starts showing up, and you also have to deal with problems like the lights, oxygen and power faili",
+      "creator": "/u/Fun_Ball_5029 https://www.reddit.com/user/Fun_Ball_5029",
+      "id": "fe122225b9edf71cb3a26f5d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2311,6 +2329,17 @@
       "excerpt": "Im so happy I just got my first completed game out! Yes, its mostly coded with AI, but I tried to take a lot of measures so it wouldn't just look like \"AI Slop.\" Its been out for maybe a day now, but the CCU has only broken 10 once. Im currently running 16 ad credits a day and my CTR is around 3. If",
       "creator": "/u/Human-Finding-551 https://www.reddit.com/user/Human-Finding-551",
       "id": "d5453e1f82f1bf138e799ac1"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for devs to do a mutual playtest exchange (I test yours, you test mine)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlpsan/looking_for_devs_to_do_a_mutual_playtest_exchange/",
+      "published": "2026-11-02",
+      "excerpt": "Hey everyone, I'm looking for a group of 4-6 developers who want to do a mutual playtest exchange. The idea is simple: we all join a Discord server, share our games, and take turns playing each other's projects. You give me honest feedback on my game, and I give you honest feedback. Here's how it wo",
+      "creator": "/u/dev_maximus https://www.reddit.com/user/dev_maximus",
+      "id": "d3614974a18dd9aa193d725a"
     },
     {
       "source": "reddit-robloxdev",
@@ -2394,6 +2423,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Where do I even start?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlqrt3/where_do_i_even_start/",
+      "published": "2026-11-02",
+      "excerpt": "Been working on an Attack on Titan game for a little over a month now. I've finally finished the demo map and released to the public and over the last roughly 10 days, started up a discord server. But still despite making the game in what I consider to be pretty high quality, it's just SO difficult ",
+      "creator": "/u/PracticalAccident650 https://www.reddit.com/user/PracticalAccident650",
+      "id": "a795d27bc55b4f15f7caf1e2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Looking for someone to script this dude",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/",
       "published": "2026-11-02",
@@ -2422,6 +2462,18 @@
       "excerpt": "kinda cool actually i put 2 special numbers in the noise: Seed, and Multiplier (frequency actually), and used math.random() to generate them, the seed was 195 and the multiplier was 0.06039902591250854 submitted by /u/RedboiGtag [link] [comments]",
       "creator": "/u/RedboiGtag https://www.reddit.com/user/RedboiGtag",
       "id": "8eb5ed7f5a5b7d76ce5b7238"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Dockable studio widgets for plugins title bar color has black text on dark charcoal background which makes it hard to see.",
+      "url": "https://devforum.roblox.com/t/dockable-studio-widgets-for-plugins-title-bar-color-has-black-text-on-dark-charcoal-background-which-makes-it-hard-to-see/4971246",
+      "published": "2026-11-02",
+      "excerpt": "Problem As the title states, when the theme changes from light to dark, the DockWidgetPluginGui title bar does not update with the theme change. The text stays black or nearly black which makes it very difficult, if not impossible, to read. Additional Information Parameter Value Problem Area Studio ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dockable-studio-widgets-for-plugins-title-bar-color-has-black-text-on-dark-charcoal-background-which-makes-it-hard-to-see/4971246.rss",
+      "id": "8b01d5294d2d4a90a8b6bf03"
     },
     {
       "source": "reddit-robloxdev",
@@ -2549,6 +2601,17 @@
       "id": "4ffdee2fdfbf84cda1c36276"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I need help with this avatar",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlqs6k/i_need_help_with_this_avatar/",
+      "published": "2026-11-02",
+      "excerpt": "Hi, Im someone with little to no experience in game development, i ran into a problem on an avatar i was rigging where after adjusting the hair & parts, duplicating it or uploading it to roblox made it snap back to its original position, how do i fix this? submitted by /u/Basic_Net_5711 [link] [comm",
+      "creator": "/u/Basic_Net_5711 https://www.reddit.com/user/Basic_Net_5711",
+      "id": "3d711b24b7609d2607dfc51c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2583,6 +2646,18 @@
       "id": "32dfbf0e4a81dd882e48a134"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[ FrameToGroup ] - A Lean & Lightweight Studio Plugin",
+      "url": "https://devforum.roblox.com/t/frametogroup-a-lean-lightweight-studio-plugin/4971281",
+      "published": "2026-11-02",
+      "excerpt": "Ever been in that situation where you have everything setup under a Frame instance, but then realize you wanted a CanvasGroup? Or Vice-Versa? Yeah. Me too. May I present: [ FrameToCanvas ] - It’s just five buttons! I found myself constantly repeating these actions, hence a plugin seemed in order. Ma",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/frametogroup-a-lean-lightweight-studio-plugin/4971281.rss",
+      "id": "2ff4e1a8e79ba1edda5b596c"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2592,6 +2667,17 @@
       "excerpt": "or vice versa. submitted by /u/Sufficient_Tackle552 [link] [comments]",
       "creator": "/u/Sufficient_Tackle552 https://www.reddit.com/user/Sufficient_Tackle552",
       "id": "2db451772e24c399a62cc45c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I am a beginner dev but I cant find anyone to work with",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlpmqw/i_am_a_beginner_dev_but_i_cant_find_anyone_to/",
+      "published": "2026-11-02",
+      "excerpt": "I wanted to do game dev for a while working for a team but I tried to reach out to some people but I keep getting ghosted or they ask me to make super complex stuff for free. I am a builder and I have tried to work on some stuff on my own already like building some stuff, but im still ghosted. What ",
+      "creator": "/u/jfckckvk https://www.reddit.com/user/jfckckvk",
+      "id": "26063074aacc8347a54e6d73"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9083,87 +9169,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/minimum-ad-credits-amount/4962747.rss",
       "id": "8bfe4418ec3ca58e9093775d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Kids & Select final review stuck after accepted appeal, game still 16+",
-      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-after-accepted-appeal-game-still-16/4962616",
-      "published": "2026-10-28",
-      "excerpt": "Hello, Our game, Ragdoll Playground , is still restricted to ages 16+ even though every requirement on the Audience Reach dashboard shows as complete. We originally got feedback about Content Rating. We fixed it, resubmitted the questionnaire, and our appeal was accepted on 20-25. Today is October 2",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/kids-select-final-review-stuck-after-accepted-appeal-game-still-16/4962616.rss",
-      "id": "8a4d90f73c5b977ea6038a90"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Could you test my game?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhmdzu/could_you_test_my_game/",
-      "published": "2026-10-28",
-      "excerpt": "Anyone to test my Persona fan game? PersoBlox submitted by /u/Vegetable-Ad8326 [link] [comments]",
-      "creator": "/u/Vegetable-Ad8326 https://www.reddit.com/user/Vegetable-Ad8326",
-      "id": "896f1ea5b95a6d8b18a07c09"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I Published my First Roblox and It's an Horror Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhpnmc/i_published_my_first_roblox_and_its_an_horror_game/",
-      "published": "2026-10-28",
-      "excerpt": "Doing this as an Hobby and happy that it's now published hahaha Game: https://www.roblox.com/games/86963659572996/Dont-Shoot submitted by /u/Sharp_Project_893 [link] [comments]",
-      "creator": "/u/Sharp_Project_893 https://www.reddit.com/user/Sharp_Project_893",
-      "id": "8878f97e2ca4def4821f33c7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Reminder: Your RNG Logic Can Still Be Broken",
-      "url": "https://devforum.roblox.com/t/reminder-your-rng-logic-can-still-be-broken/4962011",
-      "published": "2026-10-28",
-      "excerpt": "I keep getting DMs that look something like this: “exploiters keep getting rare items, my remotes have sanity checks, I have no idea how” In almost every case the remotes are fine. The loot RNG is predictable and someone is abusing it. Does this look familiar? Legendary drops went from ~40/hr to 600",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/reminder-your-rng-logic-can-still-be-broken/4962011.rss",
-      "id": "87ae56922606d8ad3bdf87da"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "CSV fails to upload due to \"upstream request timeout\"",
-      "url": "https://devforum.roblox.com/t/csv-fails-to-upload-due-to-upstream-request-timeout/4963137",
-      "published": "2026-10-28",
-      "excerpt": "Expected behavior I expect it to succeed, or if the CSV is invalid for some reason for it to tell me why. Page URL: https://create.roblox.com/dashboard/creations/experiences/994732206/localization 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/csv-fails-to-upload-due-to-upstream-request-timeout/4963137.rss",
-      "id": "8722640d5300268615e447df"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need 99 more 16+ game testers in my roblox game to unlock minimal for all, if you join mine for a couple mins i join your link to my game is in comments, post the link to y Ou r games in comments MU",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xhd298/i_need_99_more_16_game_testers_in_my_roblox_game/",
-      "published": "2026-10-28",
-      "excerpt": "I need 99 more 16+ players to play my game to bypass the 16+ thing and it unlocks my game for all ages if you join my game I will join your link to game in comments, comment the link to your Roblox game in comments, MUST JOIN MY GAME FIRST submitted by /u/Interesting_Kale1161 [link] [comments]",
-      "creator": "/u/Interesting_Kale1161 https://www.reddit.com/user/Interesting_Kale1161",
-      "id": "8565c7a19b0a9f17ab946461"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "How to unlock the Headless Horseman in Steal an Egg #roblox #stealanegg - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfZ1hESEdMeXBuZi1lTVdTRVZUWUxSZUUyclYxeWh3THAwblMwdEpBXzYtMTVTQjZvcGhteXcwa0VBSHlfdmxOSTM0SjkxVVMtM2dpLXRWaHF3VGtSMGp4eUNpU0dHVVREZ3E2Vw?oc=5",
-      "published": "2026-10-28",
-      "excerpt": "How to unlock the Headless Horseman in Steal an Egg #roblox #stealanegg TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "85174e0e6bfa041a90457ca9"
     }
   ]
 }
