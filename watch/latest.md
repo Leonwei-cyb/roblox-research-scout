@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Release:** [obra/superpowers](https://github.com/obra/superpowers) v7.0.1 → v7.0.2.
+- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — launch: populate Pi models automatically (#19460).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

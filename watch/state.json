@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "355eaee353f81f598932faf3226344d39e482860",
-      "head_subject": "model: add MiMo V2.6 renderer for Qwen3.5 (#19400)",
+      "head": "e9fde36d75fea66579d84099956ce1430792737a",
+      "head_subject": "launch: populate Pi models automatically (#19460)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
