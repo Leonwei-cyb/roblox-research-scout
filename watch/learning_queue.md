@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 284
+- devforum: 285
 - index-only: 11
-- reddit: 295
+- reddit: 294
 - youtube: 7
 
 ## First-Session And Mobile
@@ -33,7 +33,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Economy And Income
 
 - [How do you handle refunded Robux purchases in your game economy?](https://devforum.roblox.com/t/how-do-you-handle-refunded-robux-purchases-in-your-game-economy/4971738) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Looking for a scripter for my game FALSE PROMISE](https://www.reddit.com/r/robloxgamedev/comments/1xip8zo/looking_for_a_scripter_for_my_game_false_promise/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Looking for someone to script this dude](https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 
@@ -53,7 +53,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Genres And Successful Loops
 
 - [I just launched my first Roblox game: dig junk, build a robot buddy, fuse parts to Gold. Looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xj05d7/i_just_launched_my_first_roblox_game_dig_junk/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [roblox studio crashing because of device simulator](https://www.reddit.com/r/ROBLOXStudio/comments/1xjbyuc/roblox_studio_crashing_because_of_device_simulator/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I made a game where you can merge any two buildings into a new one, looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xmdsn6/i_made_a_game_where_you_can_merge_any_two/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 
