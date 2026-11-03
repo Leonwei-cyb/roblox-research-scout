@@ -5,17 +5,17 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[What pets should I add into the new Alien Biome 👽 #Roblox #StealanEgg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWUlzeGZidFBYS1g4RE0wUko2LTg3Wmc2WWtURUdGX1JqQkg1ZTNDdGFubmZBbkxvb1FDbHR3YUJGQ2JPRngzaVluZlNWUmZhWTJGTEo3dlRHeFlYbW1TSDd1QjFvNldYU0lHbA?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-11-02
+  - Feed excerpt: What pets should I add into the new Alien Biome 👽 #Roblox #StealanEgg TikTok
+
 ## Community
 
-- **[Testing builds...](https://www.reddit.com/r/robloxgamedev/comments/1xmfsox/testing_builds/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: 🤔 submitted by /u/BlockScrap \[link\] \[comments\]
-
-## Roblox Updates
-
-- **[Rutus - Runtime GUI Select Plugin Free Release](https://devforum.roblox.com/t/rutus-runtime-gui-select-plugin-free-release/4972703)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Rutus is a plugin that allows developers to easily debug their user interface during runtime. It gives you the ability to hover over any GUI elements on your screen to display important debugging information such as; Name, Position, Size an
-- **[Does like rating of a game affect how it is pushed on the algorithm?](https://devforum.roblox.com/t/does-like-rating-of-a-game-affect-how-it-is-pushed-on-the-algorithm/4972702)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: I saw someone say the like count doesn’t really matter to the algorithm (with only it affecting CTR because if people see a game with not alot of likes then most likely aren’t gonna click). Is this true and will a game with good stats (even
+- **[Random clip from a game I just launched - feedback?](https://www.reddit.com/r/robloxgamedev/comments/1xmhj38/random_clip_from_a_game_i_just_launched_feedback/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: I would appreciate any feedback on my game. I'm also looking for tips on how people find playtesters. The video above is meant to show what some small slice of gameplay looks like. I intentionally didn't make a highlight reel because I want
+- **[Whens the engaged player requirement going down from 250 to 100?](https://www.reddit.com/r/robloxgamedev/comments/1xmg1wi/whens_the_engaged_player_requirement_going_down/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Isnt it supposed to happen this month? Any exact date? submitted by /u/Akkadclassic \[link\] \[comments\]
 
 ---
 

@@ -2380,7 +2380,10 @@
     "36025efee65e49e12ad3a1e9",
     "758db9f2b6096fa1b2ba21e2",
     "6f57d714b05eaa727fc87f4b",
-    "67a2e1f8a7baabf786792a12"
+    "67a2e1f8a7baabf786792a12",
+    "b0743e73f0992fc0bf0b45e1",
+    "a1ba4ab3cd56c341ae798d2c",
+    "598a055e97e14062da6dff02"
   ],
   "items": [
     {
@@ -2405,6 +2408,17 @@
       "excerpt": "I'm a solo dev making a tower defense on Roblox (plastic army men vs an alien insect hive, up to 4-player co-op). Big waves were dropping to 12-30 fps on some maps, so I spent a couple of weeks measuring instead of guessing. What actually mattered: It wasn't the server. The simulation step was under",
       "creator": "/u/Ok_Celebration8237 https://www.reddit.com/user/Ok_Celebration8237",
       "id": "c7461551f719852a6d46e79f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Whens the engaged player requirement going down from 250 to 100?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmg1wi/whens_the_engaged_player_requirement_going_down/",
+      "published": "2026-11-03",
+      "excerpt": "Isnt it supposed to happen this month? Any exact date? submitted by /u/Akkadclassic [link] [comments]",
+      "creator": "/u/Akkadclassic https://www.reddit.com/user/Akkadclassic",
+      "id": "b0743e73f0992fc0bf0b45e1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2441,6 +2455,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/function-isnt-reading-the-arguments-im-sending-it/4972673.rss",
       "id": "a4ea49679cb162fc61efb6b9"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Random clip from a game I just launched - feedback?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmhj38/random_clip_from_a_game_i_just_launched_feedback/",
+      "published": "2026-11-03",
+      "excerpt": "I would appreciate any feedback on my game. I'm also looking for tips on how people find playtesters. The video above is meant to show what some small slice of gameplay looks like. I intentionally didn't make a highlight reel because I want to show what players might actually experience in any given",
+      "creator": "/u/Intelligent-Pay-9377 https://www.reddit.com/user/Intelligent-Pay-9377",
+      "id": "a1ba4ab3cd56c341ae798d2c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3513,6 +3538,18 @@
       "excerpt": "Hello! Looking for feedback from devs/Friends. https://www.roblox.com/share?code=36c1adc76e98164a894ab30ea803f289&type=ExperienceDetails&stamp=1793591630458 Its another simulator. I felt like I was stuck making Something with Cubes for a while. Wanted it to me more on the \"guys will play this more s",
       "creator": "/u/Pure_Ad_4793 https://www.reddit.com/user/Pure_Ad_4793",
       "id": "5a9f126526ba21b96a538c62"
+    },
+    {
+      "source": "brock-tiktok",
+      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "What pets should I add into the new Alien Biome 👽 #Roblox #StealanEgg - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWUlzeGZidFBYS1g4RE0wUko2LTg3Wmc2WWtURUdGX1JqQkg1ZTNDdGFubmZBbkxvb1FDbHR3YUJGQ2JPRngzaVluZlNWUmZhWTJGTEo3dlRHeFlYbW1TSDd1QjFvNldYU0lHbA?oc=5",
+      "published": "2026-11-02",
+      "excerpt": "What pets should I add into the new Alien Biome 👽 #Roblox #StealanEgg TikTok",
+      "creator": "",
+      "publisher": "https://www.tiktok.com",
+      "id": "598a055e97e14062da6dff02"
     },
     {
       "source": "reddit-robloxdev",
@@ -9245,41 +9282,6 @@
       "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
       "creator": "/u/vestive https://www.reddit.com/user/vestive",
       "id": "3c7cbd026d4f86305330be3c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Limited not displaying correctly when using High to Low sorting for Roblox-uploaded hats",
-      "url": "https://devforum.roblox.com/t/limited-not-displaying-correctly-when-using-high-to-low-sorting-for-roblox-uploaded-hats/4963600",
-      "published": "2026-10-29",
-      "excerpt": "When searching through the Catalog for Roblox-uploaded accessories to add to my game, I noticed that using the High to Low or Low to High price sorting options seemed to exclude all other limiteds, except for three: Shedletsekkar, Shiny Bling & Glossy Red Baseball Cap. Just a few weeks ago, these so",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/limited-not-displaying-correctly-when-using-high-to-low-sorting-for-roblox-uploaded-hats/4963600.rss",
-      "id": "38af0075b6031d195730529c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to get player data - Repeated False Datastore Key Rate limits error",
-      "url": "https://devforum.roblox.com/t/unable-to-get-player-data-repeated-false-datastore-key-rate-limits-error/4965140",
-      "published": "2026-10-29",
-      "excerpt": "Hello, A few hours ago, our players started complaining about the data not being loaded. For some reason, Roblox started displaying a rate limit error on the key, without any game updates or code tweaks. Game has retry logic, and sometimes data gets loaded. Each join has about 30-40% to load the dat",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-get-player-data-repeated-false-datastore-key-rate-limits-error/4965140.rss",
-      "id": "35d89e567e342af4c4a127dd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Heres the names people suggested for my roblox strategy game, which one should it be",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xij4si/heres_the_names_people_suggested_for_my_roblox/",
-      "published": "2026-10-29",
-      "excerpt": "View Poll submitted by /u/Mr_president850 [link] [comments]",
-      "creator": "/u/Mr_president850 https://www.reddit.com/user/Mr_president850",
-      "id": "34b9b224ea934d630e9ac912"
     }
   ]
 }

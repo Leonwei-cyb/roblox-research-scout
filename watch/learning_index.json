@@ -1351,19 +1351,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4965140:1",
-      "url": "https://devforum.roblox.com/t/unable-to-get-player-data-repeated-false-datastore-key-rate-limits-error/4965140",
-      "title": "Unable to get player data - Repeated False Datastore Key Rate limits error",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4965309:1",
       "url": "https://devforum.roblox.com/t/feedback-on-my-food-collecting-party-game/4965309",
       "title": "Feedback on my food collecting party game",
@@ -3086,6 +3073,32 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmg1wi",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmg1wi/whens_the_engaged_player_requirement_going_down/",
+      "title": "Whens the engaged player requirement going down from 250 to 100?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmhj38",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmhj38/random_clip_from_a_game_i_just_launched_feedback/",
+      "title": "Random clip from a game I just launched - feedback?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -5177,17 +5190,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963600:1",
-      "url": "https://devforum.roblox.com/t/limited-not-displaying-correctly-when-using-high-to-low-sorting-for-roblox-uploaded-hats/4963600",
-      "title": "Limited not displaying correctly when using High to Low sorting for Roblox-uploaded hats",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4963635:1",
       "url": "https://devforum.roblox.com/t/viewport-camera-panning-issue/4963635",
       "title": "Viewport camera panning issue",
@@ -6292,17 +6294,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiic71/kaiser_m75_eisenreich_empire_revolver/",
       "title": "Kaiser M75 (Eisenreich Empire Revolver)",
       "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xij4si",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xij4si/heres_the_names_people_suggested_for_my_roblox/",
-      "title": "Heres the names people suggested for my roblox strategy game, which one should it be",
-      "source": "reddit-robloxstudio",
       "published": "2026-10-29",
       "kind": "reddit",
       "signals": [],
@@ -7499,6 +7490,19 @@
       "kind": "index-only",
       "signals": [
         "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMibEFVX3lxTFBVWUlzeGZidFBYS1g4RE0wUko2LTg3Wmc2WWtURUdGX1JqQkg1ZTNDdGFubmZBbkxvb1FDbHR3YUJGQ2JPRngzaVluZlNWUmZhWTJGTEo3dlRHeFlYbW1TSDd1QjFvNldYU0lHbA",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWUlzeGZidFBYS1g4RE0wUko2LTg3Wmc2WWtURUdGX1JqQkg1ZTNDdGFubmZBbkxvb1FDbHR3YUJGQ2JPRngzaVluZlNWUmZhWTJGTEo3dlRHeFlYbW1TSDd1QjFvNldYU0lHbA?oc=5",
+      "title": "What pets should I add into the new Alien Biome 👽 #Roblox #StealanEgg - TikTok",
+      "source": "brock-tiktok",
+      "published": "2026-11-02",
+      "kind": "index-only",
+      "signals": [
+        "animation and audio"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
