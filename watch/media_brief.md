@@ -7,13 +7,8 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[How to structure game release ad](https://www.reddit.com/r/robloxgamedev/comments/1xmo5z8/how_to_structure_game_release_ad/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: i got a 130 credit budget and planning to do plays, idk if i should do that or engagement since i havent hit 100 hep and the game is still 16+ and i dont know how to structure it (18 credits a day for 7 days or 13 ad credits a day for 10 da
-
-## Roblox Updates
-
-- **[ProjectComplete - Auto Completer!](https://devforum.roblox.com/t/projectcomplete-auto-completer/4973070)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Hello! I have realised that alot of auto correction plugins (that I have came across, maybe I missed a few) do not have a certain feature and that is automatically getting a module automatically. It gets very boring at some point where each
+- **[Hi community looking for devs to test my game.](https://www.reddit.com/r/robloxgamedev/comments/1xmoodt/hi_community_looking_for_devs_to_test_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Hi great devs, I have created an Obby game please test and give your valuable feedback on the game please. I have made it just for fun for my children to play. https://www.roblox.com/share?code=4d58e29602f148458c0a633f80c5f094&type=Experien
 
 ---
 
