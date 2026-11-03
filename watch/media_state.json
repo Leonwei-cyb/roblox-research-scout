@@ -2411,7 +2411,9 @@
     "cb8150976fa942199392d129",
     "a0387f7795e0ad7503c16032",
     "17a9a9ebe3fd224f85432128",
-    "2fa7b08a81200f89a6336cc3"
+    "2fa7b08a81200f89a6336cc3",
+    "3f2d02375444d0e19800fc45",
+    "86e5c300c7ddc6bcbfdb20c0"
   ],
   "items": [
     {
@@ -2693,6 +2695,17 @@
       "id": "8d561d98b13c050e9cdc1390"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How to structure game release ad",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmo5z8/how_to_structure_game_release_ad/",
+      "published": "2026-11-03",
+      "excerpt": "i got a 130 credit budget and planning to do plays, idk if i should do that or engagement since i havent hit 100 hep and the game is still 16+ and i dont know how to structure it (18 credits a day for 7 days or 13 ad credits a day for 10 days) submitted by /u/amogus1212s [link] [comments]",
+      "creator": "/u/amogus1212s https://www.reddit.com/user/amogus1212s",
+      "id": "86e5c300c7ddc6bcbfdb20c0"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2855,6 +2868,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-wont-give-up-i-will-make-progress/4972711.rss",
       "id": "3f93b6348ade082bfcad98d6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "ProjectComplete - Auto Completer!",
+      "url": "https://devforum.roblox.com/t/projectcomplete-auto-completer/4973070",
+      "published": "2026-11-03",
+      "excerpt": "Hello! I have realised that alot of auto correction plugins (that I have came across, maybe I missed a few) do not have a certain feature and that is automatically getting a module automatically. It gets very boring at some point where each module you create needs to be configured BUT I have created",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/projectcomplete-auto-completer/4973070.rss",
+      "id": "3f2d02375444d0e19800fc45"
     },
     {
       "source": "reddit-robloxdev",
@@ -9286,29 +9311,6 @@
       "excerpt": "ICONS ARE TEMPORARY i followed your guys' feedback and redid the camera; i also added extra stuff to make my game more interesting. any other feedback? most of the sound got cut off from obs and idk why submitted by /u/Moist_Type_252 [link] [comments]",
       "creator": "/u/Moist_Type_252 https://www.reddit.com/user/Moist_Type_252",
       "id": "6940deda2904ba1e986c4974"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Okay guys i have a question about my horror game i'm working on",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5uus/okay_guys_i_have_a_question_about_my_horror_game/",
-      "published": "2026-10-29",
-      "excerpt": "Should I make one of the monsters be able to copy dead players / possess their bodies so I can make a \"Yo, Satoru\" reference in a devlog the reference i am gonna try and make a clip of (from JJK) submitted by /u/XxRainbow_ManxX [link] [comments]",
-      "creator": "/u/XxRainbow_ManxX https://www.reddit.com/user/XxRainbow_ManxX",
-      "id": "67294d28541817194ccd3ad8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Traitor - A recreation of TTT, open-sourced",
-      "url": "https://devforum.roblox.com/t/traitor-a-recreation-of-ttt-open-sourced/4964166",
-      "published": "2026-10-29",
-      "excerpt": "Repo: GitHub - Skekdog/Traitor: A recreation of TTT in Roblox. · GitHub Game: Traitor! | Play on Roblox This has been a labour of love for me since I started in 2022. I have grown a lot since then, both as a person and as a developer. This release comes as I have grown disillusioned with Roblox as a",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/traitor-a-recreation-of-ttt-open-sourced/4964166.rss",
-      "id": "6238663730e49665455acb09"
     }
   ]
 }
