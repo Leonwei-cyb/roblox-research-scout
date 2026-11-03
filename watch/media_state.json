@@ -2420,7 +2420,12 @@
     "b77312b758b9937756fa242b",
     "6628073b6bfcb271f54f30f3",
     "6a5fbf709c56f203810fe74f",
-    "8eaca9e3158b47afb56c5d1f"
+    "8eaca9e3158b47afb56c5d1f",
+    "0ef94f6c1c9bf30ea0766e05",
+    "75341a87615cc7216273bbf5",
+    "0c2baf24bb842fc3d0b7db67",
+    "9dfc72350945188fb5c285dd",
+    "698620667fac719d0c725c16"
   ],
   "items": [
     {
@@ -2704,6 +2709,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I made my first Roblox game: a chill power-washing simulator, I’d love feedback!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmqt48/i_made_my_first_roblox_game_a_chill_powerwashing/",
+      "published": "2026-11-03",
+      "excerpt": "Hey! I’m a young dev and just released Cleaning Simulator 🧼. You clean 12 worlds with a pressure washer, chain combos, find treasures and hire helpers. It’s made to be relaxing and fun with friends. Any feedback is super welcome 🙏 https://www.roblox.com/games/137150300184421 submitted by /u/Neptune2",
+      "creator": "/u/Neptune2128 https://www.reddit.com/user/Neptune2128",
+      "id": "9dfc72350945188fb5c285dd"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "would a fantasy arpg do well on roblox?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmfofm/would_a_fantasy_arpg_do_well_on_roblox/",
       "published": "2026-11-03",
@@ -2758,6 +2774,18 @@
       "id": "758db9f2b6096fa1b2ba21e2"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "IDFinder Plugin",
+      "url": "https://devforum.roblox.com/t/idfinder-plugin/4973157",
+      "published": "2026-11-03",
+      "excerpt": "IDFinder is a small popup window to find an asset ID anyplace in your project, including scripts. It uses the Output window to create links to the locations in your project. I wanted one that would just find the ID anyplace, and give me a link to it. It’s free, enjoy! The ones I looked at were just ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/idfinder-plugin/4973157.rss",
+      "id": "75341a87615cc7216273bbf5"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2801,6 +2829,17 @@
       "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "6a5fbf709c56f203810fe74f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "First Roblox game after release: new players barely stay. What would you fix first?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmpp40/first_roblox_game_after_release_new_players/",
+      "published": "2026-11-03",
+      "excerpt": "I just released my first game, a co-op zombie wave shooter, and I'm trying to figure out what to improve before I keep working on it. The loop: you start in a lobby, pick a class and weapons, then fight zombie waves with friends and bosses. Coins and gems from each run unlock more classes and weapon",
+      "creator": "/u/arch_kasy https://www.reddit.com/user/arch_kasy",
+      "id": "698620667fac719d0c725c16"
     },
     {
       "source": "reddit-robloxdev",
@@ -3033,6 +3072,29 @@
       "excerpt": "very basic, and yes, this was made in roblox studio without ai. i used eclipse animator for the rigging and some random foliage items from the toolbox. submitted by /u/Outside-Wear3335 [link] [comments]",
       "creator": "/u/Outside-Wear3335 https://www.reddit.com/user/Outside-Wear3335",
       "id": "17a9a9ebe3fd224f85432128"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Graphics blurry and render resolution reduced despite 10/10 quality",
+      "url": "https://devforum.roblox.com/t/graphics-blurry-and-render-resolution-reduced-despite-1010-quality/4973173",
+      "published": "2026-11-03",
+      "excerpt": "The graphics issue that was reported a few months ago seems to be happening again. Even with the graphics quality set to Manual 10/10, the entire game looks blurry and less sharp than usual. It seems like Roblox is running at a lower resolution than it should. Lowering the graphics quality makes the",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/graphics-blurry-and-render-resolution-reduced-despite-1010-quality/4973173.rss",
+      "id": "0ef94f6c1c9bf30ea0766e05"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "made a game for my little sister but roblox won't let her play it yet (16+ trial)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmr26m/made_a_game_for_my_little_sister_but_roblox_wont/",
+      "published": "2026-11-03",
+      "excerpt": "hey. i've been building a zombie infection tag game by myself for about a month, mostly because my little sister loves this kind of game and i wanted to make one for her problem: new games now start in roblox's 16+ trial. to open it for younger players it needs 250 \"highly engaged\" players (16+, age",
+      "creator": "/u/New-Put-6444 https://www.reddit.com/user/New-Put-6444",
+      "id": "0c2baf24bb842fc3d0b7db67"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9259,63 +9321,6 @@
       "excerpt": "Me and my friends recently started a new fnaf asym game and we are currently looking for experts who can model fnaf animatronics good, good artists for concepts and thumbnails etc, SFX and VFX artists along with texture artists and terrain/map artists. Pay will 100% be guaranteed when the game succe",
       "creator": "/u/Various-Turn6298 https://www.reddit.com/user/Various-Turn6298",
       "id": "806d7d5694bb9c2db56e7f2e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made a thumbnail for my roblox game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xidc6h/i_made_a_thumbnail_for_my_roblox_game/",
-      "published": "2026-10-29",
-      "excerpt": "game is called crabbers, heavily inspired by fisch and involves catching cool little crabs submitted by /u/SomeoneNoobyYT [link] [comments]",
-      "creator": "/u/SomeoneNoobyYT https://www.reddit.com/user/SomeoneNoobyYT",
-      "id": "7fc53b9ecc7fb8d07bca3e3a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "An approach to creating games in roblox (Part 1: Beginner level)",
-      "url": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441",
-      "published": "2026-10-29",
-      "excerpt": "Intro A lot of times, when people start creating games on Roblox, people decide “I want to create a game about (topic)” then work on it for a while and get bored of it then stop working on it and start a new project. This is a common thing when starting out and even I was like this. That’s why this ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/an-approach-to-creating-games-in-roblox-part-1-beginner-level/4964441.rss",
-      "id": "7befee56077b02bec685f1da"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Claude Integrated Into Roblox Studio!",
-      "url": "https://devforum.roblox.com/t/claude-integrated-into-roblox-studio/4965139",
-      "published": "2026-10-29",
-      "excerpt": "Roblox Studio has lacked proper Claude integration for far too long. No other plugin has fully captured the necessary tooling to build with Claude in Roblox Studio . Today I’ve built a plugin that will revolutionize Roblox development . Zero performance hit. Maximum development optimization. It just",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/claude-integrated-into-roblox-studio/4965139.rss",
-      "id": "7b81db56354503f46a24f974"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Playtest mine I’ll test yours!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xia0zb/playtest_mine_ill_test_yours/",
-      "published": "2026-10-29",
-      "excerpt": "DEVELOPERS LETS HELP EACH OTHER OUT!! I’m trying to get my Roblox game S WORLD through the 16+ trial phase, and I need people to actually try it out! I’d be happy to try yours as well! I’ve been working really hard on mine, I need to get past this trial phase. If you’re 16+ and age-checked on Roblox",
-      "creator": "/u/Party_Preparation596 https://www.reddit.com/user/Party_Preparation596",
-      "id": "7a2e745e40d9bde493f90918"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "UI for my upcoming roblox game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5b96/ui_for_my_upcoming_roblox_game/",
-      "published": "2026-10-29",
-      "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
-      "creator": "/u/vestive https://www.reddit.com/user/vestive",
-      "id": "7a05e3916dcd96562c3f0df5"
     }
   ]
 }
