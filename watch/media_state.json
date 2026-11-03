@@ -2455,7 +2455,11 @@
     "07835e7cd708a2678429fc24",
     "e6d13110b47ea8801f990123",
     "77b824508617cdf23c4ab8b0",
-    "9a4b885619e79eefb6000c71"
+    "9a4b885619e79eefb6000c71",
+    "6aaaa617a2f2440d126ed786",
+    "3d0afc30b829a600ad3ad49a",
+    "27923aa738bb8f510605735a",
+    "44503715c56c9911828a33a9"
   ],
   "items": [
     {
@@ -2889,7 +2893,7 @@
       "title": "The Hollow badge probleme",
       "url": "https://devforum.roblox.com/t/the-hollow-badge-probleme/4973340",
       "published": "2026-11-03",
-      "excerpt": "After I completed floors 3, 4, 5, 6,7 and the 10th one, I received none of the following badges. Is it because it is 3rd November, the last day, or is it a bug? 1 post - 1 participant Read full topic",
+      "excerpt": "After I completed floors 3, 4, 5, 6,7 and the 10th one, I received none of the following badges. Is it because it is 3rd November, the last day, or is it a bug? 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-hollow-badge-probleme/4973340.rss",
       "id": "9c24ac8649fcec843ae70e5a"
@@ -3053,6 +3057,18 @@
       "excerpt": "So far the going name is Ocean Liner Tycoon, based on Cruise Line/Ship Tycoon !This is for volunteers only, I can’t pay, so all work will be volunteer only! The game is one where you will sail and flesh out liners through the ages, from sailing ships in the 18th century to the great liners of the 20",
       "creator": "/u/Altruistic-Debate611 https://www.reddit.com/user/Altruistic-Debate611",
       "id": "6abc37203b445031d18a7e09"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to make a UI element track a 3D object on screen?",
+      "url": "https://devforum.roblox.com/t/how-to-make-a-ui-element-track-a-3d-object-on-screen/4973794",
+      "published": "2026-11-03",
+      "excerpt": "I want to make a custom crosshair for my gun system that tracks where the barrel points to, and moves the crosshair to that position. How can I replicate how the game below pulls this off? right now, I use a rudimentary billboard gui to show the player where the bullet will go. But it gets hard to s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-make-a-ui-element-track-a-3d-object-on-screen/4973794.rss",
+      "id": "6aaaa617a2f2440d126ed786"
     },
     {
       "source": "reddit-robloxdev",
@@ -3263,6 +3279,17 @@
       "id": "44e3d2faff4ff3d98f7512f4"
     },
     {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "should they run it back? 👀",
+      "url": "https://www.youtube.com/shorts/DtMgeRNtH8g",
+      "published": "2026-11-03",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "44503715c56c9911828a33a9"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3285,6 +3312,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/projectcomplete-auto-completer/4973070.rss",
       "id": "3f2d02375444d0e19800fc45"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made my first Roblox game: an ore RNG where you build a mining tower, crush ores and hatch pets — feedback welcome!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmzpwt/i_made_my_first_roblox_game_an_ore_rng_where_you/",
+      "published": "2026-11-03",
+      "excerpt": "Hi everyone! I've been working on my first Roblox game, Roll an Ore! [RNG], and it's now public. How it works: - Pull the lever to roll random ores (120 ores, 8 rarities from Common to Secret) - Buy the ones you like and put them in your tower - Your ores produce chunks that go down a conveyor into ",
+      "creator": "/u/Azako_62 https://www.reddit.com/user/Azako_62",
+      "id": "3d0afc30b829a600ad3ad49a"
     },
     {
       "source": "reddit-robloxdev",
@@ -3365,6 +3403,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/for-hire-luau-scripter-core-gameplay-combat-dialogue/4973038.rss",
       "id": "297df5b07b967c1ae1d34003"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I'm confused is it published as it save to roblox as to release my ges update??",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmz9qm/im_confused_is_it_published_as_it_save_to_roblox/",
+      "published": "2026-11-03",
+      "excerpt": "submitted by /u/Prudent_Win2490 [link] [comments]",
+      "creator": "/u/Prudent_Win2490 https://www.reddit.com/user/Prudent_Win2490",
+      "id": "27923aa738bb8f510605735a"
     },
     {
       "source": "reddit-robloxdev",
@@ -9303,50 +9352,6 @@
       "excerpt": "I've been battling with Roblox Studio for 3 months now, just trying to get my PC to run it a bit better. The thing is, my setup is an old laptop that used to handle RS, but as you can guess, it can't anymore. I just want to create games without having to wait until I get a new PC. Any tech-savvy peo",
       "creator": "/u/Ze_Data37 https://www.reddit.com/user/Ze_Data37",
       "id": "b7f2b204fbb28bc31c151f62"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Yo, got a question, would you play this roblox game????",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xix4m3/yo_got_a_question_would_you_play_this_roblox_game/",
-      "published": "2026-10-29",
-      "excerpt": "So the thumbnail above is not for the game. Btw, the game is not mine I am a tester and this is my friends. Basically, it is a fps game but there is a shadow realm where everything is flipped around u can switch between each by pressing shift but would you play it, it is still in development and any",
-      "creator": "/u/TRUX_TYGER https://www.reddit.com/user/TRUX_TYGER",
-      "id": "b6f4c4ee21e4fe15a09fb500"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "LOOKING FOR DEVS",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiour3/looking_for_devs/",
-      "published": "2026-10-29",
-      "excerpt": "Devotion Devotion is a roguelike/PVE game looking for devs currently in its early stages: Currently looking for - Modeller 0/2 Scripter 1/2 Animator 0/2 Composer 0/1 Builder 0/2 Rev Share Info (To split between with) Scripters - 10% Modellers - 5% Animators - 5% Builders - 10% Composers - Agreement ",
-      "creator": "/u/Mean_Boysenberry138 https://www.reddit.com/user/Mean_Boysenberry138",
-      "id": "b6134bd09de11c50ec0af323"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "my cute stud animals :')",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xitt8j/my_cute_stud_animals/",
-      "published": "2026-10-29",
-      "excerpt": "these were made totally in studio with mesh parts and they have that really nice steal an egg style texture on them, its kinda different but they are still really cute, and they use a procedural idle and walk animation !! submitted by /u/OppositeMental4347 [link] [comments]",
-      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
-      "id": "b5bed1df585a7bd2e2378eca"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Why doesn't the health bar text update after resetting?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xim6xk/why_doesnt_the_health_bar_text_update_after/",
-      "published": "2026-10-29",
-      "excerpt": "submitted by /u/Cost_1088 [link] [comments]",
-      "creator": "/u/Cost_1088 https://www.reddit.com/user/Cost_1088",
-      "id": "b46f1904fafa2a9483857415"
     }
   ]
 }
