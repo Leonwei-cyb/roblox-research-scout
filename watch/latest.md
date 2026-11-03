@@ -2,7 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [Roblox/creator-docs](https://github.com/Roblox/creator-docs) — update Open Source Docs from Roblox internal teams.
-- **Unreviewed lead:** [ember-luau/ember](https://github.com/ember-luau/ember) (14 stars). One CLI for your Luau dependencies, tools, and scripts.
+- **Release:** [obra/superpowers](https://github.com/obra/superpowers) v7.0.1 → v7.0.2.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

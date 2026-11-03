@@ -7,41 +7,33 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Help with pants on rig please](https://www.reddit.com/r/ROBLOXStudio/comments/1xmw0le/help_with_pants_on_rig_please/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: so i was trying to put some pants on my r6 rig in rblx studio and it doesnt work i added the code to the clothing, i added it to the template thingy and it just does nothing, i genuinely dont know what to do im a noob in roblox studio, also
-- **[I need help developing an ocean liner tycoon game](https://www.reddit.com/r/ROBLOXStudio/comments/1xmw0ec/i_need_help_developing_an_ocean_liner_tycoon_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: So far the going name is Ocean Liner Tycoon, based on Cruise Line/Ship Tycoon !This is for volunteers only, I can’t pay, so all work will be volunteer only! The game is one where you will sail and flesh out liners through the ages, from sai
-- **[Test for test? I'll play your Roblox game if you play mine!](https://www.reddit.com/r/ROBLOXStudio/comments/1xn2xk0/test_for_test_ill_play_your_roblox_game_if_you/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: I just made my first Roblox game, a sandbox dino park builder. It's kind of like TPT2 (Theme Park Tycoon 2), but with dinosaurs. I need people to try it and tell me what's good and what's bad. Drop your game link in the comments, and I'll p
-- **[\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Game: Steal a Starship Link: https://www.roblox.com/games/118204916869601/Steal-a-Starship Platform: Roblox (PC, mobile, and console if supported) Session length: 10–15 minutes I’m looking for playtesters to try the game and give me straigh
-- **[This is what negative light looks like](https://www.reddit.com/r/ROBLOXStudio/comments/1xm9wm1/this_is_what_negative_light_looks_like/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-02
-  - Feed excerpt: This can be done by setting pointlight color to any negative value like \[-255, -255, -255\] submitted by /u/SinglePosition987 \[link\] \[comments\]
-- **[3D modeler doing commissions.](https://www.reddit.com/r/ROBLOXStudio/comments/1xmuh3s/3d_modeler_doing_commissions/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Youtube portfolio, https://youtu.be/itWXLKwCV9M?si=tbgIvh1lx9z2Csc6 , https://youtu.be/r9PmyBYEEBw?si=Ic2V14BNzkYL0zeC submitted by /u/Somlenecore \[link\] \[comments\]
-- **[I made a co-op horde survival game inspired by vampire survivors / megabonk](https://www.reddit.com/r/ROBLOXStudio/comments/1xn2a7j/i_made_a_coop_horde_survival_game_inspired_by/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Hi! I'm a solo dev and this is my first real Roblox game: Night Horde Survival. You're a "Viking" in a 20-minute night. Your weapons fire on their own, you level up, pick cards, stack relics and runes. Buy pets, master your weapons, or AFK 
-- **[LOOKING FOR ARTISTS](https://www.reddit.com/r/ROBLOXStudio/comments/1xmvjnq/looking_for_artists/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Hello im a co owner for a dandy world type game We are looking for digital artists if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on submitted by /u
-- **[Map I recently finished for ' Reign of Rot ' , Here is a showcase of the map I hope you enjoy it !](https://www.reddit.com/r/ROBLOXStudio/comments/1xn3ezp/map_i_recently_finished_for_reign_of_rot_here_is/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Fully created by me from scratch ( Modelling , Texturing , VFX , Editing etc... ) , ** COMMISSIONS ARE OPEN - DISCORD --> jakartacardiana ** , Or just send me a dm <3 submitted by /u/PrintOk5395 \[link\] \[comments\]
-- **[RANTT](https://www.reddit.com/r/ROBLOXStudio/comments/1xmg9l4/rantt/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Enough with the steal a ____ games, if you really think making these kind of slips would get u anywhere then go get some help for god's sake.Create a game only if you re passionate about it rather then wanting money. submitted by /u/Parking
-- **[Want to make a space game, no idea how to script or code. Who wants to help?](https://www.reddit.com/r/ROBLOXStudio/comments/1xn654h/want_to_make_a_space_game_no_idea_how_to_script/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: No idea what about, but if anyone wants to collaborate with me and make a cool space game let me know. Already made animations submitted by /u/SaltIick \[link\] \[comments\]
-- **[Why is it so laggy](https://www.reddit.com/r/ROBLOXStudio/comments/1xn3mcs/why_is_it_so_laggy/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: So what happened is that studio suddenly crashed and then it became really laggy ever since. why is this happening and how do I fix it? submitted by /u/SuitableCheesecake83 \[link\] \[comments\]
+- **[Drifting along the canyons](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6x54/drifting_along_the_canyons/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Seems familiar🤔 Everything done within ROBLOX Studio. submitted by /u/CryNo4699 \[link\] \[comments\]
+- **[Bes skill for comissions?](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6tkg/bes_skill_for_comissions/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Whats the best skill u can learn right now to make comissions and to maybe in a future make games or join a team? i mean like vfx, ui design, animator, modeler, clothing, etc (i think code its probably not the best rn because of ai) and thx
+- **[Help again](https://www.reddit.com/r/ROBLOXStudio/comments/1xn889e/help_again/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 \[link\] \[comments\]
+- **[Help again](https://www.reddit.com/r/ROBLOXStudio/comments/1xn87wo/help_again/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 \[link\] \[comments\]
+- **[idk what im doing bro](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6wfb/idk_what_im_doing_bro/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: whenever I try and upload anything it says too many requests. I even waited a day and it's still doing it. google and YouTube doesn't help so I came here someone pls help me. submitted by /u/sprite_brite5446 \[link\] \[comments\]
+- **[realistic backrooms game i'm making. it's gonna be like the complex expedition but procedually generated and following kane's lore](https://www.reddit.com/r/ROBLOXStudio/comments/1xn7bw4/realistic_backrooms_game_im_making_its_gonna_be/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: any tips? submitted by /u/UnreasonableDumm \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Allowing custom materials to be applied to a surface when one walks through a block](https://devforum.roblox.com/t/allowing-custom-materials-to-be-applied-to-a-surface-when-one-walks-through-a-block/4974167)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Hello, I have a feature in my game, where a model is able to move through a block, in order to have a material applied to the model. I have attempted to use this to apply custom materials, however this seems to only work with Roblox-created
-- **[Avatar thumbnail infinitely loading](https://devforum.roblox.com/t/avatar-thumbnail-infinitely-loading/4974187)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Since I recently changed my avatar, my avatar headshot thumbnail has been infinitely loading. When I visit my profile, the thumbnail of my avatar renders properly, so none of the items I am wearing have been moderated, however I still canno
-- **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Key Takeaways We’ve added three new methods directly to the Color3 datatype: GetContrastingColor , GetContrastRatio , and GetLuminance . You can now automatically pick readable text/foreground colors across any background color. Hello Creat
-- **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** · Roblox updates category (availability may vary) · 2026-11-03
-  - Feed excerpt: Key Takeaways We’ve added three new methods directly to the Color3 datatype: GetContrastingColor , GetContrastRatio , and GetLuminance . You can now automatically pick readable text/foreground colors across any background color. Hello Creat
+- **[Allow OAuth apps to request luau-execution-session scope](https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: i’d like a tool i’m building to be able to use the luau-execution-session:write scope on users’ experiences. this would massively increase the scope of what third-party tools could do with games - think CI/CD, build or lint tools, etc. it’s
+- **[Additional Color3 Accessibility APIs](https://devforum.roblox.com/t/additional-color3-accessibility-apis/4974260)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Hey so this is LITERALLY being written right after Roblox just announced the new Color3 contrast & luminance methods , but as someone with a mild red-green color deficiency, I was thinking there could now be a genuine case for supporting co
+- **[AnimationTrack.length randomly started returning zero on my published game without us doing any updates](https://devforum.roblox.com/t/animationtracklength-randomly-started-returning-zero-on-my-published-game-without-us-doing-any-updates/4974276)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: In our battlegrounds game, I depend on animtrack.length to clean up after abilities, however a few days ago the task.delays started returning 0 no matter the abilities (the animations also seem to freeze on the first few frames but this one
+- **[Appeals AI Feedback Loop](https://devforum.roblox.com/t/appeals-ai-feedback-loop/4974282)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: It’s currently impossible to appeal a false enforcement ban because the AI model used in the responses has been locked into a feedback loop of false-positives. No matter what evidence is attached, the AI does not read or comprehend anything
+- **[Roblox support states my old email whenever I try to get support, regardless of account settings & billing email being different for LONG](https://devforum.roblox.com/t/roblox-support-states-my-old-email-whenever-i-try-to-get-support-regardless-of-account-settings-billing-email-being-different-for-long/4974262)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: It keeps saying to use the first email I verified with *e******…@*****.*** when my current emails, visible everywhere is *o******…@******.*** I switched off of the first email AGES ago. I was in contact with support previously using the cha
+- **[Turn screenshots into teleporting paintings](https://devforum.roblox.com/t/turn-screenshots-into-teleporting-paintings/4974220)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Create teleporting paintings from screenshots using CaptureService and EditableImage ! This resource walks through taking a screenshot in-experience, adding it to the world as a “painting”, and modifying the pixels at runtime. In the demo, 
 
 ---
 

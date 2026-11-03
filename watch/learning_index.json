@@ -234,20 +234,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4966772:1",
-      "url": "https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772",
-      "title": "[Studio Beta] Build 2D, Isometric, and Top-Down Games With Orthographic Camera",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966865:1",
       "url": "https://devforum.roblox.com/t/feedback-which-of-these-ui-frames-is-your-favorite-wip-ui-pack/4966865",
       "title": "[Feedback] Which of these UI frames is your favorite? (WIP UI Pack)",
@@ -908,14 +894,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xj1wk2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj1wk2/tutorial_system_for_my_upcoming_roblox_game/",
-      "title": "Tutorial system for my upcoming roblox game",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-30",
-      "kind": "reddit",
+      "key": "devforum:4974230:1",
+      "url": "https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230",
+      "title": "Allow OAuth apps to request luau-execution-session scope",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [
-        "first-session and mobile",
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974282:1",
+      "url": "https://devforum.roblox.com/t/appeals-ai-feedback-loop/4974282",
+      "title": "Appeals AI Feedback Loop",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
         "player feedback and marketing"
       ],
       "score": 6,
@@ -1413,19 +1413,6 @@
       "kind": "devforum",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4966568:1",
-      "url": "https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568",
-      "title": "`Player` instance replication behaves strangely when `.Character` is set",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2241,6 +2228,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4974276:1",
+      "url": "https://devforum.roblox.com/t/animationtracklength-randomly-started-returning-zero-on-my-published-game-without-us-doing-any-updates/4974276",
+      "title": "AnimationTrack.length randomly started returning zero on my published game without us doing any updates",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xj46qo",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj46qo/how_much_does_it_change_when_players_under_16_are/",
       "title": "How much does it change when players under 16 are cleared to play?",
@@ -2301,19 +2301,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xjeq7o",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjeq7o/roblox_using_fake_accounts_to_burn_your_ad_credits/",
-      "title": "Roblox using fake accounts to burn your ad credits?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-30",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3699,6 +3686,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xn6tkg",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn6tkg/bes_skill_for_comissions/",
+      "title": "Bes skill for comissions?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "animation and audio"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:DtMgeRNtH8g",
       "url": "https://www.youtube.com/shorts/DtMgeRNtH8g",
       "title": "should they run it back? 👀",
@@ -3866,19 +3867,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4966414:1",
-      "url": "https://devforum.roblox.com/t/low-poly-developer-for-hire/4966414",
-      "title": "Low poly developer for hire!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5132,6 +5120,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xn6x54",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn6x54/drifting_along_the_canyons/",
+      "title": "Drifting along the canyons",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4965287:1",
       "url": "https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287",
       "title": "Group to Group Robux Transfers",
@@ -5187,17 +5188,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4965592:1",
-      "url": "https://devforum.roblox.com/t/roblox-encountered-a-problem-check-the-console-and-reload-error-on-a-past-project/4965592",
-      "title": "\"Roblox encountered a problem. Check the console and reload\" error on a past project.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4965632:1",
       "url": "https://devforum.roblox.com/t/groups-remain-locked-after-unban/4965632",
       "title": "Groups Remain Locked After Unban",
@@ -5212,28 +5202,6 @@
       "key": "devforum:4965765:1",
       "url": "https://devforum.roblox.com/t/community-clothing-sales-robux-remain-pending-for-over-a-week/4965765",
       "title": "Community Clothing Sales Robux Remain Pending for Over a Week",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965911:1",
-      "url": "https://devforum.roblox.com/t/account-location-issue/4965911",
-      "title": "Account Location Issue",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965946:1",
-      "url": "https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946",
-      "title": "DMCA Counter-Notice Exceeded 14 Business Days",
       "source": "roblox-devforum-latest",
       "published": "2026-10-30",
       "kind": "devforum",
@@ -5286,17 +5254,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4966339:1",
-      "url": "https://devforum.roblox.com/t/underwhelming-game-stats-with-funnels-and-analytics/4966339",
-      "title": "Underwhelming game stats (with funnels and analytics!)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966389:1",
       "url": "https://devforum.roblox.com/t/error-code-249-team-create-session/4966389",
       "title": "error code 249, team create session",
@@ -5319,31 +5276,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4966400:1",
-      "url": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions-of-places-under-a-certain-group/4966400",
-      "title": "Unable to join Team Create sessions of places under a certain group.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966475:1",
       "url": "https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475",
       "title": "MoveDirection AlignOrientation flight with zeroed out Z axis of CFrame Angles?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4966620:1",
-      "url": "https://devforum.roblox.com/t/new-products-appearing-in-community-transactions-at-50-revenue-instead-of-70/4966620",
-      "title": "New products appearing in community transactions at 50% revenue instead of 70%",
       "source": "roblox-devforum-latest",
       "published": "2026-10-30",
       "kind": "devforum",
@@ -6199,6 +6134,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4974220:1",
+      "url": "https://devforum.roblox.com/t/turn-screenshots-into-teleporting-paintings/4974220",
+      "title": "Turn screenshots into teleporting paintings",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974260:1",
+      "url": "https://devforum.roblox.com/t/additional-color3-accessibility-apis/4974260",
+      "title": "Additional Color3 Accessibility APIs",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974262:1",
+      "url": "https://devforum.roblox.com/t/roblox-support-states-my-old-email-whenever-i-try-to-get-support-regardless-of-account-settings-billing-email-being-different-for-long/4974262",
+      "title": "Roblox support states my old email whenever I try to get support, regardless of account settings & billing email being different for LONG",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xj1i4f",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj1i4f/i_made_this_in_a_day_horpse_the_game/",
       "title": "I made this in a day. (horpse: the game)",
@@ -6301,17 +6269,6 @@
       "key": "reddit:1xjgk25",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjgk25/any_new_attack_ideas_for_this_boss_fight/",
       "title": "Any New Attack Ideas for this Boss Fight??",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-30",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xjh4zv",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjh4zv/i_have_choosen_the_name_for_my_roblox_strategy/",
-      "title": "I have choosen the name for my roblox strategy game, thank you all for your suggestions, \"Bloxy Wars: Modern Warfare\" will be the games name!",
       "source": "reddit-robloxstudio",
       "published": "2026-10-30",
       "kind": "reddit",
@@ -7402,6 +7359,50 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn55tt/roma_invicta_villa_map/",
       "title": "Roma Invicta villa map",
       "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn6wfb",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn6wfb/idk_what_im_doing_bro/",
+      "title": "idk what im doing bro",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn7bw4",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn7bw4/realistic_backrooms_game_im_making_its_gonna_be/",
+      "title": "realistic backrooms game i'm making. it's gonna be like the complex expedition but procedually generated and following kane's lore",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn87wo",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn87wo/help_again/",
+      "title": "Help again",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn889e",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn889e/help_again/",
+      "title": "Help again",
+      "source": "reddit-robloxstudio",
       "published": "2026-11-03",
       "kind": "reddit",
       "signals": [],

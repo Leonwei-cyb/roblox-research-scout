@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 278
+- devforum: 275
 - index-only: 9
-- reddit: 305
+- reddit: 308
 - youtube: 5
 
 ## First-Session And Mobile
@@ -63,13 +63,13 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Tools And Performance
 
 - [Characters drift and slide on the ground when playing on mobile devices in server authority](https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[Studio Beta\] Build 2D, Isometric, and Top-Down Games With Orthographic Camera](https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [\[Plugin\] UI2Code — Converts Studio UI to Lua/React code](https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one \[Studio Beta\] Build 2D, Isometric, and Top-Down Games With Orthographic Camera test with measurable pass/fail.
+3. Explain WHY it matters and propose one \[Plugin\] UI2Code — Converts Studio UI to Lua/React code test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678)** — Public text/page, video not confirmed
+- **[AnimationTrack.length randomly started returning zero on my published game without us doing any updates](https://devforum.roblox.com/t/animationtracklength-randomly-started-returning-zero-on-my-published-game-without-us-doing-any-updates/4974276)** — Public text/page, video not confirmed
 - **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** — Public text/page, video not confirmed
 
 ## 3D / models / environments

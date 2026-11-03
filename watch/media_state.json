@@ -2502,9 +2502,33 @@
     "4c27d90fa76bd6e25fe14f6f",
     "62384488c4c072a8fd908cd8",
     "4c209969d73ed8cf114b97a5",
-    "1bf0a3b56ea0464c7079c3a7"
+    "1bf0a3b56ea0464c7079c3a7",
+    "86bbbf4dae84f63fabba5a53",
+    "c1d2574c5938b5aa55f8de73",
+    "fdc6264d86fe9c140772d61d",
+    "45aa5a1ab38e152952b700eb",
+    "a9de308a941bc84e31ef8bec",
+    "8dbe9f5cd28a3750dad5b93f",
+    "eb6d723cc5b61b04c743881e",
+    "77ca4d878b1207a33bb99556",
+    "7f30c08289b88657cc959acc",
+    "2a6dedb2861a3a395154f7ed",
+    "4de8cd1741f9234f84211287",
+    "c210c6f898511fb5a3b52f32"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox support states my old email whenever I try to get support, regardless of account settings & billing email being different for LONG",
+      "url": "https://devforum.roblox.com/t/roblox-support-states-my-old-email-whenever-i-try-to-get-support-regardless-of-account-settings-billing-email-being-different-for-long/4974262",
+      "published": "2026-11-03",
+      "excerpt": "It keeps saying to use the first email I verified with *e******…@*****.*** when my current emails, visible everywhere is *o******…@******.*** I switched off of the first email AGES ago. I was in contact with support previously using the changed email. It’s been that email since 2021. I haven’t used ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-support-states-my-old-email-whenever-i-try-to-get-support-regardless-of-account-settings-billing-email-being-different-for-long/4974262.rss",
+      "id": "fdc6264d86fe9c140772d61d"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -2551,6 +2575,17 @@
       "excerpt": "I’ve always wanted to know the answer to this question since it’s quite confusing, and nobody really talks about it. We all know that games such as slap towers, keyboard escapes, etc. are ALL targeted to the younger side of Roblox. We all ALSO know that in-order to reach this audience of children, y",
       "creator": "/u/yamsiez https://www.reddit.com/user/yamsiez",
       "id": "f02ca81fcb7edf507ec91ab3"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "realistic backrooms game i'm making. it's gonna be like the complex expedition but procedually generated and following kane's lore",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn7bw4/realistic_backrooms_game_im_making_its_gonna_be/",
+      "published": "2026-11-03",
+      "excerpt": "any tips? submitted by /u/UnreasonableDumm [link] [comments]",
+      "creator": "/u/UnreasonableDumm https://www.reddit.com/user/UnreasonableDumm",
+      "id": "eb6d723cc5b61b04c743881e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2806,6 +2841,29 @@
       "id": "c2b481a98a7308119105b3e4"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Bes skill for comissions?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn6tkg/bes_skill_for_comissions/",
+      "published": "2026-11-03",
+      "excerpt": "Whats the best skill u can learn right now to make comissions and to maybe in a future make games or join a team? i mean like vfx, ui design, animator, modeler, clothing, etc (i think code its probably not the best rn because of ai) and thxsm submitted by /u/Obakin1865 [link] [comments]",
+      "creator": "/u/Obakin1865 https://www.reddit.com/user/Obakin1865",
+      "id": "c210c6f898511fb5a3b52f32"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "AnimationTrack.length randomly started returning zero on my published game without us doing any updates",
+      "url": "https://devforum.roblox.com/t/animationtracklength-randomly-started-returning-zero-on-my-published-game-without-us-doing-any-updates/4974276",
+      "published": "2026-11-03",
+      "excerpt": "In our battlegrounds game, I depend on animtrack.length to clean up after abilities, however a few days ago the task.delays started returning 0 no matter the abilities (the animations also seem to freeze on the first few frames but this one might be on our end, due to the animtrack.length returning ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/animationtracklength-randomly-started-returning-zero-on-my-published-game-without-us-doing-any-updates/4974276.rss",
+      "id": "c1d2574c5938b5aa55f8de73"
+    },
+    {
       "source": "roblox-devforum-updates",
       "label": "Roblox updates category (availability may vary)",
       "category": "roblox_updates",
@@ -2929,6 +2987,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/increase-accessibility-to-robloxs-post-processing/4973924.rss",
       "id": "ab6cbb868fb71cafe7f90ce9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Allow OAuth apps to request luau-execution-session scope",
+      "url": "https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230",
+      "published": "2026-11-03",
+      "excerpt": "i’d like a tool i’m building to be able to use the luau-execution-session:write scope on users’ experiences. this would massively increase the scope of what third-party tools could do with games - think CI/CD, build or lint tools, etc. it’s obviously a powerful scope, but there is already an adequat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230.rss",
+      "id": "a9de308a941bc84e31ef8bec"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3166,6 +3236,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Turn screenshots into teleporting paintings",
+      "url": "https://devforum.roblox.com/t/turn-screenshots-into-teleporting-paintings/4974220",
+      "published": "2026-11-03",
+      "excerpt": "Create teleporting paintings from screenshots using CaptureService and EditableImage ! This resource walks through taking a screenshot in-experience, adding it to the world as a “painting”, and modifying the pixels at runtime. In the demo, you can even walk up to the painting and warp to the origina",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/turn-screenshots-into-teleporting-paintings/4974220.rss",
+      "id": "8dbe9f5cd28a3750dad5b93f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "OOM crashes tripled out of nowhere causing a 20% first play bounce rate increase",
       "url": "https://devforum.roblox.com/t/oom-crashes-tripled-out-of-nowhere-causing-a-20-first-play-bounce-rate-increase/4972794",
       "published": "2026-11-03",
@@ -3256,6 +3338,29 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Appeals AI Feedback Loop",
+      "url": "https://devforum.roblox.com/t/appeals-ai-feedback-loop/4974282",
+      "published": "2026-11-03",
+      "excerpt": "It’s currently impossible to appeal a false enforcement ban because the AI model used in the responses has been locked into a feedback loop of false-positives. No matter what evidence is attached, the AI does not read or comprehend anything within the appeal and denies it. Even if your ban is confir",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/appeals-ai-feedback-loop/4974282.rss",
+      "id": "86bbbf4dae84f63fabba5a53"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Help again",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn87wo/help_again/",
+      "published": "2026-11-03",
+      "excerpt": "So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 [link] [comments]",
+      "creator": "/u/Odd_Unit3217 https://www.reddit.com/user/Odd_Unit3217",
+      "id": "7f30c08289b88657cc959acc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox Crash at random bug.",
       "url": "https://devforum.roblox.com/t/roblox-crash-at-random-bug/4973405",
       "published": "2026-11-03",
@@ -3263,6 +3368,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-crash-at-random-bug/4973405.rss",
       "id": "7d5ab1c480afe4f8834503fe"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Help again",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn889e/help_again/",
+      "published": "2026-11-03",
+      "excerpt": "So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 [link] [comments]",
+      "creator": "/u/Odd_Unit3217 https://www.reddit.com/user/Odd_Unit3217",
+      "id": "77ca4d878b1207a33bb99556"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3566,6 +3682,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "idk what im doing bro",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn6wfb/idk_what_im_doing_bro/",
+      "published": "2026-11-03",
+      "excerpt": "whenever I try and upload anything it says too many requests. I even waited a day and it's still doing it. google and YouTube doesn't help so I came here someone pls help me. submitted by /u/sprite_brite5446 [link] [comments]",
+      "creator": "/u/sprite_brite5446 https://www.reddit.com/user/sprite_brite5446",
+      "id": "4de8cd1741f9234f84211287"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "I need help developing an ocean liner tycoon game",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xmw0ec/i_need_help_developing_an_ocean_liner_tycoon_game/",
       "published": "2026-11-03",
@@ -3664,6 +3791,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/cant-export-rigged-weapon-from-blender/4973335.rss",
       "id": "464fa0ddc704110826d71ac0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Additional Color3 Accessibility APIs",
+      "url": "https://devforum.roblox.com/t/additional-color3-accessibility-apis/4974260",
+      "published": "2026-11-03",
+      "excerpt": "Hey so this is LITERALLY being written right after Roblox just announced the new Color3 contrast & luminance methods , but as someone with a mild red-green color deficiency, I was thinking there could now be a genuine case for supporting color vision deficiencies directly through Color3 . The new me",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/additional-color3-accessibility-apis/4974260.rss",
+      "id": "45aa5a1ab38e152952b700eb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3812,6 +3951,17 @@
       "excerpt": "Hey, this is my first Roblox game. I tried to make the idea as original as I could. It’s called Escape From Goku!, and I’m sharing a short gameplay video above. How it works: Every round, one player is Goku, the Hunter . He flies at insane speed, fires Kamehamehas, punches survivors through walls an",
       "creator": "/u/Motor_Order_9579 https://www.reddit.com/user/Motor_Order_9579",
       "id": "2a982daa0cea767f00364c51"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Drifting along the canyons",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn6x54/drifting_along_the_canyons/",
+      "published": "2026-11-03",
+      "excerpt": "Seems familiar🤔 Everything done within ROBLOX Studio. submitted by /u/CryNo4699 [link] [comments]",
+      "creator": "/u/CryNo4699 https://www.reddit.com/user/CryNo4699",
+      "id": "2a6dedb2861a3a395154f7ed"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9253,147 +9403,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dynamic-head-without-eyebrows/4966001.rss",
       "id": "167f9355627c4392ae411326"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "New products appearing in community transactions at 50% revenue instead of 70%",
-      "url": "https://devforum.roblox.com/t/new-products-appearing-in-community-transactions-at-50-revenue-instead-of-70/4966620",
-      "published": "2026-10-30",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-products-appearing-in-community-transactions-at-50-revenue-instead-of-70/4966620.rss",
-      "id": "14cfb5703b8b4337246bb94e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Account Location Issue",
-      "url": "https://devforum.roblox.com/t/account-location-issue/4965911",
-      "published": "2026-10-30",
-      "excerpt": "I have been told to paste this here by DevRel Account location changes do not properly get picked up in time; My Account Location has been stuck on one country for over two and a half months, and it’s preventing me from collaborating with others. Expected Behaviour Account location should switch whe",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/account-location-issue/4965911.rss",
-      "id": "1130cc9a508287f09b5e666b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "\"Roblox encountered a problem. Check the console and reload\" error on a past project.",
-      "url": "https://devforum.roblox.com/t/roblox-encountered-a-problem-check-the-console-and-reload-error-on-a-past-project/4965592",
-      "published": "2026-10-30",
-      "excerpt": "I haven’t checked any other game under my profile, but this came to my mind first. I tried booting up the game and saw that it for some reason didn’t boot up. WebClient errors out on line 1 WasmPlayer errors out on line 4 Despite the popup, the code still seems to function even after erroring out bu",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-encountered-a-problem-check-the-console-and-reload-error-on-a-past-project/4965592.rss",
-      "id": "111e1fae4e27cf57a16f1fc2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to join Team Create sessions of places under a certain group.",
-      "url": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions-of-places-under-a-certain-group/4966400",
-      "published": "2026-10-30",
-      "excerpt": "I am unable to join active team create sessions under the BloxStrike group. Namely; This Dev Place . I have no issues joining team create sessions in other groups, and I am able to open places where there are no active users even under this group, however if the team create session is ongoing and al",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions-of-places-under-a-certain-group/4966400.rss",
-      "id": "10e6f2410ee16c9573d0c165"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "`Player` instance replication behaves strangely when `.Character` is set",
-      "url": "https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568",
-      "published": "2026-10-30",
-      "excerpt": "Currently, there appears to be a very bizarre behavior / bug with replication that only seems to occur with the Player object. If properties, attributes and tags are applied to the player object & a player’s avatar before Player.Character is set, the changed signals for those will all be received by",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/player-instance-replication-behaves-strangely-when-character-is-set/4966568.rss",
-      "id": "105ed8320c724e561a22babd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I have choosen the name for my roblox strategy game, thank you all for your suggestions, \"Bloxy Wars: Modern Warfare\" will be the games name!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjh4zv/i_have_choosen_the_name_for_my_roblox_strategy/",
-      "published": "2026-10-30",
-      "excerpt": "I am making a roblox strategy game and asked you guys to suggest some names, thank you all, for those who wonder how the game looks or havent seen my post heres some drawings and pictures of my units submitted by /u/Mr_president850 [link] [comments]",
-      "creator": "/u/Mr_president850 https://www.reddit.com/user/Mr_president850",
-      "id": "0f2c906788c44e65b63c0838"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Low poly developer for hire!",
-      "url": "https://devforum.roblox.com/t/low-poly-developer-for-hire/4966414",
-      "published": "2026-10-30",
-      "excerpt": "Hi there! I am offering my services as a modeler. I specialize in low poly models. I have been using Blender for 6 years and have previously worked on few games such as WW1/WW2 themed Warborne, sadly never released, Orion Maryland, and a few other games. Availability: Just contact me and we’ll discu",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/low-poly-developer-for-hire/4966414.rss",
-      "id": "0eff6e26a2b820e481a012f6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Underwhelming game stats (with funnels and analytics!)",
-      "url": "https://devforum.roblox.com/t/underwhelming-game-stats-with-funnels-and-analytics/4966339",
-      "published": "2026-10-30",
-      "excerpt": "Hello! I recently released my game world of power and I am concerned about the stats. I released multiple games before (including this game which is why it already has 900k visists) but recently ive only gained around 4k new visits. So essentially, treat this like an entirely new game. My stats are ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/underwhelming-game-stats-with-funnels-and-analytics/4966339.rss",
-      "id": "0d99db39e7474664c4bddcc0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "DMCA Counter-Notice Exceeded 14 Business Days",
-      "url": "https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946",
-      "published": "2026-10-30",
-      "excerpt": "What do you want to achieve? I want Roblox to investigate the delay in restoring my experience after the DMCA counter-notice process. What is the issue? On October 6, 2026, at 9:14 PM UTC, Roblox confirmed by email that my partner’s counter-notice had been forwarded to the original complainant. As o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/dmca-counter-notice-exceeded-14-business-days/4965946.rss",
-      "id": "0d58a26cd7a1f18a11581c8a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Tutorial system for my upcoming roblox game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj1wk2/tutorial_system_for_my_upcoming_roblox_game/",
-      "published": "2026-10-30",
-      "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
-      "creator": "/u/vestive https://www.reddit.com/user/vestive",
-      "id": "0ae1bcd31f57a1df2c7a941d"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] Build 2D, Isometric, and Top-Down Games With Orthographic Camera",
-      "url": "https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772",
-      "published": "2026-10-30",
-      "excerpt": "Key Takeaways Orthographic Camera is rolling out now in Studio Beta. You can build 2D, isometric, and top-down games where objects stay the same size at any distance. Find it in File > Beta Features , then set Camera.ProjectionType to Orthographic . Hi Creators, We’re launching the Orthographic Came",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772.rss",
-      "id": "07c75df69d959220bb0919a9"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Roblox using fake accounts to burn your ad credits?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjeq7o/roblox_using_fake_accounts_to_burn_your_ad_credits/",
-      "published": "2026-10-30",
-      "excerpt": "submitted by /u/grasharcu [link] [comments]",
-      "creator": "/u/grasharcu https://www.reddit.com/user/grasharcu",
-      "id": "0790867a159d93894410e803"
     }
   ]
 }
