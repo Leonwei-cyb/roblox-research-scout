@@ -7,8 +7,8 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[next stop on The Burning Up Tour All Over Again: Steal an Egg. Jonas Brothers live this Halloween.](https://www.youtube.com/shorts/sRNaj6S0zhY)** — Original media link, not watched
+- **[Roblox the Hollow completion and earlier puzzle badges not being awarded.](https://devforum.roblox.com/t/roblox-the-hollow-completion-and-earlier-puzzle-badges-not-being-awarded/4972964)** — Public text/page, video not confirmed
 - **[What I learned getting 200+ enemies on screen at 60 fps in my Roblox tower defense](https://www.reddit.com/r/robloxgamedev/comments/1xmfolc/what_i_learned_getting_200_enemies_on_screen_at/)** — Public text/page, video not confirmed
-- **[Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 

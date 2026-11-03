@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 284
+- devforum: 282
 - index-only: 11
-- reddit: 295
+- reddit: 297
 - youtube: 7
 
 ## First-Session And Mobile
@@ -57,8 +57,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
+- [I made a Roblox game where you escape from a giant angry cat 😭 Would love some honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xmmnl4/i_made_a_roblox_game_where_you_escape_from_a/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [\[Feedback\] Which of these UI frames is your favorite? (WIP UI Pack)](https://devforum.roblox.com/t/feedback-which-of-these-ui-frames-is-your-favorite-wip-ui-pack/4966865) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Looking for feedback for my incremental game!](https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 
