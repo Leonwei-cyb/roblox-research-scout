@@ -2367,9 +2367,54 @@
     "a3bf44ebffe6ec7b538a5f10",
     "546d0851757473e3adc4b154",
     "38483f9f3fb4eac42f876171",
-    "e4fd907c6792fb1934ad7031"
+    "e4fd907c6792fb1934ad7031",
+    "4aafddbd708f1ed84802e2dc",
+    "a093f68d9af666586a18dc4b",
+    "a4ea49679cb162fc61efb6b9",
+    "5b75582c6dcd2a409f7d5075",
+    "ab9e3659cf046db5374ff4b9",
+    "eb48f3763703046710431eda",
+    "c7461551f719852a6d46e79f",
+    "9247b94d3d5684fb343847ea",
+    "0094fd16ec1b3499913d8585",
+    "36025efee65e49e12ad3a1e9"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Open Cloud endpoint for updating a game's icon",
+      "url": "https://devforum.roblox.com/t/open-cloud-endpoint-for-updating-a-games-icon/4972629",
+      "published": "2026-11-03",
+      "excerpt": "I am looking to automate changing my game’s icon to easily add countdowns on the icon before an update, but this is currently impossible without using cookies, as there is no Open Cloud API endpoint for it. The only game icon related endpoint that supports API keys, POST /legacy-game-internationaliz",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-cloud-endpoint-for-updating-a-games-icon/4972629.rss",
+      "id": "eb48f3763703046710431eda"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What I learned getting 200+ enemies on screen at 60 fps in my Roblox tower defense",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmfolc/what_i_learned_getting_200_enemies_on_screen_at/",
+      "published": "2026-11-03",
+      "excerpt": "I'm a solo dev making a tower defense on Roblox (plastic army men vs an alien insect hive, up to 4-player co-op). Big waves were dropping to 12-30 fps on some maps, so I spent a couple of weeks measuring instead of guessing. What actually mattered: It wasn't the server. The simulation step was under",
+      "creator": "/u/Ok_Celebration8237 https://www.reddit.com/user/Ok_Celebration8237",
+      "id": "c7461551f719852a6d46e79f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "automated very unclear ban note instant denies appeals thinking its a modified client termination",
+      "url": "https://devforum.roblox.com/t/automated-very-unclear-ban-note-instant-denies-appeals-thinking-its-a-modified-client-termination/4972640",
+      "published": "2026-11-03",
+      "excerpt": "support instantly replies with this and the ban note just says something about multiple uploads??? Expected behavior shouldn’t even be banned in the first place 3 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/automated-very-unclear-ban-note-instant-denies-appeals-thinking-its-a-modified-client-termination/4972640.rss",
+      "id": "ab9e3659cf046db5374ff4b9"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -2386,6 +2431,53 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Function isn't reading the arguments I'm sending it?",
+      "url": "https://devforum.roblox.com/t/function-isnt-reading-the-arguments-im-sending-it/4972673",
+      "published": "2026-11-03",
+      "excerpt": "Hello, to explain what’s going on, I have a table that stores functions in it and the functions are supposed to carry 2 arguments which is the player and a item. But for some reason when I play the game it says that the item is nil even though I sent the item to it. The item is activated with a Clic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/function-isnt-reading-the-arguments-im-sending-it/4972673.rss",
+      "id": "a4ea49679cb162fc61efb6b9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Asset Manager UI unusable after Studio is idle",
+      "url": "https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678",
+      "published": "2026-11-03",
+      "excerpt": "I don’t know of a specific way to reproduce it, but whenever I leave Studio idle for a while and come back to it, my Asset Manager ends up glitched out. All the buttons get squashed to the top left with everything else being blank. The only workaround I have right now is to close Asset Manager and r",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678.rss",
+      "id": "a093f68d9af666586a18dc4b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "would a fantasy arpg do well on roblox?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmfofm/would_a_fantasy_arpg_do_well_on_roblox/",
+      "published": "2026-11-03",
+      "excerpt": "hi! i'm new to roblox dev, but an experienced concept artist and modeler. i'm looking to pick up a new project to work on in my free time and have always been interested in making a story-driven, open world, fantasy arpg game akin to genshin, wuthering waves (without the gacha) or breath of the wild",
+      "creator": "/u/notkaileyyy https://www.reddit.com/user/notkaileyyy",
+      "id": "9247b94d3d5684fb343847ea"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Penpot Bridge — Free, open-source Penpot to Roblox UI importer",
+      "url": "https://devforum.roblox.com/t/penpot-bridge-%E2%80%94-free-open-source-penpot-to-roblox-ui-importer/4972663",
+      "published": "2026-11-03",
+      "excerpt": "Penpot Bridge brings Penpot designs into Roblox Studio as editable UI where supported, with image fallbacks for complex artwork. Select a layer, group or board in Penpot, prepare it, send it to Studio, review the changes and import. Send the same selection again to update an existing import, preserv",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/penpot-bridge-%E2%80%94-free-open-source-penpot-to-roblox-ui-importer/4972663.rss",
+      "id": "5b75582c6dcd2a409f7d5075"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Verified badge unobtainable after false & appealed username moderation",
       "url": "https://devforum.roblox.com/t/verified-badge-unobtainable-after-false-appealed-username-moderation/4972587",
       "published": "2026-11-03",
@@ -2393,6 +2485,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/verified-badge-unobtainable-after-false-appealed-username-moderation/4972587.rss",
       "id": "4e01f96efdb55323570e25ee"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Help with PluginManager:ExportSelection()",
+      "url": "https://devforum.roblox.com/t/help-with-pluginmanagerexportselection/4972679",
+      "published": "2026-11-03",
+      "excerpt": "I have a cmd line script to help me with mass exporting models into a folder for blender renders. The script using PluginManager:ExportSelection(PATH) to achieve this, my issue is with file naming, my initial thought was that {PATH}/{model.Name} would auto fill the file manager window with a name fo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/help-with-pluginmanagerexportselection/4972679.rss",
+      "id": "4aafddbd708f1ed84802e2dc"
     },
     {
       "source": "reddit-robloxdev",
@@ -2404,6 +2508,28 @@
       "excerpt": "Hey all! I've been working solo on my first big Roblox game, Steal a City. The idea: buy buildings off passing trucks, place them in your city, then merge them. Two houses become a bigger house, but you can also mix different buildings (Pizza Place + Fire Station = Pizza Fire Station). There are 8,0",
       "creator": "/u/TopEvan33 https://www.reddit.com/user/TopEvan33",
       "id": "38483f9f3fb4eac42f876171"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Cuánto recomiendan invertir en anuncios?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmeou4/cuánto_recomiendan_invertir_en_anuncios/",
+      "published": "2026-11-03",
+      "excerpt": "Estoy a punto de terminar un juego slop y me surgió una duda, antes de sacarlo cuánto recomiendan invertir en publicidad? Mi presupuesto es de 2000 pesos mexicanos (100usd aprox) submitted by /u/Waste-Cap-1696 [link] [comments]",
+      "creator": "/u/Waste-Cap-1696 https://www.reddit.com/user/Waste-Cap-1696",
+      "id": "36025efee65e49e12ad3a1e9"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How I built a random skill combo system for wands in my solo Roblox RPG",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmev0q/how_i_built_a_random_skill_combo_system_for_wands/",
+      "published": "2026-11-03",
+      "excerpt": "I'm a solo developer working on a magic school RPG on Roblox, and I wanted every rare wand to feel different without hand-making hundreds of skills. My solution was to build each wand skill from separate parts when the wand is obtained: - A shape, such as how the spell is delivered - An extra effect",
+      "creator": "/u/D_Bon8 https://www.reddit.com/user/D_Bon8",
+      "id": "0094fd16ec1b3499913d8585"
     },
     {
       "source": "reddit-robloxdev",
@@ -9151,123 +9277,6 @@
       "excerpt": "12 days ago I released my first game and have been stuck around 10 - 20 ccu. I've been running daily ads at $20/day with 1-2% CTR and am around 12min avg playtime. Working on improving my D1 retention and playtime avg...what is most important for me to be focusing on in this period of time to grow m",
       "creator": "/u/huntoir https://www.reddit.com/user/huntoir",
       "id": "2a37e3bc333b4119b977e43a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "iOS (Japan only): Screen turns sideways when player opens \"Buy Robux\" from the bulk purchase prompt",
-      "url": "https://devforum.roblox.com/t/ios-japan-only-screen-turns-sideways-when-player-opens-buy-robux-from-the-bulk-purchase-prompt/4965216",
-      "published": "2026-10-29",
-      "excerpt": "On Japanese iOS devicesin , the screen orientation changes when the player touches “Buy Robux” in the bulk purchase prompt. The experience shows sideways during the Robux purchase. The purchase completes correctly. Only the screen orientation is incorrect. We’re currently only seeing this problem sp",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ios-japan-only-screen-turns-sideways-when-player-opens-buy-robux-from-the-bulk-purchase-prompt/4965216.rss",
-      "id": "284028ec02e2178a2fbee52a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Horror Game Feedback!",
-      "url": "https://devforum.roblox.com/t/horror-game-feedback/4964750",
-      "published": "2026-10-29",
-      "excerpt": "Hey everyone! I’ve been working on a horror game called THE GAUNT and recently got it to a point where it’s playable. The game is definitely still a work in progress, and there’s a lot I still want to add and improve, but the main gameplay and mechanics are pretty much done. I’d really appreciate it",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/horror-game-feedback/4964750.rss",
-      "id": "271fb39666d1d4094c98a38f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game Incorrectly Banned For Terrorism & Banning Players",
-      "url": "https://devforum.roblox.com/t/game-incorrectly-banned-for-terrorism-banning-players/4964703",
-      "published": "2026-10-29",
-      "excerpt": "My friend @CUPlDSBOW has a home store called [ Outfits] Cupid’s Corner Kawaii Cutecore Ideas that was incorrectly banned for Terrorism/Extremism. Place ID: 3145291404 The game is a home store where users can customize their avatar using the group’s clothing, paramnesia. After I purchased some clothi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-incorrectly-banned-for-terrorism-banning-players/4964703.rss",
-      "id": "25f362f93ba8a616f58499ea"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Plugins Not Showing up",
-      "url": "https://devforum.roblox.com/t/plugins-not-showing-up/4964560",
-      "published": "2026-10-29",
-      "excerpt": "For whatever reason, whenever I download a plugin (I always make sure it’s trusted) it shows up that I own it and that it’s in my inventory, however, when I got to use them in studio, they don’t show up in the plugin bar. Now as of the past week, I was able to get 4 plugins to show up, however the r",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/plugins-not-showing-up/4964560.rss",
-      "id": "232ef37aab914a3a91fadd25"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "TextChatCommand:Run(arg1,arg2,arg3)",
-      "url": "https://devforum.roblox.com/t/textchatcommandrunarg1arg2arg3/4963658",
-      "published": "2026-10-29",
-      "excerpt": "Important TextChatService Updates: How to Test and What’s Next Presets / Chat Wheels TextChannel:SendAsync Because TextChannel:SendAsync is being deprecated and will be completely removed from the engine it would be useful to have TextChatCommand:Run(arg1,arg2,arg3) where i could still trigger a tex",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/textchatcommandrunarg1arg2arg3/4963658.rss",
-      "id": "22de51cfa4f149f38dbcc81b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Swirl",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xivs4s/swirl/",
-      "published": "2026-10-29",
-      "excerpt": "Fun model I created using some of my older assets and putting them together in one thing. submitted by /u/CryNo4699 [link] [comments]",
-      "creator": "/u/CryNo4699 https://www.reddit.com/user/CryNo4699",
-      "id": "200f1bdb09357de3c0eace0f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Custom R15 UV Support for Shirts/Pants",
-      "url": "https://devforum.roblox.com/t/custom-r15-uv-support-for-shirtspants/4965176",
-      "published": "2026-10-29",
-      "excerpt": "As a Roblox developer, it is currently impossible to use Shirt and Pants instances on characters whose body parts don’t use Roblox’s built-in UV layout. The Shirt and Pants objects only render correctly on meshes that are UV-mapped to Roblox’s internal humanoid layout. Any custom R15 characters that",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/custom-r15-uv-support-for-shirtspants/4965176.rss",
-      "id": "1dd5ca6d874ed2afbe0d4df8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "We could not open the place. Failed to fetch place info",
-      "url": "https://devforum.roblox.com/t/we-could-not-open-the-place-failed-to-fetch-place-info/4965030",
-      "published": "2026-10-29",
-      "excerpt": "Every time I try to open a game of mine to edit im shown this Error We could not open the place [#]. Failed to fetch place info. If you continue to encounter this error, please report it on the Developer Forum. This has been happening for 2 days straight so I came here also the hastag is a placehold",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/we-could-not-open-the-place-failed-to-fetch-place-info/4965030.rss",
-      "id": "1b9eea0191aeff9d9b19e6f3"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "my cute stud animals",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xitrzc/my_cute_stud_animals/",
-      "published": "2026-10-29",
-      "excerpt": "these were made totally in studio with mesh parts and they have that really nice steal an egg style texture on them, its kinda different but they are still really cute, and they use a procedural idle and walk animation !! submitted by /u/OppositeMental4347 [link] [comments]",
-      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
-      "id": "1ae596bf8699765eebbc8231"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking to hire someone to build a small sized map with destructive physics for an up & coming Marvel related game!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi6ase/looking_to_hire_someone_to_build_a_small_sized/",
-      "published": "2026-10-29",
-      "excerpt": "What I am in search for: Optimized small map with destructive physics Budget: open to negotiate submitted by /u/uponthehill_ [link] [comments]",
-      "creator": "/u/uponthehill_ https://www.reddit.com/user/uponthehill_",
-      "id": "1947deb1fd4ea7f50929f924"
     }
   ]
 }

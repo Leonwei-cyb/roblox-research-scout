@@ -20,7 +20,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - brock-ig-reels: 12
 - brock-tiktok: 6
 - brock-x: 0
-- roblox-animation-showcases: 3
+- roblox-animation-showcases: 2
 - tizzy-roblox-design: 2
 - syphodev-claude: 12
 
@@ -31,5 +31,5 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 ## Failures (not silently skipped)
 
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
-- youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 404
+- youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 500
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 404

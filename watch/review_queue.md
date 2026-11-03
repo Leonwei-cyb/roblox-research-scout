@@ -7,12 +7,12 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[next stop on The Burning Up Tour All Over Again: Steal an Egg. Jonas Brothers live this Halloween.](https://www.youtube.com/shorts/sRNaj6S0zhY)** — Original media link, not watched
-- **[I made my first Roblox game: a pet-rolling farm on sky islands. Looking for testers and honest feedback!](https://www.reddit.com/r/ROBLOXStudio/comments/1xm5efi/i_made_my_first_roblox_game_a_petrolling_farm_on/)** — Public text/page, video not confirmed
-- **[How we handled lookalike NPCs and mannequin blending in our co-op mall stealth game](https://www.reddit.com/r/robloxgamedev/comments/1xm2wyh/how_we_handled_lookalike_npcs_and_mannequin/)** — Public text/page, video not confirmed
+- **[What I learned getting 200+ enemies on screen at 60 fps in my Roblox tower defense](https://www.reddit.com/r/robloxgamedev/comments/1xmfolc/what_i_learned_getting_200_enemies_on_screen_at/)** — Public text/page, video not confirmed
+- **[Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
-- **[Video Ads Close Button sometimes does not work](https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952)** — Public text/page, video not confirmed
+- **[Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 

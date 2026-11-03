@@ -5,34 +5,31 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Animations And Vfx
-
-- **[Open-Ballistics \| Official Roblox Gun System Showcase - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KMTc3cmVERWxSNnN4ZnpsWW1yZUpOcUx6S0hYUzVhTDZSZ2JCS0U0Vl8xSzJKeVhGMUFrVUZKNko2bXZVakdhUERRRktHek9tWnpUTFFn?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-10-07
-  - Feed excerpt: Open-Ballistics \| Official Roblox Gun System Showcase YouTube
-
 ## Community
 
-- **[Is this good? (First time running ad)](https://www.reddit.com/r/robloxgamedev/comments/1xmd2lm/is_this_good_first_time_running_ad/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: So I asked so if this was good it told me it was real because my cover sucks so this was stats for yesterday I let it ran till yesterday and paused it to see what I need to fix on my game #dontaskai submitted by /u/unknown-alien- \[link\] \[co
-- **[My kid says my game doesn't have enough goyslop?](https://www.reddit.com/r/robloxgamedev/comments/1xmd8zf/my_kid_says_my_game_doesnt_have_enough_goyslop/)** · Reddit r/robloxgamedev public RSS · 2026-11-02
-  - Feed excerpt: I created my first game but I can't tell if it sucks or not. My kids won't even look at it for more than 10 seconds let alone play test it... and goyslop is the only feedback I get... sigh. The game is loosely based off the anime Now and Th
-- **[I made a game where you can merge any two buildings into a new one, looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xmdsn6/i_made_a_game_where_you_can_merge_any_two/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Hey all! I've been working solo on my first big Roblox game, Steal a City. The idea: buy buildings off passing trucks, place them in your city, then merge them. Two houses become a bigger house, but you can also mix different buildings (Piz
+- **[Cuánto recomiendan invertir en anuncios?](https://www.reddit.com/r/robloxgamedev/comments/1xmeou4/cuánto_recomiendan_invertir_en_anuncios/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Estoy a punto de terminar un juego slop y me surgió una duda, antes de sacarlo cuánto recomiendan invertir en publicidad? Mi presupuesto es de 2000 pesos mexicanos (100usd aprox) submitted by /u/Waste-Cap-1696 \[link\] \[comments\]
+- **[How I built a random skill combo system for wands in my solo Roblox RPG](https://www.reddit.com/r/robloxgamedev/comments/1xmev0q/how_i_built_a_random_skill_combo_system_for_wands/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: I'm a solo developer working on a magic school RPG on Roblox, and I wanted every rare wand to feel different without hand-making hundreds of skills. My solution was to build each wand skill from separate parts when the wand is obtained: - A
+- **[What I learned getting 200+ enemies on screen at 60 fps in my Roblox tower defense](https://www.reddit.com/r/robloxgamedev/comments/1xmfolc/what_i_learned_getting_200_enemies_on_screen_at/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: I'm a solo dev making a tower defense on Roblox (plastic army men vs an alien insect hive, up to 4-player co-op). Big waves were dropping to 12-30 fps on some maps, so I spent a couple of weeks measuring instead of guessing. What actually m
+- **[would a fantasy arpg do well on roblox?](https://www.reddit.com/r/robloxgamedev/comments/1xmfofm/would_a_fantasy_arpg_do_well_on_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: hi! i'm new to roblox dev, but an experienced concept artist and modeler. i'm looking to pick up a new project to work on in my free time and have always been interested in making a story-driven, open world, fantasy arpg game akin to genshi
 
 ## Roblox Updates
 
-- **[Update on Account Bans, Alt Detection, and Appeals](https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: Key Takeaways: Today, we’re launching a new Game Issues & Appeals page on the Creator Hub. Find it in Creations > \[Game\] > Safety > Issues and appeals . We’re also sharing our principles on account bans, linked-account detection, and appeal
-- **[Update on Account Bans, Alt Detection, and Appeals](https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565)** · Roblox updates category (availability may vary) · 2026-11-02
-  - Feed excerpt: Key Takeaways: Today, we’re launching a new Game Issues & Appeals page on the Creator Hub. Find it in Creations > \[Game\] > Safety > Issues and appeals . We’re also sharing our principles on account bans, linked-account detection, and appeal
-- **[Expose MicroProfiler captures and timing data through the Studio MCP integration](https://devforum.roblox.com/t/expose-microprofiler-captures-and-timing-data-through-the-studio-mcp-integration/4972535)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: Hello! As a Roblox developer, it is currently too hard to use an AI assistant connected through the Studio MCP integration to investigate performance problems using actual MicroProfiler data. The tools exposed in my current MCP session let 
-- **[\[For Hire\] Roblox Luau Programmer \| 6+ Years of Experience](https://devforum.roblox.com/t/for-hire-roblox-luau-programmer-6-years-of-experience/4972545)** · Roblox Developer Forum latest · 2026-11-02
-  - Feed excerpt: About Me Hi there! I’m a Roblox programmer who specializes in developing systems for games. I’ve been programming on Roblox for over 6 years and am currently working on several projects. Showcase Here are some videos of my work (click for m
-- **[Verified badge unobtainable after false & appealed username moderation](https://devforum.roblox.com/t/verified-badge-unobtainable-after-false-appealed-username-moderation/4972587)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: I received a Verified Badge after meeting the requirements. Apparently, My previous username has been tagged for years, I had no idea why and I never had problems with it. On October 1st, my username was reset. I quickly sent an appeal and 
-- **[게임 피드백 가능할까요? 옷 디자인하는 게임입니다](https://devforum.roblox.com/t/%EA%B2%8C%EC%9E%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%98%B7-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9E%85%EB%8B%88%EB%8B%A4/4972601)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: 게임을 만들었는데 피드백 해주시면 감사하겠습니다ㅜㅜ 광고를 돌려도 재접속률이 너무 낮아요 Roblox 디자인시티 🎨 \[할로윈\] Check out 디자인시티 🎨 \[할로윈\] . It’s one of the millions of unique, user-generated 3D experiences created on Roblox. 🎨 DESIGN CITY Design your own clothes, save and wear your 
+- **[Penpot Bridge — Free, open-source Penpot to Roblox UI importer](https://devforum.roblox.com/t/penpot-bridge-%E2%80%94-free-open-source-penpot-to-roblox-ui-importer/4972663)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Penpot Bridge brings Penpot designs into Roblox Studio as editable UI where supported, with image fallbacks for complex artwork. Select a layer, group or board in Penpot, prepare it, send it to Studio, review the changes and import. Send th
+- **[Open Cloud endpoint for updating a game's icon](https://devforum.roblox.com/t/open-cloud-endpoint-for-updating-a-games-icon/4972629)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: I am looking to automate changing my game’s icon to easily add countdowns on the icon before an update, but this is currently impossible without using cookies, as there is no Open Cloud API endpoint for it. The only game icon related endpoi
+- **[Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: I don’t know of a specific way to reproduce it, but whenever I leave Studio idle for a while and come back to it, my Asset Manager ends up glitched out. All the buttons get squashed to the top left with everything else being blank. The only
+- **[Function isn't reading the arguments I'm sending it?](https://devforum.roblox.com/t/function-isnt-reading-the-arguments-im-sending-it/4972673)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Hello, to explain what’s going on, I have a table that stores functions in it and the functions are supposed to carry 2 arguments which is the player and a item. But for some reason when I play the game it says that the item is nil even tho
+- **[Help with PluginManager:ExportSelection()](https://devforum.roblox.com/t/help-with-pluginmanagerexportselection/4972679)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: I have a cmd line script to help me with mass exporting models into a folder for blender renders. The script using PluginManager:ExportSelection(PATH) to achieve this, my issue is with file naming, my initial thought was that {PATH}/{model.
+- **[automated very unclear ban note instant denies appeals thinking its a modified client termination](https://devforum.roblox.com/t/automated-very-unclear-ban-note-instant-denies-appeals-thinking-its-a-modified-client-termination/4972640)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: support instantly replies with this and the ban note just says something about multiple uploads??? Expected behavior shouldn’t even be banned in the first place 3 posts - 2 participants Read full topic
 
 ---
 

@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 285
+- devforum: 284
 - index-only: 11
-- reddit: 294
+- reddit: 295
 - youtube: 7
 
 ## First-Session And Mobile
 
+- [Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 - [!!MOBILE PLAYERS!! How is this UI setup for you?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [Scripts says that the animation track's length is 0, while its a ctually not](https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -42,8 +42,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Animation And Audio
 
+- [Scripts says that the animation track's length is 0, while its a ctually not](https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 - [Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
-- [Looking for feedback for my incremental game!](https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
@@ -57,8 +57,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [iOS (Japan only): Screen turns sideways when player opens "Buy Robux" from the bulk purchase prompt](https://devforum.roblox.com/t/ios-japan-only-screen-turns-sideways-when-player-opens-buy-robux-from-the-bulk-purchase-prompt/4965216) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [\[Feedback\] Which of these UI frames is your favorite? (WIP UI Pack)](https://devforum.roblox.com/t/feedback-which-of-these-ui-frames-is-your-favorite-wip-ui-pack/4966865) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Looking for feedback for my incremental game!](https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 
