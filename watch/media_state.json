@@ -2383,7 +2383,17 @@
     "67a2e1f8a7baabf786792a12",
     "b0743e73f0992fc0bf0b45e1",
     "a1ba4ab3cd56c341ae798d2c",
-    "598a055e97e14062da6dff02"
+    "598a055e97e14062da6dff02",
+    "34806e2eb04d97407944f759",
+    "c5cfd47228121715e793d4cc",
+    "8d561d98b13c050e9cdc1390",
+    "610f35ea80df5606a4acb230",
+    "cc0080188de0ac858f30f322",
+    "a50048b6a84966da360764d4",
+    "3f93b6348ade082bfcad98d6",
+    "4a7e544f2f887eb73450a926",
+    "cb9ff84efd13355faa5233d3",
+    "6c8a3fd6253a1099627dd252"
   ],
   "items": [
     {
@@ -2399,6 +2409,29 @@
       "id": "eb48f3763703046710431eda"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Request for Staff Assistance — My Friend's Account Was Banned After Her Previous Appeal Was Accepted",
+      "url": "https://devforum.roblox.com/t/request-for-staff-assistance-%E2%80%94-my-friends-account-was-banned-after-her-previous-appeal-was-accepted/4972774",
+      "published": "2026-11-03",
+      "excerpt": "Hello Roblox Staff and DevForum Community, I am respectfully requesting assistance regarding a moderation issue involving my friend’s Roblox account, Abril252776. I am posting on behalf of my friend because she is confused and concerned about what happened to her account. She previously submitted an",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/request-for-staff-assistance-%E2%80%94-my-friends-account-was-banned-after-her-previous-appeal-was-accepted/4972774.rss",
+      "id": "cc0080188de0ac858f30f322"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for feedback on my first Roblox game!!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmja3c/looking_for_feedback_on_my_first_roblox_game/",
+      "published": "2026-11-03",
+      "excerpt": "Hi everyone! I've been developing my first Roblox game, Caught You Cheating , and I'd really appreciate some feedback from other developers. I'm mainly looking for feedback on: Game link: https://www.roblox.com/games/98220125626250/Caught-You-Cheating I'm genuinely looking to improve the game, so an",
+      "creator": "/u/hanepoo2525 https://www.reddit.com/user/hanepoo2525",
+      "id": "cb9ff84efd13355faa5233d3"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2408,6 +2441,18 @@
       "excerpt": "I'm a solo dev making a tower defense on Roblox (plastic army men vs an alien insect hive, up to 4-player co-op). Big waves were dropping to 12-30 fps on some maps, so I spent a couple of weeks measuring instead of guessing. What actually mattered: It wasn't the server. The simulation step was under",
       "creator": "/u/Ok_Celebration8237 https://www.reddit.com/user/Ok_Celebration8237",
       "id": "c7461551f719852a6d46e79f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Home thumbnail A/B test impressions doubled in one hour on Oct 28, halving QPTR",
+      "url": "https://devforum.roblox.com/t/home-thumbnail-ab-test-impressions-doubled-in-one-hour-on-oct-28-halving-qptr/4972812",
+      "published": "2026-11-03",
+      "excerpt": "Starting 06:00 UTC on Oct 28, 2026, our Home thumbnail A/B test logs about 2x the impressions it did the same hour the day before. Every thumbnail in the test jumped at once. We didn’t publish or touch the thumbnails, icon or name. The rest of the Home funnel didn’t move with it. Home viewers went u",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/home-thumbnail-ab-test-impressions-doubled-in-one-hour-on-oct-28-halving-qptr/4972812.rss",
+      "id": "c5cfd47228121715e793d4cc"
     },
     {
       "source": "reddit-robloxdev",
@@ -2443,6 +2488,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/%EA%B2%8C%EC%9E%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%98%B7-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9E%85%EB%8B%88%EB%8B%A4/4972601.rss",
       "id": "a70193779dd31c6961b6f84b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox/discord wallet bot",
+      "url": "https://devforum.roblox.com/t/robloxdiscord-wallet-bot/4972760",
+      "published": "2026-11-03",
+      "excerpt": "I’m planning a Discord bot for Roblox communities that helps manage donations and treasury activity using Roblox’s official transaction systems. The planned system would: Link Discord users to their Roblox accounts through Roblox OAuth. Create gamepasses through Roblox’s official Open Cloud API. Let",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/robloxdiscord-wallet-bot/4972760.rss",
+      "id": "a50048b6a84966da360764d4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2494,6 +2551,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "OOM crashes tripled out of nowhere causing a 20% first play bounce rate increase",
+      "url": "https://devforum.roblox.com/t/oom-crashes-tripled-out-of-nowhere-causing-a-20-first-play-bounce-rate-increase/4972794",
+      "published": "2026-11-03",
+      "excerpt": "Since october 28th i’ve seen a 3x increase in OOM crashes despite the memory usage being the same and my first play bounce rate increased by 20%. I think this may be a bug. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/oom-crashes-tripled-out-of-nowhere-causing-a-20-first-play-bounce-rate-increase/4972794.rss",
+      "id": "8d561d98b13c050e9cdc1390"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Rutus - Runtime GUI Select Plugin Free Release",
       "url": "https://devforum.roblox.com/t/rutus-runtime-gui-select-plugin-free-release/4972703",
       "published": "2026-11-03",
@@ -2518,12 +2587,35 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "How I made tag bots that feel like real players (and where they still fail)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmj5tn/how_i_made_tag_bots_that_feel_like_real_players/",
+      "published": "2026-11-03",
+      "excerpt": "I'm SoloDev75, a dad of three, and my 10-year-old is my chief playtester. Empty servers kill small tag games, so I built AI bots with personalities: Speedy runs, Juker dodges, Saver comes back to revive downed teammates, and Slowpoke is easy to catch. They walk the lobby and vote on maps like player",
+      "creator": "/u/SoloDev75 https://www.reddit.com/user/SoloDev75",
+      "id": "6c8a3fd6253a1099627dd252"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Testing builds...",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmfsox/testing_builds/",
       "published": "2026-11-03",
       "excerpt": "🤔 submitted by /u/BlockScrap [link] [comments]",
       "creator": "/u/BlockScrap https://www.reddit.com/user/BlockScrap",
       "id": "67a2e1f8a7baabf786792a12"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Problems with corners in pathbuilding script",
+      "url": "https://devforum.roblox.com/t/problems-with-corners-in-pathbuilding-script/4972785",
+      "published": "2026-11-03",
+      "excerpt": "Hello. I have a pathmaking script that uses waypoints to create paths. As you can see, it does not create a desirable result on the corners: The pathbuilding uses this formula for the orientation: (modified to work with Cframe EulerAngles) atan2(Δx, -Δz) atan2(Δy, √(Δx^2+Δz^2)) The pathbuilding also",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/problems-with-corners-in-pathbuilding-script/4972785.rss",
+      "id": "610f35ea80df5606a4acb230"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2565,6 +2657,29 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "how to copylock game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmjd6x/how_to_copylock_game/",
+      "published": "2026-11-03",
+      "excerpt": "on my games page it says “this experiences source can be copied” how do i change this? im struggling to find the setting, pls help submitted by /u/Caped_Wonder [link] [comments]",
+      "creator": "/u/Caped_Wonder https://www.reddit.com/user/Caped_Wonder",
+      "id": "4a7e544f2f887eb73450a926"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I wont give up! i will make progress!",
+      "url": "https://devforum.roblox.com/t/i-wont-give-up-i-will-make-progress/4972711",
+      "published": "2026-11-03",
+      "excerpt": "Heyo Guys! soo first i explain what is going on! I had to make an Temporary alt account and now i work on models for my game. I got false terminated and i have to get busy as long my DSA/ODS is awaiting Roblox’s Response as i got False Terminated by AI over an game which is playable since 2023, got ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-wont-give-up-i-will-make-progress/4972711.rss",
+      "id": "3f93b6348ade082bfcad98d6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "I made a game where you can merge any two buildings into a new one, looking for honest feedback",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmdsn6/i_made_a_game_where_you_can_merge_any_two/",
       "published": "2026-11-03",
@@ -2582,6 +2697,18 @@
       "excerpt": "Estoy a punto de terminar un juego slop y me surgió una duda, antes de sacarlo cuánto recomiendan invertir en publicidad? Mi presupuesto es de 2000 pesos mexicanos (100usd aprox) submitted by /u/Waste-Cap-1696 [link] [comments]",
       "creator": "/u/Waste-Cap-1696 https://www.reddit.com/user/Waste-Cap-1696",
       "id": "36025efee65e49e12ad3a1e9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "TextChannelWindow Feature Wishlist Megathread",
+      "url": "https://devforum.roblox.com/t/textchannelwindow-feature-wishlist-megathread/4972815",
+      "published": "2026-11-03",
+      "excerpt": "As the main thread for the new TextChannelWindow stuff is mostly just drama related, without much real hard actionable feature requests, here is my feature request list. I would like to be able to: Hide the input bar entirely for read only channels. Change the padding between messages Change separat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/textchannelwindow-feature-wishlist-megathread/4972815.rss",
+      "id": "34806e2eb04d97407944f759"
     },
     {
       "source": "reddit-robloxdev",
@@ -9167,121 +9294,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/robloxs-copyright-agent-refuses-to-process-my-dmca-counter-notice-despite-meeting-the-requirements/4964076.rss",
       "id": "46d426e0e50f9705661638a0"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Creators Can Test Games on the Web",
-      "url": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592",
-      "published": "2026-10-29",
-      "excerpt": "Key Takeaways Web Play early access is now available for Creators only to test your games in Chrome. This lets you find bugs and tune performance before we open Web Play to all players. Click Play in Browser on your game in Creator Hub. Hi Creators, We’re launching Web Play beta, which lets you play",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592.rss",
-      "id": "461e69c02ba74bbb041e35a1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox Icon Image Importance",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xioj2u/roblox_icon_image_importance/",
-      "published": "2026-10-29",
-      "excerpt": "Hi All, I've been struggling trying to come up with an icon for my game. After watching various YouTube videos, I learned how important this is. Going off the advice of my kids, by asking them if they would click it or not (girls said they wouldn't click this, boy said he would), what are some tips ",
-      "creator": "/u/Sea_Weight_4708 https://www.reddit.com/user/Sea_Weight_4708",
-      "id": "437d07922d06b4415f2a12f4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Web-Play does not pass launchData from the join URL to the game",
-      "url": "https://devforum.roblox.com/t/web-play-does-not-pass-launchdata-from-the-join-url-to-the-game/4964852",
-      "published": "2026-10-29",
-      "excerpt": "Joining through Web-Play with launchData in the URL never delivers it to the game: Player:GetJoinData().LaunchData is nil . The same link works on the native client. Games that use launch data from share links, invites or external links lose it for web players. Steps Add this server Script to a plac",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/web-play-does-not-pass-launchdata-from-the-join-url-to-the-game/4964852.rss",
-      "id": "4352583402c37459a00e35a0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Wumby Zoo is now in beta — feedback on the early progression?",
-      "url": "https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999",
-      "published": "2026-10-29",
-      "excerpt": "Hi! Wumby Zoo has reached beta. You find eggs on safari, carry them home, hatch Wumbies and care for them in your own yard. Since my September devlog, I’ve reworked the visuals, interface, tutorial and early progression. The opening now includes step-by-step missions and a quicker path to your first",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/wumby-zoo-is-now-in-beta-%E2%80%94-feedback-on-the-early-progression/4963999.rss",
-      "id": "431b2aae151228bc9823084d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Developers Longsword still working?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi7h1j/developers_longsword_still_working/",
-      "published": "2026-10-29",
-      "excerpt": "and if it so, its someone in this page who can gave me a code submitted by /u/VivaCristo190 [link] [comments]",
-      "creator": "/u/VivaCristo190 https://www.reddit.com/user/VivaCristo190",
-      "id": "3fefad3ee536ac08f52eb755"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Isle of Rogues - Age of Sail",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xic85y/isle_of_rogues_age_of_sail/",
-      "published": "2026-10-29",
-      "excerpt": "I've been working on an ambitious, large-scale open-world Age of Sail game, combining elements of Windrose , Assassin's Creed IV: Black Flag , RuneScape , Skull & Bones , and Puzzle Pirates . My goal is to create an immersive, historically inspired maritime world that combines realistic naval mechan",
-      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
-      "id": "3f0587f6e09f1fd2eb8eaa3c"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] Generate Game Characters with Prompt-to-Avatar",
-      "url": "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945",
-      "published": "2026-10-29",
-      "excerpt": "Key Takeaways Generate game character models from text prompts. It’s a faster way to produce game characters with or without Dynamic Heads through the Avatar Setup tool in Studio, Assistant, and Studio MCP. Enable it in File > Beta Features , then find Build Avatar (Beta) in Avatar Setup. Hello Crea",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945.rss",
-      "id": "3e98f7c30472eff2e8040d00"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Roblox Marvel Showdown!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xiddly/roblox_marvel_showdown/",
-      "published": "2026-10-29",
-      "excerpt": "Wanted to create a Marvel based Battleground game and need some feedback and help! Want it to be top tier so any feedback or tips? Anything on models, assets, animations, etc!! submitted by /u/Express-Economics476 [link] [comments]",
-      "creator": "/u/Express-Economics476 https://www.reddit.com/user/Express-Economics476",
-      "id": "3e8119fd15711c89298d7096"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How to Connect Claude to Roblox Studio - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zcV9ocXFSZWFOdWdBbkl2MkJUUmdaaEhOY2lXYWIyRVV6Uk9pQzRVZ3lkN2xiSVdBVXFfRU02TjdmX1RITTZSV1ZodWpjTWVrRFpjS0Z3?oc=5",
-      "published": "2026-10-29",
-      "excerpt": "How to Connect Claude to Roblox Studio YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "3db7247e11be6ef4c2e82612"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "UI for my upcoming roblox game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi5b7v/ui_for_my_upcoming_roblox_game/",
-      "published": "2026-10-29",
-      "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
-      "creator": "/u/vestive https://www.reddit.com/user/vestive",
-      "id": "3c7cbd026d4f86305330be3c"
     }
   ]
 }
