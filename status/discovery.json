@@ -2,18 +2,26 @@
   "adopted": [],
   "api": {
     "calls": {
-      "graphql": 0,
-      "rest": 30,
-      "rest_not_modified": 0
+      "graphql": 7,
+      "rest": 44,
+      "rest_not_modified": 10
     },
     "rate": {
       "code_search": {
-        "remaining": 10,
-        "reset_at": "2026-11-02T21:57:37Z"
+        "remaining": 7,
+        "reset_at": "2026-11-03T04:31:47Z"
+      },
+      "core": {
+        "remaining": 4870,
+        "reset_at": "2026-11-03T05:18:34Z"
+      },
+      "graphql": {
+        "remaining": 4992,
+        "reset_at": "2026-11-03T04:33:18Z"
       },
       "search": {
-        "remaining": 2,
-        "reset_at": "2026-11-02T21:57:20Z"
+        "remaining": 17,
+        "reset_at": "2026-11-03T04:31:28Z"
       }
     }
   },
@@ -35,16 +43,16 @@
     {
       "repo": "777genius/universal-agent-plugins",
       "score": 100,
-      "sha": "5f39564f177d7421f228e269b005612e6385b1a6",
+      "sha": "86366d5fb54ccf6b05474150ac25a1d8b84201bb",
       "suggested_owner": "Wheel",
-      "task": "Pin 777genius/universal-agent-plugins@5f39564, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin 777genius/universal-agent-plugins@86366d5, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "agent-sh/agentsys",
       "score": 100,
-      "sha": "a999d11a900d7c60a34d94353a495fcba5a95d8e",
+      "sha": "fe50404d582949b24855e5f8fb8aeca17fefa6cd",
       "suggested_owner": "Wheel",
-      "task": "Pin agent-sh/agentsys@a999d11, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin agent-sh/agentsys@fe50404, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "AmethystLuna/embedded-workbench",
@@ -91,33 +99,32 @@
     {
       "repo": "JasonColapietro/suede-creator-skills",
       "score": 100,
-      "sha": "38c445d9e950249df8d11bb4ae5688af60002353",
+      "sha": "0f520aaccdb3af29247f27593fb6f94c88b20cfb",
       "suggested_owner": "Wheel",
-      "task": "Pin JasonColapietro/suede-creator-skills@38c445d, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin JasonColapietro/suede-creator-skills@0f520aa, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "jmagly/aiwg",
       "score": 100,
-      "sha": "6754967c344ccb087a8de06972f55a41067b291b",
+      "sha": "c886a6abe3fab592d7cf2979da07269543b64274",
       "suggested_owner": "Wheel",
-      "task": "Pin jmagly/aiwg@6754967, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin jmagly/aiwg@c886a6a, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     }
   ],
   "counts": {
-    "actionable_backlog": 145,
+    "actionable_backlog": 147,
     "adopt": 0,
-    "events_this_run": 0,
-    "needs_test": 156,
-    "new_candidates_this_run": 0,
-    "new_releases_this_run": 0,
-    "records": 543,
-    "reject": 282,
-    "repos_tracked": 438,
-    "updated_issues_this_run": 0
+    "events_this_run": 70,
+    "needs_test": 158,
+    "new_candidates_this_run": 9,
+    "new_releases_this_run": 7,
+    "records": 554,
+    "reject": 289,
+    "repos_tracked": 447,
+    "updated_issues_this_run": 54
   },
   "feed_health": {
-    "deferred": 6,
-    "ok": 30
+    "ok": 38
   },
   "feeds": [
     {
@@ -214,140 +221,156 @@
       "id": "pack:multi-chatgpt-web-workers:a:strict",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:a:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT orchestration in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "ChatGPT orchestration in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:b:strict",
       "items": 15,
       "kind": "search",
-      "query": "persistent ChatGPT browser sessions workers in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "persistent ChatGPT browser sessions workers in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:b:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT browser sessions in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "ChatGPT browser sessions in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:c:strict",
       "items": 15,
       "kind": "search",
-      "query": "parallel LLM web agents in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "parallel LLM web agents in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:c:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:strict",
       "items": 15,
       "kind": "search",
-      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:e:strict",
       "items": 15,
       "kind": "search",
-      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:e:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:f:strict",
       "items": 15,
       "kind": "search",
-      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:f:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:g:strict",
       "items": 15,
       "kind": "search",
-      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:g:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-11-02 archived:false",
+      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-11-03 archived:false",
       "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
       "id": "pack:multi-chatgpt-web-workers:s1:source",
+      "items": 50,
       "kind": "code_search",
-      "status": "deferred"
+      "query": "\"chatgpt.com\" content_scripts sidePanel filename:manifest.json",
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "id": "pack:multi-chatgpt-web-workers:s2:source",
+      "items": 50,
+      "kind": "code_search",
+      "query": "\"chat.openai.com\" tabs scripting filename:manifest.json",
+      "status": "ok"
+    },
+    {
+      "id": "pack:multi-chatgpt-web-workers:s3:source",
+      "items": 50,
+      "kind": "code_search",
+      "query": "\"chatgpt.com\" launchPersistentContext",
+      "status": "ok"
+    },
+    {
       "id": "graphql:batch0",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 15,
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch1",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 15,
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "1 repo(s) not found or not visible; 0 deferred after GraphQL field errors (prior record kept)",
       "id": "graphql:batch2",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 14,
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch3",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 15,
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch4",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 15,
+      "status": "ok"
     },
     {
       "id": "pack-inspect:multi-chatgpt-web-workers",
@@ -362,11 +385,11 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-11-02T21:56:37Z",
-    "outcome": "partial",
-    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/41532835713",
-    "started_at": "2026-11-02T21:56:19Z",
-    "trigger": "schedule"
+    "finished_at": "2026-11-03T04:31:46Z",
+    "outcome": "ok",
+    "run_url": "",
+    "started_at": "2026-11-03T04:30:10Z",
+    "trigger": "local"
   },
   "schema": 1
 }
