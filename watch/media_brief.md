@@ -7,41 +7,41 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Can games get any traction without ads?](https://www.reddit.com/r/robloxgamedev/comments/1xn4o4z/can_games_get_any_traction_without_ads/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Me and my friend have just released a Roblox game with no players whatsoever, wondering if we NEED to buy ads for it to gain traction, how do people find it otherwise? submitted by /u/Lopsided-Strength-42 \[link\] \[comments\]
-- **[Got this regional restriction message, will this ruin my game's growth or should I keep going?](https://www.reddit.com/r/robloxgamedev/comments/1xn4dw3/got_this_regional_restriction_message_will_this/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Just noticed this notification saying my game isn't available in a long list of countries (including Turkey, Saudi Arabia, Russia, etc.) due to local requirements. Has anyone else dealt with this exact issue? Should i continue working on th
-- **[I made a Dragon Ball survival game on Roblox: one Goku hunts, everyone else runs](https://www.reddit.com/r/robloxgamedev/comments/1xn4fja/i_made_a_dragon_ball_survival_game_on_roblox_one/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Hey, this is my first Roblox game. I tried to make the idea as original as I could. It’s called Escape From Goku!, and I’m sharing a short gameplay video above. How it works: Every round, one player is Goku, the Hunter . He flies at insane 
-- **[Roma Invicta villa map](https://www.reddit.com/r/robloxgamedev/comments/1xn55tt/roma_invicta_villa_map/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Roman themed, modeled/textured in blender. submitted by /u/RomaInvictaDev \[link\] \[comments\]
-- **[Using Roblox for my real neighborhood in Tokyo: today’s town + its Edo-period past, real-life events, kids building the future town. Looking for examples, ideas](https://www.reddit.com/r/robloxgamedev/comments/1xn3xye/using_roblox_for_my_real_neighborhood_in_tokyo/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Hi r/robloxgamedev , I believe the US and other countries are ahead of Japan when it comes to using Roblox for community and social purposes, so I came here to learn from you. Background I live in Kakoi-cho, a small neighborhood right next 
-- **[War Style Game - Two friends one big dream](https://www.reddit.com/r/robloxgamedev/comments/1xn472a/war_style_game_two_friends_one_big_dream/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Hi everybody! I recently made a little project with my friend on Roblox about a war game. The game is decent but there is lots of room for improvement ( its still in pre alpha tho ). I would love to know what i need to further polish or add
-- **[What makes this UI so bad, how can I recreate it to be more appealing.](https://www.reddit.com/r/robloxgamedev/comments/1xn2t01/what_makes_this_ui_so_bad_how_can_i_recreate_it/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Just looking for some input. Most people instantly left and said looks like AI. submitted by /u/Hefty_Object4512 \[link\] \[comments\]
+- **[Help with pants on rig please](https://www.reddit.com/r/ROBLOXStudio/comments/1xmw0le/help_with_pants_on_rig_please/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: so i was trying to put some pants on my r6 rig in rblx studio and it doesnt work i added the code to the clothing, i added it to the template thingy and it just does nothing, i genuinely dont know what to do im a noob in roblox studio, also
+- **[I need help developing an ocean liner tycoon game](https://www.reddit.com/r/ROBLOXStudio/comments/1xmw0ec/i_need_help_developing_an_ocean_liner_tycoon_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: So far the going name is Ocean Liner Tycoon, based on Cruise Line/Ship Tycoon !This is for volunteers only, I can’t pay, so all work will be volunteer only! The game is one where you will sail and flesh out liners through the ages, from sai
+- **[Test for test? I'll play your Roblox game if you play mine!](https://www.reddit.com/r/ROBLOXStudio/comments/1xn2xk0/test_for_test_ill_play_your_roblox_game_if_you/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: I just made my first Roblox game, a sandbox dino park builder. It's kind of like TPT2 (Theme Park Tycoon 2), but with dinosaurs. I need people to try it and tell me what's good and what's bad. Drop your game link in the comments, and I'll p
+- **[\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Game: Steal a Starship Link: https://www.roblox.com/games/118204916869601/Steal-a-Starship Platform: Roblox (PC, mobile, and console if supported) Session length: 10–15 minutes I’m looking for playtesters to try the game and give me straigh
+- **[This is what negative light looks like](https://www.reddit.com/r/ROBLOXStudio/comments/1xm9wm1/this_is_what_negative_light_looks_like/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-02
+  - Feed excerpt: This can be done by setting pointlight color to any negative value like \[-255, -255, -255\] submitted by /u/SinglePosition987 \[link\] \[comments\]
+- **[3D modeler doing commissions.](https://www.reddit.com/r/ROBLOXStudio/comments/1xmuh3s/3d_modeler_doing_commissions/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Youtube portfolio, https://youtu.be/itWXLKwCV9M?si=tbgIvh1lx9z2Csc6 , https://youtu.be/r9PmyBYEEBw?si=Ic2V14BNzkYL0zeC submitted by /u/Somlenecore \[link\] \[comments\]
+- **[I made a co-op horde survival game inspired by vampire survivors / megabonk](https://www.reddit.com/r/ROBLOXStudio/comments/1xn2a7j/i_made_a_coop_horde_survival_game_inspired_by/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Hi! I'm a solo dev and this is my first real Roblox game: Night Horde Survival. You're a "Viking" in a 20-minute night. Your weapons fire on their own, you level up, pick cards, stack relics and runes. Buy pets, master your weapons, or AFK 
+- **[LOOKING FOR ARTISTS](https://www.reddit.com/r/ROBLOXStudio/comments/1xmvjnq/looking_for_artists/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Hello im a co owner for a dandy world type game We are looking for digital artists if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on submitted by /u
+- **[Map I recently finished for ' Reign of Rot ' , Here is a showcase of the map I hope you enjoy it !](https://www.reddit.com/r/ROBLOXStudio/comments/1xn3ezp/map_i_recently_finished_for_reign_of_rot_here_is/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Fully created by me from scratch ( Modelling , Texturing , VFX , Editing etc... ) , ** COMMISSIONS ARE OPEN - DISCORD --> jakartacardiana ** , Or just send me a dm <3 submitted by /u/PrintOk5395 \[link\] \[comments\]
+- **[RANTT](https://www.reddit.com/r/ROBLOXStudio/comments/1xmg9l4/rantt/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Enough with the steal a ____ games, if you really think making these kind of slips would get u anywhere then go get some help for god's sake.Create a game only if you re passionate about it rather then wanting money. submitted by /u/Parking
+- **[Want to make a space game, no idea how to script or code. Who wants to help?](https://www.reddit.com/r/ROBLOXStudio/comments/1xn654h/want_to_make_a_space_game_no_idea_how_to_script/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: No idea what about, but if anyone wants to collaborate with me and make a cool space game let me know. Already made animations submitted by /u/SaltIick \[link\] \[comments\]
+- **[Why is it so laggy](https://www.reddit.com/r/ROBLOXStudio/comments/1xn3mcs/why_is_it_so_laggy/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: So what happened is that studio suddenly crashed and then it became really laggy ever since. why is this happening and how do I fix it? submitted by /u/SuitableCheesecake83 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Allow Re-Verification After Username and Group Name Changes](https://devforum.roblox.com/t/allow-re-verification-after-username-and-group-name-changes/4973974)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: As a Roblox developer, it is currently too difficult to update personal and company branding while maintaining a verified presence on the platform. I recently changed my username and our group’s name as part of a rebrand, which caused my ac
-- **[\[Beta\] Promotional Text](https://devforum.roblox.com/t/beta-promotional-text/4973915)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Key Takeaways Promotional Text is now in Beta for all creators. It provides a space for brief secondary text information, such as a limited time mode or update, so your game name stays short and important information doesn’t get cut off. A 
-- **[\[Beta\] Promotional Text](https://devforum.roblox.com/t/beta-promotional-text/4973915)** · Roblox updates category (availability may vary) · 2026-11-03
-  - Feed excerpt: Key Takeaways Promotional Text is now in Beta for all creators. It provides a space for brief secondary text information, such as a limited time mode or update, so your game name stays short and important information doesn’t get cut off. A 
-- **[6 Girls VS 6 Boys still restricted to 16+ after removing videos; final review pending](https://devforum.roblox.com/t/6-girls-vs-6-boys-still-restricted-to-16-after-removing-videos-final-review-pending/4974035)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: My experience, 6 Girls VS 6 Boys , is still restricted to players aged 16+ after I removed specific Roblox-related videos that appear to have triggered the issue in the doomscrolling/video template we use. What changed After investigating t
-- **[How can i achieve this effect?](https://devforum.roblox.com/t/how-can-i-achieve-this-effect/4973919)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: I was recently exploring a game when i found this really cool effect for marking dropped items i’ve tried to replicate it in studio, but this is the best i could do. The issue is that since it uses billboardGUIs, when i stare at it from abo
-- **[Increase Accessibility to Roblox's Post Processing](https://devforum.roblox.com/t/increase-accessibility-to-robloxs-post-processing/4973924)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Unlike other threads that are asking for general updates/notices with Roblox’s Post Processing, this thread specifically will tackle the accessibility and go into clarity on what needs to be said and what desires are wanted by developers ha
-- **[No badges for doing floors in the Hollow](https://devforum.roblox.com/t/no-badges-for-doing-floors-in-the-hollow/4974076)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: I did the floors 1-9 and the ? floor in the Hollow but didn’t receive any badges and therefore the items as well. I was banned for 3 days and missed out on a lot but I still did all of them before the Hollow closed. Would it be possible for
-- **[Roblox randomly crashes (closes) after a few minutes of playing](https://devforum.roblox.com/t/roblox-randomly-crashes-closes-after-a-few-minutes-of-playing/4973990)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: \[SYSTEM INFORMATION IS IN THE PRIVATE MESSAGE\] Hi, When playing Roblox experiences, sometimes, the player crashes (or rather closes) without any prior warning. Due to the fact this is sometimes happening and that I can not predict it, I can
-- **[Using the text to speech thing](https://devforum.roblox.com/t/using-the-text-to-speech-thing/4974033)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: 2 posts - 1 participant Read full topic
+- **[Allowing custom materials to be applied to a surface when one walks through a block](https://devforum.roblox.com/t/allowing-custom-materials-to-be-applied-to-a-surface-when-one-walks-through-a-block/4974167)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Hello, I have a feature in my game, where a model is able to move through a block, in order to have a material applied to the model. I have attempted to use this to apply custom materials, however this seems to only work with Roblox-created
+- **[Avatar thumbnail infinitely loading](https://devforum.roblox.com/t/avatar-thumbnail-infinitely-loading/4974187)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Since I recently changed my avatar, my avatar headshot thumbnail has been infinitely loading. When I visit my profile, the thumbnail of my avatar renders properly, so none of the items I am wearing have been moderated, however I still canno
+- **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Key Takeaways We’ve added three new methods directly to the Color3 datatype: GetContrastingColor , GetContrastRatio , and GetLuminance . You can now automatically pick readable text/foreground colors across any background color. Hello Creat
+- **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** · Roblox updates category (availability may vary) · 2026-11-03
+  - Feed excerpt: Key Takeaways We’ve added three new methods directly to the Color3 datatype: GetContrastingColor , GetContrastRatio , and GetLuminance . You can now automatically pick readable text/foreground colors across any background color. Hello Creat
 
 ---
 

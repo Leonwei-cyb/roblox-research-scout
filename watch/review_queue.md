@@ -8,11 +8,12 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Roblox the Hollow completion and earlier puzzle badges not being awarded.](https://devforum.roblox.com/t/roblox-the-hollow-completion-and-earlier-puzzle-badges-not-being-awarded/4972964)** — Public text/page, video not confirmed
 - **[What I learned getting 200+ enemies on screen at 60 fps in my Roblox tower defense](https://www.reddit.com/r/robloxgamedev/comments/1xmfolc/what_i_learned_getting_200_enemies_on_screen_at/)** — Public text/page, video not confirmed
-- **[I made my first Roblox game: a pet-rolling farm on sky islands. Looking for testers and honest feedback!](https://www.reddit.com/r/ROBLOXStudio/comments/1xm5efi/i_made_my_first_roblox_game_a_petrolling_farm_on/)** — Public text/page, video not confirmed
+- **[\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
 - **[Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678)** — Public text/page, video not confirmed
+- **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
@@ -22,4 +23,4 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 - **[Allow us to Disable the "MCP off" Toolbar](https://devforum.roblox.com/t/allow-us-to-disable-the-mcp-off-toolbar/4966132)** — Public text/page, video not confirmed
 - **[Playtest for a new game](https://www.reddit.com/r/robloxgamedev/comments/1xmxyyj/playtest_for_a_new_game/)** — Public text/page, video not confirmed
-- **[I'm a playtester, can i test your game?](https://www.reddit.com/r/ROBLOXStudio/comments/1xlxrbl/im_a_playtester_can_i_test_your_game/)** — Public text/page, video not confirmed
+- **[\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/)** — Public text/page, video not confirmed
