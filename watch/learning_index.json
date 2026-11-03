@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 597,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -536,21 +536,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xiovej",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiovej/i_got_tired_of_roblox_studios_ui_so_i_built_my/",
-      "title": "I got tired of Roblox Studios UI so I built my own as around it good idea or not ?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xk39w6",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk39w6/weird_lighting_bug_thing/",
       "title": "weird lighting bug thing?",
@@ -628,6 +613,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xms196",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xms196/made_a_levelmap_editor_in_a_few_weeks_looking_for/",
+      "title": "Made a level/map editor in a few weeks, looking for feedback from people who design levels",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "world and visual design",
+        "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:oJdSOlWgrl8",
       "url": "https://www.youtube.com/watch?v=oJdSOlWgrl8",
       "title": "Can I Make a Viral Roblox Horror Game With AI?",
@@ -651,20 +651,6 @@
         "genres and successful loops"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964964:1",
-      "url": "https://devforum.roblox.com/t/smooth-terrain-grass-decorations-not-visible-in-roblox-browser-client/4964964",
-      "title": "Smooth Terrain Grass Decorations Not Visible in Roblox Browser Client",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -920,15 +906,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xit65o",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xit65o/i_just_launched_my_first_roblox_game_factory/",
-      "title": "I just launched my first Roblox game, Factory Empire! Would love some honest feedback!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973339:1",
+      "url": "https://devforum.roblox.com/t/for-hire-roblox-scripter-open-for-long-term-and-short-term/4973339",
+      "title": "[For Hire] Roblox Scripter [Open for Long-term and Short-term]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
-        "player feedback and marketing"
+        "UI and menus",
+        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1275,32 +1261,6 @@
       "key": "devforum:4964135:1",
       "url": "https://devforum.roblox.com/t/video-under-review-taking-more-than-24-hours/4964135",
       "title": "Video under Review taking more than 24 hours?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964594:1",
-      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-%E2%80%94-crown-or-pass-suddenly-restricted-to-16/4964594",
-      "title": "Kids & Select final review stuck — Crown or Pass suddenly restricted to 16+",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964598:1",
-      "url": "https://devforum.roblox.com/t/possible-bug-%E2%80%93-maturity-compliance-final-review-stuck-on-%E2%80%9C48-hours%E2%80%9D/4964598",
-      "title": "Possible Bug – Maturity & Compliance Final Review Stuck on “48 Hours”",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -2261,6 +2221,19 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973317:1",
+      "url": "https://devforum.roblox.com/t/final-review-stuck-for-almost-2-weeks-experience-still-restricted-to-16/4973317",
+      "title": "Final Review Stuck for Almost 2 Weeks - Experience Still Restricted to 16+",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3338,20 +3311,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xi8bw7",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi8bw7/im_looking_for_talented_devs_for_my_game/",
-      "title": "Im looking for talented devs for my game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "world and visual design"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xj8k44",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj8k44/test_out_my_game/",
       "title": "test out my game",
@@ -4379,6 +4338,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4973326:1",
+      "url": "https://devforum.roblox.com/t/why-its-not-working-on-ttp-traffic-signals-with-fya-bimodal/4973326",
+      "title": "Why it's not working on TTP Traffic Signals with FYA Bimodal.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973335:1",
+      "url": "https://devforum.roblox.com/t/cant-export-rigged-weapon-from-blender/4973335",
+      "title": "Cant export rigged weapon from blender",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xi76gd",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi76gd/rs/",
       "title": "RS",
@@ -4457,19 +4442,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xinhud",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xinhud/i_made_a_horror_stimulation_game_to_our_every_day/",
-      "title": "I made a horror stimulation game to our every day life.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xiq59k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiq59k/roblox_does_not_see_you_as_expendable/",
       "title": "Roblox Does Not See You As Expendable",
@@ -4486,19 +4458,6 @@
       "key": "reddit:1xisuys",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xisuys/first_game_launched/",
       "title": "First game launched",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xiuqep",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiuqep/looking_for_playtester/",
-      "title": "Looking for PlayTester?",
       "source": "reddit-robloxdev",
       "published": "2026-10-29",
       "kind": "reddit",
@@ -5133,6 +5092,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xmrn12",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmrn12/aura_rush_roblox/",
+      "title": "AURA RUSH - Roblox",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4963488:1",
       "url": "https://devforum.roblox.com/t/how-would-i-go-about-an-aiming-system-with-my-character-based-viewmodel/4963488",
       "title": "How would I go about an aiming system with my character-based viewmodel?",
@@ -5166,17 +5138,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963594:1",
-      "url": "https://devforum.roblox.com/t/falsely-blacklisted-from-verification-badge/4963594",
-      "title": "Falsely blacklisted from verification badge",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4963673:1",
       "url": "https://devforum.roblox.com/t/badges-for-floors-still-not-awarded-despite-completion-the-hollow/4963673",
       "title": "Badges for floors still not awarded despite completion (The Hollow)",
@@ -5188,42 +5149,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963721:1",
-      "url": "https://devforum.roblox.com/t/roblox-not-reponsive-after-a-few-mins-of-playing/4963721",
-      "title": "Roblox Not Reponsive After a few mins of playing.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4963786:1",
       "url": "https://devforum.roblox.com/t/false-flagging-chat-ban-message/4963786",
       "title": "False Flagging Chat Ban Message",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963825:1",
-      "url": "https://devforum.roblox.com/t/cannot-access-my-own-game/4963825",
-      "title": "Cannot access my own game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963828:1",
-      "url": "https://devforum.roblox.com/t/talent-hub-messages-not-working/4963828",
-      "title": "Talent Hub Messages Not Working",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -5254,31 +5182,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4964408:1",
-      "url": "https://devforum.roblox.com/t/add-an-accessible-forum-category-to-communities-whose-walls-werent-locked-when-the-removal-of-walls-took-place/4964408",
-      "title": "Add an accessible Forum category to Communities whose Walls weren't locked when the removal of Walls took place",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4964720:1",
       "url": "https://devforum.roblox.com/t/typing-in-a-text-box-causes-a-crash-in-some-games/4964720",
       "title": "Typing in a text box causes a crash in some games",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964770:1",
-      "url": "https://devforum.roblox.com/t/test-bug-for-roblox-login-can-close/4964770",
-      "title": "Test bug for Roblox Login (can close)",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6255,6 +6161,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4973266:1",
+      "url": "https://devforum.roblox.com/t/what-do-you-think-roblox-is-missing/4973266",
+      "title": "What do you think Roblox is missing?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973340:1",
+      "url": "https://devforum.roblox.com/t/the-hollow-badge-probleme/4973340",
+      "title": "The Hollow badge probleme",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973405:1",
+      "url": "https://devforum.roblox.com/t/roblox-crash-at-random-bug/4973405",
+      "title": "Roblox Crash at random bug.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xi5gjc",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5gjc/gewehr_m1869_eisenreich_empire_rifle/",
       "title": "Gewehr M.1869 (Eisenreich Empire Rifle)",
@@ -6302,17 +6241,6 @@
       "key": "reddit:1xioh1g",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xioh1g/superchefs_game_intro/",
       "title": "SUPERCHEFS! Game Intro",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xir9g0",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xir9g0/loading_screen_opinion/",
-      "title": "Loading screen opinion.",
       "source": "reddit-robloxdev",
       "published": "2026-10-29",
       "kind": "reddit",
@@ -7380,6 +7308,61 @@
       "key": "reddit:1xmosn1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmosn1/rustline_ops_beta/",
       "title": "RUSTLINE OPS BETA",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmrr88",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmrr88/searching_for_people_to_develop_with/",
+      "title": "Searching for people to develop with",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmrzu8",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmrzu8/i_am_thought_of_a_good_game_idea_inspired_by/",
+      "title": "I am thought of a good game idea inspired by shadow fight",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xms5as",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xms5as/im_dont_own_this_game_but_the_dev_needs_help_to/",
+      "title": "IM DONT own this game but the dev needs help to revieve this game named BloxRp 2",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmtchi",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmtchi/quick_question_how_many_of_yall_would_actually_go/",
+      "title": "Quick question how many of yall would actually go into mod making for other games if you knew how",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmu5mq",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmu5mq/im_developing_a_game/",
+      "title": "I’m developing a game",
       "source": "reddit-robloxdev",
       "published": "2026-11-03",
       "kind": "reddit",
