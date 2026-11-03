@@ -7,29 +7,31 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[How I made tag bots that feel like real players (and where they still fail)](https://www.reddit.com/r/robloxgamedev/comments/1xmj5tn/how_i_made_tag_bots_that_feel_like_real_players/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: I'm SoloDev75, a dad of three, and my 10-year-old is my chief playtester. Empty servers kill small tag games, so I built AI bots with personalities: Speedy runs, Juker dodges, Saver comes back to revive downed teammates, and Slowpoke is eas
-- **[Looking for feedback on my first Roblox game!!](https://www.reddit.com/r/robloxgamedev/comments/1xmja3c/looking_for_feedback_on_my_first_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Hi everyone! I've been developing my first Roblox game, Caught You Cheating , and I'd really appreciate some feedback from other developers. I'm mainly looking for feedback on: Game link: https://www.roblox.com/games/98220125626250/Caught-Y
-- **[how to copylock game](https://www.reddit.com/r/robloxgamedev/comments/1xmjd6x/how_to_copylock_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: on my games page it says “this experiences source can be copied” how do i change this? im struggling to find the setting, pls help submitted by /u/Caped_Wonder \[link\] \[comments\]
+- **[Looking for playtesters for my cozy pet bakery game (honest feedback wanted)](https://www.reddit.com/r/robloxgamedev/comments/1xml7rq/looking_for_playtesters_for_my_cozy_pet_bakery/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Hey! I'm a solo dev and just launched Pawsome Bakery, a cozy pet-collecting game. Your pets drop ingredients, you bake them into treats, and mixing treats lures in new pets to collect. Looking for a few people to play for 15–20 minutes and 
+- **[\[Also looking for dev flair\] HELP with porting a mobile game into roblox 1 to 1.](https://www.reddit.com/r/robloxgamedev/comments/1xmkwnm/also_looking_for_dev_flair_help_with_porting_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: I had a really good idea but I need to bring a mobile game (on play store + apks) I need it on roblox studio 1 to 1, same models same ui ect. I know it’s possible just i’m not smart enough to do it. Looking for help/anyone I could pay to do
+- **[FEEDBACK: RUN UP THE RAMP](https://www.reddit.com/r/robloxgamedev/comments/1xmkyqc/feedback_run_up_the_ramp/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Been making this game, here's a few shots showing just a few of the abilities... really you are meant to be running up the ramp dodging different hazards, picking up powerups along the way and stocking your loadout with abilities which you 
+- **[New library map for a gamemode in my game Overdue](https://www.reddit.com/r/robloxgamedev/comments/1xmlbok/new_library_map_for_a_gamemode_in_my_game_overdue/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Reallt proud of this one. Any feedback appreciated! :) Map isn't released yet but the game is submitted by /u/slimebrowser \[link\] \[comments\]
+- **[where can i sell my game](https://www.reddit.com/r/robloxgamedev/comments/1xml23b/where_can_i_sell_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: i had a good game idea and it flopped and now id like to sell it, Can anyone help? submitted by /u/Rich-Low-5676 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Home thumbnail A/B test impressions doubled in one hour on Oct 28, halving QPTR](https://devforum.roblox.com/t/home-thumbnail-ab-test-impressions-doubled-in-one-hour-on-oct-28-halving-qptr/4972812)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Starting 06:00 UTC on Oct 28, 2026, our Home thumbnail A/B test logs about 2x the impressions it did the same hour the day before. Every thumbnail in the test jumped at once. We didn’t publish or touch the thumbnails, icon or name. The rest
-- **[I wont give up! i will make progress!](https://devforum.roblox.com/t/i-wont-give-up-i-will-make-progress/4972711)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Heyo Guys! soo first i explain what is going on! I had to make an Temporary alt account and now i work on models for my game. I got false terminated and i have to get busy as long my DSA/ODS is awaiting Roblox’s Response as i got False Term
-- **[OOM crashes tripled out of nowhere causing a 20% first play bounce rate increase](https://devforum.roblox.com/t/oom-crashes-tripled-out-of-nowhere-causing-a-20-first-play-bounce-rate-increase/4972794)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Since october 28th i’ve seen a 3x increase in OOM crashes despite the memory usage being the same and my first play bounce rate increased by 20%. I think this may be a bug. 1 post - 1 participant Read full topic
-- **[Problems with corners in pathbuilding script](https://devforum.roblox.com/t/problems-with-corners-in-pathbuilding-script/4972785)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Hello. I have a pathmaking script that uses waypoints to create paths. As you can see, it does not create a desirable result on the corners: The pathbuilding uses this formula for the orientation: (modified to work with Cframe EulerAngles) 
-- **[Request for Staff Assistance — My Friend's Account Was Banned After Her Previous Appeal Was Accepted](https://devforum.roblox.com/t/request-for-staff-assistance-%E2%80%94-my-friends-account-was-banned-after-her-previous-appeal-was-accepted/4972774)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Hello Roblox Staff and DevForum Community, I am respectfully requesting assistance regarding a moderation issue involving my friend’s Roblox account, Abril252776. I am posting on behalf of my friend because she is confused and concerned abo
-- **[Roblox/discord wallet bot](https://devforum.roblox.com/t/robloxdiscord-wallet-bot/4972760)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: I’m planning a Discord bot for Roblox communities that helps manage donations and treasury activity using Roblox’s official transaction systems. The planned system would: Link Discord users to their Roblox accounts through Roblox OAuth. Cre
-- **[TextChannelWindow Feature Wishlist Megathread](https://devforum.roblox.com/t/textchannelwindow-feature-wishlist-megathread/4972815)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: As the main thread for the new TextChannelWindow stuff is mostly just drama related, without much real hard actionable feature requests, here is my feature request list. I would like to be able to: Hide the input bar entirely for read only 
+- **[Any idea how long it takes for an OAuth2 app to complete review?](https://devforum.roblox.com/t/any-idea-how-long-it-takes-for-an-oauth2-app-to-complete-review/4972861)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Title. My application has been in review for over a week now. I’ve pushed an update to my experience and my userbase is eager to use the account linking feature I offer. Has anyone experienced similar? The popup modal said around 5 days whi
+- **[MCP Permissions won't save changes](https://devforum.roblox.com/t/mcp-permissions-wont-save-changes/4972909)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: I’m trying to set my MCP Permissions to “Balanced” (right now it seems like everything is off by default). However it won’t save. I’ve tried several different Studios, it always says “Save failed, please try again” Upon further investigatio
+- **[Account Terminated because of Association with an "Alt Account"](https://devforum.roblox.com/t/account-terminated-because-of-association-with-an-alt-account/4972888)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Hi, I need to get my account unbanned. Does anybody know how to help me, or had similar problems? ROBLOX banned my account because it was associated with another account that broke the rules. I want to make it clear that the other account i
+- **[Friend terminated without explanation](https://devforum.roblox.com/t/friend-terminated-without-explanation/4972863)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Hello. Recently, a good friend of mine was unexpectedly terminated from Roblox with no explanation. He has tried to appeal, however appealing this ban has proved difficult considering no reason was provided. Is there anything that can be do
+- **[Request for Staff Assistance Unresolved Group Ownership and Funds Issue After Repeated Support Attempts](https://devforum.roblox.com/t/request-for-staff-assistance-unresolved-group-ownership-and-funds-issue-after-repeated-support-attempts/4972857)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Hello Roblox Staff and DevForum Community, I am once again requesting assistance regarding my Roblox group, i think games (Group ID: 458266917). I have been trying to resolve this issue for a long time through Roblox Customer Support. I hav
+- **[Unable to Manage Roblox Plus Subscription](https://devforum.roblox.com/t/unable-to-manage-roblox-plus-subscription/4972866)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: I’m trying to renew my Roblox Plus subscription from when I was given the free 3/6 months or whatever. However I’m not able to renew my subscription on Desktop nor Mobile. I need to be able to renew my subscription before it ends so that my
 
 ---
 
