@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 596,
+  "unique_posts": 597,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -1232,48 +1232,25 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963686:1",
-      "url": "https://devforum.roblox.com/t/studio-reporting-inaccurate-bandwidth-under-high-stress-conditions/4963686",
-      "title": "Studio reporting inaccurate bandwidth under high-stress conditions",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
+      "key": "reddit:1xmvs9a",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmvs9a/i_just_launched_my_first_roblox_game/",
+      "title": "I just launched my first Roblox Game!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
       "signals": [
+        "building and purchases",
+        "animation and audio",
+        "genres and successful loops",
         "tools and performance"
       ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963860:1",
-      "url": "https://devforum.roblox.com/t/plumbline-a-fast-zero-allocation-spatial-debugger-stop-crashing-studio-to-draw-a-line-fr/4963860",
-      "title": "Plumbline: A Fast, Zero-Allocation Spatial Debugger (Stop crashing Studio to draw a line fr)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
+      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
       "key": "devforum:4964135:1",
       "url": "https://devforum.roblox.com/t/video-under-review-taking-more-than-24-hours/4964135",
       "title": "Video under Review taking more than 24 hours?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964773:1",
-      "url": "https://devforum.roblox.com/t/uploaded-video-still-under-review-after-24-hours/4964773",
-      "title": "Uploaded Video Still Under Review After 24+ Hours",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -2239,14 +2216,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xiielh",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiielh/is_this_build_good_for_someone_who_just_started/",
-      "title": "Is this build good for someone who just started building?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973700:1",
+      "url": "https://devforum.roblox.com/t/looking-for-testers-for-our-new-strategy-single-player-game/4973700",
+      "title": "Looking for testers for our new strategy single-player game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [
-        "building and purchases"
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2276,19 +2253,6 @@
       "signals": [
         "board game and turn flow",
         "UI and menus",
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xit1vy",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xit1vy/anyone_want_to_trade_plays_for_the_250_highly/",
-      "title": "Anyone want to trade plays for the 250 highly engaged players requirement?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
         "player feedback and marketing"
       ],
       "score": 5,
@@ -3115,6 +3079,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xmvjlk",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmvjlk/how_long_did_it_take_you_guys_to_learn_scripting/",
+      "title": "How long did it take you guys to learn scripting?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmw414",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmw414/i_need_volunteers_to_help_me_make_an_ocean_liner/",
+      "title": "I need Volunteers to help me make an Ocean Liner Tycoon game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmxkr4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxkr4/how_do_slop_game_creators_hit_the_highly_engaged/",
+      "title": "How do “slop” game creators hit the highly engaged players minimum?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4964716:1",
       "url": "https://devforum.roblox.com/t/little-extension-i-made-for-bloodshot-ruby-eye/4964716",
       "title": "Little extension i made for bloodshot ruby eye",
@@ -3633,6 +3636,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xmxyyj",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxyyj/playtest_for_a_new_game/",
+      "title": "Playtest for a new game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:HT68bKhThxg",
       "url": "https://www.youtube.com/shorts/HT68bKhThxg",
       "title": "saved the worst for last. Piggy is the final challenge in The Hollow. for now.",
@@ -3696,32 +3713,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965021:1",
-      "url": "https://devforum.roblox.com/t/full-release-input-action-manager/4965021",
-      "title": "[Full Release] Input Action Manager",
-      "source": "roblox-devforum-updates",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965231:1",
-      "url": "https://devforum.roblox.com/t/realistic-elm-tree-pack/4965231",
-      "title": "Realistic Elm Tree Pack",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4364,6 +4355,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4973531:1",
+      "url": "https://devforum.roblox.com/t/my-project-wouldnt-open/4973531",
+      "title": "My Project wouldn't open",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xi76gd",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi76gd/rs/",
       "title": "RS",
@@ -4394,19 +4398,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xihk9g/is_learning_roblox_development_even_worth_anymore/",
       "title": "is learning roblox development even worth anymore??",
       "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xihl6r",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xihl6r/gray_screen_in_roblox/",
-      "title": "gray screen in Roblox",
-      "source": "reddit-robloxstudio",
       "published": "2026-10-29",
       "kind": "reddit",
       "signals": [
@@ -5105,14 +5096,16 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963488:1",
-      "url": "https://devforum.roblox.com/t/how-would-i-go-about-an-aiming-system-with-my-character-based-viewmodel/4963488",
-      "title": "How would I go about an aiming system with my character-based viewmodel?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xmxg0y",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxg0y/partnership_game_investor_sponsor_fps_game/",
+      "title": "Partnership Game Investor / Sponsor FPS GAME",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -5152,17 +5145,6 @@
       "key": "devforum:4963786:1",
       "url": "https://devforum.roblox.com/t/false-flagging-chat-ban-message/4963786",
       "title": "False Flagging Chat Ban Message",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963864:1",
-      "url": "https://devforum.roblox.com/t/are-this-not-allowed/4963864",
-      "title": "Are this not allowed?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6194,23 +6176,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xi5gjc",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi5gjc/gewehr_m1869_eisenreich_empire_rifle/",
-      "title": "Gewehr M.1869 (Eisenreich Empire Rifle)",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973435:1",
+      "url": "https://devforum.roblox.com/t/urgent-roblox-moderation-fails-to-see-epilepsy-risks/4973435",
+      "title": "[URGENT] Roblox moderation fails to see epilepsy risks",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xiic71",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiic71/kaiser_m75_eisenreich_empire_revolver/",
-      "title": "Kaiser M75 (Eisenreich Empire Revolver)",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973515:1",
+      "url": "https://devforum.roblox.com/t/roblox-assessment-setup-issue-if-you-use-the-same-account-again/4973515",
+      "title": "Roblox Assessment - Setup issue, if you use the same account again",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973661:1",
+      "url": "https://devforum.roblox.com/t/free-sentry-administration-same-team-new-tools/4973661",
+      "title": "[Free] Sentry Administration: same team, new tools",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7363,6 +7356,28 @@
       "key": "reddit:1xmu5mq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmu5mq/im_developing_a_game/",
       "title": "I’m developing a game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmv5ua",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmv5ua/where_people_learned_to_code/",
+      "title": "Where people learned to code?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xmxa5u",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxa5u/if_you_are_really_tired_of_people_who_used_ai_to/",
+      "title": "If you are really tired of people who used AI to generate a \"game\", remember cube is developing their game :p",
       "source": "reddit-robloxdev",
       "published": "2026-11-03",
       "kind": "reddit",

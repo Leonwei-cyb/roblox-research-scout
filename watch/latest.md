@@ -2,7 +2,7 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — MCP - history tools , line_timeline,  restock_status, find_change etc (#4653).
-- **Source updated:** [huginn/huginn](https://github.com/huginn/huginn) — Track container publishing deployments.
+- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — model: add MiMo V2.6 renderer for Qwen3.5 (#19400).
+- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — UI - AI/LLM/MCP sub-tabs should always land you on #overview first step..
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

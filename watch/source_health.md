@@ -21,7 +21,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - brock-tiktok: 6
 - brock-x: 0
 - roblox-animation-showcases: 3
-- tizzy-roblox-design: 2
+- tizzy-roblox-design: 1
 - syphodev-claude: 12
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: 12
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: 12

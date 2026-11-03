@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "132ea49c549a74b1d9535c0e8aa7f1dd2b3f31a4",
-      "head_subject": "MCP - history tools , line_timeline,  restock_status, find_change etc (#4653)",
+      "head": "5e086dddf83e6ff4f43751db2386a33e006b1e3b",
+      "head_subject": "UI - AI/LLM/MCP sub-tabs should always land you on #overview first step.",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "9a3e8177767245acc62b735eba7d5d8a553606d0",
-      "head_subject": "server: decode cloud web search responses (#19476)",
+      "head": "355eaee353f81f598932faf3226344d39e482860",
+      "head_subject": "model: add MiMo V2.6 renderer for Qwen3.5 (#19400)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
