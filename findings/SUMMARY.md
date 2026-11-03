@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-03T04:31:46Z (local, ok)
+- Last run: 2026-11-03T07:16:13Z (schedule, partial)
 - Repos tracked: 447; adopt 0, needs-test 158, reject 289
 - Actionable backlog: 147
-- Feed health: ok 38
+- Feed health: deferred 6, ok 31
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​0f520aa, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/c886a6abe3fab592d7cf2979da07269543b64274)
   - Pin jmagly/aiwg@​c886a6a, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2655 brainstorming: a request that says "I've decided everything, don't ask, just write the code" is trea
-- Issue updated: obra/superpowers #2253 subagent-driven-development: Finish deletes the only record of deferred findings — parked/deferred i
-- Issue updated: earendil-works/pi #10956 cacheWarming "idle" stops silently once an extension handles turn\_end and the context holds a custom
-- Issue updated: earendil-works/pi #11710 TUI Markdown prints HTML comments as visible text
-- Issue updated: earendil-works/pi #9276 The grep tool with context lines can cause OOM
-- Issue updated: OpenHands/OpenHands #19242 \[Bug\]: Agent Canvas fails to start: TypeError: Query\(\) got an unexpected keyword argument 'lte' in b
-- Issue updated: OpenHands/OpenHands #19258 AI ISSUE
-- Issue updated: OpenHands/OpenHands #19061 \[Bug\]: Requesting an existing secret does not open the secure replacement dialog
-- Issue updated: OpenHands/OpenHands #19255 \[Bug\]: Ingress on port 8000 can crash on Windows \(0xC0000409\) and agent-canvas keeps running without
-- Release: anthropics/claude-code v2.1.316 to v2.1.317
-- Issue updated: anthropics/claude-code #106866 reasults are good but use to many tokns
-- Issue updated: anthropics/claude-code #106872 Desktop app 4.4212.0: side-session wake silently skipped when the parent session was paused \(governo
-- Issue updated: anthropics/claude-code #92544 \[Bug\] Low-priority usage consumes token quota disproportionately fast
-- Issue updated: anthropics/claude-code #105725 \[Bug\] Excessive usage consumption: quota starts at 2% and cache not being used
-- Issue updated: anthropics/claude-code #102667 Possible Usage Accounting Regression: Weekly Limit Depletes Much Faster Than Before
-- Issue updated: openai/codex #57860 \[macOS\]\[Sites publish\] Personal workspace receives granular policy with sandbox\_approval=false
-- Issue updated: openai/codex #58660 \[Windows Desktop\] Sending a message with Excel/file attachments stays stuck in the submission/loadin
-- Issue updated: openai/codex #49152 \[Windows\]\[26.924.2738.0\] Startup spinner with Codex MSIX on secondary AppX volume; Protected Applica
-- Issue updated: openai/codex #58726 macOS desktop: sidebar tools list\_threads and create\_sidebar\_section fail with MCP -32000
-- Issue updated: openai/codex #56711 Repeated “Could not load Work preferences” in one local project chat on macOS
-- Issue updated: ollama/ollama #10128 Incorrect VRAM estimation
-- Issue updated: ollama/ollama #19483 Ollama GitHub Issues
-- Issue updated: ollama/ollama #19479 OpenAI-compat /v1: image in tool result → misleading HTTP 400 "Unexpected tool call id … in tool res
-- Issue updated: ollama/ollama #19436 Make Qwen3.5 0.8B Q4\_K\_M quantization available \('qwen3.5:0.8b-q4\_K\_M'\)
-- Issue updated: ollama/ollama #19461 I subscribed to Ollama's cloud/paid tier to access cloud models via API, but I am unable to access t
-- Issue updated: e2b-dev/awesome-ai-agents #1902 Category question: source-available Breatic creative agent application
-- Release: first-fluke/oh-my-agent cli-v20.29.0 to cli-v20.33.0
-- Issue updated: Gentleman-Programming/gentle-ai #5926 \[Automated provider defect\] Claude Code orchestrator rule still requires sdd-attempt acquire/settle,
-- Issue updated: Gentleman-Programming/gentle-ai #4880 bug\(review\): a generated ORM migration designer consumes 99% of the lens context budget, making the
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
