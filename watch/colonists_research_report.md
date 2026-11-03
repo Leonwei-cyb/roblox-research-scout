@@ -14,7 +14,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [\[Feedback\] Which of these UI frames is your favorite? (WIP UI Pack)](https://devforum.roblox.com/t/feedback-which-of-these-ui-frames-is-your-favorite-wip-ui-pack/4966865)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
-- **P1 · world and visual design:** [Castle Building For a Dystopian Environment ( inside of Roblox at the end )](https://www.reddit.com/r/ROBLOXStudio/comments/1xin6ep/castle_building_for_a_dystopian_environment/)
+- **P1 · world and visual design:** [How to make the view model look the same regardless of fov](https://www.reddit.com/r/ROBLOXStudio/comments/1xju7fj/how_to_make_the_view_model_look_the_same/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
 - **P1 · animation and audio:** [Testing animations and UI for my Ben 10 game](https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/)
   - reddit · **UNVIEWED_METADATA** · Check: Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?

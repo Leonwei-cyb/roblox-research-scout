@@ -365,15 +365,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xin6ep",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xin6ep/castle_building_for_a_dystopian_environment/",
-      "title": "Castle Building For a Dystopian Environment ( inside of Roblox at the end )",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973824:1",
+      "url": "https://devforum.roblox.com/t/roblox-studio-bug-terrain-editor-and-transform-tools-disappear-when-pressing-ctrl/4973824",
+      "title": "Roblox Studio Bug: Terrain Editor and Transform Tools Disappear When Pressing Ctrl",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
-        "world and visual design"
+        "world and visual design",
+        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -672,33 +672,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:sRNaj6S0zhY",
-      "url": "https://www.youtube.com/shorts/sRNaj6S0zhY",
-      "title": "next stop on The Burning Up Tour All Over Again: Steal an Egg. Jonas Brothers live this Halloween.",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-29",
-      "kind": "youtube",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965023:1",
-      "url": "https://devforum.roblox.com/t/workspaceexterior-doorslidingdoordetectorsscript-attempt-to-index-nil-with-getattribute/4965023",
-      "title": "Workspace.Exterior Door.SlidingDoor.Detectors.Script:8: attempt to index nil with 'GetAttribute'",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4965616:1",
       "url": "https://devforum.roblox.com/t/voice-chat-still-reports-me-even-after-leaving-a-game/4965616",
       "title": "Voice chat still reports me even after leaving a game",
@@ -946,6 +919,20 @@
       "signals": [
         "UI and menus",
         "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973876:1",
+      "url": "https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876",
+      "title": "Analytics: Understand Complex Player Funnels With Journeys",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2244,6 +2231,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4973887:1",
+      "url": "https://devforum.roblox.com/t/players-can-no-longer-join-the-villa-after-correcting-the-maturity-questionnaire-ccu-dropped-to-0/4973887",
+      "title": "Players can no longer join The Villa after correcting the Maturity Questionnaire - CCU dropped to 0",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xiqfh0",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiqfh0/new_game_up_to_fate/",
       "title": "New game: “up to fate”",
@@ -3118,6 +3118,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xn003t",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn003t/could_you_please_try_my_game_and_make_a_feedback/",
+      "title": "Could you please try my game? and make a feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn05y5",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn05y5/spent_my_free_time_building_a_cyberpunk_heist/",
+      "title": "Spent my free time building a cyberpunk heist game with endless neon rain. How does the atmosphere and features feel to you?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn06w7",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn06w7/looking_for_an_animator_for_my_asymetrical_game/",
+      "title": "Looking for an animator for my asymetrical game. [HOBBY]",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4964716:1",
       "url": "https://devforum.roblox.com/t/little-extension-i-made-for-bloodshot-ruby-eye/4964716",
       "title": "Little extension i made for bloodshot ruby eye",
@@ -3677,17 +3716,6 @@
       "title": "Frontlines Versus Spotlight",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "published": "2026-11-02",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:apNMDNX7Eh4",
-      "url": "https://www.youtube.com/shorts/apNMDNX7Eh4",
-      "title": "all eyes on you. tonight, the Overseer is watching The Hollow.",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-10-29",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -4379,12 +4407,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xi76gd",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xi76gd/rs/",
-      "title": "RS",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973880:1",
+      "url": "https://devforum.roblox.com/t/support-redirects-compromised-account-reports-to-appeals-exhausted-by-the-attacker/4973880",
+      "title": "Support redirects compromised-account reports to appeals exhausted by the attacker",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [
         "tools and performance"
       ],
@@ -5129,64 +5157,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963673:1",
-      "url": "https://devforum.roblox.com/t/badges-for-floors-still-not-awarded-despite-completion-the-hollow/4963673",
-      "title": "Badges for floors still not awarded despite completion (The Hollow)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4963786:1",
-      "url": "https://devforum.roblox.com/t/false-flagging-chat-ban-message/4963786",
-      "title": "False Flagging Chat Ban Message",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964201:1",
-      "url": "https://devforum.roblox.com/t/roblox-confirmed-my-partners-counter-notice-was-forwarded-but-our-experience-has-not-been-restored/4964201",
-      "title": "Roblox Confirmed My Partner's Counter-Notice Was Forwarded, but Our Experience Has Not Been Restored",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4964720:1",
       "url": "https://devforum.roblox.com/t/typing-in-a-text-box-causes-a-crash-in-some-games/4964720",
       "title": "Typing in a text box causes a crash in some games",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964800:1",
-      "url": "https://devforum.roblox.com/t/asset-recovery-after-group-hacking-beware-of-%E2%80%9Cfakeverified%E2%80%9D-collaborators/4964800",
-      "title": "Asset Recovery After Group Hacking : Beware of “Fake/Verified” Collaborators",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964835:1",
-      "url": "https://devforum.roblox.com/t/initial-bugs-found-with-web-play/4964835",
-      "title": "Initial bugs found with web play",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -5209,17 +5182,6 @@
       "key": "devforum:4964962:1",
       "url": "https://devforum.roblox.com/t/editable-mesh-fails-on-group-experiences-with-owned-assets-despite-asset-privacy-permissions/4964962",
       "title": "Editable Mesh fails on group experiences with owned assets despite Asset Privacy permissions",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964989:1",
-      "url": "https://devforum.roblox.com/t/editableimage-drawcircle-drawimage-and-drawimagetransformed-missing-alphablendtype-parameter/4964989",
-      "title": "EditableImage DrawCircle, DrawImage, and DrawImageTransformed missing alphaBlendType parameter",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6207,6 +6169,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4973832:1",
+      "url": "https://devforum.roblox.com/t/ai-moderation-terminated-my-account-because-of-water/4973832",
+      "title": "AI moderation terminated my account because of water",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973833:1",
+      "url": "https://devforum.roblox.com/t/i%CC%87ssue-with-camera-shake-handling/4973833",
+      "title": "İssue with camera shake handling",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973861:1",
+      "url": "https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861",
+      "title": "Excessive devex ban? Your DevEx access has been temporarily suspended",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973895:1",
+      "url": "https://devforum.roblox.com/t/pixelated-decals/4973895",
+      "title": "Pixelated Decals",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xijbjy",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xijbjy/eisenreich_empire_infantry_officer_and_medic/",
       "title": "Eisenreich Empire Infantry Officer and Medic",
@@ -6218,31 +6224,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xioh1g",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xioh1g/superchefs_game_intro/",
-      "title": "SUPERCHEFS! Game Intro",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xivlux",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivlux/upcoming_horror_asym/",
       "title": "Upcoming horror asym",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xivzws",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivzws/i_added_an_acid_lake_to_my_lumber_game/",
-      "title": "I added an acid lake to my lumber game.",
       "source": "reddit-robloxdev",
       "published": "2026-10-29",
       "kind": "reddit",
@@ -7376,6 +7360,28 @@
       "key": "reddit:1xmz9qm",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmz9qm/im_confused_is_it_published_as_it_save_to_roblox/",
       "title": "I'm confused is it published as it save to roblox as to release my ges update??",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn092d",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn092d/fusil_royal_mle1879/",
+      "title": "Fusil Royal Mle.1879",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn13f8",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn13f8/battlefield_like_game/",
+      "title": "Battlefield Like Game",
       "source": "reddit-robloxdev",
       "published": "2026-11-03",
       "kind": "reddit",
