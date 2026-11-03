@@ -7,37 +7,41 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Spent my free time building a cyberpunk heist game with endless neon rain. How does the atmosphere and features feel to you?](https://www.reddit.com/r/robloxgamedev/comments/1xn05y5/spent_my_free_time_building_a_cyberpunk_heist/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Hey everyone! I'm an independent dev and I've been working on a cyberpunk project called Neon Syndicate in my free time. The core loop is centered around taking contracts from a fixer and climbing the ranks in a neon city. Here are a few fe
-- **[Battlefield Like Game](https://www.reddit.com/r/robloxgamedev/comments/1xn13f8/battlefield_like_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: I’ve been dreaming of developing a battlefield like game on Roblox since high school. I’m 23, now I’m fairly busy but I’m open to talk about it. Let me know your thoughts. submitted by /u/CostRare97 \[link\] \[comments\]
-- **[Could you please try my game? and make a feedback](https://www.reddit.com/r/robloxgamedev/comments/1xn003t/could_you_please_try_my_game_and_make_a_feedback/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: submitted by /u/Matthew_sausage \[link\] \[comments\]
-- **[Fusil Royal Mle.1879](https://www.reddit.com/r/robloxgamedev/comments/1xn092d/fusil_royal_mle1879/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: will the trial for the rifle started as far back as 1874 it was only in 1879 it was adopted, after the adoption of the Fusil Royal Mle.1878 so they could both have the same cartridger, the 11.4mm Mle 1878. the 1879 was designed and adopted 
-- **[Looking for an animator for my asymetrical game. \[HOBBY\]](https://www.reddit.com/r/robloxgamedev/comments/1xn06w7/looking_for_an_animator_for_my_asymetrical_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
-  - Feed excerpt: Hello! Im looking for someone that knows how to animate to work on my passion project "Voidzone", an asymetrical game based on parkour and teamwork where 3 Blights (or Mini-Killers) and a Deadly Sin (Great Killer) have to battle against a g
+- **[Can games get any traction without ads?](https://www.reddit.com/r/robloxgamedev/comments/1xn4o4z/can_games_get_any_traction_without_ads/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Me and my friend have just released a Roblox game with no players whatsoever, wondering if we NEED to buy ads for it to gain traction, how do people find it otherwise? submitted by /u/Lopsided-Strength-42 \[link\] \[comments\]
+- **[Got this regional restriction message, will this ruin my game's growth or should I keep going?](https://www.reddit.com/r/robloxgamedev/comments/1xn4dw3/got_this_regional_restriction_message_will_this/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Just noticed this notification saying my game isn't available in a long list of countries (including Turkey, Saudi Arabia, Russia, etc.) due to local requirements. Has anyone else dealt with this exact issue? Should i continue working on th
+- **[I made a Dragon Ball survival game on Roblox: one Goku hunts, everyone else runs](https://www.reddit.com/r/robloxgamedev/comments/1xn4fja/i_made_a_dragon_ball_survival_game_on_roblox_one/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Hey, this is my first Roblox game. I tried to make the idea as original as I could. It’s called Escape From Goku!, and I’m sharing a short gameplay video above. How it works: Every round, one player is Goku, the Hunter . He flies at insane 
+- **[Roma Invicta villa map](https://www.reddit.com/r/robloxgamedev/comments/1xn55tt/roma_invicta_villa_map/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Roman themed, modeled/textured in blender. submitted by /u/RomaInvictaDev \[link\] \[comments\]
+- **[Using Roblox for my real neighborhood in Tokyo: today’s town + its Edo-period past, real-life events, kids building the future town. Looking for examples, ideas](https://www.reddit.com/r/robloxgamedev/comments/1xn3xye/using_roblox_for_my_real_neighborhood_in_tokyo/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Hi r/robloxgamedev , I believe the US and other countries are ahead of Japan when it comes to using Roblox for community and social purposes, so I came here to learn from you. Background I live in Kakoi-cho, a small neighborhood right next 
+- **[War Style Game - Two friends one big dream](https://www.reddit.com/r/robloxgamedev/comments/1xn472a/war_style_game_two_friends_one_big_dream/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Hi everybody! I recently made a little project with my friend on Roblox about a war game. The game is decent but there is lots of room for improvement ( its still in pre alpha tho ). I would love to know what i need to further polish or add
+- **[What makes this UI so bad, how can I recreate it to be more appealing.](https://www.reddit.com/r/robloxgamedev/comments/1xn2t01/what_makes_this_ui_so_bad_how_can_i_recreate_it/)** · Reddit r/robloxgamedev public RSS · 2026-11-03
+  - Feed excerpt: Just looking for some input. Most people instantly left and said looks like AI. submitted by /u/Hefty_Object4512 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[AI moderation terminated my account because of water](https://devforum.roblox.com/t/ai-moderation-terminated-my-account-because-of-water/4973832)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: My account @sicktrading was recently terminated after I uploaded a map from blender. Some of the assets were in fact rule breaking, however the majority were not. This includes water bottle textures which were deemed “Offsite links” Its jus
-- **[Roblox Studio Bug: Terrain Editor and Transform Tools Disappear When Pressing Ctrl](https://devforum.roblox.com/t/roblox-studio-bug-terrain-editor-and-transform-tools-disappear-when-pressing-ctrl/4973824)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: I’m experiencing a bug in Roblox Studio where the Terrain Editor and transform tools unexpectedly disappear whenever I press the Ctrl key while working in Studio. This happens with multiple tools, including Move, Rotate, Resize, and the Ter
-- **[Analytics: Understand Complex Player Funnels With Journeys](https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Key Takeaways We’re launching Journeys in Creator Analytics. Unlike a linear funnel, a journey lets players branch into different paths and reconnect later, so you can see every route players take through onboarding, quests, shops and featu
-- **[Analytics: Understand Complex Player Funnels With Journeys](https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876)** · Roblox updates category (availability may vary) · 2026-11-03
-  - Feed excerpt: Key Takeaways We’re launching Journeys in Creator Analytics. Unlike a linear funnel, a journey lets players branch into different paths and reconnect later, so you can see every route players take through onboarding, quests, shops and featu
-- **[Excessive devex ban? Your DevEx access has been temporarily suspended](https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: 40 days thats a whole month where i am now no longer able to pay rent isn’t this a bit too much? i mean it’s in the nature of UGC for an occasional flag on a face but getting restricted for 40 days for something like this. It was made by A.
-- **[Pixelated Decals](https://devforum.roblox.com/t/pixelated-decals/4973895)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Hello! Currently it’s difficult to use any kind of pixelated images with decals, since they are quite blurry, especially on lower resolution images. It would be great if decals could have something like the ImageLabel’s Pixelated ResamplerM
-- **[Players can no longer join The Villa after correcting the Maturity Questionnaire - CCU dropped to 0](https://devforum.roblox.com/t/players-can-no-longer-join-the-villa-after-correcting-the-maturity-questionnaire-ccu-dropped-to-0/4973887)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Hi! Today the Maturity & Compliance Questionnaire for The Villa (Universe ID 9649357470 ) was marked as inaccurate (“Social Hangout (Present)”). I corrected and resubmitted the questionnaire as requested, and since then players are not able
-- **[Support redirects compromised-account reports to appeals exhausted by the attacker](https://devforum.roblox.com/t/support-redirects-compromised-account-reports-to-appeals-exhausted-by-the-attacker/4973880)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: My friend’s account, Hargrefs (10897405754), was compromised through stolen cookies on October 25, 2026. Attackers regained access on November 1, possibly through a passkey, although that is unconfirmed. They transferred ownership of Firstl
-- **[İssue with camera shake handling](https://devforum.roblox.com/t/i%CC%87ssue-with-camera-shake-handling/4973833)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: İm working on a personal project using a helmet camera perspective gameplay based on Sensei_Developer’s Hellmet and Arcsoft’s Project Apex. However adding camera shakes have became an serius issue, When i add the CFrame for camera shaking, 
+- **[Allow Re-Verification After Username and Group Name Changes](https://devforum.roblox.com/t/allow-re-verification-after-username-and-group-name-changes/4973974)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: As a Roblox developer, it is currently too difficult to update personal and company branding while maintaining a verified presence on the platform. I recently changed my username and our group’s name as part of a rebrand, which caused my ac
+- **[\[Beta\] Promotional Text](https://devforum.roblox.com/t/beta-promotional-text/4973915)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Key Takeaways Promotional Text is now in Beta for all creators. It provides a space for brief secondary text information, such as a limited time mode or update, so your game name stays short and important information doesn’t get cut off. A 
+- **[\[Beta\] Promotional Text](https://devforum.roblox.com/t/beta-promotional-text/4973915)** · Roblox updates category (availability may vary) · 2026-11-03
+  - Feed excerpt: Key Takeaways Promotional Text is now in Beta for all creators. It provides a space for brief secondary text information, such as a limited time mode or update, so your game name stays short and important information doesn’t get cut off. A 
+- **[6 Girls VS 6 Boys still restricted to 16+ after removing videos; final review pending](https://devforum.roblox.com/t/6-girls-vs-6-boys-still-restricted-to-16-after-removing-videos-final-review-pending/4974035)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: My experience, 6 Girls VS 6 Boys , is still restricted to players aged 16+ after I removed specific Roblox-related videos that appear to have triggered the issue in the doomscrolling/video template we use. What changed After investigating t
+- **[How can i achieve this effect?](https://devforum.roblox.com/t/how-can-i-achieve-this-effect/4973919)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: I was recently exploring a game when i found this really cool effect for marking dropped items i’ve tried to replicate it in studio, but this is the best i could do. The issue is that since it uses billboardGUIs, when i stare at it from abo
+- **[Increase Accessibility to Roblox's Post Processing](https://devforum.roblox.com/t/increase-accessibility-to-robloxs-post-processing/4973924)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Unlike other threads that are asking for general updates/notices with Roblox’s Post Processing, this thread specifically will tackle the accessibility and go into clarity on what needs to be said and what desires are wanted by developers ha
+- **[No badges for doing floors in the Hollow](https://devforum.roblox.com/t/no-badges-for-doing-floors-in-the-hollow/4974076)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: I did the floors 1-9 and the ? floor in the Hollow but didn’t receive any badges and therefore the items as well. I was banned for 3 days and missed out on a lot but I still did all of them before the Hollow closed. Would it be possible for
+- **[Roblox randomly crashes (closes) after a few minutes of playing](https://devforum.roblox.com/t/roblox-randomly-crashes-closes-after-a-few-minutes-of-playing/4973990)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: \[SYSTEM INFORMATION IS IN THE PRIVATE MESSAGE\] Hi, When playing Roblox experiences, sometimes, the player crashes (or rather closes) without any prior warning. Due to the fact this is sometimes happening and that I can not predict it, I can
+- **[Using the text to speech thing](https://devforum.roblox.com/t/using-the-text-to-speech-thing/4974033)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: 2 posts - 1 participant Read full topic
 
 ---
 

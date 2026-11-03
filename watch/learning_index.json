@@ -175,36 +175,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xivmfa",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/",
-      "title": "Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "UI and menus",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xizp35",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xizp35/testing_animations_and_ui_for_my_ben_10_game/",
-      "title": "Testing animations and UI for my Ben 10 game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "animation and audio",
-        "world and visual design"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xj05d7",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj05d7/i_just_launched_my_first_roblox_game_dig_junk/",
       "title": "I just launched my first Roblox game: dig junk, build a robot buddy, fuse parts to Gold. Looking for honest feedback",
@@ -507,6 +477,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xn3xye",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn3xye/using_roblox_for_my_real_neighborhood_in_tokyo/",
+      "title": "Using Roblox for my real neighborhood in Tokyo: today’s town + its Edo-period past, real-life events, kids building the future town. Looking for examples, ideas & play feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4967982:1",
       "url": "https://devforum.roblox.com/t/plugin-surfacegui-editor-%E2%80%94-slimeyhd%E2%80%99s-edition/4967982",
       "title": "[Plugin] SurfaceGui Editor — SlimeyHD’s Edition",
@@ -654,19 +638,6 @@
         "building and purchases",
         "world and visual design",
         "player feedback and marketing"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "youtube:oJdSOlWgrl8",
-      "url": "https://www.youtube.com/watch?v=oJdSOlWgrl8",
-      "title": "Can I Make a Viral Roblox Horror Game With AI?",
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "published": "2026-10-29",
-      "kind": "youtube",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 7,
       "evidence": "UNVIEWED_METADATA"
@@ -932,20 +903,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xitf5n",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xitf5n/dont_get_cooked_first_roblox_game_youre_a_shrimp/",
-      "title": "Don't Get Cooked - First Roblox game: you're a shrimp hiding from 3 giant chefs. Would love honest feedback!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
         "player feedback and marketing"
       ],
       "score": 6,
@@ -1250,16 +1207,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4964135:1",
-      "url": "https://devforum.roblox.com/t/video-under-review-taking-more-than-24-hours/4964135",
-      "title": "Video under Review taking more than 24 hours?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
+      "key": "reddit:1xn4o4z",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn4o4z/can_games_get_any_traction_without_ads/",
+      "title": "Can games get any traction without ads?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
       "signals": [
+        "building and purchases",
         "player feedback and marketing"
       ],
-      "score": 5,
+      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2244,15 +2202,13 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xiqfh0",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiqfh0/new_game_up_to_fate/",
-      "title": "New game: “up to fate”",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4974035:1",
+      "url": "https://devforum.roblox.com/t/6-girls-vs-6-boys-still-restricted-to-16-after-removing-videos-final-review-pending/4974035",
+      "title": "6 Girls VS 6 Boys still restricted to 16+ after removing videos; final review pending",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [
-        "board game and turn flow",
-        "UI and menus",
         "player feedback and marketing"
       ],
       "score": 5,
@@ -3157,17 +3113,16 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4964716:1",
-      "url": "https://devforum.roblox.com/t/little-extension-i-made-for-bloodshot-ruby-eye/4964716",
-      "title": "Little extension i made for bloodshot ruby eye",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
+      "key": "reddit:1xn2t01",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn2t01/what_makes_this_ui_so_bad_how_can_i_recreate_it/",
+      "title": "What makes this UI so bad, how can I recreate it to be more appealing.",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
       "signals": [
-        "world and visual design",
-        "player feedback and marketing"
+        "UI and menus"
       ],
-      "score": 4,
+      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3348,6 +3303,20 @@
       "signals": [
         "world and visual design",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973990:1",
+      "url": "https://devforum.roblox.com/t/roblox-randomly-crashes-closes-after-a-few-minutes-of-playing/4973990",
+      "title": "Roblox randomly crashes (closes) after a few minutes of playing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -4420,14 +4389,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xi8dvp",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xi8dvp/i_need_youre_help/",
-      "title": "I need you're help",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973919:1",
+      "url": "https://devforum.roblox.com/t/how-can-i-achieve-this-effect/4973919",
+      "title": "How can i achieve this effect?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [
-        "building and purchases"
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4446,32 +4415,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xiiwta",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xiiwta/struggling_with_ccu_or_need_playtesting/",
-      "title": "Struggling with CCU or Need Playtesting?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xij8qj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xij8qj/seeking_for_roblox_dev_partners_to_create_a_game/",
-      "title": "seeking for roblox dev partners to create a game.",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xiq59k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xiq59k/roblox_does_not_see_you_as_expendable/",
       "title": "Roblox Does Not See You As Expendable",
@@ -4480,19 +4423,6 @@
       "kind": "reddit",
       "signals": [
         "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xisuys",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xisuys/first_game_launched/",
-      "title": "First game launched",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5135,20 +5065,22 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963544:1",
-      "url": "https://devforum.roblox.com/t/please-add-ball-socket-constraints-rigidity-single-assembly-constraints/4963544",
-      "title": "Please add Ball Socket Constraints rigidity! Single assembly constraints?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xn4fja",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn4fja/i_made_a_dragon_ball_survival_game_on_roblox_one/",
+      "title": "I made a Dragon Ball survival game on Roblox: one Goku hunts, everyone else runs",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4963591:1",
-      "url": "https://devforum.roblox.com/t/guys-i-don%E2%80%99t-think-that-is-super-super-happy-face/4963591",
-      "title": "Guys I don’t think that is Super Super Happy Face",
+      "key": "devforum:4963544:1",
+      "url": "https://devforum.roblox.com/t/please-add-ball-socket-constraints-rigidity-single-assembly-constraints/4963544",
+      "title": "Please add Ball Socket Constraints rigidity! Single assembly constraints?",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -5171,28 +5103,6 @@
       "key": "devforum:4964870:1",
       "url": "https://devforum.roblox.com/t/group-restored-after-compromise-but-original-game-and-200000-robux-are-still-missing/4964870",
       "title": "Group restored after compromise, but original game and 200,000 Robux are still missing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4964962:1",
-      "url": "https://devforum.roblox.com/t/editable-mesh-fails-on-group-experiences-with-owned-assets-despite-asset-privacy-permissions/4964962",
-      "title": "Editable Mesh fails on group experiences with owned assets despite Asset Privacy permissions",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-29",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965236:1",
-      "url": "https://devforum.roblox.com/t/this-is-possibly-my-best-or-worst-feature-request-yet/4965236",
-      "title": "This is possibly my best OR WORST Feature Request yet",
       "source": "roblox-devforum-latest",
       "published": "2026-10-29",
       "kind": "devforum",
@@ -6213,20 +6123,64 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xijbjy",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xijbjy/eisenreich_empire_infantry_officer_and_medic/",
-      "title": "Eisenreich Empire Infantry Officer and Medic",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-29",
-      "kind": "reddit",
+      "key": "devforum:4973915:1",
+      "url": "https://devforum.roblox.com/t/beta-promotional-text/4973915",
+      "title": "[Beta] Promotional Text",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-03",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xivlux",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xivlux/upcoming_horror_asym/",
-      "title": "Upcoming horror asym",
+      "key": "devforum:4973924:1",
+      "url": "https://devforum.roblox.com/t/increase-accessibility-to-robloxs-post-processing/4973924",
+      "title": "Increase Accessibility to Roblox's Post Processing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4973974:1",
+      "url": "https://devforum.roblox.com/t/allow-re-verification-after-username-and-group-name-changes/4973974",
+      "title": "Allow Re-Verification After Username and Group Name Changes",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974033:1",
+      "url": "https://devforum.roblox.com/t/using-the-text-to-speech-thing/4974033",
+      "title": "Using the text to speech thing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974076:1",
+      "url": "https://devforum.roblox.com/t/no-badges-for-doing-floors-in-the-hollow/4974076",
+      "title": "No badges for doing floors in the Hollow",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-03",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xijbjy",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xijbjy/eisenreich_empire_infantry_officer_and_medic/",
+      "title": "Eisenreich Empire Infantry Officer and Medic",
       "source": "reddit-robloxdev",
       "published": "2026-10-29",
       "kind": "reddit",
@@ -7382,6 +7336,39 @@
       "key": "reddit:1xn13f8",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn13f8/battlefield_like_game/",
       "title": "Battlefield Like Game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn472a",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn472a/war_style_game_two_friends_one_big_dream/",
+      "title": "War Style Game - Two friends one big dream",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn4dw3",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn4dw3/got_this_regional_restriction_message_will_this/",
+      "title": "Got this regional restriction message, will this ruin my game's growth or should I keep going?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-03",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xn55tt",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn55tt/roma_invicta_villa_map/",
+      "title": "Roma Invicta villa map",
       "source": "reddit-robloxdev",
       "published": "2026-11-03",
       "kind": "reddit",

@@ -21,5 +21,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Allow us to Disable the "MCP off" Toolbar](https://devforum.roblox.com/t/allow-us-to-disable-the-mcp-off-toolbar/4966132)** — Public text/page, video not confirmed
-- **[Anyone here building Roblox games with an MCP server (Claude, Cursor, etc.)?](https://www.reddit.com/r/robloxgamedev/comments/1xivmfa/anyone_here_building_roblox_games_with_an_mcp/)** — Public text/page, video not confirmed
+- **[Playtest for a new game](https://www.reddit.com/r/robloxgamedev/comments/1xmxyyj/playtest_for_a_new_game/)** — Public text/page, video not confirmed
 - **[I'm a playtester, can i test your game?](https://www.reddit.com/r/ROBLOXStudio/comments/1xlxrbl/im_a_playtester_can_i_test_your_game/)** — Public text/page, video not confirmed

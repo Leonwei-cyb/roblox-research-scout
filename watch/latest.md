@@ -2,6 +2,7 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [huytran1120/vie-agentic-skills](https://github.com/huytran1120/vie-agentic-skills) (17 stars). AI agent skills. Copy a prompt to install.
+- **Source updated:** [Roblox/creator-docs](https://github.com/Roblox/creator-docs) — update Open Source Docs from Roblox internal teams.
+- **Unreviewed lead:** [ember-luau/ember](https://github.com/ember-luau/ember) (14 stars). One CLI for your Luau dependencies, tools, and scripts.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
