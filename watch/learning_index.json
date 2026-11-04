@@ -5243,17 +5243,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4966136:1",
-      "url": "https://devforum.roblox.com/t/web-play-error-256-failed-to-start-network-client/4966136",
-      "title": "Web Play: Error 256: Failed to start network client",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966173:1",
       "url": "https://devforum.roblox.com/t/cant-use-wasd-and-arrow-keys-at-the-same-time/4966173",
       "title": "Can't use WASD and Arrow keys at the same time",
@@ -6214,6 +6203,17 @@
       "key": "devforum:4974620:1",
       "url": "https://devforum.roblox.com/t/has-the-roblox-community-group-membership-limit-been-increased-beyond-100/4974620",
       "title": "Has the Roblox Community (Group) Membership Limit Been Increased Beyond 100?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974709:1",
+      "url": "https://devforum.roblox.com/t/gravityfactorconstraint/4974709",
+      "title": "GravityFactorConstraint",
       "source": "roblox-devforum-latest",
       "published": "2026-11-04",
       "kind": "devforum",
@@ -7527,7 +7527,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
       "title": "Roblox Q3 Earnings Call Highlights - TradingView",
       "source": "roblox-news",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "kind": "index-only",
       "signals": [
         "economy and income"

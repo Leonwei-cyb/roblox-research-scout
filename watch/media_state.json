@@ -2544,7 +2544,8 @@
     "288d1bfec6ffa634a3d2d11f",
     "c5b45f85ab6c78e552df30f7",
     "6e91f36f4dac97ed8fd370c9",
-    "8ee3e82d52076ff6213da3a7"
+    "8ee3e82d52076ff6213da3a7",
+    "97846879ab756bf00ba03448"
   ],
   "items": [
     {
@@ -2640,6 +2641,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549.rss",
       "id": "a6fb936a2916171143c5bb3e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "GravityFactorConstraint",
+      "url": "https://devforum.roblox.com/t/gravityfactorconstraint/4974709",
+      "published": "2026-11-04",
+      "excerpt": "Currently it’s kinda difficult to make a rig that permanently is able to move leisurly while still being able to fly above the ground as roblox provides little to no features to accomodate for this kind of issue for exemple right the now the most common thing to do is to pull out a vector force and ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/gravityfactorconstraint/4974709.rss",
+      "id": "97846879ab756bf00ba03448"
     },
     {
       "source": "reddit-robloxstudio",
@@ -7568,6 +7581,18 @@
       "id": "f7525e50737998e8e5118c3d"
     },
     {
+      "source": "roblox-news",
+      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
+      "category": "roblox_updates",
+      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
+      "published": "2026-10-31",
+      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
+      "creator": "",
+      "publisher": "https://fr.tradingview.com",
+      "id": "f4df7bf2894a5212610b4aae"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -8703,18 +8728,6 @@
       "id": "f5082b59065dda9aa8b01419"
     },
     {
-      "source": "roblox-news",
-      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
-      "category": "roblox_updates",
-      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
-      "published": "2026-10-30",
-      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
-      "creator": "",
-      "publisher": "https://fr.tradingview.com",
-      "id": "f4df7bf2894a5212610b4aae"
-    },
-    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -9419,18 +9432,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/fallout-4-plot-building-system/4966002.rss",
       "id": "69b631f05de2ddfb267842f1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Web Play: Error 256: Failed to start network client",
-      "url": "https://devforum.roblox.com/t/web-play-error-256-failed-to-start-network-client/4966136",
-      "published": "2026-10-30",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/web-play-error-256-failed-to-start-network-client/4966136.rss",
-      "id": "66857687a24b0a513f5f73ae"
     }
   ]
 }
