@@ -2568,7 +2568,11 @@
     "13788efe5fa88eda0708295a",
     "78a2ad7126a0ff8793c60498",
     "bd41cc08a360f5c447140b71",
-    "f68be6ff8e5b3de4afe56c03"
+    "f68be6ff8e5b3de4afe56c03",
+    "80b19a9e1056b85f13534995",
+    "ef6caeb705090c89d048b0d7",
+    "ec2ce17925d4bf047ad380bb",
+    "40fb24b0aa0fc4155f710beb"
   ],
   "items": [
     {
@@ -2581,6 +2585,30 @@
       "excerpt": "I am making an asym game where two killers compete for survivor kills, and i need people to help me decide whether certain abilities and stats are balanced. please DM me if you'd like to join the testing group or have any questions about the game. submitted by /u/Keith00100 [link] [comments]",
       "creator": "/u/Keith00100 https://www.reddit.com/user/Keith00100",
       "id": "f68be6ff8e5b3de4afe56c03"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Custom events no longer in analytics tab?",
+      "url": "https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109",
+      "published": "2026-11-04",
+      "excerpt": "Unsure where events from LogCustomEvent are stored anymore… been weeks and swear thhey don’t exist, even though I’ve been using LogCustomEvent the entire time 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109.rss",
+      "id": "ef6caeb705090c89d048b0d7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Can Roblox suspend an account that is logged online from two different locations?",
+      "url": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104",
+      "published": "2026-11-04",
+      "excerpt": "Hello, I’m planning to go on vacation and want to be able to stay connected to Roblox Studio, but since my main computer is desktop, I’ll need to use my laptop to connect to Parsec. And at the same time I want to be able to continue testing with my phone from where I am right now . Could Roblox susp",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104.rss",
+      "id": "ec2ce17925d4bf047ad380bb"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2809,6 +2837,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Blurry font rendering after latest update",
+      "url": "https://devforum.roblox.com/t/blurry-font-rendering-after-latest-update/4975141",
+      "published": "2026-11-04",
+      "excerpt": "After the latest update, font rendering on desktop looks blurry, and fonts are stretched. It looks a lot more like font rendering on mobile. This issue is occurring in the Roblox Player as well as Roblox Studio on Windows, and is not only happening to me. (The font used in both of these examples is ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/blurry-font-rendering-after-latest-update/4975141.rss",
+      "id": "80b19a9e1056b85f13534995"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Has the Roblox Community (Group) Membership Limit Been Increased Beyond 100?",
       "url": "https://devforum.roblox.com/t/has-the-roblox-community-group-membership-limit-been-increased-beyond-100/4974620",
       "published": "2026-11-04",
@@ -2990,6 +3030,18 @@
       "excerpt": "It's a photography game, I decided to put Freddy Fazbear's head in an Igloo. submitted by /u/AnimaticKraken [link] [comments]",
       "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
       "id": "43b8f4217a1aba7aec6bcaa3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Different HP Values vs Damage Reduction for Item Variants - Which Is Better for Player Engagement?",
+      "url": "https://devforum.roblox.com/t/different-hp-values-vs-damage-reduction-for-item-variants-which-is-better-for-player-engagement/4975095",
+      "published": "2026-11-04",
+      "excerpt": "Hello! I’m currently working on a clicker simulator and would like to get some opinions on a particular game design decision. Basically, I have multiple variants/skins of the same item. Each item has its own durability, and players can hit it to deal damage and eventually destroy it. There are also ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/different-hp-values-vs-damage-reduction-for-item-variants-which-is-better-for-player-engagement/4975095.rss",
+      "id": "40fb24b0aa0fc4155f710beb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9416,52 +9468,6 @@
       "excerpt": "Progress on Possession - Bloxy Winner - 2013 (remastered) and The Infection - 2012 (Remastered)originally by snakeworl. I tried keeping it almost 1:1 like the original game. It should be almost the same experience but probably without the players. Good luck finding two people to get a round started.",
       "creator": "/u/Current_Share_1657 https://www.reddit.com/user/Current_Share_1657",
       "id": "ad435c02b2fbb80329042b21"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made this in a day. (horpse: the game)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj1i4f/i_made_this_in_a_day_horpse_the_game/",
-      "published": "2026-10-30",
-      "excerpt": "submitted by /u/Aaronledev [link] [comments]",
-      "creator": "/u/Aaronledev https://www.reddit.com/user/Aaronledev",
-      "id": "aac91fdd120e2b8ddc5468c3"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "roblox studio crashing because of device simulator",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjbyuc/roblox_studio_crashing_because_of_device_simulator/",
-      "published": "2026-10-30",
-      "excerpt": "that bullshit is on until i do something bad it all started when i was gonna render something and i clicked on device simulator and it crashed my roblox studio please Help submitted by /u/FastAd5670 [link] [comments]",
-      "creator": "/u/FastAd5670 https://www.reddit.com/user/FastAd5670",
-      "id": "a57249aacd23dc077d18577c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Need Robloxes Help Restoring Group Ownership : Fake “game studio” recruiters are hijacking dev accounts through VS Code Live Share",
-      "url": "https://devforum.roblox.com/t/need-robloxes-help-restoring-group-ownership-fake-%E2%80%9Cgame-studio%E2%80%9D-recruiters-are-hijacking-dev-accounts-through-vs-code-live-share/4965331",
-      "published": "2026-10-30",
-      "excerpt": "[URGENT] Our Roblox Group and Games Were Stolen Through a Malicious VS Code Extension — Seeking Asset Recovery Hello everyone, I’m writing on behalf of Tokyoxoxo1432 (original group owner) and myself, Sike_NL (co-owner) , to share how our Roblox group and games were stolen on October 26, 2026 , thro",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/need-robloxes-help-restoring-group-ownership-fake-%E2%80%9Cgame-studio%E2%80%9D-recruiters-are-hijacking-dev-accounts-through-vs-code-live-share/4965331.rss",
-      "id": "a1fa07f85657f75baccf960b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Ability to test with chat filtering",
-      "url": "https://devforum.roblox.com/t/ability-to-test-with-chat-filtering/4966902",
-      "published": "2026-10-30",
-      "excerpt": "As a Roblox developer, it is currently too hard to test if we are implementing the necessary filtering required on chat, text, strings, anything like that, from within studio. If Roblox is able to address this issue, it would improve my development experience because it would be quicker, safer and e",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ability-to-test-with-chat-filtering/4966902.rss",
-      "id": "a076558e947cfa1fc774c34d"
     }
   ]
 }

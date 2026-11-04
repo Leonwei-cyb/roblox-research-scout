@@ -5,25 +5,16 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Community
-
-- **[looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: I am making an asym game where two killers compete for survivor kills, and i need people to help me decide whether certain abilities and stats are balanced. please DM me if you'd like to join the testing group or have any questions about th
-
 ## Roblox Updates
 
-- **[All servers became slow without any update published to them](https://devforum.roblox.com/t/all-servers-became-slow-without-any-update-published-to-them/4975082)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: All game servers became unplayable due to constant server heartbeat drops, but it is impossible to pinpoint. Dashboard metrics do not reflect this. Microprofiler dumps (can’t provide here) return in a corrupted manner where not much can be 
-- **[\[Open Source\] ReZeN's Raycast Projectile - Pierce, Hit Events & Explosions](https://devforum.roblox.com/t/open-source-rezens-raycast-projectile-pierce-hit-events-explosions/4975053)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hey everyone! I’m releasing my raycast projectile module. It simulates projectiles with raycasts instead of physics parts, so it is cheap, accurate and works on both client and server. GitHub: here Features raycast simulation with a configu
-- **[Feedback on my new game: \[Sea Sailors\]](https://devforum.roblox.com/t/feedback-on-my-new-game-sea-sailors/4975040)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hello! I made a new Roblox game called “Sea Sailors”. It’s a Survival/Adventure game where you try to survive on a raft, fight enemies, gather resources, and craft stuff to help you on your adventure. I wanted to get some feedback on it! I 
-- **[Looking for Recommendations on a Reliable Networking Library](https://devforum.roblox.com/t/looking-for-recommendations-on-a-reliable-networking-library/4975011)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hello! I’m currently working on a Clicker Simulator and looking for ways to improve network communication rather than relying on standard Roblox RemoteEvents. I’ve looked into several networking libraries, such as Zap , Blink , ByteNet Max 
-- **[Roblox Keeps Crashing](https://devforum.roblox.com/t/roblox-keeps-crashing/4975035)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: My Roblox keeps crashing and freezing unexpectedly. System information: AMD Radeon RX 9060 XT AMD Ryzen 5 5600 (6 Core) 48GB RAM Expected behavior That Roblox does not crash/freeze randomly and works normally A private message is associated
-- **[Sick Art Showcase](https://devforum.roblox.com/t/sick-art-showcase/4975015)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Been a hot minute since I been here . . . Missed yall. Had to take a break thanks to good ol ((LIFE)) But ayy no need to trouble on that no more <3 – So that being said, enjoy this. Lil Doodle Practice I will be sharing more of my works lat
+- **[Blurry font rendering after latest update](https://devforum.roblox.com/t/blurry-font-rendering-after-latest-update/4975141)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: After the latest update, font rendering on desktop looks blurry, and fonts are stretched. It looks a lot more like font rendering on mobile. This issue is occurring in the Roblox Player as well as Roblox Studio on Windows, and is not only h
+- **[Can Roblox suspend an account that is logged online from two different locations?](https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Hello, I’m planning to go on vacation and want to be able to stay connected to Roblox Studio, but since my main computer is desktop, I’ll need to use my laptop to connect to Parsec. And at the same time I want to be able to continue testing
+- **[Custom events no longer in analytics tab?](https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Unsure where events from LogCustomEvent are stored anymore… been weeks and swear thhey don’t exist, even though I’ve been using LogCustomEvent the entire time 1 post - 1 participant Read full topic
+- **[Different HP Values vs Damage Reduction for Item Variants - Which Is Better for Player Engagement?](https://devforum.roblox.com/t/different-hp-values-vs-damage-reduction-for-item-variants-which-is-better-for-player-engagement/4975095)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Hello! I’m currently working on a clicker simulator and would like to get some opinions on a particular game design decision. Basically, I have multiple variants/skins of the same item. Each item has its own durability, and players can hit 
 
 ---
 

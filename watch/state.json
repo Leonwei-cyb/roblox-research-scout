@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "dcff233d2c0a79035b5665801b9dbf85dcf61a86",
-      "head_subject": "LLM - Empty or unparsable intent evaluation passes the change through instead of suppressing it (#4661)",
+      "head": "6623edf45a5996a37a8d7dbc1670fc25fc4e322c",
+      "head_subject": "MCP - OAuth 2.1 sign-in, so claude.ai and ChatGPT in the browser can connect (#4662)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
