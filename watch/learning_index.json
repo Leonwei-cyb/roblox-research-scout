@@ -2213,6 +2213,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4974458:1",
+      "url": "https://devforum.roblox.com/t/dynamic-heads-facial-animation-not-properly-applying/4974458",
+      "title": "Dynamic Heads - Facial Animation not properly applying",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974489:1",
+      "url": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489",
+      "title": "Only 139 Home Rec impressions over 7 days",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xj46qo",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj46qo/how_much_does_it_change_when_players_under_16_are/",
       "title": "How much does it change when players under 16 are cleared to play?",
@@ -3108,6 +3134,21 @@
       "kind": "reddit",
       "signals": [
         "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xnbujl",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnbujl/can_somebody_help_me_fix_his/",
+      "title": "Can somebody help me fix his?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "animation and audio",
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4442,19 +4483,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xjq94m",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjq94m/1_power_per_click_smash_5_walls_and_evolve_your/",
-      "title": "+1 Power per click: smash 5 walls and evolve your critter, Trailer (not actual gameplay)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-30",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xjqe56",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjqe56/help_me/",
       "title": "help me!",
@@ -5189,17 +5217,6 @@
       "key": "devforum:4965632:1",
       "url": "https://devforum.roblox.com/t/groups-remain-locked-after-unban/4965632",
       "title": "Groups Remain Locked After Unban",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965765:1",
-      "url": "https://devforum.roblox.com/t/community-clothing-sales-robux-remain-pending-for-over-a-week/4965765",
-      "title": "Community Clothing Sales Robux Remain Pending for Over a Week",
       "source": "roblox-devforum-latest",
       "published": "2026-10-30",
       "kind": "devforum",
@@ -7450,19 +7467,6 @@
       "title": "FINALLY! THE LIMITED DIVINE HEADLESS HORSEMAN! 🎃 #roblox #stealanegg #robloxgames #steal #egg - Instagram",
       "source": "brock-ig-reels",
       "published": "2026-11-02",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE91dUNzME1MbUhLY2ZFQTZlQVUyb2JYOEVpdGkxM19NMUZlank5V2VMUkE1YktnRTFrZ0hpcUJrUDVpUnMwMzF1dVhuWnV0LWd1VXREbHJn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91dUNzME1MbUhLY2ZFQTZlQVUyb2JYOEVpdGkxM19NMUZlank5V2VMUkE1YktnRTFrZ0hpcUJrUDVpUnMwMzF1dVhuWnV0LWd1VXREbHJn?oc=5",
-      "title": "Thankyou Steal An Egg & Ben for the memories #roblox #stealanegg #trickwell #ben #memories - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-10-30",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
