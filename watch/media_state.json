@@ -2581,7 +2581,14 @@
     "5d4318cdd9c0adcfdd823f54",
     "6ee4e06ed825a4332d683272",
     "ca80b19247664361826e95f1",
-    "6d4729ce1f99cdf0768b8bcb"
+    "6d4729ce1f99cdf0768b8bcb",
+    "f3d80553453f7dc73032ffd6",
+    "82fed71ec039eef232bbbaf6",
+    "35b45dfee0b501c8058d5829",
+    "c46e4fdb3efeacd6cc585f5d",
+    "2f912d07c5c7fa525ac35428",
+    "589cd86f14f83ed73d317854",
+    "4d4619a4e91b7cdc3dd879a5"
   ],
   "items": [
     {
@@ -2599,10 +2606,22 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "SurfaceAppearance Alpha mipmapping workarounds",
+      "url": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387",
+      "published": "2026-11-04",
+      "excerpt": "I’m working on surface projection and can’t find a satisfying workaround for the horrendous texture filtering of distant SurfaceAppearance transparency. I’d rather not use 0.011 transparency on the meshpart unless it’s the only real solution. The best I’ve found is creating a .png with preserved pix",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387.rss",
+      "id": "f3d80553453f7dc73032ffd6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Custom events no longer in analytics tab?",
       "url": "https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109",
       "published": "2026-11-04",
-      "excerpt": "Unsure where events from LogCustomEvent are stored anymore… been weeks and swear thhey don’t exist, even though I’ve been using LogCustomEvent the entire time 1 post - 1 participant Read full topic",
+      "excerpt": "Unsure where events from LogCustomEvent are stored anymore… been weeks and swear thhey don’t exist, even though I’ve been using LogCustomEvent the entire time 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109.rss",
       "id": "ef6caeb705090c89d048b0d7"
@@ -2751,6 +2770,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Brooklyn Cross Fit Bag",
+      "url": "https://devforum.roblox.com/t/brooklyn-cross-fit-bag/4975363",
+      "published": "2026-11-04",
+      "excerpt": "Coffee Brown Brooklyn Cross Fit Bag: Coffee Brown Brooklyn Crossbody Bag - Roblox Blue Brooklyn Cross Fit Bag: Blue Brooklyn Crossbody Bag - Roblox I would really appreciate any feedback that the community can give, because I designed this UGC by myself 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/brooklyn-cross-fit-bag/4975363.rss",
+      "id": "c46e4fdb3efeacd6cc585f5d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Improve Regional Pricing Eligibility When Redeeming Gift Cards",
       "url": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390",
       "published": "2026-11-04",
@@ -2876,6 +2907,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489.rss",
       "id": "86e36d76c3459427bb7b413e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Security notification blocks access when i have an email linked",
+      "url": "https://devforum.roblox.com/t/security-notification-blocks-access-when-i-have-an-email-linked/4975372",
+      "published": "2026-11-04",
+      "excerpt": "So i have an account which i haven’t used for quite a while now. When i log in using the correct username and password a security notification blocks access to the account without a reason. I have an email linked but it’s not sending the code. Roblox support isn’t helping me and i need a roblox staf",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/security-notification-blocks-access-when-i-have-an-email-linked/4975372.rss",
+      "id": "82fed71ec039eef232bbbaf6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3065,6 +3108,17 @@
       "id": "5a85130730a3ecd516a40a3b"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Huu cube just made this cube npc. Uhh would you like to play it when I release it? :p",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnt5rd/huu_cube_just_made_this_cube_npc_uhh_would_you/",
+      "published": "2026-11-04",
+      "excerpt": "submitted by /u/groham6000 [link] [comments]",
+      "creator": "/u/groham6000 https://www.reddit.com/user/groham6000",
+      "id": "589cd86f14f83ed73d317854"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3099,6 +3153,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-intersection-concrete-kept-misalignment/4974442.rss",
       "id": "4d62e724f7c2e187f1e5ad5a"
+    },
+    {
+      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
+      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
+      "category": "Roblox build / 3D examples",
+      "title": "My Bike Life TRAILER!",
+      "url": "https://www.youtube.com/watch?v=URbHQ4-Z-BU",
+      "published": "2026-11-04",
+      "excerpt": "",
+      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
+      "id": "4d4619a4e91b7cdc3dd879a5"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3181,6 +3246,29 @@
       "creator": "",
       "publisher": "https://x.com",
       "id": "36b83c992ebbe83bfd5890c7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Bring back profile status (what you're doing right now)",
+      "url": "https://devforum.roblox.com/t/bring-back-profile-status-what-youre-doing-right-now/4975367",
+      "published": "2026-11-04",
+      "excerpt": "As a Roblox user it is currently impossible to show people what I’m up to right now. The About section is for stuff that never changes, and there’s no place for a short “right now” message like the old status feature had. Would be great to have: a short status line on the profile (like “making a new",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/bring-back-profile-status-what-youre-doing-right-now/4975367.rss",
+      "id": "35b45dfee0b501c8058d5829"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for people to work on this Roblox game with me (making a team)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xntcw7/looking_for_people_to_work_on_this_roblox_game/",
+      "published": "2026-11-04",
+      "excerpt": "P2W is a first/third person shooter where you gain coins for the blood of your enemies in which you can use to upgrade yourself during the match. After the match, you get cash which you can use to purchase characters (skill sets), character skins, and new upgrades. There are 6 different characters, ",
+      "creator": "/u/izay_odd https://www.reddit.com/user/izay_odd",
+      "id": "2f912d07c5c7fa525ac35428"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9395,90 +9483,6 @@
       "excerpt": "This is a complete version of phase 2 of the boss fight, And now I will be working on a phase 3(final phase), so I need more powerful and harder attacks to add for phase 3. Let me know if you have any unique attack ideas! submitted by /u/CoffeeTime5610 [link] [comments]",
       "creator": "/u/CoffeeTime5610 https://www.reddit.com/user/CoffeeTime5610",
       "id": "d5bbb7ea2960f7e7e9550910"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Introducing Scene Generation: Prototype Scenes Faster",
-      "url": "https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611",
-      "published": "2026-10-30",
-      "excerpt": "Key Takeaways Prototype and test ideas in minutes with Scene Generation. Now in beta, Studio Generation takes images and prompts and generates an editable scene of models, textures, and terrain, so you can quickly prototype and test ideas for new environments. Use /generate_scene command with Assist",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611.rss",
-      "id": "d4e9dd4052baec20942ee3f1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can't use WASD and Arrow keys at the same time",
-      "url": "https://devforum.roblox.com/t/cant-use-wasd-and-arrow-keys-at-the-same-time/4966173",
-      "published": "2026-10-30",
-      "excerpt": "Can’t use WASD and Arrow keys at the same time to move: As you can see in the video, when I hold any WASD then hold an Arrow key, the Arrow key would completely overwrite whatever behaviour WASD was doing, then if I let go of either WASD or the Arrow key (doesn’t matter which one), my character woul",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cant-use-wasd-and-arrow-keys-at-the-same-time/4966173.rss",
-      "id": "d35b2b41430c48178bd1087d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "MoveDirection AlignOrientation flight with zeroed out Z axis of CFrame Angles?",
-      "url": "https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475",
-      "published": "2026-10-30",
-      "excerpt": "Hello, I use movedirection for my alignorientation flight system but I can’t quite figure out how to zero out the Z axis of the CFrame orientation of the AlignOrientation. I need it to continually be zero or else the plane ends up spinning left or right. Ideas? 2 posts - 2 participants Read full top",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/movedirection-alignorientation-flight-with-zeroed-out-z-axis-of-cframe-angles/4966475.rss",
-      "id": "d30b423bb9eef34feb878865"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Group Ownership Issue – Which Roblox Support Category Should I Use?",
-      "url": "https://devforum.roblox.com/t/group-ownership-issue-%E2%80%93-which-roblox-support-category-should-i-use/4966130",
-      "published": "2026-10-30",
-      "excerpt": "Hello, Roblox developers! I’m looking for guidance regarding a Roblox group ownership issue. I’m unsure which category or department I should contact through Roblox Support, so I wanted to ask the Developer Forum community if anyone has experienced a similar situation or knows the correct process. T",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/group-ownership-issue-%E2%80%93-which-roblox-support-category-should-i-use/4966130.rss",
-      "id": "d2036b8a0219575961ad97cd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game Trailer Under Review for More Than 24 Hours",
-      "url": "https://devforum.roblox.com/t/game-trailer-under-review-for-more-than-24-hours/4965714",
-      "published": "2026-10-30",
-      "excerpt": "My game trailer has been under review for more than 24 hours with no update. As far as I’m aware, it doesn’t break any rules. Game ID: 126636267366326 Video ID: 10773257867 I’d appreciate it if someone could look into this. The delay is holding back my game’s promotion and keeping new players from f",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-trailer-under-review-for-more-than-24-hours/4965714.rss",
-      "id": "d1fa66b3544e56047dea7945"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Animation Editor changes all RightHand keyframes unexpectedly",
-      "url": "https://devforum.roblox.com/t/animation-editor-changes-all-righthand-keyframes-unexpectedly/4966213",
-      "published": "2026-10-30",
-      "excerpt": "Whenever I add a new keyframe anywhere in the timeline, the RightHand position and rotation changes across all existing keyframes, moving the Tool & Hand to a completely different position. Pressing Ctrl + Z removes the newly added keyframe but does not revert the transform changes. This makes it di",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/animation-editor-changes-all-righthand-keyframes-unexpectedly/4966213.rss",
-      "id": "cfc9a032717caa3b831f046a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game review Honest",
-      "url": "https://devforum.roblox.com/t/game-review-honest/4966050",
-      "published": "2026-10-30",
-      "excerpt": "Hello I’m currently working on a Harvest Farm type of Game and basically you have a cutter and u plant plants and maybe even own animals on the farm to get a lot of money and basically I just want a super honest review of the game because most reviews came from my friends which obviously might lie o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-review-honest/4966050.rss",
-      "id": "ce83dbdd6112626428ebf361"
     }
   ]
 }
