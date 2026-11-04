@@ -2559,7 +2559,9 @@
     "8e599179d59e2b1842abd106",
     "7b82e5793b7b298bb2d15f7a",
     "70a91e185368abc8ec747d98",
-    "d5d90106c81b3b63b290e6dc"
+    "d5d90106c81b3b63b290e6dc",
+    "822d90f633d704dfb41ff1aa",
+    "3dd8ea1f75da02218c7a33cd"
   ],
   "items": [
     {
@@ -2753,6 +2755,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Teleporting in desktop client is unnecessarily slow",
+      "url": "https://devforum.roblox.com/t/teleporting-in-desktop-client-is-unnecessarily-slow/4974999",
+      "published": "2026-11-04",
+      "excerpt": "I was playing around with the new web based client to test how our game works with it and found that teleporting is way faster than in the desktop client. From a quick side-by-side, it seems the desktop client stalls for 5 seconds on teleporting, which coincides with a 5 second gap in the client log",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/teleporting-in-desktop-client-is-unnecessarily-slow/4974999.rss",
+      "id": "822d90f633d704dfb41ff1aa"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Has the Roblox Community (Group) Membership Limit Been Increased Beyond 100?",
       "url": "https://devforum.roblox.com/t/has-the-roblox-community-group-membership-limit-been-increased-beyond-100/4974620",
       "published": "2026-11-04",
@@ -2836,7 +2850,7 @@
       "title": "Dynamic head validation error issue 0.00% degenerate triangles",
       "url": "https://devforum.roblox.com/t/dynamic-head-validation-error-issue-000-degenerate-triangles/4974821",
       "published": "2026-11-04",
-      "excerpt": "I am trying to upload a dynamic head I made and it keeps failing the validation process. The error states “Measure_Degen_Triangles”, “Head has 0.00% degenerate triangles.”. I have tried doing the following actions : Merging by distance Degenerate dissolve After doing the following, It still fails th",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dynamic-head-validation-error-issue-000-degenerate-triangles/4974821.rss",
       "id": "5e871b0b7151004282d72844"
@@ -2898,6 +2912,18 @@
       "excerpt": "It's a photography game, I decided to put Freddy Fazbear's head in an Igloo. submitted by /u/AnimaticKraken [link] [comments]",
       "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
       "id": "43b8f4217a1aba7aec6bcaa3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Recommended UGC items on avatar menu do not show their Creator",
+      "url": "https://devforum.roblox.com/t/recommended-ugc-items-on-avatar-menu-do-not-show-their-creator/4974990",
+      "published": "2026-11-04",
+      "excerpt": "On the Avatar menu ( Log in to Roblox ), the creator of an UGC item is not shown under the item itself in the recommended tab, instead showing Feature:Avatar.Label:… . This seems to be affecting English (United States) and Dutch at the very least, though it may be possible this is present on all lan",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/recommended-ugc-items-on-avatar-menu-do-not-show-their-creator/4974990.rss",
+      "id": "3dd8ea1f75da02218c7a33cd"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9425,30 +9451,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/help-with-ui-showing-up/4965644.rss",
       "id": "92c5fd5e7e4768643ccbf7ea"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Text on TextLabel not being able to be clicked through (Or it appears not to be able to)",
-      "url": "https://devforum.roblox.com/t/text-on-textlabel-not-being-able-to-be-clicked-through-or-it-appears-not-to-be-able-to/4965439",
-      "published": "2026-10-30",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/text-on-textlabel-not-being-able-to-be-clicked-through-or-it-appears-not-to-be-able-to/4965439.rss",
-      "id": "907e4fa5fa59a58c600ff926"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Voice chat still reports me even after leaving a game",
-      "url": "https://devforum.roblox.com/t/voice-chat-still-reports-me-even-after-leaving-a-game/4965616",
-      "published": "2026-10-30",
-      "excerpt": "Even after leaving a game, I’m still getting banned for things I’ve said AFTER leaving the game. The AI is too aggressive, or it’s genuinely listening when it shouldn’t. Either way, being a 21+ player, this just makes no sense to me. I’m curious as to how Roblox processes voice chat in-game and outs",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/voice-chat-still-reports-me-even-after-leaving-a-game/4965616.rss",
-      "id": "8f747d620f755a7e68e71a3f"
     }
   ]
 }

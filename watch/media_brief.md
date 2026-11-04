@@ -5,19 +5,12 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Community
-
-- **[A small animation i made (1st anim i ever made in studio)](https://www.reddit.com/r/ROBLOXStudio/comments/1xnkt3q/a_small_animation_i_made_1st_anim_i_ever_made_in/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: submitted by /u/Shkooten \[link\] \[comments\]
-
 ## Roblox Updates
 
-- **[Low quality stud textures](https://devforum.roblox.com/t/low-quality-stud-textures/4974911)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: 2 posts - 1 participant Read full topic
-- **[Need feedback on horror hotel game](https://devforum.roblox.com/t/need-feedback-on-horror-hotel-game/4974944)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hey! Need some feedback and some suggestions for the new game! Roomservice \| Play on Roblox Thanks!! 1 post - 1 participant Read full topic
-- **[ROBLOX Chatbot Handling Billing](https://devforum.roblox.com/t/roblox-chatbot-handling-billing/4974912)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: I have contacted Roblox Support multiple time and am redirected to this Roblox Chatbot that ONE confirmed my subscription was cancelled. TURNS OUT IT WAS NOT I got billed. I contacted ROBLOX support again saying that I want it cancelled bec
+- **[Recommended UGC items on avatar menu do not show their Creator](https://devforum.roblox.com/t/recommended-ugc-items-on-avatar-menu-do-not-show-their-creator/4974990)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: On the Avatar menu ( Log in to Roblox ), the creator of an UGC item is not shown under the item itself in the recommended tab, instead showing Feature:Avatar.Label:… . This seems to be affecting English (United States) and Dutch at the very
+- **[Teleporting in desktop client is unnecessarily slow](https://devforum.roblox.com/t/teleporting-in-desktop-client-is-unnecessarily-slow/4974999)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: I was playing around with the new web based client to test how our game works with it and found that teleporting is way faster than in the desktop client. From a quick side-by-side, it seems the desktop client stalls for 5 seconds on telepo
 
 ---
 

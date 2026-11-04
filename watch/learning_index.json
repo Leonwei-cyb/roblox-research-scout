@@ -642,20 +642,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4965616:1",
-      "url": "https://devforum.roblox.com/t/voice-chat-still-reports-me-even-after-leaving-a-game/4965616",
-      "title": "Voice chat still reports me even after leaving a game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966700:1",
       "url": "https://devforum.roblox.com/t/studio-beta-inspect-your-live-server-during-team-test/4966700",
       "title": "[Studio Beta] Inspect Your Live Server During Team Test",
@@ -2237,6 +2223,19 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974990:1",
+      "url": "https://devforum.roblox.com/t/recommended-ugc-items-on-avatar-menu-do-not-show-their-creator/4974990",
+      "title": "Recommended UGC items on avatar menu do not show their Creator",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -5172,17 +5171,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4965439:1",
-      "url": "https://devforum.roblox.com/t/text-on-textlabel-not-being-able-to-be-clicked-through-or-it-appears-not-to-be-able-to/4965439",
-      "title": "Text on TextLabel not being able to be clicked through (Or it appears not to be able to)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4965559:1",
       "url": "https://devforum.roblox.com/t/my-250k-visit-game-taken-down-over-platform-bug/4965559",
       "title": "My 250k+ visit game taken down over platform bug",
@@ -6231,6 +6219,17 @@
       "key": "devforum:4974912:1",
       "url": "https://devforum.roblox.com/t/roblox-chatbot-handling-billing/4974912",
       "title": "ROBLOX Chatbot Handling Billing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4974999:1",
+      "url": "https://devforum.roblox.com/t/teleporting-in-desktop-client-is-unnecessarily-slow/4974999",
+      "title": "Teleporting in desktop client is unnecessarily slow",
       "source": "roblox-devforum-latest",
       "published": "2026-11-04",
       "kind": "devforum",
