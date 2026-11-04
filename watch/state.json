@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "2e7b870fbcec32da4b8864a1f715d7809c801490",
-      "head_subject": "mlx: reject unsupported CUDA devices (#19521)",
+      "head": "cdd4b55b43ae14ea56946802f30f0661223a05cf",
+      "head_subject": "mlx: support YaRN scaling in Qwen3 and Qwen3.5 (#19231)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",

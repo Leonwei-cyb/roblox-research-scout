@@ -10,13 +10,13 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Devex Portal SMS "Unexpected Error" Bug With +62 Phone Number](https://devforum.roblox.com/t/devex-portal-sms-unexpected-error-bug-with-62-phone-number/4967468)
+- **P0 · first-session and mobile:** [How to install the Roblox Developer Forum app on mobile](https://devforum.roblox.com/t/how-to-install-the-roblox-developer-forum-app-on-mobile/4968951)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
-- **P1 · UI and menus:** [Looking for feedback/criticism for UI](https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057)
+- **P1 · UI and menus:** [\[Plugin\] UI2Code — Converts Studio UI to Lua/React code](https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [WITHERSTORM Model](https://www.reddit.com/r/ROBLOXStudio/comments/1xjz00m/witherstorm_model/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
-- **P1 · animation and audio:** [Anyone have a guide to weld item with the eclipse animator ?](https://www.reddit.com/r/ROBLOXStudio/comments/1xjwyqb/anyone_have_a_guide_to_weld_item_with_the_eclipse/)
+- **P1 · animation and audio:** [Is this animation okay or should I give up and hire animators...?](https://www.reddit.com/r/ROBLOXStudio/comments/1xo1048/is_this_animation_okay_or_should_i_give_up_and/)
   - reddit · **UNVIEWED_METADATA** · Check: Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?
 
 ## Research gaps
