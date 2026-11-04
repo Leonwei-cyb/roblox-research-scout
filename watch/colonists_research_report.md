@@ -10,9 +10,9 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 ## Highest-value source checks
 
-- **P0 · first-session and mobile:** [Characters drift and slide on the ground when playing on mobile devices in server authority](https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276)
+- **P0 · first-session and mobile:** [Devex Portal SMS "Unexpected Error" Bug With +62 Phone Number](https://devforum.roblox.com/t/devex-portal-sms-unexpected-error-bug-with-62-phone-number/4967468)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
-- **P1 · UI and menus:** [Help with UI showing up](https://devforum.roblox.com/t/help-with-ui-showing-up/4965644)
+- **P1 · UI and menus:** [Looking for feedback/criticism for UI](https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [How to make the view model look the same regardless of fov](https://www.reddit.com/r/ROBLOXStudio/comments/1xju7fj/how_to_make_the_view_model_look_the_same/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?

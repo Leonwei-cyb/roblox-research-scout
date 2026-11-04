@@ -2561,9 +2561,27 @@
     "70a91e185368abc8ec747d98",
     "d5d90106c81b3b63b290e6dc",
     "822d90f633d704dfb41ff1aa",
-    "3dd8ea1f75da02218c7a33cd"
+    "3dd8ea1f75da02218c7a33cd",
+    "cf18293be15e04124fd15cd8",
+    "6c0dbb75be4ab4a177af1d62",
+    "7167bda4a4d5a77751dfe9ff",
+    "13788efe5fa88eda0708295a",
+    "78a2ad7126a0ff8793c60498",
+    "bd41cc08a360f5c447140b71",
+    "f68be6ff8e5b3de4afe56c03"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "looking for playtesters",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/",
+      "published": "2026-11-04",
+      "excerpt": "I am making an asym game where two killers compete for survivor kills, and i need people to help me decide whether certain abilities and stats are balanced. please DM me if you'd like to join the testing group or have any questions about the game. submitted by /u/Keith00100 [link] [comments]",
+      "creator": "/u/Keith00100 https://www.reddit.com/user/Keith00100",
+      "id": "f68be6ff8e5b3de4afe56c03"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -2626,6 +2644,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "All servers became slow without any update published to them",
+      "url": "https://devforum.roblox.com/t/all-servers-became-slow-without-any-update-published-to-them/4975082",
+      "published": "2026-11-04",
+      "excerpt": "All game servers became unplayable due to constant server heartbeat drops, but it is impossible to pinpoint. Dashboard metrics do not reflect this. Microprofiler dumps (can’t provide here) return in a corrupted manner where not much can be gathered from them. Script profiler returns some hard to bel",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/all-servers-became-slow-without-any-update-published-to-them/4975082.rss",
+      "id": "cf18293be15e04124fd15cd8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Game flickers objects in and out of streaming, then gives up and stops streaming EVERYTHING",
       "url": "https://devforum.roblox.com/t/game-flickers-objects-in-and-out-of-streaming-then-gives-up-and-stops-streaming-everything/4974426",
       "published": "2026-11-04",
@@ -2656,6 +2686,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390.rss",
       "id": "bdb3234f18d81291b9964923"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for Recommendations on a Reliable Networking Library",
+      "url": "https://devforum.roblox.com/t/looking-for-recommendations-on-a-reliable-networking-library/4975011",
+      "published": "2026-11-04",
+      "excerpt": "Hello! I’m currently working on a Clicker Simulator and looking for ways to improve network communication rather than relying on standard Roblox RemoteEvents. I’ve looked into several networking libraries, such as Zap , Blink , ByteNet Max , and QuickNet , but I’m still having trouble deciding which",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-recommendations-on-a-reliable-networking-library/4975011.rss",
+      "id": "bd41cc08a360f5c447140b71"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2734,7 +2776,7 @@
       "title": "Need feedback on horror hotel game",
       "url": "https://devforum.roblox.com/t/need-feedback-on-horror-hotel-game/4974944",
       "published": "2026-11-04",
-      "excerpt": "Hey! Need some feedback and some suggestions for the new game! Roomservice | Play on Roblox Thanks!! 1 post - 1 participant Read full topic",
+      "excerpt": "Hey! Need some feedback and some suggestions for the new game! Roomservice | Play on Roblox Thanks!! 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/need-feedback-on-horror-hotel-game/4974944.rss",
       "id": "8e599179d59e2b1842abd106"
@@ -2791,6 +2833,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Sick Art Showcase",
+      "url": "https://devforum.roblox.com/t/sick-art-showcase/4975015",
+      "published": "2026-11-04",
+      "excerpt": "Been a hot minute since I been here . . . Missed yall. Had to take a break thanks to good ol ((LIFE)) But ayy no need to trouble on that no more <3 – So that being said, enjoy this. Lil Doodle Practice I will be sharing more of my works later on! Love, TheDevKing ~ <3 4 posts - 2 participants Read f",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sick-art-showcase/4975015.rss",
+      "id": "78a2ad7126a0ff8793c60498"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback on my new game: [Sea Sailors]",
+      "url": "https://devforum.roblox.com/t/feedback-on-my-new-game-sea-sailors/4975040",
+      "published": "2026-11-04",
+      "excerpt": "Hello! I made a new Roblox game called “Sea Sailors”. It’s a Survival/Adventure game where you try to survive on a raft, fight enemies, gather resources, and craft stuff to help you on your adventure. I wanted to get some feedback on it! I have attached the trailer and a couple of images below. Feed",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-my-new-game-sea-sailors/4975040.rss",
+      "id": "7167bda4a4d5a77751dfe9ff"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Low quality stud textures",
       "url": "https://devforum.roblox.com/t/low-quality-stud-textures/4974911",
       "published": "2026-11-04",
@@ -2831,6 +2897,18 @@
       "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "6ca045d76d4e10719f74f25c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Open Source] ReZeN's Raycast Projectile - Pierce, Hit Events & Explosions",
+      "url": "https://devforum.roblox.com/t/open-source-rezens-raycast-projectile-pierce-hit-events-explosions/4975053",
+      "published": "2026-11-04",
+      "excerpt": "Hey everyone! I’m releasing my raycast projectile module. It simulates projectiles with raycasts instead of physics parts, so it is cheap, accurate and works on both client and server. GitHub: here Features raycast simulation with a configurable rate optional gravity, acceleration and velocity align",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-source-rezens-raycast-projectile-pierce-hit-events-explosions/4975053.rss",
+      "id": "6c0dbb75be4ab4a177af1d62"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3029,6 +3107,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/it-cant-load-the-experience/4974732.rss",
       "id": "13fc06a0a9cc84f0539448ab"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Keeps Crashing",
+      "url": "https://devforum.roblox.com/t/roblox-keeps-crashing/4975035",
+      "published": "2026-11-04",
+      "excerpt": "My Roblox keeps crashing and freezing unexpectedly. System information: AMD Radeon RX 9060 XT AMD Ryzen 5 5600 (6 Core) 48GB RAM Expected behavior That Roblox does not crash/freeze randomly and works normally A private message is associated with this bug report 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-keeps-crashing/4975035.rss",
+      "id": "13788efe5fa88eda0708295a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9372,85 +9462,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ability-to-test-with-chat-filtering/4966902.rss",
       "id": "a076558e947cfa1fc774c34d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Bus in Vain - Halloween Game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xje661/bus_in_vain_halloween_game/",
-      "published": "2026-10-30",
-      "excerpt": "Hey everyone! I’ve been working on a Halloween game for Roblox called Bus In Vain, and it’s finally out. I’d love to hear what you think. The premise: The Halloween Party is waiting, but the town is crawling with things that don’t want you to get there. You have to pick up the kids and reach the Hal",
-      "creator": "/u/Bubbly-Timely https://www.reddit.com/user/Bubbly-Timely",
-      "id": "a0129a4a3a519be8a807bf87"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Let's build the largest AI Slop library possible",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj4a8r/lets_build_the_largest_ai_slop_library_possible/",
-      "published": "2026-10-30",
-      "excerpt": "Here’s my idea: I’d like this post to compile as many patterns, design choices, gameplay elements, bugs, etc., as possible that are considered “AI slop.” The purpose of this—beyond creating more games considered “slop”—is actually the opposite: to avoid them. If you’re creating a game and your game ",
-      "creator": "/u/Yoelplayer https://www.reddit.com/user/Yoelplayer",
-      "id": "9ffffb4321e548c0e9b8390b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "2 players needed!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjo05r/2_players_needed/",
-      "published": "2026-10-30",
-      "excerpt": "help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 stages to work through, ranging from effortless to some serious",
-      "creator": "/u/sailorvalley https://www.reddit.com/user/sailorvalley",
-      "id": "9c08a5591d7bc19e5fa2d83b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Best ways to learn lua",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjg4tw/best_ways_to_learn_lua/",
-      "published": "2026-10-30",
-      "excerpt": "Not the most fun ones. The ones that will teach you everything you want, without cheap work and shortcuts and ofc without $. Lets see submitted by /u/Vagg_13 [link] [comments]",
-      "creator": "/u/Vagg_13 https://www.reddit.com/user/Vagg_13",
-      "id": "9a38566f238efd51d706e260"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What does putting the face on a separate part do??",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjsth6/what_does_putting_the_face_on_a_separate_part_do/",
-      "published": "2026-10-30",
-      "excerpt": "idk i only seen this used two times submitted by /u/Marcusr712 [link] [comments]",
-      "creator": "/u/Marcusr712 https://www.reddit.com/user/Marcusr712",
-      "id": "94c2a09c4a3d1ad1a8770190"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Characters drift and slide on the ground when playing on mobile devices in server authority",
-      "url": "https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276",
-      "published": "2026-10-30",
-      "excerpt": "Characters will drift and slide on the ground when playing on mobile devices in server authority. Here is a gif that shows the problem. This is captured after I moved around for a bit, and then completely stop touching the mobile touch input. https://gyazo.com/4c86009387cc882570418d5967dbed88 How to",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/characters-drift-and-slide-on-the-ground-when-playing-on-mobile-devices-in-server-authority/4965276.rss",
-      "id": "9422308f2769843df3920c3d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Help with UI showing up",
-      "url": "https://devforum.roblox.com/t/help-with-ui-showing-up/4965644",
-      "published": "2026-10-30",
-      "excerpt": "I’m sorry to ask this as it seems like such a small and simple issue, but i can’t find anything on it anywhere. I don’t know when, but it seems there’s a new update with UI and i can’t figure it out. A couple days ago, my UI worked fine, but it doesn’t show up now and I can’t work out why. There is ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/help-with-ui-showing-up/4965644.rss",
-      "id": "92c5fd5e7e4768643ccbf7ea"
     }
   ]
 }
