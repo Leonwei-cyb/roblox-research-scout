@@ -2552,7 +2552,10 @@
     "375cfd70696dc5042a6ac051",
     "61cf1c61b6cc236b665adc93",
     "a3034bbcb2b0d61cc88bab98",
-    "45c453376fc2d69a75f6a9de"
+    "45c453376fc2d69a75f6a9de",
+    "5e871b0b7151004282d72844",
+    "bb2eeaf7e73224bd5fd30f4f",
+    "3bf643b9246a0948660c04ef"
   ],
   "items": [
     {
@@ -2636,6 +2639,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390.rss",
       "id": "bdb3234f18d81291b9964923"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Need help fitting UI for a tower defense game",
+      "url": "https://devforum.roblox.com/t/need-help-fitting-ui-for-a-tower-defense-game/4974809",
+      "published": "2026-11-04",
+      "excerpt": "Hello Developers, I am creating a tower for my TD game and I would like some feedback on how I can fit the ‘Beats’ system UI so it doesn’t look off and going off the UI style. The range is a placeholder for the stats like Range, Damage and Firerate. How does the tower work? It grants the player with",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-help-fitting-ui-for-a-tower-defense-game/4974809.rss",
+      "id": "bb2eeaf7e73224bd5fd30f4f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2764,6 +2779,18 @@
       "id": "61cf1c61b6cc236b665adc93"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Dynamic head validation error issue 0.00% degenerate triangles",
+      "url": "https://devforum.roblox.com/t/dynamic-head-validation-error-issue-000-degenerate-triangles/4974821",
+      "published": "2026-11-04",
+      "excerpt": "I am trying to upload a dynamic head I made and it keeps failing the validation process. The error states “Measure_Degen_Triangles”, “Head has 0.00% degenerate triangles.”. I have tried doing the following actions : Merging by distance Degenerate dissolve After doing the following, It still fails th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dynamic-head-validation-error-issue-000-degenerate-triangles/4974821.rss",
+      "id": "5e871b0b7151004282d72844"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -2831,6 +2858,18 @@
       "excerpt": "Hi guys!!! Here's another small update to the minigames. I'm gonna keep editing it to look a bit more cohesive, but let me know if you have any ideas, criticism, or questions!! submitted by /u/TheLoveRiddle [link] [comments]",
       "creator": "/u/TheLoveRiddle https://www.reddit.com/user/TheLoveRiddle",
       "id": "3dd38a066022f54e5ba34a7f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What are the rules for using UGC in my game?",
+      "url": "https://devforum.roblox.com/t/what-are-the-rules-for-using-ugc-in-my-game/4974806",
+      "published": "2026-11-04",
+      "excerpt": "I’m currently making a game that uses NPCs. While creating the NPCs I’ve caught myself using UGC accessories and am now wondering what the rules are for using other users UGC in my game. I’ve seen several games use UGC accessories at a scale that asking the creators for permission to use would be in",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-are-the-rules-for-using-ugc-in-my-game/4974806.rss",
+      "id": "3bf643b9246a0948660c04ef"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9404,41 +9443,6 @@
       "excerpt": "Hello, im a beginner roblox scripter and id like to know after making lobbies or match systems, how do you as developer and builders access them in a way that is different from players? Like for example, A developer and builder can teleport to each places to change, build, etc. Players can only of c",
       "creator": "/u/Healthy-Frosting-608 https://www.reddit.com/user/Healthy-Frosting-608",
       "id": "86777062ffa09f7784b010f2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Audience Reach final review stuck for several days — Game remains restricted to 16+",
-      "url": "https://devforum.roblox.com/t/audience-reach-final-review-stuck-for-several-days-%E2%80%94-game-remains-restricted-to-16/4966883",
-      "published": "2026-10-30",
-      "excerpt": "Hello Roblox Engineering Team, My experience has been stuck with the 16+ age restriction for several days, even though the requirements in the Manage Audience section have been completed. I want to emphasize that this issue started after my experience was incorrectly categorized as a “Social Hangout",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/audience-reach-final-review-stuck-for-several-days-%E2%80%94-game-remains-restricted-to-16/4966883.rss",
-      "id": "837b1ad29921f170189c16d3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to Create Topics in Help and Feedback",
-      "url": "https://devforum.roblox.com/t/unable-to-create-topics-in-help-and-feedback/4965958",
-      "published": "2026-10-30",
-      "excerpt": "Hello! I’m a 13+ age-verified DevForum Member, but when I click “New Topic” in Help and Feedback, I get the message “You don’t have permission to create topics.” I can create topics in Platform Usage Support. Could someone clarify why I can’t create topics in Help and Feedback and whether access can",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-create-topics-in-help-and-feedback/4965958.rss",
-      "id": "83471ecb338282614fdf2eb2"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Playtest mine I’ll test yours!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj2tbz/playtest_mine_ill_test_yours/",
-      "published": "2026-10-30",
-      "excerpt": "DEVELOPERS LETS HELP EACH OTHER OUT!! I’m trying to get my Roblox game S WORLD through the 16+ trial phase, and I need people to actually try it out! I’d be happy to try yours as well! I’ve been working really hard on mine, I need to get past this trial phase. If you’re 16+ and age-checked on Roblox",
-      "creator": "/u/Party_Preparation596 https://www.reddit.com/user/Party_Preparation596",
-      "id": "82bf940dcd6386ee05a1230b"
     }
   ]
 }

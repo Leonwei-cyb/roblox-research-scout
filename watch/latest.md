@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) (572 stars). Awesome list of AI-Driven Development.
+- **Source updated:** [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) — mirror: sync from upstream (8bd59c111db7721ebcd1efc197841408eb9dd41f).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
