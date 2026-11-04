@@ -2541,7 +2541,10 @@
     "6f11cae799c571c6b95e1b8a",
     "3dd38a066022f54e5ba34a7f",
     "143cafb771fd487d673ffb46",
-    "288d1bfec6ffa634a3d2d11f"
+    "288d1bfec6ffa634a3d2d11f",
+    "c5b45f85ab6c78e552df30f7",
+    "6e91f36f4dac97ed8fd370c9",
+    "8ee3e82d52076ff6213da3a7"
   ],
   "items": [
     {
@@ -2604,6 +2607,17 @@
       "id": "cdecb9eff50c600e769c5724"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Upcoming Turnbased Rpg on Roblox",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnepev/upcoming_turnbased_rpg_on_roblox/",
+      "published": "2026-11-04",
+      "excerpt": "https://reddit.com/link/1xnepev/video/whkrsu1ztizh1/player I've been working on Untitled Turnbased Game, a turn-based RPG, for quite a while now. While release is still a long way off, I'm getting closer every day! The game is heavily inspired by Slay the Spire and An Average Campaign (Roblox). Base",
+      "creator": "/u/darkblackhomie https://www.reddit.com/user/darkblackhomie",
+      "id": "c5b45f85ab6c78e552df30f7"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2626,6 +2640,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549.rss",
       "id": "a6fb936a2916171143c5bb3e"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "can someone help me fix this pleaseessssssss",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfp3g/can_someone_help_me_fix_this_pleaseessssssss/",
+      "published": "2026-11-04",
+      "excerpt": "module below this ____________________ local module = {} local Players = game:GetService(\"Players\") local ReplicatedStorage = game:GetService(\"ReplicatedStorage\") local RunService = game:GetService(\"RunService\") local UserInputService = game:GetService(\"UserInputService\") local Debris = game:GetServ",
+      "creator": "/u/Initial_Temporary37 https://www.reddit.com/user/Initial_Temporary37",
+      "id": "8ee3e82d52076ff6213da3a7"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2661,6 +2686,17 @@
       "excerpt": "I'm very new to blender so I'm very sorry, but I'm trying to import this model into Roblox Studio. These weird gaps appear across the model and I'm not exactly sure why or how to fix it. In blender, it looks perfectly fine and NORMAL, and I'm at a bit of a loss what is happening. submitted by /u/Tim",
       "creator": "/u/Timely-Television649 https://www.reddit.com/user/Timely-Television649",
       "id": "6f11cae799c571c6b95e1b8a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Quick question, new developer here and for toolbox assets, I had put in a couple of free assets that had scripts, will these assets cause me any trouble if I haven’t uploaded the game yet?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfua0/quick_question_new_developer_here_and_for_toolbox/",
+      "published": "2026-11-04",
+      "excerpt": "Basically the title, I put in a few assets, but now that I realize that some assets with scripts have Trojan horses or something else like that, I’m checking them, but I just wanted to confirm that it’s not a lost cause already. submitted by /u/Accomplished-Code471 [link] [comments]",
+      "creator": "/u/Accomplished-Code471 https://www.reddit.com/user/Accomplished-Code471",
+      "id": "6e91f36f4dac97ed8fd370c9"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2807,7 +2843,7 @@
       "title": "MacOS client now renders at full Retina resolution",
       "url": "https://devforum.roblox.com/t/macos-client-now-renders-at-full-retina-resolution/4974621",
       "published": "2026-11-04",
-      "excerpt": "I don’t know if this was intentional or not but it TANKS performance on graphics heavy games. As you may know, Roblox usually renders the game at about half of the retina display’s resolution. Now, it seems to just run it at full resolution which in my case is nearly 4k. It’s not really a “bad” thin",
+      "excerpt": "I don’t know if this was intentional or not but it TANKS performance on graphics heavy games. As you may know, Roblox usually renders the game at about half of the retina display’s resolution. Now, it seems to just run it at full resolution which in my case is nearly 3k. It’s not really a “bad” thin",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/macos-client-now-renders-at-full-retina-resolution/4974621.rss",
       "id": "0e1831629ab14b13722e72b9"
@@ -7532,18 +7568,6 @@
       "id": "f7525e50737998e8e5118c3d"
     },
     {
-      "source": "roblox-news",
-      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
-      "category": "roblox_updates",
-      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
-      "published": "2026-10-31",
-      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
-      "creator": "",
-      "publisher": "https://fr.tradingview.com",
-      "id": "f4df7bf2894a5212610b4aae"
-    },
-    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -8679,6 +8703,18 @@
       "id": "f5082b59065dda9aa8b01419"
     },
     {
+      "source": "roblox-news",
+      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
+      "category": "roblox_updates",
+      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
+      "published": "2026-10-30",
+      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
+      "creator": "",
+      "publisher": "https://fr.tradingview.com",
+      "id": "f4df7bf2894a5212610b4aae"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -9395,40 +9431,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/web-play-error-256-failed-to-start-network-client/4966136.rss",
       "id": "66857687a24b0a513f5f73ae"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Trailer for a new Roblox Wordle Game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj27wt/trailer_for_a_new_roblox_wordle_game/",
-      "published": "2026-10-30",
-      "excerpt": "For the past year, I've been working on a ROBLOX Wordle game. I made all the assets, including the Game Icon, Thumbnails, and obtainable in-game items, myself using Photopea or Canva (mostly Photopea). Comment your thoughts below submitted by /u/Upbeat_Time785 [link] [comments]",
-      "creator": "/u/Upbeat_Time785 https://www.reddit.com/user/Upbeat_Time785",
-      "id": "65b355920713ab7174021bba"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "hey! made a little halloween obby, would love for you to try it 🎃",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjcldq/hey_made_a_little_halloween_obby_would_love_for/",
-      "published": "2026-10-30",
-      "excerpt": "hi everyone! just finished my first game, Gate Hoppers, and wanted to share it here cozy spooky hub with gates to different worlds halloween tower climb + 5 zones to explore beat your time and your ghost shows up to race you 👻 silly random curses (one turns off all the lights) little secrets hidden ",
-      "creator": "/u/Interesting-Bug-1104 https://www.reddit.com/user/Interesting-Bug-1104",
-      "id": "6479afb25ee96d4b3b0acc93"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game review and feedback",
-      "url": "https://devforum.roblox.com/t/game-review-and-feedback/4966434",
-      "published": "2026-10-30",
-      "excerpt": "I recently picked up an old project and am back to working on it. I really refined a lot of UI and other systems. My question is, is this worth my time and does it have potential? My biggest mistake when i first released this project was I didn’t include bots, so a player would just be waiting in th",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-review-and-feedback/4966434.rss",
-      "id": "6301cfcaa6da545bb620bd38"
     }
   ]
 }

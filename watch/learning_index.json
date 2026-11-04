@@ -656,20 +656,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4966434:1",
-      "url": "https://devforum.roblox.com/t/game-review-and-feedback/4966434",
-      "title": "Game review and feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966700:1",
       "url": "https://devforum.roblox.com/t/studio-beta-inspect-your-live-server-during-team-test/4966700",
       "title": "[Studio Beta] Inspect Your Live Server During Team Test",
@@ -3169,6 +3155,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xnfua0",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfua0/quick_question_new_developer_here_and_for_toolbox/",
+      "title": "Quick question, new developer here and for toolbox assets, I had put in a couple of free assets that had scripts, will these assets cause me any trouble if I haven’t uploaded the game yet?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4966107:1",
       "url": "https://devforum.roblox.com/t/how-to-set-your-roblox-game-to-landscape-mode-using-startergui/4966107",
       "title": "How to Set Your Roblox Game to Landscape Mode Using StarterGui",
@@ -3724,6 +3723,20 @@
       "signals": [
         "world and visual design",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xnepev",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnepev/upcoming_turnbased_rpg_on_roblox/",
+      "title": "Upcoming Turnbased Rpg on Roblox",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "board game and turn flow",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -5162,6 +5175,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xnfp3g",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfp3g/can_someone_help_me_fix_this_pleaseessssssss/",
+      "title": "can someone help me fix this pleaseessssssss",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4965287:1",
       "url": "https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287",
       "title": "Group to Group Robux Transfers",
@@ -6218,17 +6244,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xj27wt",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj27wt/trailer_for_a_new_roblox_wordle_game/",
-      "title": "Trailer for a new Roblox Wordle Game",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-30",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xj295d",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj295d/trailer_for_new_roblox_wordle_game/",
       "title": "Trailer for new Roblox Wordle Game",
@@ -6255,17 +6270,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj48oh/hi_im_making_a_old_roblox_game_like_a_back_rooms/",
       "title": "hi im making a old roblox game like a back rooms type",
       "source": "reddit-robloxdev",
-      "published": "2026-10-30",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xjcldq",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjcldq/hey_made_a_little_halloween_obby_would_love_for/",
-      "title": "hey! made a little halloween obby, would love for you to try it 🎃",
-      "source": "reddit-robloxstudio",
       "published": "2026-10-30",
       "kind": "reddit",
       "signals": [],
@@ -7523,7 +7527,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
       "title": "Roblox Q3 Earnings Call Highlights - TradingView",
       "source": "roblox-news",
-      "published": "2026-10-31",
+      "published": "2026-10-30",
       "kind": "index-only",
       "signals": [
         "economy and income"
