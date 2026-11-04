@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) (29 stars). Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically updated daily.
+- **Source updated:** [huginn/huginn](https://github.com/huginn/huginn) — Upgrade Rails to 8.1.4.1 for security fixes.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

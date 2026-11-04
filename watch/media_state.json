@@ -2609,7 +2609,17 @@
     "5d719f52acca1c4ff45e6209",
     "d38fd067082a3935caed2f43",
     "c892e317f615d19eb39425bd",
-    "4b9fce0c8a6d9768287b3ad4"
+    "4b9fce0c8a6d9768287b3ad4",
+    "8b90175f5d7e6ed692bb973a",
+    "dc95d448ce1bad0963e9c092",
+    "bf98bd7ddcf237c31c1e83d8",
+    "d577548a6aa38d816945b86e",
+    "c114cc9a984ec95426d83382",
+    "bc9a3e165a8f8c287197cfd1",
+    "2775f1b292b457fb059b5cde",
+    "85981df0a13696666809a46e",
+    "de5535132769243e2642a50d",
+    "0d77cc599a866829108cec11"
   ],
   "items": [
     {
@@ -2731,6 +2741,29 @@
       "id": "e0a722e3fcef57e732524f47"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[Recruiting] Testers wanted for ENTITY, an upcoming Roblox asym horror game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnzfl9/recruiting_testers_wanted_for_entity_an_upcoming/",
+      "published": "2026-11-04",
+      "excerpt": "Hey everyone! 👋 We're developing ENTITY , an asymmetrical horror game on Roblox. One killer hunts a team of survivors. It hasn't released yet, and we're looking for testers to help shape it before launch. What makes ENTITY different: 🎭 Every character is an original OC. No reused characters. 🗺️ Ever",
+      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
+      "id": "de5535132769243e2642a50d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SVG Importer Plugin",
+      "url": "https://devforum.roblox.com/t/svg-importer-plugin/4975724",
+      "published": "2026-11-04",
+      "excerpt": "SVG Importer Plugin Download from the Creator Store Directly import SVG files into Roblox Studio using this plugin. Helpful to manually skip rasterizing them, and should save you a lot of time as it has for me. The user interface Features (click for more details) How To Use (click for more details) ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/svg-importer-plugin/4975724.rss",
+      "id": "dc95d448ce1bad0963e9c092"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2764,6 +2797,18 @@
       "excerpt": "submitted by /u/Shkooten [link] [comments]",
       "creator": "/u/Shkooten https://www.reddit.com/user/Shkooten",
       "id": "d5d90106c81b3b63b290e6dc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox studio memory leak?",
+      "url": "https://devforum.roblox.com/t/roblox-studio-memory-leak/4975688",
+      "published": "2026-11-04",
+      "excerpt": "why does my roblox studio takes so much ram all off a sudden heres what happened: i was working on a game for about 5 hours, just when i entered the 6 hour mark my studio started to use %99 of my ram (i got 8 gigs for ddr4 ik its low but its been just fine for 3 years) does anyone else got this issu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-studio-memory-leak/4975688.rss",
+      "id": "d577548a6aa38d816945b86e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2872,6 +2917,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Game blocked in 18 countries, no reason given, while docs provide no steps to take",
+      "url": "https://devforum.roblox.com/t/game-blocked-in-18-countries-no-reason-given-while-docs-provide-no-steps-to-take/4975673",
+      "published": "2026-11-04",
+      "excerpt": "The game’s URL: Super Blocky Ball | Play on Roblox The page for my demographics section of the game’s details looks like this: It should look like this: Clicking “View Details” leads to a public doc and does not provide details of the blocking, and is a dead end for the issue. create.roblox.com Regi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-blocked-in-18-countries-no-reason-given-while-docs-provide-no-steps-to-take/4975673.rss",
+      "id": "c114cc9a984ec95426d83382"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How do I get rid of this grid?",
+      "url": "https://devforum.roblox.com/t/how-do-i-get-rid-of-this-grid/4975704",
+      "published": "2026-11-04",
+      "excerpt": "This grid has shown up recently and I have no idea how to get rid of it, its so horrible. 3 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-i-get-rid-of-this-grid/4975704.rss",
+      "id": "bf98bd7ddcf237c31c1e83d8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Improve Regional Pricing Eligibility When Redeeming Gift Cards",
       "url": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390",
       "published": "2026-11-04",
@@ -2891,6 +2960,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-recommendations-on-a-reliable-networking-library/4975011.rss",
       "id": "bd41cc08a360f5c447140b71"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Ads: is the ads with Engagement goal not working?",
+      "url": "https://devforum.roblox.com/t/roblox-ads-is-the-ads-with-engagement-goal-not-working/4975617",
+      "published": "2026-11-04",
+      "excerpt": "So I recently finished making my game and decided to promote it somehow, so I chose to use Roblox Ads for the first time. I started a campaign with the goal set to Engagement, 5 ad credits per day for 5 days. One day has passed and the results are really inefficient. I’m not sure now whether I shoul",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-ads-is-the-ads-with-engagement-goal-not-working/4975617.rss",
+      "id": "bc9a3e165a8f8c287197cfd1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3048,6 +3129,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "My humble project is coming together",
+      "url": "https://devforum.roblox.com/t/my-humble-project-is-coming-together/4975763",
+      "published": "2026-11-04",
+      "excerpt": "Whew, okay. Strap yourselves in. I have a bit of a tale… Many years ago, I was in a college program for Video Game Development. Unfortunately, due to one of the vital professors having a stroke, my program almost couldn’t even complete on time. We all had to come together and study hard, because if ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-humble-project-is-coming-together/4975763.rss",
+      "id": "8b90175f5d7e6ed692bb973a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Server heartbeat dropped to 2-7 Hz, updateBones jumped from ~1ms to ~35ms per call",
       "url": "https://devforum.roblox.com/t/server-heartbeat-dropped-to-2-7-hz-updatebones-jumped-from-1ms-to-35ms-per-call/4975322",
       "published": "2026-11-04",
@@ -3067,6 +3160,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489.rss",
       "id": "86e36d76c3459427bb7b413e"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Will this get me banned?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo0ewh/will_this_get_me_banned/",
+      "published": "2026-11-04",
+      "excerpt": "I made this model will i get banned for uploading this? submitted by /u/Narrow_Notice2452 [link] [comments]",
+      "creator": "/u/Narrow_Notice2452 https://www.reddit.com/user/Narrow_Notice2452",
+      "id": "85981df0a13696666809a46e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3548,6 +3652,18 @@
       "id": "288d1bfec6ffa634a3d2d11f"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "PlayerCharacterDestroyBehavior Will Be Default on November 11",
+      "url": "https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616",
+      "published": "2026-11-04",
+      "excerpt": "Key Takeaways On November 11th, we’ll make PlayerCharacterDestroyBehavior = Default behave the same as Enabled . This will make it so that when a player leaves or a character respawns, the server will automatically destroy the old Player or Character instance, which prevents a common class of server",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616.rss",
+      "id": "2775f1b292b457fb059b5cde"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3617,6 +3733,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/macos-client-now-renders-at-full-retina-resolution/4974621.rss",
       "id": "0e1831629ab14b13722e72b9"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Game showcase for my upcoming game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnyu0u/game_showcase_for_my_upcoming_game/",
+      "published": "2026-11-04",
+      "excerpt": "Im making a z-city type roblox game Added a watermark for safety i guess submitted by /u/Soggy_Marketing_4673 [link] [comments]",
+      "creator": "/u/Soggy_Marketing_4673 https://www.reddit.com/user/Soggy_Marketing_4673",
+      "id": "0d77cc599a866829108cec11"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9391,121 +9518,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057.rss",
       "id": "1f47bfce8d3472004f760c19"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Would you play this game if it was finished?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk3yik/would_you_play_this_game_if_it_was_finished/",
-      "published": "2026-10-31",
-      "excerpt": "Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used in the making of it btw. :) So, (even though there's many mis",
-      "creator": "/u/LordChud21 https://www.reddit.com/user/LordChud21",
-      "id": "11f60ce58f359376aac39cba"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Flare Icons - Thousands of Icons at Your Disposal",
-      "url": "https://devforum.roblox.com/t/flare-icons-thousands-of-icons-at-your-disposal/4968150",
-      "published": "2026-10-31",
-      "excerpt": "Flare Icons For Your Design. Get the Highlights. Latest Update (Build 101) All-new design Over 2k icons available 3 styles available: Outline, Colored, Shaded(3D) Similar icons section to help you find the perfect icon Switch between grid or list layout Ability to find icons that are from the explor",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/flare-icons-thousands-of-icons-at-your-disposal/4968150.rss",
-      "id": "0b2b6e16d5a354f186f9593e"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "it’s not over until The Hollow says it is. time for one. last. scare.",
-      "url": "https://www.youtube.com/shorts/evnIFforv7E",
-      "published": "2026-10-31",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "03e0d67b25a96bcaa5c0f760"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "weird lighting bug thing?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk39w6/weird_lighting_bug_thing/",
-      "published": "2026-10-31",
-      "excerpt": "hey hey!! im new to roblox studio and i need help to with this weird bug on mobile that makes everything except the skybox black. on console and pc it's perfectly fine, but for some reason it absolutely HATES mobile. if someone could help me out here it'd be greatly appreciated! please im freaking o",
-      "creator": "/u/SirSculxed https://www.reddit.com/user/SirSculxed",
-      "id": "0072ab732b20f8496b51e4b3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "CatOFC 3D Modeling/Mesher [Open for Work]",
-      "url": "https://devforum.roblox.com/t/catofc-3d-modelingmesher-open-for-work/4966900",
-      "published": "2026-10-30",
-      "excerpt": "About Me Hi, I’m Cat. I’ve been modeling for over a year and a half, working almost every day that I’m available. I create all sorts of things: weapons, characters, helmets/hats, and armor, as well as heads (I do not do rigging). I use Blender for modeling and Substance Painter for texturing (I’m st",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/catofc-3d-modelingmesher-open-for-work/4966900.rss",
-      "id": "fbf48e3e6d43243dc478dfd2"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How to make the view model look the same regardless of fov",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xju7fj/how_to_make_the_view_model_look_the_same/",
-      "published": "2026-10-30",
-      "excerpt": "https://preview.redd.it/g6f03u3hqoyh1.png?width=849&format=png&auto=webp&s=cd7bf9e9ed075aa45d2b6601f56c13b90b0925c4 I have this view model here I created it at 70 fov but when I change my fov to 100 it makes it look alot more stretched I want it to stay the same. Is there no reliable way of doing th",
-      "creator": "/u/Icy-Pattern1113 https://www.reddit.com/user/Icy-Pattern1113",
-      "id": "fba2629e2ff8701a378c3460"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can't load my games on website if I use my alt account",
-      "url": "https://devforum.roblox.com/t/cant-load-my-games-on-website-if-i-use-my-alt-account/4965562",
-      "published": "2026-10-30",
-      "excerpt": "If I use my alt account ( @vietbatluchetcuuvng ) , then I won’t able to load my game which shared from my main account (this account) on the website . It’s always happens if you’re load game on website which shared via collaborators My computer spec and browser specs is private content Expected beha",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cant-load-my-games-on-website-if-i-use-my-alt-account/4965562.rss",
-      "id": "f87c3885497ae11e3b19f1e9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can't open my game inside studio",
-      "url": "https://devforum.roblox.com/t/cant-open-my-game-inside-studio/4966664",
-      "published": "2026-10-30",
-      "excerpt": "I wanted to open my game and continue developing it but the first thing i noticed is that none of the games had any icons, tought its not loaded yet, then tried opening my game and i got this error saying : “We could not open the place. Failed to fetch place info.”, and its kinda weird, my wifi its ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cant-open-my-game-inside-studio/4966664.rss",
-      "id": "f7d7204043ed6a76a543671f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How is it possible to achieve this vfx effect?",
-      "url": "https://devforum.roblox.com/t/how-is-it-possible-to-achieve-this-vfx-effect/4966210",
-      "published": "2026-10-30",
-      "excerpt": "Shotout to Lost veil for the clip, a really amazing game in development. I was wondering how it’s possible to make the sword produce this effect when it comes into contact with the ground during an animation. My guess here is that he uses raycast while the animation is playing and if it’s really clo",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-is-it-possible-to-achieve-this-vfx-effect/4966210.rss",
-      "id": "f5a4cdfb2244760e6cf6b44e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Tutorial system for my upcoming roblox game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj1x3x/tutorial_system_for_my_upcoming_roblox_game/",
-      "published": "2026-10-30",
-      "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
-      "creator": "/u/vestive https://www.reddit.com/user/vestive",
-      "id": "f59a71f0483291eeb4cc1ed1"
     }
   ]
 }

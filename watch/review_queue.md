@@ -17,10 +17,10 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## 3D / models / environments
 
-- **[CatOFC 3D Modeling/Mesher \[Open for Work\]](https://devforum.roblox.com/t/catofc-3d-modelingmesher-open-for-work/4966900)** — Public text/page, video not confirmed
+- **[Textures not appearing when maps are selected](https://devforum.roblox.com/t/textures-not-appearing-when-maps-are-selected/4974615)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
 - **[looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/)** — Public text/page, video not confirmed
-- **[Reassigning Table Type Variable Inside of If Statement Causes that Variable to Accept Any Type as a Value in the New Luau Type Solver.](https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600)** — Public text/page, video not confirmed
+- **[SVG Importer Plugin](https://devforum.roblox.com/t/svg-importer-plugin/4975724)** — Public text/page, video not confirmed
 - **[Playtest for a new game](https://www.reddit.com/r/robloxgamedev/comments/1xmxyyj/playtest_for_a_new_game/)** — Public text/page, video not confirmed

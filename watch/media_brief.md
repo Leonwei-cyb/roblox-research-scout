@@ -7,31 +7,31 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Help needed for guns](https://www.reddit.com/r/ROBLOXStudio/comments/1xnxkgs/help_needed_for_guns/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: I am trying to make gun models for personal reasons. Especially ones from ww1, but i dont know whst to use to sctually model it. Roblox studio's parts are not complex enough to make one. Any free site? submitted by /u/Just-Abies-9250 \[link\]
-- **[CL is hire](https://www.reddit.com/r/ROBLOXStudio/comments/1xnwxdd/cl_is_hire/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: Camping Limbo(im gonna refer to it as CL) is a roblox asymetrical horror game baed on OC's and models from the toolbox that we turn into OC's (meaning all devs can make a character if they want) NO PAY BC THIS IS A PASSION PROJECT we are hi
-- **[I made a Roblox game called Face Copy. Could anyone give it a try?](https://www.reddit.com/r/ROBLOXStudio/comments/1xnwygr/i_made_a_roblox_game_called_face_copy_could/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: Hey! I've been working on a Roblox game called Face Copy. Basically, you have to memorize a face and then try to recreate it by sculpting it from memory. I'd really appreciate it if a few people could try it out and let me know what they th
-- **[Roblox game asset suggestion](https://www.reddit.com/r/ROBLOXStudio/comments/1xnxfj6/roblox_game_asset_suggestion/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: Which type of tree asset should i use for this map? submitted by /u/rokoryuu \[link\] \[comments\]
-- **[Suggestions for my incremental type soccer game](https://www.reddit.com/r/ROBLOXStudio/comments/1xnwrxp/suggestions_for_my_incremental_type_soccer_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: so i made an incremental soccer game where u make ur player and u can choose what academy,team,country to go to and u can get agents and such and i am looking for suggestions, we have our core gameplay set out but we also want more as we ha
+- **[Game showcase for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xnyu0u/game_showcase_for_my_upcoming_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: Im making a z-city type roblox game Added a watermark for safety i guess submitted by /u/Soggy_Marketing_4673 \[link\] \[comments\]
+- **[Will this get me banned?](https://www.reddit.com/r/ROBLOXStudio/comments/1xo0ewh/will_this_get_me_banned/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: I made this model will i get banned for uploading this? submitted by /u/Narrow_Notice2452 \[link\] \[comments\]
+- **[\[Recruiting\] Testers wanted for ENTITY, an upcoming Roblox asym horror game](https://www.reddit.com/r/ROBLOXStudio/comments/1xnzfl9/recruiting_testers_wanted_for_entity_an_upcoming/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: Hey everyone! 👋 We're developing ENTITY , an asymmetrical horror game on Roblox. One killer hunts a team of survivors. It hasn't released yet, and we're looking for testers to help shape it before launch. What makes ENTITY different: 🎭 Ever
 
 ## Roblox Updates
 
-- **[Upcoming Changes to Asset Properties: Content Property Serialization Switch](https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Key Takeaways Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. Your existing places and Luau scripts keep working, and Rojo users need to update to v7.7.1 or higher. In the Prope
-- **[Upcoming Changes to Asset Properties: Content Property Serialization Switch](https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546)** · Roblox updates category (availability may vary) · 2026-11-04
-  - Feed excerpt: Key Takeaways Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. Your existing places and Luau scripts keep working, and Rojo users need to update to v7.7.1 or higher. In the Prope
-- **[Reassigning Table Type Variable Inside of If Statement Causes that Variable to Accept Any Type as a Value in the New Luau Type Solver.](https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: When assigning a value in a table with the type {string} to a value of any other type, it errors unless you set the table to another table inside of an if statement before. The if statement is critical as the discrepancy does not occur with
-- **[Creating a line from 2 points in ui](https://devforum.roblox.com/t/creating-a-line-from-2-points-in-ui/4975540)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: im trying to create a wire task im gonna add custom physics later to make it kinda look like the ones from bite by night but i’ve being trying to fix an offset in the mouse’s position for a while local uis = game:GetService(“UserInputServic
-- **[Unable to change Audience (Manage Access) setting](https://devforum.roblox.com/t/unable-to-change-audience-manage-access-setting/4975543)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Literally unable to change the Audience settings for my own experience that I literally own. Expected behavior I should be able to freely change my Audience settings whenever I want. A private message is associated with this bug report 1 po
-- **[Unable to make any access changes to my Experience after Paying the 50,000 Robux manual review fee](https://devforum.roblox.com/t/unable-to-make-any-access-changes-to-my-experience-after-paying-the-50000-robux-manual-review-fee/4975590)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: After paying the 50,000 Robux manual review fee and having my experience be verified as acceptable for users under 16, I have been unable to make access changes to it. I am uncertain if there are more steps to recreate this issue than simpl
+- **[Roblox studio memory leak?](https://devforum.roblox.com/t/roblox-studio-memory-leak/4975688)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: why does my roblox studio takes so much ram all off a sudden heres what happened: i was working on a game for about 5 hours, just when i entered the 6 hour mark my studio started to use %99 of my ram (i got 8 gigs for ddr4 ik its low but it
+- **[SVG Importer Plugin](https://devforum.roblox.com/t/svg-importer-plugin/4975724)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: SVG Importer Plugin Download from the Creator Store Directly import SVG files into Roblox Studio using this plugin. Helpful to manually skip rasterizing them, and should save you a lot of time as it has for me. The user interface Features (
+- **[Game blocked in 18 countries, no reason given, while docs provide no steps to take](https://devforum.roblox.com/t/game-blocked-in-18-countries-no-reason-given-while-docs-provide-no-steps-to-take/4975673)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: The game’s URL: Super Blocky Ball \| Play on Roblox The page for my demographics section of the game’s details looks like this: It should look like this: Clicking “View Details” leads to a public doc and does not provide details of the block
+- **[How do I get rid of this grid?](https://devforum.roblox.com/t/how-do-i-get-rid-of-this-grid/4975704)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: This grid has shown up recently and I have no idea how to get rid of it, its so horrible. 3 posts - 2 participants Read full topic
+- **[My humble project is coming together](https://devforum.roblox.com/t/my-humble-project-is-coming-together/4975763)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Whew, okay. Strap yourselves in. I have a bit of a tale… Many years ago, I was in a college program for Video Game Development. Unfortunately, due to one of the vital professors having a stroke, my program almost couldn’t even complete on t
+- **[PlayerCharacterDestroyBehavior Will Be Default on November 11](https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Key Takeaways On November 11th, we’ll make PlayerCharacterDestroyBehavior = Default behave the same as Enabled . This will make it so that when a player leaves or a character respawns, the server will automatically destroy the old Player or
+- **[PlayerCharacterDestroyBehavior Will Be Default on November 11](https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616)** · Roblox updates category (availability may vary) · 2026-11-04
+  - Feed excerpt: Key Takeaways On November 11th, we’ll make PlayerCharacterDestroyBehavior = Default behave the same as Enabled . This will make it so that when a player leaves or a character respawns, the server will automatically destroy the old Player or
+- **[Roblox Ads: is the ads with Engagement goal not working?](https://devforum.roblox.com/t/roblox-ads-is-the-ads-with-engagement-goal-not-working/4975617)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: So I recently finished making my game and decided to promote it somehow, so I chose to use Roblox Ads for the first time. I started a campaign with the goal set to Engagement, 5 ad credits per day for 5 days. One day has passed and the resu
 
 ---
 
