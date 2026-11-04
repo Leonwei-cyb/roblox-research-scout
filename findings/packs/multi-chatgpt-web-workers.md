@@ -2,14 +2,14 @@
 
 Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub search returns at most 15 results per query here, ranked by GitHub's own relevance.
 
-- Run: 2026-11-04T19:43:39Z (local)
-- API calls: 37 total (graphql 5, rest 32)
-- Distinct repos found: 277; inspected: 0
+- Run: 2026-11-04T20:02:32Z (schedule) - **PARTIAL**: search stopped early: GitHub rate limit for /search/code
+- API calls: 30 total (rest 30)
+- Distinct repos found: 152; inspected: 0
 
 ## Rediscovery check (known repos were NOT used as search input)
 
-- Xalzeroph/Charterion: found by queries s1, not inspected
-- megamen32/chatgpt-multi: found by queries s1, not inspected
+- Xalzeroph/Charterion: **not found** by this run
+- megamen32/chatgpt-multi: **not found** by this run
 - paritoshv/multi-llm-web-orchestrator: **not found** by this run
 
 ## Ranked candidates
@@ -33,8 +33,6 @@ Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub s
 - pack:multi-chatgpt-web-workers:f:relaxed: ok (15 results)
 - pack:multi-chatgpt-web-workers:g:strict: ok (15 results)
 - pack:multi-chatgpt-web-workers:g:relaxed: ok (15 results)
-- pack:multi-chatgpt-web-workers:s1:source: ok (50 results)
-- pack:multi-chatgpt-web-workers:s2:source: ok (50 results)
-- pack:multi-chatgpt-web-workers:s3:source: ok (50 results)
+- pack:multi-chatgpt-web-workers:s1:source: deferred GitHub rate limit for /search/code
 
 Verdicts are pack-specific. Only a tested review in findings/reviews can make anything adopt.

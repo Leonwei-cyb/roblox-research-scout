@@ -1,8 +1,7 @@
 {
   "api_calls": {
     "by_kind": {
-      "graphql": 5,
-      "rest": 32
+      "rest": 30
     },
     "calls": [
       {
@@ -152,63 +151,25 @@
       },
       {
         "kind": "rest",
-        "outcome": "200",
+        "outcome": "429",
         "what": "GET /search/code?q=%22chatgpt.com%22+content_scripts+sidePanel+filename%3Amanifest.json&per_page=50&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/code?q=%22chat.openai.com%22+tabs+scripting+filename%3Amanifest.json&per_page=50&page=1"
-      },
-      {
-        "kind": "rest",
-        "outcome": "200",
-        "what": "GET /search/code?q=%22chatgpt.com%22+launchPersistentContext&per_page=50&page=1"
-      },
-      {
-        "kind": "graphql",
-        "outcome": "sent",
-        "what": "graphql"
-      },
-      {
-        "kind": "graphql",
-        "outcome": "sent",
-        "what": "graphql"
-      },
-      {
-        "kind": "graphql",
-        "outcome": "sent",
-        "what": "graphql"
-      },
-      {
-        "kind": "graphql",
-        "outcome": "sent",
-        "what": "graphql"
-      },
-      {
-        "kind": "graphql",
-        "outcome": "sent",
-        "what": "graphql"
       }
     ],
     "note": "every GitHub request this run made, pack and non-pack",
-    "total": 37
+    "total": 30
   },
   "candidates": [],
   "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
-  "distinct_repos_found": 277,
+  "detail": "search stopped early: GitHub rate limit for /search/code",
+  "distinct_repos_found": 152,
   "known_relevant": [
     {
-      "found_by": [
-        "s1"
-      ],
+      "found_by": [],
       "rank": null,
       "repo": "Xalzeroph/Charterion"
     },
     {
-      "found_by": [
-        "s1"
-      ],
+      "found_by": [],
       "rank": null,
       "repo": "megamen32/chatgpt-multi"
     },
@@ -293,7 +254,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-11-04T19:43:39Z",
+  "run_at": "2026-11-04T20:02:32Z",
   "schema": 1,
   "searches": [
     {
@@ -395,27 +356,12 @@
       "status": "ok"
     },
     {
+      "detail": "GitHub rate limit for /search/code",
       "id": "pack:multi-chatgpt-web-workers:s1:source",
-      "items": 50,
       "kind": "code_search",
-      "query": "\"chatgpt.com\" content_scripts sidePanel filename:manifest.json",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:s2:source",
-      "items": 50,
-      "kind": "code_search",
-      "query": "\"chat.openai.com\" tabs scripting filename:manifest.json",
-      "status": "ok"
-    },
-    {
-      "id": "pack:multi-chatgpt-web-workers:s3:source",
-      "items": 50,
-      "kind": "code_search",
-      "query": "\"chatgpt.com\" launchPersistentContext",
-      "status": "ok"
+      "status": "deferred"
     }
   ],
-  "status": "ok",
-  "trigger": "local"
+  "status": "partial",
+  "trigger": "schedule"
 }
