@@ -22,5 +22,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/)** — Public text/page, video not confirmed
-- **[Toolbar is effectively broken on Mobile devices](https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549)** — Public text/page, video not confirmed
+- **[Reassigning Table Type Variable Inside of If Statement Causes that Variable to Accept Any Type as a Value in the New Luau Type Solver.](https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600)** — Public text/page, video not confirmed
 - **[Playtest for a new game](https://www.reddit.com/r/robloxgamedev/comments/1xmxyyj/playtest_for_a_new_game/)** — Public text/page, video not confirmed

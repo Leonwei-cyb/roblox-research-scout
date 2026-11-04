@@ -613,20 +613,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4966901:1",
-      "url": "https://devforum.roblox.com/t/silly-knock-stuff-down-game-looking-for-feedback/4966901",
-      "title": "Silly knock stuff down game: looking for feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4967223:1",
       "url": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223",
       "title": "Allow toggling VFX on Accessories",
@@ -1221,34 +1207,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4965680:1",
-      "url": "https://devforum.roblox.com/t/is-this-dangerous/4965680",
-      "title": "Is this dangerous?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4965763:1",
-      "url": "https://devforum.roblox.com/t/whats-going-on-with-sponsored-ads-lately/4965763",
-      "title": "What's going on with sponsored ads lately?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966210:1",
       "url": "https://devforum.roblox.com/t/how-is-it-possible-to-achieve-this-vfx-effect/4966210",
       "title": "How is it possible to achieve this vfx effect?",
@@ -1265,19 +1223,6 @@
       "key": "devforum:4966664:1",
       "url": "https://devforum.roblox.com/t/cant-open-my-game-inside-studio/4966664",
       "title": "Can't open my game inside studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4966854:1",
-      "url": "https://devforum.roblox.com/t/any-information-on-alphgocipher-studio/4966854",
-      "title": "Any information on Alphgocipher Studio",
       "source": "roblox-devforum-latest",
       "published": "2026-10-30",
       "kind": "devforum",
@@ -2243,12 +2188,25 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xj46qo",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj46qo/how_much_does_it_change_when_players_under_16_are/",
-      "title": "How much does it change when players under 16 are cleared to play?",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-30",
-      "kind": "reddit",
+      "key": "devforum:4975540:1",
+      "url": "https://devforum.roblox.com/t/creating-a-line-from-2-points-in-ui/4975540",
+      "title": "Creating a line from 2 points in ui",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4975590:1",
+      "url": "https://devforum.roblox.com/t/unable-to-make-any-access-changes-to-my-experience-after-paying-the-50000-robux-manual-review-fee/4975590",
+      "title": "Unable to make any access changes to my Experience after Paying the 50,000 Robux manual review fee",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -2256,12 +2214,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xji99e",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xji99e/how_to_people_do_the_porting_of_game_to_roblox/",
-      "title": "How to people do the porting of game to roblox studio",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-30",
-      "kind": "reddit",
+      "key": "devforum:4975600:1",
+      "url": "https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600",
+      "title": "Reassigning Table Type Variable Inside of If Statement Causes that Variable to Accept Any Type as a Value in the New Luau Type Solver.",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
       "signals": [
         "tools and performance"
       ],
@@ -3145,6 +3103,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xnwxdd",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnwxdd/cl_is_hire/",
+      "title": "CL is hire",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4967076:1",
       "url": "https://devforum.roblox.com/t/native-flag-client-vs-playtest-mismatch/4967076",
       "title": "native flag client vs playtest mismatch",
@@ -3713,6 +3686,20 @@
       "kind": "reddit",
       "signals": [
         "building and purchases",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xnxkgs",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnxkgs/help_needed_for_guns/",
+      "title": "Help needed for guns",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
         "tools and performance"
       ],
       "score": 4,
@@ -4474,12 +4461,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xj56i2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj56i2/my_best_work_yet/",
-      "title": "My best work yet!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-30",
-      "kind": "reddit",
+      "key": "devforum:4975546:1",
+      "url": "https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546",
+      "title": "Upcoming Changes to Asset Properties: Content Property Serialization Switch",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-04",
+      "kind": "devforum",
       "signals": [
         "tools and performance"
       ],
@@ -5189,21 +5176,36 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xnwrxp",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnwrxp/suggestions_for_my_incremental_type_soccer_game/",
+      "title": "Suggestions for my incremental type soccer game",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xnwygr",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnwygr/i_made_a_roblox_game_called_face_copy_could/",
+      "title": "I made a Roblox game called Face Copy. Could anyone give it a try?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4965562:1",
       "url": "https://devforum.roblox.com/t/cant-load-my-games-on-website-if-i-use-my-alt-account/4965562",
       "title": "Can't load my games on website if I use my alt account",
       "source": "roblox-devforum-latest",
-      "published": "2026-10-30",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4966223:1",
-      "url": "https://devforum.roblox.com/t/promote-your-avatar-items-off-platform-and-track-every-click/4966223",
-      "title": "Promote Your Avatar Items Off-Platform and Track Every Click",
-      "source": "roblox-devforum-updates",
       "published": "2026-10-30",
       "kind": "devforum",
       "signals": [],
@@ -6311,23 +6313,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xj295d",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj295d/trailer_for_new_roblox_wordle_game/",
-      "title": "Trailer for new Roblox Wordle Game",
-      "source": "reddit-robloxdev",
-      "published": "2026-10-30",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xju9ls",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xju9ls/let_me_know_what_you_think/",
-      "title": "let me know what you think",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-30",
-      "kind": "reddit",
+      "key": "devforum:4975543:1",
+      "url": "https://devforum.roblox.com/t/unable-to-change-audience-manage-access-setting/4975543",
+      "title": "Unable to change Audience (Manage Access) setting",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-04",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7414,6 +7405,17 @@
       "key": "reddit:1xnt5rd",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnt5rd/huu_cube_just_made_this_cube_npc_uhh_would_you/",
       "title": "Huu cube just made this cube npc. Uhh would you like to play it when I release it? :p",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-04",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xnxfj6",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnxfj6/roblox_game_asset_suggestion/",
+      "title": "Roblox game asset suggestion",
       "source": "reddit-robloxstudio",
       "published": "2026-11-04",
       "kind": "reddit",

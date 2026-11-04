@@ -7,31 +7,31 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[HIRING TESTERS \[PAID IN ROBUX\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xnvx2u/hiring_testers_paid_in_robux/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: GAME: Pop 1 Billion Balloons (Roblox) We’re testing a balloon-popping simulator before launch and need sharp testers who can break things. What you’ll do Find and report bugs, exploits and glitches, with clear screenshots/clips Give feedbac
-- **[\[Paid\] Hiring Tester](https://www.reddit.com/r/ROBLOXStudio/comments/1xnw3ze/paid_hiring_tester/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: We’re testing a balloon-popping simulator before launch and need sharp testers who can break things. What you’ll do Find and report bugs, exploits and glitches, with clear screenshots/clips Give feedback on balance, progression speed (ballo
-- **[KnightFall Studios \| Looking for Co-Founders](https://www.reddit.com/r/ROBLOXStudio/comments/1xnuuje/knightfall_studios_looking_for_cofounders/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: Hey everyone, I’m currently looking for 1–2 people who would be interested in becoming co founders of KnightFall Studios. The goal is to build a Roblox game studio from the ground up and eventually create some genuinely great games on the p
+- **[Help needed for guns](https://www.reddit.com/r/ROBLOXStudio/comments/1xnxkgs/help_needed_for_guns/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: I am trying to make gun models for personal reasons. Especially ones from ww1, but i dont know whst to use to sctually model it. Roblox studio's parts are not complex enough to make one. Any free site? submitted by /u/Just-Abies-9250 \[link\]
+- **[CL is hire](https://www.reddit.com/r/ROBLOXStudio/comments/1xnwxdd/cl_is_hire/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: Camping Limbo(im gonna refer to it as CL) is a roblox asymetrical horror game baed on OC's and models from the toolbox that we turn into OC's (meaning all devs can make a character if they want) NO PAY BC THIS IS A PASSION PROJECT we are hi
+- **[I made a Roblox game called Face Copy. Could anyone give it a try?](https://www.reddit.com/r/ROBLOXStudio/comments/1xnwygr/i_made_a_roblox_game_called_face_copy_could/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: Hey! I've been working on a Roblox game called Face Copy. Basically, you have to memorize a face and then try to recreate it by sculpting it from memory. I'd really appreciate it if a few people could try it out and let me know what they th
+- **[Roblox game asset suggestion](https://www.reddit.com/r/ROBLOXStudio/comments/1xnxfj6/roblox_game_asset_suggestion/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: Which type of tree asset should i use for this map? submitted by /u/rokoryuu \[link\] \[comments\]
+- **[Suggestions for my incremental type soccer game](https://www.reddit.com/r/ROBLOXStudio/comments/1xnwrxp/suggestions_for_my_incremental_type_soccer_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: so i made an incremental soccer game where u make ur player and u can choose what academy,team,country to go to and u can get agents and such and i am looking for suggestions, we have our core gameplay set out but we also want more as we ha
 
 ## Roblox Updates
 
-- **[Experience unavailable to players after correcting the Maturity Questionnaire](https://devforum.roblox.com/t/experience-unavailable-to-players-after-correcting-the-maturity-questionnaire/4975508)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Players can’t join my experience The Villa after I corrected the Maturity Questionnaire. The game page shows as unavailable for everyone except the editors, so it’s at 0 players. In Creator Hub it shows Game access: Public and Audience reac
-- **[Communities should default to the first non-announcement channel when "Posts" is clicked](https://devforum.roblox.com/t/communities-should-default-to-the-first-non-announcement-channel-when-posts-is-clicked/4975454)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: With the latest addition to communities, the Posts/Forum section now shows old announcements - neat! However, this reduces the ease of engagement for communities. A user now has to: Go to community Go to Posts Click on the first non-announc
-- **[Dont have a last name and want to devex](https://devforum.roblox.com/t/dont-have-a-last-name-and-want-to-devex/4975494)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hello! I want to do my first devex but I dont have a last name what should I do? 1 post - 1 participant Read full topic
-- **[Enhanced Protection being disabled without the user’s authorization](https://devforum.roblox.com/t/enhanced-protection-being-disabled-without-the-user%E2%80%99s-authorization/4975473)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: On October 31st, My main Marydancin was compromised, the account had every procedure Roblox staff had warned me to have including the brand new Enhanced Protection , unfortunately it seems that it didn’t stop the attackers from not only com
-- **[NegativeParts are not distinguished with an icon in Explorer or a change in ClassName](https://devforum.roblox.com/t/negativeparts-are-not-distinguished-with-an-icon-in-explorer-or-a-change-in-classname/4975451)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: NegativeParts used to have a subtraction icon next to them to allow them to be distinguished from Unions or Parts. They no longer have this, which increases confusion when building. Expected behavior I expect the ClassName of NegativeParts 
-- **[Players can't join my experience after resubmitting the questionnaire](https://devforum.roblox.com/t/players-cant-join-my-experience-after-resubmitting-the-questionnaire/4975493)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
-- **[Roblox Windows Client Freezes During Server Teleports](https://devforum.roblox.com/t/roblox-windows-client-freezes-during-server-teleports/4975517)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: System Information: Windows 11 CPU: 12th Gen Intel(R) Core™ i5-12500H GPU: RTX 3050 Laptop 16 GB RAM Description The Roblox Windows client sometimes freezes completely when teleporting to or joining another server. The first server connecti
-- **[Storage Limit doesn't increase (capped at 500 MB)](https://devforum.roblox.com/t/storage-limit-doesnt-increase-capped-at-500-mb/4975505)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: The Data Stores Manager on the Creator Dashboard is incorrectly capping my game’s storage limit at the 500 MB baseline. It says “Experience storage usage exceeds upcoming storage limits” and is completely ignoring the +1 MB per lifetime use
+- **[Upcoming Changes to Asset Properties: Content Property Serialization Switch](https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Key Takeaways Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. Your existing places and Luau scripts keep working, and Rojo users need to update to v7.7.1 or higher. In the Prope
+- **[Upcoming Changes to Asset Properties: Content Property Serialization Switch](https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546)** · Roblox updates category (availability may vary) · 2026-11-04
+  - Feed excerpt: Key Takeaways Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. Your existing places and Luau scripts keep working, and Rojo users need to update to v7.7.1 or higher. In the Prope
+- **[Reassigning Table Type Variable Inside of If Statement Causes that Variable to Accept Any Type as a Value in the New Luau Type Solver.](https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: When assigning a value in a table with the type {string} to a value of any other type, it errors unless you set the table to another table inside of an if statement before. The if statement is critical as the discrepancy does not occur with
+- **[Creating a line from 2 points in ui](https://devforum.roblox.com/t/creating-a-line-from-2-points-in-ui/4975540)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: im trying to create a wire task im gonna add custom physics later to make it kinda look like the ones from bite by night but i’ve being trying to fix an offset in the mouse’s position for a while local uis = game:GetService(“UserInputServic
+- **[Unable to change Audience (Manage Access) setting](https://devforum.roblox.com/t/unable-to-change-audience-manage-access-setting/4975543)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Literally unable to change the Audience settings for my own experience that I literally own. Expected behavior I should be able to freely change my Audience settings whenever I want. A private message is associated with this bug report 1 po
+- **[Unable to make any access changes to my Experience after Paying the 50,000 Robux manual review fee](https://devforum.roblox.com/t/unable-to-make-any-access-changes-to-my-experience-after-paying-the-50000-robux-manual-review-fee/4975590)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: After paying the 50,000 Robux manual review fee and having my experience be verified as acceptable for users under 16, I have been unable to make access changes to it. I am uncertain if there are more steps to recreate this issue than simpl
 
 ---
 
