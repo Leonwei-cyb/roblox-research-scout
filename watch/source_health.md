@@ -18,9 +18,9 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - automation: 0
 - x-ui: 1
 - brock-ig-reels: 12
-- brock-tiktok: 4
+- brock-tiktok: 3
 - brock-x: 0
-- roblox-animation-showcases: 1
+- roblox-animation-showcases: 2
 - tizzy-roblox-design: 2
 - syphodev-claude: 12
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: 12
