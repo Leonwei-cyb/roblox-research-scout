@@ -7,15 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Can somebody help me fix his?](https://www.reddit.com/r/ROBLOXStudio/comments/1xnbujl/can_somebody_help_me_fix_his/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: I am new in Roblox Studio and I wanted to make a animation pack, and I don't know what to do because I couldn't find a tutorial for this.(I translated it from spanish to english so it might look weird) submitted by /u/elGhODster_ \[link\] \[co
+- **[I'm a playtester, can i test your game?](https://www.reddit.com/r/ROBLOXStudio/comments/1xncwrq/im_a_playtester_can_i_test_your_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working wi
 
 ## Roblox Updates
 
-- **[Dynamic Heads - Facial Animation not properly applying](https://devforum.roblox.com/t/dynamic-heads-facial-animation-not-properly-applying/4974458)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: I will be using the avatar from this user in the Private section as reference. The avatar face out of sudden started to show off as a closed mouth in both Roblox website and within certain games with dynamic head/facial animation support. E
-- **[Only 139 Home Rec impressions over 7 days](https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: So I released a new game almost 2 weeks ago, ran sponsors, yada yada. Eventually it started getting a few home page impressions, but I’ve noticed that it’s getting way too few compared to what I’d expect: As you can see, since impressions s
+- **[(Game idea feedback) Would a single-player/co-op hospital simulator work on Roblox?](https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Hi everyone! This is my first post on here! I’ve been working on a passion project of mine for a few weeks now, and I’d love to hear some opinions on whether a game like this could find an audience on Roblox before fully committing to it. T
+- **[I cannot connect my Card to Roblox Ads](https://devforum.roblox.com/t/i-cannot-connect-my-card-to-roblox-ads/4974537)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: I have been trying to connect my debit card to my roblox ads manager account. and I keep on getting the messaged “failed to use card. Please try a different card”. I have checked that all my information is correct and in my transactions rob
+- **[Toolbar is effectively broken on Mobile devices](https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: There’s currently a very bad bug where when using a mobile device, or device emulator, the toolbar only displays a max of 3 tools instead of the usual 10: UI scale is set to the lowest setting, still only displays 3 tools: How it looks on P
 
 ---
 
