@@ -2572,7 +2572,11 @@
     "80b19a9e1056b85f13534995",
     "ef6caeb705090c89d048b0d7",
     "ec2ce17925d4bf047ad380bb",
-    "40fb24b0aa0fc4155f710beb"
+    "40fb24b0aa0fc4155f710beb",
+    "e8ad96b21afbd86c6574fb50",
+    "d13dc99fdbad8f09289b1c3d",
+    "0387cdc4085dba9a0b760371",
+    "36b83c992ebbe83bfd5890c7"
   ],
   "items": [
     {
@@ -2609,6 +2613,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104.rss",
       "id": "ec2ce17925d4bf047ad380bb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Forest Floor & Undergrowth v2.0",
+      "url": "https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217",
+      "published": "2026-11-04",
+      "excerpt": "Hey! I wanted to share some of my recent work on Forest Floor & Undergrowth V2.0 , a collection of over 90 nature assets I’ve created for realistic Roblox environments. The goal with this pack was to make it easier to build detailed, natural-looking forest floors without having to create every indiv",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217.rss",
+      "id": "e8ad96b21afbd86c6574fb50"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2667,6 +2683,18 @@
       "excerpt": "submitted by /u/Shkooten [link] [comments]",
       "creator": "/u/Shkooten https://www.reddit.com/user/Shkooten",
       "id": "d5d90106c81b3b63b290e6dc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for feedback on my farming game!",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-farming-game/4975191",
+      "published": "2026-11-04",
+      "excerpt": "Looking for feedback on my Roblox farming game! I’m looking for players who are willing to try Farmers Valley and give me honest feedback. My biggest issue is player retention. Most players leave within the first 10 minutes, with a fairly steady drop-off throughout that period. I’d especially apprec",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-my-farming-game/4975191.rss",
+      "id": "d13dc99fdbad8f09289b1c3d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3091,6 +3119,18 @@
       "id": "375cfd70696dc5042a6ac051"
     },
     {
+      "source": "x-ui",
+      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
+      "category": "UI showcases",
+      "title": "Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded - X",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iQ2JLdXg3aW5EVG1ybV9nM1hCQkx2QjVIUHpfX2VDOHhmT0pmeEl5TmJMMmNmOVBiTl92dmNiVUZoTDMxU3JxNFZQR0hPM2pBa1JoR2I2bFpId1lOR3J5N3Qzdw?oc=5",
+      "published": "2026-11-04",
+      "excerpt": "Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded X",
+      "creator": "",
+      "publisher": "https://x.com",
+      "id": "36b83c992ebbe83bfd5890c7"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3195,6 +3235,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/cannot-copy-code-from-diff-view/4974758.rss",
       "id": "0bdc56a369f2e47611ec51da"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for a Roblox Game Development Team to Learn and Grow Together",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnqi5z/looking_for_a_roblox_game_development_team_to/",
+      "published": "2026-11-04",
+      "excerpt": "I'm looking for people to help me create Roblox games, mainly UI Designers and Scripters. I have several game ideas, and I'm looking for a team to work with on developing them. I'm not looking for highly skilled or professional developers. I just want to find people who know the basics of Roblox dev",
+      "creator": "/u/BroIsNotHere https://www.reddit.com/user/BroIsNotHere",
+      "id": "0387cdc4085dba9a0b760371"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9422,52 +9473,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287.rss",
       "id": "ba7ce0474d5cdbf39af28d7e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Anyone else figure out how to use the 2 new easing styles?",
-      "url": "https://devforum.roblox.com/t/anyone-else-figure-out-how-to-use-the-2-new-easing-styles/4966524",
-      "published": "2026-10-30",
-      "excerpt": "Not sure if anyone else has noticed, but recently, 2 new easing styles have been sneakily added into Enum.EasingStyles ! These are live, actually, and you can actually reference them in tweens! …With an exception: Now, has anyone figured out how these work yet? Or is their behavior still a mystery t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/anyone-else-figure-out-how-to-use-the-2-new-easing-styles/4966524.rss",
-      "id": "ba1ad99c63ef4fb8e446819d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "GetFriendsAsync exposes UK friends lists hidden on the website, including through headless execution",
-      "url": "https://devforum.roblox.com/t/getfriendsasync-exposes-uk-friends-lists-hidden-on-the-website-including-through-headless-execution/4965973",
-      "published": "2026-10-30",
-      "excerpt": "UK friends lists hidden on the website remain accessible through Players:GetFriendsAsync, including through headless execution I am reporting a friends-list visibility inconsistency affecting UK accounts. Friends lists that are unavailable through Roblox’s website can still be retrieved through Play",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/getfriendsasync-exposes-uk-friends-lists-hidden-on-the-website-including-through-headless-execution/4965973.rss",
-      "id": "b19852aaf475dcf2a66880ec"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "hi im making a old roblox game like a back rooms type",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj48oh/hi_im_making_a_old_roblox_game_like_a_back_rooms/",
-      "published": "2026-10-30",
-      "excerpt": "im making in on a real client to later post it in modern roblox also,how do i fix the brick glitches in the pirate ship map? in every map theres a glitch like that and i dont know why it happens,also give me some ideas for rooms or places or characters submitted by /u/MEF4755 [link] [comments]",
-      "creator": "/u/MEF4755 https://www.reddit.com/user/MEF4755",
-      "id": "ada885877efb9835c43c4e5e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Possession - Bloxy Winner 2013 (Remastered) and The Infection - 2012",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj564n/possession_bloxy_winner_2013_remastered_and_the/",
-      "published": "2026-10-30",
-      "excerpt": "Progress on Possession - Bloxy Winner - 2013 (remastered) and The Infection - 2012 (Remastered)originally by snakeworl. I tried keeping it almost 1:1 like the original game. It should be almost the same experience but probably without the players. Good luck finding two people to get a round started.",
-      "creator": "/u/Current_Share_1657 https://www.reddit.com/user/Current_Share_1657",
-      "id": "ad435c02b2fbb80329042b21"
     }
   ]
 }

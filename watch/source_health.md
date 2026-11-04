@@ -16,7 +16,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - roblox-news: 1
 - roblox-dev-scripts: 0
 - automation: 0
-- x-ui: 0
+- x-ui: 1
 - brock-ig-reels: 12
 - brock-tiktok: 4
 - brock-x: 0

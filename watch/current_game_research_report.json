@@ -1,67 +1,14 @@
 {
-  "schema": "LEON_COLONISTS_RESEARCH_REPORT_V1",
-  "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
-  "active_game": "Colonists",
-  "held_games_not_current": [
-    "Cat Magic"
-  ],
+  "schema": "LEON_ACTIVE_GAME_RESEARCH_REPORT_V1",
+  "status": "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS",
+  "active_game": null,
+  "held_games_not_current": [],
   "input_unique_posts": 597,
-  "original_source_candidates": 589,
+  "original_source_candidates": 588,
   "inspected_videos": 0,
   "observed_gameplay_findings": 0,
   "new_code_changes_authorized": false,
-  "candidates": [
-    {
-      "priority": "P0",
-      "topic": "first-session and mobile",
-      "key": "devforum:4967468:1",
-      "title": "Devex Portal SMS \"Unexpected Error\" Bug With +62 Phone Number",
-      "url": "https://devforum.roblox.com/t/devex-portal-sms-unexpected-error-bug-with-62-phone-number/4967468",
-      "kind": "devforum",
-      "published": "2026-10-31",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Can a first-time desktop player place both opening settlements and roads without help text?"
-    },
-    {
-      "priority": "P1",
-      "topic": "UI and menus",
-      "key": "devforum:4967057:1",
-      "title": "Looking for feedback/criticism for UI",
-      "url": "https://devforum.roblox.com/t/looking-for-feedbackcriticism-for-ui/4967057",
-      "kind": "devforum",
-      "published": "2026-10-31",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?"
-    },
-    {
-      "priority": "P1",
-      "topic": "world and visual design",
-      "key": "reddit:1xju7fj",
-      "title": "How to make the view model look the same regardless of fov",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xju7fj/how_to_make_the_view_model_look_the_same/",
-      "kind": "reddit",
-      "published": "2026-10-30",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?"
-    },
-    {
-      "priority": "P1",
-      "topic": "animation and audio",
-      "key": "reddit:1xjwyqb",
-      "title": "Anyone have a guide to weld item with the eclipse animator ?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjwyqb/anyone_have_a_guide_to_weld_item_with_the_eclipse/",
-      "kind": "reddit",
-      "published": "2026-10-31",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?"
-    }
-  ],
-  "unfilled_topics": [
-    "board game and turn flow"
-  ],
-  "authority": "LEON_ACTIVE_GAME"
+  "candidates": [],
+  "unfilled_topics": [],
+  "authority": "studio-gate/active_game.txt: MISSING"
 }

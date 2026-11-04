@@ -5,16 +5,22 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Ui Showcases
+
+- **[Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iQ2JLdXg3aW5EVG1ybV9nM1hCQkx2QjVIUHpfX2VDOHhmT0pmeEl5TmJMMmNmOVBiTl92dmNiVUZoTDMxU3JxNFZQR0hPM2pBa1JoR2I2bFpId1lOR3J5N3Qzdw?oc=5)** · Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d · 2026-11-04
+  - Feed excerpt: Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded X
+
+## Community
+
+- **[Looking for a Roblox Game Development Team to Learn and Grow Together](https://www.reddit.com/r/ROBLOXStudio/comments/1xnqi5z/looking_for_a_roblox_game_development_team_to/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: I'm looking for people to help me create Roblox games, mainly UI Designers and Scripters. I have several game ideas, and I'm looking for a team to work with on developing them. I'm not looking for highly skilled or professional developers. 
+
 ## Roblox Updates
 
-- **[Blurry font rendering after latest update](https://devforum.roblox.com/t/blurry-font-rendering-after-latest-update/4975141)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: After the latest update, font rendering on desktop looks blurry, and fonts are stretched. It looks a lot more like font rendering on mobile. This issue is occurring in the Roblox Player as well as Roblox Studio on Windows, and is not only h
-- **[Can Roblox suspend an account that is logged online from two different locations?](https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hello, I’m planning to go on vacation and want to be able to stay connected to Roblox Studio, but since my main computer is desktop, I’ll need to use my laptop to connect to Parsec. And at the same time I want to be able to continue testing
-- **[Custom events no longer in analytics tab?](https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Unsure where events from LogCustomEvent are stored anymore… been weeks and swear thhey don’t exist, even though I’ve been using LogCustomEvent the entire time 1 post - 1 participant Read full topic
-- **[Different HP Values vs Damage Reduction for Item Variants - Which Is Better for Player Engagement?](https://devforum.roblox.com/t/different-hp-values-vs-damage-reduction-for-item-variants-which-is-better-for-player-engagement/4975095)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hello! I’m currently working on a clicker simulator and would like to get some opinions on a particular game design decision. Basically, I have multiple variants/skins of the same item. Each item has its own durability, and players can hit 
+- **[Looking for feedback on my farming game!](https://devforum.roblox.com/t/looking-for-feedback-on-my-farming-game/4975191)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Looking for feedback on my Roblox farming game! I’m looking for players who are willing to try Farmers Valley and give me honest feedback. My biggest issue is player retention. Most players leave within the first 10 minutes, with a fairly s
+- **[Forest Floor & Undergrowth v2.0](https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Hey! I wanted to share some of my recent work on Forest Floor & Undergrowth V2.0 , a collection of over 90 nature assets I’ve created for realistic Roblox environments. The goal with this pack was to make it easier to build detailed, natura
 
 ---
 
