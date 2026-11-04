@@ -16,7 +16,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [How to make the view model look the same regardless of fov](https://www.reddit.com/r/ROBLOXStudio/comments/1xju7fj/how_to_make_the_view_model_look_the_same/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
-- **P1 · animation and audio:** [Development progress showcase for my Card battler. Currently going through the fun, yet really long task of creating all the card](https://www.reddit.com/r/robloxgamedev/comments/1xj2oj4/development_progress_showcase_for_my_card_battler/)
+- **P1 · animation and audio:** [Anyone have a guide to weld item with the eclipse animator ?](https://www.reddit.com/r/ROBLOXStudio/comments/1xjwyqb/anyone_have_a_guide_to_weld_item_with_the_eclipse/)
   - reddit · **UNVIEWED_METADATA** · Check: Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?
 
 ## Research gaps
