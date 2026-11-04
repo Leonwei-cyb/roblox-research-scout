@@ -7,33 +7,33 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Drifting along the canyons](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6x54/drifting_along_the_canyons/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Seems familiar🤔 Everything done within ROBLOX Studio. submitted by /u/CryNo4699 \[link\] \[comments\]
-- **[Bes skill for comissions?](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6tkg/bes_skill_for_comissions/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: Whats the best skill u can learn right now to make comissions and to maybe in a future make games or join a team? i mean like vfx, ui design, animator, modeler, clothing, etc (i think code its probably not the best rn because of ai) and thx
-- **[Help again](https://www.reddit.com/r/ROBLOXStudio/comments/1xn889e/help_again/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 \[link\] \[comments\]
-- **[Help again](https://www.reddit.com/r/ROBLOXStudio/comments/1xn87wo/help_again/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 \[link\] \[comments\]
-- **[idk what im doing bro](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6wfb/idk_what_im_doing_bro/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: whenever I try and upload anything it says too many requests. I even waited a day and it's still doing it. google and YouTube doesn't help so I came here someone pls help me. submitted by /u/sprite_brite5446 \[link\] \[comments\]
-- **[realistic backrooms game i'm making. it's gonna be like the complex expedition but procedually generated and following kane's lore](https://www.reddit.com/r/ROBLOXStudio/comments/1xn7bw4/realistic_backrooms_game_im_making_its_gonna_be/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
-  - Feed excerpt: any tips? submitted by /u/UnreasonableDumm \[link\] \[comments\]
+- **[I'm creating BACRAFT, a 2D sandbox game inspired by Minecraft Classic and MiniCraft!](https://www.reddit.com/r/ROBLOXStudio/comments/1xn92uk/im_creating_bacraft_a_2d_sandbox_game_inspired_by/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-03
+  - Feed excerpt: Hi everyone! I'm an indie developer working on a personal project called BACRAFT. The idea is to create a 2D sandbox survival game inspired by the simplicity and nostalgia of Minecraft Classic and MiniCraft, but with my own art style, mecha
+- **[How Should İ Fix That?](https://www.reddit.com/r/ROBLOXStudio/comments/1xn9ywr/how_should_i_fix_that/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: (Pls not Paid Devs) When I move sideways/strafe relative to the NPC, it doesn’t follow me in a straight line. It drifts and curves around in an arc, falls behind, and sometimes slides past me instead of stopping next to me. Close up it’s mo
+- **[How can i stop this gui from spreading apart when changing window size?](https://www.reddit.com/r/ROBLOXStudio/comments/1xna3ij/how_can_i_stop_this_gui_from_spreading_apart_when/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: When ever i change the size of the window it causes the buttons and menus to spread apart making it look uneven. Is there a way to stop this from happening? submitted by /u/ApprehensiveLime6443 \[link\] \[comments\]
+- **[I need feedback and testers!!](https://www.reddit.com/r/ROBLOXStudio/comments/1xna6nr/i_need_feedback_and_testers/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: After a long time, I’ve finished my game, "Car Chaos". I’d love to get some feedback, and I’d also appreciate your help in reaching the 250 highly active players required by Roblox to make the game available to all age groups. Please provid
+- **[The Result of forgetting what the game is about](https://www.reddit.com/r/ROBLOXStudio/comments/1xna7dw/the_result_of_forgetting_what_the_game_is_about/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: It's a photography game, I decided to put Freddy Fazbear's head in an Igloo. submitted by /u/AnimaticKraken \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Allow OAuth apps to request luau-execution-session scope](https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: i’d like a tool i’m building to be able to use the luau-execution-session:write scope on users’ experiences. this would massively increase the scope of what third-party tools could do with games - think CI/CD, build or lint tools, etc. it’s
-- **[Additional Color3 Accessibility APIs](https://devforum.roblox.com/t/additional-color3-accessibility-apis/4974260)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Hey so this is LITERALLY being written right after Roblox just announced the new Color3 contrast & luminance methods , but as someone with a mild red-green color deficiency, I was thinking there could now be a genuine case for supporting co
-- **[AnimationTrack.length randomly started returning zero on my published game without us doing any updates](https://devforum.roblox.com/t/animationtracklength-randomly-started-returning-zero-on-my-published-game-without-us-doing-any-updates/4974276)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: In our battlegrounds game, I depend on animtrack.length to clean up after abilities, however a few days ago the task.delays started returning 0 no matter the abilities (the animations also seem to freeze on the first few frames but this one
-- **[Appeals AI Feedback Loop](https://devforum.roblox.com/t/appeals-ai-feedback-loop/4974282)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: It’s currently impossible to appeal a false enforcement ban because the AI model used in the responses has been locked into a feedback loop of false-positives. No matter what evidence is attached, the AI does not read or comprehend anything
-- **[Roblox support states my old email whenever I try to get support, regardless of account settings & billing email being different for LONG](https://devforum.roblox.com/t/roblox-support-states-my-old-email-whenever-i-try-to-get-support-regardless-of-account-settings-billing-email-being-different-for-long/4974262)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: It keeps saying to use the first email I verified with *e******…@*****.*** when my current emails, visible everywhere is *o******…@******.*** I switched off of the first email AGES ago. I was in contact with support previously using the cha
-- **[Turn screenshots into teleporting paintings](https://devforum.roblox.com/t/turn-screenshots-into-teleporting-paintings/4974220)** · Roblox Developer Forum latest · 2026-11-03
-  - Feed excerpt: Create teleporting paintings from screenshots using CaptureService and EditableImage ! This resource walks through taking a screenshot in-experience, adding it to the world as a “painting”, and modifying the pixels at runtime. In the demo, 
+- **[(OPEN) In need of a scripter to rework a game](https://devforum.roblox.com/t/open-in-need-of-a-scripter-to-rework-a-game/4974344)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: Hey everyone, my game is in need of a scripter as my game hasn’t been updated for a long time (my laptop broke). I just need scripter to help me with the game. You need to be active. if you don’t do that much work or just nothing then you w
+- **[Missing Meshes with download failures](https://devforum.roblox.com/t/missing-meshes-with-download-failures/4974353)** · Roblox Developer Forum latest · 2026-11-03
+  - Feed excerpt: We’ve seen this happen a few times but sometimes specific players have missing meshes. In this case, it was our new Griffin AR mesh. One of our players reported the weapon invisible in their hands. They sent us logs and I looked up the ids 
+- **[Game flickers objects in and out of streaming, then gives up and stops streaming EVERYTHING](https://devforum.roblox.com/t/game-flickers-objects-in-and-out-of-streaming-then-gives-up-and-stops-streaming-everything/4974426)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Game starts to struggle with keeping instances streamed in, then everything just streeams out from the client. Only client-sided instances remain in the world, and server gameplay simulates and continues normally as expected. The clients be
+- **[Improve Regional Pricing Eligibility When Redeeming Gift Cards](https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: I previously had access to regional pricing because I live in the Philippines, where Philippine regional pricing is available. However, after redeeming a $10 USD gift card purchased through CashStar (Roblox’s official gift card website: Buy
+- **[Report History Gets Stuck on "Something went wrong loading more reports" After Refreshing Older Report Entries](https://devforum.roblox.com/t/report-history-gets-stuck-on-something-went-wrong-loading-more-reports-after-refreshing-older-report-entries/4974415)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: After submitting a large number of reports, clicking on an entry further down the list to check its status and see whether Roblox has taken any action, then refreshing the page causes the Report History tab to get stuck displaying the error
+- **[The intersection concrete kept misalignment.](https://devforum.roblox.com/t/the-intersection-concrete-kept-misalignment/4974442)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Why it keeping me misalignment on this intersection. I want to use anti move intersection concrete on the platform because drivers will make crash and stuck on this intersection. Expected behavior This intersection concrete kept misalignmen
+- **[\[Passion Project\] Sports Game!](https://devforum.roblox.com/t/passion-project-sports-game/4974391)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Hi, my name is … well I will prefer to just be called “Not Again” on the Roblox platform. I am an Environmental Artist, that has 4 years of experience. I am currently working on a project, in which I don’t want to disclose to many details. 
 
 ---
 

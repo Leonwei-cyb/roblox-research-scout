@@ -2514,9 +2514,125 @@
     "7f30c08289b88657cc959acc",
     "2a6dedb2861a3a395154f7ed",
     "4de8cd1741f9234f84211287",
-    "c210c6f898511fb5a3b52f32"
+    "c210c6f898511fb5a3b52f32",
+    "4d62e724f7c2e187f1e5ad5a",
+    "cdecb9eff50c600e769c5724",
+    "51e53002fd84b0e18b24912a",
+    "d912f6a2a79f9683cb9c5fea",
+    "bdb3234f18d81291b9964923",
+    "0a129708f38ffd479209e8c5",
+    "6f6e7a24dd94f942b043707a",
+    "0090c7aec733eb674d651070",
+    "de7220ecfb4932f8c35cafd0",
+    "43b8f4217a1aba7aec6bcaa3",
+    "2ebbbd20871957a858aef396",
+    "e3eedf99ca894e306427194b"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "How can i stop this gui from spreading apart when changing window size?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xna3ij/how_can_i_stop_this_gui_from_spreading_apart_when/",
+      "published": "2026-11-04",
+      "excerpt": "When ever i change the size of the window it causes the buttons and menus to spread apart making it look uneven. Is there a way to stop this from happening? submitted by /u/ApprehensiveLime6443 [link] [comments]",
+      "creator": "/u/ApprehensiveLime6443 https://www.reddit.com/user/ApprehensiveLime6443",
+      "id": "e3eedf99ca894e306427194b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Passion Project] Sports Game!",
+      "url": "https://devforum.roblox.com/t/passion-project-sports-game/4974391",
+      "published": "2026-11-04",
+      "excerpt": "Hi, my name is … well I will prefer to just be called “Not Again” on the Roblox platform. I am an Environmental Artist, that has 4 years of experience. I am currently working on a project, in which I don’t want to disclose to many details. I will hint at it though; it is in the Sports category. I ha",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/passion-project-sports-game/4974391.rss",
+      "id": "d912f6a2a79f9683cb9c5fea"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game flickers objects in and out of streaming, then gives up and stops streaming EVERYTHING",
+      "url": "https://devforum.roblox.com/t/game-flickers-objects-in-and-out-of-streaming-then-gives-up-and-stops-streaming-everything/4974426",
+      "published": "2026-11-04",
+      "excerpt": "Game starts to struggle with keeping instances streamed in, then everything just streeams out from the client. Only client-sided instances remain in the world, and server gameplay simulates and continues normally as expected. The clients behaviors clearly indicate a streaming issue, they keep behavi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-flickers-objects-in-and-out-of-streaming-then-gives-up-and-stops-streaming-everything/4974426.rss",
+      "id": "cdecb9eff50c600e769c5724"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Improve Regional Pricing Eligibility When Redeeming Gift Cards",
+      "url": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390",
+      "published": "2026-11-04",
+      "excerpt": "I previously had access to regional pricing because I live in the Philippines, where Philippine regional pricing is available. However, after redeeming a $10 USD gift card purchased through CashStar (Roblox’s official gift card website: Buy Roblox & Robux Gift Cards Online ), I suddenly lost access ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390.rss",
+      "id": "bdb3234f18d81291b9964923"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Report History Gets Stuck on \"Something went wrong loading more reports\" After Refreshing Older Report Entries",
+      "url": "https://devforum.roblox.com/t/report-history-gets-stuck-on-something-went-wrong-loading-more-reports-after-refreshing-older-report-entries/4974415",
+      "published": "2026-11-04",
+      "excerpt": "After submitting a large number of reports, clicking on an entry further down the list to check its status and see whether Roblox has taken any action, then refreshing the page causes the Report History tab to get stuck displaying the error message “Something went wrong loading more reports” . No ma",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/report-history-gets-stuck-on-something-went-wrong-loading-more-reports-after-refreshing-older-report-entries/4974415.rss",
+      "id": "51e53002fd84b0e18b24912a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "The intersection concrete kept misalignment.",
+      "url": "https://devforum.roblox.com/t/the-intersection-concrete-kept-misalignment/4974442",
+      "published": "2026-11-04",
+      "excerpt": "Why it keeping me misalignment on this intersection. I want to use anti move intersection concrete on the platform because drivers will make crash and stuck on this intersection. Expected behavior This intersection concrete kept misalignment because it will make us crash. A private message is associ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-intersection-concrete-kept-misalignment/4974442.rss",
+      "id": "4d62e724f7c2e187f1e5ad5a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "The Result of forgetting what the game is about",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xna7dw/the_result_of_forgetting_what_the_game_is_about/",
+      "published": "2026-11-04",
+      "excerpt": "It's a photography game, I decided to put Freddy Fazbear's head in an Igloo. submitted by /u/AnimaticKraken [link] [comments]",
+      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
+      "id": "43b8f4217a1aba7aec6bcaa3"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I need feedback and testers!!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xna6nr/i_need_feedback_and_testers/",
+      "published": "2026-11-04",
+      "excerpt": "After a long time, I’ve finished my game, \"Car Chaos\". I’d love to get some feedback, and I’d also appreciate your help in reaching the 250 highly active players required by Roblox to make the game available to all age groups. Please provide constructive criticism. No negativity, please. roblox game",
+      "creator": "/u/Bea-T https://www.reddit.com/user/Bea-T",
+      "id": "2ebbbd20871957a858aef396"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "How Should İ Fix That?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn9ywr/how_should_i_fix_that/",
+      "published": "2026-11-04",
+      "excerpt": "(Pls not Paid Devs) When I move sideways/strafe relative to the NPC, it doesn’t follow me in a straight line. It drifts and curves around in an arc, falls behind, and sometimes slides past me instead of stopping next to me. Close up it’s mostly fine; the problem shows up at mid/long range. Setup: Se",
+      "creator": "/u/MrBalkoz https://www.reddit.com/user/MrBalkoz",
+      "id": "0090c7aec733eb674d651070"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -2677,6 +2793,17 @@
       "excerpt": "https://preview.redd.it/g2zoo0hyafzh1.png?width=1920&format=png&auto=webp&s=6ca90a8d3fc39f0e44d30c33945b3b17f7c89052 I release my game a week ago. And now I lauched the first big halloween update of the game with battle passe, new maps and general upgrades of the game in 31 of oct. But right now I d",
       "creator": "/u/RedBrocolis https://www.reddit.com/user/RedBrocolis",
       "id": "e3a3da7cde05a1405171f8ac"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I'm creating BACRAFT, a 2D sandbox game inspired by Minecraft Classic and MiniCraft!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn92uk/im_creating_bacraft_a_2d_sandbox_game_inspired_by/",
+      "published": "2026-11-03",
+      "excerpt": "Hi everyone! I'm an indie developer working on a personal project called BACRAFT. The idea is to create a 2D sandbox survival game inspired by the simplicity and nostalgia of Minecraft Classic and MiniCraft, but with my own art style, mechanics and identity. I'm developing it in Roblox Studio. Some ",
+      "creator": "/u/Bajugamers https://www.reddit.com/user/Bajugamers",
+      "id": "de7220ecfb4932f8c35cafd0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3419,6 +3546,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "(OPEN) In need of a scripter to rework a game",
+      "url": "https://devforum.roblox.com/t/open-in-need-of-a-scripter-to-rework-a-game/4974344",
+      "published": "2026-11-03",
+      "excerpt": "Hey everyone, my game is in need of a scripter as my game hasn’t been updated for a long time (my laptop broke). I just need scripter to help me with the game. You need to be active. if you don’t do that much work or just nothing then you won’t have access to the game. The game in question is null’s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-in-need-of-a-scripter-to-rework-a-game/4974344.rss",
+      "id": "6f6e7a24dd94f942b043707a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Does like rating of a game affect how it is pushed on the algorithm?",
       "url": "https://devforum.roblox.com/t/does-like-rating-of-a-game-affect-how-it-is-pushed-on-the-algorithm/4972702",
       "published": "2026-11-03",
@@ -4146,6 +4285,18 @@
       "excerpt": "hey. i've been building a zombie infection tag game by myself for about a month, mostly because my little sister loves this kind of game and i wanted to make one for her problem: new games now start in roblox's 16+ trial. to open it for younger players it needs 250 \"highly engaged\" players (16+, age",
       "creator": "/u/New-Put-6444 https://www.reddit.com/user/New-Put-6444",
       "id": "0c2baf24bb842fc3d0b7db67"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Missing Meshes with download failures",
+      "url": "https://devforum.roblox.com/t/missing-meshes-with-download-failures/4974353",
+      "published": "2026-11-03",
+      "excerpt": "We’ve seen this happen a few times but sometimes specific players have missing meshes. In this case, it was our new Griffin AR mesh. One of our players reported the weapon invisible in their hands. They sent us logs and I looked up the ids and sure enough, it was the ids of the weapons mesh parts. H",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/missing-meshes-with-download-failures/4974353.rss",
+      "id": "0a129708f38ffd479209e8c5"
     },
     {
       "source": "reddit-robloxdev",
@@ -7191,6 +7342,18 @@
       "id": "f7525e50737998e8e5118c3d"
     },
     {
+      "source": "roblox-news",
+      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
+      "category": "roblox_updates",
+      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
+      "published": "2026-10-31",
+      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
+      "creator": "",
+      "publisher": "https://fr.tradingview.com",
+      "id": "f4df7bf2894a5212610b4aae"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -8326,18 +8489,6 @@
       "id": "f5082b59065dda9aa8b01419"
     },
     {
-      "source": "roblox-news",
-      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
-      "category": "roblox_updates",
-      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
-      "published": "2026-10-30",
-      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
-      "creator": "",
-      "publisher": "https://fr.tradingview.com",
-      "id": "f4df7bf2894a5212610b4aae"
-    },
-    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -9264,145 +9415,6 @@
       "excerpt": "Solo-ish dev here. This is a rendered trailer (not actual gameplay) for my Roblox game +1 Evolution Per Click: Escape the Walls. In the game you get +1 Power every second and per click, break 5 walls (Sprout Fence to the Titan Wall), evolve from Budling to the Worldroot Titan, then rebirth for a per",
       "creator": "/u/CritterForgeStudio https://www.reddit.com/user/CritterForgeStudio",
       "id": "3940409c3176c9a8f727e026"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Join me at the Jonas Brothers Concert on Halloween in Steal an Egg #Roblox #stealanegg #jonasbrothers - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuMWp1WER4OVpJSEFjQlZKWG5qSTFXUnI5UVdQcVB0M0NPRXlxMEZfR0NzNEtGc3Bzc1Y5UTFYcDdBMkNwYUlqWHBFbGlyRWNFb2lXQ3VRM29GTEl5SXFTLVdVTlpsV1ZKa1NuVQ?oc=5",
-      "published": "2026-10-30",
-      "excerpt": "Join me at the Jonas Brothers Concert on Halloween in Steal an Egg #Roblox #stealanegg #jonasbrothers TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "35ec5f4bd851d90bc34018a7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Feedback] Which of these UI frames is your favorite? (WIP UI Pack)",
-      "url": "https://devforum.roblox.com/t/feedback-which-of-these-ui-frames-is-your-favorite-wip-ui-pack/4966865",
-      "published": "2026-10-30",
-      "excerpt": "Hey everyone, Finishing up a UI pack to put up for sale soon. The store frame isn’t done yet and I don’t want to show it off until it is, but I need some honest feedback on the actual game frames before the official release. Tell me which one of these three actually looks good and stands out. Frame ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-which-of-these-ui-frames-is-your-favorite-wip-ui-pack/4966865.rss",
-      "id": "3402d6a4ff201b8b4c2ae7b3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Attempting to teleport to a full vip server should display error code 772",
-      "url": "https://devforum.roblox.com/t/attempting-to-teleport-to-a-full-vip-server-should-display-error-code-772/4966187",
-      "published": "2026-10-30",
-      "excerpt": "A few days ago Roblox announced the ability to teleport players to vip servers they have access to using TeleportService: Teleports to Private VIP Servers Are Now Allowed - #29 by CraftedLeah454 In my project, I’m working on using this to allow players with a vip server to teleport to a sub place an",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/attempting-to-teleport-to-a-full-vip-server-should-display-error-code-772/4966187.rss",
-      "id": "31b901f763ec1b83fa3e85c6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can’t open my place — stuck on “Setting up server”, then “Server did not start [0]”",
-      "url": "https://devforum.roblox.com/t/can%E2%80%99t-open-my-place-%E2%80%94-stuck-on-%E2%80%9Csetting-up-server%E2%80%9D-then-%E2%80%9Cserver-did-not-start-0%E2%80%9D/4966081",
-      "published": "2026-10-30",
-      "excerpt": "Since October 29, I can’t open my testing place in Studio anymore. It gets stuck on “Setting up server…” for a few minutes, then gives this error every time: We could not join the Team Create session for place [102706381042044]. Server did not start [0] Other places open fine. I’m completely unable ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/can%E2%80%99t-open-my-place-%E2%80%94-stuck-on-%E2%80%9Csetting-up-server%E2%80%9D-then-%E2%80%9Cserver-did-not-start-0%E2%80%9D/4966081.rss",
-      "id": "2ef54cfbb52c3754341d8d47"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "demon slayer game under development !!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjtrzl/demon_slayer_game_under_development/",
-      "published": "2026-10-30",
-      "excerpt": "so guys i know there are tons of demon slayer games, but i really love demon slayer and ive wanted to make an mmorpg for a long time, and its finally coming together. i am looking for ppl who would love to join the community and also any devs who would want to contribute like quest/story designers, ",
-      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
-      "id": "2bb7286d1e3bea27396c5490"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "LOOKING FOR TEAM",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjoc6w/looking_for_team/",
-      "published": "2026-10-30",
-      "excerpt": "݁ ˖Ი𐑼⋆ Sweets Boutique - LOOKING FOR TEAM MEMBERS !! Hello guys! My friend and I are starting a new Roblox fashion game project called Sweets Boutique, and I'm looking for a small team who would love to join our project! 𑣲⋆ About game Sweets Boutique is inspired by Style Savvy and early 2000’s Korea",
-      "creator": "/u/Civil-Flight7843 https://www.reddit.com/user/Civil-Flight7843",
-      "id": "231f97bc4b5e5372e7c804b0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "GenerationService Output Mesh",
-      "url": "https://devforum.roblox.com/t/generationservice-output-mesh/4966076",
-      "published": "2026-10-30",
-      "excerpt": "As you can see in these screenshots the AI returns some kind of toy styled items. (Just to make clear. My Prompts were: “Glasses” and “Phone”) It wasn’t like that before, when i first tested it a few months ago. Back then it used to generate really good stuff and actually somewhat high quality meshe",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/generationservice-output-mesh/4966076.rss",
-      "id": "22bceecfdb481e07bb77083b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Feature Request: Remove the Roblox Plus Requirement for Classic Clothing",
-      "url": "https://devforum.roblox.com/t/feature-request-remove-the-roblox-plus-requirement-for-classic-clothing/4966393",
-      "published": "2026-10-30",
-      "excerpt": "Hello Roblox team! I would like to request the removal of the Roblox Plus requirement for creating, uploading, and selling classic clothing on Roblox. Classic clothing creation is an important part of the Roblox creator community. Many talented designers want to create and share shirts and pants but",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feature-request-remove-the-roblox-plus-requirement-for-classic-clothing/4966393.rss",
-      "id": "2166ea16dc9016a80c095341"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "[Hiring] Blender Animator — R6 & Custom Rigs for Asymmetrical Horror Game (1v8) | Paid in Robux",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjbls9/hiring_blender_animator_r6_custom_rigs_for/",
-      "published": "2026-10-30",
-      "excerpt": "🎭 Blender Animator Wanted — R6 & Custom Rigs Asymmetrical horror · 1 killer vs 8 survivors · Roblox The work: killer attacks/abilities, survivor loops (repairs, heals, vaults, pallets), locomotion, downs, moris. Some R6, some custom rigs: box heads, floating limbs, mech legs. Those are the priority.",
-      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
-      "id": "1f25bd170bbf0c8009befd4f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "MRU Virginie",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjsv1p/mru_virginie/",
-      "published": "2026-10-30",
-      "excerpt": "https://preview.redd.it/abvh0zqlgoyh1.png?width=896&format=png&auto=webp&s=db9cbe1d12226dc2f653df53d8596a2ab5bf6b2d Started to work on a battleship that first set sail in 1879 for my imaginary univer, she is a one of her kind early Pre-Dreadnough with 4 Turrets (20 Stud in Diameter) equiped with 2, ",
-      "creator": "/u/Wooden_Cellist_755 https://www.reddit.com/user/Wooden_Cellist_755",
-      "id": "19e222d15f458ec62fbddbe9"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My animation is not loading!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj2ht6/my_animation_is_not_loading/",
-      "published": "2026-10-30",
-      "excerpt": "i imported the avatar using robloxia cac importer and for some reason the animation doesn't load. the avatar on the right though is imported using moon animator and it works perfectly. Edit: i fixed it using clip editor from roblox studio turns out if your rig is anchored it will make it non animata",
-      "creator": "/u/Rjdoglover https://www.reddit.com/user/Rjdoglover",
-      "id": "1815a47b57fe4da0cb78f8e1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Dynamic Head without Eyebrows",
-      "url": "https://devforum.roblox.com/t/dynamic-head-without-eyebrows/4966001",
-      "published": "2026-10-30",
-      "excerpt": "pretty self-explanatory what to do if ur head just doesnt have eyebrows? because it is required to be animated for example, a robot head 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/dynamic-head-without-eyebrows/4966001.rss",
-      "id": "167f9355627c4392ae411326"
     }
   ]
 }
