@@ -2588,7 +2588,18 @@
     "c46e4fdb3efeacd6cc585f5d",
     "2f912d07c5c7fa525ac35428",
     "589cd86f14f83ed73d317854",
-    "4d4619a4e91b7cdc3dd879a5"
+    "4d4619a4e91b7cdc3dd879a5",
+    "e0a722e3fcef57e732524f47",
+    "e616dce2b0f325334b9217c4",
+    "eddd243afcf25c4a284b3559",
+    "b5e13030808d41ec2d922cc6",
+    "7f6108df3afd9b0978f1892e",
+    "a890144cd95e5981ec282e7d",
+    "8331465fd794d5adeed831a2",
+    "72b3eb71f1fd7282b069e47d",
+    "aa690bf46c641e1850a471cb",
+    "b41d27e7a4d15acc5a657992",
+    "096ad04674cdb01d3abdd1ca"
   ],
   "items": [
     {
@@ -2630,6 +2641,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Storage Limit doesn't increase (capped at 500 MB)",
+      "url": "https://devforum.roblox.com/t/storage-limit-doesnt-increase-capped-at-500-mb/4975505",
+      "published": "2026-11-04",
+      "excerpt": "The Data Stores Manager on the Creator Dashboard is incorrectly capping my game’s storage limit at the 500 MB baseline. It says “Experience storage usage exceeds upcoming storage limits” and is completely ignoring the +1 MB per lifetime user multiplier. My game currently has over 1800 unique lifetim",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/storage-limit-doesnt-increase-capped-at-500-mb/4975505.rss",
+      "id": "eddd243afcf25c4a284b3559"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Can Roblox suspend an account that is logged online from two different locations?",
       "url": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104",
       "published": "2026-11-04",
@@ -2649,6 +2672,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217.rss",
       "id": "e8ad96b21afbd86c6574fb50"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Experience unavailable to players after correcting the Maturity Questionnaire",
+      "url": "https://devforum.roblox.com/t/experience-unavailable-to-players-after-correcting-the-maturity-questionnaire/4975508",
+      "published": "2026-11-04",
+      "excerpt": "Players can’t join my experience The Villa after I corrected the Maturity Questionnaire. The game page shows as unavailable for everyone except the editors, so it’s at 0 players. In Creator Hub it shows Game access: Public and Audience reach: Ages 16+ , and there are no violations on the Violations ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/experience-unavailable-to-players-after-correcting-the-maturity-questionnaire/4975508.rss",
+      "id": "e616dce2b0f325334b9217c4"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2672,6 +2707,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515.rss",
       "id": "e106f3aab402afeafc47eb75"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Windows Client Freezes During Server Teleports",
+      "url": "https://devforum.roblox.com/t/roblox-windows-client-freezes-during-server-teleports/4975517",
+      "published": "2026-11-04",
+      "excerpt": "System Information: Windows 11 CPU: 12th Gen Intel(R) Core™ i5-12500H GPU: RTX 3050 Laptop 16 GB RAM Description The Roblox Windows client sometimes freezes completely when teleporting to or joining another server. The first server connection after launching Roblox always works, but a later server t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-windows-client-freezes-during-server-teleports/4975517.rss",
+      "id": "e0a722e3fcef57e732524f47"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2830,6 +2877,52 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Dont have a last name and want to devex",
+      "url": "https://devforum.roblox.com/t/dont-have-a-last-name-and-want-to-devex/4975494",
+      "published": "2026-11-04",
+      "excerpt": "Hello! I want to do my first devex but I dont have a last name what should I do? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dont-have-a-last-name-and-want-to-devex/4975494.rss",
+      "id": "b5e13030808d41ec2d922cc6"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[Paid] Hiring Tester",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnw3ze/paid_hiring_tester/",
+      "published": "2026-11-04",
+      "excerpt": "We’re testing a balloon-popping simulator before launch and need sharp testers who can break things. What you’ll do Find and report bugs, exploits and glitches, with clear screenshots/clips Give feedback on balance, progression speed (balloons/sec, upgrades, rebirths) and UI clarity Test on differen",
+      "creator": "/u/Internal_Piano1386 https://www.reddit.com/user/Internal_Piano1386",
+      "id": "b41d27e7a4d15acc5a657992"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "KnightFall Studios | Looking for Co-Founders",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnuuje/knightfall_studios_looking_for_cofounders/",
+      "published": "2026-11-04",
+      "excerpt": "Hey everyone, I’m currently looking for 1–2 people who would be interested in becoming co founders of KnightFall Studios. The goal is to build a Roblox game studio from the ground up and eventually create some genuinely great games on the platform. I have a few game ideas already, but I want to work",
+      "creator": "/u/Substantial_Lab6110 https://www.reddit.com/user/Substantial_Lab6110",
+      "id": "aa690bf46c641e1850a471cb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Enhanced Protection being disabled without the user’s authorization",
+      "url": "https://devforum.roblox.com/t/enhanced-protection-being-disabled-without-the-user%E2%80%99s-authorization/4975473",
+      "published": "2026-11-04",
+      "excerpt": "On October 31st, My main Marydancin was compromised, the account had every procedure Roblox staff had warned me to have including the brand new Enhanced Protection , unfortunately it seems that it didn’t stop the attackers from not only compromising me but also preventing me from contacting support ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/enhanced-protection-being-disabled-without-the-user%E2%80%99s-authorization/4975473.rss",
+      "id": "a890144cd95e5981ec282e7d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Toolbar is effectively broken on Mobile devices",
       "url": "https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549",
       "published": "2026-11-04",
@@ -2912,6 +3005,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Communities should default to the first non-announcement channel when \"Posts\" is clicked",
+      "url": "https://devforum.roblox.com/t/communities-should-default-to-the-first-non-announcement-channel-when-posts-is-clicked/4975454",
+      "published": "2026-11-04",
+      "excerpt": "With the latest addition to communities, the Posts/Forum section now shows old announcements - neat! However, this reduces the ease of engagement for communities. A user now has to: Go to community Go to Posts Click on the first non-announcement category They can now read and write to other communit",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/communities-should-default-to-the-first-non-announcement-channel-when-posts-is-clicked/4975454.rss",
+      "id": "8331465fd794d5adeed831a2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Security notification blocks access when i have an email linked",
       "url": "https://devforum.roblox.com/t/security-notification-blocks-access-when-i-have-an-email-linked/4975372",
       "published": "2026-11-04",
@@ -2960,6 +3065,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Players can't join my experience after resubmitting the questionnaire",
+      "url": "https://devforum.roblox.com/t/players-cant-join-my-experience-after-resubmitting-the-questionnaire/4975493",
+      "published": "2026-11-04",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/players-cant-join-my-experience-after-resubmitting-the-questionnaire/4975493.rss",
+      "id": "7f6108df3afd9b0978f1892e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "ROBLOX Chatbot Handling Billing",
       "url": "https://devforum.roblox.com/t/roblox-chatbot-handling-billing/4974912",
       "published": "2026-11-04",
@@ -2979,6 +3096,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sick-art-showcase/4975015.rss",
       "id": "78a2ad7126a0ff8793c60498"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "NegativeParts are not distinguished with an icon in Explorer or a change in ClassName",
+      "url": "https://devforum.roblox.com/t/negativeparts-are-not-distinguished-with-an-icon-in-explorer-or-a-change-in-classname/4975451",
+      "published": "2026-11-04",
+      "excerpt": "NegativeParts used to have a subtraction icon next to them to allow them to be distinguished from Unions or Parts. They no longer have this, which increases confusion when building. Expected behavior I expect the ClassName of NegativeParts to be “NegativePart” for easy searchability and the icon in ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/negativeparts-are-not-distinguished-with-an-icon-in-explorer-or-a-change-in-classname/4975451.rss",
+      "id": "72b3eb71f1fd7282b069e47d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3375,6 +3504,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/cannot-copy-code-from-diff-view/4974758.rss",
       "id": "0bdc56a369f2e47611ec51da"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "HIRING TESTERS [PAID IN ROBUX]",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnvx2u/hiring_testers_paid_in_robux/",
+      "published": "2026-11-04",
+      "excerpt": "GAME: Pop 1 Billion Balloons (Roblox) We’re testing a balloon-popping simulator before launch and need sharp testers who can break things. What you’ll do Find and report bugs, exploits and glitches, with clear screenshots/clips Give feedback on balance, progression speed (balloons/sec, upgrades, reb",
+      "creator": "/u/Internal_Piano1386 https://www.reddit.com/user/Internal_Piano1386",
+      "id": "096ad04674cdb01d3abdd1ca"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9356,133 +9496,6 @@
       "excerpt": "For the past year, I've been working on a ROBLOX Wordle game. I made all the assets, including the Game Icon, Thumbnails, and obtainable in-game items, myself using Photopea or Canva (mostly Photopea). Thoughts on the trailer? submitted by /u/Upbeat_Time785 [link] [comments]",
       "creator": "/u/Upbeat_Time785 https://www.reddit.com/user/Upbeat_Time785",
       "id": "e661417a5895301502c51504"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "how do i fix this it should resize",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjv12l/how_do_i_fix_this_it_should_resize/",
-      "published": "2026-10-30",
-      "excerpt": "5 and 9 is probably whats wrong submitted by /u/grayson_is_cool [link] [comments]",
-      "creator": "/u/grayson_is_cool https://www.reddit.com/user/grayson_is_cool",
-      "id": "e58efa86d0481d270ac68bff"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Help me reach my goal! 3 more players :)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj7mde/help_me_reach_my_goal_3_more_players/",
-      "published": "2026-10-30",
-      "excerpt": "help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 stages to work through, ranging from effortless to some serious",
-      "creator": "/u/sailorvalley https://www.reddit.com/user/sailorvalley",
-      "id": "e5388bfff6e59dc12e71f1de"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "If I want to actually learn and get good at this should I not use AI at all",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjsici/if_i_want_to_actually_learn_and_get_good_at_this/",
-      "published": "2026-10-30",
-      "excerpt": "Also when it comes to coding I am a beginner it just looks like gibberish to me all I can rely on is pasting code submitted by /u/Icy-Pattern1113 [link] [comments]",
-      "creator": "/u/Icy-Pattern1113 https://www.reddit.com/user/Icy-Pattern1113",
-      "id": "e4114f7715790b7bfb542694"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to Set Your Roblox Game to Landscape Mode Using StarterGui",
-      "url": "https://devforum.roblox.com/t/how-to-set-your-roblox-game-to-landscape-mode-using-startergui/4966107",
-      "published": "2026-10-30",
-      "excerpt": "In this tutorial, I’ll show you how to set your Roblox game to Landscape mode on mobile devices using only the built-in properties available in StarterGui. This allows you to control the screen orientation without having to write any code, create scripts, or use LocalScripts. This method is simple, ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-set-your-roblox-game-to-landscape-mode-using-startergui/4966107.rss",
-      "id": "e0a40fe8df26f60c8aeafae0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow us to Disable the \"MCP off\" Toolbar",
-      "url": "https://devforum.roblox.com/t/allow-us-to-disable-the-mcp-off-toolbar/4966132",
-      "published": "2026-10-30",
-      "excerpt": "I recently noticed a little tumor growing on the bottom right corner of my screen There is now a toolbar which spans the entire width of the Roblox Studio window and takes up about a half-centimeter of precious vertical space. I don’t know what I would need this for, but I would like to remove the U",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-us-to-disable-the-mcp-off-toolbar/4966132.rss",
-      "id": "dc8e500db0a19066c5e5f3b6"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Because my last post got positive feedback, I thought I would post my other builds, here's some of my builds as someone who just started building",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjuejk/because_my_last_post_got_positive_feedback_i/",
-      "published": "2026-10-30",
-      "excerpt": "If you want to reach me my discord is:Thedeniss34 I used to some free models, such as palm trees and flowers but it's mostly mine I know it's obvious but I wanted to clarify Last post: https://www.reddit.com/r/RobloxDevelopers/s/GNKbJfuQyZ submitted by /u/Old_Hotel271 [link] [comments]",
-      "creator": "/u/Old_Hotel271 https://www.reddit.com/user/Old_Hotel271",
-      "id": "dbd9c4ae37289316a8031488"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Planet Glow Issue",
-      "url": "https://devforum.roblox.com/t/planet-glow-issue/4966225",
-      "published": "2026-10-30",
-      "excerpt": "What do you want to achieve? Keep it simple and clear! Building planets that glow from the side no matter what direction you’re looking at it from. What is the issue? Include screenshots / videos if possible! I have imported a UV Sphere from Blender containing a flat Earth map texture into Roblox st",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/planet-glow-issue/4966225.rss",
-      "id": "dbd23d3710938700fb72609a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My 250k+ visit game taken down over platform bug",
-      "url": "https://devforum.roblox.com/t/my-250k-visit-game-taken-down-over-platform-bug/4965559",
-      "published": "2026-10-30",
-      "excerpt": "A couple months back, my game “Rampant Rage” was taken down. Leading up to this, ai moderation falsely detected “gore” and “blood” in my game, and said it conflicted with my maturity rating. So naturally, i took anything out that could be mistaken for that and re applied my label. Roblox accepted it",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-250k-visit-game-taken-down-over-platform-bug/4965559.rss",
-      "id": "d88cd6b21162fdbc9de619c0"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] Inspect Your Live Server During Team Test",
-      "url": "https://devforum.roblox.com/t/studio-beta-inspect-your-live-server-during-team-test/4966700",
-      "published": "2026-10-30",
-      "excerpt": "Key Takeaways You can now see and inspect the live server’s viewport and Data Model during Team Test sessions. A new read-only Server view shows the server’s instance tree, properties, and 3D world, including ServerScriptService and ServerStorage , and lets you open server scripts and debug them wit",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-beta-inspect-your-live-server-during-team-test/4966700.rss",
-      "id": "d60efa426ae23571d55a889b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "What are Enum.EasingStyle.Spring and Enum.EasingStyle.Bezier for?",
-      "url": "https://devforum.roblox.com/t/what-are-enumeasingstylespring-and-enumeasingstylebezier-for/4966407",
-      "published": "2026-10-30",
-      "excerpt": "I was defining a TweenInfo in one of my scripts, started typing in Enum.EasingStyle.S and saw an option to auto-fill to Spring . I looked in the documentation and I can’t find this mentioned anywhere. It is not listed in EasingStyle Documentation . After trying to use it, it errors with the message:",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-are-enumeasingstylespring-and-enumeasingstylebezier-for/4966407.rss",
-      "id": "d5edf918a674a861ac935e0b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Any New Attack Ideas for this Boss Fight??",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjgk25/any_new_attack_ideas_for_this_boss_fight/",
-      "published": "2026-10-30",
-      "excerpt": "This is a complete version of phase 2 of the boss fight, And now I will be working on a phase 3(final phase), so I need more powerful and harder attacks to add for phase 3. Let me know if you have any unique attack ideas! submitted by /u/CoffeeTime5610 [link] [comments]",
-      "creator": "/u/CoffeeTime5610 https://www.reddit.com/user/CoffeeTime5610",
-      "id": "d5bbb7ea2960f7e7e9550910"
     }
   ]
 }

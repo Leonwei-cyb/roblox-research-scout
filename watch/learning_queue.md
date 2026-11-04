@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 281
+- devforum: 283
 - index-only: 9
-- reddit: 301
+- reddit: 299
 - youtube: 6
 
 ## First-Session And Mobile
@@ -48,7 +48,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## World And Visual Design
 
 - [How to make a UI element track a 3D object on screen?](https://devforum.roblox.com/t/how-to-make-a-ui-element-track-a-3d-object-on-screen/4973794) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [Because my last post got positive feedback, I thought I would post my other builds, here's some of my builds as someone who just started building](https://www.reddit.com/r/ROBLOXStudio/comments/1xjuejk/because_my_last_post_got_positive_feedback_i/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [Roblox Studio Bug: Terrain Editor and Transform Tools Disappear When Pressing Ctrl](https://devforum.roblox.com/t/roblox-studio-bug-terrain-editor-and-transform-tools-disappear-when-pressing-ctrl/4973824) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 

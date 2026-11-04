@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "6ba619d23a947886fa4ca70e2f0a614d024e1bbc",
-      "head_subject": "MCP - New tool -  List watches history stats (#4667)",
+      "head": "91fe0f752c24e96ace00671ce960801772c26110",
+      "head_subject": "Update README.md",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.60.10",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
@@ -105,11 +105,11 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "3ce1fad9175cacd72d0613c3390b50bff76a4a25",
-      "head_subject": "Track container publishing deployments",
+      "head": "cdb9f9295d792f7a512a4e2f79a82ae0571c8aa9",
+      "head_subject": "Record the November 5 security fixes",
       "name": "huginn/huginn",
-      "release_tag": "v2026.11.01",
-      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.01",
+      "release_tag": "v2026.11.05",
+      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.05",
       "url": "https://github.com/huginn/huginn"
     },
     "obra/superpowers": {
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "e9fde36d75fea66579d84099956ce1430792737a",
-      "head_subject": "launch: populate Pi models automatically (#19460)",
+      "head": "2e7b870fbcec32da4b8864a1f715d7809c801490",
+      "head_subject": "mlx: reject unsupported CUDA devices (#19521)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
