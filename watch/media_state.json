@@ -2547,7 +2547,12 @@
     "8ee3e82d52076ff6213da3a7",
     "97846879ab756bf00ba03448",
     "bad1806a235cc5559eb2ec0f",
-    "13fc06a0a9cc84f0539448ab"
+    "13fc06a0a9cc84f0539448ab",
+    "0bdc56a369f2e47611ec51da",
+    "375cfd70696dc5042a6ac051",
+    "61cf1c61b6cc236b665adc93",
+    "a3034bbcb2b0d61cc88bab98",
+    "45c453376fc2d69a75f6a9de"
   ],
   "items": [
     {
@@ -2657,6 +2662,17 @@
       "id": "a6fb936a2916171143c5bb3e"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "First time learning Substance Painter + animation practice!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfciu/first_time_learning_substance_painter_animation/",
+      "published": "2026-11-04",
+      "excerpt": "Melee asset made for our game (WIP)! It was my first time learning how to use Substance Painter for texturing (I've always used random PBR materials in the past). This is also my 3rd time making animations (2nd time making first person animations). Let me know how I did! And please feel free to leav",
+      "creator": "/u/Nomadics_Team https://www.reddit.com/user/Nomadics_Team",
+      "id": "a3034bbcb2b0d61cc88bab98"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2740,6 +2756,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Fuck it I made even more SpongeBob models",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xni1pm/fuck_it_i_made_even_more_spongebob_models/",
+      "published": "2026-11-04",
+      "excerpt": "submitted by /u/SPONg42 [link] [comments]",
+      "creator": "/u/SPONg42 https://www.reddit.com/user/SPONg42",
+      "id": "61cf1c61b6cc236b665adc93"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Can somebody help me fix his?",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnbujl/can_somebody_help_me_fix_his/",
       "published": "2026-11-04",
@@ -2804,6 +2831,18 @@
       "excerpt": "Hi guys!!! Here's another small update to the minigames. I'm gonna keep editing it to look a bit more cohesive, but let me know if you have any ideas, criticism, or questions!! submitted by /u/TheLoveRiddle [link] [comments]",
       "creator": "/u/TheLoveRiddle https://www.reddit.com/user/TheLoveRiddle",
       "id": "3dd38a066022f54e5ba34a7f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Help with plugin motor6D.Transform",
+      "url": "https://devforum.roblox.com/t/help-with-plugin-motor6dtransform/4974738",
+      "published": "2026-11-04",
+      "excerpt": "Hi, I’m trying to make an animation plugin and I have a problem where changing motor6D.Tranform doesn’t change anything. I’ve tried game:GetSerice(\"RunService\").RenderStepped:Connect(function() motor6d.Tranform = CFrame.angles(0, math.rad(90), 0) end) and it says its running every frame but the moto",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/help-with-plugin-motor6dtransform/4974738.rss",
+      "id": "375cfd70696dc5042a6ac051"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2886,6 +2925,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/macos-client-now-renders-at-full-retina-resolution/4974621.rss",
       "id": "0e1831629ab14b13722e72b9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Cannot copy code from Diff View",
+      "url": "https://devforum.roblox.com/t/cannot-copy-code-from-diff-view/4974758",
+      "published": "2026-11-04",
+      "excerpt": "Steps Go to a Script’s Version History Click ‘Compare selected versions’ Select some code from the Diff view and Cmd+C (on mac to copy) or right click copy Go to an empty Script and Paste Result: Nothing pastes Expected: Code copied from Diff view copies and pastes I’m trying this on a Mac – I don’t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cannot-copy-code-from-diff-view/4974758.rss",
+      "id": "0bdc56a369f2e47611ec51da"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9388,52 +9439,6 @@
       "excerpt": "DEVELOPERS LETS HELP EACH OTHER OUT!! I’m trying to get my Roblox game S WORLD through the 16+ trial phase, and I need people to actually try it out! I’d be happy to try yours as well! I’ve been working really hard on mine, I need to get past this trial phase. If you’re 16+ and age-checked on Roblox",
       "creator": "/u/Party_Preparation596 https://www.reddit.com/user/Party_Preparation596",
       "id": "82bf940dcd6386ee05a1230b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Serious frame lag every 1 second on empty baseplate",
-      "url": "https://devforum.roblox.com/t/serious-frame-lag-every-1-second-on-empty-baseplate/4965471",
-      "published": "2026-10-30",
-      "excerpt": "Almost exactly every 1 second, the frame takes super long to render and causes a sudden lagspike. I reinstalled studio and disabled all plugins, then opened a new empty baseplate. You don’t even have to play the game – it lags like this in the studio window too (also ingame). I’ve attached the full ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/serious-frame-lag-every-1-second-on-empty-baseplate/4965471.rss",
-      "id": "7ed9b83cfcd5959c977a34cf"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "What 15 hours of work does to my dreams...",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjo85v/what_15_hours_of_work_does_to_my_dreams/",
-      "published": "2026-10-30",
-      "excerpt": "Maybe I should take a brake... submitted by /u/Character_Pear_5065 [link] [comments]",
-      "creator": "/u/Character_Pear_5065 https://www.reddit.com/user/Character_Pear_5065",
-      "id": "7cbdefdb2c97994b02eb4208"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for Playtester?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj3vso/looking_for_playtester/",
-      "published": "2026-10-30",
-      "excerpt": "Hello everyone its me again! I’m offering affordable game playtesting services. I can test your game and provide feedback before you launch. I’ve tested games before that went on to reach thousands of CCU after launch! DM me if interested I currently have 2 playtesting sessions scheduled this weeken",
-      "creator": "/u/WeirdSecretary8064 https://www.reddit.com/user/WeirdSecretary8064",
-      "id": "7ae89919a37bdaefea8bfd5c"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Weekly Recap: October 26 - 30, 2026",
-      "url": "https://devforum.roblox.com/t/weekly-recap-october-26-30-2026/4966810",
-      "published": "2026-10-30",
-      "excerpt": "Key Takeaways We expanded creator testing and prototyping with Web Play, Scene Generation, Orthographic Camera, and Prompt-to-Avatar betas. 2D creation added AnimatedImage Early Access, while the Device Trust API gives creators new Android and Web signals for security decisions. Teleports can now ta",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/weekly-recap-october-26-30-2026/4966810.rss",
-      "id": "6ed4b715c113e2ec1bc8f526"
     }
   ]
 }
