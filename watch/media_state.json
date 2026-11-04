@@ -2576,7 +2576,12 @@
     "e8ad96b21afbd86c6574fb50",
     "d13dc99fdbad8f09289b1c3d",
     "0387cdc4085dba9a0b760371",
-    "36b83c992ebbe83bfd5890c7"
+    "36b83c992ebbe83bfd5890c7",
+    "8b70937158d39de254fec202",
+    "5d4318cdd9c0adcfdd823f54",
+    "6ee4e06ed825a4332d683272",
+    "ca80b19247664361826e95f1",
+    "6d4729ce1f99cdf0768b8bcb"
   ],
   "items": [
     {
@@ -2724,6 +2729,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "SLIMEHUNT UPDATE!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnrrdw/slimehunt_update/",
+      "published": "2026-11-04",
+      "excerpt": "Slimehunt | Play on Roblox I added 3 new Slimbos, more Items, and that's all folks! Please test the update to see if it's to your liking, only issue is I need to pay robux to make it all ages, so it's currently 16+ :( submitted by /u/AnimaticKraken [link] [comments]",
+      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
+      "id": "ca80b19247664361826e95f1"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Upcoming Turnbased Rpg on Roblox",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnepev/upcoming_turnbased_rpg_on_roblox/",
       "published": "2026-11-04",
@@ -2841,6 +2857,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Server heartbeat dropped to 2-7 Hz, updateBones jumped from ~1ms to ~35ms per call",
+      "url": "https://devforum.roblox.com/t/server-heartbeat-dropped-to-2-7-hz-updatebones-jumped-from-1ms-to-35ms-per-call/4975322",
+      "published": "2026-11-04",
+      "excerpt": "Since around 4:30 PM on Nov 4 (UTC+13) our live servers have been running terrible. P10 heartbeat went from about 25 to about 5 almost instantly and has stayed around 2-7 since. Charts attached. Game: The Sanctuary - Early Access | Play on Roblox Affected place: 108379405712368 [CONFIRM: We didn’t p",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/server-heartbeat-dropped-to-2-7-hz-updatebones-jumped-from-1ms-to-35ms-per-call/4975322.rss",
+      "id": "8b70937158d39de254fec202"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Only 139 Home Rec impressions over 7 days",
       "url": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489",
       "published": "2026-11-04",
@@ -2945,6 +2973,18 @@
       "id": "6f11cae799c571c6b95e1b8a"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to remove bugged Scale tool dots?",
+      "url": "https://devforum.roblox.com/t/how-to-remove-bugged-scale-tool-dots/4975239",
+      "published": "2026-11-04",
+      "excerpt": "So, I was building a lobby for my game, and at some point the studio crashed, and after re‑logging in, all the changes on the map didn’t save. So I used a copy of the place, saved the changes to the main place, and found the Scale tool points. I can’t select them or find them in the workspace. They ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-remove-bugged-scale-tool-dots/4975239.rss",
+      "id": "6ee4e06ed825a4332d683272"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3000,6 +3040,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dynamic-head-validation-error-issue-000-degenerate-triangles/4974821.rss",
       "id": "5e871b0b7151004282d72844"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[CRITICAL] Trusted Chat Banning for Child Safety w/o Explanation",
+      "url": "https://devforum.roblox.com/t/critical-trusted-chat-banning-for-child-safety-wo-explanation/4975295",
+      "published": "2026-11-04",
+      "excerpt": "Hi Roblox Staff, The Roblox Trusted Chat, I believe has a false positive where it’s currently banning peoples accounts permanently for “Child Safety”, leaving people hopeless on what to do. Before I continue, this is completely unrelated to the recent announcement you guys made on the alt detection ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-trusted-chat-banning-for-child-safety-wo-explanation/4975295.rss",
+      "id": "5d4318cdd9c0adcfdd823f54"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9427,52 +9479,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-review-honest/4966050.rss",
       "id": "ce83dbdd6112626428ebf361"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "test out my game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xj8k44/test_out_my_game/",
-      "published": "2026-10-30",
-      "excerpt": "Laser arena batttles | Play on Roblox recently started building the game and the gun models are not that good but hope u like it(im still beginner) submitted by /u/antivirus112 [link] [comments]",
-      "creator": "/u/antivirus112 https://www.reddit.com/user/antivirus112",
-      "id": "c6e9f8e839149bd5a4d2a6c5"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Voice chat stuck connecting / Cannot hear other players",
-      "url": "https://devforum.roblox.com/t/voice-chat-stuck-connecting-cannot-hear-other-players/4965355",
-      "published": "2026-10-30",
-      "excerpt": "This issue randomly started occurring yesterday for me and has now persisted for over 24 hours. Every time I join a Roblox game, I can hear everyone’s voice chat for about 5 seconds before it suddenly disconnects, and everyone goes silent. I can disconnect and reconnect, but everyone is still silent",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/voice-chat-stuck-connecting-cannot-hear-other-players/4965355.rss",
-      "id": "bd3a0f6832332207d3528784"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Are these game stats good?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xj1mvl/are_these_game_stats_good/",
-      "published": "2026-10-30",
-      "excerpt": "Average ccu of 20, tho it can drop at low as 5 during night and as high as 40 during peak times submitted by /u/Fun_Net3400 [link] [comments]",
-      "creator": "/u/Fun_Net3400 https://www.reddit.com/user/Fun_Net3400",
-      "id": "bb73fa8b2a4b7290fc291b73"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Group to Group Robux Transfers",
-      "url": "https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287",
-      "published": "2026-10-30",
-      "excerpt": "I think Roblox should add a feature that allows group owners to transfer Robux directly from one group to another. The way this would work is pretty simple. Group owners would have an option to transfer Robux from their group’s funds to another group, as long as they’re also a member of the group re",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/group-to-group-robux-transfers/4965287.rss",
-      "id": "ba7ce0474d5cdbf39af28d7e"
     }
   ]
 }

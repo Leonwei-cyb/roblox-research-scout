@@ -5,22 +5,24 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Ui Showcases
+## Animations And Vfx
 
-- **[Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iQ2JLdXg3aW5EVG1ybV9nM1hCQkx2QjVIUHpfX2VDOHhmT0pmeEl5TmJMMmNmOVBiTl92dmNiVUZoTDMxU3JxNFZQR0hPM2pBa1JoR2I2bFpId1lOR3J5N3Qzdw?oc=5)** · Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d · 2026-11-04
-  - Feed excerpt: Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded X
+- **[How to animate tools in Roblox Studio 2026 \[WORKS\] - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESHZMeDhWTzMxSUR5RXpjREx1N0FrQ3BzY1ptaWhOeE5Xbk5uaklHbmRUNTRnZ05vdks4elNYMnFpUXJzMU52V2MyVTZfcUZLTlNIX3pn?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-10-24
+  - Feed excerpt: How to animate tools in Roblox Studio 2026 \[WORKS\] YouTube
 
 ## Community
 
-- **[Looking for a Roblox Game Development Team to Learn and Grow Together](https://www.reddit.com/r/ROBLOXStudio/comments/1xnqi5z/looking_for_a_roblox_game_development_team_to/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
-  - Feed excerpt: I'm looking for people to help me create Roblox games, mainly UI Designers and Scripters. I have several game ideas, and I'm looking for a team to work with on developing them. I'm not looking for highly skilled or professional developers. 
+- **[SLIMEHUNT UPDATE!](https://www.reddit.com/r/ROBLOXStudio/comments/1xnrrdw/slimehunt_update/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-04
+  - Feed excerpt: Slimehunt \| Play on Roblox I added 3 new Slimbos, more Items, and that's all folks! Please test the update to see if it's to your liking, only issue is I need to pay robux to make it all ages, so it's currently 16+ :( submitted by /u/Animat
 
 ## Roblox Updates
 
-- **[Looking for feedback on my farming game!](https://devforum.roblox.com/t/looking-for-feedback-on-my-farming-game/4975191)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Looking for feedback on my Roblox farming game! I’m looking for players who are willing to try Farmers Valley and give me honest feedback. My biggest issue is player retention. Most players leave within the first 10 minutes, with a fairly s
-- **[Forest Floor & Undergrowth v2.0](https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217)** · Roblox Developer Forum latest · 2026-11-04
-  - Feed excerpt: Hey! I wanted to share some of my recent work on Forest Floor & Undergrowth V2.0 , a collection of over 90 nature assets I’ve created for realistic Roblox environments. The goal with this pack was to make it easier to build detailed, natura
+- **[How to remove bugged Scale tool dots?](https://devforum.roblox.com/t/how-to-remove-bugged-scale-tool-dots/4975239)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: So, I was building a lobby for my game, and at some point the studio crashed, and after re‑logging in, all the changes on the map didn’t save. So I used a copy of the place, saved the changes to the main place, and found the Scale tool poin
+- **[Server heartbeat dropped to 2-7 Hz, updateBones jumped from ~1ms to ~35ms per call](https://devforum.roblox.com/t/server-heartbeat-dropped-to-2-7-hz-updatebones-jumped-from-1ms-to-35ms-per-call/4975322)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Since around 4:30 PM on Nov 4 (UTC+13) our live servers have been running terrible. P10 heartbeat went from about 25 to about 5 almost instantly and has stayed around 2-7 since. Charts attached. Game: The Sanctuary - Early Access \| Play on 
+- **[\[CRITICAL\] Trusted Chat Banning for Child Safety w/o Explanation](https://devforum.roblox.com/t/critical-trusted-chat-banning-for-child-safety-wo-explanation/4975295)** · Roblox Developer Forum latest · 2026-11-04
+  - Feed excerpt: Hi Roblox Staff, The Roblox Trusted Chat, I believe has a false positive where it’s currently banning peoples accounts permanently for “Child Safety”, leaving people hopeless on what to do. Before I continue, this is completely unrelated to
 
 ---
 

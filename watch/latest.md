@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — MCP oauth consent dialog cleanup (#4665).
+- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — UI - Minor dark mode improvements.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
