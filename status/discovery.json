@@ -2,26 +2,22 @@
   "adopted": [],
   "api": {
     "calls": {
-      "graphql": 7,
-      "rest": 44,
-      "rest_not_modified": 12
+      "graphql": 5,
+      "rest": 32,
+      "rest_not_modified": 0
     },
     "rate": {
       "code_search": {
         "remaining": 7,
-        "reset_at": "2026-11-04T13:33:07Z"
-      },
-      "core": {
-        "remaining": 4945,
-        "reset_at": "2026-11-04T14:30:09Z"
+        "reset_at": "2026-11-04T19:45:18Z"
       },
       "graphql": {
-        "remaining": 4987,
-        "reset_at": "2026-11-04T13:50:23Z"
+        "remaining": 4982,
+        "reset_at": "2026-11-04T20:13:55Z"
       },
       "search": {
-        "remaining": 20,
-        "reset_at": "2026-11-04T13:32:52Z"
+        "remaining": 22,
+        "reset_at": "2026-11-04T19:45:03Z"
       }
     }
   },
@@ -36,9 +32,9 @@
     {
       "repo": "23blocks-OS/ai-maestro",
       "score": 100,
-      "sha": "008af1b7c91e4bb638c5b14d3e149a43fc9ad1ba",
+      "sha": "30c893dc258b7a3bc7a4b95dcfccda6b2c4c3129",
       "suggested_owner": "Wheel",
-      "task": "Pin 23blocks-OS/ai-maestro@008af1b, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin 23blocks-OS/ai-maestro@30c893d, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "777genius/universal-agent-plugins",
@@ -64,23 +60,23 @@
     {
       "repo": "anurmatov/phleet",
       "score": 100,
-      "sha": "50e3d86e28c09f826ca5ac17dc7d6d162cf44890",
+      "sha": "539e6d4b56761c7f63e2ac4e539ba3a9116683f0",
       "suggested_owner": "Work/dashboard",
-      "task": "Pin anurmatov/phleet@50e3d86, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Dashboard with live agent status (Dashboard V2 on Claude-Code-Agent-Monitor)."
+      "task": "Pin anurmatov/phleet@539e6d4, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Dashboard with live agent status (Dashboard V2 on Claude-Code-Agent-Monitor)."
     },
     {
       "repo": "Ark0N/Codeman",
       "score": 100,
-      "sha": "f1f7eec4d6a54c73822d118262712535eea5fd28",
+      "sha": "6670bc64b6aee50047d4ecc9a5f89e6d0f1516f8",
       "suggested_owner": "Work/dashboard",
-      "task": "Pin Ark0N/Codeman@f1f7eec, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Dashboard with live agent status (Dashboard V2 on Claude-Code-Agent-Monitor)."
+      "task": "Pin Ark0N/Codeman@6670bc6, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Dashboard with live agent status (Dashboard V2 on Claude-Code-Agent-Monitor)."
     },
     {
       "repo": "awslabs/cli-agent-orchestrator",
       "score": 100,
-      "sha": "3dd21d5b698612ce6dab25041724627fd308061b",
+      "sha": "8bf6e8f0c6aba6ba2f05610e00a1d66749edb200",
       "suggested_owner": "Wheel",
-      "task": "Pin awslabs/cli-agent-orchestrator@3dd21d5, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin awslabs/cli-agent-orchestrator@8bf6e8f, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "Chrrxs/robloxstudio-mcp",
@@ -99,32 +95,33 @@
     {
       "repo": "JasonColapietro/suede-creator-skills",
       "score": 100,
-      "sha": "0f520aaccdb3af29247f27593fb6f94c88b20cfb",
+      "sha": "d7ba2eeff387d59d449a5449149fcc11555bd72f",
       "suggested_owner": "Wheel",
-      "task": "Pin JasonColapietro/suede-creator-skills@0f520aa, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin JasonColapietro/suede-creator-skills@d7ba2ee, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "jmagly/aiwg",
       "score": 100,
-      "sha": "c886a6abe3fab592d7cf2979da07269543b64274",
+      "sha": "8171e73b88ce8cf39594ea95fdbdcd1466535a01",
       "suggested_owner": "Wheel",
-      "task": "Pin jmagly/aiwg@c886a6a, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin jmagly/aiwg@8171e73, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     }
   ],
   "counts": {
-    "actionable_backlog": 153,
+    "actionable_backlog": 155,
     "adopt": 0,
-    "events_this_run": 59,
-    "needs_test": 164,
+    "events_this_run": 66,
+    "needs_test": 166,
     "new_candidates_this_run": 4,
-    "new_releases_this_run": 7,
-    "records": 578,
-    "reject": 300,
-    "repos_tracked": 464,
-    "updated_issues_this_run": 48
+    "new_releases_this_run": 5,
+    "records": 584,
+    "reject": 302,
+    "repos_tracked": 468,
+    "updated_issues_this_run": 57
   },
   "feed_health": {
-    "ok": 38
+    "error": 1,
+    "ok": 37
   },
   "feeds": [
     {
@@ -159,7 +156,7 @@
     },
     {
       "id": "search:roblox-tooling:5",
-      "items": 11,
+      "items": 10,
       "kind": "search",
       "status": "ok"
     },
@@ -344,11 +341,11 @@
       "status": "ok"
     },
     {
+      "detail": "GitHub HTTP 502 for graphql",
       "id": "graphql:batch1",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 15,
-      "status": "ok"
+      "status": "error"
     },
     {
       "detail": "1 repo(s) not found or not visible; 0 deferred after GraphQL field errors (prior record kept)",
@@ -385,10 +382,10 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-11-04T13:33:13Z",
-    "outcome": "ok",
+    "finished_at": "2026-11-04T19:45:14Z",
+    "outcome": "partial",
     "run_url": "",
-    "started_at": "2026-11-04T13:31:30Z",
+    "started_at": "2026-11-04T19:43:39Z",
     "trigger": "local"
   },
   "schema": 1
