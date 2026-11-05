@@ -2646,7 +2646,17 @@
     "c000bfc49561d05bd4bbe518",
     "a7497d93356837655fc6fb14",
     "0c3f049c193287ae7a91e96b",
-    "b85c9519231c934b7f7cc455"
+    "b85c9519231c934b7f7cc455",
+    "e3564444a002df602adb382b",
+    "3bcb681c6073cdfa1b3c3611",
+    "32e67f812c0aab048592f5b7",
+    "24bc7c714fb5e5bca924b88c",
+    "0c7b250572aa98601eea4a87",
+    "305f8aad69eb883a516348d6",
+    "73e98c874fe94cb946da4c07",
+    "9167af94a7fac0cda4cf2f2e",
+    "09ead7fc1a2879b930e1cd19",
+    "75a1de1ed62f477590452530"
   ],
   "items": [
     {
@@ -2660,6 +2670,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044.rss",
       "id": "f21d42acb51f788b832b7656"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Creator store payouts not landing into bank account",
+      "url": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348",
+      "published": "2026-11-05",
+      "excerpt": "Creator store payouts have been marked as paid, although the payment has not landed in my account. I’ve contacted Stripe and they are not able to provide support to Roblox payouts. Payments were marked pending for about a week, then a couple of days ago it was marked as paid but the payment has not ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348.rss",
+      "id": "e3564444a002df602adb382b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2689,6 +2711,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Game Search Exact Match Search Doesn't Work",
+      "url": "https://devforum.roblox.com/t/game-search-exact-match-search-doesnt-work/4976190",
+      "published": "2026-11-05",
+      "excerpt": "Searching for games with quotes does not give you only results that you quoted. It ends up giving you similarly spelt results. I am on google chrome, I have checked without and with chrome extensions. I am on an intel I7-7820X CPU 3.60 GHz, 96 GB DDR4, NVIDIA GeForce RTX 4070 Expected behavior When ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-search-exact-match-search-doesnt-work/4976190.rss",
+      "id": "9167af94a7fac0cda4cf2f2e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
       "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
       "published": "2026-11-05",
@@ -2707,6 +2741,29 @@
       "excerpt": "Basically, I'm a solo dev, I've been working on a passion project for about 11 months now (in development/unreleased). Recently, I showed my friend (trusted IRL friend, close highschool friends) the project I'm working on for fun. Now he looked at it, and basically in a nutshell wanted to invest in ",
       "creator": "/u/TheRealBeefMeat https://www.reddit.com/user/TheRealBeefMeat",
       "id": "7c11a86cc6ada5e25fd507c8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for 3 types of people",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo9z1z/looking_for_3_types_of_people/",
+      "published": "2026-11-05",
+      "excerpt": "I need an animator, vfx/sfx artist (preferable that you can do both) and builder/modelers (again preferable if you can do both. Im looking for new or inexperienced devs like myself. Mrkoth42 on discord or Markoth12345/mar_koth on roblox submitted by /u/Fuukaenjoyer000 [link] [comments]",
+      "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
+      "id": "75a1de1ed62f477590452530"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SmartyRBX Can't Make His OWN Game Public",
+      "url": "https://devforum.roblox.com/t/smartyrbx-cant-make-his-own-game-public/4976285",
+      "published": "2026-11-05",
+      "excerpt": "He clicked “Release publicly on Roblox > Continue”. It said “You do not have permission to do this.” Expected behavior It should let him publish his own game or at least tell him why it won’t work because it’s bad UX. Drive your Suzucki to work Page URL: https://create.roblox.com/dashboard/creations",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/smartyrbx-cant-make-his-own-game-public/4976285.rss",
+      "id": "73e98c874fe94cb946da4c07"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2747,6 +2804,66 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Show owner counts for Roblox-made items on their catalog pages",
+      "url": "https://devforum.roblox.com/t/show-owner-counts-for-roblox-made-items-on-their-catalog-pages/4976323",
+      "published": "2026-11-05",
+      "excerpt": "As a Roblox developer, it is currently too hard to tell how rare or widely owned a non-tradeable Roblox-made item is, because there is no official owner count for it. Limiteds have supply data, but off-sale and non-tradeable items don’t, so I can’t build accurate collection or inventory tools around",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/show-owner-counts-for-roblox-made-items-on-their-catalog-pages/4976323.rss",
+      "id": "3bcb681c6073cdfa1b3c3611"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Potential Bug: Clothing Remains on Sale Without Active Premium",
+      "url": "https://devforum.roblox.com/t/potential-bug-clothing-remains-on-sale-without-active-premium/4976311",
+      "published": "2026-11-05",
+      "excerpt": "I’ve noticed that some Roblox groups and creators appear to have clothing items available for purchase despite seemingly not having an active Roblox Premium subscription. For example, Alpine Ascents, owned by Mozaffs, has multiple clothing items listed for sale in its group store. I’m unsure whether",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/potential-bug-clothing-remains-on-sale-without-active-premium/4976311.rss",
+      "id": "32e67f812c0aab048592f5b7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I need a name for my game... again",
+      "url": "https://devforum.roblox.com/t/i-need-a-name-for-my-game-again/4976299",
+      "published": "2026-11-05",
+      "excerpt": "What should I name my story game? The plot, i havent developed fully yet, but basically, a guy called Nooby is trying to get his way back into Robloxia, because he tampered with his TV that was showing static at night time. Like i said, i havent thought of a plot yet, so this is a rough draft of sor",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-need-a-name-for-my-game-again/4976299.rss",
+      "id": "305f8aad69eb883a516348d6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING] Experienced Builder / 3D Environment Artist Realistic Recreation of Downtown Guelph, Ontario",
+      "url": "https://devforum.roblox.com/t/hiring-experienced-builder-3d-environment-artist-realistic-recreation-of-downtown-guelph-ontario/4976307",
+      "published": "2026-11-05",
+      "excerpt": "About the Project Hello! I’m ssshiver , the developer of Baseplate World , a Roblox combat sandbox featuring advanced physics, realistic combat mechanics, and an open-world environment. I’m currently looking to hire an experienced Roblox builder / 3D environment artist to help recreate portions of d",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-experienced-builder-3d-environment-artist-realistic-recreation-of-downtown-guelph-ontario/4976307.rss",
+      "id": "24bc7c714fb5e5bca924b88c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I might have selected the wrong option, BUT ROBLOX REFUSES TO SHOW THE GAME I SPENT 12 HOURS USING AI ON",
+      "url": "https://devforum.roblox.com/t/i-might-have-selected-the-wrong-option-but-roblox-refuses-to-show-the-game-i-spent-12-hours-using-ai-on/4976302",
+      "published": "2026-11-05",
+      "excerpt": "as the queen of roblox, you would think roblox would cut me some slack and not give me bugs, well thats wrong, tell me why i woke up got ready to open codex and load chatgpt and my games dont show, like can we normalise, fixing the bugs, ALL SHADE, cause mind u i coulda made SERIOUS AND I MEAN SERIO",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-might-have-selected-the-wrong-option-but-roblox-refuses-to-show-the-game-i-spent-12-hours-using-ai-on/4976302.rss",
+      "id": "0c7b250572aa98601eea4a87"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Currently Unable to Publish Games Publicly",
       "url": "https://devforum.roblox.com/t/currently-unable-to-publish-games-publicly/4976046",
       "published": "2026-11-05",
@@ -2754,6 +2871,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/currently-unable-to-publish-games-publicly/4976046.rss",
       "id": "0c3f049c193287ae7a91e96b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Experience Stuck at 16+ Age Restriction and Incorrectly Flagged for Reduced Exposure / Low Quality",
+      "url": "https://devforum.roblox.com/t/experience-stuck-at-16-age-restriction-and-incorrectly-flagged-for-reduced-exposure-low-quality/4976155",
+      "published": "2026-11-05",
+      "excerpt": "Hello Roblox Engineering Team, My experience was incorrectly categorized as a “Social Hangout”, resulting in a 16+ age restriction that remains under review even after the stated 48-hour period. Additionally, my experience received the warning: “Your experience has reduced exposure across Home, Sear",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/experience-stuck-at-16-age-restriction-and-incorrectly-flagged-for-reduced-exposure-low-quality/4976155.rss",
+      "id": "09ead7fc1a2879b930e1cd19"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9428,118 +9557,6 @@
       "excerpt": "I have an incremental game, it had great CCU and stats all along but suddenly died, I don't know what's wrong really. If some of y'all try it and make some suggestions I would be grateful. https://www.roblox.com/games/136966381029085/Celestial-Rarities (We didn't use AI) submitted by /u/Repulsive-Pe",
       "creator": "/u/Repulsive-Pension544 https://www.reddit.com/user/Repulsive-Pension544",
       "id": "8d6278fd5b0b96ab9ffdd286"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "The problem with most Roblox games (from an Unreal developer)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xki8xs/the_problem_with_most_roblox_games_from_an_unreal/",
-      "published": "2026-10-31",
-      "excerpt": "I’m an indie game developer with a profitable game published on Steam. I’ve worked in Unreal mostly, but also in UEFN, Unity, and now Roblox Studio. My main work is in level design, but I’ve solo devd entire games and vertical slices. Taking a look at your posts, your games, and tons of games while ",
-      "creator": "/u/type_five_dev https://www.reddit.com/user/type_five_dev",
-      "id": "8a1dda66ffc3f992af32a469"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Anyone have a guide to weld item with the eclipse animator ?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjwyqb/anyone_have_a_guide_to_weld_item_with_the_eclipse/",
-      "published": "2026-10-31",
-      "excerpt": "Welding multiple things on each body part for R6 rig submitted by /u/Hena-Goblin-Tuo [link] [comments]",
-      "creator": "/u/Hena-Goblin-Tuo https://www.reddit.com/user/Hena-Goblin-Tuo",
-      "id": "87e0fae735f6dc80d418c463"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Hitting 250 did nothing",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkozbb/hitting_250_did_nothing/",
-      "published": "2026-10-31",
-      "excerpt": "Everyone is talking about their games blowing up and going from 10 CCU to 200 after hitting 250 HEP. Well, I just hit it. It's the first game I've ever managed to get to 250 HEP with, and I did it after just 4 days of running ads. It wasn't an easy journey, but I made it, and even though it's probab",
-      "creator": "/u/Ok_Statistician6759 https://www.reddit.com/user/Ok_Statistician6759",
-      "id": "87470a4564ca9a757e29e447"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Would you play this game if it was finished?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk4061/would_you_play_this_game_if_it_was_finished/",
-      "published": "2026-10-31",
-      "excerpt": "Hi people, Simple question. This is the last game I was working on before I quit developing like 6 months ago, but I've been considering getting back into it. If I do, I think it'd be cool to pick up and finish this game. Zero AI was used in the making of it btw. :) So, (even though there's many mis",
-      "creator": "/u/LordChud21 https://www.reddit.com/user/LordChud21",
-      "id": "8583ba9849bc82fbf5321281"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allows you to import folders so they can be automatically organized",
-      "url": "https://devforum.roblox.com/t/allows-you-to-import-folders-so-they-can-be-automatically-organized/4968608",
-      "published": "2026-10-31",
-      "excerpt": "Hi, I’m a developer who has dealt with importing many images images that were well organized into their own respective folders on my PC. I’ve come up with an idea that could make this process much easier. When importing, the system should allow you to select an entire folder. It would then import al",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allows-you-to-import-folders-so-they-can-be-automatically-organized/4968608.rss",
-      "id": "81cf3d05ad1599285c2ff900"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Multiple buttons are off-screen on the Motorola Razr",
-      "url": "https://devforum.roblox.com/t/multiple-buttons-are-off-screen-on-the-motorola-razr/4968488",
-      "published": "2026-10-31",
-      "excerpt": "Buttons that would normally appear at the bottom of the screen, such as the play button, “View full profile” button, and the button to purchase an item from the marketplace are completely off-screen on the Motorola Razr (2026). This also includes the text box for chat. I imagine this affects other p",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/multiple-buttons-are-off-screen-on-the-motorola-razr/4968488.rss",
-      "id": "7fd151b5fae3def4e7e08481"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How is it?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkndbi/how_is_it/",
-      "published": "2026-10-31",
-      "excerpt": "submitted by /u/Radiant-Tea6806 [link] [comments]",
-      "creator": "/u/Radiant-Tea6806 https://www.reddit.com/user/Radiant-Tea6806",
-      "id": "7cfabbb6c51fe2e861424279"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for a Team to Make Roblox Games.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkef56/looking_for_a_team_to_make_roblox_games/",
-      "published": "2026-10-31",
-      "excerpt": "Looking for a Roblox Development Team I'm looking for people to help me create Roblox games, mainly UI Designers and Scripters. I have several game ideas, and I'm looking for a team to work with on developing them. Our goal will also be to improve and develop our skills in our respective fields over",
-      "creator": "/u/BroIsNotHere https://www.reddit.com/user/BroIsNotHere",
-      "id": "78faa95077921d4da5e1253a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "how do I fix my highlight from doing this?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkp1o5/how_do_i_fix_my_highlight_from_doing_this/",
-      "published": "2026-10-31",
-      "excerpt": "the highlight is still supposed to be visible but its only visible when its out of my sight and back. How do I fix it. submitted by /u/G1ANNAAAA [link] [comments]",
-      "creator": "/u/G1ANNAAAA https://www.reddit.com/user/G1ANNAAAA",
-      "id": "7721dcd0c06681a59f094cb8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Heres a Lobby i made for my game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkhv4z/heres_a_lobby_i_made_for_my_game/",
-      "published": "2026-10-31",
-      "excerpt": "What do you guys think submitted by /u/ErebusPr [link] [comments]",
-      "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
-      "id": "6bcf5c009540ca15d61be14d"
     }
   ]
 }

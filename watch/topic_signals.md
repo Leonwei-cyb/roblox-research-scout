@@ -4,7 +4,7 @@
 
 | Topic | Mention count | Source examples |
 |---|---:|---|
-| 3D / art | 34 | [Low quality stud textures](https://devforum.roblox.com/t/low-quality-stud-textures/4974911); [Weird gaps in a blender import when it looks fine inside blender.](https://www.reddit.com/r/ROBLOXStudio/comments/1xndlfk/weird_gaps_in_a_blender_import_when_it_looks_fine/) |
+| 3D / art | 35 | [\[HIRING\] Experienced Builder / 3D Environment Artist Realistic Recreation of](https://devforum.roblox.com/t/hiring-experienced-builder-3d-environment-artist-realistic-recreation-of-downtown-guelph-ontario/4976307); [Low quality stud textures](https://devforum.roblox.com/t/low-quality-stud-textures/4974911) |
 | UI / UX | 17 | [Need help fitting UI for a tower defense game](https://devforum.roblox.com/t/need-help-fitting-ui-for-a-tower-defense-game/4974809); [Creating a line from 2 points in ui](https://devforum.roblox.com/t/creating-a-line-from-2-points-in-ui/4975540) |
 | Animation / feel | 16 | [Dynamic Heads - Facial Animation not properly applying](https://devforum.roblox.com/t/dynamic-heads-facial-animation-not-properly-applying/4974458); [A small animation i made (1st anim i ever made in studio)](https://www.reddit.com/r/ROBLOXStudio/comments/1xnkt3q/a_small_animation_i_made_1st_anim_i_ever_made_in/) |
 | Steal / risk | 8 | [Aliens are taking over Steal an Egg 👽 #Roblox #StealanEgg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE9YR0VFUTBpdlYybG01M25IR2NGSDVyNWZtMGZSemJGWkJEUE9UcTc4SExaSGZDQmNBYkliS3drWXBlbFdxMHRPVi1kT3JZMFRNRDRKd01PbGQxRGR5TzFUeHRrMVdGYkxUUUI4Wg?oc=5); [I made a Roblox game where you escape from a giant angry cat 😭 Would love so](https://www.reddit.com/r/robloxgamedev/comments/1xmmnl4/i_made_a_roblox_game_where_you_escape_from_a/) |
