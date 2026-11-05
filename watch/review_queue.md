@@ -13,11 +13,12 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## UI / menus / effects
 
 - **[How to Run ViewModel Animation](https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408)** — Public text/page, video not confirmed
-- **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** — Public text/page, video not confirmed
+- **[\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
 - **[Textures not appearing when maps are selected](https://devforum.roblox.com/t/textures-not-appearing-when-maps-are-selected/4974615)** — Public text/page, video not confirmed
+- **[Asset Versioning Is Coming to Meshes, Images, Audio, and Video](https://devforum.roblox.com/t/asset-versioning-is-coming-to-meshes-images-audio-and-video/4977769)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 

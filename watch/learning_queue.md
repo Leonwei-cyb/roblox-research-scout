@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 290
-- index-only: 9
-- reddit: 292
+- devforum: 295
+- index-only: 8
+- reddit: 288
 - youtube: 5
 
 ## First-Session And Mobile
@@ -57,8 +57,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
+- [Player objects not being properly managed on disconect during a Server & Client session](https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Player Ping spiking ridiculously high in 'live' server but not in studio? Server Stalling?](https://devforum.roblox.com/t/player-ping-spiking-ridiculously-high-in-live-server-but-not-in-studio-server-stalling/4971164) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [(Game idea feedback) Would a single-player/co-op hospital simulator work on Roblox?](https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 

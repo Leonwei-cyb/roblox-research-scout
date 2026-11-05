@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "cdb6fc6b0d340fd28c003474918385c4b8290be0",
-      "head_subject": "CI - Third-party licence list: regenerate weekly and on release, drift is only a warning on PRs (#4684)",
+      "head": "4963ad21acb0a7db747309cccbdec2d4fdc2c7cc",
+      "head_subject": "API - Watch list and search show each watch's paused and notification_muted (#4685) (#4686)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.1",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.1",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "8e264f8989b524c3534678cebbb1bb11adf9bde7",
-      "head_subject": "mlxrunner: close generation cache on shutdown (#19550)",
+      "head": "02480ca2a47153e1f9c31cbe1e05536da97ce1ba",
+      "head_subject": "cmd/launch: add Kimi Code CLI support (#19506)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",

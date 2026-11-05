@@ -2744,7 +2744,20 @@
     "e8710b605d8425e13cc94636",
     "82eb8a8648567d3d86833b93",
     "49083b351e745007b007d81d",
-    "72b45509c2656e2dc0f327e2"
+    "72b45509c2656e2dc0f327e2",
+    "1bdca82e66b9c84bc25c9963",
+    "9b410beadac500ab4595172b",
+    "1f4ab941d9696acec332c06f",
+    "1960b8fb3ae3e023e44586e0",
+    "e4e8b7da9261221b0378697f",
+    "924959f0f6935c34ed0d0d1c",
+    "bb0afa83e9c7b79cc95a595b",
+    "eff96c72d824412711a2879d",
+    "a60f544e7628d86be693f0b2",
+    "a67a6161ae3cccbc3e4210f3",
+    "41c49058f9b54de1fb560a3f",
+    "888c6eda5ed1fdd1f2c3170b",
+    "169d6c1ca310ad202ac6c14b"
   ],
   "items": [
     {
@@ -2804,6 +2817,18 @@
       "excerpt": "Hi guys! I finally go to release my hoi4 inspired Countryball Strategy game! However, Ive come to quite some trouble with the retention. Ive checked a lot, fixed a lot and maybe itll change in a few days, but what do you guys think could be done? Id be really glad to get some criticism! Im running a",
       "creator": "/u/Even_Direction_8940 https://www.reddit.com/user/Even_Direction_8940",
       "id": "f1ed47f344cc9408b6f2b183"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio no longer has a titlebar?",
+      "url": "https://devforum.roblox.com/t/studio-no-longer-has-a-titlebar/4977704",
+      "published": "2026-11-05",
+      "excerpt": "3 posts - 3 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-no-longer-has-a-titlebar/4977704.rss",
+      "id": "eff96c72d824412711a2879d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2873,6 +2898,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292.rss",
       "id": "e641a451bb92d8845fd1101f"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Studio Beta] CreateSurfaceAppearance: Now With Asset IDs and DataModel Content",
+      "url": "https://devforum.roblox.com/t/studio-beta-createsurfaceappearance-now-with-asset-ids-and-datamodel-content/4977713",
+      "published": "2026-11-05",
+      "excerpt": "Key Takeaways CreateSurfaceAppearanceAsync now supports DataModel Content and Asset IDs, in addition to EditableImages as it did before, allowing for less memory and performance costs, and simpler creation. In Studio, go to File > Beta Features and enable “Mixed Content for CreateSurfaceAppearanceAs",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-createsurfaceappearance-now-with-asset-ids-and-datamodel-content/4977713.rss",
+      "id": "e4e8b7da9261221b0378697f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3096,6 +3133,18 @@
       "id": "c000bfc49561d05bd4bbe518"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Studio Beta] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder",
+      "url": "https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709",
+      "published": "2026-11-05",
+      "excerpt": "Key Takeaways Prompt to Animation is now in Studio Beta. Studio Assistant and Studio MCP can generate R15 animations from a text prompt. Motion Rebuilder optionally converts R6 clips to R15, so you can polish graybox work or update a game on your schedule without needing to animate by hand. Turn on ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709.rss",
+      "id": "bb0afa83e9c7b79cc95a595b"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3201,6 +3250,29 @@
       "id": "a7497d93356837655fc6fb14"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for 4 or less people",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xowl6b/looking_for_4_or_less_people/",
+      "published": "2026-11-05",
+      "excerpt": "I need an animator, vfx/sfx artist (preferable that you can do both) and builder/modelers (again preferable if you can do both. Im looking for new or inexperienced devs like myself. Mrkoth42 on discord or Markoth12345/mar_koth on roblox submitted by /u/Fuukaenjoyer000 [link] [comments]",
+      "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
+      "id": "a67a6161ae3cccbc3e4210f3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Updated Studio topbar plugins tab goes out of the screen if you have a lot of plugins, as well as being slow",
+      "url": "https://devforum.roblox.com/t/updated-studio-topbar-plugins-tab-goes-out-of-the-screen-if-you-have-a-lot-of-plugins-as-well-as-being-slow/4977698",
+      "published": "2026-11-05",
+      "excerpt": "If you have many plugins, the plugin box gets pushed off screen, rendering you unable to access the plugin management menus: The new topbar also seems to lag and stutter, a LOT System info (click for more details) Expected behavior I’d expect for the plugin box to always be “anchored” at its top lef",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/updated-studio-topbar-plugins-tab-goes-out-of-the-screen-if-you-have-a-lot-of-plugins-as-well-as-being-slow/4977698.rss",
+      "id": "a60f544e7628d86be693f0b2"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3227,6 +3299,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "How do you get the Reserved Server AND Private Server code while using TeleportAsync?",
+      "url": "https://devforum.roblox.com/t/how-do-you-get-the-reserved-server-and-private-server-code-while-using-teleportasync/4977758",
+      "published": "2026-11-05",
+      "excerpt": "Roblox has deprecated Reserve Server Async, which allowed me to generate a reserved server ID, but more importantly, also get the PRIVATE Server ID. Now the problem, is that TeleportAsync is the replacement right? But, you can only create your Reserved Server Code with the HttpService function, and ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-you-get-the-reserved-server-and-private-server-code-while-using-teleportasync/4977758.rss",
+      "id": "9b410beadac500ab4595172b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Sound TimePosition preview",
       "url": "https://devforum.roblox.com/t/sound-timeposition-preview/4976788",
       "published": "2026-11-05",
@@ -3246,6 +3330,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/new-roblox-studio-ribbon-an-empty-window-will-appear-while-hovering-over-all-buttons-along-with-lag-spikes/4977635.rss",
       "id": "94c00fb6d5af59b44e1729e4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Player objects not being properly managed on disconect during a Server & Client session",
+      "url": "https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712",
+      "published": "2026-11-05",
+      "excerpt": "Similar to this bug: Player objects not being properly managed on discconect during a Server & Client session The above bug was marked as fixed but seems to have made a reappearance. I noticed it after pressing “Leave” on one of the players, this was normally making players leave instantly, but a re",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712.rss",
+      "id": "924959f0f6935c34ed0d0d1c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3294,6 +3390,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/allow-games-to-detect-if-music-media-is-playing-on-a-playstation-console/4977631.rss",
       "id": "8a11988976f53fb52a925835"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Please help me decide",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xow6al/please_help_me_decide/",
+      "published": "2026-11-05",
+      "excerpt": "I've been working on a distance simulator type game and decided to experiment with two different styles for the visuals. I know the studded is viral on top games but I don't play a lot of those games myself so idk what to think. submitted by /u/Kindly-Print-7196 [link] [comments]",
+      "creator": "/u/Kindly-Print-7196 https://www.reddit.com/user/Kindly-Print-7196",
+      "id": "888c6eda5ed1fdd1f2c3170b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3571,6 +3678,17 @@
       "id": "464eb8ed5db9222704450c92"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "need feedback for slop game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xowd5r/need_feedback_for_slop_game/",
+      "published": "2026-11-05",
+      "excerpt": "my first time. i've been working on it for over 4 days, constantly taking feedback from my friends, and trying to make it as enjoyable as possible. my friends really like it and are coming back everyday! i do have some ads running but not that many. i have concerns getting new players, from what ive",
+      "creator": "/u/slashdaisy https://www.reddit.com/user/slashdaisy",
+      "id": "41c49058f9b54de1fb560a3f"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3774,6 +3892,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Parts not Rendering on Low Graphics that are within the Draw Radius (Streaming is turned off)",
+      "url": "https://devforum.roblox.com/t/parts-not-rendering-on-low-graphics-that-are-within-the-draw-radius-streaming-is-turned-off/4977750",
+      "published": "2026-11-05",
+      "excerpt": "The Parts with Highlights should be rendered on any graphics settings, however, on graphics settings 3 through 1, they don’t, with level 1 being the worse. Started happening yesterday, I think like mid day or earlier. These parts are Local, simple Ball Shaped parts, with a SpecialMesh and Highlights",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/parts-not-rendering-on-low-graphics-that-are-within-the-draw-radius-streaming-is-turned-off/4977750.rss",
+      "id": "1f4ab941d9696acec332c06f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[Open Source] OmniStore - Roblox Data Persistence with Session Locking, Migrations & Replication",
       "url": "https://devforum.roblox.com/t/open-source-omnistore-roblox-data-persistence-with-session-locking-migrations-replication/4977645",
       "published": "2026-11-05",
@@ -3792,6 +3922,30 @@
       "excerpt": "submitted by /u/1clrr [link] [comments]",
       "creator": "/u/1clrr https://www.reddit.com/user/1clrr",
       "id": "1dfcc410392f1938cbff1baa"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Asset Versioning Is Coming to Meshes, Images, Audio, and Video",
+      "url": "https://devforum.roblox.com/t/asset-versioning-is-coming-to-meshes-images-audio-and-video/4977769",
+      "published": "2026-11-05",
+      "excerpt": "Key Takeaways Starting January 19, 2027, you can publish new versions of Meshes and Images, with Audio and Video to follow. Keep one asset ID while you iterate, and choose when your game picks up changes. Specify a version in any property or script with rbxassetid://1234&version=3 . Hi Creators, Tod",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/asset-versioning-is-coming-to-meshes-images-audio-and-video/4977769.rss",
+      "id": "1bdca82e66b9c84bc25c9963"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Multiple fake toolbox models causing fake \"studio dependency\" popups",
+      "url": "https://devforum.roblox.com/t/multiple-fake-toolbox-models-causing-fake-studio-dependency-popups/4977739",
+      "published": "2026-11-05",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/multiple-fake-toolbox-models-causing-fake-studio-dependency-popups/4977739.rss",
+      "id": "1960b8fb3ae3e023e44586e0"
     },
     {
       "source": "reddit-robloxdev",
@@ -9512,143 +9666,6 @@
       "excerpt": "I'm making a roller coaster building game on roblox, and i have a very early demo ready! Youtube video of the basic coaster building: https://www.youtube.com/watch?v=u_QYxVEVt00&t=162s submitted by /u/RollerCoasterProject [link] [comments]",
       "creator": "/u/RollerCoasterProject https://www.reddit.com/user/RollerCoasterProject",
       "id": "50449d4c1e87b88e38028bab"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Need help with making a successful game on rblx.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xksgdr/need_help_with_making_a_successful_game_on_rblx/",
-      "published": "2026-11-01",
-      "excerpt": "Alr So I recently checked out ppl making hella money off developing games on roblox I figured out Ai was doing most of the work So I heard Abt Forge Gui and Claude Opus 5.5 the catch is I cant afford That and I really want to develop a successful Game also is their any suggestions on which Game i sh",
-      "creator": "/u/New_Start_4518 https://www.reddit.com/user/New_Start_4518",
-      "id": "4cf43bf935a695fe2bcc29e5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Testing out my: Dropping/Picking up items and Scope weapons!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkqwdq/testing_out_my_droppingpicking_up_items_and_scope/",
-      "published": "2026-11-01",
-      "excerpt": "really cool game im making. submitted by /u/No_Application6917 [link] [comments]",
-      "creator": "/u/No_Application6917 https://www.reddit.com/user/No_Application6917",
-      "id": "4be2d761b6f5bb4288d4df9e"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How I Make $10,000/mo With AI Roblox Shorts (Using Claude Opus 5.5) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5T1B4YUNCTmh5SXAwLUxUTVgtc0hESVRyUjVKQll0a3BFNE91enpzV2VEQUhDMUJKem83MjFSUS1BOFZqZmdEbEM1U2Zsa3JyMi1KOEVB?oc=5",
-      "published": "2026-11-01",
-      "excerpt": "How I Make $10,000/mo With AI Roblox Shorts (Using Claude Opus 5.5) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "49083b351e745007b007d81d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "little vid about my game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xl367c/little_vid_about_my_game/",
-      "published": "2026-11-01",
-      "excerpt": "like the title says, also its an arcade style pvp / pve game no story mode and such what do you think? i would love to hear your thoughts submitted by /u/banaenae3321 [link] [comments]",
-      "creator": "/u/banaenae3321 https://www.reddit.com/user/banaenae3321",
-      "id": "45ee0de3c02e0f0f4cb18d37"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Feedback - roblox ai moderation",
-      "url": "https://devforum.roblox.com/t/feedback-roblox-ai-moderation/4969715",
-      "published": "2026-11-01",
-      "excerpt": "How do I even begin this.. The current Roblox AI moderation system handling practically everything from general questions to appeals is absolute horrible. You are always met with the same response seconds after appealing something. \"We carefully reviewed your appeal for [WHATEVER] and we still consi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-roblox-ai-moderation/4969715.rss",
-      "id": "3d096a02ff1bd90dce18db12"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I Made a Game Where You Make Your Own Potions (feedback appreciated)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl94lb/i_made_a_game_where_you_make_your_own_potions/",
-      "published": "2026-11-01",
-      "excerpt": "submitted by /u/ytuntoldhub [link] [comments]",
-      "creator": "/u/ytuntoldhub https://www.reddit.com/user/ytuntoldhub",
-      "id": "3c3b7586e9765016c2efdac5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How expensive is game dev for Roblox",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkysok/how_expensive_is_game_dev_for_roblox/",
-      "published": "2026-11-01",
-      "excerpt": "I know basics and layout of Roblox Scripting, and I have this big idea for my roblox game. I dont really want to make it all about profit like those super ai generated saturated slop games, but like a game like Guts and Blackpowder. Though profit is profit, and profit is good, Only im still in highs",
-      "creator": "/u/Aromatic-Bell-4000 https://www.reddit.com/user/Aromatic-Bell-4000",
-      "id": "37b1623d8e97a1cc67523ae6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Fixing character delay on moving train",
-      "url": "https://devforum.roblox.com/t/fixing-character-delay-on-moving-train/4970738",
-      "published": "2026-11-01",
-      "excerpt": "Hello everyone, I am trying to create a smooth train movement system, where all players would move alongside each other, without any glitching or jittering. Similar to the train in Jailbreak: I’ve made the smooth train movement by replicating it to the client. I’ve also made the player move along wi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/fixing-character-delay-on-moving-train/4970738.rss",
-      "id": "36a32040917dc622abd3c664"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[HIRING] Builder / Blender Modeler for Sci-Fi Facility Tycoon",
-      "url": "https://devforum.roblox.com/t/hiring-builder-blender-modeler-for-sci-fi-facility-tycoon/4969523",
-      "published": "2026-11-01",
-      "excerpt": "[HIRING] Builder / Blender Modeler for Sci-Fi Facility Tycoon Hello DevForum! I am currently developing RFT2 , a sci-fi facility tycoon on Roblox, and Im looking for a second builder / Blender modeler to help with the project. We already have a builder working on the map, but there is still a lot of",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hiring-builder-blender-modeler-for-sci-fi-facility-tycoon/4969523.rss",
-      "id": "3629f5dd98789c965c3758df"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Is it wrong to use ai?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkrbwv/is_it_wrong_to_use_ai/",
-      "published": "2026-11-01",
-      "excerpt": "Hello, ive been working on a game, where im still a beginner coder, I make the code myself, and use ai to fix the holes when it goes wrong, from that I think people are okay with, but while I actually build the structure for my game, is it wrong if I use it for my models for the short term? As in us",
-      "creator": "/u/Double_Neck_7749 https://www.reddit.com/user/Double_Neck_7749",
-      "id": "33e64f45597295a5db03618a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "After 1 month of work, here is my skill based medieval melee fighter inspired by For Honor, Chivalry & Mordhau. I would love your feedback (KNIGHT FIGHT)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xl6q5d/after_1_month_of_work_here_is_my_skill_based/",
-      "published": "2026-11-01",
-      "excerpt": "Been playing roblox since the builders club times and always wanted to make a roblox game of my own. Knight Fight is my first project. I've been working on it for about a month now. I dont know how to code, so I built it with a lot of help from AI tools. The game is mostly inspired by For Honor, Chi",
-      "creator": "/u/Scoundra https://www.reddit.com/user/Scoundra",
-      "id": "31708674f7b05864c53d13cc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "R15 body bundle upload fails at “Generating bundle ID” with “Unknown error”",
-      "url": "https://devforum.roblox.com/t/r15-body-bundle-upload-fails-at-%E2%80%9Cgenerating-bundle-id%E2%80%9D-with-%E2%80%9Cunknown-error%E2%80%9D/4969941",
-      "published": "2026-11-01",
-      "excerpt": "Uploading an R15 body bundle repeatedly fails at Step 4/4, “Generating bundle ID…”, around 90% progress. After waiting several minutes, Studio displays: “Submission failed — Unknown error. Something went wrong on our end. Please check the Creator Dashboard for your creation before trying again.” No ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/r15-body-bundle-upload-fails-at-%E2%80%9Cgenerating-bundle-id%E2%80%9D-with-%E2%80%9Cunknown-error%E2%80%9D/4969941.rss",
-      "id": "2eee15b7c48e526f94207498"
     }
   ]
 }
