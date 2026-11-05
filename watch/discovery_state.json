@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-11-05T07:26:23Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -114,6 +113,35 @@
         "truncated": false
       },
       "etag": "\"2709c8d397d722a1f5f417ef0a22439f1ebb39a91a518bc95201ef7442806c82\""
+    },
+    "https://api.github.com/repos/TED-H-com/multi-ai-chat/git/trees/2be14196446b65cd6047db44eb3d83c51f881390?recursive=1": {
+      "data": {
+        "manifests": [
+          "package.json",
+          "public/manifest.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "src/background/providerTabOwnership.ts",
+          "src/background/roundtableRecovery.ts",
+          "src/background/service-worker.ts",
+          "src/content/loginStatusStability.ts",
+          "src/shared/conversationContinuity.ts",
+          "src/shared/conversationPersistence.ts"
+        ],
+        "tests": 43,
+        "tests_sample": [
+          "test/autonomousRecovery.test.mts",
+          "test/chatgptDom.test.mts",
+          "test/chatgptStatusReporting.test.mts",
+          "test/contentRequestScope.test.mts",
+          "test/contentStreaming.test.mts"
+        ],
+        "truncated": false
+      },
+      "etag": "\"d078a87556a7adc10087c512b3497f4b54a435a3a70e88c63341dd91d60d7cc7\""
     },
     "https://api.github.com/repos/TED-H-com/multi-ai-chat/git/trees/c93fef795b7209e8a95e7276352149b40417d5de?recursive=1": {
       "data": {
@@ -290,7 +318,35 @@
         "truncated": false
       },
       "etag": "\"2e0ceb97cccdd0983934c22e63f8fcd7e69d384bbd968d98f37d48b81d55448e\""
+    },
+    "https://api.github.com/repos/ollama/ollama/git/trees/f60dd2060f670263a9b0078f0d5108a92cce4807?recursive=1": {
+      "data": {
+        "manifests": [
+          "go.mod"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "integration/max_queue_test.go",
+          "middleware/responses_input_content_test.go",
+          "openai/responses_input_content_test.go",
+          "app/store/database.go",
+          "app/store/database_test.go",
+          "app/tools/browser.go"
+        ],
+        "tests": 22,
+        "tests_sample": [
+          "app/ui/app/src/api.test.ts",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.interaction.test.tsx",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.test.tsx",
+          "app/ui/app/src/components/CodexConnectedIntro.test.tsx",
+          "app/ui/app/src/components/CodexDesktopModelsSettings.test.tsx"
+        ],
+        "truncated": false
+      },
+      "etag": "\"c7c8cb6af8faae8b87ab19a07775ed53b363da1023f58489074061d29c1d315c\""
     }
   },
-  "last_run": "2026-11-05T07:25:23Z"
+  "last_run": "2026-11-05T19:38:58Z"
 }

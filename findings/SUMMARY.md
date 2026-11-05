@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-05T07:25:23Z (schedule, partial)
-- Repos tracked: 472; adopt 0, needs-test 168, reject 304
-- Actionable backlog: 157
-- Feed health: deferred 6, ok 30
+- Last run: 2026-11-05T19:38:58Z (local, partial)
+- Repos tracked: 477; adopt 0, needs-test 170, reject 307
+- Actionable backlog: 159
+- Feed health: error 2, ok 36
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,5 +35,22 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​d7ba2ee, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/8171e73b88ce8cf39594ea95fdbdcd1466535a01)
   - Pin jmagly/aiwg@​8171e73, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+
+## Changes this run
+
+- Issue updated: rojo-rbx/rojo #1357 InstanceHandle attributes support is missing
+- Issue updated: ollama/ollama #19472 macOS app offers "Restart to update" for the installed version \(0.40.13\) and requests admin rights t
+- Issue updated: ollama/ollama #19549 gemma4: a string argument missing its opening ' \|"\| ' is dropped silently \(repair keeps the model's
+- Issue updated: ollama/ollama #19524 \[Bug\] Qwen2.5-Coder and Qwen3 fail native tool calling on Ollama 0.40.13
+- Issue updated: ollama/ollama #4072 Ollama should prevent sleep when working.
+- Issue updated: ollama/ollama #19436 Make Qwen3.5 0.8B Q4\_K\_M quantization available \('qwen3.5:0.8b-q4\_K\_M'\)
+- Issue updated: Lifecycle-Innovations-Limited/claude-ops #1085 Daemon: failing cron jobs report error\_count 0; inbox-digest crashes without WhatsApp bridge; self-u
+- Release: scasella/claude-flightdeck v0.5.1 to v0.6.0
+- Release: sno-ai/sno-station-skills v1.0.27 to v1.0.31
+- New candidate: wshobson/agents (needs-test)
+- New candidate: nick-vels/skills (needs-test)
+- New candidate: AlterLab-IEU/AlterLab\_GameForge (reject)
+- New candidate: madsnorgaard/drupal-agent-resources (reject)
+- New candidate: DeevsDeevs/agent-system (reject)
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).

@@ -2,18 +2,26 @@
   "adopted": [],
   "api": {
     "calls": {
-      "graphql": 0,
-      "rest": 30,
-      "rest_not_modified": 0
+      "graphql": 7,
+      "rest": 44,
+      "rest_not_modified": 10
     },
     "rate": {
       "code_search": {
-        "remaining": 10,
-        "reset_at": "2026-11-05T07:26:23Z"
+        "remaining": 7,
+        "reset_at": "2026-11-05T19:38:43Z"
+      },
+      "core": {
+        "remaining": 4978,
+        "reset_at": "2026-11-05T20:00:42Z"
+      },
+      "graphql": {
+        "remaining": 4979,
+        "reset_at": "2026-11-05T20:06:16Z"
       },
       "search": {
-        "remaining": 2,
-        "reset_at": "2026-11-05T07:26:08Z"
+        "remaining": 1,
+        "reset_at": "2026-11-05T19:38:05Z"
       }
     }
   },
@@ -104,20 +112,20 @@
     }
   ],
   "counts": {
-    "actionable_backlog": 157,
+    "actionable_backlog": 159,
     "adopt": 0,
-    "events_this_run": 0,
-    "needs_test": 168,
-    "new_candidates_this_run": 0,
-    "new_releases_this_run": 0,
-    "records": 591,
-    "reject": 304,
-    "repos_tracked": 472,
-    "updated_issues_this_run": 0
+    "events_this_run": 14,
+    "needs_test": 170,
+    "new_candidates_this_run": 5,
+    "new_releases_this_run": 2,
+    "records": 597,
+    "reject": 307,
+    "repos_tracked": 477,
+    "updated_issues_this_run": 7
   },
   "feed_health": {
-    "deferred": 6,
-    "ok": 30
+    "error": 2,
+    "ok": 36
   },
   "feeds": [
     {
@@ -309,45 +317,61 @@
       "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
       "id": "pack:multi-chatgpt-web-workers:s1:source",
+      "items": 50,
       "kind": "code_search",
-      "status": "deferred"
+      "query": "\"chatgpt.com\" content_scripts sidePanel filename:manifest.json",
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "id": "pack:multi-chatgpt-web-workers:s2:source",
+      "items": 50,
+      "kind": "code_search",
+      "query": "\"chat.openai.com\" tabs scripting filename:manifest.json",
+      "status": "ok"
+    },
+    {
+      "id": "pack:multi-chatgpt-web-workers:s3:source",
+      "items": 50,
+      "kind": "code_search",
+      "query": "\"chatgpt.com\" launchPersistentContext",
+      "status": "ok"
+    },
+    {
+      "detail": "GitHub HTTP 504 for graphql",
       "id": "graphql:batch0",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "status": "error"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch1",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 15,
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "1 repo(s) not found or not visible; 0 deferred after GraphQL field errors (prior record kept)",
       "id": "graphql:batch2",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 14,
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
       "id": "graphql:batch3",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "resolved": 15,
+      "status": "ok"
     },
     {
-      "detail": "GitHub rate limit for /search/code",
+      "detail": "GitHub HTTP 504 for graphql",
       "id": "graphql:batch4",
       "kind": "graphql",
       "repos": 15,
-      "status": "deferred"
+      "status": "error"
     },
     {
       "id": "pack-inspect:multi-chatgpt-web-workers",
@@ -362,11 +386,11 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-11-05T07:25:23Z",
+    "finished_at": "2026-11-05T19:38:58Z",
     "outcome": "partial",
-    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/41987083185",
-    "started_at": "2026-11-05T07:25:07Z",
-    "trigger": "schedule"
+    "run_url": "",
+    "started_at": "2026-11-05T19:37:04Z",
+    "trigger": "local"
   },
   "schema": 1
 }
