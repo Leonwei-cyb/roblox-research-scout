@@ -2719,7 +2719,32 @@
     "e74e6b98d6caa804d6fa83e2",
     "79b970a0fa4ca10c9332101b",
     "b767762d09906bde41d507c4",
-    "7a552fb6658b37afec7c651f"
+    "7a552fb6658b37afec7c651f",
+    "c97d90c4ce809acda18e4413",
+    "dd49091a791014daec7515e1",
+    "924933d1a63b20c0a701de50",
+    "285d0c38d5c8d4eef14e4359",
+    "efc1cbc4e468b2e9eab91e50",
+    "1e229f28386524e97e4587db",
+    "6a2d1a6d2310eae716d2237d",
+    "74118124700d53d6fa02f987",
+    "94c00fb6d5af59b44e1729e4",
+    "8a11988976f53fb52a925835",
+    "82da915b18e388afbb1201a0",
+    "c1e192d2ae900c027e6eece9",
+    "e641a451bb92d8845fd1101f",
+    "c9928c4820e67e6ad5c6b5ff",
+    "b67f77876376d42662562f15",
+    "869648c323de0f67ecf0189e",
+    "a2906c6d148184021b8f7d75",
+    "6a2891ab055a932804c4c31e",
+    "6b5442cef037c9ae3db1a350",
+    "01770b9c0ec31eee3ff68073",
+    "039440cad74eb28eb52231cb",
+    "e8710b605d8425e13cc94636",
+    "82eb8a8648567d3d86833b93",
+    "49083b351e745007b007d81d",
+    "72b45509c2656e2dc0f327e2"
   ],
   "items": [
     {
@@ -2784,6 +2809,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "New Studio Ribbon - The minimize and maximize button has the wrong icon after Roblox Studio started up in maximized mode",
+      "url": "https://devforum.roblox.com/t/new-studio-ribbon-the-minimize-and-maximize-button-has-the-wrong-icon-after-roblox-studio-started-up-in-maximized-mode/4977648",
+      "published": "2026-11-05",
+      "excerpt": "Description It started up Roblox Studio like this Now, if I hover over the square, for some reason the icon changes. See, it changed I wish it wouldn’t change at all actually, the maximized icon looks strange, the single square one is better. Re-production Steps Maximize Roblox Studio Close Roblox S",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-studio-ribbon-the-minimize-and-maximize-button-has-the-wrong-icon-after-roblox-studio-started-up-in-maximized-mode/4977648.rss",
+      "id": "efc1cbc4e468b2e9eab91e50"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Getting access to Journey option for my experience",
       "url": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460",
       "published": "2026-11-05",
@@ -2791,6 +2828,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460.rss",
       "id": "ea658e339c047c5b354ffb50"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Can anyone help me with this rig bug?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0dx/can_anyone_help_me_with_this_rig_bug/",
+      "published": "2026-11-05",
+      "excerpt": "Ive made one of the player models for my game in blender. Ive also attached an armature to it so i can animate it, however when i import in into roblox most parts from the model were scattered (first image). It looked way worse and this was the best fix i could do. From my findings, it only happens ",
+      "creator": "/u/ZiNoN_141 https://www.reddit.com/user/ZiNoN_141",
+      "id": "e8710b605d8425e13cc94636"
     },
     {
       "source": "reddit-robloxdev",
@@ -2813,6 +2861,18 @@
       "excerpt": "104594670550269,98749853057928,132709321469575,97840360574277,107352741734572,122889428277400,75578939407445,83233621575602,121342715787952,91028768014738,122262343435757,92543654494186,137603844619379,82405600695700,129004688102284,116389995855557,130079342003560,82908641062424,98256819690331,12269",
       "creator": "/u/Miserable_Acadia_171 https://www.reddit.com/user/Miserable_Acadia_171",
       "id": "e65a87320a02e88d20602f75"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Increasing the Minimum Draw Distance to 500 Studs and Other Auto-Quality Level Improvements",
+      "url": "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292",
+      "published": "2026-11-05",
+      "excerpt": "Key Takeaways On all platforms, the draw distance at the lowest quality level is automatically moving from 200 to 500 studs and will also ramp up much faster for initial quality levels. This shows more of your world on lower-end devices and makes water and beams scale better. Test it in Studio throu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292.rss",
+      "id": "e641a451bb92d8845fd1101f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2848,6 +2908,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421.rss",
       "id": "dd59947a54d737136f790706"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)",
+      "url": "https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673",
+      "published": "2026-11-05",
+      "excerpt": "Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report) Roblox has, for reasons that remain insufficiently justified from a developer’s perspective, replaced a substantial portion of Studio’s existing Qt-based UI with React-Lua. As a developer, this change has",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673.rss",
+      "id": "dd49091a791014daec7515e1"
     },
     {
       "source": "brock-ig-reels",
@@ -2932,6 +3004,29 @@
       "id": "c9c610e903fddb6ed00ab416"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Home Recommendations",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0da/home_recommendations/",
+      "published": "2026-11-05",
+      "excerpt": "November 3rd was 5 home recommendations and November 4th was 6 home recommendations is this the start of something good or bad? lol submitted by /u/ChocolateSoju [link] [comments]",
+      "creator": "/u/ChocolateSoju https://www.reddit.com/user/ChocolateSoju",
+      "id": "c9928c4820e67e6ad5c6b5ff"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback on my 8 Ball Pool / Billiards Game",
+      "url": "https://devforum.roblox.com/t/feedback-on-my-8-ball-pool-billiards-game/4977677",
+      "published": "2026-11-05",
+      "excerpt": "Hey guys, I’m currently working on an 8 Ball Pool / “Billiards” / Snooker game on Roblox. (I took this screenshot 1 second ago, turn your graphics up to 10 if you can handle it) Play Test it here: (Only for 16+ users, or otherwise if you’re interested I can maybe transfer the game and pay the fee so",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-my-8-ball-pool-billiards-game/4977677.rss",
+      "id": "c97d90c4ce809acda18e4413"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2966,6 +3061,18 @@
       "id": "c460188a04a86c08327e42ba"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Moving mouse causes insane frame drops",
+      "url": "https://devforum.roblox.com/t/moving-mouse-causes-insane-frame-drops/4977627",
+      "published": "2026-11-05",
+      "excerpt": "The issue I am having is that when I move the mouse in studio the frames drop to about 10% of what they should be, there is freezing as well. When I do not move my mouse I get the frame rate that I would expect. System Info: CPU 12th Gen Intel(R) Core™ i7-12700K Memory 32.0 GB DDR4 GPU NVIDIA GeForc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/moving-mouse-causes-insane-frame-drops/4977627.rss",
+      "id": "c1e192d2ae900c027e6eece9"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -2998,6 +3105,17 @@
       "excerpt": "Basically the title comment any game idea and ill select any idea and will try my best to create a game based on that idea submitted by /u/Brief-Version-5216 [link] [comments]",
       "creator": "/u/Brief-Version-5216 https://www.reddit.com/user/Brief-Version-5216",
       "id": "b9624b4654d865b8d342fbfa"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Wllz's Studio Announcing the arrival of Loot Raiders: The Heists",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosthi/wllzs_studio_announcing_the_arrival_of_loot/",
+      "published": "2026-11-05",
+      "excerpt": "Hey guys! Here's a quick look at gameplay from my latest solo project, which I've been working on for a few months. I've been a dev for 5 years and took heavy inspiration from a 2018 game I absolutely loved, trying to bring its vibe back. Launch is set for the 13th of this month, and I'm looking for",
+      "creator": "/u/WllzFc https://www.reddit.com/user/WllzFc",
+      "id": "b67f77876376d42662562f15"
     },
     {
       "source": "reddit-robloxdev",
@@ -3095,6 +3213,17 @@
       "id": "a36c57f6d0a3996b725500f6"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Battle tops type game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoul2z/battle_tops_type_game/",
+      "published": "2026-11-05",
+      "excerpt": "I made a beyblade type game with multiple pieces you can buy with credits earned from battles. Its simple, not too hard or flashy and easy enough for anyone to play. Tons of customization options Its called BladeBrawl submitted by /u/Alexguitar11 [link] [comments]",
+      "creator": "/u/Alexguitar11 https://www.reddit.com/user/Alexguitar11",
+      "id": "a2906c6d148184021b8f7d75"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3105,6 +3234,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sound-timeposition-preview/4976788.rss",
       "id": "99588e06d874f42adfe24ada"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "New Roblox Studio Ribbon - An empty window will appear while hovering over all buttons along with lag spikes?",
+      "url": "https://devforum.roblox.com/t/new-roblox-studio-ribbon-an-empty-window-will-appear-while-hovering-over-all-buttons-along-with-lag-spikes/4977635",
+      "published": "2026-11-05",
+      "excerpt": "Description If you hover over “File” then start hovering over the next buttons a strange window will appear in the center. I think that’s the Context Menu maybe before it gets mounted. Not sure. Re-production Steps Click on “File” Then hover over whatever is on the right very slowly or something Exp",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-roblox-studio-ribbon-an-empty-window-will-appear-while-hovering-over-all-buttons-along-with-lag-spikes/4977635.rss",
+      "id": "94c00fb6d5af59b44e1729e4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I need your advice on this fishing tycoon game",
+      "url": "https://devforum.roblox.com/t/i-need-your-advice-on-this-fishing-tycoon-game/4977664",
+      "published": "2026-11-05",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-need-your-advice-on-this-fishing-tycoon-game/4977664.rss",
+      "id": "924933d1a63b20c0a701de50"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3134,6 +3287,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Allow games to detect if music (media) is playing on a Playstation Console",
+      "url": "https://devforum.roblox.com/t/allow-games-to-detect-if-music-media-is-playing-on-a-playstation-console/4977631",
+      "published": "2026-11-05",
+      "excerpt": "As a Roblox developer, it is currently too hard to detect whether the user is listening to music/media on their Playstation Console, and subsquently disable the game’s music. I have noticed that other Playstation games i’ve played outside of Roblox are able to detect whether the user is listening to",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/allow-games-to-detect-if-music-media-is-playing-on-a-playstation-console/4977631.rss",
+      "id": "8a11988976f53fb52a925835"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
       "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
       "published": "2026-11-05",
@@ -3141,6 +3306,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979.rss",
       "id": "874faa6b445fe7fd870631da"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Game Exposure - What works, and what is just parroted nonsense?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xov3n3/game_exposure_what_works_and_what_is_just/",
+      "published": "2026-11-05",
+      "excerpt": "This is going to be a long post, and I'm naturally long winded. If you don't like to read, you should probably hit the back button. 😂..... or at least scroll down real fast until you start seeing pictures? Maybe that'll put you in the right spot. Just a tiny bit about me, and how I ended up here - j",
+      "creator": "/u/mHatfield5 https://www.reddit.com/user/mHatfield5",
+      "id": "869648c323de0f67ecf0189e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Connex - Event Connection Manager with Priorities",
+      "url": "https://devforum.roblox.com/t/connex-event-connection-manager-with-priorities/4977629",
+      "published": "2026-11-05",
+      "excerpt": "Hello everyone! I’m Teequis , and I’d like to introduce Connex , open-source event connection manager written in Luau. Connex extends Roblox’s native RBXScriptSignal connections with priorities, named listeners, asynchronous callbacks, automatic cleanup, and shared or independent wrappers , while ke",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/connex-event-connection-manager-with-priorities/4977629.rss",
+      "id": "82da915b18e388afbb1201a0"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3199,6 +3387,18 @@
       "id": "75a1de1ed62f477590452530"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Test Teleports in Studio",
+      "url": "https://devforum.roblox.com/t/test-teleports-in-studio/4977640",
+      "published": "2026-11-05",
+      "excerpt": "Key Takeaways You can now test TeleportAsync in Studio’s “Test” and “Team Test” modes, with no publishing needed. Your Studio tools, like server inspection, the device simulator, and the debugger, carry over to the destination place. Assistant and agents over the Studio MCP server can also playtest ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/test-teleports-in-studio/4977640.rss",
+      "id": "74118124700d53d6fa02f987"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3211,6 +3411,17 @@
       "id": "73e98c874fe94cb946da4c07"
     },
     {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "Terminal fans know the feeling",
+      "url": "https://www.youtube.com/shorts/AthjgJel5aE",
+      "published": "2026-11-05",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "72b45509c2656e2dc0f327e2"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3221,6 +3432,40 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-mcp-executeluau-now-runs-without-the-network-capability-cant-parent-scripts-or-require-modules/4976763.rss",
       "id": "6c77a94b90a01a4363c33da8"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for people to roast my tutorial",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xou06v/looking_for_people_to_roast_my_tutorial/",
+      "published": "2026-11-05",
+      "excerpt": "https://www.roblox.com/share?code=6c83e422bbafe54fb198ffeb42605563&type=ExperienceDetails&stamp=1793912053703 Hey, I’m looking for people to test and give suggestions about my tutorial. I’m struggling with people getting into the game people who get past the tutorial typically end up accumulating ho",
+      "creator": "/u/Commercial_Bet8331 https://www.reddit.com/user/Commercial_Bet8331",
+      "id": "6b5442cef037c9ae3db1a350"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Copying and pasting is not used or sinked by properties",
+      "url": "https://devforum.roblox.com/t/copying-and-pasting-is-not-used-or-sinked-by-properties/4977642",
+      "published": "2026-11-05",
+      "excerpt": "In this video, I select the SpawnLocation, then the text input for its Size property, and press Cmd + C and Cmd + V multiple times. I keep getting switched between channels for whatever reason and this doesn’t appear to happen, as far as I believe, on the production channel. System Version 0.746.0.7",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/copying-and-pasting-is-not-used-or-sinked-by-properties/4977642.rss",
+      "id": "6a2d1a6d2310eae716d2237d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Sudden seemingly permanent drop in CCU",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xouhi9/sudden_seemingly_permanent_drop_in_ccu/",
+      "published": "2026-11-05",
+      "excerpt": "Was averaging about 13 ccu after 4 days of advertising. But today i’ve dropped to about 3. Not sure why, can anyone help? submitted by /u/Zestyclose_Ad5827 [link] [comments]",
+      "creator": "/u/Zestyclose_Ad5827 https://www.reddit.com/user/Zestyclose_Ad5827",
+      "id": "6a2891ab055a932804c4c31e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3494,6 +3739,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "New Studio Ribbon - Context menu appears over all your screen, even though Roblox Studio is not in the main focus anymore",
+      "url": "https://devforum.roblox.com/t/new-studio-ribbon-context-menu-appears-over-all-your-screen-even-though-roblox-studio-is-not-in-the-main-focus-anymore/4977663",
+      "published": "2026-11-05",
+      "excerpt": "Description Alright, this is going to be a bit tricky for re-production although it’s simple. To explain you the issue, here is a screenshot: As you can see, the Roblox Studio Context Menu is in front of Google Chrome now… Re-production Steps Open all context menus maybe and then close them Click on",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-studio-ribbon-context-menu-appears-over-all-your-screen-even-though-roblox-studio-is-not-in-the-main-focus-anymore/4977663.rss",
+      "id": "285d0c38d5c8d4eef14e4359"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[HIRING] Experienced Builder / 3D Environment Artist Realistic Recreation of Downtown Guelph, Ontario",
       "url": "https://devforum.roblox.com/t/hiring-experienced-builder-3d-environment-artist-realistic-recreation-of-downtown-guelph-ontario/4976307",
       "published": "2026-11-05",
@@ -3512,6 +3769,18 @@
       "excerpt": "Bubble Animator v1.0 — Viewport Animation Suite for Roblox Studio Higlhy customizable Bubble Animator is a new keyframe animation plugin for Roblox Studio. It provides a complete workspace inside the viewport for posing, editing, and exporting animations with a focus on speed and customization. The ",
       "creator": "/u/SomeDig6265 https://www.reddit.com/user/SomeDig6265",
       "id": "20b4621096bdb82e43be00df"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Open Source] OmniStore - Roblox Data Persistence with Session Locking, Migrations & Replication",
+      "url": "https://devforum.roblox.com/t/open-source-omnistore-roblox-data-persistence-with-session-locking-migrations-replication/4977645",
+      "published": "2026-11-05",
+      "excerpt": "What is OmniStore? OmniStore is an open-source Roblox persistence library for loading, updating, validating, and saving data. It follows a simple structure: OmniStore → Store → Record → Data A record can represent a player profile, guild, plot, world, or another persistent entity. Different systems ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-source-omnistore-roblox-data-persistence-with-session-locking-migrations-replication/4977645.rss",
+      "id": "1e229f28386524e97e4587db"
     },
     {
       "source": "reddit-robloxdev",
@@ -3593,6 +3862,28 @@
       "excerpt": "Will I be in trouble if I use real references to an anime map? Real names for the areas, real places and etc. But, the characters I changed the names submitted by /u/MeaningPutrid765 [link] [comments]",
       "creator": "/u/MeaningPutrid765 https://www.reddit.com/user/MeaningPutrid765",
       "id": "091a96be1d90207b1e1b180e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% lifetime revenue share",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosssd/investor_entity_original_asym_horror_game_seeking/",
+      "published": "2026-11-05",
+      "excerpt": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory, so the world builds o",
+      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
+      "id": "039440cad74eb28eb52231cb"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Need feedback on my new game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoteio/need_feedback_on_my_new_game/",
+      "published": "2026-11-05",
+      "excerpt": "This is my new roblox game made as a solo dev, i have been scripting for about 2 years now. This game took me about 2 weeks, need feedback as a whole, im still polishing it. The mobile ui needs rework thats imma do first Planning to put around 200 usd on adv + im talking w investors any type of feed",
+      "creator": "/u/Selfy_Senpai https://www.reddit.com/user/Selfy_Senpai",
+      "id": "01770b9c0ec31eee3ff68073"
     },
     {
       "source": "reddit-robloxdev",
@@ -4467,7 +4758,7 @@
       "title": "Upcoming Changes to Asset Properties: Content Property Serialization Switch",
       "url": "https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546",
       "published": "2026-11-04",
-      "excerpt": "Key Takeaways Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. Your existing places and Luau scripts keep working, and Rojo users need to update to v7.7.1 or higher. In the Properties widget, the old __Id property will no longer appear, l",
+      "excerpt": "Key Takeaways Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. The new *Content properties (like .TextureContent ) fully support everything the legacy properties (like .Texture ) did. Your existing places and Luau scripts keep working, an",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546.rss",
       "id": "627deb93d424fb3ef04e5a4d"
@@ -9245,6 +9536,18 @@
       "id": "4be2d761b6f5bb4288d4df9e"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How I Make $10,000/mo With AI Roblox Shorts (Using Claude Opus 5.5) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5T1B4YUNCTmh5SXAwLUxUTVgtc0hESVRyUjVKQll0a3BFNE91enpzV2VEQUhDMUJKem83MjFSUS1BOFZqZmdEbEM1U2Zsa3JyMi1KOEVB?oc=5",
+      "published": "2026-11-01",
+      "excerpt": "How I Make $10,000/mo With AI Roblox Shorts (Using Claude Opus 5.5) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "49083b351e745007b007d81d"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -9346,278 +9649,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/r15-body-bundle-upload-fails-at-%E2%80%9Cgenerating-bundle-id%E2%80%9D-with-%E2%80%9Cunknown-error%E2%80%9D/4969941.rss",
       "id": "2eee15b7c48e526f94207498"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I've been developing a pixel art roguelite RPG on Roblox called AFTEREVER. Here's some of my progress!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl7y17/ive_been_developing_a_pixel_art_roguelite_rpg_on/",
-      "published": "2026-11-01",
-      "excerpt": "Hey everyone! I've been working on a Roblox game called AFTEREVER for quite a while now, mostly on my own. It's a top-down pixel art action roguelite RPG with a pretty big focus on worldbuilding, exploration, and character progression. The game takes place in a world affected by something called the",
-      "creator": "/u/Negan_lucile123 https://www.reddit.com/user/Negan_lucile123",
-      "id": "2818ea70b56ba38fa032cf65"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Animation Limbs Stuttering Between Frames",
-      "url": "https://devforum.roblox.com/t/animation-limbs-stuttering-between-frames/4970418",
-      "published": "2026-11-01",
-      "excerpt": "I am currently trying to create an animation with jumps between constant frames. However, I have been having an issue with an animation where there has been stuttering between limbs as if it was carrying parts of the previous frame. This is not intentional, and I have tried setting the action priori",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/animation-limbs-stuttering-between-frames/4970418.rss",
-      "id": "2505c5c0cc626ec75e0cacb9"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Thank you guys for the tips!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl16or/thank_you_guys_for_the_tips/",
-      "published": "2026-11-01",
-      "excerpt": "So a couple days ago I showed some images of my game on here trying to get some advice about it and I got a lot of people saying to have a UI update, so here it is! I’d love to hear some more feedback, it’s always very appreciated and often implemented. This was quickly recorded and thrown together ",
-      "creator": "/u/Low-Dimension5920 https://www.reddit.com/user/Low-Dimension5920",
-      "id": "23c65ecfae491c3626e90f98"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Need help beating the 250 requirement for my game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkylpx/need_help_beating_the_250_requirement_for_my_game/",
-      "published": "2026-11-01",
-      "excerpt": "My Roblox game is locked to 16+ players because of this 250 player requirement I am tryna beat it right now it’s very annoying any feedback would be appreciated or to help my game beat it https://www.roblox.com/share?code=52c6adc952a9be42ad849b19537ad2a0&type=ExperienceDetails&stamp=1793524383316 su",
-      "creator": "/u/The_bird_trio https://www.reddit.com/user/The_bird_trio",
-      "id": "1f7912b3a1e810baaec3857f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for a few playtesters for my Roblox physics game! 🚚",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xle84u/looking_for_a_few_playtesters_for_my_roblox/",
-      "published": "2026-11-01",
-      "excerpt": "I'm working on a Roblox game called PACK THE VAN! You load furniture onto a moving truck, then try to deliver everything without it falling off. The game has physics-based cargo, driving, upgrades, and different delivery challenges. I'm looking for a few people willing to try it and give honest feed",
-      "creator": "/u/Temporary-Song-9964 https://www.reddit.com/user/Temporary-Song-9964",
-      "id": "1e94220905094efcfc1c8f86"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Has officially released my game on roblox",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl0dlx/has_officially_released_my_game_on_roblox/",
-      "published": "2026-11-01",
-      "excerpt": "Name fishing legends it took 2 months hope it's worth it submitted by /u/Prudent_Win2490 [link] [comments]",
-      "creator": "/u/Prudent_Win2490 https://www.reddit.com/user/Prudent_Win2490",
-      "id": "1dc8cda3dfddb6cb344c633b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Avatar is Broken",
-      "url": "https://devforum.roblox.com/t/roblox-avatar-is-broken/4969402",
-      "published": "2026-11-01",
-      "excerpt": "The avatar in the picture shown is bent on an angle, the right arm is crooked, the legs / feet are crooked, and so is the left arm. This issue happens everywhere, games, studio, and in the avatar screen as shown. I discovered this issue on August 31st, didn’t anything prior to this issue occuring, I",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-avatar-is-broken/4969402.rss",
-      "id": "1b2a572434ae5e38068aea70"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for feedback on my new 2-player co-op game. Grab a friend and try to Steal a Something with friend",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl0gt0/looking_for_feedback_on_my_new_2player_coop_game/",
-      "published": "2026-11-01",
-      "excerpt": "Hey everyone! 👋 I’ve been working on a 2-player cooperative game called Steal a Digger and I just published it. It’s a game where you and a friend have to work together to complete the objective. Since it strictly requires 2 players, it's been a fun challenge to balance the co-op mechanics. I would ",
-      "creator": "/u/Crosss74 https://www.reddit.com/user/Crosss74",
-      "id": "1932360228009bd9cfaba5b6"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "After 1 month of work, here is my skill based medieval melee fighter inspired by For Honor, Chivalry & Mordhau. I would love your feedback (KNIGHT FIGHT)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl6d73/after_1_month_of_work_here_is_my_skill_based/",
-      "published": "2026-11-01",
-      "excerpt": "Been playing roblox since the builders club times and always wanted to make a roblox game of my own. Knight Fight is my first project. I've been working on it for about a month now. I dont know how to code, so I built it with a lot of help from AI tools. The game is mostly inspired by For Honor, Chi",
-      "creator": "/u/Scoundra https://www.reddit.com/user/Scoundra",
-      "id": "18129148c8d8cfbc16e17701"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Tutorial] How to make inward pulling/sucking particles",
-      "url": "https://devforum.roblox.com/t/tutorial-how-to-make-inward-pullingsucking-particles/4970318",
-      "published": "2026-11-01",
-      "excerpt": "Here is a demonstration of how I did it: Steps: Make a Sphere object Put the ParticleEmitter you want inside it Follow these properties of the ParticleEmitter to make it suck in: You can change anything else about the particles properties as usual to get your desired inward pull VFX. Hope this helps",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/tutorial-how-to-make-inward-pullingsucking-particles/4970318.rss",
-      "id": "180ca8c7387dbc96b687509e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How to use stud texture accurately?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl4r82/how_to_use_stud_texture_accurately/",
-      "published": "2026-11-01",
-      "excerpt": "A guy asked me to make \"retro\" maps for him. Hes making just another asymm slop game, but I wanna help him and I don't know where studs are suposed to appear because I didn't play roblox until 2O16. And I'm not familiar with the \"retro style\". I dont want the maps to turn out looking like grow a gar",
-      "creator": "/u/Consistent-Tip1316 https://www.reddit.com/user/Consistent-Tip1316",
-      "id": "17766590863d7e2d328cb028"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "New to Game Dev",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl32dq/new_to_game_dev/",
-      "published": "2026-11-01",
-      "excerpt": "Has anyone cracked the code for building their community 😭🥲I’m just getting started submitted by /u/SafiyaStreams [link] [comments]",
-      "creator": "/u/SafiyaStreams https://www.reddit.com/user/SafiyaStreams",
-      "id": "171d76c17884e5ed289553ca"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "is my CTR terrible?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzaxr/is_my_ctr_terrible/",
-      "published": "2026-11-01",
-      "excerpt": "I've been running ads for like 3 days so far, 57 ad credits in and I don't see any crazy results. The CTR started around 4% something, but went down to 3.3%, while it is better than the smaller past ad campaigns I ran with only 2.6 and 1.6 %, this still seems low. Should I stop this ad campaign and ",
-      "creator": "/u/Longjumping-Ad-5460 https://www.reddit.com/user/Longjumping-Ad-5460",
-      "id": "1623d79330b2bd0ed0309840"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to install the Roblox Developer Forum app on mobile",
-      "url": "https://devforum.roblox.com/t/how-to-install-the-roblox-developer-forum-app-on-mobile/4968951",
-      "published": "2026-11-01",
-      "excerpt": "When you use the Roblox Developer Forum on mobile, you can use the Roblox Developer Forum app for all iOS, Android, and all mobile OS devices. However, Roblox Developer Forum may not be available on Safari, Google Chrome, and other websites. You can install Roblox Developer Forum app on mobile and y",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-install-the-roblox-developer-forum-app-on-mobile/4968951.rss",
-      "id": "15a97bf5e9db728253a860be"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio MCP Glitching",
-      "url": "https://devforum.roblox.com/t/studio-mcp-glitching/4970750",
-      "published": "2026-11-01",
-      "excerpt": "I was coding with the MCP then the Studio MCP connection dropped randomly. My connection is fine (I have Ethernet). I’m pretty sure this is the server. This has happened 10 times. The most recent case happened when I was playtesting with Claude, where Studio MCP randomly crashed. I’m not sure what t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-mcp-glitching/4970750.rss",
-      "id": "156bf90ea787dad424487f85"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Hiring Community Management Scouts | Payment USD & Robux",
-      "url": "https://devforum.roblox.com/t/hiring-community-management-scouts-payment-usd-robux/4970709",
-      "published": "2026-11-01",
-      "excerpt": "Toybox Entertainment — Community Management Scouts Wanted! We’re looking for scouts to help Toybox Entertainment find Roblox studios, game developers, and development teams that are currently looking for Community Managers. Responsibilities As a Community Management Scout, your primary responsibilit",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hiring-community-management-scouts-payment-usd-robux/4970709.rss",
-      "id": "148251d3dfd8b4727bfbf4e2"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "PvP in my Roman combat game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xktqol/pvp_in_my_roman_combat_game/",
-      "published": "2026-11-01",
-      "excerpt": "Having some trouble thinking of cool new things to add as items/weapons which would fit the genre. I plan on adding stuff like greek fire or pilum throwing spears but I'm a little restricted because of the era. Any ideas? submitted by /u/RomaInvictaDev [link] [comments]",
-      "creator": "/u/RomaInvictaDev https://www.reddit.com/user/RomaInvictaDev",
-      "id": "1466c43b1fe86852112092a1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for Devs — I need honest feedback on my new Roblox game!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl0mm2/looking_for_devs_i_need_honest_feedback_on_my_new/",
-      "published": "2026-11-01",
-      "excerpt": "👾 Hey everyone! I'm a Roblox developer working on a game called Steal a Monster , and I'm looking for people willing to test it and share their honest opinions! I've put a lot of effort into this project, and I'd really appreciate some feedback from other developers and players. What I'd love feedba",
-      "creator": "/u/Independent_Row2881 https://www.reddit.com/user/Independent_Row2881",
-      "id": "133d2f24e05303d18dcb7a72"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Age of Sails - Isle of Rogues",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkspa1/age_of_sails_isle_of_rogues/",
-      "published": "2026-11-01",
-      "excerpt": "Been adding physics and game mechanics everyday, trying to add as much useful and immersive content as possible, without making the game complex. Recent additions include : ship signals/emblems for non-verbal communication visuals for underwater exploration carts to load and pull up to 7 cargo items",
-      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
-      "id": "131f6a9310c93115494dcafe"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Removing several places from \"Recents\" suddenly shows \"No experiences to display\"",
-      "url": "https://devforum.roblox.com/t/removing-several-places-from-recents-suddenly-shows-no-experiences-to-display/4969058",
-      "published": "2026-11-01",
-      "excerpt": "If you have several places you want to get rid of, the first few will remove fine. After about the 5th removal, the recents list suddenly changes to “No experiences to display”. After clicking “Home” and then “Recents”, the remaining Recent places is displayed again. Here is a video of the issue: ht",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/removing-several-places-from-recents-suddenly-shows-no-experiences-to-display/4969058.rss",
-      "id": "126332a2a8ed910b2bb7c20e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Heres a window design i made for my game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlh6cm/heres_a_window_design_i_made_for_my_game/",
-      "published": "2026-11-01",
-      "excerpt": "submitted by /u/ErebusPr [link] [comments]",
-      "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
-      "id": "125c75aa955d050d3a26d1dc"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox campaigns instantly rejected",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl1poi/roblox_campaigns_instantly_rejected/",
-      "published": "2026-11-01",
-      "excerpt": "I'm developing a Roblox game and I'm trying to launch my first sponsored ad campaign, but every single thumbnail I upload gets rejected almost instantly https://preview.redd.it/shk8brdmtzyh1.png?width=715&format=png&auto=webp&s=24807c144bc50a9c08e310562ffbef682a1dca0f I've tried multiple completely ",
-      "creator": "/u/XausMaster https://www.reddit.com/user/XausMaster",
-      "id": "115aad9e515f08c929d0998b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "MEGA RAMP: Feedback Wanted",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzhpn/mega_ramp_feedback_wanted/",
-      "published": "2026-11-01",
-      "excerpt": "My first time trying to launch a game, been away from Roblox a little while but recently came back. Inspiration from mega ramp on Fortnite. Straightforward gameplay, run up the ramp and dodge the hazards rolling down at you. Love to hear any thoughts anyone has. https://www.roblox.com/share?code=891",
-      "creator": "/u/Pretty-Light5769 https://www.reddit.com/user/Pretty-Light5769",
-      "id": "10f860c58db8e89a5913b04b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My self-recommendation [OPEN]",
-      "url": "https://devforum.roblox.com/t/my-self-recommendation-open/4969790",
-      "published": "2026-11-01",
-      "excerpt": "Hello everyone, this is the second time I’ve ever post on this forum. And I want to do a quick introduce of myself. My basic information GMT +8, He / Him, 4 to 6 years of scripting experience. Since last time I post, I’ve been consistently improving my scripting skills till nowadays. And the reason ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-self-recommendation-open/4969790.rss",
-      "id": "0e8f611d4f42a3f10dfbb799"
     }
   ]
 }

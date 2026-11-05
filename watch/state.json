@@ -41,8 +41,8 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "50ef8daad41a7efb0a2d74b2ce3ada443f4538e8",
-      "head_subject": "Fix grammar and clarity in experiences.md landing page (#1584)",
+      "head": "393d21c521dae6309cf0cb02bf1f2e87b7936d28",
+      "head_subject": "Fix StyleQuery property names in styling compatibility table (#1581)",
       "name": "Roblox/creator-docs",
       "release_tag": "",
       "release_url": "",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "92e22acb40486754fbfe597940c5f6f9778bb832",
-      "head_subject": "gitignore: local AI configs to avoid credential leaks (#4677)",
+      "head": "cdb6fc6b0d340fd28c003474918385c4b8290be0",
+      "head_subject": "CI - Third-party licence list: regenerate weekly and on release, drift is only a warning on PRs (#4684)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.1",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.1",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "f60dd2060f670263a9b0078f0d5108a92cce4807",
-      "head_subject": "cmd: restore the no-argument launcher (#19478)",
+      "head": "8e264f8989b524c3534678cebbb1bb11adf9bde7",
+      "head_subject": "mlxrunner: close generation cache on shutdown (#19550)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",

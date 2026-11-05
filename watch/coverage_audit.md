@@ -5,8 +5,8 @@ Links and metadata collected; original social videos are NOT automatically playe
 | Observation | Count |
 |---|---:|
 | Saved source entries | 600 |
-| Original media URLs | 4 |
-| Indexed redirects, original unknown | 8 |
+| Original media URLs | 5 |
+| Indexed redirects, original unknown | 9 |
 | Failed feeds | 2 |
 
 ## Failures to resolve

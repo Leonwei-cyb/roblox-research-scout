@@ -7,7 +7,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[Grand Strategy WW1 Game stats](https://www.reddit.com/r/robloxgamedev/comments/1xogqkh/grand_strategy_ww1_game_stats/)** — Public text/page, video not confirmed
-- **[(Game idea feedback) Would a single-player/co-op hospital simulator work on Roblox?](https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515)** — Public text/page, video not confirmed
+- **[I need your advice on this fishing tycoon game](https://devforum.roblox.com/t/i-need-your-advice-on-this-fishing-tycoon-game/4977664)** — Public text/page, video not confirmed
 - **[\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
