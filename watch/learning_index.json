@@ -1219,19 +1219,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4966975:1",
-      "url": "https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975",
-      "title": "Need help and feedback! Why are my game's stats that bad?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-31",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4966984:1",
       "url": "https://devforum.roblox.com/t/playrobloxcom-dynamic-shadows-cant-be-casted-on-terrain-and-grass-is-broken/4966984",
       "title": "(play.roblox.com) dynamic shadows can't be casted on terrain AND grass is broken",
@@ -4448,6 +4435,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4976586:1",
+      "url": "https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586",
+      "title": "The hollow item not granted",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-05",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xk3eyw",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk3eyw/what_wrong_with_my_code/",
       "title": "what wrong with my code",
@@ -6314,6 +6314,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4976579:1",
+      "url": "https://devforum.roblox.com/t/oauth-authorization-you-have-exceeded-the-rate-limit-after-confirming-permissions/4976579",
+      "title": "OAuth Authorization, \"You have exceeded the rate limit\" After Confirming Permissions",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-05",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xjw6ip",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjw6ip/early_access/",
       "title": "Early access",
@@ -7436,19 +7447,6 @@
       "published": "2026-11-05",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBxTE4zLXN5V2VISWw3M0xVa0hycV94RjNvUmx3Q05mcWpLRnBBOFY5MmFqUG5qR21ZY2ZJMWptRWVEWnlhb0liLUhHYWtnYS15c0c4R1pB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTE4zLXN5V2VISWw3M0xVa0hycV94RjNvUmx3Q05mcWpLRnBBOFY5MmFqUG5qR21ZY2ZJMWptRWVEWnlhb0liLUhHYWtnYS15c0c4R1pB?oc=5",
-      "title": "How to Connect Claude AI to Roblox Studio (INSTANT) - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-10-31",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

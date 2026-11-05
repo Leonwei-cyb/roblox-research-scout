@@ -2667,7 +2667,9 @@
     "b292f87218f76890be9bcf65",
     "ea658e339c047c5b354ffb50",
     "c9630a36cfbdd3fb3716e06e",
-    "d9a58dec3f8455523e6f78db"
+    "d9a58dec3f8455523e6f78db",
+    "904607cbf892bf8d39e66f63",
+    "7b475f67e4bc0d1f195e95ec"
   ],
   "items": [
     {
@@ -2841,6 +2843,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "The hollow item not granted",
+      "url": "https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586",
+      "published": "2026-11-05",
+      "excerpt": "i was playing the hollow event and completed the banana eats badge ( Banana's Basement of SECRETS - Roblox ) when trying to claim the prize ( LOLWEN - Roblox ) it gave me an error saying something simmilar to “you already own this item” so i figured that the item has been added to my inventory and f",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586.rss",
+      "id": "904607cbf892bf8d39e66f63"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
       "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
       "published": "2026-11-05",
@@ -2859,6 +2873,18 @@
       "excerpt": "Basically, I'm a solo dev, I've been working on a passion project for about 11 months now (in development/unreleased). Recently, I showed my friend (trusted IRL friend, close highschool friends) the project I'm working on for fun. Now he looked at it, and basically in a nutshell wanted to invest in ",
       "creator": "/u/TheRealBeefMeat https://www.reddit.com/user/TheRealBeefMeat",
       "id": "7c11a86cc6ada5e25fd507c8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "OAuth Authorization, \"You have exceeded the rate limit\" After Confirming Permissions",
+      "url": "https://devforum.roblox.com/t/oauth-authorization-you-have-exceeded-the-rate-limit-after-confirming-permissions/4976579",
+      "published": "2026-11-05",
+      "excerpt": "Hey, I’m (or a user is) experiencing an issue with Roblox OAuth authorization in a tool of mine that uses OAuth to (in this case) only read the username and id. One of our users encounters the following error: “You have exceeded the rate limit. Please slow down.” The error occurs immediately after c",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/oauth-authorization-you-have-exceeded-the-rate-limit-after-confirming-permissions/4976579.rss",
+      "id": "7b475f67e4bc0d1f195e95ec"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9547,30 +9573,6 @@
       "excerpt": "About a week ago i asked this sub and 2 others where they saw my game going. i released it that same weekend and this is how the game looks. What do you think? its still in early access. any criticism will be taken into consideration!! Thank you submitted by /u/venx_ [link] [comments]",
       "creator": "/u/venx_ https://www.reddit.com/user/venx_",
       "id": "a784e90328782d35b0618648"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How to Connect Claude AI to Roblox Studio (INSTANT) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTE4zLXN5V2VISWw3M0xVa0hycV94RjNvUmx3Q05mcWpLRnBBOFY5MmFqUG5qR21ZY2ZJMWptRWVEWnlhb0liLUhHYWtnYS15c0c4R1pB?oc=5",
-      "published": "2026-10-31",
-      "excerpt": "How to Connect Claude AI to Roblox Studio (INSTANT) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "a5ce986a7fb845327bdc5d63"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Need help and feedback! Why are my game's stats that bad?",
-      "url": "https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975",
-      "published": "2026-10-31",
-      "excerpt": "Hello, I’m looking for developers who might wanna take some time to hint me on why my game’s stats are so bad. This is the first message i post on the devforum. I launched ads, twice, to test and see if it’s worth it to spend much more (over 10k robux) and reach that Highly Engaged Players eligibili",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975.rss",
-      "id": "a54b15d4619b2482b5db410e"
     }
   ]
 }
