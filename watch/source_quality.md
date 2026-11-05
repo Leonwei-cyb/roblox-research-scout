@@ -30,9 +30,8 @@ Google News redirect links are not resolved: the current article format needs Go
 |---|---:|
 | www.instagram.com | 3 |
 | www.tiktok.com | 2 |
-| fr.tradingview.com | 1 |
+| x.com | 2 |
 | www.youtube.com | 1 |
-| x.com | 1 |
 
 ## Actionable interpretation
 

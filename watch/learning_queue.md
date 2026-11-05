@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 286
+- devforum: 285
 - index-only: 8
-- reddit: 298
+- reddit: 299
 - youtube: 4
 
 ## First-Session And Mobile
 
 - [Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [!!MOBILE PLAYERS!! How is this UI setup for you?](https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Scripts says that the animation track's length is 0, while its a ctually not](https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Board Game And Turn Flow
 
@@ -42,8 +42,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Animation And Audio
 
-- [Scripts says that the animation track's length is 0, while its a ctually not](https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [I made a Roblox game where you escape from a giant angry cat 😭 Would love some honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xmmnl4/i_made_a_roblox_game_where_you_escape_from_a/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Looking for feedback for my incremental game!](https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## World And Visual Design
 
@@ -57,19 +57,19 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [Looking for feedback for my incremental game!](https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Player Ping spiking ridiculously high in 'live' server but not in studio? Server Stalling?](https://devforum.roblox.com/t/player-ping-spiking-ridiculously-high-in-live-server-but-not-in-studio-server-stalling/4971164) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [(Game idea feedback) Would a single-player/co-op hospital simulator work on Roblox?](https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
-- [\[Plugin\] UI2Code — Converts Studio UI to Lua/React code](https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [\[ FrameToCanvas \] - A Lean & Lightweight Studio Plugin + Copy/Paste UI Positioning](https://devforum.roblox.com/t/frametocanvas-a-lean-lightweight-studio-plugin-copypaste-ui-positioning/4971281) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [\[Also looking for dev flair\] HELP with porting a mobile game into roblox 1 to 1.](https://www.reddit.com/r/robloxgamedev/comments/1xmkwnm/also_looking_for_dev_flair_help_with_porting_a/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one \[ FrameToCanvas \] - A Lean & Lightweight Studio Plugin + Copy/Paste UI Positioning test with measurable pass/fail.
+3. Explain WHY it matters and propose one \[Also looking for dev flair\] HELP with porting a mobile game into roblox 1 to 1. test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

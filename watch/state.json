@@ -41,8 +41,8 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "b032c6ba6763d57ace62e0a04b3b48650f50fbab",
-      "head_subject": "update Open Source Docs from Roblox internal teams",
+      "head": "50ef8daad41a7efb0a2d74b2ce3ada443f4538e8",
+      "head_subject": "Fix grammar and clarity in experiences.md landing page (#1584)",
       "name": "Roblox/creator-docs",
       "release_tag": "",
       "release_url": "",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "0a66ff7cdce455bc5a2db44264a9299de2325a0d",
-      "head_subject": "Clear history - don't fail when a save renames its .tmp file away mid-clear (#4674)",
+      "head": "92e22acb40486754fbfe597940c5f6f9778bb832",
+      "head_subject": "gitignore: local AI configs to avoid credential leaks (#4677)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.1",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.1",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "a6d33251620eef7629c73b09e672f2df243eb363",
-      "head_subject": "llama.cpp: version bump b12111 (#19530)",
+      "head": "f60dd2060f670263a9b0078f0d5108a92cce4807",
+      "head_subject": "cmd: restore the no-argument launcher (#19478)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",

@@ -2695,7 +2695,31 @@
     "20b4621096bdb82e43be00df",
     "091a96be1d90207b1e1b180e",
     "b9624b4654d865b8d342fbfa",
-    "c460188a04a86c08327e42ba"
+    "c460188a04a86c08327e42ba",
+    "464eb8ed5db9222704450c92",
+    "38da97bab477824ded9b5d05",
+    "cc31dd507a7ef8f5cd678fbf",
+    "a36c57f6d0a3996b725500f6",
+    "5cd90ac8cbea6fa5e89e945f",
+    "ad24ed0c7149a226b6601c8f",
+    "307f09a321203c2cf6c3847f",
+    "36ef4f361b5c2da9cb98ea2f",
+    "b07bdef535e89e378e8d1706",
+    "a7e3af722ccb5d2133f77e3a",
+    "2d0e65d0903e787bc7178bd1",
+    "5e0d7e2d5e6f99bbaa9800a3",
+    "4fb45ea56b3187070b3edc4b",
+    "c91ae4ad09299c53792a359f",
+    "c9c610e903fddb6ed00ab416",
+    "c149307e75d7c3541d0a94ed",
+    "51639d156c701172b55c11bb",
+    "00c792badaafbac15bf19503",
+    "78250566371a5d3702e0bece",
+    "d89d50df4c5d8a0a7efad0e6",
+    "e74e6b98d6caa804d6fa83e2",
+    "79b970a0fa4ca10c9332101b",
+    "b767762d09906bde41d507c4",
+    "7a552fb6658b37afec7c651f"
   ],
   "items": [
     {
@@ -2772,6 +2796,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Roblox football, but you control all 11 players",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xooffh/roblox_football_but_you_control_all_11_players/",
+      "published": "2026-11-05",
+      "excerpt": "I've been making games in Unity for a while, and a few months ago I decided to try Roblox Studio for the first time. Honestly, I was nervous. New engine, new language, a whole new way of thinking about servers and clients. This is the result: an arcade football (soccer) game, and seeing it actually ",
+      "creator": "/u/Indian_Indie_gamedev https://www.reddit.com/user/Indian_Indie_gamedev",
+      "id": "e74e6b98d6caa804d6fa83e2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "i manually uploaded each of these for an animation, so i wanted to share it with other people to maybe use, so here's every Morshu Frame in order each as a Roblox Image ID",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xobt58/i_manually_uploaded_each_of_these_for_an/",
       "published": "2026-11-05",
@@ -2839,6 +2874,17 @@
       "id": "d980cf9f1baa0a74923147b5"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Made a ragdoll throwing system for my first game: grab a player, toss them, and they flop across the map",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoow2o/made_a_ragdoll_throwing_system_for_my_first_game/",
+      "published": "2026-11-05",
+      "excerpt": "Video: https://youtu.be/EteNiwXLK1c This is the throwing system for my first game (video above). You walk up to a player or a dummy, pick them up over your head, and throw them. When they're thrown, their body turns into a ragdoll so they flop and roll when they land. How it works: - When you grab s",
+      "creator": "/u/Expensive_Divide4559 https://www.reddit.com/user/Expensive_Divide4559",
+      "id": "d89d50df4c5d8a0a7efad0e6"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2866,6 +2912,29 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Sweet Dreams Gone Bad! TD [BETA] — Looking for Honest Feedback!",
+      "url": "https://devforum.roblox.com/t/sweet-dreams-gone-bad-td-beta-%E2%80%94-looking-for-honest-feedback/4977226",
+      "published": "2026-11-05",
+      "excerpt": "Sweet Dreams Gone Bad! TD [BETA] — Looking for Honest Feedback! Hi everyone! I’ve been working on my own tower defense game for quite some time now, and I’ve finally reached the stage where I’d love to get some feedback from other Roblox developers and players! The idea is a little different from yo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sweet-dreams-gone-bad-td-beta-%E2%80%94-looking-for-honest-feedback/4977226.rss",
+      "id": "cc31dd507a7ef8f5cd678fbf"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What do you think of this fishing mechanic?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqtyq/what_do_you_think_of_this_fishing_mechanic/",
+      "published": "2026-11-05",
+      "excerpt": "I just made my game but I dont know if the fishing mechanic makes sense? Looking for some feedback submitted by /u/KISS_dev [link] [comments]",
+      "creator": "/u/KISS_dev https://www.reddit.com/user/KISS_dev",
+      "id": "c9c610e903fddb6ed00ab416"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "listAssetVersions example is completely wrong",
       "url": "https://devforum.roblox.com/t/listassetversions-example-is-completely-wrong/4976456",
       "published": "2026-11-05",
@@ -2878,12 +2947,34 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "PLEASE, someone help me",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xol64j/please_someone_help_me/",
+      "published": "2026-11-05",
+      "excerpt": "I was working on some old maps, adding scripts to them, and I asked the AI ​​to generate a script for car traffic. After I hit play, I started getting disconnected due to a false error. At first, I assumed it wasn't malware—just some nonsense caused by the Studio's AI—so I tried removing it and doin",
+      "creator": "/u/Horror_Double1484 https://www.reddit.com/user/Horror_Double1484",
+      "id": "c91ae4ad09299c53792a359f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "[PAID] Looking for Roblox Game Testers",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xohxx2/paid_looking_for_roblox_game_testers/",
       "published": "2026-11-05",
       "excerpt": "I'm currently developing an upcoming Roblox game and looking for a few dedicated playtesters to help identify bugs, evaluate gameplay, and provide honest feedback before release. I'm particularly interested in testers who can identify bugs, evaluate the overall player experience, and suggest meaning",
       "creator": "/u/Pristine-Tour2541 https://www.reddit.com/user/Pristine-Tour2541",
       "id": "c460188a04a86c08327e42ba"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Help CTR and Retention Rate",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqtmz/help_ctr_and_retention_rate/",
+      "published": "2026-11-05",
+      "excerpt": "Can someone tell me why my ctr and retention rate is so bad. Any honest game play reviews would be appreciated. Thank you submitted by /u/Connora888 [link] [comments]",
+      "creator": "/u/Connora888 https://www.reddit.com/user/Connora888",
+      "id": "c149307e75d7c3541d0a94ed"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2935,6 +3026,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "How to disable Lua lsp auto complete",
+      "url": "https://devforum.roblox.com/t/how-to-disable-lua-lsp-auto-complete/4977070",
+      "published": "2026-11-05",
+      "excerpt": "I tried disabling it on both User and Workspace 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-disable-lua-lsp-auto-complete/4977070.rss",
+      "id": "b07bdef535e89e378e8d1706"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "luau-signals - luau port of alien-signals",
       "url": "https://devforum.roblox.com/t/luau-signals-luau-port-of-alien-signals/4976701",
       "published": "2026-11-05",
@@ -2942,6 +3045,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/luau-signals-luau-port-of-alien-signals/4976701.rss",
       "id": "adad317134b90ff0ff4e08f4"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Full Release] Create and Sell Avatar Backgrounds on Marketplace",
+      "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
+      "published": "2026-11-05",
+      "excerpt": "Key Takeaways Starting today, all eligible Marketplace creators can create and sell Avatar Backgrounds. Now you can design the scene behind every avatar, not just the avatar itself. Upload yours in Creator Hub. Uploads are limited to 1 Background/day at launch. Hi Creators! Starting today, all creat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115.rss",
+      "id": "ad24ed0c7149a226b6601c8f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Seeing an increase in Phone and Tablet crashes since Obctober 28th",
+      "url": "https://devforum.roblox.com/t/seeing-an-increase-in-phone-and-tablet-crashes-since-obctober-28th/4977057",
+      "published": "2026-11-05",
+      "excerpt": "Starting about October 28th there has been a noticeable increase in phone and tablet crash rates for our experience FIFA Super Soccer. During the initial period of the increase there were no updates pushed, although a non-impactful config value was switched and a non-impactful experience was started",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/seeing-an-increase-in-phone-and-tablet-crashes-since-obctober-28th/4977057.rss",
+      "id": "a7e3af722ccb5d2133f77e3a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2954,6 +3081,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072.rss",
       "id": "a7497d93356837655fc6fb14"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Security notification blocks access even when i have a email linked",
+      "url": "https://devforum.roblox.com/t/security-notification-blocks-access-even-when-i-have-a-email-linked/4977220",
+      "published": "2026-11-05",
+      "excerpt": "Hello developers, So when i try to log into my account with the correct credentials (username and password) I recieve a security notification. Telling me to use my linked email address to reset the password. However, the code isn’t sending. I tried contacting support several times and they are not h",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/security-notification-blocks-access-even-when-i-have-a-email-linked/4977220.rss",
+      "id": "a36c57f6d0a3996b725500f6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3027,6 +3166,28 @@
       "id": "7b475f67e4bc0d1f195e95ec"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What's a small thing in a Roblox game that made you stay past the first 5 minutes?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoobv6/whats_a_small_thing_in_a_roblox_game_that_made/",
+      "published": "2026-11-05",
+      "excerpt": "Working on retention for my own game and most players leave before minute 4. Curious what hooked you in games you ended up sticking with. Was it a first reward, a friend joining, the tutorial, the vibe? Small details especially. submitted by /u/BearLao12 [link] [comments]",
+      "creator": "/u/BearLao12 https://www.reddit.com/user/BearLao12",
+      "id": "79b970a0fa4ca10c9332101b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "yo guys what should I add. It kinda looks empty. It should be in a \"pinterest poster\" style",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoplzs/yo_guys_what_should_i_add_it_kinda_looks_empty_it/",
+      "published": "2026-11-05",
+      "excerpt": "submitted by /u/CombUnfair4051 [link] [comments]",
+      "creator": "/u/CombUnfair4051 https://www.reddit.com/user/CombUnfair4051",
+      "id": "78250566371a5d3702e0bece"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3085,6 +3246,52 @@
       "id": "5e184bb471a114c2f9486cdf"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My Badges still not Awarding after players with massive Badge Count get's fixed",
+      "url": "https://devforum.roblox.com/t/my-badges-still-not-awarding-after-players-with-massive-badge-count-gets-fixed/4976971",
+      "published": "2026-11-05",
+      "excerpt": "As i am typing this right now, i am starting to feel much tired that the bug has not been away for nearly 7 months. I found out that Blockminer, Xwar1, and Unceading was able to successfully fix the issue while i stayed trapped inside the box. This is my 3rd (and possibly my final) post regarding to",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-badges-still-not-awarding-after-players-with-massive-badge-count-gets-fixed/4976971.rss",
+      "id": "5e0d7e2d5e6f99bbaa9800a3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Holding Period for New Limiteds",
+      "url": "https://devforum.roblox.com/t/holding-period-for-new-limiteds/4977157",
+      "published": "2026-11-05",
+      "excerpt": "During this Halloween event, we finally saw some sales of Limited U items with stock for the first time in over 7 years! We were extremely happy to see this happen, but we also noticed something that seems to be wrong… It appears that when the Limited U system was updated, the same system used for U",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/holding-period-for-new-limiteds/4977157.rss",
+      "id": "5cd90ac8cbea6fa5e89e945f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for writers to help me",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqffi/looking_for_writers_to_help_me/",
+      "published": "2026-11-05",
+      "excerpt": "It's about how roblox myths attacks roblox I need a writer to help me make a game idea what it's about Revenue share but the game is new submitted by /u/Salt_Border_3825 [link] [comments]",
+      "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
+      "id": "51639d156c701172b55c11bb"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Recreated ROLVe's MURDER Game (Arsenal Murder)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xomct8/recreated_rolves_murder_game_arsenal_murder/",
+      "published": "2026-11-05",
+      "excerpt": "Had to bring this back because no other game hit the same after it closed last year. Managed to source the original UIs, maps, viewmodels, and audio to build a proper recreation. If you were there for the peak era, this one’s for you. submitted by /u/MoneyTeaching3794 [link] [comments]",
+      "creator": "/u/MoneyTeaching3794 https://www.reddit.com/user/MoneyTeaching3794",
+      "id": "4fb45ea56b3187070b3edc4b"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3105,6 +3312,18 @@
       "excerpt": "just want you to join better if you enjoy the game let me know and i can tweak it and thx agian the name is blockhead [alpha] submitted by /u/NewbieDev666 [link] [comments]",
       "creator": "/u/NewbieDev666 https://www.reddit.com/user/NewbieDev666",
       "id": "4698712c1e42aac977582307"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "6 Girls VS 6 Boys stuck at 16+ after published fixes — audience reach and growth restricted",
+      "url": "https://devforum.roblox.com/t/6-girls-vs-6-boys-stuck-at-16-after-published-fixes-%E2%80%94-audience-reach-and-growth-restricted/4977254",
+      "published": "2026-11-05",
+      "excerpt": "6 Girls VS 6 Boys is still restricted to 16+ after we published changes addressing the content we suspected was responsible. Every audience requirement shows Complete, but the experience remains in “Final review in progress.” We need an urgent review because this is limiting the audience our live ga",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/6-girls-vs-6-boys-stuck-at-16-after-published-fixes-%E2%80%94-audience-reach-and-growth-restricted/4977254.rss",
+      "id": "464eb8ed5db9222704450c92"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3169,6 +3388,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "~1K CCU game stuck at 16+ for a week — Crown or Pass review pending after published fixes",
+      "url": "https://devforum.roblox.com/t/1k-ccu-game-stuck-at-16-for-a-week-%E2%80%94-crown-or-pass-review-pending-after-published-fixes/4977249",
+      "published": "2026-11-05",
+      "excerpt": "Crown or Pass reached roughly 1,000 concurrent players before this restriction. It is still stuck at 16+ as of November 5, despite published fixes, all audience requirements showing Complete, and the owning group being verified. This is an urgent issue for a live game. The restriction limits our aud",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/1k-ccu-game-stuck-at-16-for-a-week-%E2%80%94-crown-or-pass-review-pending-after-published-fixes/4977249.rss",
+      "id": "38da97bab477824ded9b5d05"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Release Notes for 746",
+      "url": "https://devforum.roblox.com/t/release-notes-for-746/4977079",
+      "published": "2026-11-05",
+      "excerpt": "Hey everyone, 746 is out! I took last week off and ate an irresponsible number of pastries and pineapple buns, so it feels good to be back to daily bowls of oatmeal and the familiar cadence of Studio releases. Introduced in version 746 | Documentation - Roblox Creator Hub Week of November 2, 2026 | ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/release-notes-for-746/4977079.rss",
+      "id": "36ef4f361b5c2da9cb98ea2f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Potential Bug: Clothing Remains on Sale Without Active Premium",
       "url": "https://devforum.roblox.com/t/potential-bug-clothing-remains-on-sale-without-active-premium/4976311",
       "published": "2026-11-05",
@@ -3188,6 +3431,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-studio-lua-certificate/4976692.rss",
       "id": "31e930c48af61834a6246868"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Concession shop still accessible after The Hollow ended",
+      "url": "https://devforum.roblox.com/t/concession-shop-still-accessible-after-the-hollow-ended/4977086",
+      "published": "2026-11-05",
+      "excerpt": "By clicking on the tickets balance you are redirected to the other lobby where the shop is still accessible Expected behavior Make it so the concessions shop is inaccessible at both lobbies 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/concession-shop-still-accessible-after-the-hollow-ended/4977086.rss",
+      "id": "307f09a321203c2cf6c3847f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3222,6 +3477,18 @@
       "excerpt": "submitted by /u/Miles_CoolGuy [link] [comments]",
       "creator": "/u/Miles_CoolGuy https://www.reddit.com/user/Miles_CoolGuy",
       "id": "2f66c1769fc1ec71d0279617"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Image bugging not loading",
+      "url": "https://devforum.roblox.com/t/image-bugging-not-loading/4976992",
+      "published": "2026-11-05",
+      "excerpt": "I tried putting a ImageLabel but it gives me this empty image, it only does this error to this image and not any other in my game. These images are recent since Ive put them in my game yesterday night. Im unsure where the bug come from If I put my ImageTransparency at 1 It does this error to the two",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/image-bugging-not-loading/4976992.rss",
+      "id": "2d0e65d0903e787bc7178bd1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3326,6 +3593,17 @@
       "excerpt": "Will I be in trouble if I use real references to an anime map? Real names for the areas, real places and etc. But, the characters I changed the names submitted by /u/MeaningPutrid765 [link] [comments]",
       "creator": "/u/MeaningPutrid765 https://www.reddit.com/user/MeaningPutrid765",
       "id": "091a96be1d90207b1e1b180e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Any Roblox developers out there?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoq6ji/any_roblox_developers_out_there/",
+      "published": "2026-11-05",
+      "excerpt": "Potentially looking to have a game created. Was planning on doing it myself with no prior experience alongside using Claude code but curious if there’s any devs already out there that would want to help me out since I’m already pretty busy. Would be non payed but we would share a split of any revenu",
+      "creator": "/u/Big_Comfortable3077 https://www.reddit.com/user/Big_Comfortable3077",
+      "id": "00c792badaafbac15bf19503"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3758,6 +4036,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/massive-banwave-enforcement-ban-new/4975874.rss",
       "id": "b85c9519231c934b7f7cc455"
+    },
+    {
+      "source": "x-ui",
+      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
+      "category": "UI showcases",
+      "title": "@dskaboodles_ CREW SHOP™ All your cosmetics in one convenient place. - X",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHYzluRXBMbkYwcG1lbHd6ZG42U3JUNHhYZUVFSnJHY1dYRnZ3eU9vUkNNS1p0S1hfVmZmcWt1cTd3UVVzUWxaa28zcl90N3VsX2g4S3NTams5eE15ZWh3eGlR?oc=5",
+      "published": "2026-11-04",
+      "excerpt": "@dskaboodles_ CREW SHOP™ All your cosmetics in one convenient place. X",
+      "creator": "",
+      "publisher": "https://x.com",
+      "id": "b767762d09906bde41d507c4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9328,273 +9618,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-self-recommendation-open/4969790.rss",
       "id": "0e8f611d4f42a3f10dfbb799"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox… You content deleted your OWN image",
-      "url": "https://devforum.roblox.com/t/roblox%E2%80%A6-you-content-deleted-your-own-image/4969289",
-      "published": "2026-11-01",
-      "excerpt": "Roblox somehow moderated the image they uploaded to display as the modern city.. I feel like there’s a joke to be made here but I’m not gonna be the one to say it. Expected behavior You see the image that’s supposed to be there 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox%E2%80%A6-you-content-deleted-your-own-image/4969289.rss",
-      "id": "0ca317775cba50ed861191e7"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for players to try out my Roblox FPS game (FRAGIX)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlf7t7/looking_for_players_to_try_out_my_roblox_fps_game/",
-      "published": "2026-11-01",
-      "excerpt": "I've been working on my Roblox FPS game, FRAGIX. Looking for people to try it out! I've been putting a lot of time into this game and would really appreciate some players giving it a shot. It's a fast-paced free-for-all shooter where you can fight other players, unlock weapons, collect skins, and im",
-      "creator": "/u/RexarTheGoat https://www.reddit.com/user/RexarTheGoat",
-      "id": "0a89fe82dcac56e7e32e0a45"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Experienced or Not] Builder Needed!",
-      "url": "https://devforum.roblox.com/t/experienced-or-not-builder-needed/4970420",
-      "published": "2026-11-01",
-      "excerpt": "Builder Needed About The Job Looking for a builder for (I assume) longer cooperation. I need different stages and worlds with specific, different themes. There should be 20 worlds in total at the launch of the game. Each world contains 10 different stages but with a smiliar theme. Example of World 1",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/experienced-or-not-builder-needed/4970420.rss",
-      "id": "04a79e1df8c221f73b7ec224"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "100 HEP Requirement Reduction",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlgbaa/100_hep_requirement_reduction/",
-      "published": "2026-11-01",
-      "excerpt": "I heard it'll be reduced to 100 for November, does anyone know when? submitted by /u/Horror_Difference_75 [link] [comments]",
-      "creator": "/u/Horror_Difference_75 https://www.reddit.com/user/Horror_Difference_75",
-      "id": "04512d7dff312e39d9879f62"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for playtesters for 5v1 assymetric horror",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl52sb/looking_for_playtesters_for_5v1_assymetric_horror/",
-      "published": "2026-11-01",
-      "excerpt": "I am developing an upcoming 5v1 assymetric horror game with milsim grounded elements, the fight is between 5 operators who are extremely grounded (no flashy movements, no jumping, hand tremors, gun sway and exertion are bigger issues than recoil and aim), vs 1 extremely fragile but near invisible an",
-      "creator": "/u/GroceryTraining4434 https://www.reddit.com/user/GroceryTraining4434",
-      "id": "0334e40165b3ee23f96a6673"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Can we make cutscenes using eclipse animator??",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl09rp/can_we_make_cutscenes_using_eclipse_animator/",
-      "published": "2026-11-01",
-      "excerpt": "Ive been trying to find tutorial on the internet but theres none ive made a n animation for it but i just dont know how to export it and make it play in game submitted by /u/EditorHead4321 [link] [comments]",
-      "creator": "/u/EditorHead4321 https://www.reddit.com/user/EditorHead4321",
-      "id": "01136c3a6568bde6c261c953"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Use time to stop playtest longer then usual",
-      "url": "https://devforum.roblox.com/t/use-time-to-stop-playtest-longer-then-usual/4969328",
-      "published": "2026-11-01",
-      "excerpt": "When i start player test it run normally but when im stop playing test it start freeze idk what happen but it start since update few week ago 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/use-time-to-stop-playtest-longer-then-usual/4969328.rss",
-      "id": "0051ef3ef186695640ad9894"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow toggling VFX on Accessories",
-      "url": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223",
-      "published": "2026-10-31",
-      "excerpt": "currently we can toggle Facial Animations on avatars but we cant toggle VFX on items, i think it’d be nice if players could choose a accessory and in the accessory adjustment area there was just a per accessory toggle “Enable VFX” turned on by default but able to be toggled by the user example case:",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-toggling-vfx-on-accessories/4967223.rss",
-      "id": "fd582cd602526141952a7055"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "BlastOut is live — an FPS where you blast opponents out of the arena",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkoyz2/blastout_is_live_an_fps_where_you_blast_opponents/",
-      "published": "2026-10-31",
-      "excerpt": "I've been working on BlastOut, an FPS Platform Fighter on Roblox, and it's now live! There are no traditional health bars. Hits build your opponent's Impact Value and knock them back. The higher their Impact, the farther they fly — blast them out of the arena to eliminate them. You can mix guns, mel",
-      "creator": "/u/Time_Metal9496 https://www.reddit.com/user/Time_Metal9496",
-      "id": "fd320b63b0d79d48b1802c35"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Plugin] UI2Code — Converts Studio UI to Lua/React code",
-      "url": "https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118",
-      "published": "2026-10-31",
-      "excerpt": "[Plugin] UI2Code — Convert Studio UI to Lua/React Code What does this plugin do? UI2Code analyzes any ScreenGui (or UI hierarchy) in your place and generates ready-to-copy/paste code that recreates that UI programmatically. Output Typical Use Lua (Luau) Server/client scripts, modules, plugins React ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118.rss",
-      "id": "f7525e50737998e8e5118c3d"
-    },
-    {
-      "source": "roblox-news",
-      "label": "Google News indexed: Roblox Studio Creator updates MCP new feature when:7d",
-      "category": "roblox_updates",
-      "title": "Roblox Q3 Earnings Call Highlights - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9jbl9kdC1uQTBDdGlsZ3ZzMGlTREVwSWdBdEVaRUFROVZOZDdsTXgyQ3VEQVY0YjVqZTNMZmE0dkUzSE44Vk5DN1BZLXpUWlZLZHkwNUU2ekVDM2ttWmRsUFd4dWVBZFMtM0FpOVlMdEt0b19tb0xFaTNDVzZmWDNkQ0pWNWNCVG1iUkFzQV81anBxbFpUcEZ3?oc=5",
-      "published": "2026-10-31",
-      "excerpt": "Roblox Q3 Earnings Call Highlights TradingView",
-      "creator": "",
-      "publisher": "https://fr.tradingview.com",
-      "id": "f4df7bf2894a5212610b4aae"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "!!MOBILE PLAYERS!! How is this UI setup for you?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkkdbz/mobile_players_how_is_this_ui_setup_for_you/",
-      "published": "2026-10-31",
-      "excerpt": "https://preview.redd.it/457v6bgt2vyh1.png?width=1242&format=png&auto=webp&s=34a8def2a6b9babf871efe3bc08f26ef6492779e The bigger button will serve as a jump button, please share your opinions on the mobile ui!! :-) Be as harsh as needed. submitted by /u/RoutriVenti [link] [comments]",
-      "creator": "/u/RoutriVenti https://www.reddit.com/user/RoutriVenti",
-      "id": "f1b9c38546383887833d8af6"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "1 more player needed!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk3g0z/1_more_player_needed/",
-      "published": "2026-10-31",
-      "excerpt": "help me reach my goal! I recently finished making my own Roblox obby called Enzo’s Difficulty Chart Obby, and it is officially fully polished with all known bugs fixed! My goal is to get 100 visits by the end of the month. There are 259 stages to work through, ranging from effortless to some serious",
-      "creator": "/u/sailorvalley https://www.reddit.com/user/sailorvalley",
-      "id": "f19a41250d8b14293c9f7841"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[CRITICAL] Fake ‘studio dependency’ popup appearing in experience playests",
-      "url": "https://devforum.roblox.com/t/critical-fake-%E2%80%98studio-dependency%E2%80%99-popup-appearing-in-experience-playests/4967145",
-      "published": "2026-10-31",
-      "excerpt": "There is this backdoor going around that pretends to be a legitmate studio popup message that requires you to run a script (that is I assume a backdoor) code it wants to run: -- Game must be stopped before running. local a = \"HttpService\" local HttpService = game:GetService(a) HttpService.HttpEnable",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/critical-fake-%E2%80%98studio-dependency%E2%80%99-popup-appearing-in-experience-playests/4967145.rss",
-      "id": "effd73457d3e02d9aa10e34b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My 2d clothing been taken off sale since idk",
-      "url": "https://devforum.roblox.com/t/my-2d-clothing-been-taken-off-sale-since-idk/4967050",
-      "published": "2026-10-31",
-      "excerpt": "does anyone know why this is ? because to my knowledge , this shouldnt be happening cuz of my region. im in russia which you know i cant buy premium for anything, and im pretty sure ive heard from an literal admin here when the updates for how u upload 2d clothing etc etc with the quota, that shi so",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-2d-clothing-been-taken-off-sale-since-idk/4967050.rss",
-      "id": "ef7e9a7b2ce6ecee08bf6322"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "WITHERSTORM Model",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjz00m/witherstorm_model/",
-      "published": "2026-10-31",
-      "excerpt": "Phases 6-8 not yet implemented. submitted by /u/Adept-Flamingo8070 [link] [comments]",
-      "creator": "/u/Adept-Flamingo8070 https://www.reddit.com/user/Adept-Flamingo8070",
-      "id": "ef702b5d1643ec756c65da4d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can creator-defined preset system encode messages strictly pertaining to information relative to \"objective intent\"?",
-      "url": "https://devforum.roblox.com/t/can-creator-defined-preset-system-encode-messages-strictly-pertaining-to-information-relative-to-objective-intent/4968143",
-      "published": "2026-10-31",
-      "excerpt": "For example, if my custom non-Roblox preset system configuration is: Help me! I am at #LOCATION# And #LOCATION# is a wildcard that encodes, prior to being seen by other players, a location on the map (i.e. Objective Bravo), thus other players across the server, irrespective to age group, see: [Playe",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/can-creator-defined-preset-system-encode-messages-strictly-pertaining-to-information-relative-to-objective-intent/4968143.rss",
-      "id": "eb20c31babfc271b0fb72cd5"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Error creating texture: 80070057",
-      "url": "https://devforum.roblox.com/t/error-creating-texture-80070057/4967517",
-      "published": "2026-10-31",
-      "excerpt": "Recently, I’ve run into this issue when attempting to change the viewport window size using the Device Emulator. When changing the device emulator device to my 5120 x 2880 device, which I primarily use for screenshotting areas, it throws an error and eventually crashes my studio. The error in questi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/error-creating-texture-80070057/4967517.rss",
-      "id": "e907157a74ae334265b4e3b0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "(play.roblox.com) dynamic shadows can't be casted on terrain AND grass is broken",
-      "url": "https://devforum.roblox.com/t/playrobloxcom-dynamic-shadows-cant-be-casted-on-terrain-and-grass-is-broken/4966984",
-      "published": "2026-10-31",
-      "excerpt": "Basically, the terrain in the web version of roblox is kind of broken? since it doesn’t allow parts to cast shadows on the terrain, and also the grass doesn’t appear. Game is at max graphics, and with decoration enabled, yet the shadows and grass are broken. Unless this is a limitation of the web en",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/playrobloxcom-dynamic-shadows-cant-be-casted-on-terrain-and-grass-is-broken/4966984.rss",
-      "id": "e84debaea85deac1a4a3666a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SocialService:CanUsePlayerSupportAsync()",
-      "url": "https://devforum.roblox.com/t/socialservicecanuseplayersupportasync/4968205",
-      "published": "2026-10-31",
-      "excerpt": "As a Roblox developer, I currently can’t check whether a player can use Player Support via SocialService:PromptFeedbackSubmissionAsync() . I’d like to create a SocialService:CanUsePlayerSupportAsync() function that would return a boolean indicating whether the local player can use Player Support. Ex",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/socialservicecanuseplayersupportasync/4968205.rss",
-      "id": "e61c9e3431c04393fcd7bda0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Moderation Appeal Portal Fails With Upstream Request Timeout for Months",
-      "url": "https://devforum.roblox.com/t/roblox-moderation-appeal-portal-fails-with-upstream-request-timeout-for-months/4967533",
-      "published": "2026-10-31",
-      "excerpt": "Hello Roblox staff and developers, I’m requesting assistance regarding my Roblox account, @Sytexprime , which was terminated. The termination notice states that an alternative account violated Roblox’s rules. However, the account mentioned in the notice does not belong to me, and I do not understand",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-moderation-appeal-portal-fails-with-upstream-request-timeout-for-months/4967533.rss",
-      "id": "e30c2e235e964c50ecaf9ecd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I DID IT I DID IT I CODED AN INVENTORY WITHOUT A TUTORIAL",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xka8jn/i_did_it_i_did_it_i_coded_an_inventory_without_a/",
-      "published": "2026-10-31",
-      "excerpt": "2-3 days of work in one video im so proud of this submitted by /u/Cost_1088 [link] [comments]",
-      "creator": "/u/Cost_1088 https://www.reddit.com/user/Cost_1088",
-      "id": "e2fa34cd45a8847a41ec2308"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How do i make a procedural animation like this using IKControl or wtv",
-      "url": "https://devforum.roblox.com/t/how-do-i-make-a-procedural-animation-like-this-using-ikcontrol-or-wtv/4967462",
-      "published": "2026-10-31",
-      "excerpt": "External Media External Media External Media Look at the videos above, thats what kind of procedural animation im referring and i dont know where to start 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-do-i-make-a-procedural-animation-like-this-using-ikcontrol-or-wtv/4967462.rss",
-      "id": "e12e5cf16ff675bf70190ee8"
     }
   ]
 }
