@@ -2663,7 +2663,11 @@
     "3c94e13ebd23226bd1f7eb81",
     "dd59947a54d737136f790706",
     "d772af9881a97acaf6a46a5b",
-    "2f66c1769fc1ec71d0279617"
+    "2f66c1769fc1ec71d0279617",
+    "b292f87218f76890be9bcf65",
+    "ea658e339c047c5b354ffb50",
+    "c9630a36cfbdd3fb3716e06e",
+    "d9a58dec3f8455523e6f78db"
   ],
   "items": [
     {
@@ -2706,6 +2710,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Getting access to Journey option for my experience",
+      "url": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460",
+      "published": "2026-11-05",
+      "excerpt": "Hi. me and my friend have made an experience. we wanna get access to the Journey option to use it for its purpose but I ain’t seeing it anywhere in the Analytics tab. do I have to join the Community Feedback Program to get access to the Journey option? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460.rss",
+      "id": "ea658e339c047c5b354ffb50"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Creator store payouts not landing into bank account",
       "url": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348",
       "published": "2026-11-05",
@@ -2738,6 +2754,18 @@
       "id": "dd59947a54d737136f790706"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Thankyou The Hollow 2026 🎃 #roblox #thehollow #2026 #halloween #event - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNaUNSN2hRYjdHVmNJZWRvVnIxVmNmeXg1cWJwUWNDbWt5YWVuRTF5a1hKSHREbWEtamcwODRXVW1nbTQtNFp6M3FsYklsZEVyOEhVYVV3?oc=5",
+      "published": "2026-11-05",
+      "excerpt": "Thankyou The Hollow 2026 🎃 #roblox #thehollow #2026 #halloween #event Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "d9a58dec3f8455523e6f78db"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2753,6 +2781,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "listAssetVersions example is completely wrong",
+      "url": "https://devforum.roblox.com/t/listassetversions-example-is-completely-wrong/4976456",
+      "published": "2026-11-05",
+      "excerpt": "The listAssetVersions endpoint documentation has a very incorrect example. Because try it out is disabled for open cloud - there’s no way to know this until after you’ve written a serializer for the incorrect type. The example given is: [ { \"creationContext\": { \"assetPrivacy\": \"default\", \"creator\": ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/listassetversions-example-is-completely-wrong/4976456.rss",
+      "id": "c9630a36cfbdd3fb3716e06e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Studio DataStore calls return “Access forbidden” for a group-owned experience, even as group owner (personal places work)",
       "url": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073",
       "published": "2026-11-05",
@@ -2760,6 +2800,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073.rss",
       "id": "c000bfc49561d05bd4bbe518"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "GetPlaceVersionHistory endpoint should not require scope to ALL RESOURCES",
+      "url": "https://devforum.roblox.com/t/getplaceversionhistory-endpoint-should-not-require-scope-to-all-resources/4976529",
+      "published": "2026-11-05",
+      "excerpt": "Links Endpoint: https://apis.roblox.com/place-version-history-api/v1/{place_id}/history Docs: https://create.roblox.com/docs/en-us/cloud/reference/domains/apis#PlaceVersion_GetPlaceVersionHistory Scope: universe.place:read - Scopes | Documentation Staff Announcement: Auto-Generate Publish Notes for ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/getplaceversionhistory-endpoint-should-not-require-scope-to-all-resources/4976529.rss",
+      "id": "b292f87218f76890be9bcf65"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9519,53 +9571,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/need-help-and-feedback-why-are-my-games-stats-that-bad/4966975.rss",
       "id": "a54b15d4619b2482b5db410e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game Reviews and Difficulty",
-      "url": "https://devforum.roblox.com/t/game-reviews-and-difficulty/4967880",
-      "published": "2026-10-31",
-      "excerpt": "Hi everyone, I’m currently working on a rogue-lite runner : The issue is I’m getting some bad reviews and wanted to know if it’s because of the difficulty being too hard. Would love to have some feedbacks ! Thanks guys Roblox Legion Rush Jetez un œil à Legion Rush. Ce n'est qu'un exemple des million",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-reviews-and-difficulty/4967880.rss",
-      "id": "a3d82a48da3dfe079fd52727"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Plugin] SurfaceGui Editor — SlimeyHD’s Edition",
-      "url": "https://devforum.roblox.com/t/plugin-surfacegui-editor-%E2%80%94-slimeyhd%E2%80%99s-edition/4967982",
-      "published": "2026-10-31",
-      "excerpt": "[Plugin - FREE] SurfaceGui Editor — SlimeyHD’s Edition Edit SurfaceGui elements right on the 3D surface. Move, resize, and rotate your UI with viewport handles—without opening a separate settings window every time you select an element. Free download: SurfaceGui Editor — SlimeyHD’s Edition Highlight",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/plugin-surfacegui-editor-%E2%80%94-slimeyhd%E2%80%99s-edition/4967982.rss",
-      "id": "9e36b916014dbd73507ca222"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Mammut Movment System 🦣",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xknc2o/mammut_movment_system/",
-      "published": "2026-10-31",
-      "excerpt": "submitted by /u/Radiant-Tea6806 [link] [comments]",
-      "creator": "/u/Radiant-Tea6806 https://www.reddit.com/user/Radiant-Tea6806",
-      "id": "9d8319e8233ef31026cd57b1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Package Overrides] Opening my game freezes studio indefinitely",
-      "url": "https://devforum.roblox.com/t/package-overrides-opening-my-game-freezes-studio-indefinitely/4968864",
-      "published": "2026-10-31",
-      "excerpt": "When I open my game or it’s testing place , studio will freeze during loading as seen below: After some troubleshooting I figured out it was caused by the Package Overrides beta, although weirdly it was fine a few days ago… A private message is associated with this bug report 4 posts - 2 participant",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/package-overrides-opening-my-game-freezes-studio-indefinitely/4968864.rss",
-      "id": "9bdd45b68e54bcc8e6efe9a0"
     }
   ]
 }

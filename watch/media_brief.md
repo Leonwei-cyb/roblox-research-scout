@@ -5,19 +5,19 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Community
+## Roblox Creator / Steal An Egg
 
-- **[Working on a game similar to ai judge](https://www.reddit.com/r/ROBLOXStudio/comments/1xoc4he/working_on_a_game_similar_to_ai_judge/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-05
-  - Feed excerpt: submitted by /u/Miles_CoolGuy \[link\] \[comments\]
+- **[Thankyou The Hollow 2026 🎃 #roblox #thehollow #2026 #halloween #event - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNaUNSN2hRYjdHVmNJZWRvVnIxVmNmeXg1cWJwUWNDbWt5YWVuRTF5a1hKSHREbWEtamcwODRXVW1nbTQtNFp6M3FsYklsZEVyOEhVYVV3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-05
+  - Feed excerpt: Thankyou The Hollow 2026 🎃 #roblox #thehollow #2026 #halloween #event Instagram
 
 ## Roblox Updates
 
-- **[How to run VIewModel animation?](https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976420)** · Roblox Developer Forum latest · 2026-11-05
-  - Feed excerpt: so i try to Run ViewModel animation but for some reason it wont run idk if it because of my script or my ViewModel it doesnt have any error i try remake my code many time and it still wont run here my Script if you guy wonder if i do anythi
-- **[Hyper-realistic roblox shopping mall](https://devforum.roblox.com/t/hyper-realistic-roblox-shopping-mall/4976449)** · Roblox Developer Forum latest · 2026-11-05
-  - Feed excerpt: Figured id showcase something pretty crazy i am working on at the moment. OK Mall OK Mall is a fictional shopping centre located in British Columbia BC, Fictionally built in the early 1960s alongside the existing Eatons Department Store ope
-- **[Territory Hex: Looking for Feedback](https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421)** · Roblox Developer Forum latest · 2026-11-05
-  - Feed excerpt: Hi! I just released Territory Hex , a real-time strategy game where you fight for real countries split into hexes. Game: Territory Hex \| Play on Roblox How It Plays Join or create a party and vote for a map or press Queue Up to automaticall
+- **[GetPlaceVersionHistory endpoint should not require scope to ALL RESOURCES](https://devforum.roblox.com/t/getplaceversionhistory-endpoint-should-not-require-scope-to-all-resources/4976529)** · Roblox Developer Forum latest · 2026-11-05
+  - Feed excerpt: Links Endpoint: https://apis.roblox.com/place-version-history-api/v1/{place_id}/history Docs: https://create.roblox.com/docs/en-us/cloud/reference/domains/apis#PlaceVersion_GetPlaceVersionHistory Scope: universe.place:read - Scopes \| Docume
+- **[Getting access to Journey option for my experience](https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460)** · Roblox Developer Forum latest · 2026-11-05
+  - Feed excerpt: Hi. me and my friend have made an experience. we wanna get access to the Journey option to use it for its purpose but I ain’t seeing it anywhere in the Analytics tab. do I have to join the Community Feedback Program to get access to the Jou
+- **[listAssetVersions example is completely wrong](https://devforum.roblox.com/t/listassetversions-example-is-completely-wrong/4976456)** · Roblox Developer Forum latest · 2026-11-05
+  - Feed excerpt: The listAssetVersions endpoint documentation has a very incorrect example. Because try it out is disabled for open cloud - there’s no way to know this until after you’ve written a serializer for the incorrect type. The example given is: \[ {
 
 ---
 
