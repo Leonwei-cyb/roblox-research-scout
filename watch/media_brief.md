@@ -5,12 +5,10 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Updates
+## Roblox Creator / Steal An Egg
 
-- **[OAuth Authorization, "You have exceeded the rate limit" After Confirming Permissions](https://devforum.roblox.com/t/oauth-authorization-you-have-exceeded-the-rate-limit-after-confirming-permissions/4976579)** · Roblox Developer Forum latest · 2026-11-05
-  - Feed excerpt: Hey, I’m (or a user is) experiencing an issue with Roblox OAuth authorization in a tool of mine that uses OAuth to (in this case) only read the username and id. One of our users encounters the following error: “You have exceeded the rate li
-- **[The hollow item not granted](https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586)** · Roblox Developer Forum latest · 2026-11-05
-  - Feed excerpt: i was playing the hollow event and completed the banana eats badge ( Banana's Basement of SECRETS - Roblox ) when trying to claim the prize ( LOLWEN - Roblox ) it gave me an error saying something simmilar to “you already own this item” so 
+- **[Crazy Moment Steal an Egg 🤯 Wait for it ... #roblox #robloxedit #stealanegg #fyp #viral #trending - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE45X29JbFlfUklzWXRJb2plR3B4NXBEdkl3cTZ2eE1XTkJVNHhnUW4wMGRESHZGOVlZeHFSc0p4N3JhcGJwUkkwY3ZCdDA0T1hxVmZsY2dB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-16
+  - Feed excerpt: Crazy Moment Steal an Egg 🤯 Wait for it ... #roblox #robloxedit #stealanegg #fyp #viral #trending Instagram
 
 ---
 

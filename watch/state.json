@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "a47045fe927ffc3ca753b035d9d41730e2504148",
+      "head": "b032c6ba6763d57ace62e0a04b3b48650f50fbab",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "38e0668c1cd6b773b9f9efb50c17281974d0ba21",
-      "head_subject": "MCP - \"MCP Note\" settings sub-tab, set what assistants are told when they connect (#4670)",
+      "head": "0c094d44632380f968624981fb099daa049c49f4",
+      "head_subject": "MCP OAuth - Claude Code can sign in: loopback redirect URIs match on any port (RFC 8252 7.3) (#4673)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.1",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.1",
