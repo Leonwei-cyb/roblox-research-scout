@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 288
+- devforum: 289
 - index-only: 8
 - reddit: 295
-- youtube: 5
+- youtube: 4
 
 ## First-Session And Mobile
 
@@ -23,7 +23,7 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 ## Board Game And Turn Flow
 
 - [Added a "mid-battle" bubble so players on a shared server can see who's fighting. Now I need a few people on one server to try and break my PvP arena](https://www.reddit.com/r/robloxgamedev/comments/1xl0i2c/added_a_midbattle_bubble_so_players_on_a_shared/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
-- [Looking for testers for my unreleased turnbased rpg](https://www.reddit.com/r/robloxgamedev/comments/1xmpd1x/looking_for_testers_for_my_unreleased_turnbased/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
+- [Territory Hex: Looking for Feedback](https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421) — devforum; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
 
 ## Building And Purchases
 

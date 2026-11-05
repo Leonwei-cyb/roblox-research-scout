@@ -13,6 +13,18 @@
   "candidates": [
     {
       "priority": "P0",
+      "topic": "board game and turn flow",
+      "key": "devforum:4976421:1",
+      "title": "Territory Hex: Looking for Feedback",
+      "url": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421",
+      "kind": "devforum",
+      "published": "2026-11-05",
+      "stage": "UNVIEWED_METADATA",
+      "observation_verified": false,
+      "question_for_reviewer": "At the same game state as the Colonist.io original, does a turn read as roll, collect, build or trade, end?"
+    },
+    {
+      "priority": "P0",
       "topic": "first-session and mobile",
       "key": "devforum:4968951:1",
       "title": "How to install the Roblox Developer Forum app on mobile",
@@ -26,11 +38,11 @@
     {
       "priority": "P1",
       "topic": "UI and menus",
-      "key": "devforum:4968118:1",
-      "title": "[Plugin] UI2Code — Converts Studio UI to Lua/React code",
-      "url": "https://devforum.roblox.com/t/plugin-ui2code-%E2%80%94-converts-studio-ui-to-luareact-code/4968118",
+      "key": "devforum:4974212:1",
+      "title": "Build Accessible UI Faster: New Color3 Contrast & Luminance Methods",
+      "url": "https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212",
       "kind": "devforum",
-      "published": "2026-10-31",
+      "published": "2026-11-03",
       "stage": "UNVIEWED_METADATA",
       "observation_verified": false,
       "question_for_reviewer": "Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?"
@@ -60,8 +72,6 @@
       "question_for_reviewer": "Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?"
     }
   ],
-  "unfilled_topics": [
-    "board game and turn flow"
-  ],
+  "unfilled_topics": [],
   "authority": "LEON_ACTIVE_GAME"
 }

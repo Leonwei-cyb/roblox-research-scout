@@ -2659,7 +2659,11 @@
     "75a1de1ed62f477590452530",
     "f58460917a0deb358cd20786",
     "fc5b9399503538fe5444e17b",
-    "dd5e66dce7d7c5ce05124d99"
+    "dd5e66dce7d7c5ce05124d99",
+    "3c94e13ebd23226bd1f7eb81",
+    "dd59947a54d737136f790706",
+    "d772af9881a97acaf6a46a5b",
+    "2f66c1769fc1ec71d0279617"
   ],
   "items": [
     {
@@ -2720,6 +2724,30 @@
       "excerpt": "I'm a scripter with roughly 3 months of experience, and I'm looking for a partner to learn by creating a game together. It's like a motivation for both of us to dedicate time to learn our respective skills ( because I'm personally struggling with developing a consistent schedule ). No game idea at t",
       "creator": "/u/Loose-Mousse6668 https://www.reddit.com/user/Loose-Mousse6668",
       "id": "dd5e66dce7d7c5ce05124d99"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Territory Hex: Looking for Feedback",
+      "url": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421",
+      "published": "2026-11-05",
+      "excerpt": "Hi! I just released Territory Hex , a real-time strategy game where you fight for real countries split into hexes. Game: Territory Hex | Play on Roblox How It Plays Join or create a party and vote for a map or press Queue Up to automatically join a lobby when available. Pick your spawn on the map an",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421.rss",
+      "id": "dd59947a54d737136f790706"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to run VIewModel animation?",
+      "url": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976420",
+      "published": "2026-11-05",
+      "excerpt": "so i try to Run ViewModel animation but for some reason it wont run idk if it because of my script or my ViewModel it doesnt have any error i try remake my code many time and it still wont run here my Script if you guy wonder if i do anything wrong : local tool = script.Parent local Handle = tool.Ha",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976420.rss",
+      "id": "d772af9881a97acaf6a46a5b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2842,6 +2870,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Hyper-realistic roblox shopping mall",
+      "url": "https://devforum.roblox.com/t/hyper-realistic-roblox-shopping-mall/4976449",
+      "published": "2026-11-05",
+      "excerpt": "Figured id showcase something pretty crazy i am working on at the moment. OK Mall OK Mall is a fictional shopping centre located in British Columbia BC, Fictionally built in the early 1960s alongside the existing Eatons Department Store opened in 1946, The mall features a Former Eatons (Now Sears) d",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hyper-realistic-roblox-shopping-mall/4976449.rss",
+      "id": "3c94e13ebd23226bd1f7eb81"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Show owner counts for Roblox-made items on their catalog pages",
       "url": "https://devforum.roblox.com/t/show-owner-counts-for-roblox-made-items-on-their-catalog-pages/4976323",
       "published": "2026-11-05",
@@ -2873,6 +2913,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-need-a-name-for-my-game-again/4976299.rss",
       "id": "305f8aad69eb883a516348d6"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Working on a game similar to ai judge",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoc4he/working_on_a_game_similar_to_ai_judge/",
+      "published": "2026-11-05",
+      "excerpt": "submitted by /u/Miles_CoolGuy [link] [comments]",
+      "creator": "/u/Miles_CoolGuy https://www.reddit.com/user/Miles_CoolGuy",
+      "id": "2f66c1769fc1ec71d0279617"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9515,52 +9566,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/package-overrides-opening-my-game-freezes-studio-indefinitely/4968864.rss",
       "id": "9bdd45b68e54bcc8e6efe9a0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expedited Review fee can’t be paid from a collaborator’s balance on a group-owned experience",
-      "url": "https://devforum.roblox.com/t/expedited-review-fee-can%E2%80%99t-be-paid-from-a-collaborator%E2%80%99s-balance-on-a-group-owned-experience/4967366",
-      "published": "2026-10-31",
-      "excerpt": "Our experience is owned by a group and is locked to 16+ under Kids and Select. Steps: Sign in as a group collaborator who is not the group owner. Open Creator Hub, select [experience], and go to Manage Audience. Start the Expedited Review purchase for 50,000 Robux. Result: only using group funds is ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expedited-review-fee-can%E2%80%99t-be-paid-from-a-collaborator%E2%80%99s-balance-on-a-group-owned-experience/4967366.rss",
-      "id": "9b2f4dc5528ccdbb3cdce51d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Report History Does Not Show the Names of Reported Marketplace Bundles",
-      "url": "https://devforum.roblox.com/t/report-history-does-not-show-the-names-of-reported-marketplace-bundles/4968846",
-      "published": "2026-10-31",
-      "excerpt": "Roblox recently introduced a new Report History tab within its existing Help and Safety section, allowing users to view their previously submitted reports. Currently, when reporting a user, their username is partially displayed (the first two characters). For other types of content, such as avatar a",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/report-history-does-not-show-the-names-of-reported-marketplace-bundles/4968846.rss",
-      "id": "94d6bf653df7ca7fb399d912"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I'm a playtester, and I'd love to test your game!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjy54c/im_a_playtester_and_id_love_to_test_your_game/",
-      "published": "2026-10-31",
-      "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
-      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
-      "id": "940bc5b55db02531ae44fc0f"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "saved the worst for last. Piggy is the final challenge in The Hollow. for now.",
-      "url": "https://www.youtube.com/shorts/HT68bKhThxg",
-      "published": "2026-10-31",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "913f032cc1bc89fdf928c921"
     }
   ]
 }
