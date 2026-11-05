@@ -2628,9 +2628,93 @@
     "45e8235c27327e1b488c91ae",
     "140ac7f07752be337f3e3293",
     "d71344ea884483190d34cd01",
-    "3cbe727654712e4a6b457ec7"
+    "3cbe727654712e4a6b457ec7",
+    "f21d42acb51f788b832b7656",
+    "5e184bb471a114c2f9486cdf",
+    "3f6b789b371810305468f992",
+    "874faa6b445fe7fd870631da",
+    "f2655aeabaef365aa52f4c60",
+    "acf4394a534c41348614fdb0",
+    "1530fd04f89df61815731988",
+    "82d01df404d6b2d18fff63d8",
+    "5f4c004e28c63795c3c6b4ae",
+    "7c11a86cc6ada5e25fd507c8",
+    "114399cb838ac19f5d60a7a9",
+    "568f6c7fc1ca4f4c343eeb53",
+    "301234e20ea58743e72f598f",
+    "5705c29b32d2c2f79b468cad"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to move the testing game to public",
+      "url": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044",
+      "published": "2026-11-05",
+      "excerpt": "I was ready to push the game into public facing stage and buy ads. But the video shows that I cannot change the access of the game. It is a bug that affects my UA strategy negatively. Expected behavior I expect I can move the game to public normally. Page URL: https://create.roblox.com/dashboard/cre",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044.rss",
+      "id": "f21d42acb51f788b832b7656"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
+      "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
+      "published": "2026-11-05",
+      "excerpt": "Describe the issue: When connecting an MCP client (such as Cursor, VS Code, or Claude Desktop) to Roblox Studio via the generated %LOCALAPPDATA%\\Roblox\\mcp.bat launcher script, the batch script fails during startup if any referenced directory path contains spaces (for example, C:\\Users<username>\\Doc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979.rss",
+      "id": "874faa6b445fe7fd870631da"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Question about investments",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo4j3b/question_about_investments/",
+      "published": "2026-11-05",
+      "excerpt": "Basically, I'm a solo dev, I've been working on a passion project for about 11 months now (in development/unreleased). Recently, I showed my friend (trusted IRL friend, close highschool friends) the project I'm working on for fun. Now he looked at it, and basically in a nutshell wanted to invest in ",
+      "creator": "/u/TheRealBeefMeat https://www.reddit.com/user/TheRealBeefMeat",
+      "id": "7c11a86cc6ada5e25fd507c8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "sword art online inspired game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo4r4l/sword_art_online_inspired_game/",
+      "published": "2026-11-05",
+      "excerpt": "there is a really famous sao inspired roblox game called swordburst 2, there are some other ones but they aren't that well done compared to that game. i am an experienced roblox developer who really loves sao, and i really want to make a fan inspired game that includes alfheim and ggo arcs eventuall",
+      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
+      "id": "5f4c004e28c63795c3c6b4ae"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "HingeConstraints bugging out",
+      "url": "https://devforum.roblox.com/t/hingeconstraints-bugging-out/4976029",
+      "published": "2026-11-05",
+      "excerpt": "I have a set of flippers in a project of mine for a “pinball machine” in which the right flipper wants to do its own thing and spaz out whenever a player tries to use it. The left flipper works just fine despite both having damn near the same configuration but whenever I manually change them while o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hingeconstraints-bugging-out/4976029.rss",
+      "id": "5e184bb471a114c2f9486cdf"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to Make any games public since getting wrongfully terminated",
+      "url": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982",
+      "published": "2026-11-05",
+      "excerpt": "I have been unable to make games public ever since I got wrongfully terminated about a week ago. I have been trying everything. My eligibility on the creator My account should be able to make these games public. Below is what happens if I try to make any of my games public I am extremely disappointe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982.rss",
+      "id": "3f6b789b371810305468f992"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -2653,6 +2737,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387.rss",
       "id": "f3d80553453f7dc73032ffd6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "In-experience creation is broken; \"Buy Creation\" page is stuck on \"Reviewing your creation...\"",
+      "url": "https://devforum.roblox.com/t/in-experience-creation-is-broken-buy-creation-page-is-stuck-on-reviewing-your-creation/4975962",
+      "published": "2026-11-04",
+      "excerpt": "In-experience creation is broken; AvatarCreationService:PromptCreateAvatarAssetAsync gets stuck on “Reviewing your creation…” and eventually returns “AvatarCreationService: VaaS validation failed unexpectedly.” Game: FACEPAINTING! UGC CREATOR | Play on Roblox 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/in-experience-creation-is-broken-buy-creation-page-is-stuck-on-reviewing-your-creation/4975962.rss",
+      "id": "f2655aeabaef365aa52f4c60"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3065,6 +3161,18 @@
       "id": "b1d20b7432a3e16ef3b933c2"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] [VOLUNTEER] Discord moderator (18+) for Roadflare Games",
+      "url": "https://devforum.roblox.com/t/open-volunteer-discord-moderator-18-for-roadflare-games/4975945",
+      "published": "2026-11-04",
+      "excerpt": "About Roadflare Games Roadflare Games is my (as of current) one-person game studio. I’m looking for one or two founding moderators for its Discord server before it opens to members. The current game in development is CHASE CITY, but the server is for the studio and all its games. What you’d do There",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-volunteer-discord-moderator-18-for-roadflare-games/4975945.rss",
+      "id": "acf4394a534c41348614fdb0"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3215,6 +3323,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/security-notification-blocks-access-when-i-have-an-email-linked/4975372.rss",
       "id": "82fed71ec039eef232bbbaf6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Instantly check the retaken Maturity Questionnaire after a rejection",
+      "url": "https://devforum.roblox.com/t/instantly-check-the-retaken-maturity-questionnaire-after-a-rejection/4975927",
+      "published": "2026-11-04",
+      "excerpt": "When the Maturity Questionnaire gets rejected, the dashboard already shows which question was wrong and what moderators expect (in my case: Crude Humor, my answer “Not Present”, moderator feedback “Mild”). That’s great. But after I retake it and pick exactly what moderators wrote, it still goes to a",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/instantly-check-the-retaken-maturity-questionnaire-after-a-rejection/4975927.rss",
+      "id": "82d01df404d6b2d18fff63d8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3434,7 +3554,7 @@
       "title": "ImageLabel in SurfaceUI blurry",
       "url": "https://devforum.roblox.com/t/imagelabel-in-surfaceui-blurry/4975866",
       "published": "2026-11-04",
-      "excerpt": "I keep trying to make this UI less blurry but it doesn’t make a difference, 4 posts - 2 participants Read full topic",
+      "excerpt": "I keep trying to make this UI less blurry but it doesn’t make a difference, 6 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/imagelabel-in-surfaceui-blurry/4975866.rss",
       "id": "60604d61126df932c7c74f87"
@@ -3495,6 +3615,28 @@
       "excerpt": "submitted by /u/groham6000 [link] [comments]",
       "creator": "/u/groham6000 https://www.reddit.com/user/groham6000",
       "id": "589cd86f14f83ed73d317854"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Why does my animation look different ingame?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo373v/why_does_my_animation_look_different_ingame/",
+      "published": "2026-11-04",
+      "excerpt": "Why does my animation play differently in game? submitted by /u/Iluveri [link] [comments]",
+      "creator": "/u/Iluveri https://www.reddit.com/user/Iluveri",
+      "id": "5705c29b32d2c2f79b468cad"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Ideas on building a pre-launch community?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo3p7k/ideas_on_building_a_prelaunch_community/",
+      "published": "2026-11-04",
+      "excerpt": "How do you guys build a pre-launch community? Numerous sources online recommend setting up an intuitive gameplay loop that casual players can learn quickly, and then investing in ads for Roblox to gather data and promote your game. This makes sense for simple games because casual Roblox players can ",
+      "creator": "/u/Nomadics_Team https://www.reddit.com/user/Nomadics_Team",
+      "id": "568f6c7fc1ca4f4c343eeb53"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3698,6 +3840,17 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "I have just released a game and only getting 2% ctr in ads",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo3jme/i_have_just_released_a_game_and_only_getting_2/",
+      "published": "2026-11-04",
+      "excerpt": "I am not sure what I am doing wrong. I have spent 30 dollars for 3 days, 8 dollars so far 20 hours has passed but only at 1.9% ctr and learning settings. game link: https://preview.redd.it/r659ktanlozh1.png?width=1080&format=png&auto=webp&s=01547006131edc2ad8bc288844f3cefcafd41b68 https://www.roblox",
+      "creator": "/u/Artistic_Zone_8095 https://www.reddit.com/user/Artistic_Zone_8095",
+      "id": "301234e20ea58743e72f598f"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Looking for people to work on this Roblox game with me (making a team)",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xntcw7/looking_for_people_to_work_on_this_roblox_game/",
       "published": "2026-11-04",
@@ -3780,6 +3933,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Purchasing Plus Subscriptions With Roblox Credits",
+      "url": "https://devforum.roblox.com/t/purchasing-plus-subscriptions-with-roblox-credits/4975937",
+      "published": "2026-11-04",
+      "excerpt": "The regular Roblox Plus subscription can be purchased for 3 or more months using Roblox Credit. However, the 500, 1,000, and 2,000 Robux/month Plus subscription plans do not offer this option. Since Roblox is currently banned in my region, we cannot subscribe to Roblox Plus directly and have to use ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/purchasing-plus-subscriptions-with-roblox-credits/4975937.rss",
+      "id": "1530fd04f89df61815731988"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Scaling Tool Handles/Axes show up even though I have nothing selected, persists after restarting Studio but only on a specific place.",
       "url": "https://devforum.roblox.com/t/scaling-tool-handlesaxes-show-up-even-though-i-have-nothing-selected-persists-after-restarting-studio-but-only-on-a-specific-place/4974571",
       "published": "2026-11-04",
@@ -3833,6 +3998,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-keeps-crashing/4975035.rss",
       "id": "13788efe5fa88eda0708295a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Forklift Certified",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo3u5z/forklift_certified/",
+      "published": "2026-11-04",
+      "excerpt": "Something about mayhem or sum idk submitted by /u/ErebusPr [link] [comments]",
+      "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
+      "id": "114399cb838ac19f5d60a7a9"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9359,170 +9535,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/making-a-dev-team-of-10-people-who-wanna-join/4968039.rss",
       "id": "65d0dc7a17a4239958652f7e"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Steal An Egg Update Jonas Brothers LIVE! #roblox #stealanegg #new #update #jonasbrotherlive - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ZGs4WHM3WkJhYUJXSGtvZWJHeW83WHBBczgzTnczeU9PZ1ZwcFZ5ZG1pMWdESzd3OGt0RFNsaWhxRVVoZkZ4X09nOVB4cGtrU1U0MmZB?oc=5",
-      "published": "2026-10-31",
-      "excerpt": "Steal An Egg Update Jonas Brothers LIVE! #roblox #stealanegg #new #update #jonasbrotherlive Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "64c942b6374b695931964420"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Update an existing asset: only the 30 newest avatar items are selectable; older items can't be found, even by asset ID",
-      "url": "https://devforum.roblox.com/t/update-an-existing-asset-only-the-30-newest-avatar-items-are-selectable-older-items-cant-be-found-even-by-asset-id/4968033",
-      "published": "2026-10-31",
-      "excerpt": "The recent “Update an existing asset” feature only allows me to select from my 30 most recently uploaded items. Anything past that is not displayed, and typing its asset ID into the “Original asset ID” field returns nothing. No pagination, no “load more,” just nothing. I only wish to alter an older ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/update-an-existing-asset-only-the-30-newest-avatar-items-are-selectable-older-items-cant-be-found-even-by-asset-id/4968033.rss",
-      "id": "6263303d6be6109acbba3dfb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Transfer Bug when User is unable to see game, inept require \"[TITLE UNAVAILABLE]\" for verification acceptance",
-      "url": "https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198",
-      "published": "2026-10-31",
-      "excerpt": "Issue Issue that occurs when User A. is trying to transfer a experience to User B. or Group B. User B or Group B. doesn’t have access to the experience. where the Transfer details shows [TITLE UNAVAILABLE] to User B. and to enter [TITLE UNAVAILABLE], when it should be the experience name (and only w",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/transfer-bug-when-user-is-unable-to-see-game-inept-require-title-unavailable-for-verification-acceptance/4967198.rss",
-      "id": "597baaae40695600df43274b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for Feedback Before My Game Launch!",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-before-my-game-launch/4968652",
-      "published": "2026-10-31",
-      "excerpt": "Hello! I’m planning to launch my game on October 6 and run ads for a week after release. Here’s the game link: +1 Speed Ice Skating Escape | Play on Roblox I’d really appreciate any feedback on the game, especially what could be improved before launch. Also, how difficult is it to meet Roblox’s enga",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-before-my-game-launch/4968652.rss",
-      "id": "57c926e8f27525f0905237cd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Im building a gmod z-city type game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkluuf/im_building_a_gmod_zcity_type_game/",
-      "published": "2026-10-31",
-      "excerpt": "submitted by /u/Soggy_Marketing_4673 [link] [comments]",
-      "creator": "/u/Soggy_Marketing_4673 https://www.reddit.com/user/Soggy_Marketing_4673",
-      "id": "54b5cc65e3c7aa5f2428c548"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Feature Request] Expose Native Screen-Space Compute Passes, G-Buffer Access, and a Sandboxed `GRLScript` Pipeline for Advanced Rendering]",
-      "url": "https://devforum.roblox.com/t/feature-request-expose-native-screen-space-compute-passes-g-buffer-access-and-a-sandboxed-grlscript-pipeline-for-advanced-rendering/4967644",
-      "published": "2026-10-31",
-      "excerpt": "[Feature Request] Expose Native Screen-Space Compute Passes, G-Buffer Access, and a Sandboxed GRLScript Pipeline for Advanced Rendering] Executive Summary & Problem Statement Current engine abstractions impose rigid CPU-to-GPU bandwidth bottlenecks and severe sandboxing constraints that preclude hig",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feature-request-expose-native-screen-space-compute-passes-g-buffer-access-and-a-sandboxed-grlscript-pipeline-for-advanced-rendering/4967644.rss",
-      "id": "548ad66ea9b158fe3fef0b11"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I Finally Published My First Horror Game after 4-5Months",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkbkba/i_finally_published_my_first_horror_game_after/",
-      "published": "2026-10-31",
-      "excerpt": "​ Looking for Feedback on My Roblox Horror Game – Bucktooth (Early Development) Hey everyone! I've been working on a Roblox horror game called Bucktooth , and I'd love to get some feedback from people who enjoy horror and adventure games. The game is still in its early development phase, so there ar",
-      "creator": "/u/Two-South https://www.reddit.com/user/Two-South",
-      "id": "4cf810cacc7fe1e8eb7fd008"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "So I might've made something...",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk64ba/so_i_mightve_made_something/",
-      "published": "2026-10-31",
-      "excerpt": "I suppose Bassie has a quest for you! The game is currently in beta, and I'd love to hear some feedback! Does the UI fit the overall theme? Does it feel cohesive with the game? I've been working on a lot more content, but honestly, I've been a little nervous about sharing it. I know this isn't my fr",
-      "creator": "/u/moneydollarz https://www.reddit.com/user/moneydollarz",
-      "id": "4c3e40aba544d91f5865c226"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "HELP: recently found bug",
-      "url": "https://devforum.roblox.com/t/help-recently-found-bug/4967071",
-      "published": "2026-10-31",
-      "excerpt": "I have recently found a bug where players who use a morph in my game, are suddenly unable to use parts with clickdetectors to add accessories to their character(s). This was not the case this morning, I was able to use my accessory parts on a previously morphed character just fine. No changes have b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/help-recently-found-bug/4967071.rss",
-      "id": "4a13cffdc5199a51d2684b65"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My game has 400-500CCU but we only make 300-400 robux each FULL day",
-      "url": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745",
-      "published": "2026-10-31",
-      "excerpt": "I’m looking for some honest advice about monetization. My game, The Penalty Challenge, currently has around 400–500 concurrent players, but purchases only generate around 300–400 Robux per full day. It’s a 1v1 penalty game where you take turns shooting and goalkeeping. There are regular matches, dif",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-game-has-400-500ccu-but-we-only-make-300-400-robux-each-full-day/4967745.rss",
-      "id": "48b55f082b1bb8fd4748999e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Add the ability to ban people from groups who aren't in the group + timed bans",
-      "url": "https://devforum.roblox.com/t/add-the-ability-to-ban-people-from-groups-who-arent-in-the-group-timed-bans/4967972",
-      "published": "2026-10-31",
-      "excerpt": "I am requesting for the ability to ban people from groups even if they aren’t in the group to be added as well as timed bans. Why? Currently, group admins/owners can only ban group members if they are in the group. This allows people to leave the group to prevent being banned, then potentially join ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/add-the-ability-to-ban-people-from-groups-who-arent-in-the-group-timed-bans/4967972.rss",
-      "id": "4790bb83dcda32edc993a891"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Why isn't it not ignoring the ghost?",
-      "url": "https://devforum.roblox.com/t/why-isnt-it-not-ignoring-the-ghost/4967510",
-      "published": "2026-10-31",
-      "excerpt": "idk whats wrong but it better not be fucking simple --[[ ReplicatedFirst/LocalScript part of the script also ignore how scuffed the code is --]] const runservice = game:GetService(\"RunService\") const plrs = game:GetService(\"Players\") const replicatedstorage = game:GetService(\"ReplicatedStorage\") con",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/why-isnt-it-not-ignoring-the-ghost/4967510.rss",
-      "id": "45f184d343ccb72cb306c0bd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Motor6d Breaking my weapon",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkm3bw/motor6d_breaking_my_weapon/",
-      "published": "2026-10-31",
-      "excerpt": "https://preview.redd.it/44ihwtxrgvyh1.png?width=1152&format=png&auto=webp&s=53e24918a83068aad31cff7918d4d83a04dfe084 Im trying to create an idle animation with a tool ive created, and to create the animation im trying to use motor6d attachments on both the right and left hand, but when i do this it ",
-      "creator": "/u/Internal_Load_3841 https://www.reddit.com/user/Internal_Load_3841",
-      "id": "45bab755fea521f750230af8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "OpenArena 0.8.8 ported to Roblox",
-      "url": "https://devforum.roblox.com/t/openarena-088-ported-to-roblox/4967863",
-      "published": "2026-10-31",
-      "excerpt": "Hey everybody! If you aren’t familiar with what is OpenArena, it is a free open source arena shooter based on ioquake3, the engine used for Quake III Arena . If you haven’t reached unc status yet, Quake III (released back in 1999) is basically the absolute forefather of competitive fast-paced FPS ga",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/openarena-088-ported-to-roblox/4967863.rss",
-      "id": "4433fa5f496e07346dcda671"
     }
   ]
 }

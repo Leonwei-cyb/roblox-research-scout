@@ -21,6 +21,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\Roblox' is not recognized)](https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979)** — Public text/page, video not confirmed
 - **[looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/)** — Public text/page, video not confirmed
-- **[SVG Importer Plugin](https://devforum.roblox.com/t/svg-importer-plugin/4975724)** — Public text/page, video not confirmed
 - **[Studio MCP Server Updates: Open Cloud Access in Your MCP Client and Asset Import Workflows](https://devforum.roblox.com/t/studio-mcp-server-updates-open-cloud-access-in-your-mcp-client-and-asset-import-workflows/4975849)** — Public text/page, video not confirmed
