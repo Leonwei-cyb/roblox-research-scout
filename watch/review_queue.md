@@ -6,8 +6,8 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
+- **[Grand Strategy WW1 Game stats](https://www.reddit.com/r/robloxgamedev/comments/1xogqkh/grand_strategy_ww1_game_stats/)** — Public text/page, video not confirmed
 - **[(Game idea feedback) Would a single-player/co-op hospital simulator work on Roblox?](https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515)** — Public text/page, video not confirmed
-- **[What I learned getting 200+ enemies on screen at 60 fps in my Roblox tower defense](https://www.reddit.com/r/robloxgamedev/comments/1xmfolc/what_i_learned_getting_200_enemies_on_screen_at/)** — Public text/page, video not confirmed
 - **[\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
@@ -21,6 +21,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\Roblox' is not recognized)](https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979)** — Public text/page, video not confirmed
+- **[luau-signals - luau port of alien-signals](https://devforum.roblox.com/t/luau-signals-luau-port-of-alien-signals/4976701)** — Public text/page, video not confirmed
 - **[looking for playtesters](https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/)** — Public text/page, video not confirmed
 - **[Studio MCP Server Updates: Open Cloud Access in Your MCP Client and Asset Import Workflows](https://devforum.roblox.com/t/studio-mcp-server-updates-open-cloud-access-in-your-mcp-client-and-asset-import-workflows/4975849)** — Public text/page, video not confirmed
