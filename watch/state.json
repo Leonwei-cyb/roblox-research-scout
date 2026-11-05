@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "0c094d44632380f968624981fb099daa049c49f4",
-      "head_subject": "MCP OAuth - Claude Code can sign in: loopback redirect URIs match on any port (RFC 8252 7.3) (#4673)",
+      "head": "0a66ff7cdce455bc5a2db44264a9299de2325a0d",
+      "head_subject": "Clear history - don't fail when a save renames its .tmp file away mid-clear (#4674)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.1",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.1",

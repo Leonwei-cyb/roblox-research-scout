@@ -7,8 +7,8 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[Crazy Moment Steal an Egg 🤯 Wait for it ... #roblox #robloxedit #stealanegg #fyp #viral #trending - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE45X29JbFlfUklzWXRJb2plR3B4NXBEdkl3cTZ2eE1XTkJVNHhnUW4wMGRESHZGOVlZeHFSc0p4N3JhcGJwUkkwY3ZCdDA0T1hxVmZsY2dB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-16
-  - Feed excerpt: Crazy Moment Steal an Egg 🤯 Wait for it ... #roblox #robloxedit #stealanegg #fyp #viral #trending Instagram
+- **[Steal an egg is soo ahh🥀 #stealanegg #roblox #skidgaming - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wa1VzUUwtVDlKQlNRd3JyamNsS21GWUVwbnlTMjd5RVNVelNhNEk5Qjl6a2VqaTRNeUdWbko5d3lHSklDQWVGUWdyU3JPWm9UWU9hVVNn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-01
+  - Feed excerpt: Steal an egg is soo ahh🥀 #stealanegg #roblox #skidgaming Instagram
 
 ---
 
