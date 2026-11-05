@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Release:** [huginn/huginn](https://github.com/huginn/huginn) v2026.11.05 → v2026.11.05.2.
+- **Release:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 0.60.10 → 0.70.1.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 287
+- devforum: 288
 - index-only: 8
-- reddit: 296
+- reddit: 295
 - youtube: 5
 
 ## First-Session And Mobile
@@ -47,8 +47,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## World And Visual Design
 
+- [Roblox Player displays terrain in low detail; full detail fine in Roblox Studio](https://devforum.roblox.com/t/roblox-player-displays-terrain-in-low-detail-full-detail-fine-in-roblox-studio/4976392) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 - [Roblox Studio Bug: Terrain Editor and Transform Tools Disappear When Pressing Ctrl](https://devforum.roblox.com/t/roblox-studio-bug-terrain-editor-and-transform-tools-disappear-when-pressing-ctrl/4973824) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [\[HIRING\] Experienced Builder / 3D Environment Artist Realistic Recreation of Downtown Guelph, Ontario](https://devforum.roblox.com/t/hiring-experienced-builder-3d-environment-artist-realistic-recreation-of-downtown-guelph-ontario/4976307) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 

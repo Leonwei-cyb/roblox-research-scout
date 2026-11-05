@@ -2656,9 +2656,36 @@
     "73e98c874fe94cb946da4c07",
     "9167af94a7fac0cda4cf2f2e",
     "09ead7fc1a2879b930e1cd19",
-    "75a1de1ed62f477590452530"
+    "75a1de1ed62f477590452530",
+    "f58460917a0deb358cd20786",
+    "fc5b9399503538fe5444e17b",
+    "dd5e66dce7d7c5ce05124d99"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Player displays terrain in low detail; full detail fine in Roblox Studio",
+      "url": "https://devforum.roblox.com/t/roblox-player-displays-terrain-in-low-detail-full-detail-fine-in-roblox-studio/4976392",
+      "published": "2026-11-05",
+      "excerpt": "On some joins in my games, the Windows Roblox Player ends up drawing what should be granular, detailed relief as an amalgamation of flat sheets; it’s coarse. I would expect this when initially loading in, but it never fixes itself, regardless of the work being done in the background. The normal grou",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-player-displays-terrain-in-low-detail-full-detail-fine-in-roblox-studio/4976392.rss",
+      "id": "fc5b9399503538fe5444e17b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to Run ViewModel Animation",
+      "url": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408",
+      "published": "2026-11-05",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408.rss",
+      "id": "f58460917a0deb358cd20786"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -2682,6 +2709,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348.rss",
       "id": "e3564444a002df602adb382b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Any new developer want to work with me?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoa3kx/any_new_developer_want_to_work_with_me/",
+      "published": "2026-11-05",
+      "excerpt": "I'm a scripter with roughly 3 months of experience, and I'm looking for a partner to learn by creating a game together. It's like a motivation for both of us to dedicate time to learn our respective skills ( because I'm personally struggling with developing a consistent schedule ). No game idea at t",
+      "creator": "/u/Loose-Mousse6668 https://www.reddit.com/user/Loose-Mousse6668",
+      "id": "dd5e66dce7d7c5ce05124d99"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9523,40 +9561,6 @@
       "excerpt": "",
       "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
       "id": "913f032cc1bc89fdf928c921"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Let us announce updates without an exact date (\"Coming Soon\" / \"This Fall\")",
-      "url": "https://devforum.roblox.com/t/let-us-announce-updates-without-an-exact-date-coming-soon-this-fall/4968275",
-      "published": "2026-10-31",
-      "excerpt": "As a Roblox developer, it is currently too hard to tell players an update is coming when I don’t know the exact date yet. Events & Updates only works with a fixed start and end time. But in real dev life dates slip all the time - bugs, testing, life stuff. So right now I have 2 bad options: put a da",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/let-us-announce-updates-without-an-exact-date-coming-soon-this-fall/4968275.rss",
-      "id": "90a7b618fe7a6b283e4d92ea"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Battle in my upcoming roblox game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjx01l/battle_in_my_upcoming_roblox_game/",
-      "published": "2026-10-31",
-      "excerpt": "any feedback? submitted by /u/vestive [link] [comments]",
-      "creator": "/u/vestive https://www.reddit.com/user/vestive",
-      "id": "8e0c129546f3df0edf97cff8"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I need suggestions for my dead game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkkwu5/i_need_suggestions_for_my_dead_game/",
-      "published": "2026-10-31",
-      "excerpt": "I have an incremental game, it had great CCU and stats all along but suddenly died, I don't know what's wrong really. If some of y'all try it and make some suggestions I would be grateful. https://www.roblox.com/games/136966381029085/Celestial-Rarities (We didn't use AI) submitted by /u/Repulsive-Pe",
-      "creator": "/u/Repulsive-Pension544 https://www.reddit.com/user/Repulsive-Pension544",
-      "id": "8d6278fd5b0b96ab9ffdd286"
     }
   ]
 }

@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Dynamic Heads - Facial Animation not properly applying](https://devforum.roblox.com/t/dynamic-heads-facial-animation-not-properly-applying/4974458)** — Public text/page, video not confirmed
+- **[How to Run ViewModel Animation](https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408)** — Public text/page, video not confirmed
 - **[Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
