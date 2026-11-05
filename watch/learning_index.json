@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 597,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -1269,21 +1269,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4968039:1",
-      "url": "https://devforum.roblox.com/t/making-a-dev-team-of-10-people-who-wanna-join/4968039",
-      "title": "Making a dev team of 10 people, who wanna join?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-31",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4968170:1",
       "url": "https://devforum.roblox.com/t/experience-stuck-in-final-review-in-progress-for-48-hours-after-correcting-maturity-questionnaire/4968170",
       "title": "Experience stuck in \"Final review in progress\" for 48+ hours after correcting Maturity Questionnaire",
@@ -2198,6 +2183,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4976073:1",
+      "url": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073",
+      "title": "Studio DataStore calls return “Access forbidden” for a group-owned experience, even as group owner (personal places work)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-05",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xjwyqb",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjwyqb/anyone_have_a_guide_to_weld_item_with_the_eclipse/",
       "title": "Anyone have a guide to weld item with the eclipse animator ?",
@@ -3102,20 +3100,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4967076:1",
-      "url": "https://devforum.roblox.com/t/native-flag-client-vs-playtest-mismatch/4967076",
-      "title": "native flag client vs playtest mismatch",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-31",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4968143:1",
       "url": "https://devforum.roblox.com/t/can-creator-defined-preset-system-encode-messages-strictly-pertaining-to-information-relative-to-objective-intent/4968143",
       "title": "Can creator-defined preset system encode messages strictly pertaining to information relative to \"objective intent\"?",
@@ -3782,19 +3766,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4968771:1",
-      "url": "https://devforum.roblox.com/t/glass-material-started-behaving-differently/4968771",
-      "title": "Glass Material started behaving differently",
-      "source": "roblox-devforum-latest",
-      "published": "2026-10-31",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4968911:1",
       "url": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911",
       "title": "Allow Game Name A-B Testing",
@@ -4394,8 +4365,8 @@
     },
     {
       "key": "devforum:4975874:1",
-      "url": "https://devforum.roblox.com/t/enforcementnew-ban-important/4975874",
-      "title": "Enforcement/new ban IMPORTANT",
+      "url": "https://devforum.roblox.com/t/massive-banwave-enforcement-ban-new/4975874",
+      "title": "Massive banwave! Enforcement ban + new",
       "source": "roblox-devforum-latest",
       "published": "2026-11-04",
       "kind": "devforum",
@@ -4492,19 +4463,6 @@
       "kind": "reddit",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xkf3gk",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkf3gk/check_out_my_new_game_pls/",
-      "title": "Check Out My New Game Pls",
-      "source": "reddit-robloxstudio",
-      "published": "2026-10-31",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6278,6 +6236,28 @@
       "key": "devforum:4975982:1",
       "url": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982",
       "title": "Unable to Make any games public since getting wrongfully terminated",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-05",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4976046:1",
+      "url": "https://devforum.roblox.com/t/currently-unable-to-publish-games-publicly/4976046",
+      "title": "Currently Unable to Publish Games Publicly",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-05",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4976072:1",
+      "url": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072",
+      "title": "Unable to set user experience to public?",
       "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",

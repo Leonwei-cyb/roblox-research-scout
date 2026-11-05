@@ -2642,7 +2642,11 @@
     "114399cb838ac19f5d60a7a9",
     "568f6c7fc1ca4f4c343eeb53",
     "301234e20ea58743e72f598f",
-    "5705c29b32d2c2f79b468cad"
+    "5705c29b32d2c2f79b468cad",
+    "c000bfc49561d05bd4bbe518",
+    "a7497d93356837655fc6fb14",
+    "0c3f049c193287ae7a91e96b",
+    "b85c9519231c934b7f7cc455"
   ],
   "items": [
     {
@@ -2656,6 +2660,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044.rss",
       "id": "f21d42acb51f788b832b7656"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio DataStore calls return “Access forbidden” for a group-owned experience, even as group owner (personal places work)",
+      "url": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073",
+      "published": "2026-11-05",
+      "excerpt": "Description: Since moving my experience into my group, every DataStore call from Studio in that place fails with: 502: API Services rejected request with error. Error code: 0 Reason: Access forbidden. I’m the Owner of the group (not an admin or edit role), and Studio is signed in as that owner accou",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073.rss",
+      "id": "c000bfc49561d05bd4bbe518"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to set user experience to public?",
+      "url": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072",
+      "published": "2026-11-05",
+      "excerpt": "Description: On the Creator Hub’s Manage audience page for my group-owned experience, clicking Release publicly → Continue shows “You do not have permission to do this.” Switching from Playtest to Public in Manage access shows “Unable to change access. Try again.” I’m the Owner of the group, and eve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072.rss",
+      "id": "a7497d93356837655fc6fb14"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2714,6 +2742,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982.rss",
       "id": "3f6b789b371810305468f992"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Currently Unable to Publish Games Publicly",
+      "url": "https://devforum.roblox.com/t/currently-unable-to-publish-games-publicly/4976046",
+      "published": "2026-11-05",
+      "excerpt": "Currently when I attempt to push a game to public, it says I do not have access. This is reproduceable in games owned by my personal account and group owned games (where I am the owner). Affected game: https://www.roblox.com/games/82333965857708/Breaking-Test Browser Information: Google Chrome Expec",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/currently-unable-to-publish-games-publicly/4976046.rss",
+      "id": "0c3f049c193287ae7a91e96b"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3112,6 +3152,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/it-cant-load-all-experience/4974734.rss",
       "id": "bad1806a235cc5559eb2ec0f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Massive banwave! Enforcement ban + new",
+      "url": "https://devforum.roblox.com/t/massive-banwave-enforcement-ban-new/4975874",
+      "published": "2026-11-04",
+      "excerpt": "Enforcement bans have been taking over millions of innocent players accounts with Roblox simply saying that it’s partially not false? Just in the Eu alone 20 million players have gotten banned in the past few weeks, more than probably any amount of bans Roblox has ever made, with 87% of them alone b",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/massive-banwave-enforcement-ban-new/4975874.rss",
+      "id": "b85c9519231c934b7f7cc455"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9488,53 +9540,6 @@
       "excerpt": "What do you guys think submitted by /u/ErebusPr [link] [comments]",
       "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
       "id": "6bcf5c009540ca15d61be14d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Check Out My New Game Pls",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkf3gk/check_out_my_new_game_pls/",
-      "published": "2026-10-31",
-      "excerpt": "🔥 CHECK OUT MY NEW ROBLOX GAME! 🔥 🎮 Looking for a new Roblox game to play? Come check out my game and be part of the community! ✨ Why should you play? 🎯 Fun gameplay 🚀 Exciting adventures 💎 Discover new things 🏆 Challenge yourself and improve! ❤️ Every player and every bit of feedback helps! 🔗 PLAY ",
-      "creator": "/u/BasicAdhesiveness304 https://www.reddit.com/user/BasicAdhesiveness304",
-      "id": "6ae262efd97a2f919b301fdb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "native flag client vs playtest mismatch",
-      "url": "https://devforum.roblox.com/t/native-flag-client-vs-playtest-mismatch/4967076",
-      "published": "2026-10-31",
-      "excerpt": "when running the “–!native” flag within the roblox studio playtest it seamingly functions durring a playtest on local scripts, allowing me to pull 165 FPS with my 256x256 classic NES style game, but that exact same game running on the acctual roblox player would get 4 FPS and 30/60 expected game tic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/native-flag-client-vs-playtest-mismatch/4967076.rss",
-      "id": "6a9b6a6db0dee81257f5b998"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Glass Material started behaving differently",
-      "url": "https://devforum.roblox.com/t/glass-material-started-behaving-differently/4968771",
-      "published": "2026-10-31",
-      "excerpt": "I’ve been receiving a lot of reports since yesterday that scopes in my game are broken. Seems to only be happening to players playing on PC, probably Windows. It doesn’t happen every time but it does seem to happen a lot. I use the Glass material for the scopes, worked fine for as long as the game e",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/glass-material-started-behaving-differently/4968771.rss",
-      "id": "6659e775a454c6cae6293de5"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Making a dev team of 10 people, who wanna join?",
-      "url": "https://devforum.roblox.com/t/making-a-dev-team-of-10-people-who-wanna-join/4968039",
-      "published": "2026-10-31",
-      "excerpt": "Hi all! I am working on a game called Brickbattling Plus, an action roguelite inspired by Nullscape and Combat Initiation, and ULTRAKILL. I wanna create a dev team of 6-10 people, only requirement is you have to be in the 21+ age group (bro) Roles needed are animators, scripters, builders, musicians",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/making-a-dev-team-of-10-people-who-wanna-join/4968039.rss",
-      "id": "65d0dc7a17a4239958652f7e"
     }
   ]
 }
