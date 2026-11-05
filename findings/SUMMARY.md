@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-05T03:23:59Z (local, ok)
+- Last run: 2026-11-05T07:25:23Z (schedule, partial)
 - Repos tracked: 472; adopt 0, needs-test 168, reject 304
 - Actionable backlog: 157
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​d7ba2ee, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/8171e73b88ce8cf39594ea95fdbdcd1466535a01)
   - Pin jmagly/aiwg@​8171e73, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #1948 Fix: npm-installed Codex is not detected on Windows without CEZ\_CODEX\_BIN
-- Release: alamops/agetor v1.1.0 to v1.1.1
-- Issue updated: obra/superpowers #2612 subagent-driven-development: 15-task port of a \~2,000-line R script hit 5 session limits; coordinato
-- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
-- Issue updated: obra/superpowers #2662 diagnosing-superpowers: transcript-as-evidence guard never reaches the dispatcher or the analysts
-- Issue updated: obra/superpowers #2661 diagnosing-superpowers: step 5 posts unscrubbed report content \(verbatim transcript quotes\) to this
-- Issue updated: earendil-works/pi #11773 Upgrade Token Plan branding and gateway setup compatibly
-- Issue updated: earendil-works/pi #10628 OSC 52 copy in fullscreen TUI is swallowed by tmux \(no passthrough wrap\)
-- Issue updated: earendil-works/pi #7730 High CPU usage on Mac OS with long session
-- Issue updated: earendil-works/pi #10256 0.99.x: terminal color query replies leak into the prompt and BEL opens the external editor \(mintty
-- Issue updated: ComposioHQ/awesome-claude-skills #2425 Link canonical taskade/awesome-vibe-coding \(fork PR blocked\)
-- Issue updated: OpenHands/OpenHands #19326 \[Bug\]: Microphone access
-- Issue updated: OpenHands/OpenHands #19345 \[Feature\]: Make automation workflows consistent with a trigger-first “If this, then that” flow
-- Issue updated: OpenHands/OpenHands #19336 \[Bug\]: Planner never creates its plan conversation: 422 Duplicate skill name found when an installed
-- Issue updated: OpenHands/OpenHands #19337 \[Bug\]: Default condenser keep\_first pins the first user message, so a later task loses to the origin
-- Issue updated: OpenHands/OpenHands #19325 \[Bug\]: On Windows, Ctrl+C after a timed-out foreground command hangs the agent forever
-- Release: modelcontextprotocol/servers v2.2.0 to v2.3.0
-- Issue updated: modelcontextprotocol/servers #3537 Security Audit: Unconstrained string parameters across all official servers
-- Issue updated: modelcontextprotocol/servers #5071 filesystem, memory: descriptions don't say how to choose between list\_directory / list\_directory\_wit
-- Issue updated: modelcontextprotocol/servers #5416 memory: add descriptions to the top-level array parameters of create\_entities, create\_relations, add
-- Issue updated: modelcontextprotocol/servers #5418 memory: lock heartbeat refreshes a lock file the process no longer owns
-- Issue updated: modelcontextprotocol/servers #5419 everything/tasks: tasks/update checks MAX\_ANSWER\_BYTES against string length, so non-ASCII answers e
-- Issue updated: anthropics/claude-code #107376 VS Code extension: honor statusLine / expose rate\_limits so tools don't need to read OAuth credentia
-- Issue updated: anthropics/claude-code #98655 Projects: let the coordinator push a notification \(desktop and phone\) when it needs my answer
-- Issue updated: anthropics/claude-code #107375 \[BUG\] Fullscreen: double-clicking the prompt's horizontal rule overwrites the clipboard
-- Issue updated: anthropics/claude-code #66010 \[BUG\] \[PRIVACY\] GMail MCP Rewrites URL with google tracking URLS as of 5th of June
-- Issue updated: anthropics/claude-code #107374 \[BUG\] 'deny' rule for Read is silently ignored when the path is already inside an allowed/cwd direct
-- Issue updated: openai/codex #59060 Told to reboot a server, it destroyed systemd, destroyed containers, ran random scripts, cost me $10
-- Issue updated: openai/codex #59555 Codex won't perform tasks
-- Issue updated: openai/codex #55556 Desktop app: no visible review action after "blocked by policy"; /approve unavailable
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
