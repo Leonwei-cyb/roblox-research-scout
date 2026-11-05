@@ -1,77 +1,14 @@
 {
-  "schema": "LEON_COLONISTS_RESEARCH_REPORT_V1",
-  "status": "TRIAGE_ONLY_NOT_GAMEPLAY_ANALYSIS",
-  "active_game": "Colonists",
-  "held_games_not_current": [
-    "Cat Magic"
-  ],
+  "schema": "LEON_ACTIVE_GAME_RESEARCH_REPORT_V1",
+  "status": "ACTIVE_GAME_UNKNOWN_NO_GAME_TASKS",
+  "active_game": null,
+  "held_games_not_current": [],
   "input_unique_posts": 596,
   "original_source_candidates": 588,
   "inspected_videos": 0,
   "observed_gameplay_findings": 0,
   "new_code_changes_authorized": false,
-  "candidates": [
-    {
-      "priority": "P0",
-      "topic": "board game and turn flow",
-      "key": "devforum:4976421:1",
-      "title": "Territory Hex: Looking for Feedback",
-      "url": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421",
-      "kind": "devforum",
-      "published": "2026-11-05",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "At the same game state as the Colonist.io original, does a turn read as roll, collect, build or trade, end?"
-    },
-    {
-      "priority": "P0",
-      "topic": "first-session and mobile",
-      "key": "devforum:4968951:1",
-      "title": "How to install the Roblox Developer Forum app on mobile",
-      "url": "https://devforum.roblox.com/t/how-to-install-the-roblox-developer-forum-app-on-mobile/4968951",
-      "kind": "devforum",
-      "published": "2026-11-01",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Can a first-time desktop player place both opening settlements and roads without help text?"
-    },
-    {
-      "priority": "P1",
-      "topic": "UI and menus",
-      "key": "devforum:4974212:1",
-      "title": "Build Accessible UI Faster: New Color3 Contrast & Luminance Methods",
-      "url": "https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212",
-      "kind": "devforum",
-      "published": "2026-11-03",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?"
-    },
-    {
-      "priority": "P1",
-      "topic": "world and visual design",
-      "key": "reddit:1xjz00m",
-      "title": "WITHERSTORM Model",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xjz00m/witherstorm_model/",
-      "kind": "reddit",
-      "published": "2026-10-31",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?"
-    },
-    {
-      "priority": "P1",
-      "topic": "animation and audio",
-      "key": "reddit:1xo1048",
-      "title": "Is this animation okay or should I give up and hire animators...?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo1048/is_this_animation_okay_or_should_i_give_up_and/",
-      "kind": "reddit",
-      "published": "2026-11-04",
-      "stage": "UNVIEWED_METADATA",
-      "observation_verified": false,
-      "question_for_reviewer": "Do dice, resource gains and robber moves give short feedback tied to the real action, with no decorative motion?"
-    }
-  ],
+  "candidates": [],
   "unfilled_topics": [],
-  "authority": "LEON_ACTIVE_GAME"
+  "authority": "studio-gate/active_game.txt: UNREADABLE (PermissionError)"
 }

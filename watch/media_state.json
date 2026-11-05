@@ -2686,7 +2686,16 @@
     "1dfcc410392f1938cbff1baa",
     "e65a87320a02e88d20602f75",
     "fb6193daa11dec4d9d3ba646",
-    "4698712c1e42aac977582307"
+    "4698712c1e42aac977582307",
+    "99588e06d874f42adfe24ada",
+    "39bc98b2055f80369d4042d0",
+    "14114c311f9f4f9c2ea45259",
+    "6c77a94b90a01a4363c33da8",
+    "d980cf9f1baa0a74923147b5",
+    "20b4621096bdb82e43be00df",
+    "091a96be1d90207b1e1b180e",
+    "b9624b4654d865b8d342fbfa",
+    "c460188a04a86c08327e42ba"
   ],
   "items": [
     {
@@ -2821,6 +2830,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "We are hiring for dev team at sword lightning studios for create brand new game",
+      "url": "https://devforum.roblox.com/t/we-are-hiring-for-dev-team-at-sword-lightning-studios-for-create-brand-new-game/4976733",
+      "published": "2026-11-05",
+      "excerpt": "Community Project Call for Developers Hello everyone. Our group leader wants us to create a fun game for our community. We are looking for talented members who want to build this project together and expand their portfolio. We need members for game design, programming, 2D or 3D art, and audio design",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/we-are-hiring-for-dev-team-at-sword-lightning-studios-for-create-brand-new-game/4976733.rss",
+      "id": "d980cf9f1baa0a74923147b5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Is it possible to transfer a game?",
       "url": "https://devforum.roblox.com/t/is-it-possible-to-transfer-a-game/4976700",
       "published": "2026-11-05",
@@ -2854,6 +2875,17 @@
       "id": "c9630a36cfbdd3fb3716e06e"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[PAID] Looking for Roblox Game Testers",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xohxx2/paid_looking_for_roblox_game_testers/",
+      "published": "2026-11-05",
+      "excerpt": "I'm currently developing an upcoming Roblox game and looking for a few dedicated playtesters to help identify bugs, evaluate gameplay, and provide honest feedback before release. I'm particularly interested in testers who can identify bugs, evaluate the overall player experience, and suggest meaning",
+      "creator": "/u/Pristine-Tour2541 https://www.reddit.com/user/Pristine-Tour2541",
+      "id": "c460188a04a86c08327e42ba"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -2864,6 +2896,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073.rss",
       "id": "c000bfc49561d05bd4bbe518"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "You tell a game Ill try to create it",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoib63/you_tell_a_game_ill_try_to_create_it/",
+      "published": "2026-11-05",
+      "excerpt": "Basically the title comment any game idea and ill select any idea and will try my best to create a game based on that idea submitted by /u/Brief-Version-5216 [link] [comments]",
+      "creator": "/u/Brief-Version-5216 https://www.reddit.com/user/Brief-Version-5216",
+      "id": "b9624b4654d865b8d342fbfa"
     },
     {
       "source": "reddit-robloxdev",
@@ -2911,6 +2954,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072.rss",
       "id": "a7497d93356837655fc6fb14"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Sound TimePosition preview",
+      "url": "https://devforum.roblox.com/t/sound-timeposition-preview/4976788",
+      "published": "2026-11-05",
+      "excerpt": "When you set the TimePosition of a sound there is no easy way to play it back and preview how it sounds with that TimePosition. Making an option to play it with TimePosition in sound preview would make it a lot easier. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sound-timeposition-preview/4976788.rss",
+      "id": "99588e06d874f42adfe24ada"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2993,6 +3048,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/smartyrbx-cant-make-his-own-game-public/4976285.rss",
       "id": "73e98c874fe94cb946da4c07"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio MCP execute_luau now runs without the Network capability: can't parent scripts or require modules",
+      "url": "https://devforum.roblox.com/t/studio-mcp-executeluau-now-runs-without-the-network-capability-cant-parent-scripts-or-require-modules/4976763",
+      "published": "2026-11-05",
+      "excerpt": "Since I updated Studio today (0.746), code run through the built-in Studio Assistant’s MCP execute_luau tool runs on a thread without the Network capability. Every script instance in the place has the default (full) capability set, so the thread can no longer parent a script, require an existing Mod",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-mcp-executeluau-now-runs-without-the-network-capability-cant-parent-scripts-or-require-modules/4976763.rss",
+      "id": "6c77a94b90a01a4363c33da8"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3090,6 +3157,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "[Server Authority] Regression with mispredictions for shiftlock jitter fix",
+      "url": "https://devforum.roblox.com/t/server-authority-regression-with-mispredictions-for-shiftlock-jitter-fix/4976785",
+      "published": "2026-11-05",
+      "excerpt": "There’s a regression seemingly caused by a recent bug fix to do with solving shiftlock jitter. After enabling FFlagUserServerAuthorityDontSetAutoRotate , mispredictions start happening whenever shiftlock is active and you walk over any surface which isn’t flat. This most commonly happens when your f",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/server-authority-regression-with-mispredictions-for-shiftlock-jitter-fix/4976785.rss",
+      "id": "39bc98b2055f80369d4042d0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Potential Bug: Clothing Remains on Sale Without Active Premium",
       "url": "https://devforum.roblox.com/t/potential-bug-clothing-remains-on-sale-without-active-premium/4976311",
       "published": "2026-11-05",
@@ -3160,6 +3239,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Bubble Animator v1.0 — Viewport Animation Suite for Roblox Studio",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoiuqp/bubble_animator_v10_viewport_animation_suite_for/",
+      "published": "2026-11-05",
+      "excerpt": "Bubble Animator v1.0 — Viewport Animation Suite for Roblox Studio Higlhy customizable Bubble Animator is a new keyframe animation plugin for Roblox Studio. It provides a complete workspace inside the viewport for posing, editing, and exporting animations with a focus on speed and customization. The ",
+      "creator": "/u/SomeDig6265 https://www.reddit.com/user/SomeDig6265",
+      "id": "20b4621096bdb82e43be00df"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Clip From My Released Game ^^",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xofq8b/clip_from_my_released_game/",
       "published": "2026-11-05",
@@ -3177,6 +3267,18 @@
       "excerpt": "It’s come a long way submitted by /u/Muted-Dress-9456 [link] [comments]",
       "creator": "/u/Muted-Dress-9456 https://www.reddit.com/user/Muted-Dress-9456",
       "id": "190c762ad2d8808b4d87be0e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "ProximityPrompt UI Properties",
+      "url": "https://devforum.roblox.com/t/proximityprompt-ui-properties/4976783",
+      "published": "2026-11-05",
+      "excerpt": "I have many times wanted to change how the ProximityPrompts look in my games, but to do that it seems I need to rebuilt the entire UI from scratch. Making it editable in a simple way, like how bubble chat got easier to edit, would be great for development. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/proximityprompt-ui-properties/4976783.rss",
+      "id": "14114c311f9f4f9c2ea45259"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3213,6 +3315,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/experience-stuck-at-16-age-restriction-and-incorrectly-flagged-for-reduced-exposure-low-quality/4976155.rss",
       "id": "09ead7fc1a2879b930e1cd19"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Copyright question.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoidfx/copyright_question/",
+      "published": "2026-11-05",
+      "excerpt": "Will I be in trouble if I use real references to an anime map? Real names for the areas, real places and etc. But, the characters I changed the names submitted by /u/MeaningPutrid765 [link] [comments]",
+      "creator": "/u/MeaningPutrid765 https://www.reddit.com/user/MeaningPutrid765",
+      "id": "091a96be1d90207b1e1b180e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9482,111 +9595,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-i-make-a-procedural-animation-like-this-using-ikcontrol-or-wtv/4967462.rss",
       "id": "e12e5cf16ff675bf70190ee8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "What is your opinion about the Roblox website?",
-      "url": "https://devforum.roblox.com/t/what-is-your-opinion-about-the-roblox-website/4967732",
-      "published": "2026-10-31",
-      "excerpt": "As a developer, what do you think is missing from Roblox developer-focused sites—such as the talent/Create a new Topic.category.pages or similar platforms? For instance, could there be a dedicated section for specific skills, a personal introduction area, or perhaps an assessment/test to help rank y",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-is-your-opinion-about-the-roblox-website/4967732.rss",
-      "id": "e0f5f4841d3b8786dbdfb1bc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How can I restore my date of birth on the account if a hacker changed it using the ID?",
-      "url": "https://devforum.roblox.com/t/how-can-i-restore-my-date-of-birth-on-the-account-if-a-hacker-changed-it-using-the-id/4968016",
-      "published": "2026-10-31",
-      "excerpt": "Hi everyone, I’m UGC Creator fireldan2. My account was hacked via cookies files, and my 2FA didn’t work. The hacker stole some Robux from me, and the worst part is that they changed my date of birth to September 9, 2014, using a government document. Moreover, they used a function that resets the age",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-can-i-restore-my-date-of-birth-on-the-account-if-a-hacker-changed-it-using-the-id/4968016.rss",
-      "id": "ddb63c6bfac93ae2a624d87e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Demo video of a new game I'm working on! Please let me know what you think!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xk2dfl/demo_video_of_a_new_game_im_working_on_please_let/",
-      "published": "2026-10-31",
-      "excerpt": "I'm working on an auto battler unit drafting game similar to clash royale, but classic roblox styled! I'm calling it Blox Battles, and I just wanted to post this here to see what you guys think of it so far! I would love to hear any thoughts or suggestions! https://reddit.com/link/1xk2dfl/video/siev",
-      "creator": "/u/asher476 https://www.reddit.com/user/asher476",
-      "id": "dcdc13cb85e38cf11f5bc10e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Constitution of Roblox Feedback",
-      "url": "https://devforum.roblox.com/t/constitution-of-roblox-feedback/4968735",
-      "published": "2026-10-31",
-      "excerpt": "CONSTITUTION OF ROBLOX PART I OF II IMPORTANT DISCLAIMER — PLEASE READ BEFORE PROCEEDING THIS IS AN UNOFFICIAL, VOLUNTARY COMMUNITY PROPOSAL. IT IS NOT AN OFFICIAL ROBLOX CORPORATION DOCUMENT, DOES NOT REPRESENT ROBLOX CORPORATION, AND HAS NOT BEEN APPROVED, ENDORSED, OR AUTHORIZED BY ROBLOX. THIS P",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/constitution-of-roblox-feedback/4968735.rss",
-      "id": "dcbcff4cc59f4b3c688dd8b7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Accessory fitting tool keeps giving \"Invalid selection\"",
-      "url": "https://devforum.roblox.com/t/accessory-fitting-tool-keeps-giving-invalid-selection/4968787",
-      "published": "2026-10-31",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/accessory-fitting-tool-keeps-giving-invalid-selection/4968787.rss",
-      "id": "dbbc6eb027d1dbbe86f1241a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "🛠️ R6 Modelers Wanted — Roblox Characters, Killers & Skins",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xknheq/r6_modelers_wanted_roblox_characters_killers_skins/",
-      "published": "2026-10-31",
-      "excerpt": "Genre: Asymmetrical Horror Player Count: 1 Killer vs. 8 Survivors Platform: Roblox We're looking for talented 3D modelers to help create R6 characters, killers, survivors, and skins for our Roblox horror game! 🔨 WHAT WE NEED We're hiring modelers for: Custom R6 killers Survivor models Character skin",
-      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
-      "id": "d8af9ed21ffe703947782632"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "arms made with constraints that physically interact with the environment",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkjtpf/arms_made_with_constraints_that_physically/",
-      "published": "2026-10-31",
-      "excerpt": "for a physics based tactical gun system submitted by /u/aliacfvb [link] [comments]",
-      "creator": "/u/aliacfvb https://www.reddit.com/user/aliacfvb",
-      "id": "d7b9be13ae40f5cff5e73569"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for Playtesters for My Roblox Game!",
-      "url": "https://devforum.roblox.com/t/looking-for-playtesters-for-my-roblox-game/4968764",
-      "published": "2026-10-31",
-      "excerpt": "Hi everyone! I’m working on a Roblox game and I’m looking for people to test it! I’d really appreciate feedback on: Bugs and glitches Gameplay and mechanics Things that could be improved Overall experience Game link: https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-playtesters-for-my-roblox-game/4968764.rss",
-      "id": "d44e1ae45577408c164f3f19"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Audience Reach final review stuck — Crown or Pass remains restricted to 16+",
-      "url": "https://devforum.roblox.com/t/audience-reach-final-review-stuck-%E2%80%94-crown-or-pass-remains-restricted-to-16/4966990",
-      "published": "2026-10-31",
-      "excerpt": "Hello Roblox Engineering Team, My experience, Crown or Pass, was suddenly restricted to players ages 16 and older. This happened out of nowhere, and I made zero changes to the game that would have caused the restriction. The game was briefly no longer marked as 16+, but it was restricted again. As o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/audience-reach-final-review-stuck-%E2%80%94-crown-or-pass-remains-restricted-to-16/4966990.rss",
-      "id": "d34b13fe0471e076c24e83e2"
     }
   ]
 }
