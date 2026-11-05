@@ -921,6 +921,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4977842:1",
+      "url": "https://devforum.roblox.com/t/terrain-doesnt-load-properly-has-no-collision/4977842",
+      "title": "Terrain doesn't load properly, has no collision",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-05",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkqoka",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkqoka/looking_for_feedback_plate_game_with_100_events/",
       "title": "Looking for Feedback! Plate game with 100+ events, abilities, and a revenge mechanic",
@@ -1359,19 +1373,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4970576:1",
-      "url": "https://devforum.roblox.com/t/remote-event-on-server-returns-the-instance-as-nil/4970576",
-      "title": "Remote event on server returns the instance as nil",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2453,19 +2454,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xlh71n",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlh71n/im_making_a_coaster_building_game/",
-      "title": "I'm making a coaster building game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xli3sk",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xli3sk/looking_for_feedback_on_a_diegetic_horror_game/",
       "title": "Looking for feedback on a diegetic horror game. [The Midway Shift]",
@@ -3168,6 +3156,32 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xoxlj3",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoxlj3/new_roblox_paint_engine_need_feedback/",
+      "title": "new roblox paint engine need feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xoxx74",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoxx74/were_looking_for_an_experienced_map_builder/",
+      "title": "We’re looking for an experienced map builder",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -6386,17 +6400,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xksp8c/age_of_sails_isle_of_rogues/",
       "title": "Age of Sails - Isle of Rogues",
       "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xkujdx",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkujdx/stupid_issues_per_usual_need_help/",
-      "title": "stupid issues per usual (need help!!!)",
-      "source": "reddit-robloxstudio",
       "published": "2026-11-01",
       "kind": "reddit",
       "signals": [],

@@ -2757,7 +2757,10 @@
     "a67a6161ae3cccbc3e4210f3",
     "41c49058f9b54de1fb560a3f",
     "888c6eda5ed1fdd1f2c3170b",
-    "169d6c1ca310ad202ac6c14b"
+    "169d6c1ca310ad202ac6c14b",
+    "f94227ffa374772532b64d35",
+    "673d4caac02619a59852de87",
+    "1cec3142af144befb4264e4c"
   ],
   "items": [
     {
@@ -2782,6 +2785,18 @@
       "excerpt": "pls give it a try still in its alpha phase but try it and comment your Likings and what i could add to make this game more popular submitted by /u/NewbieDev666 [link] [comments]",
       "creator": "/u/NewbieDev666 https://www.reddit.com/user/NewbieDev666",
       "id": "fb6193daa11dec4d9d3ba646"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Terrain doesn't load properly, has no collision",
+      "url": "https://devforum.roblox.com/t/terrain-doesnt-load-properly-has-no-collision/4977842",
+      "published": "2026-11-05",
+      "excerpt": "Terrain has an LOD feature that doesn’t seem to be documented at all where it’s shown at a lower quality and has no collision. There is an issue now where chunks of it don’t load in, resulting in players clipping through it: It even happens at the immediate spawn location of the player like in this ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/terrain-doesnt-load-properly-has-no-collision/4977842.rss",
+      "id": "f94227ffa374772532b64d35"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3302,7 +3317,7 @@
       "title": "How do you get the Reserved Server AND Private Server code while using TeleportAsync?",
       "url": "https://devforum.roblox.com/t/how-do-you-get-the-reserved-server-and-private-server-code-while-using-teleportasync/4977758",
       "published": "2026-11-05",
-      "excerpt": "Roblox has deprecated Reserve Server Async, which allowed me to generate a reserved server ID, but more importantly, also get the PRIVATE Server ID. Now the problem, is that TeleportAsync is the replacement right? But, you can only create your Reserved Server Code with the HttpService function, and ",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-you-get-the-reserved-server-and-private-server-code-while-using-teleportasync/4977758.rss",
       "id": "9b410beadac500ab4595172b"
@@ -3573,6 +3588,17 @@
       "excerpt": "Was averaging about 13 ccu after 4 days of advertising. But today i’ve dropped to about 3. Not sure why, can anyone help? submitted by /u/Zestyclose_Ad5827 [link] [comments]",
       "creator": "/u/Zestyclose_Ad5827 https://www.reddit.com/user/Zestyclose_Ad5827",
       "id": "6a2891ab055a932804c4c31e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "We’re looking for an experienced map builder",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoxx74/were_looking_for_an_experienced_map_builder/",
+      "published": "2026-11-05",
+      "excerpt": "As the above text says, we’re approaching the end of development and we have been looking everywhere for a map builder but haven’t been able to find one. submitted by /u/CaregiverStock3746 [link] [comments]",
+      "creator": "/u/CaregiverStock3746 https://www.reddit.com/user/CaregiverStock3746",
+      "id": "673d4caac02619a59852de87"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3922,6 +3948,17 @@
       "excerpt": "submitted by /u/1clrr [link] [comments]",
       "creator": "/u/1clrr https://www.reddit.com/user/1clrr",
       "id": "1dfcc410392f1938cbff1baa"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "new roblox paint engine need feedback",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoxlj3/new_roblox_paint_engine_need_feedback/",
+      "published": "2026-11-05",
+      "excerpt": "working on a texture paint engine in roblox and need some feedback about the differnt GUI types i tryed to design for smooth painting and maybe ideas for possible minigames if you like digital painting and have freetime to spend, let me know it please :) submitted by /u/Sch4k4l [link] [comments]",
+      "creator": "/u/Sch4k4l https://www.reddit.com/user/Sch4k4l",
+      "id": "1cec3142af144befb4264e4c"
     },
     {
       "source": "roblox-devforum-updates",
@@ -9632,40 +9669,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/parts-in-my-models-randomly-change-and-lose-their-precise-positions-and-orientations/4969387.rss",
       "id": "535a7f371f17bf0fa54e8ef3"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "stupid issues per usual (need help!!!)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkujdx/stupid_issues_per_usual_need_help/",
-      "published": "2026-11-01",
-      "excerpt": "https://preview.redd.it/iaiba6lvmxyh1.png?width=1907&format=png&auto=webp&s=52d66b1ab062843d4b0bcaacb521845cf2870d3a its not letting me save, and its not giving a good reason either :/ on that note, i cant open any templates or open some older games im not id verified in anyway nor do i have plus, a",
-      "creator": "/u/poopooharrison https://www.reddit.com/user/poopooharrison",
-      "id": "5167200ca37d5aadc39e2f7a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Remote event on server returns the instance as nil",
-      "url": "https://devforum.roblox.com/t/remote-event-on-server-returns-the-instance-as-nil/4970576",
-      "published": "2026-11-01",
-      "excerpt": "I want to throw an item using a remote event, but when I fire the event on the client, it returns the item as nil in the event on the server – client local CAS = game:GetService(\"ContextActionService\") local item = nil local button = script.Parent for i, v in pairs(button:GetChildren()) do if v:IsA(",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/remote-event-on-server-returns-the-instance-as-nil/4970576.rss",
-      "id": "515601b4e7fae3aaf37d2b62"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I'm making a coaster building game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlh71n/im_making_a_coaster_building_game/",
-      "published": "2026-11-01",
-      "excerpt": "I'm making a roller coaster building game on roblox, and i have a very early demo ready! Youtube video of the basic coaster building: https://www.youtube.com/watch?v=u_QYxVEVt00&t=162s submitted by /u/RollerCoasterProject [link] [comments]",
-      "creator": "/u/RollerCoasterProject https://www.reddit.com/user/RollerCoasterProject",
-      "id": "50449d4c1e87b88e38028bab"
     }
   ]
 }
