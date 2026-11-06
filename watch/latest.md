@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Release:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 0.70.1 → 0.70.2.
+- **Source updated:** [anthropics/claude-code](https://github.com/anthropics/claude-code) — mods: add the privacy mod (#107768).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

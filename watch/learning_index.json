@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 596,
+  "unique_posts": 597,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -533,6 +533,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xow7m5",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xow7m5/new_studio_ui/",
+      "title": "new studio ui",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4969408:1",
       "url": "https://devforum.roblox.com/t/parallel-luau-passing-data-between-actors-each-frame-and-scheduling/4969408",
       "title": "Parallel Luau: passing data between Actors each frame, and scheduling",
@@ -571,23 +585,6 @@
       "kind": "devforum",
       "signals": [
         "UI and menus",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xl1wd0",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl1wd0/help_me_test_it_pls3/",
-      "title": "Help me Test it pls<3",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "animation and audio",
-        "genres and successful loops",
         "player feedback and marketing",
         "tools and performance"
       ],
@@ -935,20 +932,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xkqoka",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkqoka/looking_for_feedback_plate_game_with_100_events/",
-      "title": "Looking for Feedback! Plate game with 100+ events, abilities, and a revenge mechanic",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xkrywe",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkrywe/roblox_project_lf_people_to_help_payment_is/",
       "title": "Roblox project ( LF PEOPLE TO HELP) PAYMENT IS %",
@@ -987,20 +970,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xle7ga",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xle7ga/rate_my_scifi_fps_as_a_new_roblox_developer_and/",
-      "title": "Rate my Sci-Fi FPS as a new Roblox Developer and please share some feedback.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
         "player feedback and marketing"
       ],
       "score": 6,
@@ -1261,19 +1230,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4969127:1",
-      "url": "https://devforum.roblox.com/t/highlights-appear-on-all-parts-within-a-model-including-parts-with-transparency-of-1-on-roblox-client/4969127",
-      "title": "Highlights Appear on All Parts within a Model, Including Parts with Transparency of 1 on Roblox Client",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4969148:1",
       "url": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148",
       "title": "Weird MCP Text On Studio",
@@ -1321,19 +1277,6 @@
       "kind": "devforum",
       "signals": [
         "UI and menus"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4969387:1",
-      "url": "https://devforum.roblox.com/t/parts-in-my-models-randomly-change-and-lose-their-precise-positions-and-orientations/4969387",
-      "title": "Parts in my models randomly change and lose their precise positions and orientations",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2400,19 +2343,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xl3jdx",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3jdx/coop_zombie_survival_feedback/",
-      "title": "Co-op zombie survival feedback",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xl7n4j",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl7n4j/should_i_keep_running_ads_for_this_game_or_is_it/",
       "title": "Should I keep running ads for this game or is it bad 36% like or should I not worry about likes",
@@ -2436,19 +2366,6 @@
         "world and visual design",
         "player feedback and marketing",
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xla9g1",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xla9g1/are_top_roblox_developers_earning_more_than/",
-      "title": "Are Top Roblox Developers Earning more than Standalone games?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "economy and income"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3094,6 +3011,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xoi9zd",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoi9zd/remnants_of_wonderfor_scriptures/",
+      "title": "Remnants of Wonder(For Scriptures)",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xoow2o",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoow2o/made_a_ragdoll_throwing_system_for_my_first_game/",
       "title": "Made a ragdoll throwing system for my first game: grab a player, toss them, and they flop across the map",
@@ -3148,6 +3078,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xouf6w",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xouf6w/something_wrong_with_roblox_studio/",
+      "title": "Something wrong with Roblox Studio",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xowd5r",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xowd5r/need_feedback_for_slop_game/",
       "title": "need feedback for slop game",
@@ -3156,6 +3099,34 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xoxeej",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoxeej/looking_for_thumbnailicon_designers_to_improve_ptr/",
+      "title": "Looking for thumbnail/icon designers to improve PTR",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xoxgxq",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoxgxq/thinking_about_selling_your_roblox_game_heres_the/",
+      "title": "Thinking about selling your Roblox game? Here's the quick math",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "economy and income",
+        "genres and successful loops"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3677,6 +3648,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xoo86l",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoo86l/same_city_3_years_ago_vs_now/",
+      "title": "Same city, 3 years ago vs now",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xoobv6",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoobv6/whats_a_small_thing_in_a_roblox_game_that_made/",
       "title": "What's a small thing in a Roblox game that made you stay past the first 5 minutes?",
@@ -3700,6 +3685,20 @@
       "signals": [
         "building and purchases",
         "economy and income"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xovzlo",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xovzlo/bite_night/",
+      "title": "Bite Night",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -4515,6 +4514,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4977864:1",
+      "url": "https://devforum.roblox.com/t/own-a-car-park-game-thoughts/4977864",
+      "title": "\"Own A Car Park\" Game Thoughts?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkr0k1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkr0k1/the_hollow_looking_for_founding_developers/",
       "title": "🌑 THE HOLLOW — Looking for Founding Developers",
@@ -5217,6 +5229,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xouiz8",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xouiz8/my_friend_needs_help_with_his_game/",
+      "title": "MY FRIEND NEEDS HELP WITH HIS GAME",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xow6al",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xow6al/please_help_me_decide/",
       "title": "Please help me decide",
@@ -5285,17 +5310,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4970293:1",
-      "url": "https://devforum.roblox.com/t/roblox-gears-not-showing-on-equipped-items-in-game/4970293",
-      "title": "Roblox gears not showing on equipped items in game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4970328:1",
       "url": "https://devforum.roblox.com/t/create-a-questionnaire-of-taste-for-an-user-which-just-created-a-new-account/4970328",
       "title": "Create a questionnaire of taste for an user which just created a new account",
@@ -5354,17 +5368,6 @@
       "key": "devforum:4970683:1",
       "url": "https://devforum.roblox.com/t/800000-robux-stuck-in-limbo/4970683",
       "title": "800000 robux stuck in limbo",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4970714:1",
-      "url": "https://devforum.roblox.com/t/my-yet-unnamed-weather-module/4970714",
-      "title": "My yet-unnamed weather module",
       "source": "roblox-devforum-latest",
       "published": "2026-11-01",
       "kind": "devforum",
@@ -6473,17 +6476,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xkxliw",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkxliw/does_adding_new_thumbs_to_a_campaign_restart/",
-      "title": "Does adding new thumbs to a campaign restart learning?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xkxvbc",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkxvbc/i_need_suggestions_for_my_dead_game/",
       "title": "I need suggestions for my dead game",
@@ -6531,17 +6523,6 @@
       "key": "reddit:1xl02kn",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl02kn/little_vid_of_my_game/",
       "title": "little vid of my game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xl0v3r",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl0v3r/tips_for_using_ambientworld_instrumental_music_in/",
-      "title": "Tips for using ambient/world instrumental music in Roblox (+ 68 AI-generated tracks in the Creator Store)",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",
@@ -7364,6 +7345,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xokh6c",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xokh6c/quick_screenshot_of_custom_materials/",
+      "title": "Quick screenshot of Custom Materials",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xoplzs",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoplzs/yo_guys_what_should_i_add_it_kinda_looks_empty_it/",
       "title": "yo guys what should I add. It kinda looks empty. It should be in a \"pinterest poster\" style",
@@ -7401,6 +7393,28 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0da/home_recommendations/",
       "title": "Home Recommendations",
       "source": "reddit-robloxdev",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xos43v",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xos43v/does_my_vhs_effect_look_good/",
+      "title": "Does my VHS effect look good?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xotsfl",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xotsfl/where_are_the_settings_and_stuff/",
+      "title": "Where are the settings and stuff?",
+      "source": "reddit-robloxstudio",
       "published": "2026-11-05",
       "kind": "reddit",
       "signals": [],
