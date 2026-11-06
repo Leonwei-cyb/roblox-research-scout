@@ -2192,6 +2192,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4978214:1",
+      "url": "https://devforum.roblox.com/t/fetching-player-outfits-in-game-catalog-avatar-creator-style/4978214",
+      "title": "Fetching player outfits in game (Catalog Avatar Creator style)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkqs4v",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkqs4v/roblox_studio_mouse_randomly_teleporting/",
       "title": "Roblox studio mouse randomly \"teleporting\"",
@@ -2226,19 +2239,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xktgu2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xktgu2/is_my_ui_fine_or_good/",
-      "title": "Is my ui fine or good?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3225,20 +3225,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xl09hr",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl09hr/attack_on_titan_rampage_demo/",
-      "title": "Attack on Titan: Rampage [DEMO]",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xldarq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xldarq/some_bullet_hell_optimization_issues_ive_been/",
       "title": "Some bullet hell optimization issues I've been having",
@@ -3696,6 +3682,20 @@
       "signals": [
         "building and purchases",
         "genres and successful loops"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xp5x35",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp5x35/my_ragdoll_game/",
+      "title": "My ragdoll game",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -5258,17 +5258,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4969975:1",
-      "url": "https://devforum.roblox.com/t/new-phishing-method/4969975",
-      "title": "New Phishing Method?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4970328:1",
       "url": "https://devforum.roblox.com/t/create-a-questionnaire-of-taste-for-an-user-which-just-created-a-new-account/4970328",
       "title": "Create a questionnaire of taste for an user which just created a new account",
@@ -6413,6 +6402,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4978201:1",
+      "url": "https://devforum.roblox.com/t/pottery-league-%E2%80%94-the-game-i%E2%80%99ve-wanted-to-make-for-7-years/4978201",
+      "title": "Pottery League — The game I’ve wanted to make for 7 years",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkvggo",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvggo/fictional_piano_boutique_i_made_on_roblox/",
       "title": "Fictional Piano Boutique I made on Roblox",
@@ -6556,31 +6556,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xlayhj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlayhj/i_want_to_make_a_realistic_fishing_game_but_i/",
-      "title": "I want to make a realistic fishing game but I have no coding experience",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xleq5w",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xleq5w/looking_for_help/",
       "title": "Looking for help",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xleq8u",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xleq8u/game_peaked_at_13k_ccu/",
-      "title": "Game peaked at 13k ccu!",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",
@@ -7425,6 +7403,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xp5cd8",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp5cd8/cant_open_experience/",
+      "title": "cant open experience",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE0wa1VzUUwtVDlKQlNRd3JyamNsS21GWUVwbnlTMjd5RVNVelNhNEk5Qjl6a2VqaTRNeUdWbko5d3lHSklDQWVGUWdyU3JPWm9UWU9hVVNn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wa1VzUUwtVDlKQlNRd3JyamNsS21GWUVwbnlTMjd5RVNVelNhNEk5Qjl6a2VqaTRNeUdWbko5d3lHSklDQWVGUWdyU3JPWm9UWU9hVVNn?oc=5",
       "title": "Steal an egg is soo ahh🥀 #stealanegg #roblox #skidgaming - Instagram",
@@ -7433,6 +7422,20 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB?oc=5",
+      "title": "TODAY only for Best Players in Steal an egg with admins #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-04",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
