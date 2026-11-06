@@ -7,15 +7,25 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[how do i get rid of these lines?](https://www.reddit.com/r/ROBLOXStudio/comments/1xp31mp/how_do_i_get_rid_of_these_lines/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: im having a hard time figuring out how to remove these black line things, i disabled welds and constraint details and messed with my settings a bit too. I'm quite new with studio. submitted by /u/Kooky-Beginning-7191 \[link\] \[comments\]
+- **[Alerting me somehow when a player reports another player using webhooks](https://www.reddit.com/r/ROBLOXStudio/comments/1xp4tc7/alerting_me_somehow_when_a_player_reports_another/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: Im developing a game where users are able to create their own raves, and for the report system, upon a rave being reported then it uses a discord webhook to tell me that a game has been reported so I can check if that rave is appropriate or
+- **[I’m a girl who just made her own Roblox game! What do you think?](https://www.reddit.com/r/ROBLOXStudio/comments/1xp4pja/im_a_girl_who_just_made_her_own_roblox_game_what/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: https://preview.redd.it/cap3yx99fxzh1.png?width=1280&format=png&auto=webp&s=aba13db6bfd859bcb795e10de3e4f061a69255ad Hey everyone! 💜 I'm and I recently created and published my own game called Build a Spaceship and Steal an Alien ! I've bee
+- **[This Bleach pvp game ichigo loadout](https://www.reddit.com/r/ROBLOXStudio/comments/1xp52b6/this_bleach_pvp_game_ichigo_loadout/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: what do you guys think about all of this, any feedback? honestly my first time making something like this ^^ submitted by /u/Narrow_Notice2452 \[link\] \[comments\]
+- **[new boss cutscene for my demon slayer game](https://www.reddit.com/r/ROBLOXStudio/comments/1xp57x8/new_boss_cutscene_for_my_demon_slayer_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: is it peak or nah?? 🥲 submitted by /u/OppositeMental4347 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Can't upload UGC's to marketplace under my group](https://devforum.roblox.com/t/cant-upload-ugcs-to-marketplace-under-my-group/4978130)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: Hai UGC creators, The UGC uploads to the marketplace currently only work through the personal account. I have tried to upload lots of asset types (dynamic heads/neck accessories etc.), but I am only able to upload them under my personal acc
-- **[Studio crash when you are trying to display the surfacegui on the part during runtime](https://devforum.roblox.com/t/studio-crash-when-you-are-trying-to-display-the-surfacegui-on-the-part-during-runtime/4978126)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: never seen anyone reporting this Apparently, I was making the UI display on the tablet screen while it was running; it will crash the studio and shut down External Media 1 post - 1 participant Read full topic
+- **[Avatar items cannot be uploaded to groups](https://devforum.roblox.com/t/avatar-items-cannot-be-uploaded-to-groups/4978165)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: When uploading an avatar item, after selecting the asset category, the only option left under Creator is “Me.” I can no longer choose to upload it to a group. 1 post - 1 participant Read full topic
+- **[Clients kicked with Error 268 shortly after recovering from a memory-pressure freeze (alt-tab back in)](https://devforum.roblox.com/t/clients-kicked-with-error-268-shortly-after-recovering-from-a-memory-pressure-freeze-alt-tab-back-in/4978151)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Players on lower-RAM Windows PCs are being kicked with “You have been kicked due to unexpected client behavior (Error Code: 268)”. It mostly happens right after they alt-tab back into Roblox. The player isn’t doing anything unusual when it 
+- **[Glitch effect when joining game on IOS](https://devforum.roblox.com/t/glitch-effect-when-joining-game-on-ios/4978194)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Most games I join have this glitchy mess at the bottom of the screen when joining most games. Starting happening around a day ago. Look at bottom of screen in recording to see it. I use a ipad (IOS) when joining. Expected behavior No glitch
+- **[Zone or Area only Background Music](https://devforum.roblox.com/t/zone-or-area-only-background-music/4978168)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Hello, been working on this game and ran into an issue and got super confused. I’m trying to get background music/sound to play whenever the player is in a certain area ( or just touching a part). I tried this method but the sound would nev
 
 ---
 

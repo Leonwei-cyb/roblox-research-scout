@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 293
+- devforum: 294
 - index-only: 9
-- reddit: 290
+- reddit: 289
 - youtube: 5
 
 ## First-Session And Mobile
@@ -43,7 +43,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Animation And Audio
 
 - [I made a Roblox game where you escape from a giant angry cat 😭 Would love some honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xmmnl4/i_made_a_roblox_game_where_you_escape_from_a/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
-- [Looking for feedback for my incremental game!](https://devforum.roblox.com/t/looking-for-feedback-for-my-incremental-game/4968987) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
+- [\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
