@@ -2781,9 +2781,23 @@
     "1cbdf8b618e85cfa9a78836b",
     "14f7a9dd4b5f01babe32abab",
     "68b11f876d704ca7c9a026e9",
-    "cfccf8c5302b286add55bbf5"
+    "cfccf8c5302b286add55bbf5",
+    "05454363bb896cd8cfa97960",
+    "f48b9a9e9b5ccc5eb376813e",
+    "43bdad59ab2434b3c46687df"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "where did this came from, i had this type of virus bf but i cant find where tf did this one came from pls somebody help me",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp1ema/where_did_this_came_from_i_had_this_type_of_virus/",
+      "published": "2026-11-06",
+      "excerpt": "help me pls submitted by /u/AdhesivenessScared10 [link] [comments]",
+      "creator": "/u/AdhesivenessScared10 https://www.reddit.com/user/AdhesivenessScared10",
+      "id": "f48b9a9e9b5ccc5eb376813e"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -2861,7 +2875,7 @@
       "title": "Can anyone tell me how do disable this black skeleton thing on rigs? IT IS SO ANNOYING!",
       "url": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961",
       "published": "2026-11-06",
-      "excerpt": "can anyone tell me how do disable this black skeleton thing on rigs? IT IS SO ANNOYING! 1 post - 1 participant Read full topic",
+      "excerpt": "can anyone tell me how do disable this black skeleton thing on rigs? IT IS SO ANNOYING! 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961.rss",
       "id": "3fce75a2248deb652acc08f3"
@@ -2888,6 +2902,18 @@
       "excerpt": "https://preview.redd.it/6uc5ce6rcwzh1.png?width=509&format=png&auto=webp&s=2b31b90bf1fd50c284f044c5915bd08dd64c3cd9 This is easily the most persistent social engineering backdoor I have ever seen. Not only do I find this script in every model in the toolbox, but it tries so hard to hide itself from ",
       "creator": "/u/Pristine_Chicken4199 https://www.reddit.com/user/Pristine_Chicken4199",
       "id": "14f7a9dd4b5f01babe32abab"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "SurfaceAppearance Displays Grey Instead of Texture When Using a Local rbxasset:// Image",
+      "url": "https://devforum.roblox.com/t/surfaceappearance-displays-grey-instead-of-texture-when-using-a-local-rbxasset-image/4978021",
+      "published": "2026-11-06",
+      "excerpt": "When I replace the ColorMapContent of a SurfaceAppearance instance with an image stored locally on my computer, the texture appears grey instead of displaying the actual image, even though the image is identical to the uploaded image. A warning message is also displayed. The following warning appear",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/surfaceappearance-displays-grey-instead-of-texture-when-using-a-local-rbxasset-image/4978021.rss",
+      "id": "05454363bb896cd8cfa97960"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3872,6 +3898,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/6-girls-vs-6-boys-stuck-at-16-after-published-fixes-%E2%80%94-audience-reach-and-growth-restricted/4977254.rss",
       "id": "464eb8ed5db9222704450c92"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "Roblox Developers NEED to See This | Claude + ForgeGUI MCP - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rQnJ3M3BvUXpSVXowNURIS2lSSU5HdzQ1MnZKQmpkVGs4NHprcDJBa2VFeTM1N3RpdkxCU0ZDaVBKVmNET3hFVm84Q1FFbk16Q2YzNG93?oc=5",
+      "published": "2026-11-05",
+      "excerpt": "Roblox Developers NEED to See This | Claude + ForgeGUI MCP YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "43bdad59ab2434b3c46687df"
     },
     {
       "source": "reddit-robloxdev",
@@ -9652,40 +9690,6 @@
       "excerpt": "Hello! I’m creating The Hollow , an ambitious Roblox multiplayer horror game with a heavy focus on atmosphere, suspense, and original creature design. I’m looking for passionate people who want to help build something memorable from the ground up. Currently Looking For 💻 Roblox Programmer 🏗 Roblox B",
       "creator": "/u/Mindless_Ad9532 https://www.reddit.com/user/Mindless_Ad9532",
       "id": "79ca11817c5388086a512fad"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "800000 robux stuck in limbo",
-      "url": "https://devforum.roblox.com/t/800000-robux-stuck-in-limbo/4970683",
-      "published": "2026-11-01",
-      "excerpt": "I want to state a problem that I’ve had for a couple of months now. I have a DevEx request that has been unresolved for multiple months now, I’ve tried multiple solutions of the problem but nothing worked. The root cause of the problem is that my Tipalti does not allow any exchanges towards Belarus,",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/800000-robux-stuck-in-limbo/4970683.rss",
-      "id": "781697e9a138c78ea9b135f4"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is 0 impressions, both on home and search normal after 1 day of a game's release",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvp40/is_0_impressions_both_on_home_and_search_normal/",
-      "published": "2026-11-01",
-      "excerpt": "I recently released my game, and looking for organic traffic for bounce rate/ctr before investing on ads, but after a day it still got absolutely 0 impressions, on home and search. And searching on an incognito tab didn't find my game even tho I searched the full title. Is this normal, or is it from",
-      "creator": "/u/MudkippzReddit https://www.reddit.com/user/MudkippzReddit",
-      "id": "748929b4785b4ab09662b2cf"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Catch 22 for our game.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzryt/catch_22_for_our_game/",
-      "published": "2026-11-01",
-      "excerpt": "I have been making a Sloth game with my 6 year old daughter. I wanted her to make the kind of game she would play and selfishly I wanted her to play games that didn't require Robux. The problem is it is very much aimed at 6 year Olds, so I can't get enough +16's to play the game. Has anyone been in ",
-      "creator": "/u/No_No_Juice https://www.reddit.com/user/No_No_Juice",
-      "id": "74066936ca61a4dc4b3260ff"
     }
   ]
 }
