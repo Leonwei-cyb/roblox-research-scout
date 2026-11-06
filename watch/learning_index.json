@@ -1292,19 +1292,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4970652:1",
-      "url": "https://devforum.roblox.com/t/game-reviews-and-feedback-needed/4970652",
-      "title": "Game Reviews and Feedback Needed",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4970756:1",
       "url": "https://devforum.roblox.com/t/i-want-to-become-a-sound-designer-genxgamer0415/4970756",
       "title": "\"I Want to Become A Sound Designer\" - genXgamer0415",
@@ -2260,6 +2247,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4978626:1",
+      "url": "https://devforum.roblox.com/t/stuck-in-final-review-for-14-days/4978626",
+      "title": "Stuck in final review for 14 days",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4978628:1",
+      "url": "https://devforum.roblox.com/t/server-authoritative-character-controls-missing-after-publishing-rojo-rbxlx-through-open-cloud-rbxl-works-fine/4978628",
+      "title": "Server-authoritative character controls missing after publishing Rojo .rbxlx through Open Cloud; .rbxl works fine",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4978629:1",
+      "url": "https://devforum.roblox.com/t/still-finding-a-method-of-distributing-sound-effects/4978629",
+      "title": "Still finding a method of distributing sound effects",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkqs4v",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkqs4v/roblox_studio_mouse_randomly_teleporting/",
       "title": "Roblox studio mouse randomly \"teleporting\"",
@@ -2307,21 +2333,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xl8fi4",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xl8fi4/cool_thingy_i_made/",
-      "title": "cool thingy i made",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing",
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3751,6 +3762,20 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xpcei7",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpcei7/how_to_make_the_wasit_wider/",
+      "title": "how to make the wasit wider??",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -6488,31 +6513,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xkxvbc",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkxvbc/i_need_suggestions_for_my_dead_game/",
-      "title": "I need suggestions for my dead game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xkz5vb",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkz5vb/devex_closed_open_the_door_dave/",
       "title": "DevEx Closed: Open the door, Dave.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xkzqnh",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzqnh/particle_emitter_help/",
-      "title": "particle emitter help",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",

@@ -2819,7 +2819,11 @@
     "69db91c5176e7c4c313893ea",
     "19f1a53618c319a679c12e3b",
     "9b9a8a5a17f18f3dd4d9e741",
-    "5a9746ff3d0f96b305e1a627"
+    "5a9746ff3d0f96b305e1a627",
+    "85db91c41ebdd0d260ee0371",
+    "d73e699d28d0228aecf4db04",
+    "71e5e7d2b3f4fdb7f2efd278",
+    "83c690c285f516039b5a9df1"
   ],
   "items": [
     {
@@ -2889,6 +2893,18 @@
       "excerpt": "https://preview.redd.it/cap3yx99fxzh1.png?width=1280&format=png&auto=webp&s=aba13db6bfd859bcb795e10de3e4f061a69255ad Hey everyone! 💜 I'm and I recently created and published my own game called Build a Spaceship and Steal an Alien ! I've been really excited to finally share it with other people! 🥹 In",
       "creator": "/u/softnoisee https://www.reddit.com/user/softnoisee",
       "id": "dabec854f87882f8254aa2ad"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Server-authoritative character controls missing after publishing Rojo .rbxlx through Open Cloud; .rbxl works fine",
+      "url": "https://devforum.roblox.com/t/server-authoritative-character-controls-missing-after-publishing-rojo-rbxlx-through-open-cloud-rbxl-works-fine/4978628",
+      "published": "2026-11-06",
+      "excerpt": "I’ve been investigating a difference between publishing a Rojo-generated XML place file and a binary place file through Open Cloud. I haven’t been able to determine if the issue is with the API or Rojo yet. I’ve produced a minimal reproduction with both rbxl and rbxlx in the private content section.",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/server-authoritative-character-controls-missing-after-publishing-rojo-rbxlx-through-open-cloud-rbxl-works-fine/4978628.rss",
+      "id": "d73e699d28d0228aecf4db04"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3040,6 +3056,29 @@
       "id": "8ba2b1eefd855971963d369b"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Still finding a method of distributing sound effects",
+      "url": "https://devforum.roblox.com/t/still-finding-a-method-of-distributing-sound-effects/4978629",
+      "published": "2026-11-06",
+      "excerpt": "I dont know if this is a bug but I still can’t distribute audio even after verification. It would not let me. Link for extra information: How to distribute sound effect? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/still-finding-a-method-of-distributing-sound-effects/4978629.rss",
+      "id": "85db91c41ebdd0d260ee0371"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "how to make the wasit wider??",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpcei7/how_to_make_the_wasit_wider/",
+      "published": "2026-11-06",
+      "excerpt": "i tried everything to make the wasit bigger:i was expanding the inner ansd outer cae,expanding the wasit on the model and adjusting the width scale on my humanoid model in roblox studio.nothing helped.for the dress i was using accesory fitting tool submitted by /u/Alternative_City_119 [link] [commen",
+      "creator": "/u/Alternative_City_119 https://www.reddit.com/user/Alternative_City_119",
+      "id": "83c690c285f516039b5a9df1"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3096,6 +3135,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/clients-kicked-with-error-268-shortly-after-recovering-from-a-memory-pressure-freeze-alt-tab-back-in/4978151.rss",
       "id": "773b3243bf649101d138a238"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Stuck in final review for 14 days",
+      "url": "https://devforum.roblox.com/t/stuck-in-final-review-for-14-days/4978626",
+      "published": "2026-11-06",
+      "excerpt": "My game had reached 250 highly engaged players on Friday the 23rd of October at around 10 PM UTC+1. The review happened within 30 minutes, and I was told to redo my questionnaire. I redid it right away in the same hour. After waiting about 5 days, I already tried contacting support but didn’t get an",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/stuck-in-final-review-for-14-days/4978626.rss",
+      "id": "71e5e7d2b3f4fdb7f2efd278"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9685,51 +9736,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148.rss",
       "id": "c13f91bce1b3c64e6ed8e41d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game Reviews and Feedback Needed",
-      "url": "https://devforum.roblox.com/t/game-reviews-and-feedback-needed/4970652",
-      "published": "2026-11-01",
-      "excerpt": "I Just Released My First Roblox Game – Wolf Valley: Hunt or Survive. Looking for Honest Feedback! Hey everyone! Today at midnight, I officially released my first Roblox game, Wolf Valley – Hunt or Survive , and I’d really appreciate some feedback from other developers and players. About the game Wol",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-reviews-and-feedback-needed/4970652.rss",
-      "id": "bf1366890182399a2ca05b19"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "particle emitter help",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzqnh/particle_emitter_help/",
-      "published": "2026-11-01",
-      "excerpt": "somebody help me with this fucking bullshit feature bro 🫩🫩 cant even rotate textures on the x axis THAT easily makes me want to quit i already tried setting it to facecameraworldup it didn't work - rotation did nothing submitted by /u/Sea_Flight4593 [link] [comments]",
-      "creator": "/u/Sea_Flight4593 https://www.reddit.com/user/Sea_Flight4593",
-      "id": "beef94d5b6f4e54021ee4e91"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "cool thingy i made",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xl8fi4/cool_thingy_i_made/",
-      "published": "2026-11-01",
-      "excerpt": "its pretty simple, i did use a kill brick script from a free model for it to actually kill people tho cuz i suck at scripting :( off camrea i added more particle effects to it and im planning to somehow try to make a script where it doesnt collide when its touching a player. but collides on the grou",
-      "creator": "/u/BlockHead2018Person https://www.reddit.com/user/BlockHead2018Person",
-      "id": "be87a511878e2ea02ff3c6f1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need suggestions for my dead game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkxvbc/i_need_suggestions_for_my_dead_game/",
-      "published": "2026-11-01",
-      "excerpt": "I have an incremental game, it had great CCU and stats all along but suddenly died, I don't know what's wrong really. If some of y'all try it and make some suggestions I would be grateful. https://www.roblox.com/games/136966381029085/Celestial-Rarities (We didn't use AI) submitted by /u/Repulsive-Pe",
-      "creator": "/u/Repulsive-Pension544 https://www.reddit.com/user/Repulsive-Pension544",
-      "id": "bbc9f6c85d771c2cae5c61ae"
     }
   ]
 }
