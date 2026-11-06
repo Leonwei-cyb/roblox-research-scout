@@ -2812,7 +2812,11 @@
     "8350efe810640e5c4ffadf26",
     "2b12a3011998043059f7abeb",
     "cf1e308f92671221cd2b69df",
-    "c2f9f49e28a813f428cf5669"
+    "c2f9f49e28a813f428cf5669",
+    "bd566229f1f1c9bc013dafc2",
+    "bc6b7b7997adadc5c844816e",
+    "7924d902b917e08948f8460c",
+    "69db91c5176e7c4c313893ea"
   ],
   "items": [
     {
@@ -2915,6 +2919,29 @@
       "excerpt": "What's this? When I start the test, this window appears and the \"Recover\" button doesn't work submitted by /u/Better_Nerve2359 [link] [comments]",
       "creator": "/u/Better_Nerve2359 https://www.reddit.com/user/Better_Nerve2359",
       "id": "c2f9f49e28a813f428cf5669"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Rigs or animations imported from Blender break in Roblox",
+      "url": "https://devforum.roblox.com/t/rigs-or-animations-imported-from-blender-break-in-roblox/4978459",
+      "published": "2026-11-06",
+      "excerpt": "Hi devs! I’ve been trying to chase down an issue that I haven’t had any luck solving for the past couple of weeks. I designed a rig in Blender that imports as a viewmodel in Roblox and have been animating on it. The model and rig exports apparently fine, but when I try and play animations from it, i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/rigs-or-animations-imported-from-blender-break-in-roblox/4978459.rss",
+      "id": "bd566229f1f1c9bc013dafc2"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Made a bit of a major update in my game, CONVEYOR CHAOS",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpau2a/made_a_bit_of_a_major_update_in_my_game_conveyor/",
+      "published": "2026-11-06",
+      "excerpt": "Just saying that there are special events (like Conveyor Speed Up etc.) that happen every 2-6 minutes, but they aren’t included in the video due to time constraints. Feel free to check them out as well! If you’re a new player, it automatically shows you the tutorial. If not, please tell me so I can ",
+      "creator": "/u/parmishuiers https://www.reddit.com/user/parmishuiers",
+      "id": "bc6b7b7997adadc5c844816e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3033,6 +3060,17 @@
       "id": "810ae22ee162803b285cdf9d"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "T-90M Tank Showcase",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpapgp/t90m_tank_showcase/",
+      "published": "2026-11-06",
+      "excerpt": "Hello Guys! i tried to make a tank system for my game ik its not the most realistic (i dont rlly want it to be very realistic anyways) but i did try to add the main features : Cannons , Chassis , Smoke Grenades and Aiming Camera RATE OUT OF /10 submitted by /u/Ahmeda_2916 [link] [comments]",
+      "creator": "/u/Ahmeda_2916 https://www.reddit.com/user/Ahmeda_2916",
+      "id": "7924d902b917e08948f8460c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3066,6 +3104,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ugc-item-thumbnails-are-cropped-in-analytics-on-microsoft-edge/4977974.rss",
       "id": "6fba268bb79badd213fad77c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/",
+      "published": "2026-11-06",
+      "excerpt": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory, so the world builds o",
+      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
+      "id": "69db91c5176e7c4c313893ea"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9677,52 +9726,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/suggested-for-you-is-sometimes-misspelled-on-notification-on-the-roblox-app/4970599.rss",
       "id": "af64bf2f08d0df7a3dfacbe1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Obby Music – 68 AI-generated instrumental world music tracks in the Creator Store (exploration, hubs, open-world, menus)",
-      "url": "https://devforum.roblox.com/t/obby-music-%E2%80%93-68-ai-generated-instrumental-world-music-tracks-in-the-creator-store-exploration-hubs-open-world-menus/4969550",
-      "published": "2026-11-01",
-      "excerpt": "Hi developers! I’m Chris (Obby Music). I’d like to share 68 instrumental background music tracks inspired by real places around the world. You can find them in the Creator Store and use them in your experiences. AI disclosure All tracks are instrumental and AI-generated with Suno. Every track was ma",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/obby-music-%E2%80%93-68-ai-generated-instrumental-world-music-tracks-in-the-creator-store-exploration-hubs-open-world-menus/4969550.rss",
-      "id": "af2e5b103d9b33a4ca1e31c2"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "1.5-2 Year modelling difference",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlhb94/152_year_modelling_difference/",
-      "published": "2026-11-01",
-      "excerpt": "submitted by /u/ErebusPr [link] [comments]",
-      "creator": "/u/ErebusPr https://www.reddit.com/user/ErebusPr",
-      "id": "adc1637eeb21a2ce95b76f63"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Problem with Sinister W",
-      "url": "https://devforum.roblox.com/t/problem-with-sinister-w/4970453",
-      "published": "2026-11-01",
-      "excerpt": "Hello! I apologize if this is the wrong category, but I wanted to report an issue with the new ‘Sinister W.’ item (7,000 Robux). I noticed a problem that makes it not worth the price. The emission effect looks correct in Roblox Studio, but when equipped on a character, it looks completely different.",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/problem-with-sinister-w/4970453.rss",
-      "id": "ad1c1769847bca47c6f71954"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Creating a game together with my 9 yo son - how’s a result?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl7f1z/creating_a_game_together_with_my_9_yo_son_hows_a/",
-      "published": "2026-11-01",
-      "excerpt": "Hi guys! I’m SQL programmer so this experience was pretty new for me ) My 9 yo son asked me to help him to create a Roblox game of his dreams - a mix of pets collecting, obbey and boss fights. So (and yes, some part of vibe coding took a place), whatever I think that we ready to show it to professio",
-      "creator": "/u/Better_Device2286 https://www.reddit.com/user/Better_Device2286",
-      "id": "ac7406b3ba517faf8e0f85ef"
     }
   ]
 }

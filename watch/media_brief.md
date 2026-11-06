@@ -7,17 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Help](https://www.reddit.com/r/ROBLOXStudio/comments/1xp8zxj/help/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: What's this? When I start the test, this window appears and the "Recover" button doesn't work submitted by /u/Better_Nerve2359 \[link\] \[comments\]
-- **[How to make a power plant in Roblox.](https://www.reddit.com/r/ROBLOXStudio/comments/1xp9vzl/how_to_make_a_power_plant_in_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: o submitted by /u/Excellent_Okra_5525 \[link\] \[comments\]
+- **[Made a bit of a major update in my game, CONVEYOR CHAOS](https://www.reddit.com/r/ROBLOXStudio/comments/1xpau2a/made_a_bit_of_a_major_update_in_my_game_conveyor/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: Just saying that there are special events (like Conveyor Speed Up etc.) that happen every 2-6 minutes, but they aren’t included in the video due to time constraints. Feel free to check them out as well! If you’re a new player, it automatica
+- **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every m
+- **[T-90M Tank Showcase](https://www.reddit.com/r/ROBLOXStudio/comments/1xpapgp/t90m_tank_showcase/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: Hello Guys! i tried to make a tank system for my game ik its not the most realistic (i dont rlly want it to be very realistic anyways) but i did try to add the main features : Cannons , Chassis , Smoke Grenades and Aiming Camera RATE OUT OF
 
 ## Roblox Updates
 
-- **[Studio error "We could not open the place"](https://devforum.roblox.com/t/studio-error-we-could-not-open-the-place/4978407)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: Hi! I have a problem opening any place up in Roblox Studio. I have attatched a screenshot of the error I get when I try to open the “Tutorial Place”. It is a fresh copy of Studio. Big thanks to everyone that can help! 2 posts - 2 participan
-- **[How do I get my somewhat "niche" game past 0 CCU?](https://devforum.roblox.com/t/how-do-i-get-my-somewhat-niche-game-past-0-ccu/4978391)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: I’ve been working on a game called “Many Movements” (somewhat complex freeform movement game) for the past two years (since 11/15/2024 specifically), and I released it 10/18/2026, to which it had around 20 CCU, but rapidly fell off in the n
+- **[Rigs or animations imported from Blender break in Roblox](https://devforum.roblox.com/t/rigs-or-animations-imported-from-blender-break-in-roblox/4978459)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Hi devs! I’ve been trying to chase down an issue that I haven’t had any luck solving for the past couple of weeks. I designed a rig in Blender that imports as a viewmodel in Roblox and have been animating on it. The model and rig exports ap
 
 ---
 
