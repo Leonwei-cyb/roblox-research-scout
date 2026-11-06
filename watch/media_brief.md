@@ -7,17 +7,15 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Roblox studio is not responding cuz i wil deal with this program](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bsz/roblox_studio_is_not_responding_cuz_i_wil_deal/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: submitted by /u/LemonFirm4111 \[link\] \[comments\]
-- **[1812 overture production](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2pdc/1812_overture_production/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: video currently under development you can skip to 1:46 if you want to see the main part submitted by /u/SpatulaFairy139 \[link\] \[comments\]
-- **[trying to make this animation on my kitsune](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bgt/trying_to_make_this_animation_on_my_kitsune/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: i have moon animator (not official ver) and im trying to make this animation. honestly i dont wanna copy the idle but i would like to know what easing style/direction is used and the keyframes layout. its so smooth and if i knew how they ma
+- **[how do i get rid of these lines?](https://www.reddit.com/r/ROBLOXStudio/comments/1xp31mp/how_do_i_get_rid_of_these_lines/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: im having a hard time figuring out how to remove these black line things, i disabled welds and constraint details and messed with my settings a bit too. I'm quite new with studio. submitted by /u/Kooky-Beginning-7191 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Missing terrain on the client](https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: So on one of the map in my game, on the client voxels of terrains disappear for no reason On the server the terrain exists: But on the client, it’s not there and we can go inside the hole: I currently have ExpandedTerrain enabled, but I hav
+- **[Can't upload UGC's to marketplace under my group](https://devforum.roblox.com/t/cant-upload-ugcs-to-marketplace-under-my-group/4978130)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Hai UGC creators, The UGC uploads to the marketplace currently only work through the personal account. I have tried to upload lots of asset types (dynamic heads/neck accessories etc.), but I am only able to upload them under my personal acc
+- **[Studio crash when you are trying to display the surfacegui on the part during runtime](https://devforum.roblox.com/t/studio-crash-when-you-are-trying-to-display-the-surfacegui-on-the-part-during-runtime/4978126)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: never seen anyone reporting this Apparently, I was making the UI display on the tablet screen while it was running; it will crash the studio and shut down External Media 1 post - 1 participant Read full topic
 
 ---
 

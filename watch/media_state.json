@@ -2788,7 +2788,10 @@
     "8ba2b1eefd855971963d369b",
     "390451b959505729ca6e19a4",
     "7033bf29fa277e42ccf9371b",
-    "344d0ecdc36cd6e4414bedec"
+    "344d0ecdc36cd6e4414bedec",
+    "9a16e9a8df21b6330ce36453",
+    "f25f72eddf25527511d5d7f3",
+    "83c5a9c58881eaf96261049a"
   ],
   "items": [
     {
@@ -2801,6 +2804,18 @@
       "excerpt": "help me pls submitted by /u/AdhesivenessScared10 [link] [comments]",
       "creator": "/u/AdhesivenessScared10 https://www.reddit.com/user/AdhesivenessScared10",
       "id": "f48b9a9e9b5ccc5eb376813e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio crash when you are trying to display the surfacegui on the part during runtime",
+      "url": "https://devforum.roblox.com/t/studio-crash-when-you-are-trying-to-display-the-surfacegui-on-the-part-during-runtime/4978126",
+      "published": "2026-11-06",
+      "excerpt": "never seen anyone reporting this Apparently, I was making the UI display on the tablet screen while it was running; it will crash the studio and shut down External Media 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-crash-when-you-are-trying-to-display-the-surfacegui-on-the-part-during-runtime/4978126.rss",
+      "id": "f25f72eddf25527511d5d7f3"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2829,6 +2844,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Can't upload UGC's to marketplace under my group",
+      "url": "https://devforum.roblox.com/t/cant-upload-ugcs-to-marketplace-under-my-group/4978130",
+      "published": "2026-11-06",
+      "excerpt": "Hai UGC creators, The UGC uploads to the marketplace currently only work through the personal account. I have tried to upload lots of asset types (dynamic heads/neck accessories etc.), but I am only able to upload them under my personal account. Whenever I click on the button, where I usually select",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cant-upload-ugcs-to-marketplace-under-my-group/4978130.rss",
+      "id": "9a16e9a8df21b6330ce36453"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Missing terrain on the client",
       "url": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081",
       "published": "2026-11-06",
@@ -2836,6 +2863,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081.rss",
       "id": "8ba2b1eefd855971963d369b"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "how do i get rid of these lines?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp31mp/how_do_i_get_rid_of_these_lines/",
+      "published": "2026-11-06",
+      "excerpt": "im having a hard time figuring out how to remove these black line things, i disabled welds and constraint details and messed with my settings a bit too. I'm quite new with studio. submitted by /u/Kooky-Beginning-7191 [link] [comments]",
+      "creator": "/u/Kooky-Beginning-7191 https://www.reddit.com/user/Kooky-Beginning-7191",
+      "id": "83c5a9c58881eaf96261049a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5048,7 +5086,7 @@
       "title": "Will this get me banned?",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo0ewh/will_this_get_me_banned/",
       "published": "2026-11-04",
-      "excerpt": "I made this model will i get banned for uploading this? submitted by /u/Narrow_Notice2452 [link] [comments]",
+      "excerpt": "I made this model will i get banned for uploading this? EDIT: ty for the feed back i changed the guard to like a square ^^ submitted by /u/Narrow_Notice2452 [link] [comments]",
       "creator": "/u/Narrow_Notice2452 https://www.reddit.com/user/Narrow_Notice2452",
       "id": "85981df0a13696666809a46e"
     },
@@ -9660,41 +9698,6 @@
       "excerpt": "🦈 Looking for Roblox playtesters (16+) — Which shark game is more fun? Hey everyone! We're a tiny indie studio called Atelier 452. We've made two free Roblox shark games, and we'd love some honest feedback. 🌊 1. AKUVA: Shark Ocean Run Swim through the ocean, eat fish, build combos, dodge obstacles, ",
       "creator": "/u/Greece_Feta https://www.reddit.com/user/Greece_Feta",
       "id": "87be622d2ba61a273469c203"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to sync custom animations with Roblox's default movement",
-      "url": "https://devforum.roblox.com/t/how-to-sync-custom-animations-with-robloxs-default-movement/4968992",
-      "published": "2026-11-01",
-      "excerpt": "I’ve been in the process of developing a survival fighting game which includes multiple weapons, some being two handed and such. I’ve put together custom animations for idling, movement, and attacks, but for the most part left the lower half of the body alone so that Roblox’s default animations coul",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-sync-custom-animations-with-robloxs-default-movement/4968992.rss",
-      "id": "84f34c09a4478f259adeb32b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "New Luau typechecker appears to use excessive ram in studio while in large scale projects",
-      "url": "https://devforum.roblox.com/t/new-luau-typechecker-appears-to-use-excessive-ram-in-studio-while-in-large-scale-projects/4969303",
-      "published": "2026-11-01",
-      "excerpt": "During our project’s development, we switched to the new typechecker to be able to access the new features that the typechecker provided. However, on higher end systems (Systems with 16+ Gigs of ram), studio appears to be hogging 10 gigs of ram while using the new typechecker. Expected behavior Stud",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-luau-typechecker-appears-to-use-excessive-ram-in-studio-while-in-large-scale-projects/4969303.rss",
-      "id": "83edbdbb77bcc938778b363e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "What are the top 3 skillsets that get the most comms in servers like ERC or HiddenDevs?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3l5v/what_are_the_top_3_skillsets_that_get_the_most/",
-      "published": "2026-11-01",
-      "excerpt": "personally i animate a bit and i was just wondering what to pick up because im tryna get a good amount of robux in my account submitted by /u/ludicrousleukocyte [link] [comments]",
-      "creator": "/u/ludicrousleukocyte https://www.reddit.com/user/ludicrousleukocyte",
-      "id": "81b9abd857ad7364244cce52"
     }
   ]
 }
