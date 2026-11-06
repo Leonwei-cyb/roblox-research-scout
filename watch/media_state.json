@@ -2784,7 +2784,11 @@
     "cfccf8c5302b286add55bbf5",
     "05454363bb896cd8cfa97960",
     "f48b9a9e9b5ccc5eb376813e",
-    "43bdad59ab2434b3c46687df"
+    "43bdad59ab2434b3c46687df",
+    "8ba2b1eefd855971963d369b",
+    "390451b959505729ca6e19a4",
+    "7033bf29fa277e42ccf9371b",
+    "344d0ecdc36cd6e4414bedec"
   ],
   "items": [
     {
@@ -2825,6 +2829,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Missing terrain on the client",
+      "url": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081",
+      "published": "2026-11-06",
+      "excerpt": "So on one of the map in my game, on the client voxels of terrains disappear for no reason On the server the terrain exists: But on the client, it’s not there and we can go inside the hole: I currently have ExpandedTerrain enabled, but I have reports that predates that update. A private message is as",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081.rss",
+      "id": "8ba2b1eefd855971963d369b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Error Report page: Please deduplicate this error message",
       "url": "https://devforum.roblox.com/t/error-report-page-please-deduplicate-this-error-message/4977948",
       "published": "2026-11-06",
@@ -2832,6 +2848,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/error-report-page-please-deduplicate-this-error-message/4977948.rss",
       "id": "810ae22ee162803b285cdf9d"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "trying to make this animation on my kitsune",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bgt/trying_to_make_this_animation_on_my_kitsune/",
+      "published": "2026-11-06",
+      "excerpt": "i have moon animator (not official ver) and im trying to make this animation. honestly i dont wanna copy the idle but i would like to know what easing style/direction is used and the keyframes layout. its so smooth and if i knew how they made it like that, ill be able to make another idle. i think t",
+      "creator": "/u/Unlikelyee https://www.reddit.com/user/Unlikelyee",
+      "id": "7033bf29fa277e42ccf9371b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2879,6 +2906,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961.rss",
       "id": "3fce75a2248deb652acc08f3"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox studio is not responding cuz i wil deal with this program",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bsz/roblox_studio_is_not_responding_cuz_i_wil_deal/",
+      "published": "2026-11-06",
+      "excerpt": "submitted by /u/LemonFirm4111 [link] [comments]",
+      "creator": "/u/LemonFirm4111 https://www.reddit.com/user/LemonFirm4111",
+      "id": "390451b959505729ca6e19a4"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "1812 overture production",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp2pdc/1812_overture_production/",
+      "published": "2026-11-06",
+      "excerpt": "video currently under development you can skip to 1:46 if you want to see the main part submitted by /u/SpatulaFairy139 [link] [comments]",
+      "creator": "/u/SpatulaFairy139 https://www.reddit.com/user/SpatulaFairy139",
+      "id": "344d0ecdc36cd6e4414bedec"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9646,50 +9695,6 @@
       "excerpt": "personally i animate a bit and i was just wondering what to pick up because im tryna get a good amount of robux in my account submitted by /u/ludicrousleukocyte [link] [comments]",
       "creator": "/u/ludicrousleukocyte https://www.reddit.com/user/ludicrousleukocyte",
       "id": "81b9abd857ad7364244cce52"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Age of Sails - Isle of Rogues",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xksp8c/age_of_sails_isle_of_rogues/",
-      "published": "2026-11-01",
-      "excerpt": "Been adding physics and game mechanics everyday, trying to add as much useful and immersive content as possible, without making the game complex. Recent additions include : ship signals/emblems for non-verbal communication visuals for underwater exploration carts to load and pull up to 7 cargo items",
-      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
-      "id": "815e65edd4be8a4b65d9967c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "little vid of my game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl02kn/little_vid_of_my_game/",
-      "published": "2026-11-01",
-      "excerpt": "what do you think? submitted by /u/banaenae3321 [link] [comments]",
-      "creator": "/u/banaenae3321 https://www.reddit.com/user/banaenae3321",
-      "id": "7f87fc9a0c32e770951cf7b7"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "PVZ TowerDefense Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xldxrh/pvz_towerdefense_game/",
-      "published": "2026-11-01",
-      "excerpt": "I made a pvz tower defense hybrid inspired by pvz fusion where your plants level up the more you use them and they unlock different variants which each have pros and cons. It follows the same gameplay good as original pvz with zombies being able to consume plants and seed packet cooldowns etc. It wa",
-      "creator": "/u/SweatSpaghet420 https://www.reddit.com/user/SweatSpaghet420",
-      "id": "7ca8797c528b47c98af7afed"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "🌑 THE HOLLOW — Looking for Founding Developers",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkr0k1/the_hollow_looking_for_founding_developers/",
-      "published": "2026-11-01",
-      "excerpt": "Hello! I’m creating The Hollow , an ambitious Roblox multiplayer horror game with a heavy focus on atmosphere, suspense, and original creature design. I’m looking for passionate people who want to help build something memorable from the ground up. Currently Looking For 💻 Roblox Programmer 🏗 Roblox B",
-      "creator": "/u/Mindless_Ad9532 https://www.reddit.com/user/Mindless_Ad9532",
-      "id": "79ca11817c5388086a512fad"
     }
   ]
 }

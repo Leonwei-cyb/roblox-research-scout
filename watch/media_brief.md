@@ -5,20 +5,19 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[Roblox Developers NEED to See This \| Claude + ForgeGUI MCP - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rQnJ3M3BvUXpSVXowNURIS2lSSU5HdzQ1MnZKQmpkVGs4NHprcDJBa2VFeTM1N3RpdkxCU0ZDaVBKVmNET3hFVm84Q1FFbk16Q2YzNG93?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-05
-  - Feed excerpt: Roblox Developers NEED to See This \| Claude + ForgeGUI MCP YouTube
-
 ## Community
 
-- **[where did this came from, i had this type of virus bf but i cant find where tf did this one came from pls somebody help me](https://www.reddit.com/r/ROBLOXStudio/comments/1xp1ema/where_did_this_came_from_i_had_this_type_of_virus/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: help me pls submitted by /u/AdhesivenessScared10 \[link\] \[comments\]
+- **[Roblox studio is not responding cuz i wil deal with this program](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bsz/roblox_studio_is_not_responding_cuz_i_wil_deal/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: submitted by /u/LemonFirm4111 \[link\] \[comments\]
+- **[1812 overture production](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2pdc/1812_overture_production/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: video currently under development you can skip to 1:46 if you want to see the main part submitted by /u/SpatulaFairy139 \[link\] \[comments\]
+- **[trying to make this animation on my kitsune](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bgt/trying_to_make_this_animation_on_my_kitsune/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: i have moon animator (not official ver) and im trying to make this animation. honestly i dont wanna copy the idle but i would like to know what easing style/direction is used and the keyframes layout. its so smooth and if i knew how they ma
 
 ## Roblox Updates
 
-- **[SurfaceAppearance Displays Grey Instead of Texture When Using a Local rbxasset:// Image](https://devforum.roblox.com/t/surfaceappearance-displays-grey-instead-of-texture-when-using-a-local-rbxasset-image/4978021)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: When I replace the ColorMapContent of a SurfaceAppearance instance with an image stored locally on my computer, the texture appears grey instead of displaying the actual image, even though the image is identical to the uploaded image. A war
+- **[Missing terrain on the client](https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: So on one of the map in my game, on the client voxels of terrains disappear for no reason On the server the terrain exists: But on the client, it’s not there and we can go inside the hole: I currently have ExpandedTerrain enabled, but I hav
 
 ---
 
