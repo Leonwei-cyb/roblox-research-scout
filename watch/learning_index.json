@@ -1253,19 +1253,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4969148:1",
-      "url": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148",
-      "title": "Weird MCP Text On Studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4969389:1",
       "url": "https://devforum.roblox.com/t/i-leaked-rce-via-wav-files-in-roblox-studio-its-all-robloxs-fault/4969389",
       "title": "I leaked RCE via .wav files in Roblox Studio, It's all Roblox's fault",
@@ -2286,6 +2273,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4978669:1",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669",
+      "title": "Looking for Feedback on the Fair Market Value of My Unreleased Game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkqs4v",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkqs4v/roblox_studio_mouse_randomly_teleporting/",
       "title": "Roblox studio mouse randomly \"teleporting\"",
@@ -3291,6 +3291,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4978675:1",
+      "url": "https://devforum.roblox.com/t/how-to-change-shift-lock-keybind/4978675",
+      "title": "How to change shift lock keybind?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xlngiw",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlngiw/looking_for_free_playtesters_roblox_mining/",
       "title": "🎮 Looking for FREE Playtesters — Roblox Mining Adventure!",
@@ -3833,19 +3847,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4968994:1",
-      "url": "https://devforum.roblox.com/t/private-servers-displaying-that-they-require-payment-when-free-with-plus/4968994",
-      "title": "Private servers displaying that they require payment when free with plus",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4546,6 +4547,19 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4978702:1",
+      "url": "https://devforum.roblox.com/t/my-group-doesnt-appear-in-the-games-by-dropdown-so-i-cant-register-ip-for-my-game/4978702",
+      "title": "My group doesn't appear in the \"Games by\" dropdown, so I can't register IP for my game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5317,28 +5331,6 @@
       "key": "devforum:4970375:1",
       "url": "https://devforum.roblox.com/t/cannot-use-my-passkeys-2fa/4970375",
       "title": "Cannot use my Passkeys // 2FA",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4970485:1",
-      "url": "https://devforum.roblox.com/t/content-maturity-set-to-moderate-still-cant-join-a-moderate-experience/4970485",
-      "title": "Content maturity set to moderate, still cant join a moderate experience",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4970553:1",
-      "url": "https://devforum.roblox.com/t/how-to-make-a-stationary-background-that-overlaps-the-skybox/4970553",
-      "title": "How to make a stationary background that overlaps the skybox",
       "source": "roblox-devforum-latest",
       "published": "2026-11-01",
       "kind": "devforum",
@@ -6472,6 +6464,17 @@
       "key": "devforum:4978391:1",
       "url": "https://devforum.roblox.com/t/how-do-i-get-my-somewhat-niche-game-past-0-ccu/4978391",
       "title": "How do I get my somewhat \"niche\" game past 0 CCU?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4978672:1",
+      "url": "https://devforum.roblox.com/t/streamline-dmca-request-process/4978672",
+      "title": "Streamline DMCA Request Process",
       "source": "roblox-devforum-latest",
       "published": "2026-11-06",
       "kind": "devforum",

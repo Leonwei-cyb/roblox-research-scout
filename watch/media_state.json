@@ -2823,7 +2823,11 @@
     "85db91c41ebdd0d260ee0371",
     "d73e699d28d0228aecf4db04",
     "71e5e7d2b3f4fdb7f2efd278",
-    "83c690c285f516039b5a9df1"
+    "83c690c285f516039b5a9df1",
+    "18da42170ad42cad799f510f",
+    "81419718adac7a93154cada8",
+    "efee15e00d5165241029527e",
+    "c7b8dd63378b3bd3b9f41d80"
   ],
   "items": [
     {
@@ -2859,6 +2863,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-crash-when-you-are-trying-to-display-the-surfacegui-on-the-part-during-runtime/4978126.rss",
       "id": "f25f72eddf25527511d5d7f3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Streamline DMCA Request Process",
+      "url": "https://devforum.roblox.com/t/streamline-dmca-request-process/4978672",
+      "published": "2026-11-06",
+      "excerpt": "Modded games are being published every day. For bigger studios with multiple people at managing level this forces the owner of the group (that the original game is published to) to submit DMCA removal requests or for someone to submit it on his behalf. Every time this request is made by someone on h",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/streamline-dmca-request-process/4978672.rss",
+      "id": "efee15e00d5165241029527e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -2927,6 +2943,18 @@
       "excerpt": "o submitted by /u/Excellent_Okra_5525 [link] [comments]",
       "creator": "/u/Excellent_Okra_5525 https://www.reddit.com/user/Excellent_Okra_5525",
       "id": "cf1e308f92671221cd2b69df"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for Feedback on the Fair Market Value of My Unreleased Game",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669",
+      "published": "2026-11-06",
+      "excerpt": "Hello! I’ve received a few offers for my game, but since it hasn’t been released yet and I don’t have any analytics, I’m not sure whether the offers are fair. I’d appreciate some honest feedback on what you think the game could reasonably be worth at this stage. I’m also unsure whether I should take",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669.rss",
+      "id": "c7b8dd63378b3bd3b9f41d80"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3100,6 +3128,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-error-we-could-not-open-the-place/4978407.rss",
       "id": "8350efe810640e5c4ffadf26"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to change shift lock keybind?",
+      "url": "https://devforum.roblox.com/t/how-to-change-shift-lock-keybind/4978675",
+      "published": "2026-11-06",
+      "excerpt": "This script used to work, but I’m guessing roblox updated something on the PlayerModule cuz now it just says infinite yield on the wait for child on the PlayerModule.. local KEYS = \"LeftControl,RightControl\" local mouseLockController = game.Players.LocalPlayer .PlayerScripts :WaitForChild(\"PlayerMod",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-change-shift-lock-keybind/4978675.rss",
+      "id": "81419718adac7a93154cada8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3344,6 +3384,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/remove-studio-process-limit/4978561.rss",
       "id": "19f1a53618c319a679c12e3b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My group doesn't appear in the \"Games by\" dropdown, so I can't register IP for my game",
+      "url": "https://devforum.roblox.com/t/my-group-doesnt-appear-in-the-games-by-dropdown-so-i-cant-register-ip-for-my-game/4978702",
+      "published": "2026-11-06",
+      "excerpt": "What do you want to achieve? I want my group (Afternoon Studio) to appear in the “Games by” dropdown (Request license page) so I can select it and register an IP license for my published game. What is the issue? Include screenshots / videos if possible! The “Games by” dropdown only lists my personal",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-group-doesnt-appear-in-the-games-by-dropdown-so-i-cant-register-ip-for-my-game/4978702.rss",
+      "id": "18da42170ad42cad799f510f"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9688,54 +9740,6 @@
       "excerpt": "I loved that scene in Gran Turismo where Jack Salter tells Jann Mardenborough to \"Finish your lap\" after the crash. I wanted to capture that exact tension, but right before hitting the track, the moment waiting inside the garage just before rolling out. Made this Porsche 992 GT3 RS shoot in Roblox. ",
       "creator": "/u/CameleonGames https://www.reddit.com/user/CameleonGames",
       "id": "c7176426cb947d9be7968a8d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Private servers displaying that they require payment when free with plus",
-      "url": "https://devforum.roblox.com/t/private-servers-displaying-that-they-require-payment-when-free-with-plus/4968994",
-      "published": "2026-11-01",
-      "excerpt": "When you have roblox plus you get one free private server/vip server in every game, however on some games it displays that they cost robux. For example, on the game page for Evade it says it costs 56 robux monthly even though private servers are meant to be free with roblox plus (which I have) 1 pos",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/private-servers-displaying-that-they-require-payment-when-free-with-plus/4968994.rss",
-      "id": "c60ea230ed5c1e4fa2429298"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Content maturity set to moderate, still cant join a moderate experience",
-      "url": "https://devforum.roblox.com/t/content-maturity-set-to-moderate-still-cant-join-a-moderate-experience/4970485",
-      "published": "2026-11-01",
-      "excerpt": "Hello, recently (as in right now) I was about to join a game i havent played in a while, and it gives me this (check image). I checked my settings and its set to the max (moderate), yet i cant join, if i try it tells me im not authorized Even after i pressed unlocked it told me “you are not allowed ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/content-maturity-set-to-moderate-still-cant-join-a-moderate-experience/4970485.rss",
-      "id": "c45aec42dbd112432eec11ea"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to make a stationary background that overlaps the skybox",
-      "url": "https://devforum.roblox.com/t/how-to-make-a-stationary-background-that-overlaps-the-skybox/4970553",
-      "published": "2026-11-01",
-      "excerpt": "Ok i worded that REALLY weirdly but I don’t know how to explain. My goal is to have an image that will appear in the background instead of the skybox, like the one in this video: (0:35) I don’t really know how to search for this so I couldn’t really find any solutions, so I decided to look for help ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-make-a-stationary-background-that-overlaps-the-skybox/4970553.rss",
-      "id": "c3eaaa82275f57dfe0a92dec"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Weird MCP Text On Studio",
-      "url": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148",
-      "published": "2026-11-01",
-      "excerpt": "As of recently, I saw this on Roblox Studio… The text, and the bar, is VERY bothering to me when I’m on studio since the bar is right there. Watching me. I tried for maybe a half hour attempting to remove it? Would their be any method of removing it? I have zero use for MCPS, nor will I ever use it,",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148.rss",
-      "id": "c13f91bce1b3c64e6ed8e41d"
     }
   ]
 }

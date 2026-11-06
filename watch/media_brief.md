@@ -5,19 +5,16 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Community
-
-- **[how to make the wasit wider??](https://www.reddit.com/r/ROBLOXStudio/comments/1xpcei7/how_to_make_the_wasit_wider/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: i tried everything to make the wasit bigger:i was expanding the inner ansd outer cae,expanding the wasit on the model and adjusting the width scale on my humanoid model in roblox studio.nothing helped.for the dress i was using accesory fitt
-
 ## Roblox Updates
 
-- **[Server-authoritative character controls missing after publishing Rojo .rbxlx through Open Cloud; .rbxl works fine](https://devforum.roblox.com/t/server-authoritative-character-controls-missing-after-publishing-rojo-rbxlx-through-open-cloud-rbxl-works-fine/4978628)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: I’ve been investigating a difference between publishing a Rojo-generated XML place file and a binary place file through Open Cloud. I haven’t been able to determine if the issue is with the API or Rojo yet. I’ve produced a minimal reproduct
-- **[Still finding a method of distributing sound effects](https://devforum.roblox.com/t/still-finding-a-method-of-distributing-sound-effects/4978629)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: I dont know if this is a bug but I still can’t distribute audio even after verification. It would not let me. Link for extra information: How to distribute sound effect? 1 post - 1 participant Read full topic
-- **[Stuck in final review for 14 days](https://devforum.roblox.com/t/stuck-in-final-review-for-14-days/4978626)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: My game had reached 250 highly engaged players on Friday the 23rd of October at around 10 PM UTC+1. The review happened within 30 minutes, and I was told to redo my questionnaire. I redid it right away in the same hour. After waiting about 
+- **[How to change shift lock keybind?](https://devforum.roblox.com/t/how-to-change-shift-lock-keybind/4978675)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: This script used to work, but I’m guessing roblox updated something on the PlayerModule cuz now it just says infinite yield on the wait for child on the PlayerModule.. local KEYS = "LeftControl,RightControl" local mouseLockController = game
+- **[Looking for Feedback on the Fair Market Value of My Unreleased Game](https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Hello! I’ve received a few offers for my game, but since it hasn’t been released yet and I don’t have any analytics, I’m not sure whether the offers are fair. I’d appreciate some honest feedback on what you think the game could reasonably b
+- **[My group doesn't appear in the "Games by" dropdown, so I can't register IP for my game](https://devforum.roblox.com/t/my-group-doesnt-appear-in-the-games-by-dropdown-so-i-cant-register-ip-for-my-game/4978702)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: What do you want to achieve? I want my group (Afternoon Studio) to appear in the “Games by” dropdown (Request license page) so I can select it and register an IP license for my published game. What is the issue? Include screenshots / videos
+- **[Streamline DMCA Request Process](https://devforum.roblox.com/t/streamline-dmca-request-process/4978672)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Modded games are being published every day. For bigger studios with multiple people at managing level this forces the owner of the group (that the original game is published to) to submit DMCA removal requests or for someone to submit it on
 
 ---
 
