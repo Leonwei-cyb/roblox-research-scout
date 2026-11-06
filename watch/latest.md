@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) (1049 stars). Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
+- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Update ruff requirement from >=0.17.2 to >=0.17.3 (#4691).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

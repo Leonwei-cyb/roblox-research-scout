@@ -7,14 +7,12 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Updates
 
-- **[How to change shift lock keybind?](https://devforum.roblox.com/t/how-to-change-shift-lock-keybind/4978675)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: This script used to work, but I’m guessing roblox updated something on the PlayerModule cuz now it just says infinite yield on the wait for child on the PlayerModule.. local KEYS = "LeftControl,RightControl" local mouseLockController = game
-- **[Looking for Feedback on the Fair Market Value of My Unreleased Game](https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: Hello! I’ve received a few offers for my game, but since it hasn’t been released yet and I don’t have any analytics, I’m not sure whether the offers are fair. I’d appreciate some honest feedback on what you think the game could reasonably b
-- **[My group doesn't appear in the "Games by" dropdown, so I can't register IP for my game](https://devforum.roblox.com/t/my-group-doesnt-appear-in-the-games-by-dropdown-so-i-cant-register-ip-for-my-game/4978702)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: What do you want to achieve? I want my group (Afternoon Studio) to appear in the “Games by” dropdown (Request license page) so I can select it and register an IP license for my published game. What is the issue? Include screenshots / videos
-- **[Streamline DMCA Request Process](https://devforum.roblox.com/t/streamline-dmca-request-process/4978672)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: Modded games are being published every day. For bigger studios with multiple people at managing level this forces the owner of the group (that the original game is published to) to submit DMCA removal requests or for someone to submit it on
+- **[CaptureService StartVideoCapture Callback function never runs](https://devforum.roblox.com/t/captureservice-startvideocapture-callback-function-never-runs/4978781)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: When using CaptureService:StartVideoCaptureAsync() , the first parameter is a callback function as explained on the documentation. Doc: CaptureService \| Documentation - Roblox Creator Hub However, this callback function never runs. In this 
+- **[Dark digital style Gfx (Showcase)](https://devforum.roblox.com/t/dark-digital-style-gfx-showcase/4978728)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: -This gfx was made in 50 minutes 1 post - 1 participant Read full topic
+- **[Invisible Window Blocking Mouse Input + Hover Highlight Bug](https://devforum.roblox.com/t/invisible-window-blocking-mouse-input-hover-highlight-bug/4978780)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Main Bug: Invisible frame blocking all kinds of mouse input. (been happening for a month) Solution Tried Disable all cloud & local plugin Disable all beta features Reproduction Step Open studio in any place / any devices (in this case PC / 
 
 ---
 

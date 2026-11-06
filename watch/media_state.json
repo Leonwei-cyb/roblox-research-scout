@@ -2827,7 +2827,10 @@
     "18da42170ad42cad799f510f",
     "81419718adac7a93154cada8",
     "efee15e00d5165241029527e",
-    "c7b8dd63378b3bd3b9f41d80"
+    "c7b8dd63378b3bd3b9f41d80",
+    "3a36d8e75da07e934a6fcbf4",
+    "e7f064ffb442c7865967d07e",
+    "a804d2ea9f92652b220c69a7"
   ],
   "items": [
     {
@@ -2875,6 +2878,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/streamline-dmca-request-process/4978672.rss",
       "id": "efee15e00d5165241029527e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Invisible Window Blocking Mouse Input + Hover Highlight Bug",
+      "url": "https://devforum.roblox.com/t/invisible-window-blocking-mouse-input-hover-highlight-bug/4978780",
+      "published": "2026-11-06",
+      "excerpt": "Main Bug: Invisible frame blocking all kinds of mouse input. (been happening for a month) Solution Tried Disable all cloud & local plugin Disable all beta features Reproduction Step Open studio in any place / any devices (in this case PC / Laptop ) Video: https://gyazo.com/77b7a8333fa49a8199a769eba3",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/invisible-window-blocking-mouse-input-hover-highlight-bug/4978780.rss",
+      "id": "e7f064ffb442c7865967d07e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3011,6 +3026,18 @@
       "excerpt": "my work gon https://preview.redd.it/67ws8nzamxzh1.png?width=1767&format=png&auto=webp&s=7cfdbec457ee952766370ae4f9ac755bea1bc240 submitted by /u/BlackberryMammoth290 [link] [comments]",
       "creator": "/u/BlackberryMammoth290 https://www.reddit.com/user/BlackberryMammoth290",
       "id": "aa4152b8b3a14f795c5518ed"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Dark digital style Gfx (Showcase)",
+      "url": "https://devforum.roblox.com/t/dark-digital-style-gfx-showcase/4978728",
+      "published": "2026-11-06",
+      "excerpt": "-This gfx was made in 50 minutes 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dark-digital-style-gfx-showcase/4978728.rss",
+      "id": "a804d2ea9f92652b220c69a7"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3314,6 +3341,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961.rss",
       "id": "3fce75a2248deb652acc08f3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "CaptureService StartVideoCapture Callback function never runs",
+      "url": "https://devforum.roblox.com/t/captureservice-startvideocapture-callback-function-never-runs/4978781",
+      "published": "2026-11-06",
+      "excerpt": "When using CaptureService:StartVideoCaptureAsync() , the first parameter is a callback function as explained on the documentation. Doc: CaptureService | Documentation - Roblox Creator Hub However, this callback function never runs. In this code, for example, the onCaptureReady function is never ran,",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/captureservice-startvideocapture-callback-function-never-runs/4978781.rss",
+      "id": "3a36d8e75da07e934a6fcbf4"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9707,39 +9746,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/strata-data-without-the-overhead/4969072.rss",
       "id": "cdf0d6ff5352d84119ccbe84"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is developing and marketing Roblox games a viable business? Looking for honest experiences with development costs, player growth, and actual profits",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkzyty/is_developing_and_marketing_roblox_games_a_viable/",
-      "published": "2026-11-01",
-      "excerpt": "Hi everyone, I’m considering getting into the business of creating, publishing, and marketing games on Roblox. Before committing serious time or money, I’d like to understand what running this kind of business actually involves. The possibility of building a game that people enjoy and turning it int",
-      "creator": "/u/uuua_a https://www.reddit.com/user/uuua_a",
-      "id": "cd1eeead20752e5bd8744c46"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I've been making a fantasy RPG on Roblox called Mistfell",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl329x/ive_been_making_a_fantasy_rpg_on_roblox_called/",
-      "published": "2026-11-01",
-      "excerpt": "Hi! I've created a combination of an open-world game, Destiny 2, and Path of Exile in Roblox. I'd be extremely grateful for any feedback: https://www.roblox.com/games/72434522051923/Mistfell-Chapter-I-The-Hollow submitted by /u/FeelingGrape94 [link] [comments]",
-      "creator": "/u/FeelingGrape94 https://www.reddit.com/user/FeelingGrape94",
-      "id": "c883d26f619a8538191efe88"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "\"Finish your lap\" Inspired by Gran Turismo (2023), built in Roblox",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl5lg5/finish_your_lap_inspired_by_gran_turismo_2023/",
-      "published": "2026-11-01",
-      "excerpt": "I loved that scene in Gran Turismo where Jack Salter tells Jann Mardenborough to \"Finish your lap\" after the crash. I wanted to capture that exact tension, but right before hitting the track, the moment waiting inside the garage just before rolling out. Made this Porsche 992 GT3 RS shoot in Roblox. ",
-      "creator": "/u/CameleonGames https://www.reddit.com/user/CameleonGames",
-      "id": "c7176426cb947d9be7968a8d"
     }
   ]
 }
