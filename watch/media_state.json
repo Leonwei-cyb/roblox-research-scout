@@ -2806,7 +2806,9 @@
     "aa4152b8b3a14f795c5518ed",
     "98443ed1592197982fbd34bf",
     "dc9dffcfc36c4bb271ffbc27",
-    "f59f81cba00080c37a3408f1"
+    "f59f81cba00080c37a3408f1",
+    "52540d067eacd0b1e998fe4c",
+    "2f9f355b90295b291b0bf05e"
   ],
   "items": [
     {
@@ -2917,7 +2919,7 @@
       "title": "Avatar items cannot be uploaded to groups",
       "url": "https://devforum.roblox.com/t/avatar-items-cannot-be-uploaded-to-groups/4978165",
       "published": "2026-11-06",
-      "excerpt": "When uploading an avatar item, after selecting the asset category, the only option left under Creator is “Me.” I can no longer choose to upload it to a group. 1 post - 1 participant Read full topic",
+      "excerpt": "When uploading an avatar item, after selecting the asset category, the only option left under Creator is “Me.” I can no longer choose to upload it to a group. 3 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/avatar-items-cannot-be-uploaded-to-groups/4978165.rss",
       "id": "9baaae1d2f6553f0af7a453b"
@@ -3051,6 +3053,18 @@
       "id": "5ef7a92a9846874cf1469a48"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Body bundle upload fails \"All dependent assets must be open use\": SurfaceAppearance TexturePacks can't be Open Use",
+      "url": "https://devforum.roblox.com/t/body-bundle-upload-fails-all-dependent-assets-must-be-open-use-surfaceappearance-texturepacks-cant-be-open-use/4978369",
+      "published": "2026-11-06",
+      "excerpt": "Uploading a Body bundle (Save to Roblox > Avatar Item > Body) passes validation, then fails at submit: Submission failed. Error uploading all UGC body parts. No Robux was deducted. Replika Woman Unit - Left Leg: All dependent assets must be open use for this asset. Every mesh, image and cage the bod",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/body-bundle-upload-fails-all-dependent-assets-must-be-open-use-surfaceappearance-texturepacks-cant-be-open-use/4978369.rss",
+      "id": "52540d067eacd0b1e998fe4c"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3118,6 +3132,18 @@
       "excerpt": "video currently under development you can skip to 1:46 if you want to see the main part submitted by /u/SpatulaFairy139 [link] [comments]",
       "creator": "/u/SpatulaFairy139 https://www.reddit.com/user/SpatulaFairy139",
       "id": "344d0ecdc36cd6e4414bedec"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Bug] Changing Torso Color to Black Also Changes Leg Color on R6 & R15 Avatars",
+      "url": "https://devforum.roblox.com/t/bug-changing-torso-color-to-black-also-changes-leg-color-on-r6-r15-avatars/4978337",
+      "published": "2026-11-06",
+      "excerpt": "This Bug has been present for decades but not look upon When I change the Torso colour of an avatar to Black or any dark colours (using BodyColors), the LeftLeg and RightLeg colors also change to Black, even though no conflicting colours or clothing are applied. This happens on both R6 and R15 rigs.",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/bug-changing-torso-color-to-black-also-changes-leg-color-on-r6-r15-avatars/4978337.rss",
+      "id": "2f9f355b90295b291b0bf05e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9692,29 +9718,6 @@
       "excerpt": "Could someone check out my game \"Vacuum a Slime\" on roblox. I take no offence to any criticisms. Im really trying to learn. thank you all submitted by /u/Ok_Commission_8812 [link] [comments]",
       "creator": "/u/Ok_Commission_8812 https://www.reddit.com/user/Ok_Commission_8812",
       "id": "a7277b9556b9647cffc58a12"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow Game Name A-B Testing",
-      "url": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911",
-      "published": "2026-11-01",
-      "excerpt": "We have thumbnail A-B Testing which has drastically improved quality of life for maximizing CTR but it’d be alot better if we could also have in-nate game Name A-B Testing aswell which would help us maximize the best possible game name aswell or if we’re unsure of a name or etc. 4 posts - 4 particip",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911.rss",
-      "id": "a58fc8c5d68711ac881e0ee8"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "First time making roblox game. Used AI to help. Any tips?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvjvv/first_time_making_roblox_game_used_ai_to_help_any/",
-      "published": "2026-11-01",
-      "excerpt": "Maybe different thumb nail? I had a non ai one but I felt it looked awful. submitted by /u/Previous_Purpose_614 [link] [comments]",
-      "creator": "/u/Previous_Purpose_614 https://www.reddit.com/user/Previous_Purpose_614",
-      "id": "a4b997bf385168f05d5b8651"
     }
   ]
 }

@@ -3756,19 +3756,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4968911:1",
-      "url": "https://devforum.roblox.com/t/allow-game-name-a-b-testing/4968911",
-      "title": "Allow Game Name A-B Testing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4968994:1",
       "url": "https://devforum.roblox.com/t/private-servers-displaying-that-they-require-payment-when-free-with-plus/4968994",
       "title": "Private servers displaying that they require payment when free with plus",
@@ -6415,20 +6402,31 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xkvggo",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvggo/fictional_piano_boutique_i_made_on_roblox/",
-      "title": "Fictional Piano Boutique I made on Roblox",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
+      "key": "devforum:4978337:1",
+      "url": "https://devforum.roblox.com/t/bug-changing-torso-color-to-black-also-changes-leg-color-on-r6-r15-avatars/4978337",
+      "title": "[Bug] Changing Torso Color to Black Also Changes Leg Color on R6 & R15 Avatars",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xkvjvv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvjvv/first_time_making_roblox_game_used_ai_to_help_any/",
-      "title": "First time making roblox game. Used AI to help. Any tips?",
+      "key": "devforum:4978369:1",
+      "url": "https://devforum.roblox.com/t/body-bundle-upload-fails-all-dependent-assets-must-be-open-use-surfaceappearance-texturepacks-cant-be-open-use/4978369",
+      "title": "Body bundle upload fails \"All dependent assets must be open use\": SurfaceAppearance TexturePacks can't be Open Use",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xkvggo",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvggo/fictional_piano_boutique_i_made_on_roblox/",
+      "title": "Fictional Piano Boutique I made on Roblox",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",

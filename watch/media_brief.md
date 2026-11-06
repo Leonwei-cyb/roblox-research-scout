@@ -5,15 +5,12 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Roblox Updates
 
-- **[Waiting for the server to restart #gaming roblox #stealabrainrot #gaming - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uanpZTC0wWE1uaXhSUlJvQXhoQVMxc3F3TkRIYjJPaU40MGg1aUFNcUF3WnJ6ZmlSLVRncC01WEFUeFVtekdRSmRUNVRrT1dIZjBDWUNR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-10-08
-  - Feed excerpt: Waiting for the server to restart #gaming roblox #stealabrainrot #gaming Instagram
-
-## Community
-
-- **[LOOKING FOR TESTERS FOR MY GAME!!!](https://www.reddit.com/r/ROBLOXStudio/comments/1xp7bkr/looking_for_testers_for_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: I've been working on a card drafting auto battler I'm calling Blox Battles. I just finished with the first chunk of the game, and before I continue working on it I wanna get some feedback. I want to know if it's a generally fun game or if t
+- **[Body bundle upload fails "All dependent assets must be open use": SurfaceAppearance TexturePacks can't be Open Use](https://devforum.roblox.com/t/body-bundle-upload-fails-all-dependent-assets-must-be-open-use-surfaceappearance-texturepacks-cant-be-open-use/4978369)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Uploading a Body bundle (Save to Roblox > Avatar Item > Body) passes validation, then fails at submit: Submission failed. Error uploading all UGC body parts. No Robux was deducted. Replika Woman Unit - Left Leg: All dependent assets must be
+- **[\[Bug\] Changing Torso Color to Black Also Changes Leg Color on R6 & R15 Avatars](https://devforum.roblox.com/t/bug-changing-torso-color-to-black-also-changes-leg-color-on-r6-r15-avatars/4978337)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: This Bug has been present for decades but not look upon When I change the Torso colour of an avatar to Black or any dark colours (using BodyColors), the LeftLeg and RightLeg colors also change to Black, even though no conflicting colours or
 
 ---
 
