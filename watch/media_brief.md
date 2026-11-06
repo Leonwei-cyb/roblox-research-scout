@@ -5,12 +5,19 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Community
+
+- **[Help](https://www.reddit.com/r/ROBLOXStudio/comments/1xp8zxj/help/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: What's this? When I start the test, this window appears and the "Recover" button doesn't work submitted by /u/Better_Nerve2359 \[link\] \[comments\]
+- **[How to make a power plant in Roblox.](https://www.reddit.com/r/ROBLOXStudio/comments/1xp9vzl/how_to_make_a_power_plant_in_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: o submitted by /u/Excellent_Okra_5525 \[link\] \[comments\]
+
 ## Roblox Updates
 
-- **[Body bundle upload fails "All dependent assets must be open use": SurfaceAppearance TexturePacks can't be Open Use](https://devforum.roblox.com/t/body-bundle-upload-fails-all-dependent-assets-must-be-open-use-surfaceappearance-texturepacks-cant-be-open-use/4978369)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: Uploading a Body bundle (Save to Roblox > Avatar Item > Body) passes validation, then fails at submit: Submission failed. Error uploading all UGC body parts. No Robux was deducted. Replika Woman Unit - Left Leg: All dependent assets must be
-- **[\[Bug\] Changing Torso Color to Black Also Changes Leg Color on R6 & R15 Avatars](https://devforum.roblox.com/t/bug-changing-torso-color-to-black-also-changes-leg-color-on-r6-r15-avatars/4978337)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: This Bug has been present for decades but not look upon When I change the Torso colour of an avatar to Black or any dark colours (using BodyColors), the LeftLeg and RightLeg colors also change to Black, even though no conflicting colours or
+- **[Studio error "We could not open the place"](https://devforum.roblox.com/t/studio-error-we-could-not-open-the-place/4978407)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: Hi! I have a problem opening any place up in Roblox Studio. I have attatched a screenshot of the error I get when I try to open the “Tutorial Place”. It is a fresh copy of Studio. Big thanks to everyone that can help! 2 posts - 2 participan
+- **[How do I get my somewhat "niche" game past 0 CCU?](https://devforum.roblox.com/t/how-do-i-get-my-somewhat-niche-game-past-0-ccu/4978391)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: I’ve been working on a game called “Many Movements” (somewhat complex freeform movement game) for the past two years (since 11/15/2024 specifically), and I released it 10/18/2026, to which it had around 20 CCU, but rapidly fell off in the n
 
 ---
 

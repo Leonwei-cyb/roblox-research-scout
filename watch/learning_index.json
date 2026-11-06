@@ -941,6 +941,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4978407:1",
+      "url": "https://devforum.roblox.com/t/studio-error-we-could-not-open-the-place/4978407",
+      "title": "Studio error \"We could not open the place\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkyhx9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkyhx9/looking_for_volunteerrevshare_scripters_modelers/",
       "title": "Looking for Volunteer/Rev-Share Scripters & Modelers for a Skibidi-Inspired Tower Defense Project",
@@ -1219,19 +1233,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4969380:1",
-      "url": "https://devforum.roblox.com/t/from-the-new-friend-request-ui-no-evidencely-change-to-legacy-one/4969380",
-      "title": "From the new friend request ui no evidencely change to legacy one",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3220,20 +3221,6 @@
       "signals": [
         "animation and audio",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xldarq",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xldarq/some_bullet_hell_optimization_issues_ive_been/",
-      "title": "Some bullet hell optimization issues I've been having",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -6424,6 +6411,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4978391:1",
+      "url": "https://devforum.roblox.com/t/how-do-i-get-my-somewhat-niche-game-past-0-ccu/4978391",
+      "title": "How do I get my somewhat \"niche\" game past 0 CCU?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkvggo",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkvggo/fictional_piano_boutique_i_made_on_roblox/",
       "title": "Fictional Piano Boutique I made on Roblox",
@@ -6490,17 +6488,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xl209r",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl209r/what_would_you_consider_advancedintermediate/",
-      "title": "What would you consider advanced/intermediate level in Roblox development?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xl3ij7",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl3ij7/whats_the_best_app_on_creating_game_icons/",
       "title": "What's the best app on creating game icons",
@@ -6548,17 +6535,6 @@
       "key": "reddit:1xl6x60",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl6x60/what_happened_to_the_id_verification_for_editable/",
       "title": "what happened to the id verification for editable images/meshes?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xleq5w",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xleq5w/looking_for_help/",
-      "title": "Looking for help",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",
@@ -7406,6 +7382,28 @@
       "key": "reddit:1xp5cd8",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp5cd8/cant_open_experience/",
       "title": "cant open experience",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xp8zxj",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp8zxj/help/",
+      "title": "Help",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xp9vzl",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp9vzl/how_to_make_a_power_plant_in_roblox/",
+      "title": "How to make a power plant in Roblox.",
       "source": "reddit-robloxstudio",
       "published": "2026-11-06",
       "kind": "reddit",
