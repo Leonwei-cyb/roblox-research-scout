@@ -2816,7 +2816,10 @@
     "bd566229f1f1c9bc013dafc2",
     "bc6b7b7997adadc5c844816e",
     "7924d902b917e08948f8460c",
-    "69db91c5176e7c4c313893ea"
+    "69db91c5176e7c4c313893ea",
+    "19f1a53618c319a679c12e3b",
+    "9b9a8a5a17f18f3dd4d9e741",
+    "5a9746ff3d0f96b305e1a627"
   ],
   "items": [
     {
@@ -2981,6 +2984,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Troubles with InputContext for Server Authority",
+      "url": "https://devforum.roblox.com/t/troubles-with-inputcontext-for-server-authority/4978531",
+      "published": "2026-11-06",
+      "excerpt": "I am trying to start using InputContexts to work on a Character Controller in Studio with Server Authority. Currently I have an InputController folder that hosts all of the user’s InputContexts, Actions and Bindings. I am using a very simple, static, number of inputs that doesn’t decrease or increas",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/troubles-with-inputcontext-for-server-authority/4978531.rss",
+      "id": "9b9a8a5a17f18f3dd4d9e741"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "New Roblox Merge Game (\"Merge A Piggy\")",
       "url": "https://devforum.roblox.com/t/new-roblox-merge-game-merge-a-piggy/4977927",
       "published": "2026-11-06",
@@ -3140,6 +3155,17 @@
       "id": "5ef7a92a9846874cf1469a48"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Ad and suggrstion",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpb1ai/ad_and_suggrstion/",
+      "published": "2026-11-06",
+      "excerpt": "We just made a game based on a popular idea. Some people might think the idea is not original, but we had creative ideas and decided to publish it. Not only catching eggs but we have jousting duel system with mounts Our game has more than 200 animals and over 300 3D models made by ourselves using Me",
+      "creator": "/u/Correct-Forever-3458 https://www.reddit.com/user/Correct-Forever-3458",
+      "id": "5a9746ff3d0f96b305e1a627"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3255,6 +3281,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-renders-over-the-taskbar/4977915.rss",
       "id": "1cbdf8b618e85cfa9a78836b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Remove Studio process limit",
+      "url": "https://devforum.roblox.com/t/remove-studio-process-limit/4978561",
+      "published": "2026-11-06",
+      "excerpt": "We are trying to use many Studio windows since we have multiple Team Create sessions for our game maps, and we occasionally hit this limit which is reducing our productivity since we have to close a TC, go to a new one, then go back and forth, etc., and it also reduces some of our tooling’s effectiv",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/remove-studio-process-limit/4978561.rss",
+      "id": "19f1a53618c319a679c12e3b"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9692,40 +9730,6 @@
       "excerpt": "I have an incremental game, it had great CCU and stats all along but suddenly died, I don't know what's wrong really. If some of y'all try it and make some suggestions I would be grateful. https://www.roblox.com/games/136966381029085/Celestial-Rarities (We didn't use AI) submitted by /u/Repulsive-Pe",
       "creator": "/u/Repulsive-Pension544 https://www.reddit.com/user/Repulsive-Pension544",
       "id": "bbc9f6c85d771c2cae5c61ae"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Need help for big project dream",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlhrr8/need_help_for_big_project_dream/",
-      "published": "2026-11-01",
-      "excerpt": "Hello guys my name is neptune and i need your help. I always want to create my game but im not a Dev me im an young artist who need somes devs for create a rpg game who is my dream for 8 years , a try do everthing myself but i can’t do it alone , i really need help please. My rpg game is about the m",
-      "creator": "/u/C0co_moth https://www.reddit.com/user/C0co_moth",
-      "id": "b8e6ef9879e07536d6e4b763"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "What do you guys think of this trailer for a new update?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl5lnq/what_do_you_guys_think_of_this_trailer_for_a_new/",
-      "published": "2026-11-01",
-      "excerpt": "https://www.roblox.com/games/118461214056894/Robovac-League-UPDATE submitted by /u/Daniil12272 [link] [comments]",
-      "creator": "/u/Daniil12272 https://www.reddit.com/user/Daniil12272",
-      "id": "b522a0be0aa3bfe984bca3ae"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Suggested for you is sometimes misspelled on notification on the roblox app",
-      "url": "https://devforum.roblox.com/t/suggested-for-you-is-sometimes-misspelled-on-notification-on-the-roblox-app/4970599",
-      "published": "2026-11-01",
-      "excerpt": "System Information: Windows 11 Pro 26H2 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/suggested-for-you-is-sometimes-misspelled-on-notification-on-the-roblox-app/4970599.rss",
-      "id": "af64bf2f08d0df7a3dfacbe1"
     }
   ]
 }

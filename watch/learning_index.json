@@ -1239,6 +1239,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xpb1ai",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpb1ai/ad_and_suggrstion/",
+      "title": "Ad and suggrstion",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4969148:1",
       "url": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148",
       "title": "Weird MCP Text On Studio",
@@ -2215,6 +2229,32 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4978531:1",
+      "url": "https://devforum.roblox.com/t/troubles-with-inputcontext-for-server-authority/4978531",
+      "title": "Troubles with InputContext for Server Authority",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4978561:1",
+      "url": "https://devforum.roblox.com/t/remove-studio-process-limit/4978561",
+      "title": "Remove Studio process limit",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -5282,17 +5322,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4970599:1",
-      "url": "https://devforum.roblox.com/t/suggested-for-you-is-sometimes-misspelled-on-notification-on-the-roblox-app/4970599",
-      "title": "Suggested for you is sometimes misspelled on notification on the roblox app",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4970955:1",
       "url": "https://devforum.roblox.com/t/i-still-dont-have-quick-words-despite-being-in-the-us/4970955",
       "title": "I still don't have quick words despite being in the US",
@@ -6525,31 +6554,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xl5lnq",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl5lnq/what_do_you_guys_think_of_this_trailer_for_a_new/",
-      "title": "What do you guys think of this trailer for a new update?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xl6x60",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl6x60/what_happened_to_the_id_verification_for_editable/",
       "title": "what happened to the id verification for editable images/meshes?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xlhrr8",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlhrr8/need_help_for_big_project_dream/",
-      "title": "Need help for big project dream",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",

@@ -7,17 +7,15 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Made a bit of a major update in my game, CONVEYOR CHAOS](https://www.reddit.com/r/ROBLOXStudio/comments/1xpau2a/made_a_bit_of_a_major_update_in_my_game_conveyor/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: Just saying that there are special events (like Conveyor Speed Up etc.) that happen every 2-6 minutes, but they aren’t included in the video due to time constraints. Feel free to check them out as well! If you’re a new player, it automatica
-- **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every m
-- **[T-90M Tank Showcase](https://www.reddit.com/r/ROBLOXStudio/comments/1xpapgp/t90m_tank_showcase/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
-  - Feed excerpt: Hello Guys! i tried to make a tank system for my game ik its not the most realistic (i dont rlly want it to be very realistic anyways) but i did try to add the main features : Cannons , Chassis , Smoke Grenades and Aiming Camera RATE OUT OF
+- **[Ad and suggrstion](https://www.reddit.com/r/ROBLOXStudio/comments/1xpb1ai/ad_and_suggrstion/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-06
+  - Feed excerpt: We just made a game based on a popular idea. Some people might think the idea is not original, but we had creative ideas and decided to publish it. Not only catching eggs but we have jousting duel system with mounts Our game has more than 2
 
 ## Roblox Updates
 
-- **[Rigs or animations imported from Blender break in Roblox](https://devforum.roblox.com/t/rigs-or-animations-imported-from-blender-break-in-roblox/4978459)** · Roblox Developer Forum latest · 2026-11-06
-  - Feed excerpt: Hi devs! I’ve been trying to chase down an issue that I haven’t had any luck solving for the past couple of weeks. I designed a rig in Blender that imports as a viewmodel in Roblox and have been animating on it. The model and rig exports ap
+- **[Remove Studio process limit](https://devforum.roblox.com/t/remove-studio-process-limit/4978561)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: We are trying to use many Studio windows since we have multiple Team Create sessions for our game maps, and we occasionally hit this limit which is reducing our productivity since we have to close a TC, go to a new one, then go back and for
+- **[Troubles with InputContext for Server Authority](https://devforum.roblox.com/t/troubles-with-inputcontext-for-server-authority/4978531)** · Roblox Developer Forum latest · 2026-11-06
+  - Feed excerpt: I am trying to start using InputContexts to work on a Character Controller in Studio with Server Authority. Currently I have an InputController folder that hosts all of the user’s InputContexts, Actions and Bindings. I am using a very simpl
 
 ---
 
