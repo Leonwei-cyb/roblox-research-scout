@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-11-06T07:26:51Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -34,6 +33,39 @@
       },
       "etag": "\"1d3191b57b8ecfa850a75c21f049ad7bc306f52a52bae0edb095f81d863c81f8\""
     },
+    "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/90d6b98fd86d20981ee06ddd5b7d93e4320f26a4?recursive=1": {
+      "data": {
+        "manifests": [
+          "package.json",
+          "pyproject.toml",
+          "setup.py",
+          "hermes_cli/setup.py",
+          "pm/pyproject.toml",
+          "tests-js/package.json"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "hermes_state_api_content.py",
+          "hermes_state_portability.py",
+          "hermes_state_runtime_workers.py",
+          "hermes_state_session_list.py",
+          "hermes_state_sessions.py",
+          "hermes_state_sessions_model_config.py"
+        ],
+        "tests": 10318,
+        "tests_sample": [
+          "apps/desktop/e2e/at-rest-connection-token.spec.ts",
+          "apps/desktop/e2e/batch-clarify.spec.ts",
+          "apps/desktop/e2e/boot-failure.spec.ts",
+          "apps/desktop/e2e/boot.spec.ts",
+          "apps/desktop/e2e/bot-screen-stale-status-reply.spec.ts"
+        ],
+        "truncated": false
+      },
+      "etag": "\"5b9479d490ee6c1d2b367a900714c8d5415f557c866e93b569506382ea0e19f3\""
+    },
     "https://api.github.com/repos/Robbings/chatgpt-graph-navigator/git/trees/a616cefd3fb6764ad25f0d50417fbebe14156660?recursive=1": {
       "data": {
         "manifests": [
@@ -57,40 +89,7 @@
       },
       "etag": "\"16ea9b96db4bd900c60915657c1e3038cf79aa3fffdac81f01d4895e876d5054\""
     },
-    "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps/git/trees/6c16b23f1bacd0fdf240bb5141ef45e59e82c306?recursive=1": {
-      "data": {
-        "manifests": [
-          "advanced_llm_apps/chat-with-tarots/requirements.txt",
-          "advanced_llm_apps/cursor_ai_experiments/requirements.txt",
-          "advanced_llm_apps/excaliflow/package.json",
-          "advanced_llm_apps/gpt_oss_critique_improvement_loop/requirements.txt",
-          "advanced_llm_apps/needle/package.json",
-          "advanced_llm_apps/resume_job_matcher/requirements.txt"
-        ],
-        "readme": [
-          "README.md"
-        ],
-        "sources": [
-          "advanced_llm_apps/cursor_ai_experiments/multi_agent_researcher.py",
-          "always_on_agents/always_on_hn_briefing_agent/agent.py",
-          "always_on_agents/release_radar_agent/agent.py",
-          "mcp_ai_agents/github_mcp_agent/github_agent.py",
-          "mcp_ai_agents/multi_mcp_agent/multi_mcp_agent.py",
-          "mcp_ai_agents/multi_mcp_agent_router/agent_forge.py"
-        ],
-        "tests": 48,
-        "tests_sample": [
-          "advanced_ai_agents/multi_agent_apps/ai_codebase_migration_agent/test_app_security.py",
-          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/__init__.py",
-          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/agent_agno_test.py",
-          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/embedding_search_test.py",
-          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/english_sample_0.wav"
-        ],
-        "truncated": false
-      },
-      "etag": "\"e624993ad64f3c5dacf515ef12d9f26f2127cc34634491f929ce34b511601536\""
-    },
-    "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps/git/trees/7aab134864933379a691e13a32904daa935a3ff9?recursive=1": {
+    "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps/git/trees/c129f31036f5ba0bba42cbb63937a66946fdf2c0?recursive=1": {
       "data": {
         "manifests": [
           "advanced_llm_apps/chat-with-tarots/requirements.txt",
@@ -121,7 +120,7 @@
         ],
         "truncated": false
       },
-      "etag": "\"4e74da17a4973152a3612199eee1af306061ff256b33a439e98b20ae1146d496\""
+      "etag": "\"ef7dda087f6845f40dbcf479d5ba8c3b337ceef4611c47aefee911abd626d247\""
     },
     "https://api.github.com/repos/SillySerpent/Dichrome/git/trees/8fac1617d1352f62ecf1e32f3ccc8afe690946b6?recursive=1": {
       "data": {
@@ -148,7 +147,7 @@
       },
       "etag": "\"2709c8d397d722a1f5f417ef0a22439f1ebb39a91a518bc95201ef7442806c82\""
     },
-    "https://api.github.com/repos/TED-H-com/multi-ai-chat/git/trees/2be14196446b65cd6047db44eb3d83c51f881390?recursive=1": {
+    "https://api.github.com/repos/TED-H-com/multi-ai-chat/git/trees/6a32bbdbcbe3a659ba11194383e1f7e55442bdd7?recursive=1": {
       "data": {
         "manifests": [
           "package.json",
@@ -165,46 +164,17 @@
           "src/shared/conversationContinuity.ts",
           "src/shared/conversationPersistence.ts"
         ],
-        "tests": 43,
+        "tests": 53,
         "tests_sample": [
           "test/autonomousRecovery.test.mts",
-          "test/chatgptDom.test.mts",
-          "test/chatgptStatusReporting.test.mts",
-          "test/contentRequestScope.test.mts",
-          "test/contentStreaming.test.mts"
+          "test/benchmarks/continuity.bench.mts",
+          "test/benchmarks/persistence.bench.mts",
+          "test/benchmarks/streaming.bench.mts",
+          "test/capturedMeta.test.mts"
         ],
         "truncated": false
       },
-      "etag": "\"d078a87556a7adc10087c512b3497f4b54a435a3a70e88c63341dd91d60d7cc7\""
-    },
-    "https://api.github.com/repos/TED-H-com/multi-ai-chat/git/trees/c93fef795b7209e8a95e7276352149b40417d5de?recursive=1": {
-      "data": {
-        "manifests": [
-          "package.json",
-          "public/manifest.json"
-        ],
-        "readme": [
-          "README.md"
-        ],
-        "sources": [
-          "src/background/providerTabOwnership.ts",
-          "src/background/roundtableRecovery.ts",
-          "src/background/service-worker.ts",
-          "src/content/loginStatusStability.ts",
-          "src/shared/conversationContinuity.ts",
-          "src/shared/conversationPersistence.ts"
-        ],
-        "tests": 42,
-        "tests_sample": [
-          "test/autonomousRecovery.test.mts",
-          "test/chatgptDom.test.mts",
-          "test/chatgptStatusReporting.test.mts",
-          "test/contentRequestScope.test.mts",
-          "test/contentStreaming.test.mts"
-        ],
-        "truncated": false
-      },
-      "etag": "\"09f59c1ad3dfee13d5937e2ef09c42aa123ea61f437c5f5303aae82adcc3a95b\""
+      "etag": "\"a5302aed1a151752aa8a9f58a67931b6453a79d4627350674cf0dd87af499799\""
     },
     "https://api.github.com/repos/Veverke/bAInder/git/trees/ed22774951480303c8abfd79a6eb882b793c7411?recursive=1": {
       "data": {
@@ -312,19 +282,6 @@
       },
       "etag": "\"518e0f0b7921e1bec497e1303f75d9cd2dd637ffc85477c64ef5af4861edac00\""
     },
-    "https://api.github.com/repos/kyrolabs/awesome-agents/git/trees/863bba8dcb9ea72926a25232937a11ef1f2af0b8?recursive=1": {
-      "data": {
-        "manifests": [],
-        "readme": [
-          "README.md"
-        ],
-        "sources": [],
-        "tests": 0,
-        "tests_sample": [],
-        "truncated": false
-      },
-      "etag": "\"d5ac392c2721af31e093735233f2eaca94dc92934074a0aea528c0fcd9380eaa\""
-    },
     "https://api.github.com/repos/ollama/ollama/git/trees/6362e0a30887bdd4f69e07a94e8a513383576204?recursive=1": {
       "data": {
         "manifests": [
@@ -352,63 +309,7 @@
         "truncated": false
       },
       "etag": "\"205dd5c66ed8279bcc5eb6b7a88a71b1a43877a2456ccebe69427bb0985e050d\""
-    },
-    "https://api.github.com/repos/ollama/ollama/git/trees/a6d33251620eef7629c73b09e672f2df243eb363?recursive=1": {
-      "data": {
-        "manifests": [
-          "go.mod"
-        ],
-        "readme": [
-          "README.md"
-        ],
-        "sources": [
-          "integration/max_queue_test.go",
-          "middleware/responses_input_content_test.go",
-          "openai/responses_input_content_test.go",
-          "app/store/database.go",
-          "app/store/database_test.go",
-          "app/tools/browser.go"
-        ],
-        "tests": 22,
-        "tests_sample": [
-          "app/ui/app/src/api.test.ts",
-          "app/ui/app/src/components/ClaudeDesktopModelsSettings.interaction.test.tsx",
-          "app/ui/app/src/components/ClaudeDesktopModelsSettings.test.tsx",
-          "app/ui/app/src/components/CodexConnectedIntro.test.tsx",
-          "app/ui/app/src/components/CodexDesktopModelsSettings.test.tsx"
-        ],
-        "truncated": false
-      },
-      "etag": "\"2e0ceb97cccdd0983934c22e63f8fcd7e69d384bbd968d98f37d48b81d55448e\""
-    },
-    "https://api.github.com/repos/ollama/ollama/git/trees/f60dd2060f670263a9b0078f0d5108a92cce4807?recursive=1": {
-      "data": {
-        "manifests": [
-          "go.mod"
-        ],
-        "readme": [
-          "README.md"
-        ],
-        "sources": [
-          "integration/max_queue_test.go",
-          "middleware/responses_input_content_test.go",
-          "openai/responses_input_content_test.go",
-          "app/store/database.go",
-          "app/store/database_test.go",
-          "app/tools/browser.go"
-        ],
-        "tests": 22,
-        "tests_sample": [
-          "app/ui/app/src/api.test.ts",
-          "app/ui/app/src/components/ClaudeDesktopModelsSettings.interaction.test.tsx",
-          "app/ui/app/src/components/ClaudeDesktopModelsSettings.test.tsx",
-          "app/ui/app/src/components/CodexConnectedIntro.test.tsx",
-          "app/ui/app/src/components/CodexDesktopModelsSettings.test.tsx"
-        ],
-        "truncated": false
-      },
-      "etag": "\"c7c8cb6af8faae8b87ab19a07775ed53b363da1023f58489074061d29c1d315c\""
     }
   },
-  "last_run": "2026-11-06T07:25:53Z"
+  "last_run": "2026-11-06T14:02:00Z"
 }
