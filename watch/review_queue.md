@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Rigs or animations imported from Blender break in Roblox](https://devforum.roblox.com/t/rigs-or-animations-imported-from-blender-break-in-roblox/4978459)** — Public text/page, video not confirmed
+- **[How roblox animations work?](https://devforum.roblox.com/t/how-roblox-animations-work/4978846)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
@@ -22,6 +22,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[RobloxAIBuilderPRO Plugin - AI Assistant Code & Copilot & Building](https://devforum.roblox.com/t/robloxaibuilderpro-plugin-ai-assistant-code-copilot-building/4978859)** — Public text/page, video not confirmed
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Public text/page, video not confirmed
-- **[luau-signals - luau port of alien-signals](https://devforum.roblox.com/t/luau-signals-luau-port-of-alien-signals/4976701)** — Public text/page, video not confirmed
 - **[Studio MCP Server Updates: Open Cloud Access in Your MCP Client and Asset Import Workflows](https://devforum.roblox.com/t/studio-mcp-server-updates-open-cloud-access-in-your-mcp-client-and-asset-import-workflows/4975849)** — Public text/page, video not confirmed
