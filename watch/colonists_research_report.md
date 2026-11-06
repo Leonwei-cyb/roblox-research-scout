@@ -12,7 +12,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 - **P0 · board game and turn flow:** [Territory Hex: Looking for Feedback](https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421)
   - devforum · **UNVIEWED_METADATA** · Check: At the same game state as the Colonist.io original, does a turn read as roll, collect, build or trade, end?
-- **P0 · first-session and mobile:** [\[$9.99\] Car Pack \| 10 Low Poly Driveable Cars (PC, Mobile & Console)](https://devforum.roblox.com/t/999-car-pack-10-low-poly-driveable-cars-pc-mobile-console/4971644)
+- **P0 · first-session and mobile:** [Toolbar is effectively broken on Mobile devices](https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?

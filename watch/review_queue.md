@@ -6,9 +6,9 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
+- **[Test Graphics and Memory on Lower-End Devices With the Performance Simulator](https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313)** — Public text/page, video not confirmed
 - **[Grand Strategy WW1 Game stats](https://www.reddit.com/r/robloxgamedev/comments/1xogqkh/grand_strategy_ww1_game_stats/)** — Public text/page, video not confirmed
 - **[I need your advice on this fishing tycoon game](https://devforum.roblox.com/t/i-need-your-advice-on-this-fishing-tycoon-game/4977664)** — Public text/page, video not confirmed
-- **[\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 

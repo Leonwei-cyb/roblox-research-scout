@@ -2857,7 +2857,19 @@
     "03d7c1ce7189487ed894ae20",
     "9a70d43a3f5877eb10571a6e",
     "9063c9d8af14565550357829",
-    "7d225bee6868359bc8884450"
+    "7d225bee6868359bc8884450",
+    "87fc9399cef32938ca58c660",
+    "3c67f6fa065a7cc99a17e133",
+    "092daf1075f19a6cce92db79",
+    "8d7b37ee23df816bc9fdf0b1",
+    "02bc34b321ca207e068f97c4",
+    "c1df3cd9e748aaedd65e269b",
+    "b010025936868c6879725e03",
+    "3e8821a74eeecb832647f5dc",
+    "a5662f9e7ca43704371fa9e7",
+    "dd15b4cb50a2dc8f7ef10ccd",
+    "70edcc19998a1226cba142d4",
+    "6ed36785e876b6003f4bdf67"
   ],
   "items": [
     {
@@ -2941,6 +2953,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-roblox-animations-work/4978846.rss",
       "id": "e1659f4dd61f94fe6ba9877c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I just finished the picture of my game, any opinion of the final result?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xppz05/i_just_finished_the_picture_of_my_game_any/",
+      "published": "2026-11-06",
+      "excerpt": "submitted by /u/Sentuva [link] [comments]",
+      "creator": "/u/Sentuva https://www.reddit.com/user/Sentuva",
+      "id": "dd15b4cb50a2dc8f7ef10ccd"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3057,6 +3080,18 @@
       "id": "c2f9f49e28a813f428cf5669"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Test Graphics and Memory on Lower-End Devices With the Performance Simulator",
+      "url": "https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313",
+      "published": "2026-11-06",
+      "excerpt": "Key Takeaways The Performance Simulator is now available in Studio. It shows how your game looks and streams at a device’s typical graphics quality and memory, so you can test lower-end hardware without leaving Studio. To use it, open the Device Simulator from Test > Device Simulator and click the P",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313.rss",
+      "id": "c1df3cd9e748aaedd65e269b"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3110,7 +3145,7 @@
       "title": "Studio Games not opening",
       "url": "https://devforum.roblox.com/t/studio-games-not-opening/4979206",
       "published": "2026-11-06",
-      "excerpt": "Whenever I open studio, the games won’t load, and when I click it, I get this error below: This is happening for all games saved locally on my account / in groups. 1 post - 1 participant Read full topic",
+      "excerpt": "Whenever I open studio, the games won’t load, and when I click it, I get this error below: This is happening for all games saved locally on my account / in groups. 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-games-not-opening/4979206.rss",
       "id": "baaed33aaf8ba240c9656f75"
@@ -3139,6 +3174,18 @@
       "id": "b0a8edcaabd752e55ca15226"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Rescale dragger just... existing?",
+      "url": "https://devforum.roblox.com/t/rescale-dragger-just-existing/4979311",
+      "published": "2026-11-06",
+      "excerpt": "I have no clue how or why this happened, but the fact this issue is real already warrants a deeper look. Was animating in Eclipse Animator, hit a few too many keys on accident and the Rescale dragger is just stuck there now?? I’m sorry about how lackluster this explanation is, but I tried to reprodu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/rescale-dragger-just-existing/4979311.rss",
+      "id": "b010025936868c6879725e03"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3160,6 +3207,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dark-digital-style-gfx-showcase/4978728.rss",
       "id": "a804d2ea9f92652b220c69a7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game Review and Feedbacl",
+      "url": "https://devforum.roblox.com/t/game-review-and-feedbacl/4979241",
+      "published": "2026-11-06",
+      "excerpt": "Blades and Blood – Looking for Honest Feedback! Hey everyone! I’ve been working on a Roblox game called Blades and Blood , and I’d really appreciate some honest feedback from other developers and players. About the game Blades and Blood is fast paced multiplayer fighting game with multiple gamemodes",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-review-and-feedbacl/4979241.rss",
+      "id": "a5662f9e7ca43704371fa9e7"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3269,6 +3328,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Roblox said I had appealed, then didn't unmoderate me",
+      "url": "https://devforum.roblox.com/t/roblox-said-i-had-appealed-then-didnt-unmoderate-me/4979341",
+      "published": "2026-11-06",
+      "excerpt": "Basically Roblox moderated me for ‘sexual content’ and this was the image (I know it is very bad look at your own risk): (I kept their name private because I appreciate they took the time to review) The person reviewing didn’t even fill out the format (I presume in the ‘-’ they’re supposed to put li",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-said-i-had-appealed-then-didnt-unmoderate-me/4979341.rss",
+      "id": "8d7b37ee23df816bc9fdf0b1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Missing terrain on the client",
       "url": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081",
       "published": "2026-11-06",
@@ -3287,6 +3358,18 @@
       "excerpt": "so i have a 3d model made in blender and when i imported the file to roblox studio it appears gray(it has the textures in blender and has a folder with all the textures pngs on it) submitted by /u/AdventurouslyBad [link] [comments]",
       "creator": "/u/AdventurouslyBad https://www.reddit.com/user/AdventurouslyBad",
       "id": "884c03f735cb9193a23194a9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Model Academy Game stuck in final 16+ review for more than 5 days (should be done within 48hrs) - All items completed and green check marked",
+      "url": "https://devforum.roblox.com/t/model-academy-game-stuck-in-final-16-review-for-more-than-5-days-should-be-done-within-48hrs-all-items-completed-and-green-check-marked/4979369",
+      "published": "2026-11-06",
+      "excerpt": "Hello Roblox Engineering Team, My experience, Model Academy | Fashion & Dress Up , is still restricted to players ages 16 and older. Every requirement on the Manage Audience page is already check-marked, but the final review has not finished after over 5+ days and counting now. As of November 6, 202",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/model-academy-game-stuck-in-final-16-review-for-more-than-5-days-should-be-done-within-48hrs-all-items-completed-and-green-check-marked/4979369.rss",
+      "id": "87fc9399cef32938ca58c660"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3426,6 +3509,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/stuck-in-final-review-for-14-days/4978626.rss",
       "id": "71e5e7d2b3f4fdb7f2efd278"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "how do i make the axe chopping more impactful and less clunky",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpqm4b/how_do_i_make_the_axe_chopping_more_impactful_and/",
+      "published": "2026-11-06",
+      "excerpt": "also note the animations and sfx arent mine it feels kinda clunky and sluggish tips will be appretiated thanks also ignore the axes sound effect submitted by /u/Acceptable-Eye-9590 [link] [comments]",
+      "creator": "/u/Acceptable-Eye-9590 https://www.reddit.com/user/Acceptable-Eye-9590",
+      "id": "70edcc19998a1226cba142d4"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3577,6 +3671,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961.rss",
       "id": "3fce75a2248deb652acc08f3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Expedited review refund requests fail for three experiences",
+      "url": "https://devforum.roblox.com/t/expedited-review-refund-requests-fail-for-three-experiences/4979265",
+      "published": "2026-11-06",
+      "excerpt": "I paid expedited review fees for three experiences owned by RoDark Studios , using the RoDarkStudios account: Stack a Donut Tower Animal Tag Penguin River RNG All three have remained in good standing. For each experience, I opened Manage Audience in Creator Dashboard and selected the expedited revie",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/expedited-review-refund-requests-fail-for-three-experiences/4979265.rss",
+      "id": "3e8821a74eeecb832647f5dc"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Weekly Recap: November 2 - 6, 2026",
+      "url": "https://devforum.roblox.com/t/weekly-recap-november-2-6-2026/4979364",
+      "published": "2026-11-06",
+      "excerpt": "Key Takeaways Studio MCP now lets connected agents call Open Cloud APIs from the same chat where they edit a place, while Test Teleports in Studio makes cross-place playtesting possible without publishing. Creators can see more of their worlds on lower-end devices with a 500-stud minimum draw distan",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/weekly-recap-november-2-6-2026/4979364.rss",
+      "id": "3c67f6fa065a7cc99a17e133"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3793,6 +3911,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Chomper from Plants Vs. Zombies",
+      "url": "https://devforum.roblox.com/t/chomper-from-plants-vs-zombies/4979354",
+      "published": "2026-11-06",
+      "excerpt": "Hey, here’s your yearly update on my Plants Vs. Zombies project, today I decided to remodel an old chomper model I was really unsatisfied with, and it paid, here’s the result; And if any of you were wondering where I came from, this is the old model. I’d love to hear what y’all think 1 post - 1 part",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/chomper-from-plants-vs-zombies/4979354.rss",
+      "id": "092daf1075f19a6cce92db79"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "SurfaceAppearance Displays Grey Instead of Texture When Using a Local rbxasset:// Image",
       "url": "https://devforum.roblox.com/t/surfaceappearance-displays-grey-instead-of-texture-when-using-a-local-rbxasset-image/4978021",
       "published": "2026-11-06",
@@ -3811,6 +3941,18 @@
       "excerpt": "submitted by /u/RomaInvictaDev [link] [comments]",
       "creator": "/u/RomaInvictaDev https://www.reddit.com/user/RomaInvictaDev",
       "id": "03d7c1ce7189487ed894ae20"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Account Terminated Even After Successful Asset Appeal – Requesting Staff Review",
+      "url": "https://devforum.roblox.com/t/account-terminated-even-after-successful-asset-appeal-%E2%80%93-requesting-staff-review/4979332",
+      "published": "2026-11-06",
+      "excerpt": "Hello, I’m submitting this post because my Roblox account orcslayer94 was terminated due to an asset that was incorrectly moderated. After the termination, I appealed the moderated asset via email appeal, and my appeal was approved, confirming that the item did not violate Roblox’s Community Standar",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/account-terminated-even-after-successful-asset-appeal-%E2%80%93-requesting-staff-review/4979332.rss",
+      "id": "02bc34b321ca207e068f97c4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7624,6 +7766,18 @@
       "id": "6f57d714b05eaa727fc87f4b"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Only TODAY in the secret admin in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vU21WZDBKUWEwamtERUdpSGluaFZCbDh3blp1a3ZKYVFxd1ZWUFFkZ3QxTDNTVXpGamc5aXlvbkc1ZFhlNjM5RGVkWXg0cGh5SFZYc3Z3?oc=5",
+      "published": "2026-11-03",
+      "excerpt": "Only TODAY in the secret admin in Steal an egg #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "6ed36785e876b6003f4bdf67"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -9641,145 +9795,6 @@
       "excerpt": "Create your campaign and add at least 5 different thumbnails Run $30 a day for just 48 hours. This will tell you which thumbnail(s) is best. Roblox will then use the best one in the campaign. Run the campaign with your highest-performing thumbnails. This time, do $30 a day for 7 days. After the 1 we",
       "creator": "/u/Previous-Pride6335 https://www.reddit.com/user/Previous-Pride6335",
       "id": "25da3895f2b06f92b3ac3018"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Mentioning fictional slavery",
-      "url": "https://devforum.roblox.com/t/mentioning-fictional-slavery/4972124",
-      "published": "2026-11-02",
-      "excerpt": "Hey! In my game, I have multiple entirely FICTIONAL, non-human based species. One of which managed to “enslave” another. Would it get me in trouble to mention slavery in things such as dialogue even though there’s no connection to real life historical events, humans and everything being fully fictio",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/mentioning-fictional-slavery/4972124.rss",
-      "id": "1bdd5cbd8f37f4305a1a29a1"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for players to try out my Roblox FPS game (FRAGIX)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xluxd2/looking_for_players_to_try_out_my_roblox_fps_game/",
-      "published": "2026-11-02",
-      "excerpt": "I've been working on my Roblox FPS game, FRAGIX. Looking for people to try it out! I've been putting a lot of time into this game and would really appreciate some players giving it a shot. It's a fast-paced free-for-all shooter where you can fight other players, unlock weapons, collect skins, and im",
-      "creator": "/u/RexarTheGoat https://www.reddit.com/user/RexarTheGoat",
-      "id": "1b4f406d46bc5f694f92be9b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Profile Image won't update",
-      "url": "https://devforum.roblox.com/t/profile-image-wont-update/4971392",
-      "published": "2026-11-02",
-      "excerpt": "So I changed my avatar to a bacon minimum 15 hours since I did and my profile image on dev forum still hasn’t updated lol … Page URL: https://devforum.roblox.com/u/slayqu987/summary 12 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/profile-image-wont-update/4971392.rss",
-      "id": "19bd13cee4160df10b6b5afa"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Me and my friend created a Roblox game based on the fake barrel shooting ads",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9y9d/me_and_my_friend_created_a_roblox_game_based_on/",
-      "published": "2026-11-02",
-      "excerpt": "It’s called shoot barrels for eggs, could someone try it out and give me some feedback? It would be greatly appreciated submitted by /u/Lopsided-Strength-42 [link] [comments]",
-      "creator": "/u/Lopsided-Strength-42 https://www.reddit.com/user/Lopsided-Strength-42",
-      "id": "0e1856503262bd0bb47bf670"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I still don't have quick words despite being in the US",
-      "url": "https://devforum.roblox.com/t/i-still-dont-have-quick-words-despite-being-in-the-us/4970955",
-      "published": "2026-11-02",
-      "excerpt": "I still don’t have the quick words feature despite being in the united states I don’t even see gameplay coordination in my settings I have chat summaries and voice typing but still no access to quick words but I see the option to make custom quick words when I am in the creator hub editing one of my",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-still-dont-have-quick-words-despite-being-in-the-us/4970955.rss",
-      "id": "0d33dba45277a4e92ed16706"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "PATCH requests sent to `https://apis.roblox.com/assets/v1/assets/{place_id}` without a `filename` set do not fail",
-      "url": "https://devforum.roblox.com/t/patch-requests-sent-to-httpsapisrobloxcomassetsv1assetsplaceid-without-a-filename-set-do-not-fail/4972140",
-      "published": "2026-11-02",
-      "excerpt": "When sending a PATCH request to https://apis.roblox.com/assets/v1/assets/{place_id} (documented here ), if you do not set the filename of the fileContent multiform part, the request will return an incomplete result. To reproduce this, here are some curl commands. They assume you have API_KEY and PLA",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/patch-requests-sent-to-httpsapisrobloxcomassetsv1assetsplaceid-without-a-filename-set-do-not-fail/4972140.rss",
-      "id": "0aa34be2ae58a6bec6fbd0ee"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can we run Roblox inside a VM?",
-      "url": "https://devforum.roblox.com/t/can-we-run-roblox-inside-a-vm/4972057",
-      "published": "2026-11-02",
-      "excerpt": "If so, what do we need to do so hyperion doesn’t freak out 3 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/can-we-run-roblox-inside-a-vm/4972057.rss",
-      "id": "0a521ad25db90d0836c794e3"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "It's my first time in windows using studio and it started lagging in the game space",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm2079/its_my_first_time_in_windows_using_studio_and_it/",
-      "published": "2026-11-02",
-      "excerpt": "submitted by /u/This_Name_7154 [link] [comments]",
-      "creator": "/u/This_Name_7154 https://www.reddit.com/user/This_Name_7154",
-      "id": "08b2418e39412b6f93ac2259"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is there a way for me to see a game’s source code?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlm3bf/is_there_a_way_for_me_to_see_a_games_source_code/",
-      "published": "2026-11-02",
-      "excerpt": "I was curious about some assets in YBA’s source code. Im thinking about creating a jojo’s game, but only as a passion thing and probably wouldn’t even release it (aka i have no intention of copying or using the source code for malicious things, would purely be for inspiration and learning purposes).",
-      "creator": "/u/c0llyer_ https://www.reddit.com/user/c0llyer_",
-      "id": "0270a790124acd0e96f48c88"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[$9.99] Car Pack | 10 Low Poly Driveable Cars (PC, Mobile & Console)",
-      "url": "https://devforum.roblox.com/t/999-car-pack-10-low-poly-driveable-cars-pc-mobile-console/4971644",
-      "published": "2026-11-02",
-      "excerpt": "Introducing a low poly, fully working Car Pack! The pack contains 10 low poly, optimized, driveable cars modeled by me . Every car is fully customizable, from the colours to how it drives. The scripts are made by Roblox, you can find the originals in the “modernized” Racing template. The cars 10 car",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/999-car-pack-10-low-poly-driveable-cars-pc-mobile-console/4971644.rss",
-      "id": "00061f3517b097d72413000c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "DevEx Closed: Open the door, Dave.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xkz5vb/devex_closed_open_the_door_dave/",
-      "published": "2026-11-01",
-      "excerpt": "https://preview.redd.it/zh79c5us2zyh1.png?width=1475&format=png&auto=webp&s=a0846f7d6ec98ccd0eedc46616f6f3d477f0a69b Hi. My rent is due on the 14th. :> DevEx is basically approved on first come first serve... I typically DevEx at 12AM EST sharp every first of the month so I'm not trapped in digital ",
-      "creator": "/u/Kotojokes https://www.reddit.com/user/Kotojokes",
-      "id": "fdea007657e5aadf45ef05cd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Some players fail to load any assets in my game + game crash",
-      "url": "https://devforum.roblox.com/t/some-players-fail-to-load-any-assets-in-my-game-game-crash/4969767",
-      "published": "2026-11-01",
-      "excerpt": "I’ve received a report today from someone who is a player that commonly plays my game where none of the blocks stopped loading. I investigated and for some reason all assets including roblox assets failed to load. Even when rejoining to different servers it kept happening It was fixed after joining ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/some-players-fail-to-load-any-assets-in-my-game-game-crash/4969767.rss",
-      "id": "fb54ccd323ada7ad1f80ce3f"
     }
   ]
 }
