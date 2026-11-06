@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-11-05T20:17:51Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -89,6 +88,39 @@
         "truncated": false
       },
       "etag": "\"e624993ad64f3c5dacf515ef12d9f26f2127cc34634491f929ce34b511601536\""
+    },
+    "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps/git/trees/7aab134864933379a691e13a32904daa935a3ff9?recursive=1": {
+      "data": {
+        "manifests": [
+          "advanced_llm_apps/chat-with-tarots/requirements.txt",
+          "advanced_llm_apps/cursor_ai_experiments/requirements.txt",
+          "advanced_llm_apps/excaliflow/package.json",
+          "advanced_llm_apps/gpt_oss_critique_improvement_loop/requirements.txt",
+          "advanced_llm_apps/needle/package.json",
+          "advanced_llm_apps/resume_job_matcher/requirements.txt"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "advanced_llm_apps/cursor_ai_experiments/multi_agent_researcher.py",
+          "always_on_agents/always_on_hn_briefing_agent/agent.py",
+          "always_on_agents/release_radar_agent/agent.py",
+          "mcp_ai_agents/github_mcp_agent/github_agent.py",
+          "mcp_ai_agents/multi_mcp_agent/multi_mcp_agent.py",
+          "mcp_ai_agents/multi_mcp_agent_router/agent_forge.py"
+        ],
+        "tests": 52,
+        "tests_sample": [
+          "advanced_ai_agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent/test_app.py",
+          "advanced_ai_agents/multi_agent_apps/ai_codebase_migration_agent/test_app_security.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/__init__.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/agent_agno_test.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/embedding_search_test.py"
+        ],
+        "truncated": false
+      },
+      "etag": "\"4e74da17a4973152a3612199eee1af306061ff256b33a439e98b20ae1146d496\""
     },
     "https://api.github.com/repos/SillySerpent/Dichrome/git/trees/8fac1617d1352f62ecf1e32f3ccc8afe690946b6?recursive=1": {
       "data": {
@@ -292,6 +324,34 @@
       },
       "etag": "\"d5ac392c2721af31e093735233f2eaca94dc92934074a0aea528c0fcd9380eaa\""
     },
+    "https://api.github.com/repos/ollama/ollama/git/trees/6362e0a30887bdd4f69e07a94e8a513383576204?recursive=1": {
+      "data": {
+        "manifests": [
+          "go.mod"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "integration/max_queue_test.go",
+          "middleware/responses_input_content_test.go",
+          "openai/responses_input_content_test.go",
+          "app/store/database.go",
+          "app/store/database_test.go",
+          "app/tools/browser.go"
+        ],
+        "tests": 22,
+        "tests_sample": [
+          "app/ui/app/src/api.test.ts",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.interaction.test.tsx",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.test.tsx",
+          "app/ui/app/src/components/CodexConnectedIntro.test.tsx",
+          "app/ui/app/src/components/CodexDesktopModelsSettings.test.tsx"
+        ],
+        "truncated": false
+      },
+      "etag": "\"205dd5c66ed8279bcc5eb6b7a88a71b1a43877a2456ccebe69427bb0985e050d\""
+    },
     "https://api.github.com/repos/ollama/ollama/git/trees/a6d33251620eef7629c73b09e672f2df243eb363?recursive=1": {
       "data": {
         "manifests": [
@@ -349,5 +409,5 @@
       "etag": "\"c7c8cb6af8faae8b87ab19a07775ed53b363da1023f58489074061d29c1d315c\""
     }
   },
-  "last_run": "2026-11-05T20:16:51Z"
+  "last_run": "2026-11-06T01:45:57Z"
 }
