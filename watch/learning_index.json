@@ -51,23 +51,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xl0i2c",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl0i2c/added_a_midbattle_bubble_so_players_on_a_shared/",
-      "title": "Added a \"mid-battle\" bubble so players on a shared server can see who's fighting. Now I need a few people on one server to try and break my PvP arena",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "board game and turn flow",
-        "building and purchases",
-        "animation and audio",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 11,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4970125:1",
       "url": "https://devforum.roblox.com/t/build-the-wonders-%E2%80%94-co-op-landmark-building-beta-first-session-feedback-wanted/4970125",
       "title": "Build the Wonders — co-op landmark building beta | First-session feedback wanted",
@@ -1204,16 +1187,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4968960:1",
-      "url": "https://devforum.roblox.com/t/assets-allow-foldermodel-imports-from-game-explorer/4968960",
-      "title": "[Assets] Allow folder/model imports from game explorer",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
+      "key": "reddit:1xp0gz4",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp0gz4/do_yall_know_how_to_fix_this_weird_animation/",
+      "title": "Do yall know how to fix this weird “animation combining” thing??",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
       "signals": [
-        "world and visual design"
+        "animation and audio",
+        "player feedback and marketing"
       ],
-      "score": 5,
+      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1233,19 +1217,6 @@
       "key": "devforum:4969148:1",
       "url": "https://devforum.roblox.com/t/weird-mcp-text-on-studio/4969148",
       "title": "Weird MCP Text On Studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4969167:1",
-      "url": "https://devforum.roblox.com/t/physbone-streamlined-bone-simulation-plugin/4969167",
-      "title": "PhysBone - Streamlined Bone Simulation Plugin",
       "source": "roblox-devforum-latest",
       "published": "2026-11-01",
       "kind": "devforum",
@@ -1285,19 +1256,6 @@
       "key": "devforum:4969389:1",
       "url": "https://devforum.roblox.com/t/i-leaked-rce-via-wav-files-in-roblox-studio-its-all-robloxs-fault/4969389",
       "title": "I leaked RCE via .wav files in Roblox Studio, It's all Roblox's fault",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4969498:1",
-      "url": "https://devforum.roblox.com/t/wally-roblox-studio-plugin/4969498",
-      "title": "Wally Roblox Studio Plugin",
       "source": "roblox-devforum-latest",
       "published": "2026-11-01",
       "kind": "devforum",
@@ -2237,6 +2195,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4977915:1",
+      "url": "https://devforum.roblox.com/t/studio-renders-over-the-taskbar/4977915",
+      "title": "Studio renders over the taskbar",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xkqs4v",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xkqs4v/roblox_studio_mouse_randomly_teleporting/",
       "title": "Roblox studio mouse randomly \"teleporting\"",
@@ -2338,19 +2309,6 @@
         "building and purchases",
         "player feedback and marketing",
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xl7n4j",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl7n4j/should_i_keep_running_ads_for_this_game_or_is_it/",
-      "title": "Should I keep running ads for this game or is it bad 36% like or should I not worry about likes",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3270,6 +3228,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4977927:1",
+      "url": "https://devforum.roblox.com/t/new-roblox-merge-game-merge-a-piggy/4977927",
+      "title": "New Roblox Merge Game (\"Merge A Piggy\")",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "economy and income"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xl09hr",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xl09hr/attack_on_titan_rampage_demo/",
       "title": "Attack on Titan: Rampage [DEMO]",
@@ -3718,6 +3690,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xp0ip5",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp0ip5/social_engineering_backdoor/",
+      "title": "Social Engineering Backdoor",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:AthjgJel5aE",
       "url": "https://www.youtube.com/shorts/AthjgJel5aE",
       "title": "Terminal fans know the feeling",
@@ -3812,19 +3798,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4970205:1",
-      "url": "https://devforum.roblox.com/t/roblox-constantly-moderating-me-for-directing-users-off-platform/4970205",
-      "title": "Roblox constantly moderating me for \"Directing Users Off-Platform\"",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4970453:1",
       "url": "https://devforum.roblox.com/t/problem-with-sinister-w/4970453",
       "title": "Problem with Sinister W",
@@ -3833,19 +3806,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4970810:1",
-      "url": "https://devforum.roblox.com/t/will-my-plus-renew-with-gift-card-credit/4970810",
-      "title": "Will My Plus Renew With Gift Card Credit?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-01",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4522,6 +4482,19 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4977948:1",
+      "url": "https://devforum.roblox.com/t/error-report-page-please-deduplicate-this-error-message/4977948",
+      "title": "Error Report page: Please deduplicate this error message",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6399,6 +6372,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4977961:1",
+      "url": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961",
+      "title": "Can anyone tell me how do disable this black skeleton thing on rigs? IT IS SO ANNOYING!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4977974:1",
+      "url": "https://devforum.roblox.com/t/ugc-item-thumbnails-are-cropped-in-analytics-on-microsoft-edge/4977974",
+      "title": "UGC Item Thumbnails Are Cropped in Analytics on Microsoft Edge",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-06",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xksp8c",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xksp8c/age_of_sails_isle_of_rogues/",
       "title": "Age of Sails - Isle of Rogues",
@@ -6611,17 +6606,6 @@
       "key": "reddit:1xldxrh",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xldxrh/pvz_towerdefense_game/",
       "title": "PVZ TowerDefense Game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-01",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xlelph",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlelph/looking_for_a_partner/",
-      "title": "Looking for a partner",
       "source": "reddit-robloxdev",
       "published": "2026-11-01",
       "kind": "reddit",
@@ -7438,6 +7422,17 @@
       "title": "Game Exposure - What works, and what is just parroted nonsense?",
       "source": "reddit-robloxdev",
       "published": "2026-11-05",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xp0cpf",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp0cpf/i_made_tarot_card_style_class_picking/",
+      "title": "I made Tarot card style Class picking",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-06",
       "kind": "reddit",
       "signals": [],
       "score": 2,

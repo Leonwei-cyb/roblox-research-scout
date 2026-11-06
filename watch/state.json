@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "02480ca2a47153e1f9c31cbe1e05536da97ce1ba",
-      "head_subject": "cmd/launch: add Kimi Code CLI support (#19506)",
+      "head": "6362e0a30887bdd4f69e07a94e8a513383576204",
+      "head_subject": "openai: return an empty array for /v1/models when no models are installed (#19539)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.14",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
