@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-06T14:02:00Z (local, ok)
+- Last run: 2026-11-06T19:42:55Z (schedule, partial)
 - Repos tracked: 476; adopt 0, needs-test 175, reject 301
 - Actionable backlog: 164
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​9406183, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/792ca0e67cf1e33019a6d66084446103ca4dfb74)
   - Pin jmagly/aiwg@​792ca0e, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #1980 Fix: pausing automations silently leaves queued executions eligible to start
-- Issue updated: open-mercato/cezar #1902 Fix: images in issues and PRs of private repos never load in the GitHub tab
-- Issue updated: open-mercato/cezar #1977 Fix: Accent setting is ignored on the New Task page and other onboarding surfaces
-- Issue updated: open-mercato/cezar #1975 Sidebar task row can't be opened when its PR chips fill the row
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
-- Issue updated: obra/superpowers #2669 Virus ?
-- Issue updated: earendil-works/pi #11835 Inline images render in --tui-mode regular but not in fullscreen on Orca
-- Issue updated: earendil-works/pi #11843 openai-completions sends tools: \[\] when there's tool history in the transcript, LiteLLM/vLLM backend
-- Issue updated: earendil-works/pi #11869 New 'StringEnum' in Pi 1.5.0 breaks compile-time typing
-- Issue updated: earendil-works/pi #11846 durable: let a tool mark a durable wait so restarts while waiting don't hit restartLimit
-- Issue updated: earendil-works/pi #10605 ChatGPT/OpenAI OAuth 403 issue
-- Issue updated: ComposioHQ/awesome-claude-skills #2429 Error: Scope guard: a non-member PR may only ADD marketplace.json entries whose source repo already
-- Issue updated: ComposioHQ/awesome-claude-skills #2428 Add dyz-gongwen-skills skill \(Communication & Writing\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2427 Add Vois Studio skills \(Creative & Media\)
-- Release: OpenHands/OpenHands pr19394-evidence to v1.37.0
-- Issue updated: OpenHands/OpenHands #19422 Bug: Usage panel "Total Cost" is opaque and misleading - not the provider billed amount
-- Issue updated: OpenHands/OpenHands #19420 \[Feature\]: Automation setup: choose an agent profile for prompt and plugin presets
-- Issue updated: OpenHands/OpenHands #17436 Prompt-preset automations created on agent-canvas 1.17.0 fail every run with 500 on /api/conversatio
-- Issue updated: OpenHands/OpenHands #18880 Vend the macOS desktop app via Homebrew \(cask\) so updates don't need manual DMG downloads
-- Issue updated: OpenHands/OpenHands #19017 \[Feature\]: Always show Docker in the runtime menu and say why when it can't be used
-- Issue updated: modelcontextprotocol/servers #5484 Ja
-- Issue updated: modelcontextprotocol/servers #5483 fix\(docker\): correct stale --db-path comments in fetch/git Dockerfiles and clarify git README
-- Issue updated: anthropics/claude-code #100216 \[FEATURE\] Desktop sidebar: option to show forks as top-level sessions instead of nested under the pa
-- Issue updated: anthropics/claude-code #107940 Model keeps narrating long tool output into text despite a memory rule it quotes \("NO MORE TXT"\)
-- Issue updated: anthropics/claude-code #107757 Bug Report: Privacy violation in User-Agent header
-- Issue updated: anthropics/claude-code #107939 Model is slow and rubber-stamps PRs that were themselves generated with Claude Code
-- Issue updated: anthropics/claude-code #107938 Model does not apply its auto-loaded memory: rules it can quote were broken repeatedly in the same s
-- Issue updated: openai/codex #36040 Regression: iOS Remote only lists projects with recent chats
-- Issue updated: openai/codex #56655 UI doesn't start in VS Code extension 26.51021.22027
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
