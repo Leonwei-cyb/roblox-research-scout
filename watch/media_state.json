@@ -2804,7 +2804,9 @@
     "5ef7a92a9846874cf1469a48",
     "b9878cec5d745a8e832d2b3a",
     "aa4152b8b3a14f795c5518ed",
-    "98443ed1592197982fbd34bf"
+    "98443ed1592197982fbd34bf",
+    "dc9dffcfc36c4bb271ffbc27",
+    "f59f81cba00080c37a3408f1"
   ],
   "items": [
     {
@@ -2852,6 +2854,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/zone-or-area-only-background-music/4978168.rss",
       "id": "e4bfe4aa4dda7aef8c047007"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "LOOKING FOR TESTERS FOR MY GAME!!!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp7bkr/looking_for_testers_for_my_game/",
+      "published": "2026-11-06",
+      "excerpt": "I've been working on a card drafting auto battler I'm calling Blox Battles. I just finished with the first chunk of the game, and before I continue working on it I wanna get some feedback. I want to know if it's a generally fun game or if there are any glaring issues I've overlooked. There are a lot",
+      "creator": "/u/asher476 https://www.reddit.com/user/asher476",
+      "id": "dc9dffcfc36c4bb271ffbc27"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9702,18 +9715,6 @@
       "excerpt": "Maybe different thumb nail? I had a non ai one but I felt it looked awful. submitted by /u/Previous_Purpose_614 [link] [comments]",
       "creator": "/u/Previous_Purpose_614 https://www.reddit.com/user/Previous_Purpose_614",
       "id": "a4b997bf385168f05d5b8651"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Create a questionnaire of taste for an user which just created a new account",
-      "url": "https://devforum.roblox.com/t/create-a-questionnaire-of-taste-for-an-user-which-just-created-a-new-account/4970328",
-      "published": "2026-11-01",
-      "excerpt": "Been talking, debating with some friends about the current roblox algorithm, and they hate the fact that new users will get automatically recommended to trendy games instead of looking for their real tastes. So I was wondering if it would be possible to create a questionnaire which pops up after cre",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/create-a-questionnaire-of-taste-for-an-user-which-just-created-a-new-account/4970328.rss",
-      "id": "a1e62cb76cb5ea3177332e45"
     }
   ]
 }
