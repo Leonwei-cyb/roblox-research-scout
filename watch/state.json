@@ -49,8 +49,8 @@
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "e3275c20972d97fd5b230b89b742770064004256",
-      "head_subject": "Report type error when iterating over type containing tables that is not itself a subtype of 'table' (#3090)",
+      "head": "91acc8decfca5281fab4a8db46c894268fc70aac",
+      "head_subject": "Sync to upstream/release/746 (#3105)",
       "name": "Roblox/luau",
       "release_tag": "0.745",
       "release_url": "https://github.com/luau-lang/luau/releases/tag/0.745",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "6362e0a30887bdd4f69e07a94e8a513383576204",
-      "head_subject": "openai: return an empty array for /v1/models when no models are installed (#19539)",
+      "head": "c053d1e98537f208b24165446369bd376a015999",
+      "head_subject": "MLX: make Qwen3.8 Flash Next memory efficient (#18078)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.15",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
