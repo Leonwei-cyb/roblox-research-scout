@@ -2982,7 +2982,14 @@
     "f9472f58044593d229baac0c",
     "d3e492a1ab93fb06fc7dc06a",
     "22e851b7e5ef9ade892a47cf",
-    "fb22fc5f344fc010f26dd3fe"
+    "fb22fc5f344fc010f26dd3fe",
+    "f4abecae30712c5056f63ab5",
+    "8cf6f5a3207e0607f30f3306",
+    "e30792a03fd376df8c27ba7c",
+    "41c3147c34f3cd87e814e0c2",
+    "00df1d39a074367646d563c2",
+    "34dfc0120b05f6810644ea01",
+    "51cf9099591544305b8b6997"
   ],
   "items": [
     {
@@ -3052,6 +3059,18 @@
       "excerpt": "Hello im a co owner for a dandy world type game We are looking for builders if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game submitted by /u/Salt_Border_3825 [link] [comments]",
       "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
       "id": "f4d5c81e724f24ea98bd2714"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio leaks ~20 MB of RAM on every Play/Stop and never frees it (~2 GB per 100 playtests), even on an empty baseplate",
+      "url": "https://devforum.roblox.com/t/studio-leaks-20-mb-of-ram-on-every-playstop-and-never-frees-it-2-gb-per-100-playtests-even-on-an-empty-baseplate/4980901",
+      "published": "2026-11-07",
+      "excerpt": "Every time I press Play and then Stop in Studio, Studio’s memory doesn’t return to where it was. Each Play/Stop cycle leaves roughly 15–25 MB of private memory and 5–8 Windows handles behind, and it never gives them back while Studio stays open. Dedicated GPU memory creeps up as well. It happens on ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-leaks-20-mb-of-ram-on-every-playstop-and-never-frees-it-2-gb-per-100-playtests-even-on-an-empty-baseplate/4980901.rss",
+      "id": "f4abecae30712c5056f63ab5"
     },
     {
       "source": "reddit-robloxdev",
@@ -3141,6 +3160,17 @@
       "excerpt": "Now I have never touched a proper line of code in my life(trust me, I suck.)so I was wondering what advice I would need besides \"learn the damn thing\"? submitted by /u/Storytellerandwander [link] [comments]",
       "creator": "/u/Storytellerandwander https://www.reddit.com/user/Storytellerandwander",
       "id": "e42d1962a326410e8f426011"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Do I need Roblox plus to publish a game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqcqv5/do_i_need_roblox_plus_to_publish_a_game/",
+      "published": "2026-11-07",
+      "excerpt": "I remember hearing months ago that Roblox plus is needed to publish games or something like that. Is that true? Or is it no longer a requirement/never has been? I am face verified (16+) and want to publish a game submitted by /u/Serious-Swim-4021 [link] [comments]",
+      "creator": "/u/Serious-Swim-4021 https://www.reddit.com/user/Serious-Swim-4021",
+      "id": "e30792a03fd376df8c27ba7c"
     },
     {
       "source": "reddit-robloxdev",
@@ -3509,6 +3539,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Moving from GLua & Lua to Luau",
+      "url": "https://devforum.roblox.com/t/moving-from-glua-lua-to-luau/4980883",
+      "published": "2026-11-07",
+      "excerpt": "dude I never realised how bad I was at Luau knowing I had migrated from garry’s mod lua and just lua in regular. Looking over old topics from when I reached out to other programmers about Luau help made me look like an awful scripter 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/moving-from-glua-lua-to-luau/4980883.rss",
+      "id": "8cf6f5a3207e0607f30f3306"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox Freezing When jumping between instances",
       "url": "https://devforum.roblox.com/t/roblox-freezing-when-jumping-between-instances/4979899",
       "published": "2026-11-07",
@@ -3724,6 +3766,18 @@
       "id": "52a63f6ab06b10ef93cef638"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Connect Claude To Roblox Studio - How To Connect Roblox Studio To Claude (Connect AI Roblox) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41cWNuSHpYLUpMWVF0b3h3M2pmZ3kzWkNWSmtRVGkzU25WcUlLaU9EaGxKbG9LbU5SZ3dfdzNQX1N0NENoOXl4OGgtaFdOd2xFLW0zQTZaT2pVQXQxMjNPOTZB?oc=5",
+      "published": "2026-11-07",
+      "excerpt": "How To Connect Claude To Roblox Studio - How To Connect Roblox Studio To Claude (Connect AI Roblox) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "51cf9099591544305b8b6997"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3767,6 +3821,17 @@
       "excerpt": "link to game: https://www.roblox.com/games/121385490538367/RTS-DEMO As of now the game is only playable on PC I'd really appreciate any feedback or suggestions on how I could improve the game, as I know theres a lot more I can do to make this game complete! Just a heads-up, all the current models an",
       "creator": "/u/Limp_Variation_9004 https://www.reddit.com/user/Limp_Variation_9004",
       "id": "41f7a1821b49f28c9ae7abc2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Check out this game I made",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqcpt1/check_out_this_game_i_made/",
+      "published": "2026-11-07",
+      "excerpt": "I made a little roblox slop version of this indie incremental game I saw on X. I made it in one night (probably around 3-5 hours). Don't think im gonna do anything with it submitted by /u/Comfortable_Bar_8015 [link] [comments]",
+      "creator": "/u/Comfortable_Bar_8015 https://www.reddit.com/user/Comfortable_Bar_8015",
+      "id": "41c3147c34f3cd87e814e0c2"
     },
     {
       "source": "reddit-robloxdev",
@@ -3860,6 +3925,17 @@
       "excerpt": "submitted by /u/Infamous-Victory3662 [link] [comments]",
       "creator": "/u/Infamous-Victory3662 https://www.reddit.com/user/Infamous-Victory3662",
       "id": "35e55b9938e0fa325dbc7bd8"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Does going below green metrics take you out of algorithm?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqd4g4/does_going_below_green_metrics_take_you_out_of/",
+      "published": "2026-11-07",
+      "excerpt": "So I’ve got a game that has had a stable ccu for a few days, I started getting average ccu of 100 since half of my stats went green, now all but playtime are green but some of them keep going just about under green whenever I look at the daily metrics in real time, if I keep going under, will I get ",
+      "creator": "/u/Primary_March4865 https://www.reddit.com/user/Primary_March4865",
+      "id": "34dfc0120b05f6810644ea01"
     },
     {
       "source": "reddit-robloxdev",
@@ -4107,6 +4183,17 @@
       "excerpt": "I spent 2 years making the buildings and just now finished the mountains What do you think? Had 30fps on unisoct7225 low graphics submitted by /u/IamChe3se [link] [comments]",
       "creator": "/u/IamChe3se https://www.reddit.com/user/IamChe3se",
       "id": "029e311b1759581e0ef96036"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Are minigames still popular",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqds8a/are_minigames_still_popular/",
+      "published": "2026-11-07",
+      "excerpt": "I wanna make a minigames kinda game but idk if ppl will play t submitted by /u/frame_3_1_3 [link] [comments]",
+      "creator": "/u/frame_3_1_3 https://www.reddit.com/user/frame_3_1_3",
+      "id": "00df1d39a074367646d563c2"
     },
     {
       "source": "reddit-robloxstudio",
@@ -9821,87 +9908,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-assessment-setup-issue-if-you-use-the-same-account-again/4973515.rss",
       "id": "16ef1670a5c0334933d8d356"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Map I recently finished for ' Reign of Rot ' , Here is a showcase of the map I hope you enjoy it !",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn3ezp/map_i_recently_finished_for_reign_of_rot_here_is/",
-      "published": "2026-11-03",
-      "excerpt": "Fully created by me from scratch ( Modelling , Texturing , VFX , Editing etc... ) , ** COMMISSIONS ARE OPEN - DISCORD --> jakartacardiana ** , Or just send me a dm <3 submitted by /u/PrintOk5395 [link] [comments]",
-      "creator": "/u/PrintOk5395 https://www.reddit.com/user/PrintOk5395",
-      "id": "15cda3b67ee537367b2f8a06"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "IDFinder and Search Plugin",
-      "url": "https://devforum.roblox.com/t/idfinder-and-search-plugin/4973157",
-      "published": "2026-11-03",
-      "excerpt": "This will make short work of finding ID locations used that are coming up as ID removed from the store errors. I wanted a plugin that would find the ID and also check scripts, and give me a link to it. It’s free, enjoy! IDFinder is a small popup window to find where an asset ID is being used in your",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/idfinder-and-search-plugin/4973157.rss",
-      "id": "14e0fbd060e484a3b230becc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Graphics blurry and render resolution reduced despite 10/10 quality",
-      "url": "https://devforum.roblox.com/t/graphics-blurry-and-render-resolution-reduced-despite-1010-quality/4973173",
-      "published": "2026-11-03",
-      "excerpt": "The graphics issue that was reported a few months ago seems to be happening again. Even with the graphics quality set to Manual 10/10, the entire game looks blurry and less sharp than usual. It seems like Roblox is running at a lower resolution than it should. Lowering the graphics quality makes the",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/graphics-blurry-and-render-resolution-reduced-despite-1010-quality/4973173.rss",
-      "id": "0ef94f6c1c9bf30ea0766e05"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "made a game for my little sister but roblox won't let her play it yet (16+ trial)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmr26m/made_a_game_for_my_little_sister_but_roblox_wont/",
-      "published": "2026-11-03",
-      "excerpt": "hey. i've been building a zombie infection tag game by myself for about a month, mostly because my little sister loves this kind of game and i wanted to make one for her problem: new games now start in roblox's 16+ trial. to open it for younger players it needs 250 \"highly engaged\" players (16+, age",
-      "creator": "/u/New-Put-6444 https://www.reddit.com/user/New-Put-6444",
-      "id": "0c2baf24bb842fc3d0b7db67"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Missing Meshes with download failures",
-      "url": "https://devforum.roblox.com/t/missing-meshes-with-download-failures/4974353",
-      "published": "2026-11-03",
-      "excerpt": "We’ve seen this happen a few times but sometimes specific players have missing meshes. In this case, it was our new Griffin AR mesh. One of our players reported the weapon invisible in their hands. They sent us logs and I looked up the ids and sure enough, it was the ids of the weapons mesh parts. H",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/missing-meshes-with-download-failures/4974353.rss",
-      "id": "0a129708f38ffd479209e8c5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How long did it take you guys to learn scripting?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmvjlk/how_long_did_it_take_you_guys_to_learn_scripting/",
-      "published": "2026-11-03",
-      "excerpt": "just wanna know because a friend of mine who can script told me it took him two years which was quite demotivating for me as i started a few days ago and i'm not sure if it's worth it or not considering claude taking over scripters positions submitted by /u/ludicrousleukocyte [link] [comments]",
-      "creator": "/u/ludicrousleukocyte https://www.reddit.com/user/ludicrousleukocyte",
-      "id": "07835e7cd708a2678429fc24"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Beta] Promotional Text",
-      "url": "https://devforum.roblox.com/t/beta-promotional-text/4973915",
-      "published": "2026-11-03",
-      "excerpt": "Key Takeaways Promotional Text is now in Beta for all creators. It provides a space for brief secondary text information, such as a limited time mode or update, so your game name stays short and important information doesn’t get cut off. A small audience may observe test variants for names and promo",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/beta-promotional-text/4973915.rss",
-      "id": "048ebbde93059b638a8bd971"
     }
   ]
 }
