@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 303
+- devforum: 305
 - index-only: 8
-- reddit: 281
-- youtube: 5
+- reddit: 280
+- youtube: 4
 
 ## First-Session And Mobile
 
 - [Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [Scripts says that the animation track's length is 0, while its a ctually not](https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
+- [Looking for feedback on my monster-containment game (first 5 minutes / onboarding)](https://www.reddit.com/r/robloxgamedev/comments/1xq0uy6/looking_for_feedback_on_my_monstercontainment/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -28,12 +28,12 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Building And Purchases
 
 - [I made my first Roblox game: an ore RNG where you build a mining tower, crush ores and hatch pets — feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xmzpwt/i_made_my_first_roblox_game_an_ore_rng_where_you/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [I made a game where you can merge any two buildings into a new one, looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xmdsn6/i_made_a_game_where_you_can_merge_any_two/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [How can I improve retention (8.5 mins) in my tycoon game?](https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Economy And Income
 
 - [how do you keep players interested in a monster collecting game?](https://www.reddit.com/r/robloxgamedev/comments/1xpsanx/how_do_you_keep_players_interested_in_a_monster/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Looking for someone to script this dude](https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [trying to make this animation on my kitsune](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bgt/trying_to_make_this_animation_on_my_kitsune/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 
@@ -53,12 +53,12 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Genres And Successful Loops
 
 - [Test Graphics and Memory on Lower-End Devices With the Performance Simulator](https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I made a game where you can merge any two buildings into a new one, looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xmdsn6/i_made_a_game_where_you_can_merge_any_two/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 
 - [Player objects not being properly managed on disconect during a Server & Client session](https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [(Game idea feedback) Would a single-player/co-op hospital simulator work on Roblox?](https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 

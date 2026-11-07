@@ -51,17 +51,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4972355:1",
-      "url": "https://devforum.roblox.com/t/scripts-says-that-the-animation-tracks-length-is-0-while-its-a-ctually-not/4972355",
-      "title": "Scripts says that the animation track's length is 0, while its a ctually not",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-02",
-      "kind": "devforum",
+      "key": "reddit:1xq0uy6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq0uy6/looking_for_feedback_on_my_monstercontainment/",
+      "title": "Looking for feedback on my monster-containment game (first 5 minutes / onboarding)",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
       "signals": [
         "first-session and mobile",
-        "animation and audio",
-        "player feedback and marketing",
-        "tools and performance"
+        "building and purchases",
+        "genres and successful loops",
+        "player feedback and marketing"
       ],
       "score": 10,
       "evidence": "UNVIEWED_METADATA"
@@ -107,6 +107,21 @@
         "first-session and mobile",
         "genres and successful loops",
         "tools and performance"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4979885:1",
+      "url": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885",
+      "title": "How can I improve retention (8.5 mins) in my tycoon game?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "building and purchases",
+        "UI and menus"
       ],
       "score": 9,
       "evidence": "UNVIEWED_METADATA"
@@ -325,6 +340,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4979978:1",
+      "url": "https://devforum.roblox.com/t/players-leave-my-farming-game-early-%E2%80%93-feedback-for-feedback/4979978",
+      "title": "Players Leave My Farming Game Early – Feedback for Feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xm5efi",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm5efi/i_made_my_first_roblox_game_a_petrolling_farm_on/",
       "title": "I made my first Roblox game: a pet-rolling farm on sky islands. Looking for testers and honest feedback!",
@@ -333,20 +362,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xmau3o",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmau3o/i_spent_a_few_days_building_a_rocket_tycoon_where/",
-      "title": "I spent a few days building a rocket tycoon where every launch actually flies to the Moon and Mars - looking for honest feedback",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
         "player feedback and marketing"
       ],
       "score": 8,
@@ -581,21 +596,6 @@
       "signals": [
         "animation and audio",
         "world and visual design",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xlothv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/",
-      "title": "Looking for someone to script this dude",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "economy and income",
-        "animation and audio",
         "tools and performance"
       ],
       "score": 7,
@@ -1288,6 +1288,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xq107t",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq107t/looking_for_feedback_on_this/",
+      "title": "Looking for Feedback on this",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xq15ay",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq15ay/i_finally_launched_my_game_would_love_some/",
+      "title": "I finally launched my game! Would love some feedback",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4970952:1",
       "url": "https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952",
       "title": "Video Ads Close Button sometimes does not work",
@@ -1296,19 +1324,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4971246:1",
-      "url": "https://devforum.roblox.com/t/dockable-studio-widgets-for-plugins-title-bar-color-has-black-text-on-dark-charcoal-background-which-makes-it-hard-to-see/4971246",
-      "title": "Dockable studio widgets for plugins title bar color has black text on dark charcoal background which makes it hard to see.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-02",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2347,6 +2362,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4979893:1",
+      "url": "https://devforum.roblox.com/t/expedited-review-stuck-for-over-7-days-universe-id-10773746729/4979893",
+      "title": "Expedited Review Stuck for Over 7 Days (Universe ID: 10773746729)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4979907:1",
+      "url": "https://devforum.roblox.com/t/intermittent-frame-drops-in-roblox-studio-even-on-an-empty-baseplate/4979907",
+      "title": "Intermittent Frame Drops in Roblox Studio Even on an Empty Baseplate",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xllf2w",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xllf2w/i_added_mounts_to_my_roblox_rpg/",
       "title": "I added Mounts to my Roblox RPG!",
@@ -2388,19 +2429,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xlofe3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlofe3/made_my_own_perlin_noise_generator_used_it_for/",
-      "title": "made my own perlin noise generator, used it for terrain and accidentally made something very smooth",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xlp9av",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlp9av/lighting_help_a/",
       "title": "Lighting help a",
@@ -2436,19 +2464,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xm8new",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm8new/made_this_in_studio_what_else_could_i_add/",
-      "title": "Made this in studio what else could i add?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
         "tools and performance"
       ],
       "score": 5,
@@ -3186,6 +3201,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xpzcqi",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpzcqi/lf_developers/",
+      "title": "LF Developers!!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xpzwwm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpzwwm/i_made_a_doorsinspired_hotel_horror_game_looking/",
+      "title": "I made a DOORS-inspired hotel horror game, looking for feedback!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4971710:1",
       "url": "https://devforum.roblox.com/t/looking-for-game-testers/4971710",
       "title": "Looking for Game Testers",
@@ -3824,17 +3867,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:RILjPwgB1qw",
-      "url": "https://www.youtube.com/watch?v=RILjPwgB1qw",
-      "title": "Frontlines Versus Spotlight",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-11-02",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "youtube:URbHQ4-Z-BU",
       "url": "https://www.youtube.com/watch?v=URbHQ4-Z-BU",
       "title": "My Bike Life TRAILER!",
@@ -3917,19 +3949,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4972042:1",
-      "url": "https://devforum.roblox.com/t/a-way-to-join-any-game-with-the-roblox-web-client/4972042",
-      "title": "A way to join any game with the Roblox Web Client",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-02",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4676,19 +4695,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xlpowx",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlpowx/i_am_a_beginner_dev_but_i_cant_find_anyone_to/",
-      "title": "I am a beginner dev but I cant find anyone to work with",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xlqrt3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlqrt3/where_do_i_even_start/",
       "title": "Where do I even start?",
@@ -4744,19 +4750,6 @@
       "key": "reddit:1xm9wus",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9wus/my_life_sim_just_hit_1400_ccu/",
       "title": "My life sim just hit 1,400 CCU!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xm9zda",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9zda/when_can_we_expect_the_count_to_drop_from_250/",
-      "title": "When can we expect the count to drop from 250?",
       "source": "reddit-robloxdev",
       "published": "2026-11-02",
       "kind": "reddit",
@@ -6583,12 +6576,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xljhwf",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xljhwf/this_is_my_new_game_vantex_if_youd_like_to_test/",
-      "title": "This is my new game, Vantex. If you’d like to test it out. Thank you all!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
+      "key": "devforum:4979899:1",
+      "url": "https://devforum.roblox.com/t/roblox-freezing-when-jumping-between-instances/4979899",
+      "title": "Roblox Freezing When jumping between instances",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7466,6 +7459,17 @@
       "key": "reddit:1xpz4ns",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpz4ns/need_help_developing_my_competitive_minecraft/",
       "title": "Need help developing my competitive Minecraft 1.21.11 pvp game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xq0ndn",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq0ndn/hello_beginner_here_can_this_get_me_money/",
+      "title": "hello beginner here can this get me money ?",
       "source": "reddit-robloxdev",
       "published": "2026-11-07",
       "kind": "reddit",
