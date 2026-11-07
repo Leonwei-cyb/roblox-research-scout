@@ -2872,9 +2872,80 @@
     "6ed36785e876b6003f4bdf67",
     "4bc525663c975d772a9b9ed0",
     "5c4ba2647975f96cf22b1089",
-    "2571e9e9c35d329dcc355174"
+    "2571e9e9c35d329dcc355174",
+    "86d7ab3775a126b08bd9b76e",
+    "3b04cb6e90577cac7b5e8eca",
+    "346d01e5b4b28d49835f065a",
+    "e4c3a663f475bf773b18feac",
+    "9d4a063d936db77870eaef19",
+    "6db6ea09b712df25a80982c8",
+    "a7e9c55285a2b8b9edcef07a",
+    "ec2500ddb55c54ebafaee6eb",
+    "6e91294f4be0b815fb351719",
+    "eb2ee0b1d19b3841b26caf8a",
+    "707b325f2559a8e14b164d73",
+    "089dca5e710270f6c710a434",
+    "1b4429121ee75585fdceea09",
+    "21f19f2e9e6cbc45fddc6628",
+    "e69b8f04647b494745a3a981"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "is my playtime low cause of All Play ads or am I coping",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsif5/is_my_playtime_low_cause_of_all_play_ads_or_am_i/",
+      "published": "2026-11-07",
+      "excerpt": "Running all play ads for the last 4 days average playtime is 7 mins, is this a sign that my game loop is boring. The game is a simple hide and seek game where the seekers are actually missiles 😄 maybe this idea is not enough for a complete game 🤔 . Could it be the maps/lobby or difficulty of control",
+      "creator": "/u/doiwannaknow123 https://www.reddit.com/user/doiwannaknow123",
+      "id": "ec2500ddb55c54ebafaee6eb"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "how do you keep players interested in a monster collecting game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsanx/how_do_you_keep_players_interested_in_a_monster/",
+      "published": "2026-11-07",
+      "excerpt": "i'm developing a Roblox game called Monster Ranch right now, players can hatch eggs, collect monsters with different rarities, discover Gold, Rainbow and Shadow mutations, and earn currency from their monsters i've also added daily quests, achievements, a monster index and an inventory system. my bi",
+      "creator": "/u/koliaweetj https://www.reddit.com/user/koliaweetj",
+      "id": "eb2ee0b1d19b3841b26caf8a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Searching for testers",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsz47/searching_for_testers/",
+      "published": "2026-11-07",
+      "excerpt": "Hi, so I make games for fun, I am making a directional based combat medieval game. Essentially you fight to earn coins, buy gear, and repeat. I am searching for some testers to help me test the game and debug! Requirements: Not much, just need PC players and mobile players as those are the ports the",
+      "creator": "/u/Chaos_Guy1st https://www.reddit.com/user/Chaos_Guy1st",
+      "id": "e4c3a663f475bf773b18feac"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "LOOKING FOR UI DISCORD IS EMNYSOVIAL",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsvqp/looking_for_ui_discord_is_emnysovial/",
+      "published": "2026-11-07",
+      "excerpt": "Hello im a co owner for a dandy world type game We are looking for ui show the discord username your examples dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game submitted by /u/Salt_Border_3825 [link] [comments]",
+      "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
+      "id": "9d4a063d936db77870eaef19"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Save to Roblox's Asset Configuration menu constantly swaps between upload order and last updated order",
+      "url": "https://devforum.roblox.com/t/save-to-robloxs-asset-configuration-menu-constantly-swaps-between-upload-order-and-last-updated-order/4979482",
+      "published": "2026-11-07",
+      "excerpt": "Summary At some point, Roblox Studio begun displaying the list of group models in the Asset Configuration menu in what appears to be a last updated order. This is annoying enough already since I have been relying on upload order (matching the order the Toolbox displays group models in) and it remove",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/save-to-robloxs-asset-configuration-menu-constantly-swaps-between-upload-order-and-last-updated-order/4979482.rss",
+      "id": "86d7ab3775a126b08bd9b76e"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -2885,6 +2956,18 @@
       "excerpt": "Clicking on \"Recover\" does nothing, btw. submitted by /u/Kubatura12 [link] [comments]",
       "creator": "/u/Kubatura12 https://www.reddit.com/user/Kubatura12",
       "id": "5c4ba2647975f96cf22b1089"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio occasionally launches without ability to insert from file",
+      "url": "https://devforum.roblox.com/t/studio-occasionally-launches-without-ability-to-insert-from-file/4979471",
+      "published": "2026-11-07",
+      "excerpt": "Summary Occasionally, Roblox Studio will open without the option to insert into the Explorer from file (i.e. RBXM files). I don’t know if there’s specific criteria that causes this issue to occur, but it appears to be on random days (?). I have been experiencing this issue for a while now. Expected ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-occasionally-launches-without-ability-to-insert-from-file/4979471.rss",
+      "id": "3b04cb6e90577cac7b5e8eca"
     },
     {
       "source": "reddit-robloxstudio",
@@ -2943,6 +3026,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/invisible-window-blocking-mouse-input-hover-highlight-bug/4978780.rss",
       "id": "e7f064ffb442c7865967d07e"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Only Today in Secret admin abuse with Brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54UkQ3NHFFX3A4SFExeG5Hdk9DQ3JVZ2hoSXp2V2MxZXIxRXk3UndNRmpCVWpUWjNtamJ1eF9vNEpiT0NrQkhqZkNpYXZQdHpReEhaWE5n?oc=5",
+      "published": "2026-11-06",
+      "excerpt": "Only Today in Secret admin abuse with Brockodile in Steal an egg #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "e69b8f04647b494745a3a981"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3221,6 +3316,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dark-digital-style-gfx-showcase/4978728.rss",
       "id": "a804d2ea9f92652b220c69a7"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How does copyright work with car brands?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpnhd8/how_does_copyright_work_with_car_brands/",
+      "published": "2026-11-06",
+      "excerpt": "Im making a car game and I’m thinking of removing the logos and make up different names, but could I still get in trouble because of the car models? submitted by /u/AccessEducational245 [link] [comments]",
+      "creator": "/u/AccessEducational245 https://www.reddit.com/user/AccessEducational245",
+      "id": "a7e9c55285a2b8b9edcef07a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3536,6 +3642,17 @@
       "id": "70edcc19998a1226cba142d4"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Solo dev, first game: liminal horror maze where the lights go out and a Reaper hunts you. Looking for brutal feedback",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xprkxi/solo_dev_first_game_liminal_horror_maze_where_the/",
+      "published": "2026-11-06",
+      "excerpt": "Hey all, I just made my first game public and nobody outside my own head has played it yet. LUMEN REAPERS : you explore an endless, too-clean office maze, collect glowing Lumen shards and bank them at the Well in the lobby. Every minute or so the power cuts out, and something starts hunting you by s",
+      "creator": "/u/Zestyclose-Raise-397 https://www.reddit.com/user/Zestyclose-Raise-397",
+      "id": "707b325f2559a8e14b164d73"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3557,6 +3674,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ugc-item-thumbnails-are-cropped-in-analytics-on-microsoft-edge/4977974.rss",
       "id": "6fba268bb79badd213fad77c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Roblox Dev Consulting",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpn89e/roblox_dev_consulting/",
+      "published": "2026-11-06",
+      "excerpt": "Hi everyone, I recently made a Roblox game that has been doing well since hitting the 250 highly engaged users to advertise any age. Sometimes I feel like there is something missing that I cannot find, is there some sort of \"consulting\" I can go to for advice on scaling my game? submitted by /u/Loos",
+      "creator": "/u/Loose-Witness-3852 https://www.reddit.com/user/Loose-Witness-3852",
+      "id": "6e91294f4be0b815fb351719"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Need an Experienced Play Tester?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpnn15/need_an_experienced_play_tester/",
+      "published": "2026-11-06",
+      "excerpt": "Hey! I'm back again and looking for developers who want to have their games play tested! Just to be clear, this is a paid service. I don't just play your game and point out bugs. I also give honest feedback, advice, and suggestions on how you can improve your game. I've helped games grow from 2 digi",
+      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
+      "id": "6db6ea09b712df25a80982c8"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3757,6 +3896,17 @@
       "id": "390451b959505729ca6e19a4"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made 5 maps for my Roblox game! Would you take a look?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpdjph/i_made_5_maps_for_my_roblox_game_would_you_take_a/",
+      "published": "2026-11-06",
+      "excerpt": "I've finished creating my Roblox game, Dig & Bloom! , and I wanted to share some of the maps I've created! The game features 5 different areas: Mine, Volcano, Desert, Snow, and Forest. Each area has its own atmosphere and unique seeds to discover. I tried to make each environment feel different whil",
+      "creator": "/u/Park_premorial https://www.reddit.com/user/Park_premorial",
+      "id": "346d01e5b4b28d49835f065a"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3851,6 +4001,17 @@
       "id": "2571e9e9c35d329dcc355174"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "new egg-opening animation",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpr44y/new_eggopening_animation/",
+      "published": "2026-11-06",
+      "excerpt": "submitted by /u/Calm-Try1206 [link] [comments]",
+      "creator": "/u/Calm-Try1206 https://www.reddit.com/user/Calm-Try1206",
+      "id": "21f19f2e9e6cbc45fddc6628"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3872,6 +4033,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-renders-over-the-taskbar/4977915.rss",
       "id": "1cbdf8b618e85cfa9a78836b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "My Roblox horror game Hunt Kill Survive — lobby, queue, monster select and stamina HUD. What would you change?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xprbc1/my_roblox_horror_game_hunt_kill_survive_lobby/",
+      "published": "2026-11-06",
+      "excerpt": "Been building Hunt Kill Survive, an asymmetric horror game where one player hunts and the rest try to survive. Here's a quick look at the UI so far: the lobby, queue screen, monster select, abilities, settings and the stamina HUD. I designed the horror UI from reference sheets and used Claude to hel",
+      "creator": "/u/SkilldropHorror https://www.reddit.com/user/SkilldropHorror",
+      "id": "1b4429121ee75585fdceea09"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3955,6 +4127,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/chomper-from-plants-vs-zombies/4979354.rss",
       "id": "092daf1075f19a6cce92db79"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "looking to hire a thumbnail artist",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xprd9x/looking_to_hire_a_thumbnail_artist/",
+      "published": "2026-11-06",
+      "excerpt": "here is the game so you have an idea of what to expect: https://www.roblox.com/games/79781701657286/Sails-and-Cannons DM me with your portfolio and what you expect as compensation submitted by /u/iCy_sPiCy004 [link] [comments]",
+      "creator": "/u/iCy_sPiCy004 https://www.reddit.com/user/iCy_sPiCy004",
+      "id": "089dca5e710270f6c710a434"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9628,177 +9811,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/customizable-selectionboxes-plugin/4971146.rss",
       "id": "4ffdee2fdfbf84cda1c36276"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Update on Account Bans, Alt Detection, and Appeals",
-      "url": "https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565",
-      "published": "2026-11-02",
-      "excerpt": "Key Takeaways: Today, we’re launching a new Game Issues & Appeals page on the Creator Hub. Find it in Creations > [Game] > Safety > Issues and appeals . We’re also sharing our principles on account bans, linked-account detection, and appeals. Our intent is to only ban accounts for severe or repeated",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565.rss",
-      "id": "4c753612581cfe4f347e5d3c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game still banned nearly a month later with no response from Moderation",
-      "url": "https://devforum.roblox.com/t/game-still-banned-nearly-a-month-later-with-no-response-from-moderation/4971788",
-      "published": "2026-11-02",
-      "excerpt": "My ROBLOX game Washington, District of Columbia , is not allowing me to change my audience to public and there’s a banner saying we violated standards or something. We made the game compliant with the TextChatService API and appealed, and it’s still not letting us publish. Its been nearly a month no",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-still-banned-nearly-a-month-later-with-no-response-from-moderation/4971788.rss",
-      "id": "45b606ae0b23bd0d78e6a000"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "if game cute, why so scary?",
-      "url": "https://www.youtube.com/shorts/fw_tVS1qpys",
-      "published": "2026-11-02",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "45000f9329e2b6d07645d6de"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Players from ads",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlyul6/players_from_ads/",
-      "published": "2026-11-02",
-      "excerpt": "I've just started running ads for my new game, and have been wondering why 50% of the players leave within the first 2 steps in the tutorial. The tutorial is short and guides the player well. I've been monitoring the players that join my game and many of them seem like they're fully bots? Anyone els",
-      "creator": "/u/Ok-Falcon7060 https://www.reddit.com/user/Ok-Falcon7060",
-      "id": "3e7ba94d7014570dafc05fc3"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need help with this avatar",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlqs6k/i_need_help_with_this_avatar/",
-      "published": "2026-11-02",
-      "excerpt": "Hi, Im someone with little to no experience in game development, i ran into a problem on an avatar i was rigging where after adjusting the hair & parts, duplicating it or uploading it to roblox made it snap back to its original position, how do i fix this? submitted by /u/Basic_Net_5711 [link] [comm",
-      "creator": "/u/Basic_Net_5711 https://www.reddit.com/user/Basic_Net_5711",
-      "id": "3d711b24b7609d2607dfc51c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "TeleportService:TeleportAsync has a wrong parameter type which produces a type warning with strict mode",
-      "url": "https://devforum.roblox.com/t/teleportserviceteleportasync-has-a-wrong-parameter-type-which-produces-a-type-warning-with-strict-mode/4972420",
-      "published": "2026-11-02",
-      "excerpt": "TeleportService:TeleportAsync method has a few types: place Id, typed as number ; players, typed as {Instance} ; and teleportOptions, typed as Instance . When using --!strict , or having it enabled in workspace by default, and attempted to pass in an array of players to teleport, which is typed as {",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/teleportserviceteleportasync-has-a-wrong-parameter-type-which-produces-a-type-warning-with-strict-mode/4972420.rss",
-      "id": "3b776ad3f90f6ba1e4f54e96"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Fitting Room | Browse the catalog & dress R6/R15 rigs in Studio",
-      "url": "https://devforum.roblox.com/t/fitting-room-browse-the-catalog-dress-r6r15-rigs-in-studio/4971167",
-      "published": "2026-11-02",
-      "excerpt": "Get it on the Creator Store for Free The whole Marketplace, right in your Studio viewport. I originally made this just for myself and have been using it in my own projects for a while. It’s saved me so much time that I decided to clean it up and share it with the community. Hope it helps you as much",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/fitting-room-browse-the-catalog-dress-r6r15-rigs-in-studio/4971167.rss",
-      "id": "3a8b175f76de8abf3f2cf27b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "do y’all like my chicken game? 😭",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlmt45/do_yall_like_my_chicken_game/",
-      "published": "2026-11-02",
-      "excerpt": "been working on this roblox game, what do y’all think? https://www.roblox.com/games/90700639417957/ submitted by /u/RedWaifuu [link] [comments]",
-      "creator": "/u/RedWaifuu https://www.reddit.com/user/RedWaifuu",
-      "id": "39d7150e947afa2a55ec88f2"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "how would i make it so the lights aren't too bright when alot of them are in the same room together? it's for a realistic backrooms game like the complex expedition",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm7pmu/how_would_i_make_it_so_the_lights_arent_too/",
-      "published": "2026-11-02",
-      "excerpt": "submitted by /u/UnreasonableDumm [link] [comments]",
-      "creator": "/u/UnreasonableDumm https://www.reddit.com/user/UnreasonableDumm",
-      "id": "38f1fb0728cde9354b6611e1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made a Game You Can Create Potions",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm8w3u/made_a_game_you_can_create_potions/",
-      "published": "2026-11-02",
-      "excerpt": "Comment game and I will send you the link submitted by /u/ytuntoldhub [link] [comments]",
-      "creator": "/u/ytuntoldhub https://www.reddit.com/user/ytuntoldhub",
-      "id": "34251005f15d2e599cf2c06d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Appeals for TextChatService ban not reinstated after following ROBLOX's direction",
-      "url": "https://devforum.roblox.com/t/appeals-for-textchatservice-ban-not-reinstated-after-following-robloxs-direction/4971781",
-      "published": "2026-11-02",
-      "excerpt": "My ROBLOX game, https://www.roblox.com/games/121872407220230/STAN-WARS was initially taken down for failing to implement TextChatService appropriately. I have looked into it and realized that it is likely due to the implementation of Adonis Admin, a free Admin module that I’ve used multiple times in",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/appeals-for-textchatservice-ban-not-reinstated-after-following-robloxs-direction/4971781.rss",
-      "id": "33ae5f95d8828cf349a9babf"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Am I just cooked?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlpfyk/am_i_just_cooked/",
-      "published": "2026-11-02",
-      "excerpt": "So not even an hour ago i released an update specifically meant to try and hold engagement and make the onboarding process super smooth for the user. I stopped ads a couple days ago and then ccus dropped which had been tanking my benchmark average. With this new update I just launched a 2 day, 5$ pe",
-      "creator": "/u/Low-Dimension5920 https://www.reddit.com/user/Low-Dimension5920",
-      "id": "32dfbf0e4a81dd882e48a134"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[ FrameToGroup ] - A Lean & Lightweight Studio Plugin",
-      "url": "https://devforum.roblox.com/t/frametogroup-a-lean-lightweight-studio-plugin/4971281",
-      "published": "2026-11-02",
-      "excerpt": "Ever been in that situation where you have everything setup under a Frame instance, but then realize you wanted a CanvasGroup? Or Vice-Versa? Yeah. Me too. May I present: [ FrameToCanvas ] - It’s just five buttons! I found myself constantly repeating these actions, hence a plugin seemed in order. Ma",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/frametogroup-a-lean-lightweight-studio-plugin/4971281.rss",
-      "id": "2ff4e1a8e79ba1edda5b596c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Anyone been offered $ for their game, didnt take it, and regretted it?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlofz6/anyone_been_offered_for_their_game_didnt_take_it/",
-      "published": "2026-11-02",
-      "excerpt": "or vice versa. submitted by /u/Sufficient_Tackle552 [link] [comments]",
-      "creator": "/u/Sufficient_Tackle552 https://www.reddit.com/user/Sufficient_Tackle552",
-      "id": "2db451772e24c399a62cc45c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Some stylized crafting stations I've been working on for Indie devs!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlzoo1/some_stylized_crafting_stations_ive_been_working/",
-      "published": "2026-11-02",
-      "excerpt": "Been working on some low-poly crafting stations lately and wanted to share how they turned out in Roblox Studio! I wanted the upgrades to feel like actual improvements, while keeping the same colorful, stylized look across all the models. Any suggestions for future updates or new packs? I'd love to ",
-      "creator": "/u/RiescArts https://www.reddit.com/user/RiescArts",
-      "id": "293de4065bfffd4529d1de73"
     }
   ]
 }

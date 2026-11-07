@@ -6,14 +6,14 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 597; fully reviewed: 0.
+Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 313
-- index-only: 9
-- reddit: 269
-- youtube: 6
+- devforum: 310
+- index-only: 10
+- reddit: 273
+- youtube: 5
 
 ## First-Session And Mobile
 
@@ -32,8 +32,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Economy And Income
 
+- [how do you keep players interested in a monster collecting game?](https://www.reddit.com/r/robloxgamedev/comments/1xpsanx/how_do_you_keep_players_interested_in_a_monster/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Looking for someone to script this dude](https://www.reddit.com/r/robloxgamedev/comments/1xlothv/looking_for_someone_to_script_this_dude/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [trying to make this animation on my kitsune](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bgt/trying_to_make_this_animation_on_my_kitsune/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 

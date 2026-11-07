@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[How roblox animations work?](https://devforum.roblox.com/t/how-roblox-animations-work/4978846)** — Public text/page, video not confirmed
+- **[Save to Roblox's Asset Configuration menu constantly swaps between upload order and last updated order](https://devforum.roblox.com/t/save-to-robloxs-asset-configuration-menu-constantly-swaps-between-upload-order-and-last-updated-order/4979482)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
