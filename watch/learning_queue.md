@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 305
+- devforum: 304
 - index-only: 10
-- reddit: 279
+- reddit: 280
 - youtube: 4
 
 ## First-Session And Mobile
@@ -28,12 +28,12 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Building And Purchases
 
 - [I made my first Roblox game: an ore RNG where you build a mining tower, crush ores and hatch pets — feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xmzpwt/i_made_my_first_roblox_game_an_ore_rng_where_you/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I just released my first Roblox game. Fish, build an aquarium, and steal your neighbors' fish. Need some feedback on the core game loop and first 5 minutes.](https://www.reddit.com/r/robloxgamedev/comments/1xqepyc/i_just_released_my_first_roblox_game_fish_build/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Economy And Income
 
+- [I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [how do you keep players interested in a monster collecting game?](https://www.reddit.com/r/robloxgamedev/comments/1xpsanx/how_do_you_keep_players_interested_in_a_monster/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [trying to make this animation on my kitsune](https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bgt/trying_to_make_this_animation_on_my_kitsune/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 
@@ -43,7 +43,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Animation And Audio
 
 - [I made a Roblox game where you escape from a giant angry cat 😭 Would love some honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xmmnl4/i_made_a_roblox_game_where_you_escape_from_a/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
-- [\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
+- [Feedback on my Roblox hospital horror: does "she hears every sound" read clearly in the first 7 seconds?](https://www.reddit.com/r/robloxgamedev/comments/1xqejo3/feedback_on_my_roblox_hospital_horror_does_she/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
