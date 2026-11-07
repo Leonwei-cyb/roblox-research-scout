@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 309
+- devforum: 308
 - index-only: 9
-- reddit: 275
+- reddit: 276
 - youtube: 5
 
 ## First-Session And Mobile
@@ -62,14 +62,14 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [Player Ping spiking ridiculously high in 'live' server but not in studio? Server Stalling?](https://devforum.roblox.com/t/player-ping-spiking-ridiculously-high-in-live-server-but-not-in-studio-server-stalling/4971164) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [New Studio Ribbon - Context menu appears over all your screen, even though Roblox Studio is not in the main focus anymore](https://devforum.roblox.com/t/new-studio-ribbon-context-menu-appears-over-all-your-screen-even-though-roblox-studio-is-not-in-the-main-focus-anymore/4977663) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)](https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one New Studio Ribbon - Context menu appears over all your screen, even though Roblox Studio is not in the main focus anymore test with measurable pass/fail.
+3. Explain WHY it matters and propose one Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report) test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

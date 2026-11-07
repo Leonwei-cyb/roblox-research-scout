@@ -22,6 +22,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[Need help with playtesting my dinosaur survival game](https://www.reddit.com/r/robloxgamedev/comments/1xpx3bd/need_help_with_playtesting_my_dinosaur_survival/)** — Public text/page, video not confirmed
 - **[Help with Automatically-Sized Scrolling TextBox](https://devforum.roblox.com/t/help-with-automatically-sized-scrolling-textbox/4979103)** — Public text/page, video not confirmed
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Public text/page, video not confirmed
-- **[Studio MCP Server Updates: Open Cloud Access in Your MCP Client and Asset Import Workflows](https://devforum.roblox.com/t/studio-mcp-server-updates-open-cloud-access-in-your-mcp-client-and-asset-import-workflows/4975849)** — Public text/page, video not confirmed

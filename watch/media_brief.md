@@ -7,21 +7,21 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Any thoughts on my game idea](https://www.reddit.com/r/robloxgamedev/comments/1xpvknh/any_thoughts_on_my_game_idea/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: I’m making a group lead project, it’s pretty simple and essentially combines booga booga with Elden ring. You start out as a nomad and collect ore deposits, destroy trees with your fists or an axe after a while, and make a guild (the game i
-- **[Can people check my game out?](https://www.reddit.com/r/robloxgamedev/comments/1xpw0bi/can_people_check_my_game_out/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: https://www.roblox.com/share?code=a9c000991616f54da3fbf87da1401e4a&type=ExperienceDetails&stamp=1794021056805 It would really help if people checked out my game to get traffic flowing, I can’t really afford ads. submitted by /u/Eastern-Neat
-- **[How do people create good sound effects?](https://www.reddit.com/r/robloxgamedev/comments/1xpv800/how_do_people_create_good_sound_effects/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Most of the posts I've seen always tell you to capture SFX from websites like Pixabay. However, I'm just genuinely curious because I've been interested in TSBG's sound effects and that's usually the type of sound I want (attempt) to go for.
-- **[What do you guys think of my thumbnails?](https://www.reddit.com/r/robloxgamedev/comments/1xpv12i/what_do_you_guys_think_of_my_thumbnails/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: submitted by /u/Infamous-Victory3662 \[link\] \[comments\]
+- **[Need help with playtesting my dinosaur survival game](https://www.reddit.com/r/robloxgamedev/comments/1xpx3bd/need_help_with_playtesting_my_dinosaur_survival/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: HI, I just released 100 Nights in Dino World https://www.youtube.com/watch?v=6DITbuH-ZsU I need some feedback on the difficulty of the game. If u like survival genre and dinosaur, do check it out! submitted by /u/exorific \[link\] \[comments\]
+- **[Are you a Roblox game dev who needs music?](https://www.reddit.com/r/robloxgamedev/comments/1xpwx0y/are_you_a_roblox_game_dev_who_needs_music/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: I’m offering to make music for your Roblox game. I have 2 years experience with FL Studio, can make basic synth patches and understand the mixing board. The genres I’m offering are: Synthwave Ambient Breakcore Bossa Nova Classical/piano Son
+- **[How to make real time ragdoll on death](https://www.reddit.com/r/robloxgamedev/comments/1xpx2c7/how_to_make_real_time_ragdoll_on_death/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Im having problem when i use ragdoll on death from free model when character died(npc or player) character is got freez for 0.2-0.5 second and become ragdoll for no reason i try to fix like make joint:Destory() become joint.Enabled = false 
+- **[Making a game inspired by the Classic RTS game the conquerors 3 would like anyone to test my demo](https://www.reddit.com/r/robloxgamedev/comments/1xpwc1n/making_a_game_inspired_by_the_classic_rts_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: link to game: https://www.roblox.com/games/121385490538367/RTS-DEMO As of now the game is only playable on PC I'd really appreciate any feedback or suggestions on how I could improve the game, as I know theres a lot more I can do to make th
+- **[Try out my game and leave feedback please](https://www.reddit.com/r/robloxgamedev/comments/1xpwnld/try_out_my_game_and_leave_feedback_please/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: The game is already published on Roblox and I’m looking for people to try it out and tell me if you like it and if you don’t tell me whats wrong about it, it’s my first game ever so I tried my best https://www.roblox.com/share?code=0de4505f
 
 ## Roblox Updates
 
-- **[DecoCam \| Camera Accessories & Lighting](https://devforum.roblox.com/t/decocam-camera-accessories-lighting/4979618)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: 📷 DecoCam ✨ Camera Accessories & Lighting Get DecoCam What is it? It’s a Roblox Studio plugin that lets you decorate your editor camera with avatar accessories and customize its lighting. You can position, rotate, and resize each accessory 
-- **[Experience Content not accessible for all region bug](https://devforum.roblox.com/t/experience-content-not-accessible-for-all-region-bug/4979627)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: My game despite being all ages is not able to be played in all regions. I had this issue early on when publishing and it had only a 16+, but now still in all ages having many people in other countries unable to play. Here is what some peopl
+- **[Getting a copyright Warning with no reason provided whatsoever](https://devforum.roblox.com/t/getting-a-copyright-warning-with-no-reason-provided-whatsoever/4979693)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: I don’t see what exact Asset/Items or Things I created that are Trademarked Ok thats fine… lets check “View more” there must be the info needed No more details available… Then how AM I supposed to APPEAL this without KNOWING WHAT caused thi
 
 ---
 
