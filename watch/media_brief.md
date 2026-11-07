@@ -7,19 +7,21 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[\[BETA\] Viper Ops – tactical shooter looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xpx9eq/beta_viper_ops_tactical_shooter_looking_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: I’m a solo dev working on Viper Ops, a fast-paced tactical shooter with weapon customization (optics, attachments, skins), map voting, and parties. Update 1.2 just added two new maps and a lighting/performance pass. I’d love honest feedback
-- **[Delivery Madness (LF Investors, Min Investment: 10k Robux+ or 35 USD+)](https://www.reddit.com/r/robloxgamedev/comments/1xpxidp/delivery_madness_lf_investors_min_investment_10k/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hello, So me(UI) and my friend(Modelling) are creating a game, Delivery Madness which is 90% done. It has a very simple game loop, You Get Parcels, Deliver Them, Upgrade Strength, Get Parcels, Deliver Them, Rebirth and start again. It might
-- **[I made an egg slop game, but it's unique.](https://www.reddit.com/r/robloxgamedev/comments/1xpxwnl/i_made_an_egg_slop_game_but_its_unique/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: First actually finished game I have made. Would love to share it with a few more people. custom pets. No recycled pet pack used. Custom weather events Gameplay is a bit more interactive than other games in the same category. submitted by /u
-- **[The First 2D Game that I have released - Chalk Runner - Feedback is greatly appreciated](https://www.reddit.com/r/robloxgamedev/comments/1xpxeqx/the_first_2d_game_that_i_have_released_chalk/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Game: https://www.roblox.com/games/70625706501268/Chalk-Runner submitted by /u/Interesting_Beat7877 \[link\] \[comments\]
+- **["One man's trash is another man's treasure"](https://www.reddit.com/r/robloxgamedev/comments/1xpyf8v/one_mans_trash_is_another_mans_treasure/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: The real trash is not getting anything 😭 🙏 submitted by /u/Forsaken_Swan_6968 \[link\] \[comments\]
+- **[Decent CTR for Engagement ads?](https://www.reddit.com/r/robloxgamedev/comments/1xpymvo/decent_ctr_for_engagement_ads/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: https://preview.redd.it/ldg52fean40i1.png?width=534&format=png&auto=webp&s=31a52b0db50c9e1164e1e843faef4fe050e12e7a ? submitted by /u/SomeoneNoobyYT \[link\] \[comments\]
+- **[Is my game idea stupid?](https://www.reddit.com/r/robloxgamedev/comments/1xpyejx/is_my_game_idea_stupid/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: You know how as kids we used to run our hands along the wall? Like tracing your finger along the cracks in a brick wall as you walk? I am making +1 Finger Tracing and i can’t help but feel like the game name doesn’t communicate the vision a
+- **[Need help developing my competitive Minecraft 1.21.11 pvp game](https://www.reddit.com/r/robloxgamedev/comments/1xpz4ns/need_help_developing_my_competitive_minecraft/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hey everyone! I've been working on a competitive Minecraft 1.21.11 PvP game on Roblox called STRAFEX for quite a while now. The project's biggest focus is recreating Java Edition PvP as accurately as possible while taking advantage of Roblo
+- **[Review My Game!](https://www.reddit.com/r/robloxgamedev/comments/1xpyewv/review_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: I've created a Roblox Game I put 3 months into this as a solo developer, Please Check out Review and Help my game out!! Name is :- Hatch N Match the ID of the Experience is : 87051510369830 Send me a DM or Discord Friend Request! userid: Im
 
 ## Roblox Updates
 
-- **[Getting a copyright Warning for something I made 4 years ago](https://devforum.roblox.com/t/getting-a-copyright-warning-for-something-i-made-4-years-ago/4979693)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: I don’t see what exact Asset/Items or Things I created that are Trademarked Ok thats fine… lets check “View more” there must be the info needed No more details available… Then how AM I supposed to APPEAL this without KNOWING WHAT caused thi
+- **[People who got Plus for free are unable to renew without losing the 20% Discount](https://devforum.roblox.com/t/people-who-got-plus-for-free-are-unable-to-renew-without-losing-the-20-discount/4979850)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Issue: Developers who received free months of Roblox Plus are running into an issue with their subscriptions expiring on November 19th. Currently, there doesn’t appear to be a way to renew or extend the free subscription before it expires w
 
 ---
 

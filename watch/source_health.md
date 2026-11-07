@@ -13,7 +13,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - reddit-robloxdev: 12
 - roblox-ui-showcase: 1
 - roblox-wip-2026: 4
-- roblox-news: 1
+- roblox-news: 0
 - roblox-dev-scripts: 0
 - automation: 0
 - x-ui: 2
