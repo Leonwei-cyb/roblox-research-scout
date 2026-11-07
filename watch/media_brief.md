@@ -5,21 +5,18 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[How To Build Your First AI Video Game with Claude - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NYUwwVThvRkcycVdha0NDcHIwRzc2UjQ1djlEczhkZDVrX1BHcjVJUFFDYWxHbXUyVVV1ZXp4c2xJVldKX3FzLWF0cUVpNkhoeGpRX29B?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-05
-  - Feed excerpt: How To Build Your First AI Video Game with Claude YouTube
-
 ## Community
 
-- **[EXECUTION's downfall](https://www.reddit.com/r/robloxgamedev/comments/1xq3zvt/executions_downfall/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hello guys. I am here to get some feedback and hopefully some tips on where I can improve perhaps this game, but mainly in my next projects. Game currently sits at a very bad 36% rating and average playtime of 2 minutes. I also have reworke
-- **[First project of me and my friend.](https://www.reddit.com/r/robloxgamedev/comments/1xq4dyd/first_project_of_me_and_my_friend/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: It's a simple marvel pve and pvp game, theres a few characters to choose from and the game spawns bots so itd playable even with low amount or no others in the server. This thumbnail and icon just feel a bit blant tho any suggestions on wha
-- **[NO REACTION ABT THAT](https://www.reddit.com/r/robloxgamedev/comments/1xq3zqy/no_reaction_abt_that/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: spent over 20 minutes trying to figure out why hover.lift was resetting options.lift to 0 whenever hover.lift wasnt defined 😭 turns out the default value was overriding the existing config lol submitted by /u/bighnikaakene \[link\] \[comments\]
-- **[Problem with shiftlock not working](https://www.reddit.com/r/robloxgamedev/comments/1xq410y/problem_with_shiftlock_not_working/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: I have lock camera option tured on in my settings for my starterplayer, but when I join the game it shows "set by developer" I tried making a script to force it ON but doesnt work. I don't have custom camera movements. Everything is default
+- **[My treasure diving game is finally out – looking for feedback on the progression](https://www.reddit.com/r/robloxgamedev/comments/1xq55nj/my_treasure_diving_game_is_finally_out_looking/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: submitted by /u/Findit3245 \[link\] \[comments\]
+- **[Good Video for my Tank Showcase?](https://www.reddit.com/r/robloxgamedev/comments/1xq4jkn/good_video_for_my_tank_showcase/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: 🤑🤑🤑🤑🤑🤑🤑 give me yall opinions submitted by /u/Ahmeda_2916 \[link\] \[comments\]
+- **[I made a zombie survival game on Roblox, would love your feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xq56i5/i_made_a_zombie_survival_game_on_roblox_would/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hi everyone! I just released my first Roblox game, Dead Road: Zombie Survival, and I'd really like honest feedback. What's in it: - Level-based survival with a difficulty vote before every level - Auto-aim with a lock-on reticle, plus mache
+- **[Is my game too boring?](https://www.reddit.com/r/robloxgamedev/comments/1xq4tyy/is_my_game_too_boring/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Two differential game mods, cosmetics and leveling system, and a gacha pulling mechanic for cosmetics. I've received good feedback on the game modes yet some that say that theres not enough(?). Should i be working on the games in rotation, 
+- **[starbound: space rpg](https://www.reddit.com/r/robloxgamedev/comments/1xq54kf/starbound_space_rpg/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: long time in the works, with seamless surface to surface transition without any loading screens. three loops: defence contracts, hauling and asteroid mining, with fully functional economies and just a load of things to do! try it; starbound
 
 ---
 

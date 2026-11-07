@@ -6,7 +6,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
-- **[Pizza tycoon 3-D released!](https://www.reddit.com/r/robloxgamedev/comments/1xptpok/pizza_tycoon_3d_released/)** — Public text/page, video not confirmed
+- **[My treasure diving game is finally out – looking for feedback on the progression](https://www.reddit.com/r/robloxgamedev/comments/1xq55nj/my_treasure_diving_game_is_finally_out_looking/)** — Public text/page, video not confirmed
 - **[How can I improve retention (8.5 mins) in my tycoon game?](https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885)** — Public text/page, video not confirmed
 - **[Test Graphics and Memory on Lower-End Devices With the Performance Simulator](https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313)** — Public text/page, video not confirmed
 

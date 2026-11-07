@@ -17,6 +17,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[A small animation i made (1st anim i ever made in studio)](https://www.reddit.com/r/ROBLOXStudio/comments/1xnkt3q/a_small_animation_i_made_1st_anim_i_ever_made_in/)** — Community showcase post (video not confirmed) · 2026-11-04
 - **[Map I recently finished for ' Reign of Rot ' , Here is a showcase of the map I hope you enjoy it !](https://www.reddit.com/r/ROBLOXStudio/comments/1xn3ezp/map_i_recently_finished_for_reign_of_rot_here_is/)** — Community showcase post (video not confirmed) · 2026-11-03
 - **[T-90M Tank Showcase](https://www.reddit.com/r/ROBLOXStudio/comments/1xpapgp/t90m_tank_showcase/)** — Community showcase post (video not confirmed) · 2026-11-06
+- **[Good Video for my Tank Showcase?](https://www.reddit.com/r/robloxgamedev/comments/1xq4jkn/good_video_for_my_tank_showcase/)** — Community showcase post (video not confirmed) · 2026-11-07
 
 ## Coverage gap
 
