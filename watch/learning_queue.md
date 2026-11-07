@@ -6,13 +6,13 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 598; fully reviewed: 0.
+Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 308
+- devforum: 305
 - index-only: 9
-- reddit: 276
+- reddit: 278
 - youtube: 5
 
 ## First-Session And Mobile
@@ -28,7 +28,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Building And Purchases
 
 - [I made my first Roblox game: an ore RNG where you build a mining tower, crush ores and hatch pets — feedback welcome!](https://www.reddit.com/r/robloxgamedev/comments/1xmzpwt/i_made_my_first_roblox_game_an_ore_rng_where_you/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [How do you handle refunded Robux purchases in your game economy?](https://devforum.roblox.com/t/how-do-you-handle-refunded-robux-purchases-in-your-game-economy/4971738) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [I made a game where you can merge any two buildings into a new one, looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xmdsn6/i_made_a_game_where_you_can_merge_any_two/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Economy And Income
 
@@ -38,7 +38,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Ui And Menus
 
 - [How to make a UI element track a 3D object on screen?](https://devforum.roblox.com/t/how-to-make-a-ui-element-track-a-3d-object-on-screen/4973794) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
-- [\[ FrameToCanvas \] - A Lean & Lightweight Studio Plugin + Copy/Paste UI Positioning](https://devforum.roblox.com/t/frametocanvas-a-lean-lightweight-studio-plugin-copypaste-ui-positioning/4971281) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
@@ -53,12 +53,12 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Genres And Successful Loops
 
 - [Test Graphics and Memory on Lower-End Devices With the Performance Simulator](https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [I made a game where you can merge any two buildings into a new one, looking for honest feedback](https://www.reddit.com/r/robloxgamedev/comments/1xmdsn6/i_made_a_game_where_you_can_merge_any_two/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 
 - [Player objects not being properly managed on disconect during a Server & Client session](https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [(Game idea feedback) Would a single-player/co-op hospital simulator work on Roblox?](https://devforum.roblox.com/t/game-idea-feedback-would-a-single-playerco-op-hospital-simulator-work-on-roblox/4974515) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 

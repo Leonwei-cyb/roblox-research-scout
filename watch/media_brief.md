@@ -7,20 +7,18 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Need help with playtesting my dinosaur survival game](https://www.reddit.com/r/robloxgamedev/comments/1xpx3bd/need_help_with_playtesting_my_dinosaur_survival/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: HI, I just released 100 Nights in Dino World https://www.youtube.com/watch?v=6DITbuH-ZsU I need some feedback on the difficulty of the game. If u like survival genre and dinosaur, do check it out! submitted by /u/exorific \[link\] \[comments\]
-- **[Are you a Roblox game dev who needs music?](https://www.reddit.com/r/robloxgamedev/comments/1xpwx0y/are_you_a_roblox_game_dev_who_needs_music/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: I’m offering to make music for your Roblox game. I have 2 years experience with FL Studio, can make basic synth patches and understand the mixing board. The genres I’m offering are: Synthwave Ambient Breakcore Bossa Nova Classical/piano Son
-- **[How to make real time ragdoll on death](https://www.reddit.com/r/robloxgamedev/comments/1xpx2c7/how_to_make_real_time_ragdoll_on_death/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Im having problem when i use ragdoll on death from free model when character died(npc or player) character is got freez for 0.2-0.5 second and become ragdoll for no reason i try to fix like make joint:Destory() become joint.Enabled = false 
-- **[Making a game inspired by the Classic RTS game the conquerors 3 would like anyone to test my demo](https://www.reddit.com/r/robloxgamedev/comments/1xpwc1n/making_a_game_inspired_by_the_classic_rts_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: link to game: https://www.roblox.com/games/121385490538367/RTS-DEMO As of now the game is only playable on PC I'd really appreciate any feedback or suggestions on how I could improve the game, as I know theres a lot more I can do to make th
-- **[Try out my game and leave feedback please](https://www.reddit.com/r/robloxgamedev/comments/1xpwnld/try_out_my_game_and_leave_feedback_please/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: The game is already published on Roblox and I’m looking for people to try it out and tell me if you like it and if you don’t tell me whats wrong about it, it’s my first game ever so I tried my best https://www.roblox.com/share?code=0de4505f
+- **[\[BETA\] Viper Ops – tactical shooter looking for feedback](https://www.reddit.com/r/robloxgamedev/comments/1xpx9eq/beta_viper_ops_tactical_shooter_looking_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: I’m a solo dev working on Viper Ops, a fast-paced tactical shooter with weapon customization (optics, attachments, skins), map voting, and parties. Update 1.2 just added two new maps and a lighting/performance pass. I’d love honest feedback
+- **[Delivery Madness (LF Investors, Min Investment: 10k Robux+ or 35 USD+)](https://www.reddit.com/r/robloxgamedev/comments/1xpxidp/delivery_madness_lf_investors_min_investment_10k/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hello, So me(UI) and my friend(Modelling) are creating a game, Delivery Madness which is 90% done. It has a very simple game loop, You Get Parcels, Deliver Them, Upgrade Strength, Get Parcels, Deliver Them, Rebirth and start again. It might
+- **[I made an egg slop game, but it's unique.](https://www.reddit.com/r/robloxgamedev/comments/1xpxwnl/i_made_an_egg_slop_game_but_its_unique/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: First actually finished game I have made. Would love to share it with a few more people. custom pets. No recycled pet pack used. Custom weather events Gameplay is a bit more interactive than other games in the same category. submitted by /u
+- **[The First 2D Game that I have released - Chalk Runner - Feedback is greatly appreciated](https://www.reddit.com/r/robloxgamedev/comments/1xpxeqx/the_first_2d_game_that_i_have_released_chalk/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Game: https://www.roblox.com/games/70625706501268/Chalk-Runner submitted by /u/Interesting_Beat7877 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Getting a copyright Warning with no reason provided whatsoever](https://devforum.roblox.com/t/getting-a-copyright-warning-with-no-reason-provided-whatsoever/4979693)** · Roblox Developer Forum latest · 2026-11-07
+- **[Getting a copyright Warning for something I made 4 years ago](https://devforum.roblox.com/t/getting-a-copyright-warning-for-something-i-made-4-years-ago/4979693)** · Roblox Developer Forum latest · 2026-11-07
   - Feed excerpt: I don’t see what exact Asset/Items or Things I created that are Trademarked Ok thats fine… lets check “View more” there must be the info needed No more details available… Then how AM I supposed to APPEAL this without KNOWING WHAT caused thi
 
 ---
