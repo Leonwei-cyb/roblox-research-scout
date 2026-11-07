@@ -22,6 +22,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[\[v0.8.0\] Rojo Manager \| Run all your Rojo servers from one tray app, with MCP for AI agents](https://devforum.roblox.com/t/v080-rojo-manager-run-all-your-rojo-servers-from-one-tray-app-with-mcp-for-ai-agents/4980026)** — Public text/page, video not confirmed
 - **[Need help with playtesting my dinosaur survival game](https://www.reddit.com/r/robloxgamedev/comments/1xpx3bd/need_help_with_playtesting_my_dinosaur_survival/)** — Public text/page, video not confirmed
-- **[Help with Automatically-Sized Scrolling TextBox](https://devforum.roblox.com/t/help-with-automatically-sized-scrolling-textbox/4979103)** — Public text/page, video not confirmed
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Public text/page, video not confirmed
