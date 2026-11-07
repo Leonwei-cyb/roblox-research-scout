@@ -7,16 +7,27 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[My treasure diving game is finally out – looking for feedback on the progression](https://www.reddit.com/r/robloxgamedev/comments/1xq55nj/my_treasure_diving_game_is_finally_out_looking/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: submitted by /u/Findit3245 \[link\] \[comments\]
-- **[Good Video for my Tank Showcase?](https://www.reddit.com/r/robloxgamedev/comments/1xq4jkn/good_video_for_my_tank_showcase/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: 🤑🤑🤑🤑🤑🤑🤑 give me yall opinions submitted by /u/Ahmeda_2916 \[link\] \[comments\]
-- **[I made a zombie survival game on Roblox, would love your feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xq56i5/i_made_a_zombie_survival_game_on_roblox_would/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hi everyone! I just released my first Roblox game, Dead Road: Zombie Survival, and I'd really like honest feedback. What's in it: - Level-based survival with a difficulty vote before every level - Auto-aim with a lock-on reticle, plus mache
-- **[Is my game too boring?](https://www.reddit.com/r/robloxgamedev/comments/1xq4tyy/is_my_game_too_boring/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Two differential game mods, cosmetics and leveling system, and a gacha pulling mechanic for cosmetics. I've received good feedback on the game modes yet some that say that theres not enough(?). Should i be working on the games in rotation, 
-- **[starbound: space rpg](https://www.reddit.com/r/robloxgamedev/comments/1xq54kf/starbound_space_rpg/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: long time in the works, with seamless surface to surface transition without any loading screens. three loops: defence contracts, hauling and asteroid mining, with fully functional economies and just a load of things to do! try it; starbound
+- **[Why is requirement still 250?](https://www.reddit.com/r/robloxgamedev/comments/1xq6ot7/why_is_requirement_still_250/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Wasn't there update and it should be 100? I saw on social medias people have 100 already submitted by /u/Dismal-Evening1527 \[link\] \[comments\]
+- **[Looking for devs](https://www.reddit.com/r/robloxgamedev/comments/1xq5xkf/looking_for_devs/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Searching for devs that could build a movie-accurate backrooms map submitted by /u/Express-Fill-5497 \[link\] \[comments\]
+- **[Looking for feedback on my first game: Catch a Star (space exploration / collecting)](https://www.reddit.com/r/robloxgamedev/comments/1xq73k9/looking_for_feedback_on_my_first_game_catch_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hey everyone! I've been working on my first Roblox game, Catch a Star. You pilot a rocket, go on expeditions to explore planets, catch stars and discover the cosmic creatures hiding inside them. This is unpaid, just looking for honest feedb
+- **[Made my first roblox map, Air Hockey Shooter, a game about scoring goals with your gun.](https://www.reddit.com/r/robloxgamedev/comments/1xq6r70/made_my_first_roblox_map_air_hockey_shooter_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Mainly AI-generated with my own direction, took a long time to develop. submitted by /u/S4d_Machin3 \[link\] \[comments\]
+- **[My Favourite Farm](https://www.reddit.com/r/robloxgamedev/comments/1xq6wqn/my_favourite_farm/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: submitted by /u/Calm-Try1206 \[link\] \[comments\]
+- **[My recreation of Kalbaryo in Binangonan Rizal (SOLO DEV)](https://www.reddit.com/r/robloxgamedev/comments/1xq5wyq/my_recreation_of_kalbaryo_in_binangonan_rizal/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: I spent 2 years making the buildings and just now finished the mountains What do you think? Had 30fps on unisoct7225 low graphics submitted by /u/IamChe3se \[link\] \[comments\]
+
+## Roblox Updates
+
+- **[My Movie Studio - Looking for Gameplay Feedback](https://devforum.roblox.com/t/my-movie-studio-looking-for-gameplay-feedback/4980386)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: I’ve recently been working on a game called My Movie Studio , a small almost-tycoon game where the player creates movies and collects actors. I’m currently looking into building up core gameplay and progression that can keep players engaged
+- **[Constant: ContentId: rbxassetid://xxxxx failed due to: Asset content representation is being generated](https://devforum.roblox.com/t/constant-contentid-rbxassetidxxxxx-failed-due-to-asset-content-representation-is-being-generated/4980399)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Hey. I have a small question. I have the constant problem that many of my assets I upload create this warning in studio: ContentId: rbxassetid://xxxx failed due to: Asset content representation is being generated I know its content moderati
+- **[Scale Multiplier vs. Min/Max Values for Different Item Skins](https://devforum.roblox.com/t/scale-multiplier-vs-minmax-values-for-different-item-skins/4980491)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Let’s say I have multiple skins of the same item, and each skin provides the same type of reward but in different quantities. Would it be better to assign a scale multiplier to each skin based on the base reward, or define separate min/max 
 
 ---
 

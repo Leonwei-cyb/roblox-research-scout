@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 302
+- devforum: 305
 - index-only: 9
-- reddit: 282
+- reddit: 279
 - youtube: 4
 
 ## First-Session And Mobile
@@ -58,7 +58,7 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Player Feedback And Marketing
 
 - [Player objects not being properly managed on disconect during a Server & Client session](https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[Playtest\] Looking for honest feedback on my Roblox game — Steal a Starship](https://www.reddit.com/r/ROBLOXStudio/comments/1xn6e8d/playtest_looking_for_honest_feedback_on_my_roblox/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [My Movie Studio - Looking for Gameplay Feedback](https://devforum.roblox.com/t/my-movie-studio-looking-for-gameplay-feedback/4980386) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 

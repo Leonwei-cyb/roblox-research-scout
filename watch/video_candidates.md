@@ -6,7 +6,6 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 
 - **[Bubble Animator v1.0 — Viewport Animation Suite for Roblox Studio](https://www.reddit.com/r/robloxgamedev/comments/1xoiuqp/bubble_animator_v10_viewport_animation_suite_for/)** — Community showcase post (video not confirmed) · 2026-11-05
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Community showcase post (video not confirmed) · 2026-11-06
-- **[🎮 Looking for FREE Playtesters — Roblox Mining Adventure!](https://www.reddit.com/r/robloxgamedev/comments/1xlngiw/looking_for_free_playtesters_roblox_mining/)** — Community showcase post (video not confirmed) · 2026-11-02
 - **[Game showcase for my upcoming game](https://www.reddit.com/r/ROBLOXStudio/comments/1xnyu0u/game_showcase_for_my_upcoming_game/)** — Community showcase post (video not confirmed) · 2026-11-04
 - **[I'm a playtester, can i test your game?](https://www.reddit.com/r/robloxgamedev/comments/1xmot2l/im_a_playtester_can_i_test_your_game/)** — Community showcase post (video not confirmed) · 2026-11-03
 - **[Playtest for a new game](https://www.reddit.com/r/robloxgamedev/comments/1xmxyyj/playtest_for_a_new_game/)** — Community showcase post (video not confirmed) · 2026-11-03
