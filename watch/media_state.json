@@ -2939,7 +2939,12 @@
     "2b16d00987a17515ac83233a",
     "9bf745f90264da61cb78f1ac",
     "3ccd935dfd579fdc40c8924f",
-    "b571525ad91cc2fc01f2aaca"
+    "b571525ad91cc2fc01f2aaca",
+    "f2d810bca88aa5c789982b8b",
+    "de23d0c3d62a4ddbc677994e",
+    "edaf6b7fa52e33eaef917bb2",
+    "324e914f82d1093e2bd44860",
+    "4ee50596e7e185b32710ce64"
   ],
   "items": [
     {
@@ -2975,6 +2980,28 @@
       "excerpt": "Hey yall before i publish my game i just created, what are the absolute most important things to know before it’s ready to be played or marketed to the public. i’m ranging from small stupid things like enabling API access to things like how to advertise or what ads to use etc. i’m just right at the ",
       "creator": "/u/floppedmind https://www.reddit.com/user/floppedmind",
       "id": "f6084e679047e08033403c54"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "First project of me and my friend.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq4dyd/first_project_of_me_and_my_friend/",
+      "published": "2026-11-07",
+      "excerpt": "It's a simple marvel pve and pvp game, theres a few characters to choose from and the game spawns bots so itd playable even with low amount or no others in the server. This thumbnail and icon just feel a bit blant tho any suggestions on what to change in them? Theyre straight from studio i just paus",
+      "creator": "/u/konaukko_ https://www.reddit.com/user/konaukko_",
+      "id": "f2d810bca88aa5c789982b8b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "EXECUTION's downfall",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq3zvt/executions_downfall/",
+      "published": "2026-11-07",
+      "excerpt": "Hello guys. I am here to get some feedback and hopefully some tips on where I can improve perhaps this game, but mainly in my next projects. Game currently sits at a very bad 36% rating and average playtime of 2 minutes. I also have reworked the whole main mechanic. It used to have fancy but lengthy",
+      "creator": "/u/tusart_official https://www.reddit.com/user/tusart_official",
+      "id": "edaf6b7fa52e33eaef917bb2"
     },
     {
       "source": "reddit-robloxdev",
@@ -3030,6 +3057,17 @@
       "excerpt": "Hey yall before i publish my game i just created, what are the absolute most important things to know before it’s ready to be played or marketed to the public. i’m ranging from small stupid things like enabling API access to things like how to advertise or what ads to use etc. i’m just right at the ",
       "creator": "/u/floppedmind https://www.reddit.com/user/floppedmind",
       "id": "df3b338bd38c8bc397fa868c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Problem with shiftlock not working",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq410y/problem_with_shiftlock_not_working/",
+      "published": "2026-11-07",
+      "excerpt": "I have lock camera option tured on in my settings for my starterplayer, but when I join the game it shows \"set by developer\" I tried making a script to force it ON but doesnt work. I don't have custom camera movements. Everything is default and i dont have script forcing it OFF. I don't know why is ",
+      "creator": "/u/Immediate-Touch-6568 https://www.reddit.com/user/Immediate-Touch-6568",
+      "id": "de23d0c3d62a4ddbc677994e"
     },
     {
       "source": "reddit-robloxdev",
@@ -3487,6 +3525,17 @@
       "excerpt": "I’m a solo dev working on Viper Ops, a fast-paced tactical shooter with weapon customization (optics, attachments, skins), map voting, and parties. Update 1.2 just added two new maps and a lighting/performance pass. I’d love honest feedback on the overall game and any suggestions, especially on: How",
       "creator": "/u/Organic-Egg7930 https://www.reddit.com/user/Organic-Egg7930",
       "id": "33c35cf2bdb55b7cfa56c6dd"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "NO REACTION ABT THAT",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq3zqy/no_reaction_abt_that/",
+      "published": "2026-11-07",
+      "excerpt": "spent over 20 minutes trying to figure out why hover.lift was resetting options.lift to 0 whenever hover.lift wasnt defined 😭 turns out the default value was overriding the existing config lol submitted by /u/bighnikaakene [link] [comments]",
+      "creator": "/u/bighnikaakene https://www.reddit.com/user/bighnikaakene",
+      "id": "324e914f82d1093e2bd44860"
     },
     {
       "source": "reddit-robloxdev",
@@ -5765,6 +5814,18 @@
       "excerpt": "Had to bring this back because no other game hit the same after it closed last year. Managed to source the original UIs, maps, viewmodels, and audio to build a proper recreation. If you were there for the peak era, this one’s for you. submitted by /u/MoneyTeaching3794 [link] [comments]",
       "creator": "/u/MoneyTeaching3794 https://www.reddit.com/user/MoneyTeaching3794",
       "id": "4fb45ea56b3187070b3edc4b"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Build Your First AI Video Game with Claude - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NYUwwVThvRkcycVdha0NDcHIwRzc2UjQ1djlEczhkZDVrX1BHcjVJUFFDYWxHbXUyVVV1ZXp4c2xJVldKX3FzLWF0cUVpNkhoeGpRX29B?oc=5",
+      "published": "2026-11-05",
+      "excerpt": "How To Build Your First AI Video Game with Claude YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "4ee50596e7e185b32710ce64"
     },
     {
       "source": "reddit-robloxdev",
@@ -9803,64 +9864,6 @@
       "excerpt": "Grab a book, secure a seat or get eliminated. would you guys play smth like this? submitted by /u/slimebrowser [link] [comments]",
       "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
       "id": "c8901310733a0d9d8efcc3a7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Video Ads Close Button sometimes does not work",
-      "url": "https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952",
-      "published": "2026-11-02",
-      "excerpt": "When I finish watching an ad and I press the X to close it, I have to spam press it many times to get it to close. Previously, ads would immediately close upon finishing but I was told this is intentional behaviour, I believe this should return as the ad button does not work properly most of the tim",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/video-ads-close-button-sometimes-does-not-work/4970952.rss",
-      "id": "c38cd3150654e116b4fc7a2e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Issues with DSA/OSA Content Reporting",
-      "url": "https://devforum.roblox.com/t/issues-with-dsaosa-content-reporting/4971938",
-      "published": "2026-11-02",
-      "excerpt": "I will include the details of this issue in the private section A private message is associated with this bug report 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/issues-with-dsaosa-content-reporting/4971938.rss",
-      "id": "c24539217003c64be041c846"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expose MicroProfiler captures and timing data through the Studio MCP integration",
-      "url": "https://devforum.roblox.com/t/expose-microprofiler-captures-and-timing-data-through-the-studio-mcp-integration/4972535",
-      "published": "2026-11-02",
-      "excerpt": "Hello! As a Roblox developer, it is currently too hard to use an AI assistant connected through the Studio MCP integration to investigate performance problems using actual MicroProfiler data. The tools exposed in my current MCP session let the assistant inspect the place and scripts, but do not expo",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expose-microprofiler-captures-and-timing-data-through-the-studio-mcp-integration/4972535.rss",
-      "id": "b35de0e6f1c837c805db3eb0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% lifetime revenue share",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmadsv/investor_entity_original_asym_horror_game_seeking/",
-      "published": "2026-11-02",
-      "excerpt": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory, so the world builds o",
-      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
-      "id": "b1c0fe1137d0e840f5acbf58"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Just made my first ever game! I would love some feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlnt3s/just_made_my_first_ever_game_i_would_love_some/",
-      "published": "2026-11-02",
-      "excerpt": "Check out this game I just made and give it a play! Looking for good and bad feedback. thanks! It's called Junk Empire! submitted by /u/Disastrous_Ease_9981 [link] [comments]",
-      "creator": "/u/Disastrous_Ease_9981 https://www.reddit.com/user/Disastrous_Ease_9981",
-      "id": "aab71f0c9fc69990a193e39f"
     }
   ]
 }
