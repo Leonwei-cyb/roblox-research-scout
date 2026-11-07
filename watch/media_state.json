@@ -2969,7 +2969,14 @@
     "095f889397d2aa7258c4eb4b",
     "e42d1962a326410e8f426011",
     "f4d5c81e724f24ea98bd2714",
-    "c5be410e34ab1fe60de75d4a"
+    "c5be410e34ab1fe60de75d4a",
+    "863732e5772a21272abbe974",
+    "92cdf6666652a59a6e34a08f",
+    "2daf3ec9f8dad7ea2661c7fd",
+    "3d4aef71384f01e7c2abdecb",
+    "32b0bf00ad015511b605e129",
+    "25cfc5d8a11032a40cae0b43",
+    "78da216ae9c43e84786cb9ef"
   ],
   "items": [
     {
@@ -3462,6 +3469,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Simulate ParticleEmitters on start/enabled",
+      "url": "https://devforum.roblox.com/t/simulate-particleemitters-on-startenabled/4980640",
+      "published": "2026-11-07",
+      "excerpt": "Currently when a ParticleEmitter starts up each particle starts at the beginning of its life cycle. It would be very useful if you could instead have a property that simulates the particle emission as if its already been on. This would be especially useful for certain ParticleEmitters where it is im",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/simulate-particleemitters-on-startenabled/4980640.rss",
+      "id": "92cdf6666652a59a6e34a08f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox Freezing When jumping between instances",
       "url": "https://devforum.roblox.com/t/roblox-freezing-when-jumping-between-instances/4979899",
       "published": "2026-11-07",
@@ -3481,6 +3500,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/save-to-robloxs-asset-configuration-menu-constantly-swaps-between-upload-order-and-last-updated-order/4979482.rss",
       "id": "86d7ab3775a126b08bd9b76e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "RichText [Enchanted]",
+      "url": "https://devforum.roblox.com/t/richtext-enchanted/4980680",
+      "published": "2026-11-07",
+      "excerpt": "This is my first forum so i hope you enjoy with it. Richtext Enchanted Place I’m kinda nervous. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/richtext-enchanted/4980680.rss",
+      "id": "863732e5772a21272abbe974"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3715,7 +3746,7 @@
       "title": "Where Should Item-Specific Data (e.g. Durability) Be Stored in a Custom Inventory System?",
       "url": "https://devforum.roblox.com/t/where-should-item-specific-data-eg-durability-be-stored-in-a-custom-inventory-system/4980569",
       "published": "2026-11-07",
-      "excerpt": "Basically, I currently have one item that has durability, which decreases with each use until it eventually reaches 0 HP. Once that happens, the item disappears for a while before reappearing. For now, I don’t really plan on adding more items with durability, but I still want to make sure the system",
+      "excerpt": "I’m planning to implement a custom inventory system, and I’d like to hear some suggestions on how to structure it properly. First of all, right now I only have one item (Tool) that uses the Durability attribute. It decreases with each use until it eventually reaches 0 HP, at which point the item dis",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/where-should-item-specific-data-eg-durability-be-stored-in-a-custom-inventory-system/4980569.rss",
       "id": "417585063d2817a6d8066a75"
@@ -3743,6 +3774,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/uncopylocked-gear-fighting-catalog-game/4980125.rss",
       "id": "3dfa11339b11c7ee5884ed59"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Lack of Transparency Around AI-Generated Content in Roblox Experiences",
+      "url": "https://devforum.roblox.com/t/lack-of-transparency-around-ai-generated-content-in-roblox-experiences/4980598",
+      "published": "2026-11-07",
+      "excerpt": "As a Roblox developer, it is currently too hard to distinguish experiences created through traditional, hands-on development from those that rely heavily on AI-generated content or automated creation tools. There is currently very little visibility into how an experience’s scripts, assets, and other",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/lack-of-transparency-around-ai-generated-content-in-roblox-experiences/4980598.rss",
+      "id": "3d4aef71384f01e7c2abdecb"
     },
     {
       "source": "reddit-robloxdev",
@@ -3793,6 +3836,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/",
+      "published": "2026-11-07",
+      "excerpt": "Hey! I've been building Skate For Eggs! and it just launched this week. You skate down lanes through 13 biomes, steal eggs from sleeping guardians (T-Rex, Megalodon, dragons...) and try to outskate them back to your base. Eggs hatch into pets that earn cash, and you train Speed to reach bigger eggs ",
+      "creator": "/u/Far-Honeydew-2423 https://www.reddit.com/user/Far-Honeydew-2423",
+      "id": "32b0bf00ad015511b605e129"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Made my first roblox map, Air Hockey Shooter, a game about scoring goals with your gun.",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq6r70/made_my_first_roblox_map_air_hockey_shooter_a/",
       "published": "2026-11-07",
@@ -3815,13 +3869,25 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
-      "title": "Looking for SOLUTION for camera offset script",
+      "title": "Looking for SOLUTION for camera offset script!",
       "url": "https://devforum.roblox.com/t/looking-for-solution-for-camera-offset-script/4980595",
       "published": "2026-11-07",
-      "excerpt": "Hey there! I am looking for a solution to fix, that whenever I toggle shiftlock on/off, the camera offset resets back to normal and then only goes back. this is a little annoying in my opinion. can anyone help me out so that stays like “normal” or doesn’t go back when toggling? thanks. Here is my sc",
+      "excerpt": "Hey there! I am looking for a solution to fix, that whenever I toggle shiftlock on/off, the camera offset resets back to normal and then only goes back. this is a little annoying in my opinion. can anyone help me out so that stays like “normal” or doesn’t go back when toggling? thanks. (The game Str",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-solution-for-camera-offset-script/4980595.rss",
       "id": "301c0c9a4198215e1c23c853"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Can't delete other lightings",
+      "url": "https://devforum.roblox.com/t/cant-delete-other-lightings/4980603",
+      "published": "2026-11-07",
+      "excerpt": "Hey, I adjusted the lighting settings during runtime, and to not lose it I copied the lighting from the explorer (Ctrl + C). However, after pasting it into the explorer (Ctrl + V), it became a parent of the Workspace and I can’t move or delete it. Thanks 3 posts - 3 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cant-delete-other-lightings/4980603.rss",
+      "id": "2daf3ec9f8dad7ea2661c7fd"
     },
     {
       "source": "reddit-robloxdev",
@@ -3856,6 +3922,17 @@
       "excerpt": "HI, I just released 100 Nights in Dino World https://www.youtube.com/watch?v=6DITbuH-ZsU I need some feedback on the difficulty of the game. If u like survival genre and dinosaur, do check it out! submitted by /u/exorific [link] [comments]",
       "creator": "/u/exorific https://www.reddit.com/user/exorific",
       "id": "265f2cd6c13b497cb4be01d4"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How can I keep colours and textures from blender to Roblox studio?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqaqol/how_can_i_keep_colours_and_textures_from_blender/",
+      "published": "2026-11-07",
+      "excerpt": "So I went on YouTube, but I saw so many different ways of doing that. Do they all work? Before I had this question, I coloured and textured my model in blender and exported it into Roblox studio, but it didn’t have any of the textures or colours, so I just coloured and textured in Roblox studio, but",
+      "creator": "/u/TerrariaPlayer76 https://www.reddit.com/user/TerrariaPlayer76",
+      "id": "25cfc5d8a11032a40cae0b43"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9819,76 +9896,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-use-security-key-to-authenticate/4972005.rss",
       "id": "faa8d492df5fb1f07483f91c"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I made my first Roblox game: a pet-rolling farm on sky islands. Looking for testers and honest feedback!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm5efi/i_made_my_first_roblox_game_a_petrolling_farm_on/",
-      "published": "2026-11-02",
-      "excerpt": "Hey everyone! I just released my first game, PET FARM ROLL , and I’d love some people to try it and tell me what they think. What it is: Roll for 80+ pets, from Common all the way to Mythic (the sky turns pink before a Mythic hits 👀) Fuse pets into rarer ones and level them up Grow crops, raise anim",
-      "creator": "/u/SpecialBoss6233 https://www.reddit.com/user/SpecialBoss6233",
-      "id": "f8109073e206636d0b214d25"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Sudden \"Type\" Change on my UGC accessories",
-      "url": "https://devforum.roblox.com/t/sudden-type-change-on-my-ugc-accessories/4971635",
-      "published": "2026-11-02",
-      "excerpt": "The “Type” attribute of some of my UGC accessories suddenly changed from a Waist to Back. This causes the Pricefloor to change, making them even more expensive to purchase. I originally uploaded these as Waist accessories, but for some reason some of them suddenly changed their “Type” to Back. Here’",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/sudden-type-change-on-my-ugc-accessories/4971635.rss",
-      "id": "f80e7a4a47dba7259717036b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Snapwise: snap, array, stairs and grip tools for whole selections [$5.99]",
-      "url": "https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118",
-      "published": "2026-11-02",
-      "excerpt": "Everything you need to build faster, in one compact panel : resize, move, rotate and duplicate many parts at once with snapping, align and spread them in one click, build curved arrays, rings and spiral staircases, mirror, paint selections with a brush, manage attributes with presets and edit a Tool",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118.rss",
-      "id": "f6da84a8ef1051573449384b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Explorer & Open Tabs NEVER correctly remember what is open and selected.",
-      "url": "https://devforum.roblox.com/t/explorer-open-tabs-never-correctly-remember-what-is-open-and-selected/4971692",
-      "published": "2026-11-02",
-      "excerpt": "When I save a project, close studio, then open it, there’s a strong chance that it has decided to change which files I have open, what objects are selected, and what objects in the explorer tree are expanded. It does not have any rhyme or reason to the pattern, other than it’s usually some state of ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/explorer-open-tabs-never-correctly-remember-what-is-open-and-selected/4971692.rss",
-      "id": "f644c70b15484d84481f5bbf"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Mobile optimization question",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkwxu/mobile_optimization_question/",
-      "published": "2026-11-02",
-      "excerpt": "So I’m making a game right now with cool game mechanics the problem is I don’t exactly know how I’d implement them for mobile while keeping the game fun and movement system smooth, I know a large majority of the player base is mobile but if I target my game for older users who I’m assuming use PC an",
-      "creator": "/u/BrotatoGalileo https://www.reddit.com/user/BrotatoGalileo",
-      "id": "f54bce023b6f91cfeeaed096"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Paid] [Plugin] DataMap: Total Visualized Datastore & Editor",
-      "url": "https://devforum.roblox.com/t/paid-plugin-datamap-total-visualized-datastore-editor/4971599",
-      "published": "2026-11-02",
-      "excerpt": "DataMap: Visualized Datastores Hey everyone! I’ve been working on a plugin called DataMap and I think it’s finally ready to share. I’ve always liked the DataStore Editor plugin because you can edit data right from Studio, but I kept wishing I could visually see everything. Which stores I have, what’",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/paid-plugin-datamap-total-visualized-datastore-editor/4971599.rss",
-      "id": "f4849eb8155d4137b2b75c8f"
     }
   ]
 }

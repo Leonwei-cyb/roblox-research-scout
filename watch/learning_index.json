@@ -51,6 +51,23 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xqatk6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/",
+      "title": "I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "economy and income",
+        "animation and audio",
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 11,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xq0uy6",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq0uy6/looking_for_feedback_on_my_monstercontainment/",
       "title": "Looking for feedback on my monster-containment game (first 5 minutes / onboarding)",
@@ -363,20 +380,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xm5efi",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm5efi/i_made_my_first_roblox_game_a_petrolling_farm_on/",
-      "title": "I made my first Roblox game: a pet-rolling farm on sky islands. Looking for testers and honest feedback!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
         "player feedback and marketing"
       ],
       "score": 8,
@@ -957,20 +960,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xlkwxu",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkwxu/mobile_optimization_question/",
-      "title": "Mobile optimization question",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xmkyqc",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmkyqc/feedback_run_up_the_ramp/",
       "title": "FEEDBACK: RUN UP THE RAMP",
@@ -1259,16 +1248,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4971599:1",
-      "url": "https://devforum.roblox.com/t/paid-plugin-datamap-total-visualized-datastore-editor/4971599",
-      "title": "[Paid] [Plugin] DataMap: Total Visualized Datastore & Editor",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-02",
-      "kind": "devforum",
+      "key": "reddit:1xqaqol",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqaqol/how_can_i_keep_colours_and_textures_from_blender/",
+      "title": "How can I keep colours and textures from blender to Roblox studio?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
       "signals": [
+        "world and visual design",
         "tools and performance"
       ],
-      "score": 5,
+      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2307,7 +2297,7 @@
     {
       "key": "devforum:4980595:1",
       "url": "https://devforum.roblox.com/t/looking-for-solution-for-camera-offset-script/4980595",
-      "title": "Looking for SOLUTION for camera offset script",
+      "title": "Looking for SOLUTION for camera offset script!",
       "source": "roblox-devforum-latest",
       "published": "2026-11-07",
       "kind": "devforum",
@@ -3786,45 +3776,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4971118:1",
-      "url": "https://devforum.roblox.com/t/snapwise-snap-array-stairs-and-grip-tools-for-whole-selections-599/4971118",
-      "title": "Snapwise: snap, array, stairs and grip tools for whole selections [$5.99]",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-02",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4971635:1",
-      "url": "https://devforum.roblox.com/t/sudden-type-change-on-my-ugc-accessories/4971635",
-      "title": "Sudden \"Type\" Change on my UGC accessories",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-02",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4971692:1",
-      "url": "https://devforum.roblox.com/t/explorer-open-tabs-never-correctly-remember-what-is-open-and-selected/4971692",
-      "title": "Explorer & Open Tabs NEVER correctly remember what is open and selected.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-02",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4972601:1",
       "url": "https://devforum.roblox.com/t/%EA%B2%8C%EC%9E%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%98%B7-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9E%85%EB%8B%88%EB%8B%A4/4972601",
       "title": "게임 피드백 가능할까요? 옷 디자인하는 게임입니다",
@@ -4587,6 +4538,32 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4980598:1",
+      "url": "https://devforum.roblox.com/t/lack-of-transparency-around-ai-generated-content-in-roblox-experiences/4980598",
+      "title": "Lack of Transparency Around AI-Generated Content in Roblox Experiences",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4980603:1",
+      "url": "https://devforum.roblox.com/t/cant-delete-other-lightings/4980603",
+      "title": "Can't delete other lightings",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6526,6 +6503,28 @@
       "key": "devforum:4980555:1",
       "url": "https://devforum.roblox.com/t/custom-material-flagged-by-roblox-moderation/4980555",
       "title": "Custom material flagged by roblox moderation",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4980640:1",
+      "url": "https://devforum.roblox.com/t/simulate-particleemitters-on-startenabled/4980640",
+      "title": "Simulate ParticleEmitters on start/enabled",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4980680:1",
+      "url": "https://devforum.roblox.com/t/richtext-enchanted/4980680",
+      "title": "RichText [Enchanted]",
       "source": "roblox-devforum-latest",
       "published": "2026-11-07",
       "kind": "devforum",

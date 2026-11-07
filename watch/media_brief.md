@@ -5,33 +5,28 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Animations And Vfx
+
+- **[Pantyhose UI (imgui) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zYmF3cUFsdjR4ZW5CZ0prWWJENXNrWERaZmR2Mk44Q1l0X2J2bnVGQlFudFN3Z2kwTnRxQVQ1dHhDa0Q2dFdjVFlZcTExcVVlOHd2akl3?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-10-31
+  - Feed excerpt: Pantyhose UI (imgui) YouTube
+
 ## Community
 
-- **[Help wanted & Gameplay of a game i am co-owner :)](https://www.reddit.com/r/robloxgamedev/comments/1xq8yey/help_wanted_gameplay_of_a_game_i_am_coowner/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hello! We present you to Avaricium! An upcoming ASYM on Roblox that needs your help! The game is already in development, but we need more people so it can release faster. We are looking for: Scripters, Artists, 3D Modelers (mostly for chara
-- **[Looking for builders for my roblox delver game DM EMNYSOVIAL ON DISCORD](https://www.reddit.com/r/robloxgamedev/comments/1xq8lbn/looking_for_builders_for_my_roblox_delver_game_dm/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hello im a co owner for a dandy world type game We are looking for builders if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game subm
-- **[Looking for composers DM EMNYSOVIAL ON DISCORD](https://www.reddit.com/r/robloxgamedev/comments/1xq8odc/looking_for_composers_dm_emnysovial_on_discord/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hello im a co owner for a dandy world type game We are looking for a composer if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game su
-- **[My new game to compete with sweep the moon\[AI Used\]](https://www.reddit.com/r/robloxgamedev/comments/1xq8awy/my_new_game_to_compete_with_sweep_the_moonai_used/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: I started building this game 3 weeks ago. My initial goal was to recreate a high-quality version of *Moon Sweepers*. Over the following week, I optimized the game and added features not even present in the original, taking the end-game expe
-- **[What is something a beginner dev needs to know?](https://www.reddit.com/r/robloxgamedev/comments/1xq8nf1/what_is_something_a_beginner_dev_needs_to_know/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Now I have never touched a proper line of code in my life(trust me, I suck.)so I was wondering what advice I would need besides "learn the damn thing"? submitted by /u/Storytellerandwander \[link\] \[comments\]
-- **[Wie kriegt ein Spiel Aufrufe?](https://www.reddit.com/r/robloxgamedev/comments/1xq8sbs/wie_kriegt_ein_spiel_aufrufe/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Roblox ads? TikTok? Oder doch eine andere Idee? Und was ist besser roblox ads oder von TikTok Aufrufe kaufen Oder wie kann man das Spiel am besten vermarkten submitted by /u/lureacore \[link\] \[comments\]
+- **[How can I keep colours and textures from blender to Roblox studio?](https://www.reddit.com/r/robloxgamedev/comments/1xqaqol/how_can_i_keep_colours_and_textures_from_blender/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: So I went on YouTube, but I saw so many different ways of doing that. Do they all work? Before I had this question, I coloured and textured my model in blender and exported it into Roblox studio, but it didn’t have any of the textures or co
+- **[I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hey! I've been building Skate For Eggs! and it just launched this week. You skate down lanes through 13 biomes, steal eggs from sleeping guardians (T-Rex, Megalodon, dragons...) and try to outskate them back to your base. Eggs hatch into pe
 
 ## Roblox Updates
 
-- **[Problem with Changing the Editor Quality Level](https://devforum.roblox.com/t/problem-with-changing-the-editor-quality-level/4980585)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: Whenever I turn off the Device Simulator, my Editor Quality Level changes from Level 21 to Automatic. However, when I try to change it back to Level 21, the Device Simulator turns on again. This keeps happening in an endless loop. The issue
-- **[Allow experiences to check if a player is eligible for Restricted (18+) content via PolicyService](https://devforum.roblox.com/t/allow-experiences-to-check-if-a-player-is-eligible-for-restricted-18-content-via-policyservice/4980587)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: As a Roblox developer, it is currently very difficult to offer optional mature settings, like blood and dismemberment, only to players who are officialy ID-verified and 18 or older, without rating my whole experience as Restricted. My game 
-- **[Custom material flagged by roblox moderation](https://devforum.roblox.com/t/custom-material-flagged-by-roblox-moderation/4980555)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: Greetings, I’ve been using MaterialService to import custom materials. I had imported multiple materials already. They were all looking good, when all of a sudden one of the materials broke: the texture of the roughness property was flagged
-- **[Looking for SOLUTION for camera offset script](https://devforum.roblox.com/t/looking-for-solution-for-camera-offset-script/4980595)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: Hey there! I am looking for a solution to fix, that whenever I toggle shiftlock on/off, the camera offset resets back to normal and then only goes back. this is a little annoying in my opinion. can anyone help me out so that stays like “nor
-- **[Where Should Item-Specific Data (e.g. Durability) Be Stored in a Custom Inventory System?](https://devforum.roblox.com/t/where-should-item-specific-data-eg-durability-be-stored-in-a-custom-inventory-system/4980569)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: Basically, I currently have one item that has durability, which decreases with each use until it eventually reaches 0 HP. Once that happens, the item disappears for a while before reappearing. For now, I don’t really plan on adding more ite
+- **[Can't delete other lightings](https://devforum.roblox.com/t/cant-delete-other-lightings/4980603)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Hey, I adjusted the lighting settings during runtime, and to not lose it I copied the lighting from the explorer (Ctrl + C). However, after pasting it into the explorer (Ctrl + V), it became a parent of the Workspace and I can’t move or del
+- **[Lack of Transparency Around AI-Generated Content in Roblox Experiences](https://devforum.roblox.com/t/lack-of-transparency-around-ai-generated-content-in-roblox-experiences/4980598)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: As a Roblox developer, it is currently too hard to distinguish experiences created through traditional, hands-on development from those that rely heavily on AI-generated content or automated creation tools. There is currently very little vi
+- **[RichText \[Enchanted\]](https://devforum.roblox.com/t/richtext-enchanted/4980680)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: This is my first forum so i hope you enjoy with it. Richtext Enchanted Place I’m kinda nervous. 1 post - 1 participant Read full topic
+- **[Simulate ParticleEmitters on start/enabled](https://devforum.roblox.com/t/simulate-particleemitters-on-startenabled/4980640)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Currently when a ParticleEmitter starts up each particle starts at the beginning of its life cycle. It would be very useful if you could instead have a property that simulates the particle emission as if its already been on. This would be e
 
 ---
 
