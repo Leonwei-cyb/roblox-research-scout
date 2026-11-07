@@ -1028,6 +1028,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4979618:1",
+      "url": "https://devforum.roblox.com/t/decocam-camera-accessories-lighting/4979618",
+      "title": "DecoCam | Camera Accessories & Lighting",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xlkwxu",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkwxu/mobile_optimization_question/",
       "title": "Mobile optimization question",
@@ -1037,20 +1051,6 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xlnwc0",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlnwc0/is_there_anyway_i_could_make_an_animated/",
-      "title": "Is there anyway I could make an animated viewmodels without Plugins?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2359,19 +2359,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xlkf99",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlkf99/need_some_clarification_regarding_engagement_ads/",
-      "title": "Need some clarification regarding engagement ads",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xllf2w",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xllf2w/i_added_mounts_to_my_roblox_rpg/",
       "title": "I added Mounts to my Roblox RPG!",
@@ -3183,6 +3170,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xpv800",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpv800/how_do_people_create_good_sound_effects/",
+      "title": "How do people create good sound effects?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4971710:1",
       "url": "https://devforum.roblox.com/t/looking-for-game-testers/4971710",
       "title": "Looking for Game Testers",
@@ -3365,20 +3365,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xlvbao",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xlvbao/hello_gamers/",
-      "title": "Hello, gamers!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "genres and successful loops"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xm7rn3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm7rn3/how_do_i_make_my_game_better/",
       "title": "How do I make my game better?",
@@ -3402,20 +3388,6 @@
       "signals": [
         "animation and audio",
         "world and visual design"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xmcxn8",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmcxn8/made_a_game_today_aimed_at_kids/",
-      "title": "Made a Game today Aimed at Kids.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops",
-        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -5429,6 +5401,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xpvknh",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpvknh/any_thoughts_on_my_game_idea/",
+      "title": "Any thoughts on my game idea",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xpw0bi",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpw0bi/can_people_check_my_game_out/",
+      "title": "Can people check my game out?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4971760:1",
       "url": "https://devforum.roblox.com/t/the-great-war-commander/4971760",
       "title": "The Great War: Commander",
@@ -6584,6 +6582,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4979627:1",
+      "url": "https://devforum.roblox.com/t/experience-content-not-accessible-for-all-region-bug/4979627",
+      "title": "Experience Content not accessible for all region bug",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-07",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xljhwf",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xljhwf/this_is_my_new_game_vantex_if_youd_like_to_test/",
       "title": "This is my new game, Vantex. If you’d like to test it out. Thank you all!",
@@ -6654,17 +6663,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xm4ms9/too_young_too_soon/",
       "title": "Too young, Too soon.",
       "source": "reddit-robloxstudio",
-      "published": "2026-11-02",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xm9hda",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9hda/testing_a_new_style/",
-      "title": "Testing a new style",
-      "source": "reddit-robloxdev",
       "published": "2026-11-02",
       "kind": "reddit",
       "signals": [],
@@ -7464,6 +7462,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xpv12i",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpv12i/what_do_you_guys_think_of_my_thumbnails/",
+      "title": "What do you guys think of my thumbnails?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-07",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB?oc=5",
       "title": "TODAY only for Best Players in Steal an egg with admins #roblox #robloxfyp #stealanegg - Instagram",
@@ -7574,19 +7583,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMibEFVX3lxTFBVWUlzeGZidFBYS1g4RE0wUko2LTg3Wmc2WWtURUdGX1JqQkg1ZTNDdGFubmZBbkxvb1FDbHR3YUJGQ2JPRngzaVluZlNWUmZhWTJGTEo3dlRHeFlYbW1TSDd1QjFvNldYU0lHbA",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWUlzeGZidFBYS1g4RE0wUko2LTg3Wmc2WWtURUdGX1JqQkg1ZTNDdGFubmZBbkxvb1FDbHR3YUJGQ2JPRngzaVluZlNWUmZhWTJGTEo3dlRHeFlYbW1TSDd1QjFvNldYU0lHbA?oc=5",
-      "title": "What pets should I add into the new Alien Biome 👽 #Roblox #StealanEgg - TikTok",
-      "source": "brock-tiktok",
-      "published": "2026-11-02",
-      "kind": "index-only",
-      "signals": [
-        "animation and audio"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
