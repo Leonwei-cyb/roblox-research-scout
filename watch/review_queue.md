@@ -23,5 +23,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Studio leaks ~20 MB of RAM on every Play/Stop and never frees it (~2 GB per 100 playtests), even on an empty baseplate](https://devforum.roblox.com/t/studio-leaks-20-mb-of-ram-on-every-playstop-and-never-frees-it-2-gb-per-100-playtests-even-on-an-empty-baseplate/4980901)** — Public text/page, video not confirmed
-- **[Need help with playtesting my dinosaur survival game](https://www.reddit.com/r/robloxgamedev/comments/1xpx3bd/need_help_with_playtesting_my_dinosaur_survival/)** — Public text/page, video not confirmed
+- **[Looking for feedback on my AI character import plugin](https://www.reddit.com/r/robloxgamedev/comments/1xqk5tj/looking_for_feedback_on_my_ai_character_import/)** — Public text/page, video not confirmed
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Public text/page, video not confirmed
