@@ -2931,9 +2931,29 @@
     "8091e52ed8b5962e431f5e75",
     "f6084e679047e08033403c54",
     "df3b338bd38c8bc397fa868c",
-    "63d7858f368022a8fd050e25"
+    "63d7858f368022a8fd050e25",
+    "41216df1369b277a178140d2",
+    "3dfa11339b11c7ee5884ed59",
+    "d0a9d7551c2d329822d160a3",
+    "fb00022b104b4d3bc794ade1",
+    "2b16d00987a17515ac83233a",
+    "9bf745f90264da61cb78f1ac",
+    "3ccd935dfd579fdc40c8924f",
+    "b571525ad91cc2fc01f2aaca"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Free Game Templates",
+      "url": "https://devforum.roblox.com/t/free-game-templates/4980099",
+      "published": "2026-11-07",
+      "excerpt": "Free game templates that are ready to be published, Change Gamepass and Dev Product Ids. FlappyEmoji.rbxl (182.5 KB) Flappy Emoji can be tested without enabling api services etc. Just open the file and play test. Flappy Emoji Place this in server script service and run the game with api enabled. Ins",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/free-game-templates/4980099.rss",
+      "id": "fb00022b104b4d3bc794ade1"
+    },
     {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
@@ -3061,6 +3081,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "ZCheat — A simple but powerful anti-exploit",
+      "url": "https://devforum.roblox.com/t/zcheat-%E2%80%94-a-simple-but-powerful-anti-exploit/4980118",
+      "published": "2026-11-07",
+      "excerpt": "This should be a localscript in ReplicatedFirst. set the name to nothing, litterally just “”, not even a space. --make script hide script.Parent = nil getfenv().script = nil if game.RunService:IsStudio() then return end --dodgy services services = { \"UGCValidationService\\000\", \"WebSocketService\\000\"",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/zcheat-%E2%80%94-a-simple-but-powerful-anti-exploit/4980118.rss",
+      "id": "d0a9d7551c2d329822d160a3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Getting a copyright Warning for something I made 4 years ago",
       "url": "https://devforum.roblox.com/t/getting-a-copyright-warning-for-something-i-made-4-years-ago/4979693",
       "published": "2026-11-07",
@@ -3113,6 +3145,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/expedited-review-stuck-for-over-7-days-universe-id-10773746729/4979893.rss",
       "id": "b9badbef01df16782470c240"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I just launched my first Roblox game, a 3v3 MOBA called Shardfall. Looking for honest feedback!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1z00/i_just_launched_my_first_roblox_game_a_3v3_moba/",
+      "published": "2026-11-07",
+      "excerpt": "After a lot of work, Shardfall is live! It's a 3v3 MOBA with: - 5 classes (Cinderwright, Arcanist, Priest, Ranger, Assassin), each with a skill tree - lanes, minions, jungle camps and the Ogre King boss in the middle of the map - bots that fill empty spots, so a match always starts - a ranked 2v2 ar",
+      "creator": "/u/xkessar https://www.reddit.com/user/xkessar",
+      "id": "b571525ad91cc2fc01f2aaca"
     },
     {
       "source": "reddit-robloxdev",
@@ -3182,6 +3225,18 @@
       "excerpt": "Hello im a co owner for a dandy world type game We are looking for ui show the discord username your examples dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game submitted by /u/Salt_Border_3825 [link] [comments]",
       "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
       "id": "9d4a063d936db77870eaef19"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Catalog asset prices and types are inconsistent depending on account",
+      "url": "https://devforum.roblox.com/t/catalog-asset-prices-and-types-are-inconsistent-depending-on-account/4980032",
+      "published": "2026-11-07",
+      "excerpt": "The item type and regional price for some accessories are different when I’m logged into my account My account: Logged out: First item seen from a friend’s: 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/catalog-asset-prices-and-types-are-inconsistent-depending-on-account/4980032.rss",
+      "id": "9bf745f90264da61cb78f1ac"
     },
     {
       "source": "reddit-robloxdev",
@@ -3368,6 +3423,41 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Roblox Player Crashes and repeatedly times out on Windows 11 PC despite reinstalls",
+      "url": "https://devforum.roblox.com/t/roblox-player-crashes-and-repeatedly-times-out-on-windows-11-pc-despite-reinstalls/4980130",
+      "published": "2026-11-07",
+      "excerpt": "Issue Roblox Player repeatedly crashes during gameplay on my Windows 11 desktop PC. After I have been playing for a while, it can suddenly crash and repeatedly display this exact error: Roblox has timed out. Try restarting. I have also seen multiple Roblox clients/processes at once (around three dur",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-player-crashes-and-repeatedly-times-out-on-windows-11-pc-despite-reinstalls/4980130.rss",
+      "id": "41216df1369b277a178140d2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Uncopylocked gear-fighting catalog game",
+      "url": "https://devforum.roblox.com/t/uncopylocked-gear-fighting-catalog-game/4980125",
+      "published": "2026-11-07",
+      "excerpt": "Gearbox.rbxl (672.3 KB) Enjoy it! 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/uncopylocked-gear-fighting-catalog-game/4980125.rss",
+      "id": "3dfa11339b11c7ee5884ed59"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "This guy is a homofobe and is a dev of a pretty big game.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1eyc/this_guy_is_a_homofobe_and_is_a_dev_of_a_pretty/",
+      "published": "2026-11-07",
+      "excerpt": "submitted by /u/Coolgui507 [link] [comments]",
+      "creator": "/u/Coolgui507 https://www.reddit.com/user/Coolgui507",
+      "id": "3ccd935dfd579fdc40c8924f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Studio occasionally launches without ability to insert from file",
       "url": "https://devforum.roblox.com/t/studio-occasionally-launches-without-ability-to-insert-from-file/4979471",
       "published": "2026-11-07",
@@ -3408,6 +3498,18 @@
       "excerpt": "The real trash is not getting anything 😭 🙏 submitted by /u/Forsaken_Swan_6968 [link] [comments]",
       "creator": "/u/Forsaken_Swan_6968 https://www.reddit.com/user/Forsaken_Swan_6968",
       "id": "2b610dc306f8cb8eeae5b3ca"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Getting enough players for a multiplayer game",
+      "url": "https://devforum.roblox.com/t/getting-enough-players-for-a-multiplayer-game/4980072",
+      "published": "2026-11-07",
+      "excerpt": "https://www.roblox.com/games/130308329838179/SIMFUT (The game is group access) I am currently developing a 4v4 multi-player football game. It’s core gameplay is almost done & I am advertising it in social media. However, the effect of advertisement isn’t enough to accumulate players for 4v4 matches,",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/getting-enough-players-for-a-multiplayer-game/4980072.rss",
+      "id": "2b16d00987a17515ac83233a"
     },
     {
       "source": "reddit-robloxdev",
@@ -9759,97 +9861,6 @@
       "excerpt": "Check out this game I just made and give it a play! Looking for good and bad feedback. thanks! It's called Junk Empire! submitted by /u/Disastrous_Ease_9981 [link] [comments]",
       "creator": "/u/Disastrous_Ease_9981 https://www.reddit.com/user/Disastrous_Ease_9981",
       "id": "aab71f0c9fc69990a193e39f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I added Mounts to my Roblox RPG!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xllf2w/i_added_mounts_to_my_roblox_rpg/",
-      "published": "2026-11-02",
-      "excerpt": "Growing up, I loved playing multiplayer RPGs where you could earn cool flex drops like a Mount or a rare Pet/Aura. It's really actualizing to come full circle and add such a mechanic to a game of my own. submitted by /u/existential-asthma [link] [comments]",
-      "creator": "/u/existential-asthma https://www.reddit.com/user/existential-asthma",
-      "id": "a9fb88dbf5ac924fd754540a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio fail to open place",
-      "url": "https://devforum.roblox.com/t/studio-fail-to-open-place/4971415",
-      "published": "2026-11-02",
-      "excerpt": "2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-fail-to-open-place/4971415.rss",
-      "id": "a82e66d1ef0184c414d8fd6f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Where do I even start?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xlqrt3/where_do_i_even_start/",
-      "published": "2026-11-02",
-      "excerpt": "Been working on an Attack on Titan game for a little over a month now. I've finally finished the demo map and released to the public and over the last roughly 10 days, started up a discord server. But still despite making the game in what I consider to be pretty high quality, it's just SO difficult ",
-      "creator": "/u/PracticalAccident650 https://www.reddit.com/user/PracticalAccident650",
-      "id": "a795d27bc55b4f15f7caf1e2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox DMCA not Working",
-      "url": "https://devforum.roblox.com/t/roblox-dmca-not-working/4972433",
-      "published": "2026-11-02",
-      "excerpt": "There’s a clear issue with Roblox’s DMCA because I’m about to provide concreate evidence my work has been stolen and evne though I’ve put through tickets, only 2 of 8 of my items have been dealt with. I had my items stolen, the mesh adjusted just barely and the textures edited (the emissive was swap",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-dmca-not-working/4972433.rss",
-      "id": "a6f912a2952892da0bc9fc20"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for testers (paid)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmbfhx/looking_for_testers_paid/",
-      "published": "2026-11-02",
-      "excerpt": "Hey there, looking for testers to play a fast paced PvP duelling arena game, planning to do game test sessions You will get paid 100 Robux for the test session If your interested pop up with a message, if you’d like to see how the game looks as well first that works as well. submitted by /u/RandomHu",
-      "creator": "/u/RandomHustler33 https://www.reddit.com/user/RandomHustler33",
-      "id": "a596955d4936cb5ee04035d9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Request for Assistance - Multiple Alt Account Bans and Closed Appeal Windows (@1sytex)",
-      "url": "https://devforum.roblox.com/t/request-for-assistance-multiple-alt-account-bans-and-closed-appeal-windows-1sytex/4971702",
-      "published": "2026-11-02",
-      "excerpt": "Hello Roblox staff and community, I’m looking for assistance regarding multiple Alt Account bans on my account, @1sytex . My account received three separate Alt Account moderation actions. Unfortunately, I was out of town and couldn’t access my account or review the moderation notices in time. By th",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/request-for-assistance-multiple-alt-account-bans-and-closed-appeal-windows-1sytex/4971702.rss",
-      "id": "a5409b99cc8764e84ec8f9d8"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My kid says my game doesn't have enough goyslop?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmd8zf/my_kid_says_my_game_doesnt_have_enough_goyslop/",
-      "published": "2026-11-02",
-      "excerpt": "I created my first game but I can't tell if it sucks or not. My kids won't even look at it for more than 10 seconds let alone play test it... and goyslop is the only feedback I get... sigh. The game is loosely based off the anime Now and Then, Here and There crossed with Robocraft and Lovers in a Da",
-      "creator": "/u/beighto https://www.reddit.com/user/beighto",
-      "id": "a3bf44ebffe6ec7b538a5f10"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My life sim just hit 1,400 CCU!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xm9wus/my_life_sim_just_hit_1400_ccu/",
-      "published": "2026-11-02",
-      "excerpt": "I still can't believe I hit this peak, it feels like a dream. And to think that just 7 days ago I was about to give up on my game! When I turned off my ads, traffic dropped to almost zero and I thought that was the end. I didn't check anything about the game for days, just fixed a few bugs here and ",
-      "creator": "/u/visionaryillusion https://www.reddit.com/user/visionaryillusion",
-      "id": "a3722fb6d4fa4d125fcd622f"
     }
   ]
 }

@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) (812 stars). Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.
+- **Source updated:** [Roblox/creator-docs](https://github.com/Roblox/creator-docs) — update Open Source Docs from Roblox internal teams.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

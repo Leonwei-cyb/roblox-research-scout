@@ -7,21 +7,25 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[I'm 17 and trying to take Roblox scripting seriously. How do I go from learning tutorials to becoming a reliable developer?](https://www.reddit.com/r/robloxgamedev/comments/1xq1c89/im_17_and_trying_to_take_roblox_scripting/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hey everyone! I'm 17 years old, and I've been interested in Roblox scripting since I was around 12. However, I never really committed to learning development seriously until this year. I've spent quite a bit of time learning through YouTube
-- **[My motorcycle game Highway Riders is in beta – would love feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xq1kke/my_motorcycle_game_highway_riders_is_in_beta/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: I've been building Highway Riders, a Roblox game where you ride bikes down a huge freeway with street races, police chases, crews and weather zones (snow + rain). It's in beta and I'm looking for feedback on the riding feel, races and what 
-- **[Roblox Publishing Game](https://www.reddit.com/r/robloxgamedev/comments/1xq1i7f/roblox_publishing_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hey yall before i publish my game i just created, what are the absolute most important things to know before it’s ready to be played or marketed to the public. i’m ranging from small stupid things like enabling API access to things like how
-- **[Roblox Publishing Game](https://www.reddit.com/r/robloxgamedev/comments/1xq1i5p/roblox_publishing_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hey yall before i publish my game i just created, what are the absolute most important things to know before it’s ready to be played or marketed to the public. i’m ranging from small stupid things like enabling API access to things like how
+- **[I just launched my first Roblox game, a 3v3 MOBA called Shardfall. Looking for honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xq1z00/i_just_launched_my_first_roblox_game_a_3v3_moba/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: After a lot of work, Shardfall is live! It's a 3v3 MOBA with: - 5 classes (Cinderwright, Arcanist, Priest, Ranger, Assassin), each with a skill tree - lanes, minions, jungle camps and the Ogre King boss in the middle of the map - bots that 
+- **[This guy is a homofobe and is a dev of a pretty big game.](https://www.reddit.com/r/robloxgamedev/comments/1xq1eyc/this_guy_is_a_homofobe_and_is_a_dev_of_a_pretty/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: submitted by /u/Coolgui507 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[\[v0.8.0\] Rojo Manager \| Run all your Rojo servers from one tray app, with MCP for AI agents](https://devforum.roblox.com/t/v080-rojo-manager-run-all-your-rojo-servers-from-one-tray-app-with-mcp-for-ai-agents/4980026)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: Rojo Manager One Windows tray app for the Rojo servers of all your projects. Download \| GitHub \| Report a bug What is it? If you work on more than one Roblox project with Rojo, you know the routine: a terminal per project, rojo serve , reme
-- **[Character Physics Controllers for custom characters .rbxl](https://devforum.roblox.com/t/character-physics-controllers-for-custom-characters-rbxl/4980027)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: For those of you who have tried adding a ControllerManager to a custom character (named as ‘StarterCharacter’) but found that it isn’t working as expected! What you expected: You must be here from ControllerManagerDocs PhysicsControllersRel
+- **[Catalog asset prices and types are inconsistent depending on account](https://devforum.roblox.com/t/catalog-asset-prices-and-types-are-inconsistent-depending-on-account/4980032)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: The item type and regional price for some accessories are different when I’m logged into my account My account: Logged out: First item seen from a friend’s: 1 post - 1 participant Read full topic
+- **[Free Game Templates](https://devforum.roblox.com/t/free-game-templates/4980099)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Free game templates that are ready to be published, Change Gamepass and Dev Product Ids. FlappyEmoji.rbxl (182.5 KB) Flappy Emoji can be tested without enabling api services etc. Just open the file and play test. Flappy Emoji Place this in 
+- **[Getting enough players for a multiplayer game](https://devforum.roblox.com/t/getting-enough-players-for-a-multiplayer-game/4980072)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: https://www.roblox.com/games/130308329838179/SIMFUT (The game is group access) I am currently developing a 4v4 multi-player football game. It’s core gameplay is almost done & I am advertising it in social media. However, the effect of adver
+- **[Roblox Player Crashes and repeatedly times out on Windows 11 PC despite reinstalls](https://devforum.roblox.com/t/roblox-player-crashes-and-repeatedly-times-out-on-windows-11-pc-despite-reinstalls/4980130)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Issue Roblox Player repeatedly crashes during gameplay on my Windows 11 desktop PC. After I have been playing for a while, it can suddenly crash and repeatedly display this exact error: Roblox has timed out. Try restarting. I have also seen
+- **[Uncopylocked gear-fighting catalog game](https://devforum.roblox.com/t/uncopylocked-gear-fighting-catalog-game/4980125)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Gearbox.rbxl (672.3 KB) Enjoy it! 1 post - 1 participant Read full topic
+- **[ZCheat — A simple but powerful anti-exploit](https://devforum.roblox.com/t/zcheat-%E2%80%94-a-simple-but-powerful-anti-exploit/4980118)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: This should be a localscript in ReplicatedFirst. set the name to nothing, litterally just “”, not even a space. --make script hide script.Parent = nil getfenv().script = nil if game.RunService:IsStudio() then return end --dodgy services ser
 
 ---
 
