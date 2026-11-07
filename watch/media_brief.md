@@ -7,27 +7,31 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Why is requirement still 250?](https://www.reddit.com/r/robloxgamedev/comments/1xq6ot7/why_is_requirement_still_250/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Wasn't there update and it should be 100? I saw on social medias people have 100 already submitted by /u/Dismal-Evening1527 \[link\] \[comments\]
-- **[Looking for devs](https://www.reddit.com/r/robloxgamedev/comments/1xq5xkf/looking_for_devs/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Searching for devs that could build a movie-accurate backrooms map submitted by /u/Express-Fill-5497 \[link\] \[comments\]
-- **[Looking for feedback on my first game: Catch a Star (space exploration / collecting)](https://www.reddit.com/r/robloxgamedev/comments/1xq73k9/looking_for_feedback_on_my_first_game_catch_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hey everyone! I've been working on my first Roblox game, Catch a Star. You pilot a rocket, go on expeditions to explore planets, catch stars and discover the cosmic creatures hiding inside them. This is unpaid, just looking for honest feedb
-- **[Made my first roblox map, Air Hockey Shooter, a game about scoring goals with your gun.](https://www.reddit.com/r/robloxgamedev/comments/1xq6r70/made_my_first_roblox_map_air_hockey_shooter_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Mainly AI-generated with my own direction, took a long time to develop. submitted by /u/S4d_Machin3 \[link\] \[comments\]
-- **[My Favourite Farm](https://www.reddit.com/r/robloxgamedev/comments/1xq6wqn/my_favourite_farm/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: submitted by /u/Calm-Try1206 \[link\] \[comments\]
-- **[My recreation of Kalbaryo in Binangonan Rizal (SOLO DEV)](https://www.reddit.com/r/robloxgamedev/comments/1xq5wyq/my_recreation_of_kalbaryo_in_binangonan_rizal/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: I spent 2 years making the buildings and just now finished the mountains What do you think? Had 30fps on unisoct7225 low graphics submitted by /u/IamChe3se \[link\] \[comments\]
+- **[Help wanted & Gameplay of a game i am co-owner :)](https://www.reddit.com/r/robloxgamedev/comments/1xq8yey/help_wanted_gameplay_of_a_game_i_am_coowner/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hello! We present you to Avaricium! An upcoming ASYM on Roblox that needs your help! The game is already in development, but we need more people so it can release faster. We are looking for: Scripters, Artists, 3D Modelers (mostly for chara
+- **[Looking for builders for my roblox delver game DM EMNYSOVIAL ON DISCORD](https://www.reddit.com/r/robloxgamedev/comments/1xq8lbn/looking_for_builders_for_my_roblox_delver_game_dm/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hello im a co owner for a dandy world type game We are looking for builders if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game subm
+- **[Looking for composers DM EMNYSOVIAL ON DISCORD](https://www.reddit.com/r/robloxgamedev/comments/1xq8odc/looking_for_composers_dm_emnysovial_on_discord/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Hello im a co owner for a dandy world type game We are looking for a composer if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game su
+- **[My new game to compete with sweep the moon\[AI Used\]](https://www.reddit.com/r/robloxgamedev/comments/1xq8awy/my_new_game_to_compete_with_sweep_the_moonai_used/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: I started building this game 3 weeks ago. My initial goal was to recreate a high-quality version of *Moon Sweepers*. Over the following week, I optimized the game and added features not even present in the original, taking the end-game expe
+- **[What is something a beginner dev needs to know?](https://www.reddit.com/r/robloxgamedev/comments/1xq8nf1/what_is_something_a_beginner_dev_needs_to_know/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Now I have never touched a proper line of code in my life(trust me, I suck.)so I was wondering what advice I would need besides "learn the damn thing"? submitted by /u/Storytellerandwander \[link\] \[comments\]
+- **[Wie kriegt ein Spiel Aufrufe?](https://www.reddit.com/r/robloxgamedev/comments/1xq8sbs/wie_kriegt_ein_spiel_aufrufe/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
+  - Feed excerpt: Roblox ads? TikTok? Oder doch eine andere Idee? Und was ist besser roblox ads oder von TikTok Aufrufe kaufen Oder wie kann man das Spiel am besten vermarkten submitted by /u/lureacore \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[My Movie Studio - Looking for Gameplay Feedback](https://devforum.roblox.com/t/my-movie-studio-looking-for-gameplay-feedback/4980386)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: I’ve recently been working on a game called My Movie Studio , a small almost-tycoon game where the player creates movies and collects actors. I’m currently looking into building up core gameplay and progression that can keep players engaged
-- **[Constant: ContentId: rbxassetid://xxxxx failed due to: Asset content representation is being generated](https://devforum.roblox.com/t/constant-contentid-rbxassetidxxxxx-failed-due-to-asset-content-representation-is-being-generated/4980399)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: Hey. I have a small question. I have the constant problem that many of my assets I upload create this warning in studio: ContentId: rbxassetid://xxxx failed due to: Asset content representation is being generated I know its content moderati
-- **[Scale Multiplier vs. Min/Max Values for Different Item Skins](https://devforum.roblox.com/t/scale-multiplier-vs-minmax-values-for-different-item-skins/4980491)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: Let’s say I have multiple skins of the same item, and each skin provides the same type of reward but in different quantities. Would it be better to assign a scale multiplier to each skin based on the base reward, or define separate min/max 
+- **[Problem with Changing the Editor Quality Level](https://devforum.roblox.com/t/problem-with-changing-the-editor-quality-level/4980585)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Whenever I turn off the Device Simulator, my Editor Quality Level changes from Level 21 to Automatic. However, when I try to change it back to Level 21, the Device Simulator turns on again. This keeps happening in an endless loop. The issue
+- **[Allow experiences to check if a player is eligible for Restricted (18+) content via PolicyService](https://devforum.roblox.com/t/allow-experiences-to-check-if-a-player-is-eligible-for-restricted-18-content-via-policyservice/4980587)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: As a Roblox developer, it is currently very difficult to offer optional mature settings, like blood and dismemberment, only to players who are officialy ID-verified and 18 or older, without rating my whole experience as Restricted. My game 
+- **[Custom material flagged by roblox moderation](https://devforum.roblox.com/t/custom-material-flagged-by-roblox-moderation/4980555)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Greetings, I’ve been using MaterialService to import custom materials. I had imported multiple materials already. They were all looking good, when all of a sudden one of the materials broke: the texture of the roughness property was flagged
+- **[Looking for SOLUTION for camera offset script](https://devforum.roblox.com/t/looking-for-solution-for-camera-offset-script/4980595)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Hey there! I am looking for a solution to fix, that whenever I toggle shiftlock on/off, the camera offset resets back to normal and then only goes back. this is a little annoying in my opinion. can anyone help me out so that stays like “nor
+- **[Where Should Item-Specific Data (e.g. Durability) Be Stored in a Custom Inventory System?](https://devforum.roblox.com/t/where-should-item-specific-data-eg-durability-be-stored-in-a-custom-inventory-system/4980569)** · Roblox Developer Forum latest · 2026-11-07
+  - Feed excerpt: Basically, I currently have one item that has durability, which decreases with each use until it eventually reaches 0 HP. Once that happens, the item disappears for a while before reappearing. For now, I don’t really plan on adding more ite
 
 ---
 
