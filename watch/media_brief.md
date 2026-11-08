@@ -7,15 +7,27 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[How to get started?](https://www.reddit.com/r/robloxgamedev/comments/1xquyzw/how_to_get_started/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: I want to try making some games on roblox but when I tried the Learn tab on the offical Roblox Studio website, there's so many information linked to each other so I'm kinda overwhelmed. Do I have to just deal with that or there's a better w
+- **[How do you balance progression when your zone multipliers keep making the late game too easy?](https://www.reddit.com/r/robloxgamedev/comments/1xqwd7f/how_do_you_balance_progression_when_your_zone/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: We are building a voxel Roblox game about sweeping Martian dust, and our zone value multipliers made the late game feel far too easy during playtests. We cut the multipliers and halved some upgrade gains, but I am unsure how long a good pro
+- **[\[Unpaid\] Looking for playtesters for our first game – an anti-gravity racer made by a dad and his kids](https://www.reddit.com/r/robloxgamedev/comments/1xqvtl4/unpaid_looking_for_playtesters_for_our_first_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: Hi r/robloxgamedev ! My two kids love Roblox, so we decided to build our own game together: NEON VELOCITY, an anti-gravity hovercraft racer. What's in it: - 15 tracks from easy to very hard (loops, magnetic wall rides, rooftop jumps, and a 
+- **[Can I use toolbox assets, like models?](https://www.reddit.com/r/robloxgamedev/comments/1xqv4jy/can_i_use_toolbox_assets_like_models/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: I just got into game developing and I want to test some things using user/Roblox created assets. Am I allowed to use them or can I get sued or something like that? submitted by /u/salataaa1 \[link\] \[comments\]
+- **[New Shop in my game](https://www.reddit.com/r/robloxgamedev/comments/1xqvpn8/new_shop_in_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: submitted by /u/Calm-Try1206 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[MCP Permissions Save fails in local .rbxl with 'no universe context; skipping'](https://devforum.roblox.com/t/mcp-permissions-save-fails-in-local-rbxl-with-no-universe-context-skipping/4981995)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: On macOS 26.5 with Roblox Studio 0.746.0.7461269, Assistant Settings > MCP Permissions shows a generic ‘Save failed, please try again’ when saving permissions in a local .rbxl place. Repeated retries do not save the settings. Steps observed
-- **[Idk if this is a good (why would it be good?) for a local music script](https://devforum.roblox.com/t/idk-if-this-is-a-good-why-would-it-be-good-for-a-local-music-script/4982019)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: the main local script -- ReplicatedFirst/LocalMusic --!strict const soundService = game:GetService("SoundService") const camera = workspace.CurrentCamera local currentMusic:AudioPlayer? = nil const musicIds = require("@self/MusicIds") const
+- **[Looking for Investor / Sponsor for Chaos Uncontrolled (Dynamic Revenue Share)](https://devforum.roblox.com/t/looking-for-investor-sponsor-for-chaos-uncontrolled-dynamic-revenue-share/4982086)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: About Us Hi there! I am an independent solo developer working on an upcoming Roblox game called Chaos Uncontrolled . You can see my progress and details on the Talent Hub here: Creator Hub - Talent (or contact me directly for a private show
+- **[Can GuiService display a custom rig where the player avatar would be?](https://devforum.roblox.com/t/can-guiservice-display-a-custom-rig-where-the-player-avatar-would-be/4982137)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: like GuiService:InspectPlayerFromUserId and if not should it be a feature? 1 post - 1 participant Read full topic
+- **[More features to Datastore Manager page, like 'Snapshots'](https://devforum.roblox.com/t/more-features-to-datastore-manager-page-like-snapshots/4982054)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: As a Roblox Developer, it is currently too hard to use some existing features. Apparently ‘Snapshots’ have been a thing for past 2 years ( Upcoming Changes to Data Stores Versioning ), but I found out about it just now. Currently, the only 
+- **[Toolbox sounds too loud](https://devforum.roblox.com/t/toolbox-sounds-too-loud/4982090)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: The sounds in toolbox are all super loud when you play them. I usually browse the toolbox sounds with my headset off just listening to the sound from my desk. It would be a lot easier to test sound effects if I could adjust their volume for
+- **[\[OPEN\] 3D Artist / Low Poly Style](https://devforum.roblox.com/t/open-3d-artist-low-poly-style/4982106)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: About The Job I’m looking for a 3D Artist that could make low poly models for 10 cryopacks and 10 cryoguns. Each cryopack has its own corresponding cryogun. How do I see it: (AI generated, sorry!) Note: Tier 10 cryopack is a bit overcomplic
 
 ---
 

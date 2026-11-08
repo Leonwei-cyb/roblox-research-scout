@@ -3071,7 +3071,16 @@
     "87cf1a1ec5ac367264d6c276",
     "2b36325aba3c9d4b3579d2b3",
     "f3ed3905540ef8584709fb89",
-    "4498296a6ad0c58ab745c9c7"
+    "4498296a6ad0c58ab745c9c7",
+    "4e56b230e064c78ae5946209",
+    "1bc96c1612fb1d6be499bef2",
+    "c8b43eee16b07ffaaa64471d",
+    "662ba9065100f3dc3cc739c5",
+    "d69e17c3c405882fb373c446",
+    "aee6161c3ab3de1cde48aa29",
+    "0501ce434a576b9335c710a8",
+    "a8708e92ac02126593bea8c9",
+    "413abddf6fca8586ffa8ffaa"
   ],
   "items": [
     {
@@ -3123,6 +3132,18 @@
       "id": "e9dfc36047844f6f0a4ca6db"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "More features to Datastore Manager page, like 'Snapshots'",
+      "url": "https://devforum.roblox.com/t/more-features-to-datastore-manager-page-like-snapshots/4982054",
+      "published": "2026-11-08",
+      "excerpt": "As a Roblox Developer, it is currently too hard to use some existing features. Apparently ‘Snapshots’ have been a thing for past 2 years ( Upcoming Changes to Data Stores Versioning ), but I found out about it just now. Currently, the only way to use this feature is by HTTP requests ( this ). I feel",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/more-features-to-datastore-manager-page-like-snapshots/4982054.rss",
+      "id": "d69e17c3c405882fb373c446"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3143,6 +3164,18 @@
       "excerpt": "Tell me what needs improving :D submitted by /u/No-Comedian8417 [link] [comments]",
       "creator": "/u/No-Comedian8417 https://www.reddit.com/user/No-Comedian8417",
       "id": "c929f0bd3b2470d4c8615708"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Toolbox sounds too loud",
+      "url": "https://devforum.roblox.com/t/toolbox-sounds-too-loud/4982090",
+      "published": "2026-11-08",
+      "excerpt": "The sounds in toolbox are all super loud when you play them. I usually browse the toolbox sounds with my headset off just listening to the sound from my desk. It would be a lot easier to test sound effects if I could adjust their volume for playing in toolbox. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/toolbox-sounds-too-loud/4982090.rss",
+      "id": "c8b43eee16b07ffaaa64471d"
     },
     {
       "source": "reddit-robloxdev",
@@ -3177,6 +3210,28 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/gamma-corporation-security-agent-ai/4981530.rss",
       "id": "b143146a4dd98edb3004761f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Can I use toolbox assets, like models?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqv4jy/can_i_use_toolbox_assets_like_models/",
+      "published": "2026-11-08",
+      "excerpt": "I just got into game developing and I want to test some things using user/Roblox created assets. Am I allowed to use them or can I get sued or something like that? submitted by /u/salataaa1 [link] [comments]",
+      "creator": "/u/salataaa1 https://www.reddit.com/user/salataaa1",
+      "id": "aee6161c3ab3de1cde48aa29"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[Unpaid] Looking for playtesters for our first game – an anti-gravity racer made by a dad and his kids",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqvtl4/unpaid_looking_for_playtesters_for_our_first_game/",
+      "published": "2026-11-08",
+      "excerpt": "Hi r/robloxgamedev ! My two kids love Roblox, so we decided to build our own game together: NEON VELOCITY, an anti-gravity hovercraft racer. What's in it: - 15 tracks from easy to very hard (loops, magnetic wall rides, rooftop jumps, and a floating thunderstorm track with lightning) - Championship m",
+      "creator": "/u/XorA-Action-119799 https://www.reddit.com/user/XorA-Action-119799",
+      "id": "a8708e92ac02126593bea8c9"
     },
     {
       "source": "reddit-robloxdev",
@@ -3314,7 +3369,7 @@
       "title": "Roblox logs taking 174gb of storage on pc",
       "url": "https://devforum.roblox.com/t/roblox-logs-taking-174gb-of-storage-on-pc/4981795",
       "published": "2026-11-08",
-      "excerpt": "JESUS CHRIST (ALL FROM THE PAST MONTH OR SO) Expected behavior BRO IT SHOULDNT BE TAKING A TRIPLE A GAMES WORTH OF STORAGE FOR LOGS? FIX PLZ 3 posts - 2 participants Read full topic",
+      "excerpt": "JESUS CHRIST (ALL FROM THE PAST MONTH OR SO) Expected behavior BRO IT SHOULDNT BE TAKING A TRIPLE A GAMES WORTH OF STORAGE FOR LOGS? FIX PLZ 4 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-logs-taking-174gb-of-storage-on-pc/4981795.rss",
       "id": "6ade71258f673a120a26441d"
@@ -3341,6 +3396,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/bindtosimulation-with-hz120-and-hz240-options/4981651.rss",
       "id": "67be267ad0c0e8c3b72f2d7b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for Investor / Sponsor for Chaos Uncontrolled (Dynamic Revenue Share)",
+      "url": "https://devforum.roblox.com/t/looking-for-investor-sponsor-for-chaos-uncontrolled-dynamic-revenue-share/4982086",
+      "published": "2026-11-08",
+      "excerpt": "About Us Hi there! I am an independent solo developer working on an upcoming Roblox game called Chaos Uncontrolled . You can see my progress and details on the Talent Hub here: Creator Hub - Talent (or contact me directly for a private showcase). About The Partnership I am looking for a reliable inv",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-investor-sponsor-for-chaos-uncontrolled-dynamic-revenue-share/4982086.rss",
+      "id": "662ba9065100f3dc3cc739c5"
     },
     {
       "source": "reddit-robloxdev",
@@ -3432,6 +3499,18 @@
       "id": "516425a62ffeb3c3afb1bf5d"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Can GuiService display a custom rig where the player avatar would be?",
+      "url": "https://devforum.roblox.com/t/can-guiservice-display-a-custom-rig-where-the-player-avatar-would-be/4982137",
+      "published": "2026-11-08",
+      "excerpt": "like GuiService:InspectPlayerFromUserId and if not should it be a feature? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/can-guiservice-display-a-custom-rig-where-the-player-avatar-would-be/4982137.rss",
+      "id": "4e56b230e064c78ae5946209"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3452,6 +3531,17 @@
       "excerpt": "I want to try making some games on roblox but when I tried the Learn tab on the offical Roblox Studio website, there's so many information linked to each other so I'm kinda overwhelmed. Do I have to just deal with that or there's a better way to learn the basic. submitted by /u/Ok-Canary9874 [link] ",
       "creator": "/u/Ok-Canary9874 https://www.reddit.com/user/Ok-Canary9874",
       "id": "4498296a6ad0c58ab745c9c7"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "New Shop in my game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqvpn8/new_shop_in_my_game/",
+      "published": "2026-11-08",
+      "excerpt": "submitted by /u/Calm-Try1206 [link] [comments]",
+      "creator": "/u/Calm-Try1206 https://www.reddit.com/user/Calm-Try1206",
+      "id": "413abddf6fca8586ffa8ffaa"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3513,6 +3603,18 @@
       "id": "2172fa182f7ad92ba348e5cb"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] 3D Artist / Low Poly Style",
+      "url": "https://devforum.roblox.com/t/open-3d-artist-low-poly-style/4982106",
+      "published": "2026-11-08",
+      "excerpt": "About The Job I’m looking for a 3D Artist that could make low poly models for 10 cryopacks and 10 cryoguns. Each cryopack has its own corresponding cryogun. How do I see it: (AI generated, sorry!) Note: Tier 10 cryopack is a bit overcomplicated here, it should be simplier. General info Low Poly / Ca",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-3d-artist-low-poly-style/4982106.rss",
+      "id": "1bc96c1612fb1d6be499bef2"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3533,6 +3635,17 @@
       "excerpt": "Released my first game and its done really well in my opinion peaked at 772CCU and hit a 10 million view video, I've had a lot of hate and backlash on the feedback tab is this normal? if anyone could give me more feedback id greatly appreciate it! Game is Blockade! submitted by /u/xdNK11 [link] [com",
       "creator": "/u/xdNK11 https://www.reddit.com/user/xdNK11",
       "id": "133d3e6da3492cfda0a25675"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How do you balance progression when your zone multipliers keep making the late game too easy?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqwd7f/how_do_you_balance_progression_when_your_zone/",
+      "published": "2026-11-08",
+      "excerpt": "We are building a voxel Roblox game about sweeping Martian dust, and our zone value multipliers made the late game feel far too easy during playtests. We cut the multipliers and halved some upgrade gains, but I am unsure how long a good progression should take before players hit the end. How do you ",
+      "creator": "/u/BeneficialDig33 https://www.reddit.com/user/BeneficialDig33",
+      "id": "0501ce434a576b9335c710a8"
     },
     {
       "source": "brock-ig-reels",
@@ -9886,111 +9999,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/function-isnt-reading-the-arguments-im-sending-it/4972673.rss",
       "id": "a4ea49679cb162fc61efb6b9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "MCP Permissions won't save changes",
-      "url": "https://devforum.roblox.com/t/mcp-permissions-wont-save-changes/4972909",
-      "published": "2026-11-03",
-      "excerpt": "I’m trying to set my MCP Permissions to “Balanced” (right now it seems like everything is off by default). However it won’t save. I’ve tried several different Studios, it always says “Save failed, please try again” Upon further investigation: this seems to be a bug caused from opening a .rbxl on my ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/mcp-permissions-wont-save-changes/4972909.rss",
-      "id": "a2064971bde9e9882e58e5b1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Random clip from a game I just launched - feedback?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmhj38/random_clip_from_a_game_i_just_launched_feedback/",
-      "published": "2026-11-03",
-      "excerpt": "I would appreciate any feedback on my game. I'm also looking for tips on how people find playtesters. The video above is meant to show what some small slice of gameplay looks like. I intentionally didn't make a highlight reel because I want to show what players might actually experience in any given",
-      "creator": "/u/Intelligent-Pay-9377 https://www.reddit.com/user/Intelligent-Pay-9377",
-      "id": "a1ba4ab3cd56c341ae798d2c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "AI moderation terminated my account because of water",
-      "url": "https://devforum.roblox.com/t/ai-moderation-terminated-my-account-because-of-water/4973832",
-      "published": "2026-11-03",
-      "excerpt": "My account @sicktrading was recently terminated after I uploaded a map from blender. Some of the assets were in fact rule breaking, however the majority were not. This includes water bottle textures which were deemed “Offsite links” Its just a water bottle texture. This is also found multiple times ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ai-moderation-terminated-my-account-because-of-water/4973832.rss",
-      "id": "a169cb942743fb1b6644276b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Asset Manager UI unusable after Studio is idle",
-      "url": "https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678",
-      "published": "2026-11-03",
-      "excerpt": "I don’t know of a specific way to reproduce it, but whenever I leave Studio idle for a while and come back to it, my Asset Manager ends up glitched out. All the buttons get squashed to the top left with everything else being blank. The only workaround I have right now is to close Asset Manager and r",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678.rss",
-      "id": "a093f68d9af666586a18dc4b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made a Roblox game where you escape from a giant angry cat 😭 Would love some honest feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmmnl4/i_made_a_roblox_game_where_you_escape_from_a/",
-      "published": "2026-11-03",
-      "excerpt": "Hey everyone! I've been working on a Roblox game called PIKKO: Build Toys & Escape the Cat. https://preview.redd.it/0csjpqmwnczh1.png?width=1672&format=png&auto=webp&s=1af7eeeb55a6b653f49085ed39a7d13df9b0d2c0 The idea is: build your way through obstacles, escape a giant angry cat, and survive from t",
-      "creator": "/u/danielabinav https://www.reddit.com/user/danielabinav",
-      "id": "a0387f7795e0ad7503c16032"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made my first Roblox game: a chill power-washing simulator, I’d love feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmqt48/i_made_my_first_roblox_game_a_chill_powerwashing/",
-      "published": "2026-11-03",
-      "excerpt": "Hey! I’m a young dev and just released Cleaning Simulator 🧼. You clean 12 worlds with a pressure washer, chain combos, find treasures and hire helpers. It’s made to be relaxing and fun with friends. Any feedback is super welcome 🙏 https://www.roblox.com/games/137150300184421 submitted by /u/Neptune2",
-      "creator": "/u/Neptune2128 https://www.reddit.com/user/Neptune2128",
-      "id": "9dfc72350945188fb5c285dd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My Project wouldn't open",
-      "url": "https://devforum.roblox.com/t/my-project-wouldnt-open/4973531",
-      "published": "2026-11-03",
-      "excerpt": "After working on my project, it cannot be opened anymore, I tried out opening on another device and it gives me an error. HttpError:Timedout. now I’m updating my game through local copy then published as. Please check it out Expected behavior I expect the studio to open my project so i can continue ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-project-wouldnt-open/4973531.rss",
-      "id": "9dd07a0fbc5af2b1211cde45"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "The Hollow badge probleme",
-      "url": "https://devforum.roblox.com/t/the-hollow-badge-probleme/4973340",
-      "published": "2026-11-03",
-      "excerpt": "After I completed floors 3, 4, 5, 6,7 and the 10th one, I received none of the following badges. Is it because it is 3rd November, the last day, or is it a bug? 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-hollow-badge-probleme/4973340.rss",
-      "id": "9c24ac8649fcec843ae70e5a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Excessive devex ban? Your DevEx access has been temporarily suspended",
-      "url": "https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861",
-      "published": "2026-11-03",
-      "excerpt": "40 days thats a whole month where i am now no longer able to pay rent isn’t this a bit too much? i mean it’s in the nature of UGC for an occasional flag on a face but getting restricted for 40 days for something like this. It was made by A.I too, anyone have similar experiences or any way to get hel",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861.rss",
-      "id": "9a595715dc2b79eaf815a522"
     }
   ]
 }

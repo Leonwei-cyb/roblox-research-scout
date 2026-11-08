@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 306
+- devforum: 305
 - index-only: 10
-- reddit: 279
+- reddit: 280
 - youtube: 3
 
 ## First-Session And Mobile
 
-- [Asset Manager UI unusable after Studio is idle](https://devforum.roblox.com/t/asset-manager-ui-unusable-after-studio-is-idle/4972678) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 - [Looking for feedback on my monster-containment game (first 5 minutes / onboarding)](https://www.reddit.com/r/robloxgamedev/comments/1xq0uy6/looking_for_feedback_on_my_monstercontainment/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
+- [Player objects not being properly managed on disconect during a Server & Client session](https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712) — devforum; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -42,8 +42,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Animation And Audio
 
-- [I made a Roblox game where you escape from a giant angry cat 😭 Would love some honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xmmnl4/i_made_a_roblox_game_where_you_escape_from_a/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 - [Feedback on my Roblox hospital horror: does "she hears every sound" read clearly in the first 7 seconds?](https://www.reddit.com/r/robloxgamedev/comments/1xqejo3/feedback_on_my_roblox_hospital_horror_does_she/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
+- [\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
@@ -57,19 +57,19 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [Player objects not being properly managed on disconect during a Server & Client session](https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [My Movie Studio - Looking for Gameplay Feedback](https://devforum.roblox.com/t/my-movie-studio-looking-for-gameplay-feedback/4980386) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Looking for feedback on my AI character import plugin](https://www.reddit.com/r/robloxgamedev/comments/1xqk5tj/looking_for_feedback_on_my_ai_character_import/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Tools And Performance
 
-- [Looking for feedback on my AI character import plugin](https://www.reddit.com/r/robloxgamedev/comments/1xqk5tj/looking_for_feedback_on_my_ai_character_import/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)](https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Multiple fake toolbox models causing fake "studio dependency" popups](https://devforum.roblox.com/t/multiple-fake-toolbox-models-causing-fake-studio-dependency-popups/4977739) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report) test with measurable pass/fail.
+3. Explain WHY it matters and propose one Multiple fake toolbox models causing fake "studio dependency" popups test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
