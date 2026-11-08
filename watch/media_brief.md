@@ -7,17 +7,21 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Day 3 Combat System](https://www.reddit.com/r/robloxgamedev/comments/1xqt2o2/day_3_combat_system/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: I’m trying to make a multiplayer story mode game and I’m currently working on the first actual attacks and animations and combos with the fists and just a starter blade and I want my animations and combat to feel amazing but I’m at this poi
-- **[First Look on my Backrooms A-Sym](https://www.reddit.com/r/robloxgamedev/comments/1xqsmt4/first_look_on_my_backrooms_asym/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: Tell me what needs improving :D submitted by /u/No-Comedian8417 \[link\] \[comments\]
+- **[How i made a good rushdown killer on asym Roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xqtf4t/how_i_made_a_good_rushdown_killer_on_asym_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: I wanna make a good rushdown killer without be generic submitted by /u/Less_Manner2001 \[link\] \[comments\]
+- **[I need your guys help with making a logo for my asym game](https://www.reddit.com/r/robloxgamedev/comments/1xqtn8f/i_need_your_guys_help_with_making_a_logo_for_my/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: Im making a roblox asym game that is inspired of the battle bricks and i dunno how to draw digitally but i want the logo to be half of tarnished battler’s skull and the other half is tumore gear and the asym game will be called Tbb: Tarnish
+- **[My new UK roleplay game](https://www.reddit.com/r/robloxgamedev/comments/1xqu1xq/my_new_uk_roleplay_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: submitted by /u/Noobieowo \[link\] \[comments\]
+- **[My pixel graphic game UI](https://www.reddit.com/r/robloxgamedev/comments/1xqtr00/my_pixel_graphic_game_ui/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: This is the UI I designed for my game. I'm sharing it to get some feedback and advice on marketing the game. submitted by /u/Negan_lucile123 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[UI_Group_Tool (FREE PLUGIN)](https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: UI_Group_Tool Easy to use. No background frame. Just for selecting Creator Store Link (Free) https://create.roblox.com/store/asset/130796027133006/UIGroupTool demonstration video 1 post - 1 participant Read full topic
-- **[The Best Space Minigame Arena Game? You Decide!](https://devforum.roblox.com/t/the-best-space-minigame-arena-game-you-decide/4981889)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Hello everyone! I decided to revisit one of my original built games and supercharge it to potentially get it out to more players to play/experience. Game is compatible with all platforms (Except VR). As always, happy to hear any feedback. R
+- **[Meshes forcing character velocity when jumping](https://devforum.roblox.com/t/meshes-forcing-character-velocity-when-jumping/4981939)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Any reason why the bananas force velocity to the player? BackpackService.luau (2.9 KB) 1 post - 1 participant Read full topic
+- **[Pawssport, Please! - Papers, Please but with cats \[DEMO, feedback wanted\]](https://devforum.roblox.com/t/pawssport-please-papers-please-but-with-cats-demo-feedback-wanted/4981971)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Hey! I’ve been working on a game called Pawssport, Please! and the demo is finally out. It’s basically Papers, Please (shoutout to Lucas Pope) but with cats. Roblox Pawssport, Please! PAWSSPORT, PLEASE! Glory to Catsovia. You are the new in
 
 ---
 
