@@ -3156,7 +3156,9 @@
     "9c1bee4faea51bc470f24b07",
     "77438c65cb34a9bc99e6b3dd",
     "4b88200c0cd2db47408ea46e",
-    "f017f933d804fe249719df3c"
+    "f017f933d804fe249719df3c",
+    "19eb61557ecad1523680e11e",
+    "b9041333845ea72dd4fda9a4"
   ],
   "items": [
     {
@@ -3472,6 +3474,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/assets-dont-upload-with-good-name-and-fails-reupload/4982718.rss",
       "id": "bd4d6e9718580f419daecca4"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Chaos Crossing",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrcm9p/chaos_crossing/",
+      "published": "2026-11-08",
+      "excerpt": "Built my first game called Chaos Crossing but don’t have really anyone who can test play it for me. If anyone can test it out and offer suggestions it would really help me out. Thanks! https://www.roblox.com/games/101431457151481/Chaos-Crossing submitted by /u/era_zona [link] [comments]",
+      "creator": "/u/era_zona https://www.reddit.com/user/era_zona",
+      "id": "b9041333845ea72dd4fda9a4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4408,6 +4421,17 @@
       "id": "1aae93dea0d70fce9ef68094"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Any tips?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrcoaj/any_tips/",
+      "published": "2026-11-08",
+      "excerpt": "This is my first time trying blender and sculpting a face. Was stuck at this process for long. submitted by /u/Sufficient-Onion6219 [link] [comments]",
+      "creator": "/u/Sufficient-Onion6219 https://www.reddit.com/user/Sufficient-Onion6219",
+      "id": "19eb61557ecad1523680e11e"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4528,7 +4552,7 @@
       "title": "Paying 50k all ages fee questions",
       "url": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234",
       "published": "2026-11-08",
-      "excerpt": "I have 2 questions regarding this: I have paid so far for 3 games the 50k fee. But If the fee changes in the future and I go to refund, do I get my 50k back or the new (probably lower fee)) What if group owner changes?? Who gets it back? the person who paid, the group owner, or the group?? 1 post - ",
+      "excerpt": "I have 2 questions regarding this: I have paid so far for 3 games the 50k fee. But If the fee changes in the future and I go to refund, do I get my 50k back or the new (probably lower fee)) What if group owner changes?? Who gets it back? the person who paid, the group owner, or the group?? 2 posts -",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234.rss",
       "id": "01e8e4ee7d27943d851712e0"
@@ -10054,30 +10078,6 @@
       "excerpt": "Looking for modelers, animators and scripters who wanna help me on this (KINDA) realistic scp, secret, militaristic style project DM on discord for more info scythe0739 theres no pay included. submitted by /u/Karlyto_Undercover [link] [comments]",
       "creator": "/u/Karlyto_Undercover https://www.reddit.com/user/Karlyto_Undercover",
       "id": "3cbe727654712e4a6b457ec7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "What are the rules for using UGC in my game?",
-      "url": "https://devforum.roblox.com/t/what-are-the-rules-for-using-ugc-in-my-game/4974806",
-      "published": "2026-11-04",
-      "excerpt": "I’m currently making a game that uses NPCs. While creating the NPCs I’ve caught myself using UGC accessories and am now wondering what the rules are for using other users UGC in my game. I’ve seen several games use UGC accessories at a scale that asking the creators for permission to use would be in",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-are-the-rules-for-using-ugc-in-my-game/4974806.rss",
-      "id": "3bf643b9246a0948660c04ef"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Help with plugin motor6D.Transform",
-      "url": "https://devforum.roblox.com/t/help-with-plugin-motor6dtransform/4974738",
-      "published": "2026-11-04",
-      "excerpt": "Hi, I’m trying to make an animation plugin and I have a problem where changing motor6D.Tranform doesn’t change anything. I’ve tried game:GetSerice(\"RunService\").RenderStepped:Connect(function() motor6d.Tranform = CFrame.angles(0, math.rad(90), 0) end) and it says its running every frame but the moto",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/help-with-plugin-motor6dtransform/4974738.rss",
-      "id": "375cfd70696dc5042a6ac051"
     }
   ]
 }
