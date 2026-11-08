@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 598,
+  "unique_posts": 599,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -635,20 +635,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4974571:1",
-      "url": "https://devforum.roblox.com/t/scaling-tool-handlesaxes-show-up-even-though-i-have-nothing-selected-persists-after-restarting-studio-but-only-on-a-specific-place/4974571",
-      "title": "Scaling Tool Handles/Axes show up even though I have nothing selected, persists after restarting Studio but only on a specific place.",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4974738:1",
       "url": "https://devforum.roblox.com/t/help-with-plugin-motor6dtransform/4974738",
       "title": "Help with plugin motor6D.Transform",
@@ -917,15 +903,29 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xna6nr",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xna6nr/i_need_feedback_and_testers/",
-      "title": "I need feedback and testers!!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
+      "key": "devforum:4983196:1",
+      "url": "https://devforum.roblox.com/t/archivists-ui-showcase-wip/4983196",
+      "title": "Archivists UI Showcase (WIP)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
+        "UI and menus",
         "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983232:1",
+      "url": "https://devforum.roblox.com/t/48-roblox-fps-weapon-animations-%E2%80%93-r15-animation-pack/4983232",
+      "title": "48 Roblox FPS Weapon Animations – R15 Animation Pack",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [
+        "economy and income",
+        "animation and audio"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1285,19 +1285,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4974537:1",
-      "url": "https://devforum.roblox.com/t/i-cannot-connect-my-card-to-roblox-ads/4974537",
-      "title": "I cannot connect my Card to Roblox Ads",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4974944:1",
       "url": "https://devforum.roblox.com/t/need-feedback-on-horror-hotel-game/4974944",
       "title": "Need feedback on horror hotel game",
@@ -1430,19 +1417,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4975590:1",
-      "url": "https://devforum.roblox.com/t/unable-to-make-any-access-changes-to-my-experience-after-paying-the-50000-robux-manual-review-fee/4975590",
-      "title": "Unable to make any access changes to my Experience after Paying the 50,000 Robux manual review fee",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4975600:1",
       "url": "https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600",
       "title": "Reassigning Table Type Variable Inside of If Statement Causes that Variable to Accept Any Type as a Value in the New Luau Type Solver.",
@@ -1450,21 +1424,6 @@
       "published": "2026-11-04",
       "kind": "devforum",
       "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975616:1",
-      "url": "https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616",
-      "title": "PlayerCharacterDestroyBehavior Will Be Default on November 11",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing",
         "tools and performance"
       ],
       "score": 5,
@@ -1505,19 +1464,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975937:1",
-      "url": "https://devforum.roblox.com/t/purchasing-plus-subscriptions-with-roblox-credits/4975937",
-      "title": "Purchasing Plus Subscriptions With Roblox Credits",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2411,6 +2357,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4983210:1",
+      "url": "https://devforum.roblox.com/t/server-authority-linearvelocity-stops-working-in-certain-positions/4983210",
+      "title": "[Server Authority] LinearVelocity stops working in certain positions",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xnbujl",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnbujl/can_somebody_help_me_fix_his/",
       "title": "Can somebody help me fix his?",
@@ -2514,19 +2473,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xo3jme",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo3jme/i_have_just_released_a_game_and_only_getting_2/",
-      "title": "I have just released a game and only getting 2% ctr in ads",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3291,20 +3237,6 @@
       "signals": [
         "board game and turn flow",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xntcw7",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xntcw7/looking_for_people_to_work_on_this_roblox_game/",
-      "title": "Looking for people to work on this Roblox game with me (making a team)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "economy and income"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -5328,6 +5260,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xrc5do",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrc5do/corrupted_app/",
+      "title": "corrupted app?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4974391:1",
       "url": "https://devforum.roblox.com/t/passion-project-sports-game/4974391",
       "title": "[Passion Project] Sports Game!",
@@ -5471,17 +5416,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4975367:1",
-      "url": "https://devforum.roblox.com/t/bring-back-profile-status-what-youre-doing-right-now/4975367",
-      "title": "Bring back profile status (what you're doing right now)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4975387:1",
       "url": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387",
       "title": "SurfaceAppearance Alpha mipmapping workarounds",
@@ -5573,17 +5507,6 @@
       "key": "devforum:4975763:1",
       "url": "https://devforum.roblox.com/t/my-humble-project-is-coming-together/4975763",
       "title": "My humble project is coming together",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975853:1",
-      "url": "https://devforum.roblox.com/t/enforcement-ban-update/4975853",
-      "title": "Enforcement Ban (Update)",
       "source": "roblox-devforum-latest",
       "published": "2026-11-04",
       "kind": "devforum",
@@ -6409,6 +6332,72 @@
       "key": "devforum:4982893:1",
       "url": "https://devforum.roblox.com/t/game-pass-vote-counts-cant-be-read-without-scraping-the-website/4982893",
       "title": "Game pass vote counts can't be read without scraping the website",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983121:1",
+      "url": "https://devforum.roblox.com/t/ambient-wind-noises-get-instantly-moderated-upon-uploading/4983121",
+      "title": "Ambient wind noises get instantly moderated upon uploading",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983172:1",
+      "url": "https://devforum.roblox.com/t/912-funbloxjs-%E2%80%94-roblox-api-wrapper-with-open-cloud-legacy-support/4983172",
+      "title": "[9.1.2] FunBlox.js — Roblox API wrapper with Open Cloud + legacy support",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983194:1",
+      "url": "https://devforum.roblox.com/t/what-do-you-think-about-this-office-made-for-my-horror-game/4983194",
+      "title": "What do you think about this office made for my horror game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983213:1",
+      "url": "https://devforum.roblox.com/t/harmony-test-musik/4983213",
+      "title": "Harmony Test [musik]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983225:1",
+      "url": "https://devforum.roblox.com/t/kids-select-publishing-fee-on-community-games-with-zero-group-funds/4983225",
+      "title": "Kids & Select Publishing Fee on Community Games with ZERO GROUP FUNDS",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983234:1",
+      "url": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234",
+      "title": "Paying 50k all ages fee questions",
       "source": "roblox-devforum-latest",
       "published": "2026-11-08",
       "kind": "devforum",
@@ -7418,6 +7407,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xravob",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xravob/his_blink_is_so_cute_lol/",
+      "title": "His blink is so cute lol",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB?oc=5",
       "title": "TODAY only for Best Players in Steal an egg with admins #roblox #robloxfyp #stealanegg - Instagram",
@@ -7448,6 +7448,19 @@
       "title": "Only Today in Secret admin abuse with Brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
       "source": "brock-ig-reels",
       "published": "2026-11-06",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5hNEJHdUR5U1BodDhscHJRdThvZ2t2SDN4RFZDSEwtcjNKbzA5MHJubEFOUjBIbmVMclB5MW9DalRKR0VHZGVUQUJZQnZka29Tekg2Rl9B",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hNEJHdUR5U1BodDhscHJRdThvZ2t2SDN4RFZDSEwtcjNKbzA5MHJubEFOUjBIbmVMclB5MW9DalRKR0VHZGVUQUJZQnZka29Tekg2Rl9B?oc=5",
+      "title": "Today Secret Admin Happening in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-08",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
@@ -7495,6 +7508,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBCM2JOWU9DMEcxZm9xckRJanBQS3ZEWkRYY1JUMU4wVlBHMkw5Z0pKTTl1STMyaVpFNG9zeFd4RnpQU0xjSmVSckZ4a0NjZEVHNHYxR1hn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCM2JOWU9DMEcxZm9xckRJanBQS3ZEWkRYY1JUMU4wVlBHMkw5Z0pKTTl1STMyaVpFNG9zeFd4RnpQU0xjSmVSckZ4a0NjZEVHNHYxR1hn?oc=5",
+      "title": "Literally Everytime🥀 #stealanegg #roblox #skidgaming - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-06",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0JKVGNySmVBVFJpMkdETmFkZ09NaHBwVFYwOGFWWmFXZVlfSkRIMVZ1WlFGSFkyVHlDVUNST0ZZYlJ0VUlXWHhzaHZyclhoN25yOWN3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0JKVGNySmVBVFJpMkdETmFkZ09NaHBwVFYwOGFWWmFXZVlfSkRIMVZ1WlFGSFkyVHlDVUNST0ZZYlJ0VUlXWHhzaHZyclhoN25yOWN3?oc=5",
       "title": "Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox - Instagram",
@@ -7513,20 +7537,6 @@
       "published": "2026-11-05",
       "kind": "index-only",
       "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiY0FVX3lxTE9iQ2JLdXg3aW5EVG1ybV9nM1hCQkx2QjVIUHpfX2VDOHhmT0pmeEl5TmJMMmNmOVBiTl92dmNiVUZoTDMxU3JxNFZQR0hPM2pBa1JoR2I2bFpId1lOR3J5N3Qzdw",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iQ2JLdXg3aW5EVG1ybV9nM1hCQkx2QjVIUHpfX2VDOHhmT0pmeEl5TmJMMmNmOVBiTl92dmNiVUZoTDMxU3JxNFZQR0hPM2pBa1JoR2I2bFpId1lOR3J5N3Qzdw?oc=5",
-      "title": "Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded - X",
-      "source": "x-ui",
-      "published": "2026-11-04",
-      "kind": "index-only",
-      "signals": [
-        "UI and menus",
-        "animation and audio"
-      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -7552,19 +7562,6 @@
       "kind": "index-only",
       "signals": [
         "UI and menus"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMibEFVX3lxTE9YR0VFUTBpdlYybG01M25IR2NGSDVyNWZtMGZSemJGWkJEUE9UcTc4SExaSGZDQmNBYkliS3drWXBlbFdxMHRPVi1kT3JZMFRNRDRKd01PbGQxRGR5TzFUeHRrMVdGYkxUUUI4Wg",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YR0VFUTBpdlYybG01M25IR2NGSDVyNWZtMGZSemJGWkJEUE9UcTc4SExaSGZDQmNBYkliS3drWXBlbFdxMHRPVi1kT3JZMFRNRDRKd01PbGQxRGR5TzFUeHRrMVdGYkxUUUI4Wg?oc=5",
-      "title": "Aliens are taking over Steal an Egg 👽 #Roblox #StealanEgg - TikTok",
-      "source": "brock-tiktok",
-      "published": "2026-11-04",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

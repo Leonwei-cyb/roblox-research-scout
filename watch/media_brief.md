@@ -5,29 +5,40 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[Literally Everytime🥀 #stealanegg #roblox #skidgaming - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCM2JOWU9DMEcxZm9xckRJanBQS3ZEWkRYY1JUMU4wVlBHMkw5Z0pKTTl1STMyaVpFNG9zeFd4RnpQU0xjSmVSckZ4a0NjZEVHNHYxR1hn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-06
+  - Feed excerpt: Literally Everytime🥀 #stealanegg #roblox #skidgaming Instagram
+- **[Today Secret Admin Happening in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hNEJHdUR5U1BodDhscHJRdThvZ2t2SDN4RFZDSEwtcjNKbzA5MHJubEFOUjBIbmVMclB5MW9DalRKR0VHZGVUQUJZQnZka29Tekg2Rl9B?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-08
+  - Feed excerpt: Today Secret Admin Happening in Steal an egg #roblox #robloxfyp #stealanegg Instagram
+
 ## Community
 
-- **[How do I make Roblox 3d clothes like this](https://www.reddit.com/r/ROBLOXStudio/comments/1xr8x0i/how_do_i_make_roblox_3d_clothes_like_this/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
-  - Feed excerpt: I've been trying to figure out how Mjj records ( A Micheal Jackson group that does concerts) Made these 3d clothes in blender or Roblox studio and it's not the clearest pic submitted by /u/Upbeat-Counter7319 \[link\] \[comments\]
-- **[Made my first game!](https://www.reddit.com/r/ROBLOXStudio/comments/1xr7ulk/made_my_first_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
-  - Feed excerpt: Project EXO is a game that I would like to say fits into a category like EVE online. Its a game where you nurture a planet and grow it through its phases. How? Explore deep space and look for resource planets / connect with other player's p
-- **[Need help with game inspired by Nullscape !!](https://www.reddit.com/r/ROBLOXStudio/comments/1xr7cee/need_help_with_game_inspired_by_nullscape/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
-  - Feed excerpt: me and u/FruitSpace are developing a game inspired by Nullscape: a roguelike collectathon game where you progress through levels which get progressively harder we have made some progress on the lore (inspired by rain world, backrooms, etc.)
+- **[corrupted app?](https://www.reddit.com/r/ROBLOXStudio/comments/1xrc5do/corrupted_app/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: I keep getting this error for roblox studio. https://preview.redd.it/l0cfqm6s1h0i1.png?width=472&format=png&auto=webp&s=9507f619ef367c78a59bf8fc5fceb4fe3caa8c6c It happens when trying to open or create places.(this was when I was trying to 
+- **[His blink is so cute lol](https://www.reddit.com/r/ROBLOXStudio/comments/1xravob/his_blink_is_so_cute_lol/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: Added this little feature to the game I'm working on, I'll show more of the actual game in a bit when there's more to show off. submitted by /u/AccordingConcert5662 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Ragdoll corpses keep breaking](https://devforum.roblox.com/t/ragdoll-corpses-keep-breaking/4983088)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: I’ve been trying to get ragdoll corpses to work properly, and out of the two solutions I have both have different issues I can’t figure out how to solve My first solution was to parent everything to a new model so it doesn’t get destroyed, 
-- **[Builder required for Cyberpunk themed hacking game](https://devforum.roblox.com/t/builder-required-for-cyberpunk-themed-hacking-game/4983043)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Requirement I need a modelled map for my hacking-themed game, which I am scripting myself. It should have a cyberpunk feel. An interior venue (club or other) with four differently styled tables (perhaps in different rooms), with four seats 
-- **[Building Feedback](https://devforum.roblox.com/t/building-feedback/4983073)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: I tried making a cyberpunk/Neon type of laundromat building and it still looks to flat and bland and straight up horrible how can i make it better?Note i am not a builder 1 post - 1 participant Read full topic
-- **[Experience still unavailable after accepted maturity appeal](https://devforum.roblox.com/t/experience-still-unavailable-after-accepted-maturity-appeal/4983085)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Hi, I’m the owner of The Villa, and my experience has been unavailable to regular players since November 3. This started after Roblox flagged my Maturity & Compliance Questionnaire. I corrected the questionnaire and submitted appeals. One o
-- **[I need help with my VFX](https://devforum.roblox.com/t/i-need-help-with-my-vfx/4982953)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: How to make the star and the circle spin forever without their lifetime affect them. As you can see in the video, they disappeared. Can you show me guys how to do that? 1 post - 1 participant Read full topic
-- **[Solo dev // would LOVE to hear your feedbacks for my game!](https://devforum.roblox.com/t/solo-dev-would-love-to-hear-your-feedbacks-for-my-game/4983055)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Hello everyone, I’ve been working on this game for quite a while now. I created the experience in late april, worked on it for around 3-4 months, published the game and ran ads. it wasn’t that bad, I also updated the game multiple times. I 
+- **[\[9.1.2\] FunBlox.js — Roblox API wrapper with Open Cloud + legacy support](https://devforum.roblox.com/t/912-funbloxjs-%E2%80%94-roblox-api-wrapper-with-open-cloud-legacy-support/4983172)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Hey, Updated FunBlox.js, the Node/TS wrapper for the Roblox API. It used to be cookie-only. Now it also supports Open Cloud, so you can use an API key instead of (or together with) the .ROBLOSECURITY cookie. GitHub: FunBlox Source npm: npm 
+- **[48 Roblox FPS Weapon Animations – R15 Animation Pack](https://devforum.roblox.com/t/48-roblox-fps-weapon-animations-%E2%80%93-r15-animation-pack/4983232)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Looking to add more weapon animations to your Roblox experience? I’ve created a collection of 48 R15 weapon animations covering seven different weapon categories! The pack includes animations for: AK-47: Idle, Aim, Shoot, Reload, Inspect Pi
+- **[Ambient wind noises get instantly moderated upon uploading](https://devforum.roblox.com/t/ambient-wind-noises-get-instantly-moderated-upon-uploading/4983121)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: I’m uploading basic wind noises. As soon as it gets uploaded and I go to the asset page, it shows this. I’ve tried uploading it twice now. Page URL: https://create.roblox.com/dashboard/creations/store/87957175793068 1 post - 1 participant R
+- **[Archivists UI Showcase (WIP)](https://devforum.roblox.com/t/archivists-ui-showcase-wip/4983196)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Hello! I am working on a project of mine called Archivists . The game is still in work-in-progress, but the style of the game’s UI and gameplay is meant to take place in the mid-2010s. If you have any feedback on the UI, please reply to thi
+- **[Harmony Test \[musik\]](https://devforum.roblox.com/t/harmony-test-musik/4983213)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: randomly made it in like 20 mins /secure-uploads/uploads/original/5X/c/1/4/3/c143673f58b47311bb464bd45ec594a4f49c9ccd.ogg 1 post - 1 participant Read full topic
+- **[Kids & Select Publishing Fee on Community Games with ZERO GROUP FUNDS](https://devforum.roblox.com/t/kids-select-publishing-fee-on-community-games-with-zero-group-funds/4983225)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Allow Group Developers to Spend Their Own Robux on Publishing Fees I've run into an issue while working on a community-owned experience. Currently, if an experience is owned by a group, only the group owner can spend their own Robux when th
+- **[Paying 50k all ages fee questions](https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: I have 2 questions regarding this: I have paid so far for 3 games the 50k fee. But If the fee changes in the future and I go to refund, do I get my 50k back or the new (probably lower fee)) What if group owner changes?? Who gets it back? th
+- **[What do you think about this office made for my horror game](https://devforum.roblox.com/t/what-do-you-think-about-this-office-made-for-my-horror-game/4983194)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: NOT MINE! MADE BY A FRIEND AND POSTED WITH PERMISSION!! Any ideas or criticism is accepted 1 post - 1 participant Read full topic
+- **[\[Server Authority\] LinearVelocity stops working in certain positions](https://devforum.roblox.com/t/server-authority-linearvelocity-stops-working-in-certain-positions/4983210)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: I feel like this is a much larger issue involving quantization, considering I’ve run into this several times with unrelated things. Issue shown in following video: Reproduction method: Open the reproduction file and run the place. Move the 
 
 ---
 

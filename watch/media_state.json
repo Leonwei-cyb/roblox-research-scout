@@ -3143,7 +3143,20 @@
     "616eda189b6c689e8f671b3c",
     "4888ead34baaf86eda8a9c3b",
     "6750693543ca780603426e21",
-    "0ef45a85dce421d52b678889"
+    "0ef45a85dce421d52b678889",
+    "01e8e4ee7d27943d851712e0",
+    "75f74585532059da66060bf6",
+    "74f288f29c147031b381424a",
+    "afb3840a6bcfb497ba2ab0cd",
+    "b82b06823e24ced82ad61d4b",
+    "e7d269b2ecdeb48615cecfde",
+    "b5e36026c13f74c6c6ed883c",
+    "cd3e434f668e4152d7ab566f",
+    "01b99c664cbdf573671af32e",
+    "9c1bee4faea51bc470f24b07",
+    "77438c65cb34a9bc99e6b3dd",
+    "4b88200c0cd2db47408ea46e",
+    "f017f933d804fe249719df3c"
   ],
   "items": [
     {
@@ -3218,6 +3231,18 @@
       "id": "f024e9e5db2f393ca1ff11a8"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Today Secret Admin Happening in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hNEJHdUR5U1BodDhscHJRdThvZ2t2SDN4RFZDSEwtcjNKbzA5MHJubEFOUjBIbmVMclB5MW9DalRKR0VHZGVUQUJZQnZka29Tekg2Rl9B?oc=5",
+      "published": "2026-11-08",
+      "excerpt": "Today Secret Admin Happening in Steal an egg #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "f017f933d804fe249719df3c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3240,6 +3265,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839.rss",
       "id": "e9dfc36047844f6f0a4ca6db"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Archivists UI Showcase (WIP)",
+      "url": "https://devforum.roblox.com/t/archivists-ui-showcase-wip/4983196",
+      "published": "2026-11-08",
+      "excerpt": "Hello! I am working on a project of mine called Archivists . The game is still in work-in-progress, but the style of the game’s UI and gameplay is meant to take place in the mid-2010s. If you have any feedback on the UI, please reply to this topic; any kind of criticism is very much appreciated. I k",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/archivists-ui-showcase-wip/4983196.rss",
+      "id": "e7d269b2ecdeb48615cecfde"
     },
     {
       "source": "reddit-robloxdev",
@@ -3357,6 +3394,18 @@
       "id": "d4b1ad69cb61f15612aff9e8"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[9.1.2] FunBlox.js — Roblox API wrapper with Open Cloud + legacy support",
+      "url": "https://devforum.roblox.com/t/912-funbloxjs-%E2%80%94-roblox-api-wrapper-with-open-cloud-legacy-support/4983172",
+      "published": "2026-11-08",
+      "excerpt": "Hey, Updated FunBlox.js, the Node/TS wrapper for the Roblox API. It used to be cookie-only. Now it also supports Open Cloud, so you can use an API key instead of (or together with) the .ROBLOSECURITY cookie. GitHub: FunBlox Source npm: npm i funblox.js What’s in 9.1.2 Open Cloud client (API key / OA",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/912-funbloxjs-%E2%80%94-roblox-api-wrapper-with-open-cloud-legacy-support/4983172.rss",
+      "id": "cd3e434f668e4152d7ab566f"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3425,6 +3474,18 @@
       "id": "bd4d6e9718580f419daecca4"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Server Authority] LinearVelocity stops working in certain positions",
+      "url": "https://devforum.roblox.com/t/server-authority-linearvelocity-stops-working-in-certain-positions/4983210",
+      "published": "2026-11-08",
+      "excerpt": "I feel like this is a much larger issue involving quantization, considering I’ve run into this several times with unrelated things. Issue shown in following video: Reproduction method: Open the reproduction file and run the place. Move the part around (which has a LinearVelocity). Notice it stopping",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/server-authority-linearvelocity-stops-working-in-certain-positions/4983210.rss",
+      "id": "b82b06823e24ced82ad61d4b"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3462,6 +3523,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "What do you think about this office made for my horror game",
+      "url": "https://devforum.roblox.com/t/what-do-you-think-about-this-office-made-for-my-horror-game/4983194",
+      "published": "2026-11-08",
+      "excerpt": "NOT MINE! MADE BY A FRIEND AND POSTED WITH PERMISSION!! Any ideas or criticism is accepted 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-do-you-think-about-this-office-made-for-my-horror-game/4983194.rss",
+      "id": "b5e36026c13f74c6c6ed883c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Studio Games Not Opening",
       "url": "https://devforum.roblox.com/t/studio-games-not-opening/4982625",
       "published": "2026-11-08",
@@ -3481,6 +3554,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/gamma-corporation-security-agent-ai/4981530.rss",
       "id": "b143146a4dd98edb3004761f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Harmony Test [musik]",
+      "url": "https://devforum.roblox.com/t/harmony-test-musik/4983213",
+      "published": "2026-11-08",
+      "excerpt": "randomly made it in like 20 mins /secure-uploads/uploads/original/5X/c/1/4/3/c143673f58b47311bb464bd45ec594a4f49c9ccd.ogg 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/harmony-test-musik/4983213.rss",
+      "id": "afb3840a6bcfb497ba2ab0cd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3573,6 +3658,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/devforumparseronline-download-devforum-posts-for-offline-viewing/4981568.rss",
       "id": "9c689a5e8e94e900c453bec5"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "corrupted app?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrc5do/corrupted_app/",
+      "published": "2026-11-08",
+      "excerpt": "I keep getting this error for roblox studio. https://preview.redd.it/l0cfqm6s1h0i1.png?width=472&format=png&auto=webp&s=9507f619ef367c78a59bf8fc5fceb4fe3caa8c6c It happens when trying to open or create places.(this was when I was trying to make new game) Does anyone know how to fix?? submitted by /u",
+      "creator": "/u/forth715 https://www.reddit.com/user/forth715",
+      "id": "9c1bee4faea51bc470f24b07"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3724,6 +3820,17 @@
       "id": "7aa84ba5fce3c6d7162f74a7"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "His blink is so cute lol",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xravob/his_blink_is_so_cute_lol/",
+      "published": "2026-11-08",
+      "excerpt": "Added this little feature to the game I'm working on, I'll show more of the actual game in a bit when there's more to show off. submitted by /u/AccordingConcert5662 [link] [comments]",
+      "creator": "/u/AccordingConcert5662 https://www.reddit.com/user/AccordingConcert5662",
+      "id": "77438c65cb34a9bc99e6b3dd"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3734,6 +3841,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/pawssport-please-papers-please-but-with-cats-demo-feedback-wanted/4981971.rss",
       "id": "767c8c1e80aefc91493354ab"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "48 Roblox FPS Weapon Animations – R15 Animation Pack",
+      "url": "https://devforum.roblox.com/t/48-roblox-fps-weapon-animations-%E2%80%93-r15-animation-pack/4983232",
+      "published": "2026-11-08",
+      "excerpt": "Looking to add more weapon animations to your Roblox experience? I’ve created a collection of 48 R15 weapon animations covering seven different weapon categories! The pack includes animations for: AK-47: Idle, Aim, Shoot, Reload, Inspect Pistol: Idle, Aim, Shoot, Reload, Inspect Shotgun: Idle, Aim, ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/48-roblox-fps-weapon-animations-%E2%80%93-r15-animation-pack/4983232.rss",
+      "id": "75f74585532059da66060bf6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Kids & Select Publishing Fee on Community Games with ZERO GROUP FUNDS",
+      "url": "https://devforum.roblox.com/t/kids-select-publishing-fee-on-community-games-with-zero-group-funds/4983225",
+      "published": "2026-11-08",
+      "excerpt": "Allow Group Developers to Spend Their Own Robux on Publishing Fees I've run into an issue while working on a community-owned experience. Currently, if an experience is owned by a group, only the group owner can spend their own Robux when the Kids & Select publishing fee needs to be paid. Even if ano",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/kids-select-publishing-fee-on-community-games-with-zero-group-funds/4983225.rss",
+      "id": "74f288f29c147031b381424a"
     },
     {
       "source": "reddit-robloxdev",
@@ -4389,6 +4520,30 @@
       "excerpt": "We are building a voxel Roblox game about sweeping Martian dust, and our zone value multipliers made the late game feel far too easy during playtests. We cut the multipliers and halved some upgrade gains, but I am unsure how long a good progression should take before players hit the end. How do you ",
       "creator": "/u/BeneficialDig33 https://www.reddit.com/user/BeneficialDig33",
       "id": "0501ce434a576b9335c710a8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Paying 50k all ages fee questions",
+      "url": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234",
+      "published": "2026-11-08",
+      "excerpt": "I have 2 questions regarding this: I have paid so far for 3 games the 50k fee. But If the fee changes in the future and I go to refund, do I get my 50k back or the new (probably lower fee)) What if group owner changes?? Who gets it back? the person who paid, the group owner, or the group?? 1 post - ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234.rss",
+      "id": "01e8e4ee7d27943d851712e0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Ambient wind noises get instantly moderated upon uploading",
+      "url": "https://devforum.roblox.com/t/ambient-wind-noises-get-instantly-moderated-upon-uploading/4983121",
+      "published": "2026-11-08",
+      "excerpt": "I’m uploading basic wind noises. As soon as it gets uploaded and I go to the asset page, it shows this. I’ve tried uploading it twice now. Page URL: https://create.roblox.com/dashboard/creations/store/87957175793068 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ambient-wind-noises-get-instantly-moderated-upon-uploading/4983121.rss",
+      "id": "01b99c664cbdf573671af32e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -6926,6 +7081,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/random-person-joined-my-game-with-no-permissions-in-the-group-or-anything/4979388.rss",
       "id": "4bc525663c975d772a9b9ed0"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Literally Everytime🥀 #stealanegg #roblox #skidgaming - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCM2JOWU9DMEcxZm9xckRJanBQS3ZEWkRYY1JUMU4wVlBHMkw5Z0pKTTl1STMyaVpFNG9zeFd4RnpQU0xjSmVSckZ4a0NjZEVHNHYxR1hn?oc=5",
+      "published": "2026-11-06",
+      "excerpt": "Literally Everytime🥀 #stealanegg #roblox #skidgaming Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "4b88200c0cd2db47408ea46e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9911,159 +10078,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/help-with-plugin-motor6dtransform/4974738.rss",
       "id": "375cfd70696dc5042a6ac051"
-    },
-    {
-      "source": "x-ui",
-      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
-      "category": "UI showcases",
-      "title": "Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded - X",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iQ2JLdXg3aW5EVG1ybV9nM1hCQkx2QjVIUHpfX2VDOHhmT0pmeEl5TmJMMmNmOVBiTl92dmNiVUZoTDMxU3JxNFZQR0hPM2pBa1JoR2I2bFpId1lOR3J5N3Qzdw?oc=5",
-      "published": "2026-11-04",
-      "excerpt": "Yeah when I play a video game I want every menu to have 20 minute transition animations and also visibly tell that all the visuals were hardcoded X",
-      "creator": "",
-      "publisher": "https://x.com",
-      "id": "36b83c992ebbe83bfd5890c7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Bring back profile status (what you're doing right now)",
-      "url": "https://devforum.roblox.com/t/bring-back-profile-status-what-youre-doing-right-now/4975367",
-      "published": "2026-11-04",
-      "excerpt": "As a Roblox user it is currently impossible to show people what I’m up to right now. The About section is for stuff that never changes, and there’s no place for a short “right now” message like the old status feature had. Would be great to have: a short status line on the profile (like “making a new",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/bring-back-profile-status-what-youre-doing-right-now/4975367.rss",
-      "id": "35b45dfee0b501c8058d5829"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to make any access changes to my Experience after Paying the 50,000 Robux manual review fee",
-      "url": "https://devforum.roblox.com/t/unable-to-make-any-access-changes-to-my-experience-after-paying-the-50000-robux-manual-review-fee/4975590",
-      "published": "2026-11-04",
-      "excerpt": "After paying the 50,000 Robux manual review fee and having my experience be verified as acceptable for users under 16, I have been unable to make access changes to it. I am uncertain if there are more steps to recreate this issue than simply completing the manual review process. I was attempting to ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-make-any-access-changes-to-my-experience-after-paying-the-50000-robux-manual-review-fee/4975590.rss",
-      "id": "3145e708951556e353c9aaa2"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I have just released a game and only getting 2% ctr in ads",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo3jme/i_have_just_released_a_game_and_only_getting_2/",
-      "published": "2026-11-04",
-      "excerpt": "I am not sure what I am doing wrong. I have spent 30 dollars for 3 days, 8 dollars so far 20 hours has passed but only at 1.9% ctr and learning settings. game link: https://preview.redd.it/r659ktanlozh1.png?width=1080&format=png&auto=webp&s=01547006131edc2ad8bc288844f3cefcafd41b68 https://www.roblox",
-      "creator": "/u/Artistic_Zone_8095 https://www.reddit.com/user/Artistic_Zone_8095",
-      "id": "301234e20ea58743e72f598f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for people to work on this Roblox game with me (making a team)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xntcw7/looking_for_people_to_work_on_this_roblox_game/",
-      "published": "2026-11-04",
-      "excerpt": "P2W is a first/third person shooter where you gain coins for the blood of your enemies in which you can use to upgrade yourself during the match. After the match, you get cash which you can use to purchase characters (skill sets), character skins, and new upgrades. There are 6 different characters, ",
-      "creator": "/u/izay_odd https://www.reddit.com/user/izay_odd",
-      "id": "2f912d07c5c7fa525ac35428"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I need feedback and testers!!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xna6nr/i_need_feedback_and_testers/",
-      "published": "2026-11-04",
-      "excerpt": "After a long time, I’ve finished my game, \"Car Chaos\". I’d love to get some feedback, and I’d also appreciate your help in reaching the 250 highly active players required by Roblox to make the game available to all age groups. Please provide constructive criticism. No negativity, please. roblox game",
-      "creator": "/u/Bea-T https://www.reddit.com/user/Bea-T",
-      "id": "2ebbbd20871957a858aef396"
-    },
-    {
-      "source": "brock-tiktok",
-      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Aliens are taking over Steal an Egg 👽 #Roblox #StealanEgg - TikTok",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YR0VFUTBpdlYybG01M25IR2NGSDVyNWZtMGZSemJGWkJEUE9UcTc4SExaSGZDQmNBYkliS3drWXBlbFdxMHRPVi1kT3JZMFRNRDRKd01PbGQxRGR5TzFUeHRrMVdGYkxUUUI4Wg?oc=5",
-      "published": "2026-11-04",
-      "excerpt": "Aliens are taking over Steal an Egg 👽 #Roblox #StealanEgg TikTok",
-      "creator": "",
-      "publisher": "https://www.tiktok.com",
-      "id": "288d1bfec6ffa634a3d2d11f"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "PlayerCharacterDestroyBehavior Will Be Default on November 11",
-      "url": "https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616",
-      "published": "2026-11-04",
-      "excerpt": "Key Takeaways On November 11th, we’ll make PlayerCharacterDestroyBehavior = Default behave the same as Enabled . This will make it so that when a player leaves or a character respawns, the server will automatically destroy the old Player or Character instance, which prevents a common class of server",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/playercharacterdestroybehavior-will-be-default-on-november-11/4975616.rss",
-      "id": "2775f1b292b457fb059b5cde"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I cannot connect my Card to Roblox Ads",
-      "url": "https://devforum.roblox.com/t/i-cannot-connect-my-card-to-roblox-ads/4974537",
-      "published": "2026-11-04",
-      "excerpt": "I have been trying to connect my debit card to my roblox ads manager account. and I keep on getting the messaged “failed to use card. Please try a different card”. I have checked that all my information is correct and in my transactions roblox has taken away 1 USD and given back 1 USD after all the ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-cannot-connect-my-card-to-roblox-ads/4974537.rss",
-      "id": "1d14f9871b30d87854bc2c59"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Enforcement Ban (Update)",
-      "url": "https://devforum.roblox.com/t/enforcement-ban-update/4975853",
-      "published": "2026-11-04",
-      "excerpt": "It’s been almost a month since my friend was falsely linked to an account he had no association or knowledge of. He’s been trying to appeal everyday but has gotten no responses other than automated ones. He’s tried to speak to humans through support but hasn’t been able to do so. Since Roblox hasn’t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/enforcement-ban-update/4975853.rss",
-      "id": "15b0e9cd6754c5e2d9bedf9e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Enforcement/new ban IMPORTANT",
-      "url": "https://devforum.roblox.com/t/enforcementnew-ban-important/4975874",
-      "published": "2026-11-04",
-      "excerpt": "Enforcement bans have been taking over millions of innocent players accounts with Roblox simply saying that it’s partially not false? Just in the Eu alone 20 million players have gotten banned in the past few weeks, more than probably any amount of bans Roblox has ever made, with 87% of them alone b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/enforcementnew-ban-important/4975874.rss",
-      "id": "156ee5ceba8be8502cefd9ba"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Purchasing Plus Subscriptions With Roblox Credits",
-      "url": "https://devforum.roblox.com/t/purchasing-plus-subscriptions-with-roblox-credits/4975937",
-      "published": "2026-11-04",
-      "excerpt": "The regular Roblox Plus subscription can be purchased for 3 or more months using Roblox Credit. However, the 500, 1,000, and 2,000 Robux/month Plus subscription plans do not offer this option. Since Roblox is currently banned in my region, we cannot subscribe to Roblox Plus directly and have to use ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/purchasing-plus-subscriptions-with-roblox-credits/4975937.rss",
-      "id": "1530fd04f89df61815731988"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Scaling Tool Handles/Axes show up even though I have nothing selected, persists after restarting Studio but only on a specific place.",
-      "url": "https://devforum.roblox.com/t/scaling-tool-handlesaxes-show-up-even-though-i-have-nothing-selected-persists-after-restarting-studio-but-only-on-a-specific-place/4974571",
-      "published": "2026-11-04",
-      "excerpt": "For some reason, on this specific place I just made in like a minute, I was suddenly confused by the scaling tool handles showing up without me even having a part selected. I tried to delete them since I thought they must’ve been a free model or something I accidentally inserted, but no, I can’t sel",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/scaling-tool-handlesaxes-show-up-even-though-i-have-nothing-selected-persists-after-restarting-studio-but-only-on-a-specific-place/4974571.rss",
-      "id": "14505a805845e1388c4f5fce"
     }
   ]
 }
