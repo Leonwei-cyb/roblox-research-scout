@@ -3080,7 +3080,13 @@
     "aee6161c3ab3de1cde48aa29",
     "0501ce434a576b9335c710a8",
     "a8708e92ac02126593bea8c9",
-    "413abddf6fca8586ffa8ffaa"
+    "413abddf6fca8586ffa8ffaa",
+    "d7f0733256f0e3241885dcbc",
+    "b6b89420ffb478f6efb8bbae",
+    "e5e7d5676b02c793637b08da",
+    "a0aeaa14ed07b7e3008e3161",
+    "1b13cef5cc7c0db87f57497d",
+    "44a4b180c1f68c142d47fbb3"
   ],
   "items": [
     {
@@ -3132,6 +3138,29 @@
       "id": "e9dfc36047844f6f0a4ca6db"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Music producer/SFX artist looking for devs to work with",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqxaxw/music_producersfx_artist_looking_for_devs_to_work/",
+      "published": "2026-11-08",
+      "excerpt": "Hello! My name is OSean, I have 5-6 years of experience in music production and SFX design. I’m looking to work with any developers who wants anything sound/music related for their games. My rates will be very flexible, as I am currently a uni student looking for a side hustle, although I am primari",
+      "creator": "/u/LeRealGabrielGD https://www.reddit.com/user/LeRealGabrielGD",
+      "id": "e5e7d5676b02c793637b08da"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Creating large border (400k x 128k studs across) with big parts (2048^3) crashes team create cloud",
+      "url": "https://devforum.roblox.com/t/creating-large-border-400k-x-128k-studs-across-with-big-parts-20483-crashes-team-create-cloud/4982174",
+      "published": "2026-11-08",
+      "excerpt": "644 parts with size of 2048x2048x2048 crash team create cloud after around 1-2 mins of creation with message Lost connection to the game server, please reconnect (277) (i have not tested smaller thickness or sizes) code for reproduction local MIN_X, MAX_X = -262144, 262143 local MIN_Z, MAX_Z = -6553",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/creating-large-border-400k-x-128k-studs-across-with-big-parts-20483-crashes-team-create-cloud/4982174.rss",
+      "id": "d7f0733256f0e3241885dcbc"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3172,7 +3201,7 @@
       "title": "Toolbox sounds too loud",
       "url": "https://devforum.roblox.com/t/toolbox-sounds-too-loud/4982090",
       "published": "2026-11-08",
-      "excerpt": "The sounds in toolbox are all super loud when you play them. I usually browse the toolbox sounds with my headset off just listening to the sound from my desk. It would be a lot easier to test sound effects if I could adjust their volume for playing in toolbox. 1 post - 1 participant Read full topic",
+      "excerpt": "The sounds in toolbox are all super loud when you play them. I usually browse the toolbox sounds with my headset off just listening to the sound from my desk. It would be a lot easier to test sound effects if I could adjust their volume for playing in toolbox. 3 posts - 3 participants Read full topi",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/toolbox-sounds-too-loud/4982090.rss",
       "id": "c8b43eee16b07ffaaa64471d"
@@ -3198,6 +3227,18 @@
       "excerpt": "I'm working for new game called Dreamdoom so I think making multiplayer game is good at Roblox game engine cause we can publish game on Roblox market too submitted by /u/CJxGameDev [link] [comments]",
       "creator": "/u/CJxGameDev https://www.reddit.com/user/CJxGameDev",
       "id": "bf97bbbc2c7cfd3f7f1bd766"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Universal games SS (serverside)",
+      "url": "https://devforum.roblox.com/t/universal-games-ss-serverside/4982157",
+      "published": "2026-11-08",
+      "excerpt": "Seeking for specific individual(s) who knows more details about Roblox’s internals, specifically packet related things (ONLY NEW BUILDS), to discuss the “universal games ss” which I need help with, the method still works but requires me someone who acknowledges the matter of things to work with, avo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/universal-games-ss-serverside/4982157.rss",
+      "id": "b6b89420ffb478f6efb8bbae"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3243,6 +3284,17 @@
       "excerpt": "I'm looking at trying to do stuff for my game specifically when it comes to the character design, for example, one of my characters has bat ears and the dev team has decided on this. We want to make the ears appear as though they're going through the hat and I don't want any clipping so I decided on",
       "creator": "/u/False-Negotiation-36 https://www.reddit.com/user/False-Negotiation-36",
       "id": "a2c4d8b65dade154d81acc38"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "how to hide device panel",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqx8ld/how_to_hide_device_panel/",
+      "published": "2026-11-08",
+      "excerpt": "https://preview.redd.it/xm76g8z4td0i1.png?width=1489&format=png&auto=webp&s=dba539ea56b6baff41698fcf6ab2fba4f72c7b11 how to hide this panel, if i close it studio applies automatic graphics submitted by /u/1ConnorTheRK800 [link] [comments]",
+      "creator": "/u/1ConnorTheRK800 https://www.reddit.com/user/1ConnorTheRK800",
+      "id": "a0aeaa14ed07b7e3008e3161"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4773,6 +4825,18 @@
       "excerpt": "https://preview.redd.it/ldg52fean40i1.png?width=534&format=png&auto=webp&s=31a52b0db50c9e1164e1e843faef4fe050e12e7a ? submitted by /u/SomeoneNoobyYT [link] [comments]",
       "creator": "/u/SomeoneNoobyYT https://www.reddit.com/user/SomeoneNoobyYT",
       "id": "4564b7245490c70326aa41c4"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Only today with Ben and Brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbGhFYnRKZjRoT1J6R3U5V2FESzJ6a3JHaWJ3WW01cU8xTjN4UDIzWG9MTzlpVVJsTDhCV0VSZk8tRkhELWtjLTJFV1Z3ZXppSnFmaC1B?oc=5",
+      "published": "2026-11-07",
+      "excerpt": "Only today with Ben and Brockodile in Steal an egg #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "44a4b180c1f68c142d47fbb3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9941,64 +10005,6 @@
       "excerpt": "so i was trying to put some pants on my r6 rig in rblx studio and it doesnt work i added the code to the clothing, i added it to the template thingy and it just does nothing, i genuinely dont know what to do im a noob in roblox studio, also the shirt with code etc works and it just makes me wonder w",
       "creator": "/u/goobahi https://www.reddit.com/user/goobahi",
       "id": "a82c117f0f81efe69cc9ce19"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "게임 피드백 가능할까요? 옷 디자인하는 게임입니다",
-      "url": "https://devforum.roblox.com/t/%EA%B2%8C%EC%9E%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%98%B7-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9E%85%EB%8B%88%EB%8B%A4/4972601",
-      "published": "2026-11-03",
-      "excerpt": "게임을 만들었는데 피드백 해주시면 감사하겠습니다ㅜㅜ 광고를 돌려도 재접속률이 너무 낮아요 Roblox 디자인시티 🎨 [할로윈] Check out 디자인시티 🎨 [할로윈] . It’s one of the millions of unique, user-generated 3D experiences created on Roblox. 🎨 DESIGN CITY Design your own clothes, save and wear your creations, sell your designs, and share in-game photos on LO",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/%EA%B2%8C%EC%9E%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%98%B7-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9E%85%EB%8B%88%EB%8B%A4/4972601.rss",
-      "id": "a70193779dd31c6961b6f84b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Using Roblox for my real neighborhood in Tokyo: today’s town + its Edo-period past, real-life events, kids building the future town. Looking for examples, ideas & play feedback",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn3xye/using_roblox_for_my_real_neighborhood_in_tokyo/",
-      "published": "2026-11-03",
-      "excerpt": "Hi r/robloxgamedev , I believe the US and other countries are ahead of Japan when it comes to using Roblox for community and social purposes, so I came here to learn from you. Background I live in Kakoi-cho, a small neighborhood right next to Nakano Station in Tokyo, and I’m a member of our local ar",
-      "creator": "/u/Least_Wish5214 https://www.reddit.com/user/Least_Wish5214",
-      "id": "a583091c8fb4805970ed26c6"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "where can i sell my game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xml23b/where_can_i_sell_my_game/",
-      "published": "2026-11-03",
-      "excerpt": "i had a good game idea and it flopped and now id like to sell it, Can anyone help? Edit: Holy hate 😭 submitted by /u/Rich-Low-5676 [link] [comments]",
-      "creator": "/u/Rich-Low-5676 https://www.reddit.com/user/Rich-Low-5676",
-      "id": "a55b0a727a72693d4a275239"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox/discord wallet bot",
-      "url": "https://devforum.roblox.com/t/robloxdiscord-wallet-bot/4972760",
-      "published": "2026-11-03",
-      "excerpt": "I’m planning a Discord bot for Roblox communities that helps manage donations and treasury activity using Roblox’s official transaction systems. The planned system would: Link Discord users to their Roblox accounts through Roblox OAuth. Create gamepasses through Roblox’s official Open Cloud API. Let",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/robloxdiscord-wallet-bot/4972760.rss",
-      "id": "a50048b6a84966da360764d4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Function isn't reading the arguments I'm sending it?",
-      "url": "https://devforum.roblox.com/t/function-isnt-reading-the-arguments-im-sending-it/4972673",
-      "published": "2026-11-03",
-      "excerpt": "Hello, to explain what’s going on, I have a table that stores functions in it and the functions are supposed to carry 2 arguments which is the player and a item. But for some reason when I play the game it says that the item is nil even though I sent the item to it. The item is activated with a Clic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/function-isnt-reading-the-arguments-im-sending-it/4972673.rss",
-      "id": "a4ea49679cb162fc61efb6b9"
     }
   ]
 }
