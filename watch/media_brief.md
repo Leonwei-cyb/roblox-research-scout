@@ -7,32 +7,24 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0JKVGNySmVBVFJpMkdETmFkZ09NaHBwVFYwOGFWWmFXZVlfSkRIMVZ1WlFGSFkyVHlDVUNST0ZZYlJ0VUlXWHhzaHZyclhoN25yOWN3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-08
-  - Feed excerpt: Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox Instagram
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE55MUNkcklMOHBTcTMzc2s3bTZTSC00WHJKUFExblpIVXRkUmFOVTIxY0UzRHFOODlYQ1h4ZHN5ZE5mOVJkQzA3TlJMbzhFX25Wdnl0c1V3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-02
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
 
 ## Community
 
-- **[Anyone have any tips on how to replicate the hair in the reference?](https://www.reddit.com/r/robloxgamedev/comments/1xqihoj/anyone_have_any_tips_on_how_to_replicate_the_hair/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: https://preview.redd.it/h9shny6el90i1.png?width=716&format=png&auto=webp&s=94a0b5b56b622308f393fc79409cdaacef4fe4e9 I'm trying to replicate (roughly) the reference I made for myself with the hair in the reference for the model, but all the 
-- **[EARLY access for our Roblox project soon. Here’s a first look!](https://www.reddit.com/r/robloxgamedev/comments/1xqimiu/early_access_for_our_roblox_project_soon_heres_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: Hey everyone, Me and a few friends have been working on a new Roblox project for the past few months, and we're getting close to Early Access. Since the video is just a quick teaser and doesn't show much full gameplay yet, we mainly want to
-- **[Made this a while back](https://www.reddit.com/r/robloxgamedev/comments/1xqkfto/made_this_a_while_back/)** · Reddit r/robloxgamedev public RSS · 2026-11-07
-  - Feed excerpt: submitted by /u/FewMonitor5985 \[link\] \[comments\]
-- **[Still looking for more people! :3](https://www.reddit.com/r/robloxgamedev/comments/1xqlpxa/still_looking_for_more_people_3/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: Ok, yes, I know, this is the... I don't even know what time this is, BUT! We still could use some more people on the team! WE VERY STILL MUCH NEED Modelers (cuz i suck lwk) Map makers Scripters VFX artists Composers And maybe some 2d animat
+- **[Can anyone tell me which way we can use Roblox game engine better in Linux cause it's not official thing we can dawnload](https://www.reddit.com/r/robloxgamedev/comments/1xqmxh2/can_anyone_tell_me_which_way_we_can_use_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: I'm working for new game called Dreamdoom so I think making multiplayer game is good at Roblox game engine cause we can publish game on Roblox market too submitted by /u/CJxGameDev \[link\] \[comments\]
+- **[Lots of hate on my game?](https://www.reddit.com/r/robloxgamedev/comments/1xqmicl/lots_of_hate_on_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: Released my first game and its done really well in my opinion peaked at 772CCU and hit a 10 million view video, I've had a lot of hate and backlash on the feedback tab is this normal? if anyone could give me more feedback id greatly appreci
+- **[Rule Changes: AI in posts limited to discussion only, banning links to third party services, plus clarifications on current rules](https://www.reddit.com/r/robloxgamedev/comments/1xqn2nb/rule_changes_ai_in_posts_limited_to_discussion/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: New Rules New Rule: Keep AI topics to Discussion only. This means that you can post about AI, and you can discuss about AI usage in Roblox development. However, you cannot have a post that's primarily AI images, written by AI, or shows a cr
+- **[would you click on this](https://www.reddit.com/r/robloxgamedev/comments/1xqmi7v/would_you_click_on_this/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: slop posting submitted by /u/peatmossing \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[TuxBlox - The New Way to Run Roblox Studio on Linux](https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: What is TuxBlox? TuxBlox is an open-source (GPL-3.0) launcher and compatibility layer for Roblox Studio. It runs the official, unmodified Roblox Windows client on Linux, using its own custom fork of Proton and Wine 11.0, built and tuned spe
-- **[Feedback and ciricism for my game PLEASE](https://devforum.roblox.com/t/feedback-and-ciricism-for-my-game-please/4981411)** · Roblox Developer Forum latest · 2026-11-07
-  - Feed excerpt: I’ve had a couple of friends try my game and they said it was fun but, but I would like opinions and criticism on what I can change or improve. Also quick warning the game is meant to be difficult. Things like: When you joined, was it clear
-- **[Analytics for experience page videos (views, watch time, plays after watching)](https://devforum.roblox.com/t/analytics-for-experience-page-videos-views-watch-time-plays-after-watching/4981458)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: As a Roblox developer, it is currently impossible to know whether the video on our experience page works. We upload it, it autoplays first on the page and can appear on Home, but Creator Analytics shows nothing about it. If Roblox is able t
-- **[My Script is skipping a decimal?](https://devforum.roblox.com/t/my-script-is-skipping-a-decimal/4981441)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Hello! Basically I’m running into this issue where my script seems to be skipping a number? Let me explain in more detail. In my game you go through doors, everytime you click and open a door theres a number that goes down from 1 to 0 and g
-- **[Program Asterisk - Looking for testers, and an environment artist \[ REV SHARE \]](https://devforum.roblox.com/t/program-asterisk-looking-for-testers-and-an-environment-artist-rev-share/4981428)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Program Asterisk is a realistic asymmetric horror game on Roblox in the style of Dead by Daylight. It’s been in development for about 7 months, and I’m looking for a few people to help it get across the line. What’s working right now Surviv
+- **[Gamma Corporation: Security Agent AI](https://devforum.roblox.com/t/gamma-corporation-security-agent-ai/4981530)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: idk I am making a game, like reverse SCP:CB, where you play as an “abnormality” and must escape. Except I decided to make it as brutal and punishing as possible. These videos don’t display the full medical system, but will show off the AI f
 
 ---
 

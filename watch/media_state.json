@@ -3035,7 +3035,13 @@
     "79ab095c27256111cece2289",
     "86aa082823cfe1ec6649de22",
     "0b5e8e057698ffe4414703e4",
-    "00a22e7686a0aaf05591aea3"
+    "00a22e7686a0aaf05591aea3",
+    "b143146a4dd98edb3004761f",
+    "634d43a27a17dc9a32a600f7",
+    "bf97bbbc2c7cfd3f7f1bd766",
+    "133d3e6da3492cfda0a25675",
+    "516425a62ffeb3c3afb1bf5d",
+    "2bd1b0dd8e5df75b19bfe412"
   ],
   "items": [
     {
@@ -3061,6 +3067,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/program-asterisk-looking-for-testers-and-an-environment-artist-rev-share/4981428.rss",
       "id": "f0b803258aee25f49739ce11"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Can anyone tell me which way we can use Roblox game engine better in Linux cause it's not official thing we can dawnload",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqmxh2/can_anyone_tell_me_which_way_we_can_use_roblox/",
+      "published": "2026-11-08",
+      "excerpt": "I'm working for new game called Dreamdoom so I think making multiplayer game is good at Roblox game engine cause we can publish game on Roblox market too submitted by /u/CJxGameDev [link] [comments]",
+      "creator": "/u/CJxGameDev https://www.reddit.com/user/CJxGameDev",
+      "id": "bf97bbbc2c7cfd3f7f1bd766"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Gamma Corporation: Security Agent AI",
+      "url": "https://devforum.roblox.com/t/gamma-corporation-security-agent-ai/4981530",
+      "published": "2026-11-08",
+      "excerpt": "idk I am making a game, like reverse SCP:CB, where you play as an “abnormality” and must escape. Except I decided to make it as brutal and punishing as possible. These videos don’t display the full medical system, but will show off the AI for the NPCs. In this case, the NPCs are acting as Security O",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/gamma-corporation-security-agent-ai/4981530.rss",
+      "id": "b143146a4dd98edb3004761f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3096,6 +3125,39 @@
       "excerpt": "Ok, yes, I know, this is the... I don't even know what time this is, BUT! We still could use some more people on the team! WE VERY STILL MUCH NEED Modelers (cuz i suck lwk) Map makers Scripters VFX artists Composers And maybe some 2d animators / artists PLEASE HIT ME UP IF YOU FIT ANY OF THESE BOXES",
       "creator": "/u/Calm-Newt-1011 https://www.reddit.com/user/Calm-Newt-1011",
       "id": "6be4286a7dc1e5f678e2bccc"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Rule Changes: AI in posts limited to discussion only, banning links to third party services, plus clarifications on current rules",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqn2nb/rule_changes_ai_in_posts_limited_to_discussion/",
+      "published": "2026-11-08",
+      "excerpt": "New Rules New Rule: Keep AI topics to Discussion only. This means that you can post about AI, and you can discuss about AI usage in Roblox development. However, you cannot have a post that's primarily AI images, written by AI, or shows a creation that's primarily AI (such as AI created UI/UX) As muc",
+      "creator": "/u/AutoModerator https://www.reddit.com/user/AutoModerator",
+      "id": "634d43a27a17dc9a32a600f7"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "would you click on this",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqmi7v/would_you_click_on_this/",
+      "published": "2026-11-08",
+      "excerpt": "slop posting submitted by /u/peatmossing [link] [comments]",
+      "creator": "/u/peatmossing https://www.reddit.com/user/peatmossing",
+      "id": "516425a62ffeb3c3afb1bf5d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Lots of hate on my game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqmicl/lots_of_hate_on_my_game/",
+      "published": "2026-11-08",
+      "excerpt": "Released my first game and its done really well in my opinion peaked at 772CCU and hit a 10 million view video, I've had a lot of hate and backlash on the feedback tab is this normal? if anyone could give me more feedback id greatly appreciate it! Game is Blockade! submitted by /u/xdNK11 [link] [com",
+      "creator": "/u/xdNK11 https://www.reddit.com/user/xdNK11",
+      "id": "133d3e6da3492cfda0a25675"
     },
     {
       "source": "brock-ig-reels",
@@ -3728,7 +3790,7 @@
       "title": "Changing Graphics Quality opens Device Simulation",
       "url": "https://devforum.roblox.com/t/changing-graphics-quality-opens-device-simulation/4981308",
       "published": "2026-11-07",
-      "excerpt": "Adjusting the graphics quality, and even the Editor Quality Level in Studio Settings will open the device simulation. I don’t want to use automatic. 2 posts - 2 participants Read full topic",
+      "excerpt": "Adjusting the graphics quality, and even the Editor Quality Level in Studio Settings will open the device simulation. I don’t want to use automatic. 3 posts - 3 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/changing-graphics-quality-opens-device-simulation/4981308.rss",
       "id": "ac32388fd4bf2c646b689eb5"
@@ -9896,64 +9958,6 @@
       "excerpt": "made a roblox game can u tell me if its good or what i need to make better so players will enjoy it or make any changes submitted by /u/Appropriate_Virus625 [link] [comments]",
       "creator": "/u/Appropriate_Virus625 https://www.reddit.com/user/Appropriate_Virus625",
       "id": "65341664fca98e4b67f7f21a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I made a co-op horde survival game inspired by vampire survivors / megabonk",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn2a7j/i_made_a_coop_horde_survival_game_inspired_by/",
-      "published": "2026-11-03",
-      "excerpt": "Hi! I'm a solo dev and this is my first real Roblox game: Night Horde Survival. You're a \"Viking\" in a 20-minute night. Your weapons fire on their own, you level up, pick cards, stack relics and runes. Buy pets, master your weapons, or AFK at the campfire to earn gold! The more you play the stronger",
-      "creator": "/u/FourWingStudio https://www.reddit.com/user/FourWingStudio",
-      "id": "649ba43b6c59c2a2e6652a59"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allowing custom materials to be applied to a surface when one walks through a block",
-      "url": "https://devforum.roblox.com/t/allowing-custom-materials-to-be-applied-to-a-surface-when-one-walks-through-a-block/4974167",
-      "published": "2026-11-03",
-      "excerpt": "Hello, I have a feature in my game, where a model is able to move through a block, in order to have a material applied to the model. I have attempted to use this to apply custom materials, however this seems to only work with Roblox-created materials. See the video above, where the material changer ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allowing-custom-materials-to-be-applied-to-a-surface-when-one-walks-through-a-block/4974167.rss",
-      "id": "642add5713415cd27d5337d3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to Manage Roblox Plus Subscription",
-      "url": "https://devforum.roblox.com/t/unable-to-manage-roblox-plus-subscription/4972866",
-      "published": "2026-11-03",
-      "excerpt": "I’m trying to renew my Roblox Plus subscription from when I was given the free 3/6 months or whatever. However I’m not able to renew my subscription on Desktop nor Mobile. I need to be able to renew my subscription before it ends so that my games remain visible. 1 post - 1 participant Read full topi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-manage-roblox-plus-subscription/4972866.rss",
-      "id": "62d5102e5afd53086111ac62"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Problems with corners in pathbuilding script",
-      "url": "https://devforum.roblox.com/t/problems-with-corners-in-pathbuilding-script/4972785",
-      "published": "2026-11-03",
-      "excerpt": "Hello. I have a pathmaking script that uses waypoints to create paths. As you can see, it does not create a desirable result on the corners: The pathbuilding uses this formula for the orientation: (modified to work with Cframe EulerAngles) atan2(Δx, -Δz) atan2(Δy, √(Δx^2+Δz^2)) The pathbuilding also",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/problems-with-corners-in-pathbuilding-script/4972785.rss",
-      "id": "610f35ea80df5606a4acb230"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "War Style Game - Two friends one big dream",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn472a/war_style_game_two_friends_one_big_dream/",
-      "published": "2026-11-03",
-      "excerpt": "Hi everybody! I recently made a little project with my friend on Roblox about a war game. The game is decent but there is lots of room for improvement ( its still in pre alpha tho ). I would love to know what i need to further polish or add.. I was thinking about adding a practice with bots as its i",
-      "creator": "/u/Smooth_Procedure5946 https://www.reddit.com/user/Smooth_Procedure5946",
-      "id": "5d4a10d36ac98f225fd2d0ae"
     }
   ]
 }
