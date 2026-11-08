@@ -5,36 +5,53 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
+## Roblox Build / 3D Examples
 
-- **[Claude Opus 5.5 + Roblox Studio = $44,052/mo (Zero Coding Full Course) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcDl3b1J3Y2Z3c092NEpmT2hwdGRZNzJDdVJWejNUdU9PbkFMa05mSTJKNEdJdHhjYWhhNXAyazlGY3NwYkR2dEcyN0dtUTQyUE9ianZ3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-08
-  - Feed excerpt: Claude Opus 5.5 + Roblox Studio = $44,052/mo (Zero Coding Full Course) YouTube
+- **[How to Make a Game Trailer For FREE in 2026!](https://www.youtube.com/watch?v=m2CvbbQmQ0k)** · YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade · 2026-11-08
 
 ## Community
 
-- **[How do I improve playtime?](https://www.reddit.com/r/robloxgamedev/comments/1xr0ajb/how_do_i_improve_playtime/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: A positive is my 10% CTR however the bounce rate is high and playtime is low. I'm on the fence of abandoning this project, cause the core game might simply be fundamentally uninteresting. 99% of players are on mobile btw To increase playtim
-- **[I need help with the Roblox Studio Device Emulator (more in body text)](https://www.reddit.com/r/robloxgamedev/comments/1xr0jts/i_need_help_with_the_roblox_studio_device/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: essentially, anytime i deactivate the Device Emulator, it automatically switches my Graphics/Rendering level to Automatic is there ANY fix for this? submitted by /u/steezy0008 \[link\] \[comments\]
-- **[A little clip of my game](https://www.reddit.com/r/robloxgamedev/comments/1xqzidv/a_little_clip_of_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: How would you rate it :D submitted by /u/Opposite_yep_476 \[link\] \[comments\]
-- **[How do i import 3D models correctly?](https://www.reddit.com/r/robloxgamedev/comments/1xqzonp/how_do_i_import_3d_models_correctly/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: i want it to NOT look like this because when i open the animations it looks like spaghetti shi submitted by /u/ZombossGaming \[link\] \[comments\]
-- **[Looking for investor](https://www.reddit.com/r/robloxgamedev/comments/1xr13uy/looking_for_investor/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: I am looking for investor for Christmas event this year. About coreloop: Asym horror game with unique mechanics and Machine learning algorithms. dm me: dev_maxl submitted by /u/dev_maximus \[link\] \[comments\]
-- **[Unique* Combat System In My Kingdom Builder](https://www.reddit.com/r/robloxgamedev/comments/1xr1506/unique_combat_system_in_my_kingdom_builder/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: *unique because i haven't seen someone before do something like this for melee combat but it's obviously inspired by OSU. How it works is you have a free hand combat system where you actually have to aim with your sword to get hits in. sing
+- **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xr4dus/investor_entity_original_asym_horror_game_seeking/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every m
+- **[Where can i find some playtesters ? :3](https://www.reddit.com/r/ROBLOXStudio/comments/1xr1am2/where_can_i_find_some_playtesters_3/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: Hey everyone! This is my first game since switching from Unity to Roblox, and I’m not sure if Roblox players would actually enjoy it. A friend who plays Roblox tried it and said it was pretty fun. He also helped me understand what Roblox ga
+- **[Device emulator failing to do high resolution](https://www.reddit.com/r/ROBLOXStudio/comments/1xr0v2a/device_emulator_failing_to_do_high_resolution/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: Every time I use device emulation all I get is the screen you see in the screenshot. around mid October it could not show a resolution above 3k~ and would shrink it similar to the fit to window option. Recently I've tried using it again at 
+- **[Dragger only snaps to rotated parts but not to wedges](https://www.reddit.com/r/ROBLOXStudio/comments/1xr2q8i/dragger_only_snaps_to_rotated_parts_but_not_to/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: Self-explanatory. I do have "Align dragged objects" enabled, I had an issue a few days ago where I accidentally pressed some keybind that disabled it and ever since re-enabling it my dragger no longer aligns parts to wedges, cylinders or sp
+- **[Im trying to buy ads credits](https://www.reddit.com/r/ROBLOXStudio/comments/1xr46ud/im_trying_to_buy_ads_credits/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: I don’t know why I’m getting this error. I have over $100 on each card, and it doesn’t even show any attempted charges—the error pops up instantly. I’ve tried on both my phone and PC, tested it using settings for the U.S. and for my own cou
+- **[Please do not trust this person in Roblox](https://www.reddit.com/r/ROBLOXStudio/comments/1xr3fhj/please_do_not_trust_this_person_in_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: I don’t play adopt me and mm2, but this person asked me to trade them so I added them on Roblox, turned out they took my password and when I joined Roblox two hours later, I saw my Royale high stuff are mostly gone and they replaced my GoT 
+- **[Smash Patch!](https://www.reddit.com/r/ROBLOXStudio/comments/1xr48og/smash_patch/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: My game is now out! submitted by /u/Choice_Bill_1336 \[link\] \[comments\]
+- **[Testing games\[Paid\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xr3t2y/testing_gamespaid/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: \[Hiring\] Experienced QA / Game Tester \| Rates: Robux (Negotiable) Hey Developers! I am looking to offer my services as a Roblox Game Tester for your upcoming projects or current games in exchange for Robux . As a tester, I don't just say "y
+- **[This is proof you dont need Ai to make your roblox games](https://www.reddit.com/r/ROBLOXStudio/comments/1xqrwiy/this_is_proof_you_dont_need_ai_to_make_your/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: https://preview.redd.it/12zuqmt73c0i1.png?width=1920&format=png&auto=webp&s=b8498822978366f608a25f4801353912645b510d #ilovegamedevelopment submitted by /u/wyataur369 \[link\] \[comments\]
+- **[does anyone know how to make cape stuffs by unions only(im noob at blender)](https://www.reddit.com/r/ROBLOXStudio/comments/1xqz2hc/does_anyone_know_how_to_make_cape_stuffs_by/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: submitted by /u/MaikTwo22 \[link\] \[comments\]
+- **[how do i hide this panel](https://www.reddit.com/r/ROBLOXStudio/comments/1xqx7y4/how_do_i_hide_this_panel/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: https://preview.redd.it/01pc09lzsd0i1.png?width=1489&format=png&auto=webp&s=2d1f8c8cedbdaaf3f240ebecfe441e68148a9ae9 if i hide it studio just applies automatic graphics submitted by /u/1ConnorTheRK800 \[link\] \[comments\]
+- **[why i cant open my roblox game?](https://www.reddit.com/r/ROBLOXStudio/comments/1xr1bez/why_i_cant_open_my_roblox_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-08
+  - Feed excerpt: i just wanted to edit my roblox game and this is what it shows https://preview.redd.it/egaapjhgse0i1.png?width=1920&format=png&auto=webp&s=10ef6ab70649df4fcd215f63566ebba78ae1ca62 guys pls help me submitted by /u/Alert_Slide_8593 \[link\] \[co
 
 ## Roblox Updates
 
-- **[DockWidgetPluginGuiInfo MinWidth and MinHeight are ignored for floating widgets](https://devforum.roblox.com/t/dockwidgetpluginguiinfo-minwidth-and-minheight-are-ignored-for-floating-widgets/4982388)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: The minWidth and minHeight values passed to DockWidgetPluginGuiInfo.new are not enforced. A floating DockWidgetPluginGui can be resized far below the minimum size, in both width and height. Repro steps In Studio, create a Script in ServerSt
-- **[Introducing calling friends on Roblox: A new feature](https://devforum.roblox.com/t/introducing-calling-friends-on-roblox-a-new-feature/4982407)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: As a roblox developer, I would like to suggest a new feature for roblox. Calling friends. This new feature will be part of roblox. Not only you can chat. You can now call. I really like this new feature because it is similar to voice chat b
-- **[ParticleEmitter relative to world property](https://devforum.roblox.com/t/particleemitter-relative-to-world-property/4982418)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: I was making a torch for my game and I wanted to have a particle that goes up even when the torch is slanted attached to a wall. I noticed that there is easy way to do this, workaround with an pivoted attachment or an invisible part. It wou
-- **[Security notification feature replacement](https://devforum.roblox.com/t/security-notification-feature-replacement/4982422)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: As a Roblox developer, it is currently too hard to remove the security notification feature. Which is really annoying when i encounter it. It has been there in the roblox platform for many years. Happens when you log in with a vpn or from a
+- **["Device Simulation" window opens when I change my Studio settings](https://devforum.roblox.com/t/device-simulation-window-opens-when-i-change-my-studio-settings/4982706)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Visual Aids: Disabling this feature, will change my graphics level back to “automatic”. I can’t work with graphics set to “automatic” because my game won’t show up properly as it does on high graphics. My intend is to make the game look goo
+- **[Assets don't upload with good name and fails reupload](https://devforum.roblox.com/t/assets-dont-upload-with-good-name-and-fails-reupload/4982718)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Hello, I’ve been trying to upload assets. On the preview it looks something like this: But once they upload, roblox trims parts of the name for absolutely no reason? Like this: And now whenever I try to reupload them with different names, i
+- **[Christmas Map assets](https://devforum.roblox.com/t/christmas-map-assets/4982569)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Ola people! I’ve been working on a few horror games lately, trying out lots of ideas and themes. One of them was a Christmas game that we decided to take in a completely different direction. It’s not scrapped, it’s just a different concept 
+- **[Editor levels and test device emulator](https://devforum.roblox.com/t/editor-levels-and-test-device-emulator/4982555)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: I tried using device emulator for the first time in a while and now i can’t disable it while keeping my editor level at 21, if i disable it with the top bar settings it puts my editor level to automatic and then if i put my editor level bac
+- **[Give tips for my Nintendo inspired soundtracks](https://devforum.roblox.com/t/give-tips-for-my-nintendo-inspired-soundtracks/4982618)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Hello! I wanna write Soundtracks for my games in the future, and im ttrying to learn it. I wanted to combine Toby Fox style, my Style and Nintendo type music. I have only 1.5+ years of experience and my soundtracks are not really good.. I w
+- **[I wanted to show you this military simulator game I thought you'd like it :D](https://devforum.roblox.com/t/i-wanted-to-show-you-this-military-simulator-game-i-thought-youd-like-it-d/4982573)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Locked and Loaded \| Play on Roblox 1 post - 1 participant Read full topic
+- **[Studio Games Not Opening](https://devforum.roblox.com/t/studio-games-not-opening/4982625)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Cant enter edit in my game keeps giving me the same error 1 post - 1 participant Read full topic
 
 ---
 
