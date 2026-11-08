@@ -3025,9 +3025,90 @@
     "a9f54d3fccbbf21cd214eb13",
     "c81fee776fa434581fc0dedd",
     "d0960570da825f3aa5a6d488",
-    "3c24a9d3dcd6b7b85e17e6a2"
+    "3c24a9d3dcd6b7b85e17e6a2",
+    "f34b546328f9801685c67b09",
+    "87ff34ac58f816a93b8daa3c",
+    "f0b803258aee25f49739ce11",
+    "7ba448fb2f8734e917719074",
+    "af60699d45f3f5bd6c6a2186",
+    "6be4286a7dc1e5f678e2bccc",
+    "79ab095c27256111cece2289",
+    "86aa082823cfe1ec6649de22",
+    "0b5e8e057698ffe4414703e4",
+    "00a22e7686a0aaf05591aea3"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Analytics for experience page videos (views, watch time, plays after watching)",
+      "url": "https://devforum.roblox.com/t/analytics-for-experience-page-videos-views-watch-time-plays-after-watching/4981458",
+      "published": "2026-11-08",
+      "excerpt": "As a Roblox developer, it is currently impossible to know whether the video on our experience page works. We upload it, it autoplays first on the page and can appear on Home, but Creator Analytics shows nothing about it. If Roblox is able to address this issue, it would improve my development experi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/analytics-for-experience-page-videos-views-watch-time-plays-after-watching/4981458.rss",
+      "id": "f34b546328f9801685c67b09"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Program Asterisk - Looking for testers, and an environment artist [ REV SHARE ]",
+      "url": "https://devforum.roblox.com/t/program-asterisk-looking-for-testers-and-an-environment-artist-rev-share/4981428",
+      "published": "2026-11-08",
+      "excerpt": "Program Asterisk is a realistic asymmetric horror game on Roblox in the style of Dead by Daylight. It’s been in development for about 7 months, and I’m looking for a few people to help it get across the line. What’s working right now Survivor and killer with custom movement and collision, including ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/program-asterisk-looking-for-testers-and-an-environment-artist-rev-share/4981428.rss",
+      "id": "f0b803258aee25f49739ce11"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My Script is skipping a decimal?",
+      "url": "https://devforum.roblox.com/t/my-script-is-skipping-a-decimal/4981441",
+      "published": "2026-11-08",
+      "excerpt": "Hello! Basically I’m running into this issue where my script seems to be skipping a number? Let me explain in more detail. In my game you go through doors, everytime you click and open a door theres a number that goes down from 1 to 0 and goes down .01 per door opened. The problem is however when th",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-script-is-skipping-a-decimal/4981441.rss",
+      "id": "87ff34ac58f816a93b8daa3c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "TuxBlox - The New Way to Run Roblox Studio on Linux",
+      "url": "https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423",
+      "published": "2026-11-08",
+      "excerpt": "What is TuxBlox? TuxBlox is an open-source (GPL-3.0) launcher and compatibility layer for Roblox Studio. It runs the official, unmodified Roblox Windows client on Linux, using its own custom fork of Proton and Wine 11.0, built and tuned specifically for Roblox. It’s bundled with TuxBlox, so it doesn",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423.rss",
+      "id": "7ba448fb2f8734e917719074"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Still looking for more people! :3",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqlpxa/still_looking_for_more_people_3/",
+      "published": "2026-11-08",
+      "excerpt": "Ok, yes, I know, this is the... I don't even know what time this is, BUT! We still could use some more people on the team! WE VERY STILL MUCH NEED Modelers (cuz i suck lwk) Map makers Scripters VFX artists Composers And maybe some 2d animators / artists PLEASE HIT ME UP IF YOU FIT ANY OF THESE BOXES",
+      "creator": "/u/Calm-Newt-1011 https://www.reddit.com/user/Calm-Newt-1011",
+      "id": "6be4286a7dc1e5f678e2bccc"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0JKVGNySmVBVFJpMkdETmFkZ09NaHBwVFYwOGFWWmFXZVlfSkRIMVZ1WlFGSFkyVHlDVUNST0ZZYlJ0VUlXWHhzaHZyclhoN25yOWN3?oc=5",
+      "published": "2026-11-08",
+      "excerpt": "Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "00a22e7686a0aaf05591aea3"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -3620,6 +3701,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Feedback and ciricism for my game PLEASE",
+      "url": "https://devforum.roblox.com/t/feedback-and-ciricism-for-my-game-please/4981411",
+      "published": "2026-11-07",
+      "excerpt": "I’ve had a couple of friends try my game and they said it was fun but, but I would like opinions and criticism on what I can change or improve. Also quick warning the game is meant to be difficult. Things like: When you joined, was it clear what to do within the first 30 seconds? Did anything confus",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-and-ciricism-for-my-game-please/4981411.rss",
+      "id": "af60699d45f3f5bd6c6a2186"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Intermittent Frame Drops in Roblox Studio Even on an Empty Baseplate",
       "url": "https://devforum.roblox.com/t/intermittent-frame-drops-in-roblox-studio-even-on-an-empty-baseplate/4979907",
       "published": "2026-11-07",
@@ -3813,6 +3906,17 @@
       "id": "86d7ab3775a126b08bd9b76e"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "EARLY access for our Roblox project soon. Here’s a first look!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqimiu/early_access_for_our_roblox_project_soon_heres_a/",
+      "published": "2026-11-07",
+      "excerpt": "Hey everyone, Me and a few friends have been working on a new Roblox project for the past few months, and we're getting close to Early Access. Since the video is just a quick teaser and doesn't show much full gameplay yet, we mainly want to know if the overall vibe and style grab your attention. Fee",
+      "creator": "/u/Ghosame https://www.reddit.com/user/Ghosame",
+      "id": "86aa082823cfe1ec6649de22"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3880,6 +3984,17 @@
       "excerpt": "submitted by /u/Calm-Try1206 [link] [comments]",
       "creator": "/u/Calm-Try1206 https://www.reddit.com/user/Calm-Try1206",
       "id": "7b0521a22efae828b35b5a85"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Made this a while back",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqkfto/made_this_a_while_back/",
+      "published": "2026-11-07",
+      "excerpt": "submitted by /u/FewMonitor5985 [link] [comments]",
+      "creator": "/u/FewMonitor5985 https://www.reddit.com/user/FewMonitor5985",
+      "id": "79ab095c27256111cece2289"
     },
     {
       "source": "reddit-robloxdev",
@@ -4552,6 +4667,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/overwritten-hat-accessories-not-siting-on-the-players-head/4981307.rss",
       "id": "0c6a5eba4978baea30975f22"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Anyone have any tips on how to replicate the hair in the reference?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqihoj/anyone_have_any_tips_on_how_to_replicate_the_hair/",
+      "published": "2026-11-07",
+      "excerpt": "https://preview.redd.it/h9shny6el90i1.png?width=716&format=png&auto=webp&s=94a0b5b56b622308f393fc79409cdaacef4fe4e9 I'm trying to replicate (roughly) the reference I made for myself with the hair in the reference for the model, but all the hair tutorials I follow/are available tend to lean towards r",
+      "creator": "/u/Accomplished-Level20 https://www.reddit.com/user/Accomplished-Level20",
+      "id": "0b5e8e057698ffe4414703e4"
     },
     {
       "source": "reddit-robloxdev",
@@ -9828,121 +9954,6 @@
       "excerpt": "Hi everybody! I recently made a little project with my friend on Roblox about a war game. The game is decent but there is lots of room for improvement ( its still in pre alpha tho ). I would love to know what i need to further polish or add.. I was thinking about adding a practice with bots as its i",
       "creator": "/u/Smooth_Procedure5946 https://www.reddit.com/user/Smooth_Procedure5946",
       "id": "5d4a10d36ac98f225fd2d0ae"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "IM DONT own this game but the dev needs help to revieve this game named BloxRp 2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xms5as/im_dont_own_this_game_but_the_dev_needs_help_to/",
-      "published": "2026-11-03",
-      "excerpt": "Thank you for helping! submitted by /u/OrneryPass3379 [link] [comments]",
-      "creator": "/u/OrneryPass3379 https://www.reddit.com/user/OrneryPass3379",
-      "id": "5d0421a6e8b5678cc67d81b9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Penpot Bridge — Free, open-source Penpot to Roblox UI importer",
-      "url": "https://devforum.roblox.com/t/penpot-bridge-%E2%80%94-free-open-source-penpot-to-roblox-ui-importer/4972663",
-      "published": "2026-11-03",
-      "excerpt": "Penpot Bridge brings Penpot designs into Roblox Studio as editable UI where supported, with image fallbacks for complex artwork. Select a layer, group or board in Penpot, prepare it, send it to Studio, review the changes and import. Send the same selection again to update an existing import, preserv",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/penpot-bridge-%E2%80%94-free-open-source-penpot-to-roblox-ui-importer/4972663.rss",
-      "id": "5b75582c6dcd2a409f7d5075"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[URGENT] Roblox moderation fails to see epilepsy risks",
-      "url": "https://devforum.roblox.com/t/urgent-roblox-moderation-fails-to-see-epilepsy-risks/4973435",
-      "published": "2026-11-03",
-      "excerpt": "I am making this topic to bring more awareness to the possibility of epilepsy attacks. I have tried to warn developers, but this isn’t always possible. The only real avenues for this are reporting on the DevForum or reporting the game through Report Abuse. However, the Report Abuse system will almos",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/urgent-roblox-moderation-fails-to-see-epilepsy-risks/4973435.rss",
-      "id": "58b1d706f797bdf201b54028"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roma Invicta villa map",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn55tt/roma_invicta_villa_map/",
-      "published": "2026-11-03",
-      "excerpt": "Roman themed, modeled/textured in blender. submitted by /u/RomaInvictaDev [link] [comments]",
-      "creator": "/u/RomaInvictaDev https://www.reddit.com/user/RomaInvictaDev",
-      "id": "56a31606ca64385503e2ff8f"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Build Accessible UI Faster: New Color3 Contrast & Luminance Methods",
-      "url": "https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212",
-      "published": "2026-11-03",
-      "excerpt": "Key Takeaways We’ve added three new methods directly to the Color3 datatype: GetContrastingColor , GetContrastRatio , and GetLuminance . You can now automatically pick readable text/foreground colors across any background color. Hello Creators Reading light text on a light background, or dark text o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212.rss",
-      "id": "55dc9fafa9da31de3f20b8ab"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Test for test? I'll play your Roblox game if you play mine!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn2xk0/test_for_test_ill_play_your_roblox_game_if_you/",
-      "published": "2026-11-03",
-      "excerpt": "I just made my first Roblox game, a sandbox dino park builder. It's kind of like TPT2 (Theme Park Tycoon 2), but with dinosaurs. I need people to try it and tell me what's good and what's bad. Drop your game link in the comments, and I'll play it and give you honest feedback. You do the same for min",
-      "creator": "/u/Double-Ear7796 https://www.reddit.com/user/Double-Ear7796",
-      "id": "529a77c843cb26988e354d6d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "What do you think Roblox is missing?",
-      "url": "https://devforum.roblox.com/t/what-do-you-think-roblox-is-missing/4973266",
-      "published": "2026-11-03",
-      "excerpt": "In your opinion, what features are currently missing from the Dev Forum and other sections—features that developers actually need? For example, perhaps an analytics tool, specialized articles, or a specific categorization system? What do you think? 7 posts - 5 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/what-do-you-think-roblox-is-missing/4973266.rss",
-      "id": "528b82744c10264034ac505f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made a level/map editor in a few weeks, looking for feedback from people who design levels",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xms196/made_a_levelmap_editor_in_a_few_weeks_looking_for/",
-      "published": "2026-11-03",
-      "excerpt": "I made a map editor where you draw a plan in 2D and the 3D view builds as you go. It handles roads, multi-storey buildings with stairs and roofs, terrain, and scenery, and you can walk through the result right away. It's closed source at the moment. If you design levels, what would stop you from usi",
-      "creator": "/u/Md_Ashraful_Islam https://www.reddit.com/user/Md_Ashraful_Islam",
-      "id": "4f08a19ea9287fb3743dc359"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Verified badge unobtainable after false & appealed username moderation",
-      "url": "https://devforum.roblox.com/t/verified-badge-unobtainable-after-false-appealed-username-moderation/4972587",
-      "published": "2026-11-03",
-      "excerpt": "I received a Verified Badge after meeting the requirements. Apparently, My previous username has been tagged for years, I had no idea why and I never had problems with it. On October 1st, my username was reset. I quickly sent an appeal and this moderation action was scratched off the list (appeal ac",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/verified-badge-unobtainable-after-false-appealed-username-moderation/4972587.rss",
-      "id": "4e01f96efdb55323570e25ee"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "idk what im doing bro",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn6wfb/idk_what_im_doing_bro/",
-      "published": "2026-11-03",
-      "excerpt": "whenever I try and upload anything it says too many requests. I even waited a day and it's still doing it. google and YouTube doesn't help so I came here someone pls help me. submitted by /u/sprite_brite5446 [link] [comments]",
-      "creator": "/u/sprite_brite5446 https://www.reddit.com/user/sprite_brite5446",
-      "id": "4de8cd1741f9234f84211287"
     }
   ]
 }

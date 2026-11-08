@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) — i18n: Improve Traditional Chinese translations (#9540).
+- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — Add ripple preview support to the MLX runner (#19592).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

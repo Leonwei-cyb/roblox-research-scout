@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 598; direct candidates: 588;
+Indexed entries: 598; direct candidates: 587;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 On hold, NOT current work: Cat Magic. Their older report files are historical only.
@@ -14,8 +14,8 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
   - devforum · **UNVIEWED_METADATA** · Check: At the same game state as the Colonist.io original, does a turn read as roll, collect, build or trade, end?
 - **P0 · first-session and mobile:** [Toolbar is effectively broken on Mobile devices](https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
-- **P1 · UI and menus:** [Build Accessible UI Faster: New Color3 Contrast & Luminance Methods](https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212)
-  - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
+- **P1 · UI and menus:** [Small minigame and UI update](https://www.reddit.com/r/ROBLOXStudio/comments/1xne6l1/small_minigame_and_ui_update/)
+  - reddit · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [Fuck it I made even more SpongeBob models](https://www.reddit.com/r/ROBLOXStudio/comments/1xni1pm/fuck_it_i_made_even_more_spongebob_models/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
 - **P1 · animation and audio:** [\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)

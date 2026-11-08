@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "5e983d4f800053c6f5691496b675c3212aa8099d",
-      "head_subject": "launch: fix Claude Code routing and retired model errors (#19587)",
+      "head": "d63b702609c4300a2ca07be2bdb0adb9834725e5",
+      "head_subject": "Add ripple preview support to the MLX runner (#19592)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.15",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
