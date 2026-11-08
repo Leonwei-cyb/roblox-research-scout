@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [huginn/huginn](https://github.com/huginn/huginn) — Merge pull request #3829 from huginn/renovate/github-actions.
+- **Source updated:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) — Search: quote parentheses and OR when serialising terms (#9541).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

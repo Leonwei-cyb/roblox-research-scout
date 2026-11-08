@@ -605,20 +605,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4973876:1",
-      "url": "https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876",
-      "title": "Analytics: Understand Complex Player Funnels With Journeys",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4974549:1",
       "url": "https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549",
       "title": "Toolbar is effectively broken on Mobile devices",
@@ -1231,6 +1217,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xqzonp",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqzonp/how_do_i_import_3d_models_correctly/",
+      "title": "How do i import 3D models correctly?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "world and visual design"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4972812:1",
       "url": "https://devforum.roblox.com/t/home-thumbnail-ab-test-impressions-doubled-in-one-hour-on-oct-28-halving-qptr/4972812",
       "title": "Home thumbnail A/B test impressions doubled in one hour on Oct 28, halving QPTR",
@@ -1265,19 +1265,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4974276:1",
-      "url": "https://devforum.roblox.com/t/animationtracklength-randomly-started-returning-zero-on-my-published-game-without-us-doing-any-updates/4974276",
-      "title": "AnimationTrack.length randomly started returning zero on my published game without us doing any updates",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2357,14 +2344,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xmg1wi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmg1wi/whens_the_engaged_player_requirement_going_down/",
-      "title": "Whens the engaged player requirement going down from 250 to 100?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-03",
-      "kind": "reddit",
+      "key": "devforum:4982422:1",
+      "url": "https://devforum.roblox.com/t/security-notification-feature-replacement/4982422",
+      "title": "Security notification feature replacement",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
       "signals": [
-        "player feedback and marketing"
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3103,6 +3090,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xr0jts",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr0jts/i_need_help_with_the_roblox_studio_device/",
+      "title": "I need help with the Roblox Studio Device Emulator (more in body text)",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xr1506",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr1506/unique_combat_system_in_my_kingdom_builder/",
+      "title": "Unique* Combat System In My Kingdom Builder",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4975104:1",
       "url": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104",
       "title": "Can Roblox suspend an account that is logged online from two different locations?",
@@ -3238,34 +3251,6 @@
       "signals": [
         "player feedback and marketing",
         "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xmpd1x",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmpd1x/looking_for_testers_for_my_unreleased_turnbased/",
-      "title": "Looking for testers for my unreleased turnbased rpg",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-03",
-      "kind": "reddit",
-      "signals": [
-        "board game and turn flow",
-        "genres and successful loops"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xmxyyj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmxyyj/playtest_for_a_new_game/",
-      "title": "Playtest for a new game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-03",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3657,6 +3642,20 @@
       "kind": "reddit",
       "signals": [
         "building and purchases",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xr0ajb",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr0ajb/how_do_i_improve_playtime/",
+      "title": "How do I improve playtime?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
         "player feedback and marketing"
       ],
       "score": 4,
@@ -4515,27 +4514,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xmlbok",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmlbok/new_library_map_for_a_gamemode_in_my_game_overdue/",
-      "title": "New library map for a gamemode in my game Overdue",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-03",
-      "kind": "reddit",
+      "key": "devforum:4982388:1",
+      "url": "https://devforum.roblox.com/t/dockwidgetpluginguiinfo-minwidth-and-minheight-are-ignored-for-floating-widgets/4982388",
+      "title": "DockWidgetPluginGuiInfo MinWidth and MinHeight are ignored for floating widgets",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
       "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xmoodt",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmoodt/hi_community_looking_for_devs_to_test_my_game/",
-      "title": "Hi community looking for devs to test my game.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-03",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4549,19 +4535,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xn3mcs",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn3mcs/why_is_it_so_laggy/",
-      "title": "Why is it so laggy",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-03",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5332,17 +5305,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4972640:1",
-      "url": "https://devforum.roblox.com/t/automated-very-unclear-ban-note-instant-denies-appeals-thinking-its-a-modified-client-termination/4972640",
-      "title": "automated very unclear ban note instant denies appeals thinking its a modified client termination",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4972774:1",
       "url": "https://devforum.roblox.com/t/request-for-staff-assistance-%E2%80%94-my-friends-account-was-banned-after-her-previous-appeal-was-accepted/4972774",
       "title": "Request for Staff Assistance — My Friend's Account Was Banned After Her Previous Appeal Was Accepted",
@@ -5401,17 +5363,6 @@
       "key": "devforum:4973895:1",
       "url": "https://devforum.roblox.com/t/pixelated-decals/4973895",
       "title": "Pixelated Decals",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4974076:1",
-      "url": "https://devforum.roblox.com/t/no-badges-for-doing-floors-in-the-hollow/4974076",
-      "title": "No badges for doing floors in the Hollow",
       "source": "roblox-devforum-latest",
       "published": "2026-11-03",
       "kind": "devforum",
@@ -6443,6 +6394,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4982407:1",
+      "url": "https://devforum.roblox.com/t/introducing-calling-friends-on-roblox-a-new-feature/4982407",
+      "title": "Introducing calling friends on Roblox: A new feature",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4982418:1",
+      "url": "https://devforum.roblox.com/t/particleemitter-relative-to-world-property/4982418",
+      "title": "ParticleEmitter relative to world property",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xmn2x3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmn2x3/looking_for_investors_sell_burgers_in_space/",
       "title": "Looking for investors: Sell Burgers in Space! (Anomaly)",
@@ -6501,17 +6474,6 @@
       "key": "reddit:1xn13f8",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn13f8/battlefield_like_game/",
       "title": "Battlefield Like Game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-03",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xn4dw3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xn4dw3/got_this_regional_restriction_message_will_this/",
-      "title": "Got this regional restriction message, will this ruin my game's growth or should I keep going?",
       "source": "reddit-robloxdev",
       "published": "2026-11-03",
       "kind": "reddit",
@@ -7433,6 +7395,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xqzidv",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqzidv/a_little_clip_of_my_game/",
+      "title": "A little clip of my game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xr13uy",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr13uy/looking_for_investor/",
+      "title": "Looking for investor",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB?oc=5",
       "title": "TODAY only for Best Players in Steal an egg with admins #roblox #robloxfyp #stealanegg - Instagram",
@@ -7492,6 +7476,19 @@
       "kind": "index-only",
       "signals": [
         "building and purchases"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9OcDl3b1J3Y2Z3c092NEpmT2hwdGRZNzJDdVJWejNUdU9PbkFMa05mSTJKNEdJdHhjYWhhNXAyazlGY3NwYkR2dEcyN0dtUTQyUE9ianZ3",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcDl3b1J3Y2Z3c092NEpmT2hwdGRZNzJDdVJWejNUdU9PbkFMa05mSTJKNEdJdHhjYWhhNXAyazlGY3NwYkR2dEcyN0dtUTQyUE9ianZ3?oc=5",
+      "title": "Claude Opus 5.5 + Roblox Studio = $44,052/mo (Zero Coding Full Course) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-08",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
