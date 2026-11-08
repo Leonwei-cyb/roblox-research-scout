@@ -3130,7 +3130,11 @@
     "0b691c5df5776a3534277781",
     "7f8b9a82037fb07ca6b6e327",
     "b81cbde062bdbf9ecb820e21",
-    "d4b1ad69cb61f15612aff9e8"
+    "d4b1ad69cb61f15612aff9e8",
+    "638d2fbd3403d009ba3f361a",
+    "7c14242d56b6e6a8a467d5ae",
+    "d851244cdee2e730e5473e4d",
+    "22fbbd05fa07f489a31858f1"
   ],
   "items": [
     {
@@ -3248,6 +3252,18 @@
       "excerpt": "https://preview.redd.it/12zuqmt73c0i1.png?width=1920&format=png&auto=webp&s=b8498822978366f608a25f4801353912645b510d #ilovegamedevelopment submitted by /u/wyataur369 [link] [comments]",
       "creator": "/u/wyataur369 https://www.reddit.com/user/wyataur369",
       "id": "dab22742ce777a53fd591d4f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game pass vote counts can't be read without scraping the website",
+      "url": "https://devforum.roblox.com/t/game-pass-vote-counts-cant-be-read-without-scraping-the-website/4982893",
+      "published": "2026-11-08",
+      "excerpt": "it is currently too hard to get the upvote and downvote counts of a game pass. Experiences already have a proper endpoint for this ( games.roblox.com/v1/games/votes ), but game passes have nothing like it. The game pass APIs give you the name, price, sales and so on but no votes, and GetProductInfo ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-pass-vote-counts-cant-be-read-without-scraping-the-website/4982893.rss",
+      "id": "d851244cdee2e730e5473e4d"
     },
     {
       "source": "syphodev-claude",
@@ -3630,6 +3646,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "AnimationConstraints/WeldConstraints not showing properly in animation editor",
+      "url": "https://devforum.roblox.com/t/animationconstraintsweldconstraints-not-showing-properly-in-animation-editor/4982896",
+      "published": "2026-11-08",
+      "excerpt": "I am using Moon Animator, and here I simply have an idle animation for an RPG. You can see that the other part (the warhead) stays put where it would be if the rpg was freshly attached to the hand with no animation, and doesn’t follow the rpg body if it moves. It should because the warhead is attach",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/animationconstraintsweldconstraints-not-showing-properly-in-animation-editor/4982896.rss",
+      "id": "7c14242d56b6e6a8a467d5ae"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "TuxBlox - The New Way to Run Roblox Studio on Linux",
       "url": "https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423",
       "published": "2026-11-08",
@@ -3788,6 +3816,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-investor-sponsor-for-chaos-uncontrolled-dynamic-revenue-share/4982086.rss",
       "id": "662ba9065100f3dc3cc739c5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for feedback on Player Danger",
+      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-player-danger/4982914",
+      "published": "2026-11-08",
+      "excerpt": "Hello everyone, so I decided to return and improve my game, Player Danger! The game was released back in July, and this is my fourth iteration. I don’t really know why the game is being received so poorly, and I want to know if it’s confusing or unintuitive, or if it’s simply boring and how I could ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-player-danger/4982914.rss",
+      "id": "638d2fbd3403d009ba3f361a"
     },
     {
       "source": "reddit-robloxdev",
@@ -4098,6 +4138,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/give-tips-for-my-nintendo-inspired-soundtracks/4982618.rss",
       "id": "23bbf010faec1a723e81fee8"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Making some buildings",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr65q4/making_some_buildings/",
+      "published": "2026-11-08",
+      "excerpt": "The paper is too far away to show, but it says \"Restock the Shelves!\" and its asset name is Reminder for John. I also might've been a bit excessive with the Solar Panels submitted by /u/AnimaticKraken [link] [comments]",
+      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
+      "id": "22fbbd05fa07f489a31858f1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10002,52 +10053,6 @@
       "excerpt": "GAME: Pop 1 Billion Balloons (Roblox) We’re testing a balloon-popping simulator before launch and need sharp testers who can break things. What you’ll do Find and report bugs, exploits and glitches, with clear screenshots/clips Give feedback on balance, progression speed (balloons/sec, upgrades, reb",
       "creator": "/u/Internal_Piano1386 https://www.reddit.com/user/Internal_Piano1386",
       "id": "096ad04674cdb01d3abdd1ca"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for a Roblox Game Development Team to Learn and Grow Together",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnqi5z/looking_for_a_roblox_game_development_team_to/",
-      "published": "2026-11-04",
-      "excerpt": "I'm looking for people to help me create Roblox games, mainly UI Designers and Scripters. I have several game ideas, and I'm looking for a team to work with on developing them. I'm not looking for highly skilled or professional developers. I just want to find people who know the basics of Roblox dev",
-      "creator": "/u/BroIsNotHere https://www.reddit.com/user/BroIsNotHere",
-      "id": "0387cdc4085dba9a0b760371"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How Should İ Fix That?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn9ywr/how_should_i_fix_that/",
-      "published": "2026-11-04",
-      "excerpt": "(Pls not Paid Devs) When I move sideways/strafe relative to the NPC, it doesn’t follow me in a straight line. It drifts and curves around in an arc, falls behind, and sometimes slides past me instead of stopping next to me. Close up it’s mostly fine; the problem shows up at mid/long range. Setup: Se",
-      "creator": "/u/MrBalkoz https://www.reddit.com/user/MrBalkoz",
-      "id": "0090c7aec733eb674d651070"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox support states my old email whenever I try to get support, regardless of account settings & billing email being different for LONG",
-      "url": "https://devforum.roblox.com/t/roblox-support-states-my-old-email-whenever-i-try-to-get-support-regardless-of-account-settings-billing-email-being-different-for-long/4974262",
-      "published": "2026-11-03",
-      "excerpt": "It keeps saying to use the first email I verified with *e******…@*****.*** when my current emails, visible everywhere is *o******…@******.*** I switched off of the first email AGES ago. I was in contact with support previously using the changed email. It’s been that email since 2021. I haven’t used ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-support-states-my-old-email-whenever-i-try-to-get-support-regardless-of-account-settings-billing-email-being-different-for-long/4974262.rss",
-      "id": "fdc6264d86fe9c140772d61d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Avatar thumbnail infinitely loading",
-      "url": "https://devforum.roblox.com/t/avatar-thumbnail-infinitely-loading/4974187",
-      "published": "2026-11-03",
-      "excerpt": "Since I recently changed my avatar, my avatar headshot thumbnail has been infinitely loading. When I visit my profile, the thumbnail of my avatar renders properly, so none of the items I am wearing have been moderated, however I still cannot see my profile picture. Calls to Players:GetUserThumbnailA",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/avatar-thumbnail-infinitely-loading/4974187.rss",
-      "id": "fd18f6a9f92d7b746f9faf2d"
     }
   ]
 }
