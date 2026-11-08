@@ -22,6 +22,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[UI_Group_Tool (FREE PLUGIN)](https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839)** — Public text/page, video not confirmed
+- **[MCP Permissions Save fails in local .rbxl with 'no universe context; skipping'](https://devforum.roblox.com/t/mcp-permissions-save-fails-in-local-rbxl-with-no-universe-context-skipping/4981995)** — Public text/page, video not confirmed
 - **[Looking for feedback on my AI character import plugin](https://www.reddit.com/r/robloxgamedev/comments/1xqk5tj/looking_for_feedback_on_my_ai_character_import/)** — Public text/page, video not confirmed
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Public text/page, video not confirmed

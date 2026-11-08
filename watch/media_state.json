@@ -3068,9 +3068,24 @@
     "312b1c68b9af4c8c4671d87c",
     "635c895eaac99f01460105e4",
     "5732eda7b1a82d9f8614955f",
-    "87cf1a1ec5ac367264d6c276"
+    "87cf1a1ec5ac367264d6c276",
+    "2b36325aba3c9d4b3579d2b3",
+    "f3ed3905540ef8584709fb89",
+    "4498296a6ad0c58ab745c9c7"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "MCP Permissions Save fails in local .rbxl with 'no universe context; skipping'",
+      "url": "https://devforum.roblox.com/t/mcp-permissions-save-fails-in-local-rbxl-with-no-universe-context-skipping/4981995",
+      "published": "2026-11-08",
+      "excerpt": "On macOS 26.5 with Roblox Studio 0.746.0.7461269, Assistant Settings > MCP Permissions shows a generic ‘Save failed, please try again’ when saving permissions in a local .rbxl place. Repeated retries do not save the settings. Steps observed: Open a local .rbxl file (PlaceId and GameId both report 0)",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/mcp-permissions-save-fails-in-local-rbxl-with-no-universe-context-skipping/4981995.rss",
+      "id": "f3ed3905540ef8584709fb89"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -3428,6 +3443,17 @@
       "id": "4baf381e4a35e332c8fa2441"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How to get started?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xquyzw/how_to_get_started/",
+      "published": "2026-11-08",
+      "excerpt": "I want to try making some games on roblox but when I tried the Learn tab on the offical Roblox Studio website, there's so many information linked to each other so I'm kinda overwhelmed. Do I have to just deal with that or there's a better way to learn the basic. submitted by /u/Ok-Canary9874 [link] ",
+      "creator": "/u/Ok-Canary9874 https://www.reddit.com/user/Ok-Canary9874",
+      "id": "4498296a6ad0c58ab745c9c7"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3449,6 +3475,18 @@
       "excerpt": "submitted by /u/Noobieowo [link] [comments]",
       "creator": "/u/Noobieowo https://www.reddit.com/user/Noobieowo",
       "id": "312b1c68b9af4c8c4671d87c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Idk if this is a good (why would it be good?) for a local music script",
+      "url": "https://devforum.roblox.com/t/idk-if-this-is-a-good-why-would-it-be-good-for-a-local-music-script/4982019",
+      "published": "2026-11-08",
+      "excerpt": "the main local script -- ReplicatedFirst/LocalMusic --!strict const soundService = game:GetService(\"SoundService\") const camera = workspace.CurrentCamera local currentMusic:AudioPlayer? = nil const musicIds = require(\"@self/MusicIds\") const audioSetup = require(\"@self/AudioSetup\") -- why did I make ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/idk-if-this-is-a-good-why-would-it-be-good-for-a-local-music-script/4982019.rss",
+      "id": "2b36325aba3c9d4b3579d2b3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9953,40 +9991,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/excessive-devex-ban-your-devex-access-has-been-temporarily-suspended/4973861.rss",
       "id": "9a595715dc2b79eaf815a522"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "would a fantasy arpg do well on roblox?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmfofm/would_a_fantasy_arpg_do_well_on_roblox/",
-      "published": "2026-11-03",
-      "excerpt": "hi! i'm new to roblox dev, but an experienced concept artist and modeler. i'm looking to pick up a new project to work on in my free time and have always been interested in making a story-driven, open world, fantasy arpg game akin to genshin, wuthering waves (without the gacha) or breath of the wild",
-      "creator": "/u/notkaileyyy https://www.reddit.com/user/notkaileyyy",
-      "id": "9247b94d3d5684fb343847ea"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "RUSTLINE OPS BETA",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmosn1/rustline_ops_beta/",
-      "published": "2026-11-03",
-      "excerpt": "Hello guys just created my first game called rustline ops which is based on current cod mechanisms but much more will be added in future updates right now no open world or battle royale available just classic tdm, free for all gun game and more Right now it is still on private because i have to wait",
-      "creator": "/u/draxz69 https://www.reddit.com/user/draxz69",
-      "id": "8eaca9e3158b47afb56c5d1f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow Re-Verification After Username and Group Name Changes",
-      "url": "https://devforum.roblox.com/t/allow-re-verification-after-username-and-group-name-changes/4973974",
-      "published": "2026-11-03",
-      "excerpt": "As a Roblox developer, it is currently too difficult to update personal and company branding while maintaining a verified presence on the platform. I recently changed my username and our group’s name as part of a rebrand, which caused my account and our group to lose their verified badges. My unders",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-re-verification-after-username-and-group-name-changes/4973974.rss",
-      "id": "8ddc3fa46c16a6a6825722b7"
     }
   ]
 }
