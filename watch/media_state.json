@@ -3053,7 +3053,12 @@
     "c43bebb54dde483a4b170d9e",
     "6a16ef13fb19c651f5cae31a",
     "a2c4d8b65dade154d81acc38",
-    "5773e1e7cfa588c9e63553a9"
+    "5773e1e7cfa588c9e63553a9",
+    "6ade71258f673a120a26441d",
+    "7aa84ba5fce3c6d7162f74a7",
+    "6f1e152f46c90ace50db213d",
+    "4baf381e4a35e332c8fa2441",
+    "1aae93dea0d70fce9ef68094"
   ],
   "items": [
     {
@@ -3185,6 +3190,30 @@
       "id": "7ba448fb2f8734e917719074"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "UGC body upload validation returns internal errors when both eyebrows and eyelashes are included",
+      "url": "https://devforum.roblox.com/t/ugc-body-upload-validation-returns-internal-errors-when-both-eyebrows-and-eyelashes-are-included/4981786",
+      "published": "2026-11-08",
+      "excerpt": "Roblox Studio’s avatar upload validation returns two internal errors when a body includes both an Eyebrow accessory and an Eyelash accessory. Using the same body: Body + eyebrows only: validation passes. Body + eyelashes only: validation passes. Body + both eyebrows and eyelashes: two internal error",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ugc-body-upload-validation-returns-internal-errors-when-both-eyebrows-and-eyelashes-are-included/4981786.rss",
+      "id": "7aa84ba5fce3c6d7162f74a7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Would a Brief Character Interaction Count as Romantic Content Under Roblox's Guidelines?",
+      "url": "https://devforum.roblox.com/t/would-a-brief-character-interaction-count-as-romantic-content-under-robloxs-guidelines/4981766",
+      "published": "2026-11-08",
+      "excerpt": "Hi everyone, I’m currently developing a story driven game. I have a brief cutscene where a male character notices a female character from a distance, looks at her for a few seconds and smiles. There is: No kissing or physical contact. No romantic dialogue or flirting. No sexual content. No explicit ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/would-a-brief-character-interaction-count-as-romantic-content-under-robloxs-guidelines/4981766.rss",
+      "id": "6f1e152f46c90ace50db213d"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3194,6 +3223,18 @@
       "excerpt": "Ok, yes, I know, this is the... I don't even know what time this is, BUT! We still could use some more people on the team! WE VERY STILL MUCH NEED Modelers (cuz i suck lwk) Map makers Scripters VFX artists Composers And maybe some 2d animators / artists PLEASE HIT ME UP IF YOU FIT ANY OF THESE BOXES",
       "creator": "/u/Calm-Newt-1011 https://www.reddit.com/user/Calm-Newt-1011",
       "id": "6be4286a7dc1e5f678e2bccc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox logs taking 174gb of storage on pc",
+      "url": "https://devforum.roblox.com/t/roblox-logs-taking-174gb-of-storage-on-pc/4981795",
+      "published": "2026-11-08",
+      "excerpt": "JESUS CHRIST (ALL FROM THE PAST MONTH OR SO) Expected behavior BRO IT SHOULDNT BE TAKING A TRIPLE A GAMES WORTH OF STORAGE FOR LOGS? FIX PLZ 2 posts - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-logs-taking-174gb-of-storage-on-pc/4981795.rss",
+      "id": "6ade71258f673a120a26441d"
     },
     {
       "source": "reddit-robloxdev",
@@ -3275,6 +3316,17 @@
       "id": "516425a62ffeb3c3afb1bf5d"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for a Roblox scripter to help bring a horror game to life.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqr7vi/looking_for_a_roblox_scripter_to_help_bring_a/",
+      "published": "2026-11-08",
+      "excerpt": "Psychological horror, supernatural deception, and cinematic monster transformations. We're building a team to create something genuinely terrifying. I'm developing LAST ONE ALIVE , a multiplayer horror game where one player becomes THE MIMIC a creature that can disguise itself as an ordinary player,",
+      "creator": "/u/Intelligent-Dig5131 https://www.reddit.com/user/Intelligent-Dig5131",
+      "id": "4baf381e4a35e332c8fa2441"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3297,6 +3349,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-does-just-one-violation-put-my-account-at-fair/4981604.rss",
       "id": "2172fa182f7ad92ba348e5cb"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Python Developer & CS Student Looking to Collaborate With Roblox Development Teams",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqqtfn/python_developer_cs_student_looking_to/",
+      "published": "2026-11-08",
+      "excerpt": "Hey everyone! I'm a Computer Science student at Western Governors University (WGU), currently working as an IT Help Desk Technician. I also have nearly three years of previous IT experience working for the State of California. I'm looking to join a small Roblox development team or group of developer",
+      "creator": "/u/Emco8780 https://www.reddit.com/user/Emco8780",
+      "id": "1aae93dea0d70fce9ef68094"
     },
     {
       "source": "reddit-robloxdev",
@@ -9914,64 +9977,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/appeals-ai-feedback-loop/4974282.rss",
       "id": "86bbbf4dae84f63fabba5a53"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Help again",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn87wo/help_again/",
-      "published": "2026-11-03",
-      "excerpt": "So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 [link] [comments]",
-      "creator": "/u/Odd_Unit3217 https://www.reddit.com/user/Odd_Unit3217",
-      "id": "7f30c08289b88657cc959acc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Crash at random bug.",
-      "url": "https://devforum.roblox.com/t/roblox-crash-at-random-bug/4973405",
-      "published": "2026-11-03",
-      "excerpt": "So RobloxPlayerBeta.exe, randomly after launch attempts to connect to a Class A private IP address, I have tested on multiple devices, it still does it. The IP address and port is 10.110.101.222:5052, upon attempting to connect it HTTP timeouts, causing a pause to the main thread, and causing Roblox",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-crash-at-random-bug/4973405.rss",
-      "id": "7d5ab1c480afe4f8834503fe"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Help again",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xn889e/help_again/",
-      "published": "2026-11-03",
-      "excerpt": "So I’ve made immense progress to the game now, but when my bases run out of health they don’t change material to indicate that submitted by /u/Odd_Unit3217 [link] [comments]",
-      "creator": "/u/Odd_Unit3217 https://www.reddit.com/user/Odd_Unit3217",
-      "id": "77ca4d878b1207a33bb99556"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Rutus - Runtime GUI Select Plugin Free Release",
-      "url": "https://devforum.roblox.com/t/rutus-runtime-gui-select-plugin-free-release/4972703",
-      "published": "2026-11-03",
-      "excerpt": "Rutus is a plugin that allows developers to easily debug their user interface during runtime. It gives you the ability to hover over any GUI elements on your screen to display important debugging information such as; Name, Position, Size and Padding. You can also left click on these elements to sele",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/rutus-runtime-gui-select-plugin-free-release/4972703.rss",
-      "id": "758db9f2b6096fa1b2ba21e2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "IDFinder Plugin",
-      "url": "https://devforum.roblox.com/t/idfinder-plugin/4973157",
-      "published": "2026-11-03",
-      "excerpt": "IDFinder is a small popup window to find an asset ID anyplace in your project, including scripts. It uses the Output window to create links to the locations in your project. I wanted one that would just find the ID anyplace, and give me a link to it. It’s free, enjoy! The ones I looked at were just ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/idfinder-plugin/4973157.rss",
-      "id": "75341a87615cc7216273bbf5"
     }
   ]
 }
