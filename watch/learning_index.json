@@ -486,6 +486,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4982314:1",
+      "url": "https://devforum.roblox.com/t/problem-with-the-avatarmood-module-in-core-scripts/4982314",
+      "title": "Problem with the AvatarMood module in core scripts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xp2bgt",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bgt/trying_to_make_this_animation_on_my_kitsune/",
       "title": "trying to make this animation on my kitsune",
@@ -599,20 +614,6 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4974230:1",
-      "url": "https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230",
-      "title": "Allow OAuth apps to request luau-execution-session scope",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -3708,19 +3709,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4973880:1",
-      "url": "https://devforum.roblox.com/t/support-redirects-compromised-account-reports-to-appeals-exhausted-by-the-attacker/4973880",
-      "title": "Support redirects compromised-account reports to appeals exhausted by the attacker",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4973919:1",
       "url": "https://devforum.roblox.com/t/how-can-i-achieve-this-effect/4973919",
       "title": "How can i achieve this effect?",
@@ -4548,19 +4536,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xmw0le",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xmw0le/help_with_pants_on_rig_please/",
-      "title": "Help with pants on rig please",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-03",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5426,28 +5401,6 @@
       "key": "devforum:4973895:1",
       "url": "https://devforum.roblox.com/t/pixelated-decals/4973895",
       "title": "Pixelated Decals",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4973924:1",
-      "url": "https://devforum.roblox.com/t/increase-accessibility-to-robloxs-post-processing/4973924",
-      "title": "Increase Accessibility to Roblox's Post Processing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-03",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4974033:1",
-      "url": "https://devforum.roblox.com/t/using-the-text-to-speech-thing/4974033",
-      "title": "Using the text to speech thing",
       "source": "roblox-devforum-latest",
       "published": "2026-11-03",
       "kind": "devforum",
@@ -6457,6 +6410,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4982317:1",
+      "url": "https://devforum.roblox.com/t/character-scaling-bug/4982317",
+      "title": "Character Scaling Bug",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4982319:1",
+      "url": "https://devforum.roblox.com/t/character-scaling-bug/4982319",
+      "title": "Character scaling bug",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4982328:1",
+      "url": "https://devforum.roblox.com/t/modular-ai-a-lightweight-dependency-free-modular-ai-system/4982328",
+      "title": "Modular AI - A Lightweight, Dependency-Free Modular AI System",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-08",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xmn2x3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmn2x3/looking_for_investors_sell_burgers_in_space/",
       "title": "Looking for investors: Sell Burgers in Space! (Anomaly)",
@@ -7428,6 +7414,17 @@
       "key": "reddit:1xqu1xq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqu1xq/my_new_uk_roleplay_game/",
       "title": "My new UK roleplay game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-08",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xqxxqz",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqxxqz/problem_with_classic_obby_preset/",
+      "title": "Problem with Classic Obby preset",
       "source": "reddit-robloxdev",
       "published": "2026-11-08",
       "kind": "reddit",

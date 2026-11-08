@@ -3086,7 +3086,12 @@
     "e5e7d5676b02c793637b08da",
     "a0aeaa14ed07b7e3008e3161",
     "1b13cef5cc7c0db87f57497d",
-    "44a4b180c1f68c142d47fbb3"
+    "44a4b180c1f68c142d47fbb3",
+    "3bef02469a5b633bd08f41ff",
+    "327bdaf67b666f432765f4a1",
+    "ee35cc4022979e0d2df8450a",
+    "85f842cd7f14224a8cd30900",
+    "713dff6266e08bf372a9a1eb"
   ],
   "items": [
     {
@@ -3124,6 +3129,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/program-asterisk-looking-for-testers-and-an-environment-artist-rev-share/4981428.rss",
       "id": "f0b803258aee25f49739ce11"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Character Scaling Bug",
+      "url": "https://devforum.roblox.com/t/character-scaling-bug/4982317",
+      "published": "2026-11-08",
+      "excerpt": "The scaling enforced via Roblox’s game settings do not apply to some characters. - See how the leftcharacter is big and the character on the right is normal sized. There is also warnings in the logs: I think it may be related to the things they’re wearing. How can Roblox fix this? Why is the charact",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/character-scaling-bug/4982317.rss",
+      "id": "ee35cc4022979e0d2df8450a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3359,6 +3376,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Problem with the AvatarMood module in core scripts",
+      "url": "https://devforum.roblox.com/t/problem-with-the-avatarmood-module-in-core-scripts/4982314",
+      "published": "2026-11-08",
+      "excerpt": "I am using my custom ragdolling system, when after death character is copied into new model and placed into the workspace to last for 30 seconds. Every character death this error popups. A possible way to remove this is to destroy “mood” string value from Animate script every time character respawns",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/problem-with-the-avatarmood-module-in-core-scripts/4982314.rss",
+      "id": "85f842cd7f14224a8cd30900"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "TuxBlox - The New Way to Run Roblox Studio on Linux",
       "url": "https://devforum.roblox.com/t/tuxblox-the-new-way-to-run-roblox-studio-on-linux/4981423",
       "published": "2026-11-08",
@@ -3390,6 +3419,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/pawssport-please-papers-please-but-with-cats-demo-feedback-wanted/4981971.rss",
       "id": "767c8c1e80aefc91493354ab"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Problem with Classic Obby preset",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqxxqz/problem_with_classic_obby_preset/",
+      "published": "2026-11-08",
+      "excerpt": "When i create new obby from the preset the shiftlock otion is always set by developer. I have shiftlock option set ON in my starterplayer and it still doesnt work. All my camera settings are fine because when i tried them i basic baseplate i had no problem with shiftlock. I have tried everything, ev",
+      "creator": "/u/Immediate-Touch-6568 https://www.reddit.com/user/Immediate-Touch-6568",
+      "id": "713dff6266e08bf372a9a1eb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3599,6 +3639,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Modular AI - A Lightweight, Dependency-Free Modular AI System",
+      "url": "https://devforum.roblox.com/t/modular-ai-a-lightweight-dependency-free-modular-ai-system/4982328",
+      "published": "2026-11-08",
+      "excerpt": "ModularAI Modular AI is an npc system that works via data driven mechanics It uses Conditions,Limits,States and Responses. A Condition is a value that is expected to be true or false A Limit is for conditions that rely on more than booleans such as hits taken A State is what the result of a conditio",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/modular-ai-a-lightweight-dependency-free-modular-ai-system/4982328.rss",
+      "id": "3bef02469a5b633bd08f41ff"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[Release] RoBulk — Bulk Editing, Pricing & Earnings Tools for Roblox Creators",
       "url": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637",
       "published": "2026-11-08",
@@ -3606,6 +3658,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637.rss",
       "id": "34bf67ca2fb9fd1256271476"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Character scaling bug",
+      "url": "https://devforum.roblox.com/t/character-scaling-bug/4982319",
+      "published": "2026-11-08",
+      "excerpt": "The scaling enforced via Roblox’s game settings do not apply to some characters. - See how the leftcharacter is big and the character on the right is normal sized. There is also warnings in the logs: I think it may be related to the things they’re wearing. How to fix? 1 post - 1 participant Read ful",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/character-scaling-bug/4982319.rss",
+      "id": "327bdaf67b666f432765f4a1"
     },
     {
       "source": "reddit-robloxdev",
@@ -9946,65 +10010,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/automated-very-unclear-ban-note-instant-denies-appeals-thinking-its-a-modified-client-termination/4972640.rss",
       "id": "ab9e3659cf046db5374ff4b9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Increase Accessibility to Roblox's Post Processing",
-      "url": "https://devforum.roblox.com/t/increase-accessibility-to-robloxs-post-processing/4973924",
-      "published": "2026-11-03",
-      "excerpt": "Unlike other threads that are asking for general updates/notices with Roblox’s Post Processing, this thread specifically will tackle the accessibility and go into clarity on what needs to be said and what desires are wanted by developers having demand for such features with balance for official deve",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/increase-accessibility-to-robloxs-post-processing/4973924.rss",
-      "id": "ab6cbb868fb71cafe7f90ce9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow OAuth apps to request luau-execution-session scope",
-      "url": "https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230",
-      "published": "2026-11-03",
-      "excerpt": "i’d like a tool i’m building to be able to use the luau-execution-session:write scope on users’ experiences. this would massively increase the scope of what third-party tools could do with games - think CI/CD, build or lint tools, etc. it’s obviously a powerful scope, but there is already an adequat",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-oauth-apps-to-request-luau-execution-session-scope/4974230.rss",
-      "id": "a9de308a941bc84e31ef8bec"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Using the text to speech thing",
-      "url": "https://devforum.roblox.com/t/using-the-text-to-speech-thing/4974033",
-      "published": "2026-11-03",
-      "excerpt": "2 posts - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/using-the-text-to-speech-thing/4974033.rss",
-      "id": "a96ceaa70ef326f7ee3daa5a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Support redirects compromised-account reports to appeals exhausted by the attacker",
-      "url": "https://devforum.roblox.com/t/support-redirects-compromised-account-reports-to-appeals-exhausted-by-the-attacker/4973880",
-      "published": "2026-11-03",
-      "excerpt": "My friend’s account, Hargrefs (10897405754), was compromised through stolen cookies on October 25, 2026. Attackers regained access on November 1, possibly through a passkey, although that is unconfirmed. They transferred ownership of Firstlight Studio (925282865) and Disastrous Works (55249728), upl",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/support-redirects-compromised-account-reports-to-appeals-exhausted-by-the-attacker/4973880.rss",
-      "id": "a85a9d1e5b4b706fe347f0f5"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Help with pants on rig please",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xmw0le/help_with_pants_on_rig_please/",
-      "published": "2026-11-03",
-      "excerpt": "so i was trying to put some pants on my r6 rig in rblx studio and it doesnt work i added the code to the clothing, i added it to the template thingy and it just does nothing, i genuinely dont know what to do im a noob in roblox studio, also the shirt with code etc works and it just makes me wonder w",
-      "creator": "/u/goobahi https://www.reddit.com/user/goobahi",
-      "id": "a82c117f0f81efe69cc9ce19"
     }
   ]
 }
