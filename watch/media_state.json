@@ -3041,7 +3041,19 @@
     "bf97bbbc2c7cfd3f7f1bd766",
     "133d3e6da3492cfda0a25675",
     "516425a62ffeb3c3afb1bf5d",
-    "2bd1b0dd8e5df75b19bfe412"
+    "2bd1b0dd8e5df75b19bfe412",
+    "67be267ad0c0e8c3b72f2d7b",
+    "34bf67ca2fb9fd1256271476",
+    "6187a327821e7ac17472d89b",
+    "2172fa182f7ad92ba348e5cb",
+    "9c689a5e8e94e900c453bec5",
+    "93b0462f69608734aa9adbc4",
+    "d5c1426738cf9f3c0a0b5ed9",
+    "5736947fe4e7689c0fb2f465",
+    "c43bebb54dde483a4b170d9e",
+    "6a16ef13fb19c651f5cae31a",
+    "a2c4d8b65dade154d81acc38",
+    "5773e1e7cfa588c9e63553a9"
   ],
   "items": [
     {
@@ -3072,6 +3084,28 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "how could i make my guy scarier?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqoajz/how_could_i_make_my_guy_scarier/",
+      "published": "2026-11-08",
+      "excerpt": "i feel like this thing isn't scary enough. it'd be much appreciate on how to make this look scarier. (btw the thing at the top back of his head is his ears) submitted by /u/Original-Yak-2004 [link] [comments]",
+      "creator": "/u/Original-Yak-2004 https://www.reddit.com/user/Original-Yak-2004",
+      "id": "d5c1426738cf9f3c0a0b5ed9"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I'd like to test your game!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqok1q/id_like_to_test_your_game/",
+      "published": "2026-11-08",
+      "excerpt": "I'm open for game testing again! If you have a game that's about to launch, struggling with low retention, or not getting any players, we can look into the problems together. I'll also provide suggestions and advice to help improve your game. Just to be clear, this is a paid service. I test games on",
+      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
+      "id": "c43bebb54dde483a4b170d9e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Can anyone tell me which way we can use Roblox game engine better in Linux cause it's not official thing we can dawnload",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqmxh2/can_anyone_tell_me_which_way_we_can_use_roblox/",
       "published": "2026-11-08",
@@ -3090,6 +3124,41 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/gamma-corporation-security-agent-ai/4981530.rss",
       "id": "b143146a4dd98edb3004761f"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Anyone know where I can find these resources on Roblox?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqp8l7/anyone_know_where_i_can_find_these_resources_on/",
+      "published": "2026-11-08",
+      "excerpt": "I'm looking at trying to do stuff for my game specifically when it comes to the character design, for example, one of my characters has bat ears and the dev team has decided on this. We want to make the ears appear as though they're going through the hat and I don't want any clipping so I decided on",
+      "creator": "/u/False-Negotiation-36 https://www.reddit.com/user/False-Negotiation-36",
+      "id": "a2c4d8b65dade154d81acc38"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Devforumparser.online - Download DevForum posts for offline viewing",
+      "url": "https://devforum.roblox.com/t/devforumparseronline-download-devforum-posts-for-offline-viewing/4981568",
+      "published": "2026-11-08",
+      "excerpt": "Hello, I’ve created a website devforumparser.online that allows you to pass in devforum links and download them as .pdf or .txt files. (I understand this isn’t TECHNICALLY a “parser” but the concept matches…) I tried to take inspiration from the classic YouTube to mp3 converters I found online; I de",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/devforumparseronline-download-devforum-posts-for-offline-viewing/4981568.rss",
+      "id": "9c689a5e8e94e900c453bec5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Highlight parented to Workspace latency",
+      "url": "https://devforum.roblox.com/t/highlight-parented-to-workspace-latency/4981553",
+      "published": "2026-11-08",
+      "excerpt": "Summary When a Highlight is parented directly to Workspace , the frame it appears in stalls for 0.2 to 1.2 seconds, provided the scene holds thousands of invisible parts carrying translucent Texture s. The same Highlight, with the same Adornee , costs nothing measurable when its parent is a Folder i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/highlight-parented-to-workspace-latency/4981553.rss",
+      "id": "93b0462f69608734aa9adbc4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3130,12 +3199,69 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "How to reach highly engaged player 250 count?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqptot/how_to_reach_highly_engaged_player_250_count/",
+      "published": "2026-11-08",
+      "excerpt": "Hey I'm a new dev that recently just released a game and running engagement ads 16/day. I do see people joining but I've only gotten like ~60 ish new players, but highly engaged players are not increasing at all seems like. Right now it's at 3 but haven't gone up at all so I'm curious if these new p",
+      "creator": "/u/Known-Engineering886 https://www.reddit.com/user/Known-Engineering886",
+      "id": "6a16ef13fb19c651f5cae31a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "BindToSimulation() with Hz120 and Hz240 options",
+      "url": "https://devforum.roblox.com/t/bindtosimulation-with-hz120-and-hz240-options/4981651",
+      "published": "2026-11-08",
+      "excerpt": "When dealing with physics simulations such as particles, aircraft, vehicles, debris, etc, it is very common for developers to design their own lightweight physics systems in order to have better control over the physics behavior and reduce the load of the roblox physics engine. This is not very easy",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/bindtosimulation-with-hz120-and-hz240-options/4981651.rss",
+      "id": "67be267ad0c0e8c3b72f2d7b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Rule Changes: AI in posts limited to discussion only, banning links to third party services, plus clarifications on current rules",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqn2nb/rule_changes_ai_in_posts_limited_to_discussion/",
       "published": "2026-11-08",
       "excerpt": "New Rules New Rule: Keep AI topics to Discussion only. This means that you can post about AI, and you can discuss about AI usage in Roblox development. However, you cannot have a post that's primarily AI images, written by AI, or shows a creation that's primarily AI (such as AI created UI/UX) As muc",
       "creator": "/u/AutoModerator https://www.reddit.com/user/AutoModerator",
       "id": "634d43a27a17dc9a32a600f7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Metal API Rendering Artifacts (maybe?)",
+      "url": "https://devforum.roblox.com/t/metal-api-rendering-artifacts-maybe/4981618",
+      "published": "2026-11-08",
+      "excerpt": "When I join a game, trigger certain events within a game, or just casually play I have recently began noticing rainbow flickering on the right and bottom borders of my screen. My friend has also stated she has experienced this issue, we both use MacBooks leading me to believe it is a Metal API rende",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/metal-api-rendering-artifacts-maybe/4981618.rss",
+      "id": "6187a327821e7ac17472d89b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Am I just stuck on 20CCU forever?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqnkn0/am_i_just_stuck_on_20ccu_forever/",
+      "published": "2026-11-08",
+      "excerpt": "I averaged around 25 CCU throughout my ad campaign. After two weeks, Roblox's algorithm started picking up my game just as the campaign ended. Now it's day 4, and I'm still hovering between 10 and 20 CCU, with a highest peak of 31. Has anyone experienced something similar? Did it eventually start gr",
+      "creator": "/u/Ok_Statistician6759 https://www.reddit.com/user/Ok_Statistician6759",
+      "id": "5773e1e7cfa588c9e63553a9"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Mesh Deformation for realistic car crashes",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqpnxf/mesh_deformation_for_realistic_car_crashes/",
+      "published": "2026-11-08",
+      "excerpt": "I added a new feature to my car crash system, inspired by BeamNG. It utilizes editable mesh to add part deformation. submitted by /u/Distinct-Tie-3285 [link] [comments]",
+      "creator": "/u/Distinct-Tie-3285 https://www.reddit.com/user/Distinct-Tie-3285",
+      "id": "5736947fe4e7689c0fb2f465"
     },
     {
       "source": "reddit-robloxdev",
@@ -3147,6 +3273,30 @@
       "excerpt": "slop posting submitted by /u/peatmossing [link] [comments]",
       "creator": "/u/peatmossing https://www.reddit.com/user/peatmossing",
       "id": "516425a62ffeb3c3afb1bf5d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Release] RoBulk — Bulk Editing, Pricing & Earnings Tools for Roblox Creators",
+      "url": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637",
+      "published": "2026-11-08",
+      "excerpt": "RoBulk Announcing the release to the community of RoBulk , a free Chrome extension developed by BloxSmithery that adds bulk management tools directly to the Roblox Creator Dashboard! This is exactly the tool we needed to manage our sales so we built it and are offering it to the community. We have g",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637.rss",
+      "id": "34bf67ca2fb9fd1256271476"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How does just ONE violation put my account at \"Fair\"?",
+      "url": "https://devforum.roblox.com/t/how-does-just-one-violation-put-my-account-at-fair/4981604",
+      "published": "2026-11-08",
+      "excerpt": "As developers building on Roblox, account health directly impacts access to the Developer Hub, group ownership, asset publishing, and payouts. I am posting this to ask a fundamental question about how the platform’s moderation and account safety algorithms are currently calibrated. The Question Why ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-does-just-one-violation-put-my-account-at-fair/4981604.rss",
+      "id": "2172fa182f7ad92ba348e5cb"
     },
     {
       "source": "reddit-robloxdev",
@@ -9822,142 +9972,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/idfinder-plugin/4973157.rss",
       "id": "75341a87615cc7216273bbf5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Also looking for dev flair] HELP with porting a mobile game into roblox 1 to 1.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmkwnm/also_looking_for_dev_flair_help_with_porting_a/",
-      "published": "2026-11-03",
-      "excerpt": "I had a really good idea but I need to bring a mobile game (on play store + apks) I need it on roblox studio 1 to 1, same models same ui ect. I know it’s possible just i’m not smart enough to do it. Looking for help/anyone I could pay to do it for me. Thanks so much! submitted by /u/WoodpeckerIll655",
-      "creator": "/u/WoodpeckerIll6554 https://www.reddit.com/user/WoodpeckerIll6554",
-      "id": "7342d52bc2613b5a4d06932f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "(OPEN) In need of a scripter to rework a game",
-      "url": "https://devforum.roblox.com/t/open-in-need-of-a-scripter-to-rework-a-game/4974344",
-      "published": "2026-11-03",
-      "excerpt": "Hey everyone, my game is in need of a scripter as my game hasn’t been updated for a long time (my laptop broke). I just need scripter to help me with the game. You need to be active. if you don’t do that much work or just nothing then you won’t have access to the game. The game in question is null’s",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-in-need-of-a-scripter-to-rework-a-game/4974344.rss",
-      "id": "6f6e7a24dd94f942b043707a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Does like rating of a game affect how it is pushed on the algorithm?",
-      "url": "https://devforum.roblox.com/t/does-like-rating-of-a-game-affect-how-it-is-pushed-on-the-algorithm/4972702",
-      "published": "2026-11-03",
-      "excerpt": "I saw someone say the like count doesn’t really matter to the algorithm (with only it affecting CTR because if people see a game with not alot of likes then most likely aren’t gonna click). Is this true and will a game with good stats (even if it has a low like ratio) still be pushed on the algorith",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/does-like-rating-of-a-game-affect-how-it-is-pushed-on-the-algorithm/4972702.rss",
-      "id": "6f57d714b05eaa727fc87f4b"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Only TODAY in the secret admin in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vU21WZDBKUWEwamtERUdpSGluaFZCbDh3blp1a3ZKYVFxd1ZWUFFkZ3QxTDNTVXpGamc5aXlvbkc1ZFhlNjM5RGVkWXg0cGh5SFZYc3Z3?oc=5",
-      "published": "2026-11-03",
-      "excerpt": "Only TODAY in the secret admin in Steal an egg #roblox #robloxfyp #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "6ed36785e876b6003f4bdf67"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How I made tag bots that feel like real players (and where they still fail)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmj5tn/how_i_made_tag_bots_that_feel_like_real_players/",
-      "published": "2026-11-03",
-      "excerpt": "I'm SoloDev75, a dad of three, and my 10-year-old is my chief playtester. Empty servers kill small tag games, so I built AI bots with personalities: Speedy runs, Juker dodges, Saver comes back to revive downed teammates, and Slowpoke is easy to catch. They walk the lobby and vote on maps like player",
-      "creator": "/u/SoloDev75 https://www.reddit.com/user/SoloDev75",
-      "id": "6c8a3fd6253a1099627dd252"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need Volunteers to help me make an Ocean Liner Tycoon game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmw414/i_need_volunteers_to_help_me_make_an_ocean_liner/",
-      "published": "2026-11-03",
-      "excerpt": "So far the going name is Ocean Liner Tycoon, based on Cruise Line/Ship Tycoon !This is for volunteers only, I can’t pay, so all work will be volunteer only! The game is one where you will sail and flesh out liners through the ages, from sailing ships in the 18th century to the great liners of the 20",
-      "creator": "/u/Altruistic-Debate611 https://www.reddit.com/user/Altruistic-Debate611",
-      "id": "6abc37203b445031d18a7e09"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to make a UI element track a 3D object on screen?",
-      "url": "https://devforum.roblox.com/t/how-to-make-a-ui-element-track-a-3d-object-on-screen/4973794",
-      "published": "2026-11-03",
-      "excerpt": "I want to make a custom crosshair for my gun system that tracks where the barrel points to, and moves the crosshair to that position. How can I replicate how the game below pulls this off? right now, I use a rudimentary billboard gui to show the player where the bullet will go. But it gets hard to s",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-make-a-ui-element-track-a-3d-object-on-screen/4973794.rss",
-      "id": "6aaaa617a2f2440d126ed786"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I'm a playtester, can i test your game?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmot2l/im_a_playtester_can_i_test_your_game/",
-      "published": "2026-11-03",
-      "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
-      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
-      "id": "6a5fbf709c56f203810fe74f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "First Roblox game after release: new players barely stay. What would you fix first?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmpp40/first_roblox_game_after_release_new_players/",
-      "published": "2026-11-03",
-      "excerpt": "I just released my first game, a co-op zombie wave shooter, and I'm trying to figure out what to improve before I keep working on it. The loop: you start in a lobby, pick a class and weapons, then fight zombie waves with friends and bosses. Coins and gems from each run unlock more classes and weapon",
-      "creator": "/u/arch_kasy https://www.reddit.com/user/arch_kasy",
-      "id": "698620667fac719d0c725c16"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Testing builds...",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmfsox/testing_builds/",
-      "published": "2026-11-03",
-      "excerpt": "🤔 submitted by /u/BlockScrap [link] [comments]",
-      "creator": "/u/BlockScrap https://www.reddit.com/user/BlockScrap",
-      "id": "67a2e1f8a7baabf786792a12"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Help with average playtime [unpaid]",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmp8e9/help_with_average_playtime_unpaid/",
-      "published": "2026-11-03",
-      "excerpt": "Can anyone please help me understand why my average playtime is so low? It’s only 3.8 minutes. This is my game Floor is Lava: Tower Obby Appreciate any feedback, thanks! submitted by /u/NewtOk6477 [link] [comments]",
-      "creator": "/u/NewtOk6477 https://www.reddit.com/user/NewtOk6477",
-      "id": "6628073b6bfcb271f54f30f3"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "AURA RUSH - Roblox",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xmrn12/aura_rush_roblox/",
-      "published": "2026-11-03",
-      "excerpt": "made a roblox game can u tell me if its good or what i need to make better so players will enjoy it or make any changes submitted by /u/Appropriate_Virus625 [link] [comments]",
-      "creator": "/u/Appropriate_Virus625 https://www.reddit.com/user/Appropriate_Virus625",
-      "id": "65341664fca98e4b67f7f21a"
     }
   ]
 }
