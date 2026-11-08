@@ -7,19 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Looking for a Roblox scripter to help bring a horror game to life.](https://www.reddit.com/r/robloxgamedev/comments/1xqr7vi/looking_for_a_roblox_scripter_to_help_bring_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: Psychological horror, supernatural deception, and cinematic monster transformations. We're building a team to create something genuinely terrifying. I'm developing LAST ONE ALIVE , a multiplayer horror game where one player becomes THE MIMI
-- **[Python Developer & CS Student Looking to Collaborate With Roblox Development Teams](https://www.reddit.com/r/robloxgamedev/comments/1xqqtfn/python_developer_cs_student_looking_to/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
-  - Feed excerpt: Hey everyone! I'm a Computer Science student at Western Governors University (WGU), currently working as an IT Help Desk Technician. I also have nearly three years of previous IT experience working for the State of California. I'm looking t
+- **[Day 3 Combat System](https://www.reddit.com/r/robloxgamedev/comments/1xqt2o2/day_3_combat_system/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: I’m trying to make a multiplayer story mode game and I’m currently working on the first actual attacks and animations and combos with the fists and just a starter blade and I want my animations and combat to feel amazing but I’m at this poi
+- **[First Look on my Backrooms A-Sym](https://www.reddit.com/r/robloxgamedev/comments/1xqsmt4/first_look_on_my_backrooms_asym/)** · Reddit r/robloxgamedev public RSS · 2026-11-08
+  - Feed excerpt: Tell me what needs improving :D submitted by /u/No-Comedian8417 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[UGC body upload validation returns internal errors when both eyebrows and eyelashes are included](https://devforum.roblox.com/t/ugc-body-upload-validation-returns-internal-errors-when-both-eyebrows-and-eyelashes-are-included/4981786)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Roblox Studio’s avatar upload validation returns two internal errors when a body includes both an Eyebrow accessory and an Eyelash accessory. Using the same body: Body + eyebrows only: validation passes. Body + eyelashes only: validation pa
-- **[Roblox logs taking 174gb of storage on pc](https://devforum.roblox.com/t/roblox-logs-taking-174gb-of-storage-on-pc/4981795)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: JESUS CHRIST (ALL FROM THE PAST MONTH OR SO) Expected behavior BRO IT SHOULDNT BE TAKING A TRIPLE A GAMES WORTH OF STORAGE FOR LOGS? FIX PLZ 2 posts - 1 participant Read full topic
-- **[Would a Brief Character Interaction Count as Romantic Content Under Roblox's Guidelines?](https://devforum.roblox.com/t/would-a-brief-character-interaction-count-as-romantic-content-under-robloxs-guidelines/4981766)** · Roblox Developer Forum latest · 2026-11-08
-  - Feed excerpt: Hi everyone, I’m currently developing a story driven game. I have a brief cutscene where a male character notices a female character from a distance, looks at her for a few seconds and smiles. There is: No kissing or physical contact. No ro
+- **[UI_Group_Tool (FREE PLUGIN)](https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: UI_Group_Tool Easy to use. No background frame. Just for selecting Creator Store Link (Free) https://create.roblox.com/store/asset/130796027133006/UIGroupTool demonstration video 1 post - 1 participant Read full topic
+- **[The Best Space Minigame Arena Game? You Decide!](https://devforum.roblox.com/t/the-best-space-minigame-arena-game-you-decide/4981889)** · Roblox Developer Forum latest · 2026-11-08
+  - Feed excerpt: Hello everyone! I decided to revisit one of my original built games and supercharge it to potentially get it out to more players to play/experience. Game is compatible with all platforms (Except VR). As always, happy to hear any feedback. R
 
 ---
 

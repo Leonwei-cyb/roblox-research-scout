@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[\[FistBite Studios\] Recrutamento: Animador, 3D Modeler, VFX e SFX para o Project Fight (Jogo de Luta 2.5D)](https://devforum.roblox.com/t/fistbite-studios-recrutamento-animador-3d-modeler-vfx-e-sfx-para-o-project-fight-jogo-de-luta-25d/4981046)** — Public text/page, video not confirmed
+- **[UI_Group_Tool (FREE PLUGIN)](https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
@@ -22,6 +22,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[\[Release\] RoBulk — Bulk Editing, Pricing & Earnings Tools for Roblox Creators](https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637)** — Public text/page, video not confirmed
+- **[UI_Group_Tool (FREE PLUGIN)](https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839)** — Public text/page, video not confirmed
 - **[Looking for feedback on my AI character import plugin](https://www.reddit.com/r/robloxgamedev/comments/1xqk5tj/looking_for_feedback_on_my_ai_character_import/)** — Public text/page, video not confirmed
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Public text/page, video not confirmed
