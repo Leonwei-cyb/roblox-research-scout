@@ -3179,7 +3179,10 @@
     "d88f5b0a97606c394f160279",
     "3b4ce1d75c5ccd5872cdb943",
     "08a16e1e3d25f4b602b92f0a",
-    "49c2f74e745e5c2dda0bdae6"
+    "49c2f74e745e5c2dda0bdae6",
+    "009811b899771cb2af56eec2",
+    "4d393d5cf7b0916958a0f4c5",
+    "a0f469e49b977d9b81a11301"
   ],
   "items": [
     {
@@ -3265,6 +3268,17 @@
       "id": "a6b3584cec8bd3ecb79dc929"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Trading Playtests for my Watch Repair Game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrjlvo/trading_playtests_for_my_watch_repair_game/",
+      "published": "2026-11-09",
+      "excerpt": "I have been working on \"Fix a Watch\" a game where you take care of broken watches, upgrade your store & unlock new areas. The game is currently in early Beta but I would love to hear some honest feedback! If you have a game yourself and would like someone to test it, write me a message or comment yo",
+      "creator": "/u/LegendLinK1337 https://www.reddit.com/user/LegendLinK1337",
+      "id": "a0f469e49b977d9b81a11301"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3334,6 +3348,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-i-cant-change-the-graphic-level-settings-in-peace-anymore-while-in-a-playtest/4983500.rss",
       "id": "61dccb7d738c95405c89903f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How to make Head Follow the way camera look?",
+      "url": "https://devforum.roblox.com/t/how-to-make-head-follow-the-way-camera-look/4983583",
+      "published": "2026-11-09",
+      "excerpt": "So i want to make a Script that make the player head look at the direction the camera look but i have no idea how it work can someone explain it too me that how it work? 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-make-head-follow-the-way-camera-look/4983583.rss",
+      "id": "4d393d5cf7b0916958a0f4c5"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3414,6 +3440,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509.rss",
       "id": "08a16e1e3d25f4b602b92f0a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "AvatarEditorService:PromptAllowInventoryReadAccess prompt can't be answered with gamepad A/B or selection",
+      "url": "https://devforum.roblox.com/t/avatareditorservicepromptallowinventoryreadaccess-prompt-cant-be-answered-with-gamepad-ab-or-selection/4983585",
+      "published": "2026-11-09",
+      "excerpt": "On a gamepad, the “Access Item?” prompt doesn’t take focus. Its Cancel and Ok buttons can’t be selected, and A and B pass through to the game. The developer product purchase prompt handles the same situation correctly, with A and B always going to the prompt. Developers can’t work around this, becau",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatareditorservicepromptallowinventoryreadaccess-prompt-cant-be-answered-with-gamepad-ab-or-selection/4983585.rss",
+      "id": "009811b899771cb2af56eec2"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10069,41 +10107,6 @@
       "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "6ca045d76d4e10719f74f25c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Open Source] ReZeN's Raycast Projectile - Pierce, Hit Events & Explosions",
-      "url": "https://devforum.roblox.com/t/open-source-rezens-raycast-projectile-pierce-hit-events-explosions/4975053",
-      "published": "2026-11-04",
-      "excerpt": "Hey everyone! I’m releasing my raycast projectile module. It simulates projectiles with raycasts instead of physics parts, so it is cheap, accurate and works on both client and server. GitHub: here Features raycast simulation with a configurable rate optional gravity, acceleration and velocity align",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-source-rezens-raycast-projectile-pierce-hit-events-explosions/4975053.rss",
-      "id": "6c0dbb75be4ab4a177af1d62"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Is this animation okay or should I give up and hire animators...?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo1048/is_this_animation_okay_or_should_i_give_up_and/",
-      "published": "2026-11-04",
-      "excerpt": "Basically, what the tin says- what are your thoughts? The animation is supposed to be an injured person (their leg is messed up) limping and shaking. Sorry for the poor quality btw submitted by /u/TheLoveRiddle [link] [comments]",
-      "creator": "/u/TheLoveRiddle https://www.reddit.com/user/TheLoveRiddle",
-      "id": "64e29ad53acedba0d1472ce8"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Upcoming Changes to Asset Properties: Content Property Serialization Switch",
-      "url": "https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546",
-      "published": "2026-11-04",
-      "excerpt": "Key Takeaways Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. The new *Content properties (like .TextureContent ) fully support everything the legacy properties (like .Texture ) did. Your existing places and Luau scripts keep working, an",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546.rss",
-      "id": "627deb93d424fb3ef04e5a4d"
     }
   ]
 }
