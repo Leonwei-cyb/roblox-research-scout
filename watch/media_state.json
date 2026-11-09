@@ -3226,9 +3226,24 @@
     "874ab861d5f1b135e12e1c02",
     "3ba0d2ed4208e494c8178665",
     "9734aabc59e77dd66db07087",
-    "db23dfc1b593f0e562619caa"
+    "db23dfc1b593f0e562619caa",
+    "fe7fa0c20fa7287cf4010514",
+    "8893d051c5d7978c6c5e91e5",
+    "b13fac84947cdb967b1d5588"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Changing quality lvl to manual in the studio enables device emulator, and turning it off returns auto quality lvl!",
+      "url": "https://devforum.roblox.com/t/changing-quality-lvl-to-manual-in-the-studio-enables-device-emulator-and-turning-it-off-returns-auto-quality-lvl/4984308",
+      "published": "2026-11-09",
+      "excerpt": "Nah, its just pisses me off so hard right now Auto. First lvl ! Why? Why do I even need device emulator, just to see max graphics of my game?? Its also annoys when I’m trying to playtest with local server. Turned emulator off Expected behavior Please, stop it from enabling its self. Let me have my o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/changing-quality-lvl-to-manual-in-the-studio-enables-device-emulator-and-turning-it-off-returns-auto-quality-lvl/4984308.rss",
+      "id": "fe7fa0c20fa7287cf4010514"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -3378,6 +3393,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/animation-graph-editor-reopens-when-closed/4984105.rss",
       "id": "b1c8e840c68bf6c56701fde6"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Looking for brutally honest feedback on my game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrxwjj/looking_for_brutally_honest_feedback_on_my_game/",
+      "published": "2026-11-09",
+      "excerpt": "I made this game a few weeks ago (Claude did but all of the gameplay decisions are from me and if it's slop just let me know) and it's gone through a few iterations after playtesting it with multiple groups a few times. Would really appreciate if I could get some honest feedback on the game and whet",
+      "creator": "/u/dragon081223 https://www.reddit.com/user/dragon081223",
+      "id": "b13fac84947cdb967b1d5588"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3559,6 +3585,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Textures on a part visible through decals in front of it",
+      "url": "https://devforum.roblox.com/t/textures-on-a-part-visible-through-decals-in-front-of-it/4984269",
+      "published": "2026-11-09",
+      "excerpt": "The Building Support sub-category is intended for all development support relating to architecture on the Roblox platform. This includes questions ranging in difficulty from extremely basic to even the most technical of issues. You may present your thread how you choose, but you are required to answ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/textures-on-a-part-visible-through-decals-in-front-of-it/4984269.rss",
+      "id": "8893d051c5d7978c6c5e91e5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Inventory system and UI",
       "url": "https://devforum.roblox.com/t/inventory-system-and-ui/4984224",
       "published": "2026-11-09",
@@ -3586,7 +3624,7 @@
       "title": "Developing AI systems",
       "url": "https://devforum.roblox.com/t/developing-ai-systems/4984253",
       "published": "2026-11-09",
-      "excerpt": "Hello I am trying to figure out how to replicate a certain user using AI. What programs do you use? Where do I start? More context in the thread below. 6 posts - 3 participants Read full topic",
+      "excerpt": "Hello I am trying to figure out how to replicate a certain user using AI. What programs do you use? Where do I start? More context in the thread below. 9 posts - 4 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/developing-ai-systems/4984253.rss",
       "id": "800400d992ce606bad953846"
@@ -10108,39 +10146,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-flickers-objects-in-and-out-of-streaming-then-gives-up-and-stops-streaming-everything/4974426.rss",
       "id": "cdecb9eff50c600e769c5724"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "SLIMEHUNT UPDATE!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnrrdw/slimehunt_update/",
-      "published": "2026-11-04",
-      "excerpt": "Slimehunt | Play on Roblox I added 3 new Slimbos, more Items, and that's all folks! Please test the update to see if it's to your liking, only issue is I need to pay robux to make it all ages, so it's currently 16+ :( submitted by /u/AnimaticKraken [link] [comments]",
-      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
-      "id": "ca80b19247664361826e95f1"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "CL is hire",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnwxdd/cl_is_hire/",
-      "published": "2026-11-04",
-      "excerpt": "Camping Limbo(im gonna refer to it as CL) is a roblox asymetrical horror game baed on OC's and models from the toolbox that we turn into OC's (meaning all devs can make a character if they want) NO PAY BC THIS IS A PASSION PROJECT we are hiring: - scripters - Animators - Modelers - Artists - VFX Art",
-      "creator": "/u/StillUpstairs3808 https://www.reddit.com/user/StillUpstairs3808",
-      "id": "c892e317f615d19eb39425bd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Upcoming Turnbased Rpg on Roblox",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnepev/upcoming_turnbased_rpg_on_roblox/",
-      "published": "2026-11-04",
-      "excerpt": "https://reddit.com/link/1xnepev/video/whkrsu1ztizh1/player I've been working on Untitled Turnbased Game, a turn-based RPG, for quite a while now. While release is still a long way off, I'm getting closer every day! The game is heavily inspired by Slay the Spire and An Average Campaign (Roblox). Base",
-      "creator": "/u/darkblackhomie https://www.reddit.com/user/darkblackhomie",
-      "id": "c5b45f85ab6c78e552df30f7"
     }
   ]
 }

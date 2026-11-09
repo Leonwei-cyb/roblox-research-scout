@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "d63b702609c4300a2ca07be2bdb0adb9834725e5",
-      "head_subject": "Add ripple preview support to the MLX runner (#19592)",
+      "head": "1f23c7232e8e35b21d81bb03569a8afde2a6b0f9",
+      "head_subject": "Improve ChatGPT CLI restore and graceful restart (#19583)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.15",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
@@ -185,6 +185,7 @@
     "Roblox/roblox-studio-agent-plugin",
     "Rodert/awesome-mcp",
     "RubenSanJuan/roblox-arcade-lab",
+    "S4US/Roqer",
     "Sagargupta16/awesome-mcp-servers",
     "SyphoDev-yt/roblox-ai-skills",
     "Tavish9/awesome-daily-AI-arxiv",
