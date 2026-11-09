@@ -5,33 +5,34 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Ai Development
+
+- **[How to Use ChatGPT to Make Roblox Games - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByOHN5VVNNcnM0QVdHdEYtdXplRzk0Qno0c3QtRGVQT1dldXFhSjNlV2JvWUJOQ2JPNUVKVGV3cjF0dDcxemNTU2VoaTdmWHUtMzg2YUVR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-21
+  - Feed excerpt: How to Use ChatGPT to Make Roblox Games YouTube
+
 ## Community
 
-- **[CONCEPT OF THE KILLER: SINGULARITY](https://www.reddit.com/r/robloxgamedev/comments/1xs24mg/concept_of_the_killer_singularity/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: Concept: "Singularity" (Main Killer for my Asymmetrical Horror Game) Text: Hi everyone! I am a writer working on my own asymmetrical horror game concept in Roblox (inspired by Forsaken). I wanted to share the concept for the main Killer: Si
-- **[Could someone tell me how well or how poorly I’m doing? I have an idea of ​​what level I’m at, but I’d still appreciate some advice or recommendations from expe](https://www.reddit.com/r/robloxgamedev/comments/1xs1j2u/could_someone_tell_me_how_well_or_how_poorly_im/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: submitted by /u/Bea-T \[link\] \[comments\]
-- **[Huge jump in highly engaged players?](https://www.reddit.com/r/robloxgamedev/comments/1xs3gpc/huge_jump_in_highly_engaged_players/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: I'm 3 days in to a $16/day 1 week campaign, took me 3 days to hit 160 highly engaged, and it was at 160 between 9 am and 10 am, then 2 hours later I check and its at 252, why??? What does this mean for my game? Right now I avg 10 ccu, 5k to
-- **[I want to make a genuinely good Roblox game with AI. Where should I start?](https://www.reddit.com/r/robloxgamedev/comments/1xs13xe/i_want_to_make_a_genuinely_good_roblox_game_with/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: Hey everyone! I’ve wanted to create my own Roblox game for a long time, and with AI becoming more powerful, I finally feel like I have the opportunity to make it happen. But I don’t want to make another low-effort game thrown together in a 
-- **[Looking for players to test my Roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xs2tsz/looking_for_players_to_test_my_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: Hi I’m looking for players to test my game for free just looking for feedback if you have a game of ur own I can play it aswell so both particles are happy submitted by /u/PlateKey3133 \[link\] \[comments\]
+- **[Looking for a Playtester? I'm Available!](https://www.reddit.com/r/robloxgamedev/comments/1xs4vt4/looking_for_a_playtester_im_available/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: I'm Open for Game Testing Again! Need honest feedback before launching your Roblox game? Struggling with low retention or player count? I can help identify problems and suggest improvements. What I offer - Testing on PC, mobile, and tablet.
+- **[Looking for music composer for a passionate project (PvZ Fangame)](https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: Greetings to everyone reading this! ¡Starlight! is currently looking for a music composer to join us in developing a project called The Garden Tower Defenders , a fan-made game inspired by the Plants vs. Zombies franchise! For this project,
+- **[Thoughts on menu for ranked mode in my bare knuckle boxing game?](https://www.reddit.com/r/robloxgamedev/comments/1xs3zen/thoughts_on_menu_for_ranked_mode_in_my_bare/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: Inspired by the great fight night champion, it releases tomorrow alongside a bunch of new content. Ranked pass is also completely free! submitted by /u/LukeLovesHorror \[link\] \[comments\]
+- **[Want to know if its decent enough to run ads](https://www.reddit.com/r/robloxgamedev/comments/1xs3hyo/want_to_know_if_its_decent_enough_to_run_ads/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: So I recently finished a new game and I'd like you guys' opinion. It's already published I want to know if this game has potential, nothing crazy just can it get to 1k+ ccu? and any tips on how to manage ads. game is called Finish The Puzzl
 
 ## Roblox Updates
 
-- **[Major Increase in Server Crashes](https://devforum.roblox.com/t/major-increase-in-server-crashes/4984529)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: Our players in TTD 3 have been reporting frequent server crashes recently with a “Game Server update” seemingly pairing onto it. Those are all caused by out of memory exits. Looking at a few snapshots, the main memory usage candidates are o
-- **[Engine crashes when attaching a GetStyledPropertyChangedSignal on a non-stylable property](https://devforum.roblox.com/t/engine-crashes-when-attaching-a-getstyledpropertychangedsignal-on-a-non-stylable-property/4984586)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: This is a crash bug with the Roblox UI styling system. I discovered this bug on accident when attaching a GetStyledPropertyChangedSignal on a property that cannot be edited by a StyleRule . Set up a StyleRule with a tag selector. Add any Gu
-- **[Game store on website shows less products than in the app](https://devforum.roblox.com/t/game-store-on-website-shows-less-products-than-in-the-app/4984585)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: My game Combat Arena was an early adopter of external purchases for developer products. At the time, we listed our coins products for sale, they showed up on the website and everything was great. Then eventually the new Shop features were a
-- **[New Roblox Login page lacks "Quick Sign In" Option](https://devforum.roblox.com/t/new-roblox-login-page-lacks-quick-sign-in-option/4984580)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: Recently, I’ve noticed that the updated Roblox login page (both on the app and the web) no longer includes the “Quick Sign In” option, a feature that allowed users to log in more quickly without having to enter their email or use other logi
-- **[Upcoming Fixes for Wedge Part Collisions](https://devforum.roblox.com/t/upcoming-fixes-for-wedge-part-collisions/4984595)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: Key Takeaways We’re rolling out a fix for incorrect collision geometry on wedge parts. Since wedge glides and wedge flings result from this bug, they will no longer happen on their own after this fix. Hi Creators, We’re rolling out a fix fo
-- **[Upcoming Fixes for Wedge Part Collisions](https://devforum.roblox.com/t/upcoming-fixes-for-wedge-part-collisions/4984595)** · Roblox updates category (availability may vary) · 2026-11-09
-  - Feed excerpt: Key Takeaways We’re rolling out a fix for incorrect collision geometry on wedge parts. Since wedge glides and wedge flings result from this bug, they will no longer happen on their own after this fix. Hi Creators, We’re rolling out a fix fo
+- **[Obscene Amount of Draw Calls for BaseParts after Recent Roblox Update](https://devforum.roblox.com/t/obscene-amount-of-draw-calls-for-baseparts-after-recent-roblox-update/4984681)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: Since 1-2 weeks ago, the draw count on simple parts and wedges has been overly excessive to the point that a map I could play in my game at 165 fps 2 weeks ago is now barely playable at 40 FPS. I removed all decals, textures, meshparts, and
+- **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: Key Takeaways Automatic image translation is now available in beta for seven languages - French, German, Indonesian, Italian, Korean, Portuguese, and Spanish. It translates text in your in-game images into each player’s language while keepi
+- **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** · Roblox updates category (availability may vary) · 2026-11-09
+  - Feed excerpt: Key Takeaways Automatic image translation is now available in beta for seven languages - French, German, Indonesian, Italian, Korean, Portuguese, and Spanish. It translates text in your in-game images into each player’s language while keepi
+- **[Developers Should Not Be Able to Activate Ads Using Another User’s Payment Method](https://devforum.roblox.com/t/developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984655)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
+- **[\[CRITICAL\] Developers Should Not Be Able to Activate Ads Using Another User’s Payment Method](https://devforum.roblox.com/t/critical-developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984662)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: I recently noticed a pretty concerning issue with Roblox Ads Manager. Other developers on my team appear to have the ability to activate advertising campaigns that charge my personal payment method, without needing my approval. I don’t unde
 
 ---
 

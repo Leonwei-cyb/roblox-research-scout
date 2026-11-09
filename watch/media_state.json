@@ -3256,7 +3256,16 @@
     "56f085344d7718ccabdf3e70",
     "7f6478dc359b85adce02f264",
     "3afc40a0e7a61ef63a85c38a",
-    "90e601860c982d0506558406"
+    "90e601860c982d0506558406",
+    "cfb1fc5e5cfd5c023155a975",
+    "bf987894790a046465e84e72",
+    "eb453c1d03fb3a87cddc0eb4",
+    "764966bfb53f62465de3394e",
+    "ec4f81491014f11773d11c61",
+    "78ca49dbf25bea3cc5778e4a",
+    "7a8351b808b563220ecf734c",
+    "2149ae54898e5628970f1025",
+    "657f757a49885c20adf7bf40"
   ],
   "items": [
     {
@@ -3315,6 +3324,29 @@
       "excerpt": "so i was working on my game and the rig that i imported in blender always have this bug here submitted by /u/Klutzy-Elk8924 [link] [comments]",
       "creator": "/u/Klutzy-Elk8924 https://www.reddit.com/user/Klutzy-Elk8924",
       "id": "ed9715fd970fecd4be13c04a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for a Playtester? I'm Available!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs4vt4/looking_for_a_playtester_im_available/",
+      "published": "2026-11-09",
+      "excerpt": "I'm Open for Game Testing Again! Need honest feedback before launching your Roblox game? Struggling with low retention or player count? I can help identify problems and suggest improvements. What I offer - Testing on PC, mobile, and tablet. - 2 sessions, 2 hours each (4 hours total). - Honest feedba",
+      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
+      "id": "ec4f81491014f11773d11c61"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[CRITICAL] Developers Should Not Be Able to Activate Ads Using Another User’s Payment Method",
+      "url": "https://devforum.roblox.com/t/critical-developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984662",
+      "published": "2026-11-09",
+      "excerpt": "I recently noticed a pretty concerning issue with Roblox Ads Manager. Other developers on my team appear to have the ability to activate advertising campaigns that charge my personal payment method, without needing my approval. I don’t understand why this is even an option. Just because someone has ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984662.rss",
+      "id": "eb453c1d03fb3a87cddc0eb4"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3409,6 +3441,18 @@
       "id": "cfbbfb004617e33489e08da1"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Beta] Translate Text in Your In-Game Images Automatically",
+      "url": "https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692",
+      "published": "2026-11-09",
+      "excerpt": "Key Takeaways Automatic image translation is now available in beta for seven languages - French, German, Indonesian, Italian, Korean, Portuguese, and Spanish. It translates text in your in-game images into each player’s language while keeping the original style. Turn it on in Creator Hub > Audience ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692.rss",
+      "id": "cfb1fc5e5cfd5c023155a975"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3431,6 +3475,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/need-feedback-and-testers-on-my-new-game-project-striders/4983366.rss",
       "id": "c00940c6b7a5fe02891434ac"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Obscene Amount of Draw Calls for BaseParts after Recent Roblox Update",
+      "url": "https://devforum.roblox.com/t/obscene-amount-of-draw-calls-for-baseparts-after-recent-roblox-update/4984681",
+      "published": "2026-11-09",
+      "excerpt": "Since 1-2 weeks ago, the draw count on simple parts and wedges has been overly excessive to the point that a map I could play in my game at 165 fps 2 weeks ago is now barely playable at 40 FPS. I removed all decals, textures, meshparts, and left only parts and wedges, and the draw calls were an obsc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/obscene-amount-of-draw-calls-for-baseparts-after-recent-roblox-update/4984681.rss",
+      "id": "bf987894790a046465e84e72"
     },
     {
       "source": "reddit-robloxdev",
@@ -3832,12 +3888,34 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Looking for music composer for a passionate project (PvZ Fangame)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/",
+      "published": "2026-11-09",
+      "excerpt": "Greetings to everyone reading this! ¡Starlight! is currently looking for a music composer to join us in developing a project called The Garden Tower Defenders , a fan-made game inspired by the Plants vs. Zombies franchise! For this project, we want to give the game its own musical identity and charm",
+      "creator": "/u/ZettAy6111 https://www.reddit.com/user/ZettAy6111",
+      "id": "7a8351b808b563220ecf734c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "[Hiring] Roblox Animator for an Asymmetric Horror Game (Survivor Movement Pack, R15)",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrxyx1/hiring_roblox_animator_for_an_asymmetric_horror/",
       "published": "2026-11-09",
       "excerpt": "Hey everyone! I'm working on a game inspired by Dead by Daylight: an asymmetric horror game on Roblox (4 survivors vs 1 killer). The game is almost done, but the movement doesn't feel smooth enough yet, so I'm looking for an animator to make a set of custom survivor animations. **WHAT I NEED (R15):*",
       "creator": "/u/MajesticPeace603 https://www.reddit.com/user/MajesticPeace603",
       "id": "79c7dc1b1c6f188bfd46adef"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Thoughts on menu for ranked mode in my bare knuckle boxing game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3zen/thoughts_on_menu_for_ranked_mode_in_my_bare/",
+      "published": "2026-11-09",
+      "excerpt": "Inspired by the great fight night champion, it releases tomorrow alongside a bunch of new content. Ranked pass is also completely free! submitted by /u/LukeLovesHorror [link] [comments]",
+      "creator": "/u/LukeLovesHorror https://www.reddit.com/user/LukeLovesHorror",
+      "id": "78ca49dbf25bea3cc5778e4a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3850,6 +3928,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-on-avatareditorservicegetbatchitemdetailsasync/4983547.rss",
       "id": "78ab3f89a65fabc02785be64"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Developers Should Not Be Able to Activate Ads Using Another User’s Payment Method",
+      "url": "https://devforum.roblox.com/t/developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984655",
+      "published": "2026-11-09",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984655.rss",
+      "id": "764966bfb53f62465de3394e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -4239,6 +4329,17 @@
       "excerpt": "My son and I have been working on a Roblox game together called Cross Line Chaos , and he’s so excited that it’s finally published! It’s a fun little game where you try to cross different maps while avoiding monsters, bears, robots, lava creatures, and more. He said even if just one random person pl",
       "creator": "/u/Dad0TheYear https://www.reddit.com/user/Dad0TheYear",
       "id": "25ddc1e05323db87e1b7a16e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Want to know if its decent enough to run ads",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3hyo/want_to_know_if_its_decent_enough_to_run_ads/",
+      "published": "2026-11-09",
+      "excerpt": "So I recently finished a new game and I'd like you guys' opinion. It's already published I want to know if this game has potential, nothing crazy just can it get to 1k+ ccu? and any tips on how to manage ads. game is called Finish The Puzzle by Laios_wrath https://preview.redd.it/qun3lfejhn0i1.png?w",
+      "creator": "/u/LaiosW https://www.reddit.com/user/LaiosW",
+      "id": "2149ae54898e5628970f1025"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10075,97 +10176,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/proximityprompt-ui-properties/4976783.rss",
       "id": "14114c311f9f4f9c2ea45259"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Something wrong with Roblox Studio",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xouf6w/something_wrong_with_roblox_studio/",
-      "published": "2026-11-05",
-      "excerpt": "An error occured during Roblox Studio Identify the Problem Before attempting fixes, determine the type of error you’re experiencing. Common issues Studio Crashing or Freezing : Roblox Studio closes unexpectedly or becomes unresponsive Game Not Loading : Your game fails to load or runs slowly. Script",
-      "creator": "/u/LemonFirm4111 https://www.reddit.com/user/LemonFirm4111",
-      "id": "0c94f964c8c718f2d10b47dc"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I might have selected the wrong option, BUT ROBLOX REFUSES TO SHOW THE GAME I SPENT 12 HOURS USING AI ON",
-      "url": "https://devforum.roblox.com/t/i-might-have-selected-the-wrong-option-but-roblox-refuses-to-show-the-game-i-spent-12-hours-using-ai-on/4976302",
-      "published": "2026-11-05",
-      "excerpt": "as the queen of roblox, you would think roblox would cut me some slack and not give me bugs, well thats wrong, tell me why i woke up got ready to open codex and load chatgpt and my games dont show, like can we normalise, fixing the bugs, ALL SHADE, cause mind u i coulda made SERIOUS AND I MEAN SERIO",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-might-have-selected-the-wrong-option-but-roblox-refuses-to-show-the-game-i-spent-12-hours-using-ai-on/4976302.rss",
-      "id": "0c7b250572aa98601eea4a87"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Currently Unable to Publish Games Publicly",
-      "url": "https://devforum.roblox.com/t/currently-unable-to-publish-games-publicly/4976046",
-      "published": "2026-11-05",
-      "excerpt": "Currently when I attempt to push a game to public, it says I do not have access. This is reproduceable in games owned by my personal account and group owned games (where I am the owner). Affected game: https://www.roblox.com/games/82333965857708/Breaking-Test Browser Information: Google Chrome Expec",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/currently-unable-to-publish-games-publicly/4976046.rss",
-      "id": "0c3f049c193287ae7a91e96b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Experience Stuck at 16+ Age Restriction and Incorrectly Flagged for Reduced Exposure / Low Quality",
-      "url": "https://devforum.roblox.com/t/experience-stuck-at-16-age-restriction-and-incorrectly-flagged-for-reduced-exposure-low-quality/4976155",
-      "published": "2026-11-05",
-      "excerpt": "Hello Roblox Engineering Team, My experience was incorrectly categorized as a “Social Hangout”, resulting in a 16+ age restriction that remains under review even after the stated 48-hour period. Additionally, my experience received the warning: “Your experience has reduced exposure across Home, Sear",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/experience-stuck-at-16-age-restriction-and-incorrectly-flagged-for-reduced-exposure-low-quality/4976155.rss",
-      "id": "09ead7fc1a2879b930e1cd19"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Copyright question.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoidfx/copyright_question/",
-      "published": "2026-11-05",
-      "excerpt": "Will I be in trouble if I use real references to an anime map? Real names for the areas, real places and etc. But, the characters I changed the names submitted by /u/MeaningPutrid765 [link] [comments]",
-      "creator": "/u/MeaningPutrid765 https://www.reddit.com/user/MeaningPutrid765",
-      "id": "091a96be1d90207b1e1b180e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for thumbnail/icon designers to improve PTR",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoxeej/looking_for_thumbnailicon_designers_to_improve_ptr/",
-      "published": "2026-11-05",
-      "excerpt": "As the title says, if you are good with the analytics and graphic design side and can help me improve my PTR then please dm me, we can work the financial arrangement in dms. submitted by /u/volatility9 [link] [comments]",
-      "creator": "/u/volatility9 https://www.reddit.com/user/volatility9",
-      "id": "06720368f561bf68968c6f80"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Investor] Entity: Original asym horror game seeking 10k R$/month for 15% lifetime revenue share",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosssd/investor_entity_original_asym_horror_game_seeking/",
-      "published": "2026-11-05",
-      "excerpt": "Hey everyone! I'm the developer of Entity , a pre-release asymmetrical horror game on Roblox, and we're looking for an investor to help us reach launch. About the game Entity is a killer-vs-survivors game with a fully original cast. Every map is tied to a character's backstory, so the world builds o",
-      "creator": "/u/Double-Grape-4232 https://www.reddit.com/user/Double-Grape-4232",
-      "id": "039440cad74eb28eb52231cb"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Need feedback on my new game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoteio/need_feedback_on_my_new_game/",
-      "published": "2026-11-05",
-      "excerpt": "This is my new roblox game made as a solo dev, i have been scripting for about 2 years now. This game took me about 2 weeks, need feedback as a whole, im still polishing it. The mobile ui needs rework thats imma do first Planning to put around 200 usd on adv + im talking w investors any type of feed",
-      "creator": "/u/Selfy_Senpai https://www.reddit.com/user/Selfy_Senpai",
-      "id": "01770b9c0ec31eee3ff68073"
     }
   ]
 }
