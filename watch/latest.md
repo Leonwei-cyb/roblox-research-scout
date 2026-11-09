@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Release:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 0.70.2 → 0.70.3.
+- **Release:** [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) v1.2.0 → v1.3.0.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

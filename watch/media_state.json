@@ -3215,9 +3215,24 @@
     "6635f19b25e6f226b7052516",
     "cfbbfb004617e33489e08da1",
     "de7fcfd7ad6d7e0d088a918e",
-    "701a6c09624d98528fe059b4"
+    "701a6c09624d98528fe059b4",
+    "6aecd49ac39eaaf491812f2c",
+    "dcbfb3dceb644be946a06df6",
+    "ee8a9efbcb3a5248ff4b4559",
+    "275125e9f4ecc40f94c9334d"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "what does this orange highlight mean?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrvblm/what_does_this_orange_highlight_mean/",
+      "published": "2026-11-09",
+      "excerpt": "it also makes the script not work submitted by /u/Adventurous_Cod_9320 [link] [comments]",
+      "creator": "/u/Adventurous_Cod_9320 https://www.reddit.com/user/Adventurous_Cod_9320",
+      "id": "ee8a9efbcb3a5248ff4b4559"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -3239,6 +3254,18 @@
       "excerpt": "I tried to test the game, and this kept happening each time I tried to test it. I don't really understand what to do, help ;-; submitted by /u/AloneStrain7901 [link] [comments]",
       "creator": "/u/AloneStrain7901 https://www.reddit.com/user/AloneStrain7901",
       "id": "de7fcfd7ad6d7e0d088a918e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio fails to persist \"Default\" theme setting",
+      "url": "https://devforum.roblox.com/t/studio-fails-to-persist-default-theme-setting/4984136",
+      "published": "2026-11-09",
+      "excerpt": "When I set the Studio Theme to “Default” (to follow the OS system theme), Studio does not persist this setting. It keeps automatically changing the setting from “Default” to explicitly “Light” or “Dark” when my OS changes its theme. Sometimes it doesn’t happen right away, but it’s been happening nea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-fails-to-persist-default-theme-setting/4984136.rss",
+      "id": "dcbfb3dceb644be946a06df6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3546,6 +3573,18 @@
       "id": "6b50160a72ebe25ba7c5c932"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Option to increase MicroProfiler memory budget",
+      "url": "https://devforum.roblox.com/t/option-to-increase-microprofiler-memory-budget/4984188",
+      "published": "2026-11-09",
+      "excerpt": "MicroProfiler is not useful for general performance inspection because it can’t capture enough data. MicroProfiler is not useful for diagnosing extreme performance drops because it drops relevant labels before the app recovers. MicroProfiler is not useful for improving studio test times because labe",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/option-to-increase-microprofiler-memory-budget/4984188.rss",
+      "id": "6aecd49ac39eaaf491812f2c"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3728,6 +3767,17 @@
       "excerpt": "Hey guys I am just wondering if there is acctualy somebody who is making atleast 1k a month from developemnt or not submitted by /u/Numsiik [link] [comments]",
       "creator": "/u/Numsiik https://www.reddit.com/user/Numsiik",
       "id": "27f550ce0c94d4e3f5dffeed"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Will making my own chat system risk getting me banned?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xruvij/will_making_my_own_chat_system_risk_getting_me/",
+      "published": "2026-11-09",
+      "excerpt": "The question is exactly what it seems like. I want to make my own chat to bypass age verification, can I get banned for this? submitted by /u/UnlikelyAgent1301 [link] [comments]",
+      "creator": "/u/UnlikelyAgent1301 https://www.reddit.com/user/UnlikelyAgent1301",
+      "id": "275125e9f4ecc40f94c9334d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10086,54 +10136,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/need-help-fitting-ui-for-a-tower-defense-game/4974809.rss",
       "id": "bb2eeaf7e73224bd5fd30f4f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "It can't load all experience",
-      "url": "https://devforum.roblox.com/t/it-cant-load-all-experience/4974734",
-      "published": "2026-11-04",
-      "excerpt": "When i click the experience, it error like this and don’t have error code. Expected behavior 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/it-cant-load-all-experience/4974734.rss",
-      "id": "bad1806a235cc5559eb2ec0f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Massive banwave! Enforcement ban + new",
-      "url": "https://devforum.roblox.com/t/massive-banwave-enforcement-ban-new/4975874",
-      "published": "2026-11-04",
-      "excerpt": "Enforcement bans have been taking over millions of innocent players accounts with Roblox simply saying that it’s partially not false? Just in the Eu alone 20 million players have gotten banned in the past few weeks, more than probably any amount of bans Roblox has ever made, with 87% of them alone b",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/massive-banwave-enforcement-ban-new/4975874.rss",
-      "id": "b85c9519231c934b7f7cc455"
-    },
-    {
-      "source": "x-ui",
-      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
-      "category": "UI showcases",
-      "title": "@dskaboodles_ CREW SHOP™ All your cosmetics in one convenient place. - X",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHYzluRXBMbkYwcG1lbHd6ZG42U3JUNHhYZUVFSnJHY1dYRnZ3eU9vUkNNS1p0S1hfVmZmcWt1cTd3UVVzUWxaa28zcl90N3VsX2g4S3NTams5eE15ZWh3eGlR?oc=5",
-      "published": "2026-11-04",
-      "excerpt": "@dskaboodles_ CREW SHOP™ All your cosmetics in one convenient place. X",
-      "creator": "",
-      "publisher": "https://x.com",
-      "id": "b767762d09906bde41d507c4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Reassigning Table Type Variable Inside of If Statement Causes that Variable to Accept Any Type as a Value in the New Luau Type Solver.",
-      "url": "https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600",
-      "published": "2026-11-04",
-      "excerpt": "When assigning a value in a table with the type {string} to a value of any other type, it errors unless you set the table to another table inside of an if statement before. The if statement is critical as the discrepancy does not occur without it. To reproduce this issue just paste the following cod",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/reassigning-table-type-variable-inside-of-if-statement-causes-that-variable-to-accept-any-type-as-a-value-in-the-new-luau-type-solver/4975600.rss",
-      "id": "b6438430261956d33fa95e84"
     }
   ]
 }
