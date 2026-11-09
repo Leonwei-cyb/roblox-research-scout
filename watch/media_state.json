@@ -3183,7 +3183,13 @@
     "009811b899771cb2af56eec2",
     "4d393d5cf7b0916958a0f4c5",
     "a0f469e49b977d9b81a11301",
-    "30660147bd2f6c8bc9d4d196"
+    "30660147bd2f6c8bc9d4d196",
+    "a533191b16de7615d9294442",
+    "a2cdb869a9ce6627e779dc7d",
+    "9b93cc4696c9bc4af78acf2a",
+    "67d193deab5f6f29109461f4",
+    "6b50160a72ebe25ba7c5c932",
+    "41576d533b88aa23fe9140bf"
   ],
   "items": [
     {
@@ -3269,6 +3275,30 @@
       "id": "a6b3584cec8bd3ecb79dc929"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Need feedback for my background mountain",
+      "url": "https://devforum.roblox.com/t/need-feedback-for-my-background-mountain/4983737",
+      "published": "2026-11-09",
+      "excerpt": "Hello everyone, I’d like to ask anyone who’s familiar with background mountains for advice. I’m trying to import a huge mountain along with trees, and I’m not sure whether to use a SpecialMesh or a normal MeshPart. But there’s a catch: SpecialMesh doesn’t support double-sided rendering or PBR (Surfa",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-feedback-for-my-background-mountain/4983737.rss",
+      "id": "a533191b16de7615d9294442"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[CRITICAL] ID Verification is COMPLETELY Broken (4+ Months) & Support is Ignoring Every Single Report",
+      "url": "https://devforum.roblox.com/t/critical-id-verification-is-completely-broken-4-months-support-is-ignoring-every-single-report/4983695",
+      "published": "2026-11-09",
+      "excerpt": "I am absolutely sick of dealing with this platform’s fundamentally broken systems. For over FOUR MONTHS , ID verification has been completely dead. And before anyone tries to tell me to clear my cache or use a different browser, this is broken on ALL of my accounts , and on EVERY single phone and de",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-id-verification-is-completely-broken-4-months-support-is-ignoring-every-single-report/4983695.rss",
+      "id": "a2cdb869a9ce6627e779dc7d"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3278,6 +3308,18 @@
       "excerpt": "I have been working on \"Fix a Watch\" a game where you take care of broken watches, upgrade your store & unlock new areas. The game is currently in early Beta but I would love to hear some honest feedback! If you have a game yourself and would like someone to test it, write me a message or comment yo",
       "creator": "/u/LegendLinK1337 https://www.reddit.com/user/LegendLinK1337",
       "id": "a0f469e49b977d9b81a11301"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Terrible face validation",
+      "url": "https://devforum.roblox.com/t/terrible-face-validation/4983690",
+      "published": "2026-11-09",
+      "excerpt": "The validation fails to get past step 1 of dynamic head validation The face is clear and visible, but the validation does not see it I’ve tried making the background color lighter, removed whiskers and the only thing that happens to work is if I paint the eyes and mouth pure black and remove whisker",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/terrible-face-validation/4983690.rss",
+      "id": "9b93cc4696c9bc4af78acf2a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3331,6 +3373,28 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Cowboy Valley!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrmdil/cowboy_valley/",
+      "published": "2026-11-09",
+      "excerpt": "Hi, me and my parter have made our first Roblox game - Cowboy Valley! It's a cowboy simulator, where you can catch cows, horse race, duel, and upgrade your ranch. We are looking to get to 250 engaged players having played, so if anyone could play, we'd appreciate it so much. Also looking for feedbac",
+      "creator": "/u/LemonadePopsicle123 https://www.reddit.com/user/LemonadePopsicle123",
+      "id": "6b50160a72ebe25ba7c5c932"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Why is my player engagement so low?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrmlwh/why_is_my_player_engagement_so_low/",
+      "published": "2026-11-09",
+      "excerpt": "My game consists of 2 game modes that rotate after finishing and includes a shop where you can spend your earnings and even a gacha system. Although, players seem to be leaving mid-round or don't stay to play another. Is it that the games are too boring or is the overall objective in winning or play",
+      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
+      "id": "67d193deab5f6f29109461f4"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Roblox Game",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrfeo4/roblox_game/",
       "published": "2026-11-09",
@@ -3372,6 +3436,17 @@
       "excerpt": "Slimehunt | Play on Roblox Adds 3 new biomes being Mushroom Forests, a plains with mushroom trees, mushroom crevices, found in a mysterious hole next to a mushroom tree, and the Plains, the result of curing the Mushroom Virus. There's also 5 new Slimbos for the Mushroom Areas, Mushroom and Spore Sli",
       "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
       "id": "49c2f74e745e5c2dda0bdae6"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "roblox slop",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrlene/roblox_slop/",
+      "published": "2026-11-09",
+      "excerpt": "so i made a slop game on roblox to prove roblox loves slop ngl its entirely vibecoded bc im not spending days scripting to make slop😭 https://www.roblox.com/games/79932503720068/1-STEAL-A-SLIME submitted by /u/SafePuzzleheaded455 [link] [comments]",
+      "creator": "/u/SafePuzzleheaded455 https://www.reddit.com/user/SafePuzzleheaded455",
+      "id": "41576d533b88aa23fe9140bf"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10039,76 +10114,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sick-art-showcase/4975015.rss",
       "id": "78a2ad7126a0ff8793c60498"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "NegativeParts are not distinguished with an icon in Explorer or a change in ClassName",
-      "url": "https://devforum.roblox.com/t/negativeparts-are-not-distinguished-with-an-icon-in-explorer-or-a-change-in-classname/4975451",
-      "published": "2026-11-04",
-      "excerpt": "NegativeParts used to have a subtraction icon next to them to allow them to be distinguished from Unions or Parts. They no longer have this, which increases confusion when building. Expected behavior I expect the ClassName of NegativeParts to be “NegativePart” for easy searchability and the icon in ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/negativeparts-are-not-distinguished-with-an-icon-in-explorer-or-a-change-in-classname/4975451.rss",
-      "id": "72b3eb71f1fd7282b069e47d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Feedback on my new game: [Sea Sailors]",
-      "url": "https://devforum.roblox.com/t/feedback-on-my-new-game-sea-sailors/4975040",
-      "published": "2026-11-04",
-      "excerpt": "Hello! I made a new Roblox game called “Sea Sailors”. It’s a Survival/Adventure game where you try to survive on a raft, fight enemies, gather resources, and craft stuff to help you on your adventure. I wanted to get some feedback on it! I have attached the trailer and a couple of images below. Feed",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-on-my-new-game-sea-sailors/4975040.rss",
-      "id": "7167bda4a4d5a77751dfe9ff"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Low quality stud textures",
-      "url": "https://devforum.roblox.com/t/low-quality-stud-textures/4974911",
-      "published": "2026-11-04",
-      "excerpt": "2 posts - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/low-quality-stud-textures/4974911.rss",
-      "id": "70a91e185368abc8ec747d98"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Weird gaps in a blender import when it looks fine inside blender.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xndlfk/weird_gaps_in_a_blender_import_when_it_looks_fine/",
-      "published": "2026-11-04",
-      "excerpt": "I'm very new to blender so I'm very sorry, but I'm trying to import this model into Roblox Studio. These weird gaps appear across the model and I'm not exactly sure why or how to fix it. In blender, it looks perfectly fine and NORMAL, and I'm at a bit of a loss what is happening. submitted by /u/Tim",
-      "creator": "/u/Timely-Television649 https://www.reddit.com/user/Timely-Television649",
-      "id": "6f11cae799c571c6b95e1b8a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to remove bugged Scale tool dots?",
-      "url": "https://devforum.roblox.com/t/how-to-remove-bugged-scale-tool-dots/4975239",
-      "published": "2026-11-04",
-      "excerpt": "So, I was building a lobby for my game, and at some point the studio crashed, and after re‑logging in, all the changes on the map didn’t save. So I used a copy of the place, saved the changes to the main place, and found the Scale tool points. I can’t select them or find them in the workspace. They ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-remove-bugged-scale-tool-dots/4975239.rss",
-      "id": "6ee4e06ed825a4332d683272"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Quick question, new developer here and for toolbox assets, I had put in a couple of free assets that had scripts, will these assets cause me any trouble if I haven’t uploaded the game yet?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfua0/quick_question_new_developer_here_and_for_toolbox/",
-      "published": "2026-11-04",
-      "excerpt": "Basically the title, I put in a few assets, but now that I realize that some assets with scripts have Trojan horses or something else like that, I’m checking them, but I just wanted to confirm that it’s not a lost cause already. submitted by /u/Accomplished-Code471 [link] [comments]",
-      "creator": "/u/Accomplished-Code471 https://www.reddit.com/user/Accomplished-Code471",
-      "id": "6e91f36f4dac97ed8fd370c9"
     }
   ]
 }

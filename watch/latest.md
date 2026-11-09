@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [Anime-Vanguards/roblox-object-renderer](https://github.com/Anime-Vanguards/roblox-object-renderer) (15 stars). Offline Roblox 3D renderer: renders models, places and recorded scenes the way Roblox Studio draws them
+- **Source updated:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) — CREDITS: add Mehmet Kösece (#9547).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
