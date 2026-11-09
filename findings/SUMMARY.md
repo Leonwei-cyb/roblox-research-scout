@@ -3,8 +3,8 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-09T14:12:55Z (local, ok)
-- Repos tracked: 459; adopt 0, needs-test 183, reject 276
+- Last run: 2026-11-09T20:58:08Z (local, ok)
+- Repos tracked: 458; adopt 0, needs-test 183, reject 275
 - Actionable backlog: 170
 - Feed health: ok 38
 - Coverage: polling snapshots every few hours, **not** continuous.
@@ -31,42 +31,42 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin Chrrxs/robloxstudio-mcp@​2edb6d1, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Roblox game QA and evidence capture.
 - **Wheel** · score 100 · [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade/tree/4736e9d8aa3774698fcfb8ae0a061bfb1fd79ee7)
   - Pin escoffier-labs/brigade@​4736e9d, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-- **Wheel** · score 100 · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills/tree/ac200b2b75639be5836f0211507e3ade819c1844)
-  - Pin JasonColapietro/suede-creator-skills@​ac200b2, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-- **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/a602706fc62ff1cfcb18001358ac39647b08acf5)
-  - Pin jmagly/aiwg@​a602706, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+- **Wheel** · score 100 · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills/tree/64c34065f41bc251c7c3eb20d3e3da1dc96e3152)
+  - Pin JasonColapietro/suede-creator-skills@​64c3406, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+- **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/962fbdcd8cde31382e32db6c3c588eed3c33c927)
+  - Pin jmagly/aiwg@​962fbdc, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 
 ## Changes this run
 
-- Issue updated: open-mercato/cezar #2025 Fix: a run closed on an unanswered question shows its step as a red failure while the run says "need
-- Issue updated: open-mercato/cezar #2024 Fix: an idle-closed run's Graph tab shows the step that closed it as a red "failed" node
-- Issue updated: open-mercato/cezar #2022 Fix: an idle-closed run's step rail shows a red failed step while the run reads orange "closed · idl
-- Issue updated: open-mercato/cezar #2018 Fix: refetching run history after loading older pages leaves a gap in the transcript
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
+- Issue updated: open-mercato/cezar #2042 Fix: opencode permission prompts are auto-rejected and never surfaced in the cockpit — non-autonomou
+- Issue updated: open-mercato/cezar #2041 Fix: GitHub automations never fire for projects added via 'cez projects add' — scheduler silently sk
+- Issue updated: open-mercato/cezar #2040 Implement: change-aware CI monitoring to avoid repeated full-context model turns
+- Issue updated: open-mercato/cezar #2012 Task auto-naming uses the full default model on non-Claude runners \(26% of Copilot credits in one we
+- Issue updated: open-mercato/cezar #2037 Fix: keep asset cards at their chronological place in the conversation
+- Issue updated: obra/superpowers #2681 \[APM\] Add apm support to be agnostic
+- Issue updated: obra/superpowers #1822 can't install superpowers for junie
+- Issue updated: earendil-works/pi #11869 New 'StringEnum' in Pi 1.5.0 breaks compile-time typing
+- Issue updated: earendil-works/pi #11676 pi-durable: Harness.close\(\) leaves pi-ai provider session resources alive
 - Issue updated: earendil-works/pi #11060 Chosen folder for a moved session is not saved, so every resume asks again
-- Issue updated: earendil-works/pi #3200 Support video/audio content in prompt command
-- Issue updated: earendil-works/pi #8617 Codex: Use file references for image-heavy tool results
-- Issue updated: earendil-works/pi #11898 openai-codex: onResponse never fires on the WebSocket transport, so x-codex-\* usage headers are lost
-- Issue updated: earendil-works/pi #11944 install.ps1 aborts with NativeCommandError before the action menu when npm writes any warning to std
-- Issue updated: ComposioHQ/awesome-claude-skills #2437 Add Buddy skill \(Development & Code Tools\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2436 Skill submission: Founder Pipeline \(Business & Marketing\)
-- Issue updated: OpenHands/OpenHands #19565 Name the Commit viewer hash width and measured editor height
-- Issue updated: OpenHands/OpenHands #19562 \[Feature\]: Discover ACP models for a custom profile before a conversation starts
-- Issue updated: OpenHands/OpenHands #19563 Enforce arbitrary-value lint after typography and inset-shadow cleanup
-- Issue updated: OpenHands/OpenHands #19522 \[Bug\]: Automation log tabs cannot be switched with the keyboard
-- Issue updated: OpenHands/OpenHands #19557 \[Bug\]: Automation setup draft bar squeezes "Draft saved" to one letter at phone width
+- Issue updated: earendil-works/pi #11026 pi-durable: permanently delete a conversation from storage
+- Issue updated: earendil-works/pi #11921 tool\_search answers "No matching tools found" for a declared direct MCP tool; direct servers are nev
+- Issue updated: ComposioHQ/awesome-claude-skills #2438 Add team-room skill \(Collaboration & Project Management\)
+- Issue updated: OpenHands/OpenHands #19575 Default Projects UI in Canvas \(behind the experimental 'projects' flag\)
+- Issue updated: OpenHands/OpenHands #19576 \[Bug\]: Completed resume hidden in long conversations when UTC history has no timezone suffix
+- Issue updated: OpenHands/OpenHands #19573 \[Bug\]: Message sent to a running conversation is lost and comes back as a draft
+- Issue updated: OpenHands/OpenHands #19056 Conversation Resources View: show what the agent has access to
+- Issue updated: OpenHands/OpenHands #19570 Name the Files tab strip scrollbar and File discovery height recipes
 - New candidate: modelcontextprotocol/servers (reject)
 - New candidate: anthropics/claude-code (reject)
-- Issue updated: openai/codex #16918 Windows app fails to start for usernames with non-ASCII characters \(Swedish Ä\) due to malformed CODE
-- Issue updated: openai/codex #56766 \[Windows 11 x64\] System-wide hard freeze when launching another app after Codex has been running, wi
-- Issue updated: openai/codex #59748 \[Windows\]\[Computer Use\] Minimized Settings binding fails with recovery methods absent from exposed c
-- Issue updated: openai/codex #60397 \[Windows 10\] Codex CLI 0.162.0 — Sandbox Command Execution Fails with CreateProcessAsUserW Error 5 a
-- Issue updated: openai/codex #37212 Existing project grouping disappears after app update and re-login; old threads become projectless
+- Issue updated: openai/codex #60450 ChatGPT Work ignores Full Access setting and enforces workspace-write sandbox on local Windows execu
+- Issue updated: openai/codex #39781 \[Windows Desktop\] Restore UI font size 18+ and do not silently reset existing values
+- Issue updated: openai/codex #60448 \[Dots\] Support iMessage/RCS group texts with multiple \(perhaps authorized\) participants
+- Issue updated: openai/codex #35420 Work/Codex stream repeatedly disconnects when the selected Windows workspace is OneDrive-backed and
+- Issue updated: openai/codex #60449 \[Windows / ChatGPT Work\] Network enabled but local executor blocks TCP connect \(10013\); bind/listen
 - Issue updated: rojo-rbx/rojo #1357 InstanceHandle attributes support is missing
 - New candidate: creosB/AI-Side-Panel-Extension (reject)
 - New candidate: Robbings/chatgpt-graph-navigator (reject)
 - New candidate: keyonzeng/prompt\_ark (reject)
-- Issue updated: ollama/ollama #19623 Repeated compaction can retain a summary result without its matching call
-- Issue updated: ollama/ollama #1645 Dark mode for ollama.com
+- Issue updated: ollama/ollama #19624 OLLAMA\_KEEP\_ALIVE of 300 seconds \(5 minutes\) is too short
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).

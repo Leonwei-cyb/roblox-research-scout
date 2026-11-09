@@ -2,9 +2,9 @@
 
 Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub search returns at most 15 results per query here, ranked by GitHub's own relevance.
 
-- Run: 2026-11-09T14:10:46Z (local)
+- Run: 2026-11-09T20:56:28Z (local)
 - API calls: 51 total (graphql 7, rest 44)
-- Distinct repos found: 277; inspected: 12
+- Distinct repos found: 278; inspected: 12
 
 ## Rediscovery check (known repos were NOT used as search input)
 
@@ -25,7 +25,7 @@ Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub s
 | 7 | [Robbings/chatgpt-graph-navigator](https://github.com/Robbings/chatgpt-graph-navigator/tree/a616cefd3fb6764ad25f0d50417fbebe14156660) @ a616cef | browser-session | reject | 90 | no license: all rights reserved, ideas only, no code reuse. browser extension manifest targets chat sites \(manifest.json\); references chat web apps: chat.openai.com, chatgpt.com; content scripts on chat sites |
 | 8 | [keyonzeng/prompt\_ark](https://github.com/keyonzeng/prompt_ark/tree/8d4c1b36fd11bc0cf653c3b95cbca276c9c95ccb) @ 8d4c1b3 | mixed | reject | 85 | no license: all rights reserved, ideas only, no code reuse. browser extension manifest targets chat sites \(manifest.json\); references chat web apps: chat.openai.com, chatgpt.com, claude.ai, gemini.google.com; content scr |
 | 9 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/c46144eb61c18cd1a495445c79ec47145722053e) @ c46144e | mixed | needs-test | 85 | drives browser sessions but also calls model APIs; check which path Leon would reuse. browser automation dependency: playwright; authenticated web session wording |
-| 10 | [ollama/ollama](https://github.com/ollama/ollama/tree/d63b702609c4300a2ca07be2bdb0adb9834725e5) @ d63b702 | unknown | reject | 50 | no evidence of browser-session orchestration in README, manifests or key source. no signals |
+| 10 | [ollama/ollama](https://github.com/ollama/ollama/tree/1f23c7232e8e35b21d81bb03569a8afde2a6b0f9) @ 1f23c72 | unknown | reject | 50 | no evidence of browser-session orchestration in README, manifests or key source. no signals |
 | 11 | [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents/tree/9596ab1e69fbbb6c95291141c8dab5c181083216) @ 9596ab1 | unknown | reject | 40 | no evidence of browser-session orchestration in README, manifests or key source. no signals |
 | 12 | [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents/tree/863bba8dcb9ea72926a25232937a11ef1f2af0b8) @ 863bba8 | unknown | reject | 40 | no license: all rights reserved, ideas only, no code reuse. no signals |
 

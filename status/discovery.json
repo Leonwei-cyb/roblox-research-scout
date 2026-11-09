@@ -9,19 +9,19 @@
     "rate": {
       "code_search": {
         "remaining": 7,
-        "reset_at": "2026-11-09T14:12:21Z"
+        "reset_at": "2026-11-09T20:58:03Z"
       },
       "core": {
-        "remaining": 4901,
-        "reset_at": "2026-11-09T14:19:34Z"
+        "remaining": 4943,
+        "reset_at": "2026-11-09T21:55:17Z"
       },
       "graphql": {
-        "remaining": 4995,
-        "reset_at": "2026-11-09T14:50:45Z"
+        "remaining": 4993,
+        "reset_at": "2026-11-09T21:50:56Z"
       },
       "search": {
-        "remaining": 1,
-        "reset_at": "2026-11-09T14:11:47Z"
+        "remaining": 23,
+        "reset_at": "2026-11-09T20:57:54Z"
       }
     }
   },
@@ -99,29 +99,29 @@
     {
       "repo": "JasonColapietro/suede-creator-skills",
       "score": 100,
-      "sha": "ac200b2b75639be5836f0211507e3ade819c1844",
+      "sha": "64c34065f41bc251c7c3eb20d3e3da1dc96e3152",
       "suggested_owner": "Wheel",
-      "task": "Pin JasonColapietro/suede-creator-skills@ac200b2, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin JasonColapietro/suede-creator-skills@64c3406, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     },
     {
       "repo": "jmagly/aiwg",
       "score": 100,
-      "sha": "a602706fc62ff1cfcb18001358ac39647b08acf5",
+      "sha": "962fbdcd8cde31382e32db6c3c588eed3c33c927",
       "suggested_owner": "Wheel",
-      "task": "Pin jmagly/aiwg@a602706, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
+      "task": "Pin jmagly/aiwg@962fbdc, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir (no installs on the Mac), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs (Hub PR #74 Bridge, #75 Wheel)."
     }
   ],
   "counts": {
     "actionable_backlog": 170,
     "adopt": 0,
-    "events_this_run": 66,
+    "events_this_run": 60,
     "needs_test": 183,
-    "new_candidates_this_run": 19,
-    "new_releases_this_run": 6,
+    "new_candidates_this_run": 15,
+    "new_releases_this_run": 5,
     "records": 600,
-    "reject": 276,
-    "repos_tracked": 459,
-    "updated_issues_this_run": 41
+    "reject": 275,
+    "repos_tracked": 458,
+    "updated_issues_this_run": 40
   },
   "feed_health": {
     "ok": 38
@@ -351,11 +351,11 @@
       "status": "ok"
     },
     {
-      "detail": "1 repo(s) not found or not visible; 0 deferred after GraphQL field errors (prior record kept)",
+      "detail": "2 repo(s) not found or not visible; 0 deferred after GraphQL field errors (prior record kept)",
       "id": "graphql:batch2",
       "kind": "graphql",
       "repos": 15,
-      "resolved": 14,
+      "resolved": 13,
       "status": "ok"
     },
     {
@@ -385,10 +385,10 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-11-09T14:12:55Z",
+    "finished_at": "2026-11-09T20:58:08Z",
     "outcome": "ok",
     "run_url": "",
-    "started_at": "2026-11-09T14:10:46Z",
+    "started_at": "2026-11-09T20:56:28Z",
     "trigger": "local"
   },
   "schema": 1

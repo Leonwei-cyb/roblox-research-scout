@@ -222,7 +222,7 @@
       },
       {
         "kind": "rest",
-        "outcome": "200",
+        "outcome": "304",
         "what": "GET /repos/TED-H-com/multi-ai-chat/git/trees/ed7953d0d634caf148376e89a432222f32cc44b7?recursive=1"
       },
       {
@@ -232,8 +232,8 @@
       },
       {
         "kind": "rest",
-        "outcome": "304",
-        "what": "GET /repos/ollama/ollama/git/trees/d63b702609c4300a2ca07be2bdb0adb9834725e5?recursive=1"
+        "outcome": "200",
+        "what": "GET /repos/ollama/ollama/git/trees/1f23c7232e8e35b21d81bb03569a8afde2a6b0f9?recursive=1"
       },
       {
         "kind": "rest",
@@ -667,7 +667,7 @@
         "browser automation dependency: playwright",
         "authenticated web session wording"
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "evidence": [
         "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/c46144eb61c18cd1a495445c79ec47145722053e",
         "https://github.com/Shubhamsaboo/awesome-llm-apps/blob/c46144eb61c18cd1a495445c79ec47145722053e/README.md",
@@ -706,7 +706,7 @@
       "repo_id": 793375104,
       "search_rank": 1,
       "sha": "c46144eb61c18cd1a495445c79ec47145722053e",
-      "stars": 144265,
+      "stars": 144292,
       "suggested_owner": "Wheel",
       "tests_found": 53,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -716,13 +716,13 @@
       "api_evidence": [],
       "audited_elsewhere": null,
       "browser_evidence": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "evidence": [
-        "https://github.com/ollama/ollama/tree/d63b702609c4300a2ca07be2bdb0adb9834725e5",
-        "https://github.com/ollama/ollama/blob/d63b702609c4300a2ca07be2bdb0adb9834725e5/README.md",
-        "https://github.com/ollama/ollama/blob/d63b702609c4300a2ca07be2bdb0adb9834725e5/app/store/database.go",
-        "https://github.com/ollama/ollama/blob/d63b702609c4300a2ca07be2bdb0adb9834725e5/app/store/database_test.go",
-        "https://github.com/ollama/ollama/blob/d63b702609c4300a2ca07be2bdb0adb9834725e5/app/tools/browser.go"
+        "https://github.com/ollama/ollama/tree/1f23c7232e8e35b21d81bb03569a8afde2a6b0f9",
+        "https://github.com/ollama/ollama/blob/1f23c7232e8e35b21d81bb03569a8afde2a6b0f9/README.md",
+        "https://github.com/ollama/ollama/blob/1f23c7232e8e35b21d81bb03569a8afde2a6b0f9/app/store/database.go",
+        "https://github.com/ollama/ollama/blob/1f23c7232e8e35b21d81bb03569a8afde2a6b0f9/app/store/database_test.go",
+        "https://github.com/ollama/ollama/blob/1f23c7232e8e35b21d81bb03569a8afde2a6b0f9/app/tools/browser.go"
       ],
       "files_inspected": [
         "README.md",
@@ -748,8 +748,8 @@
       "repo": "ollama/ollama",
       "repo_id": 658928958,
       "search_rank": 0,
-      "sha": "d63b702609c4300a2ca07be2bdb0adb9834725e5",
-      "stars": 186451,
+      "sha": "1f23c7232e8e35b21d81bb03569a8afde2a6b0f9",
+      "stars": 186441,
       "suggested_owner": null,
       "tests_found": 22,
       "url": "https://github.com/ollama/ollama",
@@ -759,7 +759,7 @@
       "api_evidence": [],
       "audited_elsewhere": null,
       "browser_evidence": [],
-      "days_since_commit": 79,
+      "days_since_commit": 80,
       "evidence": [
         "https://github.com/e2b-dev/awesome-ai-agents/tree/9596ab1e69fbbb6c95291141c8dab5c181083216",
         "https://github.com/e2b-dev/awesome-ai-agents/blob/9596ab1e69fbbb6c95291141c8dab5c181083216/README.md"
@@ -782,7 +782,7 @@
       "repo_id": 655459367,
       "search_rank": 3,
       "sha": "9596ab1e69fbbb6c95291141c8dab5c181083216",
-      "stars": 30870,
+      "stars": 30874,
       "suggested_owner": null,
       "tests_found": 0,
       "url": "https://github.com/e2b-dev/awesome-ai-agents",
@@ -823,7 +823,7 @@
     }
   ],
   "coverage_note": "GitHub search relevance, one page per query; not full GitHub coverage.",
-  "distinct_repos_found": 277,
+  "distinct_repos_found": 278,
   "known_relevant": [
     {
       "found_by": [
@@ -920,7 +920,7 @@
       "words": "agent session manager"
     }
   ],
-  "run_at": "2026-11-09T14:10:46Z",
+  "run_at": "2026-11-09T20:56:28Z",
   "schema": 1,
   "searches": [
     {
