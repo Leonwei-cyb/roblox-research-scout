@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-08T22:29:52Z (schedule, partial)
-- Repos tracked: 462; adopt 0, needs-test 178, reject 284
-- Actionable backlog: 166
-- Feed health: deferred 6, ok 30
+- Last run: 2026-11-09T04:38:14Z (local, ok)
+- Repos tracked: 460; adopt 0, needs-test 179, reject 281
+- Actionable backlog: 167
+- Feed health: ok 38
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -15,8 +15,8 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin 1llu50ry/mcp-reverse@​2aa2e27, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro/tree/13a35953abc5354bbb49d85750aafee863c09387)
   - Pin 23blocks-OS/ai-maestro@​13a3595, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-- **Wheel** · score 100 · [777genius/universal-agent-plugins](https://github.com/777genius/universal-agent-plugins/tree/e2fef49e89a3980d6a28247cc895ecf8ec3af678)
-  - Pin 777genius/universal-agent-plugins@​e2fef49, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+- **Wheel** · score 100 · [777genius/universal-agent-plugins](https://github.com/777genius/universal-agent-plugins/tree/d8e2a0a3cb7a39930bfa86cafa7b1277b8c7b4b0)
+  - Pin 777genius/universal-agent-plugins@​d8e2a0a, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [agent-sh/agentsys](https://github.com/agent-sh/agentsys/tree/d2a5056b200573db3e1a317c4b947bfbbbe6956d)
   - Pin agent-sh/agentsys@​d2a5056, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [AmethystLuna/embedded-workbench](https://github.com/AmethystLuna/embedded-workbench/tree/05b77092bff563b605f9a2856213ff72c5888987)
@@ -29,11 +29,44 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin awslabs/cli-agent-orchestrator@​f6f5ec8, read its Apache-2.0 license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **hub** · score 100 · [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp/tree/cde188cb22c9f7e5722e0c6018ba33fe7e118553)
   - Pin Chrrxs/robloxstudio-mcp@​cde188c, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Roblox game QA and evidence capture.
-- **Wheel** · score 100 · [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade/tree/39c243f633ba7d4f3cb91ec3d759c5b0c3292fe1)
-  - Pin escoffier-labs/brigade@​39c243f, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+- **Wheel** · score 100 · [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade/tree/4736e9d8aa3774698fcfb8ae0a061bfb1fd79ee7)
+  - Pin escoffier-labs/brigade@​4736e9d, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills/tree/ac200b2b75639be5836f0211507e3ade819c1844)
   - Pin JasonColapietro/suede-creator-skills@​ac200b2, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/a602706fc62ff1cfcb18001358ac39647b08acf5)
   - Pin jmagly/aiwg@​a602706, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+
+## Changes this run
+
+- Release: open-mercato/cezar v0.18.0 to v0.19.0
+- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
+- Issue updated: obra/superpowers #2665 What Haiku 5.5 and Sonnet 5.5 already know from each superpowers skill
+- Issue updated: obra/superpowers #2651 subagent-driven-development: task reviewer isn't told to flag a report with no RED evidence
+- Issue updated: earendil-works/pi #11238 sendUserMessage from an extension command fails in -p mode: 'turn\_end could not resolve the persiste
+- Issue updated: earendil-works/pi #11932 Extension hook for agent auto-retry: let an extension set the delay or stop the retry
+- Issue updated: OpenHands/OpenHands #19522 \[Bug\]: Automation log tabs cannot be switched with the keyboard
+- Issue updated: OpenHands/OpenHands #19543 \[Bug\]: Conversation message timestamps show "3 hours ago" for messages sent right now \(UTC-3 user, l
+- Issue updated: OpenHands/OpenHands #19535 Pinned automation reorder edges are suppressed by shared card chrome
+- Issue updated: OpenHands/OpenHands #19531 Name exact Canvas letter-spacing metrics
+- Issue updated: OpenHands/OpenHands #19532 Name shared inset badge and reorder-indicator shadows
+- New candidate: modelcontextprotocol/servers (reject)
+- New candidate: anthropics/claude-code (reject)
+- Issue updated: openai/codex #60346 Windows desktop pet doesn’t look toward either cursor
+- Issue updated: openai/codex #60171 Windows desktop: authorized local write rejected before process creation with no policy reason or su
+- Issue updated: openai/codex #19239 Codex desktop UI does not update language despite localeOverride=zh-CN and --lang=zh-CN
+- Issue updated: openai/codex #51524 \[Windows\] Computer Use stops at get\_window\_state: cannot determine current browser URL \(Chrome and E
+- Issue updated: openai/codex #60345 Persistent "Selected model is at capacity" only on Codex CLI \(PowerShell\) – Codex in ChatGPT Desktop
+- Issue updated: Shubhamsaboo/awesome-llm-apps #1296 think
+- New candidate: creosB/AI-Side-Panel-Extension (reject)
+- New candidate: Robbings/chatgpt-graph-navigator (reject)
+- New candidate: keyonzeng/prompt\_ark (reject)
+- Issue updated: ollama/ollama #17380 Intermittent "CUDA error: shared object initialization failed" at warmup — silent CUDA\_Host → CPU pi
+- Issue updated: ollama/ollama #19604 403 Forbidden on ollama pull behind corporate proxy even though curl works
+- Issue updated: ollama/ollama #19616 OLLAMA\_LOAD\_TIMEOUT of 300 seconds \(5 minutes\) is too damn short
+- Issue updated: ollama/ollama #19518 Can an older library manifest still be pulled by digest after its tag is updated?
+- New candidate: e2b-dev/awesome-ai-agents (reject)
+- Release: scasella/claude-flightdeck v0.6.0 to v0.6.1
+- Release: shalintripathi/saas-marketing-agents v1.4.2 to v1.4.3
+- Issue updated: upex-galaxy/agentic-qa-boilerplate #128 agent-compatibility.test.ts fails 75 tests in projects without the Pi adapter
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
