@@ -14,7 +14,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
   - devforum · **UNVIEWED_METADATA** · Check: At the same game state as the Colonist.io original, does a turn read as roll, collect, build or trade, end?
 - **P0 · first-session and mobile:** [Toolbar is effectively broken on Mobile devices](https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
-- **P1 · UI and menus:** [Small minigame and UI update](https://www.reddit.com/r/ROBLOXStudio/comments/1xne6l1/small_minigame_and_ui_update/)
+- **P1 · UI and menus:** [new studio ui](https://www.reddit.com/r/ROBLOXStudio/comments/1xow7m5/new_studio_ui/)
   - reddit · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?
 - **P1 · world and visual design:** [How do i import 3D models correctly?](https://www.reddit.com/r/robloxgamedev/comments/1xqzonp/how_do_i_import_3d_models_correctly/)
   - reddit · **UNVIEWED_METADATA** · Check: Does the board read as one restrained 2D Colonist-style board (tiles, numbers, ports, pieces), not an asset collage?
