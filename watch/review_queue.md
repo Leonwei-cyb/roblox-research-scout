@@ -22,6 +22,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[Studio, DeviceSimulatorToolbar - I can't change the graphic level settings in peace anymore while in a playtest](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-i-cant-change-the-graphic-level-settings-in-peace-anymore-while-in-a-playtest/4983500)** — Public text/page, video not confirmed
 - **[Project EXO (Playtest) Gameplay!](https://www.reddit.com/r/ROBLOXStudio/comments/1xre0dx/project_exo_playtest_gameplay/)** — Public text/page, video not confirmed
-- **[MCP Permissions Save fails in local .rbxl with 'no universe context; skipping'](https://devforum.roblox.com/t/mcp-permissions-save-fails-in-local-rbxl-with-no-universe-context-skipping/4981995)** — Public text/page, video not confirmed
 - **[Can I use toolbox assets, like models?](https://www.reddit.com/r/robloxgamedev/comments/1xqv4jy/can_i_use_toolbox_assets_like_models/)** — Public text/page, video not confirmed

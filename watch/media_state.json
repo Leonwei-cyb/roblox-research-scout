@@ -3167,7 +3167,13 @@
     "93791a51096db6d5b5efe491",
     "667f1f413f0f9e1e8f3c2ebc",
     "ed9715fd970fecd4be13c04a",
-    "38289cbb6d39b9cae278dff6"
+    "38289cbb6d39b9cae278dff6",
+    "61dccb7d738c95405c89903f",
+    "db6a5cd7e26f365e19145b6c",
+    "811d79c916b63daa389f9f88",
+    "1b882ce5669ccfde240f001a",
+    "8be30a9704a60c5111e9c859",
+    "150dfbc265927c3289209284"
   ],
   "items": [
     {
@@ -3180,6 +3186,18 @@
       "excerpt": "so i was working on my game and the rig that i imported in blender always have this bug here submitted by /u/Klutzy-Elk8924 [link] [comments]",
       "creator": "/u/Klutzy-Elk8924 https://www.reddit.com/user/Klutzy-Elk8924",
       "id": "ed9715fd970fecd4be13c04a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "\"types\" type has no auto completion",
+      "url": "https://devforum.roblox.com/t/types-type-has-no-auto-completion/4983495",
+      "published": "2026-11-09",
+      "excerpt": "1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/types-type-has-no-auto-completion/4983495.rss",
+      "id": "db6a5cd7e26f365e19145b6c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3229,6 +3247,30 @@
       "id": "93791a51096db6d5b5efe491"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "A Roblox Account Generator that Bypasses Captcha",
+      "url": "https://devforum.roblox.com/t/a-roblox-account-generator-that-bypasses-captcha/4983452",
+      "published": "2026-11-09",
+      "excerpt": "Hi, I made a Roblox Account generator that bypasses captcha . GitLab kingdudely / Roblox Account Generator · GitLab GitLab.com It bypasses it by using the new Google OAuth sign-up method in ROBLOX . The only problem is that you need a phone number to actually start generating accounts, soo yeah . Ho",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/a-roblox-account-generator-that-bypasses-captcha/4983452.rss",
+      "id": "8be30a9704a60c5111e9c859"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What's the best way to handle replication of game state?",
+      "url": "https://devforum.roblox.com/t/whats-the-best-way-to-handle-replication-of-game-state/4983477",
+      "published": "2026-11-09",
+      "excerpt": "I am making a round-based game. The game contains several “game states”, such as intermission, in round, etc. Each state has a specific duration, although some can end early. I am wondering what the cleanest way to replicate to and store this on the client. It should allow the state to be checked at",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/whats-the-best-way-to-handle-replication-of-game-state/4983477.rss",
+      "id": "811d79c916b63daa389f9f88"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3240,6 +3282,18 @@
       "id": "667f1f413f0f9e1e8f3c2ebc"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio, DeviceSimulatorToolbar - I can't change the graphic level settings in peace anymore while in a playtest",
+      "url": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-i-cant-change-the-graphic-level-settings-in-peace-anymore-while-in-a-playtest/4983500",
+      "published": "2026-11-09",
+      "excerpt": "Description Caused by DeviceSimulatorToolbar . If I change my graphic settings in the settings, this thing shows up. Once this thing shows up my graphic settings will always get set to automatic. This is annoying. First this thing showing up, but what’s annoying is that it then will soft-lock your g",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-i-cant-change-the-graphic-level-settings-in-peace-anymore-while-in-a-playtest/4983500.rss",
+      "id": "61dccb7d738c95405c89903f"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3249,6 +3303,29 @@
       "excerpt": "Hello im a co owner for a dandy world type game We are looking for digital artists if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game The theme is film/literature or medieval fantasy We are c",
       "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
       "id": "398498ecc172bb217bc872ac"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I made a 100% Myriad Sunc and Unc executor for my custom client",
+      "url": "https://devforum.roblox.com/t/i-made-a-100-myriad-sunc-and-unc-executor-for-my-custom-client/4983454",
+      "published": "2026-11-09",
+      "excerpt": "GitLab kingdudely / Xecutor · GitLab GitLab.com Yeah, I’m probably getting clapped by Roblox cuz of this, but, what can I say except you’re welcome ? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-made-a-100-myriad-sunc-and-unc-executor-for-my-custom-client/4983454.rss",
+      "id": "1b882ce5669ccfde240f001a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "HUGE SLIMEHUNT UPDATE! UPDATE!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrgsq6/huge_slimehunt_update_update/",
+      "published": "2026-11-09",
+      "excerpt": "Slimehunt | Play on Roblox It adds the Mushroom Crevices, a Mushroom Biome, and the Plains. Not to mention 5 new Slimbos, being Mushroom, Spore, and 3 variants of Mutant Spore Slimbos. I would put a gameplay clip, but I'd rather put art than show my Horrible gameplay, trust me, it sucked. submitted ",
+      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
+      "id": "150dfbc265927c3289209284"
     },
     {
       "source": "reddit-robloxstudio",
@@ -10019,75 +10096,6 @@
       "excerpt": "I am new in Roblox Studio and I wanted to make a animation pack, and I don't know what to do because I couldn't find a tutorial for this.(I translated it from spanish to english so it might look weird) submitted by /u/elGhODster_ [link] [comments]",
       "creator": "/u/elGhODster_ https://www.reddit.com/user/elGhODster_",
       "id": "5a85130730a3ecd516a40a3b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Huu cube just made this cube npc. Uhh would you like to play it when I release it? :p",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnt5rd/huu_cube_just_made_this_cube_npc_uhh_would_you/",
-      "published": "2026-11-04",
-      "excerpt": "submitted by /u/groham6000 [link] [comments]",
-      "creator": "/u/groham6000 https://www.reddit.com/user/groham6000",
-      "id": "589cd86f14f83ed73d317854"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Why does my animation look different ingame?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo373v/why_does_my_animation_look_different_ingame/",
-      "published": "2026-11-04",
-      "excerpt": "Why does my animation play differently in game? submitted by /u/Iluveri [link] [comments]",
-      "creator": "/u/Iluveri https://www.reddit.com/user/Iluveri",
-      "id": "5705c29b32d2c2f79b468cad"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Ideas on building a pre-launch community?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo3p7k/ideas_on_building_a_prelaunch_community/",
-      "published": "2026-11-04",
-      "excerpt": "How do you guys build a pre-launch community? Numerous sources online recommend setting up an intuitive gameplay loop that casual players can learn quickly, and then investing in ads for Roblox to gather data and promote your game. This makes sense for simple games because casual Roblox players can ",
-      "creator": "/u/Nomadics_Team https://www.reddit.com/user/Nomadics_Team",
-      "id": "568f6c7fc1ca4f4c343eeb53"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Textures not appearing when maps are selected",
-      "url": "https://devforum.roblox.com/t/textures-not-appearing-when-maps-are-selected/4974615",
-      "published": "2026-11-04",
-      "excerpt": "In my studio I have a texture on a part where it doesn’t show and after constant trial and error the only fix I have found is that removing the roughness and normal map textures allows the colormap to appear. However I need the normal and roughness map textures in my case and I have tried restarting",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/textures-not-appearing-when-maps-are-selected/4974615.rss",
-      "id": "524929b72b45e0248fa1bcf6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Report History Gets Stuck on \"Something went wrong loading more reports\" After Refreshing Older Report Entries",
-      "url": "https://devforum.roblox.com/t/report-history-gets-stuck-on-something-went-wrong-loading-more-reports-after-refreshing-older-report-entries/4974415",
-      "published": "2026-11-04",
-      "excerpt": "After submitting a large number of reports, clicking on an entry further down the list to check its status and see whether Roblox has taken any action, then refreshing the page causes the Report History tab to get stuck displaying the error message “Something went wrong loading more reports” . No ma",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/report-history-gets-stuck-on-something-went-wrong-loading-more-reports-after-refreshing-older-report-entries/4974415.rss",
-      "id": "51e53002fd84b0e18b24912a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "The intersection concrete kept misalignment.",
-      "url": "https://devforum.roblox.com/t/the-intersection-concrete-kept-misalignment/4974442",
-      "published": "2026-11-04",
-      "excerpt": "Why it keeping me misalignment on this intersection. I want to use anti move intersection concrete on the platform because drivers will make crash and stuck on this intersection. Expected behavior This intersection concrete kept misalignment because it will make us crash. A private message is associ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-intersection-concrete-kept-misalignment/4974442.rss",
-      "id": "4d62e724f7c2e187f1e5ad5a"
     }
   ]
 }
