@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "c01f1546417a2fb34eb5add32b35ca56002e248c",
-      "head_subject": "Update authlib requirement from <2.0,>=1.9.4 to >=1.9.5,<2.0 (#4706)",
+      "head": "e01f96535378e364d8aea61488cb92e30d0ae666",
+      "head_subject": "Plugin hooks for changing the request and per-watch plugin settings (#4712)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.2",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.2",
@@ -253,6 +253,7 @@
     "linny006/skills-tracker",
     "linny006/trending-claude-skills",
     "lissy93/bug-bounties",
+    "marcelscruz/public-apis",
     "mcpHQ/awesome-mcp-servers",
     "medhiclb/HelixAI",
     "msitarzewski/agency-agents",

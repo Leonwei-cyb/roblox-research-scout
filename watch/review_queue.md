@@ -12,7 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Cannot Interact with the Robux Transfer Popup on Gamepad Interfaces](https://devforum.roblox.com/t/cannot-interact-with-the-robux-transfer-popup-on-gamepad-interfaces/4983550)** — Public text/page, video not confirmed
+- **[Animation graph parameter broken](https://devforum.roblox.com/t/animation-graph-parameter-broken/4983906)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)** — Public text/page, video not confirmed
 
 ## 3D / models / environments

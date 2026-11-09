@@ -3189,7 +3189,27 @@
     "9b93cc4696c9bc4af78acf2a",
     "67d193deab5f6f29109461f4",
     "6b50160a72ebe25ba7c5c932",
-    "41576d533b88aa23fe9140bf"
+    "41576d533b88aa23fe9140bf",
+    "1f415100e3a506d666281a1c",
+    "7b2f23dd27315ab6e76c4288",
+    "9e9c5966a03d5356b6445c4b",
+    "ac4c625c8aea5e861a0b01ff",
+    "041a311e0d133b160c41200a",
+    "2be6b08b2e9d5ad6841ded0c",
+    "11b21af7646ecb8fd81f7ac6",
+    "d5970178f0b56fe5a1e39b84",
+    "c795bea83dfdec4e350b62de",
+    "8934590703d204b782d56a39",
+    "26e794c655ad5273dcadac08",
+    "5c238cf576564d59e9498e58",
+    "1710a8f722ca003ea60504a7",
+    "27f550ce0c94d4e3f5dffeed",
+    "560d27a7e86927b56d15a227",
+    "5ad707f76b59fdca7412ef31",
+    "25ddc1e05323db87e1b7a16e",
+    "8d54e8615fa538d4523c45a0",
+    "0d2fc2a045f0ae2df94df2d0",
+    "8cc377793b9012f6509d9d62"
   ],
   "items": [
     {
@@ -3231,6 +3251,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Animation graph parameter broken",
+      "url": "https://devforum.roblox.com/t/animation-graph-parameter-broken/4983906",
+      "published": "2026-11-09",
+      "excerpt": "I made an animation graph using a one shot node, with 2 clips and a trigger parameter. Transition in is Length 0.1 sec and Curve Linear. Transition out is Length 0.2 sec, Curve Linear and When Finished. Once I load the graph, animtrack:GetParameterDefaults() returns an empty table firing animgraph:S",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/animation-graph-parameter-broken/4983906.rss",
+      "id": "d5970178f0b56fe5a1e39b84"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Continuous issues related to RCC-288 causing constant team create studio crashing",
+      "url": "https://devforum.roblox.com/t/continuous-issues-related-to-rcc-288-causing-constant-team-create-studio-crashing/4983897",
+      "published": "2026-11-09",
+      "excerpt": "This issue has persisted consistently for the past 6 months and has put development of our game to an almost grinding halt. At times the crashing is so consistent that it happens within mere minutes of existing in studio. Sometimes the crashes are client-side but most of the time its server-wide. We",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/continuous-issues-related-to-rcc-288-causing-constant-team-create-studio-crashing/4983897.rss",
+      "id": "c795bea83dfdec4e350b62de"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Need Feedback and Testers On My New Game: Project Striders",
       "url": "https://devforum.roblox.com/t/need-feedback-and-testers-on-my-new-game-project-striders/4983366",
       "published": "2026-11-09",
@@ -3249,6 +3293,18 @@
       "excerpt": "Yesterday, I released the 1.1 beta of my extraction-based horror game. I need one or more players to test it; I want you to be tough and to point out if the game isn't entertaining or if it has any bugs. Game link: https://www.roblox.com/share?code=63480a1eddd79b4aa6e669d1bcf36811&type=ExperienceDet",
       "creator": "/u/AlbatrossExciting848 https://www.reddit.com/user/AlbatrossExciting848",
       "id": "b2471d1678ae1acf5a228ba7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Crystal Heist: I simplified the first minute so nobody gets lost. Can you still get stuck?",
+      "url": "https://devforum.roblox.com/t/crystal-heist-i-simplified-the-first-minute-so-nobody-gets-lost-can-you-still-get-stuck/4983971",
+      "published": "2026-11-09",
+      "excerpt": "Game: Crystal Heist | Play on Roblox (16+, age verification needed to join) The GIF shows the current first minute. I rebuilt it step by step because my first funnel (Nov 6-8, 30 new players) lost most people before their first steal: Step Players Lost Spawned 30 Intro started 27 3 Intro finished 24",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/crystal-heist-i-simplified-the-first-minute-so-nobody-gets-lost-can-you-still-get-stuck/4983971.rss",
+      "id": "ac4c625c8aea5e861a0b01ff"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3313,6 +3369,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "When Should You Use OOP Instead of Regular Modules and Functions?",
+      "url": "https://devforum.roblox.com/t/when-should-you-use-oop-instead-of-regular-modules-and-functions/4983991",
+      "published": "2026-11-09",
+      "excerpt": "Hello, I have a question about OOP, classes, and function definitions: when should you use . versus : ? This has been on my mind for a while, and I’m still not entirely sure I understand the reasoning behind using OOP. As far as I understand, : should be used when you need self , usually when workin",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/when-should-you-use-oop-instead-of-regular-modules-and-functions/4983991.rss",
+      "id": "9e9c5966a03d5356b6445c4b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Terrible face validation",
       "url": "https://devforum.roblox.com/t/terrible-face-validation/4983690",
       "published": "2026-11-09",
@@ -3334,6 +3402,28 @@
       "id": "93791a51096db6d5b5efe491"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "[TESTING] Doodle Wars",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrpjs7/testing_doodle_wars/",
+      "published": "2026-11-09",
+      "excerpt": "Doodle FPS / TPS Shooter https://reddit.com/link/1xrpjs7/video/rt1q516sqk0i1/player submitted by /u/forbiddenlucks [link] [comments]",
+      "creator": "/u/forbiddenlucks https://www.reddit.com/user/forbiddenlucks",
+      "id": "8d54e8615fa538d4523c45a0"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "MCP servers on vinegar?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrnqyz/mcp_servers_on_vinegar/",
+      "published": "2026-11-09",
+      "excerpt": "Hey everyone, I'm currently running Fedora Linux and using Vinegar (Flatpak) to run Roblox Studio. My goal is to use Cursor as my IDE to code on Roblox, and I want to bridge them using the new MCP server feature. Has anyone successfully gotten Cursor (running natively on Linux) to talk to the Studio",
+      "creator": "/u/Reyansh98 https://www.reddit.com/user/Reyansh98",
+      "id": "8cc377793b9012f6509d9d62"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3349,6 +3439,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Thumbnail uploads fail with “Upload image failed” for me, but work for the experience owners",
+      "url": "https://devforum.roblox.com/t/thumbnail-uploads-fail-with-%E2%80%9Cupload-image-failed%E2%80%9D-for-me-but-work-for-the-experience-owners/4983830",
+      "published": "2026-11-09",
+      "excerpt": "When I try to upload a thumbnail on the Creator Hub for experiences I don’t own, every upload fails with “Upload image failed”. The error says the problem is the file format or size, but the files meet both requirements. I’ve tried: The original 1920×1080 PNG (2.4 MB) The same image re-exported as J",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/thumbnail-uploads-fail-with-%E2%80%9Cupload-image-failed%E2%80%9D-for-me-but-work-for-the-experience-owners/4983830.rss",
+      "id": "8934590703d204b782d56a39"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "What's the best way to handle replication of game state?",
       "url": "https://devforum.roblox.com/t/whats-the-best-way-to-handle-replication-of-game-state/4983477",
       "published": "2026-11-09",
@@ -3356,6 +3458,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/whats-the-best-way-to-handle-replication-of-game-state/4983477.rss",
       "id": "811d79c916b63daa389f9f88"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[FOR HIRE/INTERESTS] Cross Server game-play Developer (Scripter)",
+      "url": "https://devforum.roblox.com/t/for-hireinterests-cross-server-game-play-developer-scripter/4984009",
+      "published": "2026-11-09",
+      "excerpt": "Looking for cross server opportunities into reality in Roblox What is this about I am looking for opportunities to launch cross server gameplay into real life games, if you are interested please read rest of my post and my devforum link below. Cross server gameplay is essentially Roblox “global” Cha",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/for-hireinterests-cross-server-game-play-developer-scripter/4984009.rss",
+      "id": "7b2f23dd27315ab6e76c4288"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3413,6 +3527,40 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-i-cant-change-the-graphic-level-settings-in-peace-anymore-while-in-a-playtest/4983500.rss",
       "id": "61dccb7d738c95405c89903f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "LogCustomEvent data dropped ~92% across two unrelated experiences starting Nov 7, 2026 ~13:00 UTC",
+      "url": "https://devforum.roblox.com/t/logcustomevent-data-dropped-92-across-two-unrelated-experiences-starting-nov-7-2026-1300-utc/4983749",
+      "published": "2026-11-09",
+      "excerpt": "Since Saturday Nov 7 2026 at roughly 13:00 UTC, 90%+ of the custom events sent with AnalyticsService:LogCustomEvent are not appearing in Creator Hub or the Analytics Open Cloud API. The calls are made on live published servers, and no error is raised or recorded anywhere. This affects two separate e",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/logcustomevent-data-dropped-92-across-two-unrelated-experiences-starting-nov-7-2026-1300-utc/4983749.rss",
+      "id": "5c238cf576564d59e9498e58"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "roblox Studio frozen on loading splash screen for 1 year (Uninstalling and reinstalling hasn't fixed it)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrq1v4/roblox_studio_frozen_on_loading_splash_screen_for/",
+      "published": "2026-11-09",
+      "excerpt": "Hi everyone, I’ve been dealing with a devastating problem for almost a year now where Roblox Studio gets stuck indefinitely on the startup loading splash screen every single time I try to launch it. The logo screen appears and just freezes forever—it never loads into the main menu or project selecti",
+      "creator": "/u/city_17_citizen_ https://www.reddit.com/user/city_17_citizen_",
+      "id": "5ad707f76b59fdca7412ef31"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "\"safeguard\" the last man standing of Mister stick (Game: FPE Detention)",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrqiv0/safeguard_the_last_man_standing_of_mister_stick/",
+      "published": "2026-11-09",
+      "excerpt": "https://www.roblox.com/es/games/85682289441836/FPE-Detention-Pre-alpha submitted by /u/PostAlone3159 [link] [comments]",
+      "creator": "/u/PostAlone3159 https://www.reddit.com/user/PostAlone3159",
+      "id": "560d27a7e86927b56d15a227"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3487,6 +3635,64 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Is Overusing Modules bad?",
+      "url": "https://devforum.roblox.com/t/is-overusing-modules-bad/4983932",
+      "published": "2026-11-09",
+      "excerpt": "I love Module scripts, especially when it comes to tweens and stuff like that. But i feel like im overusing them, so.. i had a question: Does module overusage really bad? How bad can it affect to my game? Also: If this is really bad problem, how can i solve it? Would be cool to hear answer to those ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/is-overusing-modules-bad/4983932.rss",
+      "id": "2be6b08b2e9d5ad6841ded0c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Is anybody making more than 1k$ from dev??",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrohim/is_anybody_making_more_than_1k_from_dev/",
+      "published": "2026-11-09",
+      "excerpt": "Hey guys I am just wondering if there is acctualy somebody who is making atleast 1k a month from developemnt or not submitted by /u/Numsiik [link] [comments]",
+      "creator": "/u/Numsiik https://www.reddit.com/user/Numsiik",
+      "id": "27f550ce0c94d4e3f5dffeed"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[TNLØ Tutorial] Luau Type Functions: Beyond Basic Typechecking",
+      "url": "https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785",
+      "published": "2026-11-09",
+      "excerpt": "[TNLØ Tutorial] Luau Type Functions: Beyond Basic Typechecking This tutorial assumes you already know “static” typechecking. Quick terminology recap: type Union = \"Hello\"|number|string|\"More...\" type SingletonString = \"Hello\" type SingletonBoolean = true --type SingletonNil = nil--nil is always a si",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785.rss",
+      "id": "26e794c655ad5273dcadac08"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "My son just published his first Roblox game, and it would mean the world to him if someone gave it a try!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrpsic/my_son_just_published_his_first_roblox_game_and/",
+      "published": "2026-11-09",
+      "excerpt": "My son and I have been working on a Roblox game together called Cross Line Chaos , and he’s so excited that it’s finally published! It’s a fun little game where you try to cross different maps while avoiding monsters, bears, robots, lava creatures, and more. He said even if just one random person pl",
+      "creator": "/u/Dad0TheYear https://www.reddit.com/user/Dad0TheYear",
+      "id": "25ddc1e05323db87e1b7a16e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Increased Crash Rate (2-4GB Android)",
+      "url": "https://devforum.roblox.com/t/increased-crash-rate-2-4gb-android/4984023",
+      "published": "2026-11-09",
+      "excerpt": "Starting on 5th November, our client crash rate rose sharply and has stayed high since, particularly affecting Android 2–4GB memory devices. As of Nov 9 it has not come back down. We had not pushed any updates, config changes or experiments within the 72 hours before it started. We read the reply in",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/increased-crash-rate-2-4gb-android/4984023.rss",
+      "id": "1f415100e3a506d666281a1c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "I made a 100% Myriad Sunc and Unc executor for my custom client",
       "url": "https://devforum.roblox.com/t/i-made-a-100-myriad-sunc-and-unc-executor-for-my-custom-client/4983454",
       "published": "2026-11-09",
@@ -3494,6 +3700,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-made-a-100-myriad-sunc-and-unc-executor-for-my-custom-client/4983454.rss",
       "id": "1b882ce5669ccfde240f001a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "What'cha think of my game's Thumbnail?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrp1t8/whatcha_think_of_my_games_thumbnail/",
+      "published": "2026-11-09",
+      "excerpt": "The current one's boring and outdated, so I made a new one for the front page to see ^^ This will be released alongside the big update! submitted by /u/Forsaken_Swan_6968 [link] [comments]",
+      "creator": "/u/Forsaken_Swan_6968 https://www.reddit.com/user/Forsaken_Swan_6968",
+      "id": "1710a8f722ca003ea60504a7"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3507,6 +3724,18 @@
       "id": "150dfbc265927c3289209284"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How do i get buffer.writevectorf32x3() method on my studio client?",
+      "url": "https://devforum.roblox.com/t/how-do-i-get-bufferwritevectorf32x3-method-on-my-studio-client/4983923",
+      "published": "2026-11-09",
+      "excerpt": "So I have stumbled across this method on the documentations page for the buffer library However I’m unable to access it in normal Roblox Studio scripts. Is there a way to somehow get these new methods? [I’m new to posting on devforum so sorry if i do something incorrectly.] 2 posts - 2 participants ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-do-i-get-bufferwritevectorf32x3-method-on-my-studio-client/4983923.rss",
+      "id": "11b21af7646ecb8fd81f7ac6"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3516,6 +3745,17 @@
       "excerpt": "Hello guys! I just wanted to show a couple videos of what I got in game now, very happy to get any type of feedback/criticism submitted by /u/Best_Jacket_5959 [link] [comments]",
       "creator": "/u/Best_Jacket_5959 https://www.reddit.com/user/Best_Jacket_5959",
       "id": "11551e9fd1e67f494f36b264"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "physics based tactical gun system wip",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrof55/physics_based_tactical_gun_system_wip/",
+      "published": "2026-11-09",
+      "excerpt": "a tactical gun system that fully interacts with physics and the environment, this will be a system for anyone to use and modify, and no ai was used in development. currently working on aiming down sights properly submitted by /u/aliacfvb [link] [comments]",
+      "creator": "/u/aliacfvb https://www.reddit.com/user/aliacfvb",
+      "id": "0d2fc2a045f0ae2df94df2d0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3528,6 +3768,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509.rss",
       "id": "08a16e1e3d25f4b602b92f0a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Optional disable Dynamic FaceControls",
+      "url": "https://devforum.roblox.com/t/optional-disable-dynamic-facecontrols/4983947",
+      "published": "2026-11-09",
+      "excerpt": "When I remove FaceControls and the MeshPart texture the face parts stay, they just have no color anymore. I would like it if you could disable this so that if I want to use a simple decal for the face I can do that. For context: I am trying to make a zombie face for an entity but I cant get a zombie",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/optional-disable-dynamic-facecontrols/4983947.rss",
+      "id": "041a311e0d133b160c41200a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9877,243 +10129,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/enhanced-protection-being-disabled-without-the-user%E2%80%99s-authorization/4975473.rss",
       "id": "a890144cd95e5981ec282e7d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Toolbar is effectively broken on Mobile devices",
-      "url": "https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549",
-      "published": "2026-11-04",
-      "excerpt": "There’s currently a very bad bug where when using a mobile device, or device emulator, the toolbar only displays a max of 3 tools instead of the usual 10: UI scale is set to the lowest setting, still only displays 3 tools: How it looks on PC/without the device emulator: This is not intentional behav",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/toolbar-is-effectively-broken-on-mobile-devices/4974549.rss",
-      "id": "a6fb936a2916171143c5bb3e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "First time learning Substance Painter + animation practice!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfciu/first_time_learning_substance_painter_animation/",
-      "published": "2026-11-04",
-      "excerpt": "Melee asset made for our game (WIP)! It was my first time learning how to use Substance Painter for texturing (I've always used random PBR materials in the past). This is also my 3rd time making animations (2nd time making first person animations). Let me know how I did! And please feel free to leav",
-      "creator": "/u/Nomadics_Team https://www.reddit.com/user/Nomadics_Team",
-      "id": "a3034bbcb2b0d61cc88bab98"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "TODAY only for Best Players in Steal an egg with admins #roblox #robloxfyp #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTE1UdzdGc3Rxa2ExN2ctWHYxQld6VXFTemhVdkh0dDdxMmYtX1pzcnRSZVdnVkdaMmFZWllOQVFPaU1PMUUxVVRYbXJ5dkIyU0lxMkZB?oc=5",
-      "published": "2026-11-04",
-      "excerpt": "TODAY only for Best Players in Steal an egg with admins #roblox #robloxfyp #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "98443ed1592197982fbd34bf"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "GravityFactorConstraint",
-      "url": "https://devforum.roblox.com/t/gravityfactorconstraint/4974709",
-      "published": "2026-11-04",
-      "excerpt": "Currently it’s kinda difficult to make a rig that permanently is able to move leisurly while still being able to fly above the ground as roblox provides little to no features to accomodate for this kind of issue for exemple right the now the most common thing to do is to pull out a vector force and ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/gravityfactorconstraint/4974709.rss",
-      "id": "97846879ab756bf00ba03448"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "can someone help me fix this pleaseessssssss",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnfp3g/can_someone_help_me_fix_this_pleaseessssssss/",
-      "published": "2026-11-04",
-      "excerpt": "module below this ____________________ local module = {} local Players = game:GetService(\"Players\") local ReplicatedStorage = game:GetService(\"ReplicatedStorage\") local RunService = game:GetService(\"RunService\") local UserInputService = game:GetService(\"UserInputService\") local Debris = game:GetServ",
-      "creator": "/u/Initial_Temporary37 https://www.reddit.com/user/Initial_Temporary37",
-      "id": "8ee3e82d52076ff6213da3a7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Need feedback on horror hotel game",
-      "url": "https://devforum.roblox.com/t/need-feedback-on-horror-hotel-game/4974944",
-      "published": "2026-11-04",
-      "excerpt": "Hey! Need some feedback and some suggestions for the new game! Roomservice | Play on Roblox Thanks!! 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/need-feedback-on-horror-hotel-game/4974944.rss",
-      "id": "8e599179d59e2b1842abd106"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My humble project is coming together",
-      "url": "https://devforum.roblox.com/t/my-humble-project-is-coming-together/4975763",
-      "published": "2026-11-04",
-      "excerpt": "Whew, okay. Strap yourselves in. I have a bit of a tale… Many years ago, I was in a college program for Video Game Development. Unfortunately, due to one of the vital professors having a stroke, my program almost couldn’t even complete on time. We all had to come together and study hard, because if ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-humble-project-is-coming-together/4975763.rss",
-      "id": "8b90175f5d7e6ed692bb973a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Server heartbeat dropped to 2-7 Hz, updateBones jumped from ~1ms to ~35ms per call",
-      "url": "https://devforum.roblox.com/t/server-heartbeat-dropped-to-2-7-hz-updatebones-jumped-from-1ms-to-35ms-per-call/4975322",
-      "published": "2026-11-04",
-      "excerpt": "Since around 4:30 PM on Nov 4 (UTC+13) our live servers have been running terrible. P10 heartbeat went from about 25 to about 5 almost instantly and has stayed around 2-7 since. Charts attached. Game: The Sanctuary - Early Access | Play on Roblox Affected place: 108379405712368 [CONFIRM: We didn’t p",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/server-heartbeat-dropped-to-2-7-hz-updatebones-jumped-from-1ms-to-35ms-per-call/4975322.rss",
-      "id": "8b70937158d39de254fec202"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Only 139 Home Rec impressions over 7 days",
-      "url": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489",
-      "published": "2026-11-04",
-      "excerpt": "So I released a new game almost 2 weeks ago, ran sponsors, yada yada. Eventually it started getting a few home page impressions, but I’ve noticed that it’s getting way too few compared to what I’d expect: As you can see, since impressions started it has only gotten 139 impressions - this doesn’t see",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/only-139-home-rec-impressions-over-7-days/4974489.rss",
-      "id": "86e36d76c3459427bb7b413e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Will this get me banned?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo0ewh/will_this_get_me_banned/",
-      "published": "2026-11-04",
-      "excerpt": "I made this model will i get banned for uploading this? EDIT: ty for the feed back i changed the guard to like a square ^^ submitted by /u/Narrow_Notice2452 [link] [comments]",
-      "creator": "/u/Narrow_Notice2452 https://www.reddit.com/user/Narrow_Notice2452",
-      "id": "85981df0a13696666809a46e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Communities should default to the first non-announcement channel when \"Posts\" is clicked",
-      "url": "https://devforum.roblox.com/t/communities-should-default-to-the-first-non-announcement-channel-when-posts-is-clicked/4975454",
-      "published": "2026-11-04",
-      "excerpt": "With the latest addition to communities, the Posts/Forum section now shows old announcements - neat! However, this reduces the ease of engagement for communities. A user now has to: Go to community Go to Posts Click on the first non-announcement category They can now read and write to other communit",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/communities-should-default-to-the-first-non-announcement-channel-when-posts-is-clicked/4975454.rss",
-      "id": "8331465fd794d5adeed831a2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Security notification blocks access when i have an email linked",
-      "url": "https://devforum.roblox.com/t/security-notification-blocks-access-when-i-have-an-email-linked/4975372",
-      "published": "2026-11-04",
-      "excerpt": "So i have an account which i haven’t used for quite a while now. When i log in using the correct username and password a security notification blocks access to the account without a reason. I have an email linked but it’s not sending the code. Roblox support isn’t helping me and i need a roblox staf",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/security-notification-blocks-access-when-i-have-an-email-linked/4975372.rss",
-      "id": "82fed71ec039eef232bbbaf6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Instantly check the retaken Maturity Questionnaire after a rejection",
-      "url": "https://devforum.roblox.com/t/instantly-check-the-retaken-maturity-questionnaire-after-a-rejection/4975927",
-      "published": "2026-11-04",
-      "excerpt": "When the Maturity Questionnaire gets rejected, the dashboard already shows which question was wrong and what moderators expect (in my case: Crude Humor, my answer “Not Present”, moderator feedback “Mild”). That’s great. But after I retake it and pick exactly what moderators wrote, it still goes to a",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/instantly-check-the-retaken-maturity-questionnaire-after-a-rejection/4975927.rss",
-      "id": "82d01df404d6b2d18fff63d8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Teleporting in desktop client is unnecessarily slow",
-      "url": "https://devforum.roblox.com/t/teleporting-in-desktop-client-is-unnecessarily-slow/4974999",
-      "published": "2026-11-04",
-      "excerpt": "I was playing around with the new web based client to test how our game works with it and found that teleporting is way faster than in the desktop client. From a quick side-by-side, it seems the desktop client stalls for 5 seconds on teleporting, which coincides with a 5 second gap in the client log",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/teleporting-in-desktop-client-is-unnecessarily-slow/4974999.rss",
-      "id": "822d90f633d704dfb41ff1aa"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Blurry font rendering after latest update",
-      "url": "https://devforum.roblox.com/t/blurry-font-rendering-after-latest-update/4975141",
-      "published": "2026-11-04",
-      "excerpt": "After the latest update, font rendering on desktop looks blurry, and fonts are stretched. It looks a lot more like font rendering on mobile. This issue is occurring in the Roblox Player as well as Roblox Studio on Windows, and is not only happening to me. (The font used in both of these examples is ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/blurry-font-rendering-after-latest-update/4975141.rss",
-      "id": "80b19a9e1056b85f13534995"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Has the Roblox Community (Group) Membership Limit Been Increased Beyond 100?",
-      "url": "https://devforum.roblox.com/t/has-the-roblox-community-group-membership-limit-been-increased-beyond-100/4974620",
-      "published": "2026-11-04",
-      "excerpt": "I’ve recently noticed something interesting regarding the Roblox Community membership limit. As far as I know, the commonly stated maximum number of communities a user can join is 100 , regardless of whether they have Roblox Plus or not. However, I’ve currently managed to join 103 communities , and ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/has-the-roblox-community-group-membership-limit-been-increased-beyond-100/4974620.rss",
-      "id": "8048abdc5cab2ae5acee7e63"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Studio MCP Server Updates: Open Cloud Access in Your MCP Client and Asset Import Workflows",
-      "url": "https://devforum.roblox.com/t/studio-mcp-server-updates-open-cloud-access-in-your-mcp-client-and-asset-import-workflows/4975849",
-      "published": "2026-11-04",
-      "excerpt": "Key Takeaways MCP now has full access to Open Cloud; connected agents can help you manage your game beyond building Studio. This includes setting up developer products and game passes, changing game settings, reading analytics, and importing assets. A new permission system lets you choose what agent",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-mcp-server-updates-open-cloud-access-in-your-mcp-client-and-asset-import-workflows/4975849.rss",
-      "id": "7fe8ffaf180e50dba0a06e91"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Players can't join my experience after resubmitting the questionnaire",
-      "url": "https://devforum.roblox.com/t/players-cant-join-my-experience-after-resubmitting-the-questionnaire/4975493",
-      "published": "2026-11-04",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/players-cant-join-my-experience-after-resubmitting-the-questionnaire/4975493.rss",
-      "id": "7f6108df3afd9b0978f1892e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "ROBLOX Chatbot Handling Billing",
-      "url": "https://devforum.roblox.com/t/roblox-chatbot-handling-billing/4974912",
-      "published": "2026-11-04",
-      "excerpt": "I have contacted Roblox Support multiple time and am redirected to this Roblox Chatbot that ONE confirmed my subscription was cancelled. TURNS OUT IT WAS NOT I got billed. I contacted ROBLOX support again saying that I want it cancelled because I cannot access it, and the chatbot says it cannot find",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-chatbot-handling-billing/4974912.rss",
-      "id": "7b82e5793b7b298bb2d15f7a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Sick Art Showcase",
-      "url": "https://devforum.roblox.com/t/sick-art-showcase/4975015",
-      "published": "2026-11-04",
-      "excerpt": "Been a hot minute since I been here . . . Missed yall. Had to take a break thanks to good ol ((LIFE)) But ayy no need to trouble on that no more <3 – So that being said, enjoy this. Lil Doodle Practice I will be sharing more of my works later on! Love, TheDevKing ~ <3 4 posts - 2 participants Read f",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/sick-art-showcase/4975015.rss",
-      "id": "78a2ad7126a0ff8793c60498"
     }
   ]
 }
