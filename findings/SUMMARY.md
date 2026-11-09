@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-09T20:58:08Z (local, ok)
+- Last run: 2026-11-09T22:43:10Z (schedule, partial)
 - Repos tracked: 458; adopt 0, needs-test 183, reject 275
 - Actionable backlog: 170
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​64c3406, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/962fbdcd8cde31382e32db6c3c588eed3c33c927)
   - Pin jmagly/aiwg@​962fbdc, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #2042 Fix: opencode permission prompts are auto-rejected and never surfaced in the cockpit — non-autonomou
-- Issue updated: open-mercato/cezar #2041 Fix: GitHub automations never fire for projects added via 'cez projects add' — scheduler silently sk
-- Issue updated: open-mercato/cezar #2040 Implement: change-aware CI monitoring to avoid repeated full-context model turns
-- Issue updated: open-mercato/cezar #2012 Task auto-naming uses the full default model on non-Claude runners \(26% of Copilot credits in one we
-- Issue updated: open-mercato/cezar #2037 Fix: keep asset cards at their chronological place in the conversation
-- Issue updated: obra/superpowers #2681 \[APM\] Add apm support to be agnostic
-- Issue updated: obra/superpowers #1822 can't install superpowers for junie
-- Issue updated: earendil-works/pi #11869 New 'StringEnum' in Pi 1.5.0 breaks compile-time typing
-- Issue updated: earendil-works/pi #11676 pi-durable: Harness.close\(\) leaves pi-ai provider session resources alive
-- Issue updated: earendil-works/pi #11060 Chosen folder for a moved session is not saved, so every resume asks again
-- Issue updated: earendil-works/pi #11026 pi-durable: permanently delete a conversation from storage
-- Issue updated: earendil-works/pi #11921 tool\_search answers "No matching tools found" for a declared direct MCP tool; direct servers are nev
-- Issue updated: ComposioHQ/awesome-claude-skills #2438 Add team-room skill \(Collaboration & Project Management\)
-- Issue updated: OpenHands/OpenHands #19575 Default Projects UI in Canvas \(behind the experimental 'projects' flag\)
-- Issue updated: OpenHands/OpenHands #19576 \[Bug\]: Completed resume hidden in long conversations when UTC history has no timezone suffix
-- Issue updated: OpenHands/OpenHands #19573 \[Bug\]: Message sent to a running conversation is lost and comes back as a draft
-- Issue updated: OpenHands/OpenHands #19056 Conversation Resources View: show what the agent has access to
-- Issue updated: OpenHands/OpenHands #19570 Name the Files tab strip scrollbar and File discovery height recipes
-- New candidate: modelcontextprotocol/servers (reject)
-- New candidate: anthropics/claude-code (reject)
-- Issue updated: openai/codex #60450 ChatGPT Work ignores Full Access setting and enforces workspace-write sandbox on local Windows execu
-- Issue updated: openai/codex #39781 \[Windows Desktop\] Restore UI font size 18+ and do not silently reset existing values
-- Issue updated: openai/codex #60448 \[Dots\] Support iMessage/RCS group texts with multiple \(perhaps authorized\) participants
-- Issue updated: openai/codex #35420 Work/Codex stream repeatedly disconnects when the selected Windows workspace is OneDrive-backed and
-- Issue updated: openai/codex #60449 \[Windows / ChatGPT Work\] Network enabled but local executor blocks TCP connect \(10013\); bind/listen
-- Issue updated: rojo-rbx/rojo #1357 InstanceHandle attributes support is missing
-- New candidate: creosB/AI-Side-Panel-Extension (reject)
-- New candidate: Robbings/chatgpt-graph-navigator (reject)
-- New candidate: keyonzeng/prompt\_ark (reject)
-- Issue updated: ollama/ollama #19624 OLLAMA\_KEEP\_ALIVE of 300 seconds \(5 minutes\) is too short
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
