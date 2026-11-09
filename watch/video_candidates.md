@@ -12,7 +12,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[Where can i find some playtesters ? :3](https://www.reddit.com/r/ROBLOXStudio/comments/1xr1am2/where_can_i_find_some_playtesters_3/)** — Community showcase post (video not confirmed) · 2026-11-08
 - **[My first attempt at camera animation in Roblox](https://www.reddit.com/r/ROBLOXStudio/comments/1xrtt1a/my_first_attempt_at_camera_animation_in_roblox/)** — Community showcase post (video not confirmed) · 2026-11-09
 - **[Project EXO (Playtest) Gameplay!](https://www.reddit.com/r/ROBLOXStudio/comments/1xre0dx/project_exo_playtest_gameplay/)** — Community showcase post (video not confirmed) · 2026-11-09
-- **[A small animation i made (1st anim i ever made in studio)](https://www.reddit.com/r/ROBLOXStudio/comments/1xnkt3q/a_small_animation_i_made_1st_anim_i_ever_made_in/)** — Community showcase post (video not confirmed) · 2026-11-04
+- **[Working on procedural facial animations and dynamic injuries for my upcoming Roblox game](https://www.reddit.com/r/robloxgamedev/comments/1xrdume/working_on_procedural_facial_animations_and/)** — Community showcase post (video not confirmed) · 2026-11-09
 - **[T-90M Tank Showcase](https://www.reddit.com/r/ROBLOXStudio/comments/1xpapgp/t90m_tank_showcase/)** — Community showcase post (video not confirmed) · 2026-11-06
 - **[Good Video for my Tank Showcase?](https://www.reddit.com/r/robloxgamedev/comments/1xq4jkn/good_video_for_my_tank_showcase/)** — Community showcase post (video not confirmed) · 2026-11-07
 
