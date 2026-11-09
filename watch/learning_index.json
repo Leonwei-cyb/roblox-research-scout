@@ -922,6 +922,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4984529:1",
+      "url": "https://devforum.roblox.com/t/major-increase-in-server-crashes/4984529",
+      "title": "Major Increase in Server Crashes",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xooffh",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xooffh/roblox_football_but_you_control_all_11_players/",
       "title": "Roblox football, but you control all 11 players",
@@ -1217,19 +1231,6 @@
         "tools and performance"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975962:1",
-      "url": "https://devforum.roblox.com/t/in-experience-creation-is-broken-buy-creation-page-is-stuck-on-reviewing-your-creation/4975962",
-      "title": "In-experience creation is broken; \"Buy Creation\" page is stuck on \"Reviewing your creation...\"",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2316,14 +2317,16 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xnspqn",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnspqn/roblox_game_steals_conecpt_of_another_roblox_game/",
-      "title": "Roblox Game Steals Conecpt of Another Roblox Game, gets 22X more Players",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-04",
-      "kind": "reddit",
+      "key": "devforum:4984585:1",
+      "url": "https://devforum.roblox.com/t/game-store-on-website-shows-less-products-than-in-the-app/4984585",
+      "title": "Game store on website shows less products than in the app",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
       "signals": [
-        "player feedback and marketing"
+        "building and purchases",
+        "economy and income",
+        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3058,17 +3061,29 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4975104:1",
-      "url": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104",
-      "title": "Can Roblox suspend an account that is logged online from two different locations?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
+      "key": "reddit:1xs2tsz",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs2tsz/looking_for_players_to_test_my_roblox_game/",
+      "title": "Looking for players to test my Roblox game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
       "signals": [
-        "first-session and mobile",
-        "tools and performance"
+        "player feedback and marketing"
       ],
-      "score": 4,
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xs3gpc",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3gpc/huge_jump_in_highly_engaged_players/",
+      "title": "Huge jump in highly engaged players?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3575,19 +3590,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975217:1",
-      "url": "https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217",
-      "title": "Forest Floor & Undergrowth v2.0",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4379,6 +4381,19 @@
       "kind": "devforum",
       "signals": [
         "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4984586:1",
+      "url": "https://devforum.roblox.com/t/engine-crashes-when-attaching-a-getstyledpropertychangedsignal-on-a-non-stylable-property/4984586",
+      "title": "Engine crashes when attaching a GetStyledPropertyChangedSignal on a non-stylable property",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5203,36 +5218,16 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4975109:1",
-      "url": "https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109",
-      "title": "Custom events no longer in analytics tab?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975387:1",
-      "url": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387",
-      "title": "SurfaceAppearance Alpha mipmapping workarounds",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975505:1",
-      "url": "https://devforum.roblox.com/t/storage-limit-doesnt-increase-capped-at-500-mb/4975505",
-      "title": "Storage Limit doesn't increase (capped at 500 MB)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xs24mg",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs24mg/concept_of_the_killer_singularity/",
+      "title": "CONCEPT OF THE KILLER: SINGULARITY",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6259,23 +6254,23 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xnnr9e",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/",
-      "title": "looking for playtesters",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
+      "key": "devforum:4984580:1",
+      "url": "https://devforum.roblox.com/t/new-roblox-login-page-lacks-quick-sign-in-option/4984580",
+      "title": "New Roblox Login page lacks \"Quick Sign In\" Option",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xo2puy",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo2puy/my_arena_cars_game/",
-      "title": "my arena cars game ^ . ^",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-04",
-      "kind": "reddit",
+      "key": "devforum:4984595:1",
+      "url": "https://devforum.roblox.com/t/upcoming-fixes-for-wedge-part-collisions/4984595",
+      "title": "Upcoming Fixes for Wedge Part Collisions",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-09",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -6394,17 +6389,6 @@
       "key": "reddit:1xoplzs",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoplzs/yo_guys_what_should_i_add_it_kinda_looks_empty_it/",
       "title": "yo guys what should I add. It kinda looks empty. It should be in a \"pinterest poster\" style",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xoq6ji",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoq6ji/any_roblox_developers_out_there/",
-      "title": "Any Roblox developers out there?",
       "source": "reddit-robloxdev",
       "published": "2026-11-05",
       "kind": "reddit",
@@ -7395,6 +7379,28 @@
       "key": "reddit:1xrxzcq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrxzcq/sniper_game_preview/",
       "title": "sniper game preview!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xs13xe",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs13xe/i_want_to_make_a_genuinely_good_roblox_game_with/",
+      "title": "I want to make a genuinely good Roblox game with AI. Where should I start?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xs1j2u",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs1j2u/could_someone_tell_me_how_well_or_how_poorly_im/",
+      "title": "Could someone tell me how well or how poorly I’m doing? I have an idea of ​​what level I’m at, but I’d still appreciate some advice or recommendations from experienced people",
       "source": "reddit-robloxdev",
       "published": "2026-11-09",
       "kind": "reddit",

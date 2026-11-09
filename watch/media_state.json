@@ -3246,7 +3246,17 @@
     "3162d72a31712b66f30faad0",
     "b9e6a684baa1a988c49bef8e",
     "8284d79fb8d4046a38aef7d0",
-    "5ae04d38e537169e49a534a3"
+    "5ae04d38e537169e49a534a3",
+    "fba7115ab101876109546a33",
+    "b18ad437168d5513023797b2",
+    "48cf48df71278dee242e76cf",
+    "946b1db6e43f2c5b030c15cb",
+    "51b3464ac7b981f9f54c58ba",
+    "36a0653b8394e38c8885b209",
+    "56f085344d7718ccabdf3e70",
+    "7f6478dc359b85adce02f264",
+    "3afc40a0e7a61ef63a85c38a",
+    "90e601860c982d0506558406"
   ],
   "items": [
     {
@@ -3271,6 +3281,18 @@
       "excerpt": "Is my game doing well? Ran ads for 13 dollars first day and 5 dollars daily for 2 days, can't run ads now since im out of money lmao. Can i still continue my ad campaign after I save some money from my school allowance? Or will it be a flop already? During ads, it averages 20 players but now only li",
       "creator": "/u/lygail https://www.reddit.com/user/lygail",
       "id": "fd3e556402a97589ecb759d8"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Upcoming Fixes for Wedge Part Collisions",
+      "url": "https://devforum.roblox.com/t/upcoming-fixes-for-wedge-part-collisions/4984595",
+      "published": "2026-11-09",
+      "excerpt": "Key Takeaways We’re rolling out a fix for incorrect collision geometry on wedge parts. Since wedge glides and wedge flings result from this bug, they will no longer happen on their own after this fix. Hi Creators, We’re rolling out a fix for incorrect collision geometry on wedge parts. This fixes lo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/upcoming-fixes-for-wedge-part-collisions/4984595.rss",
+      "id": "fba7115ab101876109546a33"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3479,6 +3501,18 @@
       "id": "b1c8e840c68bf6c56701fde6"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Engine crashes when attaching a GetStyledPropertyChangedSignal on a non-stylable property",
+      "url": "https://devforum.roblox.com/t/engine-crashes-when-attaching-a-getstyledpropertychangedsignal-on-a-non-stylable-property/4984586",
+      "published": "2026-11-09",
+      "excerpt": "This is a crash bug with the Roblox UI styling system. I discovered this bug on accident when attaching a GetStyledPropertyChangedSignal on a property that cannot be edited by a StyleRule . Set up a StyleRule with a tag selector. Add any GuiObject to the UI. Link the StyleRule at runtime with a Styl",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/engine-crashes-when-attaching-a-getstyledpropertychangedsignal-on-a-non-stylable-property/4984586.rss",
+      "id": "b18ad437168d5513023797b2"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3599,6 +3633,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "New Roblox Login page lacks \"Quick Sign In\" Option",
+      "url": "https://devforum.roblox.com/t/new-roblox-login-page-lacks-quick-sign-in-option/4984580",
+      "published": "2026-11-09",
+      "excerpt": "Recently, I’ve noticed that the updated Roblox login page (both on the app and the web) no longer includes the “Quick Sign In” option, a feature that allowed users to log in more quickly without having to enter their email or use other login methods. This makes me wonder whether this option is being",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-roblox-login-page-lacks-quick-sign-in-option/4984580.rss",
+      "id": "946b1db6e43f2c5b030c15cb"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Ad Manager shows outdated timezone",
       "url": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404",
       "published": "2026-11-09",
@@ -3606,6 +3652,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404.rss",
       "id": "93791a51096db6d5b5efe491"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I want to make a genuinely good Roblox game with AI. Where should I start?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs13xe/i_want_to_make_a_genuinely_good_roblox_game_with/",
+      "published": "2026-11-09",
+      "excerpt": "Hey everyone! I’ve wanted to create my own Roblox game for a long time, and with AI becoming more powerful, I finally feel like I have the opportunity to make it happen. But I don’t want to make another low-effort game thrown together in a week. I want to create something genuinely high-quality, wit",
+      "creator": "/u/tbeen_ https://www.reddit.com/user/tbeen_",
+      "id": "90e601860c982d0506558406"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3747,6 +3804,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/developing-ai-systems/4984253.rss",
       "id": "800400d992ce606bad953846"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "CONCEPT OF THE KILLER: SINGULARITY",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs24mg/concept_of_the_killer_singularity/",
+      "published": "2026-11-09",
+      "excerpt": "Concept: \"Singularity\" (Main Killer for my Asymmetrical Horror Game) Text: Hi everyone! I am a writer working on my own asymmetrical horror game concept in Roblox (inspired by Forsaken). I wanted to share the concept for the main Killer: Singularity. And yes, I forgot to clarify, then I am a scriptw",
+      "creator": "/u/LKOOOOL https://www.reddit.com/user/LKOOOOL",
+      "id": "7f6478dc359b85adce02f264"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3921,6 +3989,17 @@
       "id": "5ad707f76b59fdca7412ef31"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for players to test my Roblox game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs2tsz/looking_for_players_to_test_my_roblox_game/",
+      "published": "2026-11-09",
+      "excerpt": "Hi I’m looking for players to test my game for free just looking for feedback if you have a game of ur own I can play it aswell so both particles are happy submitted by /u/PlateKey3133 [link] [comments]",
+      "creator": "/u/PlateKey3133 https://www.reddit.com/user/PlateKey3133",
+      "id": "56f085344d7718ccabdf3e70"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3930,6 +4009,18 @@
       "excerpt": "https://www.roblox.com/es/games/85682289441836/FPE-Detention-Pre-alpha submitted by /u/PostAlone3159 [link] [comments]",
       "creator": "/u/PostAlone3159 https://www.reddit.com/user/PostAlone3159",
       "id": "560d27a7e86927b56d15a227"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Major Increase in Server Crashes",
+      "url": "https://devforum.roblox.com/t/major-increase-in-server-crashes/4984529",
+      "published": "2026-11-09",
+      "excerpt": "Our players in TTD 3 have been reporting frequent server crashes recently with a “Game Server update” seemingly pairing onto it. Those are all caused by out of memory exits. Looking at a few snapshots, the main memory usage candidates are our map presets users can teleport to. The 50~ maps amount to",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/major-increase-in-server-crashes/4984529.rss",
+      "id": "51b3464ac7b981f9f54c58ba"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3953,6 +4044,18 @@
       "excerpt": "Slimehunt | Play on Roblox Adds 3 new biomes being Mushroom Forests, a plains with mushroom trees, mushroom crevices, found in a mysterious hole next to a mushroom tree, and the Plains, the result of curing the Mushroom Virus. There's also 5 new Slimbos for the Mushroom Areas, Mushroom and Spore Sli",
       "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
       "id": "49c2f74e745e5c2dda0bdae6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Game store on website shows less products than in the app",
+      "url": "https://devforum.roblox.com/t/game-store-on-website-shows-less-products-than-in-the-app/4984585",
+      "published": "2026-11-09",
+      "excerpt": "My game Combat Arena was an early adopter of external purchases for developer products. At the time, we listed our coins products for sale, they showed up on the website and everything was great. Then eventually the new Shop features were added, with the in-game shop button and all, and external pur",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-store-on-website-shows-less-products-than-in-the-app/4984585.rss",
+      "id": "48cf48df71278dee242e76cf"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4002,6 +4105,17 @@
       "id": "3b4ce1d75c5ccd5872cdb943"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Could someone tell me how well or how poorly I’m doing? I have an idea of ​​what level I’m at, but I’d still appreciate some advice or recommendations from experienced people",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs1j2u/could_someone_tell_me_how_well_or_how_poorly_im/",
+      "published": "2026-11-09",
+      "excerpt": "submitted by /u/Bea-T [link] [comments]",
+      "creator": "/u/Bea-T https://www.reddit.com/user/Bea-T",
+      "id": "3afc40a0e7a61ef63a85c38a"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -4011,6 +4125,17 @@
       "excerpt": "Hello im a co owner for a dandy world type game We are looking for digital artists if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game The theme is film/literature or medieval fantasy We are c",
       "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
       "id": "398498ecc172bb217bc872ac"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Huge jump in highly engaged players?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs3gpc/huge_jump_in_highly_engaged_players/",
+      "published": "2026-11-09",
+      "excerpt": "I'm 3 days in to a $16/day 1 week campaign, took me 3 days to hit 160 highly engaged, and it was at 160 between 9 am and 10 am, then 2 hours later I check and its at 252, why??? What does this mean for my game? Right now I avg 10 ccu, 5k total plays, 141k impressions off 41 bucks spent, my ctr is go",
+      "creator": "/u/JamesWinlee https://www.reddit.com/user/JamesWinlee",
+      "id": "36a0653b8394e38c8885b209"
     },
     {
       "source": "reddit-robloxdev",
@@ -10041,122 +10166,6 @@
       "excerpt": "This is my new roblox game made as a solo dev, i have been scripting for about 2 years now. This game took me about 2 weeks, need feedback as a whole, im still polishing it. The mobile ui needs rework thats imma do first Planning to put around 200 usd on adv + im talking w investors any type of feed",
       "creator": "/u/Selfy_Senpai https://www.reddit.com/user/Selfy_Senpai",
       "id": "01770b9c0ec31eee3ff68073"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Any Roblox developers out there?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoq6ji/any_roblox_developers_out_there/",
-      "published": "2026-11-05",
-      "excerpt": "Potentially looking to have a game created. Was planning on doing it myself with no prior experience alongside using Claude code but curious if there’s any devs already out there that would want to help me out since I’m already pretty busy. Would be non payed but we would share a split of any revenu",
-      "creator": "/u/Big_Comfortable3077 https://www.reddit.com/user/Big_Comfortable3077",
-      "id": "00c792badaafbac15bf19503"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "looking for playtesters",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnnr9e/looking_for_playtesters/",
-      "published": "2026-11-04",
-      "excerpt": "I am making an asym game where two killers compete for survivor kills, and i need people to help me decide whether certain abilities and stats are balanced. please DM me if you'd like to join the testing group or have any questions about the game. submitted by /u/Keith00100 [link] [comments]",
-      "creator": "/u/Keith00100 https://www.reddit.com/user/Keith00100",
-      "id": "f68be6ff8e5b3de4afe56c03"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox Game Steals Conecpt of Another Roblox Game, gets 22X more Players",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xnspqn/roblox_game_steals_conecpt_of_another_roblox_game/",
-      "published": "2026-11-04",
-      "excerpt": "The crazy thing is that both of these games are almost 100% made by AI. Such a shame the world we live in. (image 3 being Tower Incremental, and tower 4 being Depth Incremental) submitted by /u/Shoddy-Drive-8185 [link] [comments]",
-      "creator": "/u/Shoddy-Drive-8185 https://www.reddit.com/user/Shoddy-Drive-8185",
-      "id": "f524d1f6c17579a4dd698b1c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SurfaceAppearance Alpha mipmapping workarounds",
-      "url": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387",
-      "published": "2026-11-04",
-      "excerpt": "I’m working on surface projection and can’t find a satisfying workaround for the horrendous texture filtering of distant SurfaceAppearance transparency. I’d rather not use 0.011 transparency on the meshpart unless it’s the only real solution. The best I’ve found is creating a .png with preserved pix",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387.rss",
-      "id": "f3d80553453f7dc73032ffd6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "In-experience creation is broken; \"Buy Creation\" page is stuck on \"Reviewing your creation...\"",
-      "url": "https://devforum.roblox.com/t/in-experience-creation-is-broken-buy-creation-page-is-stuck-on-reviewing-your-creation/4975962",
-      "published": "2026-11-04",
-      "excerpt": "In-experience creation is broken; AvatarCreationService:PromptCreateAvatarAssetAsync gets stuck on “Reviewing your creation…” and eventually returns “AvatarCreationService: VaaS validation failed unexpectedly.” Game: FACEPAINTING! UGC CREATOR | Play on Roblox 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/in-experience-creation-is-broken-buy-creation-page-is-stuck-on-reviewing-your-creation/4975962.rss",
-      "id": "f2655aeabaef365aa52f4c60"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Custom events no longer in analytics tab?",
-      "url": "https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109",
-      "published": "2026-11-04",
-      "excerpt": "Unsure where events from LogCustomEvent are stored anymore… been weeks and swear thhey don’t exist, even though I’ve been using LogCustomEvent the entire time 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/custom-events-no-longer-in-analytics-tab/4975109.rss",
-      "id": "ef6caeb705090c89d048b0d7"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "my arena cars game ^ . ^",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo2puy/my_arena_cars_game/",
-      "published": "2026-11-04",
-      "excerpt": "submitted by /u/gocommitepic [link] [comments]",
-      "creator": "/u/gocommitepic https://www.reddit.com/user/gocommitepic",
-      "id": "eed0dff8cbe77e5c4e236230"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Storage Limit doesn't increase (capped at 500 MB)",
-      "url": "https://devforum.roblox.com/t/storage-limit-doesnt-increase-capped-at-500-mb/4975505",
-      "published": "2026-11-04",
-      "excerpt": "The Data Stores Manager on the Creator Dashboard is incorrectly capping my game’s storage limit at the 500 MB baseline. It says “Experience storage usage exceeds upcoming storage limits” and is completely ignoring the +1 MB per lifetime user multiplier. My game currently has over 1800 unique lifetim",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/storage-limit-doesnt-increase-capped-at-500-mb/4975505.rss",
-      "id": "eddd243afcf25c4a284b3559"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can Roblox suspend an account that is logged online from two different locations?",
-      "url": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104",
-      "published": "2026-11-04",
-      "excerpt": "Hello, I’m planning to go on vacation and want to be able to stay connected to Roblox Studio, but since my main computer is desktop, I’ll need to use my laptop to connect to Parsec. And at the same time I want to be able to continue testing with my phone from where I am right now . Could Roblox susp",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104.rss",
-      "id": "ec2ce17925d4bf047ad380bb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Forest Floor & Undergrowth v2.0",
-      "url": "https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217",
-      "published": "2026-11-04",
-      "excerpt": "Hey! I wanted to share some of my recent work on Forest Floor & Undergrowth V2.0 , a collection of over 90 nature assets I’ve created for realistic Roblox environments. The goal with this pack was to make it easier to build detailed, natural-looking forest floors without having to create every indiv",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/forest-floor-undergrowth-v20/4975217.rss",
-      "id": "e8ad96b21afbd86c6574fb50"
     }
   ]
 }
