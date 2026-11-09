@@ -7,12 +7,12 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/)** — Public text/page, video not confirmed
-- **[I wanted to show you this military simulator game I thought you'd like it :D](https://devforum.roblox.com/t/i-wanted-to-show-you-this-military-simulator-game-i-thought-youd-like-it-d/4982573)** — Public text/page, video not confirmed
+- **[Studio, DeviceSimulatorToolbar - Can't turn "Device Simulator" off during a playtest. It is greyed out](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509)** — Public text/page, video not confirmed
 - **[Test Graphics and Memory on Lower-End Devices With the Performance Simulator](https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
-- **[UI_Group_Tool (FREE PLUGIN)](https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839)** — Public text/page, video not confirmed
+- **[Cannot Interact with the Robux Transfer Popup on Gamepad Interfaces](https://devforum.roblox.com/t/cannot-interact-with-the-robux-transfer-popup-on-gamepad-interfaces/4983550)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)** — Public text/page, video not confirmed
 
 ## 3D / models / environments

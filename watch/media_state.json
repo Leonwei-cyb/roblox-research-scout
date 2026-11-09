@@ -3173,7 +3173,13 @@
     "811d79c916b63daa389f9f88",
     "1b882ce5669ccfde240f001a",
     "8be30a9704a60c5111e9c859",
-    "150dfbc265927c3289209284"
+    "150dfbc265927c3289209284",
+    "a6b3584cec8bd3ecb79dc929",
+    "78ab3f89a65fabc02785be64",
+    "d88f5b0a97606c394f160279",
+    "3b4ce1d75c5ccd5872cdb943",
+    "08a16e1e3d25f4b602b92f0a",
+    "49c2f74e745e5c2dda0bdae6"
   ],
   "items": [
     {
@@ -3198,6 +3204,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/types-type-has-no-auto-completion/4983495.rss",
       "id": "db6a5cd7e26f365e19145b6c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "NPC Cod style combat support",
+      "url": "https://devforum.roblox.com/t/npc-cod-style-combat-support/4983533",
+      "published": "2026-11-09",
+      "excerpt": "I am currently trying to make an npc combat system for a game and took inspiration from call of duty.How does it look and what are any suggestions to make it better accounts.google.com Google Drive: Sign-in Access Google Drive with a Google account (for personal use) or Google Workspace account (for",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/npc-cod-style-combat-support/4983533.rss",
+      "id": "d88f5b0a97606c394f160279"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3238,6 +3256,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Cannot Interact with the Robux Transfer Popup on Gamepad Interfaces",
+      "url": "https://devforum.roblox.com/t/cannot-interact-with-the-robux-transfer-popup-on-gamepad-interfaces/4983550",
+      "published": "2026-11-09",
+      "excerpt": "Whenever a user is prompted to transfer Robux to another user in game, the UI navigation cannot be moved over to the core Robux transfer UI, making the popup impossible to get rid of. When a player is prompted to transfer robux and is eligible to do so, they will become stuck on the transfer screen,",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cannot-interact-with-the-robux-transfer-popup-on-gamepad-interfaces/4983550.rss",
+      "id": "a6b3584cec8bd3ecb79dc929"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Ad Manager shows outdated timezone",
       "url": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404",
       "published": "2026-11-09",
@@ -3271,6 +3301,18 @@
       "id": "811d79c916b63daa389f9f88"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback on \"AvatarEditorService:GetBatchItemDetailsAsync\"",
+      "url": "https://devforum.roblox.com/t/feedback-on-avatareditorservicegetbatchitemdetailsasync/4983547",
+      "published": "2026-11-09",
+      "excerpt": "Mention that this function has a maximum of 100 items, based on its warning: “maximum of 100 item details can be requested at once.” And possibly state the function’s rate limit, if it has one. Ex from GetUserInfosByUserIdsAsync: “Results are limited to 250 per minute” Affected URL: AvatarEditorServ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-avatareditorservicegetbatchitemdetailsasync/4983547.rss",
+      "id": "78ab3f89a65fabc02785be64"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3292,6 +3334,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-i-cant-change-the-graphic-level-settings-in-peace-anymore-while-in-a-playtest/4983500.rss",
       "id": "61dccb7d738c95405c89903f"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "HUGE SLIMEHUNT UPDATE!",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrhe38/huge_slimehunt_update/",
+      "published": "2026-11-09",
+      "excerpt": "Slimehunt | Play on Roblox Adds 3 new biomes being Mushroom Forests, a plains with mushroom trees, mushroom crevices, found in a mysterious hole next to a mushroom tree, and the Plains, the result of curing the Mushroom Virus. There's also 5 new Slimbos for the Mushroom Areas, Mushroom and Spore Sli",
+      "creator": "/u/AnimaticKraken https://www.reddit.com/user/AnimaticKraken",
+      "id": "49c2f74e745e5c2dda0bdae6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "New Roblox update disabled Bloom on Graphic Level 2, but it was enabled before",
+      "url": "https://devforum.roblox.com/t/new-roblox-update-disabled-bloom-on-graphic-level-2-but-it-was-enabled-before/4983523",
+      "published": "2026-11-09",
+      "excerpt": "Description Increasing the Minimum Draw Distance to 500 Studs and Other Auto-Quality Level Improvements Announcements Hi Creators, Our long-term vision for auto quality-level scaling is to have the engine scale quality smoothly across all device capabilities to balance performance while maintaining ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-roblox-update-disabled-bloom-on-graphic-level-2-but-it-was-enabled-before/4983523.rss",
+      "id": "3b4ce1d75c5ccd5872cdb943"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3337,6 +3402,18 @@
       "excerpt": "Hello guys! I just wanted to show a couple videos of what I got in game now, very happy to get any type of feedback/criticism submitted by /u/Best_Jacket_5959 [link] [comments]",
       "creator": "/u/Best_Jacket_5959 https://www.reddit.com/user/Best_Jacket_5959",
       "id": "11551e9fd1e67f494f36b264"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio, DeviceSimulatorToolbar - Can't turn \"Device Simulator\" off during a playtest. It is greyed out",
+      "url": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509",
+      "published": "2026-11-09",
+      "excerpt": "Description Paired with this issue here Studio, DeviceSimulatorToolbar - I can't change the graphic level settings in peace anymore while in a playtest This toolbar can NOT be disabled by pressing the button that is on the top left of this screenshot. Re-production Steps Create a new tab in Next Gen",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509.rss",
+      "id": "08a16e1e3d25f4b602b92f0a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10027,75 +10104,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546.rss",
       "id": "627deb93d424fb3ef04e5a4d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Fuck it I made even more SpongeBob models",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xni1pm/fuck_it_i_made_even_more_spongebob_models/",
-      "published": "2026-11-04",
-      "excerpt": "submitted by /u/SPONg42 [link] [comments]",
-      "creator": "/u/SPONg42 https://www.reddit.com/user/SPONg42",
-      "id": "61cf1c61b6cc236b665adc93"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "ImageLabel in SurfaceUI blurry",
-      "url": "https://devforum.roblox.com/t/imagelabel-in-surfaceui-blurry/4975866",
-      "published": "2026-11-04",
-      "excerpt": "I keep trying to make this UI less blurry but it doesn’t make a difference, 6 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/imagelabel-in-surfaceui-blurry/4975866.rss",
-      "id": "60604d61126df932c7c74f87"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Dynamic head validation error issue 0.00% degenerate triangles",
-      "url": "https://devforum.roblox.com/t/dynamic-head-validation-error-issue-000-degenerate-triangles/4974821",
-      "published": "2026-11-04",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/dynamic-head-validation-error-issue-000-degenerate-triangles/4974821.rss",
-      "id": "5e871b0b7151004282d72844"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Roblox game asset suggestion",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnxfj6/roblox_game_asset_suggestion/",
-      "published": "2026-11-04",
-      "excerpt": "Which type of tree asset should i use for this map? submitted by /u/rokoryuu [link] [comments]",
-      "creator": "/u/rokoryuu https://www.reddit.com/user/rokoryuu",
-      "id": "5d719f52acca1c4ff45e6209"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[CRITICAL] Trusted Chat Banning for Child Safety w/o Explanation",
-      "url": "https://devforum.roblox.com/t/critical-trusted-chat-banning-for-child-safety-wo-explanation/4975295",
-      "published": "2026-11-04",
-      "excerpt": "Hi Roblox Staff, The Roblox Trusted Chat, I believe has a false positive where it’s currently banning peoples accounts permanently for “Child Safety”, leaving people hopeless on what to do. Before I continue, this is completely unrelated to the recent announcement you guys made on the alt detection ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/critical-trusted-chat-banning-for-child-safety-wo-explanation/4975295.rss",
-      "id": "5d4318cdd9c0adcfdd823f54"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Can somebody help me fix his?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnbujl/can_somebody_help_me_fix_his/",
-      "published": "2026-11-04",
-      "excerpt": "I am new in Roblox Studio and I wanted to make a animation pack, and I don't know what to do because I couldn't find a tutorial for this.(I translated it from spanish to english so it might look weird) submitted by /u/elGhODster_ [link] [comments]",
-      "creator": "/u/elGhODster_ https://www.reddit.com/user/elGhODster_",
-      "id": "5a85130730a3ecd516a40a3b"
     }
   ]
 }
