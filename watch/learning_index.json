@@ -68,6 +68,22 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xrt5fm",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrt5fm/players_leave_right_after_my_tutorial_and_i/",
+      "title": "Players leave right after my tutorial and I honestly don’t understand why. Will pay Robux for real feedback",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "building and purchases",
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 10,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4977712:1",
       "url": "https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712",
       "title": "Player objects not being properly managed on disconect during a Server & Client session",
@@ -948,17 +964,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xnw3ze",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnw3ze/paid_hiring_tester/",
-      "title": "[Paid] Hiring Tester",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
+      "key": "devforum:4984105:1",
+      "url": "https://devforum.roblox.com/t/animation-graph-editor-reopens-when-closed/4984105",
+      "title": "Animation Graph Editor reopens when closed",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
         "UI and menus",
-        "genres and successful loops",
-        "player feedback and marketing"
+        "animation and audio"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1296,19 +1310,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975540:1",
-      "url": "https://devforum.roblox.com/t/creating-a-line-from-2-points-in-ui/4975540",
-      "title": "Creating a line from 2 points in ui",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3050,6 +3051,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xrtt1a",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrtt1a/my_first_attempt_at_camera_animation_in_roblox/",
+      "title": "My first attempt at camera animation in Roblox",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4975104:1",
       "url": "https://devforum.roblox.com/t/can-roblox-suspend-an-account-that-is-logged-online-from-two-different-locations/4975104",
       "title": "Can Roblox suspend an account that is logged online from two different locations?",
@@ -3213,20 +3227,6 @@
       "signals": [
         "board game and turn flow",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xnuuje",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnuuje/knightfall_studios_looking_for_cofounders/",
-      "title": "KnightFall Studios | Looking for Co-Founders",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3687,19 +3687,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975945:1",
-      "url": "https://devforum.roblox.com/t/open-volunteer-discord-moderator-18-for-roadflare-games/4975945",
-      "title": "[OPEN] [VOLUNTEER] Discord moderator (18+) for Roadflare Games",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4423,6 +4410,19 @@
       "key": "devforum:4984023:1",
       "url": "https://devforum.roblox.com/t/increased-crash-rate-2-4gb-android/4984023",
       "title": "Increased Crash Rate (2-4GB Android)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4984088:1",
+      "url": "https://devforum.roblox.com/t/dynamic-head-mouth-mesh-deforms-on-the-right-side-in-r15/4984088",
+      "title": "Dynamic Head Mouth Mesh Deforms on the Right Side in R15",
       "source": "roblox-devforum-latest",
       "published": "2026-11-09",
       "kind": "devforum",
@@ -5275,28 +5275,6 @@
       "key": "devforum:4975387:1",
       "url": "https://devforum.roblox.com/t/surfaceappearance-alpha-mipmapping-workarounds/4975387",
       "title": "SurfaceAppearance Alpha mipmapping workarounds",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975473:1",
-      "url": "https://devforum.roblox.com/t/enhanced-protection-being-disabled-without-the-user%E2%80%99s-authorization/4975473",
-      "title": "Enhanced Protection being disabled without the user’s authorization",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975494:1",
-      "url": "https://devforum.roblox.com/t/dont-have-a-last-name-and-want-to-devex/4975494",
-      "title": "Dont have a last name and want to devex",
       "source": "roblox-devforum-latest",
       "published": "2026-11-04",
       "kind": "devforum",
@@ -6320,6 +6298,17 @@
       "key": "devforum:4983991:1",
       "url": "https://devforum.roblox.com/t/when-should-you-use-oop-instead-of-regular-modules-and-functions/4983991",
       "title": "When Should You Use OOP Instead of Regular Modules and Functions?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4984093:1",
+      "url": "https://devforum.roblox.com/t/critical-roblox-false-terminations-%E2%80%9Cmisusing-roblox-systems%E2%80%9D-%E2%80%93-40-alt-accounts-textchatservice-possible-transparency-issues/4984093",
+      "title": "[CRITICAL] Roblox False Terminations: “Misusing Roblox Systems” – 40% Alt Accounts & TextChatService Possible? Transparency Issues",
       "source": "roblox-devforum-latest",
       "published": "2026-11-09",
       "kind": "devforum",
@@ -7409,6 +7398,17 @@
       "key": "reddit:1xrqiv0",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrqiv0/safeguard_the_last_man_standing_of_mister_stick/",
       "title": "\"safeguard\" the last man standing of Mister stick (Game: FPE Detention)",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xrt96z",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrt96z/what_do_i_do_and_what_does_this_mean/",
+      "title": "What do I do and what does this mean?",
       "source": "reddit-robloxstudio",
       "published": "2026-11-09",
       "kind": "reddit",
