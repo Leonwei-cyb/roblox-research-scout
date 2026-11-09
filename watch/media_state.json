@@ -3219,7 +3219,14 @@
     "6aecd49ac39eaaf491812f2c",
     "dcbfb3dceb644be946a06df6",
     "ee8a9efbcb3a5248ff4b4559",
-    "275125e9f4ecc40f94c9334d"
+    "275125e9f4ecc40f94c9334d",
+    "25fd384853be6cb35d233cac",
+    "8e1a9aa83ed37fcffa560d84",
+    "800400d992ce606bad953846",
+    "874ab861d5f1b135e12e1c02",
+    "3ba0d2ed4208e494c8178665",
+    "9734aabc59e77dd66db07087",
+    "db23dfc1b593f0e562619caa"
   ],
   "items": [
     {
@@ -3278,6 +3285,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/types-type-has-no-auto-completion/4983495.rss",
       "id": "db6a5cd7e26f365e19145b6c"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Feel free to try my new game :) Dont Splash Gladiator Arena",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrw7gq/feel_free_to_try_my_new_game_dont_splash/",
+      "published": "2026-11-09",
+      "excerpt": "https://preview.redd.it/13w3efcz4m0i1.png?width=1920&format=png&auto=webp&s=a81150561d2ab20bcbb20d5f713ddbd972c82e2a https://www.roblox.com/share?code=cad271b34e112242823873cd2b974686&type=ExperienceDetails&stamp=1794241541883 ⚔️ DON’T SPLASH: GLADIATOR ARENA 🏟️ 🌊 Step into the arena and stay out of",
+      "creator": "/u/Organic-Banana-1945 https://www.reddit.com/user/Organic-Banana-1945",
+      "id": "db23dfc1b593f0e562619caa"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3457,6 +3475,17 @@
       "id": "9b93cc4696c9bc4af78acf2a"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I have a 70% like ratio and idk why",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrwyxs/i_have_a_70_like_ratio_and_idk_why/",
+      "published": "2026-11-09",
+      "excerpt": "I've played through the game myself and there isn't any major flaw, could anyone take a look and tell me whether its too confusing or what? submitted by /u/who_tookthegoodnames [link] [comments]",
+      "creator": "/u/who_tookthegoodnames https://www.reddit.com/user/who_tookthegoodnames",
+      "id": "9734aabc59e77dd66db07087"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3467,6 +3496,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404.rss",
       "id": "93791a51096db6d5b5efe491"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Textures on a part visible through decals and beams in front of it",
+      "url": "https://devforum.roblox.com/t/textures-on-a-part-visible-through-decals-and-beams-in-front-of-it/4984269",
+      "published": "2026-11-09",
+      "excerpt": "The Building Support sub-category is intended for all development support relating to architecture on the Roblox platform. This includes questions ranging in difficulty from extremely basic to even the most technical of issues. You may present your thread how you choose, but you are required to answ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/textures-on-a-part-visible-through-decals-and-beams-in-front-of-it/4984269.rss",
+      "id": "8e1a9aa83ed37fcffa560d84"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3518,6 +3559,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Inventory system and UI",
+      "url": "https://devforum.roblox.com/t/inventory-system-and-ui/4984224",
+      "published": "2026-11-09",
+      "excerpt": "Hello! I started working on this system about a year ago. Two days ago, I jumped back into it to refactor the code, improve the architecture and finally finish it… There are still small bugs to fix and improvements to make though. Here is a quick video I made showcasing it. 1 post - 1 participant Re",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/inventory-system-and-ui/4984224.rss",
+      "id": "874ab861d5f1b135e12e1c02"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "What's the best way to handle replication of game state?",
       "url": "https://devforum.roblox.com/t/whats-the-best-way-to-handle-replication-of-game-state/4983477",
       "published": "2026-11-09",
@@ -3525,6 +3578,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/whats-the-best-way-to-handle-replication-of-game-state/4983477.rss",
       "id": "811d79c916b63daa389f9f88"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Developing AI systems",
+      "url": "https://devforum.roblox.com/t/developing-ai-systems/4984253",
+      "published": "2026-11-09",
+      "excerpt": "Hello I am trying to figure out how to replicate a certain user using AI. What programs do you use? Where do I start? More context in the thread below. 6 posts - 3 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/developing-ai-systems/4984253.rss",
+      "id": "800400d992ce606bad953846"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3714,6 +3779,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Paying 50k to get a game <16?",
+      "url": "https://devforum.roblox.com/t/paying-50k-to-get-a-game-16/4984216",
+      "published": "2026-11-09",
+      "excerpt": "So I know you can pay 50,000 Robux ($190) to have an expedited, personal review on your game. But how does this work? I keep getting mixed answers. When the review is done, do you get refunded the 50k? When the review is done, is the 50k lost forever? When the game is <16, how long does that last? C",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/paying-50k-to-get-a-game-16/4984216.rss",
+      "id": "3ba0d2ed4208e494c8178665"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "New Roblox update disabled Bloom on Graphic Level 2, but it was enabled before",
       "url": "https://devforum.roblox.com/t/new-roblox-update-disabled-bloom-on-graphic-level-2-but-it-was-enabled-before/4983523",
       "published": "2026-11-09",
@@ -3790,6 +3867,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785.rss",
       "id": "26e794c655ad5273dcadac08"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "UIGradients Glitch on certain devices, started happening after reworked UIGradients",
+      "url": "https://devforum.roblox.com/t/uigradients-glitch-on-certain-devices-started-happening-after-reworked-uigradients/4984287",
+      "published": "2026-11-09",
+      "excerpt": "GuiObjects with UIGradients flash/don’t show up on thse user’s device. HUAWEI matepad SE 11 (the flashing) HLTE120E (the UI completely disappears) Game link: Doodle World | Play on Roblox The flashing is apparently in other Roblox games. None of the game’s code touches the color of these buttons. Ex",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/uigradients-glitch-on-certain-devices-started-happening-after-reworked-uigradients/4984287.rss",
+      "id": "25fd384853be6cb35d233cac"
     },
     {
       "source": "reddit-robloxstudio",
@@ -10052,90 +10141,6 @@
       "excerpt": "https://reddit.com/link/1xnepev/video/whkrsu1ztizh1/player I've been working on Untitled Turnbased Game, a turn-based RPG, for quite a while now. While release is still a long way off, I'm getting closer every day! The game is heavily inspired by Slay the Spire and An Average Campaign (Roblox). Base",
       "creator": "/u/darkblackhomie https://www.reddit.com/user/darkblackhomie",
       "id": "c5b45f85ab6c78e552df30f7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Brooklyn Cross Fit Bag",
-      "url": "https://devforum.roblox.com/t/brooklyn-cross-fit-bag/4975363",
-      "published": "2026-11-04",
-      "excerpt": "Coffee Brown Brooklyn Cross Fit Bag: Coffee Brown Brooklyn Crossbody Bag - Roblox Blue Brooklyn Cross Fit Bag: Blue Brooklyn Crossbody Bag - Roblox I would really appreciate any feedback that the community can give, because I designed this UGC by myself 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/brooklyn-cross-fit-bag/4975363.rss",
-      "id": "c46e4fdb3efeacd6cc585f5d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game blocked in 18 countries, no reason given, while docs provide no steps to take",
-      "url": "https://devforum.roblox.com/t/game-blocked-in-18-countries-no-reason-given-while-docs-provide-no-steps-to-take/4975673",
-      "published": "2026-11-04",
-      "excerpt": "The game’s URL: Super Blocky Ball | Play on Roblox The page for my demographics section of the game’s details looks like this: It should look like this: Clicking “View Details” leads to a public doc and does not provide details of the blocking, and is a dead end for the issue. create.roblox.com Regi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-blocked-in-18-countries-no-reason-given-while-docs-provide-no-steps-to-take/4975673.rss",
-      "id": "c114cc9a984ec95426d83382"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How do I get rid of this grid?",
-      "url": "https://devforum.roblox.com/t/how-do-i-get-rid-of-this-grid/4975704",
-      "published": "2026-11-04",
-      "excerpt": "This grid has shown up recently and I have no idea how to get rid of it, its so horrible. 3 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-do-i-get-rid-of-this-grid/4975704.rss",
-      "id": "bf98bd7ddcf237c31c1e83d8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Improve Regional Pricing Eligibility When Redeeming Gift Cards",
-      "url": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390",
-      "published": "2026-11-04",
-      "excerpt": "I previously had access to regional pricing because I live in the Philippines, where Philippine regional pricing is available. However, after redeeming a $10 USD gift card purchased through CashStar (Roblox’s official gift card website: Buy Roblox & Robux Gift Cards Online ), I suddenly lost access ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/improve-regional-pricing-eligibility-when-redeeming-gift-cards/4974390.rss",
-      "id": "bdb3234f18d81291b9964923"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for Recommendations on a Reliable Networking Library",
-      "url": "https://devforum.roblox.com/t/looking-for-recommendations-on-a-reliable-networking-library/4975011",
-      "published": "2026-11-04",
-      "excerpt": "Hello! I’m currently working on a Clicker Simulator and looking for ways to improve network communication rather than relying on standard Roblox RemoteEvents. I’ve looked into several networking libraries, such as Zap , Blink , ByteNet Max , and QuickNet , but I’m still having trouble deciding which",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-recommendations-on-a-reliable-networking-library/4975011.rss",
-      "id": "bd41cc08a360f5c447140b71"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Ads: is the ads with Engagement goal not working?",
-      "url": "https://devforum.roblox.com/t/roblox-ads-is-the-ads-with-engagement-goal-not-working/4975617",
-      "published": "2026-11-04",
-      "excerpt": "So I recently finished making my game and decided to promote it somehow, so I chose to use Roblox Ads for the first time. I started a campaign with the goal set to Engagement, 5 ad credits per day for 5 days. One day has passed and the results are really inefficient. I’m not sure now whether I shoul",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-ads-is-the-ads-with-engagement-goal-not-working/4975617.rss",
-      "id": "bc9a3e165a8f8c287197cfd1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Need help fitting UI for a tower defense game",
-      "url": "https://devforum.roblox.com/t/need-help-fitting-ui-for-a-tower-defense-game/4974809",
-      "published": "2026-11-04",
-      "excerpt": "Hello Developers, I am creating a tower for my TD game and I would like some feedback on how I can fit the ‘Beats’ system UI so it doesn’t look off and going off the UI style. The range is a placeholder for the stats like Range, Damage and Firerate. How does the tower work? It grants the player with",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/need-help-fitting-ui-for-a-tower-defense-game/4974809.rss",
-      "id": "bb2eeaf7e73224bd5fd30f4f"
     }
   ]
 }
