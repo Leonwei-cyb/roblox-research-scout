@@ -3163,9 +3163,24 @@
     "abfdec0f102e2eceb9ca01fd",
     "b2471d1678ae1acf5a228ba7",
     "11551e9fd1e67f494f36b264",
-    "398498ecc172bb217bc872ac"
+    "398498ecc172bb217bc872ac",
+    "93791a51096db6d5b5efe491",
+    "667f1f413f0f9e1e8f3c2ebc",
+    "ed9715fd970fecd4be13c04a",
+    "38289cbb6d39b9cae278dff6"
   ],
   "items": [
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "how do i fix this?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrfdd1/how_do_i_fix_this/",
+      "published": "2026-11-09",
+      "excerpt": "so i was working on my game and the rig that i imported in blender always have this bug here submitted by /u/Klutzy-Elk8924 [link] [comments]",
+      "creator": "/u/Klutzy-Elk8924 https://www.reddit.com/user/Klutzy-Elk8924",
+      "id": "ed9715fd970fecd4be13c04a"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -3200,6 +3215,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-contact-roblox-from-original-email-even-with-evidence-of-ownership/4983363.rss",
       "id": "abfdec0f102e2eceb9ca01fd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Ad Manager shows outdated timezone",
+      "url": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404",
+      "published": "2026-11-09",
+      "excerpt": "I’ve moved from where my account was originally made, and have lived in a completely different timezone for near 2 years. But the ad manager still shows my old timezone. Makes it super confusing what time my ads are going live My account has updated location/etc and everything. The ad manager is the",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404.rss",
+      "id": "93791a51096db6d5b5efe491"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Roblox Game",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrfeo4/roblox_game/",
+      "published": "2026-11-09",
+      "excerpt": "I just created a game in roblox, it's not a promotion or anything, who likes to try it and give me your opinion send me dm to send you the link submitted by /u/Zealousideal_Two7631 [link] [comments]",
+      "creator": "/u/Zealousideal_Two7631 https://www.reddit.com/user/Zealousideal_Two7631",
+      "id": "667f1f413f0f9e1e8f3c2ebc"
     },
     {
       "source": "reddit-robloxstudio",
@@ -5918,6 +5956,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/studio-occasionally-launches-without-ability-to-insert-from-file/4979471.rss",
       "id": "3b04cb6e90577cac7b5e8eca"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Connect Claude To Roblox Studio - How To Connect Roblox Studio To Claude (Connect AI Roblox) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZUFCaUQyRlBVczZ2ckF3TGZSSGVKcGlrQzdaTXVDWmdTd3R2Ykl1c25UTGhkM0VYai1LM3hHQUs5WUtVQzh5T2tDVDQ4TmJ6QnVJVlZB?oc=5",
+      "published": "2026-11-07",
+      "excerpt": "How To Connect Claude To Roblox Studio - How To Connect Roblox Studio To Claude (Connect AI Roblox) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "38289cbb6d39b9cae278dff6"
     },
     {
       "source": "reddit-robloxdev",
@@ -10038,51 +10088,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-intersection-concrete-kept-misalignment/4974442.rss",
       "id": "4d62e724f7c2e187f1e5ad5a"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "My Bike Life TRAILER!",
-      "url": "https://www.youtube.com/watch?v=URbHQ4-Z-BU",
-      "published": "2026-11-04",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "4d4619a4e91b7cdc3dd879a5"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Suggestions for my incremental type soccer game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnwrxp/suggestions_for_my_incremental_type_soccer_game/",
-      "published": "2026-11-04",
-      "excerpt": "so i made an incremental soccer game where u make ur player and u can choose what academy,team,country to go to and u can get agents and such and i am looking for suggestions, we have our core gameplay set out but we also want more as we have recieved complaints that the only real thing u can do is ",
-      "creator": "/u/PilotPerfect8438 https://www.reddit.com/user/PilotPerfect8438",
-      "id": "4b9fce0c8a6d9768287b3ad4"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Made this for a horror game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo20f1/made_this_for_a_horror_game/",
-      "published": "2026-11-04",
-      "excerpt": "Lmk what else i should add submitted by /u/FewMonitor5985 [link] [comments]",
-      "creator": "/u/FewMonitor5985 https://www.reddit.com/user/FewMonitor5985",
-      "id": "45e8235c27327e1b488c91ae"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to change Audience (Manage Access) setting",
-      "url": "https://devforum.roblox.com/t/unable-to-change-audience-manage-access-setting/4975543",
-      "published": "2026-11-04",
-      "excerpt": "Literally unable to change the Audience settings for my own experience that I literally own. Expected behavior I should be able to freely change my Audience settings whenever I want. A private message is associated with this bug report 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-change-audience-manage-access-setting/4975543.rss",
-      "id": "43d86d64663dd13264c6acb9"
     }
   ]
 }

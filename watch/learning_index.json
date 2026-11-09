@@ -2343,6 +2343,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4983404:1",
+      "url": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404",
+      "title": "Ad Manager shows outdated timezone",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xnbujl",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnbujl/can_somebody_help_me_fix_his/",
       "title": "Can somebody help me fix his?",
@@ -3535,17 +3548,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:URbHQ4-Z-BU",
-      "url": "https://www.youtube.com/watch?v=URbHQ4-Z-BU",
-      "title": "My Bike Life TRAILER!",
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "published": "2026-11-04",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "youtube:m2CvbbQmQ0k",
       "url": "https://www.youtube.com/watch?v=m2CvbbQmQ0k",
       "title": "How to Make a Game Trailer For FREE in 2026!",
@@ -4447,19 +4449,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xnwrxp",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xnwrxp/suggestions_for_my_incremental_type_soccer_game/",
-      "title": "Suggestions for my incremental type soccer game",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5411,17 +5400,6 @@
       "key": "devforum:4975505:1",
       "url": "https://devforum.roblox.com/t/storage-limit-doesnt-increase-capped-at-500-mb/4975505",
       "title": "Storage Limit doesn't increase (capped at 500 MB)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-04",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4975543:1",
-      "url": "https://devforum.roblox.com/t/unable-to-change-audience-manage-access-setting/4975543",
-      "title": "Unable to change Audience (Manage Access) setting",
       "source": "roblox-devforum-latest",
       "published": "2026-11-04",
       "kind": "devforum",
@@ -6420,17 +6398,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xo20f1",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo20f1/made_this_for_a_horror_game/",
-      "title": "Made this for a horror game",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-04",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xo2puy",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xo2puy/my_arena_cars_game/",
       "title": "my arena cars game ^ . ^",
@@ -7407,6 +7374,41 @@
       "kind": "reddit",
       "signals": [],
       "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xrfdd1",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrfdd1/how_do_i_fix_this/",
+      "title": "how do i fix this?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xrfeo4",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrfeo4/roblox_game/",
+      "title": "Roblox Game",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE13ZUFCaUQyRlBVczZ2ckF3TGZSSGVKcGlrQzdaTXVDWmdTd3R2Ykl1c25UTGhkM0VYai1LM3hHQUs5WUtVQzh5T2tDVDQ4TmJ6QnVJVlZB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZUFCaUQyRlBVczZ2ckF3TGZSSGVKcGlrQzdaTXVDWmdTd3R2Ykl1c25UTGhkM0VYai1LM3hHQUs5WUtVQzh5T2tDVDQ4TmJ6QnVJVlZB?oc=5",
+      "title": "How To Connect Claude To Roblox Studio - How To Connect Roblox Studio To Claude (Connect AI Roblox) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-07",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
     {

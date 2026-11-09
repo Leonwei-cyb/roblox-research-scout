@@ -53,9 +53,8 @@ Account provenance: [https://socialblade.com/youtube/channel/UCl-BrQMfynC7mpPDsg
 **Account links** (public profile URLs, not guaranteed feed access):
 - [youtube](https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ) — channel ID in public channel stats; direct posts: YouTube RSS
 
-**Collected media leads:** 2 matched metadata records.
+**Collected media leads:** 1 matched metadata records.
 - [How to Make a Game Trailer For FREE in 2026!](https://www.youtube.com/watch?v=m2CvbbQmQ0k) — verified channel upload · 2026-11-08
-- [My Bike Life TRAILER!](https://www.youtube.com/watch?v=URbHQ4-Z-BU) — verified channel upload · 2026-11-04
 
 ## GnomeCode — Roblox game systems
 
