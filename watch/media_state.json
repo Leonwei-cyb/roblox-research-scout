@@ -3308,7 +3308,16 @@
     "75d36ff6b8a928bb9385e64c",
     "4e6133481f7fe013aa4aa182",
     "40f831a3176d5378c1bf0b90",
-    "5cf61a7cb777501b7a8ce4d3"
+    "5cf61a7cb777501b7a8ce4d3",
+    "bd189dc1f3e7fdf010215001",
+    "a10ea80609c9a210f55c048b",
+    "1e603d558e4ca3294ec1018c",
+    "3dfbd802db6c97822f7877ce",
+    "740056558210390bd6537aa2",
+    "0dc7024d3fb6a7ccc7c1ef23",
+    "e1ac1d726752187ce0ce8107",
+    "b711cde85e6ce8163dd67e7b",
+    "6344b8cedbd81b846b1e58d0"
   ],
   "items": [
     {
@@ -3385,12 +3394,46 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Looking for a Roblox Environment Builder (RevShare)! 🏗️",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xshiru/looking_for_a_roblox_environment_builder_revshare/",
+      "published": "2026-11-10",
+      "excerpt": "We are looking for a creative and reliable Environment Builder to join our development team and help bring our upcoming Roblox game to life. Requirements: Strong experience in Roblox Studio (lighting, terrain, and prop placement). Ability to create cohesive, immersive, and well-optimized maps (good ",
+      "creator": "/u/Just_Excitement_7392 https://www.reddit.com/user/Just_Excitement_7392",
+      "id": "e1ac1d726752187ce0ce8107"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "How do you make the first minute of a simulator game clear without a long tutorial?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/",
       "published": "2026-11-10",
       "excerpt": "I'm working on my first Roblox game, a cozy garden sim with a candy theme (you plant seeds, they grow into desserts, you harvest and sell them). The thing I'm stuck on is the first minute. When I watch new players, a lot of them spawn, walk around the shops and don't realize they need to claim a gar",
       "creator": "/u/Neither_Freedom_7785 https://www.reddit.com/user/Neither_Freedom_7785",
       "id": "c21da04e7a1f57dc255b1b9d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data",
+      "url": "https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464",
+      "published": "2026-11-10",
+      "excerpt": "The Roblox mobile app ignores the query parameters of an experience page link, launchData and placeIdOverride . Ads Manager generates exactly this kind of link as a campaign’s Launch URL: https://www.roblox.com/games/<placeId>?launchData=<value>&placeIdOverride=<startPlaceId> Mobile app (tested on i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464.rss",
+      "id": "bd189dc1f3e7fdf010215001"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is this decent? What should I be going for?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsh0d4/is_this_decent_what_should_i_be_going_for/",
+      "published": "2026-11-10",
+      "excerpt": "Posted this ad a couple hours ago, seems to be doing way better then my normal ones submitted by /u/No_Bug_2183 [link] [comments]",
+      "creator": "/u/No_Bug_2183 https://www.reddit.com/user/No_Bug_2183",
+      "id": "b711cde85e6ce8163dd67e7b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3408,10 +3451,22 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Roblox isn't recommending game to high-revenue countries",
+      "url": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415",
+      "published": "2026-11-10",
+      "excerpt": "We released our game Fight to Loot around 3 weeks ago and have kept up good analytics on stats like playtime, playthrough rate, retention etc. However, our revenue stats are horrible and we came to the conclusion that it was due to our game being primarily recommended to Indonesia and not any other ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415.rss",
+      "id": "a10ea80609c9a210f55c048b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "My game got unbanned but",
       "url": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366",
       "published": "2026-11-10",
-      "excerpt": "I am still banned, roblox said the consequences got removed/adjusted. But it locked my group and kept me banned while my game is editable via my developers. (screenshot of my developer friend playing my game in test mode while im banned still) And I am still banned… Is this a system error or a bug o",
+      "excerpt": "I am now unbanned but, roblox said the consequences got removed/adjusted. But it locked my group while my game is editable via my developers. (screenshot of my developer friend playing my game in test mode while im banned for a hour) I really need my stuff back because I was so hyped to release this",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366.rss",
       "id": "a0943a48fe989a7c0346ae29"
@@ -3461,6 +3516,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941.rss",
       "id": "74c20078545c2c836d2e0eff"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[REVSHARE] Hatch N Match — Looking for 3D Artists, UI Designers, Gameplay Designers & a Marketing Partner",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsiw9n/revshare_hatch_n_match_looking_for_3d_artists_ui/",
+      "published": "2026-11-10",
+      "excerpt": "Hey Everyone! I'm the solo developer of Hatch N Match , a Roblox dinosaur hatching, collecting, battling, and exploration game. I've been working on it for quite some time, and most of the core systems are already implemented. I'm now looking for a small team of experienced developers and artists to",
+      "creator": "/u/scissor_bedwars https://www.reddit.com/user/scissor_bedwars",
+      "id": "740056558210390bd6537aa2"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Can You Return Eggs To Bosses in Steal an Egg #roblox #robloxshorts #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtYmNmUURXNlZMSjJ4TVZ5Q3Vhc0x0d2EwVGFvQlQ1ekgyVHc0UmxUVVBYazlYX3JSbm1Lak5UdkZnaXFPT1N3bFpKS29rc0N5SlRObXl3?oc=5",
+      "published": "2026-11-10",
+      "excerpt": "Can You Return Eggs To Bosses in Steal an Egg #roblox #robloxshorts #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "6344b8cedbd81b846b1e58d0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3521,6 +3599,18 @@
       "id": "40be222bae5bf37fceb5046d"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Save and show past game icons",
+      "url": "https://devforum.roblox.com/t/save-and-show-past-game-icons/4985405",
+      "published": "2026-11-10",
+      "excerpt": "It would be helpful to show a history of past game icons when changing a game icon. This is a common feature for profile icons on most platforms. It would be especially useful for games where you run seasonal content and swap between the same few icons from time to time. Currently it only shows the ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/save-and-show-past-game-icons/4985405.rss",
+      "id": "3dfbd802db6c97822f7877ce"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3569,6 +3659,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "False User Terminations With 0 Proof",
+      "url": "https://devforum.roblox.com/t/false-user-terminations-with-0-proof/4985414",
+      "published": "2026-11-10",
+      "excerpt": "A User by the display name Aero ( @Aeroasteri ) was falsely banned without any proof whatsoever apparently for child endangerment. He says he hasn’t done anything to put children in danger and the system cannot provide proof for it either Expected behavior This problem needs to be fixed whether it’s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/false-user-terminations-with-0-proof/4985414.rss",
+      "id": "1e603d558e4ca3294ec1018c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Violations & Appeals Page broken",
       "url": "https://devforum.roblox.com/t/violations-appeals-page-broken/4985370",
       "published": "2026-11-10",
@@ -3599,6 +3701,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/voxel-ik-systems-test-flame/4985383.rss",
       "id": "0ee89491405b9470bdcc1746"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Salut j'ai besoin de quelque conseils",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsidvf/salut_jai_besoin_de_quelque_conseils/",
+      "published": "2026-11-10",
+      "excerpt": "Salut j'aurais besoin de conseil pour gérer au mieux mes token de l'IA Roblox afin d'en utiliser le moins possible. submitted by /u/Key-Signature-7019 [link] [comments]",
+      "creator": "/u/Key-Signature-7019 https://www.reddit.com/user/Key-Signature-7019",
+      "id": "0dc7024d3fb6a7ccc7c1ef23"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10117,109 +10230,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/smartyrbx-cant-make-his-own-game-public/4976285.rss",
       "id": "73e98c874fe94cb946da4c07"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "Terminal fans know the feeling",
-      "url": "https://www.youtube.com/shorts/AthjgJel5aE",
-      "published": "2026-11-05",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "72b45509c2656e2dc0f327e2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio MCP execute_luau now runs without the Network capability: can't parent scripts or require modules",
-      "url": "https://devforum.roblox.com/t/studio-mcp-executeluau-now-runs-without-the-network-capability-cant-parent-scripts-or-require-modules/4976763",
-      "published": "2026-11-05",
-      "excerpt": "Since I updated Studio today (0.746), code run through the built-in Studio Assistant’s MCP execute_luau tool runs on a thread without the Network capability. Every script instance in the place has the default (full) capability set, so the thread can no longer parent a script, require an existing Mod",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-mcp-executeluau-now-runs-without-the-network-capability-cant-parent-scripts-or-require-modules/4976763.rss",
-      "id": "6c77a94b90a01a4363c33da8"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for people to roast my tutorial",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xou06v/looking_for_people_to_roast_my_tutorial/",
-      "published": "2026-11-05",
-      "excerpt": "https://www.roblox.com/share?code=6c83e422bbafe54fb198ffeb42605563&type=ExperienceDetails&stamp=1793912053703 Hey, I’m looking for people to test and give suggestions about my tutorial. I’m struggling with people getting into the game people who get past the tutorial typically end up accumulating ho",
-      "creator": "/u/Commercial_Bet8331 https://www.reddit.com/user/Commercial_Bet8331",
-      "id": "6b5442cef037c9ae3db1a350"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Copying and pasting is not used or sinked by properties",
-      "url": "https://devforum.roblox.com/t/copying-and-pasting-is-not-used-or-sinked-by-properties/4977642",
-      "published": "2026-11-05",
-      "excerpt": "In this video, I select the SpawnLocation, then the text input for its Size property, and press Cmd + C and Cmd + V multiple times. I keep getting switched between channels for whatever reason and this doesn’t appear to happen, as far as I believe, on the production channel. System Version 0.746.0.7",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/copying-and-pasting-is-not-used-or-sinked-by-properties/4977642.rss",
-      "id": "6a2d1a6d2310eae716d2237d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Sudden seemingly permanent drop in CCU",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xouhi9/sudden_seemingly_permanent_drop_in_ccu/",
-      "published": "2026-11-05",
-      "excerpt": "Was averaging about 13 ccu after 4 days of advertising. But today i’ve dropped to about 3. Not sure why, can anyone help? submitted by /u/Zestyclose_Ad5827 [link] [comments]",
-      "creator": "/u/Zestyclose_Ad5827 https://www.reddit.com/user/Zestyclose_Ad5827",
-      "id": "6a2891ab055a932804c4c31e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "We’re looking for an experienced map builder",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoxx74/were_looking_for_an_experienced_map_builder/",
-      "published": "2026-11-05",
-      "excerpt": "As the above text says, we’re approaching the end of development and we have been looking everywhere for a map builder but haven’t been able to find one. submitted by /u/CaregiverStock3746 [link] [comments]",
-      "creator": "/u/CaregiverStock3746 https://www.reddit.com/user/CaregiverStock3746",
-      "id": "673d4caac02619a59852de87"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "sword art online inspired game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo4r4l/sword_art_online_inspired_game/",
-      "published": "2026-11-05",
-      "excerpt": "there is a really famous sao inspired roblox game called swordburst 2, there are some other ones but they aren't that well done compared to that game. i am an experienced roblox developer who really loves sao, and i really want to make a fan inspired game that includes alfheim and ggo arcs eventuall",
-      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
-      "id": "5f4c004e28c63795c3c6b4ae"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "HingeConstraints bugging out",
-      "url": "https://devforum.roblox.com/t/hingeconstraints-bugging-out/4976029",
-      "published": "2026-11-05",
-      "excerpt": "I have a set of flippers in a project of mine for a “pinball machine” in which the right flipper wants to do its own thing and spaz out whenever a player tries to use it. The left flipper works just fine despite both having damn near the same configuration but whenever I manually change them while o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hingeconstraints-bugging-out/4976029.rss",
-      "id": "5e184bb471a114c2f9486cdf"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My Badges still not Awarding after players with massive Badge Count get's fixed",
-      "url": "https://devforum.roblox.com/t/my-badges-still-not-awarding-after-players-with-massive-badge-count-gets-fixed/4976971",
-      "published": "2026-11-05",
-      "excerpt": "As i am typing this right now, i am starting to feel much tired that the bug has not been away for nearly 7 months. I found out that Blockminer, Xwar1, and Unceading was able to successfully fix the issue while i stayed trapped inside the box. This is my 3rd (and possibly my final) post regarding to",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-badges-still-not-awarding-after-players-with-massive-badge-count-gets-fixed/4976971.rss",
-      "id": "5e0d7e2d5e6f99bbaa9800a3"
     }
   ]
 }

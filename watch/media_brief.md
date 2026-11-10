@@ -5,32 +5,32 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
+## Roblox Creator / Steal An Egg
 
-- **[How To Connect Claude AI To Roblox Studio On Windows PC - MCP Setup Guide - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnUnhHOER0UGRJaTJnNWlaUHFGaktXWkRoLTlISzVSTFZBczA4SjZNQkQ2a1Vrd1c5dVF6SnNKMzBfMzZGYk1mSnJhRnVGeF9sS25QV2Jn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-15
-  - Feed excerpt: How To Connect Claude AI To Roblox Studio On Windows PC - MCP Setup Guide YouTube
-- **[3 Levels of Prompting Claude in Roblox Studio - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ZGVNQl9OZVMwOFRlZVl2Vl9wOHBtUGpxVnlVbkxXcUFlZE9uXzZVbUVUYW16OXduUkZhU2MyeE1HV1Y2dG1QZ3JNNmlpNG9aVmd1ZlN3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-29
-  - Feed excerpt: 3 Levels of Prompting Claude in Roblox Studio YouTube
-- **[I Let Opus 5.5 Build an Entire Roblox City By Itself - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aVTVZN1Btcnl2YXB3NGdPTnE2TFMwd2dlbWlJaHlUQkhTQnUxbkIzQXJkaEp4cTZ3U0xqeUFkb1c4NU04aHBRZlprSC1WbmpRUWlmUGhR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-17
-  - Feed excerpt: I Let Opus 5.5 Build an Entire Roblox City By Itself YouTube
+- **[Can You Return Eggs To Bosses in Steal an Egg #roblox #robloxshorts #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtYmNmUURXNlZMSjJ4TVZ5Q3Vhc0x0d2EwVGFvQlQ1ekgyVHc0UmxUVVBYazlYX3JSbm1Lak5UdkZnaXFPT1N3bFpKS29rc0N5SlRObXl3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-10
+  - Feed excerpt: Can You Return Eggs To Bosses in Steal an Egg #roblox #robloxshorts #stealanegg Instagram
 
 ## Community
 
-- **[are roblox ad players real/need general advice](https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: i just released a game 4 days ago (my first game ever) and started running play ads the same day at 16$/day with a ctr of 2.5% i have 3 ccu im kind of just wondering if some of the players are actual people. the players im referring to are 
+- **[Looking for a Roblox Environment Builder (RevShare)! 🏗️](https://www.reddit.com/r/robloxgamedev/comments/1xshiru/looking_for_a_roblox_environment_builder_revshare/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: We are looking for a creative and reliable Environment Builder to join our development team and help bring our upcoming Roblox game to life. Requirements: Strong experience in Roblox Studio (lighting, terrain, and prop placement). Ability t
+- **[Is this decent? What should I be going for?](https://www.reddit.com/r/robloxgamedev/comments/1xsh0d4/is_this_decent_what_should_i_be_going_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Posted this ad a couple hours ago, seems to be doing way better then my normal ones submitted by /u/No_Bug_2183 \[link\] \[comments\]
+- **[Salut j'ai besoin de quelque conseils](https://www.reddit.com/r/robloxgamedev/comments/1xsidvf/salut_jai_besoin_de_quelque_conseils/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Salut j'aurais besoin de conseil pour gérer au mieux mes token de l'IA Roblox afin d'en utiliser le moins possible. submitted by /u/Key-Signature-7019 \[link\] \[comments\]
+- **[\[REVSHARE\] Hatch N Match — Looking for 3D Artists, UI Designers, Gameplay Designers & a Marketing Partner](https://www.reddit.com/r/robloxgamedev/comments/1xsiw9n/revshare_hatch_n_match_looking_for_3d_artists_ui/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Hey Everyone! I'm the solo developer of Hatch N Match , a Roblox dinosaur hatching, collecting, battling, and exploration game. I've been working on it for quite some time, and most of the core systems are already implemented. I'm now looki
 
 ## Roblox Updates
 
-- **[Formatted code no longer has color](https://devforum.roblox.com/t/formatted-code-no-longer-has-color/4985395)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Previously, code blocks would show syntax color. Since the devforum update, they no longer show color at all. Ex: https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876 local AnalyticsService = game:
-- **[My game got unbanned but](https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: I am still banned, roblox said the consequences got removed/adjusted. But it locked my group and kept me banned while my game is editable via my developers. (screenshot of my developer friend playing my game in test mode while im banned sti
-- **[Violations & Appeals Page broken](https://devforum.roblox.com/t/violations-appeals-page-broken/4985370)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Hi, One of our developers hasn’t been able to use their Violations & Appeals page for a while (over 3 months). It keeps on saying “Unexpected error occured, try again later”. We sent a ticket regarding the issue, but got nothing back. Waiti
-- **[Voxel System test - Flame](https://devforum.roblox.com/t/voxel-system-test-flame/4985384)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Roblox won’t allow me to just paste the link Voxel Flame test 1 post - 1 participant Read full topic
-- **[Voxel-IK Systems test - Flame](https://devforum.roblox.com/t/voxel-ik-systems-test-flame/4985383)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
+- **[Roblox isn't recommending game to high-revenue countries](https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: We released our game Fight to Loot around 3 weeks ago and have kept up good analytics on stats like playtime, playthrough rate, retention etc. However, our revenue stats are horrible and we came to the conclusion that it was due to our game
+- **[False User Terminations With 0 Proof](https://devforum.roblox.com/t/false-user-terminations-with-0-proof/4985414)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: A User by the display name Aero ( @Aeroasteri ) was falsely banned without any proof whatsoever apparently for child endangerment. He says he hasn’t done anything to put children in danger and the system cannot provide proof for it either E
+- **[Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data](https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: The Roblox mobile app ignores the query parameters of an experience page link, launchData and placeIdOverride . Ads Manager generates exactly this kind of link as a campaign’s Launch URL: https://www.roblox.com/games/ ?launchData= &placeIdO
+- **[Save and show past game icons](https://devforum.roblox.com/t/save-and-show-past-game-icons/4985405)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: It would be helpful to show a history of past game icons when changing a game icon. This is a common feature for profile icons on most platforms. It would be especially useful for games where you run seasonal content and swap between the sa
 
 ---
 
