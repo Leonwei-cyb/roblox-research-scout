@@ -7,7 +7,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/)** — Public text/page, video not confirmed
-- **[Studio, DeviceSimulatorToolbar - Can't turn "Device Simulator" off during a playtest. It is greyed out](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509)** — Public text/page, video not confirmed
+- **[\[CRF-7826 acceptance test\] DevForum ESR upgrade wizard 20261109 E7](https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341)** — Public text/page, video not confirmed
 - **[Test Graphics and Memory on Lower-End Devices With the Performance Simulator](https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313)** — Public text/page, video not confirmed
 
 ## UI / menus / effects

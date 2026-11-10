@@ -3293,7 +3293,13 @@
     "5607a1878e1fc064b32f023f",
     "27e0dbe869af7d297960f665",
     "33b8d348ab42d8dfedef1b32",
-    "f09fdf3c45a629ab69046b03"
+    "f09fdf3c45a629ab69046b03",
+    "51321c235be41b4f3ac79aba",
+    "779454b54a85647f612bdf0a",
+    "30ab60643f3aa11d87e33b74",
+    "f89767aaca4a757f86e7df11",
+    "edb0b7a09dd71078ea92035a",
+    "40be222bae5bf37fceb5046d"
   ],
   "items": [
     {
@@ -3309,6 +3315,18 @@
       "id": "f8f29bdff7262ecc60b07939"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[CRF-7826 acceptance test] DevForum ESR upgrade wizard 20261109 E7",
+      "url": "https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341",
+      "published": "2026-11-10",
+      "excerpt": "Operational acceptance test for the approved DevForum ESR 2026.7.4 upgrade (CRF-7826). This is synthetic test content, not a reported product defect. Reproduction: open Report Bug, select Developer Forum, complete this tagged acceptance form, and submit once. Verify that the forum topic and its Crea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341.rss",
+      "id": "f89767aaca4a757f86e7df11"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3318,6 +3336,18 @@
       "excerpt": "if anyone down to help me and my friend any profit on the game will be split i do work so i will be away part of the day until night time but on the weekend im up late so let me know whos down. My discords monkey.d.luffy0859 submitted by /u/Reasonable_Tooth3513 [link] [comments]",
       "creator": "/u/Reasonable_Tooth3513 https://www.reddit.com/user/Reasonable_Tooth3513",
       "id": "f09fdf3c45a629ab69046b03"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Typo in TextGenerator API Docs",
+      "url": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340",
+      "published": "2026-11-10",
+      "excerpt": "I see “paramaters” but it should be “parameters”. Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/TextGenerator 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340.rss",
+      "id": "edb0b7a09dd71078ea92035a"
     },
     {
       "source": "reddit-robloxdev",
@@ -3380,6 +3410,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Typo in WebStreamClient API Docs",
+      "url": "https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356",
+      "published": "2026-11-10",
+      "excerpt": "Expecting succesfully to be successfully Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/WebStreamClient 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356.rss",
+      "id": "779454b54a85647f612bdf0a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Sudden surge of HTTP 429 rate limits on apis.roblox.com/toolbox-service",
       "url": "https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941",
       "published": "2026-11-10",
@@ -3398,6 +3440,29 @@
       "excerpt": "Hola, estoy terminando un juego de Roblox y me gustaría hablar con gente que ya haya pasado por el lanzamiento de uno. ¿Qué les hubiera gustado saber antes de publicarlo? Me da un poco de miedo lanzarlo y que no entre nadie, y tampoco sé si vale la pena pagar publicidad desde el principio o cómo con",
       "creator": "/u/Alexander_ctz https://www.reddit.com/user/Alexander_ctz",
       "id": "5607a1878e1fc064b32f023f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My avatar thumbnail isn't loading on my DevForum account summary page",
+      "url": "https://devforum.roblox.com/t/my-avatar-thumbnail-isnt-loading-on-my-devforum-account-summary-page/4985362",
+      "published": "2026-11-10",
+      "excerpt": "My avatar thumbnail isn’t loading Page URL: https://devforum.roblox.com/u/welovelearning/summary 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-avatar-thumbnail-isnt-loading-on-my-devforum-account-summary-page/4985362.rss",
+      "id": "51321c235be41b4f3ac79aba"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What do you guys think about my thumbnail?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xse9gp/what_do_you_guys_think_about_my_thumbnail/",
+      "published": "2026-11-10",
+      "excerpt": "New thumbnail for my game OVERDUE , based off the game mode, Mayhem . Any feedback much appreciated! submitted by /u/slimebrowser [link] [comments]",
+      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
+      "id": "40be222bae5bf37fceb5046d"
     },
     {
       "source": "reddit-robloxdev",
@@ -3420,6 +3485,18 @@
       "excerpt": "I made a customizable Surron ultra bee on roblox studio because i couldn’t afford a real one lol submitted by /u/ScarySigma155 [link] [comments]",
       "creator": "/u/ScarySigma155 https://www.reddit.com/user/ScarySigma155",
       "id": "33b8d348ab42d8dfedef1b32"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "LUI - Code in the same language you make games with, but for apps!",
+      "url": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352",
+      "published": "2026-11-10",
+      "excerpt": "Hey guys, For a while now, I’ve been working on something called LUI (Luau UI) , a standalone SDK that lets you build desktop applications using Luau , the same language you already use to make games on Roblox. The idea started with a pretty simple question: Why should knowing Luau only be useful wh",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352.rss",
+      "id": "30ab60643f3aa11d87e33b74"
     },
     {
       "source": "reddit-robloxdev",
@@ -10131,76 +10208,6 @@
       "excerpt": "just want you to join better if you enjoy the game let me know and i can tweak it and thx agian the name is blockhead [alpha] submitted by /u/NewbieDev666 [link] [comments]",
       "creator": "/u/NewbieDev666 https://www.reddit.com/user/NewbieDev666",
       "id": "4698712c1e42aac977582307"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "6 Girls VS 6 Boys stuck at 16+ after published fixes — audience reach and growth restricted",
-      "url": "https://devforum.roblox.com/t/6-girls-vs-6-boys-stuck-at-16-after-published-fixes-%E2%80%94-audience-reach-and-growth-restricted/4977254",
-      "published": "2026-11-05",
-      "excerpt": "6 Girls VS 6 Boys is still restricted to 16+ after we published changes addressing the content we suspected was responsible. Every audience requirement shows Complete, but the experience remains in “Final review in progress.” We need an urgent review because this is limiting the audience our live ga",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/6-girls-vs-6-boys-stuck-at-16-after-published-fixes-%E2%80%94-audience-reach-and-growth-restricted/4977254.rss",
-      "id": "464eb8ed5db9222704450c92"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Roblox Developers NEED to See This | Claude + ForgeGUI MCP - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rQnJ3M3BvUXpSVXowNURIS2lSSU5HdzQ1MnZKQmpkVGs4NHprcDJBa2VFeTM1N3RpdkxCU0ZDaVBKVmNET3hFVm84Q1FFbk16Q2YzNG93?oc=5",
-      "published": "2026-11-05",
-      "excerpt": "Roblox Developers NEED to See This | Claude + ForgeGUI MCP YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "43bdad59ab2434b3c46687df"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "need feedback for slop game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xowd5r/need_feedback_for_slop_game/",
-      "published": "2026-11-05",
-      "excerpt": "my first time. i've been working on it for over 4 days, constantly taking feedback from my friends, and trying to make it as enjoyable as possible. my friends really like it and are coming back everyday! i do have some ads running but not that many. i have concerns getting new players, from what ive",
-      "creator": "/u/slashdaisy https://www.reddit.com/user/slashdaisy",
-      "id": "41c49058f9b54de1fb560a3f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to Make any games public since getting wrongfully terminated",
-      "url": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982",
-      "published": "2026-11-05",
-      "excerpt": "I have been unable to make games public ever since I got wrongfully terminated about a week ago. I have been trying everything. My eligibility on the creator My account should be able to make these games public. Below is what happens if I try to make any of my games public I am extremely disappointe",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982.rss",
-      "id": "3f6b789b371810305468f992"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Hyper-realistic roblox shopping mall",
-      "url": "https://devforum.roblox.com/t/hyper-realistic-roblox-shopping-mall/4976449",
-      "published": "2026-11-05",
-      "excerpt": "Figured id showcase something pretty crazy i am working on at the moment. OK Mall OK Mall is a fictional shopping centre located in British Columbia BC, Fictionally built in the early 1960s alongside the existing Eatons Department Store opened in 1946, The mall features a Former Eatons (Now Sears) d",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hyper-realistic-roblox-shopping-mall/4976449.rss",
-      "id": "3c94e13ebd23226bd1f7eb81"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Promo video for store - too much happening?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogkrx/promo_video_for_store_too_much_happening/",
-      "published": "2026-11-05",
-      "excerpt": "Hi all, normally do slower paced videos, showing the world etc but trying something different so its a bit more action focused, lots of different songs (i had tried 1 song only, no game sound but Roblox rejected it) so game audio it is... but is it too much? Welcome to opinions :) submitted by /u/pe",
-      "creator": "/u/peoplewhoseepeople https://www.reddit.com/user/peoplewhoseepeople",
-      "id": "3bfd14b5a1b817f62c264e9b"
     }
   ]
 }

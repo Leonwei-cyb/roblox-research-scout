@@ -2330,6 +2330,47 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985341:1",
+      "url": "https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341",
+      "title": "[CRF-7826 acceptance test] DevForum ESR upgrade wizard 20261109 E7",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985352:1",
+      "url": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352",
+      "title": "LUI - Code in the same language you make games with, but for apps!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "UI and menus",
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985362:1",
+      "url": "https://devforum.roblox.com/t/my-avatar-thumbnail-isnt-loading-on-my-devforum-account-summary-page/4985362",
+      "title": "My avatar thumbnail isn't loading on my DevForum account summary page",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xobt58",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xobt58/i_manually_uploaded_each_of_these_for_an/",
       "title": "i manually uploaded each of these for an animation, so i wanted to share it with other people to maybe use, so here's every Morshu Frame in order each as a Roblox Image ID",
@@ -2418,19 +2459,6 @@
       "kind": "reddit",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xowd5r",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xowd5r/need_feedback_for_slop_game/",
-      "title": "need feedback for slop game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3085,6 +3113,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xse9gp",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xse9gp/what_do_you_guys_think_about_my_thumbnail/",
+      "title": "What do you guys think about my thumbnail?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4976044:1",
       "url": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044",
       "title": "Unable to move the testing game to public",
@@ -3680,19 +3721,6 @@
       "kind": "devforum",
       "signals": [
         "UI and menus"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977254:1",
-      "url": "https://devforum.roblox.com/t/6-girls-vs-6-boys-stuck-at-16-after-published-fixes-%E2%80%94-audience-reach-and-growth-restricted/4977254",
-      "title": "6 Girls VS 6 Boys stuck at 16+ after published fixes — audience reach and growth restricted",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4421,19 +4449,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xogkrx",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogkrx/promo_video_for_store_too_much_happening/",
-      "title": "Promo video for store - too much happening?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5219,17 +5234,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4975982:1",
-      "url": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982",
-      "title": "Unable to Make any games public since getting wrongfully terminated",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4976072:1",
       "url": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072",
       "title": "Unable to set user experience to public?",
@@ -5255,17 +5259,6 @@
       "key": "devforum:4976348:1",
       "url": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348",
       "title": "Creator store payouts not landing into bank account",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976449:1",
-      "url": "https://devforum.roblox.com/t/hyper-realistic-roblox-shopping-mall/4976449",
-      "title": "Hyper-realistic roblox shopping mall",
       "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
@@ -6234,6 +6227,28 @@
       "key": "devforum:4984941:1",
       "url": "https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941",
       "title": "Sudden surge of HTTP 429 rate limits on apis.roblox.com/toolbox-service",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985340:1",
+      "url": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340",
+      "title": "Typo in TextGenerator API Docs",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985356:1",
+      "url": "https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356",
+      "title": "Typo in WebStreamClient API Docs",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
@@ -7408,17 +7423,6 @@
       "signals": [
         "tools and performance"
       ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1rQnJ3M3BvUXpSVXowNURIS2lSSU5HdzQ1MnZKQmpkVGs4NHprcDJBa2VFeTM1N3RpdkxCU0ZDaVBKVmNET3hFVm84Q1FFbk16Q2YzNG93",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rQnJ3M3BvUXpSVXowNURIS2lSSU5HdzQ1MnZKQmpkVGs4NHprcDJBa2VFeTM1N3RpdkxCU0ZDaVBKVmNET3hFVm84Q1FFbk16Q2YzNG93?oc=5",
-      "title": "Roblox Developers NEED to See This | Claude + ForgeGUI MCP - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-05",
-      "kind": "index-only",
-      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

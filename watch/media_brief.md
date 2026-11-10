@@ -7,12 +7,21 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Pov: you cant afford an ultra bee irl but then you realize that Roblox studio is limitless.](https://www.reddit.com/r/robloxgamedev/comments/1xscsjj/pov_you_cant_afford_an_ultra_bee_irl_but_then_you/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I made a customizable Surron ultra bee on roblox studio because i couldn’t afford a real one lol submitted by /u/ScarySigma155 \[link\] \[comments\]
-- **[Feedback on myhorror game!](https://www.reddit.com/r/robloxgamedev/comments/1xsd8kb/feedback_on_myhorror_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Hello all, I recently published a small horror game slightly inspired by Dead by Daylight. The game is round based, you load into a cornfield with a scarecrow monster. Your goal is to find all the orbs, or survive the timer. The scarecrow i
-- **[I want to create a baki fighting game but i need help to do](https://www.reddit.com/r/robloxgamedev/comments/1xscjic/i_want_to_create_a_baki_fighting_game_but_i_need/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: if anyone down to help me and my friend any profit on the game will be split i do work so i will be away part of the day until night time but on the weekend im up late so let me know whos down. My discords monkey.d.luffy0859 submitted by /u
+- **[What do you guys think about my thumbnail?](https://www.reddit.com/r/robloxgamedev/comments/1xse9gp/what_do_you_guys_think_about_my_thumbnail/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: New thumbnail for my game OVERDUE , based off the game mode, Mayhem . Any feedback much appreciated! submitted by /u/slimebrowser \[link\] \[comments\]
+
+## Roblox Updates
+
+- **[LUI - Code in the same language you make games with, but for apps!](https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Hey guys, For a while now, I’ve been working on something called LUI (Luau UI) , a standalone SDK that lets you build desktop applications using Luau , the same language you already use to make games on Roblox. The idea started with a prett
+- **[My avatar thumbnail isn't loading on my DevForum account summary page](https://devforum.roblox.com/t/my-avatar-thumbnail-isnt-loading-on-my-devforum-account-summary-page/4985362)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: My avatar thumbnail isn’t loading Page URL: https://devforum.roblox.com/u/welovelearning/summary 1 post - 1 participant Read full topic
+- **[Typo in TextGenerator API Docs](https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: I see “paramaters” but it should be “parameters”. Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/TextGenerator 2 posts - 2 participants Read full topic
+- **[Typo in WebStreamClient API Docs](https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Expecting succesfully to be successfully Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/WebStreamClient 1 post - 1 participant Read full topic
+- **[\[CRF-7826 acceptance test\] DevForum ESR upgrade wizard 20261109 E7](https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Operational acceptance test for the approved DevForum ESR 2026.7.4 upgrade (CRF-7826). This is synthetic test content, not a reported product defect. Reproduction: open Report Bug, select Developer Forum, complete this tagged acceptance for
 
 ---
 

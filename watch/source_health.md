@@ -1,14 +1,18 @@
 # Public research feed coverage
 
-Feeds read successfully: 11
-Feeds unavailable: 7
+Feeds read successfully: 15
+Feeds unavailable: 3
 Feeds deferred (temporary cooldown): 1
 
 Availability is not guaranteed for public Reddit, third-party indexed searches or YouTube feeds.
 
 ## Successful source reads (item counts)
 
+- roblox-devforum-latest: 12
+- roblox-devforum-updates: 12
 - reddit-robloxdev: 12
+- roblox-ui-showcase: 1
+- roblox-wip-2026: 4
 - roblox-news: 0
 - roblox-dev-scripts: 0
 - automation: 0
@@ -26,10 +30,6 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 ## Failures (not silently skipped)
 
-- roblox-devforum-latest: Redirect to disallowed hostname
-- roblox-devforum-updates: Redirect to disallowed hostname
-- roblox-ui-showcase: Redirect to disallowed hostname
-- roblox-wip-2026: Redirect to disallowed hostname
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: HTTP 404
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: HTTP 404
