@@ -3290,7 +3290,10 @@
     "9f1f10d3966bcbeecc7b7b1d",
     "3d603cea3f1c1748bd15a1ff",
     "ea06a27794e9e7ecba297c23",
-    "5607a1878e1fc064b32f023f"
+    "5607a1878e1fc064b32f023f",
+    "27e0dbe869af7d297960f665",
+    "33b8d348ab42d8dfedef1b32",
+    "f09fdf3c45a629ab69046b03"
   ],
   "items": [
     {
@@ -3304,6 +3307,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934.rss",
       "id": "f8f29bdff7262ecc60b07939"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I want to create a baki fighting game but i need help to do",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xscjic/i_want_to_create_a_baki_fighting_game_but_i_need/",
+      "published": "2026-11-10",
+      "excerpt": "if anyone down to help me and my friend any profit on the game will be split i do work so i will be away part of the day until night time but on the weekend im up late so let me know whos down. My discords monkey.d.luffy0859 submitted by /u/Reasonable_Tooth3513 [link] [comments]",
+      "creator": "/u/Reasonable_Tooth3513 https://www.reddit.com/user/Reasonable_Tooth3513",
+      "id": "f09fdf3c45a629ab69046b03"
     },
     {
       "source": "reddit-robloxdev",
@@ -3395,6 +3409,28 @@
       "excerpt": "I have a game idea I'm really excited about, but when I browse Roblox, a lot of the popular games feel shallow or built around quick, flashy hooks. It makes me wonder if a more thoughtful idea can find an audience there. For those of you who've built games on Roblox: What did \"worth it\" mean for you",
       "creator": "/u/Gloomy-Machine5215 https://www.reddit.com/user/Gloomy-Machine5215",
       "id": "3d603cea3f1c1748bd15a1ff"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Pov: you cant afford an ultra bee irl but then you realize that Roblox studio is limitless.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xscsjj/pov_you_cant_afford_an_ultra_bee_irl_but_then_you/",
+      "published": "2026-11-10",
+      "excerpt": "I made a customizable Surron ultra bee on roblox studio because i couldn’t afford a real one lol submitted by /u/ScarySigma155 [link] [comments]",
+      "creator": "/u/ScarySigma155 https://www.reddit.com/user/ScarySigma155",
+      "id": "33b8d348ab42d8dfedef1b32"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Feedback on myhorror game!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsd8kb/feedback_on_myhorror_game/",
+      "published": "2026-11-10",
+      "excerpt": "Hello all, I recently published a small horror game slightly inspired by Dead by Daylight. The game is round based, you load into a cornfield with a scarecrow monster. Your goal is to find all the orbs, or survive the timer. The scarecrow is entirely sound based, so everything you do makes noise INC",
+      "creator": "/u/HandBright2276 https://www.reddit.com/user/HandBright2276",
+      "id": "27e0dbe869af7d297960f665"
     },
     {
       "source": "reddit-robloxdev",
@@ -10165,42 +10201,6 @@
       "excerpt": "Hi all, normally do slower paced videos, showing the world etc but trying something different so its a bit more action focused, lots of different songs (i had tried 1 song only, no game sound but Roblox rejected it) so game audio it is... but is it too much? Welcome to opinions :) submitted by /u/pe",
       "creator": "/u/peoplewhoseepeople https://www.reddit.com/user/peoplewhoseepeople",
       "id": "3bfd14b5a1b817f62c264e9b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Show owner counts for Roblox-made items on their catalog pages",
-      "url": "https://devforum.roblox.com/t/show-owner-counts-for-roblox-made-items-on-their-catalog-pages/4976323",
-      "published": "2026-11-05",
-      "excerpt": "As a Roblox developer, it is currently too hard to tell how rare or widely owned a non-tradeable Roblox-made item is, because there is no official owner count for it. Limiteds have supply data, but off-sale and non-tradeable items don’t, so I can’t build accurate collection or inventory tools around",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/show-owner-counts-for-roblox-made-items-on-their-catalog-pages/4976323.rss",
-      "id": "3bcb681c6073cdfa1b3c3611"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Server Authority] Regression with mispredictions for shiftlock jitter fix",
-      "url": "https://devforum.roblox.com/t/server-authority-regression-with-mispredictions-for-shiftlock-jitter-fix/4976785",
-      "published": "2026-11-05",
-      "excerpt": "There’s a regression seemingly caused by a recent bug fix to do with solving shiftlock jitter. After enabling FFlagUserServerAuthorityDontSetAutoRotate , mispredictions start happening whenever shiftlock is active and you walk over any surface which isn’t flat. This most commonly happens when your f",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/server-authority-regression-with-mispredictions-for-shiftlock-jitter-fix/4976785.rss",
-      "id": "39bc98b2055f80369d4042d0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "~1K CCU game stuck at 16+ for a week — Crown or Pass review pending after published fixes",
-      "url": "https://devforum.roblox.com/t/1k-ccu-game-stuck-at-16-for-a-week-%E2%80%94-crown-or-pass-review-pending-after-published-fixes/4977249",
-      "published": "2026-11-05",
-      "excerpt": "Crown or Pass reached roughly 1,000 concurrent players before this restriction. It is still stuck at 16+ as of November 5, despite published fixes, all audience requirements showing Complete, and the owning group being verified. This is an urgent issue for a live game. The restriction limits our aud",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/1k-ccu-game-stuck-at-16-for-a-week-%E2%80%94-crown-or-pass-review-pending-after-published-fixes/4977249.rss",
-      "id": "38da97bab477824ded9b5d05"
     }
   ]
 }
