@@ -1234,6 +1234,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xsgp00",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/",
+      "title": "are roblox ad players real/need general advice",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4975979:1",
       "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
       "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
@@ -2379,19 +2393,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xogvlj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogvlj/feedbacks_and_suggestions_on_my_earth_model_for/",
-      "title": "Feedbacks and suggestions on my earth model (for my work in progress game)",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -4441,6 +4442,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985395:1",
+      "url": "https://devforum.roblox.com/t/formatted-code-no-longer-has-color/4985395",
+      "title": "Formatted code no longer has color",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xoa3kx",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoa3kx/any_new_developer_want_to_work_with_me/",
       "title": "Any new developer want to work with me?",
@@ -4488,19 +4502,6 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xomct8",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xomct8/recreated_rolves_murder_game_arsenal_murder/",
-      "title": "Recreated ROLVe's MURDER Game (Arsenal Murder)",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5326,17 +5327,6 @@
       "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
       "title": "[Full Release] Create and Sell Avatar Backgrounds on Marketplace",
       "source": "roblox-devforum-updates",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977157:1",
-      "url": "https://devforum.roblox.com/t/holding-period-for-new-limiteds/4977157",
-      "title": "Holding Period for New Limiteds",
-      "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
       "signals": [],
@@ -6257,6 +6247,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985366:1",
+      "url": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366",
+      "title": "My game got unbanned but",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985370:1",
+      "url": "https://devforum.roblox.com/t/violations-appeals-page-broken/4985370",
+      "title": "Violations & Appeals Page broken",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985383:1",
+      "url": "https://devforum.roblox.com/t/voxel-ik-systems-test-flame/4985383",
+      "title": "Voxel-IK Systems test - Flame",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985384:1",
+      "url": "https://devforum.roblox.com/t/voxel-system-test-flame/4985384",
+      "title": "Voxel System test - Flame",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xo4j3b",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo4j3b/question_about_investments/",
       "title": "Question about investments",
@@ -6272,17 +6306,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo4r4l/sword_art_online_inspired_game/",
       "title": "sword art online inspired game",
       "source": "reddit-robloxstudio",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xoefq2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoefq2/help_for_visits/",
-      "title": "help for visits",
-      "source": "reddit-robloxdev",
       "published": "2026-11-05",
       "kind": "reddit",
       "signals": [],
@@ -6315,17 +6338,6 @@
       "key": "reddit:1xoplzs",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoplzs/yo_guys_what_should_i_add_it_kinda_looks_empty_it/",
       "title": "yo guys what should I add. It kinda looks empty. It should be in a \"pinterest poster\" style",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xoqffi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqffi/looking_for_writers_to_help_me/",
-      "title": "Looking for writers to help me",
       "source": "reddit-robloxdev",
       "published": "2026-11-05",
       "kind": "reddit",
@@ -7475,19 +7487,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9NYUwwVThvRkcycVdha0NDcHIwRzc2UjQ1djlEczhkZDVrX1BHcjVJUFFDYWxHbXUyVVV1ZXp4c2xJVldKX3FzLWF0cUVpNkhoeGpRX29B",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NYUwwVThvRkcycVdha0NDcHIwRzc2UjQ1djlEczhkZDVrX1BHcjVJUFFDYWxHbXUyVVV1ZXp4c2xJVldKX3FzLWF0cUVpNkhoeGpRX29B?oc=5",
-      "title": "How To Build Your First AI Video Game with Claude - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-05",
-      "kind": "index-only",
-      "signals": [
-        "building and purchases"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

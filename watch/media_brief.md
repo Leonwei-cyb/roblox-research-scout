@@ -5,23 +5,32 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Ai Development
+
+- **[How To Connect Claude AI To Roblox Studio On Windows PC - MCP Setup Guide - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnUnhHOER0UGRJaTJnNWlaUHFGaktXWkRoLTlISzVSTFZBczA4SjZNQkQ2a1Vrd1c5dVF6SnNKMzBfMzZGYk1mSnJhRnVGeF9sS25QV2Jn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-15
+  - Feed excerpt: How To Connect Claude AI To Roblox Studio On Windows PC - MCP Setup Guide YouTube
+- **[3 Levels of Prompting Claude in Roblox Studio - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ZGVNQl9OZVMwOFRlZVl2Vl9wOHBtUGpxVnlVbkxXcUFlZE9uXzZVbUVUYW16OXduUkZhU2MyeE1HV1Y2dG1QZ3JNNmlpNG9aVmd1ZlN3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-29
+  - Feed excerpt: 3 Levels of Prompting Claude in Roblox Studio YouTube
+- **[I Let Opus 5.5 Build an Entire Roblox City By Itself - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aVTVZN1Btcnl2YXB3NGdPTnE2TFMwd2dlbWlJaHlUQkhTQnUxbkIzQXJkaEp4cTZ3U0xqeUFkb1c4NU04aHBRZlprSC1WbmpRUWlmUGhR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-17
+  - Feed excerpt: I Let Opus 5.5 Build an Entire Roblox City By Itself YouTube
+
 ## Community
 
-- **[What do you guys think about my thumbnail?](https://www.reddit.com/r/robloxgamedev/comments/1xse9gp/what_do_you_guys_think_about_my_thumbnail/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: New thumbnail for my game OVERDUE , based off the game mode, Mayhem . Any feedback much appreciated! submitted by /u/slimebrowser \[link\] \[comments\]
+- **[are roblox ad players real/need general advice](https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: i just released a game 4 days ago (my first game ever) and started running play ads the same day at 16$/day with a ctr of 2.5% i have 3 ccu im kind of just wondering if some of the players are actual people. the players im referring to are 
 
 ## Roblox Updates
 
-- **[LUI - Code in the same language you make games with, but for apps!](https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Hey guys, For a while now, I’ve been working on something called LUI (Luau UI) , a standalone SDK that lets you build desktop applications using Luau , the same language you already use to make games on Roblox. The idea started with a prett
-- **[My avatar thumbnail isn't loading on my DevForum account summary page](https://devforum.roblox.com/t/my-avatar-thumbnail-isnt-loading-on-my-devforum-account-summary-page/4985362)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: My avatar thumbnail isn’t loading Page URL: https://devforum.roblox.com/u/welovelearning/summary 1 post - 1 participant Read full topic
-- **[Typo in TextGenerator API Docs](https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: I see “paramaters” but it should be “parameters”. Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/TextGenerator 2 posts - 2 participants Read full topic
-- **[Typo in WebStreamClient API Docs](https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Expecting succesfully to be successfully Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/WebStreamClient 1 post - 1 participant Read full topic
-- **[\[CRF-7826 acceptance test\] DevForum ESR upgrade wizard 20261109 E7](https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Operational acceptance test for the approved DevForum ESR 2026.7.4 upgrade (CRF-7826). This is synthetic test content, not a reported product defect. Reproduction: open Report Bug, select Developer Forum, complete this tagged acceptance for
+- **[Formatted code no longer has color](https://devforum.roblox.com/t/formatted-code-no-longer-has-color/4985395)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Previously, code blocks would show syntax color. Since the devforum update, they no longer show color at all. Ex: https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876 local AnalyticsService = game:
+- **[My game got unbanned but](https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: I am still banned, roblox said the consequences got removed/adjusted. But it locked my group and kept me banned while my game is editable via my developers. (screenshot of my developer friend playing my game in test mode while im banned sti
+- **[Violations & Appeals Page broken](https://devforum.roblox.com/t/violations-appeals-page-broken/4985370)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Hi, One of our developers hasn’t been able to use their Violations & Appeals page for a while (over 3 months). It keeps on saying “Unexpected error occured, try again later”. We sent a ticket regarding the issue, but got nothing back. Waiti
+- **[Voxel System test - Flame](https://devforum.roblox.com/t/voxel-system-test-flame/4985384)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Roblox won’t allow me to just paste the link Voxel Flame test 1 post - 1 participant Read full topic
+- **[Voxel-IK Systems test - Flame](https://devforum.roblox.com/t/voxel-ik-systems-test-flame/4985383)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
 
 ---
 

@@ -3299,7 +3299,16 @@
     "30ab60643f3aa11d87e33b74",
     "f89767aaca4a757f86e7df11",
     "edb0b7a09dd71078ea92035a",
-    "40be222bae5bf37fceb5046d"
+    "40be222bae5bf37fceb5046d",
+    "5503a3d7a90d0a139fd52acb",
+    "61594f3c473c7d321a561c82",
+    "0ee89491405b9470bdcc1746",
+    "10614a49b51bbd1a352ab9f8",
+    "a0943a48fe989a7c0346ae29",
+    "75d36ff6b8a928bb9385e64c",
+    "4e6133481f7fe013aa4aa182",
+    "40f831a3176d5378c1bf0b90",
+    "5cf61a7cb777501b7a8ce4d3"
   ],
   "items": [
     {
@@ -3396,6 +3405,18 @@
       "id": "a9f46e67ed678f767e797b43"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My game got unbanned but",
+      "url": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366",
+      "published": "2026-11-10",
+      "excerpt": "I am still banned, roblox said the consequences got removed/adjusted. But it locked my group and kept me banned while my game is editable via my developers. (screenshot of my developer friend playing my game in test mode while im banned still) And I am still banned… Is this a system error or a bug o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366.rss",
+      "id": "a0943a48fe989a7c0346ae29"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3413,10 +3434,21 @@
       "title": "Typo in WebStreamClient API Docs",
       "url": "https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356",
       "published": "2026-11-10",
-      "excerpt": "Expecting succesfully to be successfully Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/WebStreamClient 1 post - 1 participant Read full topic",
+      "excerpt": "Expecting succesfully to be successfully Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/WebStreamClient 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356.rss",
       "id": "779454b54a85647f612bdf0a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "are roblox ad players real/need general advice",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/",
+      "published": "2026-11-10",
+      "excerpt": "i just released a game 4 days ago (my first game ever) and started running play ads the same day at 16$/day with a ctr of 2.5% i have 3 ccu im kind of just wondering if some of the players are actual people. the players im referring to are people that join and leave within 5 minutes and have default",
+      "creator": "/u/hazenn-ch https://www.reddit.com/user/hazenn-ch",
+      "id": "75d36ff6b8a928bb9385e64c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3431,6 +3463,18 @@
       "id": "74c20078545c2c836d2e0eff"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Voxel System test - Flame",
+      "url": "https://devforum.roblox.com/t/voxel-system-test-flame/4985384",
+      "published": "2026-11-10",
+      "excerpt": "Roblox won’t allow me to just paste the link Voxel Flame test 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/voxel-system-test-flame/4985384.rss",
+      "id": "61594f3c473c7d321a561c82"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3440,6 +3484,18 @@
       "excerpt": "Hola, estoy terminando un juego de Roblox y me gustaría hablar con gente que ya haya pasado por el lanzamiento de uno. ¿Qué les hubiera gustado saber antes de publicarlo? Me da un poco de miedo lanzarlo y que no entre nadie, y tampoco sé si vale la pena pagar publicidad desde el principio o cómo con",
       "creator": "/u/Alexander_ctz https://www.reddit.com/user/Alexander_ctz",
       "id": "5607a1878e1fc064b32f023f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Formatted code no longer has color",
+      "url": "https://devforum.roblox.com/t/formatted-code-no-longer-has-color/4985395",
+      "published": "2026-11-10",
+      "excerpt": "Previously, code blocks would show syntax color. Since the devforum update, they no longer show color at all. Ex: https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876 local AnalyticsService = game:GetService(\"AnalyticsService\") AnalyticsService:LogJourneyEv",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/formatted-code-no-longer-has-color/4985395.rss",
+      "id": "5503a3d7a90d0a139fd52acb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3493,7 +3549,7 @@
       "title": "LUI - Code in the same language you make games with, but for apps!",
       "url": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352",
       "published": "2026-11-10",
-      "excerpt": "Hey guys, For a while now, I’ve been working on something called LUI (Luau UI) , a standalone SDK that lets you build desktop applications using Luau , the same language you already use to make games on Roblox. The idea started with a pretty simple question: Why should knowing Luau only be useful wh",
+      "excerpt": "Update: Project API reference and “My First Project” is viewable at LUI documentation | LUI Hey guys, For a while now, I’ve been working on something called LUI (Luau UI) , a standalone SDK that lets you build desktop applications using Luau , the same language you already use to make games on Roblo",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352.rss",
       "id": "30ab60643f3aa11d87e33b74"
@@ -3510,6 +3566,18 @@
       "id": "27e0dbe869af7d297960f665"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Violations & Appeals Page broken",
+      "url": "https://devforum.roblox.com/t/violations-appeals-page-broken/4985370",
+      "published": "2026-11-10",
+      "excerpt": "Hi, One of our developers hasn’t been able to use their Violations & Appeals page for a while (over 3 months). It keeps on saying “Unexpected error occured, try again later”. We sent a ticket regarding the issue, but got nothing back. Waiting also doesn’t seem to resolve the issue. I’m writing this ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/violations-appeals-page-broken/4985370.rss",
+      "id": "10614a49b51bbd1a352ab9f8"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3519,6 +3587,18 @@
       "excerpt": "I've been working on a pet/smashing simulator as my first real project, and this week I added 4 secret areas. Screenshots of each one below. How it works: - Each secret is a small glowing rune tucked somewhere in a world (behind a giant mushroom, between crystal spires, etc.) - Touching the rune tel",
       "creator": "/u/Neither_Freedom_7785 https://www.reddit.com/user/Neither_Freedom_7785",
       "id": "103aa511e17668ab5400aac6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Voxel-IK Systems test - Flame",
+      "url": "https://devforum.roblox.com/t/voxel-ik-systems-test-flame/4985383",
+      "published": "2026-11-10",
+      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/voxel-ik-systems-test-flame/4985383.rss",
+      "id": "0ee89491405b9470bdcc1746"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10140,74 +10220,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-badges-still-not-awarding-after-players-with-massive-badge-count-gets-fixed/4976971.rss",
       "id": "5e0d7e2d5e6f99bbaa9800a3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Holding Period for New Limiteds",
-      "url": "https://devforum.roblox.com/t/holding-period-for-new-limiteds/4977157",
-      "published": "2026-11-05",
-      "excerpt": "During this Halloween event, we finally saw some sales of Limited U items with stock for the first time in over 7 years! We were extremely happy to see this happen, but we also noticed something that seems to be wrong… It appears that when the Limited U system was updated, the same system used for U",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/holding-period-for-new-limiteds/4977157.rss",
-      "id": "5cd90ac8cbea6fa5e89e945f"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for writers to help me",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqffi/looking_for_writers_to_help_me/",
-      "published": "2026-11-05",
-      "excerpt": "It's about how roblox myths attacks roblox I need a writer to help me make a game idea what it's about Revenue share but the game is new submitted by /u/Salt_Border_3825 [link] [comments]",
-      "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
-      "id": "51639d156c701172b55c11bb"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Recreated ROLVe's MURDER Game (Arsenal Murder)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xomct8/recreated_rolves_murder_game_arsenal_murder/",
-      "published": "2026-11-05",
-      "excerpt": "Had to bring this back because no other game hit the same after it closed last year. Managed to source the original UIs, maps, viewmodels, and audio to build a proper recreation. If you were there for the peak era, this one’s for you. submitted by /u/MoneyTeaching3794 [link] [comments]",
-      "creator": "/u/MoneyTeaching3794 https://www.reddit.com/user/MoneyTeaching3794",
-      "id": "4fb45ea56b3187070b3edc4b"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How To Build Your First AI Video Game with Claude - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NYUwwVThvRkcycVdha0NDcHIwRzc2UjQ1djlEczhkZDVrX1BHcjVJUFFDYWxHbXUyVVV1ZXp4c2xJVldKX3FzLWF0cUVpNkhoeGpRX29B?oc=5",
-      "published": "2026-11-05",
-      "excerpt": "How To Build Your First AI Video Game with Claude YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "4ee50596e7e185b32710ce64"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Feedbacks and suggestions on my earth model (for my work in progress game)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogvlj/feedbacks_and_suggestions_on_my_earth_model_for/",
-      "published": "2026-11-05",
-      "excerpt": "submitted by /u/Insane-thinker987864 [link] [comments]",
-      "creator": "/u/Insane-thinker987864 https://www.reddit.com/user/Insane-thinker987864",
-      "id": "483deeadb7ba0849ac0b74c8"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "help for visits",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoefq2/help_for_visits/",
-      "published": "2026-11-05",
-      "excerpt": "just want you to join better if you enjoy the game let me know and i can tweak it and thx agian the name is blockhead [alpha] submitted by /u/NewbieDev666 [link] [comments]",
-      "creator": "/u/NewbieDev666 https://www.reddit.com/user/NewbieDev666",
-      "id": "4698712c1e42aac977582307"
     }
   ]
 }
