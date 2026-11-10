@@ -3325,7 +3325,13 @@
     "3ffd100e5995501a481d2e5a",
     "c88306cf0c09086ec1ce18ce",
     "28fa8593c8a25c7d7cc743f7",
-    "d9c23167f225a099cbb257e2"
+    "d9c23167f225a099cbb257e2",
+    "7025ab82417e6335f8f2e7ab",
+    "a44e8d9cb8ff03a6d079a818",
+    "cd705ad5183439299687563a",
+    "32cf56e88deb324717599f12",
+    "8474424c4ac2f2f24d9a7fcf",
+    "e7721a71f24502c84486cc4e"
   ],
   "items": [
     {
@@ -3398,6 +3404,17 @@
       "id": "ea06a27794e9e7ecba297c23"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is my trailer good?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xslns0/is_my_trailer_good/",
+      "published": "2026-11-10",
+      "excerpt": "Generally what's more important for cpp, thumbnails or trailer? Any suggestions on what's bad or good about it? submitted by /u/pwaper [link] [comments]",
+      "creator": "/u/pwaper https://www.reddit.com/user/pwaper",
+      "id": "e7721a71f24502c84486cc4e"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3430,6 +3447,18 @@
       "excerpt": "i wanna know if possible to sell a game that i made. submitted by /u/emmans1213 [link] [comments]",
       "creator": "/u/emmans1213 https://www.reddit.com/user/emmans1213",
       "id": "d9c23167f225a099cbb257e2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Request for the Addition of Roblox Data-Centers in Central Asia Region",
+      "url": "https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525",
+      "published": "2026-11-10",
+      "excerpt": "Dear Roblox Engineers, Central Asia is a region with an audience of nearly 40 million people. Unfortunately, users here currently face significant latency (ping) issues when connecting to any of the company’s servers; ping consistently remains in the 180–300ms range. As a result, games in genres suc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525.rss",
+      "id": "cd705ad5183439299687563a"
     },
     {
       "source": "reddit-robloxdev",
@@ -3504,6 +3533,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "UICorner + UIStroke issue",
+      "url": "https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530",
+      "published": "2026-11-10",
+      "excerpt": "When a frame has both UICorner and UIStroke (BorderStroke → Inner) , these outlines appear at the corners of the frame, making it look unpleasant. I believe these thin outlines are part of the frame, since setting BorderStroke → Center/Outer makes them disappear. Expected behavior I’d expect these t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530.rss",
+      "id": "a44e8d9cb8ff03a6d079a818"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox isn't recommending game to high-revenue countries",
       "url": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415",
       "published": "2026-11-10",
@@ -3534,6 +3575,17 @@
       "excerpt": "submitted by /u/Lean_Orange95716 [link] [comments]",
       "creator": "/u/Lean_Orange95716 https://www.reddit.com/user/Lean_Orange95716",
       "id": "9f1f10d3966bcbeecc7b7b1d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How much does test players charge?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xslq8m/how_much_does_test_players_charge/",
+      "published": "2026-11-10",
+      "excerpt": "Genuinly interested in finding out about pricing for this service and what's included. submitted by /u/pwaper [link] [comments]",
+      "creator": "/u/pwaper https://www.reddit.com/user/pwaper",
+      "id": "8474424c4ac2f2f24d9a7fcf"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3580,6 +3632,18 @@
       "excerpt": "Hey Everyone! I'm the solo developer of Hatch N Match , a Roblox dinosaur hatching, collecting, battling, and exploration game. I've been working on it for quite some time, and most of the core systems are already implemented. I'm now looking for a small team of experienced developers and artists to",
       "creator": "/u/scissor_bedwars https://www.reddit.com/user/scissor_bedwars",
       "id": "740056558210390bd6537aa2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What Do You Think About This Horror Mechanics? - Might need a good realistic map for this one LOL",
+      "url": "https://devforum.roblox.com/t/what-do-you-think-about-this-horror-mechanics-might-need-a-good-realistic-map-for-this-one-lol/4985550",
+      "published": "2026-11-10",
+      "excerpt": "Just wanted to share a video of a horror project I’ve been scripting. Everything in it is made up of separate LocalScripts and server scripts that pass info to each other through player attributes. That way the flashlight, camera, closet and doors all know what the others are doing without being tan",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-do-you-think-about-this-horror-mechanics-might-need-a-good-realistic-map-for-this-one-lol/4985550.rss",
+      "id": "7025ab82417e6335f8f2e7ab"
     },
     {
       "source": "reddit-robloxdev",
@@ -3706,6 +3770,17 @@
       "excerpt": "I made a customizable Surron ultra bee on roblox studio because i couldn’t afford a real one lol submitted by /u/ScarySigma155 [link] [comments]",
       "creator": "/u/ScarySigma155 https://www.reddit.com/user/ScarySigma155",
       "id": "33b8d348ab42d8dfedef1b32"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Game idea, looking for my team!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsm7gm/game_idea_looking_for_my_team/",
+      "published": "2026-11-10",
+      "excerpt": "Hello! I have a game idea I've been very serious about for a while. The problem is, i dont know anything about coding, or much about game building at all. I do graphic design, and love to draw so i would be great at creating graphics and concepts, but I still need a team to bring these concepts to l",
+      "creator": "/u/2002fjordfocus https://www.reddit.com/user/2002fjordfocus",
+      "id": "32cf56e88deb324717599f12"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10167,75 +10242,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586.rss",
       "id": "904607cbf892bf8d39e66f63"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow games to detect if music (media) is playing on a Playstation Console",
-      "url": "https://devforum.roblox.com/t/allow-games-to-detect-if-music-media-is-playing-on-a-playstation-console/4977631",
-      "published": "2026-11-05",
-      "excerpt": "As a Roblox developer, it is currently too hard to detect whether the user is listening to music/media on their Playstation Console, and subsquently disable the game’s music. I have noticed that other Playstation games i’ve played outside of Roblox are able to detect whether the user is listening to",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-games-to-detect-if-music-media-is-playing-on-a-playstation-console/4977631.rss",
-      "id": "8a11988976f53fb52a925835"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Please help me decide",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xow6al/please_help_me_decide/",
-      "published": "2026-11-05",
-      "excerpt": "I've been working on a distance simulator type game and decided to experiment with two different styles for the visuals. I know the studded is viral on top games but I don't play a lot of those games myself so idk what to think. submitted by /u/Kindly-Print-7196 [link] [comments]",
-      "creator": "/u/Kindly-Print-7196 https://www.reddit.com/user/Kindly-Print-7196",
-      "id": "888c6eda5ed1fdd1f2c3170b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
-      "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
-      "published": "2026-11-05",
-      "excerpt": "Describe the issue: When connecting an MCP client (such as Cursor, VS Code, or Claude Desktop) to Roblox Studio via the generated %LOCALAPPDATA%\\Roblox\\mcp.bat launcher script, the batch script fails during startup if any referenced directory path contains spaces (for example, C:\\Users<username>\\Doc",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979.rss",
-      "id": "874faa6b445fe7fd870631da"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Same city, 3 years ago vs now",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoo86l/same_city_3_years_ago_vs_now/",
-      "published": "2026-11-05",
-      "excerpt": "i started this project in late 2022, this is 2023 vs now (not a game, i use roblox studio as a \"city building game\" since cs2 is too limited) submitted by /u/Scared-Analysis-857 [link] [comments]",
-      "creator": "/u/Scared-Analysis-857 https://www.reddit.com/user/Scared-Analysis-857",
-      "id": "87205b467707824a159210ce"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Game Exposure - What works, and what is just parroted nonsense?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xov3n3/game_exposure_what_works_and_what_is_just/",
-      "published": "2026-11-05",
-      "excerpt": "This is going to be a long post, and I'm naturally long winded. If you don't like to read, you should probably hit the back button. 😂..... or at least scroll down real fast until you start seeing pictures? Maybe that'll put you in the right spot. Just a tiny bit about me, and how I ended up here - j",
-      "creator": "/u/mHatfield5 https://www.reddit.com/user/mHatfield5",
-      "id": "869648c323de0f67ecf0189e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Connex - Event Connection Manager with Priorities",
-      "url": "https://devforum.roblox.com/t/connex-event-connection-manager-with-priorities/4977629",
-      "published": "2026-11-05",
-      "excerpt": "Hello everyone! I’m Teequis , and I’d like to introduce Connex , open-source event connection manager written in Luau. Connex extends Roblox’s native RBXScriptSignal connections with priorities, named listeners, asynchronous callbacks, automatic cleanup, and shared or independent wrappers , while ke",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/connex-event-connection-manager-with-priorities/4977629.rss",
-      "id": "82da915b18e388afbb1201a0"
     }
   ]
 }

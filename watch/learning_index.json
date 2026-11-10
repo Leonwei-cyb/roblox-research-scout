@@ -1307,19 +1307,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4975979:1",
-      "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
-      "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4976073:1",
       "url": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073",
       "title": "Studio DataStore calls return “Access forbidden” for a group-owned experience, even as group owner (personal places work)",
@@ -3134,6 +3121,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xslq8m",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xslq8m/how_much_does_test_players_charge/",
+      "title": "How much does test players charge?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4976044:1",
       "url": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044",
       "title": "Unable to move the testing game to public",
@@ -3302,6 +3302,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985550:1",
+      "url": "https://devforum.roblox.com/t/what-do-you-think-about-this-horror-mechanics-might-need-a-good-realistic-map-for-this-one-lol/4985550",
+      "title": "What Do You Think About This Horror Mechanics? - Might need a good realistic map for this one LOL",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xochen",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xochen/is_making_an_incremental_game_worth_it/",
       "title": "Is making an Incremental Game worth it?",
@@ -3311,20 +3325,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xoo86l",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoo86l/same_city_3_years_ago_vs_now/",
-      "title": "Same city, 3 years ago vs now",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3685,19 +3685,6 @@
       "key": "devforum:4977627:1",
       "url": "https://devforum.roblox.com/t/moving-mouse-causes-insane-frame-drops/4977627",
       "title": "Moving mouse causes insane frame drops",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977629:1",
-      "url": "https://devforum.roblox.com/t/connex-event-connection-manager-with-priorities/4977629",
-      "title": "Connex - Event Connection Manager with Priorities",
       "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
@@ -4475,19 +4462,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xow6al",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xow6al/please_help_me_decide/",
-      "title": "Please help me decide",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xp31mp",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp31mp/how_do_i_get_rid_of_these_lines/",
       "title": "how do i get rid of these lines?",
@@ -5216,6 +5190,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xsm7gm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsm7gm/game_idea_looking_for_my_team/",
+      "title": "Game idea, looking for my team!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4976072:1",
       "url": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072",
       "title": "Unable to set user experience to public?",
@@ -5297,17 +5284,6 @@
       "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
       "title": "[Full Release] Create and Sell Avatar Backgrounds on Marketplace",
       "source": "roblox-devforum-updates",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977631:1",
-      "url": "https://devforum.roblox.com/t/allow-games-to-detect-if-music-media-is-playing-on-a-playstation-console/4977631",
-      "title": "Allow games to detect if music (media) is playing on a Playstation Console",
-      "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
       "signals": [],
@@ -6283,6 +6259,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985525:1",
+      "url": "https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525",
+      "title": "Request for the Addition of Roblox Data-Centers in Central Asia Region",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985530:1",
+      "url": "https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530",
+      "title": "UICorner + UIStroke issue",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xof3do",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xof3do/just_a_quick_peek_into_a_game_where_you_have_to/",
       "title": "Just a quick peek into a game where you have to kill blocks and level up",
@@ -6320,17 +6318,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xotsfl/where_are_the_settings_and_stuff/",
       "title": "Where are the settings and stuff?",
       "source": "reddit-robloxstudio",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xov3n3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xov3n3/game_exposure_what_works_and_what_is_just/",
-      "title": "Game Exposure - What works, and what is just parroted nonsense?",
-      "source": "reddit-robloxdev",
       "published": "2026-11-05",
       "kind": "reddit",
       "signals": [],
@@ -7397,6 +7384,17 @@
       "key": "reddit:1xsk76l",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsk76l/any_game_or_creation_examples_that_look_like_this/",
       "title": "Any game or creation examples that look like this",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xslns0",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xslns0/is_my_trailer_good/",
+      "title": "Is my trailer good?",
       "source": "reddit-robloxdev",
       "published": "2026-11-10",
       "kind": "reddit",

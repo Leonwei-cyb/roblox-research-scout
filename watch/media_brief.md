@@ -7,21 +7,21 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Any game or creation examples that look like this](https://www.reddit.com/r/robloxgamedev/comments/1xsk76l/any_game_or_creation_examples_that_look_like_this/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I saw this on the roblox forum and absolutely love it, I wanted to see more games or just of this artstyle and how it'd feel in game and can not find anything like it. Is there any games or references that I can use to see if it actually pl
-- **[Day 5 Combat System](https://www.reddit.com/r/robloxgamedev/comments/1xsjwxh/day_5_combat_system/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I'm a newer dev I'm working on a few projects currently and right now I'm making my first ever combat system and I'm on day 5 of attempting to make it and I wanted to share my progress hopefully get some progress and feedback and become bet
-- **[Is it possible to sell a game in roblox?](https://www.reddit.com/r/robloxgamedev/comments/1xsjm3t/is_it_possible_to_sell_a_game_in_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: i wanna know if possible to sell a game that i made. submitted by /u/emmans1213 \[link\] \[comments\]
-- **[Me and a friend built a pet game where you shoot ONE arrow down a 1,900 stud lane. Here is the 8th world, Sky Kingdom](https://www.reddit.com/r/robloxgamedev/comments/1xskuco/me_and_a_friend_built_a_pet_game_where_you_shoot/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: We are two people working on Hunt For Pets. You stand on a deck, charge a bow, and the arrow flies down one long lane through 8 worlds until it hits a pet. Stronger shot = it reaches a further world. Things we learned building it, in case i
-- **[New Game Looking for testers - Feedback wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xskxg4/new_game_looking_for_testers_feedback_wanted/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Moin! Ich habe mein erstes Spiel erstellt, das meiner Meinung nach ziemlich clean geworden ist. Ich suche nach Leuten mit Erfahrung, die das Spiel mal unter die Lupe nehmen könnten. Ich plane, am Freitag richtig mit Werbung zu starten, und 
+- **[Game idea, looking for my team!](https://www.reddit.com/r/robloxgamedev/comments/1xsm7gm/game_idea_looking_for_my_team/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Hello! I have a game idea I've been very serious about for a while. The problem is, i dont know anything about coding, or much about game building at all. I do graphic design, and love to draw so i would be great at creating graphics and co
+- **[How much does test players charge?](https://www.reddit.com/r/robloxgamedev/comments/1xslq8m/how_much_does_test_players_charge/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Genuinly interested in finding out about pricing for this service and what's included. submitted by /u/pwaper \[link\] \[comments\]
+- **[Is my trailer good?](https://www.reddit.com/r/robloxgamedev/comments/1xslns0/is_my_trailer_good/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Generally what's more important for cpp, thumbnails or trailer? Any suggestions on what's bad or good about it? submitted by /u/pwaper \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Rate-limit rule affecting legitimate Superforest Open Cloud reads](https://devforum.roblox.com/t/rate-limit-rule-affecting-legitimate-superforest-open-cloud-reads/4985477)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Superforest stockbot: Open Cloud reads blocked by edge error 1015 9 November 2026 — all times UTC / London Please investigate a rate-limit rule affecting legitimate Superforest Open Cloud reads from our Cloudflare Worker. Universe: 88872601
+- **[Request for the Addition of Roblox Data-Centers in Central Asia Region](https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Dear Roblox Engineers, Central Asia is a region with an audience of nearly 40 million people. Unfortunately, users here currently face significant latency (ping) issues when connecting to any of the company’s servers; ping consistently rema
+- **[UICorner + UIStroke issue](https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: When a frame has both UICorner and UIStroke (BorderStroke → Inner) , these outlines appear at the corners of the frame, making it look unpleasant. I believe these thin outlines are part of the frame, since setting BorderStroke → Center/Oute
+- **[What Do You Think About This Horror Mechanics? - Might need a good realistic map for this one LOL](https://devforum.roblox.com/t/what-do-you-think-about-this-horror-mechanics-might-need-a-good-realistic-map-for-this-one-lol/4985550)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Just wanted to share a video of a horror project I’ve been scripting. Everything in it is made up of separate LocalScripts and server scripts that pass info to each other through player attributes. That way the flashlight, camera, closet an
 
 ---
 
