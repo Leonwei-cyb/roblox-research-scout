@@ -3288,7 +3288,9 @@
     "103aa511e17668ab5400aac6",
     "c21da04e7a1f57dc255b1b9d",
     "9f1f10d3966bcbeecc7b7b1d",
-    "3d603cea3f1c1748bd15a1ff"
+    "3d603cea3f1c1748bd15a1ff",
+    "ea06a27794e9e7ecba297c23",
+    "5607a1878e1fc064b32f023f"
   ],
   "items": [
     {
@@ -3302,6 +3304,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934.rss",
       "id": "f8f29bdff7262ecc60b07939"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Anyone want to volunteer to help me on a DBZ inspired \"parry\" based game?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsbvst/anyone_want_to_volunteer_to_help_me_on_a_dbz/",
+      "published": "2026-11-10",
+      "excerpt": "If so, I can take: Scripter (most needed) Animator (2nd most needed( Vfx artist Sfx artist submitted by /u/Every_Ad_8262 [link] [comments]",
+      "creator": "/u/Every_Ad_8262 https://www.reddit.com/user/Every_Ad_8262",
+      "id": "ea06a27794e9e7ecba297c23"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3360,6 +3373,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941.rss",
       "id": "74c20078545c2c836d2e0eff"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "¿Algún consejo de alguien que ya haya lanzado un juego?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsai0e/algún_consejo_de_alguien_que_ya_haya_lanzado_un/",
+      "published": "2026-11-10",
+      "excerpt": "Hola, estoy terminando un juego de Roblox y me gustaría hablar con gente que ya haya pasado por el lanzamiento de uno. ¿Qué les hubiera gustado saber antes de publicarlo? Me da un poco de miedo lanzarlo y que no entre nadie, y tampoco sé si vale la pena pagar publicidad desde el principio o cómo con",
+      "creator": "/u/Alexander_ctz https://www.reddit.com/user/Alexander_ctz",
+      "id": "5607a1878e1fc064b32f023f"
     },
     {
       "source": "reddit-robloxdev",
@@ -10177,30 +10201,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/1k-ccu-game-stuck-at-16-for-a-week-%E2%80%94-crown-or-pass-review-pending-after-published-fixes/4977249.rss",
       "id": "38da97bab477824ded9b5d05"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Release Notes for 746",
-      "url": "https://devforum.roblox.com/t/release-notes-for-746/4977079",
-      "published": "2026-11-05",
-      "excerpt": "Hey everyone, 746 is out! I took last week off and ate an irresponsible number of pastries and pineapple buns, so it feels good to be back to daily bowls of oatmeal and the familiar cadence of Studio releases. Introduced in version 746 | Documentation - Roblox Creator Hub Week of November 2, 2026 | ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/release-notes-for-746/4977079.rss",
-      "id": "36ef4f361b5c2da9cb98ea2f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Potential Bug: Clothing Remains on Sale Without Active Premium",
-      "url": "https://devforum.roblox.com/t/potential-bug-clothing-remains-on-sale-without-active-premium/4976311",
-      "published": "2026-11-05",
-      "excerpt": "I’ve noticed that some Roblox groups and creators appear to have clothing items available for purchase despite seemingly not having an active Roblox Premium subscription. For example, Alpine Ascents, owned by Mozaffs, has multiple clothing items listed for sale in its group store. I’m unsure whether",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/potential-bug-clothing-remains-on-sale-without-active-premium/4976311.rss",
-      "id": "32e67f812c0aab048592f5b7"
     }
   ]
 }

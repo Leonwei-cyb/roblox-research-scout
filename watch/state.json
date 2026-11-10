@@ -65,19 +65,19 @@
       "url": "https://github.com/Roblox/open-game-eval"
     },
     "Roblox/roblox-studio-agent-plugin": {
-      "head": "0ae5b1105f82748946d0b35ea168482e470647a7",
-      "head_subject": "Add instructions for handling windows sandbox (#1)",
+      "head": "57d72048b1d36da3621628dc280baa86e0c6b125",
+      "head_subject": "v0.2.3: Ask before running setup outside the sandbox; refresh docs (#2)",
       "name": "Roblox/roblox-studio-agent-plugin",
       "release_tag": "",
       "release_url": "",
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "e037be5b0d73edff583606435c9b539136ee76d5",
-      "head_subject": "chore: Update mods/",
+      "head": "6e1e44f6433bfa17d198e932bff53373aa229eea",
+      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.321",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
+      "release_tag": "v2.1.322",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
