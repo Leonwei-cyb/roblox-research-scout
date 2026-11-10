@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-10T04:59:43Z (local, partial)
+- Last run: 2026-11-10T07:45:24Z (schedule, partial)
 - Repos tracked: 454; adopt 0, needs-test 184, reject 270
 - Actionable backlog: 171
-- Feed health: deferred 4, ok 34
+- Feed health: deferred 6, ok 31
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​64c3406, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/962fbdcd8cde31382e32db6c3c588eed3c33c927)
   - Pin jmagly/aiwg@​962fbdc, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #2001 \[P2\] Restart can complete a workflow while verification and approval remain pending
-- Release: alamops/agetor v1.1.1 to v1.2.0
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2675 subagent-driven-development: a third exit for review findings — fold into the next task when it touc
-- Issue updated: obra/superpowers #2651 subagent-driven-development: task reviewer isn't told to flag a report with no RED evidence
-- Issue updated: obra/superpowers #2493 task-brief / dispatch: the plan's Global Constraints and Review Focus never reach the implementer, a
-- Issue updated: obra/superpowers #2673 subagent-driven-development: when the brief contains full code, check the transcription mechanically
-- Issue updated: obra/superpowers #2666 Hermes: allow manual skill use without automatic bootstrap injection
-- Release: earendil-works/pi v1.5.0 to v1.5.1
-- Issue updated: earendil-works/pi #11980 Message threads default keys on provider id, so any alias of anthropic is silently excluded
-- Issue updated: earendil-works/pi #11981 durable: code mode parks its VM while its nested calls are parked
-- Issue updated: earendil-works/pi #7547 \[Windows\] \[sink-thread\] How do you use Pi on windows? What issues are you seeing?
-- Issue updated: earendil-works/pi #11773 Upgrade Token Plan branding and gateway setup compatibly
-- Issue updated: ComposioHQ/awesome-claude-skills #2439 Contribution route for a tested documentation Skill
-- Issue updated: ComposioHQ/awesome-claude-skills #468 Add YouTube Skills for Claude Code \(TranscriptAPI\)
-- Issue updated: OpenHands/OpenHands #19598 \[Feature\]: Add conversation-scoped secrets and MCPs from the composer
-- Issue updated: OpenHands/OpenHands #19597 \[Feature\]: Print the Paper theme as aged newsprint
-- Issue updated: OpenHands/OpenHands #19596 \[Feature\]: Make the Paper theme read as newsprint, not Solarized
-- Issue updated: OpenHands/OpenHands #19594 \[Bug\]: Paper theme warning text and status dots are unreadable \(about 1.7:1\)
-- Issue updated: OpenHands/OpenHands #19562 \[Feature\]: Discover ACP models for a custom profile before a conversation starts
-- New candidate: modelcontextprotocol/servers (reject)
-- New candidate: anthropics/claude-code (reject)
-- Issue updated: openai/codex #29783 Show a detailed context usage breakdown when clicking context usage in Codex App
-- Issue updated: openai/codex #60503 TypeScript SDK: streamed executions buffer unbounded child stderr in host memory
-- Issue updated: openai/codex #58815 Windows desktop: conversation switching takes roughly 0.6–1.5 seconds at 4K, including short and ret
-- Issue updated: openai/codex #56600 Android Codex Remote pairing fails with both QR and manual code
-- Issue updated: openai/codex #49383 Windows Computer Use screenshot capture fails with FrameArrived timeout and E\_INVALIDARG
-- New candidate: creosB/AI-Side-Panel-Extension (reject)
-- New candidate: Robbings/chatgpt-graph-navigator (reject)
-- New candidate: keyonzeng/prompt\_ark (reject)
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
