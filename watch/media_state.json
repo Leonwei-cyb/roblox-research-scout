@@ -3317,7 +3317,9 @@
     "0dc7024d3fb6a7ccc7c1ef23",
     "e1ac1d726752187ce0ce8107",
     "b711cde85e6ce8163dd67e7b",
-    "6344b8cedbd81b846b1e58d0"
+    "6344b8cedbd81b846b1e58d0",
+    "6ed12992b82f6c04e3698277",
+    "f31d9645981b5a7c15705482"
   ],
   "items": [
     {
@@ -3343,6 +3345,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341.rss",
       "id": "f89767aaca4a757f86e7df11"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking to commission someone for my thumbnails. Anyone know where I can find someone ?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsiyrm/looking_to_commission_someone_for_my_thumbnails/",
+      "published": "2026-11-10",
+      "excerpt": "I have AI thumb nails and would like to spruce them up. submitted by /u/friedbeann [link] [comments]",
+      "creator": "/u/friedbeann https://www.reddit.com/user/friedbeann",
+      "id": "f31d9645981b5a7c15705482"
     },
     {
       "source": "reddit-robloxdev",
@@ -3527,6 +3540,17 @@
       "excerpt": "Hey Everyone! I'm the solo developer of Hatch N Match , a Roblox dinosaur hatching, collecting, battling, and exploration game. I've been working on it for quite some time, and most of the core systems are already implemented. I'm now looking for a small team of experienced developers and artists to",
       "creator": "/u/scissor_bedwars https://www.reddit.com/user/scissor_bedwars",
       "id": "740056558210390bd6537aa2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I finally finished building my own game! Looking for feedback, and wondering how to find the right partner to help launch it? 🚀",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsj4nt/i_finally_finished_building_my_own_game_looking/",
+      "published": "2026-11-10",
+      "excerpt": "Hey everyone! I’ve been working hard on making Ai working hard on a fully completed game, and I finally got it built and ready to play. Since I'm mostly focused on the core development side, I've been thinking a lot about the next steps—especially regarding marketing, community building, and finding",
+      "creator": "/u/Hamza-user https://www.reddit.com/user/Hamza-user",
+      "id": "6ed12992b82f6c04e3698277"
     },
     {
       "source": "brock-ig-reels",
@@ -10206,30 +10230,6 @@
       "excerpt": "I need an animator, vfx/sfx artist (preferable that you can do both) and builder/modelers (again preferable if you can do both. Im looking for new or inexperienced devs like myself. Mrkoth42 on discord or Markoth12345/mar_koth on roblox submitted by /u/Fuukaenjoyer000 [link] [comments]",
       "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
       "id": "75a1de1ed62f477590452530"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Test Teleports in Studio",
-      "url": "https://devforum.roblox.com/t/test-teleports-in-studio/4977640",
-      "published": "2026-11-05",
-      "excerpt": "Key Takeaways You can now test TeleportAsync in Studio’s “Test” and “Team Test” modes, with no publishing needed. Your Studio tools, like server inspection, the device simulator, and the debugger, carry over to the destination place. Assistant and agents over the Studio MCP server can also playtest ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/test-teleports-in-studio/4977640.rss",
-      "id": "74118124700d53d6fa02f987"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SmartyRBX Can't Make His OWN Game Public",
-      "url": "https://devforum.roblox.com/t/smartyrbx-cant-make-his-own-game-public/4976285",
-      "published": "2026-11-05",
-      "excerpt": "He clicked “Release publicly on Roblox > Continue”. It said “You do not have permission to do this.” Expected behavior It should let him publish his own game or at least tell him why it won’t work because it’s bad UX. Drive your Suzucki to work Page URL: https://create.roblox.com/dashboard/creations",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/smartyrbx-cant-make-his-own-game-public/4976285.rss",
-      "id": "73e98c874fe94cb946da4c07"
     }
   ]
 }
