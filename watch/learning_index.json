@@ -67,6 +67,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xst51i",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst51i/revshare_looking_for_roblox_thumbnail_branding/",
+      "title": "[REVSHARE] Looking for Roblox Thumbnail, Branding & SFX Artists — Hatch N Match",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 11,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xq0uy6",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq0uy6/looking_for_feedback_on_my_monstercontainment/",
       "title": "Looking for feedback on my monster-containment game (first 5 minutes / onboarding)",
@@ -423,20 +438,6 @@
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xoqtmz",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqtmz/help_ctr_and_retention_rate/",
-      "title": "Help CTR and Retention Rate",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
@@ -939,6 +940,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985835:1",
+      "url": "https://devforum.roblox.com/t/animation-makes-so-proximityprompt-wont-appear/4985835",
+      "title": "Animation makes so proximityprompt wont appear",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "world and visual design"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xooffh",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xooffh/roblox_football_but_you_control_all_11_players/",
       "title": "Roblox football, but you control all 11 players",
@@ -1288,6 +1303,34 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xst16y",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst16y/revshare_looking_for_experienced_roblox_luau/",
+      "title": "[REVSHARE] Looking for Experienced Roblox Luau Scripter / Gameplay Developer",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xst6yj",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xst6yj/revshare_looking_for_roblox_guiux_designer_for/",
+      "title": "[REVSHARE] Looking for Roblox GUI/UX Designer for Nearly Finished Game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "genres and successful loops"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2290,6 +2333,19 @@
       "key": "devforum:4985818:1",
       "url": "https://devforum.roblox.com/t/character-controller-library-server-never-frees-a-destroyed-characters-abilitymanageractor-state-06-mb-per-respawn/4985818",
       "title": "Character Controller Library: server never frees a destroyed character's AbilityManagerActor state (~0.6 MB per respawn)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985831:1",
+      "url": "https://devforum.roblox.com/t/studio-encountered-an-unrecoverable-error-and-must-shut-down/4985831",
+      "title": "Studio encountered an unrecoverable error and must shut down",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
@@ -3573,19 +3629,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4977627:1",
-      "url": "https://devforum.roblox.com/t/moving-mouse-causes-insane-frame-drops/4977627",
-      "title": "Moving mouse causes insane frame drops",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4977864:1",
       "url": "https://devforum.roblox.com/t/own-a-car-park-game-thoughts/4977864",
       "title": "\"Own A Car Park\" Game Thoughts?",
@@ -4340,6 +4383,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985852:1",
+      "url": "https://devforum.roblox.com/t/roblox-publishing-fee/4985852",
+      "title": "Roblox Publishing Fee",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xoa3kx",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoa3kx/any_new_developer_want_to_work_with_me/",
       "title": "Any new developer want to work with me?",
@@ -4361,32 +4417,6 @@
       "kind": "reddit",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xohxx2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xohxx2/paid_looking_for_roblox_game_testers/",
-      "title": "[PAID] Looking for Roblox Game Testers",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xol64j",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xol64j/please_someone_help_me/",
-      "title": "PLEASE, someone help me",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5188,17 +5218,6 @@
       "key": "devforum:4976348:1",
       "url": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348",
       "title": "Creator store payouts not landing into bank account",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976456:1",
-      "url": "https://devforum.roblox.com/t/listassetversions-example-is-completely-wrong/4976456",
-      "title": "listAssetVersions example is completely wrong",
       "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
@@ -6278,17 +6297,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0da/home_recommendations/",
       "title": "Home Recommendations",
       "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xotsfl",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xotsfl/where_are_the_settings_and_stuff/",
-      "title": "Where are the settings and stuff?",
-      "source": "reddit-robloxstudio",
       "published": "2026-11-05",
       "kind": "reddit",
       "signals": [],
