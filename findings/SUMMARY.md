@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-10T07:45:24Z (schedule, partial)
-- Repos tracked: 454; adopt 0, needs-test 184, reject 270
-- Actionable backlog: 171
-- Feed health: deferred 6, ok 31
+- Last run: 2026-11-10T14:21:55Z (local, ok)
+- Repos tracked: 454; adopt 0, needs-test 187, reject 267
+- Actionable backlog: 174
+- Feed health: ok 38
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,5 +35,38 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​64c3406, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/962fbdcd8cde31382e32db6c3c588eed3c33c927)
   - Pin jmagly/aiwg@​962fbdc, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
+
+## Changes this run
+
+- Issue updated: open-mercato/cezar #2057 Fix: node "$CEZ\_BIN" crashes when cezar runs from source — handoff, dispatch and automation commands
+- Issue updated: open-mercato/cezar #2053 Implement: "Mark as done" for idle-closed tasks
+- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
+- Release: earendil-works/pi v1.5.1 to v1.5.2
+- Issue updated: earendil-works/pi #11869 New 'StringEnum' in Pi 1.5.0 breaks compile-time typing
+- Issue updated: earendil-works/pi #10536 Cache warming stops immediately for sessions on a virtual model \('registerVirtualModel'\)
+- Issue updated: earendil-works/pi #10956 cacheWarming "idle" stops silently once an extension handles turn\_end and the context holds a custom
+- Issue updated: earendil-works/pi #7062 fix\(openai-completions\): handle array content and missing finish\_reason
+- Issue updated: earendil-works/pi #10237 Kimi K2.7 Code on OpenCode Go prints thinking as the reply
+- Issue updated: ComposioHQ/awesome-claude-skills #2374 Wiz - 'master' Branch Scan Overview
+- Issue updated: ComposioHQ/awesome-claude-skills #2440 Skill submission: ContentIn for LinkedIn \(Business & Marketing\)
+- Release: OpenHands/OpenHands v1.37.0 to v1.38.0
+- Issue updated: OpenHands/OpenHands #19573 \[Bug\]: Message sent to a running conversation is lost and comes back as a draft
+- Issue updated: OpenHands/OpenHands #19562 \[Feature\]: Discover ACP models for a custom profile before a conversation starts
+- Issue updated: OpenHands/OpenHands #15706 API key field displays longer than actual key after saving, making it hard to edit
+- Issue updated: OpenHands/OpenHands #19278 \[Bug\]: max-iterations auto-pause in useHandleWSEvents is unreachable dead code \(V0 error shape never
+- New candidate: modelcontextprotocol/servers (reject)
+- New candidate: anthropics/claude-code (reject)
+- Issue updated: openai/codex #60596 Mister
+- Issue updated: openai/codex #56772 Browser controls unavailable despite installed ChatGPT Chrome extension and allowed site access
+- Issue updated: openai/codex #60595 App-server: thread/search drops exact matches containing repeated spaces, tabs, or newlines
+- Issue updated: openai/codex #60594 HTTP 400 for repeated image inputs with zstd request compression; same inputs succeed uncompressed \(
+- Issue updated: openai/codex #60537 \[Linux desktop\] Dictation ducking permanently lowers playback gain when a stream disappears before d
+- New candidate: creosB/AI-Side-Panel-Extension (reject)
+- New candidate: Robbings/chatgpt-graph-navigator (reject)
+- New candidate: keyonzeng/prompt\_ark (reject)
+- Issue updated: ollama/ollama #19439 Windows RTX 5090 — Ollama runner disconnects during tool calling, HTTP 500 /tokenize
+- New candidate: e2b-dev/awesome-ai-agents (reject)
+- Release: midasmatterhorn/artcraft-skills v1.0.6 to v1.4.0
+- Issue updated: midasmatterhorn/artcraft-skills #3 Skill descriptions exceed 1024-character limit required by ZCode \(and some other agents\)
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
