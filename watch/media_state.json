@@ -3319,7 +3319,13 @@
     "b711cde85e6ce8163dd67e7b",
     "6344b8cedbd81b846b1e58d0",
     "6ed12992b82f6c04e3698277",
-    "f31d9645981b5a7c15705482"
+    "f31d9645981b5a7c15705482",
+    "c13cacbab1254ca9ba85572f",
+    "0cbc93d94721a248f7211cfd",
+    "3ffd100e5995501a481d2e5a",
+    "c88306cf0c09086ec1ce18ce",
+    "28fa8593c8a25c7d7cc743f7",
+    "d9c23167f225a099cbb257e2"
   ],
   "items": [
     {
@@ -3418,12 +3424,46 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Is it possible to sell a game in roblox?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsjm3t/is_it_possible_to_sell_a_game_in_roblox/",
+      "published": "2026-11-10",
+      "excerpt": "i wanna know if possible to sell a game that i made. submitted by /u/emmans1213 [link] [comments]",
+      "creator": "/u/emmans1213 https://www.reddit.com/user/emmans1213",
+      "id": "d9c23167f225a099cbb257e2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Any game or creation examples that look like this",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsk76l/any_game_or_creation_examples_that_look_like_this/",
+      "published": "2026-11-10",
+      "excerpt": "I saw this on the roblox forum and absolutely love it, I wanted to see more games or just of this artstyle and how it'd feel in game and can not find anything like it. Is there any games or references that I can use to see if it actually plays smooth as it looks. submitted by /u/Ok_Corgi_6403 [link]",
+      "creator": "/u/Ok_Corgi_6403 https://www.reddit.com/user/Ok_Corgi_6403",
+      "id": "c88306cf0c09086ec1ce18ce"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "How do you make the first minute of a simulator game clear without a long tutorial?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/",
       "published": "2026-11-10",
       "excerpt": "I'm working on my first Roblox game, a cozy garden sim with a candy theme (you plant seeds, they grow into desserts, you harvest and sell them). The thing I'm stuck on is the first minute. When I watch new players, a lot of them spawn, walk around the shops and don't realize they need to claim a gar",
       "creator": "/u/Neither_Freedom_7785 https://www.reddit.com/user/Neither_Freedom_7785",
       "id": "c21da04e7a1f57dc255b1b9d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Rate-limit rule affecting legitimate Superforest Open Cloud reads",
+      "url": "https://devforum.roblox.com/t/rate-limit-rule-affecting-legitimate-superforest-open-cloud-reads/4985477",
+      "published": "2026-11-10",
+      "excerpt": "Superforest stockbot: Open Cloud reads blocked by edge error 1015 9 November 2026 — all times UTC / London Please investigate a rate-limit rule affecting legitimate Superforest Open Cloud reads from our Cloudflare Worker. Universe: 8887260140 Place: 81318904502331 Endpoint: GET https://apis.roblox.c",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/rate-limit-rule-affecting-legitimate-superforest-open-cloud-reads/4985477.rss",
+      "id": "c13cacbab1254ca9ba85572f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3623,6 +3663,17 @@
       "id": "40be222bae5bf37fceb5046d"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Me and a friend built a pet game where you shoot ONE arrow down a 1,900 stud lane. Here is the 8th world, Sky Kingdom",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xskuco/me_and_a_friend_built_a_pet_game_where_you_shoot/",
+      "published": "2026-11-10",
+      "excerpt": "We are two people working on Hunt For Pets. You stand on a deck, charge a bow, and the arrow flies down one long lane through 8 worlds until it hits a pet. Stronger shot = it reaches a further world. Things we learned building it, in case it helps someone: The server never moves a part every frame. ",
+      "creator": "/u/NoNewspaper7275 https://www.reddit.com/user/NoNewspaper7275",
+      "id": "3ffd100e5995501a481d2e5a"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3667,6 +3718,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352.rss",
       "id": "30ab60643f3aa11d87e33b74"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Day 5 Combat System",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsjwxh/day_5_combat_system/",
+      "published": "2026-11-10",
+      "excerpt": "I'm a newer dev I'm working on a few projects currently and right now I'm making my first ever combat system and I'm on day 5 of attempting to make it and I wanted to share my progress hopefully get some progress and feedback and become better if you would like to see how I started check my TikTok h",
+      "creator": "/u/Calm-Abroad-4424 https://www.reddit.com/user/Calm-Abroad-4424",
+      "id": "28fa8593c8a25c7d7cc743f7"
     },
     {
       "source": "reddit-robloxdev",
@@ -3736,6 +3798,17 @@
       "excerpt": "Salut j'aurais besoin de conseil pour gérer au mieux mes token de l'IA Roblox afin d'en utiliser le moins possible. submitted by /u/Key-Signature-7019 [link] [comments]",
       "creator": "/u/Key-Signature-7019 https://www.reddit.com/user/Key-Signature-7019",
       "id": "0dc7024d3fb6a7ccc7c1ef23"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "New Game Looking for testers - Feedback wanted!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xskxg4/new_game_looking_for_testers_feedback_wanted/",
+      "published": "2026-11-10",
+      "excerpt": "Moin! Ich habe mein erstes Spiel erstellt, das meiner Meinung nach ziemlich clean geworden ist. Ich suche nach Leuten mit Erfahrung, die das Spiel mal unter die Lupe nehmen könnten. Ich plane, am Freitag richtig mit Werbung zu starten, und das Spiel sollte bis dahin ready sein. Danke im Voraus! subm",
+      "creator": "/u/Embarrassed-Might716 https://www.reddit.com/user/Embarrassed-Might716",
+      "id": "0cbc93d94721a248f7211cfd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10163,73 +10236,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/connex-event-connection-manager-with-priorities/4977629.rss",
       "id": "82da915b18e388afbb1201a0"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Question about investments",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo4j3b/question_about_investments/",
-      "published": "2026-11-05",
-      "excerpt": "Basically, I'm a solo dev, I've been working on a passion project for about 11 months now (in development/unreleased). Recently, I showed my friend (trusted IRL friend, close highschool friends) the project I'm working on for fun. Now he looked at it, and basically in a nutshell wanted to invest in ",
-      "creator": "/u/TheRealBeefMeat https://www.reddit.com/user/TheRealBeefMeat",
-      "id": "7c11a86cc6ada5e25fd507c8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "OAuth Authorization, \"You have exceeded the rate limit\" After Confirming Permissions",
-      "url": "https://devforum.roblox.com/t/oauth-authorization-you-have-exceeded-the-rate-limit-after-confirming-permissions/4976579",
-      "published": "2026-11-05",
-      "excerpt": "Hey, I’m (or a user is) experiencing an issue with Roblox OAuth authorization in a tool of mine that uses OAuth to (in this case) only read the username and id. One of our users encounters the following error: “You have exceeded the rate limit. Please slow down.” The error occurs immediately after c",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/oauth-authorization-you-have-exceeded-the-rate-limit-after-confirming-permissions/4976579.rss",
-      "id": "7b475f67e4bc0d1f195e95ec"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "What's a small thing in a Roblox game that made you stay past the first 5 minutes?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoobv6/whats_a_small_thing_in_a_roblox_game_that_made/",
-      "published": "2026-11-05",
-      "excerpt": "Working on retention for my own game and most players leave before minute 4. Curious what hooked you in games you ended up sticking with. Was it a first reward, a friend joining, the tutorial, the vibe? Small details especially. submitted by /u/BearLao12 [link] [comments]",
-      "creator": "/u/BearLao12 https://www.reddit.com/user/BearLao12",
-      "id": "79b970a0fa4ca10c9332101b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Remnants of Wonder(For Scriptures)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoi9zd/remnants_of_wonderfor_scriptures/",
-      "published": "2026-11-05",
-      "excerpt": "Hello! Are you looking for experience and work to do? Well this upcoming Roblox Game is looking for scripter!! What are we looking for? We are looking for Scriptures who is flexible in time and is active, able to meet deadlines consistently and join meetings (though this part isn’t really needed muc",
-      "creator": "/u/Lai_Animtions_ https://www.reddit.com/user/Lai_Animtions_",
-      "id": "782f77289236c6f4a6c0ad65"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "yo guys what should I add. It kinda looks empty. It should be in a \"pinterest poster\" style",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoplzs/yo_guys_what_should_i_add_it_kinda_looks_empty_it/",
-      "published": "2026-11-05",
-      "excerpt": "submitted by /u/CombUnfair4051 [link] [comments]",
-      "creator": "/u/CombUnfair4051 https://www.reddit.com/user/CombUnfair4051",
-      "id": "78250566371a5d3702e0bece"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for 3 types of people",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo9z1z/looking_for_3_types_of_people/",
-      "published": "2026-11-05",
-      "excerpt": "I need an animator, vfx/sfx artist (preferable that you can do both) and builder/modelers (again preferable if you can do both. Im looking for new or inexperienced devs like myself. Mrkoth42 on discord or Markoth12345/mar_koth on roblox submitted by /u/Fuukaenjoyer000 [link] [comments]",
-      "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
-      "id": "75a1de1ed62f477590452530"
     }
   ]
 }

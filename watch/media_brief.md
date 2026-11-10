@@ -7,10 +7,21 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[I finally finished building my own game! Looking for feedback, and wondering how to find the right partner to help launch it? 🚀](https://www.reddit.com/r/robloxgamedev/comments/1xsj4nt/i_finally_finished_building_my_own_game_looking/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Hey everyone! I’ve been working hard on making Ai working hard on a fully completed game, and I finally got it built and ready to play. Since I'm mostly focused on the core development side, I've been thinking a lot about the next steps—esp
-- **[Looking to commission someone for my thumbnails. Anyone know where I can find someone ?](https://www.reddit.com/r/robloxgamedev/comments/1xsiyrm/looking_to_commission_someone_for_my_thumbnails/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I have AI thumb nails and would like to spruce them up. submitted by /u/friedbeann \[link\] \[comments\]
+- **[Any game or creation examples that look like this](https://www.reddit.com/r/robloxgamedev/comments/1xsk76l/any_game_or_creation_examples_that_look_like_this/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: I saw this on the roblox forum and absolutely love it, I wanted to see more games or just of this artstyle and how it'd feel in game and can not find anything like it. Is there any games or references that I can use to see if it actually pl
+- **[Day 5 Combat System](https://www.reddit.com/r/robloxgamedev/comments/1xsjwxh/day_5_combat_system/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: I'm a newer dev I'm working on a few projects currently and right now I'm making my first ever combat system and I'm on day 5 of attempting to make it and I wanted to share my progress hopefully get some progress and feedback and become bet
+- **[Is it possible to sell a game in roblox?](https://www.reddit.com/r/robloxgamedev/comments/1xsjm3t/is_it_possible_to_sell_a_game_in_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: i wanna know if possible to sell a game that i made. submitted by /u/emmans1213 \[link\] \[comments\]
+- **[Me and a friend built a pet game where you shoot ONE arrow down a 1,900 stud lane. Here is the 8th world, Sky Kingdom](https://www.reddit.com/r/robloxgamedev/comments/1xskuco/me_and_a_friend_built_a_pet_game_where_you_shoot/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: We are two people working on Hunt For Pets. You stand on a deck, charge a bow, and the arrow flies down one long lane through 8 worlds until it hits a pet. Stronger shot = it reaches a further world. Things we learned building it, in case i
+- **[New Game Looking for testers - Feedback wanted!](https://www.reddit.com/r/robloxgamedev/comments/1xskxg4/new_game_looking_for_testers_feedback_wanted/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Moin! Ich habe mein erstes Spiel erstellt, das meiner Meinung nach ziemlich clean geworden ist. Ich suche nach Leuten mit Erfahrung, die das Spiel mal unter die Lupe nehmen könnten. Ich plane, am Freitag richtig mit Werbung zu starten, und 
+
+## Roblox Updates
+
+- **[Rate-limit rule affecting legitimate Superforest Open Cloud reads](https://devforum.roblox.com/t/rate-limit-rule-affecting-legitimate-superforest-open-cloud-reads/4985477)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Superforest stockbot: Open Cloud reads blocked by edge error 1015 9 November 2026 — all times UTC / London Please investigate a rate-limit rule affecting legitimate Superforest Open Cloud reads from our Cloudflare Worker. Universe: 88872601
 
 ---
 

@@ -20,8 +20,8 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - brock-ig-reels: 12
 - brock-tiktok: 4
 - brock-x: 0
-- roblox-animation-showcases: 0
-- tizzy-roblox-design: 0
+- roblox-animation-showcases: 1
+- tizzy-roblox-design: 1
 - syphodev-claude: 12
 - youtube-UCjiPEaapiHbJMoAdi_L8fNA: 12
 - youtube-UCl-BrQMfynC7mpPDsg6MqlQ: 12
