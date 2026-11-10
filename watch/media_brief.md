@@ -5,25 +5,28 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LaXdpRmpPNmhKTkh2SXY5MUx3U1hLSjZUbDVXQkpRNkprZHpRSUpkSVpPZkQ3WFVya0d1U3BDTWdCN2tNdGxMNnJsQmY0SzQ5QzBNN0pn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-02
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
+- **[Only today in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMWRlM1BfdUsyRzI5VlhsUXhwMzVCbVl6Y3dScDBGYnc5SnhHLUVfZ3RkTHJLZmJ1UDBmMWd6R1dRWGpmQmdkTGIzaUlEYlVyZ1J0Tjd3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-10
+  - Feed excerpt: Only today in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram
+
 ## Community
 
-- **[Launched a game but I think I set the wrong genre, will it ruin my stats?](https://www.reddit.com/r/robloxgamedev/comments/1xszv20/launched_a_game_but_i_think_i_set_the_wrong_genre/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I recently launched a game based on starting off in the sea and evolving while also having PVP. Its similar to another game called bug evolution. The problem is I set the genre to survival with the subgenre being 1 vs All. I am afraid it wi
+- **[Help with getting clips/ screenshots for advertising and thumbnail potentially](https://www.reddit.com/r/robloxgamedev/comments/1xt0wvl/help_with_getting_clips_screenshots_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Heyy ive made this roblox game that hasn't blown up yet what we need rn is to advertise the game i was thinking of making edits and stuff on tiktok but I dont have enough clips or screenshots of people actually playing the game i was wonder
+- **[I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?](https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Solo dev here. My game is a pawn shop where monsters bring you items and you check them with a UV lamp, a lens and the papers to decide: real or fake? It went public last week. New experiences start in a 16+ trial: until 250 "highly engaged
+- **[When do my ads stop being in learning mode](https://www.reddit.com/r/robloxgamedev/comments/1xt1ns1/when_do_my_ads_stop_being_in_learning_mode/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: My original plan was to pay for thumbnails AFTER the learning phase but i'm $40 down and I'm still not out of the learning phase. My biggest mistake was running plays over engagement, 16+ don't like slop games https://preview.redd.it/nrjoyz
 
 ## Roblox Updates
 
-- **["Error lens" implementation for highlighting line errors](https://devforum.roblox.com/t/error-lens-implementation-for-highlighting-line-errors/4986061)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: While I don’t use Roblox Studio’s code editor much anymore, a QoL feature that I think would be relatively trivial to implement yet convenient for viewing errors are “error lens”. It would: highlight the line where the error is display the 
-- **[The R6 default animate script does not work](https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: My roblox studio just updated, and every time i playtest the game i’m working on, i get a lot of warnings that say : AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label. So i looked in
-- **[AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label](https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: While using studio, I ran into a problem where this warning would spam in the Output window constantly. I’ve done everything I could, but the warnings wouldn’t go away. This happens if my game has any sort of R6 in it. I decided to post thi
-- **[Content Rating Questionnaire flags realistic character reactions as a Community Standards violation](https://devforum.roblox.com/t/content-rating-questionnaire-flags-realistic-character-reactions-as-a-community-standards-violation/4986060)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: I’m currently developing a psychological horror experience, and I’m having trouble completing the new Content Rating Questionnaire. When I select Realistic under “How do characters react to violence?”, the questionnaire displays the followi
-- **[TextChatService chat bubbles do not appear when HumanoidRootPart is missing, even if not adorned to it](https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: The default TextChatService chat bubbles do not appear if HumanoidRootPart is missing or deleted, even if the AdorneeName property is set to a different part. A place with this issue. The only changes made are that a startercharacter with n
-- **[\[LOOKING FOR\] Builder for game Levels](https://devforum.roblox.com/t/looking-for-builder-for-game-levels/4985942)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Hi everyone! I’m am looking to hire a builder to create additional levels that fit the style of the upcoming game. About The Game LASER CORRIDOR Welcome to LASER CORRIDOR – a high-intensity multiplayer survival experience where every second
+- **[\[CRITICAL\] Windows Client Crash Rate SPIKES to 15% After Release 747](https://devforum.roblox.com/t/critical-windows-client-crash-rate-spikes-to-15-after-release-747/4985999)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Our experience’s client crash rate went up in two steps, both lining up with the 747 rollout (times from the Engine Release annotations in Creator Dashboard). Nothing was published on our side in this window (last place publish: Nov 9, 21:1
+- **[Help with animating a meele swing](https://devforum.roblox.com/t/help-with-animating-a-meele-swing/4986100)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: So i’m not really an animator, i know the basic stuff about movement logic in animations, but here i need help from some more experienced animators, basically my animation is not really dynamic smooth or fast in a natural in any way, i trie
 
 ---
 

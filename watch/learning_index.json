@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 597,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -17,21 +17,6 @@
         "player feedback and marketing"
       ],
       "score": 12,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976392:1",
-      "url": "https://devforum.roblox.com/t/roblox-player-displays-terrain-in-low-detail-full-detail-fine-in-roblox-studio/4976392",
-      "title": "Roblox Player displays terrain in low detail; full detail fine in Roblox Studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 11,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1337,6 +1322,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xt23sj",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/",
+      "title": "I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4977915:1",
       "url": "https://devforum.roblox.com/t/studio-renders-over-the-taskbar/4977915",
       "title": "Studio renders over the taskbar",
@@ -1496,19 +1495,6 @@
       "key": "devforum:4979265:1",
       "url": "https://devforum.roblox.com/t/expedited-review-refund-requests-fail-for-three-experiences/4979265",
       "title": "Expedited review refund requests fail for three experiences",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-06",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4979332:1",
-      "url": "https://devforum.roblox.com/t/account-terminated-even-after-successful-asset-appeal-%E2%80%93-requesting-staff-review/4979332",
-      "title": "Account Terminated Even After Successful Asset Appeal – Requesting Staff Review",
       "source": "roblox-devforum-latest",
       "published": "2026-11-06",
       "kind": "devforum",
@@ -2292,6 +2278,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4986100:1",
+      "url": "https://devforum.roblox.com/t/help-with-animating-a-meele-swing/4986100",
+      "title": "Help with animating a meele swing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xp2bsz",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bsz/roblox_studio_is_not_responding_cuz_i_wil_deal/",
       "title": "Roblox studio is not responding cuz i wil deal with this program",
@@ -2365,19 +2364,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xprd9x",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xprd9x/looking_to_hire_a_thumbnail_artist/",
-      "title": "looking to hire a thumbnail artist",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-06",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2999,6 +2985,32 @@
       "kind": "reddit",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xt0wvl",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt0wvl/help_with_getting_clips_screenshots_for/",
+      "title": "Help with getting clips/ screenshots for advertising and thumbnail potentially",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xt1ns1",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt1ns1/when_do_my_ads_stop_being_in_learning_mode/",
+      "title": "When do my ads stop being in learning mode",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -5183,17 +5195,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4978021:1",
-      "url": "https://devforum.roblox.com/t/surfaceappearance-displays-grey-instead-of-texture-when-using-a-local-rbxasset-image/4978021",
-      "title": "SurfaceAppearance Displays Grey Instead of Texture When Using a Local rbxasset:// Image",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-06",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4978130:1",
       "url": "https://devforum.roblox.com/t/cant-upload-ugcs-to-marketplace-under-my-group/4978130",
       "title": "Can't upload UGC's to marketplace under my group",
@@ -6272,17 +6273,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xof3do",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xof3do/just_a_quick_peek_into_a_game_where_you_have_to/",
-      "title": "Just a quick peek into a game where you have to kill blocks and level up",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xp0cpf",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp0cpf/i_made_tarot_card_style_class_picking/",
       "title": "I made Tarot card style Class picking",
@@ -6408,17 +6398,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpn89e/roblox_dev_consulting/",
       "title": "Roblox Dev Consulting",
       "source": "reddit-robloxdev",
-      "published": "2026-11-06",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xpo2fg",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpo2fg/combat_in_my_roman_pvp_game/",
-      "title": "Combat in my Roman PvP game",
-      "source": "reddit-robloxstudio",
       "published": "2026-11-06",
       "kind": "reddit",
       "signals": [],
@@ -7404,6 +7383,19 @@
       "kind": "index-only",
       "signals": [
         "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1UMWRlM1BfdUsyRzI5VlhsUXhwMzVCbVl6Y3dScDBGYnc5SnhHLUVfZ3RkTHJLZmJ1UDBmMWd6R1dRWGpmQmdkTGIzaUlEYlVyZ1J0Tjd3",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMWRlM1BfdUsyRzI5VlhsUXhwMzVCbVl6Y3dScDBGYnc5SnhHLUVfZ3RkTHJLZmJ1UDBmMWd6R1dRWGpmQmdkTGIzaUlEYlVyZ1J0Tjd3?oc=5",
+      "title": "Only today in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-10",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

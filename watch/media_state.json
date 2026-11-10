@@ -3386,7 +3386,14 @@
     "f24bc79f7b710459d116fea4",
     "b048153fced1e63b72ea3544",
     "be2ab2453f07cf75f5248973",
-    "51f97c8f88092d27193a440b"
+    "51f97c8f88092d27193a440b",
+    "cef03b00e45dafbccb4bcd1b",
+    "e090fbdd4bdb27f7de6fa131",
+    "d5ea4f8229311e34f93dfa2d",
+    "b5f55cfe383903423f4d04bb",
+    "8e06bc18ddbeb0f081924814",
+    "29ca4846e7a3a49992fb78f6",
+    "1dd9040b04d078d74112a90d"
   ],
   "items": [
     {
@@ -3578,6 +3585,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "[CRITICAL] Windows Client Crash Rate SPIKES to 15% After Release 747",
+      "url": "https://devforum.roblox.com/t/critical-windows-client-crash-rate-spikes-to-15-after-release-747/4985999",
+      "published": "2026-11-10",
+      "excerpt": "Our experience’s client crash rate went up in two steps, both lining up with the 747 rollout (times from the Engine Release annotations in Creator Dashboard). Nothing was published on our side in this window (last place publish: Nov 9, 21:15 UTC). RCC 747, Nov 9, 23:08 UTC: client crash rate roughly",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/critical-windows-client-crash-rate-spikes-to-15-after-release-747/4985999.rss",
+      "id": "e090fbdd4bdb27f7de6fa131"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox Reduced Exposure Flag on My Roblox Experience",
       "url": "https://devforum.roblox.com/t/roblox-reduced-exposure-flag-on-my-roblox-experience/4985752",
       "published": "2026-11-10",
@@ -3621,6 +3640,17 @@
       "id": "d9c23167f225a099cbb257e2"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/",
+      "published": "2026-11-10",
+      "excerpt": "Solo dev here. My game is a pawn shop where monsters bring you items and you check them with a UV lamp, a lens and the papers to decide: real or fake? It went public last week. New experiences start in a 16+ trial: until 250 \"highly engaged\" players have played within 60 days, only age-checked users",
+      "creator": "/u/Terminabsage https://www.reddit.com/user/Terminabsage",
+      "id": "d5ea4f8229311e34f93dfa2d"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3631,6 +3661,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/couldnt-reconnect-to-team-create-for-some-reason/4985671.rss",
       "id": "d4aee3f60ac84bf785305f3d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Help with animating a meele swing",
+      "url": "https://devforum.roblox.com/t/help-with-animating-a-meele-swing/4986100",
+      "published": "2026-11-10",
+      "excerpt": "So i’m not really an animator, i know the basic stuff about movement logic in animations, but here i need help from some more experienced animators, basically my animation is not really dynamic smooth or fast in a natural in any way, i tried everything that i could to make it look good but it just d",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/help-with-animating-a-meele-swing/4986100.rss",
+      "id": "cef03b00e45dafbccb4bcd1b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3736,6 +3778,17 @@
       "excerpt": "Posted this ad a couple hours ago, seems to be doing way better then my normal ones submitted by /u/No_Bug_2183 [link] [comments]",
       "creator": "/u/No_Bug_2183 https://www.reddit.com/user/No_Bug_2183",
       "id": "b711cde85e6ce8163dd67e7b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "When do my ads stop being in learning mode",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt1ns1/when_do_my_ads_stop_being_in_learning_mode/",
+      "published": "2026-11-10",
+      "excerpt": "My original plan was to pay for thumbnails AFTER the learning phase but i'm $40 down and I'm still not out of the learning phase. My biggest mistake was running plays over engagement, 16+ don't like slop games https://preview.redd.it/nrjoyzp1av0i1.png?width=872&format=png&auto=webp&s=e8d0c7d2ec26379",
+      "creator": "/u/Ok_Golf_8852 https://www.reddit.com/user/Ok_Golf_8852",
+      "id": "b5f55cfe383903423f4d04bb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3890,6 +3943,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/changing-graphics-level-in-studio-results-in-the-device-emulator-being-forcefully-enabled/4985874.rss",
       "id": "984eff1a097785e758c0df70"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Help with getting clips/ screenshots for advertising and thumbnail potentially",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt0wvl/help_with_getting_clips_screenshots_for/",
+      "published": "2026-11-10",
+      "excerpt": "Heyy ive made this roblox game that hasn't blown up yet what we need rn is to advertise the game i was thinking of making edits and stuff on tiktok but I dont have enough clips or screenshots of people actually playing the game i was wondering if anyone would be willing to help. All you have to do i",
+      "creator": "/u/Individual_Duck2620 https://www.reddit.com/user/Individual_Duck2620",
+      "id": "8e06bc18ddbeb0f081924814"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4117,7 +4181,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 21 posts - 18 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 24 posts - 19 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -4443,6 +4507,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/false-user-terminations-with-0-proof/4985414.rss",
       "id": "1e603d558e4ca3294ec1018c"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Only today in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMWRlM1BfdUsyRzI5VlhsUXhwMzVCbVl6Y3dScDBGYnc5SnhHLUVfZ3RkTHJLZmJ1UDBmMWd6R1dRWGpmQmdkTGIzaUlEYlVyZ1J0Tjd3?oc=5",
+      "published": "2026-11-10",
+      "excerpt": "Only today in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "1dd9040b04d078d74112a90d"
     },
     {
       "source": "reddit-robloxdev",
@@ -10229,75 +10305,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/chomper-from-plants-vs-zombies/4979354.rss",
       "id": "092daf1075f19a6cce92db79"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "looking to hire a thumbnail artist",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xprd9x/looking_to_hire_a_thumbnail_artist/",
-      "published": "2026-11-06",
-      "excerpt": "here is the game so you have an idea of what to expect: https://www.roblox.com/games/79781701657286/Sails-and-Cannons DM me with your portfolio and what you expect as compensation submitted by /u/iCy_sPiCy004 [link] [comments]",
-      "creator": "/u/iCy_sPiCy004 https://www.reddit.com/user/iCy_sPiCy004",
-      "id": "089dca5e710270f6c710a434"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SurfaceAppearance Displays Grey Instead of Texture When Using a Local rbxasset:// Image",
-      "url": "https://devforum.roblox.com/t/surfaceappearance-displays-grey-instead-of-texture-when-using-a-local-rbxasset-image/4978021",
-      "published": "2026-11-06",
-      "excerpt": "When I replace the ColorMapContent of a SurfaceAppearance instance with an image stored locally on my computer, the texture appears grey instead of displaying the actual image, even though the image is identical to the uploaded image. A warning message is also displayed. The following warning appear",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/surfaceappearance-displays-grey-instead-of-texture-when-using-a-local-rbxasset-image/4978021.rss",
-      "id": "05454363bb896cd8cfa97960"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Combat in my Roman PvP game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpo2fg/combat_in_my_roman_pvp_game/",
-      "published": "2026-11-06",
-      "excerpt": "submitted by /u/RomaInvictaDev [link] [comments]",
-      "creator": "/u/RomaInvictaDev https://www.reddit.com/user/RomaInvictaDev",
-      "id": "03d7c1ce7189487ed894ae20"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Account Terminated Even After Successful Asset Appeal – Requesting Staff Review",
-      "url": "https://devforum.roblox.com/t/account-terminated-even-after-successful-asset-appeal-%E2%80%93-requesting-staff-review/4979332",
-      "published": "2026-11-06",
-      "excerpt": "Hello, I’m submitting this post because my Roblox account orcslayer94 was terminated due to an asset that was incorrectly moderated. After the termination, I appealed the moderated asset via email appeal, and my appeal was approved, confirming that the item did not violate Roblox’s Community Standar",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/account-terminated-even-after-successful-asset-appeal-%E2%80%93-requesting-staff-review/4979332.rss",
-      "id": "02bc34b321ca207e068f97c4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Player displays terrain in low detail; full detail fine in Roblox Studio",
-      "url": "https://devforum.roblox.com/t/roblox-player-displays-terrain-in-low-detail-full-detail-fine-in-roblox-studio/4976392",
-      "published": "2026-11-05",
-      "excerpt": "On some joins in my games, the Windows Roblox Player ends up drawing what should be granular, detailed relief as an amalgamation of flat sheets; it’s coarse. I would expect this when initially loading in, but it never fixes itself, regardless of the work being done in the background. The normal grou",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-player-displays-terrain-in-low-detail-full-detail-fine-in-roblox-studio/4976392.rss",
-      "id": "fc5b9399503538fe5444e17b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Just a quick peek into a game where you have to kill blocks and level up",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xof3do/just_a_quick_peek_into_a_game_where_you_have_to/",
-      "published": "2026-11-05",
-      "excerpt": "pls give it a try still in its alpha phase but try it and comment your Likings and what i could add to make this game more popular submitted by /u/NewbieDev666 [link] [comments]",
-      "creator": "/u/NewbieDev666 https://www.reddit.com/user/NewbieDev666",
-      "id": "fb6193daa11dec4d9d3ba646"
     }
   ]
 }

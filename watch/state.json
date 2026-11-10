@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "6140670fd1952941041dce5fb3f8932091bc22e4",
-      "head_subject": "MLX, MLX-C: version bump (#19647)",
+      "head": "8a89b76cc7359805e48357ba7e5b99e845a4c211",
+      "head_subject": "launch: refresh Pi metadata after sign-in and honor prompt args (#19575)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
