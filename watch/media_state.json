@@ -3280,9 +3280,109 @@
     "e8a78a4afe4c758cbc0f04c7",
     "779cb0239e3ac862dca2240a",
     "52c8055f46d17159b2a71d78",
-    "8ee8fea87ca401f7bd2a8618"
+    "8ee8fea87ca401f7bd2a8618",
+    "a9f46e67ed678f767e797b43",
+    "e3c68c05dd3f78f9e699fab2",
+    "74c20078545c2c836d2e0eff",
+    "f8f29bdff7262ecc60b07939",
+    "103aa511e17668ab5400aac6",
+    "c21da04e7a1f57dc255b1b9d",
+    "9f1f10d3966bcbeecc7b7b1d",
+    "3d603cea3f1c1748bd15a1ff"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator",
+      "url": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934",
+      "published": "2026-11-10",
+      "excerpt": "Key Takeaways The 2027 Roblox Incubator is now open for creators building novel games for 18+ players. Whether you’re proving a core loop or getting ready to launch, you get hands-on support from Roblox engineers and designers. Apply by December 7, 2026 on the Roblox Incubator page on Creator Hub. H",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934.rss",
+      "id": "f8f29bdff7262ecc60b07939"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "ViewportFrames missing from Style Editor elements",
+      "url": "https://devforum.roblox.com/t/viewportframes-missing-from-style-editor-elements/4984976",
+      "published": "2026-11-10",
+      "excerpt": "For some reason, ViewportFrames are not included in the UI Elements section of the Style Editor: Adding a different class and renaming it puts it in the Other category: It’s also not present anywhere else: I’m fairly sure this is purely a visual thing, but it is pretty odd. I’m guessing it was just ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/viewportframes-missing-from-style-editor-elements/4984976.rss",
+      "id": "e3c68c05dd3f78f9e699fab2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How do you make the first minute of a simulator game clear without a long tutorial?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/",
+      "published": "2026-11-10",
+      "excerpt": "I'm working on my first Roblox game, a cozy garden sim with a candy theme (you plant seeds, they grow into desserts, you harvest and sell them). The thing I'm stuck on is the first minute. When I watch new players, a lot of them spawn, walk around the shops and don't realize they need to claim a gar",
+      "creator": "/u/Neither_Freedom_7785 https://www.reddit.com/user/Neither_Freedom_7785",
+      "id": "c21da04e7a1f57dc255b1b9d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Allow Players to Gift Roblox Plus Subscriptions",
+      "url": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986",
+      "published": "2026-11-10",
+      "excerpt": "Allow Players to Gift Roblox Plus Subscriptions! The Problem As a Roblox developer and player, it is currently too hard to gift subscription benefits to other users, particularly with the introduction and increasing promotion of Roblox Plus. Roblox has already introduced the ability to gift Robux, m",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986.rss",
+      "id": "a9f46e67ed678f767e797b43"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Pickleball Demo",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa34d/pickleball_demo/",
+      "published": "2026-11-10",
+      "excerpt": "submitted by /u/Lean_Orange95716 [link] [comments]",
+      "creator": "/u/Lean_Orange95716 https://www.reddit.com/user/Lean_Orange95716",
+      "id": "9f1f10d3966bcbeecc7b7b1d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Sudden surge of HTTP 429 rate limits on apis.roblox.com/toolbox-service",
+      "url": "https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941",
+      "published": "2026-11-10",
+      "excerpt": "Around November 8-9, I noticed an increase of 429 limits from apis.roblox.com/toolbox-service . My proxy handles asset and catalog searches for my experience. Without any updates or code changes on our end, our rate limit error rate jumped from <0.3% to over 40% then 100%) Affected endpoints: https:",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941.rss",
+      "id": "74c20078545c2c836d2e0eff"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is making a Roblox game worth it if you have a unique idea but feel the platform is saturated with low-effort games?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs9p28/is_making_a_roblox_game_worth_it_if_you_have_a/",
+      "published": "2026-11-10",
+      "excerpt": "I have a game idea I'm really excited about, but when I browse Roblox, a lot of the popular games feel shallow or built around quick, flashy hooks. It makes me wonder if a more thoughtful idea can find an audience there. For those of you who've built games on Roblox: What did \"worth it\" mean for you",
+      "creator": "/u/Gloomy-Machine5215 https://www.reddit.com/user/Gloomy-Machine5215",
+      "id": "3d603cea3f1c1748bd15a1ff"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Added hidden secret islands to my simulator: how I set them up + looking for feedback on discoverability",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa8yg/added_hidden_secret_islands_to_my_simulator_how_i/",
+      "published": "2026-11-10",
+      "excerpt": "I've been working on a pet/smashing simulator as my first real project, and this week I added 4 secret areas. Screenshots of each one below. How it works: - Each secret is a small glowing rune tucked somewhere in a world (behind a giant mushroom, between crystal spires, etc.) - Touching the rune tel",
+      "creator": "/u/Neither_Freedom_7785 https://www.reddit.com/user/Neither_Freedom_7785",
+      "id": "103aa511e17668ab5400aac6"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -3370,7 +3470,7 @@
       "title": "AI Traffic System prototype",
       "url": "https://devforum.roblox.com/t/ai-traffic-system-prototype/4984790",
       "published": "2026-11-09",
-      "excerpt": "Hey guys, so i want feedback on what i can do to improve this AI traffic system, please tell me in the comments what you advise me to upgrade or change, all feedback is welcome! 1 post - 1 participant Read full topic",
+      "excerpt": "Hey guys, so i want feedback on what i can do to improve this AI traffic system, please tell me in the comments what you advise me to upgrade or change, all feedback is welcome! 2 posts - 2 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ai-traffic-system-prototype/4984790.rss",
       "id": "e9eace98ec01142a08f46a06"
@@ -10101,98 +10201,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/potential-bug-clothing-remains-on-sale-without-active-premium/4976311.rss",
       "id": "32e67f812c0aab048592f5b7"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Does my VHS effect look good?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xos43v/does_my_vhs_effect_look_good/",
-      "published": "2026-11-05",
-      "excerpt": "I hope so, I read you submitted by /u/Sentuva [link] [comments]",
-      "creator": "/u/Sentuva https://www.reddit.com/user/Sentuva",
-      "id": "324c92cc8a321ab8d7cf5a8e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Studio lua Certificate",
-      "url": "https://devforum.roblox.com/t/roblox-studio-lua-certificate/4976692",
-      "published": "2026-11-05",
-      "excerpt": "Luau Level Test Luau Level Test for Roblox Studio Four levels, from Starter to Legendary. Find out how good your Luau really is and download a certificate for every level you finish. Hello, Roblox developers! I know that one of the common points of disagreement among developers is how skilled someon",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-studio-lua-certificate/4976692.rss",
-      "id": "31e930c48af61834a6246868"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Concession shop still accessible after The Hollow ended",
-      "url": "https://devforum.roblox.com/t/concession-shop-still-accessible-after-the-hollow-ended/4977086",
-      "published": "2026-11-05",
-      "excerpt": "By clicking on the tickets balance you are redirected to the other lobby where the shop is still accessible Expected behavior Make it so the concessions shop is inaccessible at both lobbies 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/concession-shop-still-accessible-after-the-hollow-ended/4977086.rss",
-      "id": "307f09a321203c2cf6c3847f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I need a name for my game... again",
-      "url": "https://devforum.roblox.com/t/i-need-a-name-for-my-game-again/4976299",
-      "published": "2026-11-05",
-      "excerpt": "What should I name my story game? The plot, i havent developed fully yet, but basically, a guy called Nooby is trying to get his way back into Robloxia, because he tampered with his TV that was showing static at night time. Like i said, i havent thought of a plot yet, so this is a rough draft of sor",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-need-a-name-for-my-game-again/4976299.rss",
-      "id": "305f8aad69eb883a516348d6"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "2 NEW GAMEMODES [OVERDUE]. testers wanted :)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoakxq/2_new_gamemodes_overdue_testers_wanted/",
-      "published": "2026-11-05",
-      "excerpt": "After a ton of helpful feedback from many testers I've reworked a big chunk of the game and made new game modes. Before pushing ads, i'm looking for a second round of testers to try out the game again and note any improvements that can be made or bugs found! Major changes since last test run: Mayhem",
-      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
-      "id": "305d9078f4a5d1a942cd5e24"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Working on a game similar to ai judge",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoc4he/working_on_a_game_similar_to_ai_judge/",
-      "published": "2026-11-05",
-      "excerpt": "submitted by /u/Miles_CoolGuy [link] [comments]",
-      "creator": "/u/Miles_CoolGuy https://www.reddit.com/user/Miles_CoolGuy",
-      "id": "2f66c1769fc1ec71d0279617"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Bite Night",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xovzlo/bite_night/",
-      "published": "2026-11-05",
-      "excerpt": "One vampire. A town full of humans. Survive until sunrise. Bite Night is a multiplayer Roblox horror game. Every round builds a brand-new foggy town. One player starts as the vampire, and everyone else has to survive the night. Get bitten and you turn, so the hunters multiply as the night goes on. A",
-      "creator": "/u/Worried-Example6884 https://www.reddit.com/user/Worried-Example6884",
-      "id": "2e78a5377778cc9be5d25b3f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Image bugging not loading",
-      "url": "https://devforum.roblox.com/t/image-bugging-not-loading/4976992",
-      "published": "2026-11-05",
-      "excerpt": "I tried putting a ImageLabel but it gives me this empty image, it only does this error to this image and not any other in my game. These images are recent since Ive put them in my game yesterday night. Im unsure where the bug come from If I put my ImageTransparency at 1 It does this error to the two",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/image-bugging-not-loading/4976992.rss",
-      "id": "2d0e65d0903e787bc7178bd1"
     }
   ]
 }

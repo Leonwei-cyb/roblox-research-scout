@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "a24ff145cd5a8a23235aaf3ad69f8abedf465530",
-      "head_subject": "Add Richard Olszynský to CREDITS.md (#9549)",
+      "head": "6af8ebcbff9f10ec8fc7573879aa6151bc68ac56",
+      "head_subject": "Fix current password requirement during password changes (#9550)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "fd1f3c4263e54dc6128c25d6117f5c079ec9c38b",
+      "head": "e037be5b0d73edff583606435c9b539136ee76d5",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.321",
@@ -265,6 +265,7 @@
     "paralov/app-bloxbot-ai",
     "pogogt12/slime-tycoon-forge",
     "public-apis/public-apis",
+    "ramenvr/autopilot",
     "reacher-z/Awesome-REA",
     "rodeo-rbx/rodeo",
     "rust-unofficial/awesome-rust",

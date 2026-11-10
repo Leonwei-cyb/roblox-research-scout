@@ -21,6 +21,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[Sudden surge of HTTP 429 rate limits on apis.roblox.com/toolbox-service](https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941)** — Public text/page, video not confirmed
 - **[Looking for a Playtester? I'm Available!](https://www.reddit.com/r/robloxgamedev/comments/1xs4vt4/looking_for_a_playtester_im_available/)** — Public text/page, video not confirmed
 - **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** — Public text/page, video not confirmed
-- **[Trading Playtests for my Watch Repair Game](https://www.reddit.com/r/ROBLOXStudio/comments/1xrjlvo/trading_playtests_for_my_watch_repair_game/)** — Public text/page, video not confirmed
