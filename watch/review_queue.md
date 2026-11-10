@@ -12,8 +12,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[UICorner + UIStroke issue](https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530)** — Public text/page, video not confirmed
-- **[\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709)** — Public text/page, video not confirmed
+- **[Server never frees animation clips: Animation memory grows with every new animation ID](https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 

@@ -3345,7 +3345,17 @@
     "5bac597bc063af8137c3ab0b",
     "ec8948f6b196b570f92f00dc",
     "a92ca9e5e132b45280508041",
-    "667d10298504740cb96cf3f6"
+    "667d10298504740cb96cf3f6",
+    "60f55110065dfa04b415c5ab",
+    "a90b9a28eac43c72a04e0116",
+    "e56c68f729b1de20b975bd7e",
+    "32ee819e30b8c3236b08863b",
+    "e031496a5bac7b18c17a47b0",
+    "479d852401e6c8f05109af8c",
+    "0a711e074ac53667946c1ec3",
+    "2a17c19e074082e973bc9122",
+    "aafdd160099e6db6967dbfe0",
+    "722a6370c326fd2555857e78"
   ],
   "items": [
     {
@@ -3443,6 +3453,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Open Cloud API keys rejected when called from Cloudflare Workers",
+      "url": "https://devforum.roblox.com/t/open-cloud-api-keys-rejected-when-called-from-cloudflare-workers/4985814",
+      "published": "2026-11-10",
+      "excerpt": "Since November 9th (~11:31 UTC), every open cloud request from my cloudflare worker fails. The same key works fine from my PC and depending on the cloudflare location I get either: 429 with server: cloudflare and a plain text body (no x-ratelimit headers). 401 Invalid API Key I’ve checked the keys a",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-cloud-api-keys-rejected-when-called-from-cloudflare-workers/4985814.rss",
+      "id": "e56c68f729b1de20b975bd7e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "ViewportFrames missing from Style Editor elements",
       "url": "https://devforum.roblox.com/t/viewportframes-missing-from-style-editor-elements/4984976",
       "published": "2026-11-10",
@@ -3461,6 +3483,18 @@
       "excerpt": "We are looking for a creative and reliable Environment Builder to join our development team and help bring our upcoming Roblox game to life. Requirements: Strong experience in Roblox Studio (lighting, terrain, and prop placement). Ability to create cohesive, immersive, and well-optimized maps (good ",
       "creator": "/u/Just_Excitement_7392 https://www.reddit.com/user/Just_Excitement_7392",
       "id": "e1ac1d726752187ce0ce8107"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Reduced Exposure Flag on My Roblox Experience",
+      "url": "https://devforum.roblox.com/t/roblox-reduced-exposure-flag-on-my-roblox-experience/4985752",
+      "published": "2026-11-10",
+      "excerpt": "My experience has received a reduced exposure flag across Home, Search, and Charts, and despite multiple attempts to resolve the issue, I have been unable to get it removed. I have already made several changes to address potential issues, including updating the thumbnails, game icon, game content, t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-reduced-exposure-flag-on-my-roblox-experience/4985752.rss",
+      "id": "e031496a5bac7b18c17a47b0"
     },
     {
       "source": "reddit-robloxdev",
@@ -3587,6 +3621,18 @@
       "excerpt": "I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I want to theme it more after FPE/FPE:Blight (paper style) and ",
       "creator": "/u/StrikeCritical1988 https://www.reddit.com/user/StrikeCritical1988",
       "id": "a92ca9e5e132b45280508041"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Server never frees animation clips: Animation memory grows with every new animation ID",
+      "url": "https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816",
+      "published": "2026-11-10",
+      "excerpt": "The first time a server loads an animation ID, its data is added to PlaceMemory > Animation and stays. Destroying the track, the Animator and the whole model does not free it, and playing the same clip again costs almost nothing, so memory grows with the number of different animations a server has s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816.rss",
+      "id": "a90b9a28eac43c72a04e0116"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3729,6 +3775,17 @@
       "id": "740056558210390bd6537aa2"
     },
     {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "matcha: iced 🧊 beats: fire 🔥",
+      "url": "https://www.youtube.com/shorts/YVU0Bcdt8rY",
+      "published": "2026-11-10",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "722a6370c326fd2555857e78"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3788,6 +3845,18 @@
       "id": "61594f3c473c7d321a561c82"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Character Controller Library: server never frees a destroyed character's AbilityManagerActor state (~0.6 MB per respawn)",
+      "url": "https://devforum.roblox.com/t/character-controller-library-server-never-frees-a-destroyed-characters-abilitymanageractor-state-06-mb-per-respawn/4985818",
+      "published": "2026-11-10",
+      "excerpt": "With Character Controller Library on, every character spawn permanently adds script memory on the server. With it off, the same test is flat. Blank Baseplate, no other code. Same bug as this open report ; this adds a script repro and numbers. Repro New Baseplate, Character Controller Library on. Add",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/character-controller-library-server-never-frees-a-destroyed-characters-abilitymanageractor-state-06-mb-per-respawn/4985818.rss",
+      "id": "60f55110065dfa04b415c5ab"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3843,6 +3912,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-avatar-thumbnail-isnt-loading-on-my-devforum-account-summary-page/4985362.rss",
       "id": "51321c235be41b4f3ac79aba"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for playtesters: Sifter ( party games)",
+      "url": "https://devforum.roblox.com/t/looking-for-playtesters-sifter-party-games/4985742",
+      "published": "2026-11-10",
+      "excerpt": "I’ve been reworking my game Sifter and I’d love fresh eyes on it. It’s a hub of hexagon-floor minigames: Redlight, Blue Fade, a 14-floor Office race, a Cave and more. You earn gold in them to enter Sifter, a big DJ-run survival event with waves like Musical Chairs, Pink Possession and Bubble Machine",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-playtesters-sifter-party-games/4985742.rss",
+      "id": "479d852401e6c8f05109af8c"
     },
     {
       "source": "reddit-robloxdev",
@@ -3912,6 +3993,18 @@
       "id": "33b8d348ab42d8dfedef1b32"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "AudioEmitters play audio at their old position when moving and starting playback in the same frame",
+      "url": "https://devforum.roblox.com/t/audioemitters-play-audio-at-their-old-position-when-moving-and-starting-playback-in-the-same-frame/4985812",
+      "published": "2026-11-10",
+      "excerpt": "When a silent AudioEmitter is moved while a wired AudioPlayer is played in the same frame, audio plays from the emitters old position for a short amount of time. Waiting one frame before playing does not fix this issue and the delay between moving the emitter and its audio position updating seems to",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/audioemitters-play-audio-at-their-old-position-when-moving-and-starting-playback-in-the-same-frame/4985812.rss",
+      "id": "32ee819e30b8c3236b08863b"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3933,6 +4026,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/lui-code-in-the-same-language-you-make-games-with-but-for-apps/4985352.rss",
       "id": "30ab60643f3aa11d87e33b74"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Can't unfavourite shirts and pants",
+      "url": "https://devforum.roblox.com/t/cant-unfavourite-shirts-and-pants/4985736",
+      "published": "2026-11-10",
+      "excerpt": "I have three shirts on my favourites from a while ago and also five pants that I can’t remove from my favourites for some reason. When I go to their pages the favourite button is not filled as if they aren’t favourited in the first place. I’ve tried unfavouriting them in a game with a script and usi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cant-unfavourite-shirts-and-pants/4985736.rss",
+      "id": "2a17c19e074082e973bc9122"
     },
     {
       "source": "reddit-robloxdev",
@@ -4047,6 +4152,18 @@
       "excerpt": "Moin! Ich habe mein erstes Spiel erstellt, das meiner Meinung nach ziemlich clean geworden ist. Ich suche nach Leuten mit Erfahrung, die das Spiel mal unter die Lupe nehmen könnten. Ich plane, am Freitag richtig mit Werbung zu starten, und das Spiel sollte bis dahin ready sein. Danke im Voraus! subm",
       "creator": "/u/Embarrassed-Might716 https://www.reddit.com/user/Embarrassed-Might716",
       "id": "0cbc93d94721a248f7211cfd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Request for Roblox Servers in Kazakhstan and Central Asia",
+      "url": "https://devforum.roblox.com/t/request-for-roblox-servers-in-kazakhstan-and-central-asia/4985741",
+      "published": "2026-11-10",
+      "excerpt": "Dear Roblox Team, I am writing to express a concern shared by many Roblox players in Kazakhstan and, potentially, across Central Asia. Currently, players in Kazakhstan often experience high latency (ping), unstable connections, and occasional lag spikes when playing Roblox experiences. This is parti",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/request-for-roblox-servers-in-kazakhstan-and-central-asia/4985741.rss",
+      "id": "0a711e074ac53667946c1ec3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10147,111 +10264,6 @@
       "excerpt": "Can someone tell me why my ctr and retention rate is so bad. Any honest game play reviews would be appreciated. Thank you submitted by /u/Connora888 [link] [comments]",
       "creator": "/u/Connora888 https://www.reddit.com/user/Connora888",
       "id": "c149307e75d7c3541d0a94ed"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio DataStore calls return “Access forbidden” for a group-owned experience, even as group owner (personal places work)",
-      "url": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073",
-      "published": "2026-11-05",
-      "excerpt": "Description: Since moving my experience into my group, every DataStore call from Studio in that place fails with: 502: API Services rejected request with error. Error code: 0 Reason: Access forbidden. I’m the Owner of the group (not an admin or edit role), and Studio is signed in as that owner accou",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073.rss",
-      "id": "c000bfc49561d05bd4bbe518"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder",
-      "url": "https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709",
-      "published": "2026-11-05",
-      "excerpt": "Key Takeaways Prompt to Animation is now in Studio Beta. Studio Assistant and Studio MCP can generate R15 animations from a text prompt. Motion Rebuilder optionally converts R6 clips to R15, so you can polish graybox work or update a game on your schedule without needing to animate by hand. Turn on ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709.rss",
-      "id": "bb0afa83e9c7b79cc95a595b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "You tell a game Ill try to create it",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoib63/you_tell_a_game_ill_try_to_create_it/",
-      "published": "2026-11-05",
-      "excerpt": "Basically the title comment any game idea and ill select any idea and will try my best to create a game based on that idea submitted by /u/Brief-Version-5216 [link] [comments]",
-      "creator": "/u/Brief-Version-5216 https://www.reddit.com/user/Brief-Version-5216",
-      "id": "b9624b4654d865b8d342fbfa"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Wllz's Studio Announcing the arrival of Loot Raiders: The Heists",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosthi/wllzs_studio_announcing_the_arrival_of_loot/",
-      "published": "2026-11-05",
-      "excerpt": "Hey guys! Here's a quick look at gameplay from my latest solo project, which I've been working on for a few months. I've been a dev for 5 years and took heavy inspiration from a 2018 game I absolutely loved, trying to bring its vibe back. Launch is set for the 13th of this month, and I'm looking for",
-      "creator": "/u/WllzFc https://www.reddit.com/user/WllzFc",
-      "id": "b67f77876376d42662562f15"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is making an Incremental Game worth it?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xochen/is_making_an_incremental_game_worth_it/",
-      "published": "2026-11-05",
-      "excerpt": "Hi, I am a roblox developer. I played and made some incremental games. One of them did sorta successful. I like making them cuz they are fun to make and play. But, since Roblox added the HEP (Highly Engaged Players) update, I no longer get the motivation to build games. So, I took a 6 month break fr",
-      "creator": "/u/Dramatic_Manner_100 https://www.reddit.com/user/Dramatic_Manner_100",
-      "id": "b5f9e6d7972baf8c5d4e8b54"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "GetPlaceVersionHistory endpoint should not require scope to ALL RESOURCES",
-      "url": "https://devforum.roblox.com/t/getplaceversionhistory-endpoint-should-not-require-scope-to-all-resources/4976529",
-      "published": "2026-11-05",
-      "excerpt": "Links Endpoint: https://apis.roblox.com/place-version-history-api/v1/{place_id}/history Docs: https://create.roblox.com/docs/en-us/cloud/reference/domains/apis#PlaceVersion_GetPlaceVersionHistory Scope: universe.place:read - Scopes | Documentation Staff Announcement: Auto-Generate Publish Notes for ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/getplaceversionhistory-endpoint-should-not-require-scope-to-all-resources/4976529.rss",
-      "id": "b292f87218f76890be9bcf65"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to disable Lua lsp auto complete",
-      "url": "https://devforum.roblox.com/t/how-to-disable-lua-lsp-auto-complete/4977070",
-      "published": "2026-11-05",
-      "excerpt": "I tried disabling it on both User and Workspace 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-disable-lua-lsp-auto-complete/4977070.rss",
-      "id": "b07bdef535e89e378e8d1706"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "luau-signals - luau port of alien-signals",
-      "url": "https://devforum.roblox.com/t/luau-signals-luau-port-of-alien-signals/4976701",
-      "published": "2026-11-05",
-      "excerpt": "External Image luau-signals Luau Port of alien-signals the lightest signal library External Image External Image External Image External Image External Image External Image External Image External Image About luau-signals is a faithful Luau port of alien-signals , a push-pull reactive signals librar",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/luau-signals-luau-port-of-alien-signals/4976701.rss",
-      "id": "adad317134b90ff0ff4e08f4"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Full Release] Create and Sell Avatar Backgrounds on Marketplace",
-      "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
-      "published": "2026-11-05",
-      "excerpt": "Key Takeaways Starting today, all eligible Marketplace creators can create and sell Avatar Backgrounds. Now you can design the scene behind every avatar, not just the avatar itself. Upload yours in Creator Hub. Uploads are limited to 1 Background/day at launch. Hi Creators! Starting today, all creat",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115.rss",
-      "id": "ad24ed0c7149a226b6601c8f"
     }
   ]
 }

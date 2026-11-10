@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 290
+- devforum: 292
 - index-only: 13
-- reddit: 292
-- youtube: 3
+- reddit: 289
+- youtube: 4
 
 ## First-Session And Mobile
 
@@ -42,8 +42,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Animation And Audio
 
+- [Server never frees animation clips: Animation memory grows with every new animation ID](https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816) — devforum; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 - [Feedback on my Roblox hospital horror: does "she hears every sound" read clearly in the first 7 seconds?](https://www.reddit.com/r/robloxgamedev/comments/1xqejo3/feedback_on_my_roblox_hospital_horror_does_she/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
-- [Added hidden secret islands to my simulator: how I set them up + looking for feedback on discoverability](https://www.reddit.com/r/robloxgamedev/comments/1xsa8yg/added_hidden_secret_islands_to_my_simulator_how_i/) — reddit; **unviewed metadata**. Proposed test: Is every motion or sound tied to a real roll, gain, build or robber action?
 
 ## World And Visual Design
 
@@ -63,13 +63,13 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Tools And Performance
 
 - [Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)](https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [\[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder](https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [How to get some models are need for client and ONLY client renders and server don't](https://devforum.roblox.com/t/how-to-get-some-models-are-need-for-client-and-only-client-renders-and-server-dont/4978829) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one \[Studio Beta\] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder test with measurable pass/fail.
+3. Explain WHY it matters and propose one How to get some models are need for client and ONLY client renders and server don't test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

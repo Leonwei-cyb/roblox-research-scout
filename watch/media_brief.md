@@ -5,26 +5,33 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Roblox Creator / Ai Development
 
-- **[New Alien Fusion in Steal an Egg 👽 #Roblox #StealanEgg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE5obnhFX0RPSzBycDFCQnVlTjhVelM2Tm5vU1FnemFIaG9YQ04td1h3bUcwZ2h6WFU5ZzlOY0JSOTh5amZOeFB3VFFzLXNiTElhYVBXc082eG1LcnB3WFRNT2g1VXJ0VnplR1FJWA?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-11-10
-  - Feed excerpt: New Alien Fusion in Steal an Egg 👽 #Roblox #StealanEgg TikTok
-
-## Community
-
-- **[Is it worth learning and getting into roblox game dev in 2026/2027?](https://www.reddit.com/r/robloxgamedev/comments/1xsp3hf/is_it_worth_learning_and_getting_into_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I've seen so many people copying games off of Twitter and making slop games using AI, and the market is really saturated. I am thinking: is it worth it to start learning roblox game development for an income in 2026, 2027? submitted by /u/I
-- **[When is roblox making the highly engaged players down from 250 to 100?](https://www.reddit.com/r/robloxgamedev/comments/1xsq4t6/when_is_roblox_making_the_highly_engaged_players/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Hi! For short I've been working on a game for quite some time and started running ads, but I heard manage audience is going from 250 to 100, I was wondering when is it officially starting since it's stated it's being started in November. I'
-- **[\[REVSHARE\] Asym game plan - in concept phase](https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I w
+- **[Can AI Make an Entire Roblox Creature Capture Game? (3D Models, Map, Code) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzQ3VOd3NyS1NMd1dKTFc1c1RhaDdYRUNsVlh2NHpuX1BEc0RrSG54ZW1NLVhxRmNuTmlyN2tSM2xrZzFwLUZoUXlDR2tmR0dwUGFWNEZR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-13
+  - Feed excerpt: Can AI Make an Entire Roblox Creature Capture Game? (3D Models, Map, Code) YouTube
 
 ## Roblox Updates
 
-- **[Couldn't reconnect to Team Create for some reason](https://devforum.roblox.com/t/couldnt-reconnect-to-team-create-for-some-reason/4985671)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Description I can’t connect to a Team Create. I am not sure why yet, so I attached a log file. There’s also a 403 Error for https://apis.roblox.com/validate-machine which says XSRF token invalid Re-production Steps Connect to a Team Create 
-- **[Drastically Increase the NumberSequence keypoints limit](https://devforum.roblox.com/t/drastically-increase-the-numbersequence-keypoints-limit/4985726)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: The NumberSequence seems to have a limit on the number of NumberSequenceKeypoints set to 21. This is not documented behavior, and seems excessively small for what could be done. The primary reason for requesting an increase of the limit is 
+- **[Looking for playtesters: Sifter ( party games)](https://devforum.roblox.com/t/looking-for-playtesters-sifter-party-games/4985742)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: I’ve been reworking my game Sifter and I’d love fresh eyes on it. It’s a hub of hexagon-floor minigames: Redlight, Blue Fade, a 14-floor Office race, a Cave and more. You earn gold in them to enter Sifter, a big DJ-run survival event with w
+- **[AudioEmitters play audio at their old position when moving and starting playback in the same frame](https://devforum.roblox.com/t/audioemitters-play-audio-at-their-old-position-when-moving-and-starting-playback-in-the-same-frame/4985812)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: When a silent AudioEmitter is moved while a wired AudioPlayer is played in the same frame, audio plays from the emitters old position for a short amount of time. Waiting one frame before playing does not fix this issue and the delay between
+- **[Can't unfavourite shirts and pants](https://devforum.roblox.com/t/cant-unfavourite-shirts-and-pants/4985736)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: I have three shirts on my favourites from a while ago and also five pants that I can’t remove from my favourites for some reason. When I go to their pages the favourite button is not filled as if they aren’t favourited in the first place. I
+- **[Character Controller Library: server never frees a destroyed character's AbilityManagerActor state (~0.6 MB per respawn)](https://devforum.roblox.com/t/character-controller-library-server-never-frees-a-destroyed-characters-abilitymanageractor-state-06-mb-per-respawn/4985818)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: With Character Controller Library on, every character spawn permanently adds script memory on the server. With it off, the same test is flat. Blank Baseplate, no other code. Same bug as this open report ; this adds a script repro and number
+- **[Open Cloud API keys rejected when called from Cloudflare Workers](https://devforum.roblox.com/t/open-cloud-api-keys-rejected-when-called-from-cloudflare-workers/4985814)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Since November 9th (~11:31 UTC), every open cloud request from my cloudflare worker fails. The same key works fine from my PC and depending on the cloudflare location I get either: 429 with server: cloudflare and a plain text body (no x-rat
+- **[Request for Roblox Servers in Kazakhstan and Central Asia](https://devforum.roblox.com/t/request-for-roblox-servers-in-kazakhstan-and-central-asia/4985741)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Dear Roblox Team, I am writing to express a concern shared by many Roblox players in Kazakhstan and, potentially, across Central Asia. Currently, players in Kazakhstan often experience high latency (ping), unstable connections, and occasion
+- **[Roblox Reduced Exposure Flag on My Roblox Experience](https://devforum.roblox.com/t/roblox-reduced-exposure-flag-on-my-roblox-experience/4985752)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: My experience has received a reduced exposure flag across Home, Search, and Charts, and despite multiple attempts to resolve the issue, I have been unable to get it removed. I have already made several changes to address potential issues, i
+- **[Server never frees animation clips: Animation memory grows with every new animation ID](https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: The first time a server loads an animation ID, its data is added to PlaceMemory > Animation and stays. Destroying the track, the Animator and the whole model does not free it, and playing the same clip again costs almost nothing, so memory 
+
+## Youtube
+
+- **[matcha: iced 🧊 beats: fire 🔥](https://www.youtube.com/shorts/YVU0Bcdt8rY)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-10
 
 ---
 

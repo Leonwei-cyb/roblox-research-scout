@@ -144,6 +144,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985816:1",
+      "url": "https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816",
+      "title": "Server never frees animation clips: Animation memory grows with every new animation ID",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xqejo3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqejo3/feedback_on_my_roblox_hospital_horror_does_she/",
       "title": "Feedback on my Roblox hospital horror: does \"she hears every sound\" read clearly in the first 7 seconds?",
@@ -256,20 +271,6 @@
       "kind": "devforum",
       "signals": [
         "UI and menus",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977709:1",
-      "url": "https://devforum.roblox.com/t/studio-beta-generate-r15-animations-from-a-prompt-plus-optional-r6-motion-rebuilder/4977709",
-      "title": "[Studio Beta] Generate R15 Animations From a Prompt, Plus Optional R6 Motion Rebuilder",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
         "tools and performance"
       ],
       "score": 8,
@@ -1292,19 +1293,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4976073:1",
-      "url": "https://devforum.roblox.com/t/studio-datastore-calls-return-%E2%80%9Caccess-forbidden%E2%80%9D-for-a-group-owned-experience-even-as-group-owner-personal-places-work/4976073",
-      "title": "Studio DataStore calls return “Access forbidden” for a group-owned experience, even as group owner (personal places work)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4976408:1",
       "url": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408",
       "title": "How to Run ViewModel Animation",
@@ -1313,19 +1301,6 @@
       "kind": "devforum",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976701:1",
-      "url": "https://devforum.roblox.com/t/luau-signals-luau-port-of-alien-signals/4976701",
-      "title": "luau-signals - luau port of alien-signals",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2312,6 +2287,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985818:1",
+      "url": "https://devforum.roblox.com/t/character-controller-library-server-never-frees-a-destroyed-characters-abilitymanageractor-state-06-mb-per-respawn/4985818",
+      "title": "Character Controller Library: server never frees a destroyed character's AbilityManagerActor state (~0.6 MB per respawn)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xobt58",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xobt58/i_manually_uploaded_each_of_these_for_an/",
       "title": "i manually uploaded each of these for an animation, so i wanted to share it with other people to maybe use, so here's every Morshu Frame in order each as a Roblox Image ID",
@@ -2348,19 +2336,6 @@
         "animation and audio",
         "world and visual design",
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xosthi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xosthi/wllzs_studio_announcing_the_arrival_of_loot/",
-      "title": "Wllz's Studio Announcing the arrival of Loot Raiders: The Heists",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3248,15 +3223,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xochen",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xochen/is_making_an_incremental_game_worth_it/",
-      "title": "Is making an Incremental Game worth it?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
+      "key": "devforum:4985742:1",
+      "url": "https://devforum.roblox.com/t/looking-for-playtesters-sifter-party-games/4985742",
+      "title": "Looking for playtesters: Sifter ( party games)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
-        "player feedback and marketing"
+        "board game and turn flow",
+        "economy and income"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3533,6 +3508,17 @@
       "title": "empaths, how we doing rn?",
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
       "published": "2026-11-09",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "youtube:YVU0Bcdt8rY",
+      "url": "https://www.youtube.com/shorts/YVU0Bcdt8rY",
+      "title": "matcha: iced 🧊 beats: fire 🔥",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-11-10",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -4310,6 +4296,45 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985736:1",
+      "url": "https://devforum.roblox.com/t/cant-unfavourite-shirts-and-pants/4985736",
+      "title": "Can't unfavourite shirts and pants",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985741:1",
+      "url": "https://devforum.roblox.com/t/request-for-roblox-servers-in-kazakhstan-and-central-asia/4985741",
+      "title": "Request for Roblox Servers in Kazakhstan and Central Asia",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985814:1",
+      "url": "https://devforum.roblox.com/t/open-cloud-api-keys-rejected-when-called-from-cloudflare-workers/4985814",
+      "title": "Open Cloud API keys rejected when called from Cloudflare Workers",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5182,43 +5207,10 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4976529:1",
-      "url": "https://devforum.roblox.com/t/getplaceversionhistory-endpoint-should-not-require-scope-to-all-resources/4976529",
-      "title": "GetPlaceVersionHistory endpoint should not require scope to ALL RESOURCES",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4976700:1",
       "url": "https://devforum.roblox.com/t/is-it-possible-to-transfer-a-game/4976700",
       "title": "Is it possible to transfer a game?",
       "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977070:1",
-      "url": "https://devforum.roblox.com/t/how-to-disable-lua-lsp-auto-complete/4977070",
-      "title": "How to disable Lua lsp auto complete",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977115:1",
-      "url": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115",
-      "title": "[Full Release] Create and Sell Avatar Backgrounds on Marketplace",
-      "source": "roblox-devforum-updates",
       "published": "2026-11-05",
       "kind": "devforum",
       "signals": [],
@@ -6249,20 +6241,31 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xof3do",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xof3do/just_a_quick_peek_into_a_game_where_you_have_to/",
-      "title": "Just a quick peek into a game where you have to kill blocks and level up",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
+      "key": "devforum:4985752:1",
+      "url": "https://devforum.roblox.com/t/roblox-reduced-exposure-flag-on-my-roblox-experience/4985752",
+      "title": "Roblox Reduced Exposure Flag on My Roblox Experience",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xoib63",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoib63/you_tell_a_game_ill_try_to_create_it/",
-      "title": "You tell a game Ill try to create it",
+      "key": "devforum:4985812:1",
+      "url": "https://devforum.roblox.com/t/audioemitters-play-audio-at-their-old-position-when-moving-and-starting-playback-in-the-same-frame/4985812",
+      "title": "AudioEmitters play audio at their old position when moving and starting playback in the same frame",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xof3do",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xof3do/just_a_quick_peek_into_a_game_where_you_have_to/",
+      "title": "Just a quick peek into a game where you have to kill blocks and level up",
       "source": "reddit-robloxdev",
       "published": "2026-11-05",
       "kind": "reddit",
