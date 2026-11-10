@@ -3361,7 +3361,15 @@
     "3527ec27bd864e62b5bff524",
     "7872e8d8131ad4191d206ef5",
     "85b4fad6673a2c41103ff3c8",
-    "1acba511f728b056d0a4f9dc"
+    "1acba511f728b056d0a4f9dc",
+    "66351ff2d6e595222061c710",
+    "9ac44d4e8663a31ecba3f0b4",
+    "865e30cfa7019b9b911beb55",
+    "83f4c10439491be388343f5c",
+    "e7aa6045fbc04059c84f8171",
+    "984eff1a097785e758c0df70",
+    "ca32fb3be815045d83e82ae1",
+    "e24d70ed055e5f96917cbcb6"
   ],
   "items": [
     {
@@ -3395,7 +3403,7 @@
       "title": "Animation makes so proximityprompt wont appear",
       "url": "https://devforum.roblox.com/t/animation-makes-so-proximityprompt-wont-appear/4985835",
       "published": "2026-11-10",
-      "excerpt": "What do you want to achieve? Keep it simple and clear! i want so the proximityprompt appears even tho the animation plays What is the issu What solutions have you tried so far? i tried to add a part with a proximityprompt bigger then the model but that wouldn’t work either, it only works if i move t",
+      "excerpt": "What do you want to achieve? Keep it simple and clear! i want so the proximityprompt appears even tho the animation plays What is the issue What solutions have you tried so far? i tried to add a part with a proximityprompt bigger then the model but that wouldn’t work either, it only works if i move ",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/animation-makes-so-proximityprompt-wont-appear/4985835.rss",
       "id": "f60033ee27c2098986d4a2f5"
@@ -3457,6 +3465,18 @@
       "id": "ea06a27794e9e7ecba297c23"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Save to Roblox Asset Configuration menu refuses to load all items when updating an asset",
+      "url": "https://devforum.roblox.com/t/save-to-roblox-asset-configuration-menu-refuses-to-load-all-items-when-updating-an-asset/4985893",
+      "published": "2026-11-10",
+      "excerpt": "The Save to Roblox (Asset Configuration) menu has stopped loading all assets, it cuts short and I can’t update any models past like 11 or so rows of items. no matter what I try, reloading studio, closing the menu and opening it again, swaping to other groups or my inventory, it will not load anythin",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/save-to-roblox-asset-configuration-menu-refuses-to-load-all-items-when-updating-an-asset/4985893.rss",
+      "id": "e7aa6045fbc04059c84f8171"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3490,6 +3510,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/viewportframes-missing-from-style-editor-elements/4984976.rss",
       "id": "e3c68c05dd3f78f9e699fab2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "where do you find playtesters?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsv78i/where_do_you_find_playtesters/",
+      "published": "2026-11-10",
+      "excerpt": "just wondering where do people usually find playtesters to test their game? is there a community or do you just get your friends to play it?? submitted by /u/Fine_Nectarine1305 [link] [comments]",
+      "creator": "/u/Fine_Nectarine1305 https://www.reddit.com/user/Fine_Nectarine1305",
+      "id": "e24d70ed055e5f96917cbcb6"
     },
     {
       "source": "reddit-robloxdev",
@@ -3559,6 +3590,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525.rss",
       "id": "cd705ad5183439299687563a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to create custom dashboards on the Create page",
+      "url": "https://devforum.roblox.com/t/unable-to-create-custom-dashboards-on-the-create-page/4985860",
+      "published": "2026-11-10",
+      "excerpt": "I am unable to create Custom Dashboards for my game Bad Business. I have attempted to set up charts either with Roblox-provided data or with my custom events, but no matter what I seem to do I receive the error message below when I try to Publish the dashboard. I have been unable to find out what fi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-create-custom-dashboards-on-the-create-page/4985860.rss",
+      "id": "ca32fb3be815045d83e82ae1"
     },
     {
       "source": "reddit-robloxdev",
@@ -3715,6 +3758,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Updates Feed for Experiences",
+      "url": "https://devforum.roblox.com/t/updates-feed-for-experiences/4985907",
+      "published": "2026-11-10",
+      "excerpt": "Hello, I am suggesting a way for developers to create update logs and for players to view them. This can be implemented into the Events & Updates page. The photos below show the current page. Below is another platform’s feature that inspired this idea. Below is the proposed idea. The event creation ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/updates-feed-for-experiences/4985907.rss",
+      "id": "9ac44d4e8663a31ecba3f0b4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Changing graphics level in studio results in the device emulator being forcefully enabled",
+      "url": "https://devforum.roblox.com/t/changing-graphics-level-in-studio-results-in-the-device-emulator-being-forcefully-enabled/4985874",
+      "published": "2026-11-10",
+      "excerpt": "Currently, if you change your graphics level in studio via the escape menu, the device emulator will forcefully enable itself and there is no way to turn it off without restarting the test session. Additionally, the graphics level you change to is not saved when you end the test session. Steps to re",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/changing-graphics-level-in-studio-results-in-the-device-emulator-being-forcefully-enabled/4985874.rss",
+      "id": "984eff1a097785e758c0df70"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Drastically Increase the NumberSequence keypoints limit",
       "url": "https://devforum.roblox.com/t/drastically-increase-the-numbersequence-keypoints-limit/4985726",
       "published": "2026-11-10",
@@ -3722,6 +3789,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/drastically-increase-the-numbersequence-keypoints-limit/4985726.rss",
       "id": "8c6b2e35d3f3d36e46810f72"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Allow creators to run their own discounts / sales on Passes and Developer Products",
+      "url": "https://devforum.roblox.com/t/allow-creators-to-run-their-own-discounts-sales-on-passes-and-developer-products/4985901",
+      "published": "2026-11-10",
+      "excerpt": "As a Roblox developer, it is currently too hard to run discounts on passes and developer products. When planning a launch sale or a holiday event, there’s no proper way to put passes on sale. The only options are changing the price by hand and changing it back later, or making a second copy of the p",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/allow-creators-to-run-their-own-discounts-sales-on-passes-and-developer-products/4985901.rss",
+      "id": "865e30cfa7019b9b911beb55"
     },
     {
       "source": "reddit-robloxdev",
@@ -3744,6 +3823,18 @@
       "excerpt": "Genuinly interested in finding out about pricing for this service and what's included. submitted by /u/pwaper [link] [comments]",
       "creator": "/u/pwaper https://www.reddit.com/user/pwaper",
       "id": "8474424c4ac2f2f24d9a7fcf"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Introducing IARC Age Ratings in Australia",
+      "url": "https://devforum.roblox.com/t/introducing-iarc-age-ratings-in-australia/4985897",
+      "published": "2026-11-10",
+      "excerpt": "Key Takeaways Ratings requirements differ from country to country, and keep shifting as more regions adopt their own rules. We’re taking on that transition for you by adopting the IARC (International Age Rating Coalition) framework. Starting Tue, Jan 26, 2027 6:00 PM UTC , Kids & Select games will n",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/introducing-iarc-age-ratings-in-australia/4985897.rss",
+      "id": "83f4c10439491be388343f5c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3859,6 +3950,18 @@
       "creator": "",
       "publisher": "https://www.tiktok.com",
       "id": "667d10298504740cb96cf3f6"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Release Notes for 747",
+      "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
+      "published": "2026-11-10",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 6 posts - 6 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
+      "id": "66351ff2d6e595222061c710"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10178,99 +10281,6 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "d9a58dec3f8455523e6f78db"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "We are hiring for dev team at sword lightning studios for create brand new game",
-      "url": "https://devforum.roblox.com/t/we-are-hiring-for-dev-team-at-sword-lightning-studios-for-create-brand-new-game/4976733",
-      "published": "2026-11-05",
-      "excerpt": "Community Project Call for Developers Hello everyone. Our group leader wants us to create a fun game for our community. We are looking for talented members who want to build this project together and expand their portfolio. We need members for game design, programming, 2D or 3D art, and audio design",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/we-are-hiring-for-dev-team-at-sword-lightning-studios-for-create-brand-new-game/4976733.rss",
-      "id": "d980cf9f1baa0a74923147b5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made a ragdoll throwing system for my first game: grab a player, toss them, and they flop across the map",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoow2o/made_a_ragdoll_throwing_system_for_my_first_game/",
-      "published": "2026-11-05",
-      "excerpt": "Video: https://youtu.be/EteNiwXLK1c This is the throwing system for my first game (video above). You walk up to a player or a dummy, pick them up over your head, and throw them. When they're thrown, their body turns into a ragdoll so they flop and roll when they land. How it works: - When you grab s",
-      "creator": "/u/Expensive_Divide4559 https://www.reddit.com/user/Expensive_Divide4559",
-      "id": "d89d50df4c5d8a0a7efad0e6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Is it possible to transfer a game?",
-      "url": "https://devforum.roblox.com/t/is-it-possible-to-transfer-a-game/4976700",
-      "published": "2026-11-05",
-      "excerpt": "Is it possible to transfer ownership of a game back to yourself, even after you transferred ownership to a group? 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/is-it-possible-to-transfer-a-game/4976700.rss",
-      "id": "d7c3f1d6045b3a8b6f77d811"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to run VIewModel animation?",
-      "url": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976420",
-      "published": "2026-11-05",
-      "excerpt": "so i try to Run ViewModel animation but for some reason it wont run idk if it because of my script or my ViewModel it doesnt have any error i try remake my code many time and it still wont run here my Script if you guy wonder if i do anything wrong : local tool = script.Parent local Handle = tool.Ha",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976420.rss",
-      "id": "d772af9881a97acaf6a46a5b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Sweet Dreams Gone Bad! TD [BETA] — Looking for Honest Feedback!",
-      "url": "https://devforum.roblox.com/t/sweet-dreams-gone-bad-td-beta-%E2%80%94-looking-for-honest-feedback/4977226",
-      "published": "2026-11-05",
-      "excerpt": "Sweet Dreams Gone Bad! TD [BETA] — Looking for Honest Feedback! Hi everyone! I’ve been working on my own tower defense game for quite some time now, and I’ve finally reached the stage where I’d love to get some feedback from other Roblox developers and players! The idea is a little different from yo",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/sweet-dreams-gone-bad-td-beta-%E2%80%94-looking-for-honest-feedback/4977226.rss",
-      "id": "cc31dd507a7ef8f5cd678fbf"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "What do you think of this fishing mechanic?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqtyq/what_do_you_think_of_this_fishing_mechanic/",
-      "published": "2026-11-05",
-      "excerpt": "I just made my game but I dont know if the fishing mechanic makes sense? Looking for some feedback submitted by /u/KISS_dev [link] [comments]",
-      "creator": "/u/KISS_dev https://www.reddit.com/user/KISS_dev",
-      "id": "c9c610e903fddb6ed00ab416"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Home Recommendations",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0da/home_recommendations/",
-      "published": "2026-11-05",
-      "excerpt": "November 3rd was 5 home recommendations and November 4th was 6 home recommendations is this the start of something good or bad? lol submitted by /u/ChocolateSoju [link] [comments]",
-      "creator": "/u/ChocolateSoju https://www.reddit.com/user/ChocolateSoju",
-      "id": "c9928c4820e67e6ad5c6b5ff"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Feedback on my 8 Ball Pool / Billiards Game",
-      "url": "https://devforum.roblox.com/t/feedback-on-my-8-ball-pool-billiards-game/4977677",
-      "published": "2026-11-05",
-      "excerpt": "Hey guys, I’m currently working on an 8 Ball Pool / “Billiards” / Snooker game on Roblox. (I took this screenshot 1 second ago, turn your graphics up to 10 if you can handle it) Play Test it here: (Only for 16+ users, or otherwise if you’re interested I can maybe transfer the game and pay the fee so",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-on-my-8-ball-pool-billiards-game/4977677.rss",
-      "id": "c97d90c4ce809acda18e4413"
     }
   ]
 }

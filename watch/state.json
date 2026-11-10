@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "f1ee5679fe6b42d26308110da924e732354f0348",
-      "head_subject": "cmd/launch: use thinking metadata for OpenCode settings (#19409)",
+      "head": "3f3fa58f7fcf18de43ec126ad8676b4281b6923c",
+      "head_subject": "llm: use mmap for Vulkan integrated GPUs (#19640)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
