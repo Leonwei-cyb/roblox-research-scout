@@ -3339,7 +3339,13 @@
     "a69ec156848dee39e3caee97",
     "05f82b038adf8b643b11ba5a",
     "dee64b5050169c3ea0db99ff",
-    "263ef41a9b8da09a81e41d4f"
+    "263ef41a9b8da09a81e41d4f",
+    "8c6b2e35d3f3d36e46810f72",
+    "d4aee3f60ac84bf785305f3d",
+    "5bac597bc063af8137c3ab0b",
+    "ec8948f6b196b570f92f00dc",
+    "a92ca9e5e132b45280508041",
+    "667d10298504740cb96cf3f6"
   ],
   "items": [
     {
@@ -3399,6 +3405,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340.rss",
       "id": "edb0b7a09dd71078ea92035a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is it worth learning and getting into roblox game dev in 2026/2027?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsp3hf/is_it_worth_learning_and_getting_into_roblox_game/",
+      "published": "2026-11-10",
+      "excerpt": "I've seen so many people copying games off of Twitter and making slop games using AI, and the market is really saturated. I am thinking: is it worth it to start learning roblox game development for an income in 2026, 2027? submitted by /u/Impressive_Swim7333 [link] [comments]",
+      "creator": "/u/Impressive_Swim7333 https://www.reddit.com/user/Impressive_Swim7333",
+      "id": "ec8948f6b196b570f92f00dc"
     },
     {
       "source": "reddit-robloxdev",
@@ -3466,6 +3483,18 @@
       "excerpt": "i wanna know if possible to sell a game that i made. submitted by /u/emmans1213 [link] [comments]",
       "creator": "/u/emmans1213 https://www.reddit.com/user/emmans1213",
       "id": "d9c23167f225a099cbb257e2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Couldn't reconnect to Team Create for some reason",
+      "url": "https://devforum.roblox.com/t/couldnt-reconnect-to-team-create-for-some-reason/4985671",
+      "published": "2026-11-10",
+      "excerpt": "Description I can’t connect to a Team Create. I am not sure why yet, so I attached a log file. There’s also a 403 Error for https://apis.roblox.com/validate-machine which says XSRF token invalid Re-production Steps Connect to a Team Create Disconnect Try to reconnect? Alt tab while reconnecting as w",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/couldnt-reconnect-to-team-create-for-some-reason/4985671.rss",
+      "id": "d4aee3f60ac84bf785305f3d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3549,6 +3578,17 @@
       "id": "a9f46e67ed678f767e797b43"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "[REVSHARE] Asym game plan - in concept phase",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/",
+      "published": "2026-11-10",
+      "excerpt": "I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I want to theme it more after FPE/FPE:Blight (paper style) and ",
+      "creator": "/u/StrikeCritical1988 https://www.reddit.com/user/StrikeCritical1988",
+      "id": "a92ca9e5e132b45280508041"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3606,6 +3646,18 @@
       "excerpt": "submitted by /u/Lean_Orange95716 [link] [comments]",
       "creator": "/u/Lean_Orange95716 https://www.reddit.com/user/Lean_Orange95716",
       "id": "9f1f10d3966bcbeecc7b7b1d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Drastically Increase the NumberSequence keypoints limit",
+      "url": "https://devforum.roblox.com/t/drastically-increase-the-numbersequence-keypoints-limit/4985726",
+      "published": "2026-11-10",
+      "excerpt": "The NumberSequence seems to have a limit on the number of NumberSequenceKeypoints set to 21. This is not documented behavior, and seems excessively small for what could be done. The primary reason for requesting an increase of the limit is to be used in Segmented Displays . For example: Notice the s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/drastically-increase-the-numbersequence-keypoints-limit/4985726.rss",
+      "id": "8c6b2e35d3f3d36e46810f72"
     },
     {
       "source": "reddit-robloxdev",
@@ -3700,6 +3752,18 @@
       "id": "6ed12992b82f6c04e3698277"
     },
     {
+      "source": "brock-tiktok",
+      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "New Alien Fusion in Steal an Egg 👽 #Roblox #StealanEgg - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5obnhFX0RPSzBycDFCQnVlTjhVelM2Tm5vU1FnemFIaG9YQ04td1h3bUcwZ2h6WFU5ZzlOY0JSOTh5amZOeFB3VFFzLXNiTElhYVBXc082eG1LcnB3WFRNT2g1VXJ0VnplR1FJWA?oc=5",
+      "published": "2026-11-10",
+      "excerpt": "New Alien Fusion in Steal an Egg 👽 #Roblox #StealanEgg TikTok",
+      "creator": "",
+      "publisher": "https://www.tiktok.com",
+      "id": "667d10298504740cb96cf3f6"
+    },
+    {
       "source": "brock-ig-reels",
       "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
       "category": "Roblox creator / Steal An Egg",
@@ -3722,6 +3786,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/voxel-system-test-flame/4985384.rss",
       "id": "61594f3c473c7d321a561c82"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "When is roblox making the highly engaged players down from 250 to 100?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsq4t6/when_is_roblox_making_the_highly_engaged_players/",
+      "published": "2026-11-10",
+      "excerpt": "Hi! For short I've been working on a game for quite some time and started running ads, but I heard manage audience is going from 250 to 100, I was wondering when is it officially starting since it's stated it's being started in November. I've already accumulated 100, so what should I really do, put ",
+      "creator": "/u/xcytherz https://www.reddit.com/user/xcytherz",
+      "id": "5bac597bc063af8137c3ab0b"
     },
     {
       "source": "reddit-robloxdev",
@@ -10177,76 +10252,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/full-release-create-and-sell-avatar-backgrounds-on-marketplace/4977115.rss",
       "id": "ad24ed0c7149a226b6601c8f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Thinking about selling your Roblox game? Here's the quick math",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoxgxq/thinking_about_selling_your_roblox_game_heres_the/",
-      "published": "2026-11-05",
-      "excerpt": "Buyers start with what your game earns in a month. Robux convert at the DevEx rate ($0.0038 each), so 1M Robux a month is about $3,800. Then they multiply by how long they think it'll keep earning: about 1 to 2 months of revenue for fast-rising trend games, and 3 to 6 for slower-building ones like c",
-      "creator": "/u/2hypeismylife https://www.reddit.com/user/2hypeismylife",
-      "id": "ab019f693e3973798c12feb3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Seeing an increase in Phone and Tablet crashes since Obctober 28th",
-      "url": "https://devforum.roblox.com/t/seeing-an-increase-in-phone-and-tablet-crashes-since-obctober-28th/4977057",
-      "published": "2026-11-05",
-      "excerpt": "Starting about October 28th there has been a noticeable increase in phone and tablet crash rates for our experience FIFA Super Soccer. During the initial period of the increase there were no updates pushed, although a non-impactful config value was switched and a non-impactful experience was started",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/seeing-an-increase-in-phone-and-tablet-crashes-since-obctober-28th/4977057.rss",
-      "id": "a7e3af722ccb5d2133f77e3a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to set user experience to public?",
-      "url": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072",
-      "published": "2026-11-05",
-      "excerpt": "Description: On the Creator Hub’s Manage audience page for my group-owned experience, clicking Release publicly → Continue shows “You do not have permission to do this.” Switching from Playtest to Public in Manage access shows “Unable to change access. Try again.” I’m the Owner of the group, and eve",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072.rss",
-      "id": "a7497d93356837655fc6fb14"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for 4 or less people",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xowl6b/looking_for_4_or_less_people/",
-      "published": "2026-11-05",
-      "excerpt": "I need an animator, vfx/sfx artist (preferable that you can do both) and builder/modelers (again preferable if you can do both. Im looking for new or inexperienced devs like myself. Mrkoth42 on discord or Markoth12345/mar_koth on roblox submitted by /u/Fuukaenjoyer000 [link] [comments]",
-      "creator": "/u/Fuukaenjoyer000 https://www.reddit.com/user/Fuukaenjoyer000",
-      "id": "a67a6161ae3cccbc3e4210f3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Updated Studio topbar plugins tab goes out of the screen if you have a lot of plugins, as well as being slow",
-      "url": "https://devforum.roblox.com/t/updated-studio-topbar-plugins-tab-goes-out-of-the-screen-if-you-have-a-lot-of-plugins-as-well-as-being-slow/4977698",
-      "published": "2026-11-05",
-      "excerpt": "If you have many plugins, the plugin box gets pushed off screen, rendering you unable to access the plugin management menus: The new topbar also seems to lag and stutter, a LOT System info (click for more details) Expected behavior I’d expect for the plugin box to always be “anchored” at its top lef",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/updated-studio-topbar-plugins-tab-goes-out-of-the-screen-if-you-have-a-lot-of-plugins-as-well-as-being-slow/4977698.rss",
-      "id": "a60f544e7628d86be693f0b2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Security notification blocks access even when i have a email linked",
-      "url": "https://devforum.roblox.com/t/security-notification-blocks-access-even-when-i-have-a-email-linked/4977220",
-      "published": "2026-11-05",
-      "excerpt": "Hello developers, So when i try to log into my account with the correct credentials (username and password) I recieve a security notification. Telling me to use my linked email address to reset the password. However, the code isn’t sending. I tried contacting support several times and they are not h",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/security-notification-blocks-access-even-when-i-have-a-email-linked/4977220.rss",
-      "id": "a36c57f6d0a3996b725500f6"
     }
   ]
 }

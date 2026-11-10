@@ -5,19 +5,26 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[New Alien Fusion in Steal an Egg 👽 #Roblox #StealanEgg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE5obnhFX0RPSzBycDFCQnVlTjhVelM2Tm5vU1FnemFIaG9YQ04td1h3bUcwZ2h6WFU5ZzlOY0JSOTh5amZOeFB3VFFzLXNiTElhYVBXc082eG1LcnB3WFRNT2g1VXJ0VnplR1FJWA?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-11-10
+  - Feed excerpt: New Alien Fusion in Steal an Egg 👽 #Roblox #StealanEgg TikTok
+
 ## Community
 
-- **[Any Suggestions on my Boss Fight Game?](https://www.reddit.com/r/robloxgamedev/comments/1xspgm6/any_suggestions_on_my_boss_fight_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: This is a full demonstration of final phase of the boss fight, and the game will be released soon once i finish the ending phase and balancing the game more, as well as the map. Let me know your thoughts on the game's current status! submit
-- **[Trailer: The Broken World](https://www.reddit.com/r/robloxgamedev/comments/1xsofll/trailer_the_broken_world/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: What do you guys think? Any feedback? submitted by /u/adrianxy77 \[link\] \[comments\]
+- **[Is it worth learning and getting into roblox game dev in 2026/2027?](https://www.reddit.com/r/robloxgamedev/comments/1xsp3hf/is_it_worth_learning_and_getting_into_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: I've seen so many people copying games off of Twitter and making slop games using AI, and the market is really saturated. I am thinking: is it worth it to start learning roblox game development for an income in 2026, 2027? submitted by /u/I
+- **[When is roblox making the highly engaged players down from 250 to 100?](https://www.reddit.com/r/robloxgamedev/comments/1xsq4t6/when_is_roblox_making_the_highly_engaged_players/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Hi! For short I've been working on a game for quite some time and started running ads, but I heard manage audience is going from 250 to 100, I was wondering when is it officially starting since it's stated it's being started in November. I'
+- **[\[REVSHARE\] Asym game plan - in concept phase](https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I w
 
 ## Roblox Updates
 
-- **[How to script cutscenesss? like... how?](https://devforum.roblox.com/t/how-to-script-cutscenesss-like-how/4985639)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: So.. Im an indie developer and i wanna add cutscenes to my games. But i have NO idea how to do this(Even with tutorials). I can animate, and i animate in Eclipse animator . And the thing is: It HAS module exporter, but i cant understand it.
-- **[Better GuiService:GetInsetArea()](https://devforum.roblox.com/t/better-guiservicegetinsetarea/4985658)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: 4 years, ago, Roblox introduced support for notched screens . It gave mobile UI more flexibility and developers new API to work with rounded screens. Ofcourse, anyone that saw this ScreenInsets and began to fiddle with it were met with an o
+- **[Couldn't reconnect to Team Create for some reason](https://devforum.roblox.com/t/couldnt-reconnect-to-team-create-for-some-reason/4985671)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Description I can’t connect to a Team Create. I am not sure why yet, so I attached a log file. There’s also a 403 Error for https://apis.roblox.com/validate-machine which says XSRF token invalid Re-production Steps Connect to a Team Create 
+- **[Drastically Increase the NumberSequence keypoints limit](https://devforum.roblox.com/t/drastically-increase-the-numbersequence-keypoints-limit/4985726)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: The NumberSequence seems to have a limit on the number of NumberSequenceKeypoints set to 21. This is not documented behavior, and seems excessively small for what could be done. The primary reason for requesting an increase of the limit is 
 
 ---
 
