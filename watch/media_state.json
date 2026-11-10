@@ -3331,7 +3331,11 @@
     "cd705ad5183439299687563a",
     "32cf56e88deb324717599f12",
     "8474424c4ac2f2f24d9a7fcf",
-    "e7721a71f24502c84486cc4e"
+    "e7721a71f24502c84486cc4e",
+    "149aa1f1bd78f773946745c8",
+    "8162aa646f30ffdaf0bb6eed",
+    "41467ce4e3fba917a393c6a4",
+    "5735afbf18174620a26d321e"
   ],
   "items": [
     {
@@ -3591,6 +3595,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Has Roblox started promoting games?",
+      "url": "https://devforum.roblox.com/t/has-roblox-started-promoting-games/4985592",
+      "published": "2026-11-10",
+      "excerpt": "Today I noticed that my game—without any paid advertising—received 2,700 views over two days via the recommendation system. Do you think it’s possible that Roblox has started promoting games that were long abandoned due to having zero active players? Game title: Escape the Black Hole to Survive Just",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/has-roblox-started-promoting-games/4985592.rss",
+      "id": "8162aa646f30ffdaf0bb6eed"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Typo in WebStreamClient API Docs",
       "url": "https://devforum.roblox.com/t/typo-in-webstreamclient-api-docs/4985356",
       "published": "2026-11-10",
@@ -3684,6 +3700,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Is it beneficial to categorize your game to a genre",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsmsmj/is_it_beneficial_to_categorize_your_game_to_a/",
+      "published": "2026-11-10",
+      "excerpt": "Since I released my game I did not select a game category. But in my ads though I did exclude Roleplay, Shooter and more game categories that would not align with my game. So should I set my game as a Simulator game or shluld I still not specifie? submitted by /u/PUMPKINKNlGHT [link] [comments]",
+      "creator": "/u/PUMPKINKNlGHT https://www.reddit.com/user/PUMPKINKNlGHT",
+      "id": "5735afbf18174620a26d321e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "¿Algún consejo de alguien que ya haya lanzado un juego?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsai0e/algún_consejo_de_alguien_que_ya_haya_lanzado_un/",
       "published": "2026-11-10",
@@ -3714,6 +3741,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-avatar-thumbnail-isnt-loading-on-my-devforum-account-summary-page/4985362.rss",
       "id": "51321c235be41b4f3ac79aba"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Are these results reasonable for the small amount of ad credits i invested?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xso0dm/are_these_results_reasonable_for_the_small_amount/",
+      "published": "2026-11-10",
+      "excerpt": "https://preview.redd.it/2ex3wewbms0i1.png?width=1147&format=png&auto=webp&s=00c5dd7cd5de9e64241aee28ee0b52b0a9ead8d6 I ran my first test campaign with a small budget of 7 ad credits, to see if it will be worth pouring in a bigger budget for the next campaign (i'm thinking about 20 ad credits), or wo",
+      "creator": "/u/Lt_Lamp https://www.reddit.com/user/Lt_Lamp",
+      "id": "41467ce4e3fba917a393c6a4"
     },
     {
       "source": "reddit-robloxdev",
@@ -3827,6 +3865,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/false-user-terminations-with-0-proof/4985414.rss",
       "id": "1e603d558e4ca3294ec1018c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Is my game worth continuing pursuing?",
+      "url": "https://devforum.roblox.com/t/is-my-game-worth-continuing-pursuing/4985628",
+      "published": "2026-11-10",
+      "excerpt": "Punch Off Thoughts? Do I have a good game concept going? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/is-my-game-worth-continuing-pursuing/4985628.rss",
+      "id": "149aa1f1bd78f773946745c8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10194,54 +10244,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/new-roblox-studio-ribbon-an-empty-window-will-appear-while-hovering-over-all-buttons-along-with-lag-spikes/4977635.rss",
       "id": "94c00fb6d5af59b44e1729e4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Player objects not being properly managed on disconect during a Server & Client session",
-      "url": "https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712",
-      "published": "2026-11-05",
-      "excerpt": "Similar to this bug: Player objects not being properly managed on discconect during a Server & Client session The above bug was marked as fixed but seems to have made a reappearance. I noticed it after pressing “Leave” on one of the players, this was normally making players leave instantly, but a re",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712.rss",
-      "id": "924959f0f6935c34ed0d0d1c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I need your advice on this fishing tycoon game",
-      "url": "https://devforum.roblox.com/t/i-need-your-advice-on-this-fishing-tycoon-game/4977664",
-      "published": "2026-11-05",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-need-your-advice-on-this-fishing-tycoon-game/4977664.rss",
-      "id": "924933d1a63b20c0a701de50"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game Search Exact Match Search Doesn't Work",
-      "url": "https://devforum.roblox.com/t/game-search-exact-match-search-doesnt-work/4976190",
-      "published": "2026-11-05",
-      "excerpt": "Searching for games with quotes does not give you only results that you quoted. It ends up giving you similarly spelt results. I am on google chrome, I have checked without and with chrome extensions. I am on an intel I7-7820X CPU 3.60 GHz, 96 GB DDR4, NVIDIA GeForce RTX 4070 Expected behavior When ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-search-exact-match-search-doesnt-work/4976190.rss",
-      "id": "9167af94a7fac0cda4cf2f2e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "The hollow item not granted",
-      "url": "https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586",
-      "published": "2026-11-05",
-      "excerpt": "i was playing the hollow event and completed the banana eats badge ( Banana's Basement of SECRETS - Roblox ) when trying to claim the prize ( LOLWEN - Roblox ) it gave me an error saying something simmilar to “you already own this item” so i figured that the item has been added to my inventory and f",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586.rss",
-      "id": "904607cbf892bf8d39e66f63"
     }
   ]
 }

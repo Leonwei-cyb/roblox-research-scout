@@ -7,21 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Game idea, looking for my team!](https://www.reddit.com/r/robloxgamedev/comments/1xsm7gm/game_idea_looking_for_my_team/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Hello! I have a game idea I've been very serious about for a while. The problem is, i dont know anything about coding, or much about game building at all. I do graphic design, and love to draw so i would be great at creating graphics and co
-- **[How much does test players charge?](https://www.reddit.com/r/robloxgamedev/comments/1xslq8m/how_much_does_test_players_charge/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Genuinly interested in finding out about pricing for this service and what's included. submitted by /u/pwaper \[link\] \[comments\]
-- **[Is my trailer good?](https://www.reddit.com/r/robloxgamedev/comments/1xslns0/is_my_trailer_good/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Generally what's more important for cpp, thumbnails or trailer? Any suggestions on what's bad or good about it? submitted by /u/pwaper \[link\] \[comments\]
+- **[Are these results reasonable for the small amount of ad credits i invested?](https://www.reddit.com/r/robloxgamedev/comments/1xso0dm/are_these_results_reasonable_for_the_small_amount/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: https://preview.redd.it/2ex3wewbms0i1.png?width=1147&format=png&auto=webp&s=00c5dd7cd5de9e64241aee28ee0b52b0a9ead8d6 I ran my first test campaign with a small budget of 7 ad credits, to see if it will be worth pouring in a bigger budget for
+- **[Is it beneficial to categorize your game to a genre](https://www.reddit.com/r/robloxgamedev/comments/1xsmsmj/is_it_beneficial_to_categorize_your_game_to_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: Since I released my game I did not select a game category. But in my ads though I did exclude Roleplay, Shooter and more game categories that would not align with my game. So should I set my game as a Simulator game or shluld I still not sp
 
 ## Roblox Updates
 
-- **[Request for the Addition of Roblox Data-Centers in Central Asia Region](https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Dear Roblox Engineers, Central Asia is a region with an audience of nearly 40 million people. Unfortunately, users here currently face significant latency (ping) issues when connecting to any of the company’s servers; ping consistently rema
-- **[UICorner + UIStroke issue](https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: When a frame has both UICorner and UIStroke (BorderStroke → Inner) , these outlines appear at the corners of the frame, making it look unpleasant. I believe these thin outlines are part of the frame, since setting BorderStroke → Center/Oute
-- **[What Do You Think About This Horror Mechanics? - Might need a good realistic map for this one LOL](https://devforum.roblox.com/t/what-do-you-think-about-this-horror-mechanics-might-need-a-good-realistic-map-for-this-one-lol/4985550)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Just wanted to share a video of a horror project I’ve been scripting. Everything in it is made up of separate LocalScripts and server scripts that pass info to each other through player attributes. That way the flashlight, camera, closet an
+- **[Has Roblox started promoting games?](https://devforum.roblox.com/t/has-roblox-started-promoting-games/4985592)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Today I noticed that my game—without any paid advertising—received 2,700 views over two days via the recommendation system. Do you think it’s possible that Roblox has started promoting games that were long abandoned due to having zero activ
+- **[Is my game worth continuing pursuing?](https://devforum.roblox.com/t/is-my-game-worth-continuing-pursuing/4985628)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Punch Off Thoughts? Do I have a good game concept going? 1 post - 1 participant Read full topic
 
 ---
 

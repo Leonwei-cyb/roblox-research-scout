@@ -99,21 +99,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4977712:1",
-      "url": "https://devforum.roblox.com/t/player-objects-not-being-properly-managed-on-disconect-during-a-server-client-session/4977712",
-      "title": "Player objects not being properly managed on disconect during a Server & Client session",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4979313:1",
       "url": "https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313",
       "title": "Test Graphics and Memory on Lower-End Devices With the Performance Simulator",
@@ -1406,19 +1391,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977664:1",
-      "url": "https://devforum.roblox.com/t/i-need-your-advice-on-this-fishing-tycoon-game/4977664",
-      "title": "I need your advice on this fishing tycoon game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3134,6 +3106,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xso0dm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xso0dm/are_these_results_reasonable_for_the_small_amount/",
+      "title": "Are these results reasonable for the small amount of ad credits i invested?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4976044:1",
       "url": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044",
       "title": "Unable to move the testing game to public",
@@ -3610,6 +3595,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xsmsmj",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsmsmj/is_it_beneficial_to_categorize_your_game_to_a/",
+      "title": "Is it beneficial to categorize your game to a genre",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:1zQEoUzPKZQ",
       "url": "https://www.youtube.com/shorts/1zQEoUzPKZQ",
       "title": "empaths, how we doing rn?",
@@ -3651,19 +3650,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976586:1",
-      "url": "https://devforum.roblox.com/t/the-hollow-item-not-granted/4976586",
-      "title": "The hollow item not granted",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4392,6 +4378,19 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985592:1",
+      "url": "https://devforum.roblox.com/t/has-roblox-started-promoting-games/4985592",
+      "title": "Has Roblox started promoting games?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5206,17 +5205,6 @@
       "key": "devforum:4976072:1",
       "url": "https://devforum.roblox.com/t/unable-to-set-user-experience-to-public/4976072",
       "title": "Unable to set user experience to public?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976190:1",
-      "url": "https://devforum.roblox.com/t/game-search-exact-match-search-doesnt-work/4976190",
-      "title": "Game Search Exact Match Search Doesn't Work",
       "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
@@ -6273,6 +6261,17 @@
       "key": "devforum:4985530:1",
       "url": "https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530",
       "title": "UICorner + UIStroke issue",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985628:1",
+      "url": "https://devforum.roblox.com/t/is-my-game-worth-continuing-pursuing/4985628",
+      "title": "Is my game worth continuing pursuing?",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
