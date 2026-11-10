@@ -7,32 +7,45 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[How to Use ChatGPT to Make Roblox Games - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByOHN5VVNNcnM0QVdHdEYtdXplRzk0Qno0c3QtRGVQT1dldXFhSjNlV2JvWUJOQ2JPNUVKVGV3cjF0dDcxemNTU2VoaTdmWHUtMzg2YUVR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-21
-  - Feed excerpt: How to Use ChatGPT to Make Roblox Games YouTube
+- **[Claude MCP + Roblox Studio - Auto Upload Images and Use Them Instantly - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nN0ZjSVVHLXBES3BCdXhoc3VDMzM5cDA3YWdTZmhpYzQ3VnZfb2owUnpSYjc0Z1lhNHllYlNEUzBJYUhaUTBkNHBiUjItdU1UQkU4aTZR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-29
+  - Feed excerpt: Claude MCP + Roblox Studio - Auto Upload Images and Use Them Instantly YouTube
+- **[How to Make VFX in Roblox Studio With AI - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ndTUtSU44RmVfLUlJUEs3RGxkemtwY0FMM3BObHlaT1Q1WWhTTVBwVEFFby1iTE9JZWdEcVgyVWhsaVRaT3oxWkFBeTg2Z2NrdFB6aE9n?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-07
+  - Feed excerpt: How to Make VFX in Roblox Studio With AI YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MHlpeE5NemFjTEQ2QkQzdEVWU0o2Mm13M2M0QTBaeFFWODZpaVFYYXVIeWpDSHV0V1VTalNEMlA4NnZESGVsQXV5a2NJVHB4cG1uUi1B?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-08
+  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
 
 ## Community
 
-- **[Looking for a Playtester? I'm Available!](https://www.reddit.com/r/robloxgamedev/comments/1xs4vt4/looking_for_a_playtester_im_available/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: I'm Open for Game Testing Again! Need honest feedback before launching your Roblox game? Struggling with low retention or player count? I can help identify problems and suggest improvements. What I offer - Testing on PC, mobile, and tablet.
-- **[Looking for music composer for a passionate project (PvZ Fangame)](https://www.reddit.com/r/robloxgamedev/comments/1xs3tm6/looking_for_music_composer_for_a_passionate/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: Greetings to everyone reading this! ¡Starlight! is currently looking for a music composer to join us in developing a project called The Garden Tower Defenders , a fan-made game inspired by the Plants vs. Zombies franchise! For this project,
-- **[Thoughts on menu for ranked mode in my bare knuckle boxing game?](https://www.reddit.com/r/robloxgamedev/comments/1xs3zen/thoughts_on_menu_for_ranked_mode_in_my_bare/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: Inspired by the great fight night champion, it releases tomorrow alongside a bunch of new content. Ranked pass is also completely free! submitted by /u/LukeLovesHorror \[link\] \[comments\]
-- **[Want to know if its decent enough to run ads](https://www.reddit.com/r/robloxgamedev/comments/1xs3hyo/want_to_know_if_its_decent_enough_to_run_ads/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
-  - Feed excerpt: So I recently finished a new game and I'd like you guys' opinion. It's already published I want to know if this game has potential, nothing crazy just can it get to 1k+ ccu? and any tips on how to manage ads. game is called Finish The Puzzl
+- **[Dev log follow-up: my D1 went 1.85% → 3.13% after the first-minute rework — retention is still the whole fight](https://www.reddit.com/r/robloxgamedev/comments/1xs76ow/dev_log_followup_my_d1_went_185_313_after_the/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: Solo dev here — Sebastian, building EXIT POINT (wingsuit / skydiving / BASE jumping on Roblox) in public. Follow-up to my launch post from a few weeks ago — three commenters here tore apart my first minute, so this sub gets the honest numbe
+- **[Trailer for my game: Last To Ride](https://www.reddit.com/r/robloxgamedev/comments/1xs5r0l/trailer_for_my_game_last_to_ride/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: Trailer for my upcoming game. Gameplay at release will include a survivor race and an endless long distance jump. Do you get the gist of the game from the trailer? submitted by /u/iesful \[link\] \[comments\]
+- **[My first Roblox game is finally out! What should I do next?](https://www.reddit.com/r/robloxgamedev/comments/1xs6df9/my_first_roblox_game_is_finally_out_what_should_i/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: My friend and I recently released the first version of our game! It took quite a while to get everything ready. We spent about 6 months programming this version, but overall, it's been a really fun experience. For a first game, I suppose we
+- **[Our game is at 1.3K CCU!](https://www.reddit.com/r/robloxgamedev/comments/1xs58im/our_game_is_at_13k_ccu/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: We recently posted that my game peaked at 98CCU but it immediately dropped back down to about 10CCU. We stayed consistent with updates and listened to the community and reached this milestone. I’m posting this to show to you guys that you s
+- **[do i have to use r6 models?](https://www.reddit.com/r/robloxgamedev/comments/1xs5e7b/do_i_have_to_use_r6_models/)** · Reddit r/robloxgamedev public RSS · 2026-11-09
+  - Feed excerpt: i'm making a story-driven open-world ARPG and am planning to make custom character models for both the player and npcs. after talking to some people about the idea i've gotten mixed feedback on not using the classic r6 models. some people l
 
 ## Roblox Updates
 
-- **[Obscene Amount of Draw Calls for BaseParts after Recent Roblox Update](https://devforum.roblox.com/t/obscene-amount-of-draw-calls-for-baseparts-after-recent-roblox-update/4984681)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: Since 1-2 weeks ago, the draw count on simple parts and wedges has been overly excessive to the point that a map I could play in my game at 165 fps 2 weeks ago is now barely playable at 40 FPS. I removed all decals, textures, meshparts, and
-- **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: Key Takeaways Automatic image translation is now available in beta for seven languages - French, German, Indonesian, Italian, Korean, Portuguese, and Spanish. It translates text in your in-game images into each player’s language while keepi
-- **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** · Roblox updates category (availability may vary) · 2026-11-09
-  - Feed excerpt: Key Takeaways Automatic image translation is now available in beta for seven languages - French, German, Indonesian, Italian, Korean, Portuguese, and Spanish. It translates text in your in-game images into each player’s language while keepi
-- **[Developers Should Not Be Able to Activate Ads Using Another User’s Payment Method](https://devforum.roblox.com/t/developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984655)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
-- **[\[CRITICAL\] Developers Should Not Be Able to Activate Ads Using Another User’s Payment Method](https://devforum.roblox.com/t/critical-developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984662)** · Roblox Developer Forum latest · 2026-11-09
-  - Feed excerpt: I recently noticed a pretty concerning issue with Roblox Ads Manager. Other developers on my team appear to have the ability to activate advertising campaigns that charge my personal payment method, without needing my approval. I don’t unde
+- **[Angaria Region, Siberia \| Official Map Showcase](https://devforum.roblox.com/t/angaria-region-siberia-official-map-showcase/4984853)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: Angaria Region, Siberia \| Official Map Showcase Hey everyone! I’ve just released a new showcase video for Angaria Region, Siberia , a realistic environment created in Roblox Studio. The map focuses on capturing the isolated, forgotten, and 
+- **[AI Traffic System prototype](https://devforum.roblox.com/t/ai-traffic-system-prototype/4984790)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: Hey guys, so i want feedback on what i can do to improve this AI traffic system, please tell me in the comments what you advise me to upgrade or change, all feedback is welcome! 1 post - 1 participant Read full topic
+- **[Content preview in scripts](https://devforum.roblox.com/t/content-preview-in-scripts/4984844)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: Given how Content is now a standardized type, it would be neat to be able to preview them in the script editor, kind of how you can preview Color3s: Example edit for an image: Of course, there are quite a lot of Content types, but it would 
+- **[Dominus Noctis at Black Friday Sale](https://devforum.roblox.com/t/dominus-noctis-at-black-friday-sale/4984821)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: The Dominus Noctis has a violet indigo hood with a full-black cover on the inside that masks the wearer’s face. Two shaded silver rings are attached to the two lower corners of the hat and are visible on the front of the wearer’s shoulders.
+- **[Hovering over "virtual controller" in the device emulator opens empty popups](https://devforum.roblox.com/t/hovering-over-virtual-controller-in-the-device-emulator-opens-empty-popups/4984850)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: whenever you hover your mouse over the virtual controller button, an empty box will appear and quickly disappear, and upon hovering over your studio window, it’ll show you all the dialog boxes stacked Expected behavior to not do anything un
+- **[Let players over 13 view social links](https://devforum.roblox.com/t/let-players-over-13-view-social-links/4984796)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: As a Roblox developer, it is currently too hard to grow a community following the child safety restrictions. At the moment, social links (found on a game’s or group’s page) can only be seen by players over 16. Teens are likely the most acti
+- **[Realistic 8 Ball Pool Game! - Looking for Feedback / Testers!](https://devforum.roblox.com/t/realistic-8-ball-pool-game-looking-for-feedback-testers/4984892)** · Roblox Developer Forum latest · 2026-11-09
+  - Feed excerpt: Hi guys, I’m a solo developer and have been working on my new game “8 Ball VS!” - a realistic recreation of the classic tabletop ball game. I’ll keep it short, as the video demo below sums up the progress so far. Compete online, against fri
 
 ---
 

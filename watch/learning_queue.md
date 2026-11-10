@@ -11,8 +11,8 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Saved source coverage
 
 - devforum: 296
-- index-only: 11
-- reddit: 287
+- index-only: 13
+- reddit: 285
 - youtube: 4
 
 ## First-Session And Mobile
@@ -38,7 +38,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Ui And Menus
 
 - [How can I improve retention (8.5 mins) in my tycoon game?](https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
-- [New Studio Ribbon - Context menu appears over all your screen, even though Roblox Studio is not in the main focus anymore](https://devforum.roblox.com/t/new-studio-ribbon-context-menu-appears-over-all-your-screen-even-though-roblox-studio-is-not-in-the-main-focus-anymore/4977663) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
+- [Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)](https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673) — devforum; **unviewed metadata**. Proposed test: Is the hand/build/dice bar readable at full desktop viewport without covering the board?
 
 ## Animation And Audio
 
@@ -48,7 +48,7 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## World And Visual Design
 
 - [Roblox Player displays terrain in low detail; full detail fine in Roblox Studio](https://devforum.roblox.com/t/roblox-player-displays-terrain-in-low-detail-full-detail-fine-in-roblox-studio/4976392) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [\[HIRING\] Experienced Builder / 3D Environment Artist Realistic Recreation of Downtown Guelph, Ontario](https://devforum.roblox.com/t/hiring-experienced-builder-3d-environment-artist-realistic-recreation-of-downtown-guelph-ontario/4976307) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [How to get some models are need for client and ONLY client renders and server don't](https://devforum.roblox.com/t/how-to-get-some-models-are-need-for-client-and-only-client-renders-and-server-dont/4978829) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 
@@ -63,13 +63,13 @@ Records processed: 600; unique posts: 598; fully reviewed: 0.
 ## Tools And Performance
 
 - [Looking for feedback on my AI character import plugin](https://www.reddit.com/r/robloxgamedev/comments/1xqk5tj/looking_for_feedback_on_my_ai_character_import/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)](https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [RobloxAIBuilderPRO Plugin - AI Assistant Code & Copilot & Building](https://devforum.roblox.com/t/robloxaibuilderpro-plugin-ai-assistant-code-copilot-building/4978859) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report) test with measurable pass/fail.
+3. Explain WHY it matters and propose one RobloxAIBuilderPRO Plugin - AI Assistant Code & Copilot & Building test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

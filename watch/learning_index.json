@@ -189,20 +189,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4976307:1",
-      "url": "https://devforum.roblox.com/t/hiring-experienced-builder-3d-environment-artist-realistic-recreation-of-downtown-guelph-ontario/4976307",
-      "title": "[HIRING] Experienced Builder / 3D Environment Artist Realistic Recreation of Downtown Guelph, Ontario",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "world and visual design"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4976421:1",
       "url": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421",
       "title": "Territory Hex: Looking for Feedback",
@@ -212,20 +198,6 @@
       "signals": [
         "board game and turn flow",
         "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977663:1",
-      "url": "https://devforum.roblox.com/t/new-studio-ribbon-context-menu-appears-over-all-your-screen-even-though-roblox-studio-is-not-in-the-main-focus-anymore/4977663",
-      "title": "New Studio Ribbon - Context menu appears over all your screen, even though Roblox Studio is not in the main focus anymore",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -253,20 +225,6 @@
       "kind": "devforum",
       "signals": [
         "animation and audio",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977739:1",
-      "url": "https://devforum.roblox.com/t/multiple-fake-toolbox-models-causing-fake-studio-dependency-popups/4977739",
-      "title": "Multiple fake toolbox models causing fake \"studio dependency\" popups",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
         "tools and performance"
       ],
       "score": 8,
@@ -399,20 +357,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xoiuqp",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoiuqp/bubble_animator_v10_viewport_animation_suite_for/",
-      "title": "Bubble Animator v1.0 — Viewport Animation Suite for Roblox Studio",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xoqtmz",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoqtmz/help_ctr_and_retention_rate/",
       "title": "Help CTR and Retention Rate",
@@ -422,20 +366,6 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xow7m5",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xow7m5/new_studio_ui/",
-      "title": "new studio ui",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -1218,6 +1148,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xs5e7b",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs5e7b/do_i_have_to_use_r6_models/",
+      "title": "do i have to use r6 models?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xs76ow",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs76ow/dev_log_followup_my_d1_went_185_313_after_the/",
+      "title": "Dev log follow-up: my D1 went 1.85% → 3.13% after the first-minute rework — retention is still the whole fight",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [
+        "first-session and mobile",
+        "building and purchases"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4975979:1",
       "url": "https://devforum.roblox.com/t/mcpbat-fails-to-launch-studio-mcp-due-to-unquoted-path-containing-spaces-roblox-is-not-recognized/4975979",
       "title": "Mcp.bat fails to launch Studio MCP due to unquoted path containing spaces ('...\\Roblox' is not recognized)",
@@ -1306,19 +1264,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976783:1",
-      "url": "https://devforum.roblox.com/t/proximityprompt-ui-properties/4976783",
-      "title": "ProximityPrompt UI Properties",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2342,6 +2287,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4984796:1",
+      "url": "https://devforum.roblox.com/t/let-players-over-13-view-social-links/4984796",
+      "title": "Let players over 13 view social links",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4984844:1",
+      "url": "https://devforum.roblox.com/t/content-preview-in-scripts/4984844",
+      "title": "Content preview in scripts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4984892:1",
+      "url": "https://devforum.roblox.com/t/realistic-8-ball-pool-game-looking-for-feedback-testers/4984892",
+      "title": "Realistic 8 Ball Pool Game! - Looking for Feedback / Testers!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xobt58",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xobt58/i_manually_uploaded_each_of_these_for_an/",
       "title": "i manually uploaded each of these for an animation, so i wanted to share it with other people to maybe use, so here's every Morshu Frame in order each as a Roblox Image ID",
@@ -2458,19 +2442,6 @@
         "building and purchases",
         "economy and income",
         "genres and successful loops"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xoxlj3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoxlj3/new_roblox_paint_engine_need_feedback/",
-      "title": "new roblox paint engine need feedback",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3237,6 +3208,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4984790:1",
+      "url": "https://devforum.roblox.com/t/ai-traffic-system-prototype/4984790",
+      "title": "AI Traffic System prototype",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4984853:1",
+      "url": "https://devforum.roblox.com/t/angaria-region-siberia-official-map-showcase/4984853",
+      "title": "Angaria Region, Siberia | Official Map Showcase",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xo9z1z",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo9z1z/looking_for_3_types_of_people/",
       "title": "Looking for 3 types of people",
@@ -3738,32 +3737,6 @@
       "url": "https://devforum.roblox.com/t/connex-event-connection-manager-with-priorities/4977629",
       "title": "Connex - Event Connection Manager with Priorities",
       "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977645:1",
-      "url": "https://devforum.roblox.com/t/open-source-omnistore-roblox-data-persistence-with-session-locking-migrations-replication/4977645",
-      "title": "[Open Source] OmniStore - Roblox Data Persistence with Session Locking, Migrations & Replication",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977769:1",
-      "url": "https://devforum.roblox.com/t/asset-versioning-is-coming-to-meshes-images-audio-and-video/4977769",
-      "title": "Asset Versioning Is Coming to Meshes, Images, Audio, and Video",
-      "source": "roblox-devforum-updates",
       "published": "2026-11-05",
       "kind": "devforum",
       "signals": [
@@ -4423,6 +4396,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4984850:1",
+      "url": "https://devforum.roblox.com/t/hovering-over-virtual-controller-in-the-device-emulator-opens-empty-popups/4984850",
+      "title": "Hovering over \"virtual controller\" in the device emulator opens empty popups",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xoa3kx",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoa3kx/any_new_developer_want_to_work_with_me/",
       "title": "Any new developer want to work with me?",
@@ -4522,19 +4508,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xouiz8",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xouiz8/my_friend_needs_help_with_his_game/",
-      "title": "MY FRIEND NEEDS HELP WITH HIS GAME",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5242,6 +5215,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xs6df9",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs6df9/my_first_roblox_game_is_finally_out_what_should_i/",
+      "title": "My first Roblox game is finally out! What should I do next?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4975982:1",
       "url": "https://devforum.roblox.com/t/unable-to-make-any-games-public-since-getting-wrongfully-terminated/4975982",
       "title": "Unable to Make any games public since getting wrongfully terminated",
@@ -5410,17 +5396,6 @@
       "key": "devforum:4977642:1",
       "url": "https://devforum.roblox.com/t/copying-and-pasting-is-not-used-or-sinked-by-properties/4977642",
       "title": "Copying and pasting is not used or sinked by properties",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977750:1",
-      "url": "https://devforum.roblox.com/t/parts-not-rendering-on-low-graphics-that-are-within-the-draw-radius-streaming-is-turned-off/4977750",
-      "title": "Parts not Rendering on Low Graphics that are within the Draw Radius (Streaming is turned off)",
       "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
@@ -6276,6 +6251,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4984821:1",
+      "url": "https://devforum.roblox.com/t/dominus-noctis-at-black-friday-sale/4984821",
+      "title": "Dominus Noctis at Black Friday Sale",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-09",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xo4j3b",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xo4j3b/question_about_investments/",
       "title": "Question about investments",
@@ -6309,17 +6295,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xocft4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xocft4/creating_a_shooter_game/",
-      "title": "Creating a shooter game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xoefq2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoefq2/help_for_visits/",
       "title": "help for visits",
@@ -6342,32 +6317,10 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xofq8b",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xofq8b/clip_from_my_released_game/",
-      "title": "Clip From My Released Game ^^",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xoib63",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoib63/you_tell_a_game_ill_try_to_create_it/",
       "title": "You tell a game Ill try to create it",
       "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xokh6c",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xokh6c/quick_screenshot_of_custom_materials/",
-      "title": "Quick screenshot of Custom Materials",
-      "source": "reddit-robloxstudio",
       "published": "2026-11-05",
       "kind": "reddit",
       "signals": [],
@@ -7409,6 +7362,41 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xs58im",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs58im/our_game_is_at_13k_ccu/",
+      "title": "Our game is at 1.3K CCU!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xs5r0l",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs5r0l/trailer_for_my_game_last_to_ride/",
+      "title": "Trailer for my game: Last To Ride",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-09",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE00MHlpeE5NemFjTEQ2QkQzdEVWU0o2Mm13M2M0QTBaeFFWODZpaVFYYXVIeWpDSHV0V1VTalNEMlA4NnZESGVsQXV5a2NJVHB4cG1uUi1B",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MHlpeE5NemFjTEQ2QkQzdEVWU0o2Mm13M2M0QTBaeFFWODZpaVFYYXVIeWpDSHV0V1VTalNEMlA4NnZESGVsQXV5a2NJVHB4cG1uUi1B?oc=5",
+      "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-08",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE13ZUFCaUQyRlBVczZ2ckF3TGZSSGVKcGlrQzdaTXVDWmdTd3R2Ykl1c25UTGhkM0VYai1LM3hHQUs5WUtVQzh5T2tDVDQ4TmJ6QnVJVlZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZUFCaUQyRlBVczZ2ckF3TGZSSGVKcGlrQzdaTXVDWmdTd3R2Ykl1c25UTGhkM0VYai1LM3hHQUs5WUtVQzh5T2tDVDQ4TmJ6QnVJVlZB?oc=5",
       "title": "How To Connect Claude To Roblox Studio - How To Connect Roblox Studio To Claude (Connect AI Roblox) - YouTube",
@@ -7454,6 +7442,20 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5ndTUtSU44RmVfLUlJUEs3RGxkemtwY0FMM3BObHlaT1Q1WWhTTVBwVEFFby1iTE9JZWdEcVgyVWhsaVRaT3oxWkFBeTg2Z2NrdFB6aE9n",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ndTUtSU44RmVfLUlJUEs3RGxkemtwY0FMM3BObHlaT1Q1WWhTTVBwVEFFby1iTE9JZWdEcVgyVWhsaVRaT3oxWkFBeTg2Z2NrdFB6aE9n?oc=5",
+      "title": "How to Make VFX in Roblox Studio With AI - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-07",
+      "kind": "index-only",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

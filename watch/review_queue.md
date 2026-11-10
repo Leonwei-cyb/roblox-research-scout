@@ -18,7 +18,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## 3D / models / environments
 
 - **[\[FistBite Studios\] Recrutamento: Animador, 3D Modeler, VFX e SFX para o Project Fight (Jogo de Luta 2.5D)](https://devforum.roblox.com/t/fistbite-studios-recrutamento-animador-3d-modeler-vfx-e-sfx-para-o-project-fight-jogo-de-luta-25d/4981046)** — Public text/page, video not confirmed
-- **[Asset Versioning Is Coming to Meshes, Images, Audio, and Video](https://devforum.roblox.com/t/asset-versioning-is-coming-to-meshes-images-audio-and-video/4977769)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 

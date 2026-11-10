@@ -129,11 +129,11 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "1f23c7232e8e35b21d81bb03569a8afde2a6b0f9",
-      "head_subject": "Improve ChatGPT CLI restore and graceful restart (#19583)",
+      "head": "f1ee5679fe6b42d26308110da924e732354f0348",
+      "head_subject": "cmd/launch: use thinking metadata for OpenCode settings (#19409)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.15",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+      "release_tag": "v0.40.16",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
       "url": "https://github.com/ollama/ollama"
     }
   },

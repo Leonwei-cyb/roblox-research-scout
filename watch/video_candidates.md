@@ -4,7 +4,6 @@
 
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
-- **[Bubble Animator v1.0 — Viewport Animation Suite for Roblox Studio](https://www.reddit.com/r/robloxgamedev/comments/1xoiuqp/bubble_animator_v10_viewport_animation_suite_for/)** — Community showcase post (video not confirmed) · 2026-11-05
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xpa8qs/investor_entity_original_asym_horror_game_seeking/)** — Community showcase post (video not confirmed) · 2026-11-06
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xr4dus/investor_entity_original_asym_horror_game_seeking/)** — Community showcase post (video not confirmed) · 2026-11-08
 - **[\[Unpaid\] Looking for playtesters for our first game – an anti-gravity racer made by a dad and his kids](https://www.reddit.com/r/robloxgamedev/comments/1xqvtl4/unpaid_looking_for_playtesters_for_our_first_game/)** — Community showcase post (video not confirmed) · 2026-11-08

@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [anthropics/claude-code](https://github.com/anthropics/claude-code) — chore: Update mods/.
+- **Release:** [ollama/ollama](https://github.com/ollama/ollama) v0.40.15 → v0.40.16.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
