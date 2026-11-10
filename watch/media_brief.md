@@ -7,29 +7,23 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[studio playtest STOP takes a lot of time ( more than +3 MINUTES )](https://www.reddit.com/r/robloxgamedev/comments/1xsy00j/studio_playtest_stop_takes_a_lot_of_time_more/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: hey gang, as the title says and idk whats happening, i already checked the bind functions and they arent the cause of the problem . does any of you already had this problem ? https://preview.redd.it/ymitexn7ju0i1.png?width=239&format=png&au
-- **[Is Local Co-op With Two Characters on One Roblox Account Allowed Under Roblox’s Policies?](https://www.reddit.com/r/robloxgamedev/comments/1xsz7u1/is_local_coop_with_two_characters_on_one_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: I’m currently developing a top-down zombie survival game called BlockZ , which features both online multiplayer and local co-op. I’ve implemented a local multiplayer system that allows two people to play simultaneously on the same device us
-- **[Looking for builders for my roblox delver game DM EMNYSOVIAL ON DISCORD](https://www.reddit.com/r/robloxgamedev/comments/1xsx9uz/looking_for_builders_for_my_roblox_delver_game_dm/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Hello im a co owner for a dandy world type game We are looking for builders if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game subm
-- **[big project i’ve been working on on the side for around a year at this point](https://www.reddit.com/r/robloxgamedev/comments/1xsyciw/big_project_ive_been_working_on_on_the_side_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: i’ve just been building and researching so far so it will be a while until it’s out but it’s going to be a game about heretics and victorian era hunters sorry for the blur it was a screenshot of a small window on my screen submitted by /u/p
+- **[Launched a game but I think I set the wrong genre, will it ruin my stats?](https://www.reddit.com/r/robloxgamedev/comments/1xszv20/launched_a_game_but_i_think_i_set_the_wrong_genre/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: I recently launched a game based on starting off in the sea and evolving while also having PVP. Its similar to another game called bug evolution. The problem is I set the genre to survival with the subgenre being 1 vs All. I am afraid it wi
 
 ## Roblox Updates
 
-- **[:GetPartsInPart stopped working for parts with broken CFrame matrix](https://devforum.roblox.com/t/getpartsinpart-stopped-working-for-parts-with-broken-cframe-matrix/4985960)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: After very recent update one of my games completely broke due to a broken GetPartsInPart collision check. After an investigation, the issue turns out to be broken CFrame matrix, which seems to be caused by floating point error of studio too
-- **[MCP starting solo play sessions sometimes causes the window to be forced to the top](https://devforum.roblox.com/t/mcp-starting-solo-play-sessions-sometimes-causes-the-window-to-be-forced-to-the-top/4986004)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Have noticed this bug for a while. When the MCP starts a solo play session, the Roblox Studio window containing it SOMETIMES gets forced to the top (seems 50/50 chance). This is very disruptive – for example, I’ll be editing a script in VSC
-- **[Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout](https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Our experience’s client crash rate went up in two steps, both lining up with the 747 rollout (times from the Engine Release annotations in Creator Dashboard). Nothing was published on our side in this window (last place publish: Nov 9, 21:1
-- **[Recent Updates to Rotex](https://devforum.roblox.com/t/recent-updates-to-rotex/4985984)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Quick Brief: I am sure we are all familiar with the continuous growth of ai within game development, so I took the time to asses the current supply of applications / tools which claim to be suited for Roblox game development with the expect
-- **[Remove Device Emulator Automatic Activation please](https://devforum.roblox.com/t/remove-device-emulator-automatic-activation-please/4986016)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: It randomly popped up after i changed ingame studio quality to 1 just to test with some aspects and then the interface kinda locked me in a choice between keeping it + having Editor Quality Level 21 but the interface kinda annoys me when i 
-- **[\[LOOKING FOR\] Roblox Builder for 3–6 Additional game Levels](https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Hi everyone! I’m am looking to hire a builder to create 3–6 additional levels that fit the style of the upcoming game. About The Game LASER CORRIDOR Welcome to LASER CORRIDOR – a high-intensity multiplayer survival experience where every se
+- **["Error lens" implementation for highlighting line errors](https://devforum.roblox.com/t/error-lens-implementation-for-highlighting-line-errors/4986061)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: While I don’t use Roblox Studio’s code editor much anymore, a QoL feature that I think would be relatively trivial to implement yet convenient for viewing errors are “error lens”. It would: highlight the line where the error is display the 
+- **[The R6 default animate script does not work](https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: My roblox studio just updated, and every time i playtest the game i’m working on, i get a lot of warnings that say : AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label. So i looked in
+- **[AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label](https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: While using studio, I ran into a problem where this warning would spam in the Output window constantly. I’ve done everything I could, but the warnings wouldn’t go away. This happens if my game has any sort of R6 in it. I decided to post thi
+- **[Content Rating Questionnaire flags realistic character reactions as a Community Standards violation](https://devforum.roblox.com/t/content-rating-questionnaire-flags-realistic-character-reactions-as-a-community-standards-violation/4986060)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: I’m currently developing a psychological horror experience, and I’m having trouble completing the new Content Rating Questionnaire. When I select Realistic under “How do characters react to violence?”, the questionnaire displays the followi
+- **[TextChatService chat bubbles do not appear when HumanoidRootPart is missing, even if not adorned to it](https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: The default TextChatService chat bubbles do not appear if HumanoidRootPart is missing or deleted, even if the AdorneeName property is set to a different part. A place with this issue. The only changes made are that a startercharacter with n
+- **[\[LOOKING FOR\] Builder for game Levels](https://devforum.roblox.com/t/looking-for-builder-for-game-levels/4985942)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Hi everyone! I’m am looking to hire a builder to create additional levels that fit the style of the upcoming game. About The Game LASER CORRIDOR Welcome to LASER CORRIDOR – a high-intensity multiplayer survival experience where every second
 
 ---
 

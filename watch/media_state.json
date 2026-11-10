@@ -3379,7 +3379,14 @@
     "74730395be081377f82a0029",
     "769a95eeff561281833446bf",
     "30f0384df1a1e116ae5ddfa2",
-    "065327e172a72141d91b59a4"
+    "065327e172a72141d91b59a4",
+    "b54d7c252910ba19eb8a45b6",
+    "df8a047ad2089e2fe6f9cce7",
+    "79ea0d7274bab8959f661311",
+    "f24bc79f7b710459d116fea4",
+    "b048153fced1e63b72ea3544",
+    "be2ab2453f07cf75f5248973",
+    "51f97c8f88092d27193a440b"
   ],
   "items": [
     {
@@ -3428,6 +3435,18 @@
       "excerpt": "I have AI thumb nails and would like to spruce them up. submitted by /u/friedbeann [link] [comments]",
       "creator": "/u/friedbeann https://www.reddit.com/user/friedbeann",
       "id": "f31d9645981b5a7c15705482"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "The R6 default animate script does not work",
+      "url": "https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047",
+      "published": "2026-11-10",
+      "excerpt": "My roblox studio just updated, and every time i playtest the game i’m working on, i get a lot of warnings that say : AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label. So i looked into the animate local script in my character and i think it i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047.rss",
+      "id": "f24bc79f7b710459d116fea4"
     },
     {
       "source": "reddit-robloxdev",
@@ -3568,6 +3587,18 @@
       "id": "e031496a5bac7b18c17a47b0"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "\"Error lens\" implementation for highlighting line errors",
+      "url": "https://devforum.roblox.com/t/error-lens-implementation-for-highlighting-line-errors/4986061",
+      "published": "2026-11-10",
+      "excerpt": "While I don’t use Roblox Studio’s code editor much anymore, a QoL feature that I think would be relatively trivial to implement yet convenient for viewing errors are “error lens”. It would: highlight the line where the error is display the error itself on the vacant side of the line Below is a scree",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/error-lens-implementation-for-highlighting-line-errors/4986061.rss",
+      "id": "df8a047ad2089e2fe6f9cce7"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3675,6 +3706,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "[LOOKING FOR] Builder for game Levels",
+      "url": "https://devforum.roblox.com/t/looking-for-builder-for-game-levels/4985942",
+      "published": "2026-11-10",
+      "excerpt": "Hi everyone! I’m am looking to hire a builder to create additional levels that fit the style of the upcoming game. About The Game LASER CORRIDOR Welcome to LASER CORRIDOR – a high-intensity multiplayer survival experience where every second could be your last. Enter a mysterious futuristic facility ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-builder-for-game-levels/4985942.rss",
+      "id": "be2ab2453f07cf75f5248973"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data",
       "url": "https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464",
       "published": "2026-11-10",
@@ -3698,6 +3741,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "TextChatService chat bubbles do not appear when HumanoidRootPart is missing, even if not adorned to it",
+      "url": "https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071",
+      "published": "2026-11-10",
+      "excerpt": "The default TextChatService chat bubbles do not appear if HumanoidRootPart is missing or deleted, even if the AdorneeName property is set to a different part. A place with this issue. The only changes made are that a startercharacter with no humanoid root part is used, and the AdorneeName of BubbleC",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071.rss",
+      "id": "b54d7c252910ba19eb8a45b6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[LOOKING FOR] Roblox Builder for 3–6 Additional game Levels",
       "url": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942",
       "published": "2026-11-10",
@@ -3705,6 +3760,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942.rss",
       "id": "b4c7220f3c34049c15a08a15"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label",
+      "url": "https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040",
+      "published": "2026-11-10",
+      "excerpt": "While using studio, I ran into a problem where this warning would spam in the Output window constantly. I’ve done everything I could, but the warnings wouldn’t go away. This happens if my game has any sort of R6 in it. I decided to post this since I don’t see anyone else talking about it. System Inf",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040.rss",
+      "id": "b048153fced1e63b72ea3544"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3895,6 +3962,18 @@
       "id": "8162aa646f30ffdaf0bb6eed"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Content Rating Questionnaire flags realistic character reactions as a Community Standards violation",
+      "url": "https://devforum.roblox.com/t/content-rating-questionnaire-flags-realistic-character-reactions-as-a-community-standards-violation/4986060",
+      "published": "2026-11-10",
+      "excerpt": "I’m currently developing a psychological horror experience, and I’m having trouble completing the new Content Rating Questionnaire. When I select Realistic under “How do characters react to violence?”, the questionnaire displays the following warning when I complete it: “Based on your responses, you",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/content-rating-questionnaire-flags-realistic-character-reactions-as-a-community-standards-violation/4986060.rss",
+      "id": "79ea0d7274bab8959f661311"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -4038,7 +4117,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 16 posts - 14 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 21 posts - 18 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -4147,6 +4226,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/formatted-code-no-longer-has-color/4985395.rss",
       "id": "5503a3d7a90d0a139fd52acb"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Launched a game but I think I set the wrong genre, will it ruin my stats?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xszv20/launched_a_game_but_i_think_i_set_the_wrong_genre/",
+      "published": "2026-11-10",
+      "excerpt": "I recently launched a game based on starting off in the sea and evolving while also having PVP. Its similar to another game called bug evolution. The problem is I set the genre to survival with the subgenre being 1 vs All. I am afraid it will ruin my ad and game stats and the game won't blow up, I s",
+      "creator": "/u/Revolutionary-Web507 https://www.reddit.com/user/Revolutionary-Web507",
+      "id": "51f97c8f88092d27193a440b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10208,89 +10298,6 @@
       "excerpt": "pls give it a try still in its alpha phase but try it and comment your Likings and what i could add to make this game more popular submitted by /u/NewbieDev666 [link] [comments]",
       "creator": "/u/NewbieDev666 https://www.reddit.com/user/NewbieDev666",
       "id": "fb6193daa11dec4d9d3ba646"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Terrain doesn't load properly, has no collision",
-      "url": "https://devforum.roblox.com/t/terrain-doesnt-load-properly-has-no-collision/4977842",
-      "published": "2026-11-05",
-      "excerpt": "Terrain has an LOD feature that doesn’t seem to be documented at all where it’s shown at a lower quality and has no collision. There is an issue now where chunks of it don’t load in, resulting in players clipping through it: It even happens at the immediate spawn location of the player like in this ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/terrain-doesnt-load-properly-has-no-collision/4977842.rss",
-      "id": "f94227ffa374772532b64d35"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to Run ViewModel Animation",
-      "url": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408",
-      "published": "2026-11-05",
-      "excerpt": "(topic deleted by author) 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408.rss",
-      "id": "f58460917a0deb358cd20786"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to move the testing game to public",
-      "url": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044",
-      "published": "2026-11-05",
-      "excerpt": "I was ready to push the game into public facing stage and buy ads. But the video shows that I cannot change the access of the game. It is a bug that affects my UA strategy negatively. Expected behavior I expect I can move the game to public normally. Page URL: https://create.roblox.com/dashboard/cre",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044.rss",
-      "id": "f21d42acb51f788b832b7656"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Grand Strategy WW1 Game stats",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogqkh/grand_strategy_ww1_game_stats/",
-      "published": "2026-11-05",
-      "excerpt": "Hi guys! I finally go to release my hoi4 inspired Countryball Strategy game! However, Ive come to quite some trouble with the retention. Ive checked a lot, fixed a lot and maybe itll change in a few days, but what do you guys think could be done? Id be really glad to get some criticism! Im running a",
-      "creator": "/u/Even_Direction_8940 https://www.reddit.com/user/Even_Direction_8940",
-      "id": "f1ed47f344cc9408b6f2b183"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio no longer has a titlebar?",
-      "url": "https://devforum.roblox.com/t/studio-no-longer-has-a-titlebar/4977704",
-      "published": "2026-11-05",
-      "excerpt": "3 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-no-longer-has-a-titlebar/4977704.rss",
-      "id": "eff96c72d824412711a2879d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "New Studio Ribbon - The minimize and maximize button has the wrong icon after Roblox Studio started up in maximized mode",
-      "url": "https://devforum.roblox.com/t/new-studio-ribbon-the-minimize-and-maximize-button-has-the-wrong-icon-after-roblox-studio-started-up-in-maximized-mode/4977648",
-      "published": "2026-11-05",
-      "excerpt": "Description It started up Roblox Studio like this Now, if I hover over the square, for some reason the icon changes. See, it changed I wish it wouldn’t change at all actually, the maximized icon looks strange, the single square one is better. Re-production Steps Maximize Roblox Studio Close Roblox S",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-studio-ribbon-the-minimize-and-maximize-button-has-the-wrong-icon-after-roblox-studio-started-up-in-maximized-mode/4977648.rss",
-      "id": "efc1cbc4e468b2e9eab91e50"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Getting access to Journey option for my experience",
-      "url": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460",
-      "published": "2026-11-05",
-      "excerpt": "Hi. me and my friend have made an experience. we wanna get access to the Journey option to use it for its purpose but I ain’t seeing it anywhere in the Analytics tab. do I have to join the Community Feedback Program to get access to the Journey option? 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460.rss",
-      "id": "ea658e339c047c5b354ffb50"
     }
   ]
 }

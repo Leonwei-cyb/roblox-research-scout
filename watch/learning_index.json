@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 598,
+  "unique_posts": 597,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -432,6 +432,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4986047:1",
+      "url": "https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047",
+      "title": "The R6 default animate script does not work",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xpsanx",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsanx/how_do_you_keep_players_interested_in_a_monster/",
       "title": "how do you keep players interested in a monster collecting game?",
@@ -687,20 +701,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4977842:1",
-      "url": "https://devforum.roblox.com/t/terrain-doesnt-load-properly-has-no-collision/4977842",
-      "title": "Terrain doesn't load properly, has no collision",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4978081:1",
       "url": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081",
       "title": "Missing terrain on the client",
@@ -949,6 +949,20 @@
       "kind": "devforum",
       "signals": [
         "UI and menus",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4986040:1",
+      "url": "https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040",
+      "title": "AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
         "tools and performance"
       ],
       "score": 6,
@@ -1320,45 +1334,6 @@
         "genres and successful loops"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976408:1",
-      "url": "https://devforum.roblox.com/t/how-to-run-viewmodel-animation/4976408",
-      "title": "How to Run ViewModel Animation",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977648:1",
-      "url": "https://devforum.roblox.com/t/new-studio-ribbon-the-minimize-and-maximize-button-has-the-wrong-icon-after-roblox-studio-started-up-in-maximized-mode/4977648",
-      "title": "New Studio Ribbon - The minimize and maximize button has the wrong icon after Roblox Studio started up in maximized mode",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977704:1",
-      "url": "https://devforum.roblox.com/t/studio-no-longer-has-a-titlebar/4977704",
-      "title": "Studio no longer has a titlebar?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2305,8 +2280,8 @@
     },
     {
       "key": "devforum:4985942:1",
-      "url": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942",
-      "title": "[LOOKING FOR] Roblox Builder for 3–6 Additional game Levels",
+      "url": "https://devforum.roblox.com/t/looking-for-builder-for-game-levels/4985942",
+      "title": "[LOOKING FOR] Builder for game Levels",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
@@ -3029,20 +3004,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4976044:1",
-      "url": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044",
-      "title": "Unable to move the testing game to public",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4977927:1",
       "url": "https://devforum.roblox.com/t/new-roblox-merge-game-merge-a-piggy/4977927",
       "title": "New Roblox Merge Game (\"Merge A Piggy\")",
@@ -3546,19 +3507,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4976460:1",
-      "url": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460",
-      "title": "Getting access to Journey option for my experience",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4381,14 +4329,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xogqkh",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xogqkh/grand_strategy_ww1_game_stats/",
-      "title": "Grand Strategy WW1 Game stats",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
+      "key": "devforum:4986061:1",
+      "url": "https://devforum.roblox.com/t/error-lens-implementation-for-highlighting-line-errors/4986061",
+      "title": "\"Error lens\" implementation for highlighting line errors",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
       "signals": [
-        "first-session and mobile"
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5190,6 +5138,19 @@
       "key": "reddit:1xsz7u1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsz7u1/is_local_coop_with_two_characters_on_one_roblox/",
       "title": "Is Local Co-op With Two Characters on One Roblox Account Allowed Under Roblox’s Policies?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xszv20",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xszv20/launched_a_game_but_i_think_i_set_the_wrong_genre/",
+      "title": "Launched a game but I think I set the wrong genre, will it ruin my stats?",
       "source": "reddit-robloxdev",
       "published": "2026-11-10",
       "kind": "reddit",
@@ -6281,6 +6242,28 @@
       "key": "devforum:4985984:1",
       "url": "https://devforum.roblox.com/t/recent-updates-to-rotex/4985984",
       "title": "Recent Updates to Rotex",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4986060:1",
+      "url": "https://devforum.roblox.com/t/content-rating-questionnaire-flags-realistic-character-reactions-as-a-community-standards-violation/4986060",
+      "title": "Content Rating Questionnaire flags realistic character reactions as a Community Standards violation",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4986071:1",
+      "url": "https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071",
+      "title": "TextChatService chat bubbles do not appear when HumanoidRootPart is missing, even if not adorned to it",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
