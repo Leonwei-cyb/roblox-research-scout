@@ -7,17 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Are these results reasonable for the small amount of ad credits i invested?](https://www.reddit.com/r/robloxgamedev/comments/1xso0dm/are_these_results_reasonable_for_the_small_amount/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: https://preview.redd.it/2ex3wewbms0i1.png?width=1147&format=png&auto=webp&s=00c5dd7cd5de9e64241aee28ee0b52b0a9ead8d6 I ran my first test campaign with a small budget of 7 ad credits, to see if it will be worth pouring in a bigger budget for
-- **[Is it beneficial to categorize your game to a genre](https://www.reddit.com/r/robloxgamedev/comments/1xsmsmj/is_it_beneficial_to_categorize_your_game_to_a/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Since I released my game I did not select a game category. But in my ads though I did exclude Roleplay, Shooter and more game categories that would not align with my game. So should I set my game as a Simulator game or shluld I still not sp
+- **[Any Suggestions on my Boss Fight Game?](https://www.reddit.com/r/robloxgamedev/comments/1xspgm6/any_suggestions_on_my_boss_fight_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: This is a full demonstration of final phase of the boss fight, and the game will be released soon once i finish the ending phase and balancing the game more, as well as the map. Let me know your thoughts on the game's current status! submit
+- **[Trailer: The Broken World](https://www.reddit.com/r/robloxgamedev/comments/1xsofll/trailer_the_broken_world/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
+  - Feed excerpt: What do you guys think? Any feedback? submitted by /u/adrianxy77 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Has Roblox started promoting games?](https://devforum.roblox.com/t/has-roblox-started-promoting-games/4985592)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Today I noticed that my game—without any paid advertising—received 2,700 views over two days via the recommendation system. Do you think it’s possible that Roblox has started promoting games that were long abandoned due to having zero activ
-- **[Is my game worth continuing pursuing?](https://devforum.roblox.com/t/is-my-game-worth-continuing-pursuing/4985628)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Punch Off Thoughts? Do I have a good game concept going? 1 post - 1 participant Read full topic
+- **[How to script cutscenesss? like... how?](https://devforum.roblox.com/t/how-to-script-cutscenesss-like-how/4985639)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: So.. Im an indie developer and i wanna add cutscenes to my games. But i have NO idea how to do this(Even with tutorials). I can animate, and i animate in Eclipse animator . And the thing is: It HAS module exporter, but i cant understand it.
+- **[Better GuiService:GetInsetArea()](https://devforum.roblox.com/t/better-guiservicegetinsetarea/4985658)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: 4 years, ago, Roblox introduced support for notched screens . It gave mobile UI more flexibility and developers new API to work with rounded screens. Ofcourse, anyone that saw this ScreenInsets and began to fiddle with it were met with an o
 
 ---
 

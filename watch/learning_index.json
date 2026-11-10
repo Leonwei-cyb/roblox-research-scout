@@ -698,20 +698,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4977635:1",
-      "url": "https://devforum.roblox.com/t/new-roblox-studio-ribbon-an-empty-window-will-appear-while-hovering-over-all-buttons-along-with-lag-spikes/4977635",
-      "title": "New Roblox Studio Ribbon - An empty window will appear while hovering over all buttons along with lag spikes?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4977842:1",
       "url": "https://devforum.roblox.com/t/terrain-doesnt-load-properly-has-no-collision/4977842",
       "title": "Terrain doesn't load properly, has no collision",
@@ -932,6 +918,20 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985639:1",
+      "url": "https://devforum.roblox.com/t/how-to-script-cutscenesss-like-how/4985639",
+      "title": "How to script cutscenesss? like... how?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
         "tools and performance"
       ],
       "score": 6,
@@ -1331,19 +1331,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4976788:1",
-      "url": "https://devforum.roblox.com/t/sound-timeposition-preview/4976788",
-      "title": "Sound TimePosition preview",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4977057:1",
       "url": "https://devforum.roblox.com/t/seeing-an-increase-in-phone-and-tablet-crashes-since-obctober-28th/4977057",
       "title": "Seeing an increase in Phone and Tablet crashes since Obctober 28th",
@@ -1439,19 +1426,6 @@
       "url": "https://devforum.roblox.com/t/studio-beta-createsurfaceappearance-now-with-asset-ids-and-datamodel-content/4977713",
       "title": "[Studio Beta] CreateSurfaceAppearance: Now With Asset IDs and DataModel Content",
       "source": "roblox-devforum-updates",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977758:1",
-      "url": "https://devforum.roblox.com/t/how-do-you-get-the-reserved-server-and-private-server-code-while-using-teleportasync/4977758",
-      "title": "How do you get the Reserved Server AND Private Server code while using TeleportAsync?",
-      "source": "roblox-devforum-latest",
       "published": "2026-11-05",
       "kind": "devforum",
       "signals": [
@@ -3301,6 +3275,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4985658:1",
+      "url": "https://devforum.roblox.com/t/better-guiservicegetinsetarea/4985658",
+      "title": "Better GuiService:GetInsetArea()",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "UI and menus"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xochen",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xochen/is_making_an_incremental_game_worth_it/",
       "title": "Is making an Incremental Game worth it?",
@@ -3310,20 +3298,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xoul2z",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xoul2z/battle_tops_type_game/",
-      "title": "Battle tops type game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "economy and income"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -5197,6 +5171,19 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xsofll",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsofll/trailer_the_broken_world/",
+      "title": "Trailer: The Broken World",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -7394,6 +7381,17 @@
       "key": "reddit:1xslns0",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xslns0/is_my_trailer_good/",
       "title": "Is my trailer good?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xspgm6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xspgm6/any_suggestions_on_my_boss_fight_game/",
+      "title": "Any Suggestions on my Boss Fight Game?",
       "source": "reddit-robloxdev",
       "published": "2026-11-10",
       "kind": "reddit",
