@@ -3369,7 +3369,17 @@
     "e7aa6045fbc04059c84f8171",
     "984eff1a097785e758c0df70",
     "ca32fb3be815045d83e82ae1",
-    "e24d70ed055e5f96917cbcb6"
+    "e24d70ed055e5f96917cbcb6",
+    "14a10e5128c6fffe4aa5b20b",
+    "ed973160a77092a425862222",
+    "cb7e05e6eeaf41f8358491d6",
+    "618a2c2bed7bb90081ec2431",
+    "769734442d02da1bf0a09d59",
+    "b4c7220f3c34049c15a08a15",
+    "74730395be081377f82a0029",
+    "769a95eeff561281833446bf",
+    "30f0384df1a1e116ae5ddfa2",
+    "065327e172a72141d91b59a4"
   ],
   "items": [
     {
@@ -3441,6 +3451,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340.rss",
       "id": "edb0b7a09dd71078ea92035a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "MCP starting solo play sessions sometimes causes the window to be forced to the top",
+      "url": "https://devforum.roblox.com/t/mcp-starting-solo-play-sessions-sometimes-causes-the-window-to-be-forced-to-the-top/4986004",
+      "published": "2026-11-10",
+      "excerpt": "Have noticed this bug for a while. When the MCP starts a solo play session, the Roblox Studio window containing it SOMETIMES gets forced to the top (seems 50/50 chance). This is very disruptive – for example, I’ll be editing a script in VSCode or looking something up on Chrome and the Roblox Studio ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/mcp-starting-solo-play-sessions-sometimes-causes-the-window-to-be-forced-to-the-top/4986004.rss",
+      "id": "ed973160a77092a425862222"
     },
     {
       "source": "reddit-robloxdev",
@@ -3595,6 +3617,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout",
+      "url": "https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999",
+      "published": "2026-11-10",
+      "excerpt": "Our experience’s client crash rate went up in two steps, both lining up with the 747 rollout (times from the Engine Release annotations in Creator Dashboard). Nothing was published on our side in this window (last place publish: Nov 9, 21:15 UTC). RCC 747, Nov 9, 23:08 UTC: client crash rate roughly",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999.rss",
+      "id": "cb7e05e6eeaf41f8358491d6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Unable to create custom dashboards on the Create page",
       "url": "https://devforum.roblox.com/t/unable-to-create-custom-dashboards-on-the-create-page/4985860",
       "published": "2026-11-10",
@@ -3659,6 +3693,18 @@
       "excerpt": "Posted this ad a couple hours ago, seems to be doing way better then my normal ones submitted by /u/No_Bug_2183 [link] [comments]",
       "creator": "/u/No_Bug_2183 https://www.reddit.com/user/No_Bug_2183",
       "id": "b711cde85e6ce8163dd67e7b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[LOOKING FOR] Roblox Builder for 3–6 Additional game Levels",
+      "url": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942",
+      "published": "2026-11-10",
+      "excerpt": "Hi everyone! I’m am looking to hire a builder to create 3–6 additional levels that fit the style of the upcoming game. About The Game LASER CORRIDOR Welcome to LASER CORRIDOR – a high-intensity multiplayer survival experience where every second could be your last. Enter a mysterious futuristic facil",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942.rss",
+      "id": "b4c7220f3c34049c15a08a15"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3875,6 +3921,29 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "big project i’ve been working on on the side for around a year at this point",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsyciw/big_project_ive_been_working_on_on_the_side_for/",
+      "published": "2026-11-10",
+      "excerpt": "i’ve just been building and researching so far so it will be a while until it’s out but it’s going to be a game about heretics and victorian era hunters sorry for the blur it was a screenshot of a small window on my screen submitted by /u/peatmossing [link] [comments]",
+      "creator": "/u/peatmossing https://www.reddit.com/user/peatmossing",
+      "id": "769a95eeff561281833446bf"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": ":GetPartsInPart stopped working for parts with broken CFrame matrix",
+      "url": "https://devforum.roblox.com/t/getpartsinpart-stopped-working-for-parts-with-broken-cframe-matrix/4985960",
+      "published": "2026-11-10",
+      "excerpt": "After very recent update one of my games completely broke due to a broken GetPartsInPart collision check. After an investigation, the issue turns out to be broken CFrame matrix, which seems to be caused by floating point error of studio tools from several years ago, causing a game that was made pret",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/getpartsinpart-stopped-working-for-parts-with-broken-cframe-matrix/4985960.rss",
+      "id": "769734442d02da1bf0a09d59"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "are roblox ad players real/need general advice",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsgp00/are_roblox_ad_players_realneed_general_advice/",
       "published": "2026-11-10",
@@ -3893,6 +3962,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sudden-surge-of-http-429-rate-limits-on-apisrobloxcomtoolbox-service/4984941.rss",
       "id": "74c20078545c2c836d2e0eff"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is Local Co-op With Two Characters on One Roblox Account Allowed Under Roblox’s Policies?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsz7u1/is_local_coop_with_two_characters_on_one_roblox/",
+      "published": "2026-11-10",
+      "excerpt": "I’m currently developing a top-down zombie survival game called BlockZ , which features both online multiplayer and local co-op. I’ve implemented a local multiplayer system that allows two people to play simultaneously on the same device using a single Roblox account. Both players control their own ",
+      "creator": "/u/MutedNarwhal9746 https://www.reddit.com/user/MutedNarwhal9746",
+      "id": "74730395be081377f82a0029"
     },
     {
       "source": "reddit-robloxdev",
@@ -3958,7 +4038,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 6 posts - 6 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 16 posts - 14 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -3986,6 +4066,18 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "6344b8cedbd81b846b1e58d0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Recent Updates to Rotex",
+      "url": "https://devforum.roblox.com/t/recent-updates-to-rotex/4985984",
+      "published": "2026-11-10",
+      "excerpt": "Quick Brief: I am sure we are all familiar with the continuous growth of ai within game development, so I took the time to asses the current supply of applications / tools which claim to be suited for Roblox game development with the expected benefits in mind however most of them resulted in being e",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/recent-updates-to-rotex/4985984.rss",
+      "id": "618a2c2bed7bb90081ec2431"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4183,6 +4275,17 @@
       "id": "32cf56e88deb324717599f12"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "studio playtest STOP takes a lot of time ( more than +3 MINUTES )",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsy00j/studio_playtest_stop_takes_a_lot_of_time_more/",
+      "published": "2026-11-10",
+      "excerpt": "hey gang, as the title says and idk whats happening, i already checked the bind functions and they arent the cause of the problem . does any of you already had this problem ? https://preview.redd.it/ymitexn7ju0i1.png?width=239&format=png&auto=webp&s=d7f771dc7b69b39763cc5cb333da3e610c0658ef submitted",
+      "creator": "/u/GadixPro https://www.reddit.com/user/GadixPro",
+      "id": "30f0384df1a1e116ae5ddfa2"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4266,6 +4369,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Remove Device Emulator Automatic Activation please",
+      "url": "https://devforum.roblox.com/t/remove-device-emulator-automatic-activation-please/4986016",
+      "published": "2026-11-10",
+      "excerpt": "It randomly popped up after i changed ingame studio quality to 1 just to test with some aspects and then the interface kinda locked me in a choice between keeping it + having Editor Quality Level 21 but the interface kinda annoys me when i dont need it, but if i disable it leaves Editor Quality on A",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/remove-device-emulator-automatic-activation-please/4986016.rss",
+      "id": "14a10e5128c6fffe4aa5b20b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Is my game worth continuing pursuing?",
       "url": "https://devforum.roblox.com/t/is-my-game-worth-continuing-pursuing/4985628",
       "published": "2026-11-10",
@@ -4342,6 +4457,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/request-for-roblox-servers-in-kazakhstan-and-central-asia/4985741.rss",
       "id": "0a711e074ac53667946c1ec3"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Looking for builders for my roblox delver game DM EMNYSOVIAL ON DISCORD",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsx9uz/looking_for_builders_for_my_roblox_delver_game_dm/",
+      "published": "2026-11-10",
+      "excerpt": "Hello im a co owner for a dandy world type game We are looking for builders if you want to learn more dm emnysovial on discord Also this is for long term Payment is volunteer right now but might be percentage later on its a roblox game submitted by /u/Salt_Border_3825 [link] [comments]",
+      "creator": "/u/Salt_Border_3825 https://www.reddit.com/user/Salt_Border_3825",
+      "id": "065327e172a72141d91b59a4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10165,122 +10291,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/getting-access-to-journey-option-for-my-experience/4976460.rss",
       "id": "ea658e339c047c5b354ffb50"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Can anyone help me with this rig bug?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0dx/can_anyone_help_me_with_this_rig_bug/",
-      "published": "2026-11-05",
-      "excerpt": "Ive made one of the player models for my game in blender. Ive also attached an armature to it so i can animate it, however when i import in into roblox most parts from the model were scattered (first image). It looked way worse and this was the best fix i could do. From my findings, it only happens ",
-      "creator": "/u/ZiNoN_141 https://www.reddit.com/user/ZiNoN_141",
-      "id": "e8710b605d8425e13cc94636"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Roblox football, but you control all 11 players",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xooffh/roblox_football_but_you_control_all_11_players/",
-      "published": "2026-11-05",
-      "excerpt": "I've been making games in Unity for a while, and a few months ago I decided to try Roblox Studio for the first time. Honestly, I was nervous. New engine, new language, a whole new way of thinking about servers and clients. This is the result: an arcade football (soccer) game, and seeing it actually ",
-      "creator": "/u/Indian_Indie_gamedev https://www.reddit.com/user/Indian_Indie_gamedev",
-      "id": "e74e6b98d6caa804d6fa83e2"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "i manually uploaded each of these for an animation, so i wanted to share it with other people to maybe use, so here's every Morshu Frame in order each as a Roblox Image ID",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xobt58/i_manually_uploaded_each_of_these_for_an/",
-      "published": "2026-11-05",
-      "excerpt": "104594670550269,98749853057928,132709321469575,97840360574277,107352741734572,122889428277400,75578939407445,83233621575602,121342715787952,91028768014738,122262343435757,92543654494186,137603844619379,82405600695700,129004688102284,116389995855557,130079342003560,82908641062424,98256819690331,12269",
-      "creator": "/u/Miserable_Acadia_171 https://www.reddit.com/user/Miserable_Acadia_171",
-      "id": "e65a87320a02e88d20602f75"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Increasing the Minimum Draw Distance to 500 Studs and Other Auto-Quality Level Improvements",
-      "url": "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292",
-      "published": "2026-11-05",
-      "excerpt": "Key Takeaways On all platforms, the draw distance at the lowest quality level is automatically moving from 200 to 500 studs and will also ramp up much faster for initial quality levels. This shows more of your world on lower-end devices and makes water and beams scale better. Test it in Studio throu",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292.rss",
-      "id": "e641a451bb92d8845fd1101f"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] CreateSurfaceAppearance: Now With Asset IDs and DataModel Content",
-      "url": "https://devforum.roblox.com/t/studio-beta-createsurfaceappearance-now-with-asset-ids-and-datamodel-content/4977713",
-      "published": "2026-11-05",
-      "excerpt": "Key Takeaways CreateSurfaceAppearanceAsync now supports DataModel Content and Asset IDs, in addition to EditableImages as it did before, allowing for less memory and performance costs, and simpler creation. In Studio, go to File > Beta Features and enable “Mixed Content for CreateSurfaceAppearanceAs",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-beta-createsurfaceappearance-now-with-asset-ids-and-datamodel-content/4977713.rss",
-      "id": "e4e8b7da9261221b0378697f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Creator store payouts not landing into bank account",
-      "url": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348",
-      "published": "2026-11-05",
-      "excerpt": "Creator store payouts have been marked as paid, although the payment has not landed in my account. I’ve contacted Stripe and they are not able to provide support to Roblox payouts. Payments were marked pending for about a week, then a couple of days ago it was marked as paid but the payment has not ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348.rss",
-      "id": "e3564444a002df602adb382b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Any new developer want to work with me?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoa3kx/any_new_developer_want_to_work_with_me/",
-      "published": "2026-11-05",
-      "excerpt": "I'm a scripter with roughly 3 months of experience, and I'm looking for a partner to learn by creating a game together. It's like a motivation for both of us to dedicate time to learn our respective skills ( because I'm personally struggling with developing a consistent schedule ). No game idea at t",
-      "creator": "/u/Loose-Mousse6668 https://www.reddit.com/user/Loose-Mousse6668",
-      "id": "dd5e66dce7d7c5ce05124d99"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Territory Hex: Looking for Feedback",
-      "url": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421",
-      "published": "2026-11-05",
-      "excerpt": "Hi! I just released Territory Hex , a real-time strategy game where you fight for real countries split into hexes. Game: Territory Hex | Play on Roblox How It Plays Join or create a party and vote for a map or press Queue Up to automatically join a lobby when available. Pick your spawn on the map an",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421.rss",
-      "id": "dd59947a54d737136f790706"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)",
-      "url": "https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673",
-      "published": "2026-11-05",
-      "excerpt": "Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report) Roblox has, for reasons that remain insufficiently justified from a developer’s perspective, replaced a substantial portion of Studio’s existing Qt-based UI with React-Lua. As a developer, this change has",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673.rss",
-      "id": "dd49091a791014daec7515e1"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Thankyou The Hollow 2026 🎃 #roblox #thehollow #2026 #halloween #event - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNaUNSN2hRYjdHVmNJZWRvVnIxVmNmeXg1cWJwUWNDbWt5YWVuRTF5a1hKSHREbWEtamcwODRXVW1nbTQtNFp6M3FsYklsZEVyOEhVYVV3?oc=5",
-      "published": "2026-11-05",
-      "excerpt": "Thankyou The Hollow 2026 🎃 #roblox #thehollow #2026 #halloween #event Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "d9a58dec3f8455523e6f78db"
     }
   ]
 }

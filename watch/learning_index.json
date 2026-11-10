@@ -264,34 +264,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4976421:1",
-      "url": "https://devforum.roblox.com/t/territory-hex-looking-for-feedback/4976421",
-      "title": "Territory Hex: Looking for Feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "board game and turn flow",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977673:1",
-      "url": "https://devforum.roblox.com/t/hello-roblox-can-you-please-stop-ruining-studio-ui-with-lua-slop-thanks-serious-bug-report/4977673",
-      "title": "Hello Roblox, can you please stop ruining Studio UI with Lua slop? Thanks. (Serious bug report)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4978829:1",
       "url": "https://devforum.roblox.com/t/how-to-get-some-models-are-need-for-client-and-only-client-renders-and-server-dont/4978829",
       "title": "How to get some models are need for client and ONLY client renders and server don't",
@@ -441,6 +413,20 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985999:1",
+      "url": "https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999",
+      "title": "Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -969,20 +955,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xooffh",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xooffh/roblox_football_but_you_control_all_11_players/",
-      "title": "Roblox football, but you control all 11 players",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xp0gz4",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp0gz4/do_yall_know_how_to_fix_this_weird_animation/",
       "title": "Do yall know how to fix this weird “animation combining” thing??",
@@ -1381,19 +1353,6 @@
       "url": "https://devforum.roblox.com/t/studio-no-longer-has-a-titlebar/4977704",
       "title": "Studio no longer has a titlebar?",
       "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977713:1",
-      "url": "https://devforum.roblox.com/t/studio-beta-createsurfaceappearance-now-with-asset-ids-and-datamodel-content/4977713",
-      "title": "[Studio Beta] CreateSurfaceAppearance: Now With Asset IDs and DataModel Content",
-      "source": "roblox-devforum-updates",
       "published": "2026-11-05",
       "kind": "devforum",
       "signals": [
@@ -2345,29 +2304,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xobt58",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xobt58/i_manually_uploaded_each_of_these_for_an/",
-      "title": "i manually uploaded each of these for an animation, so i wanted to share it with other people to maybe use, so here's every Morshu Frame in order each as a Roblox Image ID",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
+      "key": "devforum:4985942:1",
+      "url": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942",
+      "title": "[LOOKING FOR] Roblox Builder for 3–6 Additional game Levels",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
       "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xos0dx",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xos0dx/can_anyone_help_me_with_this_rig_bug/",
-      "title": "Can anyone help me with this rig bug?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-05",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "world and visual design",
-        "player feedback and marketing"
+        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3059,6 +3003,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xsx9uz",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsx9uz/looking_for_builders_for_my_roblox_delver_game_dm/",
+      "title": "Looking for builders for my roblox delver game DM EMNYSOVIAL ON DISCORD",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xsy00j",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsy00j/studio_playtest_stop_takes_a_lot_of_time_more/",
+      "title": "studio playtest STOP takes a lot of time ( more than +3 MINUTES )",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4976044:1",
       "url": "https://devforum.roblox.com/t/unable-to-move-the-testing-game-to-public/4976044",
       "title": "Unable to move the testing game to public",
@@ -3250,6 +3220,20 @@
       "signals": [
         "board game and turn flow",
         "economy and income"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4986016:1",
+      "url": "https://devforum.roblox.com/t/remove-device-emulator-automatic-activation-please/4986016",
+      "title": "Remove Device Emulator Automatic Activation please",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3573,19 +3557,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4977292:1",
-      "url": "https://devforum.roblox.com/t/increasing-the-minimum-draw-distance-to-500-studs-and-other-auto-quality-level-improvements/4977292",
-      "title": "Increasing the Minimum Draw Distance to 500 Studs and Other Auto-Quality Level Improvements",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4384,12 +4355,25 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xoa3kx",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xoa3kx/any_new_developer_want_to_work_with_me/",
-      "title": "Any new developer want to work with me?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-05",
-      "kind": "reddit",
+      "key": "devforum:4985960:1",
+      "url": "https://devforum.roblox.com/t/getpartsinpart-stopped-working-for-parts-with-broken-cframe-matrix/4985960",
+      "title": ":GetPartsInPart stopped working for parts with broken CFrame matrix",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4986004:1",
+      "url": "https://devforum.roblox.com/t/mcp-starting-solo-play-sessions-sometimes-causes-the-window-to-be-forced-to-the-top/4986004",
+      "title": "MCP starting solo play sessions sometimes causes the window to be forced to the top",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
       "signals": [
         "tools and performance"
       ],
@@ -5190,14 +5174,29 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4976348:1",
-      "url": "https://devforum.roblox.com/t/creator-store-payouts-not-landing-into-bank-account/4976348",
-      "title": "Creator store payouts not landing into bank account",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-05",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xsyciw",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsyciw/big_project_ive_been_working_on_on_the_side_for/",
+      "title": "big project i’ve been working on on the side for around a year at this point",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xsz7u1",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsz7u1/is_local_coop_with_two_characters_on_one_roblox/",
+      "title": "Is Local Co-op With Two Characters on One Roblox Account Allowed Under Roblox’s Policies?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-10",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6271,6 +6270,17 @@
       "key": "devforum:4985901:1",
       "url": "https://devforum.roblox.com/t/allow-creators-to-run-their-own-discounts-sales-on-passes-and-developer-products/4985901",
       "title": "Allow creators to run their own discounts / sales on Passes and Developer Products",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-10",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4985984:1",
+      "url": "https://devforum.roblox.com/t/recent-updates-to-rotex/4985984",
+      "title": "Recent Updates to Rotex",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
@@ -7511,17 +7521,6 @@
       "title": "Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox - Instagram",
       "source": "brock-ig-reels",
       "published": "2026-11-08",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBNaUNSN2hRYjdHVmNJZWRvVnIxVmNmeXg1cWJwUWNDbWt5YWVuRTF5a1hKSHREbWEtamcwODRXVW1nbTQtNFp6M3FsYklsZEVyOEhVYVV3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNaUNSN2hRYjdHVmNJZWRvVnIxVmNmeXg1cWJwUWNDbWt5YWVuRTF5a1hKSHREbWEtamcwODRXVW1nbTQtNFp6M3FsYklsZEVyOEhVYVV3?oc=5",
-      "title": "Thankyou The Hollow 2026 🎃 #roblox #thehollow #2026 #halloween #event - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-11-05",
       "kind": "index-only",
       "signals": [],
       "score": 0,
