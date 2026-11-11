@@ -3408,9 +3408,80 @@
     "bf945b901d927f79f244b11f",
     "7d960a04525919b4ce2a9ecd",
     "a534becd079dc6ee520668d1",
-    "a2e08140398209c828496007"
+    "a2e08140398209c828496007",
+    "ec5f243ffd815f905664ebff",
+    "e6b4349ac6be8265b7847b52",
+    "0e8e018483d70b99c1773bc9",
+    "8bb5b2d2dcf6fc93c80b0d53",
+    "12549c297502441537b6aede",
+    "ea73425d430b2430c3dfd8b8",
+    "df670d39a7c17d68c50ac74c",
+    "cd3b962d31b37164e83eca3d",
+    "6d66393c29e9105f143bac78",
+    "27aeac6abd0d876dd635621c",
+    "a1810fe052b06fd5e0f27997",
+    "eda5a976ec258973976751c1"
   ],
   "items": [
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How does the modeling market work?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt81wi/how_does_the_modeling_market_work/",
+      "published": "2026-11-11",
+      "excerpt": "I have a question: how can I actually break into the Roblox market? I’ve been modeling as a hobby for 8 years; I’ve tried to enter the market before, but I ended up getting frustrated or giving up. often failing to find a client, or encountering clients who propose a percentage-based arrangement and",
+      "creator": "/u/Timely_Appeal_1414 https://www.reddit.com/user/Timely_Appeal_1414",
+      "id": "eda5a976ec258973976751c1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Road Builder Plugin (SMOOTH ROADS!)",
+      "url": "https://devforum.roblox.com/t/road-builder-plugin-smooth-roads/4986400",
+      "published": "2026-11-11",
+      "excerpt": "Road Builder Tired of every road plugin forcing ugly stepping or weird road grading on hills and curves? Road Builder lets you set grade, yaw, and roll so your roads actually follow the terrain the way they should. Unlike Redupe and other road plugins, turns and elevation changes stay smooth, no wei",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/road-builder-plugin-smooth-roads/4986400.rss",
+      "id": "ec5f243ffd815f905664ebff"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Custom Folder Icons (12)",
+      "url": "https://devforum.roblox.com/t/custom-folder-icons-12/4986298",
+      "published": "2026-11-11",
+      "excerpt": "Background Roblox has added ‘ExplorerIconContent’ property to ‘Folders’ and ‘Models’ in version 747 . I have decided to make custom folder icons in the style of Roblox Studio’s existing icons, and will be posting them here! Please suggest icons in the replies and I will do my best to make them! I am",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/custom-folder-icons-12/4986298.rss",
+      "id": "ea73425d430b2430c3dfd8b8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Adding Genre for Content Rating Blocked by Unhelpful Name + Description Moderation",
+      "url": "https://devforum.roblox.com/t/adding-genre-for-content-rating-blocked-by-unhelpful-name-description-moderation/4986371",
+      "published": "2026-11-11",
+      "excerpt": "While attempting to take the IARC questionnaire for one of my games to understand the ratings, I had to add a genre to the game to take the questionnaire. It appears Names, Descriptions, and Genres are all updated together, meaning the Name or Description can block adding genres, even if the fields ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/adding-genre-for-content-rating-blocked-by-unhelpful-name-description-moderation/4986371.rss",
+      "id": "e6b4349ac6be8265b7847b52"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "DxrkTempestDev | Scripter",
+      "url": "https://devforum.roblox.com/t/dxrktempestdev-scripter/4986293",
+      "published": "2026-11-11",
+      "excerpt": "About Me Hi! I’m DxrkTempestDev , a Roblox scripter with 4 years of Luau experience . I script gameplay systems, combat skills with custom VFX, UI, and cutscenes. I’ve scripted for Generation Z Studio and Cats Rebooted , and done commissions and part-time work for other developers and studios. Outsi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dxrktempestdev-scripter/4986293.rss",
+      "id": "df670d39a7c17d68c50ac74c"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -3422,6 +3493,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/for-hire-sagastars-%E2%9C%B7-game-developer-fullstack-programmer-esp-eng/4986171.rss",
       "id": "d7326daa6efc4ca86652d0e9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Unauthorized Game Editing] RCC Server TOCTOU Processes Arbitrary Client-Substituted Packet Types During Async Auth-Kick Window",
+      "url": "https://devforum.roblox.com/t/unauthorized-game-editing-rcc-server-toctou-processes-arbitrary-client-substituted-packet-types-during-async-auth-kick-window/4986279",
+      "published": "2026-11-11",
+      "excerpt": "When Studio joins a Team Create session, the RCC server creates the Replicator and marks the connection ready BEFORE the game-level authentication verdict is delivered . The auth failure (kick reason 257, “Disconnected due to authentication failure. Please upgrade to the latest version of Roblox and",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unauthorized-game-editing-rcc-server-toctou-processes-arbitrary-client-substituted-packet-types-during-async-auth-kick-window/4986279.rss",
+      "id": "cd3b962d31b37164e83eca3d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3484,12 +3567,47 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Meu primeiro jogo",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt9cnw/meu_primeiro_jogo/",
+      "published": "2026-11-11",
+      "excerpt": "Olá a todos A um tempo eu criei e publiquei um jogo no Roblox feito totalmente manualmente peça por peça chamado Grande Espiral Parkour,e ontem por volta das 4 horas eu atualizei. Ele é uma espiral onde um andar é maior que o anterior e não tem paredes. A primeira versão tinha 4 andares e céu básico",
+      "creator": "/u/rianzim123 https://www.reddit.com/user/rianzim123",
+      "id": "a1810fe052b06fd5e0f27997"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "[Paid] Looking for 3 serious playtesters",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt2vf6/paid_looking_for_3_serious_playtesters/",
       "published": "2026-11-11",
       "excerpt": "Looking for 3 serious playtesters for a fun, quest-filled collecting game. Fair warning: the game is grindy. 700 Robux per tester. 2 hours of testing along with a full analysis/review when done. Payment will be sent when your session is done and I receive your feedback on the game. Requirements: - M",
       "creator": "/u/EquivalentBuyer4003 https://www.reddit.com/user/EquivalentBuyer4003",
       "id": "94fb02f04cf03389f448b294"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to purchase ads credit directly in india",
+      "url": "https://devforum.roblox.com/t/unable-to-purchase-ads-credit-directly-in-india/4986311",
+      "published": "2026-11-11",
+      "excerpt": "I want to purchase ad credits from india but all of the cards are failing how can we purchase ad credits in india buying via robux costs more so that will be last option left and i dont wanna go that way 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-purchase-ads-credit-directly-in-india/4986311.rss",
+      "id": "8bb5b2d2dcf6fc93c80b0d53"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[URGENT] Text Filter FIXED in July, 48-Hour Review STILL Pending | Housebound With POTS and This Is My ONLY Income!",
+      "url": "https://devforum.roblox.com/t/urgent-text-filter-fixed-in-july-48-hour-review-still-pending-housebound-with-pots-and-this-is-my-only-income/4986274",
+      "published": "2026-11-11",
+      "excerpt": "I’m posting this because I’ve run out of other options and I can’t keep waiting quietly. I have POTS and dysautonomia. My heart rate spikes just from standing up and I’m housebound because of it. I deal with dizziness, blurry vision and severe nausea every day. Some days I can barely manage a shower",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/urgent-text-filter-fixed-in-july-48-hour-review-still-pending-housebound-with-pots-and-this-is-my-only-income/4986274.rss",
+      "id": "6d66393c29e9105f143bac78"
     },
     {
       "source": "reddit-robloxdev",
@@ -3503,6 +3621,17 @@
       "id": "5099396237f7b88b722c761a"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What 9% CTR looks like",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt7rhh/what_9_ctr_looks_like/",
+      "published": "2026-11-11",
+      "excerpt": "Just keep it simple submitted by /u/No_Bug_2183 [link] [comments]",
+      "creator": "/u/No_Bug_2183 https://www.reddit.com/user/No_Bug_2183",
+      "id": "27aeac6abd0d876dd635621c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3513,6 +3642,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-still-shows-my-account-as-owner-after-group-transfer-and-further-transfer-attempts-fail/4986265.rss",
       "id": "2338bbbefbad9d452d2155c8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Cannot use the share asset permission in studio",
+      "url": "https://devforum.roblox.com/t/cannot-use-the-share-asset-permission-in-studio/4986309",
+      "published": "2026-11-11",
+      "excerpt": "In the past, when i worked with externalr parties (trusted friends) on new game, he/she can click on the error in the output , and a pop up for requesting the assets will show up and allow him/ her to share the assets permssions in 1 click to me and the team. Today, it did not work any more. The UI ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cannot-use-the-share-asset-permission-in-studio/4986309.rss",
+      "id": "12549c297502441537b6aede"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Incremental game",
+      "url": "https://devforum.roblox.com/t/incremental-game/4986325",
+      "published": "2026-11-11",
+      "excerpt": "I made another incremental: Gain Incremental | Play on Roblox It’s still not completely finished (no thumbnail, sounds need improvement), but what do you think? 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/incremental-game/4986325.rss",
+      "id": "0e8e018483d70b99c1773bc9"
     },
     {
       "source": "roblox-devforum-updates",
@@ -4335,7 +4488,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 32 posts - 25 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 40 posts - 31 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10180,146 +10333,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/fetching-player-outfits-in-game-catalog-avatar-creator-style/4978214.rss",
       "id": "4b26bd37ebb2e45661f1702d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "\"Own A Car Park\" Game Thoughts?",
-      "url": "https://devforum.roblox.com/t/own-a-car-park-game-thoughts/4977864",
-      "published": "2026-11-06",
-      "excerpt": "With the recent rise of AI assisted games on the platform, I decided to delve in the AI loophole and make my own game with the assistance of Claude Opus 5.5. I was really ambitious about this project as It was an idea I had thought of for the past few months, and now having the tools that make build",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/own-a-car-park-game-thoughts/4977864.rss",
-      "id": "40a38fb451b18cfe0e59774b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can anyone tell me how do disable this black skeleton thing on rigs? IT IS SO ANNOYING!",
-      "url": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961",
-      "published": "2026-11-06",
-      "excerpt": "can anyone tell me how do disable this black skeleton thing on rigs? IT IS SO ANNOYING! 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/can-anyone-tell-me-how-do-disable-this-black-skeleton-thing-on-rigs-it-is-so-annoying/4977961.rss",
-      "id": "3fce75a2248deb652acc08f3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expedited review refund requests fail for three experiences",
-      "url": "https://devforum.roblox.com/t/expedited-review-refund-requests-fail-for-three-experiences/4979265",
-      "published": "2026-11-06",
-      "excerpt": "I paid expedited review fees for three experiences owned by RoDark Studios , using the RoDarkStudios account: Stack a Donut Tower Animal Tag Penguin River RNG All three have remained in good standing. For each experience, I opened Manage Audience in Creator Dashboard and selected the expedited revie",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expedited-review-refund-requests-fail-for-three-experiences/4979265.rss",
-      "id": "3e8821a74eeecb832647f5dc"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Weekly Recap: November 2 - 6, 2026",
-      "url": "https://devforum.roblox.com/t/weekly-recap-november-2-6-2026/4979364",
-      "published": "2026-11-06",
-      "excerpt": "Key Takeaways Studio MCP now lets connected agents call Open Cloud APIs from the same chat where they edit a place, while Test Teleports in Studio makes cross-place playtesting possible without publishing. Creators can see more of their worlds on lower-end devices with a 500-stud minimum draw distan",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/weekly-recap-november-2-6-2026/4979364.rss",
-      "id": "3c67f6fa065a7cc99a17e133"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "CaptureService StartVideoCapture Callback function never runs",
-      "url": "https://devforum.roblox.com/t/captureservice-startvideocapture-callback-function-never-runs/4978781",
-      "published": "2026-11-06",
-      "excerpt": "When using CaptureService:StartVideoCaptureAsync() , the first parameter is a callback function as explained on the documentation. Doc: CaptureService | Documentation - Roblox Creator Hub However, this callback function never runs. In this code, for example, the onCaptureReady function is never ran,",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/captureservice-startvideocapture-callback-function-never-runs/4978781.rss",
-      "id": "3a36d8e75da07e934a6fcbf4"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Need an Experienced Play Tester?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpnmf9/need_an_experienced_play_tester/",
-      "published": "2026-11-06",
-      "excerpt": "Hey! I'm back again and looking for developers who want to have their games play tested! Just to be clear, this is a paid service. I don't just play your game and point out bugs. I also give honest feedback, advice, and suggestions on how you can improve your game. I've helped games grow from 2 digi",
-      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
-      "id": "394b534380a8293d76455cdd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Roblox studio is not responding cuz i wil deal with this program",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp2bsz/roblox_studio_is_not_responding_cuz_i_wil_deal/",
-      "published": "2026-11-06",
-      "excerpt": "submitted by /u/LemonFirm4111 [link] [comments]",
-      "creator": "/u/LemonFirm4111 https://www.reddit.com/user/LemonFirm4111",
-      "id": "390451b959505729ca6e19a4"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made 5 maps for my Roblox game! Would you take a look?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpdjph/i_made_5_maps_for_my_roblox_game_would_you_take_a/",
-      "published": "2026-11-06",
-      "excerpt": "I've finished creating my Roblox game, Dig & Bloom! , and I wanted to share some of the maps I've created! The game features 5 different areas: Mine, Volcano, Desert, Snow, and Forest. Each area has its own atmosphere and unique seeds to discover. I tried to make each environment feel different whil",
-      "creator": "/u/Park_premorial https://www.reddit.com/user/Park_premorial",
-      "id": "346d01e5b4b28d49835f065a"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "1812 overture production",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp2pdc/1812_overture_production/",
-      "published": "2026-11-06",
-      "excerpt": "video currently under development you can skip to 1:46 if you want to see the main part submitted by /u/SpatulaFairy139 [link] [comments]",
-      "creator": "/u/SpatulaFairy139 https://www.reddit.com/user/SpatulaFairy139",
-      "id": "344d0ecdc36cd6e4414bedec"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Bug] Changing Torso Color to Black Also Changes Leg Color on R6 & R15 Avatars",
-      "url": "https://devforum.roblox.com/t/bug-changing-torso-color-to-black-also-changes-leg-color-on-r6-r15-avatars/4978337",
-      "published": "2026-11-06",
-      "excerpt": "This Bug has been present for decades but not look upon When I change the Torso colour of an avatar to Black or any dark colours (using BodyColors), the LeftLeg and RightLeg colors also change to Black, even though no conflicting colours or clothing are applied. This happens on both R6 and R15 rigs.",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/bug-changing-torso-color-to-black-also-changes-leg-color-on-r6-r15-avatars/4978337.rss",
-      "id": "2f9f355b90295b291b0bf05e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How do I make this work",
-      "url": "https://devforum.roblox.com/t/how-do-i-make-this-work/4978805",
-      "published": "2026-11-06",
-      "excerpt": "So I have been trying to learn scripting for a long time and I am trying to make a gun system and it works fine other than this part at the bottom, and I am sure it is an easy fix but I don’t know how to fix it. if tool.Equipped == true then Inputservice.InputBegan:Connect(function(input) if input.K",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-do-i-make-this-work/4978805.rss",
-      "id": "2f9ded4048363e0601a98cda"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Client Crashes Upon any USB Device Plugged In",
-      "url": "https://devforum.roblox.com/t/roblox-client-crashes-upon-any-usb-device-plugged-in/4979054",
-      "published": "2026-11-06",
-      "excerpt": "Recently the past week or two, I’ve experience the Roblox client crashing when my keyboard gets nudged and unplugged. When the keyboard gets plugged back in and recognized- the game completely freezes up, and is forced to quit. This bug can simply be recreated by unplugging or plugging any USB devic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-client-crashes-upon-any-usb-device-plugged-in/4979054.rss",
-      "id": "2b885ae4cc73956c652020d7"
     }
   ]
 }
