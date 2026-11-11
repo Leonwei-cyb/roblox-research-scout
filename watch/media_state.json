@@ -3437,7 +3437,13 @@
     "edca43e5bf15cdebbc99d1b0",
     "25f15fa9e8c312aa8ce1af19",
     "aa86d355e0c0e1d7cfe4e45a",
-    "74d8f4e9a966d651c9ff1821"
+    "74d8f4e9a966d651c9ff1821",
+    "18c963291109ce1c981b0153",
+    "1acf81478d7b6be30da1c534",
+    "bb62eb92fbce69fec747a5c3",
+    "5bbd58d8b6885b44cb791847",
+    "009495bec9d7e18e386b22db",
+    "48726f8b1fbde8dbb5f1ba91"
   ],
   "items": [
     {
@@ -3580,6 +3586,18 @@
       "excerpt": "The only things my team needs now are animators and coders Sadly, we can't pay you I've got no money : ( But if you could spare some time to help my little game It'd really mean the world to us ❤️ https://discord.gg/w9TUbVJvU The official server for my game We're nearly at 100 members!!!! submitted ",
       "creator": "/u/Big_Beautiful_9814 https://www.reddit.com/user/Big_Beautiful_9814",
       "id": "bc336a2cac43056f9f1e4704"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio steals focus 5 times in its first 10 seconds of loading, even on an empty local place",
+      "url": "https://devforum.roblox.com/t/studio-steals-focus-5-times-in-its-first-10-seconds-of-loading-even-on-an-empty-local-place/4986676",
+      "published": "2026-11-11",
+      "excerpt": "While Studio launches and opens a place, it keeps pulling itself to the front. If you switch to another app while it loads, Studio takes focus back about once a second until loading finishes, and anything you type goes to Studio instead. I measured it on an empty local baseplate , so it isn’t caused",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-steals-focus-5-times-in-its-first-10-seconds-of-loading-even-on-an-empty-local-place/4986676.rss",
+      "id": "bb62eb92fbce69fec747a5c3"
     },
     {
       "source": "reddit-robloxdev",
@@ -3745,6 +3763,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejected?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/",
+      "published": "2026-11-11",
+      "excerpt": "I’m making a steel ball run inspired game having no developper or coding experience. The game is fun (my cousins and I tried it) and I think it’d be a good game experience for fans of the anime, I posted progress and asked for ideas on JJBA subreddits and got a wave of petty hate calling it a \"slop\"",
+      "creator": "/u/Random_dude01011 https://www.reddit.com/user/Random_dude01011",
+      "id": "5bbd58d8b6885b44cb791847"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "i made this GAME icon V1 , what do you think ?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt3g5k/i_made_this_game_icon_v1_what_do_you_think/",
       "published": "2026-11-11",
@@ -3774,6 +3803,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/all-and-any-messages-are-falsely-moderated-in-the-friends-chat/4986441.rss",
       "id": "49762c91a8adc9a905d22dd6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I made a trailer for my game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtixuw/i_made_a_trailer_for_my_game/",
+      "published": "2026-11-11",
+      "excerpt": "I know some of the cuts and movements are choppy, but what do you think? Music is from freesound.org. submitted by /u/bob-i-stan [link] [comments]",
+      "creator": "/u/bob-i-stan https://www.reddit.com/user/bob-i-stan",
+      "id": "48726f8b1fbde8dbb5f1ba91"
     },
     {
       "source": "reddit-robloxdev",
@@ -3835,6 +3875,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Real-Time Liquid Renderer with EditableImage (WIP)",
+      "url": "https://devforum.roblox.com/t/real-time-liquid-renderer-with-editableimage-wip/4986686",
+      "published": "2026-11-11",
+      "excerpt": "fluid simulation off: fluid simulation on: This is an EditableImage rendering system that operates at a 192x192 resolution, featuring parallel processing, refraction and reflection, custom shaders, and various optimizations. For context, I’m running this on a nine-year-old PC. 1 post - 1 participant",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/real-time-liquid-renderer-with-editableimage-wip/4986686.rss",
+      "id": "1acf81478d7b6be30da1c534"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] Kit • Graduate Game Programmer • 9y+ Experience",
+      "url": "https://devforum.roblox.com/t/open-kit-%E2%80%A2-graduate-game-programmer-%E2%80%A2-9y-experience/4986709",
+      "published": "2026-11-11",
+      "excerpt": "About Me Hi there! My name’s Kit. I’m a full-time Roblox programmer with a degree in Games Computing and over 9 years of experience on Roblox. I’m a full-stack programmer, but my expertise lies in backend programming, specifically framework design and optimisation . I’ve contributed to over 130M+ vi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-kit-%E2%80%A2-graduate-game-programmer-%E2%80%A2-9y-experience/4986709.rss",
+      "id": "18c963291109ce1c981b0153"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Cannot use the share asset permission in studio",
       "url": "https://devforum.roblox.com/t/cannot-use-the-share-asset-permission-in-studio/4986309",
       "published": "2026-11-11",
@@ -3866,6 +3930,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/significantly-increase-the-trails-max-lifetime/4986471.rss",
       "id": "0e30ec0235df1e81542adca2"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Can you tell me what I need to fix in my game I spent a bunch of time making it.[🎃]Steal a God Egg.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtjc9g/can_you_tell_me_what_i_need_to_fix_in_my_game_i/",
+      "published": "2026-11-11",
+      "excerpt": "submitted by /u/lkxiep8 [link] [comments]",
+      "creator": "/u/lkxiep8 https://www.reddit.com/user/lkxiep8",
+      "id": "009495bec9d7e18e386b22db"
     },
     {
       "source": "roblox-devforum-updates",
@@ -4688,7 +4763,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 44 posts - 35 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 47 posts - 38 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10281,75 +10356,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/error-report-page-please-deduplicate-this-error-message/4977948.rss",
       "id": "810ae22ee162803b285cdf9d"
-    },
-    {
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
-      "category": "youtube",
-      "title": "you’ve been goosed 🪿",
-      "url": "https://www.youtube.com/shorts/uSIV1O5yJ-s",
-      "published": "2026-11-06",
-      "excerpt": "",
-      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
-      "id": "7d225bee6868359bc8884450"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I just realised my jojo battlegrounds game, try it if you want.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpi34s/i_just_realised_my_jojo_battlegrounds_game_try_it/",
-      "published": "2026-11-06",
-      "excerpt": "submitted by /u/Odd_Attention_1901 [link] [comments]",
-      "creator": "/u/Odd_Attention_1901 https://www.reddit.com/user/Odd_Attention_1901",
-      "id": "79b479b6de7db7ea3b47a414"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "T-90M Tank Showcase",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpapgp/t90m_tank_showcase/",
-      "published": "2026-11-06",
-      "excerpt": "Hello Guys! i tried to make a tank system for my game ik its not the most realistic (i dont rlly want it to be very realistic anyways) but i did try to add the main features : Cannons , Chassis , Smoke Grenades and Aiming Camera RATE OUT OF /10 submitted by /u/Ahmeda_2916 [link] [comments]",
-      "creator": "/u/Ahmeda_2916 https://www.reddit.com/user/Ahmeda_2916",
-      "id": "7924d902b917e08948f8460c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Clients kicked with Error 268 shortly after recovering from a memory-pressure freeze (alt-tab back in)",
-      "url": "https://devforum.roblox.com/t/clients-kicked-with-error-268-shortly-after-recovering-from-a-memory-pressure-freeze-alt-tab-back-in/4978151",
-      "published": "2026-11-06",
-      "excerpt": "Players on lower-RAM Windows PCs are being kicked with “You have been kicked due to unexpected client behavior (Error Code: 268)”. It mostly happens right after they alt-tab back into Roblox. The player isn’t doing anything unusual when it happens. Edit: It can also happen when the player experience",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/clients-kicked-with-error-268-shortly-after-recovering-from-a-memory-pressure-freeze-alt-tab-back-in/4978151.rss",
-      "id": "773b3243bf649101d138a238"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SCP World RP GAME",
-      "url": "https://devforum.roblox.com/t/scp-world-rp-game/4979084",
-      "published": "2026-11-06",
-      "excerpt": "Hello! I’d like to introduce my new game to you! It’s an SCP Rp game, but not like any other scp rp you seen before (problably), It has: Xp system wich is used to upgrade your keycard clearance, Events wich i already made 1 “Pizza day”, You can spawn as your own scp and place instructions about how ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/scp-world-rp-game/4979084.rss",
-      "id": "7588f3317b28833b866db0a4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Stuck in final review for 14 days",
-      "url": "https://devforum.roblox.com/t/stuck-in-final-review-for-14-days/4978626",
-      "published": "2026-11-06",
-      "excerpt": "My game had reached 250 highly engaged players on Friday the 23rd of October at around 10 PM UTC+1. The review happened within 30 minutes, and I was told to redo my questionnaire. I redid it right away in the same hour. After waiting about 5 days, I already tried contacting support but didn’t get an",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/stuck-in-final-review-for-14-days/4978626.rss",
-      "id": "71e5e7d2b3f4fdb7f2efd278"
     }
   ]
 }

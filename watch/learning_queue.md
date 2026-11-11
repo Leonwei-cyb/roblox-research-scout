@@ -12,8 +12,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 - devforum: 291
 - index-only: 15
-- reddit: 285
-- youtube: 4
+- reddit: 286
+- youtube: 3
 
 ## First-Session And Mobile
 
