@@ -2,6 +2,7 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [Roblox/luau](https://github.com/Roblox/luau) — Fix CI builds: remove all U+200E characters from Confusables.cpp and recursive calls in 'std::any_of' (#3114).
+- **Source updated:** [Roblox/creator-docs](https://github.com/Roblox/creator-docs) — update Open Source Docs from Roblox internal teams.
+- **Source updated:** [anthropics/claude-code](https://github.com/anthropics/claude-code) — chore: Update mods/.
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

@@ -12,11 +12,11 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Animation makes so proximityprompt wont appear](https://devforum.roblox.com/t/animation-makes-so-proximityprompt-wont-appear/4985835)** — Public text/page, video not confirmed
+- **[Skill VFX Feedback](https://devforum.roblox.com/t/skill-vfx-feedback/4986558)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
-- **[\[FistBite Studios\] Recrutamento: Animador, 3D Modeler, VFX e SFX para o Project Fight (Jogo de Luta 2.5D)](https://devforum.roblox.com/t/fistbite-studios-recrutamento-animador-3d-modeler-vfx-e-sfx-para-o-project-fight-jogo-de-luta-25d/4981046)** — Public text/page, video not confirmed
+- **[\[FOR HIRE\] 3D Modeler / Former Korean Game Industry / OPEN](https://devforum.roblox.com/t/for-hire-3d-modeler-former-korean-game-industry-open/4986460)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
