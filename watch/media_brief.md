@@ -5,20 +5,21 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[Fable 5.2 vs Opus 5.5: Which AI Makes the Better Roblox FPS? - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Tkt6U1JWNWgwMXNTV05tMkdWdjdwaVRRdlk3TVFvX0laUW0tblVieGtNclc4NjlaM2dDTkM3U3BqYlRFM09kX3VVS3hiVDN0dDhMN1Rn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-10
-  - Feed excerpt: Fable 5.2 vs Opus 5.5: Which AI Makes the Better Roblox FPS? YouTube
-
 ## Community
 
-- **[Idk, i make maps i guess?? (idk what to add here)](https://www.reddit.com/r/robloxgamedev/comments/1xt3zwf/idk_i_make_maps_i_guess_idk_what_to_add_here/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: idk u can ask me smth to build and i build it submitted by /u/Disastrous-Ship-1376 \[link\] \[comments\]
+- **[Anyone want a bird hunting/ photography game?](https://www.reddit.com/r/robloxgamedev/comments/1xt5qsc/anyone_want_a_bird_hunting_photography_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: im thinking of making a bird watching a game where you can either take pictures of birds or hunt them and i just wanna get an opinion on it! most likely the hunting will be the best source of money but will be hard to do and the pet care wo
+- **[My journey throughout constantly remaking this one building](https://www.reddit.com/r/robloxgamedev/comments/1xt55ki/my_journey_throughout_constantly_remaking_this/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: I've been constantly reworking a map for this game I've been fantasizing about making. I do not think I will ever actually finish making it, but slowly learning how to build over these last few years has been fun. I'd say I'm okay at buildi
 
 ## Roblox Updates
 
-- **[\[FOR HIRE\] SagaStars ✷ - Game-Developer, FullStack-Programmer, ESP, ENG](https://devforum.roblox.com/t/for-hire-sagastars-%E2%9C%B7-game-developer-fullstack-programmer-esp-eng/4986171)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: PORTFOLIO \| https://roport.lol/SagaStars @SagaStars - GAME DEVELOPER ✷ +20M VISITS Helloooo I’m @SagaStars a latino international game-developer, looking for bigger opportunities out there! Started really at 2020 before AI was even a thing,
+- **[Roblox Content Creators Wanted – \[Paid Promotional Campaigns\]](https://devforum.roblox.com/t/roblox-content-creators-wanted-%E2%80%93-paid-promotional-campaigns/4986144)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Looking to Connect With Roblox Content Creators for Paid Promotional Campaigns Hey everyone! I’m Altri , founder of Toybox Entertainment , and I’m working with MetaClip to connect Roblox content creators with paid promotional campaign oppor
+- **[Game still shows my account as owner after group transfer, and further transfer attempts fail](https://devforum.roblox.com/t/game-still-shows-my-account-as-owner-after-group-transfer-and-further-transfer-attempts-fail/4986265)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: I transferred my game “Catalog Fashion Runway” from my account to my group over a month ago. The game appears under the group’s Experiences section, but the public game page and the Owner field in its settings still list my account and not 
+- **[Need feedback: fast-paced co-op mining game!](https://devforum.roblox.com/t/need-feedback-fast-paced-co-op-mining-game/4986234)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: I’ve been working on Iridium Mines, a co-op mining game where players descend an elevator down a procedurally-generated mine. You craft by dropping items onto another. It’s an early demo, and the current goal is to craft an iron pickaxe. I 
 
 ---
 
