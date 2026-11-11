@@ -7,43 +7,33 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[A trailer for my arcade racing game "Murim Inn"](https://www.reddit.com/r/robloxgamedev/comments/1xtqyst/a_trailer_for_my_arcade_racing_game_murim_inn/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: It's my first game worked on it for a couple of months, i should've built a community around it first but i showed it off a bit late hence why there's no players lol. It's based off of the "murim" genre which is a martial arts fantasy genre
-- **[Can I bypass the 50k robux requirement with 2 months of Roblox plus?](https://www.reddit.com/r/robloxgamedev/comments/1xtsurz/can_i_bypass_the_50k_robux_requirement_with_2/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: As the title states, I’m mostly curious if the 50k robux fee is mandatory despite subscription length. I’ve tried searching for answers including in this subreddit but haven’t found anything really clear. Some places say 2+ months of plus a
-- **[Hair transparency thing](https://www.reddit.com/r/robloxgamedev/comments/1xtsyt8/hair_transparency_thing/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: The last line is supposed to make one of the handles not transparent so the guy isnt bald submitted by /u/Frequent_Good_8789 \[link\] \[comments\]
-- **[How do you stop players from noticing NPCs are bots?](https://www.reddit.com/r/robloxgamedev/comments/1xts6j3/how_do_you_stop_players_from_noticing_npcs_are/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: Hey! I’m working on a Roblox game and I’m thinking about adding a few bots to fill up servers when there aren’t enough players. The problem is that people could easily figure out they’re bots since they can’t send them friend requests, open
-- **[Need help with feedback for my game. I spent 3 months working on it any tips are greatly appreciated. Currently spending 20$ on ad spend per week.](https://www.reddit.com/r/robloxgamedev/comments/1xtsg69/need_help_with_feedback_for_my_game_i_spent_3/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: \[link\] \[comments\]
-- **[PROFESSIONAL MAP MAKER AND 3D ARTIST FOR HIRE](https://www.reddit.com/r/robloxgamedev/comments/1xtsiqx/professional_map_maker_and_3d_artist_for_hire/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: i am a 3d artist and map maker open to commissions. message me for more information. submitted by /u/FaFPlayz \[link\] \[comments\]
-- **[can i get banned for uploading this face](https://www.reddit.com/r/robloxgamedev/comments/1xtrqlx/can_i_get_banned_for_uploading_this_face/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: https://preview.redd.it/xdaaf1jpd11i1.png?width=688&format=png&auto=webp&s=36a550fbea907fe168f5786383df2372ef914428 the mouth look like b##bs lol ig , im asking cuz we know how shitty are the auto mods 💀💀 submitted by /u/GadixPro \[link\] \[co
+- **[I wanted to create a movement demo for fun](https://www.reddit.com/r/robloxgamedev/comments/1xttn0f/i_wanted_to_create_a_movement_demo_for_fun/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: I've been working on this small demo for about a year now, mainly to experiment with Roblox Studio. I initially started by creating some models to learn how to use Roblox Studio's parts and such, along with a mini DOS to experiment with Lua
+- **[DND inspired Team Shooter](https://www.reddit.com/r/robloxgamedev/comments/1xtw618/dnd_inspired_team_shooter/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: In order: Kohen, Amber, Gideon, Sosve, M.A.L.E.U.S, and Nadimyr Drew up six rough drafts for a team shooter named DUNGEONS FROM DRAGONS—a shooter similar to Deadlock and Overwatch with the style of sci-fi fantasy. Characters are going to re
+- **[Is it worth continuing to promote my experience?](https://www.reddit.com/r/robloxgamedev/comments/1xtvtpe/is_it_worth_continuing_to_promote_my_experience/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: Hello Last 5 days i tried to promote my game experience trough ads and rougly spend 80$ on it, managed to get 3% CTR from engagement and 5.4 from plays, but most of my clicks somehow didn't make it to the game. I got ONLY 1.8k plays in my g
+- **[What do you think about this icon? fully hand made in photoshop](https://www.reddit.com/r/robloxgamedev/comments/1xttqfk/what_do_you_think_about_this_icon_fully_hand_made/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: I am using it for my GTA style game called HustleBlox submitted by /u/iknowankn \[link\] \[comments\]
+- **[What game can't you find on Roblox? Tell me to make it](https://www.reddit.com/r/robloxgamedev/comments/1xtvf5f/what_game_cant_you_find_on_roblox_tell_me_to_make/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: Hey, I'm planning to make a game on Roblox, no AI. What type of game do you feel you can't find on Roblox and want to play? Also, I don't want microtransactions in my game; yes, there will be things you can pay for, BUT it's not like microt
+- **[early 2015 chat bubble](https://www.reddit.com/r/robloxgamedev/comments/1xtw4x7/early_2015_chat_bubble/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: does anyone have the early 2015 chat bubble? ive been trying to find a game with it that i can take it from and ive tried porting it myself but keep hitting a brick wall. so im here to ask yall for help. (heres an image of it) https://previ
+- **[i made this GAME icon V2 !! what do you think ? is it better than V1 ?](https://www.reddit.com/r/robloxgamedev/comments/1xtw1bb/i_made_this_game_icon_v2_what_do_you_think_is_it/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: v1 -> v2 lol 💀 submitted by /u/GadixPro \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[\[URGENT\] Characters seem to parent to nil randomly on the client](https://devforum.roblox.com/t/urgent-characters-seem-to-parent-to-nil-randomly-on-the-client/4987127)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: I’ve debugged this for a bit, I haven’t pushed any update. As of 1-2 hours ago, it seems characters randomly parent themselves to nil? on the client only (not yours, but other player’s characters). I’ve received tons of reports from my play
-- **[\[URGENT\] Recent Update breaks ragdolls in my game](https://devforum.roblox.com/t/urgent-recent-update-breaks-ragdolls-in-my-game/4987006)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: As of version 747 release, newer servers have been experiencing issues with corpses/ragdolls ingame. Currently ragdolls/corpses just instantly disappear and produce an error in the console. Here’s how we handle corpses/ragdolls in our game:
-- **[Be careful with PostSimulation if you’re using Server Authority](https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: PostSimulation is often treated as the newer replacement for Heartbeat , so it’s tempting to use it for anything that should run every frame, like animation, UI motion, springs or polling loops. Without client prediction that mostly works, 
-- **[Can't load up game](https://devforum.roblox.com/t/cant-load-up-game/4987134)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: Hi all, I’m trying to connect to a place that I created, but it seems to be stuck on “Connecting to Server…” This issue does not persist on another place that I loaded up. Settings are default except for studio theme. Thank you. 2 posts - 1
-- **[Can't set a password or phone number for my roblox account](https://devforum.roblox.com/t/cant-set-a-password-or-phone-number-for-my-roblox-account/4987103)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: About a month ago I got hacked, cookies stolen or whatever and the hackers got my account and changed all passwords, tldr ; in the end I managed to get my account back through account recovery but after that I’m guessing my account was put 
-- **[Collaborations and comissions - new talent hub UPD](https://devforum.roblox.com/t/collaborations-and-comissions-new-talent-hub-upd/4987040)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: Issue As a Roblox developer, doing commissions through the talent hub, will be a lot harder for me and probably others too. i want to do comissions through the talent hub, but soon, it will be impossible to do so because of the new announce
-- **[Increase Crash Rate on Window Devices](https://devforum.roblox.com/t/increase-crash-rate-on-window-devices/4987122)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: We have seen an increase in the windows client crash rate only. We have ran internal checks on our commits to make sure we havent pushed anything that can effect the game. The increase happened on a day that no push was done. A private mess
-- **[Looking for one 2D Concept Artist and one female Voice Actor](https://devforum.roblox.com/t/looking-for-one-2d-concept-artist-and-one-female-voice-actor/4987033)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: About Us Hi there! My name is Mithran, and I’m writer/programmer looking to make a RPG/Visual Novel style game. So far the team is just myself and my friend who is a male voice actor. About The Job I’m looking for an artist that can do 2d i
-- **[My first Roblox game — looking for honest feedback](https://devforum.roblox.com/t/my-first-roblox-game-%E2%80%94-looking-for-honest-feedback/4987092)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: Hello everyone, I would like to show my first Roblox game, Brainrot Bowling . I started this project out of curiosity and wanted to see what I could make. I used AI to help with code and visuals. This was mostly an experiment and my first r
-- **[Server Authority: idle character steps in its last move direction when jitter is high](https://devforum.roblox.com/t/server-authority-idle-character-steps-in-its-last-move-direction-when-jitter-is-high/4987075)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: Under Server Authority (Workspace.AuthorityMode = Server), when the client’s outbound connection has jitter, the server sometimes applies the player’s last non-zero MoveAction value for a single frame, even though the player let go of the c
+- **[Decal UVOffset origin unexpectedly moved](https://devforum.roblox.com/t/decal-uvoffset-origin-unexpectedly-moved/4987437)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: The origin for UVOffset for Decals used to be in the center of the image, recently the origin has moved from the center to the top left of the image. I believe this to be a bug because the origin used to be in the center of the image and an
+- **[Emissive Materials do not render beyond 1200 studs due to Shader LOD](https://devforum.roblox.com/t/emissive-materials-do-not-render-beyond-1200-studs-due-to-shader-lod/4987435)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: If you place a MeshPart with a SurfaceAppearance in the world with EmissiveMaskContent set. At around 1200 studs, the engine will switch to a lower shader LOD, which disables/removes the emissive entirely. 1 post - 1 participant Read full t
+- **[New animal crossing inspired game, looking for feedback!](https://devforum.roblox.com/t/new-animal-crossing-inspired-game-looking-for-feedback/4987156)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: Looking for any kind of feedback on my new animal crossing inspired roblox game, been working on it for a while and am really proud of how it turned out. Let me know what you guys think. (Also if any of you have any advice on how to properl
+- **[Roblox account Hacked, Support does not help and refuses to accept any sort of proof i send](https://devforum.roblox.com/t/roblox-account-hacked-support-does-not-help-and-refuses-to-accept-any-sort-of-proof-i-send/4987392)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: Hello, this is a little bit of a weird thing to say but I’m genuinely stuck and not sure what I’m supposed to do. Last Wednesday on the 4th of November I had gotten kicked out of my Roblox account @tnadimm and upon getting kicked out i noti
+- **[\[FEEDBACK\] Panels of Decision](https://devforum.roblox.com/t/feedback-panels-of-decision/4987178)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: the new age check rule for dev forums made me unable to use @cupcake_BoyzCary so i cant post on that account Panels of Decision! The Plates of Fate inspired game where you don’t own a plate anymore. Yep! Chaos roams everywhere now. ~30 even
 
 ---
 
