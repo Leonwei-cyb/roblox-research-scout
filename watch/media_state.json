@@ -3465,7 +3465,24 @@
     "5512dcd96cc29898c8d50636",
     "eed4cddf3da23db8c9f964d8",
     "1113980af22da1ec09002d3e",
-    "7c586628b58661d889c31e2c"
+    "7c586628b58661d889c31e2c",
+    "1cf7fdb6ae1acd7c708fac97",
+    "f3ade88c023f582d70fd868a",
+    "c597b59a20ff5b7f42715b97",
+    "ed6da763e8f8db30802d8716",
+    "a6ab02ecf23991613e9842cb",
+    "6c2e5d55f8e47ed585c4e418",
+    "2c0cd4984601f6de5c6f5c71",
+    "51233f385d2d9d0a66579b29",
+    "34982a8ea6fc068f98ef5ee3",
+    "26dc808beab2dba1220309d5",
+    "534d8a851ad92f443c69ab15",
+    "d016a17e02f6568eb655b82a",
+    "a7c8049a9003df98e374f6b8",
+    "c1a3eddee257522f17f0babd",
+    "5c8cd1d625b5ad08f854126b",
+    "1220b7ee43e968f75975b60d",
+    "b8664dca320678cd3391d277"
   ],
   "items": [
     {
@@ -3491,6 +3508,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/teleport-to-reservedserver-failure/4986935.rss",
       "id": "f6ee7150885e88dcde5cd554"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[URGENT] Characters seem to parent to nil randomly on the client",
+      "url": "https://devforum.roblox.com/t/urgent-characters-seem-to-parent-to-nil-randomly-on-the-client/4987127",
+      "published": "2026-11-11",
+      "excerpt": "I’ve debugged this for a bit, I haven’t pushed any update. As of 1-2 hours ago, it seems characters randomly parent themselves to nil? on the client only (not yours, but other player’s characters). I’ve received tons of reports from my playerbase (game: Operation One | Play on Roblox ) that the game",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/urgent-characters-seem-to-parent-to-nil-randomly-on-the-client/4987127.rss",
+      "id": "f3ade88c023f582d70fd868a"
     },
     {
       "source": "reddit-robloxdev",
@@ -3535,6 +3564,18 @@
       "excerpt": "I have a question: how can I actually break into the Roblox market? I’ve been modeling as a hobby for 8 years; I’ve tried to enter the market before, but I ended up getting frustrated or giving up. often failing to find a client, or encountering clients who propose a percentage-based arrangement and",
       "creator": "/u/Timely_Appeal_1414 https://www.reddit.com/user/Timely_Appeal_1414",
       "id": "eda5a976ec258973976751c1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Can't set a password or phone number for my roblox account",
+      "url": "https://devforum.roblox.com/t/cant-set-a-password-or-phone-number-for-my-roblox-account/4987103",
+      "published": "2026-11-11",
+      "excerpt": "About a month ago I got hacked, cookies stolen or whatever and the hackers got my account and changed all passwords, tldr ; in the end I managed to get my account back through account recovery but after that I’m guessing my account was put into a “paused” state (all of my game ads were paused, game/",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cant-set-a-password-or-phone-number-for-my-roblox-account/4987103.rss",
+      "id": "ed6da763e8f8db30802d8716"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3633,6 +3674,17 @@
       "id": "d48b5b08cf607c18c7e0c438"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "A trailer for my arcade racing game \"Murim Inn\"",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtqyst/a_trailer_for_my_arcade_racing_game_murim_inn/",
+      "published": "2026-11-11",
+      "excerpt": "It's my first game worked on it for a couple of months, i should've built a community around it first but i showed it off a bit late hence why there's no players lol. It's based off of the \"murim\" genre which is a martial arts fantasy genre. submitted by /u/AncestorOfTheSun [link] [comments]",
+      "creator": "/u/AncestorOfTheSun https://www.reddit.com/user/AncestorOfTheSun",
+      "id": "d016a17e02f6568eb655b82a"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3655,6 +3707,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unauthorized-game-editing-rcc-server-toctou-processes-arbitrary-client-substituted-packet-types-during-async-auth-kick-window/4986279.rss",
       "id": "cd3b962d31b37164e83eca3d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Increase Crash Rate on Window Devices",
+      "url": "https://devforum.roblox.com/t/increase-crash-rate-on-window-devices/4987122",
+      "published": "2026-11-11",
+      "excerpt": "We have seen an increase in the windows client crash rate only. We have ran internal checks on our commits to make sure we havent pushed anything that can effect the game. The increase happened on a day that no push was done. A private message is associated with this bug report 1 post - 1 participan",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/increase-crash-rate-on-window-devices/4987122.rss",
+      "id": "c597b59a20ff5b7f42715b97"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Can I bypass the 50k robux requirement with 2 months of Roblox plus?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsurz/can_i_bypass_the_50k_robux_requirement_with_2/",
+      "published": "2026-11-11",
+      "excerpt": "As the title states, I’m mostly curious if the 50k robux fee is mandatory despite subscription length. I’ve tried searching for answers including in this subreddit but haven’t found anything really clear. Some places say 2+ months of plus allows you to publish to all ages off the bat, others say it’",
+      "creator": "/u/hulksmash332 https://www.reddit.com/user/hulksmash332",
+      "id": "c1a3eddee257522f17f0babd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3707,6 +3782,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "can i get banned for uploading this face",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtrqlx/can_i_get_banned_for_uploading_this_face/",
+      "published": "2026-11-11",
+      "excerpt": "https://preview.redd.it/xdaaf1jpd11i1.png?width=688&format=png&auto=webp&s=36a550fbea907fe168f5786383df2372ef914428 the mouth look like b##bs lol ig , im asking cuz we know how shitty are the auto mods 💀💀 submitted by /u/GadixPro [link] [comments]",
+      "creator": "/u/GadixPro https://www.reddit.com/user/GadixPro",
+      "id": "b8664dca320678cd3391d277"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Idk, i make maps i guess?? (idk what to add here)",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt3zwf/idk_i_make_maps_i_guess_idk_what_to_add_here/",
       "published": "2026-11-11",
@@ -3736,6 +3822,29 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "aa62374ac1e7a18682529987"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Hair transparency thing",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsyt8/hair_transparency_thing/",
+      "published": "2026-11-11",
+      "excerpt": "The last line is supposed to make one of the handles not transparent so the guy isnt bald submitted by /u/Frequent_Good_8789 [link] [comments]",
+      "creator": "/u/Frequent_Good_8789 https://www.reddit.com/user/Frequent_Good_8789",
+      "id": "a7c8049a9003df98e374f6b8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My first Roblox game — looking for honest feedback",
+      "url": "https://devforum.roblox.com/t/my-first-roblox-game-%E2%80%94-looking-for-honest-feedback/4987092",
+      "published": "2026-11-11",
+      "excerpt": "Hello everyone, I would like to show my first Roblox game, Brainrot Bowling . I started this project out of curiosity and wanted to see what I could make. I used AI to help with code and visuals. This was mostly an experiment and my first real experience making a game. In the game, you train your st",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-first-roblox-game-%E2%80%94-looking-for-honest-feedback/4987092.rss",
+      "id": "a6ab02ecf23991613e9842cb"
     },
     {
       "source": "reddit-robloxdev",
@@ -3889,6 +3998,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Server Authority: idle character steps in its last move direction when jitter is high",
+      "url": "https://devforum.roblox.com/t/server-authority-idle-character-steps-in-its-last-move-direction-when-jitter-is-high/4987075",
+      "published": "2026-11-11",
+      "excerpt": "Under Server Authority (Workspace.AuthorityMode = Server), when the client’s outbound connection has jitter, the server sometimes applies the player’s last non-zero MoveAction value for a single frame, even though the player let go of the controls. Each of these blips moves the character in its last",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/server-authority-idle-character-steps-in-its-last-move-direction-when-jitter-is-high/4987075.rss",
+      "id": "6c2e5d55f8e47ed585c4e418"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[OPEN] Open to offers for my game Collect Planets",
       "url": "https://devforum.roblox.com/t/open-open-to-offers-for-my-game-collect-planets/4986773",
       "published": "2026-11-11",
@@ -3971,6 +4092,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "PROFESSIONAL MAP MAKER AND 3D ARTIST FOR HIRE",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsiqx/professional_map_maker_and_3d_artist_for_hire/",
+      "published": "2026-11-11",
+      "excerpt": "i am a 3d artist and map maker open to commissions. message me for more information. submitted by /u/FaFPlayz [link] [comments]",
+      "creator": "/u/FaFPlayz https://www.reddit.com/user/FaFPlayz",
+      "id": "5c8cd1d625b5ad08f854126b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejected?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/",
       "published": "2026-11-11",
@@ -3988,6 +4120,29 @@
       "excerpt": "To make it simple, I wanted to create parts of tunnels for my procedural game, that includes bent tunnels. I started by creating a tunnel by simply extrude a circle. Now when I try to bend it at 45° with every axis but it never gives a good result. How can I bend my tunnel ? https://preview.redd.it/",
       "creator": "/u/Then-Adhesiveness877 https://www.reddit.com/user/Then-Adhesiveness877",
       "id": "5512dcd96cc29898c8d50636"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How do you stop players from noticing NPCs are bots?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xts6j3/how_do_you_stop_players_from_noticing_npcs_are/",
+      "published": "2026-11-11",
+      "excerpt": "Hey! I’m working on a Roblox game and I’m thinking about adding a few bots to fill up servers when there aren’t enough players. The problem is that people could easily figure out they’re bots since they can’t send them friend requests, open their profiles, etc Has anyone found a way around this or d",
+      "creator": "/u/lureacore https://www.reddit.com/user/lureacore",
+      "id": "534d8a851ad92f443c69ab15"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for one 2D Concept Artist and one female Voice Actor",
+      "url": "https://devforum.roblox.com/t/looking-for-one-2d-concept-artist-and-one-female-voice-actor/4987033",
+      "published": "2026-11-11",
+      "excerpt": "About Us Hi there! My name is Mithran, and I’m writer/programmer looking to make a RPG/Visual Novel style game. So far the team is just myself and my friend who is a male voice actor. About The Job I’m looking for an artist that can do 2d illustrations as concept art. I like the Riot Games semi real",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-one-2d-concept-artist-and-one-female-voice-actor/4987033.rss",
+      "id": "51233f385d2d9d0a66579b29"
     },
     {
       "source": "reddit-robloxdev",
@@ -4069,6 +4224,30 @@
       "id": "358b76038296c4b45805aa3f"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[URGENT] Recent Update breaks ragdolls in my game",
+      "url": "https://devforum.roblox.com/t/urgent-recent-update-breaks-ragdolls-in-my-game/4987006",
+      "published": "2026-11-11",
+      "excerpt": "As of version 747 release, newer servers have been experiencing issues with corpses/ragdolls ingame. Currently ragdolls/corpses just instantly disappear and produce an error in the console. Here’s how we handle corpses/ragdolls in our game: if Player then Char:AddTag(\"__death\") task.wait() Player.Ch",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/urgent-recent-update-breaks-ragdolls-in-my-game/4987006.rss",
+      "id": "34982a8ea6fc068f98ef5ee3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Collaborations and comissions - new talent hub UPD",
+      "url": "https://devforum.roblox.com/t/collaborations-and-comissions-new-talent-hub-upd/4987040",
+      "published": "2026-11-11",
+      "excerpt": "Issue As a Roblox developer, doing commissions through the talent hub, will be a lot harder for me and probably others too. i want to do comissions through the talent hub, but soon, it will be impossible to do so because of the new announcement by Roblox, stating that on the 7th of December, talent ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/collaborations-and-comissions-new-talent-hub-upd/4987040.rss",
+      "id": "2c0cd4984601f6de5c6f5c71"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -4089,6 +4268,18 @@
       "excerpt": "im curious as how to make custom materials. does anyone have a guide? submitted by /u/elxiane [link] [comments]",
       "creator": "/u/elxiane https://www.reddit.com/user/elxiane",
       "id": "2770b4b3b2e43a86eca06dec"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Be careful with PostSimulation if you’re using Server Authority",
+      "url": "https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003",
+      "published": "2026-11-11",
+      "excerpt": "PostSimulation is often treated as the newer replacement for Heartbeat , so it’s tempting to use it for anything that should run every frame, like animation, UI motion, springs or polling loops. Without client prediction that mostly works, but under Server Authority it causes problems. When the clie",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003.rss",
+      "id": "26dc808beab2dba1220309d5"
     },
     {
       "source": "reddit-robloxdev",
@@ -4128,6 +4319,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Can't load up game",
+      "url": "https://devforum.roblox.com/t/cant-load-up-game/4987134",
+      "published": "2026-11-11",
+      "excerpt": "Hi all, I’m trying to connect to a place that I created, but it seems to be stuck on “Connecting to Server…” This issue does not persist on another place that I loaded up. Settings are default except for studio theme. Thank you. 2 posts - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/cant-load-up-game/4987134.rss",
+      "id": "1cf7fdb6ae1acd7c708fac97"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Real-Time Liquid Renderer with EditableImage (WIP)",
       "url": "https://devforum.roblox.com/t/real-time-liquid-renderer-with-editableimage-wip/4986686",
       "published": "2026-11-11",
@@ -4159,6 +4362,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/cannot-use-the-share-asset-permission-in-studio/4986309.rss",
       "id": "12549c297502441537b6aede"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Need help with feedback for my game. I spent 3 months working on it any tips are greatly appreciated. Currently spending 20$ on ad spend per week.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsg69/need_help_with_feedback_for_my_game_i_spent_3/",
+      "published": "2026-11-11",
+      "excerpt": "[link] [comments]",
+      "creator": "",
+      "id": "1220b7ee43e968f75975b60d"
     },
     {
       "source": "reddit-robloxdev",
@@ -5039,7 +5253,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 51 posts - 41 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 52 posts - 41 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10179,203 +10393,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/server-authoritative-character-controls-missing-after-publishing-rojo-rbxlx-through-open-cloud-rbxl-works-fine/4978628.rss",
       "id": "d73e699d28d0228aecf4db04"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I made Tarot card style Class picking",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp0cpf/i_made_tarot_card_style_class_picking/",
-      "published": "2026-11-06",
-      "excerpt": "https://preview.redd.it/8tee36w3bwzh1.png?width=1886&format=png&auto=webp&s=7371d1e266def024a7a61228e2e7970d790b2a58 the paranoid gets increased movement speed but sees things that arent real the hot headed gets the ability to punch but has less speed the nervous gets the ability to mark enemys and ",
-      "creator": "/u/Different-Carry9261 https://www.reddit.com/user/Different-Carry9261",
-      "id": "cfccf8c5302b286add55bbf5"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Interstellar traders - How?",
-      "url": "https://devforum.roblox.com/t/interstellar-traders-how/4979096",
-      "published": "2026-11-06",
-      "excerpt": "Interstellar traders is basically a 1:1 120,000 light year galaxy open world space game. The key thing though is how they have managed to put the entire game all in one server so it’s seamless transitions from one star system to the next or even one side of the galaxy to the other. I know you can us",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/interstellar-traders-how/4979096.rss",
-      "id": "cf1fb12775895bf5ec2127f6"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "How to make a power plant in Roblox.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp9vzl/how_to_make_a_power_plant_in_roblox/",
-      "published": "2026-11-06",
-      "excerpt": "o submitted by /u/Excellent_Okra_5525 [link] [comments]",
-      "creator": "/u/Excellent_Okra_5525 https://www.reddit.com/user/Excellent_Okra_5525",
-      "id": "cf1e308f92671221cd2b69df"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Roblox Studio Problem",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpokiz/roblox_studio_problem/",
-      "published": "2026-11-06",
-      "excerpt": "So I keep having this problem, all I’m trying to do is test my game to make sure it works and badges work and all, but this for some reason pops up and idk why, some have said it’s a scam or something but it keeps doing it over and over again and I’m sure not hacked either if my account is still act",
-      "creator": "/u/Avamaxmywifey_4 https://www.reddit.com/user/Avamaxmywifey_4",
-      "id": "cede202059bb48bdce58b572"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for Feedback on the Fair Market Value of My Unreleased Game",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669",
-      "published": "2026-11-06",
-      "excerpt": "Hello! I’ve received a few offers for my game, but since it hasn’t been released yet and I don’t have any analytics, I’m not sure whether the offers are fair. I’d appreciate some honest feedback on what you think the game could reasonably be worth at this stage. I’m also unsure whether I should take",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-the-fair-market-value-of-my-unreleased-game/4978669.rss",
-      "id": "c7b8dd63378b3bd3b9f41d80"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to get some models are need for client and ONLY client renders and server don't",
-      "url": "https://devforum.roblox.com/t/how-to-get-some-models-are-need-for-client-and-only-client-renders-and-server-dont/4978829",
-      "published": "2026-11-06",
-      "excerpt": "Hello guys I need to get models from ServerStorage on client but problem is client can’t access ServerStorage I don’t want exploiters see the secret bosses or etc. before it supposed to show up and they can leak it. I need your help, I really need 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-get-some-models-are-need-for-client-and-only-client-renders-and-server-dont/4978829.rss",
-      "id": "c634969700f79cf78d0f500d"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Help",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp8zxj/help/",
-      "published": "2026-11-06",
-      "excerpt": "What's this? When I start the test, this window appears and the \"Recover\" button doesn't work submitted by /u/Better_Nerve2359 [link] [comments]",
-      "creator": "/u/Better_Nerve2359 https://www.reddit.com/user/Better_Nerve2359",
-      "id": "c2f9f49e28a813f428cf5669"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Test Graphics and Memory on Lower-End Devices With the Performance Simulator",
-      "url": "https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313",
-      "published": "2026-11-06",
-      "excerpt": "Key Takeaways The Performance Simulator is now available in Studio. It shows how your game looks and streams at a device’s typical graphics quality and memory, so you can test lower-end hardware without leaving Studio. To use it, open the Device Simulator from Test > Device Simulator and click the P",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313.rss",
-      "id": "c1df3cd9e748aaedd65e269b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Making dev team",
-      "url": "https://devforum.roblox.com/t/making-dev-team/4979234",
-      "published": "2026-11-06",
-      "excerpt": "Hi everyone! I’m a developer and I’ve made a couple games in the past as a solo dev. Looking for like-minded ambitious people to help make high quality games. Looking for friends and hopefully can grow as developers from this. Looking for UI designers, Animators, Sound Design, Scripters, Builders Se",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/making-dev-team/4979234.rss",
-      "id": "bfbbe85b00b7884b6f7c6047"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Rigs or animations imported from Blender break in Roblox",
-      "url": "https://devforum.roblox.com/t/rigs-or-animations-imported-from-blender-break-in-roblox/4978459",
-      "published": "2026-11-06",
-      "excerpt": "Hi devs! I’ve been trying to chase down an issue that I haven’t had any luck solving for the past couple of weeks. I designed a rig in Blender that imports as a viewmodel in Roblox and have been animating on it. The model and rig exports apparently fine, but when I try and play animations from it, i",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/rigs-or-animations-imported-from-blender-break-in-roblox/4978459.rss",
-      "id": "bd566229f1f1c9bc013dafc2"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Made a bit of a major update in my game, CONVEYOR CHAOS",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpau2a/made_a_bit_of_a_major_update_in_my_game_conveyor/",
-      "published": "2026-11-06",
-      "excerpt": "Just saying that there are special events (like Conveyor Speed Up etc.) that happen every 2-6 minutes, but they aren’t included in the video due to time constraints. Feel free to check them out as well! If you’re a new player, it automatically shows you the tutorial. If not, please tell me so I can ",
-      "creator": "/u/parmishuiers https://www.reddit.com/user/parmishuiers",
-      "id": "bc6b7b7997adadc5c844816e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Help with Automatically-Sized Scrolling TextBox",
-      "url": "https://devforum.roblox.com/t/help-with-automatically-sized-scrolling-textbox/4979103",
-      "published": "2026-11-06",
-      "excerpt": "I am trying to make a textbox that uses a CanvasGroup and ScrollingFrame to make the textbox scrollable when it contains long texts. I am doing this because I don’t want the text size to change. AutomaticCanvasSize of the ScrollingFrame is set to Y . AutomaticSize of the TextBox is set to Y . Howeve",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/help-with-automatically-sized-scrolling-textbox/4979103.rss",
-      "id": "bae5641c90d857635054af73"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio Games not opening",
-      "url": "https://devforum.roblox.com/t/studio-games-not-opening/4979206",
-      "published": "2026-11-06",
-      "excerpt": "Whenever I open studio, the games won’t load, and when I click it, I get this error below: This is happening for all games saved locally on my account / in groups. 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-games-not-opening/4979206.rss",
-      "id": "baaed33aaf8ba240c9656f75"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "My ragdoll game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp5x35/my_ragdoll_game/",
-      "published": "2026-11-06",
-      "excerpt": "https://reddit.com/link/1xp5x35/video/x6dolk6wrxzh1/player riding on that trend of ragdoll games submitted by /u/Next_Employer_8410 [link] [comments]",
-      "creator": "/u/Next_Employer_8410 https://www.reddit.com/user/Next_Employer_8410",
-      "id": "b9878cec5d745a8e832d2b3a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "RobloxAIBuilderPRO Plugin - AI Assistant Code & Copilot & Building",
-      "url": "https://devforum.roblox.com/t/robloxaibuilderpro-plugin-ai-assistant-code-copilot-building/4978859",
-      "published": "2026-11-06",
-      "excerpt": "RobloxAIBuilder PRO — Elevate Your Development Workflow to the Absolute Next Level! Hello, developers! We are thrilled to officially introduce the PRO version of RobloxAIBuilder — the advanced AI assistant for Roblox Studio meticulously engineered to completely eliminate technical bottlenecks and gr",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/robloxaibuilderpro-plugin-ai-assistant-code-copilot-building/4978859.rss",
-      "id": "b0a8edcaabd752e55ca15226"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Rescale dragger just... existing?",
-      "url": "https://devforum.roblox.com/t/rescale-dragger-just-existing/4979311",
-      "published": "2026-11-06",
-      "excerpt": "I have no clue how or why this happened, but the fact this issue is real already warrants a deeper look. Was animating in Eclipse Animator, hit a few too many keys on accident and the Rescale dragger is just stuck there now?? I’m sorry about how lackluster this explanation is, but I tried to reprodu",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/rescale-dragger-just-existing/4979311.rss",
-      "id": "b010025936868c6879725e03"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "cant open experience",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp5cd8/cant_open_experience/",
-      "published": "2026-11-06",
-      "excerpt": "my work gon https://preview.redd.it/67ws8nzamxzh1.png?width=1767&format=png&auto=webp&s=7cfdbec457ee952766370ae4f9ac755bea1bc240 submitted by /u/BlackberryMammoth290 [link] [comments]",
-      "creator": "/u/BlackberryMammoth290 https://www.reddit.com/user/BlackberryMammoth290",
-      "id": "aa4152b8b3a14f795c5518ed"
     }
   ]
 }

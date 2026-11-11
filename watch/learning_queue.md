@@ -32,8 +32,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Economy And Income
 
+- [Server Authority: idle character steps in its last move direction when jitter is high](https://devforum.roblox.com/t/server-authority-idle-character-steps-in-its-last-move-direction-when-jitter-is-high/4987075) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [\[URGENT\] Text Filter FIXED in July, 48-Hour Review STILL Pending | Housebound With POTS and This Is My ONLY Income!](https://devforum.roblox.com/t/urgent-text-filter-fixed-in-july-48-hour-review-still-pending-housebound-with-pots-and-this-is-my-only-income/4986274) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
-- [how do you keep players interested in a monster collecting game?](https://www.reddit.com/r/robloxgamedev/comments/1xpsanx/how_do_you_keep_players_interested_in_a_monster/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Ui And Menus
 
@@ -52,8 +52,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
-- [Test Graphics and Memory on Lower-End Devices With the Performance Simulator](https://devforum.roblox.com/t/test-graphics-and-memory-on-lower-end-devices-with-the-performance-simulator/4979313) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [How do you make the first minute of a simulator game clear without a long tutorial?](https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Added hidden secret islands to my simulator: how I set them up + looking for feedback on discoverability](https://www.reddit.com/r/robloxgamedev/comments/1xsa8yg/added_hidden_secret_islands_to_my_simulator_how_i/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 
