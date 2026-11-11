@@ -49,8 +49,8 @@
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "12a6ba75883272c79b66b59815efef4c574196f6",
-      "head_subject": "Add missing include to TableLiteralInference.cpp (#3107)",
+      "head": "f46d879e28302a430029304f7f6a162aed66f103",
+      "head_subject": "Fix CI builds: remove all U+200E characters from Confusables.cpp and recursive calls in 'std::any_of' (#3114)",
       "name": "Roblox/luau",
       "release_tag": "0.746",
       "release_url": "https://github.com/luau-lang/luau/releases/tag/0.746",

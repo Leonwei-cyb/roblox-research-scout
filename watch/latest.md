@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Unreviewed lead:** [felvieira/claude-skills-fv](https://github.com/felvieira/claude-skills-fv) (28 stars). 
+- **Source updated:** [Roblox/luau](https://github.com/Roblox/luau) — Fix CI builds: remove all U+200E characters from Confusables.cpp and recursive calls in 'std::any_of' (#3114).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
