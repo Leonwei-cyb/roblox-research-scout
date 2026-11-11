@@ -3446,7 +3446,26 @@
     "48726f8b1fbde8dbb5f1ba91",
     "2770b4b3b2e43a86eca06dec",
     "ef73758a9cd6532f0252ee6a",
-    "5d7583203faf462bd3fd4e68"
+    "5d7583203faf462bd3fd4e68",
+    "bbe20f4e7f6f83e69e8c8f4e",
+    "86ea3598c91731cce389482e",
+    "358b76038296c4b45805aa3f",
+    "d48b5b08cf607c18c7e0c438",
+    "f6ee7150885e88dcde5cd554",
+    "e3e201c358a7acc6db604d0d",
+    "ce558425c0ce64709dc2e142",
+    "6395c679a5e207c103de98a6",
+    "6e6fa7e7607b52d50b8e0a6c",
+    "0c3fcd618f2bd48ae348074c",
+    "5d59f28e6d7c5c853f3afc26",
+    "6c22e6e80eb7340f4f1dd7d5",
+    "22ac2c10dfa4a6ad76b44ed9",
+    "637106ba9853d45d25310fd2",
+    "9d7a10cf7b7dfca3e13525b8",
+    "5512dcd96cc29898c8d50636",
+    "eed4cddf3da23db8c9f964d8",
+    "1113980af22da1ec09002d3e",
+    "7c586628b58661d889c31e2c"
   ],
   "items": [
     {
@@ -3462,6 +3481,18 @@
       "id": "fbcad1a0d1a77bcde9092268"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Teleport to ReservedServer failure",
+      "url": "https://devforum.roblox.com/t/teleport-to-reservedserver-failure/4986935",
+      "published": "2026-11-11",
+      "excerpt": "We’ve started seeing a huge increase in the number of ‘Teleport to ReservedServer Failed: HTTP 400 (Bad Request)’ errors in our logs. It’s gone from 1 or 2 a day to thousands - without any code changes on our side. We’re seeing it across multiple experiences - starting from 9th November. Appears to ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/teleport-to-reservedserver-failure/4986935.rss",
+      "id": "f6ee7150885e88dcde5cd554"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3471,6 +3502,17 @@
       "excerpt": "I developed a roblox game and it's starting to generate a good amount of money. The problem is the banks in my country dont accept international payments. And I can't get a visa in many countries to make it as a small studio because they request something like a patent, document that shows the impac",
       "creator": "/u/iEatKids6969699 https://www.reddit.com/user/iEatKids6969699",
       "id": "ef73758a9cd6532f0252ee6a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Game like exchange?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtpwvq/game_like_exchange/",
+      "published": "2026-11-11",
+      "excerpt": "Any devs open to doing like for like on game? Hit me in DM submitted by /u/pwaper [link] [comments]",
+      "creator": "/u/pwaper https://www.reddit.com/user/pwaper",
+      "id": "eed4cddf3da23db8c9f964d8"
     },
     {
       "source": "reddit-robloxdev",
@@ -3534,6 +3576,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Guarantee depth-first order for GetDescendants and QueryDescendants",
+      "url": "https://devforum.roblox.com/t/guarantee-depth-first-order-for-getdescendants-and-querydescendants/4986917",
+      "published": "2026-11-11",
+      "excerpt": "The problem A lot of code walks a hierarchy and needs parents handled before their children: inheriting state or settings down a tree, building nested components, rebuilding a model or GUI from saved data, setting up a rig joint by joint. Plenty of it needs the reverse too: sizing a container from i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/guarantee-depth-first-order-for-getdescendants-and-querydescendants/4986917.rss",
+      "id": "e3e201c358a7acc6db604d0d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "DxrkTempestDev | Scripter",
       "url": "https://devforum.roblox.com/t/dxrktempestdev-scripter/4986293",
       "published": "2026-11-11",
@@ -3570,6 +3624,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Download any asset, even if it is private (Animation, Sound, Image, etc. )",
+      "url": "https://devforum.roblox.com/t/download-any-asset-even-if-it-is-private-animation-sound-image-etc/4986941",
+      "published": "2026-11-11",
+      "excerpt": "Hi, me and my beautiful delicious DeepSeek made a python script that accepts an Open Cloud API Key with only the legacy-assets:manage permission, a place ID, and an asset ID to get your desired asset . If it is public, I do not think you need the Place ID . Also this could have been a GitLab/GitHub ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/download-any-asset-even-if-it-is-private-animation-sound-image-etc/4986941.rss",
+      "id": "d48b5b08cf607c18c7e0c438"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "More content types for script sync compatibility",
+      "url": "https://devforum.roblox.com/t/more-content-types-for-script-sync-compatibility/4986899",
+      "published": "2026-11-11",
+      "excerpt": "As a Roblox developer, it is currently too hard to author text based game content. A solution now is transforming it externally into a modulescript and loading through script sync or other tools. JSON as an example: if we want to get JSON in we must wrap it in a multiline string as a module, then re",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/more-content-types-for-script-sync-compatibility/4986899.rss",
+      "id": "ce558425c0ce64709dc2e142"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[Unauthorized Game Editing] RCC Server TOCTOU Processes Arbitrary Client-Substituted Packet Types During Async Auth-Kick Window",
       "url": "https://devforum.roblox.com/t/unauthorized-game-editing-rcc-server-toctou-processes-arbitrary-client-substituted-packet-types-during-async-auth-kick-window/4986279",
       "published": "2026-11-11",
@@ -3600,6 +3678,18 @@
       "excerpt": "The only things my team needs now are animators and coders Sadly, we can't pay you I've got no money : ( But if you could spare some time to help my little game It'd really mean the world to us ❤️ https://discord.gg/w9TUbVJvU The official server for my game We're nearly at 100 members!!!! submitted ",
       "creator": "/u/Big_Beautiful_9814 https://www.reddit.com/user/Big_Beautiful_9814",
       "id": "bc336a2cac43056f9f1e4704"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Player Stuck on \"Joining Server\"",
+      "url": "https://devforum.roblox.com/t/roblox-player-stuck-on-joining-server/4986992",
+      "published": "2026-11-11",
+      "excerpt": "Recently (As in the 1 or 2 days), trying to join any Roblox game results in me having to rejoin several times before I’m able to play. This also affects experiences that require you to teleport from place to place, making me stuck on the loading screen. I have already tried to restart my PC, reinsta",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-player-stuck-on-joining-server/4986992.rss",
+      "id": "bbe20f4e7f6f83e69e8c8f4e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3684,6 +3774,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "How to make the terrain properly smooth out the transitions of heights?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtlkbk/how_to_make_the_terrain_properly_smooth_out_the/",
+      "published": "2026-11-11",
+      "excerpt": "looks ugly im not keeping that local size = 250 local grid = 10 local scale = 35 local bscale = 200 local amplitude = 100 local random = Random.new() local xoff = random:NextNumber(-100000, 100000) local zoff = random:NextNumber(-100000, 100000) local bxoff = random:NextNumber(-100000, 100000) local",
+      "creator": "/u/Strict-Spray7496 https://www.reddit.com/user/Strict-Spray7496",
+      "id": "9d7a10cf7b7dfca3e13525b8"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "New Roblox Developer",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtgsep/new_roblox_developer/",
       "published": "2026-11-11",
@@ -3727,6 +3828,29 @@
       "id": "88b0ca000cc623d8c9260d70"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING / OPEN] Lead 3D Generalist & Character Artist for \"The Snow Guest\" (Christmas Story Horror)",
+      "url": "https://devforum.roblox.com/t/hiring-open-lead-3d-generalist-character-artist-for-the-snow-guest-christmas-story-horror/4986971",
+      "published": "2026-11-11",
+      "excerpt": "We are looking for a skilled both 3D Modeler & Character Artist (one person for both roles, if possible, if not, only one main 3D Modeler/Artist) to join our team. We need someone who can handle multiple areas—like lobby and the actual game map, whole world and its systems. What you will be working ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-open-lead-3d-generalist-character-artist-for-the-snow-guest-christmas-story-horror/4986971.rss",
+      "id": "86ea3598c91731cce389482e"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "icon for brush size button?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtp414/icon_for_brush_size_button/",
+      "published": "2026-11-11",
+      "excerpt": "need to change my icon for the brush size button. currently its shows dots in different sizes. wanted a HUD for my painting game with self explaining pixel icons but everthing i tryd doesnt look like \"change brush size\". what could or should i choose instead of dots? submitted by /u/Sch4k4l [link] [",
+      "creator": "/u/Sch4k4l https://www.reddit.com/user/Sch4k4l",
+      "id": "7c586628b58661d889c31e2c"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3741,6 +3865,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Part.Touched event causing delay in Collision Group restrictions when dropping tools",
+      "url": "https://devforum.roblox.com/t/parttouched-event-causing-delay-in-collision-group-restrictions-when-dropping-tools/4986831",
+      "published": "2026-11-11",
+      "excerpt": "If a tool is part of CollisionGroup A that is blocked from colliding with another CollisionGroup B, when you drop the tool on an object in that group, the expected behavior is that the tool will pass through the object. However, if a script has made a connection to the Part.Touched event for the par",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/parttouched-event-causing-delay-in-collision-group-restrictions-when-dropping-tools/4986831.rss",
+      "id": "6e6fa7e7607b52d50b8e0a6c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[URGENT] Text Filter FIXED in July, 48-Hour Review STILL Pending | Housebound With POTS and This Is My ONLY Income!",
       "url": "https://devforum.roblox.com/t/urgent-text-filter-fixed-in-july-48-hour-review-still-pending-housebound-with-pots-and-this-is-my-only-income/4986274",
       "published": "2026-11-11",
@@ -3748,6 +3884,41 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/urgent-text-filter-fixed-in-july-48-hour-review-still-pending-housebound-with-pots-and-this-is-my-only-income/4986274.rss",
       "id": "6d66393c29e9105f143bac78"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] Open to offers for my game Collect Planets",
+      "url": "https://devforum.roblox.com/t/open-open-to-offers-for-my-game-collect-planets/4986773",
+      "published": "2026-11-11",
+      "excerpt": "Hey! I’m potentially selling my game Collect Planets and I’m open to offers: Collect Planets | Play on Roblox Collect Planets is an idle collecting game where you open orbs, collect and upgrade planets (rarities, mutations etc.) and build up your base. I released it in July 2026 and it got picked up",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-open-to-offers-for-my-game-collect-planets/4986773.rss",
+      "id": "6c22e6e80eb7340f4f1dd7d5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "ContentId: rbxassetid://XXX failed due to: Failed to construct AssetDelivery v3 batch request entry",
+      "url": "https://devforum.roblox.com/t/contentid-rbxassetidxxx-failed-due-to-failed-to-construct-assetdelivery-v3-batch-request-entry/4986871",
+      "published": "2026-11-11",
+      "excerpt": "Upon playing our game in studio, none of our assets under our group seem to load. On the contrary, playing the game outside of studio everything seems to work just fine. Permissions have been unchanged. Publishing and playing outside of studio is the only way for me to test the game as of right now ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/contentid-rbxassetidxxx-failed-due-to-failed-to-construct-assetdelivery-v3-batch-request-entry/4986871.rss",
+      "id": "6395c679a5e207c103de98a6"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Hex Warfare - First Mission Demo Showcase",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/",
+      "published": "2026-11-11",
+      "excerpt": "This video showcases the first mission demo of Hex Warfare. Please keep in mind that nothing is final. Things such as stats, visuals, UI, models, animations, and much more are still subject to change and may be reworked, improved, or added as development continues. Interested in learning more about ",
+      "creator": "/u/Sniperec https://www.reddit.com/user/Sniperec",
+      "id": "637106ba9853d45d25310fd2"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3785,6 +3956,18 @@
       "id": "5d7583203faf462bd3fd4e68"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I made a Figma to Roblox UI plugin for myself, and figured I'd share it",
+      "url": "https://devforum.roblox.com/t/i-made-a-figma-to-roblox-ui-plugin-for-myself-and-figured-id-share-it/4986776",
+      "published": "2026-11-11",
+      "excerpt": "Hey everyone, I build a lot of Roblox UI, and I was sick of rebuilding every screen by hand after designing it in Figma. The plugins that already do this either want an expensive subscription or barely get updated, so I made my own: Porter Buddy. I built it for my own workflow, but I figured some of",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-made-a-figma-to-roblox-ui-plugin-for-myself-and-figured-id-share-it/4986776.rss",
+      "id": "5d59f28e6d7c5c853f3afc26"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3794,6 +3977,17 @@
       "excerpt": "I’m making a steel ball run inspired game having no developper or coding experience. The game is fun (my cousins and I tried it) and I think it’d be a good game experience for fans of the anime, I posted progress and asked for ideas on JJBA subreddits and got a wave of petty hate calling it a \"slop\"",
       "creator": "/u/Random_dude01011 https://www.reddit.com/user/Random_dude01011",
       "id": "5bbd58d8b6885b44cb791847"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "my tunnel wont bend properly with simple deform",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtq4gw/my_tunnel_wont_bend_properly_with_simple_deform/",
+      "published": "2026-11-11",
+      "excerpt": "To make it simple, I wanted to create parts of tunnels for my procedural game, that includes bent tunnels. I started by creating a tunnel by simply extrude a circle. Now when I try to bend it at 45° with every axis but it never gives a good result. How can I bend my tunnel ? https://preview.redd.it/",
+      "creator": "/u/Then-Adhesiveness877 https://www.reddit.com/user/Then-Adhesiveness877",
+      "id": "5512dcd96cc29898c8d50636"
     },
     {
       "source": "reddit-robloxdev",
@@ -3863,6 +4057,18 @@
       "id": "3adfcf8be818ff059b47b7f8"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Experience banned again while maturity is correct",
+      "url": "https://devforum.roblox.com/t/experience-banned-again-while-maturity-is-correct/4986961",
+      "published": "2026-11-11",
+      "excerpt": "Hello @Caelestene , Unfortunately, the same issue has happened again. My experience has once again been moderated for having an inaccurate maturity rating, even though I previously appealed this exact issue successfully and you personally helped restore my experience. Since then, I have kept the exp",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/experience-banned-again-while-maturity-is-correct/4986961.rss",
+      "id": "358b76038296c4b45805aa3f"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3908,6 +4114,17 @@
       "id": "2338bbbefbad9d452d2155c8"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I asked for artists to reach out so I can commission someone to make my thumbnails and most of the replies have been AI.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtn6p1/i_asked_for_artists_to_reach_out_so_i_can/",
+      "published": "2026-11-11",
+      "excerpt": "It’s crazy. When I ask for a a portfolio they send me 30 AI thumbnails. Like do they think we won’t notice ? I’m trying to do the right thing and pay an artist but I genuinely can’t find one in the sea of AI. Anyone have someone they use ? submitted by /u/friedbeann [link] [comments]",
+      "creator": "/u/friedbeann https://www.reddit.com/user/friedbeann",
+      "id": "22ac2c10dfa4a6ad76b44ed9"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3944,6 +4161,17 @@
       "id": "12549c297502441537b6aede"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Detailed Game Testing (QA) & Experience Review for Robux!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtpvtw/detailed_game_testing_qa_experience_review_for/",
+      "published": "2026-11-11",
+      "excerpt": "If you have created a new game or map and are struggling with player retention, engagement, or monetization, I offer in-depth playtesting and detailed feedback reports in exchange for Robux. Services & Pricing (Tax Not Included): Player Acquisition Analysis (250 Robux): Identifying why players aren'",
+      "creator": "/u/MrBalkoz https://www.reddit.com/user/MrBalkoz",
+      "id": "1113980af22da1ec09002d3e"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3966,6 +4194,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/significantly-increase-the-trails-max-lifetime/4986471.rss",
       "id": "0e30ec0235df1e81542adca2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Console & Mobile Client FPS P10 Degradation",
+      "url": "https://devforum.roblox.com/t/console-mobile-client-fps-p10-degradation/4986822",
+      "published": "2026-11-11",
+      "excerpt": "Hello, We’re (DE / Driving Empire) receiving alerts about degraded performance on Console and mobile devices, seemingly starting from 2026-11-02T18:45:00Z. We have ruled out our Spookfest update as being the cause as the sharp negative trend started later than its release, and did not resolve at the",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/console-mobile-client-fps-p10-degradation/4986822.rss",
+      "id": "0c3fcd618f2bd48ae348074c"
     },
     {
       "source": "reddit-robloxdev",
@@ -4799,7 +5039,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 48 posts - 38 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 51 posts - 41 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10136,226 +10376,6 @@
       "excerpt": "my work gon https://preview.redd.it/67ws8nzamxzh1.png?width=1767&format=png&auto=webp&s=7cfdbec457ee952766370ae4f9ac755bea1bc240 submitted by /u/BlackberryMammoth290 [link] [comments]",
       "creator": "/u/BlackberryMammoth290 https://www.reddit.com/user/BlackberryMammoth290",
       "id": "aa4152b8b3a14f795c5518ed"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Dark digital style Gfx (Showcase)",
-      "url": "https://devforum.roblox.com/t/dark-digital-style-gfx-showcase/4978728",
-      "published": "2026-11-06",
-      "excerpt": "-This gfx was made in 50 minutes 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/dark-digital-style-gfx-showcase/4978728.rss",
-      "id": "a804d2ea9f92652b220c69a7"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How does copyright work with car brands?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpnhd8/how_does_copyright_work_with_car_brands/",
-      "published": "2026-11-06",
-      "excerpt": "Im making a car game and I’m thinking of removing the logos and make up different names, but could I still get in trouble because of the car models? submitted by /u/AccessEducational245 [link] [comments]",
-      "creator": "/u/AccessEducational245 https://www.reddit.com/user/AccessEducational245",
-      "id": "a7e9c55285a2b8b9edcef07a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game Review and Feedbacl",
-      "url": "https://devforum.roblox.com/t/game-review-and-feedbacl/4979241",
-      "published": "2026-11-06",
-      "excerpt": "Blades and Blood – Looking for Honest Feedback! Hey everyone! I’ve been working on a Roblox game called Blades and Blood , and I’d really appreciate some honest feedback from other developers and players. About the game Blades and Blood is fast paced multiplayer fighting game with multiple gamemodes",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-review-and-feedbacl/4979241.rss",
-      "id": "a5662f9e7ca43704371fa9e7"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "rate my ceiling light model 1-10",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpi0tm/rate_my_ceiling_light_model_110/",
-      "published": "2026-11-06",
-      "excerpt": "yes, I made it all by myself submitted by /u/Luca88552 [link] [comments]",
-      "creator": "/u/Luca88552 https://www.reddit.com/user/Luca88552",
-      "id": "a378114e709cbcb7bea6f853"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Stranger Things Creator Contest!",
-      "url": "https://devforum.roblox.com/t/stranger-things-creator-contest/4978959",
-      "published": "2026-11-06",
-      "excerpt": "For ten years, Stranger Things has pulled fans into Hawkins — now it’s your turn. Today, Netflix is releasing an official Stranger Things Asset Pack — Eleven, Hopper, Vecna, the Demogorgon, and more, are ready for you to build with on Roblox. But we’re not just giving you the assets. Netflix is chal",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/stranger-things-creator-contest/4978959.rss",
-      "id": "a2ee66bba28dbc0b0ae33040"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Avatar items cannot be uploaded to groups",
-      "url": "https://devforum.roblox.com/t/avatar-items-cannot-be-uploaded-to-groups/4978165",
-      "published": "2026-11-06",
-      "excerpt": "When uploading an avatar item, after selecting the asset category, the only option left under Creator is “Me.” I can no longer choose to upload it to a group. 4 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/avatar-items-cannot-be-uploaded-to-groups/4978165.rss",
-      "id": "9baaae1d2f6553f0af7a453b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Troubles with InputContext for Server Authority",
-      "url": "https://devforum.roblox.com/t/troubles-with-inputcontext-for-server-authority/4978531",
-      "published": "2026-11-06",
-      "excerpt": "I am trying to start using InputContexts to work on a Character Controller in Studio with Server Authority. Currently I have an InputController folder that hosts all of the user’s InputContexts, Actions and Bindings. I am using a very simple, static, number of inputs that doesn’t decrease or increas",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/troubles-with-inputcontext-for-server-authority/4978531.rss",
-      "id": "9b9a8a5a17f18f3dd4d9e741"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Help me plz",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpjt9w/help_me_plz/",
-      "published": "2026-11-06",
-      "excerpt": "I'm trying to set the MCP serveur with vs code I don't get how it works. I want an ai to help me code but a free ai submitted by /u/ProfessionalLow6122 [link] [comments]",
-      "creator": "/u/ProfessionalLow6122 https://www.reddit.com/user/ProfessionalLow6122",
-      "id": "9a70d43a3f5877eb10571a6e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "New Roblox Merge Game (\"Merge A Piggy\")",
-      "url": "https://devforum.roblox.com/t/new-roblox-merge-game-merge-a-piggy/4977927",
-      "published": "2026-11-06",
-      "excerpt": "Yesterday I released Merge A Piggy , a new Roblox game where you merge pigs, upgrade your farm and increase your income. The goal of the game is to make your own farm filled with pigs you want, ranging from unlocking your first pig, to unlocking pigs with variants, farm multipliers, weather bonuses ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-roblox-merge-game-merge-a-piggy/4977927.rss",
-      "id": "9a24fa5c6ca13b5288b19d58"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can't upload UGC's to marketplace under my group",
-      "url": "https://devforum.roblox.com/t/cant-upload-ugcs-to-marketplace-under-my-group/4978130",
-      "published": "2026-11-06",
-      "excerpt": "Hai UGC creators, The UGC uploads to the marketplace currently only work through the personal account. I have tried to upload lots of asset types (dynamic heads/neck accessories etc.), but I am only able to upload them under my personal account. Whenever I click on the button, where I usually select",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cant-upload-ugcs-to-marketplace-under-my-group/4978130.rss",
-      "id": "9a16e9a8df21b6330ce36453"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "new boss cutscene for my demon slayer game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp57x8/new_boss_cutscene_for_my_demon_slayer_game/",
-      "published": "2026-11-06",
-      "excerpt": "is it peak or nah?? 🥲 submitted by /u/OppositeMental4347 [link] [comments]",
-      "creator": "/u/OppositeMental4347 https://www.reddit.com/user/OppositeMental4347",
-      "id": "9793bde3daa1c8ce4b359357"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I’m stuck in Roblox studio my camera don’t move",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpj7xo/im_stuck_in_roblox_studio_my_camera_dont_move/",
-      "published": "2026-11-06",
-      "excerpt": "submitted by /u/BobcatLongjumping110 [link] [comments]",
-      "creator": "/u/BobcatLongjumping110 https://www.reddit.com/user/BobcatLongjumping110",
-      "id": "9063c9d8af14565550357829"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox said I had appealed, then didn't unmoderate me",
-      "url": "https://devforum.roblox.com/t/roblox-said-i-had-appealed-then-didnt-unmoderate-me/4979341",
-      "published": "2026-11-06",
-      "excerpt": "Basically Roblox moderated me for ‘sexual content’ and this was the image (I know it is very bad look at your own risk): (I kept their name private because I appreciate they took the time to review) The person reviewing didn’t even fill out the format (I presume in the ‘-’ they’re supposed to put li",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-said-i-had-appealed-then-didnt-unmoderate-me/4979341.rss",
-      "id": "8d7b37ee23df816bc9fdf0b1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Missing terrain on the client",
-      "url": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081",
-      "published": "2026-11-06",
-      "excerpt": "So on one of the map in my game, on the client voxels of terrains disappear for no reason On the server the terrain exists: But on the client, it’s not there and we can go inside the hole: I currently have ExpandedTerrain enabled, but I have reports that predates that update. A private message is as",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/missing-terrain-on-the-client/4978081.rss",
-      "id": "8ba2b1eefd855971963d369b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "help pls (read body text)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpgmxx/help_pls_read_body_text/",
-      "published": "2026-11-06",
-      "excerpt": "so i have a 3d model made in blender and when i imported the file to roblox studio it appears gray(it has the textures in blender and has a folder with all the textures pngs on it) submitted by /u/AdventurouslyBad [link] [comments]",
-      "creator": "/u/AdventurouslyBad https://www.reddit.com/user/AdventurouslyBad",
-      "id": "884c03f735cb9193a23194a9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Model Academy Game stuck in final 16+ review for more than 5 days (should be done within 48hrs) - All items completed and green check marked",
-      "url": "https://devforum.roblox.com/t/model-academy-game-stuck-in-final-16-review-for-more-than-5-days-should-be-done-within-48hrs-all-items-completed-and-green-check-marked/4979369",
-      "published": "2026-11-06",
-      "excerpt": "Hello Roblox Engineering Team, My experience, Model Academy | Fashion & Dress Up , is still restricted to players ages 16 and older. Every requirement on the Manage Audience page is already check-marked, but the final review has not finished after over 5+ days and counting now. As of November 6, 202",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/model-academy-game-stuck-in-final-16-review-for-more-than-5-days-should-be-done-within-48hrs-all-items-completed-and-green-check-marked/4979369.rss",
-      "id": "87fc9399cef32938ca58c660"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Still finding a method of distributing sound effects",
-      "url": "https://devforum.roblox.com/t/still-finding-a-method-of-distributing-sound-effects/4978629",
-      "published": "2026-11-06",
-      "excerpt": "I dont know if this is a bug but I still can’t distribute audio even after verification. It would not let me. Link for extra information: How to distribute sound effect? 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/still-finding-a-method-of-distributing-sound-effects/4978629.rss",
-      "id": "85db91c41ebdd0d260ee0371"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "how to make the wasit wider??",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xpcei7/how_to_make_the_wasit_wider/",
-      "published": "2026-11-06",
-      "excerpt": "i tried everything to make the wasit bigger:i was expanding the inner ansd outer cae,expanding the wasit on the model and adjusting the width scale on my humanoid model in roblox studio.nothing helped.for the dress i was using accesory fitting tool submitted by /u/Alternative_City_119 [link] [commen",
-      "creator": "/u/Alternative_City_119 https://www.reddit.com/user/Alternative_City_119",
-      "id": "83c690c285f516039b5a9df1"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "how do i get rid of these lines?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xp31mp/how_do_i_get_rid_of_these_lines/",
-      "published": "2026-11-06",
-      "excerpt": "im having a hard time figuring out how to remove these black line things, i disabled welds and constraint details and messed with my settings a bit too. I'm quite new with studio. submitted by /u/Kooky-Beginning-7191 [link] [comments]",
-      "creator": "/u/Kooky-Beginning-7191 https://www.reddit.com/user/Kooky-Beginning-7191",
-      "id": "83c5a9c58881eaf96261049a"
     }
   ]
 }
