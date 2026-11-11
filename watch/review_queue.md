@@ -20,6 +20,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
+- **[\[Paid\] Looking for 3 serious playtesters](https://www.reddit.com/r/robloxgamedev/comments/1xt2vf6/paid_looking_for_3_serious_playtesters/)** — Public text/page, video not confirmed
 - **[MCP starting solo play sessions sometimes causes the window to be forced to the top](https://devforum.roblox.com/t/mcp-starting-solo-play-sessions-sometimes-causes-the-window-to-be-forced-to-the-top/4986004)** — Public text/page, video not confirmed
-- **[where do you find playtesters?](https://www.reddit.com/r/robloxgamedev/comments/1xsv78i/where_do_you_find_playtesters/)** — Public text/page, video not confirmed
 - **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** — Public text/page, video not confirmed

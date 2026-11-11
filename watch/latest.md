@@ -2,6 +2,6 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — launch: refresh Pi metadata after sign-in and honor prompt args (#19575).
+- **Unreviewed lead:** [felvieira/claude-skills-fv](https://github.com/felvieira/claude-skills-fv) (28 stars). 
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.

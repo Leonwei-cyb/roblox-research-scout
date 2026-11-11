@@ -7,26 +7,26 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LaXdpRmpPNmhKTkh2SXY5MUx3U1hLSjZUbDVXQkpRNkprZHpRSUpkSVpPZkQ3WFVya0d1U3BDTWdCN2tNdGxMNnJsQmY0SzQ5QzBNN0pn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-02
-  - Feed excerpt: Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp Instagram
-- **[Only today in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMWRlM1BfdUsyRzI5VlhsUXhwMzVCbVl6Y3dScDBGYnc5SnhHLUVfZ3RkTHJLZmJ1UDBmMWd6R1dRWGpmQmdkTGIzaUlEYlVyZ1J0Tjd3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-10
-  - Feed excerpt: Only today in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram
+- **[Only in the Admin abuse of today in my game Steal an egg 🔥 #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53U0JBbUxKSXdrWDFTNWhlU1BOZTJqSDNVLXlvUTVZamlURDVNQmRKVzQzRjI2Uy01ZVhEcnk4cmRDRkRWZ1plSkhGcVlGRkU1cWtLVmVB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-11
+  - Feed excerpt: Only in the Admin abuse of today in my game Steal an egg 🔥 #roblox #robloxfyp #stealanegg Instagram
 
 ## Community
 
-- **[Help with getting clips/ screenshots for advertising and thumbnail potentially](https://www.reddit.com/r/robloxgamedev/comments/1xt0wvl/help_with_getting_clips_screenshots_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Heyy ive made this roblox game that hasn't blown up yet what we need rn is to advertise the game i was thinking of making edits and stuff on tiktok but I dont have enough clips or screenshots of people actually playing the game i was wonder
-- **[I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?](https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: Solo dev here. My game is a pawn shop where monsters bring you items and you check them with a UV lamp, a lens and the papers to decide: real or fake? It went public last week. New experiences start in a 16+ trial: until 250 "highly engaged
-- **[When do my ads stop being in learning mode](https://www.reddit.com/r/robloxgamedev/comments/1xt1ns1/when_do_my_ads_stop_being_in_learning_mode/)** · Reddit r/robloxgamedev public RSS · 2026-11-10
-  - Feed excerpt: My original plan was to pay for thumbnails AFTER the learning phase but i'm $40 down and I'm still not out of the learning phase. My biggest mistake was running plays over engagement, 16+ don't like slop games https://preview.redd.it/nrjoyz
+- **[\[Paid\] Looking for 3 serious playtesters](https://www.reddit.com/r/robloxgamedev/comments/1xt2vf6/paid_looking_for_3_serious_playtesters/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: Looking for 3 serious playtesters for a fun, quest-filled collecting game. Fair warning: the game is grindy. 700 Robux per tester. 2 hours of testing along with a full analysis/review when done. Payment will be sent when your session is don
+- **[i made this GAME icon V1 , what do you think ?](https://www.reddit.com/r/robloxgamedev/comments/1xt3g5k/i_made_this_game_icon_v1_what_do_you_think/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: lol submitted by /u/GadixPro \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[\[CRITICAL\] Windows Client Crash Rate SPIKES to 15% After Release 747](https://devforum.roblox.com/t/critical-windows-client-crash-rate-spikes-to-15-after-release-747/4985999)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: Our experience’s client crash rate went up in two steps, both lining up with the 747 rollout (times from the Engine Release annotations in Creator Dashboard). Nothing was published on our side in this window (last place publish: Nov 9, 21:1
-- **[Help with animating a meele swing](https://devforum.roblox.com/t/help-with-animating-a-meele-swing/4986100)** · Roblox Developer Forum latest · 2026-11-10
-  - Feed excerpt: So i’m not really an animator, i know the basic stuff about movement logic in animations, but here i need help from some more experienced animators, basically my animation is not really dynamic smooth or fast in a natural in any way, i trie
+- **[Open Timelines - Create functional maps without touching code](https://devforum.roblox.com/t/open-timelines-create-functional-maps-without-touching-code/4986149)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: OpenTimelines: build scripted events and maps without writing code OpenTimelines lets your map makers build fully scripted maps without writing a single line of code. It’s an open-source version of the FE2CM Timelines system, written in str
+- **[Roblox Content Creators Wanted – pPaid Promotional Campaigns\]](https://devforum.roblox.com/t/roblox-content-creators-wanted-%E2%80%93-ppaid-promotional-campaigns/4986144)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Looking to Connect With Roblox Content Creators for Paid Promotional Campaigns Hey everyone! I’m Altri , founder of Toybox Entertainment , and I’m working with MetaClip to connect Roblox content creators with paid promotional campaign oppor
+- **[\[FOR HIRE\] HELG \| Cinematic Roblox GFX & Graphic Design \| USD](https://devforum.roblox.com/t/for-hire-helg-cinematic-roblox-gfx-graphic-design-usd/4986142)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: Hello! I’m HELG, also known as MR_F or Mister_Founder on Roblox. I’m a graphic designer and 3D GFX artist specializing in cinematic, atmosphere-driven visuals. My primary focus is SCP, Military, Horror and Science Fiction projects. I approa
+- **[\[OPEN\] The Midnight Shift At Freddy's](https://devforum.roblox.com/t/open-the-midnight-shift-at-freddys/4986143)** · Roblox Developer Forum latest · 2026-11-10
+  - Feed excerpt: What is The Midnight Shift at Freddy’s? Hi there! The Midnight Shift at Freddy’s is a single-player, story-driven psychological horror game. It includes classic FNaF gameplay with the addition of fun and innovative twists. It is estimated t
 
 ---
 
