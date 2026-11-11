@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-11T13:46:28Z (local, ok)
+- Last run: 2026-11-11T19:53:02Z (schedule, partial)
 - Repos tracked: 453; adopt 0, needs-test 191, reject 262
 - Actionable backlog: 178
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​64c3406, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/962fbdcd8cde31382e32db6c3c588eed3c33c927)
   - Pin jmagly/aiwg@​962fbdc, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #2095 Bug: Archiving task with many subagent tasks archives only main task and sprawls many tasks to the t
-- Issue updated: open-mercato/cezar #2094 Usage-limit account hold also blocks command-only \(agentless\) runs, and scheduled repeats pile up in
-- Issue updated: alamops/agetor #298 \[Bug\] Agent gets stuck on Chrome browser integration prompt and terminal exits immediately
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2683 subagent-driven-development: review-package balloons to 100+ KB when the diff touches files with ver
-- Issue updated: obra/superpowers #2669 Someone got a weird warning when trying to download superpowers manually from github
-- New candidate: steipete/pi-mono (reject)
-- Issue updated: earendil-works/pi #11999 ant-ling provider: migrate to Ling 3.x Flash models \(requesting lgtm to open a PR\)
-- Issue updated: earendil-works/pi #11996 MCP tools loaded by tool\_search are dropped on resume when an extension deactivates its own tool at
-- Issue updated: earendil-works/pi #12019 github-copilot: Gemini models never get reasoning\_effort; usage.reasoning\_tokens ignored
-- Issue updated: earendil-works/pi #12035 Threshold compaction fires far below the window when the selected model is virtual
-- Issue updated: earendil-works/pi #9886 clearQueue\(\) silently destroys extension-delivered custom messages without returning them。
-- Issue updated: OpenHands/OpenHands #19581 \[Feature\]: Improve visibility of tool call outputs and process details
-- Issue updated: OpenHands/OpenHands #18624 \[OSS→OHE parity\] Wire Cloud tag editor and hooks modal through shared typed client
-- Issue updated: OpenHands/OpenHands #19656 Keep .pr/ review evidence off main by removing it before merge
-- Issue updated: OpenHands/OpenHands #19645 \[Bug\]: Side tooltips with -start/-end placement open from the wrong edge \(sidebar row preview opens
-- Issue updated: OpenHands/OpenHands #19648 \[Bug\]: Title generation model and other settings dropdowns lost their clear button
-- New candidate: modelcontextprotocol/servers (reject)
-- New candidate: anthropics/claude-code (reject)
-- Issue updated: openai/codex #55765 \[Bug\] Codex Remote SSH fails after /home expansion with mergerfs: SQLite DB and WAL/SHM files placed
-- Issue updated: openai/codex #58704 \[Linux desktop voice\] PipeWire master gain becomes zero while channel gains remain at unity
-- Issue updated: openai/codex #60804 \[Feature Request\] ChatGPT Android: Persistent Sidebar, Global Navigation, Pinned Items & Working Tab
-- Issue updated: openai/codex #60601 Windows: exec-server rejects PowerShell launch with Access is denied \(os error 5\)
-- Issue updated: openai/codex #60266 \[Feature Request\] Mobile app: reorder sidebar navigation and pin Explore destinations
-- New candidate: creosB/AI-Side-Panel-Extension (reject)
-- New candidate: Robbings/chatgpt-graph-navigator (reject)
-- New candidate: keyonzeng/prompt\_ark (reject)
-- Issue updated: ollama/ollama #12788 Gemma3 base model merging finetuned lora adapters
-- Issue updated: ollama/ollama #19650 mimo-v2.6: qwen3.5 parser returns 'arguments: {}' when the model writes JSON arguments inside ' func
-- Issue updated: ollama/ollama #19472 macOS app offers "Restart to update" for the installed version \(0.40.13\) and requests admin rights t
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
