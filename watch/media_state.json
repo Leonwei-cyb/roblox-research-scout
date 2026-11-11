@@ -3443,7 +3443,10 @@
     "bb62eb92fbce69fec747a5c3",
     "5bbd58d8b6885b44cb791847",
     "009495bec9d7e18e386b22db",
-    "48726f8b1fbde8dbb5f1ba91"
+    "48726f8b1fbde8dbb5f1ba91",
+    "2770b4b3b2e43a86eca06dec",
+    "ef73758a9cd6532f0252ee6a",
+    "5d7583203faf462bd3fd4e68"
   ],
   "items": [
     {
@@ -3457,6 +3460,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-sobre-un-nuevo-proyecto/4986472.rss",
       "id": "fbcad1a0d1a77bcde9092268"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Monetization issues",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtk00q/monetization_issues/",
+      "published": "2026-11-11",
+      "excerpt": "I developed a roblox game and it's starting to generate a good amount of money. The problem is the banks in my country dont accept international payments. And I can't get a visa in many countries to make it as a small studio because they request something like a patent, document that shows the impac",
+      "creator": "/u/iEatKids6969699 https://www.reddit.com/user/iEatKids6969699",
+      "id": "ef73758a9cd6532f0252ee6a"
     },
     {
       "source": "reddit-robloxdev",
@@ -3763,6 +3777,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Is it okay to completely redesign a Roblox game after launch?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtjwel/is_it_okay_to_completely_redesign_a_roblox_game/",
+      "published": "2026-11-11",
+      "excerpt": "I recently released my Roblox game, but the player response hasn't been very good. I'm considering completely redesigning the core gameplay while reusing the existing maps, models, and items. Essentially, I want to turn it into a different game without starting development from scratch. Would making",
+      "creator": "/u/Quick_Lychee_723 https://www.reddit.com/user/Quick_Lychee_723",
+      "id": "5d7583203faf462bd3fd4e68"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejected?",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/",
       "published": "2026-11-11",
@@ -3847,6 +3872,17 @@
       "excerpt": "Just keep it simple submitted by /u/No_Bug_2183 [link] [comments]",
       "creator": "/u/No_Bug_2183 https://www.reddit.com/user/No_Bug_2183",
       "id": "27aeac6abd0d876dd635621c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "how do i make custom materials?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtk7sn/how_do_i_make_custom_materials/",
+      "published": "2026-11-11",
+      "excerpt": "im curious as how to make custom materials. does anyone have a guide? submitted by /u/elxiane [link] [comments]",
+      "creator": "/u/elxiane https://www.reddit.com/user/elxiane",
+      "id": "2770b4b3b2e43a86eca06dec"
     },
     {
       "source": "reddit-robloxdev",
@@ -4763,7 +4799,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 47 posts - 38 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 48 posts - 38 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10320,42 +10356,6 @@
       "excerpt": "im having a hard time figuring out how to remove these black line things, i disabled welds and constraint details and messed with my settings a bit too. I'm quite new with studio. submitted by /u/Kooky-Beginning-7191 [link] [comments]",
       "creator": "/u/Kooky-Beginning-7191 https://www.reddit.com/user/Kooky-Beginning-7191",
       "id": "83c5a9c58881eaf96261049a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio error \"We could not open the place\"",
-      "url": "https://devforum.roblox.com/t/studio-error-we-could-not-open-the-place/4978407",
-      "published": "2026-11-06",
-      "excerpt": "Hi! I have a problem opening any place up in Roblox Studio. I have attatched a screenshot of the error I get when I try to open the “Tutorial Place”. It is a fresh copy of Studio. Big thanks to everyone that can help! 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-error-we-could-not-open-the-place/4978407.rss",
-      "id": "8350efe810640e5c4ffadf26"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to change shift lock keybind?",
-      "url": "https://devforum.roblox.com/t/how-to-change-shift-lock-keybind/4978675",
-      "published": "2026-11-06",
-      "excerpt": "This script used to work, but I’m guessing roblox updated something on the PlayerModule cuz now it just says infinite yield on the wait for child on the PlayerModule.. local KEYS = \"LeftControl,RightControl\" local mouseLockController = game.Players.LocalPlayer .PlayerScripts :WaitForChild(\"PlayerMod",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-change-shift-lock-keybind/4978675.rss",
-      "id": "81419718adac7a93154cada8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Error Report page: Please deduplicate this error message",
-      "url": "https://devforum.roblox.com/t/error-report-page-please-deduplicate-this-error-message/4977948",
-      "published": "2026-11-06",
-      "excerpt": "I guess this is something related to code that changes Player.Character: Character cannot be changed as Player ({USERNAME}) is being removed. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/error-report-page-please-deduplicate-this-error-message/4977948.rss",
-      "id": "810ae22ee162803b285cdf9d"
     }
   ]
 }
