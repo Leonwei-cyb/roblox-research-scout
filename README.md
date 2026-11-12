@@ -109,3 +109,9 @@ These helpers run within **one lightweight workflow**, not several CPU-heavy wat
 ## Automatic source backoff
 
 The public media collector now records a temporary cooldown in `watch/media_cooldowns.json` on HTTP 429 (12 hours) or request timeout (6 hours). Other feeds remain active. Deferred sources remain visible in [watch/source_health.md](watch/source_health.md), and later retries clear the cooldown. This reduces wasted requests without bypassing logins, using proxies or buying social-media API access.
+
+## Mac runner reliability
+
+The reviewable source for the existing Mac scout is `scripts/mac_scout.py`.
+See [publication, STOP, and scheduler ownership contracts](docs/MAC_SCOUT_RELIABILITY.md).
+This source is not installed or activated by the repository.
