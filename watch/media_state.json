@@ -3510,7 +3510,10 @@
     "ed0aa84c2826fd406db879cf",
     "1a316de06ec573f0f972e6ef",
     "2108b09c2532f16d7d6ff74d",
-    "92a2f2273311a8f1e547fec9"
+    "92a2f2273311a8f1e547fec9",
+    "997badce85da9a42698bd56a",
+    "4bb79f267372dc0d4a585aad",
+    "146493f3453f2f0e0d14b40e"
   ],
   "items": [
     {
@@ -3535,6 +3538,29 @@
       "excerpt": "So, I decided to come here in the hopes that I might find an answer to my concern. I have an idea for a Roblox game, and while I'm not familiar with scripting in Lua (I do know a little Python and C), I do know how to make models and icons in Photoshop. I feel bad about using AI for scripting—should",
       "creator": "/u/Infinite-Math45 https://www.reddit.com/user/Infinite-Math45",
       "id": "ed0aa84c2826fd406db879cf"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "PlayerRemoving Bug/Critical Issue",
+      "url": "https://devforum.roblox.com/t/playerremoving-bugcritical-issue/4987637",
+      "published": "2026-11-12",
+      "excerpt": "As of today, it has become impossible to access player properties inside of a PlayerLeaving event callback function after a prolonged wait period, without it yielding an error. Attempting to read/index a property such as the leaving players backpack or leaderstats yields an error as it no longer exi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/playerremoving-bugcritical-issue/4987637.rss",
+      "id": "997badce85da9a42698bd56a"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I can't connect my camera to a part :(",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu0ygz/i_cant_connect_my_camera_to_a_part/",
+      "published": "2026-11-12",
+      "excerpt": "I can't figure out why it keeps giving me maincam is not a valid member of Workspace \"Workspace\" when it is...??? also if it's relevant, the script is in StarterCharacterScripts. it is evil and wont leave me alone,... the script worked literally two hours ago??? also IT IS PART OF WORKSPACE HUH??? i",
+      "creator": "/u/YourLocalDreamer101 https://www.reddit.com/user/YourLocalDreamer101",
+      "id": "4bb79f267372dc0d4a585aad"
     },
     {
       "source": "reddit-robloxdev",
@@ -3591,6 +3617,17 @@
       "excerpt": "Basicamente es un juego basado en Superfighters pero en estilo de roblox,me gustaria si me dieran ideas o algo para tenerlo como guia para el juego,ya que aun sigue en fase beta y muy pirncipio submitted by /u/Yango607 [link] [comments]",
       "creator": "/u/Yango607 https://www.reddit.com/user/Yango607",
       "id": "1a316de06ec573f0f972e6ef"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Driving around my WIP city",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtzyzm/driving_around_my_wip_city/",
+      "published": "2026-11-12",
+      "excerpt": "I’m going to change the logo to one made by an artist when I’m finished with the game. It need optimization really bad, captured on PS5 submitted by /u/GD-Pepop [link] [comments]",
+      "creator": "/u/GD-Pepop https://www.reddit.com/user/GD-Pepop",
+      "id": "146493f3453f2f0e0d14b40e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5602,7 +5639,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 57 posts - 44 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 59 posts - 45 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10389,40 +10426,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/decocam-camera-accessories-lighting/4979618.rss",
       "id": "1f19bab9e69ab9ebffd13f82"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Does a restricted tracing mechanic count as Free-Form User Creation?",
-      "url": "https://devforum.roblox.com/t/does-a-restricted-tracing-mechanic-count-as-free-form-user-creation/4980976",
-      "published": "2026-11-07",
-      "excerpt": "Hello! I’m currently developing a Roblox game where 2–4 players work together to trace predetermined shapes using a single pencil. Each player controls a different aspect of the pencil’s movement. For example, one player controls horizontal movement while another controls vertical movement. Original",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/does-a-restricted-tracing-mechanic-count-as-free-form-user-creation/4980976.rss",
-      "id": "1cf91caf03f05cfcb8396eb9"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How do people create good sound effects?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpv800/how_do_people_create_good_sound_effects/",
-      "published": "2026-11-07",
-      "excerpt": "Most of the posts I've seen always tell you to capture SFX from websites like Pixabay. However, I'm just genuinely curious because I've been interested in TSBG's sound effects and that's usually the type of sound I want (attempt) to go for. And I'm having doubts that it's even possible to create tho",
-      "creator": "/u/ZXen0on https://www.reddit.com/user/ZXen0on",
-      "id": "174e435c204e043e41350490"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "hello beginner here can this get me money ?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq0ndn/hello_beginner_here_can_this_get_me_money/",
-      "published": "2026-11-07",
-      "excerpt": "https://preview.redd.it/83up65ow850i1.png?width=709&format=png&auto=webp&s=197717c4b07549a3e71830fc45d671e547abec06 it still needs work tho submitted by /u/SolutionPurple237 [link] [comments]",
-      "creator": "/u/SolutionPurple237 https://www.reddit.com/user/SolutionPurple237",
-      "id": "15119e617980b7bbf86a1a10"
     }
   ]
 }
