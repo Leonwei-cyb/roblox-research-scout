@@ -16,8 +16,8 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 1 matched metadata records.
-- [Only today with Ben and Brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbGhFYnRKZjRoT1J6R3U5V2FESzJ6a3JHaWJ3WW01cU8xTjN4UDIzWG9MTzlpVVJsTDhCV0VSZk8tRkhELWtjLTJFV1Z3ZXppSnFmaC1B?oc=5) — indexed public mention — authorship NOT verified · 2026-11-07
+**Collected media leads:** 0 matched metadata records.
+- None verified in currently collected public feeds.
 
 ## Tizzy RBLX — Roblox game design
 

@@ -1383,19 +1383,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4981302:1",
-      "url": "https://devforum.roblox.com/t/no-way-to-purchase-roblox-plus/4981302",
-      "title": "No way to purchase roblox plus",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4981346:1",
       "url": "https://devforum.roblox.com/t/experience-ads-suddenly-stop-bringing-players-despite-campaigns-remaining-active/4981346",
       "title": "Experience Ads Suddenly Stop Bringing Players Despite Campaigns Remaining Active",
@@ -2245,19 +2232,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xpymvo",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpymvo/decent_ctr_for_engagement_ads/",
-      "title": "Decent CTR for Engagement ads?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xpzcqi",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpzcqi/lf_developers/",
       "title": "LF Developers!!",
@@ -2901,6 +2875,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xudwer",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xudwer/looking_for_feedback_on_my_boss_fight_game/",
+      "title": "Looking for Feedback on my Boss Fight Game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xuf1wa",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuf1wa/an_gamemap_model_i_wish_i_could_publish_it/",
+      "title": "An game/map model I wish I could publish it publicly for free. (It could be used on any game genre actually).",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4980585:1",
       "url": "https://devforum.roblox.com/t/problem-with-changing-the-editor-quality-level/4980585",
       "title": "Problem with Changing the Editor Quality Level",
@@ -3153,12 +3153,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xpu3d9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpu3d9/please_give_me_advice_or_help/",
-      "title": "Please Give me Advice or Help!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
+      "key": "devforum:4988063:1",
+      "url": "https://devforum.roblox.com/t/do-text-signs-and-decal-id-pictures-count-as-media-sharing-in-the-questionnaire/4988063",
+      "title": "Do text signs and decal ID pictures count as \"Media sharing\" in the questionnaire?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
       "signals": [
         "building and purchases",
         "player feedback and marketing"
@@ -3167,14 +3167,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xpwc1n",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpwc1n/making_a_game_inspired_by_the_classic_rts_game/",
-      "title": "Making a game inspired by the Classic RTS game the conquerors 3 would like anyone to test my demo",
+      "key": "reddit:1xpu3d9",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpu3d9/please_give_me_advice_or_help/",
+      "title": "Please Give me Advice or Help!!",
       "source": "reddit-robloxdev",
       "published": "2026-11-07",
       "kind": "reddit",
       "signals": [
-        "world and visual design",
+        "building and purchases",
         "player feedback and marketing"
       ],
       "score": 4,
@@ -3413,6 +3413,20 @@
       "kind": "reddit",
       "signals": [
         "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xueq29",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xueq29/beginner_looking_to_join_a_game_development_team/",
+      "title": "Beginner looking to join a game development team",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
         "tools and performance"
       ],
       "score": 4,
@@ -4193,6 +4207,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988026:1",
+      "url": "https://devforum.roblox.com/t/programmer-and-modeller-qipaoist-8y-experience/4988026",
+      "title": "Programmer and Modeller, @qipaoist [8y+ Experience]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988041:1",
+      "url": "https://devforum.roblox.com/t/72-drop-in-home-recommendation-after-a-2-day-ban-that-happend-a-month-ago/4988041",
+      "title": "72% Drop in Home Recommendation after a 2 day ban that happend a month ago",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988059:1",
+      "url": "https://devforum.roblox.com/t/wood-realistic-orthodox-church-interior-showcase/4988059",
+      "title": "Wood realistic orthodox church interior (Showcase)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xpuiob",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpuiob/need_volunteers_of_any_kind_for_my_game/",
       "title": "Need volunteers of any kind for my game",
@@ -4305,19 +4358,6 @@
       "kind": "reddit",
       "signals": [
         "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xq5xkf",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq5xkf/looking_for_devs/",
-      "title": "Looking for devs",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4947,6 +4987,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xued2k",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xued2k/ideas_for_learningorder_of_making_a_game/",
+      "title": "Ideas for learning/order of making a game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4979627:1",
       "url": "https://devforum.roblox.com/t/experience-content-not-accessible-for-all-region-bug/4979627",
       "title": "Experience Content not accessible for all region bug",
@@ -4983,17 +5036,6 @@
       "key": "devforum:4979899:1",
       "url": "https://devforum.roblox.com/t/roblox-freezing-when-jumping-between-instances/4979899",
       "title": "Roblox Freezing When jumping between instances",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4980026:1",
-      "url": "https://devforum.roblox.com/t/v080-rojo-manager-run-all-your-rojo-servers-from-one-tray-app-with-mcp-for-ai-agents/4980026",
-      "title": "[v0.8.0] Rojo Manager | Run all your Rojo servers from one tray app, with MCP for AI agents",
       "source": "roblox-devforum-latest",
       "published": "2026-11-07",
       "kind": "devforum",
@@ -5082,17 +5124,6 @@
       "key": "devforum:4981316:1",
       "url": "https://devforum.roblox.com/t/i-got-permmed-despite-having-zero-sexual-content-on-my-game/4981316",
       "title": "I got permmed despite having ZERO sexual content on my game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981388:1",
-      "url": "https://devforum.roblox.com/t/a-non-opaque-part-with-a-texture-takes-draw-order-priority-over-some-instance-types/4981388",
-      "title": "A non opaque part with a texture takes draw order priority over some instance types",
       "source": "roblox-devforum-latest",
       "published": "2026-11-07",
       "kind": "devforum",
@@ -6124,9 +6155,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4988026:1",
-      "url": "https://devforum.roblox.com/t/programmer-and-modeller-qipaoist-8y-experience/4988026",
-      "title": "Programmer and Modeller, @qipaoist [8y+ Experience]",
+      "key": "devforum:4988055:1",
+      "url": "https://devforum.roblox.com/t/device-simulation-cant-be-hidden-without-changing-my-editor-quality/4988055",
+      "title": "Device simulation can't be hidden without changing my editor quality",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988062:1",
+      "url": "https://devforum.roblox.com/t/claude-optimization/4988062",
+      "title": "Claude optimization",
       "source": "roblox-devforum-latest",
       "published": "2026-11-12",
       "kind": "devforum",
@@ -6223,17 +6265,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqcpt1",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqcpt1/check_out_this_game_i_made/",
-      "title": "Check out this game I made",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqcqv5",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqcqv5/do_i_need_roblox_plus_to_publish_a_game/",
       "title": "Do I need Roblox plus to publish a game?",
@@ -6248,17 +6279,6 @@
       "key": "reddit:1xqelcg",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqelcg/need_a_roblox_genius/",
       "title": "Need a Roblox genius",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqfe9m",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqfe9m/need_volunteers/",
-      "title": "Need volunteers",
       "source": "reddit-robloxdev",
       "published": "2026-11-07",
       "kind": "reddit",
@@ -7388,19 +7408,6 @@
       "signals": [
         "animation and audio",
         "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE8tbGhFYnRKZjRoT1J6R3U5V2FESzJ6a3JHaWJ3WW01cU8xTjN4UDIzWG9MTzlpVVJsTDhCV0VSZk8tRkhELWtjLTJFV1Z3ZXppSnFmaC1B",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbGhFYnRKZjRoT1J6R3U5V2FESzJ6a3JHaWJ3WW01cU8xTjN4UDIzWG9MTzlpVVJsTDhCV0VSZk8tRkhELWtjLTJFV1Z3ZXppSnFmaC1B?oc=5",
-      "title": "Only today with Ben and Brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-11-07",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
