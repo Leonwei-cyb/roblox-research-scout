@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "c9e91ded743487e9110cb95c96469ed7d46aab35",
+      "head": "a26aaab905a6594a9c788cceed5d4026def38071",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "1882705fd7f34aa74b9ee8512b242f7d402821e5",
-      "head_subject": "Third-party licences - regenerate docs/THIRD-PARTY-LICENSES.md: the packages in the 0.70.3 release image (#4714)",
+      "head": "a624cc54bbf90a8d604b7d90b7e78c553f3fc37e",
+      "head_subject": "fix: keep jinja2 blocks intact when splitting tags from imported URLs (#1516) (#4259)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.3",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",

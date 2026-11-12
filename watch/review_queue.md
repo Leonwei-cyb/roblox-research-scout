@@ -6,8 +6,8 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
-- **[I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/)** — Public text/page, video not confirmed
 - **[Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not](https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580)** — Public text/page, video not confirmed
+- **[Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejecte](https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
@@ -19,6 +19,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[the way they smashed the toolbox results](https://www.reddit.com/r/robloxgamedev/comments/1xtyiqo/the_way_they_smashed_the_toolbox_results/)** — Public text/page, video not confirmed
-- **[Getting the Device Simulation bar off screen without Automatic Graphics](https://devforum.roblox.com/t/getting-the-device-simulation-bar-off-screen-without-automatic-graphics/4987538)** — Public text/page, video not confirmed
+- **[StepSet - A improved move and rotation plugin](https://devforum.roblox.com/t/stepset-a-improved-move-and-rotation-plugin/4987793)** — Public text/page, video not confirmed
+- **[I have a plugin that makes my character freeze and puts a blur effect and idk how to delete it](https://www.reddit.com/r/robloxgamedev/comments/1xu8dx5/i_have_a_plugin_that_makes_my_character_freeze/)** — Public text/page, video not confirmed
 - **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** — Public text/page, video not confirmed
