@@ -3,7 +3,7 @@
 **Current stage: metadata triage only. No video watched, game tested, model inspected, or verified design finding.**
 This is a bounded reading queue, not an instruction to copy assets or automatically edit a Roblox game.
 
-Indexed entries: 595; direct candidates: 581;
+Indexed entries: 596; direct candidates: 583;
 Inspected videos: **0**; verified gameplay findings: **0**.
 
 On hold, NOT current work: Cat Magic. Their older report files are historical only.
@@ -12,7 +12,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 - **P0 · board game and turn flow:** [Hex Warfare - First Mission Demo Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/)
   - reddit · **UNVIEWED_METADATA** · Check: At the same game state as the Colonist.io original, does a turn read as roll, collect, build or trade, end?
-- **P0 · first-session and mobile:** [How can I improve retention (8.5 mins) in my tycoon game?](https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885)
+- **P0 · first-session and mobile:** [\[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking](https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?
 - **P1 · UI and menus:** [Inventory system and UI](https://devforum.roblox.com/t/inventory-system-and-ui/4984224)
   - devforum · **UNVIEWED_METADATA** · Check: Are hand cards, build costs, dice and end-turn readable at full desktop viewport without covering the board?

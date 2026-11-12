@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 595,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -78,36 +78,6 @@
         "player feedback and marketing"
       ],
       "score": 10,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4979885:1",
-      "url": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885",
-      "title": "How can I improve retention (8.5 mins) in my tycoon game?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "building and purchases",
-        "UI and menus"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4980386:1",
-      "url": "https://devforum.roblox.com/t/my-movie-studio-looking-for-gameplay-feedback/4980386",
-      "title": "My Movie Studio - Looking for Gameplay Feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -962,6 +932,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988432:1",
+      "url": "https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432",
+      "title": "[Studio Beta] Luau Modularity: export Values and Cyclic Requires",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xpsz47",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsz47/searching_for_testers/",
       "title": "Searching for testers",
@@ -972,34 +956,6 @@
         "first-session and mobile",
         "building and purchases",
         "economy and income",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xptpok",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xptpok/pizza_tycoon_3d_released/",
-      "title": "Pizza tycoon 3-D released!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xq15ay",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq15ay/i_finally_launched_my_game_would_love_some/",
-      "title": "I finally launched my game! Would love some feedback",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops",
         "player feedback and marketing"
       ],
       "score": 6,
@@ -1286,35 +1242,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4979893:1",
-      "url": "https://devforum.roblox.com/t/expedited-review-stuck-for-over-7-days-universe-id-10773746729/4979893",
-      "title": "Expedited Review Stuck for Over 7 Days (Universe ID: 10773746729)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4981346:1",
       "url": "https://devforum.roblox.com/t/experience-ads-suddenly-stop-bringing-players-despite-campaigns-remaining-active/4981346",
       "title": "Experience Ads Suddenly Stop Bringing Players Despite Campaigns Remaining Active",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981389:1",
-      "url": "https://devforum.roblox.com/t/maturity-compliance-questionnaire-stuck-on-final-review-in-progress-for-12-days/4981389",
-      "title": "Maturity & Compliance Questionnaire Stuck on \"Final Review in Progress\" for 12 days",
       "source": "roblox-devforum-latest",
       "published": "2026-11-07",
       "kind": "devforum",
@@ -2005,6 +1935,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4987118:1",
+      "url": "https://devforum.roblox.com/t/about-the-luau-category/4987118",
+      "title": "About the Luau Category",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-11",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4987156:1",
       "url": "https://devforum.roblox.com/t/new-animal-crossing-inspired-game-looking-for-feedback/4987156",
       "title": "New animal crossing inspired game, looking for feedback!",
@@ -2205,60 +2148,6 @@
       "key": "reddit:1xpsif5",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsif5/is_my_playtime_low_cause_of_all_play_ads_or_am_i/",
       "title": "is my playtime low cause of All Play ads or am I coping",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xpzcqi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpzcqi/lf_developers/",
-      "title": "LF Developers!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xq1z00",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1z00/i_just_launched_my_first_roblox_game_a_3v3_moba/",
-      "title": "I just launched my first Roblox game, a 3v3 MOBA called Shardfall. Looking for honest feedback!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xq55nj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq55nj/my_treasure_diving_game_is_finally_out_looking/",
-      "title": "My treasure diving game is finally out – looking for feedback on the progression",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xq56i5",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq56i5/i_made_a_zombie_survival_game_on_roblox_would/",
-      "title": "I made a zombie survival game on Roblox, would love your feedback!",
       "source": "reddit-robloxdev",
       "published": "2026-11-07",
       "kind": "reddit",
@@ -2846,6 +2735,58 @@
       "key": "reddit:1xunqj2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xunqj2/will_transferring_ownership_of_my_roblox_game/",
       "title": "Will transferring ownership of my Roblox game reset the progress on the 250 engaged player requirement?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xup5f4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xup5f4/16_ads_high_ctr/",
+      "title": "16+ ads high ctr",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xurfr2",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurfr2/models_ive_made_for_my_horror_games/",
+      "title": "models i've made for my horror games",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xurlf5",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurlf5/players_drop_off_right_after_getting_their_first/",
+      "title": "players drop off right after getting their first item, how do you handle that?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xus9xg",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
+      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
       "source": "reddit-robloxdev",
       "published": "2026-11-12",
       "kind": "reddit",
@@ -3466,19 +3407,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981018:1",
-      "url": "https://devforum.roblox.com/t/game-impersonation-and-search-ranking-issues/4981018",
-      "title": "Game Impersonation and Search Ranking Issues",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4238,19 +4166,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xpvknh",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpvknh/any_thoughts_on_my_game_idea/",
-      "title": "Any thoughts on my game idea",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xpxwnl",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpxwnl/i_made_an_egg_slop_game_but_its_unique/",
       "title": "I made an egg slop game, but it's unique.",
@@ -4324,32 +4239,6 @@
       "kind": "reddit",
       "signals": [
         "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xq8awy",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq8awy/my_new_game_to_compete_with_sweep_the_moonai_used/",
-      "title": "My new game to compete with sweep the moon[AI Used]",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqfb0c",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqfb0c/camera_glitchlag/",
-      "title": "CAMERA GLITCH/LAG",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5030,17 +4919,6 @@
       "key": "devforum:4981155:1",
       "url": "https://devforum.roblox.com/t/my-groups-have-been-locked-for-over-a-month-after-my-account-was-restored-please-help/4981155",
       "title": "My groups have been locked for over a month after my account was restored. Please help",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981316:1",
-      "url": "https://devforum.roblox.com/t/i-got-permmed-despite-having-zero-sexual-content-on-my-game/4981316",
-      "title": "I got permmed despite having ZERO sexual content on my game",
       "source": "roblox-devforum-latest",
       "published": "2026-11-07",
       "kind": "devforum",
@@ -6237,12 +6115,89 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xq4jkn",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq4jkn/good_video_for_my_tank_showcase/",
-      "title": "Good Video for my Tank Showcase?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
+      "key": "devforum:4988556:1",
+      "url": "https://devforum.roblox.com/t/possible-moderation-false-flag/4988556",
+      "title": "Possible moderation false flag",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988564:1",
+      "url": "https://devforum.roblox.com/t/game-taken-down-appeals-emails-ignored/4988564",
+      "title": "Game taken down, appeals emails ignored",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988577:1",
+      "url": "https://devforum.roblox.com/t/avatar-auto-setup-bug/4988577",
+      "title": "Avatar Auto Setup Bug",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988599:1",
+      "url": "https://devforum.roblox.com/t/feature-request-native-methods-to-read-write-unsigned-64-bit-integers-into-buffer/4988599",
+      "title": "[Feature Request] Native Methods to Read & Write Unsigned 64-Bit Integers into Buffer",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988610:1",
+      "url": "https://devforum.roblox.com/t/x86-linux-emulator-p/4988610",
+      "title": "X86 Linux emulator :P",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988633:1",
+      "url": "https://devforum.roblox.com/t/genre-setting-says-unknown-error/4988633",
+      "title": "Genre setting says \"Unknown Error\"",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988653:1",
+      "url": "https://devforum.roblox.com/t/following-list-wiped-13k-to-0-and-groups-remain-locked-after-account-un-termination/4988653",
+      "title": "Following List Wiped (13K+ to 0) and Groups Remain Locked After Account Un-Termination",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988679:1",
+      "url": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly/4988679",
+      "title": "How can i fix this issue with my ragdoll falling very slowly",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7307,6 +7262,39 @@
       "key": "reddit:1xunxh2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xunxh2/lf_artist_and_character_designer/",
       "title": "Lf artist and character designer",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xuqeee",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
+      "title": "How do roblox anime and superhero games avoid being copyrighted?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xurhfp",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurhfp/im_still_a_little_new/",
+      "title": "I'm still a little new",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xurrnn",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurrnn/openworld_age_of_sail_game/",
+      "title": "Open-world age of sail game.",
       "source": "reddit-robloxdev",
       "published": "2026-11-12",
       "kind": "reddit",

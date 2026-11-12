@@ -3592,7 +3592,24 @@
     "48d01c5b4e0b35dc4e9b69e6",
     "39f7d3e5713c37bde8204fc5",
     "dd8bcdecaa20e90c70d4978a",
-    "a6442101cedef79fe16c6e16"
+    "a6442101cedef79fe16c6e16",
+    "6b96098a185155aea4066169",
+    "de49c3550f60492d6b5ef163",
+    "580921609fb8dffac70f4f0b",
+    "fb3350c3716f3c74f3a0c71c",
+    "3a5a8d4a85b2da06b6ce0437",
+    "d71d5fc504989368fd16451e",
+    "c9a2b39da8c375e70cf619b0",
+    "623802c0f3758b521452d848",
+    "6f0472de16203cdfb6627550",
+    "65d06e5109820f947a7715d5",
+    "2269ff9dd1bef6284a64d29e",
+    "eeb73df0c6fed8aa48d4aaf7",
+    "ec9ca8611037a1b44da3bcb8",
+    "2d19ea37ba1f27c573b95b5d",
+    "be36a3b46685b66f837e423d",
+    "eff23c5b206196e7ce89b5df",
+    "d943fbb23955a4afb0338f87"
   ],
   "items": [
     {
@@ -3606,6 +3623,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580.rss",
       "id": "fe9f1638c451d42e469c923d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "X86 Linux emulator :P",
+      "url": "https://devforum.roblox.com/t/x86-linux-emulator-p/4988610",
+      "published": "2026-11-12",
+      "excerpt": "hello. i’ve recently been interesting in virtual machines, which is what sparked my idea to make a fully emulated x86 Linux project . its not complete, and a lot of things dont work. right now it only has 128MB of ram, and 64 MB of storage. it boots in about 30 seconds. it uses a custom compiled ver",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/x86-linux-emulator-p/4988610.rss",
+      "id": "fb3350c3716f3c74f3a0c71c"
     },
     {
       "source": "reddit-robloxdev",
@@ -3653,6 +3682,28 @@
       "id": "f1ff67b7aca260d84904f9bc"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "How do roblox anime and superhero games avoid being copyrighted?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
+      "published": "2026-11-12",
+      "excerpt": "Ok so I searched on ChatGPT and it said you need to change the name and main symbols to avoid copyright on a character. But there are many games with thousands of CCU that change just change the name, or some don't do it at all like Superhero Arena, the game is super fun but I don't think they paid ",
+      "creator": "/u/Careless-Duty8400 https://www.reddit.com/user/Careless-Duty8400",
+      "id": "eff23c5b206196e7ce89b5df"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
+      "published": "2026-11-12",
+      "excerpt": "I launched my first game today, Restore the Desert. You water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones. Some things I learned that might help others: Test with two players before launch. Everything worked solo. With 2 players, a helper in a team got ",
+      "creator": "/u/Holiday_Pea_3021 https://www.reddit.com/user/Holiday_Pea_3021",
+      "id": "eeb73df0c6fed8aa48d4aaf7"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3686,6 +3737,17 @@
       "excerpt": "So, I decided to come here in the hopes that I might find an answer to my concern. I have an idea for a Roblox game, and while I'm not familiar with scripting in Lua (I do know a little Python and C), I do know how to make models and icons in Photoshop. I feel bad about using AI for scripting—should",
       "creator": "/u/Infinite-Math45 https://www.reddit.com/user/Infinite-Math45",
       "id": "ed0aa84c2826fd406db879cf"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "players drop off right after getting their first item, how do you handle that?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurlf5/players_drop_off_right_after_getting_their_first/",
+      "published": "2026-11-12",
+      "excerpt": "I've been working on a monster lab game for about a month (you summon a monster from a capsule and then have to contain it before it breaks out). Creator Hub funnel showed something weird: basically everyone gets the free starter capsule, but only about half actually open it. They just stand there o",
+      "creator": "/u/Nicks0961 https://www.reddit.com/user/Nicks0961",
+      "id": "ec9ca8611037a1b44da3bcb8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3724,6 +3786,18 @@
       "id": "e4b78f0a24bda59fa63a9b70"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Following List Wiped (13K+ to 0) and Groups Remain Locked After Account Un-Termination",
+      "url": "https://devforum.roblox.com/t/following-list-wiped-13k-to-0-and-groups-remain-locked-after-account-un-termination/4988653",
+      "published": "2026-11-12",
+      "excerpt": "My account (ItsRede1) was recently reinstated on November 12, 2026, following an overturned automated moderation termination that originally took effect on September 7, While the core account is successfully back in good standing with incoming metrics like my 92.2K followers and friends list intact,",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/following-list-wiped-13k-to-0-and-groups-remain-locked-after-account-un-termination/4988653.rss",
+      "id": "de49c3550f60492d6b5ef163"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3745,6 +3819,29 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/stepset-a-improved-move-and-rotation-plugin/4987793.rss",
       "id": "dbc786a865308d2d80e0bb97"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "16+ ads high ctr",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xup5f4/16_ads_high_ctr/",
+      "published": "2026-11-12",
+      "excerpt": "just started running ads, my ctr seems unusually high? how much different will it be once its not locked to 16+ players submitted by /u/spanier00 [link] [comments]",
+      "creator": "/u/spanier00 https://www.reddit.com/user/spanier00",
+      "id": "d943fbb23955a4afb0338f87"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Avatar Auto Setup Bug",
+      "url": "https://devforum.roblox.com/t/avatar-auto-setup-bug/4988577",
+      "published": "2026-11-12",
+      "excerpt": "I’ve only been experiencing this issue today and want it fixed as soon as possible, everything you need is here and if you need any more information reply to me A private message is associated with this bug report 11 posts - 3 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatar-auto-setup-bug/4988577.rss",
+      "id": "d71d5fc504989368fd16451e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3796,6 +3893,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Game taken down, appeals emails ignored",
+      "url": "https://devforum.roblox.com/t/game-taken-down-appeals-emails-ignored/4988564",
+      "published": "2026-11-12",
+      "excerpt": "I’ve been trying to contact Roblox support to appeal a moderation of a game I own. Over a month I’ve been sending requests and replies to try to get an answer. I got ghosted and they closed both threads. I use Yahoo Mail if that helps. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/game-taken-down-appeals-emails-ignored/4988564.rss",
+      "id": "c9a2b39da8c375e70cf619b0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Feedback on \"CommerceService:GetCommerceProductInfoAsync\"",
       "url": "https://devforum.roblox.com/t/feedback-on-commerceservicegetcommerceproductinfoasync/4988290",
       "published": "2026-11-12",
@@ -3803,6 +3912,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/feedback-on-commerceservicegetcommerceproductinfoasync/4988290.rss",
       "id": "c343b9e880df621e706af97d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "models i've made for my horror games",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurfr2/models_ive_made_for_my_horror_games/",
+      "published": "2026-11-12",
+      "excerpt": "they're all made using stuff from the toolbox and simple shapes so some are not super accurate to their original counterparts. all of them are based on obscure characters from different media. the characters are: -cutters mcullough, from \"phantom racer\" (based on the movie of the same name) -true ma",
+      "creator": "/u/Ill_Cold986 https://www.reddit.com/user/Ill_Cold986",
+      "id": "be36a3b46685b66f837e423d"
     },
     {
       "source": "reddit-robloxdev",
@@ -4086,6 +4206,18 @@
       "id": "6fb4d50cefb7134f5d762b82"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Studio Beta] Luau Modularity: export Values and Cyclic Requires",
+      "url": "https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432",
+      "published": "2026-11-12",
+      "excerpt": "Hi Creators, We’re introducing two new Luau features in Studio Beta: exported values and cyclic requires! Exported values let you export variables and functions directly from a module, without manually building and returning a table. Cyclic requires allow modules to mutually depend on each other, ma",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432.rss",
+      "id": "6f0472de16203cdfb6627550"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4110,6 +4242,18 @@
       "id": "6cad98ec3e1b666c83624501"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How can i fix this issue with my ragdoll falling very slowly",
+      "url": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly/4988679",
+      "published": "2026-11-12",
+      "excerpt": "heres whats happening in my ragdoll solutions ive been trying to do is make the base parts in the ragdoll ownership nil, making the Root part massless when the ragdoll is cloned, making workspace physicssteppingmethod to adaptive, none of these helped my issue and also my place is a big open world g",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly/4988679.rss",
+      "id": "6b96098a185155aea4066169"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -4124,6 +4268,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Possible moderation false flag",
+      "url": "https://devforum.roblox.com/t/possible-moderation-false-flag/4988556",
+      "published": "2026-11-12",
+      "excerpt": "Hello, GROUP ID 35940904 We received a warning for Illegal and Regulated Content and believe it was issued in error. The group icon was taken down… its a D (the first letter of our group name)… we have since re-uploaded our old logo. Can we please get some clarification on this? 1 post - 1 participa",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/possible-moderation-false-flag/4988556.rss",
+      "id": "623802c0f3758b521452d848"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Authenticator issue of my account",
       "url": "https://devforum.roblox.com/t/authenticator-issue-of-my-account/4987865",
       "published": "2026-11-12",
@@ -4131,6 +4287,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/authenticator-issue-of-my-account/4987865.rss",
       "id": "58f7cd44fdd0d8aa85b6813d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Genre setting says \"Unknown Error\"",
+      "url": "https://devforum.roblox.com/t/genre-setting-says-unknown-error/4988633",
+      "published": "2026-11-12",
+      "excerpt": "I’m trying to set the genre of this experience (I am trying to update it after it was already changed; the cooldown ended yesterday). The website says “Unknown Error,” and in the HTTP request it just says error 400 “Bad Request”. I have included the headers, the Network tab, and the view in the Crea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/genre-setting-says-unknown-error/4988633.rss",
+      "id": "580921609fb8dffac70f4f0b"
     },
     {
       "source": "reddit-robloxdev",
@@ -4304,6 +4472,18 @@
       "id": "3eb1c02b6d6f3cbe8e6cc520"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Feature Request] Native Methods to Read & Write Unsigned 64-Bit Integers into Buffer",
+      "url": "https://devforum.roblox.com/t/feature-request-native-methods-to-read-write-unsigned-64-bit-integers-into-buffer/4988599",
+      "published": "2026-11-12",
+      "excerpt": "When taking advantage of Buffers to compress data, it takes extra work to store unsigned 64-bit integers when a native method would streamline this at little to no cost. There is currently no native method to read & write u64 integers into a buffer. This can be difficult when storing u64 integers is",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feature-request-native-methods-to-read-write-unsigned-64-bit-integers-into-buffer/4988599.rss",
+      "id": "3a5a8d4a85b2da06b6ce0437"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -4377,6 +4557,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "I'm still a little new",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurhfp/im_still_a_little_new/",
+      "published": "2026-11-12",
+      "excerpt": "How do i rig and add 2d features to her someone help plsss submitted by /u/Sh1mmer_R0saGl0w [link] [comments]",
+      "creator": "/u/Sh1mmer_R0saGl0w https://www.reddit.com/user/Sh1mmer_R0saGl0w",
+      "id": "2d19ea37ba1f27c573b95b5d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "My solo port to Roblox is 80% done",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu5ld7/my_solo_port_to_roblox_is_80_done/",
       "published": "2026-11-12",
@@ -4441,6 +4632,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/trackpad-camera-issue/4987670.rss",
       "id": "228c44edf8d183508270d02b"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Open-world age of sail game.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurrnn/openworld_age_of_sail_game/",
+      "published": "2026-11-12",
+      "excerpt": "Some progress on my game. I've added 5 ammunition types, each physically displayed as an object. Various damage markers, hitpoint and collision locations, various realistic ranges per each. Different effects based on the type (fire rounds cause fires and flooding). Custom sail colors, emblems, hull ",
+      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
+      "id": "2269ff9dd1bef6284a64d29e"
     },
     {
       "source": "reddit-robloxdev",
@@ -5278,6 +5480,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/new-animal-crossing-inspired-game-looking-for-feedback/4987156.rss",
       "id": "67b7eca3d8325349c823c14a"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "About the Luau Category",
+      "url": "https://devforum.roblox.com/t/about-the-luau-category/4987118",
+      "published": "2026-11-11",
+      "excerpt": "Official updates about Luau, including new features, improvements, and upcoming changes. Who can post here? Roblox staff can create topics. Forum members can reply. Anyone can read the posts without signing in. Luau on GitHub We also share Luau announcements on GitHub Discussions . Want to contribut",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/about-the-luau-category/4987118.rss",
+      "id": "65d06e5109820f947a7715d5"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10328,200 +10542,6 @@
       "excerpt": "My game is just about finished. Curious what ways you guys pushed your game to get the ball rolling. Let me know any ideas you have. Thank you! submitted by /u/S0LAR-Pipichoni [link] [comments]",
       "creator": "/u/S0LAR-Pipichoni https://www.reddit.com/user/S0LAR-Pipichoni",
       "id": "c81fee776fa434581fc0dedd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Getting a copyright Warning for something I made 4 years ago",
-      "url": "https://devforum.roblox.com/t/getting-a-copyright-warning-for-something-i-made-4-years-ago/4979693",
-      "published": "2026-11-07",
-      "excerpt": "I don’t see what exact Asset/Items or Things I created that are Trademarked Ok thats fine… lets check “View more” there must be the info needed No more details available… Then how AM I supposed to APPEAL this without KNOWING WHAT caused this DUDE GIVE ME A REASON What can I do? just appeal without k",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/getting-a-copyright-warning-for-something-i-made-4-years-ago/4979693.rss",
-      "id": "c8135892305c4050a73ccbcd"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I finally launched my game! Would love some feedback",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq15ay/i_finally_launched_my_game_would_love_some/",
-      "published": "2026-11-07",
-      "excerpt": "Hey everyone! I’ve been working on a new game called [MEMES!] Steal and Kick an Egg and it’s officially live! It’s a low-poly simulator where you can steal and kick an egg . I put a lot of focus on smooth mechanics and clean visuals , but I need real players to test things out. If you have a few min",
-      "creator": "/u/Efekan3452 https://www.reddit.com/user/Efekan3452",
-      "id": "c5d26cee44e12ae9fc01906b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My new game to compete with sweep the moon[AI Used]",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq8awy/my_new_game_to_compete_with_sweep_the_moonai_used/",
-      "published": "2026-11-07",
-      "excerpt": "I started building this game 3 weeks ago. My initial goal was to recreate a high-quality version of *Moon Sweepers*. Over the following week, I optimized the game and added features not even present in the original, taking the end-game experience to the next level. I feel something is off, so someon",
-      "creator": "/u/Final-Ad1893 https://www.reddit.com/user/Final-Ad1893",
-      "id": "c5be410e34ab1fe60de75d4a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Any thoughts on my game idea",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpvknh/any_thoughts_on_my_game_idea/",
-      "published": "2026-11-07",
-      "excerpt": "(Make A Guild): I’m making a group lead project, it’s pretty simple and essentially combines booga booga with Elden ring. You start out as a nomad and collect ore deposits, destroy trees with your fists or an axe after a while, and make a guild (the game is called make a guild). Players upon making.",
-      "creator": "/u/Michaelangelom https://www.reddit.com/user/Michaelangelom",
-      "id": "c57f36f37526e54b5700f632"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My treasure diving game is finally out – looking for feedback on the progression",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq55nj/my_treasure_diving_game_is_finally_out_looking/",
-      "published": "2026-11-07",
-      "excerpt": "submitted by /u/Findit3245 [link] [comments]",
-      "creator": "/u/Findit3245 https://www.reddit.com/user/Findit3245",
-      "id": "c21664b72ff424895d4d7151"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "CAMERA GLITCH/LAG",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqfb0c/camera_glitchlag/",
-      "published": "2026-11-07",
-      "excerpt": "how do i fix this as you can see in the video camera is moving fast when im testing my game in roblox studio im barley moving it left and right and its moving fast it started happening out of no where any reason why this could happen? submitted by /u/Live-Future2023 [link] [comments]",
-      "creator": "/u/Live-Future2023 https://www.reddit.com/user/Live-Future2023",
-      "id": "c1cbeed1f967372ddeca774f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Maturity & Compliance Questionnaire Stuck on \"Final Review in Progress\" for 12 days",
-      "url": "https://devforum.roblox.com/t/maturity-compliance-questionnaire-stuck-on-final-review-in-progress-for-12-days/4981389",
-      "published": "2026-11-07",
-      "excerpt": "On October 27, the experience Maturity & Compliance questionnaire was submitted. It was initially rejected because I had incorrectly answered social hangout, so I corrected it to accurately reflect my experience and resubmitted it on the same day I had been rejected. It has now been 12 days with no ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/maturity-compliance-questionnaire-stuck-on-final-review-in-progress-for-12-days/4981389.rss",
-      "id": "c13940b36d6e433c6244a882"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game Impersonation and Search Ranking Issues",
-      "url": "https://devforum.roblox.com/t/game-impersonation-and-search-ranking-issues/4981018",
-      "published": "2026-11-07",
-      "excerpt": "My game is currently being impersonated on Roblox. Another game is using an exact copy of my game’s thumbnail without my permission. I politely contacted the owner and asked them to remove it, but instead of addressing the issue, they simply removed me from their friends list. I already submitted a ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-impersonation-and-search-ranking-issues/4981018.rss",
-      "id": "c0c327e3ad082da4bd667f45"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Good Video for my Tank Showcase?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq4jkn/good_video_for_my_tank_showcase/",
-      "published": "2026-11-07",
-      "excerpt": "🤑🤑🤑🤑🤑🤑🤑 give me yall opinions submitted by /u/Ahmeda_2916 [link] [comments]",
-      "creator": "/u/Ahmeda_2916 https://www.reddit.com/user/Ahmeda_2916",
-      "id": "c05abc3c6c6f9e325ec14c63"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I got permmed despite having ZERO sexual content on my game",
-      "url": "https://devforum.roblox.com/t/i-got-permmed-despite-having-zero-sexual-content-on-my-game/4981316",
-      "published": "2026-11-07",
-      "excerpt": "I have a sexual content ban despite ADDING anything sexual and I think this is unacceptable. My game, Blood Engine: Revived (Place ID: 82467114055875), was banned on November 7, 2026, for alleged sexual content despite having ZERO sexual content. At the time, I was only working on improving Dummy AI",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-got-permmed-despite-having-zero-sexual-content-on-my-game/4981316.rss",
-      "id": "beb0e2893c14fc8ea2aeb499"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "LF Developers!!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpzcqi/lf_developers/",
-      "published": "2026-11-07",
-      "excerpt": "Hello!! We are currently looking for developers who are willing to work with us on a game called CapTiVe!, and are looking for: scripters, modellers, character modellers, one animator, and a builder! We currently have: A very experienced scripter/coder an AMAZING artist (both music and in the drawin",
-      "creator": "/u/superrshinyy https://www.reddit.com/user/superrshinyy",
-      "id": "baf983cbcf4a79ac95892e32"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expedited Review Stuck for Over 7 Days (Universe ID: 10773746729)",
-      "url": "https://devforum.roblox.com/t/expedited-review-stuck-for-over-7-days-universe-id-10773746729/4979893",
-      "published": "2026-11-07",
-      "excerpt": "My Roblox experience has been stuck in Expedited Review for over 7 days, despite the advertised review time of up to 48 hours. Universe ID: 10773746729 I have submitted multiple Roblox Support tickets regarding this issue, but have only received automated responses without any resolution. The expedi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expedited-review-stuck-for-over-7-days-universe-id-10773746729/4979893.rss",
-      "id": "b9badbef01df16782470c240"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I just launched my first Roblox game, a 3v3 MOBA called Shardfall. Looking for honest feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1z00/i_just_launched_my_first_roblox_game_a_3v3_moba/",
-      "published": "2026-11-07",
-      "excerpt": "After a lot of work, Shardfall is live! It's a 3v3 MOBA with: - 5 classes (Cinderwright, Arcanist, Priest, Ranger, Assassin), each with a skill tree - lanes, minions, jungle camps and the Ogre King boss in the middle of the map - bots that fill empty spots, so a match always starts - a ranked 2v2 ar",
-      "creator": "/u/xkessar https://www.reddit.com/user/xkessar",
-      "id": "b571525ad91cc2fc01f2aaca"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Pizza tycoon 3-D released!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xptpok/pizza_tycoon_3d_released/",
-      "published": "2026-11-07",
-      "excerpt": "DDDDD hello I am the developer of a one developer studio group on Roblox. We just released our first experience pizza tycoon 3-D and two more projects are on the way. But my computer decided to kick the dust so the release date for more updates was moved submitted by /u/No-Organization1855 [link] [c",
-      "creator": "/u/No-Organization1855 https://www.reddit.com/user/No-Organization1855",
-      "id": "b187e1c7c2d79b9fa3410ce7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How can I improve retention (8.5 mins) in my tycoon game?",
-      "url": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885",
-      "published": "2026-11-07",
-      "excerpt": "Hey everyone! Roblox 🍕🍣 Build a Business! 💸 Start broke with a lemonade stand and build your own shopping empire! NEW 🍕 PIZZA AND 🍣 SUSHI STANDS! REACH 7 REBIRTHS TO GET THEM! 🏪 Place businesses and design your dream layout. 🚗 Watch customers arrive and shop at your stands. ⬆️ Upgrade your... I am w",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885.rss",
-      "id": "af954237652a67f68267eb57"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My Movie Studio - Looking for Gameplay Feedback",
-      "url": "https://devforum.roblox.com/t/my-movie-studio-looking-for-gameplay-feedback/4980386",
-      "published": "2026-11-07",
-      "excerpt": "I’ve recently been working on a game called My Movie Studio , a small almost-tycoon game where the player creates movies and collects actors. I’m currently looking into building up core gameplay and progression that can keep players engaged and coming back to the game, and while I feel I’ve gotten s",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-movie-studio-looking-for-gameplay-feedback/4980386.rss",
-      "id": "af8f36520d2bb3109dd16103"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made a zombie survival game on Roblox, would love your feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq56i5/i_made_a_zombie_survival_game_on_roblox_would/",
-      "published": "2026-11-07",
-      "excerpt": "Hi everyone! I just released my first Roblox game, Dead Road: Zombie Survival, and I'd really like honest feedback. What's in it: - Level-based survival with a difficulty vote before every level - Auto-aim with a lock-on reticle, plus machete, guns and grenades - 9 zombie types and boss fights - A h",
-      "creator": "/u/emanueleferra https://www.reddit.com/user/emanueleferra",
-      "id": "af811d25b4ff1ebe18bf30a2"
     }
   ]
 }

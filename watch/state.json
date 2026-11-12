@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "927b66497b89542dc1242e26d5735dbf880c829e",
-      "head_subject": "chore: Update mods/",
+      "head": "89eb88e3357be13ae7fcf8966144ad32f44def33",
+      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.322",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
+      "release_tag": "v2.1.323",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "4a7b194120c7463c243582b7bfa0b4eac2271919",
-      "head_subject": "Merge pull request #18972 from ollama/docs_restructuring",
+      "head": "5632619189ab493c70bd3f9435214b8788cc1c80",
+      "head_subject": "Map disabled thinking to the models lowest supported level (#19684)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
