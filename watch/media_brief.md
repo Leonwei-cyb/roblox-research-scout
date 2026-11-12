@@ -7,21 +7,17 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[Icon/Title thingy for a game me and my friends are making, any thoughts?](https://www.reddit.com/r/robloxgamedev/comments/1xuge2v/icontitle_thingy_for_a_game_me_and_my_friends_are/)** · Reddit r/robloxgamedev public RSS · 2026-11-12
-  - Feed excerpt: Personally I would make the switch a bit bigger but idk submitted by /u/m_e_e_e_e_e \[link\] \[comments\]
+- **[Are these stats good?](https://www.reddit.com/r/robloxgamedev/comments/1xugpjb/are_these_stats_good/)** · Reddit r/robloxgamedev public RSS · 2026-11-12
+  - Feed excerpt: https://preview.redd.it/1e1winnlg71i1.png?width=1114&format=png&auto=webp&s=aaa7b9c17e82f0f4e4d1d4074481d5cfedc4edef Are these ad stats good? It's my first time running ads and publishing a Roblox game in my life, the first one is an ad for
 
 ## Roblox Updates
 
-- **[My game is unavailable in 23 countries for no clear reason and Roblox Support isnt helping](https://devforum.roblox.com/t/my-game-is-unavailable-in-23-countries-for-no-clear-reason-and-roblox-support-isnt-helping/4988110)** · Roblox Developer Forum latest · 2026-11-12
-  - Feed excerpt: My game is unavailable in 23 countries for no clear reason and Roblox Support isn’t helping Hey, so I recently released my game Dodge: Rush! and I’ve been having this really annoying issue. For some reason my game is unavailable in 23 count
-- **[Powerful Script Analyzer(web)](https://devforum.roblox.com/t/powerful-script-analyzerweb/4988155)** · Roblox Developer Forum latest · 2026-11-12
-  - Feed excerpt: Powerful Script Analyzer You can analyze everything here—from optimization issues and security vulnerabilities to obsolete code—and identify anything that poses a threat to your game. You can even write scripts directly within the tool; it 
-- **[Roblox AI Support Keeps Closing My Chat and Preventing Me from Reaching DevEx Email Support](https://devforum.roblox.com/t/roblox-ai-support-keeps-closing-my-chat-and-preventing-me-from-reaching-devex-email-support/4988133)** · Roblox Developer Forum latest · 2026-11-12
-  - Feed excerpt: My DevEx request submitted on November 3, 2026, is still Pending on Roblox, with no corresponding payment showing in Tipalti. This isn’t my first cash-out. I’ve tried contacting support, but the chatbot keeps repeating the general processin
-- **[System error in Roblox's DSA point of contact for users](https://devforum.roblox.com/t/system-error-in-robloxs-dsa-point-of-contact-for-users/4988096)** · Roblox Developer Forum latest · 2026-11-12
-  - Feed excerpt: I would like to raise a concern regarding Roblox’s DSA point of contact for users. A friend of mine attempted to contact Roblox through its designated DSA email address, eu-dsa-spoc@roblox.com , multiple times regarding an account-related i
-- **[Your game become famous? Review tool](https://devforum.roblox.com/t/your-game-become-famous-review-tool/4988144)** · Roblox Developer Forum latest · 2026-11-12
-  - Feed excerpt: In the process of learning these lessons, I lost the best opportunity for my game to gain popularity, lost top-tier players, and failed to build a loyal community. I have now compiled all the challenges—and the insights I previously lacked—
+- **[Best Practice for Structuring a Centralized Buff System?](https://devforum.roblox.com/t/best-practice-for-structuring-a-centralized-buff-system/4988166)** · Roblox Developer Forum latest · 2026-11-12
+  - Feed excerpt: Hello! I’m trying to figure out the best way to structure a buff system. Let’s take Pet Simulator 99 as an example. It has multiple buff sources, such as potions, fruits, VIP bonuses, pet bonuses, world multipliers, upgrades, etc. Would it 
+- **[False publishing "spam" ban](https://devforum.roblox.com/t/false-publishing-spam-ban/4988224)** · Roblox Developer Forum latest · 2026-11-12
+  - Feed excerpt: hello, i got banned for a day for apparently doing publishing spam but all i did was upload 3 addon’s for the character. as a mild funny gag, are we just not allowed to upload things like this for the character now? i don’t know why i’m get
+- **[Random infinite load times when joining or on being teleported](https://devforum.roblox.com/t/random-infinite-load-times-when-joining-or-on-being-teleported/4988172)** · Roblox Developer Forum latest · 2026-11-12
+  - Feed excerpt: Steps: Join any game (e.g. on homepage in roblox app/browser, or on being teleported) Infinite load time ~80% of the time System information: AMD Ryzen 9 7950X 16-Core Processor 64.0 GB AMD Radeon RX 7900 XT 1 post - 1 participant Read full
 
 ---
 

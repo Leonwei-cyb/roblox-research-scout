@@ -3556,7 +3556,11 @@
     "e7a42d8486fe3f2e16d43918",
     "1fc09fda263094d1aeddd666",
     "1d5652553548e1e57cd1be5f",
-    "27970182d42654c9b0106a0d"
+    "27970182d42654c9b0106a0d",
+    "d198b21036c3050f044b2d0c",
+    "1e8994bbdf5f772e3c6e08bd",
+    "4c4ac361a935b09b920010da",
+    "4f62a4a89cec3566e2759150"
   ],
   "items": [
     {
@@ -3640,6 +3644,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/stepset-a-improved-move-and-rotation-plugin/4987793.rss",
       "id": "dbc786a865308d2d80e0bb97"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "False publishing \"spam\" ban",
+      "url": "https://devforum.roblox.com/t/false-publishing-spam-ban/4988224",
+      "published": "2026-11-12",
+      "excerpt": "hello, i got banned for a day for apparently doing publishing spam but all i did was upload 3 addon’s for the character. as a mild funny gag, are we just not allowed to upload things like this for the character now? i don’t know why i’m getting warnings and even full day bans while groups who spam t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/false-publishing-spam-ban/4988224.rss",
+      "id": "d198b21036c3050f044b2d0c"
     },
     {
       "source": "reddit-robloxdev",
@@ -3877,6 +3893,29 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Are these stats good?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xugpjb/are_these_stats_good/",
+      "published": "2026-11-12",
+      "excerpt": "https://preview.redd.it/1e1winnlg71i1.png?width=1114&format=png&auto=webp&s=aaa7b9c17e82f0f4e4d1d4074481d5cfedc4edef Are these ad stats good? It's my first time running ads and publishing a Roblox game in my life, the first one is an ad for Plays and the second one for Engagement. submitted by /u/St",
+      "creator": "/u/Stunning_Side4450 https://www.reddit.com/user/Stunning_Side4450",
+      "id": "4f62a4a89cec3566e2759150"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Best Practice for Structuring a Centralized Buff System?",
+      "url": "https://devforum.roblox.com/t/best-practice-for-structuring-a-centralized-buff-system/4988166",
+      "published": "2026-11-12",
+      "excerpt": "Hello! I’m trying to figure out the best way to structure a buff system. Let’s take Pet Simulator 99 as an example. It has multiple buff sources, such as potions, fruits, VIP bonuses, pet bonuses, world multipliers, upgrades, etc. Would it make sense to have a single BuffService responsible for mana",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/best-practice-for-structuring-a-centralized-buff-system/4988166.rss",
+      "id": "4c4ac361a935b09b920010da"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "I can't connect my camera to a part :(",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu0ygz/i_cant_connect_my_camera_to_a_part/",
       "published": "2026-11-12",
@@ -4068,6 +4107,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-game-is-unavailable-in-23-countries-for-no-clear-reason-and-roblox-support-isnt-helping/4988110.rss",
       "id": "1fc09fda263094d1aeddd666"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Random infinite load times when joining or on being teleported",
+      "url": "https://devforum.roblox.com/t/random-infinite-load-times-when-joining-or-on-being-teleported/4988172",
+      "published": "2026-11-12",
+      "excerpt": "Steps: Join any game (e.g. on homepage in roblox app/browser, or on being teleported) Infinite load time ~80% of the time System information: AMD Ryzen 9 7950X 16-Core Processor 64.0 GB AMD Radeon RX 7900 XT 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/random-infinite-load-times-when-joining-or-on-being-teleported/4988172.rss",
+      "id": "1e8994bbdf5f772e3c6e08bd"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10434,51 +10485,6 @@
       "excerpt": "Hey everyone! I'm 17 years old, and I've been interested in Roblox scripting since I was around 12. However, I never really committed to learning development seriously until this year. I've spent quite a bit of time learning through YouTube tutorials and Roblox documentation, and I've managed to pic",
       "creator": "/u/Wild_Explanation9405 https://www.reddit.com/user/Wild_Explanation9405",
       "id": "63d7858f368022a8fd050e25"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "tried to avoid brainrot and made board game but",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqfq15/tried_to_avoid_brainrot_and_made_board_game_but/",
-      "published": "2026-11-07",
-      "excerpt": "but i cant really do much now. im doing ads but tumbnails cant go over 1.5%. i changed it many times, made new ones but still results are same. many new users come and play but returning users are like 5. Can you help me out and find what im doing wrong? maybe its because game is mine and cant find ",
-      "creator": "/u/Calm_Material_693 https://www.reddit.com/user/Calm_Material_693",
-      "id": "635fa77d3a9f96f42768edf0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Holding Period on Limited Items",
-      "url": "https://devforum.roblox.com/t/holding-period-on-limited-items/4981275",
-      "published": "2026-11-07",
-      "excerpt": "The holding policy on Limited items seems a bit misleading. It specifically says that items purchased from resale have a maximum holding period of 7 days before they can be resold. However, these two items still can’t be traded or resold: The Null Star Ghostly Pumpkin Head This is pretty misleading ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/holding-period-on-limited-items/4981275.rss",
-      "id": "5f3431c03bf2402f3ed07030"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Wie kriegt ein Spiel Aufrufe?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq8sbs/wie_kriegt_ein_spiel_aufrufe/",
-      "published": "2026-11-07",
-      "excerpt": "Roblox ads? TikTok? Oder doch eine andere Idee? Und was ist besser roblox ads oder von TikTok Aufrufe kaufen Oder wie kann man das Spiel am besten vermarkten submitted by /u/lureacore [link] [comments]",
-      "creator": "/u/lureacore https://www.reddit.com/user/lureacore",
-      "id": "5e70c6fc966a8450f4c321c2"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "So, like, idk what that is.",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xps719/so_like_idk_what_that_is/",
-      "published": "2026-11-07",
-      "excerpt": "Clicking on \"Recover\" does nothing, btw. submitted by /u/Kubatura12 [link] [comments]",
-      "creator": "/u/Kubatura12 https://www.reddit.com/user/Kubatura12",
-      "id": "5c4ba2647975f96cf22b1089"
     }
   ]
 }

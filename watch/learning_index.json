@@ -1050,20 +1050,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqfq15",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqfq15/tried_to_avoid_brainrot_and_made_board_game_but/",
-      "title": "tried to avoid brainrot and made board game but",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "board game and turn flow",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqjbez",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqjbez/built_a_treehouse_concept_earlier_i_miss_roblox/",
       "title": "Built a treehouse concept earlier; I miss ROBLOX studio!",
@@ -2186,6 +2172,21 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988166:1",
+      "url": "https://devforum.roblox.com/t/best-practice-for-structuring-a-centralized-buff-system/4988166",
+      "title": "Best Practice for Structuring a Centralized Buff System?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "animation and audio",
+        "genres and successful loops"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3501,19 +3502,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4981275:1",
-      "url": "https://devforum.roblox.com/t/holding-period-on-limited-items/4981275",
-      "title": "Holding Period on Limited Items",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4981308:1",
       "url": "https://devforum.roblox.com/t/changing-graphics-quality-opens-device-simulation/4981308",
       "title": "Changing Graphics Quality opens Device Simulation",
@@ -4372,19 +4360,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xq8sbs",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq8sbs/wie_kriegt_ein_spiel_aufrufe/",
-      "title": "Wie kriegt ein Spiel Aufrufe?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqfb0c",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqfb0c/camera_glitchlag/",
       "title": "CAMERA GLITCH/LAG",
@@ -4978,6 +4953,19 @@
       "kind": "reddit",
       "signals": [
         "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xugpjb",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xugpjb/are_these_stats_good/",
+      "title": "Are these stats good?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6171,12 +6159,23 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xps719",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xps719/so_like_idk_what_that_is/",
-      "title": "So, like, idk what that is.",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-07",
-      "kind": "reddit",
+      "key": "devforum:4988172:1",
+      "url": "https://devforum.roblox.com/t/random-infinite-load-times-when-joining-or-on-being-teleported/4988172",
+      "title": "Random infinite load times when joining or on being teleported",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988224:1",
+      "url": "https://devforum.roblox.com/t/false-publishing-spam-ban/4988224",
+      "title": "False publishing \"spam\" ban",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"

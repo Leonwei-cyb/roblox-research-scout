@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 303
+- devforum: 305
 - index-only: 13
-- reddit: 276
+- reddit: 274
 - youtube: 3
 
 ## First-Session And Mobile
@@ -23,7 +23,7 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 ## Board Game And Turn Flow
 
 - [Hex Warfare - First Mission Demo Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
-- [tried to avoid brainrot and made board game but](https://www.reddit.com/r/robloxgamedev/comments/1xqfq15/tried_to_avoid_brainrot_and_made_board_game_but/) — reddit; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
+- [Looking for playtesters: Sifter ( party games)](https://devforum.roblox.com/t/looking-for-playtesters-sifter-party-games/4985742) — devforum; **unviewed metadata**. Proposed test: Compare one turn phase against the Colonist.io original at the same state.
 
 ## Building And Purchases
 

@@ -10,7 +10,7 @@ On hold, NOT current work: Cat Magic. Their older report files are historical on
 
 ## Highest-value source checks
 
-- **P0 · board game and turn flow:** [tried to avoid brainrot and made board game but](https://www.reddit.com/r/robloxgamedev/comments/1xqfq15/tried_to_avoid_brainrot_and_made_board_game_but/)
+- **P0 · board game and turn flow:** [Hex Warfare - First Mission Demo Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/)
   - reddit · **UNVIEWED_METADATA** · Check: At the same game state as the Colonist.io original, does a turn read as roll, collect, build or trade, end?
 - **P0 · first-session and mobile:** [How can I improve retention (8.5 mins) in my tycoon game?](https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885)
   - devforum · **UNVIEWED_METADATA** · Check: Can a first-time desktop player place both opening settlements and roads without help text?

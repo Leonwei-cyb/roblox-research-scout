@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "3b368e024941eed82c5a77e956b9b32e00648073",
-      "head_subject": "CREDITS: add CaoMeiYouRen (#9557)",
+      "head": "2ce6f1125b340ad05d6cdd161ec930ba67f88d50",
+      "head_subject": "fix: do not double-encode titles and authors when importing JSON (#9556)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -288,6 +288,7 @@
     "wh000wh000/awesome-jev-live",
     "xianyu110/awesome-gpt-6-astra",
     "yarik-contr/mcp-forge-studio-bridge",
+    "yenanjing/awesome-model-routing",
     "yogsec/OSINT-Tools",
     "zengzzzzz/golang-trending-archive",
     "zhaoolee/garss",
