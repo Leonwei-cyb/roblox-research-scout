@@ -204,21 +204,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqejo3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqejo3/feedback_on_my_roblox_hospital_horror_does_she/",
-      "title": "Feedback on my Roblox hospital horror: does \"she hears every sound\" read clearly in the first 7 seconds?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqk5tj",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqk5tj/looking_for_feedback_on_my_ai_character_import/",
       "title": "Looking for feedback on my AI character import plugin",
@@ -1103,20 +1088,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xpyewv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpyewv/review_my_game/",
-      "title": "Review My Game!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xq107t",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq107t/looking_for_feedback_on_this/",
       "title": "Looking for Feedback on this",
@@ -1434,6 +1405,20 @@
       "signals": [
         "first-session and mobile",
         "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xtx61h",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtx61h/a_guy_spent_weeks_handbuilding_his_hometown_in/",
+      "title": "A guy spent weeks hand-building his hometown in Roblox, so I helped him with the map data from my game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-11",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "genres and successful loops"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2329,6 +2314,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4987520:1",
+      "url": "https://devforum.roblox.com/t/server-side-debuginfo-caller-lookup-broke-on-nov-11-breaking-planck-ecs-games/4987520",
+      "title": "Server-side debug.info caller lookup broke on Nov 11, breaking Planck ECS games",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-11",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xpsif5",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsif5/is_my_playtime_low_cause_of_all_play_ads_or_am_i/",
       "title": "is my playtime low cause of All Play ads or am I coping",
@@ -2363,21 +2361,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xpx2c7",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpx2c7/how_to_make_real_time_ragdoll_on_death/",
-      "title": "How to make real time ragdoll on death",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing",
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3652,19 +3635,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4981278:1",
-      "url": "https://devforum.roblox.com/t/pvp-tower-defense/4981278",
-      "title": "PVP Tower Defense",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4981308:1",
       "url": "https://devforum.roblox.com/t/changing-graphics-quality-opens-device-simulation/4981308",
       "title": "Changing Graphics Quality opens Device Simulation",
@@ -4289,6 +4259,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4987474:1",
+      "url": "https://devforum.roblox.com/t/sending-multiple-packets-in-a-table-through-a-remote/4987474",
+      "title": "Sending multiple packets in a table through a remote",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-11",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4987505:1",
+      "url": "https://devforum.roblox.com/t/roblox-support-not-responding/4987505",
+      "title": "Roblox support not responding",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-11",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xpuiob",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpuiob/need_volunteers_of_any_kind_for_my_game/",
       "title": "Need volunteers of any kind for my game",
@@ -4305,19 +4301,6 @@
       "key": "reddit:1xpvknh",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpvknh/any_thoughts_on_my_game_idea/",
       "title": "Any thoughts on my game idea",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xpw0bi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpw0bi/can_people_check_my_game_out/",
-      "title": "Can people check my game out?",
       "source": "reddit-robloxdev",
       "published": "2026-11-07",
       "kind": "reddit",
@@ -4440,19 +4423,6 @@
       "kind": "reddit",
       "signals": [
         "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xq5wyq",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq5wyq/my_recreation_of_kalbaryo_in_binangonan_rizal/",
-      "title": "My recreation of Kalbaryo in Binangonan Rizal (SOLO DEV)",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -5098,6 +5068,19 @@
       "key": "reddit:1xtvtpe",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtvtpe/is_it_worth_continuing_to_promote_my_experience/",
       "title": "Is it worth continuing to promote my experience?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-11",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xtwj7n",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtwj7n/looking_for_partner_investor/",
+      "title": "Looking for Partner / Investor",
       "source": "reddit-robloxdev",
       "published": "2026-11-11",
       "kind": "reddit",
@@ -6186,6 +6169,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4987477:1",
+      "url": "https://devforum.roblox.com/t/variadic-method-receives-a-corrupted-self-after-being-called-across-multiple-frames-live-servers-only/4987477",
+      "title": "Variadic method receives a corrupted self after being called across multiple frames (live servers only)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-11",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4987497:1",
+      "url": "https://devforum.roblox.com/t/voxel-scene-systems-test/4987497",
+      "title": "Voxel-Scene Systems test",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-11",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xps719",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xps719/so_like_idk_what_that_is/",
       "title": "So, like, idk what that is.",
@@ -6340,17 +6345,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xq8odc",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq8odc/looking_for_composers_dm_emnysovial_on_discord/",
-      "title": "Looking for composers DM EMNYSOVIAL ON DISCORD",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqcgqy",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqcgqy/is_gemini_good_ai_to_help_with_development/",
       "title": "Is Gemini good AI to HELP with development?",
@@ -6387,17 +6381,6 @@
       "key": "reddit:1xqd4g4",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqd4g4/does_going_below_green_metrics_take_you_out_of/",
       "title": "Does going below green metrics take you out of algorithm?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqds8a",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqds8a/are_minigames_still_popular/",
-      "title": "Are minigames still popular",
       "source": "reddit-robloxdev",
       "published": "2026-11-07",
       "kind": "reddit",
@@ -7333,6 +7316,17 @@
       "key": "reddit:1xtw618",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtw618/dnd_inspired_team_shooter/",
       "title": "DND inspired Team Shooter",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-11",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xtx47g",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtx47g/a_very_70s_makeover_for_a_shopping_mall_ive_been/",
+      "title": "A very 70s makeover for a Shopping mall I've been developing for a While",
       "source": "reddit-robloxdev",
       "published": "2026-11-11",
       "kind": "reddit",

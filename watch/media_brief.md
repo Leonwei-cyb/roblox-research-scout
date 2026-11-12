@@ -7,33 +7,25 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Community
 
-- **[I wanted to create a movement demo for fun](https://www.reddit.com/r/robloxgamedev/comments/1xttn0f/i_wanted_to_create_a_movement_demo_for_fun/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: I've been working on this small demo for about a year now, mainly to experiment with Roblox Studio. I initially started by creating some models to learn how to use Roblox Studio's parts and such, along with a mini DOS to experiment with Lua
-- **[DND inspired Team Shooter](https://www.reddit.com/r/robloxgamedev/comments/1xtw618/dnd_inspired_team_shooter/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: In order: Kohen, Amber, Gideon, Sosve, M.A.L.E.U.S, and Nadimyr Drew up six rough drafts for a team shooter named DUNGEONS FROM DRAGONS—a shooter similar to Deadlock and Overwatch with the style of sci-fi fantasy. Characters are going to re
-- **[Is it worth continuing to promote my experience?](https://www.reddit.com/r/robloxgamedev/comments/1xtvtpe/is_it_worth_continuing_to_promote_my_experience/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: Hello Last 5 days i tried to promote my game experience trough ads and rougly spend 80$ on it, managed to get 3% CTR from engagement and 5.4 from plays, but most of my clicks somehow didn't make it to the game. I got ONLY 1.8k plays in my g
-- **[What do you think about this icon? fully hand made in photoshop](https://www.reddit.com/r/robloxgamedev/comments/1xttqfk/what_do_you_think_about_this_icon_fully_hand_made/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: I am using it for my GTA style game called HustleBlox submitted by /u/iknowankn \[link\] \[comments\]
-- **[What game can't you find on Roblox? Tell me to make it](https://www.reddit.com/r/robloxgamedev/comments/1xtvf5f/what_game_cant_you_find_on_roblox_tell_me_to_make/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: Hey, I'm planning to make a game on Roblox, no AI. What type of game do you feel you can't find on Roblox and want to play? Also, I don't want microtransactions in my game; yes, there will be things you can pay for, BUT it's not like microt
-- **[early 2015 chat bubble](https://www.reddit.com/r/robloxgamedev/comments/1xtw4x7/early_2015_chat_bubble/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: does anyone have the early 2015 chat bubble? ive been trying to find a game with it that i can take it from and ive tried porting it myself but keep hitting a brick wall. so im here to ask yall for help. (heres an image of it) https://previ
-- **[i made this GAME icon V2 !! what do you think ? is it better than V1 ?](https://www.reddit.com/r/robloxgamedev/comments/1xtw1bb/i_made_this_game_icon_v2_what_do_you_think_is_it/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
-  - Feed excerpt: v1 -> v2 lol 💀 submitted by /u/GadixPro \[link\] \[comments\]
+- **[A guy spent weeks hand-building his hometown in Roblox, so I helped him with the map data from my game](https://www.reddit.com/r/robloxgamedev/comments/1xtx61h/a_guy_spent_weeks_handbuilding_his_hometown_in/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: Hey everyone, A while ago I launched a browser shooter called Mapz that plays on real places, built from open map data. It went viral, and about 4,000 people have signed up so far. I'm still a bit stunned by that. Recently a guy messaged me
+- **[A very 70s makeover for a Shopping mall I've been developing for a While](https://www.reddit.com/r/robloxgamedev/comments/1xtx47g/a_very_70s_makeover_for_a_shopping_mall_ive_been/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: submitted by /u/Sherbet18 \[link\] \[comments\]
+- **[Looking for Partner / Investor](https://www.reddit.com/r/robloxgamedev/comments/1xtwj7n/looking_for_partner_investor/)** · Reddit r/robloxgamedev public RSS · 2026-11-11
+  - Feed excerpt: I am looking for a partner / investor to invest in my game in return for a share the game have currently 20- 40 ccu released before 6days and have 262 engaged players Unlocked for every ages today. Dm for more info submitted by /u/Choice_On
 
 ## Roblox Updates
 
-- **[Decal UVOffset origin unexpectedly moved](https://devforum.roblox.com/t/decal-uvoffset-origin-unexpectedly-moved/4987437)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: The origin for UVOffset for Decals used to be in the center of the image, recently the origin has moved from the center to the top left of the image. I believe this to be a bug because the origin used to be in the center of the image and an
-- **[Emissive Materials do not render beyond 1200 studs due to Shader LOD](https://devforum.roblox.com/t/emissive-materials-do-not-render-beyond-1200-studs-due-to-shader-lod/4987435)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: If you place a MeshPart with a SurfaceAppearance in the world with EmissiveMaskContent set. At around 1200 studs, the engine will switch to a lower shader LOD, which disables/removes the emissive entirely. 1 post - 1 participant Read full t
-- **[New animal crossing inspired game, looking for feedback!](https://devforum.roblox.com/t/new-animal-crossing-inspired-game-looking-for-feedback/4987156)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: Looking for any kind of feedback on my new animal crossing inspired roblox game, been working on it for a while and am really proud of how it turned out. Let me know what you guys think. (Also if any of you have any advice on how to properl
-- **[Roblox account Hacked, Support does not help and refuses to accept any sort of proof i send](https://devforum.roblox.com/t/roblox-account-hacked-support-does-not-help-and-refuses-to-accept-any-sort-of-proof-i-send/4987392)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: Hello, this is a little bit of a weird thing to say but I’m genuinely stuck and not sure what I’m supposed to do. Last Wednesday on the 4th of November I had gotten kicked out of my Roblox account @tnadimm and upon getting kicked out i noti
-- **[\[FEEDBACK\] Panels of Decision](https://devforum.roblox.com/t/feedback-panels-of-decision/4987178)** · Roblox Developer Forum latest · 2026-11-11
-  - Feed excerpt: the new age check rule for dev forums made me unable to use @cupcake_BoyzCary so i cant post on that account Panels of Decision! The Plates of Fate inspired game where you don’t own a plate anymore. Yep! Chaos roams everywhere now. ~30 even
+- **[Roblox support not responding](https://devforum.roblox.com/t/roblox-support-not-responding/4987505)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: Recently an Experience I owned was deleted for misusing Roblox systems. The rule-breaking content has since been removed entirely from the game and an appeal has been sent. However, the Experience did not show up in the violations menu and 
+- **[Server-side debug.info caller lookup broke on Nov 11, breaking Planck ECS games](https://devforum.roblox.com/t/server-side-debuginfo-caller-lookup-broke-on-nov-11-breaking-planck-ecs-games/4987520)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: Starting around 17:30 UTC on November 11, 2026, every live server of our experience began erroring inside our ECS systems, with no update published on our side. The last publish before this was November 10 at 05:03 UTC, and the place versio
+- **[Sending multiple packets in a table through a remote](https://devforum.roblox.com/t/sending-multiple-packets-in-a-table-through-a-remote/4987474)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: i have like zero knowledge on networking but i reworked the code for projectiles in my game and would like to know if theres a better way to go about this.. originally, for example firing a shotgun would create a data packet and send it thr
+- **[Variadic method receives a corrupted self after being called across multiple frames (live servers only)](https://devforum.roblox.com/t/variadic-method-receives-a-corrupted-self-after-being-called-across-multiple-frames-live-servers-only/4987477)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: After a variadic method (example: function T:M(…)) has been called heavily for a few frames, it starts receiving the wrong “self.” obj:M(a, b) runs M with self set to an unrelated value (nil, a string, a number, or an Instance that was in t
+- **[Voxel-Scene Systems test](https://devforum.roblox.com/t/voxel-scene-systems-test/4987497)** · Roblox Developer Forum latest · 2026-11-11
+  - Feed excerpt: Roblox won’t allow me to just paste the link Voxel Scene test 1 post - 1 participant Read full topic
 
 ---
 
