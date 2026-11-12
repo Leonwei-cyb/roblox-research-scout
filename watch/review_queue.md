@@ -19,6 +19,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[Road Builder Plugin (SMOOTH ROADS!)](https://devforum.roblox.com/t/road-builder-plugin-smooth-roads/4986400)** — Public text/page, video not confirmed
-- **[\[Paid\] Looking for 3 serious playtesters](https://www.reddit.com/r/robloxgamedev/comments/1xt2vf6/paid_looking_for_3_serious_playtesters/)** — Public text/page, video not confirmed
+- **[the way they smashed the toolbox results](https://www.reddit.com/r/robloxgamedev/comments/1xtyiqo/the_way_they_smashed_the_toolbox_results/)** — Public text/page, video not confirmed
+- **[Getting the Device Simulation bar off screen without Automatic Graphics](https://devforum.roblox.com/t/getting-the-device-simulation-bar-off-screen-without-automatic-graphics/4987538)** — Public text/page, video not confirmed
 - **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** — Public text/page, video not confirmed
