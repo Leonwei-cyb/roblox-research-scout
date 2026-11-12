@@ -3537,7 +3537,10 @@
     "bb8ece8bc533ec30f289cdaf",
     "cda6b01df0de6aebb3407d09",
     "9416799de0fb390ec679ac74",
-    "f5b684b174e84396fdec923b"
+    "f5b684b174e84396fdec923b",
+    "45327dbc2a6fcb3bd496e29e",
+    "39a3dd104aa0a3af28aed1c2",
+    "aa821383456ab6ff96757cc6"
   ],
   "items": [
     {
@@ -3631,6 +3634,17 @@
       "excerpt": "submitted by /u/No-Comedian8417 [link] [comments]",
       "creator": "/u/No-Comedian8417 https://www.reddit.com/user/No-Comedian8417",
       "id": "bb8ece8bc533ec30f289cdaf"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "New horror game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xud1np/new_horror_game/",
+      "published": "2026-11-12",
+      "excerpt": "Hi all this os my new horor game submitted by /u/Calm-Try1206 [link] [comments]",
+      "creator": "/u/Calm-Try1206 https://www.reddit.com/user/Calm-Try1206",
+      "id": "aa821383456ab6ff96757cc6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3787,6 +3801,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Programmer and Modeller, @qipaoist [8y+ Experience]",
+      "url": "https://devforum.roblox.com/t/programmer-and-modeller-qipaoist-8y-experience/4988026",
+      "published": "2026-11-12",
+      "excerpt": "Brief Background Roblox Developing has been my passion as a kid back. Now that I am more matured, I still have the passion I had back in 2018, but with a more refined set of skills. Gallery and Past Work Programming (click for more details) Modelling (click for more details) Map Design (click for mo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/programmer-and-modeller-qipaoist-8y-experience/4988026.rss",
+      "id": "45327dbc2a6fcb3bd496e29e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Authenticator issue on my account (2)",
       "url": "https://devforum.roblox.com/t/authenticator-issue-on-my-account-2/4987885",
       "published": "2026-11-12",
@@ -3805,6 +3831,18 @@
       "excerpt": "submitted by /u/LiinnNobrasil [link] [comments]",
       "creator": "/u/LiinnNobrasil https://www.reddit.com/user/LiinnNobrasil",
       "id": "3eb1c02b6d6f3cbe8e6cc520"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Talent Hub removed (sunset)",
+      "url": "https://devforum.roblox.com/t/talent-hub-removed-sunset/4988002",
+      "published": "2026-11-12",
+      "excerpt": "Following the sunset of the Talent Hub I want to propose some future changes, why in my opinion the Talent Hub wasn’t broadly used and how to fix it. The main issue: accountability When you signing a contract, applying for a commission or hiring someone, you usually expect both sides to have respons",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/talent-hub-removed-sunset/4988002.rss",
+      "id": "39a3dd104aa0a3af28aed1c2"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10422,41 +10460,6 @@
       "excerpt": "I made a little roblox slop version of this indie incremental game I saw on X. I made it in one night (probably around 3-5 hours). Don't think im gonna do anything with it submitted by /u/Comfortable_Bar_8015 [link] [comments]",
       "creator": "/u/Comfortable_Bar_8015 https://www.reddit.com/user/Comfortable_Bar_8015",
       "id": "41c3147c34f3cd87e814e0c2"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Delivery Madness (LF Investors, Min Investment: 10k Robux+ or 35 USD+)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpxidp/delivery_madness_lf_investors_min_investment_10k/",
-      "published": "2026-11-07",
-      "excerpt": "Hello, So me(UI) and my friend(Modelling) are creating a game, Delivery Madness which is 90% done. It has a very simple game loop, You Get Parcels, Deliver Them, Upgrade Strength, Get Parcels, Deliver Them, Rebirth and start again. It might seem boring but you can test it out for feedback! Currently",
-      "creator": "/u/just_rg12 https://www.reddit.com/user/just_rg12",
-      "id": "41be06ea572f8ae58861f30a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Where Should Item-Specific Data (e.g. Durability) Be Stored in a Custom Inventory System?",
-      "url": "https://devforum.roblox.com/t/where-should-item-specific-data-eg-durability-be-stored-in-a-custom-inventory-system/4980569",
-      "published": "2026-11-07",
-      "excerpt": "I’m planning to implement a custom inventory system, and I’d like to hear some suggestions on how to structure it properly. First of all, right now I only have one item (Tool) that uses the Durability attribute. It decreases with each use until it eventually reaches 0 HP, at which point the item dis",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/where-should-item-specific-data-eg-durability-be-stored-in-a-custom-inventory-system/4980569.rss",
-      "id": "417585063d2817a6d8066a75"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Player Crashes and repeatedly times out on Windows 11 PC despite reinstalls",
-      "url": "https://devforum.roblox.com/t/roblox-player-crashes-and-repeatedly-times-out-on-windows-11-pc-despite-reinstalls/4980130",
-      "published": "2026-11-07",
-      "excerpt": "Issue Roblox Player repeatedly crashes during gameplay on my Windows 11 desktop PC. After I have been playing for a while, it can suddenly crash and repeatedly display this exact error: Roblox has timed out. Try restarting. I have also seen multiple Roblox clients/processes at once (around three dur",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-player-crashes-and-repeatedly-times-out-on-windows-11-pc-despite-reinstalls/4980130.rss",
-      "id": "41216df1369b277a178140d2"
     }
   ]
 }
