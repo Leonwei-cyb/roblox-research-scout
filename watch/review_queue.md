@@ -15,10 +15,10 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## 3D / models / environments
 
-- **[\[FOR HIRE\] 3D Modeler / Former Korean Game Industry / OPEN](https://devforum.roblox.com/t/for-hire-3d-modeler-former-korean-game-industry-open/4986460)** — Public text/page, video not confirmed
+- **[\[FOR HIRE\] 5-6 yrs of Building and Modeling \| Polish & English](https://devforum.roblox.com/t/for-hire-5-6-yrs-of-building-and-modeling-polish-english/4988394)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
-- **[StepSet - A improved move and rotation plugin](https://devforum.roblox.com/t/stepset-a-improved-move-and-rotation-plugin/4987793)** — Public text/page, video not confirmed
+- **[MCP Feature requests - plugin methods and copy/paste between studio instances](https://devforum.roblox.com/t/mcp-feature-requests-plugin-methods-and-copypaste-between-studio-instances/4988381)** — Public text/page, video not confirmed
 - **[I have a plugin that makes my character freeze and puts a blur effect and idk how to delete it](https://www.reddit.com/r/robloxgamedev/comments/1xu8dx5/i_have_a_plugin_that_makes_my_character_freeze/)** — Public text/page, video not confirmed
 - **[\[Beta\] Translate Text in Your In-Game Images Automatically](https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692)** — Public text/page, video not confirmed
