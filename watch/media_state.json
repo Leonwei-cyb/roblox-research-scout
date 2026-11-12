@@ -3560,7 +3560,24 @@
     "d198b21036c3050f044b2d0c",
     "1e8994bbdf5f772e3c6e08bd",
     "4c4ac361a935b09b920010da",
-    "4f62a4a89cec3566e2759150"
+    "4f62a4a89cec3566e2759150",
+    "ed9c378fcb68605f6be48f2e",
+    "47ca721e51f1b7da109bf988",
+    "6fb4d50cefb7134f5d762b82",
+    "1227028d4ef4b7651617c208",
+    "49b9c8aa957aced172eacb6a",
+    "c343b9e880df621e706af97d",
+    "b0bf5fa8cd1f446fdd9d20d7",
+    "4c1df2ae3d9ce1dd4d4a7a4b",
+    "cd751f38575c28c124147dbc",
+    "b418905cf005d1a4b1fb61a1",
+    "a147606bbd1289e40eb9a70b",
+    "6cad98ec3e1b666c83624501",
+    "2fbf074414cc3b407b73ea72",
+    "bacf24dcb14139541739fd93",
+    "f61f6d99e64e7352f3f1a30b",
+    "87d0f1c38f4861b4be7ed829",
+    "2342665601f0fe9188832349"
   ],
   "items": [
     {
@@ -3574,6 +3591,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580.rss",
       "id": "fe9f1638c451d42e469c923d"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "I finally finished the art for my Trollge character, The Carnival Jester. What do you think? 🎭",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xueyfp/i_finally_finished_the_art_for_my_trollge/",
+      "published": "2026-11-12",
+      "excerpt": "submitted by /u/Ok_Moment_9080 [link] [comments]",
+      "creator": "/u/Ok_Moment_9080 https://www.reddit.com/user/Ok_Moment_9080",
+      "id": "f61f6d99e64e7352f3f1a30b"
     },
     {
       "source": "brock-ig-reels",
@@ -3597,6 +3625,18 @@
       "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
       "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
       "id": "f3d5f71e68b9d5b7332272ec"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[FOR HIRE] 2 Years of Experience Scripter, English and Spanish",
+      "url": "https://devforum.roblox.com/t/for-hire-2-years-of-experience-scripter-english-and-spanish/4988333",
+      "published": "2026-11-12",
+      "excerpt": "Hello, I’m Firne. Roblox Scripter | Lua/Luau Developer | Computer Science Student I’ve been scripting on Roblox for over 2 years, and I’m currently completing an internship while studying Computer Science. My code is clean, modular and well commented, so it’s easy to read, maintain and build on by o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/for-hire-2-years-of-experience-scripter-english-and-spanish/4988333.rss",
+      "id": "ed9c378fcb68605f6be48f2e"
     },
     {
       "source": "reddit-robloxdev",
@@ -3669,6 +3709,30 @@
       "id": "cda6b01df0de6aebb3407d09"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "\"Question Solved\" Weird bug",
+      "url": "https://devforum.roblox.com/t/question-solved-weird-bug/4988267",
+      "published": "2026-11-12",
+      "excerpt": "(Needed to put this in different category because Forum help - Forum Bugs is read only) Recently, i created a post, and a few days later it was marked as “Solved” but i DIDNT mark ANY reply there. Also, it doesnt show any marked post. Im a bit worried about it, is it normal? 1 post - 1 participant R",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/question-solved-weird-bug/4988267.rss",
+      "id": "cd751f38575c28c124147dbc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback on \"CommerceService:GetCommerceProductInfoAsync\"",
+      "url": "https://devforum.roblox.com/t/feedback-on-commerceservicegetcommerceproductinfoasync/4988290",
+      "published": "2026-11-12",
+      "excerpt": "GetCommerceProductInfoAsync gives an HTTP 401 if you call it from the server (outside of studio). The documentation should reflect this and caution developers that it should be called from the client only. Affected URL: CommerceService | Documentation - Roblox Creator Hub 1 post - 1 participant Read",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-commerceservicegetcommerceproductinfoasync/4988290.rss",
+      "id": "c343b9e880df621e706af97d"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3689,6 +3753,41 @@
       "excerpt": "submitted by /u/No-Comedian8417 [link] [comments]",
       "creator": "/u/No-Comedian8417 https://www.reddit.com/user/No-Comedian8417",
       "id": "bb8ece8bc533ec30f289cdaf"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "A screenshot from my Trollge game",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xufeje/a_screenshot_from_my_trollge_game/",
+      "published": "2026-11-12",
+      "excerpt": "Hey everyone! I’ve been learning Roblox Studio for about a month now. I’ve always wanted to make my own game, and I decided to start with a Trollge-themed project. I’m still a beginner, and at first, working with scripts and parts was really challenging. But I kept experimenting in my free time, and",
+      "creator": "/u/Ok_Moment_9080 https://www.reddit.com/user/Ok_Moment_9080",
+      "id": "bacf24dcb14139541739fd93"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] CreatureNet - LF Volunteers",
+      "url": "https://devforum.roblox.com/t/open-creaturenet-lf-volunteers/4988264",
+      "published": "2026-11-12",
+      "excerpt": "Creature Collector Project About CreatureNet CreatureNet is the studio behind a currently planning-phase Creature Collector project. Currently we are in need of a few volunteers to jumpstart the CreatureNet journey, if you feel you can be helpful in carving the path for CreatureNet, please continue ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-creaturenet-lf-volunteers/4988264.rss",
+      "id": "b418905cf005d1a4b1fb61a1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Support Bug – Created Tickets Are Not Created",
+      "url": "https://devforum.roblox.com/t/roblox-support-bug-%E2%80%93-created-tickets-are-not-created/4988288",
+      "published": "2026-11-12",
+      "excerpt": "Hello, I would like to report a bug in the Roblox Support system. When I visit Roblox Support , the support form opens a chat with the automated bot. During the chat, I explicitly ask the bot to escalate my case to a human support agent. The bot responds that a ticket has been opened or that my case",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-support-bug-%E2%80%93-created-tickets-are-not-created/4988288.rss",
+      "id": "b0bf5fa8cd1f446fdd9d20d7"
     },
     {
       "source": "reddit-robloxdev",
@@ -3736,6 +3835,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/do-text-signs-and-decal-id-pictures-count-as-media-sharing-in-the-questionnaire/4988063.rss",
       "id": "a9ef8a15d07bdfd5f3a81741"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Policy Clarification: Paid Access Sales and In-Game Development Milestone Tracker",
+      "url": "https://devforum.roblox.com/t/policy-clarification-paid-access-sales-and-in-game-development-milestone-tracker/4988260",
+      "published": "2026-11-12",
+      "excerpt": "We are preparing to launch a commercial MMORPG experience using Roblox’s native Paid Access in Local Currency system, with Demo Mode enabled. Before implementation, we would like clarification on a proposed in-game feature to ensure it fully complies with Roblox’s Community Standards and Paid Access",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/policy-clarification-paid-access-sales-and-in-game-development-milestone-tracker/4988260.rss",
+      "id": "a147606bbd1289e40eb9a70b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3836,6 +3947,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Avatar Editor: Unable to copy link for Bundles",
+      "url": "https://devforum.roblox.com/t/avatar-editor-unable-to-copy-link-for-bundles/4988308",
+      "published": "2026-11-12",
+      "excerpt": "This has been broken for years at this point and I just assumed it was already reported or would’ve been fixed by now but when I right click on a bundle on my avatar editor page I am unable to copy link to the item. Item link: Mini Kawaii Boba Cat Visual Aids: Expected behavior I should be able to r",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/avatar-editor-unable-to-copy-link-for-bundles/4988308.rss",
+      "id": "6fb4d50cefb7134f5d762b82"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Is reaching the HEP threshold the only way to lift the 16+ restriction, or does it lift after 2 months?",
       "url": "https://devforum.roblox.com/t/is-reaching-the-hep-threshold-the-only-way-to-lift-the-16-restriction-or-does-it-lift-after-2-months/4987938",
       "published": "2026-11-12",
@@ -3843,6 +3966,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/is-reaching-the-hep-threshold-the-only-way-to-lift-the-16-restriction-or-does-it-lift-after-2-months/4987938.rss",
       "id": "6dfa3f5b6e5c634186379bd7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Outdated information in \"Setting up VR for Roblox\" and related VR support articles",
+      "url": "https://devforum.roblox.com/t/outdated-information-in-setting-up-vr-for-roblox-and-related-vr-support-articles/4988236",
+      "published": "2026-11-12",
+      "excerpt": "I would like to report some outdated information in Roblox’s official VR support documentation, particularly the article “ Setting up VR for Roblox. ” While reviewing the article, I noticed that several sections appear to have not been updated for many years. Some instructions, screenshots and compa",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/outdated-information-in-setting-up-vr-for-roblox-and-related-vr-support-articles/4988236.rss",
+      "id": "6cad98ec3e1b666c83624501"
     },
     {
       "source": "reddit-robloxdev",
@@ -3913,6 +4048,18 @@
       "id": "4c4ac361a935b09b920010da"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "(R$20k) Looking for thumbnail artist",
+      "url": "https://devforum.roblox.com/t/r20k-looking-for-thumbnail-artist/4988276",
+      "published": "2026-11-12",
+      "excerpt": "I’ll keep it short for everyone. I need high CTR thumbnails for my game. I won’t supply anything, if you can generate a thumbnail that gets a QPTR higher than 0.4, we are offering 20k robux. Otherwise, paying 1k robux per thumbnail to test. Roblox [💫] Noob Mayhem! The noobs are causing mayhem! Stop ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/r20k-looking-for-thumbnail-artist/4988276.rss",
+      "id": "4c1df2ae3d9ce1dd4d4a7a4b"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3935,6 +4082,18 @@
       "id": "4b1c95c99fc9b5df4e38dc33"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Bug Report - Roblox Early Careers Does Not Reply to Submitted Support Tickets",
+      "url": "https://devforum.roblox.com/t/bug-report-roblox-early-careers-does-not-reply-to-submitted-support-tickets/4988293",
+      "published": "2026-11-12",
+      "excerpt": "Hello, Im submitting a report regarding Roblox Early Career: Issue: No response received from Roblox Early Careers after submitting a support request. Steps to reproduce Open a web browser. Visit the following URL: https://support.at.robloxlabs.com/hc/en-us/requests/new Fill out the support form wit",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/bug-report-roblox-early-careers-does-not-reply-to-submitted-support-tickets/4988293.rss",
+      "id": "49b9c8aa957aced172eacb6a"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3944,6 +4103,18 @@
       "excerpt": "500 characters is rough for detailed game feedback, i hardly ever can even come close to fitting an essay in 500 characters, giving devs feedback is important but hard, because you cant give enough information about the whole game, at most a single mechanic which is more annoying than helpful submit",
       "creator": "/u/neonowasova https://www.reddit.com/user/neonowasova",
       "id": "47dd25b4967590078489098c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Allows selecting ImageObjets using ImageContent",
+      "url": "https://devforum.roblox.com/t/allows-selecting-imageobjets-using-imagecontent/4988327",
+      "published": "2026-11-12",
+      "excerpt": "Allows for the selection and use of tools that enable scaling/moving GUIObjects specifically ImageLabels or ImageButtons that have an EditableImage as their ImageContent. 3 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/allows-selecting-imageobjets-using-imagecontent/4988327.rss",
+      "id": "47ca721e51f1b7da109bf988"
     },
     {
       "source": "reddit-robloxdev",
@@ -4043,6 +4214,17 @@
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
+      "title": "Is the pace of the game too fast for kids?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xukliu/is_the_pace_of_the_game_too_fast_for_kids/",
+      "published": "2026-11-12",
+      "excerpt": "I may have went overboard with the dopamine maxing and I fear that it may be too dofficult to play. submitted by /u/Affectionate-Ad-3961 [link] [comments]",
+      "creator": "/u/Affectionate-Ad-3961 https://www.reddit.com/user/Affectionate-Ad-3961",
+      "id": "2fbf074414cc3b407b73ea72"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
       "title": "My solo port to Roblox is 80% done",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu5ld7/my_solo_port_to_roblox_is_80_done/",
       "published": "2026-11-12",
@@ -4072,6 +4254,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/getting-the-device-simulation-bar-off-screen-without-automatic-graphics/4987538.rss",
       "id": "25158f885b21a33fa0b008b5"
+    },
+    {
+      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
+      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
+      "category": "Roblox build / 3D examples",
+      "title": "ADMIN ABUSE RELEASE PARTY! | Clear The Snow!",
+      "url": "https://www.youtube.com/watch?v=_FDVSReR2iA",
+      "published": "2026-11-12",
+      "excerpt": "",
+      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
+      "id": "2342665601f0fe9188832349"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4177,6 +4370,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/cut-scene-player-works-incorrectlyplease-help/4987835.rss",
       "id": "141d92772b63822e3bd547c8"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Experiments: Measure Impact with Custom and Rewarded Ad Earning Metrics",
+      "url": "https://devforum.roblox.com/t/experiments-measure-impact-with-custom-and-rewarded-ad-earning-metrics/4988305",
+      "published": "2026-11-12",
+      "excerpt": "Key Takeaways Experiments now have two new metric sets. The Custom metric set lets you add up to three of your own metrics built from your custom, economy and funnel events, so you can see exactly what changed in your game. The Rewarded Video Ads metric set measures ad impressions, engagement and ea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/experiments-measure-impact-with-custom-and-rewarded-ad-earning-metrics/4988305.rss",
+      "id": "1227028d4ef4b7651617c208"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4743,6 +4948,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/for-hire-3d-modeler-former-korean-game-industry-open/4986460.rss",
       "id": "88b0ca000cc623d8c9260d70"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How To Connect Claude AI To Roblox Studio (2026) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRzFObnJ2am9VclllTlpramE1M01xZzVHNHROMDgzT01zV2dHMFZnREl0TkV0b3VYaklvcm81aTctSS1ubWdSZ3JGMFBvb0x1WWp5RjJB?oc=5",
+      "published": "2026-11-11",
+      "excerpt": "How To Connect Claude AI To Roblox Studio (2026) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "87d0f1c38f4861b4be7ed829"
     },
     {
       "source": "roblox-devforum-latest",
@@ -6223,7 +6440,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 60 posts - 46 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 62 posts - 47 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10290,201 +10507,6 @@
       "excerpt": "submitted by /u/Capybara1-2 [link] [comments]",
       "creator": "/u/Capybara1-2 https://www.reddit.com/user/Capybara1-2",
       "id": "8ea977cddc833d65ef6d1e6b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Moving from GLua & Lua to Luau",
-      "url": "https://devforum.roblox.com/t/moving-from-glua-lua-to-luau/4980883",
-      "published": "2026-11-07",
-      "excerpt": "dude I never realised how bad I was at Luau knowing I had migrated from garry’s mod lua and just lua in regular. Looking over old topics from when I reached out to other programmers about Luau help made me look like an awful scripter 3 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/moving-from-glua-lua-to-luau/4980883.rss",
-      "id": "8cf6f5a3207e0607f30f3306"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Need a Roblox genius",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqelcg/need_a_roblox_genius/",
-      "published": "2026-11-07",
-      "excerpt": "Im a youtuber, I have a good audience I can promote this game instantly I have it all planned out. Im looking for someone to take on lead dev for my game, you need to be motivated and wanna get stuff done. I started making the game its about 15% complete but I have everything already prepared. My ga",
-      "creator": "/u/Cheap-Page8843 https://www.reddit.com/user/Cheap-Page8843",
-      "id": "8bfb7f36e205c516d7cbf4f9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Freezing When jumping between instances",
-      "url": "https://devforum.roblox.com/t/roblox-freezing-when-jumping-between-instances/4979899",
-      "published": "2026-11-07",
-      "excerpt": "Version: 0.746.0.7461267 / RobloxPlayerBeta 0.746.0.55699 Channel: zmems-ctrl OS: Windows Also reproduces on Xbox. Windows logs “AppHangB1” for RobloxPlayerBeta.exe. Teleports normally connect within a second or two, but occasionally the client freezes at the handoff and never connects. Restarting R",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-freezing-when-jumping-between-instances/4979899.rss",
-      "id": "87d8eeeb3422b14efb4cc6d4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Save to Roblox's Asset Configuration menu constantly swaps between upload order and last updated order",
-      "url": "https://devforum.roblox.com/t/save-to-robloxs-asset-configuration-menu-constantly-swaps-between-upload-order-and-last-updated-order/4979482",
-      "published": "2026-11-07",
-      "excerpt": "Summary At some point, Roblox Studio begun displaying the list of group models in the Asset Configuration menu in what appears to be a last updated order. This is annoying enough already since I have been relying on upload order (matching the order the Toolbox displays group models in) and it remove",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/save-to-robloxs-asset-configuration-menu-constantly-swaps-between-upload-order-and-last-updated-order/4979482.rss",
-      "id": "86d7ab3775a126b08bd9b76e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "EARLY access for our Roblox project soon. Here’s a first look!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqimiu/early_access_for_our_roblox_project_soon_heres_a/",
-      "published": "2026-11-07",
-      "excerpt": "Hey everyone, Me and a few friends have been working on a new Roblox project for the past few months, and we're getting close to Early Access. Since the video is just a quick teaser and doesn't show much full gameplay yet, we mainly want to know if the overall vibe and style grab your attention. Fee",
-      "creator": "/u/Ghosame https://www.reddit.com/user/Ghosame",
-      "id": "86aa082823cfe1ec6649de22"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "RichText [Enchanted]",
-      "url": "https://devforum.roblox.com/t/richtext-enchanted/4980680",
-      "published": "2026-11-07",
-      "excerpt": "This is my first forum so i hope you enjoy with it. Richtext Enchanted Place I’m kinda nervous. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/richtext-enchanted/4980680.rss",
-      "id": "863732e5772a21272abbe974"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "People who got Plus for free are unable to renew without losing the 20% Discount",
-      "url": "https://devforum.roblox.com/t/people-who-got-plus-for-free-are-unable-to-renew-without-losing-the-20-discount/4979850",
-      "published": "2026-11-07",
-      "excerpt": "Issue: Developers who received free months of Roblox Plus are running into an issue with their subscriptions expiring on November 19th. Currently, there doesn’t appear to be a way to renew or extend the free subscription before it expires without losing access to the 20% discount benefit. This is pa",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/people-who-got-plus-for-free-are-unable-to-renew-without-losing-the-20-discount/4979850.rss",
-      "id": "83506008f085d9a82c2fc15e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My motorcycle game Highway Riders is in beta – would love feedback!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1kke/my_motorcycle_game_highway_riders_is_in_beta/",
-      "published": "2026-11-07",
-      "excerpt": "I've been building Highway Riders, a Roblox game where you ride bikes down a huge freeway with street races, police chases, crews and weather zones (snow + rain). It's in beta and I'm looking for feedback on the riding feel, races and what to add next. submitted by /u/Material-Pianist8435 [link] [co",
-      "creator": "/u/Material-Pianist8435 https://www.reddit.com/user/Material-Pianist8435",
-      "id": "8091e52ed8b5962e431f5e75"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow experiences to check if a player is eligible for Restricted (18+) content via PolicyService",
-      "url": "https://devforum.roblox.com/t/allow-experiences-to-check-if-a-player-is-eligible-for-restricted-18-content-via-policyservice/4980587",
-      "published": "2026-11-07",
-      "excerpt": "As a Roblox developer, it is currently very difficult to offer optional mature settings, like blood and dismemberment, only to players who are officialy ID-verified and 18 or older, without rating my whole experience as Restricted. My game would work fine as an all-ages experience, but some adult pl",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-experiences-to-check-if-a-player-is-eligible-for-restricted-18-content-via-policyservice/4980587.rss",
-      "id": "7d1b8613fd36c64235974913"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Try out my game and leave feedback please",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpwnld/try_out_my_game_and_leave_feedback_please/",
-      "published": "2026-11-07",
-      "excerpt": "The game is already published on Roblox and I’m looking for people to try it out and tell me if you like it and if you don’t tell me whats wrong about it, it’s my first game ever so I tried my best https://www.roblox.com/share?code=0de4505fe5036f48a43c9255bd8d9320&type=ExperienceDetails&stamp=179402",
-      "creator": "/u/tomatonaterr https://www.reddit.com/user/tomatonaterr",
-      "id": "7be7d622402e8cc9c301bd72"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My Favourite Farm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq6wqn/my_favourite_farm/",
-      "published": "2026-11-07",
-      "excerpt": "submitted by /u/Calm-Try1206 [link] [comments]",
-      "creator": "/u/Calm-Try1206 https://www.reddit.com/user/Calm-Try1206",
-      "id": "7b0521a22efae828b35b5a85"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made this a while back",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqkfto/made_this_a_while_back/",
-      "published": "2026-11-07",
-      "excerpt": "submitted by /u/FewMonitor5985 [link] [comments]",
-      "creator": "/u/FewMonitor5985 https://www.reddit.com/user/FewMonitor5985",
-      "id": "79ab095c27256111cece2289"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is my game idea stupid?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpyejx/is_my_game_idea_stupid/",
-      "published": "2026-11-07",
-      "excerpt": "You know how as kids we used to run our hands along the wall? Like tracing your finger along the cracks in a brick wall as you walk? I am making +1 Finger Tracing and i can’t help but feel like the game name doesn’t communicate the vision and that it might be too niche. Is this destined to fail? sub",
-      "creator": "/u/Successful_Train_674 https://www.reddit.com/user/Successful_Train_674",
-      "id": "6e8d6ba7f5a3256d99075616"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is my game too boring?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq4tyy/is_my_game_too_boring/",
-      "published": "2026-11-07",
-      "excerpt": "Two differential game mods, cosmetics and leveling system, and a gacha pulling mechanic for cosmetics. I've received good feedback on the game modes yet some that say that theres not enough(?). Should i be working on the games in rotation, the games itself, or the cosmetics/leveling systems? submitt",
-      "creator": "/u/slimebrowser https://www.reddit.com/user/slimebrowser",
-      "id": "69cbfbb451ba1b3851c679d9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Scale Multiplier vs. Min/Max Values for Different Item Skins",
-      "url": "https://devforum.roblox.com/t/scale-multiplier-vs-minmax-values-for-different-item-skins/4980491",
-      "published": "2026-11-07",
-      "excerpt": "Let’s say I have multiple skins of the same item, and each skin provides the same type of reward but in different quantities. Would it be better to assign a scale multiplier to each skin based on the base reward, or define separate min/max reward values for each skin? Which approach would be more ef",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/scale-multiplier-vs-minmax-values-for-different-item-skins/4980491.rss",
-      "id": "68930462f392d199316bca28"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Players Leave My Farming Game Early – Feedback for Feedback",
-      "url": "https://devforum.roblox.com/t/players-leave-my-farming-game-early-%E2%80%93-feedback-for-feedback/4979978",
-      "published": "2026-11-07",
-      "excerpt": "Hi everyone! Feedback for feedback: if you give me feedback, I’ll happily play your game and give you honest, detailed feedback back. Just drop your game link in your reply. I’m working on Farmers Valley – Farm with Friends , a cozy farming game where you plant crops, raise animals, make products in",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/players-leave-my-farming-game-early-%E2%80%93-feedback-for-feedback/4979978.rss",
-      "id": "6835b4af380e54bae424c8df"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I'm 17 and trying to take Roblox scripting seriously. How do I go from learning tutorials to becoming a reliable developer?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq1c89/im_17_and_trying_to_take_roblox_scripting/",
-      "published": "2026-11-07",
-      "excerpt": "Hey everyone! I'm 17 years old, and I've been interested in Roblox scripting since I was around 12. However, I never really committed to learning development seriously until this year. I've spent quite a bit of time learning through YouTube tutorials and Roblox documentation, and I've managed to pic",
-      "creator": "/u/Wild_Explanation9405 https://www.reddit.com/user/Wild_Explanation9405",
-      "id": "63d7858f368022a8fd050e25"
     }
   ]
 }
