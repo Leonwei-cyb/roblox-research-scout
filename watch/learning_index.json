@@ -4,22 +4,6 @@
   "reviewed_posts": 0,
   "posts": [
     {
-      "key": "reddit:1xqepyc",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqepyc/i_just_released_my_first_roblox_game_fish_build/",
-      "title": "I just released my first Roblox game. Fish, build an aquarium, and steal your neighbors' fish. Need some feedback on the core game loop and first 5 minutes.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "economy and income",
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 12,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqatk6",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/",
       "title": "I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!",
@@ -469,6 +453,20 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4987580:1",
+      "url": "https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580",
+      "title": "Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-12",
+      "kind": "devforum",
+      "signals": [
+        "genres and successful loops",
         "tools and performance"
       ],
       "score": 8,
@@ -1494,21 +1492,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4980737:1",
-      "url": "https://devforum.roblox.com/t/atlas-grand-strategy-game-open-beta/4980737",
-      "title": "Atlas: Grand Strategy game, Open Beta",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "economy and income",
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3469,6 +3452,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xu01av",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu01av/i_have_a_question/",
+      "title": "i have a question.",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:1zQEoUzPKZQ",
       "url": "https://www.youtube.com/shorts/1zQEoUzPKZQ",
       "title": "empaths, how we doing rn?",
@@ -3588,19 +3585,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981128:1",
-      "url": "https://devforum.roblox.com/t/we-could-not-open-the-place/4981128",
-      "title": "\"We could not open the place\"",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4290,19 +4274,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xpwx0y",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpwx0y/are_you_a_roblox_game_dev_who_needs_music/",
-      "title": "Are you a Roblox game dev who needs music?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -6228,17 +6199,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xpz4ns",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpz4ns/need_help_developing_my_competitive_minecraft/",
-      "title": "Need help developing my competitive Minecraft 1.21.11 pvp game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xq0ndn",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq0ndn/hello_beginner_here_can_this_get_me_money/",
       "title": "hello beginner here can this get me money ?",
@@ -7328,6 +7288,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xtzkbl",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtzkbl/how_do_i_remove_the_device_bar/",
+      "title": "How do I remove the device bar?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xu03f8",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu03f8/fitghtershoot_beta/",
+      "title": "Fitghtershoot (BETA) 🔥",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE00MHlpeE5NemFjTEQ2QkQzdEVWU0o2Mm13M2M0QTBaeFFWODZpaVFYYXVIeWpDSHV0V1VTalNEMlA4NnZESGVsQXV5a2NJVHB4cG1uUi1B",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MHlpeE5NemFjTEQ2QkQzdEVWU0o2Mm13M2M0QTBaeFFWODZpaVFYYXVIeWpDSHV0V1VTalNEMlA4NnZESGVsQXV5a2NJVHB4cG1uUi1B?oc=5",
       "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
@@ -7499,6 +7481,19 @@
       "title": "New Alien Fusion in Steal an Egg 👽 #Roblox #StealanEgg - TikTok",
       "source": "brock-tiktok",
       "published": "2026-11-10",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMibEFVX3lxTFAzY0lVNW5laHloSGdZM2I1SElvY3ozMlpURmxDRkh5c1BkQmZfbWVMdDRhdFU5T3JkVWxhR3Zsd25JdV9IMDh1eHlDc0hHdy1McldtdS16alJtYUJLamdob0F3VHo4c3BsZzdoRQ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzY0lVNW5laHloSGdZM2I1SElvY3ozMlpURmxDRkh5c1BkQmZfbWVMdDRhdFU5T3JkVWxhR3Zsd25JdV9IMDh1eHlDc0hHdy1McldtdS16alJtYUJLamdob0F3VHo4c3BsZzdoRQ?oc=5",
+      "title": "How to catch the Nebula Kraken in Steal an Egg #StealanEgg #Roblox - TikTok",
+      "source": "brock-tiktok",
+      "published": "2026-11-11",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"

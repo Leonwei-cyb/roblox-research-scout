@@ -7,7 +7,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/)** — Public text/page, video not confirmed
-- **[Studio steals focus 5 times in its first 10 seconds of loading, even on an empty local place](https://devforum.roblox.com/t/studio-steals-focus-5-times-in-its-first-10-seconds-of-loading-even-on-an-empty-local-place/4986676)** — Public text/page, video not confirmed
+- **[Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not](https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 

@@ -10,8 +10,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 292
-- index-only: 14
+- devforum: 291
+- index-only: 15
 - reddit: 286
 - youtube: 3
 
@@ -27,8 +27,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Building And Purchases
 
-- [I just released my first Roblox game. Fish, build an aquarium, and steal your neighbors' fish. Need some feedback on the core game loop and first 5 minutes.](https://www.reddit.com/r/robloxgamedev/comments/1xqepyc/i_just_released_my_first_roblox_game_fish_build/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [I just launched my first Roblox game, a skateboarding egg-stealing simulator. Would love honest feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xqatk6/i_just_launched_my_first_roblox_game_a/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [How can I improve retention (8.5 mins) in my tycoon game?](https://devforum.roblox.com/t/how-can-i-improve-retention-85-mins-in-my-tycoon-game/4979885) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Economy And Income
 
