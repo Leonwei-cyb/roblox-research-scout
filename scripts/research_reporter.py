@@ -11,6 +11,7 @@ source NEVER becomes an observed finding or an instruction to Codex.
 from __future__ import annotations
 
 import json
+import os
 import re
 from collections import Counter
 from pathlib import Path
@@ -176,6 +177,12 @@ def main() -> None:
         raise ValueError("Learning index exceeds limit")
     index = json.loads(INDEX.read_text(encoding="utf-8"))
     game, authority = active_game.resolve()
+    # Public GitHub-hosted collectors cannot read the Mac's current-game gate.
+    # Do not overwrite a valid Mac-authoritative Colonists report with UNKNOWN.
+    # Local processes still write an honest UNKNOWN report on missing authority.
+    if game is None and os.environ.get("GITHUB_ACTIONS") == "true":
+        print("Preserved current-game reports: GitHub Actions has no valid game authority (" + authority + ")")
+        return
     report = analyze(index, game)
     report["authority"] = authority
     body_json = json.dumps(report, indent=2, ensure_ascii=False) + "\n"
