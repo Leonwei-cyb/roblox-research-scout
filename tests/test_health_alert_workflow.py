@@ -10,13 +10,13 @@ WORKFLOW = Path(__file__).resolve().parents[1] / ".github/workflows/health-monit
 
 
 class HealthAlertWorkflowTests(unittest.TestCase):
-    def test_event_driven_and_hourly_fallback(self):
+    def test_mac_only_scheduler_and_manual_actions_fallback(self):
         data = WORKFLOW.read_text(encoding="utf-8")
-        self.assertIn("  workflow_run:", data)
-        self.assertIn("    workflows: ['Roblox research scout (no AI)']", data)
-        self.assertIn("    types: [completed]", data)
-        self.assertIn("  schedule:", data)
-        self.assertIn("- cron: '11 * * * *'", data)
+        self.assertIn("on:\n  workflow_dispatch:", data)
+        trigger_block = data.split("\non:\n", 1)[1].split("\npermissions:", 1)[0]
+        for event in ("  workflow_run:", "  schedule:", "  push:",
+                      "  pull_request:", "  repository_dispatch:"):
+            self.assertNotIn(event, trigger_block)
 
     def test_notifier_is_its_own_job_not_root_yaml(self):
         data = WORKFLOW.read_text(encoding="utf-8")

@@ -4,6 +4,8 @@ name: Open-source discovery (no AI)
 # events, so their releases/issues are seen at the next run. The events below
 # let the hub (repository_dispatch), the owner (manual run) or a triager
 # (label an issue here "discovery-request") ask for a run right away.
+# Mac launchd is the automatic scheduler. No GitHub Actions runner is started
+# automatically; manual dispatch remains an explicit paid-quota opt-in.
 on:
   workflow_dispatch:
     inputs:
@@ -11,20 +13,6 @@ on:
         description: 'Optional: up to 5 owner/repo names to evaluate now'
         required: false
         default: ''
-  repository_dispatch:
-    types: [discovery-scan]
-  issues:
-    types: [labeled]
-  push:
-    branches: [main]
-    paths:
-      - 'scripts/discovery_scout.py'
-      - 'watch/discovery.json'
-      - 'findings/reviews/**'
-      - '.github/workflows/discovery.yml'
-  schedule:
-    # Backstop every 6 hours. GitHub may delay or skip scheduled starts.
-    - cron: '47 */6 * * *'
 
 permissions:
   contents: write

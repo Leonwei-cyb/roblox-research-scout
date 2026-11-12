@@ -16,8 +16,53 @@ This is a PUBLIC repository. Everything gathered here is public information, and
 - **Curated example set:** [research/VIDEO_PILOT_2026-10-18.md](research/VIDEO_PILOT_2026-10-18.md) contains source-confirmed video/watch pages plus clearly labeled X/Instagram account leads.
 - **Source coverage:** check [watch/source_health.md](watch/source_health.md) for blocked or failed feeds.
 - **Configuration:** [watch/config.json](watch/config.json) and [watch/feeds.json](watch/feeds.json).
-- **Actions:** the existing research workflow runs hourly (cron `23 * * * *` since 2026-10-19), plus relevant source/config changes; urgent scans can be run manually. Independent health checks react to completions and run on an hourly fallback.
+- **Scheduling:** the Mac's existing launchd scout runs research hourly and discovery approximately every six hours. All six GitHub Actions workflows are now **manual-only** to prevent automatic hosted-runner minutes.
 - **Tests:** `python3 -m unittest discover -s tests -v`.
+
+## Game and topic research specialists (one shared bot)
+
+The Mac's existing `com.leon.research-scout` launchd job remains the **only**
+research process. `scripts/discovery_scout.py` now uses `scripts/research_lanes.py`
+to rotate GitHub search queries fairly across the specialists configured in
+[`watch/discovery.json`](watch/discovery.json):
+
+- Cat Magic School (highest weight while it is the active game)
+- One Tower Tycoon
+- Anime Fortress
+- Roblox art, UI and animation
+- Roblox engineering and performance
+- AI / Codex tools
+- Leon reliability tools
+- Unexpected open-source gameplay ideas
+
+**Change priorities without writing code:** edit `research_lanes[].weight`
+(0 pauses a lane) or `research_lanes[].enabled`, and
+`active_projects` to move game-specific candidates to the top of the
+evaluation backlog. To add another game, add topic queries under `topics`
+and reference those topic IDs in a new `research_lanes` entry. The
+weights share **one bounded search budget** (`max_search_queries`, still 15
+topic queries per discovery run), not separate budgets or new API accounts.
+Enabled lanes receive one query each when that budget allows; remaining
+queries are weighted and rotate between runs. Existing problem-first query
+packs may make additional calls under the same GitHub rate-limit guard.
+
+Outputs to `status/discovery.json`: `research_lanes` with selected,
+completed, deferred and failed queries per specialist; `active_projects`;
+and game-prioritized candidates in `backlog`. The ordinary candidates
+store is shared, deduplicated by GitHub repository ID/version. Only
+independently tested `findings/reviews/` records can say **adopted**.
+Neither a search result nor a green status means a game was improved.
+
+**Mac operation:** the existing hourly local research cycle and
+approximately six-hour discovery interval remain unchanged. Locally
+running these scripts uses no GitHub-hosted Actions minutes, but consumes
+Mac resources and GitHub API quotas. This PR does not install a new
+scheduler or increase request frequency. Check the real run receipt and
+rate-limit fields before claiming the new specialist configuration is active.
+No paid models, automated Instagram/X login, game publishing or
+third-party code installs are enabled.
+
+**Offline tests:** `python3 -m unittest discover -s tests -p 'test_discovery*.py'`.
 
 ## Research must become tested game work
 
@@ -60,11 +105,11 @@ left untouched as historical records, never refreshed as current work.
 
 ## Limits and price
 
-No OpenAI, Claude, Codex or other paid model API is invoked. The standard public GitHub Actions `ubuntu-latest` runner is currently free under GitHub's standard-runner policy. GitHub's fair-use, job/runtime and API rate limits still apply. Other paid services or larger runners are not used.
+No OpenAI, Claude, Codex or other paid model API is invoked. The Mac scout consumes no GitHub Actions runner minutes. GitHub-hosted workflows are opt-in manual fallbacks and **can consume billed or included minutes if triggered**; their automatic triggers are disabled. GitHub API and Mac resource limits still apply.
 
 TikTok, Instagram and X **do not provide unrestricted free authenticated feeds**. We collect only publicly indexed leads and accessible public metadata. In-depth review of actual UI, models and gameplay requires direct media viewing and judgment; collecting posts is not the same as understanding them.
 
-**Security:** The workflow has minimal repository `contents: write` permission to store the reports, no extra secrets, and no access to your private repositories. It doesn't install Roblox plugins, change games, publish content, or use account cookies.
+**Security:** The local scout uses the Mac's existing GitHub authorization to update public research reports. The manual-only hosted workflows have scoped repository permissions. Neither path installs Roblox plugins, changes games, publishes content, or reads account cookies.
 
 ## Existing projects worth reusing
 
@@ -81,7 +126,7 @@ Only integrate one when it concretely improves source coverage or saves time. So
 
 ## Automation bots (all no hosted AI calls)
 
-The scheduled GitHub Actions workflow now runs separately scoped bots, reusing the same public feeds:
+The existing local Mac Research Scout runs separately scoped research collectors, reusing the same public feeds:
 
 - **Release tracker**: public Roblox/Claude repo releases, commits and tool candidates.
 - **Video shortlist and creator digest**: source-linked original video URLs and creator accounts, with indexed X/Instagram/TikTok results labeled **unverified**.
@@ -92,7 +137,7 @@ The scheduled GitHub Actions workflow now runs separately scoped bots, reusing t
 
 For ACTUAL sampled video frames, there is an **opt-in local-only** [video lab](docs/LOCAL_VIDEO_LAB.md). It needs FFmpeg, a local authorized video file and optionally a local Ollama vision model (which uses your device CPU/GPU but NO ChatGPT/Claude/Codex credits). Neither media files nor images get uploaded to this public repo. No public bot actually watches the full original video.
 
-These helpers run within **one lightweight workflow**, not several CPU-heavy watchers. Standard GitHub-hosted public runners are free under GitHub limits; provider APIs/site rate limits, account restrictions and legitimate rights still apply.
+These helpers share the installed Mac research cycle, rather than separate CPU-heavy watchers. No hosted Actions job is scheduled. Provider APIs/site rate limits, account restrictions and legitimate rights still apply.
 
 ## Open-source discovery (agents, Claude/Codex/ChatGPT tools, Roblox tooling, dashboards, MCP, skills, testing)
 
@@ -102,8 +147,8 @@ These helpers run within **one lightweight workflow**, not several CPU-heavy wat
 - **What it checks:** canonical repo (GitHub's numeric id, so renames do not duplicate) and version (latest release, or `head`), the pinned head SHA, license, last commit, releases, open issues and recently updated issues, security policy, tests and CI folders. Query-pack hits also get their README, manifests and key source files read at that SHA and are classified as browser-session orchestration, API-only, mixed or unknown.
 - **Verdicts:** `reject` or `needs-test` from automation; **`adopt` only from a tested review** in [`findings/reviews/`](findings/reviews/). A review stops applying when the repo moves to a new version.
 - **Outputs:** [`findings/candidates.jsonl`](findings/candidates.jsonl) (one line per repo and version: SHA, license, scores, verdict, suggested owner `Wheel` / `Work/dashboard` / `hub`, one-line task, evidence links), [`findings/SUMMARY.md`](findings/SUMMARY.md), [`findings/packs/`](findings/packs/) (each query pack's ranked report with every API call it made) and [`status/discovery.json`](status/discovery.json) (last run, feed health, counts of adopted findings and the actionable backlog; Dashboard V2 can read it).
-- **Routing:** high-value query-pack candidates become at most 3 deduplicated research issues per run **in this repo only** ([`scripts/discovery_issues.py`](scripts/discovery_issues.py)). Nothing is posted to any other repository and nobody is pinged.
-- **When it runs:** every 6 hours (best-effort GitHub cron), on pushes that change the discovery code/config/reviews, on manual runs, on `repository_dispatch` type `discovery-scan`, and when a collaborator labels an issue here `discovery-request`. It is polling, **not continuous coverage**: other people's repos cannot send us events, so their releases and issues are seen at the next run.
+- **Routing:** local discovery produces candidate reports, **not automatically filed GitHub issues**. The optional manual GitHub Actions route can create at most 3 deduplicated candidate issues in this repo using [`scripts/discovery_issues.py`](scripts/discovery_issues.py). Nothing is posted to other repositories.
+- **When it runs:** the installed Mac local scout checks discovery approximately every six hours; an explicit manual GitHub workflow dispatch remains available if desired. GitHub Actions no longer triggers on cron, pushes, dispatch events or issue labels. This is **polling, not continuous coverage**; other people's repos do not send events to us.
 - **Limits:** ETag conditional requests where GitHub offers them (tree reads; the search API sends no ETag, so every search is a full request), one results page per query, hard caps per run, and a stop (no retry) when GitHub signals a rate limit, honoured until the reset time. GitHub search ranks by its own relevance, so this is never full coverage of GitHub.
 
 ## Automatic source backoff
