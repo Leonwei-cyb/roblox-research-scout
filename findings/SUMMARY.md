@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-12T14:03:05Z (local, ok)
+- Last run: 2026-11-12T20:28:03Z (schedule, partial)
 - Repos tracked: 449; adopt 0, needs-test 195, reject 254
 - Actionable backlog: 182
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​111dd14, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/22d2271f890f98777a944169b9f60c02d836c0cd)
   - Pin jmagly/aiwg@​22d2271, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #2115 Fix: autonomous OpenCode rejects Cezar-provided dispatch order, notes and inbox
-- Issue updated: open-mercato/cezar #2098 feat\(dispatch\): select default child workflow/skill in New Task and override with --workflow
-- Issue updated: alamops/agetor #298 \[Bug\] Agent gets stuck on Chrome browser integration prompt and terminal exits immediately
-- Issue updated: reviewdog/reviewdog #1040 Dependency Dashboard
-- Issue updated: obra/superpowers #2575 Add support for DeepSeek harness
-- Issue updated: obra/superpowers #2231 skills/verification-before-completion: 'git checkout' in a verified-red loop destroys uncommitted wo
-- Issue updated: obra/superpowers #2694 writing-plans: file lists and positional instructions are never checked against the tree — the compi
-- Issue updated: obra/superpowers #2693 subagent-driven-development: a question escalated to the human is written in the work's own words, a
-- Issue updated: obra/superpowers #2692 subagent-driven-development: the helpers assume the repo shares the controller's filesystem — a remo
-- New candidate: steipete/pi-mono (reject)
-- Issue updated: earendil-works/pi #6930 Make renderPage / oauth html functions public
-- Issue updated: earendil-works/pi #7740 TUI after /reload does not follows custom tool's renderCall/renderResult, if they registered on "ses
-- Issue updated: earendil-works/pi #8617 Codex: Use file references for image-heavy tool results
-- Issue updated: earendil-works/pi #9411 Branch summaries pay full fresh input on every navigate: summary request shares no cache prefix with
-- Issue updated: earendil-works/pi #9448 pi auth check cannot see providers from extensions
-- Issue updated: ComposioHQ/awesome-claude-skills #2443 Resource suggestion: AIGrowthRank \(marketing and sales skills directory\)
-- Issue updated: ComposioHQ/awesome-claude-skills #2442 Add youtrack-task skill \(Collaboration & Project Management\)
-- Issue updated: OpenHands/OpenHands #19646 \[Bug\]: Escape in an open combobox listbox closes the whole dialog \(setup dialog, MCP server form\)
-- Issue updated: OpenHands/OpenHands #19645 \[Bug\]: Side tooltips with -start/-end placement open from the wrong edge \(sidebar row preview opens
-- Issue updated: OpenHands/OpenHands #19648 \[Bug\]: Title generation model and other settings dropdowns lost their clear button
-- Issue updated: OpenHands/OpenHands #19647 \[Bug\]: Tooltip text breaks mid-word \(HeroUI v3 .tooltip word-break: break-all\)
-- Issue updated: OpenHands/OpenHands #15706 API key field displays longer than actual key after saving, making it hard to edit
-- New candidate: modelcontextprotocol/servers (reject)
-- New candidate: anthropics/claude-code (reject)
-- Issue updated: openai/codex #52039 Pro 200: 62,500 promotional credits depleted while weekly allowance remained; Analytics backfilled u
-- Issue updated: openai/codex #36040 Regression: iOS Remote only lists projects with recent chats
-- Issue updated: openai/codex #61127 \[Windows / Microsoft Edge/Chrome\] ChatGPT extension can read browser tabs but interactive browser co
-- Issue updated: openai/codex #61094 26.1106.51428 Codex Update brought back freeze / lags when switching tabs
-- Issue updated: openai/codex #55242 'codex exec --json' panics with "failed printing to stdout: Resource temporarily unavailable \(os err
-- Issue updated: rojo-rbx/rojo #1359 Nested project inside a directory with '..' in '$path' is never watched by 'rojo serve'
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
