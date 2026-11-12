@@ -3,10 +3,10 @@
 Automated GitHub metadata scoring, not an endorsement. Nothing listed here was installed or run by the bot.
 Only a tested review in [findings/reviews](reviews/) can mark something **adopt**.
 
-- Last run: 2026-11-12T02:07:26Z (local, ok)
+- Last run: 2026-11-12T07:44:41Z (schedule, partial)
 - Repos tracked: 451; adopt 0, needs-test 194, reject 257
 - Actionable backlog: 181
-- Feed health: ok 38
+- Feed health: deferred 6, ok 30
 - Coverage: polling snapshots every few hours, **not** continuous.
 
 ## Actionable backlog (bounded candidate tasks)
@@ -35,38 +35,5 @@ Only a tested review in [findings/reviews](reviews/) can mark something **adopt*
   - Pin JasonColapietro/suede-creator-skills@​64c3406, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
 - **Wheel** · score 100 · [jmagly/aiwg](https://github.com/jmagly/aiwg/tree/962fbdcd8cde31382e32db6c3c588eed3c33c927)
   - Pin jmagly/aiwg@​962fbdc, read its MIT license and source, run its tests or a minimal proof in an isolated scratch dir \(no installs on the Mac\), and record adopt/reject for: Parallel ChatGPT/Claude/Codex workers with real ACKs \(Hub PR \#74 Bridge, \#75 Wheel\).
-
-## Changes this run
-
-- Issue updated: open-mercato/cezar #2105 Fix: Open Mercato skills update check fails whenever updates are available \("Failed: Project install
-- Issue updated: open-mercato/cezar #2100 Fix: Tasks automation filter shows UUIDs for retired automations
-- Issue updated: open-mercato/cezar #2102 Fix: autonomous intermediate agents report success after a denied incomplete turn
-- Issue updated: open-mercato/cezar #2103 Fix: provisioned skill references are rejected outside OpenCode's task directory
-- Issue updated: open-mercato/cezar #2101 Fix: OpenCode V1 run tokens and cost stop accumulating across distinct messages
-- Issue updated: obra/superpowers #2530 v7's brainstorm questions are rather annoying
-- Issue updated: obra/superpowers #2651 subagent-driven-development: task reviewer isn't told to flag a report with no RED evidence
-- Issue updated: obra/superpowers #2683 subagent-driven-development: review-package balloons to 100+ KB when the diff touches files with ver
-- New candidate: steipete/pi-mono (reject)
-- Issue updated: earendil-works/pi #12027 Record why a run was aborted: reason, run id and caller stack in AgentSession.abort\(\)
-- Issue updated: earendil-works/pi #10317 Emit 'queue\_update' to extensions so an injected input's discard is observable
-- Issue updated: earendil-works/pi #12067 The Anthropic provider in '@​earendil-works/pi-ai' drops a tool's root 'additionalProperties: false'
-- Issue updated: earendil-works/pi #10162 Too many input images stop the agent task
-- Issue updated: earendil-works/pi #12066 find: path globs match directories above the search path
-- Issue updated: ComposioHQ/awesome-claude-skills #2441 Add AI Video Maker skill \(Creative & Media\)
-- Release: OpenHands/OpenHands v1.38.0 to v1.39.0
-- Issue updated: OpenHands/OpenHands #19474 \[Bug\]: Save draft fails with 422 "Extra inputs are not permitted" after picking an agent profile on
-- Issue updated: OpenHands/OpenHands #19668 \[Bug\]: In-flight WebSocket frame from a previous conversation leaks into the next conversation after
-- Issue updated: OpenHands/OpenHands #19666 \[Feature\]: Should request\_secret move onto a server-side pending ask, like ask\_user?
-- Issue updated: OpenHands/OpenHands #18137 Cloud Canvas pinned conversations do not persist across page reloads/browser reopen
-- Issue updated: OpenHands/OpenHands #15567 Workspace file preview returns 401 Unauthorized on non-HTTPS non-loopback hosts
-- New candidate: modelcontextprotocol/servers (reject)
-- New candidate: anthropics/claude-code (reject)
-- Release: openai/codex rust-v0.167.1 to rust-v0.167.2
-- Issue updated: openai/codex #60971 macOS Codex composer drops the final asterisk in a dotted wildcard
-- Issue updated: openai/codex #58422 Auto-review retains earlier authorization scope; exact-action approval unavailable in desktop
-- Issue updated: openai/codex #60913 fs/readDirectory silently omits dangling symbolic links
-- Issue updated: openai/codex #60970 GPT-6.1 Sol rejected with ChatGPT Pro sign-in across CLI 0.163.0–0.167.2; live model catalog exclude
-- Issue updated: openai/codex #59931 Windows Desktop does not auto-connect an enabled SSH host after restart
-- New candidate: creosB/AI-Side-Panel-Extension (reject)
 
 Machine-readable: [candidates.jsonl](candidates.jsonl), [status/discovery.json](../status/discovery.json).
