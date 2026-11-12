@@ -110,6 +110,14 @@ def read_json(path, fallback):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def hosted_config_autofix(root=ROOT):
+    """Free deterministic repair on the existing hosted scout run, never on Mac."""
+    if os.environ.get("GITHUB_ACTIONS")!="true":
+        return []
+    from safe_config_autofix import work
+    return work(Path(root),write=True)
+
+
 def run():
     cfg = read_json(CONFIG, {})
     old = read_json(STATE, {"repos": {}, "seen": []})
@@ -215,6 +223,11 @@ def run():
 
 if __name__ == "__main__":
     try:
+        # Already-scheduled hourly scout calls this entrypoint. No extra job.
+        repairs=hosted_config_autofix()
+        changed=sum(sum(counts.values()) for _,counts in repairs)
+        if changed:
+            print("Safe public source duplicates repaired:",changed)
         run()
     except (RuntimeError, ValueError, OSError, KeyError, TypeError) as exc:
         print("Scout failed: " + str(exc), file=sys.stderr)
