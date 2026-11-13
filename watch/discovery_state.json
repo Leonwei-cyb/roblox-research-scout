@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-11-12T20:29:03Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -263,7 +262,7 @@
       },
       "etag": "\"5538496d70f067b379f889473728bae79b007937505bacf43dd99fd576ebcc80\""
     },
-    "https://api.github.com/repos/ollama/ollama/git/trees/8a89b76cc7359805e48357ba7e5b99e845a4c211?recursive=1": {
+    "https://api.github.com/repos/ollama/ollama/git/trees/5632619189ab493c70bd3f9435214b8788cc1c80?recursive=1": {
       "data": {
         "manifests": [
           "go.mod"
@@ -289,8 +288,8 @@
         ],
         "truncated": false
       },
-      "etag": "\"ed0eb9d25d6ae2127b6a07a38ad4451e8a614ca9293eca9b0c3d408174229a27\""
+      "etag": "\"cc971f3201ca4d574d84390f366d08d8aac98247e8e149acc9fec1cf7fb3ec5e\""
     }
   },
-  "last_run": "2026-11-12T20:28:03Z"
+  "last_run": "2026-11-13T02:40:42Z"
 }
