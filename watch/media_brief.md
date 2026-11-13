@@ -5,47 +5,56 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[How to join Ben’s private server in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WVlVcXJXV3Z2b2haYmxYLUtmd2FGLUpaSXpCSW9wUTVxTGZRcG85ZHFRTzdfR2RQdUVfeTFWMUMyOWswTWVVLUE3S1l6SVB4bzRvbzN3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-13
+  - Feed excerpt: How to join Ben’s private server in Steal an egg #roblox #robloxfyp #stealanegg Instagram
+
 ## Community
 
-- **[Made stylized flowers with 5 growth stages for farming games – thoughts on the style?](https://www.reddit.com/r/robloxgamedev/comments/1xvd9sm/made_stylized_flowers_with_5_growth_stages_for/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: 18 flowers & plants, 5 growth stages each, 14 bouquets and 10 garden plots. Everything is low poly so it runs fine on mobile. Would love feedback from Roblox devs. Is this the kind of style you'd use in a farming or tycoon game? submitted b
-- **[\[Not paid\] Searching collaborators for Asymetrical Horror Game](https://www.reddit.com/r/robloxgamedev/comments/1xv96q7/not_paid_searching_collaborators_for_asymetrical/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: Hello, My name is Alexis, and I’m a small-scale developer on Roblox Studio. My projects have never really come to fruition—and do you know why? Because I was working alone. I am now looking for a team to help me develop an asymmetrical horr
-- **[Added Settings to my game.](https://www.reddit.com/r/robloxgamedev/comments/1xva1qn/added_settings_to_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: Really really cool 😎😎 submitted by /u/No_Application6917 \[link\] \[comments\]
-- **[After many months my Backrooms game finally released to the public](https://www.reddit.com/r/robloxgamedev/comments/1xvdc6x/after_many_months_my_backrooms_game_finally/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: I would appreciate you guys helping me out with bug testing by submitting them under this post expect slight bugs as the game is in alpha and two people are not enough testers to find every bug. Please also tell me if you like it and maybe 
-- **[Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment](https://www.reddit.com/r/robloxgamedev/comments/1xv0cex/building_a_new_roblox_gaming_studio_founding_team/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: \[TL;DR BELOW\] We're building something ambitious, and we're looking for talented, creative and passionate people who want to be part of it from the very beginning. We're an existing AI-focused technology company currently expanding into the
-- **[How are these day 4.5 stats? They're below 50th Percentile. Is it still worth pushing?](https://www.reddit.com/r/robloxgamedev/comments/1xvcoad/how_are_these_day_45_stats_theyre_below_50th/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: https://preview.redd.it/b21tx44are1i1.png?width=805&format=png&auto=webp&s=84b241149a18fe3d8d66221782b225b4b8045497 The title submitted by /u/Bulky_Mango_7661 \[link\] \[comments\]
-- **[Looking for vfx artists for my jojo's roblox game, dm me on discord if you are interested kraze_yt](https://www.reddit.com/r/robloxgamedev/comments/1xv93hp/looking_for_vfx_artists_for_my_jojos_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: Yes submitted by /u/Odd_Attention_1901 \[link\] \[comments\]
-- **[Need reviewers for my game The Night Shift](https://www.reddit.com/r/robloxgamedev/comments/1xv3s7k/need_reviewers_for_my_game_the_night_shift/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: So like here is my best gameplay and I just need people who can report bugs so that I can fix it. I promise this game is very fun my friends rated it 9/10 I hope I get good reviews and anything to report to me go to my discord server: https
-- **[SUPERCHEFS! Gameplay preview](https://www.reddit.com/r/robloxgamedev/comments/1xvdn4b/superchefs_gameplay_preview/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: SUPERCHEFS! gameplay preview 👨‍🍳🔥 Co-op chaos cooking with superpowers. Beta this December! We've been working on the game for more than 2 years. Here's how it looks now:) https://www.reddit.com/r/robloxgamedev/comments/1en6yu3/creating_an_
-- **[dark fantasy stuff](https://www.reddit.com/r/robloxgamedev/comments/1xv89rh/dark_fantasy_stuff/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
-  - Feed excerpt: submitted by /u/peatmossing \[link\] \[comments\]
+- **[small open-source Luau framework](https://www.reddit.com/r/robloxgamedev/comments/1xvh92c/small_opensource_luau_framework/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
+  - Feed excerpt: wsg everyone i made a small framework called Zenith and I'd love some honest feedbac GitHub: https://github.com/itzjustdanoob/Zenith submitted by /u/Rude-Ideal-8845 \[link\] \[comments\]
+- **[Almost launched with 50 player servers and only 8 ranches](https://www.reddit.com/r/robloxgamedev/comments/1xvlg4i/almost_launched_with_50_player_servers_and_only_8/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
+  - Feed excerpt: my game comes out today. it's a herding game where every player gets a ranch, and there are 8 ranches on the island. this week i found out the server size on roblox was still set to 50 so player 9 would've spawned in with no ranch and nothi
+- **[Any opinions on these numbers?](https://www.reddit.com/r/robloxgamedev/comments/1xvm93q/any_opinions_on_these_numbers/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
+  - Feed excerpt: https://preview.redd.it/rn6s44bwkg1i1.png?width=1590&format=png&auto=webp&s=e00aa446cbfdce377744c2455233c7e8f82c0927 https://preview.redd.it/8m2ido30lg1i1.png?width=1956&format=png&auto=webp&s=e44956417513a5b1f252e16f846dde5d078b53cd This i
+- **[Beginner dev here: how I made a tsunami that rips the floor apart under players (+ a "Final Collapse" every round)](https://www.reddit.com/r/robloxgamedev/comments/1xvmik9/beginner_dev_here_how_i_made_a_tsunami_that_rips/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
+  - Feed excerpt: Hi! I'm a beginner developer and I've been learning by building a disaster survival game. My goal was that disasters don't just damage you, they destroy the floor under your feet. Here's how I did it. I'd love feedback from people who know 
+- **[Criei algo e agora fiquei sem caminho](https://www.reddit.com/r/robloxgamedev/comments/1xvkzmk/criei_algo_e_agora_fiquei_sem_caminho/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
+  - Feed excerpt: Nos últimos meses, principalmente no ano passado, jogos como Inkgame, baseados na série de sucesso Round 6, se popularizaram bastante no Roblox. E continuam se popularizando, visto que agora estão começando a produzir "episódios" inteiros d
+- **[Is a game still respectable if it’s built using AI? Genuinely asking experienced Roblox developers.](https://www.reddit.com/r/robloxgamedev/comments/1xvmt1d/is_a_game_still_respectable_if_its_built_using_ai/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
+  - Feed excerpt: Hey everyone, Me and my buddy recently started developing our first Roblox game together, and I wanted to get some honest opinions from the developer community. For some background, neither of us has ever learned how to code. I work constru
+- **[Poll: First Person vs Third Person POV](https://www.reddit.com/r/robloxgamedev/comments/1xvl8eu/poll_first_person_vs_third_person_pov/)** · Reddit r/robloxgamedev public RSS · 2026-11-13
+  - Feed excerpt: I am working on a FPS survival game but wanting opinions on first person vs third person POV for survival/shooter games. Development wise; I am having mad issues trying to code my ADS to lock to the weapon while in first person. View Poll s
 
 ## Roblox Updates
 
-- **[Validation error with Eyebrows, Hair, and Body when saving to Roblox](https://devforum.roblox.com/t/validation-error-with-eyebrows-hair-and-body-when-saving-to-roblox/4989309)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: I have a full body that I am trying to save to roblox, it has a HairAccessory and an EyebrowAccessory, and for a while it would given unknown error only but after a bit I got an error saying “Your asset could not be properly validated due t
-- **[Ai Suggestion overpowering Autocompletion list](https://devforum.roblox.com/t/ai-suggestion-overpowering-autocompletion-list/4989112)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: Each time i try to use the autocompletion list to insert an item into the code, as shown in the video, the stupid ai suggestion pops up and removes the autocomplete list, and prevents me from adding the completion. it has happened for a whi
-- **[Can I sell limiteds after I lose Plus?](https://devforum.roblox.com/t/can-i-sell-limiteds-after-i-lose-plus/4989360)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: I currently have limiteds for sale. In 6 days, when I lose Plus, will I not be able to sell them because I won’t have Plus? Or will I still be able to sell them because I put them on sale while I had Plus? 1 post - 1 participant Read full t
-- **[Parts falling through certain walls/floors for no reason](https://devforum.roblox.com/t/parts-falling-through-certain-wallsfloors-for-no-reason/4989316)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: Parts fall through walls/floors even when both of them collide with eachother, as seen when the red box touches the baseplate, it moves itself out of the wall since they both collide with eachother Both of them have CanCollide set to true, 
-- **[Roblox-signed source attestation for HttpService requests](https://devforum.roblox.com/t/roblox-signed-source-attestation-for-httpservice-requests/4989252)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: As a Roblox developer, it is currently impossible for an external backend to verify that an HTTP request came from a genuine, live Roblox game server. It is also impossible to verify that the request came from an unmodified copy of a specif
-- **[SUPERCHEFS! Gameplay preview](https://devforum.roblox.com/t/superchefs-gameplay-preview/4989480)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: We’ve been working on this game for more than 2 years. Here’s what it looks like now! Please let me know what you think:) SUPERCHEFS! Gameplay preview 1 post - 1 participant Read full topic
-- **[Some grass doesn't load while using expanded terrain](https://devforum.roblox.com/t/some-grass-doesnt-load-while-using-expanded-terrain/4989282)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: I noticed that some grass just doesn’t load while the others load. One half has grass and the other half doesn’t. In the attached image you can see clearly where this is happening. I can’t change this because when I turned decoration off an
-- **[The support AI does not help solve issues](https://devforum.roblox.com/t/the-support-ai-does-not-help-solve-issues/4989142)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: The support AI that we have to talk with instead of getting actual support from a human does not solve issues. Expected behavior I have lost 84K R$ to an unauthorized login in my account and the AI does not recognize I am trying to get a re
+- **[Looking for honest feedback on my first game](https://devforum.roblox.com/t/looking-for-honest-feedback-on-my-first-game/4989671)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: Hey everyone, This is the first game I’ve ever actually finished and published on Roblox, so I’m still figuring out the post-launch side of things. I’ve been running some ads to get initial data, and while people are playing, I feel like my
+- **[Monetize your Roblox game \| Donation Board 5.0](https://devforum.roblox.com/t/monetize-your-roblox-game-donation-board-50/4989541)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: Donation Board V5 ‎ ‎ ‎ Donation Board has come a long way since its original release. What started as a simple way for players to support their favorite experiences has grown into something much bigger. With V5, we’re taking another step f
+- **[Severe FPS drops caused by the playback indicator in the Animation Clip Editor](https://devforum.roblox.com/t/severe-fps-drops-caused-by-the-playback-indicator-in-the-animation-clip-editor/4989658)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: I’ve discovered that the moving playhead (the blue playback indicator) in the Animation Clip Editor appears to be causing significant performance drops, even on high end hardware. After a Studio update a few months ago, I started experienci
+- **[Claude created animation graph node connections work but display improperly](https://devforum.roblox.com/t/claude-created-animation-graph-node-connections-work-but-display-improperly/4989701)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: Claude is able to build animation graphs. but when it makes connetcions to nodes, the editor draws the connections improperly Expected behavior Claude can create animation graphs nd they display properly as if it was created by a human 1 po
+- **[I how do I get a parkour moveset](https://devforum.roblox.com/t/i-how-do-i-get-a-parkour-moveset/4989917)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: I’ve been trying to look for a parkour move set and nothing is good can someone help me find one that’s actually good 1 post - 1 participant Read full topic
+- **[Messages page does not respect custom selected Roblox theme](https://devforum.roblox.com/t/messages-page-does-not-respect-custom-selected-roblox-theme/4989592)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: Hey! I have a custom Roblox theme selected in my settings which is an official feature of Roblox if you have the Plus subscription, I have that and I have the Halloween 2026 one selected but when I go to my messages it does not appear red. 
+- **[Our game is back into learning phase](https://devforum.roblox.com/t/our-game-is-back-into-learning-phase/4989869)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: Ok so our ad for our game like normal went through the normal 24 hr learning phase and went active at 3 pm est today and then at around 4 smth my friend wanted to test out different thumbnails so he added around 2 more, this sent our ad bac
+- **[Question regarding unplayable gambling content](https://devforum.roblox.com/t/question-regarding-unplayable-gambling-content/4989842)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: I’ve been trying to get some clarification on Roblox’s gambling policies, but haven’t really gotten a clear answer from Roblox Support, so I figured I’d ask here. I’m dealing with two different cosmetic designs in games I’m involved with. O
+- **[Team Test Output and Remote Logs](https://devforum.roblox.com/t/team-test-output-and-remote-logs/4989734)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: Key Takeaways Team Test Client Logs let you see collaborators’ output in your Output window and read their logs from scripts with LogService:GetLogHistoryAsync , so your team can debug together. Start a Team Test with your collaborators and
+- **[Team Test Output and Remote Logs](https://devforum.roblox.com/t/team-test-output-and-remote-logs/4989734)** · Roblox updates category (availability may vary) · 2026-11-13
+  - Feed excerpt: Key Takeaways Team Test Client Logs let you see collaborators’ output in your Output window and read their logs from scripts with LogService:GetLogHistoryAsync , so your team can debug together. Start a Team Test with your collaborators and
+- **[Unable to view more than 100 assets in the "Recent Uploads" tab](https://devforum.roblox.com/t/unable-to-view-more-than-100-assets-in-the-recent-uploads-tab/4989579)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: In the Asset Manager I am constantly uploading a LOT of images. Tons of VFX, tons of effects, tons of icons for my UI, etc, but unfortunately I’ve been running into this super annoying issue where every time I try and upload tons of assets 
+- **[Weekly Recap: November 9 – 13, 2026](https://devforum.roblox.com/t/weekly-recap-november-9-%E2%80%93-13-2026/4989855)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: Key Takeaways This week, we announced cross-game Ban Lists, IARC age ratings in Australia, and new experiment metrics for custom events and rewarded video ads. Creators can also apply to the 2027 Roblox Incubator, while Team Test Client Log
+- **[Weekly Recap: November 9 – 13, 2026](https://devforum.roblox.com/t/weekly-recap-november-9-%E2%80%93-13-2026/4989855)** · Roblox updates category (availability may vary) · 2026-11-13
+  - Feed excerpt: Key Takeaways This week, we announced cross-game Ban Lists, IARC age ratings in Australia, and new experiment metrics for custom events and rewarded video ads. Creators can also apply to the 2027 Roblox Incubator, while Team Test Client Log
 
 ---
 

@@ -41,19 +41,19 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "1d39b938dc1b3f7b89cdfd35836beba380e90288",
-      "head_subject": "docs: fix broken tutorial link to add-rounds.md in spawn-respawn.md (#1590)",
+      "head": "b928bc2947cfcf98b3c8bd2baf7f4af59011cf44",
+      "head_subject": "Fix: nest join_experience and analytics_data inside payload (user notifications curl example) (#1588)",
       "name": "Roblox/creator-docs",
       "release_tag": "",
       "release_url": "",
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "f46d879e28302a430029304f7f6a162aed66f103",
-      "head_subject": "Fix CI builds: remove all U+200E characters from Confusables.cpp and recursive calls in 'std::any_of' (#3114)",
+      "head": "c87565b8b0db5d5d5bfd2b8b00ad6573e5d06d9f",
+      "head_subject": "Sync to upstream/release/747 (#3128)",
       "name": "Roblox/luau",
-      "release_tag": "0.746",
-      "release_url": "https://github.com/luau-lang/luau/releases/tag/0.746",
+      "release_tag": "0.747",
+      "release_url": "https://github.com/luau-lang/luau/releases/tag/0.747",
       "url": "https://github.com/Roblox/luau"
     },
     "Roblox/open-game-eval": {
@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "e44ef7766e6d9c547f7cbeee9de1affe99dc334a",
+      "head": "96a90e82994d30844f31d9e5b4c10d820a001082",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.323",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
+      "release_tag": "v2.1.325",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {

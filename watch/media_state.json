@@ -3674,7 +3674,26 @@
     "139b45d31321333558f0e386",
     "b5bfbcfd7d306290e193de59",
     "83d35b67afc9e519b903c230",
-    "f4f765e68d74b0a5a9471a5a"
+    "f4f765e68d74b0a5a9471a5a",
+    "0048ac4f2823f50659178eb3",
+    "83f90c76f4b7acdd0b2a6cc4",
+    "b892dfe83997e57d503b320a",
+    "d4623d42a29e4bc2b9cb1d79",
+    "66b5ab18052e50479f1485df",
+    "b90ef74c0e6ad629c819ac2e",
+    "a8fc893bc115b9e49656ae0b",
+    "6a63e9a1cd9370936aaaf106",
+    "8c57de2ba466dcdfc33bf960",
+    "10ae3aa0dccb3ae552c3ca38",
+    "87f326966694ae6185a9e1ee",
+    "07ae8ecd2f43e9601ae6cf86",
+    "4fac727cb57eecad30708cad",
+    "649f1804e93fea8db90d5b2e",
+    "3a57c46c0e6c287b1ffe578b",
+    "e2ff5d7c77da2d4404a53d83",
+    "1c584cd1bc42e12e041c005f",
+    "7d72966128430ba09be5efd8",
+    "7605cf9d95dbded2b6dc29af"
   ],
   "items": [
     {
@@ -3701,6 +3720,17 @@
       "id": "f4f765e68d74b0a5a9471a5a"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Almost launched with 50 player servers and only 8 ranches",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvlg4i/almost_launched_with_50_player_servers_and_only_8/",
+      "published": "2026-11-13",
+      "excerpt": "my game comes out today. it's a herding game where every player gets a ranch, and there are 8 ranches on the island. this week i found out the server size on roblox was still set to 50 so player 9 would've spawned in with no ranch and nothing to do. no error or anything, it just quietly breaks for t",
+      "creator": "/u/ios_6 https://www.reddit.com/user/ios_6",
+      "id": "e2ff5d7c77da2d4404a53d83"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3711,6 +3741,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/community-wikis/4988734.rss",
       "id": "deef4e376d795c155bdfa863"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Question regarding unplayable gambling content",
+      "url": "https://devforum.roblox.com/t/question-regarding-unplayable-gambling-content/4989842",
+      "published": "2026-11-13",
+      "excerpt": "I’ve been trying to get some clarification on Roblox’s gambling policies, but haven’t really gotten a clear answer from Roblox Support, so I figured I’d ask here. I’m dealing with two different cosmetic designs in games I’m involved with. One is a weapon skin featuring a slot machine that automatica",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/question-regarding-unplayable-gambling-content/4989842.rss",
+      "id": "d4623d42a29e4bc2b9cb1d79"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3757,6 +3799,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/inputbinding-not-working-with-controller/4988867.rss",
       "id": "c14e419e0085247740eae08f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Claude created animation graph node connections work but display improperly",
+      "url": "https://devforum.roblox.com/t/claude-created-animation-graph-node-connections-work-but-display-improperly/4989701",
+      "published": "2026-11-13",
+      "excerpt": "Claude is able to build animation graphs. but when it makes connetcions to nodes, the editor draws the connections improperly Expected behavior Claude can create animation graphs nd they display properly as if it was created by a human 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/claude-created-animation-graph-node-connections-work-but-display-improperly/4989701.rss",
+      "id": "b90ef74c0e6ad629c819ac2e"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Weekly Recap: November 9 – 13, 2026",
+      "url": "https://devforum.roblox.com/t/weekly-recap-november-9-%E2%80%93-13-2026/4989855",
+      "published": "2026-11-13",
+      "excerpt": "Key Takeaways This week, we announced cross-game Ban Lists, IARC age ratings in Australia, and new experiment metrics for custom events and rewarded video ads. Creators can also apply to the 2027 Roblox Incubator, while Team Test Client Logs and Remote Logs improve collaborative debugging. Check the",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/weekly-recap-november-9-%E2%80%93-13-2026/4989855.rss",
+      "id": "b892dfe83997e57d503b320a"
     },
     {
       "source": "reddit-robloxstudio",
@@ -3814,6 +3880,18 @@
       "excerpt": "I am a developer/coder who actually doesn't use any AI to make my Roblox game (except photos/icon). I have made multiple games (photos down) however all of them were flops. So, i would like to know what type of games Roblox players actually like so i can make it! If you also have any tips for me, pl",
       "creator": "/u/allminecuzimpro https://www.reddit.com/user/allminecuzimpro",
       "id": "abf6e2bda0f60deb87c1810f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Looking for honest feedback on my first game",
+      "url": "https://devforum.roblox.com/t/looking-for-honest-feedback-on-my-first-game/4989671",
+      "published": "2026-11-13",
+      "excerpt": "Hey everyone, This is the first game I’ve ever actually finished and published on Roblox, so I’m still figuring out the post-launch side of things. I’ve been running some ads to get initial data, and while people are playing, I feel like my monetization and retention could be way better. Game Link: ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/looking-for-honest-feedback-on-my-first-game/4989671.rss",
+      "id": "a8fc893bc115b9e49656ae0b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3921,6 +3999,18 @@
       "id": "8dcf5e37886f89c6c58b17d5"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Messages page does not respect custom selected Roblox theme",
+      "url": "https://devforum.roblox.com/t/messages-page-does-not-respect-custom-selected-roblox-theme/4989592",
+      "published": "2026-11-13",
+      "excerpt": "Hey! I have a custom Roblox theme selected in my settings which is an official feature of Roblox if you have the Plus subscription, I have that and I have the Halloween 2026 one selected but when I go to my messages it does not appear red. You can find the page here: Log in to Roblox Expected behavi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/messages-page-does-not-respect-custom-selected-roblox-theme/4989592.rss",
+      "id": "8c57de2ba466dcdfc33bf960"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3944,6 +4034,30 @@
       "id": "8863a65e8453620dc10330d1"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Monetize your Roblox game | Donation Board 5.0",
+      "url": "https://devforum.roblox.com/t/monetize-your-roblox-game-donation-board-50/4989541",
+      "published": "2026-11-13",
+      "excerpt": "Donation Board V5 ‎ ‎ ‎ Donation Board has come a long way since its original release. What started as a simple way for players to support their favorite experiences has grown into something much bigger. With V5, we’re taking another step forward. Built from the ground up with a focus on usability, ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/monetize-your-roblox-game-donation-board-50/4989541.rss",
+      "id": "87f326966694ae6185a9e1ee"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Our game is back into learning phase",
+      "url": "https://devforum.roblox.com/t/our-game-is-back-into-learning-phase/4989869",
+      "published": "2026-11-13",
+      "excerpt": "Ok so our ad for our game like normal went through the normal 24 hr learning phase and went active at 3 pm est today and then at around 4 smth my friend wanted to test out different thumbnails so he added around 2 more, this sent our ad back into learning phase and i was wondering how long would thi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/our-game-is-back-into-learning-phase/4989869.rss",
+      "id": "83f90c76f4b7acdd0b2a6cc4"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -3965,6 +4079,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/bug-report-%E2%80%93-possible-issue-with-roblox-dpo-email-communication/4988971.rss",
       "id": "7dd7fa2e540a13579fdae737"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "small open-source Luau framework",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvh92c/small_opensource_luau_framework/",
+      "published": "2026-11-13",
+      "excerpt": "wsg everyone i made a small framework called Zenith and I'd love some honest feedbac GitHub: https://github.com/itzjustdanoob/Zenith submitted by /u/Rude-Ideal-8845 [link] [comments]",
+      "creator": "/u/Rude-Ideal-8845 https://www.reddit.com/user/Rude-Ideal-8845",
+      "id": "7d72966128430ba09be5efd8"
     },
     {
       "source": "reddit-robloxdev",
@@ -4013,6 +4138,18 @@
       "id": "7961be0b8ced3af5437bf308"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "How to join Ben’s private server in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WVlVcXJXV3Z2b2haYmxYLUtmd2FGLUpaSXpCSW9wUTVxTGZRcG85ZHFRTzdfR2RQdUVfeTFWMUMyOWswTWVVLUE3S1l6SVB4bzRvbzN3?oc=5",
+      "published": "2026-11-13",
+      "excerpt": "How to join Ben’s private server in Steal an egg #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "7605cf9d95dbded2b6dc29af"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4035,6 +4172,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/advanced-tab-to-equip-accessories-is-missing-but-is-there-on-other-and-friends-accounts/4988857.rss",
       "id": "715bb62c5d6499524c649232"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Severe FPS drops caused by the playback indicator in the Animation Clip Editor",
+      "url": "https://devforum.roblox.com/t/severe-fps-drops-caused-by-the-playback-indicator-in-the-animation-clip-editor/4989658",
+      "published": "2026-11-13",
+      "excerpt": "I’ve discovered that the moving playhead (the blue playback indicator) in the Animation Clip Editor appears to be causing significant performance drops, even on high end hardware. After a Studio update a few months ago, I started experiencing severe FPS drops whenever playing animations. My FPS went",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/severe-fps-drops-caused-by-the-playback-indicator-in-the-animation-clip-editor/4989658.rss",
+      "id": "6a63e9a1cd9370936aaaf106"
     },
     {
       "source": "reddit-robloxstudio",
@@ -4060,6 +4209,18 @@
       "id": "68ba787fdc0444204618bdfe"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Team Test Output and Remote Logs",
+      "url": "https://devforum.roblox.com/t/team-test-output-and-remote-logs/4989734",
+      "published": "2026-11-13",
+      "excerpt": "Key Takeaways Team Test Client Logs let you see collaborators’ output in your Output window and read their logs from scripts with LogService:GetLogHistoryAsync , so your team can debug together. Start a Team Test with your collaborators and open your Output window to try it out today. Hi Creators, T",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/team-test-output-and-remote-logs/4989734.rss",
+      "id": "66b5ab18052e50479f1485df"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4070,6 +4231,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/open-builder-aacaptas-portfolio/4988814.rss",
       "id": "64eeb027e9d7ea7c5a963c28"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Beginner dev here: how I made a tsunami that rips the floor apart under players (+ a \"Final Collapse\" every round)",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvmik9/beginner_dev_here_how_i_made_a_tsunami_that_rips/",
+      "published": "2026-11-13",
+      "excerpt": "Hi! I'm a beginner developer and I've been learning by building a disaster survival game. My goal was that disasters don't just damage you, they destroy the floor under your feet. Here's how I did it. I'd love feedback from people who know more than me! ** The tsunami** - The wave is a mesh I made i",
+      "creator": "/u/Steve_kalmar https://www.reddit.com/user/Steve_kalmar",
+      "id": "649f1804e93fea8db90d5b2e"
     },
     {
       "source": "reddit-robloxstudio",
@@ -4116,6 +4288,17 @@
       "id": "54e29134450641c830ac9464"
     },
     {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Is a game still respectable if it’s built using AI? Genuinely asking experienced Roblox developers.",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvmt1d/is_a_game_still_respectable_if_its_built_using_ai/",
+      "published": "2026-11-13",
+      "excerpt": "Hey everyone, Me and my buddy recently started developing our first Roblox game together, and I wanted to get some honest opinions from the developer community. For some background, neither of us has ever learned how to code. I work construction 8–10 hours a day, and we’re both married, so finding t",
+      "creator": "/u/ApplicationMost5548 https://www.reddit.com/user/ApplicationMost5548",
+      "id": "4fac727cb57eecad30708cad"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4126,6 +4309,17 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/error-rbxassethash/4988733.rss",
       "id": "41534a07ae1b69125de48d31"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Any opinions on these numbers?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvm93q/any_opinions_on_these_numbers/",
+      "published": "2026-11-13",
+      "excerpt": "https://preview.redd.it/rn6s44bwkg1i1.png?width=1590&format=png&auto=webp&s=e00aa446cbfdce377744c2455233c7e8f82c0927 https://preview.redd.it/8m2ido30lg1i1.png?width=1956&format=png&auto=webp&s=e44956417513a5b1f252e16f846dde5d078b53cd This is my first game on Roblox, it's been a bumpy ride and I have",
+      "creator": "/u/LazyChazy https://www.reddit.com/user/LazyChazy",
+      "id": "3a57c46c0e6c287b1ffe578b"
     },
     {
       "source": "reddit-robloxdev",
@@ -4191,7 +4385,7 @@
       "title": "SUPERCHEFS! Gameplay preview",
       "url": "https://devforum.roblox.com/t/superchefs-gameplay-preview/4989480",
       "published": "2026-11-13",
-      "excerpt": "We’ve been working on this game for more than 2 years. Here’s what it looks like now! Please let me know what you think:) SUPERCHEFS! Gameplay preview 1 post - 1 participant Read full topic",
+      "excerpt": "We’ve been working on this game for more than 2 years. Here’s what it looks like now! Please let me know what you think:) SUPERCHEFS! Gameplay preview 4 posts - 4 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/superchefs-gameplay-preview/4989480.rss",
       "id": "21a280484f3ad59f2f92eefa"
@@ -4217,6 +4411,17 @@
       "excerpt": "Hey all, I would love to get input from regular Roblox players on the game experience I've launched this week. I am an avid multiplayer gamer and game developer - doing a Roblox game as a learning experience for me as well as a way to connect with my kiddo. Feedback desired: How does the pace of the",
       "creator": "/u/bardic_ https://www.reddit.com/user/bardic_",
       "id": "1dd8099f837703fb3327626c"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Criei algo e agora fiquei sem caminho",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvkzmk/criei_algo_e_agora_fiquei_sem_caminho/",
+      "published": "2026-11-13",
+      "excerpt": "Nos últimos meses, principalmente no ano passado, jogos como Inkgame, baseados na série de sucesso Round 6, se popularizaram bastante no Roblox. E continuam se popularizando, visto que agora estão começando a produzir \"episódios\" inteiros dentro da própria plataforma. Em apenas alguns meses, planeje",
+      "creator": "/u/PhraseRadiant3201 https://www.reddit.com/user/PhraseRadiant3201",
+      "id": "1c584cd1bc42e12e041c005f"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4276,6 +4481,18 @@
       "id": "139b45d31321333558f0e386"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Unable to view more than 100 assets in the \"Recent Uploads\" tab",
+      "url": "https://devforum.roblox.com/t/unable-to-view-more-than-100-assets-in-the-recent-uploads-tab/4989579",
+      "published": "2026-11-13",
+      "excerpt": "In the Asset Manager I am constantly uploading a LOT of images. Tons of VFX, tons of effects, tons of icons for my UI, etc, but unfortunately I’ve been running into this super annoying issue where every time I try and upload tons of assets I can’t copy them from the uploads section because it maxes ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unable-to-view-more-than-100-assets-in-the-recent-uploads-tab/4989579.rss",
+      "id": "10ae3aa0dccb3ae552c3ca38"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -4307,6 +4524,29 @@
       "excerpt": "v1 -> v2 lol submitted by /u/GadixPro [link] [comments]",
       "creator": "/u/GadixPro https://www.reddit.com/user/GadixPro",
       "id": "081ea92c51026b44d94d2220"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Poll: First Person vs Third Person POV",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvl8eu/poll_first_person_vs_third_person_pov/",
+      "published": "2026-11-13",
+      "excerpt": "I am working on a FPS survival game but wanting opinions on first person vs third person POV for survival/shooter games. Development wise; I am having mad issues trying to code my ADS to lock to the weapon while in first person. View Poll submitted by /u/No_Gap_7136 [link] [comments]",
+      "creator": "/u/No_Gap_7136 https://www.reddit.com/user/No_Gap_7136",
+      "id": "07ae8ecd2f43e9601ae6cf86"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I how do I get a parkour moveset",
+      "url": "https://devforum.roblox.com/t/i-how-do-i-get-a-parkour-moveset/4989917",
+      "published": "2026-11-13",
+      "excerpt": "I’ve been trying to look for a parkour move set and nothing is good can someone help me find one that’s actually good 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-how-do-i-get-a-parkour-moveset/4989917.rss",
+      "id": "0048ac4f2823f50659178eb3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7594,7 +7834,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 65 posts - 48 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 66 posts - 49 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10395,223 +10635,6 @@
       "excerpt": "I averaged around 25 CCU throughout my ad campaign. After two weeks, Roblox's algorithm started picking up my game just as the campaign ended. Now it's day 4, and I'm still hovering between 10 and 20 CCU, with a highest peak of 31. Has anyone experienced something similar? Did it eventually start gr",
       "creator": "/u/Ok_Statistician6759 https://www.reddit.com/user/Ok_Statistician6759",
       "id": "5773e1e7cfa588c9e63553a9"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Mesh Deformation for realistic car crashes",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqpnxf/mesh_deformation_for_realistic_car_crashes/",
-      "published": "2026-11-08",
-      "excerpt": "I added a new feature to my car crash system, inspired by BeamNG. It utilizes editable mesh to add part deformation. submitted by /u/Distinct-Tie-3285 [link] [comments]",
-      "creator": "/u/Distinct-Tie-3285 https://www.reddit.com/user/Distinct-Tie-3285",
-      "id": "5736947fe4e7689c0fb2f465"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need your guys help with making a logo for my asym game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqtn8f/i_need_your_guys_help_with_making_a_logo_for_my/",
-      "published": "2026-11-08",
-      "excerpt": "Im making a roblox asym game that is inspired of the battle bricks and i dunno how to draw digitally but i want the logo to be half of tarnished battler’s skull and the other half is tumore gear and the asym game will be called Tbb: Tarnished Hell (images are the reference if you don’t know who tarn",
-      "creator": "/u/Affectionate-Ball140 https://www.reddit.com/user/Affectionate-Ball140",
-      "id": "5732eda7b1a82d9f8614955f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Builder required for Cyberpunk themed hacking game",
-      "url": "https://devforum.roblox.com/t/builder-required-for-cyberpunk-themed-hacking-game/4983043",
-      "published": "2026-11-08",
-      "excerpt": "Requirement I need a modelled map for my hacking-themed game, which I am scripting myself. It should have a cyberpunk feel. An interior venue (club or other) with four differently styled tables (perhaps in different rooms), with four seats (with terminals) at each table, where players join a game to",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/builder-required-for-cyberpunk-themed-hacking-game/4983043.rss",
-      "id": "55b30b3e1fa861fe0667a68d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "New sign up feature: Microsoft",
-      "url": "https://devforum.roblox.com/t/new-sign-up-feature-microsoft/4982810",
-      "published": "2026-11-08",
-      "excerpt": "Recently we got a new sign in feature. Apple and google. Now, Microsoft is missing on there. 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-sign-up-feature-microsoft/4982810.rss",
-      "id": "54d34441d92b4143feee8b20"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Day 3 Combat System",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqt2o2/day_3_combat_system/",
-      "published": "2026-11-08",
-      "excerpt": "I’m trying to make a multiplayer story mode game and I’m currently working on the first actual attacks and animations and combos with the fists and just a starter blade and I want my animations and combat to feel amazing but I’m at this point where I don’t know how to make it better or what would ma",
-      "creator": "/u/Calm-Abroad-4424 https://www.reddit.com/user/Calm-Abroad-4424",
-      "id": "520d524b97833695d5e75607"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "would you click on this",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqmi7v/would_you_click_on_this/",
-      "published": "2026-11-08",
-      "excerpt": "slop posting submitted by /u/peatmossing [link] [comments]",
-      "creator": "/u/peatmossing https://www.reddit.com/user/peatmossing",
-      "id": "516425a62ffeb3c3afb1bf5d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Editor levels and test device emulator",
-      "url": "https://devforum.roblox.com/t/editor-levels-and-test-device-emulator/4982555",
-      "published": "2026-11-08",
-      "excerpt": "I tried using device emulator for the first time in a while and now i can’t disable it while keeping my editor level at 21, if i disable it with the top bar settings it puts my editor level to automatic and then if i put my editor level back to 21 it puts it up again Expected behavior For the bar to",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/editor-levels-and-test-device-emulator/4982555.rss",
-      "id": "4f93532a47bc59925cda6bd7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can GuiService display a custom rig where the player avatar would be?",
-      "url": "https://devforum.roblox.com/t/can-guiservice-display-a-custom-rig-where-the-player-avatar-would-be/4982137",
-      "published": "2026-11-08",
-      "excerpt": "like GuiService:InspectPlayerFromUserId and if not should it be a feature? 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/can-guiservice-display-a-custom-rig-where-the-player-avatar-would-be/4982137.rss",
-      "id": "4e56b230e064c78ae5946209"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for a Roblox scripter to help bring a horror game to life.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqr7vi/looking_for_a_roblox_scripter_to_help_bring_a/",
-      "published": "2026-11-08",
-      "excerpt": "Psychological horror, supernatural deception, and cinematic monster transformations. We're building a team to create something genuinely terrifying. I'm developing LAST ONE ALIVE , a multiplayer horror game where one player becomes THE MIMIC a creature that can disguise itself as an ordinary player,",
-      "creator": "/u/Intelligent-Dig5131 https://www.reddit.com/user/Intelligent-Dig5131",
-      "id": "4baf381e4a35e332c8fa2441"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "\"Device Simulation\" window opens when I change my Studio settings",
-      "url": "https://devforum.roblox.com/t/device-simulation-window-opens-when-i-change-my-studio-settings/4982706",
-      "published": "2026-11-08",
-      "excerpt": "Visual Aids: Disabling this feature, will change my graphics level back to “automatic”. I can’t work with graphics set to “automatic” because my game won’t show up properly as it does on high graphics. My intend is to make the game look good for the highest graphics level and this feature prevents t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/device-simulation-window-opens-when-i-change-my-studio-settings/4982706.rss",
-      "id": "4b2c71ef532b7bea45cb9524"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Need help with game inspired by Nullscape !!",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr7cee/need_help_with_game_inspired_by_nullscape/",
-      "published": "2026-11-08",
-      "excerpt": "me and u/FruitSpace are developing a game inspired by Nullscape: a roguelike collectathon game where you progress through levels which get progressively harder we have made some progress on the lore (inspired by rain world, backrooms, etc.), and have made some entity concepts, so we are planning on ",
-      "creator": "/u/ReindeerCapable496 https://www.reddit.com/user/ReindeerCapable496",
-      "id": "4888ead34baaf86eda8a9c3b"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Testing games[Paid]",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr3t2y/testing_gamespaid/",
-      "published": "2026-11-08",
-      "excerpt": "[Hiring] Experienced QA / Game Tester | Rates: Robux (Negotiable) Hey Developers! I am looking to offer my services as a Roblox Game Tester for your upcoming projects or current games in exchange for Robux . As a tester, I don't just say \"your game is good\"—I actively try to break it so you can fix ",
-      "creator": "/u/Parking_Yam_5636 https://www.reddit.com/user/Parking_Yam_5636",
-      "id": "480b171a3daee69613ed1764"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How to get started?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xquyzw/how_to_get_started/",
-      "published": "2026-11-08",
-      "excerpt": "I want to try making some games on roblox but when I tried the Learn tab on the offical Roblox Studio website, there's so many information linked to each other so I'm kinda overwhelmed. Do I have to just deal with that or there's a better way to learn the basic. submitted by /u/Ok-Canary9874 [link] ",
-      "creator": "/u/Ok-Canary9874 https://www.reddit.com/user/Ok-Canary9874",
-      "id": "4498296a6ad0c58ab745c9c7"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "New Shop in my game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqvpn8/new_shop_in_my_game/",
-      "published": "2026-11-08",
-      "excerpt": "submitted by /u/Calm-Try1206 [link] [comments]",
-      "creator": "/u/Calm-Try1206 https://www.reddit.com/user/Calm-Try1206",
-      "id": "413abddf6fca8586ffa8ffaa"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I need help with the Roblox Studio Device Emulator (more in body text)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr0jts/i_need_help_with_the_roblox_studio_device/",
-      "published": "2026-11-08",
-      "excerpt": "essentially, anytime i deactivate the Device Emulator, it automatically switches my Graphics/Rendering level to Automatic is there ANY fix for this? submitted by /u/steezy0008 [link] [comments]",
-      "creator": "/u/steezy0008 https://www.reddit.com/user/steezy0008",
-      "id": "40f85c5f3570660f8cea8350"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Modular AI - A Lightweight, Dependency-Free Modular AI System",
-      "url": "https://devforum.roblox.com/t/modular-ai-a-lightweight-dependency-free-modular-ai-system/4982328",
-      "published": "2026-11-08",
-      "excerpt": "ModularAI Modular AI is an npc system that works via data driven mechanics It uses Conditions,Limits,States and Responses. A Condition is a value that is expected to be true or false A Limit is for conditions that rely on more than booleans such as hits taken A State is what the result of a conditio",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/modular-ai-a-lightweight-dependency-free-modular-ai-system/4982328.rss",
-      "id": "3bef02469a5b633bd08f41ff"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How do i import 3D models correctly?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqzonp/how_do_i_import_3d_models_correctly/",
-      "published": "2026-11-08",
-      "excerpt": "i want it to NOT look like this because when i open the animations it looks like spaghetti shi submitted by /u/ZombossGaming [link] [comments]",
-      "creator": "/u/ZombossGaming https://www.reddit.com/user/ZombossGaming",
-      "id": "3a95051206ff68c806b1f159"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[Release] RoBulk — Bulk Editing, Pricing & Earnings Tools for Roblox Creators",
-      "url": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637",
-      "published": "2026-11-08",
-      "excerpt": "RoBulk Announcing the release to the community of RoBulk , a free Chrome extension developed by BloxSmithery that adds bulk management tools directly to the Roblox Creator Dashboard! This is exactly the tool we needed to manage our sales so we built it and are offering it to the community. We have g",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/release-robulk-%E2%80%94-bulk-editing-pricing-earnings-tools-for-roblox-creators/4981637.rss",
-      "id": "34bf67ca2fb9fd1256271476"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Character scaling bug",
-      "url": "https://devforum.roblox.com/t/character-scaling-bug/4982319",
-      "published": "2026-11-08",
-      "excerpt": "The scaling enforced via Roblox’s game settings do not apply to some characters. - See how the leftcharacter is big and the character on the right is normal sized. There is also warnings in the logs: I think it may be related to the things they’re wearing. How to fix? 1 post - 1 participant Read ful",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/character-scaling-bug/4982319.rss",
-      "id": "327bdaf67b666f432765f4a1"
     }
   ]
 }

@@ -20,5 +20,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[MCP Feature requests - plugin methods and copy/paste between studio instances](https://devforum.roblox.com/t/mcp-feature-requests-plugin-methods-and-copypaste-between-studio-instances/4988381)** — Public text/page, video not confirmed
-- **[I have a plugin that makes my character freeze and puts a blur effect and idk how to delete it](https://www.reddit.com/r/robloxgamedev/comments/1xu8dx5/i_have_a_plugin_that_makes_my_character_freeze/)** — Public text/page, video not confirmed
+- **[small open-source Luau framework](https://www.reddit.com/r/robloxgamedev/comments/1xvh92c/small_opensource_luau_framework/)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Luau Modularity: export Values and Cyclic Requires](https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432)** — Public text/page, video not confirmed
