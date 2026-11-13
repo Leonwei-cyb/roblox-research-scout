@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 315
+- devforum: 316
 - index-only: 14
-- reddit: 262
+- reddit: 261
 - youtube: 4
 
 ## First-Session And Mobile
@@ -48,7 +48,7 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 ## World And Visual Design
 
 - [Looking for a Roblox Environment Builder (RevShare)! 🏗️](https://www.reddit.com/r/robloxgamedev/comments/1xshiru/looking_for_a_roblox_environment_builder_revshare/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
-- [Problem with the AvatarMood module in core scripts](https://devforum.roblox.com/t/problem-with-the-avatarmood-module-in-core-scripts/4982314) — devforum; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
+- [Finally got some models! Feedback Welcome](https://www.reddit.com/r/ROBLOXStudio/comments/1xuxpu6/finally_got_some_models_feedback_welcome/) — reddit; **unviewed metadata**. Proposed test: Does the board stay one restrained 2D Colonist-style composition?
 
 ## Genres And Successful Loops
 
