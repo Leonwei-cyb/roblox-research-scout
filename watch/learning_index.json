@@ -125,21 +125,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xr46ud",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr46ud/im_trying_to_buy_ads_credits/",
-      "title": "Im trying to buy ads credits",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xsa54d",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/",
       "title": "How do you make the first minute of a simulator game clear without a long tutorial?",
@@ -395,6 +380,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988920:1",
+      "url": "https://devforum.roblox.com/t/creating-configservice-freezes-the-whole-server-for-100-ms-on-every-player-join/4988920",
+      "title": "Creating ConfigService freezes the whole server for ~100 ms on every player join",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xrmlwh",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrmlwh/why_is_my_player_engagement_so_low/",
       "title": "Why is my player engagement so low?",
@@ -492,6 +491,20 @@
       "signals": [
         "world and visual design",
         "player feedback and marketing"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xv0ip6",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xv0ip6/building_a_new_roblox_gaming_studio_founding_team/",
+      "title": "Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-13",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -950,6 +963,20 @@
       "signals": [
         "player feedback and marketing",
         "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988938:1",
+      "url": "https://devforum.roblox.com/t/conditional-no-longer-detecting-button-color-properly-after-a-color-tween/4988938",
+      "title": "Conditional no longer detecting button color properly after a color tween",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "animation and audio"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2841,20 +2868,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4980585:1",
-      "url": "https://devforum.roblox.com/t/problem-with-changing-the-editor-quality-level/4980585",
-      "title": "Problem with Changing the Editor Quality Level",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "genres and successful loops",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4981939:1",
       "url": "https://devforum.roblox.com/t/meshes-forcing-character-velocity-when-jumping/4981939",
       "title": "Meshes forcing character velocity when jumping",
@@ -3400,19 +3413,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4980099:1",
-      "url": "https://devforum.roblox.com/t/free-game-templates/4980099",
-      "title": "Free Game Templates",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {

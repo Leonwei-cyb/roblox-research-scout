@@ -18,7 +18,7 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 ## First-Session And Mobile
 
 - [Players leave right after my tutorial and I honestly don’t understand why. Will pay Robux for real feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xrt5fm/players_leave_right_after_my_tutorial_and_i/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
-- [Im trying to buy ads credits](https://www.reddit.com/r/ROBLOXStudio/comments/1xr46ud/im_trying_to_buy_ads_credits/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
+- [How do you make the first minute of a simulator game clear without a long tutorial?](https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/) — reddit; **unviewed metadata**. Proposed test: Can a first-time desktop player finish opening placement without help text?
 
 ## Board Game And Turn Flow
 
@@ -52,8 +52,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
-- [How do you make the first minute of a simulator game clear without a long tutorial?](https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [Added hidden secret islands to my simulator: how I set them up + looking for feedback on discoverability](https://www.reddit.com/r/robloxgamedev/comments/1xsa8yg/added_hidden_secret_islands_to_my_simulator_how_i/) — reddit; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Studio, DeviceSimulatorToolbar - Can't turn "Device Simulator" off during a playtest. It is greyed out](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Player Feedback And Marketing
 
@@ -62,14 +62,14 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [Studio, DeviceSimulatorToolbar - Can't turn "Device Simulator" off during a playtest. It is greyed out](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 - [\[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking](https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
+- [Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout](https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999) — devforum; **unviewed metadata**. Proposed test: Name one existing player-visible defect in the active game this could test before acting.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one \[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking test with measurable pass/fail.
+3. Explain WHY it matters and propose one Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

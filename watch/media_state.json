@@ -3647,7 +3647,10 @@
     "6a49d195b7ad6b1e3dfa5945",
     "74c540732fd973759e3df3c6",
     "b6ffe1c82254ec187206fb9d",
-    "bba6f252315e2171f61140bb"
+    "bba6f252315e2171f61140bb",
+    "afc064c255693bdb82263b10",
+    "7a49f793e40ea951af06050e",
+    "17b95e51280a701691a59b40"
   ],
   "items": [
     {
@@ -3732,6 +3735,18 @@
       "id": "b24a03b724d4480bfa3ed729"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Conditional no longer detecting button color properly after a color tween",
+      "url": "https://devforum.roblox.com/t/conditional-no-longer-detecting-button-color-properly-after-a-color-tween/4988938",
+      "published": "2026-11-13",
+      "excerpt": "Summary Our trains have doors controlled using UI buttons, which change color through TweenService to reflect the value of the doors. The door opening/closing logic was determined using a conditional that checked the color of the button. (Let’s put aside that this might be stupid since it’s old code",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/conditional-no-longer-detecting-button-color-properly-after-a-color-tween/4988938.rss",
+      "id": "afc064c255693bdb82263b10"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3775,6 +3790,18 @@
       "excerpt": "Hello, I'm working on 2 games I plan on releasing. One is a rhythm game (inspired by Friday night funkin'.) The other is an animation game. I have a discord that is gonna soon be a community discord that people can join and for any devs to join too. I have a forum you can apply for since I rarely op",
       "creator": "/u/LookingForAnswers619 https://www.reddit.com/user/LookingForAnswers619",
       "id": "92c18c9a8614dac32abee833"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Creating ConfigService freezes the whole server for ~100 ms on every player join",
+      "url": "https://devforum.roblox.com/t/creating-configservice-freezes-the-whole-server-for-100-ms-on-every-player-join/4988920",
+      "published": "2026-11-13",
+      "excerpt": "After a server runs game:GetService(“ConfigService”), every time a player joins the server freezes/spikes for about one web round trip. That’s ~100 ms in Europe, ~40 ms in US/Miami and ~200 ms in SG/Singapore. No ConfigService method needs to be called. Repro (place file attached): Create an empty b",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/creating-configservice-freezes-the-whole-server-for-100-ms-on-every-player-join/4988920.rss",
+      "id": "7a49f793e40ea951af06050e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3935,6 +3962,17 @@
       "excerpt": "Finally started to dabble in blender some more to get some assets for the map ive been working on! this is what ive got so far for what im wanting i plan on adding a few more things before i import but so far so good i think! submitted by /u/OacKrulcifer [link] [comments]",
       "creator": "/u/OacKrulcifer https://www.reddit.com/user/OacKrulcifer",
       "id": "184fa57c15f989aa9df47b73"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xv0ip6/building_a_new_roblox_gaming_studio_founding_team/",
+      "published": "2026-11-13",
+      "excerpt": "[TL;DR BELOW] We're building something ambitious, and we're looking for talented, creative and passionate people who want to be part of it from the very beginning. We're an existing AI-focused technology company currently expanding into the gaming industry, with a new initiative focused on developin",
+      "creator": "/u/Right-Relation6248 https://www.reddit.com/user/Right-Relation6248",
+      "id": "17b95e51280a701691a59b40"
     },
     {
       "source": "reddit-robloxdev",
@@ -7255,7 +7293,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 64 posts - 48 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 65 posts - 49 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10550,41 +10588,6 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "00a22e7686a0aaf05591aea3"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Im trying to buy ads credits",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr46ud/im_trying_to_buy_ads_credits/",
-      "published": "2026-11-08",
-      "excerpt": "I don’t know why I’m getting this error. I have over $100 on each card, and it doesn’t even show any attempted charges—the error pops up instantly. I’ve tried on both my phone and PC, tested it using settings for the U.S. and for my own country, and even tried with other accounts (for users over 21)",
-      "creator": "/u/Choice_Bill_1336 https://www.reddit.com/user/Choice_Bill_1336",
-      "id": "007424f62acdd58f049eac3b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Problem with Changing the Editor Quality Level",
-      "url": "https://devforum.roblox.com/t/problem-with-changing-the-editor-quality-level/4980585",
-      "published": "2026-11-07",
-      "excerpt": "Whenever I turn off the Device Simulator, my Editor Quality Level changes from Level 21 to Automatic. However, when I try to change it back to Level 21, the Device Simulator turns on again. This keeps happening in an endless loop. The issue started after today’s Roblox Studio update. I’m also attach",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/problem-with-changing-the-editor-quality-level/4980585.rss",
-      "id": "fff935b6c5e7e0fd2b1f3874"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Free Game Templates",
-      "url": "https://devforum.roblox.com/t/free-game-templates/4980099",
-      "published": "2026-11-07",
-      "excerpt": "Free game templates that are ready to be published, Change Gamepass and Dev Product Ids. FlappyEmoji.rbxl (182.5 KB) Flappy Emoji can be tested without enabling api services etc. Just open the file and play test. Flappy Emoji Place this in server script service and run the game with api enabled. Ins",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/free-game-templates/4980099.rss",
-      "id": "fb00022b104b4d3bc794ade1"
     }
   ]
 }
