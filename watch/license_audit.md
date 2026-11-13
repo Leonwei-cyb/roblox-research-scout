@@ -5,7 +5,7 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | Public repository | License metadata | Last pushed | Archived |
 |---|---|---|---|
 | [Roblox/roblox-studio-agent-plugin](https://github.com/Roblox/roblox-studio-agent-plugin) | MIT — license present, inspect asset and dependency rights | 2026-11-10 | No |
-| [Roblox/creator-docs](https://github.com/Roblox/creator-docs) | CC-BY-4.0 — license present, inspect asset and dependency rights | 2026-11-12 | No |
+| [Roblox/creator-docs](https://github.com/Roblox/creator-docs) | CC-BY-4.0 — license present, inspect asset and dependency rights | 2026-11-13 | No |
 | [Roblox/luau](https://github.com/Roblox/luau) | MIT — license present, inspect asset and dependency rights | 2026-11-13 | No |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | No verified license — do NOT copy source/assets | 2026-11-13 | No |
 | [obra/superpowers](https://github.com/obra/superpowers) | MIT — license present, inspect asset and dependency rights | 2026-11-03 | No |
@@ -19,7 +19,7 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Apache-2.0 — license present, inspect asset and dependency rights | 2026-11-13 | No |
 | [huginn/huginn](https://github.com/huginn/huginn) | MIT — license present, inspect asset and dependency rights | 2026-11-09 | No |
 | [obris-dev/openmagpie](https://github.com/obris-dev/openmagpie) | No verified license — do NOT copy source/assets | 2026-10-14 | No |
-| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | AGPL-3.0 — copyleft, review conditions | 2026-11-12 | No |
+| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | AGPL-3.0 — copyleft, review conditions | 2026-11-13 | No |
 | [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) | AGPL-3.0 — copyleft, review conditions | 2026-11-13 | No |
 
 Before copying code/assets, inspect source safety, the complete license and dependency rights.

@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 319
+- devforum: 318
 - index-only: 13
-- reddit: 259
+- reddit: 260
 - youtube: 4
 
 ## First-Session And Mobile
@@ -58,7 +58,7 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 ## Player Feedback And Marketing
 
 - [Pawssport, Please! - Papers, Please but with cats \[DEMO, feedback wanted\]](https://devforum.roblox.com/t/pawssport-please-papers-please-but-with-cats-demo-feedback-wanted/4981971) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Building Feedback](https://devforum.roblox.com/t/building-feedback/4983073) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator](https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
