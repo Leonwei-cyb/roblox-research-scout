@@ -6258,17 +6258,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqk37n",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqk37n/help_how_to_push_my_game/",
-      "title": "[Help] How to push my game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqk7t0",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqk7t0/pingu_toss_reborn_sort_of/",
       "title": "Pingu Toss - Reborn (Sort of)",
@@ -7384,6 +7373,19 @@
       "title": "Today Secret Admin Happening in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
       "source": "brock-ig-reels",
       "published": "2026-11-08",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn?oc=5",
+      "title": "Only Today with Sammy and Brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-13",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
