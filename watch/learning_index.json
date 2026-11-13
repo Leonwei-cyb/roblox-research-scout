@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 596,
+  "unique_posts": 595,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -946,6 +946,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988753:1",
+      "url": "https://devforum.roblox.com/t/players-being-placed-into-newly-created-servers-despite-available-servers-with-open-slots/4988753",
+      "title": "Players being placed into newly created servers despite available servers with open slots",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xpsz47",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsz47/searching_for_testers/",
       "title": "Searching for testers",
@@ -956,20 +970,6 @@
         "first-session and mobile",
         "building and purchases",
         "economy and income",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqc3q9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqc3q9/i_just_created_a_game_called_be_a_pet/",
-      "title": "I just created a game called \"Be a Pet\"",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
         "player feedback and marketing"
       ],
       "score": 6,
@@ -1239,19 +1239,6 @@
         "tools and performance"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981346:1",
-      "url": "https://devforum.roblox.com/t/experience-ads-suddenly-stop-bringing-players-despite-campaigns-remaining-active/4981346",
-      "title": "Experience Ads Suddenly Stop Bringing Players Despite Campaigns Remaining Active",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2145,6 +2132,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988748:1",
+      "url": "https://devforum.roblox.com/t/am-i-supposed-to-be-able-to-reply-here-tabout-the-luau-category/4988748",
+      "title": "Am i supposed to be able to reply here? /t/about-the-luau-category",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xpsif5",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpsif5/is_my_playtime_low_cause_of_all_play_ads_or_am_i/",
       "title": "is my playtime low cause of All Play ads or am I coping",
@@ -2797,6 +2797,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xutvhb",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutvhb/please_help_me_build_olcx_tracks/",
+      "title": "Please help me build OLCX tracks!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-13",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xuunl4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuunl4/we_are_building_a_real_alternative_to_roblox/",
+      "title": "We are building a real alternative to Roblox Commissions",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-13",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xuutd6",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuutd6/are_hep_ads_still_worth_it/",
+      "title": "Are HEP ads still worth it?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-13",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4980585:1",
       "url": "https://devforum.roblox.com/t/problem-with-changing-the-editor-quality-level/4980585",
       "title": "Problem with Changing the Editor Quality Level",
@@ -3055,20 +3094,6 @@
       "source": "roblox-devforum-latest",
       "published": "2026-11-12",
       "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xpu3d9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpu3d9/please_give_me_advice_or_help/",
-      "title": "Please Give me Advice or Help!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
       "signals": [
         "building and purchases",
         "player feedback and marketing"
@@ -3376,19 +3401,6 @@
       "key": "devforum:4980099:1",
       "url": "https://devforum.roblox.com/t/free-game-templates/4980099",
       "title": "Free Game Templates",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4980118:1",
-      "url": "https://devforum.roblox.com/t/zcheat-%E2%80%94-a-simple-but-powerful-anti-exploit/4980118",
-      "title": "ZCheat — A simple but powerful anti-exploit",
       "source": "roblox-devforum-latest",
       "published": "2026-11-07",
       "kind": "devforum",
@@ -4231,19 +4243,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xq54kf",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq54kf/starbound_space_rpg/",
-      "title": "starbound: space rpg",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [
-        "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqi07e",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqi07e/looking_for_investors_for_an_upcoming_roblox/",
       "title": "Looking for investors for an upcoming Roblox Elden Ring replica (dev is NOT me but a close friend)",
@@ -4894,36 +4893,16 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4979627:1",
-      "url": "https://devforum.roblox.com/t/experience-content-not-accessible-for-all-region-bug/4979627",
-      "title": "Experience Content not accessible for all region bug",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4979693:1",
-      "url": "https://devforum.roblox.com/t/getting-a-copyright-warning-with-no-reason-provided-whatsoever/4979693",
-      "title": "Getting a copyright Warning with no reason provided whatsoever",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981155:1",
-      "url": "https://devforum.roblox.com/t/my-groups-have-been-locked-for-over-a-month-after-my-account-was-restored-please-help/4981155",
-      "title": "My groups have been locked for over a month after my account was restored. Please help",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-07",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xuutew",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuutew/what_makes_a_roblox_game_worth_coming_back_to/",
+      "title": "What makes a Roblox game worth coming back to with friends?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-13",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6203,12 +6182,23 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xq6ot7",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq6ot7/why_is_requirement_still_250/",
-      "title": "Why is requirement still 250?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
+      "key": "devforum:4988733:1",
+      "url": "https://devforum.roblox.com/t/error-rbxassethash/4988733",
+      "title": "Error: rbxassethash",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4988734:1",
+      "url": "https://devforum.roblox.com/t/community-wikis/4988734",
+      "title": "Community Wikis",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -6239,17 +6229,6 @@
       "key": "reddit:1xqcqv5",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqcqv5/do_i_need_roblox_plus_to_publish_a_game/",
       "title": "Do I need Roblox plus to publish a game?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-07",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqjhyx",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqjhyx/check_out_a_game_i_made/",
-      "title": "Check out a game I made!",
       "source": "reddit-robloxdev",
       "published": "2026-11-07",
       "kind": "reddit",
@@ -7286,6 +7265,17 @@
       "title": "Open-world age of sail game.",
       "source": "reddit-robloxdev",
       "published": "2026-11-12",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xutwkm",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutwkm/falcon_mechanic_finally_working/",
+      "title": "Falcon Mechanic Finally Working!!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-13",
       "kind": "reddit",
       "signals": [],
       "score": 2,

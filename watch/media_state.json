@@ -3610,9 +3610,101 @@
     "be36a3b46685b66f837e423d",
     "eff23c5b206196e7ce89b5df",
     "d943fbb23955a4afb0338f87",
-    "19fe142c45fcb65a5d81da42"
+    "19fe142c45fcb65a5d81da42",
+    "b24a03b724d4480bfa3ed729",
+    "c55749dc25e820918022344e",
+    "deef4e376d795c155bdfa863",
+    "41534a07ae1b69125de48d31",
+    "6a55feea6148888940369321",
+    "0d140efb153b29581dfcf746",
+    "0d67f05bbf6cdf1e09ccfdb0",
+    "343cae1137b54317ba072e01",
+    "c65e3c414f5cc2bb0a5c754d",
+    "62f7bd85c1d684ba62edb844",
+    "4368b6951442cac34f33a4ec"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Community Wikis",
+      "url": "https://devforum.roblox.com/t/community-wikis/4988734",
+      "published": "2026-11-13",
+      "excerpt": "Community Wikis would be great for games and organized communities (clans, roleplay, etc.) that have a lot of depth and information to share. A lot of communities already host wikis on off-site platforms which are hard to link out to. It would be great, I can see myself dropping an update log and ha",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/community-wikis/4988734.rss",
+      "id": "deef4e376d795c155bdfa863"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Falcon Mechanic Finally Working!!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutwkm/falcon_mechanic_finally_working/",
+      "published": "2026-11-13",
+      "excerpt": "It took me genuinely forever to figure this out and it’s still mediocre. carcasses kept disappearing after the timer instead of the falcons appearing over it. even when they eventually did, they didn’t move. if you have any ideas on how i could make this smoother/ better let me know! submitted by /u",
+      "creator": "/u/celothadev https://www.reddit.com/user/celothadev",
+      "id": "c65e3c414f5cc2bb0a5c754d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Am i supposed to be able to reply here? /t/about-the-luau-category",
+      "url": "https://devforum.roblox.com/t/am-i-supposed-to-be-able-to-reply-here-tabout-the-luau-category/4988748",
+      "published": "2026-11-13",
+      "excerpt": "Uhhh yeah idk if i should be able to About the Luau Category Luau Very useful category, but I don’t think that I should be able to reply here, do I? And idk how to exactly frame it in a bug report, so I guess me replying here would be the best bug report. Page URL: https://devforum.roblox.com/t/abou",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/am-i-supposed-to-be-able-to-reply-here-tabout-the-luau-category/4988748.rss",
+      "id": "c55749dc25e820918022344e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Players being placed into newly created servers despite available servers with open slots",
+      "url": "https://devforum.roblox.com/t/players-being-placed-into-newly-created-servers-despite-available-servers-with-open-slots/4988753",
+      "published": "2026-11-13",
+      "excerpt": "As of recently, we’ve been experiencing an issue with Roblox’s server allocation/matchmaking where players are being placed into newly created, completely empty servers despite there being plenty of existing servers with available player slots. This is particularly problematic as it unnecessarily sp",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/players-being-placed-into-newly-created-servers-despite-available-servers-with-open-slots/4988753.rss",
+      "id": "b24a03b724d4480bfa3ed729"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Please help me build OLCX tracks!",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutvhb/please_help_me_build_olcx_tracks/",
+      "published": "2026-11-13",
+      "excerpt": "Greetings people of roblox, I am the founder of the roblox transit agency Stemet. and we need your help, we are working on making a city game oak land city, however we need help with our Light rail sercive, OLCX. (Oak land city express.) We need developers to make tracks with colsion groups, and hel",
+      "creator": "/u/Best_Eye5117 https://www.reddit.com/user/Best_Eye5117",
+      "id": "62f7bd85c1d684ba62edb844"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Error: rbxassethash",
+      "url": "https://devforum.roblox.com/t/error-rbxassethash/4988733",
+      "published": "2026-11-13",
+      "excerpt": "I’m not necessarily sure if this is a bug, but it started happening out of nowhere. Due to a lack of information, I decided to censor the ID that appears. But just in case, the IDs are random, like “sh4jxma4oc90fmasdif09weqk…”. I’d like to know how to identify the assets causing this, since I have n",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/error-rbxassethash/4988733.rss",
+      "id": "41534a07ae1b69125de48d31"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "We are building a real alternative to Roblox Commissions",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuunl4/we_are_building_a_real_alternative_to_roblox/",
+      "published": "2026-11-13",
+      "excerpt": "Hi, we have been working for about 2 years on https://ventura-dev.com to create a real way for Developers and Talent in Roblox to create a reputation and get paid safely, instead of a Discord bot where spam posting provides the most benefit. We tried a different way, building a site where you can cr",
+      "creator": "/u/Ventura-Dev https://www.reddit.com/user/Ventura-Dev",
+      "id": "343cae1137b54317ba072e01"
+    },
     {
       "source": "brock-ig-reels",
       "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
@@ -3624,6 +3716,28 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "19fe142c45fcb65a5d81da42"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "Are HEP ads still worth it?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuutd6/are_hep_ads_still_worth_it/",
+      "published": "2026-11-13",
+      "excerpt": "I've released a new game about 2 days ago. Put on $12 a day, $18.20 has been used in total at the moment and I've only gotten 5 Highly Engaged Players (CTR is pretty bad at 1.6% but still). The ads claim to have 355 clicks and 54 plays atm although I know these numbers can run behind. Any advice? su",
+      "creator": "/u/FridgeCrunchHead https://www.reddit.com/user/FridgeCrunchHead",
+      "id": "0d67f05bbf6cdf1e09ccfdb0"
+    },
+    {
+      "source": "reddit-robloxdev",
+      "label": "Reddit r/robloxgamedev public RSS",
+      "category": "community",
+      "title": "What makes a Roblox game worth coming back to with friends?",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuutew/what_makes_a_roblox_game_worth_coming_back_to/",
+      "published": "2026-11-13",
+      "excerpt": "Having room for four players isn’t the same as giving all four something fun to do. Shared goals, easy rejoining, and letting new players catch up can make a big difference. What’s one thing a Roblox game does that makes your group want to play together again? Which game gets it right? submitted by ",
+      "creator": "/u/Dorohedoro_man https://www.reddit.com/user/Dorohedoro_man",
+      "id": "0d140efb153b29581dfcf746"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4276,6 +4390,18 @@
       "excerpt": "I haven't ever made a game that's without only free models. I want to start making a FNAF style Roblox game (without AI) Where do I start on learning how to make a game? Do I start with learning how to code, use blender, making/finding decent textures, making the Map or writing down the voice lines/",
       "creator": "/u/Krispynegro https://www.reddit.com/user/Krispynegro",
       "id": "6b0af1ba345b5437ece29f12"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How can i fix this issue with my ragdoll falling very slowly2",
+      "url": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly2/4988679",
+      "published": "2026-11-12",
+      "excerpt": "heres whats happening in my ragdoll solutions ive been trying to do is make the base parts in the ragdoll ownership nil, making the Root part massless when the ragdoll is cloned, making workspace physicssteppingmethod to adaptive, none of these helped my issue and also my place is a big open world g",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly2/4988679.rss",
+      "id": "6a55feea6148888940369321"
     },
     {
       "source": "roblox-devforum-latest",
@@ -6855,7 +6981,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 63 posts - 48 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 64 posts - 48 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10429,121 +10555,6 @@
       "excerpt": "Hello,i wont share any personal information but i have an game,its called the maze and i wanted people to help me build it cuz i cant do it alone,before you ask yes i used ai in some parts of the game,i know its wrong i regret it and im looking foward to change it If you want anything join the disco",
       "creator": "/u/heyoomyguts https://www.reddit.com/user/heyoomyguts",
       "id": "d70716cf8b1848802df4d73b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Experience Content not accessible for all region bug",
-      "url": "https://devforum.roblox.com/t/experience-content-not-accessible-for-all-region-bug/4979627",
-      "published": "2026-11-07",
-      "excerpt": "My game despite being all ages is not able to be played in all regions. I had this issue early on when publishing and it had only a 16+, but now still in all ages having many people in other countries unable to play. Here is what some people in other regions are seeing when attempting to play the ga",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/experience-content-not-accessible-for-all-region-bug/4979627.rss",
-      "id": "d5fd075ca54d81de22ba43de"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I just created a game called \"Be a Pet\"",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqc3q9/i_just_created_a_game_called_be_a_pet/",
-      "published": "2026-11-07",
-      "excerpt": "Good Morning yall, I just released a game called Be a Pet where players can become a pet! To all you seasoned devs I would love advice and recommendations I can implement into my game to make it more interesting and get players. Also I would love advice on how to utilize ads to its fullest extent. g",
-      "creator": "/u/passionatedeveloper1 https://www.reddit.com/user/passionatedeveloper1",
-      "id": "d3e492a1ab93fb06fc7dc06a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Please Give me Advice or Help!!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpu3d9/please_give_me_advice_or_help/",
-      "published": "2026-11-07",
-      "excerpt": "I recently made my game public how can I get players to play the game im trying youtube but i got 0 luck there too it's currently for 16+ ages, i don't have money neither i can afford to buy the 1000 kids engagement refundable payment, Im 17 and currently living in a very bad financial condition Im ",
-      "creator": "/u/terminator38roblox https://www.reddit.com/user/terminator38roblox",
-      "id": "d294c26fad637a2a1fea57c1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Getting a copyright Warning with no reason provided whatsoever",
-      "url": "https://devforum.roblox.com/t/getting-a-copyright-warning-with-no-reason-provided-whatsoever/4979693",
-      "published": "2026-11-07",
-      "excerpt": "I don’t see what exact Asset/Items or Things I created that are Trademarked Ok thats fine… lets check “View more” there must be the info needed No more details available… Then how AM I supposed to APPEAL this without KNOWING WHAT caused this DUDE GIVE ME A REASON What can I do? just appeal without k",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/getting-a-copyright-warning-with-no-reason-provided-whatsoever/4979693.rss",
-      "id": "d10e0744d6089053c8f98391"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "ZCheat — A simple but powerful anti-exploit",
-      "url": "https://devforum.roblox.com/t/zcheat-%E2%80%94-a-simple-but-powerful-anti-exploit/4980118",
-      "published": "2026-11-07",
-      "excerpt": "This should be a localscript in ReplicatedFirst. set the name to nothing, litterally just “”, not even a space. --make script hide script.Parent = nil getfenv().script = nil if game.RunService:IsStudio() then return end --dodgy services services = { \"UGCValidationService\\000\", \"WebSocketService\\000\"",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/zcheat-%E2%80%94-a-simple-but-powerful-anti-exploit/4980118.rss",
-      "id": "d0a9d7551c2d329822d160a3"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Check out a game I made!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqjhyx/check_out_a_game_i_made/",
-      "published": "2026-11-07",
-      "excerpt": "Finished up a new game. Check it out. Made it for my kids so they could just kinda play around with special permissions. Let me know if it’s something that could actually make money. This isn’t an advertisement. I just want to know if this game sucks lol. submitted by /u/Old_Collection_6197 [link] [",
-      "creator": "/u/Old_Collection_6197 https://www.reddit.com/user/Old_Collection_6197",
-      "id": "d0960570da825f3aa5a6d488"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My groups have been locked for over a month after my account was restored. Please help",
-      "url": "https://devforum.roblox.com/t/my-groups-have-been-locked-for-over-a-month-after-my-account-was-restored-please-help/4981155",
-      "published": "2026-11-07",
-      "excerpt": "My account sleepr97 was terminated on October 2 following a copyright claim. It was restored within 24 hours, but all my groups stayed locked. On October 23, the copyright team reviewed the claim again, confirmed it was invalid, and restored my game. I replied explaining that the group was still loc",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-groups-have-been-locked-for-over-a-month-after-my-account-was-restored-please-help/4981155.rss",
-      "id": "ce9857c8a81707bb192a558a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "starbound: space rpg",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq54kf/starbound_space_rpg/",
-      "published": "2026-11-07",
-      "excerpt": "long time in the works, with seamless surface to surface transition without any loading screens. three loops: defence contracts, hauling and asteroid mining, with fully functional economies and just a load of things to do! try it; starbound on roblox submitted by /u/DenseSwimming4470 [link] [comment",
-      "creator": "/u/DenseSwimming4470 https://www.reddit.com/user/DenseSwimming4470",
-      "id": "cc62f45757f92d880f125fc0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Experience Ads Suddenly Stop Bringing Players Despite Campaigns Remaining Active",
-      "url": "https://devforum.roblox.com/t/experience-ads-suddenly-stop-bringing-players-despite-campaigns-remaining-active/4981346",
-      "published": "2026-11-07",
-      "excerpt": "Today, November 7, 2026, my experience suddenly stopped getting players from ads within just a few minutes. Everything was working normally, and players were joining through Experience Ads until the traffic suddenly dropped to almost nothing. The game eventually reached 0 concurrent players. The wei",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/experience-ads-suddenly-stop-bringing-players-despite-campaigns-remaining-active/4981346.rss",
-      "id": "cb3c055847e38a4812a7fff5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Why is requirement still 250?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xq6ot7/why_is_requirement_still_250/",
-      "published": "2026-11-07",
-      "excerpt": "Wasn't there update and it should be 100? I saw on social medias people have 100 already submitted by /u/Dismal-Evening1527 [link] [comments]",
-      "creator": "/u/Dismal-Evening1527 https://www.reddit.com/user/Dismal-Evening1527",
-      "id": "c94687b62c97e808069d3810"
     }
   ]
 }

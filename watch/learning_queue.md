@@ -6,11 +6,11 @@ Active game: **Colonists**.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 596; fully reviewed: 0.
+Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 314
+- devforum: 313
 - index-only: 14
 - reddit: 264
 - youtube: 4
