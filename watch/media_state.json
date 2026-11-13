@@ -3644,7 +3644,10 @@
     "715bb62c5d6499524c649232",
     "184fa57c15f989aa9df47b73",
     "9cf342eee06158957716d1e0",
-    "6a49d195b7ad6b1e3dfa5945"
+    "6a49d195b7ad6b1e3dfa5945",
+    "74c540732fd973759e3df3c6",
+    "b6ffe1c82254ec187206fb9d",
+    "bba6f252315e2171f61140bb"
   ],
   "items": [
     {
@@ -3706,6 +3709,17 @@
       "id": "c14e419e0085247740eae08f"
     },
     {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
+      "title": "I need help about scripting",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuz5em/i_need_help_about_scripting/",
+      "published": "2026-11-13",
+      "excerpt": "I want to know more than just building, i dont really know to script in roblox studio even though i know scripting a bit. Are there any sources that can help me know better? submitted by /u/Dry_Yesterday5397 [link] [comments]",
+      "creator": "/u/Dry_Yesterday5397 https://www.reddit.com/user/Dry_Yesterday5397",
+      "id": "b6ffe1c82254ec187206fb9d"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -3761,6 +3775,18 @@
       "excerpt": "Hello, I'm working on 2 games I plan on releasing. One is a rhythm game (inspired by Friday night funkin'.) The other is an animation game. I have a discord that is gonna soon be a community discord that people can join and for any devs to join too. I have a forum you can apply for since I rarely op",
       "creator": "/u/LookingForAnswers619 https://www.reddit.com/user/LookingForAnswers619",
       "id": "92c18c9a8614dac32abee833"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback; should I move to blender?",
+      "url": "https://devforum.roblox.com/t/feedback-should-i-move-to-blender/4988889",
+      "published": "2026-11-13",
+      "excerpt": "something ive been realizing stupidly late is that roblox partbuilding limitations are really starting to get to me and im getting to the threshold of questioning if studio is actually holding me back. ive always stuck with studio because it was fairly easy and accessible because im not the greatest",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-should-i-move-to-blender/4988889.rss",
+      "id": "74c540732fd973759e3df3c6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10559,28 +10585,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/free-game-templates/4980099.rss",
       "id": "fb00022b104b4d3bc794ade1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made an egg slop game, but it's unique.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xpxwnl/i_made_an_egg_slop_game_but_its_unique/",
-      "published": "2026-11-07",
-      "excerpt": "First actually finished game I have made. Would love to share it with a few more people. custom pets. No recycled pet pack used. Custom weather events Gameplay is a bit more interactive than other games in the same category. submitted by /u/Practical-Store1115 [link] [comments]",
-      "creator": "/u/Practical-Store1115 https://www.reddit.com/user/Practical-Store1115",
-      "id": "f9565d06d4654ac430dd4403"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is Gemini good AI to HELP with development?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqcgqy/is_gemini_good_ai_to_help_with_development/",
-      "published": "2026-11-07",
-      "excerpt": "How good/bad is Gemini compared to Claude? I only see people using Claude, but what about Gemini? submitted by /u/_vojtech_moravec_ [link] [comments]",
-      "creator": "/u/_vojtech_moravec_ https://www.reddit.com/user/_vojtech_moravec_",
-      "id": "f9472f58044593d229baac0c"
     }
   ]
 }

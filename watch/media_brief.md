@@ -5,21 +5,20 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Steal An Egg
+
+- **[Only Today for players with Brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cUxIOFhJMVZETWYweWcxeVVrS216bnc5MGVRdG85dkw2SEhNcXBORjJnZ3FWWlN4cG5wbjhNd3ppbTdqZW9ELXZ1eFRBTmZsUkROc29R?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-01
+  - Feed excerpt: Only Today for players with Brockodile in Steal an egg #roblox #robloxfyp #stealanegg Instagram
+
 ## Community
 
-- **[Finally got some models! Feedback Welcome](https://www.reddit.com/r/ROBLOXStudio/comments/1xuxpu6/finally_got_some_models_feedback_welcome/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-13
-  - Feed excerpt: Finally started to dabble in blender some more to get some assets for the map ive been working on! this is what ive got so far for what im wanting i plan on adding a few more things before i import but so far so good i think! submitted by /
-- **[Skybox that took way too long to make](https://www.reddit.com/r/ROBLOXStudio/comments/1xuyajl/skybox_that_took_way_too_long_to_make/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-13
-  - Feed excerpt: Really proud how it came out but holy Im never making an outerspace skybox ever again. submitted by /u/Commercial_Bet8331 \[link\] \[comments\]
-- **[stuff I made for my game I'm making: DURNOBULIS](https://www.reddit.com/r/ROBLOXStudio/comments/1xuxlsb/stuff_i_made_for_my_game_im_making_durnobulis/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-13
-  - Feed excerpt: THIS GAME IS NOT AN ASYM! It's inspired by Doors (randomized sections), Dandy's World (Long, indefinite runs), Forsaken/Die of Death (Character designs have slight inspiration, such as Frutigal and Dominic), the Backrooms (Aspects of the lo
+- **[I need help about scripting](https://www.reddit.com/r/ROBLOXStudio/comments/1xuz5em/i_need_help_about_scripting/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-13
+  - Feed excerpt: I want to know more than just building, i dont really know to script in roblox studio even though i know scripting a bit. Are there any sources that can help me know better? submitted by /u/Dry_Yesterday5397 \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Advanced Tab to Equip Accessories is Missing but is There on Other and Friends Accounts](https://devforum.roblox.com/t/advanced-tab-to-equip-accessories-is-missing-but-is-there-on-other-and-friends-accounts/4988857)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: I went to equip a few hairs at once as one does, and I could not. I looked for the advanced tab and it is gone. There is no way for me to do this anymore. This works on other accounts though and is completely functional. What its like for m
-- **[InputBinding not working with controller](https://devforum.roblox.com/t/inputbinding-not-working-with-controller/4988867)** · Roblox Developer Forum latest · 2026-11-13
-  - Feed excerpt: I have an InputAction set up for a double jump mechanic. It has one binding for spacebar, and another for ButtonA (on a gamepad). This setup works just fine on PC with a keyboard; pressing spacebar will fire the Pressed event of the InputBi
+- **[Feedback; should I move to blender?](https://devforum.roblox.com/t/feedback-should-i-move-to-blender/4988889)** · Roblox Developer Forum latest · 2026-11-13
+  - Feed excerpt: something ive been realizing stupidly late is that roblox partbuilding limitations are really starting to get to me and im getting to the threshold of questioning if studio is actually holding me back. ive always stuck with studio because i
 
 ---
 
