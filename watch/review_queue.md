@@ -6,7 +6,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
-- **[Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not](https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580)** — Public text/page, video not confirmed
+- **[Should I Use AlyaNum From the Start in My Simulator Game?](https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964)** — Public text/page, video not confirmed
 - **[Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejecte](https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects

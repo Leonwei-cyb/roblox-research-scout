@@ -982,6 +982,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988964:1",
+      "url": "https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964",
+      "title": "Should I Use AlyaNum From the Start in My Simulator Game?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "genres and successful loops"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4989031:1",
+      "url": "https://devforum.roblox.com/t/feedback-on-new-game/4989031",
+      "title": "Feedback On new game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xqtr00",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqtr00/my_pixel_graphic_game_ui/",
       "title": "My pixel graphic game UI",
@@ -2177,6 +2205,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988985:1",
+      "url": "https://devforum.roblox.com/t/expedited-review-taking-3-weeks-review-for-all-ages/4988985",
+      "title": "Expedited review taking 3 weeks review for all ages",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xqptot",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqptot/how_to_reach_highly_engaged_player_250_count/",
       "title": "How to reach highly engaged player 250 count?",
@@ -3156,20 +3197,6 @@
       "kind": "reddit",
       "signals": [
         "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqwd7f",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqwd7f/how_do_you_balance_progression_when_your_zone/",
-      "title": "How do you balance progression when your zone multipliers keep making the late game too easy?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
         "player feedback and marketing"
       ],
       "score": 4,
@@ -5055,31 +5082,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4982855:1",
-      "url": "https://devforum.roblox.com/t/is-there-a-specific-api-to-retrieve-voting-information-for-game-passes/4982855",
-      "title": "Is there a specific API to retrieve voting information for game passes?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4982893:1",
       "url": "https://devforum.roblox.com/t/game-pass-vote-counts-cant-be-read-without-scraping-the-website/4982893",
       "title": "Game pass vote counts can't be read without scraping the website",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983121:1",
-      "url": "https://devforum.roblox.com/t/ambient-wind-noises-get-instantly-moderated-upon-uploading/4983121",
-      "title": "Ambient wind noises get instantly moderated upon uploading",
       "source": "roblox-devforum-latest",
       "published": "2026-11-08",
       "kind": "devforum",
@@ -5124,17 +5129,6 @@
       "key": "devforum:4983225:1",
       "url": "https://devforum.roblox.com/t/kids-select-publishing-fee-on-community-games-with-zero-group-funds/4983225",
       "title": "Kids & Select Publishing Fee on Community Games with ZERO GROUP FUNDS",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983234:1",
-      "url": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234",
-      "title": "Paying 50k all ages fee questions",
       "source": "roblox-devforum-latest",
       "published": "2026-11-08",
       "kind": "devforum",
@@ -6166,6 +6160,28 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4988971:1",
+      "url": "https://devforum.roblox.com/t/bug-report-%E2%80%93-possible-issue-with-roblox-dpo-email-communication/4988971",
+      "title": "Bug Report – Possible Issue with Roblox DPO Email Communication",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4989008:1",
+      "url": "https://devforum.roblox.com/t/asset-delivery-api-falsely-marked-not-recommended/4989008",
+      "title": "Asset-delivery-api falsely marked not recommended",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-13",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xqmi7v",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqmi7v/would_you_click_on_this/",
       "title": "would you click on this",
@@ -6335,17 +6351,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xr13uy/looking_for_investor/",
       "title": "Looking for investor",
       "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xr1bez",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr1bez/why_i_cant_open_my_roblox_game/",
-      "title": "why i cant open my roblox game?",
-      "source": "reddit-robloxstudio",
       "published": "2026-11-08",
       "kind": "reddit",
       "signals": [],
@@ -7266,6 +7271,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xv2c1m",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xv2c1m/hows_my_mount_system/",
+      "title": "Hows my Mount system?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-13",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE00MHlpeE5NemFjTEQ2QkQzdEVWU0o2Mm13M2M0QTBaeFFWODZpaVFYYXVIeWpDSHV0V1VTalNEMlA4NnZESGVsQXV5a2NJVHB4cG1uUi1B",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MHlpeE5NemFjTEQ2QkQzdEVWU0o2Mm13M2M0QTBaeFFWODZpaVFYYXVIeWpDSHV0V1VTalNEMlA4NnZESGVsQXV5a2NJVHB4cG1uUi1B?oc=5",
       "title": "Owner of Steal an Egg #stealanegg #roblox #robloxfyp #stealabrainrot #fyp - Instagram",
@@ -7403,17 +7419,6 @@
       "signals": [
         "genres and successful loops"
       ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0JKVGNySmVBVFJpMkdETmFkZ09NaHBwVFYwOGFWWmFXZVlfSkRIMVZ1WlFGSFkyVHlDVUNST0ZZYlJ0VUlXWHhzaHZyclhoN25yOWN3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0JKVGNySmVBVFJpMkdETmFkZ09NaHBwVFYwOGFWWmFXZVlfSkRIMVZ1WlFGSFkyVHlDVUNST0ZZYlJ0VUlXWHhzaHZyclhoN25yOWN3?oc=5",
-      "title": "Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-11-08",
-      "kind": "index-only",
-      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

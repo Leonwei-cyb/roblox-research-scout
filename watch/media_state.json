@@ -3650,7 +3650,13 @@
     "bba6f252315e2171f61140bb",
     "afc064c255693bdb82263b10",
     "7a49f793e40ea951af06050e",
-    "17b95e51280a701691a59b40"
+    "17b95e51280a701691a59b40",
+    "8863a65e8453620dc10330d1",
+    "8dcf5e37886f89c6c58b17d5",
+    "1b6a1f388e56e0aa76ef9d99",
+    "7dd7fa2e540a13579fdae737",
+    "2675dfd0db10b1f0e1b2788f",
+    "93a9761a482bbd744c80fe4a"
   ],
   "items": [
     {
@@ -3784,12 +3790,59 @@
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
+      "title": "Hows my Mount system?",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xv2c1m/hows_my_mount_system/",
+      "published": "2026-11-13",
+      "excerpt": "There are 3 more types of mountables here ^-^. You can message me if you want it (Paid) submitted by /u/DevXyvan [link] [comments]",
+      "creator": "/u/DevXyvan https://www.reddit.com/user/DevXyvan",
+      "id": "93a9761a482bbd744c80fe4a"
+    },
+    {
+      "source": "reddit-robloxstudio",
+      "label": "Reddit r/ROBLOXStudio public RSS",
+      "category": "community",
       "title": "Hiring scripters, modelers, moderators, and maybe animators forum",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xutnny/hiring_scripters_modelers_moderators_and_maybe/",
       "published": "2026-11-13",
       "excerpt": "Hello, I'm working on 2 games I plan on releasing. One is a rhythm game (inspired by Friday night funkin'.) The other is an animation game. I have a discord that is gonna soon be a community discord that people can join and for any devs to join too. I have a forum you can apply for since I rarely op",
       "creator": "/u/LookingForAnswers619 https://www.reddit.com/user/LookingForAnswers619",
       "id": "92c18c9a8614dac32abee833"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Asset-delivery-api falsely marked not recommended",
+      "url": "https://devforum.roblox.com/t/asset-delivery-api-falsely-marked-not-recommended/4989008",
+      "published": "2026-11-13",
+      "excerpt": "The endpoint apis.roblox.com/asset-delivery-api/v1/assetId/{assetId} to get an asset is falsely marked not recommended, with the alternative being marked as itself. See: The description explicitly names to stop using assetdelivery.roblox.com/v1/openCloud/assetId/{assetId} (the old, cookie auth based",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/asset-delivery-api-falsely-marked-not-recommended/4989008.rss",
+      "id": "8dcf5e37886f89c6c58b17d5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Feedback On new game",
+      "url": "https://devforum.roblox.com/t/feedback-on-new-game/4989031",
+      "published": "2026-11-13",
+      "excerpt": "**Hey I’d like some feedback regarding my new game “My Cake Store”. I’m open to all criticism so the game can be improved further. Please feel free to share any new ideas as well. ** Roblox My Cake Store 🎂 Welcome to My Cake Store! 🎂 Run your very own cake shop and bake your way to the top! 🍰 DESIGN",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-new-game/4989031.rss",
+      "id": "8863a65e8453620dc10330d1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Bug Report – Possible Issue with Roblox DPO Email Communication",
+      "url": "https://devforum.roblox.com/t/bug-report-%E2%80%93-possible-issue-with-roblox-dpo-email-communication/4988971",
+      "published": "2026-11-13",
+      "excerpt": "Description: The email address listed in Roblox’s Privacy Policy for contacting its Data Protection Officer in Europe is: “ roblox@dp-officer.com ” I have noticed that emails sent directly to this address do not appear to receive a response. However, when DP-Dock DPO Services at service@dp-dock.com ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/bug-report-%E2%80%93-possible-issue-with-roblox-dpo-email-communication/4988971.rss",
+      "id": "7dd7fa2e540a13579fdae737"
     },
     {
       "source": "roblox-devforum-latest",
@@ -3919,6 +3972,18 @@
       "id": "343cae1137b54317ba072e01"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Should I Use AlyaNum From the Start in My Simulator Game?",
+      "url": "https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964",
+      "published": "2026-11-13",
+      "excerpt": "Would it make sense to use a big number library like AlyaNum from the very beginning when developing a simulator game where numbers can eventually grow very large? I’m planning to maintain the game long-term, and I don’t intend to introduce additional currencies for progression resets, unlike Pet Si",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964.rss",
+      "id": "2675dfd0db10b1f0e1b2788f"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -3939,6 +4004,18 @@
       "excerpt": "Hey all, I would love to get input from regular Roblox players on the game experience I've launched this week. I am an avid multiplayer gamer and game developer - doing a Roblox game as a learning experience for me as well as a way to connect with my kiddo. Feedback desired: How does the pace of the",
       "creator": "/u/bardic_ https://www.reddit.com/user/bardic_",
       "id": "1dd8099f837703fb3327626c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Expedited review taking 3 weeks review for all ages",
+      "url": "https://devforum.roblox.com/t/expedited-review-taking-3-weeks-review-for-all-ages/4988985",
+      "published": "2026-11-13",
+      "excerpt": "On the 28th of October I paid the 50,000 robux publishing fee to expedite the games review as it advertises that it takes up to 48h. I had my partner transfer me the games group before finalizing some changes, we did the games ratings etc before publishing and making the game public. I had then paid",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/expedited-review-taking-3-weeks-review-for-all-ages/4988985.rss",
+      "id": "1b6a1f388e56e0aa76ef9d99"
     },
     {
       "source": "brock-ig-reels",
@@ -7293,7 +7370,7 @@
       "title": "Release Notes for 747",
       "url": "https://devforum.roblox.com/t/release-notes-for-747/4985911",
       "published": "2026-11-10",
-      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 65 posts - 49 participants Read full topic",
+      "excerpt": "Hey creators! Studio 747 has landed… no pun intended related to the long-running 747 aircraft. Here’s the details… create.roblox.com Introduced in version 747 | Documentation - Roblox Creator Hub Release Notes for Roblox Studio Version 747 IgnisRBX 64 posts - 48 participants Read full topic",
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/release-notes-for-747/4985911.rss",
       "id": "66351ff2d6e595222061c710"
@@ -10518,76 +10595,6 @@
       "excerpt": "I want to try making some games on roblox but when I tried the Learn tab on the offical Roblox Studio website, there's so many information linked to each other so I'm kinda overwhelmed. Do I have to just deal with that or there's a better way to learn the basic. submitted by /u/Ok-Canary9874 [link] ",
       "creator": "/u/Ok-Canary9874 https://www.reddit.com/user/Ok-Canary9874",
       "id": "0b691c5df5776a3534277781"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Is there a specific API to retrieve voting information for game passes?",
-      "url": "https://devforum.roblox.com/t/is-there-a-specific-api-to-retrieve-voting-information-for-game-passes/4982855",
-      "published": "2026-11-08",
-      "excerpt": "Hi everyone, I’m trying to find an API endpoint which returns voting information (upvotes and downvotes) for a specific game pass, but cannot find one so far. For example, going to https://www.roblox.com/game-pass/1057151/Excellent-Employee returns that it has over 65,000 upvotes and 5,000 downvotes",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/is-there-a-specific-api-to-retrieve-voting-information-for-game-passes/4982855.rss",
-      "id": "0607e3ebd35b6b6e3459bf1a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How do you balance progression when your zone multipliers keep making the late game too easy?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqwd7f/how_do_you_balance_progression_when_your_zone/",
-      "published": "2026-11-08",
-      "excerpt": "We are building a voxel Roblox game about sweeping Martian dust, and our zone value multipliers made the late game feel far too easy during playtests. We cut the multipliers and halved some upgrade gains, but I am unsure how long a good progression should take before players hit the end. How do you ",
-      "creator": "/u/BeneficialDig33 https://www.reddit.com/user/BeneficialDig33",
-      "id": "0501ce434a576b9335c710a8"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Paying 50k all ages fee questions",
-      "url": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234",
-      "published": "2026-11-08",
-      "excerpt": "I have 2 questions regarding this: I have paid so far for 3 games the 50k fee. But If the fee changes in the future and I go to refund, do I get my 50k back or the new (probably lower fee)) What if group owner changes?? Who gets it back? the person who paid, the group owner, or the group?? 3 posts -",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/paying-50k-all-ages-fee-questions/4983234.rss",
-      "id": "01e8e4ee7d27943d851712e0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Ambient wind noises get instantly moderated upon uploading",
-      "url": "https://devforum.roblox.com/t/ambient-wind-noises-get-instantly-moderated-upon-uploading/4983121",
-      "published": "2026-11-08",
-      "excerpt": "I’m uploading basic wind noises. As soon as it gets uploaded and I go to the asset page, it shows this. I’ve tried uploading it twice now. Page URL: https://create.roblox.com/dashboard/creations/store/87957175793068 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/ambient-wind-noises-get-instantly-moderated-upon-uploading/4983121.rss",
-      "id": "01b99c664cbdf573671af32e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "why i cant open my roblox game?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr1bez/why_i_cant_open_my_roblox_game/",
-      "published": "2026-11-08",
-      "excerpt": "i just wanted to edit my roblox game and this is what it shows https://preview.redd.it/egaapjhgse0i1.png?width=1920&format=png&auto=webp&s=10ef6ab70649df4fcd215f63566ebba78ae1ca62 guys pls help me submitted by /u/Alert_Slide_8593 [link] [comments]",
-      "creator": "/u/Alert_Slide_8593 https://www.reddit.com/user/Alert_Slide_8593",
-      "id": "01b959fe23e9006efb2f47b7"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKQ0JKVGNySmVBVFJpMkdETmFkZ09NaHBwVFYwOGFWWmFXZVlfSkRIMVZ1WlFGSFkyVHlDVUNST0ZZYlJ0VUlXWHhzaHZyclhoN25yOWN3?oc=5",
-      "published": "2026-11-08",
-      "excerpt": "Opening The Relic Gate #roblox #robloxfyp #stealanegg #stealaneggroblox Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "00a22e7686a0aaf05591aea3"
     }
   ]
 }
