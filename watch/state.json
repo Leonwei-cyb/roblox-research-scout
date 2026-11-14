@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "96a90e82994d30844f31d9e5b4c10d820a001082",
+      "head": "f1011887894ba0095fd052f6fd218dea8c1acc46",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.325",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "5632619189ab493c70bd3f9435214b8788cc1c80",
-      "head_subject": "Map disabled thinking to the models lowest supported level (#19684)",
+      "head": "a5864fcb33969705de3c0ebfedf4b2a16c970bcc",
+      "head_subject": "api: preserve unmodeled tool schema keywords (#19686)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",

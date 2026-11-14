@@ -6,6 +6,7 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 
 - **[\[Investor\] Entity: Original asym horror game seeking 10k R$/month for 15% revenue share (playtest before you invest)](https://www.reddit.com/r/ROBLOXStudio/comments/1xr4dus/investor_entity_original_asym_horror_game_seeking/)** — Community showcase post (video not confirmed) · 2026-11-08
 - **[\[Unpaid\] Looking for playtesters for our first game – an anti-gravity racer made by a dad and his kids](https://www.reddit.com/r/robloxgamedev/comments/1xqvtl4/unpaid_looking_for_playtesters_for_our_first_game/)** — Community showcase post (video not confirmed) · 2026-11-08
+- **[Looking for playtesters for my Roblox PVP game](https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/)** — Community showcase post (video not confirmed) · 2026-11-14
 - **[Hex Warfare - First Mission Demo Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/)** — Community showcase post (video not confirmed) · 2026-11-11
 - **[I wanted to create a movement demo for fun](https://www.reddit.com/r/robloxgamedev/comments/1xttn0f/i_wanted_to_create_a_movement_demo_for_fun/)** — Community showcase post (video not confirmed) · 2026-11-11
 - **[Where can i find some playtesters ? :3](https://www.reddit.com/r/ROBLOXStudio/comments/1xr1am2/where_can_i_find_some_playtesters_3/)** — Community showcase post (video not confirmed) · 2026-11-08

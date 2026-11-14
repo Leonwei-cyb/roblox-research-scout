@@ -6,7 +6,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
-- **[Should I Use AlyaNum From the Start in My Simulator Game?](https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964)** — Public text/page, video not confirmed
+- **[FIFA Meets Roblox? Introducing Supreme Soccer Tycoon](https://devforum.roblox.com/t/fifa-meets-roblox-introducing-supreme-soccer-tycoon/4990199)** — Public text/page, video not confirmed
 - **[Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejecte](https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
@@ -20,5 +20,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[MCP Feature requests - plugin methods and copy/paste between studio instances](https://devforum.roblox.com/t/mcp-feature-requests-plugin-methods-and-copypaste-between-studio-instances/4988381)** — Public text/page, video not confirmed
-- **[small open-source Luau framework](https://www.reddit.com/r/robloxgamedev/comments/1xvh92c/small_opensource_luau_framework/)** — Public text/page, video not confirmed
+- **[Looking for playtesters for my Roblox PVP game](https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Luau Modularity: export Values and Cyclic Requires](https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432)** — Public text/page, video not confirmed
