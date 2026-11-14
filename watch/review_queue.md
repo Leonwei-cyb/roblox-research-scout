@@ -6,7 +6,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Game loops / progression
 
-- **[FIFA Meets Roblox? Introducing Supreme Soccer Tycoon](https://devforum.roblox.com/t/fifa-meets-roblox-introducing-supreme-soccer-tycoon/4990199)** — Public text/page, video not confirmed
+- **[\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585)** — Public text/page, video not confirmed
 - **[Is the hate towards AI in games directed to the soulless clones of simulators, or would an original game made with the help of AI be less rejecte](https://www.reddit.com/r/robloxgamedev/comments/1xtia7s/is_the_hate_towards_ai_in_games_directed_to_the/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
@@ -15,7 +15,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## 3D / models / environments
 
-- **[\[FOR HIRE\] 5-6 yrs of Building and Modeling \| Polish & English](https://devforum.roblox.com/t/for-hire-5-6-yrs-of-building-and-modeling-polish-english/4988394)** — Public text/page, video not confirmed
+- **[Some Rigged Meshes Scaling up after exporting .gLTF from Blender](https://devforum.roblox.com/t/some-rigged-meshes-scaling-up-after-exporting-gltf-from-blender/4990395)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 

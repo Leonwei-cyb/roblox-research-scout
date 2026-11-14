@@ -5,59 +5,53 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
-
-- **[How To Connect ChatGPT To Roblox Studio - Full Guide - YouTube](https://news.google.com/rss/articles/CBMiYEFVX3lxTE85eEp2SVZQakg4c0NnbXZMekg4Q1hFQk5halp4V3NGV2dSeExLeGdYVmlCX2o2OUFMNVNhWS1FaXcyNWZadFFPNUhRLWVPY3NIZ283TEtpeWM2VjBXeG9TQg?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-03
-  - Feed excerpt: How To Connect ChatGPT To Roblox Studio - Full Guide YouTube
-
-## Roblox Creator / Steal An Egg
-
-- **[Only this night with sammy in Secret Admin in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FLVNKS0UyZngwWmJyNEdadnFWX1FjZHVJZVJjLVBPUGFONG1kS05NWTA5TWUwY3gzUEkwT2lTTFQzWmVNTG0zbWlMSzJJWTBaMmJtU2V3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-14
-  - Feed excerpt: Only this night with sammy in Secret Admin in Steal an egg #roblox #robloxfyp #stealanegg Instagram
-
 ## Community
 
-- **[Looking for playtesters for my Roblox PVP game](https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: Hey everyone! I've spent the last few months building Cash Rush PVP, and it's about 98% done (season 1 release). I'm making it to help pay for college, so I want it to be genuinely fun before it goes public, not just another cash grab. What
-- **[How do i improve my lobby?](https://www.reddit.com/r/robloxgamedev/comments/1xvvb88/how_do_i_improve_my_lobby/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: https://preview.redd.it/6lrrmm7mui1i1.png?width=1229&format=png&auto=webp&s=447a81f480c7843ea1e841e9a04fc4d9a52e021b My game is about repenting as a christian through trials inspired by the Backrooms and grace, any ideas? submitted by /u/Ko
-- **[Is it weird that my friends suddenly want to do what I'm doing after seeing me become successful?](https://www.reddit.com/r/robloxgamedev/comments/1xvv1cv/is_it_weird_that_my_friends_suddenly_want_to_do/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: I've been working on game development for quite some time now, mainly making games on Roblox and browser games. Recently, I've started seeing some success on both platforms, and I'm genuinely happy that my hard work is finally paying off. B
-- **[New game I made after months of work and i think its almost perfect](https://www.reddit.com/r/robloxgamedev/comments/1xvubw3/new_game_i_made_after_months_of_work_and_i_think/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: I would appreciate you guys helping me out with bug testing by submitting them under this post expect slight bugs as the game is in alpha and two people are not enough testers to find every bug. Please also tell me if you like it and maybe 
-- **[Roblox banned my dev account right after refunding me for fraud. Years of work locked, appeal denied.](https://www.reddit.com/r/robloxgamedev/comments/1xvrsm9/roblox_banned_my_dev_account_right_after/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: I’m a Roblox developer. On Nov 12 I opened my account and found 8.4K Robux I never bought. The transaction history showed I purchased them. 4 purchases $79.96 total within 30 seconds exactly 10 seconds apart, which is clearly a bot. My bank
-- **[Sneak peek at my own doors-inspired horror game!](https://www.reddit.com/r/robloxgamedev/comments/1xvt9r9/sneak_peek_at_my_own_doorsinspired_horror_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: been grinding for a couple months now, close to finishing 1.0! submitted by /u/shootboots_ \[link\] \[comments\]
-- **[Why is my game’s QPTR so low?](https://www.reddit.com/r/robloxgamedev/comments/1xvtily/why_is_my_games_qptr_so_low/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: Hi everyone, I’m trying to figure out why my game’s QPTR (Qualified Play Through Rate) is so low. Players who stick around seem to enjoy the gameplay, but the low QPTR keeps holding my games back. For thumbnails, I create renders in Blender
-- **[Why is my game’s QPTR so low?](https://www.reddit.com/r/robloxgamedev/comments/1xvtgnq/why_is_my_games_qptr_so_low/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: Hi everyone, I’m trying to figure out why my game’s QPTR is so low. Players who stick around seem to enjoy the gameplay, but the low QPTR keeps holding my games back. For thumbnails, I create renders in Blender and Roblox, then add effects 
+- **[How to release a demo?](https://www.reddit.com/r/robloxgamedev/comments/1xw2kb2/how_to_release_a_demo/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: Whats the best way to put out a demo without penalizing the actual release, i have somewhat of a playable loop but before investing anymore time in it i want to see what the community thinks. submitted by /u/Accomplished-Edge328 \[link\] \[com
+- **[Beginner dev here! What programming do I need to learn for a CoD x Ghost Recon style game?](https://www.reddit.com/r/robloxgamedev/comments/1xw0012/beginner_dev_here_what_programming_do_i_need_to/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: Hi everyone! I'm a complete beginner to Roblox game development, and I want to make a game based on my original story about a character named Barz. My goal is to mix the fast-paced, exhilarating gunplay of CoD: BO6 with the open-world tacti
+- **[I'm finally getting close to 250 HEP :)](https://www.reddit.com/r/robloxgamedev/comments/1xw2eb7/im_finally_getting_close_to_250_hep/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: I cant believe how easy it was. All I did was run a few bucks of play ads, make some fixes, run a few more bucks of play ads, fix some more issues and then run engagement ads! and now all i had to do was run 15 bucks in engagement ads to ge
+- **[I'm working on my Roblox Game, and I just released a small Demo of the game, here's also a look at the trailer, let me know you thoughts!🔥](https://www.reddit.com/r/robloxgamedev/comments/1xvzkrs/im_working_on_my_roblox_game_and_i_just_released/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: submitted by /u/Reasonable-Fail-2850 \[link\] \[comments\]
+- **[Looking for help making my game.](https://www.reddit.com/r/robloxgamedev/comments/1xw2jw3/looking_for_help_making_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: I want help making my roblox game, im not a big editor/creator so im starting fresh with no skills which is why i want to hire someone to help. submitted by /u/ChunkyMilk253 \[link\] \[comments\]
+- **[My Roblox game is growing but revenue is low](https://www.reddit.com/r/robloxgamedev/comments/1xw0klx/my_roblox_game_is_growing_but_revenue_is_low/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: Hey everyone! Last week, my game Name Every Country suddenly started taking off. It’s been reaching a new peak player count pretty much every day, but my revenue has been very low for the CCU. For those of you who’ve monetized Roblox games,
+- **[Some more screenshots from my doors-inspired horror game called The Meridian :)))](https://www.reddit.com/r/robloxgamedev/comments/1xw0ido/some_more_screenshots_from_my_doorsinspired/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: feel free to ask questions, though i might not be able to reveal too much -> stay tuned for more updates I might make a discord or smth soon if it gains enough traction submitted by /u/shootboots_ \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[FIFA Meets Roblox? Introducing Supreme Soccer Tycoon](https://devforum.roblox.com/t/fifa-meets-roblox-introducing-supreme-soccer-tycoon/4990199)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Ever imagined combining FIFA-style soccer matches with the ability to build and manage your very own soccer stadium? That’s exactly what we’re bringing to Roblox with Supreme Soccer Tycoon! In SST, you start with a small plot of land and an
-- **[Have :SetTopbarTransparency() work on the current CoreGui](https://devforum.roblox.com/t/have-settopbartransparency-work-on-the-current-coregui/4990229)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Before Roblox introduced the new topbar in 2020, there was a method that allowed developers to tweak the transparency of the topbar’s background. Following the introduction of the new topbar in 2020, the function was deprecated. It currentl
-- **[Ban timers are bugged and show different times between ban message on web and on studio](https://devforum.roblox.com/t/ban-timers-are-bugged-and-show-different-times-between-ban-message-on-web-and-on-studio/4990253)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: I had gotten banned for a day (deservingly) and the studio ban message said 1 day ban, however the web ban message said suspended for 3 days. This however isn’t the end, the studio ban message said i was supposed to be unbanned around 2:30 
-- **[Birthday Time Fedora Particle Fix](https://devforum.roblox.com/t/birthday-time-fedora-particle-fix/4990096)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Everyone who’s purchased the Birthday Time Fedora seems pretty annoyed by its particle effects and emissive lighting. I think most users would prefer sparkle effects similar to those on the Opal King of the Night. I’d also suggest toning do
-- **[Data store resets seemingly caused by rate limits](https://devforum.roblox.com/t/data-store-resets-seemingly-caused-by-rate-limits/4989966)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: My game has recently been flooded with alot of HTTP 429 requests starting on November 12th, very similar to this post: Unable to get player data - Repeated False Datastore Key Rate limits error Game Link: FALLEN MEMORIES \| Play on Roblox Li
-- **[Huge bug causing my 30,000 CCU game to be taken down](https://devforum.roblox.com/t/huge-bug-causing-my-30000-ccu-game-to-be-taken-down/4990167)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: 1 week ago, my game, Make A Cartoon, peaked at 30,000 CCU and was one of the biggest up and coming games on the platform. It was then immediately taken down due to questionnaire issues and because of very slow and vague responses from suppo
-- **[Is this a good state machine?](https://devforum.roblox.com/t/is-this-a-good-state-machine/4990178)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: local RunService = game:GetService("RunService") local TweenService = game:GetService("TweenService") local Player = game.Players.LocalPlayer local Char = Player.Character local head = Char:WaitForChild("Head") local Camera = workspace.Curr
-- **[Stormbreak Horns needs a change at Particles](https://devforum.roblox.com/t/stormbreak-horns-needs-a-change-at-particles/4990026)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: \[The previous post about Stormbreak was closed, so I’ve reposted it in the appropriate category\] Today, we’re seeing a great change in the Ghostly Pumpkin Head particles, and it was truly a very good change, since the item’s particle effect
-- **[User-made Lightmaps and Baked Lighting Support](https://devforum.roblox.com/t/user-made-lightmaps-and-baked-lighting-support/4990294)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: As a Roblox developer, it is currently too hard to make realistic but optimized static environments for low-end devices. I’d like support for user-made lightmaps and/or baked lighting. Lightmapping precomputes the lighting of a static scene
-- **[When uploading a video to a group it uses your personal robux](https://devforum.roblox.com/t/when-uploading-a-video-to-a-group-it-uses-your-personal-robux/4989980)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Go to the create asset page Creator Dashboard Upload a video to a group It uses your personal robux Expected behavior It should use the group’s robux. Also I want my robux back. 1 post - 1 participant Read full topic
-- **[\[PLUGIN!\] Auto Icon](https://devforum.roblox.com/t/plugin-auto-icon/4989955)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: VERSION 1.0.1 - Auto assign icons to folder based on name!!! Please thank @gameboysix for these icons! They look great =) Any bugs please report it here! Sighhhhhh these look so boring! I wonder how we can make them look better… Oh I know! 
+- **[Releasing a runtime-baked mesh gets slower the more baked meshes exist](https://devforum.roblox.com/t/releasing-a-runtime-baked-mesh-gets-slower-the-more-baked-meshes-exist/4990639)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: I build meshes at runtime (EditableMesh → CreateDataModelContentAsync → CreateMeshPartAsync ) and release old ones as the player moves. Releasing a single mesh costs frame time that grows with how many other baked meshes are still alive: ab
+- **[SurfaceAppearance TexturePacks fail with "rbxassethash ... Requester does not have permission for Asset" on my own approved textures](https://devforum.roblox.com/t/surfaceappearance-texturepacks-fail-with-rbxassethash-requester-does-not-have-permission-for-asset-on-my-own-approved-textures/4990546)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Every playtest in my main place floods the Output with ~160 warnings (~100 unique hashes) in two bursts, one before the client starts and one before the server starts: ContentId: rbxassethash:// failed due to: Requester does not have permis
+- **[\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Greetings! Enzoz Studio is a recently launched Studio, though the studio is new, it’s administration all come from a background with a lot of experience in producing front page games notably Vanity Studio , we plan and aim for the same fate
+- **[Allow developers to appeal False Copyright Detections on Audio assets](https://devforum.roblox.com/t/allow-developers-to-appeal-false-copyright-detections-on-audio-assets/4990612)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Hello. As a Roblox developer, it is currently nearly impossible to appeal false copyright takedowns. I have written a post about how this is affecting other developers and me here . To summarise, I made my own ORIGINAL composition, and afte
+- **[Game Icons aren‘t loading](https://devforum.roblox.com/t/game-icons-aren%E2%80%98t-loading/4990399)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Hey there, It looks like game icons aren’t loading, it just shows the default “no image”. 5 posts - 3 participants Read full topic
+- **[Mesh textures lower resolution from distance](https://devforum.roblox.com/t/mesh-textures-lower-resolution-from-distance/4990657)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: This is really annoying and it happens with all my textures. When the players camera is close to the model it looks normal but when the camera moves further away then the texture just looses all of it’s resolution causing lines on the mesh.
+- **[Messages and Friends Counter Badges Have Inconsistent Padding in Website Sidebar](https://devforum.roblox.com/t/messages-and-friends-counter-badges-have-inconsistent-padding-in-website-sidebar/4990486)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Hello Roblox Staff, As I’m typing this, I’m having a severe OCD attack looking at the new left menu counter badges. Not only did you guys change the color from white to blue, but they have inconsistent horizontal spacing following a recent 
+- **[My kart racing game is in beta, would love some feedback](https://devforum.roblox.com/t/my-kart-racing-game-is-in-beta-would-love-some-feedback/4990556)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Hey! I’ve been working on a kart racer and it’s finally playable. Works on PC, phone and controller. Roblox DeeMoon Kart \[BETA\] A cute kart racer for you and your friends. Drift to charge a boost, grab item boxes, and throw ducks, bombs and
+- **[Original song removed for 'Copyright' - No way to prove ownership](https://devforum.roblox.com/t/original-song-removed-for-copyright-no-way-to-prove-ownership/4990579)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Hello. I made an original composition for my game Triptych , and Roblox took it down a few months ago due to ‘copyright’. attempt to appeal I have tried to appeal; however, I got a pretty disappointing response back, quoting: Thank you for 
+- **[Some Rigged Meshes Scaling up after exporting .gLTF from Blender](https://devforum.roblox.com/t/some-rigged-meshes-scaling-up-after-exporting-gltf-from-blender/4990395)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: So, I am trying to make a book model for my game with bones for movability. It exports fine with working bones, but the 4 middle pages (which are seperate objects from the book itself, added to make the illusion of a flippable book) This is
+- **[Sudden spike of MeshContentProvider "could not fetch" errors on all clients since ~09:25 UTC (Nov 14)](https://devforum.roblox.com/t/sudden-spike-of-meshcontentprovider-could-not-fetch-errors-on-all-clients-since-0925-utc-nov-14/4990398)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Since about 09:25 UTC today (Nov 14, 2026), clients fail to download assets at a much higher rate than usual. It is not tied to one experience or to a new place version. What we see Our experience had no publish to its live places today (la
+- **[WebViewParams are visible in the autocomplete](https://devforum.roblox.com/t/webviewparams-are-visible-in-the-autocomplete/4990592)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: WebViewParams should not be a visible datatype in the autocomplete, nor should it be highlighted: Stuff like ScopedInstanceIdentity are used more but are RobloxScriptSecurity: But unless you’re planning to add WebView support to developers,
+
+## Youtube
+
+- **[homies help homies, always](https://www.youtube.com/shorts/4zVS-Ao8w1g)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-13
 
 ---
 

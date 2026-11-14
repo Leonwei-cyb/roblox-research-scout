@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 321
-- index-only: 15
-- reddit: 255
-- youtube: 4
+- devforum: 323
+- index-only: 14
+- reddit: 253
+- youtube: 5
 
 ## First-Session And Mobile
 
@@ -52,24 +52,24 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
+- [\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Added hidden secret islands to my simulator: how I set them up + looking for feedback on discoverability](https://www.reddit.com/r/robloxgamedev/comments/1xsa8yg/added_hidden_secret_islands_to_my_simulator_how_i/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Studio, DeviceSimulatorToolbar - Can't turn "Device Simulator" off during a playtest. It is greyed out](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Player Feedback And Marketing
 
-- [Pawssport, Please! - Papers, Please but with cats \[DEMO, feedback wanted\]](https://devforum.roblox.com/t/pawssport-please-papers-please-but-with-cats-demo-feedback-wanted/4981971) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator](https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data](https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
+- [Studio, DeviceSimulatorToolbar - Can't turn "Device Simulator" off during a playtest. It is greyed out](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [\[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking](https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout](https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout test with measurable pass/fail.
+3. Explain WHY it matters and propose one \[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

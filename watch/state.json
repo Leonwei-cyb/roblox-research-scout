@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "f1c0dddae8d2ee5bb3e96711f2fc88ed24a3e462",
-      "head_subject": "chore(deps): bump addressable from 2.9.0 to 2.9.1 in /docs (#9561)",
+      "head": "76e47bc2705efccbbf283174d4c0404728333f72",
+      "head_subject": "README: replace the Zeabur button with Zenavo (#9563)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -41,8 +41,8 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "b928bc2947cfcf98b3c8bd2baf7f4af59011cf44",
-      "head_subject": "Fix: nest join_experience and analytics_data inside payload (user notifications curl example) (#1588)",
+      "head": "5a56d0d361d709aa785585b738354134ae47b4ae",
+      "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
       "release_url": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "f1011887894ba0095fd052f6fd218dea8c1acc46",
+      "head": "1c0586016060731d89d65c2b0616ff45b6842e2e",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.325",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "e36975798b3b12145ebf891eaa3a651e68031ae6",
-      "head_subject": "CI - Test server name should not depend on external DNS (#4729)",
+      "head": "900a12032a8e15b2cfcbb8a7dc0f7a1d60f39bf3",
+      "head_subject": "i18n: Use 'ngettext' to deduplicate singular/plural 'msgid's (#4483)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.3",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",
