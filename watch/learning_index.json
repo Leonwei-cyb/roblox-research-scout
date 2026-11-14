@@ -616,20 +616,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983196:1",
-      "url": "https://devforum.roblox.com/t/archivists-ui-showcase-wip/4983196",
-      "title": "Archivists UI Showcase (WIP)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4983366:1",
       "url": "https://devforum.roblox.com/t/need-feedback-and-testers-on-my-new-game-project-striders/4983366",
       "title": "Need Feedback and Testers On My New Game: Project Striders",
@@ -994,6 +980,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4991106:1",
+      "url": "https://devforum.roblox.com/t/my-portfolio-as-a-scripter/4991106",
+      "title": "My portfolio as a scripter",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4991362:1",
+      "url": "https://devforum.roblox.com/t/some-parts-of-builds-not-loading/4991362",
+      "title": "Some parts of builds not loading",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "world and visual design"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xrdume",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrdume/working_on_procedural_facial_animations_and/",
       "title": "Working on procedural facial animations and dynamic injuries for my upcoming Roblox game",
@@ -1245,32 +1259,6 @@
         "tools and performance"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981428:1",
-      "url": "https://devforum.roblox.com/t/program-asterisk-looking-for-testers-and-an-environment-artist-rev-share/4981428",
-      "title": "Program Asterisk - Looking for testers, and an environment artist [ REV SHARE ]",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981839:1",
-      "url": "https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839",
-      "title": "UI_Group_Tool (FREE PLUGIN)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2153,27 +2141,53 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqxaxw",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqxaxw/music_producersfx_artist_looking_for_devs_to_work/",
-      "title": "Music producer/SFX artist looking for devs to work with",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4991228:1",
+      "url": "https://devforum.roblox.com/t/terrain-makes-loading-into-a-game-take-extremely-long-38-seconds/4991228",
+      "title": "Terrain makes loading into a game take extremely long (~38 seconds)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [
-        "animation and audio"
+        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xr56o1",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr56o1/review_my_game/",
-      "title": "Review My game!!!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4991260:1",
+      "url": "https://devforum.roblox.com/t/open-looking-for-a-scripting-partner/4991260",
+      "title": "[OPEN] Looking for a Scripting Partner!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4991322:1",
+      "url": "https://devforum.roblox.com/t/cant-pay-expedited-review-if-im-not-the-group-owner/4991322",
+      "title": "Can't pay Expedited Review if I'm not the group owner",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4991371:1",
+      "url": "https://devforum.roblox.com/t/animation-keyframes-out-of-sync-limbs-begin-moving-at-seperate-times/4991371",
+      "title": "Animation keyframes out of sync (Limbs begin moving at seperate times)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2822,6 +2836,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xwdpu4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwdpu4/been_running_ads/",
+      "title": "Been running ads…",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4983550:1",
       "url": "https://devforum.roblox.com/t/cannot-interact-with-the-robux-transfer-popup-on-gamepad-interfaces/4983550",
       "title": "Cannot Interact with the Robux Transfer Popup on Gamepad Interfaces",
@@ -3144,6 +3171,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4991302:1",
+      "url": "https://devforum.roblox.com/t/unexpected-error-with-instancehandlerget-and-wait/4991302",
+      "title": "Unexpected Error with InstanceHandler:Get() and :Wait()",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xrjlvo",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrjlvo/trading_playtests_for_my_watch_repair_game/",
       "title": "Trading Playtests for my Watch Repair Game",
@@ -3417,45 +3458,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982174:1",
-      "url": "https://devforum.roblox.com/t/creating-large-border-400k-x-128k-studs-across-with-big-parts-20483-crashes-team-create-cloud/4982174",
-      "title": "Creating large border (400k x 128k studs across) with big parts (2048^3) crashes team create cloud",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983055:1",
-      "url": "https://devforum.roblox.com/t/solo-dev-would-love-to-hear-your-feedbacks-for-my-game/4983055",
-      "title": "Solo dev // would LOVE to hear your feedbacks for my game!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983088:1",
-      "url": "https://devforum.roblox.com/t/ragdoll-corpses-keep-breaking/4983088",
-      "title": "Ragdoll corpses keep breaking",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4176,6 +4178,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4991076:1",
+      "url": "https://devforum.roblox.com/t/50-russian-visits-250-highly-engaged-visits-skip-is-bad/4991076",
+      "title": "50% Russian Visits, 250 Highly Engaged Visits SKIP IS BAD!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4991330:1",
+      "url": "https://devforum.roblox.com/t/images-uploaded-in-experience-dont-show-to-creator-and-apparently-my-original-title-seems-unclear-so-heres-a-useless-one/4991330",
+      "title": "Images uploaded in experience don't show to creator and apparently my original title seems unclear so here's a useless one",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xre0dx",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xre0dx/project_exo_playtest_gameplay/",
       "title": "Project EXO (Playtest) Gameplay!",
@@ -4810,61 +4838,6 @@
         "building and purchases"
       ],
       "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4981458:1",
-      "url": "https://devforum.roblox.com/t/analytics-for-experience-page-videos-views-watch-time-plays-after-watching/4981458",
-      "title": "Analytics for experience page videos (views, watch time, plays after watching)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982054:1",
-      "url": "https://devforum.roblox.com/t/more-features-to-datastore-manager-page-like-snapshots/4982054",
-      "title": "More features to Datastore Manager page, like 'Snapshots'",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982317:1",
-      "url": "https://devforum.roblox.com/t/character-scaling-bug/4982317",
-      "title": "Character Scaling Bug",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982785:1",
-      "url": "https://devforum.roblox.com/t/offsale-label-for-avatar-looks-in-creator-hub/4982785",
-      "title": "Offsale Label for Avatar Looks in Creator Hub",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982893:1",
-      "url": "https://devforum.roblox.com/t/game-pass-vote-counts-cant-be-read-without-scraping-the-website/4982893",
-      "title": "Game pass vote counts can't be read without scraping the website",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6144,45 +6117,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqoajz",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqoajz/how_could_i_make_my_guy_scarier/",
-      "title": "how could i make my guy scarier?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4991152:1",
+      "url": "https://devforum.roblox.com/t/roblox-creator-browser-play-does-not-allow-teleports-between-places-creator-owns/4991152",
+      "title": "Roblox creator browser play does not allow teleports between places creator owns",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqrwiy",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xqrwiy/this_is_proof_you_dont_need_ai_to_make_your/",
-      "title": "This is proof you dont need Ai to make your roblox games",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4991274:1",
+      "url": "https://devforum.roblox.com/t/strict-error-analyser/4991274",
+      "title": "Strict-error-analyser",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqz2hc",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xqz2hc/does_anyone_know_how_to_make_cape_stuffs_by/",
-      "title": "does anyone know how to make cape stuffs by unions only(im noob at blender)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xr0v2a",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr0v2a/device_emulator_failing_to_do_high_resolution/",
-      "title": "Device emulator failing to do high resolution",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4991345:1",
+      "url": "https://devforum.roblox.com/t/game-has-an-issue-glitch-since-new-update/4991345",
+      "title": "\"Game has an issue\" glitch since new update",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7266,6 +7228,61 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xwax44",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwax44/game_finally_exploded/",
+      "title": "Game finally exploded",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xwd9eo",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwd9eo/so_is_this_better_now/",
+      "title": "so is this better now",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xwejjn",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwejjn/looking_for_people_to_create_different_teams_for/",
+      "title": "Looking for people to create different teams for my community The Bizzare Studios and create different games with revenue share profits",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xwfi86",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwfi86/roblox_game_for_learning_to_hack/",
+      "title": "Roblox game for learning to hack",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xwg084",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwg084/do_you_think_this_game_has_potential/",
+      "title": "do you think this game has potential ?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1GUXNHaFNCZG53VEpsY1VsbXpPMTJLaDJyV1ZSMGpDbk5rb3pWblBMUEJyZjV1WEhxMDdtZ3pUa1VhSEpmS2VaN1hFaEYwd1RxcU9VSzhR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GUXNHaFNCZG53VEpsY1VsbXpPMTJLaDJyV1ZSMGpDbk5rb3pWblBMUEJyZjV1WEhxMDdtZ3pUa1VhSEpmS2VaN1hFaEYwd1RxcU9VSzhR?oc=5",
       "title": "Only with the best owners in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
@@ -7342,19 +7359,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5hNEJHdUR5U1BodDhscHJRdThvZ2t2SDN4RFZDSEwtcjNKbzA5MHJubEFOUjBIbmVMclB5MW9DalRKR0VHZGVUQUJZQnZka29Tekg2Rl9B",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hNEJHdUR5U1BodDhscHJRdThvZ2t2SDN4RFZDSEwtcjNKbzA5MHJubEFOUjBIbmVMclB5MW9DalRKR0VHZGVUQUJZQnZka29Tekg2Rl9B?oc=5",
-      "title": "Today Secret Admin Happening in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-11-08",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn?oc=5",
       "title": "Only Today with Sammy and Brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
@@ -7363,19 +7367,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9OcDl3b1J3Y2Z3c092NEpmT2hwdGRZNzJDdVJWejNUdU9PbkFMa05mSTJKNEdJdHhjYWhhNXAyazlGY3NwYkR2dEcyN0dtUTQyUE9ianZ3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcDl3b1J3Y2Z3c092NEpmT2hwdGRZNzJDdVJWejNUdU9PbkFMa05mSTJKNEdJdHhjYWhhNXAyazlGY3NwYkR2dEcyN0dtUTQyUE9ianZ3?oc=5",
-      "title": "Claude Opus 5.5 + Roblox Studio = $44,052/mo (Zero Coding Full Course) - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-08",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -7439,6 +7430,19 @@
       "title": "How to catch the Nebula Kraken in Steal an Egg #StealanEgg #Roblox - TikTok",
       "source": "brock-tiktok",
       "published": "2026-11-11",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMibEFVX3lxTFBDVHdNN2N5T2FTU1hIZVV2c2poYWxzSDdpOXhyMEg4VlF5Rm5qbTdsb2J1QlcxX1FleFNzcDdMUEtxcXVCMllZZkFqUFRqYnlXRnRWX1V2cS1kNlpvVUpxLTJpbWxiMVVhWC1nQw",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDVHdNN2N5T2FTU1hIZVV2c2poYWxzSDdpOXhyMEg4VlF5Rm5qbTdsb2J1QlcxX1FleFNzcDdMUEtxcXVCMllZZkFqUFRqYnlXRnRWX1V2cS1kNlpvVUpxLTJpbWxiMVVhWC1nQw?oc=5",
+      "title": "Slick Rick Dealer has arrived in Steal an Egg #StealanEgg #Roblox - TikTok",
+      "source": "brock-tiktok",
+      "published": "2026-11-14",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
