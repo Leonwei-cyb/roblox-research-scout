@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "1c0586016060731d89d65c2b0616ff45b6842e2e",
+      "head": "b539f1f3032a2b41d057996333229bba4fcde116",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.325",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "900a12032a8e15b2cfcbb8a7dc0f7a1d60f39bf3",
-      "head_subject": "i18n: Use 'ngettext' to deduplicate singular/plural 'msgid's (#4483)",
+      "head": "5bea5703e464392f53fe3e5d72b1ffd9ac0e0641",
+      "head_subject": "Add ja translations for Restock & Price Detection help text (#4694)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.3",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",

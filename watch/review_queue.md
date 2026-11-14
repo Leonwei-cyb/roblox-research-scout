@@ -19,6 +19,6 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## Claude / automation / testing
 
-- **[MCP Feature requests - plugin methods and copy/paste between studio instances](https://devforum.roblox.com/t/mcp-feature-requests-plugin-methods-and-copypaste-between-studio-instances/4988381)** — Public text/page, video not confirmed
+- **[Automatic Graphics Reset & Unclosable Device Emulator UI in Playtests](https://devforum.roblox.com/t/automatic-graphics-reset-unclosable-device-emulator-ui-in-playtests/4990769)** — Public text/page, video not confirmed
 - **[Looking for playtesters for my Roblox PVP game](https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] Luau Modularity: export Values and Cyclic Requires](https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432)** — Public text/page, video not confirmed

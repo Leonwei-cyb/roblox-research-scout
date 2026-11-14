@@ -5,53 +5,62 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Ai Development
+
+- **[How To Make A Roblox Game With AI - How To Make Roblox Games With AI! (Connect AI To Roblox) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jN2tER3BWTTh4RDB5SC1hMFZzckF4REVOZFpoZDI1Mks1aHJfMGdob0NOOE5hUXlHanhxa0dBQXhRUy1Lbm1xVXRsd3FHREJEWW10MTJ3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-08
+  - Feed excerpt: How To Make A Roblox Game With AI - How To Make Roblox Games With AI! (Connect AI To Roblox) YouTube
+
 ## Community
 
-- **[How to release a demo?](https://www.reddit.com/r/robloxgamedev/comments/1xw2kb2/how_to_release_a_demo/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: Whats the best way to put out a demo without penalizing the actual release, i have somewhat of a playable loop but before investing anymore time in it i want to see what the community thinks. submitted by /u/Accomplished-Edge328 \[link\] \[com
-- **[Beginner dev here! What programming do I need to learn for a CoD x Ghost Recon style game?](https://www.reddit.com/r/robloxgamedev/comments/1xw0012/beginner_dev_here_what_programming_do_i_need_to/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: Hi everyone! I'm a complete beginner to Roblox game development, and I want to make a game based on my original story about a character named Barz. My goal is to mix the fast-paced, exhilarating gunplay of CoD: BO6 with the open-world tacti
-- **[I'm finally getting close to 250 HEP :)](https://www.reddit.com/r/robloxgamedev/comments/1xw2eb7/im_finally_getting_close_to_250_hep/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: I cant believe how easy it was. All I did was run a few bucks of play ads, make some fixes, run a few more bucks of play ads, fix some more issues and then run engagement ads! and now all i had to do was run 15 bucks in engagement ads to ge
-- **[I'm working on my Roblox Game, and I just released a small Demo of the game, here's also a look at the trailer, let me know you thoughts!🔥](https://www.reddit.com/r/robloxgamedev/comments/1xvzkrs/im_working_on_my_roblox_game_and_i_just_released/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: submitted by /u/Reasonable-Fail-2850 \[link\] \[comments\]
-- **[Looking for help making my game.](https://www.reddit.com/r/robloxgamedev/comments/1xw2jw3/looking_for_help_making_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: I want help making my roblox game, im not a big editor/creator so im starting fresh with no skills which is why i want to hire someone to help. submitted by /u/ChunkyMilk253 \[link\] \[comments\]
-- **[My Roblox game is growing but revenue is low](https://www.reddit.com/r/robloxgamedev/comments/1xw0klx/my_roblox_game_is_growing_but_revenue_is_low/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: Hey everyone! Last week, my game Name Every Country suddenly started taking off. It’s been reaching a new peak player count pretty much every day, but my revenue has been very low for the CCU. For those of you who’ve monetized Roblox games,
-- **[Some more screenshots from my doors-inspired horror game called The Meridian :)))](https://www.reddit.com/r/robloxgamedev/comments/1xw0ido/some_more_screenshots_from_my_doorsinspired/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: feel free to ask questions, though i might not be able to reveal too much -> stay tuned for more updates I might make a discord or smth soon if it gains enough traction submitted by /u/shootboots_ \[link\] \[comments\]
+- **[My game hit 20K CCU!!](https://www.reddit.com/r/robloxgamedev/comments/1xw6b1p/my_game_hit_20k_ccu/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: Ran a new update event and peaked at 23K CCU!!! Keep working guys I believe in you all! submitted by /u/15Momoz \[link\] \[comments\]
+- **[Shmoovers {water walls} {kinda rework}](https://www.reddit.com/r/robloxgamedev/comments/1xw7zzl/shmoovers_water_walls_kinda_rework/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: this game has gotten a big update, like adding back the ball thingys, and pls give it a try, and i DO NOT have AI in this game, at all, as well this game do have lore too. submitted by /u/Ambitious_Advice7692 \[link\] \[comments\]
+- **[I’VE BEEN WORKING ON A PASTRY-THEMED GAME! 🍰](https://www.reddit.com/r/robloxgamedev/comments/1xwaf6q/ive_been_working_on_a_pastrythemed_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: I’ve been developing a game inspired by the steal-and-build genre, but with a pastry twist. Instead of collecting brainrots, the game features little pastry characters created through different fusions. The idea is to sneak into other baker
+- **[My first attempt making survival adventure Roblox game, what do you guys think?](https://www.reddit.com/r/robloxgamedev/comments/1xw42wf/my_first_attempt_making_survival_adventure_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: The name is Escape to Space! submitted by /u/ZealousidealPitch528 \[link\] \[comments\]
+- **[PAID TESTING OPPORTUNITIES](https://www.reddit.com/r/robloxgamedev/comments/1xw7j0s/paid_testing_opportunities/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: Hey, I'm currently looking for paid game testing opportunities. I've tested over 30+ Roblox games, including promising projects like Animal Battlegrounds and Rod & Reef, along with many others. Here's some of my experience and achievements:
+- **[Progress on Age Of Sail-era game](https://www.reddit.com/r/robloxgamedev/comments/1xw9oej/progress_on_age_of_sailera_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: You guys wanted updates on the open-world, SM : Pirates-inspired game I was building in Roblox, so here's some progress. the ocean was re-made, with more sustainable waves, shallow-water green coloring that blends nicely atmosphere was alte
+- **[Some anomaly designs in my floor survival game.](https://www.reddit.com/r/robloxgamedev/comments/1xw900p/some_anomaly_designs_in_my_floor_survival_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: fyi: this game is slightly inspired by dandy's world, but actually tries to be a bit scary. Plus the stamina regen isn't dogshit. The seek-lookin anomaly is called The Straggler and is basically the baseline for all common Anomalies. The Hu
+- **[WYP Pokemon Showdown system](https://www.reddit.com/r/robloxgamedev/comments/1xwackn/wyp_pokemon_showdown_system/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: Actually working on a prototype of a Pokemon like showdown system, I'm a beginner in code. Do you have some tips for me ? ( I'm still working on it, this isnt finish yet 😂 ) *i'm french, so the code is submitted by /u/Klutzy-Bottle8286 \[lin
+- **[how did you guys beat procrastination with leaening coding](https://www.reddit.com/r/robloxgamedev/comments/1xwaq4v/how_did_you_guys_beat_procrastination_with/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
+  - Feed excerpt: i feel like i just got shocked to my core realizing ive be procrastinating for three years to learn coding, i couldve achived some much in that time yet here i am, ill knowledged submitted by /u/Alice_Miracle \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Releasing a runtime-baked mesh gets slower the more baked meshes exist](https://devforum.roblox.com/t/releasing-a-runtime-baked-mesh-gets-slower-the-more-baked-meshes-exist/4990639)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: I build meshes at runtime (EditableMesh → CreateDataModelContentAsync → CreateMeshPartAsync ) and release old ones as the player moves. Releasing a single mesh costs frame time that grows with how many other baked meshes are still alive: ab
-- **[SurfaceAppearance TexturePacks fail with "rbxassethash ... Requester does not have permission for Asset" on my own approved textures](https://devforum.roblox.com/t/surfaceappearance-texturepacks-fail-with-rbxassethash-requester-does-not-have-permission-for-asset-on-my-own-approved-textures/4990546)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Every playtest in my main place floods the Output with ~160 warnings (~100 unique hashes) in two bursts, one before the client starts and one before the server starts: ContentId: rbxassethash:// failed due to: Requester does not have permis
-- **[\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Greetings! Enzoz Studio is a recently launched Studio, though the studio is new, it’s administration all come from a background with a lot of experience in producing front page games notably Vanity Studio , we plan and aim for the same fate
-- **[Allow developers to appeal False Copyright Detections on Audio assets](https://devforum.roblox.com/t/allow-developers-to-appeal-false-copyright-detections-on-audio-assets/4990612)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Hello. As a Roblox developer, it is currently nearly impossible to appeal false copyright takedowns. I have written a post about how this is affecting other developers and me here . To summarise, I made my own ORIGINAL composition, and afte
-- **[Game Icons aren‘t loading](https://devforum.roblox.com/t/game-icons-aren%E2%80%98t-loading/4990399)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Hey there, It looks like game icons aren’t loading, it just shows the default “no image”. 5 posts - 3 participants Read full topic
-- **[Mesh textures lower resolution from distance](https://devforum.roblox.com/t/mesh-textures-lower-resolution-from-distance/4990657)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: This is really annoying and it happens with all my textures. When the players camera is close to the model it looks normal but when the camera moves further away then the texture just looses all of it’s resolution causing lines on the mesh.
-- **[Messages and Friends Counter Badges Have Inconsistent Padding in Website Sidebar](https://devforum.roblox.com/t/messages-and-friends-counter-badges-have-inconsistent-padding-in-website-sidebar/4990486)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Hello Roblox Staff, As I’m typing this, I’m having a severe OCD attack looking at the new left menu counter badges. Not only did you guys change the color from white to blue, but they have inconsistent horizontal spacing following a recent 
-- **[My kart racing game is in beta, would love some feedback](https://devforum.roblox.com/t/my-kart-racing-game-is-in-beta-would-love-some-feedback/4990556)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Hey! I’ve been working on a kart racer and it’s finally playable. Works on PC, phone and controller. Roblox DeeMoon Kart \[BETA\] A cute kart racer for you and your friends. Drift to charge a boost, grab item boxes, and throw ducks, bombs and
-- **[Original song removed for 'Copyright' - No way to prove ownership](https://devforum.roblox.com/t/original-song-removed-for-copyright-no-way-to-prove-ownership/4990579)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Hello. I made an original composition for my game Triptych , and Roblox took it down a few months ago due to ‘copyright’. attempt to appeal I have tried to appeal; however, I got a pretty disappointing response back, quoting: Thank you for 
-- **[Some Rigged Meshes Scaling up after exporting .gLTF from Blender](https://devforum.roblox.com/t/some-rigged-meshes-scaling-up-after-exporting-gltf-from-blender/4990395)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: So, I am trying to make a book model for my game with bones for movability. It exports fine with working bones, but the 4 middle pages (which are seperate objects from the book itself, added to make the illusion of a flippable book) This is
-- **[Sudden spike of MeshContentProvider "could not fetch" errors on all clients since ~09:25 UTC (Nov 14)](https://devforum.roblox.com/t/sudden-spike-of-meshcontentprovider-could-not-fetch-errors-on-all-clients-since-0925-utc-nov-14/4990398)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Since about 09:25 UTC today (Nov 14, 2026), clients fail to download assets at a much higher rate than usual. It is not tied to one experience or to a new place version. What we see Our experience had no publish to its live places today (la
-- **[WebViewParams are visible in the autocomplete](https://devforum.roblox.com/t/webviewparams-are-visible-in-the-autocomplete/4990592)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: WebViewParams should not be a visible datatype in the autocomplete, nor should it be highlighted: Stuff like ScopedInstanceIdentity are used more but are RobloxScriptSecurity: But unless you’re planning to add WebView support to developers,
+- **[All classic heads](https://devforum.roblox.com/t/all-classic-heads/4990879)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: When I initially made my archive of all classic faces , only after the update came out did I realize I forgot about heads. Fortunately, I found this post where they did remember to archive heads. Although this one doesn’t have names for eas
+- **[Automatic Graphics Reset & Unclosable Device Emulator UI in Playtests](https://devforum.roblox.com/t/automatic-graphics-reset-unclosable-device-emulator-ui-in-playtests/4990769)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: I am reporting this bug with my Laptop that is capable of handling Q21 level of graphics stable. The Issue: Starting a playtest forces Graphics Mode from Manual to Automatic and drops quality to the lowest level. Manually switching back to 
+- **[Can Roblox add more official tutorials/docs for each genre?](https://devforum.roblox.com/t/can-roblox-add-more-official-tutorialsdocs-for-each-genre/4990897)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: I know i chose the wrong category for it (Because devforum doesn’t have it), but i have a suggestion for Creator-Dashboard: I wanna build indie games, and what i mostly need its Chapter Picker System(Like in RPGs or story games), storylines
+- **[Studio freezes when I attempt to playtest my game](https://devforum.roblox.com/t/studio-freezes-when-i-attempt-to-playtest-my-game/4990703)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Basically, I’ve started to get this problem in my studio recently where when I try to playtest my game, my entire studio just freezes and doesn’t let me do anything, leading me to have to close studio in Task Manager. If I just let studio r
+- **[6 & R15 Animation Pack – 202+ Combat, Gun & Movement](https://devforum.roblox.com/t/6-r15-animation-pack-%E2%80%93-202-combat-gun-movement/4990876)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Hey developers! I’ve put together an animation pack designed to give Roblox games more variety in their combat, movement, and general gameplay animations. The pack includes 202+ animations , with separate R6 and R15 versions, making it easi
+- **[Cant change graphics level without the Device Simulator bar appearing](https://devforum.roblox.com/t/cant-change-graphics-level-without-the-device-simulator-bar-appearing/4990671)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Everytime I try to change my graphics level the Device Simulator bar appears. It is incredibly annoying and inconvinient and takes up unnecessary space. 2 posts - 2 participants Read full topic
+- **[Filter friend types](https://devforum.roblox.com/t/filter-friend-types/4990969)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Some features might include pinning friends or having a special list for “best friends” \[1\] or the people you play with most often: it’s more useful and easier to see your most frequent friends than to have to search for them in the list or
+- **[Internal Infinite yield possible on 'ReplicatedStorage:WaitForChild("AdClickoutEvent")' warning appearing in Creator Dashboard Error Report](https://devforum.roblox.com/t/internal-infinite-yield-possible-on-replicatedstoragewaitforchildadclickoutevent-warning-appearing-in-creator-dashboard-error-report/4990991)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: My experience’s Error Report in the Creator Dashboard is logging client-side warnings for Infinite yield possible on ‘ReplicatedStorage:WaitForChild(“AdClickoutEvent”)’. Details & Reproduction: • Where it happens: Live game (Client-side), v
+- **[Licenses: eligible group game not listed in "Select game" for Full game license request](https://devforum.roblox.com/t/licenses-eligible-group-game-not-listed-in-select-game-for-full-game-license-request/4990844)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: When requesting the “Skibidi Toilet License” (Full game license), my group does not appear in the “Games by” dropdown on the “Select game” step. For my account the page shows “No games meet the license requirements”. License requirements sh
+- **[Looking for a 3D modeler for my Roblox Horror game](https://devforum.roblox.com/t/looking-for-a-3d-modeler-for-my-roblox-horror-game/4990984)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: # Looking for a 3D Modeler – Realistic Roblox Horror Game ## About Us Hello! I’m an independent Roblox developer currently working on a realistic horror game. My goal is to create an immersive and terrifying experience with highly detailed 
+- **[Refund Request – Three UGC Gift Box Items That Did Not Work as Described](https://devforum.roblox.com/t/refund-request-%E2%80%93-three-ugc-gift-box-items-that-did-not-work-as-described/4991039)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: Hello, Some time ago, I purchased three UGC items created by UGC Team and advertised as gift boxes. According to their descriptions, these gift boxes were supposed to open inside the following Roblox experience: Korblox Gift – Play on Roblo
+- **[Yall split up your scripts or keep them in one?](https://devforum.roblox.com/t/yall-split-up-your-scripts-or-keep-them-in-one/4990854)** · Roblox Developer Forum latest · 2026-11-14
+  - Feed excerpt: I was wondering. Should i keep my admin panel’s functuality into one script or should i use different scripts that connect to each other for different things that the admin panel does? (for example every panel in my admin panel is in one sc
 
 ## Youtube
 
-- **[homies help homies, always](https://www.youtube.com/shorts/4zVS-Ao8w1g)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-13
+- **[what awaits you in the abyss?](https://www.youtube.com/shorts/sd_HJpro8RI)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-14
 
 ---
 

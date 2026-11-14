@@ -1261,74 +1261,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4981530:1",
-      "url": "https://devforum.roblox.com/t/gamma-corporation-security-agent-ai/4981530",
-      "title": "Gamma Corporation: Security Agent AI",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4981839:1",
       "url": "https://devforum.roblox.com/t/uigrouptool-free-plugin/4981839",
       "title": "UI_Group_Tool (FREE PLUGIN)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982090:1",
-      "url": "https://devforum.roblox.com/t/toolbox-sounds-too-loud/4982090",
-      "title": "Toolbox sounds too loud",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982573:1",
-      "url": "https://devforum.roblox.com/t/i-wanted-to-show-you-this-military-simulator-game-i-thought-youd-like-it-d/4982573",
-      "title": "I wanted to show you this military simulator game I thought you'd like it :D",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982625:1",
-      "url": "https://devforum.roblox.com/t/studio-games-not-opening/4982625",
-      "title": "Studio Games Not Opening",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983210:1",
-      "url": "https://devforum.roblox.com/t/server-authority-linearvelocity-stops-working-in-certain-positions/4983210",
-      "title": "[Server Authority] LinearVelocity stops working in certain positions",
       "source": "roblox-devforum-latest",
       "published": "2026-11-08",
       "kind": "devforum",
@@ -2140,12 +2075,77 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqv4jy",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqv4jy/can_i_use_toolbox_assets_like_models/",
-      "title": "Can I use toolbox assets, like models?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4990671:1",
+      "url": "https://devforum.roblox.com/t/cant-change-graphics-level-without-the-device-simulator-bar-appearing/4990671",
+      "title": "Cant change graphics level without the Device Simulator bar appearing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990703:1",
+      "url": "https://devforum.roblox.com/t/studio-freezes-when-i-attempt-to-playtest-my-game/4990703",
+      "title": "Studio freezes when I attempt to playtest my game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990769:1",
+      "url": "https://devforum.roblox.com/t/automatic-graphics-reset-unclosable-device-emulator-ui-in-playtests/4990769",
+      "title": "Automatic Graphics Reset & Unclosable Device Emulator UI in Playtests",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990854:1",
+      "url": "https://devforum.roblox.com/t/yall-split-up-your-scripts-or-keep-them-in-one/4990854",
+      "title": "Yall split up your scripts or keep them in one?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990876:1",
+      "url": "https://devforum.roblox.com/t/6-r15-animation-pack-%E2%80%93-202-combat-gun-movement/4990876",
+      "title": "6 & R15 Animation Pack – 202+ Combat, Gun & Movement",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990984:1",
+      "url": "https://devforum.roblox.com/t/looking-for-a-3d-modeler-for-my-roblox-horror-game/4990984",
+      "title": "Looking for a 3D modeler for my Roblox Horror game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [
         "world and visual design"
       ],
@@ -2169,19 +2169,6 @@
       "key": "reddit:1xr56o1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr56o1/review_my_game/",
       "title": "Review My game!!!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xr60hq",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr60hq/please_review_my_new_horror_game_map_test_its/",
-      "title": "Please Review my new Horror Game Map Test, Its called K-9 Facility Storage, those who get the reference already knew what's it's going to be about ;) (link below)",
       "source": "reddit-robloxstudio",
       "published": "2026-11-08",
       "kind": "reddit",
@@ -3143,14 +3130,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqok1q",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqok1q/id_like_to_test_your_game/",
-      "title": "I'd like to test your game!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4990897:1",
+      "url": "https://devforum.roblox.com/t/can-roblox-add-more-official-tutorialsdocs-for-each-genre/4990897",
+      "title": "Can Roblox add more official tutorials/docs for each genre?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [
-        "first-session and mobile",
+        "building and purchases",
         "player feedback and marketing"
       ],
       "score": 4,
@@ -3353,6 +3340,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xwaf6q",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwaf6q/ive_been_working_on_a_pastrythemed_game/",
+      "title": "I’VE BEEN WORKING ON A PASTRY-THEMED GAME! 🍰",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases",
+        "genres and successful loops"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:1zQEoUzPKZQ",
       "url": "https://www.youtube.com/shorts/1zQEoUzPKZQ",
       "title": "empaths, how we doing rn?",
@@ -3397,11 +3398,11 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:m2CvbbQmQ0k",
-      "url": "https://www.youtube.com/watch?v=m2CvbbQmQ0k",
-      "title": "How to Make a Game Trailer For FREE in 2026!",
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "published": "2026-11-08",
+      "key": "youtube:sd_HJpro8RI",
+      "url": "https://www.youtube.com/shorts/sd_HJpro8RI",
+      "title": "what awaits you in the abyss?",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-11-14",
       "kind": "youtube",
       "signals": [],
       "score": 4,
@@ -3416,19 +3417,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4982157:1",
-      "url": "https://devforum.roblox.com/t/universal-games-ss-serverside/4982157",
-      "title": "Universal games SS (serverside)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -3450,19 +3438,6 @@
       "key": "devforum:4983055:1",
       "url": "https://devforum.roblox.com/t/solo-dev-would-love-to-hear-your-feedbacks-for-my-game/4983055",
       "title": "Solo dev // would LOVE to hear your feedbacks for my game!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983085:1",
-      "url": "https://devforum.roblox.com/t/experience-still-unavailable-after-accepted-maturity-appeal/4983085",
-      "title": "Experience still unavailable after accepted maturity appeal",
       "source": "roblox-devforum-latest",
       "published": "2026-11-08",
       "kind": "devforum",
@@ -4188,40 +4163,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqvtl4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqvtl4/unpaid_looking_for_playtesters_for_our_first_game/",
-      "title": "[Unpaid] Looking for playtesters for our first game – an anti-gravity racer made by a dad and his kids",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4991039:1",
+      "url": "https://devforum.roblox.com/t/refund-request-%E2%80%93-three-ugc-gift-box-items-that-did-not-work-as-described/4991039",
+      "title": "Refund Request – Three UGC Gift Box Items That Did Not Work as Described",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqx8ld",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqx8ld/how_to_hide_device_panel/",
-      "title": "how to hide device panel",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xr1am2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr1am2/where_can_i_find_some_playtesters_3/",
-      "title": "Where can i find some playtesters ? :3",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4851,6 +4800,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xw9oej",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw9oej/progress_on_age_of_sailera_game/",
+      "title": "Progress on Age Of Sail-era game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4981458:1",
       "url": "https://devforum.roblox.com/t/analytics-for-experience-page-videos-views-watch-time-plays-after-watching/4981458",
       "title": "Analytics for experience page videos (views, watch time, plays after watching)",
@@ -4884,17 +4846,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4982718:1",
-      "url": "https://devforum.roblox.com/t/assets-dont-upload-with-good-name-and-fails-reupload/4982718",
-      "title": "Assets don't upload with good name and fails reupload",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4982785:1",
       "url": "https://devforum.roblox.com/t/offsale-label-for-avatar-looks-in-creator-hub/4982785",
       "title": "Offsale Label for Avatar Looks in Creator Hub",
@@ -4909,39 +4860,6 @@
       "key": "devforum:4982893:1",
       "url": "https://devforum.roblox.com/t/game-pass-vote-counts-cant-be-read-without-scraping-the-website/4982893",
       "title": "Game pass vote counts can't be read without scraping the website",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983172:1",
-      "url": "https://devforum.roblox.com/t/912-funbloxjs-%E2%80%94-roblox-api-wrapper-with-open-cloud-legacy-support/4983172",
-      "title": "[9.1.2] FunBlox.js — Roblox API wrapper with Open Cloud + legacy support",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983194:1",
-      "url": "https://devforum.roblox.com/t/what-do-you-think-about-this-office-made-for-my-horror-game/4983194",
-      "title": "What do you think about this office made for my horror game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-08",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983213:1",
-      "url": "https://devforum.roblox.com/t/harmony-test-musik/4983213",
-      "title": "Harmony Test [musik]",
       "source": "roblox-devforum-latest",
       "published": "2026-11-08",
       "kind": "devforum",
@@ -6182,12 +6100,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqmxh2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqmxh2/can_anyone_tell_me_which_way_we_can_use_roblox/",
-      "title": "Can anyone tell me which way we can use Roblox game engine better in Linux cause it's not official thing we can dawnload",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
+      "key": "devforum:4990844:1",
+      "url": "https://devforum.roblox.com/t/licenses-eligible-group-game-not-listed-in-select-game-for-full-game-license-request/4990844",
+      "title": "Licenses: eligible group game not listed in \"Select game\" for Full game license request",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990879:1",
+      "url": "https://devforum.roblox.com/t/all-classic-heads/4990879",
+      "title": "All classic heads",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990969:1",
+      "url": "https://devforum.roblox.com/t/filter-friend-types/4990969",
+      "title": "Filter friend types",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4990991:1",
+      "url": "https://devforum.roblox.com/t/internal-infinite-yield-possible-on-replicatedstoragewaitforchildadclickoutevent-warning-appearing-in-creator-dashboard-error-report/4990991",
+      "title": "Internal Infinite yield possible on 'ReplicatedStorage:WaitForChild(\"AdClickoutEvent\")' warning appearing in Creator Dashboard Error Report",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-14",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -6204,32 +6155,10 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xqp8l7",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqp8l7/anyone_know_where_i_can_find_these_resources_on/",
-      "title": "Anyone know where I can find these resources on Roblox?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xqrwiy",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xqrwiy/this_is_proof_you_dont_need_ai_to_make_your/",
       "title": "This is proof you dont need Ai to make your roblox games",
       "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xqsmt4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xqsmt4/first_look_on_my_backrooms_asym/",
-      "title": "First Look on my Backrooms A-Sym",
-      "source": "reddit-robloxdev",
       "published": "2026-11-08",
       "kind": "reddit",
       "signals": [],
@@ -6251,17 +6180,6 @@
       "key": "reddit:1xr0v2a",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xr0v2a/device_emulator_failing_to_do_high_resolution/",
       "title": "Device emulator failing to do high resolution",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-08",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xrcm9p",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrcm9p/chaos_crossing/",
-      "title": "Chaos Crossing",
       "source": "reddit-robloxstudio",
       "published": "2026-11-08",
       "kind": "reddit",
@@ -7263,6 +7181,83 @@
       "key": "reddit:1xw2kb2",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw2kb2/how_to_release_a_demo/",
       "title": "How to release a demo?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xw42wf",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw42wf/my_first_attempt_making_survival_adventure_roblox/",
+      "title": "My first attempt making survival adventure Roblox game, what do you guys think?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xw6b1p",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw6b1p/my_game_hit_20k_ccu/",
+      "title": "My game hit 20K CCU!!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xw7j0s",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw7j0s/paid_testing_opportunities/",
+      "title": "PAID TESTING OPPORTUNITIES",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xw7zzl",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw7zzl/shmoovers_water_walls_kinda_rework/",
+      "title": "Shmoovers {water walls} {kinda rework}",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xw900p",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw900p/some_anomaly_designs_in_my_floor_survival_game/",
+      "title": "Some anomaly designs in my floor survival game.",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xwackn",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwackn/wyp_pokemon_showdown_system/",
+      "title": "WYP Pokemon Showdown system",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-14",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xwaq4v",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwaq4v/how_did_you_guys_beat_procrastination_with/",
+      "title": "how did you guys beat procrastination with leaening coding",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
       "kind": "reddit",
