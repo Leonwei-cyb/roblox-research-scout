@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "62c47b7168520c21a7ec781df36c822c72247181",
-      "head_subject": "Fix lookup of the localised default category (#9543)",
+      "head": "06c0329de2e1424017f1a67e5a2cc841fb26ece3",
+      "head_subject": "Fix wrong status code on failed login (#9566)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "ebbbadc9617ebe177d22bf64876981159a01e6a7",
+      "head": "d75f21b168edcfceb4127eb15cfa9ce6d84e41b2",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.325",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "5bea5703e464392f53fe3e5d72b1ffd9ac0e0641",
-      "head_subject": "Add ja translations for Restock & Price Detection help text (#4694)",
+      "head": "8fa39dfe60d2992d5532f01f0774da7562fb01ce",
+      "head_subject": "Puppeteer fetcher - Favicon falls back to the copy the browser fetched for itself (#4737)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.3",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "a5864fcb33969705de3c0ebfedf4b2a16c970bcc",
-      "head_subject": "api: preserve unmodeled tool schema keywords (#19686)",
+      "head": "15af2b261c14c494d1fe08cf9d0b9e0af1a18c84",
+      "head_subject": "llm: keep weights out of pinned host memory on Windows iGPUs (#19636)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",

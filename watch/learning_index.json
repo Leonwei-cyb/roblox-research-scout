@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 595,
+  "unique_posts": 596,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -1274,35 +1274,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983404:1",
-      "url": "https://devforum.roblox.com/t/ad-manager-shows-outdated-timezone/4983404",
-      "title": "Ad Manager shows outdated timezone",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4983737:1",
       "url": "https://devforum.roblox.com/t/need-feedback-for-my-background-mountain/4983737",
       "title": "Need feedback for my background mountain",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983830:1",
-      "url": "https://devforum.roblox.com/t/thumbnail-uploads-fail-with-%E2%80%9Cupload-image-failed%E2%80%9D-for-me-but-work-for-the-experience-owners/4983830",
-      "title": "Thumbnail uploads fail with “Upload image failed” for me, but work for the experience owners",
       "source": "roblox-devforum-latest",
       "published": "2026-11-09",
       "kind": "devforum",
@@ -1352,35 +1326,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4984224:1",
-      "url": "https://devforum.roblox.com/t/inventory-system-and-ui/4984224",
-      "title": "Inventory system and UI",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4984308:1",
       "url": "https://devforum.roblox.com/t/changing-quality-lvl-to-manual-in-the-studio-enables-device-emulator-and-turning-it-off-returns-auto-quality-lvl/4984308",
       "title": "Changing quality lvl to manual in the studio enables device emulator, and turning it off returns auto quality lvl!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984335:1",
-      "url": "https://devforum.roblox.com/t/scripter-open-for-hire-adidragon1-portfolio/4984335",
-      "title": "[SCRIPTER OPEN FOR HIRE] - Adidragon1 Portfolio",
       "source": "roblox-devforum-latest",
       "published": "2026-11-09",
       "kind": "devforum",
@@ -2099,12 +2047,51 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrmz11",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrmz11/im_opening_animation_commision/",
-      "title": "im opening animation commision",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992547:1",
+      "url": "https://devforum.roblox.com/t/ui-elements-auto-snapping-when-resizingpositoning/4992547",
+      "title": "UI elements auto snapping when resizing/positoning",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992560:1",
+      "url": "https://devforum.roblox.com/t/server-authority-client-time-in-bindtosimulation-skips-or-repeats-steps-between-regular-callbacks-while-physics-moves-one-step/4992560",
+      "title": "[Server Authority] Client time() in BindToSimulation skips or repeats steps between regular callbacks while physics moves one step",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992587:1",
+      "url": "https://devforum.roblox.com/t/feedback-on-my-second-game/4992587",
+      "title": "Feedback on my second game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992645:1",
+      "url": "https://devforum.roblox.com/t/soccer-system-wcustom-physics-animation/4992645",
+      "title": "Soccer system w/Custom Physics & Animation",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
       "signals": [
         "animation and audio"
       ],
@@ -2701,6 +2688,47 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xx2m3d",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx2m3d/some_gameplay_for_my_basically_newly_released/",
+      "title": "Some gameplay for my (basically) newly released horror game! [Parasytism]",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio",
+        "world and visual design",
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xx4mad",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx4mad/need_players/",
+      "title": "Need players!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xx6loc",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx6loc/do_i_keep_engagement_ads_or_do_i_switch_to_plays/",
+      "title": "Do I keep engagement ads or do I switch to plays ads now?",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4983550:1",
       "url": "https://devforum.roblox.com/t/cannot-interact-with-the-robux-transfer-popup-on-gamepad-interfaces/4983550",
       "title": "Cannot Interact with the Robux Transfer Popup on Gamepad Interfaces",
@@ -2724,20 +2752,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984853:1",
-      "url": "https://devforum.roblox.com/t/angaria-region-siberia-official-map-showcase/4984853",
-      "title": "Angaria Region, Siberia | Official Map Showcase",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3261,6 +3275,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "reddit:1xx41qi",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx41qi/game_testing/",
+      "title": "Game testing",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:4zVS-Ao8w1g",
       "url": "https://www.youtube.com/shorts/4zVS-Ao8w1g",
       "title": "homies help homies, always",
@@ -3305,19 +3333,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983452:1",
-      "url": "https://devforum.roblox.com/t/a-roblox-account-generator-that-bypasses-captcha/4983452",
-      "title": "A Roblox Account Generator that Bypasses Captcha",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4983695:1",
       "url": "https://devforum.roblox.com/t/critical-id-verification-is-completely-broken-4-months-support-is-ignoring-every-single-report/4983695",
       "title": "[CRITICAL] ID Verification is COMPLETELY Broken (4+ Months) & Support is Ignoring Every Single Report",
@@ -3326,19 +3341,6 @@
       "kind": "devforum",
       "signals": [
         "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984269:1",
-      "url": "https://devforum.roblox.com/t/textures-on-a-part-visible-through-decals-and-beams-in-front-of-it/4984269",
-      "title": "Textures on a part visible through decals and beams in front of it",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4059,12 +4061,25 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrega2",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrega2/please_help/",
-      "title": "PLEASE HELP",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992544:1",
+      "url": "https://devforum.roblox.com/t/a-linux-desktop-on-roblox/4992544",
+      "title": "A Linux desktop on Roblox",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992565:1",
+      "url": "https://devforum.roblox.com/t/1099980-robux-still-unresolved-after-partial-account-restoration/4992565",
+      "title": "1,099,980 Robux still unresolved after partial account restoration",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -4072,12 +4087,38 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrnqyz",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrnqyz/mcp_servers_on_vinegar/",
-      "title": "MCP servers on vinegar?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992583:1",
+      "url": "https://devforum.roblox.com/t/partial-account-restoration-unresolved-after-four-months/4992583",
+      "title": "Partial account restoration unresolved after four months",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992613:1",
+      "url": "https://devforum.roblox.com/t/captureservice-compatibility-with-editableimages/4992613",
+      "title": "CaptureService compatibility with EditableImages",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992636:1",
+      "url": "https://devforum.roblox.com/t/peek-quickly-peek-on-anything/4992636",
+      "title": "Peek - Quickly Peek on anything",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
       "signals": [
         "tools and performance"
       ],
@@ -4085,9 +4126,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrpjs7",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrpjs7/testing_doodle_wars/",
-      "title": "[TESTING] Doodle Wars",
+      "key": "reddit:1xrega2",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrega2/please_help/",
+      "title": "PLEASE HELP",
       "source": "reddit-robloxstudio",
       "published": "2026-11-09",
       "kind": "reddit",
@@ -4132,19 +4173,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xs24mg",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs24mg/concept_of_the_killer_singularity/",
-      "title": "CONCEPT OF THE KILLER: SINGULARITY",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4709,20 +4737,35 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983363:1",
-      "url": "https://devforum.roblox.com/t/unable-to-contact-roblox-from-original-email-even-with-evidence-of-ownership/4983363",
-      "title": "Unable to contact Roblox from original email, even with evidence of ownership",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xx2tt3",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx2tt3/looking_for_a_beginner_partner/",
+      "title": "Looking for a beginner partner!",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983477:1",
-      "url": "https://devforum.roblox.com/t/whats-the-best-way-to-handle-replication-of-game-state/4983477",
-      "title": "What's the best way to handle replication of game state?",
+      "key": "reddit:1xx89d0",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx89d0/i_recreated_liverpool_in_roblox/",
+      "title": "I recreated Liverpool in Roblox",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4983363:1",
+      "url": "https://devforum.roblox.com/t/unable-to-contact-roblox-from-original-email-even-with-evidence-of-ownership/4983363",
+      "title": "Unable to contact Roblox from original email, even with evidence of ownership",
       "source": "roblox-devforum-latest",
       "published": "2026-11-09",
       "kind": "devforum",
@@ -4753,53 +4796,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983690:1",
-      "url": "https://devforum.roblox.com/t/terrible-face-validation/4983690",
-      "title": "Terrible face validation",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4983991:1",
       "url": "https://devforum.roblox.com/t/when-should-you-use-oop-instead-of-regular-modules-and-functions/4983991",
       "title": "When Should You Use OOP Instead of Regular Modules and Functions?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984253:1",
-      "url": "https://devforum.roblox.com/t/developing-ai-systems/4984253",
-      "title": "Developing AI systems",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984330:1",
-      "url": "https://devforum.roblox.com/t/voxel-ik-systems-test/4984330",
-      "title": "Voxel-IK Systems test",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984580:1",
-      "url": "https://devforum.roblox.com/t/new-roblox-login-page-lacks-quick-sign-in-option/4984580",
-      "title": "New Roblox Login page lacks \"Quick Sign In\" Option",
       "source": "roblox-devforum-latest",
       "published": "2026-11-09",
       "kind": "devforum",
@@ -6106,6 +6105,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4992511:1",
+      "url": "https://devforum.roblox.com/t/cant-edit-game-to-fix-the-reason-its-banned/4992511",
+      "title": "Cant edit game to fix the reason its banned",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992538:1",
+      "url": "https://devforum.roblox.com/t/cant-send-robux/4992538",
+      "title": "Can't send Robux",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992641:1",
+      "url": "https://devforum.roblox.com/t/is-this-level-of-goreblood-fine-for-mild-maturity-rating/4992641",
+      "title": "Is this level of gore/blood fine for \"Mild\" Maturity rating?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-15",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xrfdd1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrfdd1/how_do_i_fix_this/",
       "title": "how do i fix this?",
@@ -6139,17 +6171,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrwyxs",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrwyxs/i_have_a_70_like_ratio_and_idk_why/",
-      "title": "I have a 70% like ratio and idk why",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xrxayl",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrxayl/help_me_weird_thumbnails_glitch/",
       "title": "Help me: Weird thumbnails glitch?",
@@ -6164,28 +6185,6 @@
       "key": "reddit:1xrxzcq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrxzcq/sniper_game_preview/",
       "title": "sniper game preview!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xs13xe",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs13xe/i_want_to_make_a_genuinely_good_roblox_game_with/",
-      "title": "I want to make a genuinely good Roblox game with AI. Where should I start?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xs58im",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs58im/our_game_is_at_13k_ccu/",
-      "title": "Our game is at 1.3K CCU!",
       "source": "reddit-robloxdev",
       "published": "2026-11-09",
       "kind": "reddit",
@@ -7231,6 +7230,28 @@
       "key": "reddit:1xwygut",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwygut/castle_based_on_the_château_de_vincennes_done_by/",
       "title": "Castle based on the Château de Vincennes done by me.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xx3v8a",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx3v8a/i_remade_my_game_entity_the_one_on_the_right_is/",
+      "title": "I remade my game entity; the one on the right is the old one. I'm not that good with Blender, but there it is.",
+      "source": "reddit-robloxstudio",
+      "published": "2026-11-15",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xx6dza",
+      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xx6dza/im_recoding_reworking_my_game_any_suggestions/",
+      "title": "i'm recoding / reworking my game. any suggestions / addition ideas? (and more in the body)",
       "source": "reddit-robloxstudio",
       "published": "2026-11-15",
       "kind": "reddit",
