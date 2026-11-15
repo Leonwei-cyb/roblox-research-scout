@@ -10,8 +10,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 325
-- index-only: 13
+- devforum: 324
+- index-only: 14
 - reddit: 252
 - youtube: 5
 
@@ -57,12 +57,12 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
+- [Players keep leaving my game](https://www.reddit.com/r/robloxgamedev/comments/1xwjs7f/players_keep_leaving_my_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator](https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data](https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
-- [Studio, DeviceSimulatorToolbar - Can't turn "Device Simulator" off during a playtest. It is greyed out](https://devforum.roblox.com/t/studio-devicesimulatortoolbar-cant-turn-device-simulator-off-during-a-playtest-it-is-greyed-out/4983509) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [\[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking](https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning

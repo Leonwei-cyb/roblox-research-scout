@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "546014d4b6bd63ad6046ec6718af46ec01ea5658",
+      "head": "c1591180f0dbaee153f99df6761cd12622edb8de",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.325",
@@ -138,6 +138,7 @@
     }
   },
   "seen": [
+    "0neShot101/rbxdev-ls",
     "AIshihzong/awesome-reverse-engineer-anything",
     "AallamR/RobloxForge-Intelligence",
     "Aaron617/agent-arXiv-daily",
