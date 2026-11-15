@@ -10,15 +10,15 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 324
+- devforum: 325
 - index-only: 15
 - reddit: 251
-- youtube: 5
+- youtube: 4
 
 ## First-Session And Mobile
 
-- [Players leave right after my tutorial and I honestly don’t understand why. Will pay Robux for real feedback](https://www.reddit.com/r/ROBLOXStudio/comments/1xrt5fm/players_leave_right_after_my_tutorial_and_i/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [How do you make the first minute of a simulator game clear without a long tutorial?](https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Players keep leaving my game](https://www.reddit.com/r/robloxgamedev/comments/1xwjs7f/players_keep_leaving_my_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Board Game And Turn Flow
 
@@ -57,8 +57,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [Players keep leaving my game](https://www.reddit.com/r/robloxgamedev/comments/1xwjs7f/players_keep_leaving_my_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator](https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data](https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
