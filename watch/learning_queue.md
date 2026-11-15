@@ -11,8 +11,8 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 ## Saved source coverage
 
 - devforum: 324
-- index-only: 14
-- reddit: 252
+- index-only: 15
+- reddit: 251
 - youtube: 5
 
 ## First-Session And Mobile
@@ -63,13 +63,13 @@ Records processed: 600; unique posts: 595; fully reviewed: 0.
 ## Tools And Performance
 
 - [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [\[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking](https://devforum.roblox.com/t/tnl%C3%B8-tutorial-luau-type-functions-beyond-basic-typechecking/4983785) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout](https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one \[TNLØ Tutorial\] Luau Type Functions: Beyond Basic Typechecking test with measurable pass/fail.
+3. Explain WHY it matters and propose one Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

@@ -7,42 +7,62 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Steal An Egg
 
-- **[Only Today Secret Admin with Sammy in Steal an Egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uWkFsNmFuekdHMnNEa29NQjdGU0JpNVh5NEk3Tnk1QVpGZXV0UUhaSUNmVW4tM0s1X3dJNHRNcGVxWWNZX1VTLUVHUFdoQjgxTi1YclZB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-15
-  - Feed excerpt: Only Today Secret Admin with Sammy in Steal an Egg #roblox #robloxfyp #stealanegg Instagram
+- **[All locations of the new divine in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPRnpTTlpCRzQ2U1B6VzhFRHNvQW1IQmpVMU5QTlNnMHNROG5XYkxvWVQ5bjZTX203OUlqMlM5eHN2a01jMnd4eFJzQWtuaXNoYlctYm13?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-15
+  - Feed excerpt: All locations of the new divine in Steal an egg #roblox #robloxfyp #stealanegg Instagram
 
 ## Community
 
-- **[Players keep leaving my game](https://www.reddit.com/r/robloxgamedev/comments/1xwjs7f/players_keep_leaving_my_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
-  - Feed excerpt: Hello everyone, I recently made a tycoon game with elemental fighting attached to it. Its not a basic tycoon game and I tried adding an intro & tutorial to keep players hooked, but it doesn’t seem to work. I can only maintain a 5-10 ccu cou
-- **[Progression of my lake in my story-survival game :)](https://www.reddit.com/r/robloxgamedev/comments/1xwke5m/progression_of_my_lake_in_my_storysurvival_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
-  - Feed excerpt: The progression stages for an area on the map for Sonoran Struggle. tried to be as realistic and accurate to the real life environment the game is inspired from and definitely has had major improvements. if anyone has any tips or suggestion
-- **[Added pick and place machines to the factory game, its now possible to make simple circuit boards!](https://www.reddit.com/r/robloxgamedev/comments/1xwgj4d/added_pick_and_place_machines_to_the_factory_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: submitted by /u/jebeDIEah_Kerbal \[link\] \[comments\]
-- **[scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/)** · Reddit r/robloxgamedev public RSS · 2026-11-14
-  - Feed excerpt: been building games for other people and myself for 3 years now, i'm looking for open positions for paid work. please shoot me a message on reddit or message me on discord - vuxvo i'll send you some of my work. submitted by /u/sasukees \[lin
-- **[Looking for a skilled 3D modeller for my upcoming game!](https://www.reddit.com/r/robloxgamedev/comments/1xwigwt/looking_for_a_skilled_3d_modeller_for_my_upcoming/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
-  - Feed excerpt: I’m currently working on a Roblox bikelife game called Project 12 O’Clock and I’m looking for a talented 3D modeller to help create the bikes for the game. I’m mainly looking for someone who can make realistic, detailed models of: Dirt bike
-- **[Making a Area 51 game, and wanted critique on the building, what should i improve?](https://www.reddit.com/r/robloxgamedev/comments/1xwi4l7/making_a_area_51_game_and_wanted_critique_on_the/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
-  - Feed excerpt: submitted by /u/Hot-Aspect-116 \[link\] \[comments\]
-- **[mortar and such](https://www.reddit.com/r/robloxgamedev/comments/1xwke6g/mortar_and_such/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
-  - Feed excerpt: submitted by /u/peatmossing \[link\] \[comments\]
-- **[struggling to get recognition for my game out there](https://www.reddit.com/r/robloxgamedev/comments/1xwi4i5/struggling_to_get_recognition_for_my_game_out/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
-  - Feed excerpt: feels like i made an original horror game, and my ads arent really working. marketing is really weak rn. tiktok link submitted by /u/WarEffective \[link\] \[comments\]
+- **[made a somewhat art style accurate Extra History character design in Roblox Studio](https://www.reddit.com/r/ROBLOXStudio/comments/1xwpkk3/made_a_somewhat_art_style_accurate_extra_history/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: ignore the buildings in the background, they have nothing to do with the topic and are instead related to a worldbuilding project. made entirely out of parts with only a few meshes. submitted by /u/The_Last_Fluorican \[link\] \[comments\]
+- **[Idiotic Ways To Construct](https://www.reddit.com/r/ROBLOXStudio/comments/1xw1gjn/idiotic_ways_to_construct/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-14
+  - Feed excerpt: Hey guys, my game Idiotic Ways To Construct has been released, and it's a friend slop game, party up to 10 players and try to carry and port the battery on top of the tallest tower in Hapless City! Solo is hard, as you cannot get revived be
+- **[Prussian Hussars v Russian Cossacks circa 1757 - 7 years war character models](https://www.reddit.com/r/ROBLOXStudio/comments/1xwcz46/prussian_hussars_v_russian_cossacks_circa_1757_7/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-14
+  - Feed excerpt: submitted by /u/Bandit1189 \[link\] \[comments\]
+- **[Beginner animator for hire](https://www.reddit.com/r/ROBLOXStudio/comments/1xwo127/beginner_animator_for_hire/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: Hello! I can animate: -some simple thingd; -walk cycles -I dont know. Minimum 50 robux/animation; Also, I do not think I can be a full-time animator. Good luck! submitted by /u/Rstorirstiktok \[link\] \[comments\]
+- **[Euphoria ragdoll system v0.2](https://www.reddit.com/r/ROBLOXStudio/comments/1xwqs0h/euphoria_ragdoll_system_v02/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: submitted by /u/Puzzleheaded_Put2613 \[link\] \[comments\]
+- **[Feedback for my game.](https://www.reddit.com/r/ROBLOXStudio/comments/1xwt0ga/feedback_for_my_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: Hi, I am a solo developer and have been working on my game for over an year at this point, and after a lot of failures I have a working prototype. But what I don't is lighting system. How to make a realistic lighting system, the game is sti
+- **[Fix\] How I solved Roblox freezing / "Not Responding" on PC (Overlay conflict & Cache)](https://www.reddit.com/r/ROBLOXStudio/comments/1xwi8c3/fix_how_i_solved_roblox_freezing_not_responding/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: Hey everyone! My Roblox kept freezing ("Not Responding") and crashing after a few minutes of gameplay without showing any error messages on screen. After digging into the game's log files (%localappdata%\\Roblox\\logs), I found out that Roblo
+- **[Guys I posted My first Roblox Game!!!(I need your help)](https://www.reddit.com/r/ROBLOXStudio/comments/1xwpscr/guys_i_posted_my_first_roblox_gamei_need_your_help/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: But It is 16+ and I need 250 visits to make it not 16+ so If you can please join the game It is called "Rich The Top" and my nickname is "Mairmair234" submitted by /u/Mairbek4 \[link\] \[comments\]
+- **[I'm creating an open-world fantasy RPG on Roblox! What do you think? 🌌⚔️](https://www.reddit.com/r/ROBLOXStudio/comments/1xwqdd2/im_creating_an_openworld_fantasy_rpg_on_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: Hey everyone! 👋 I'm currently developing Roblox Legends Universe , an ambitious open-world fantasy RPG featuring floating islands, Japanese-inspired villages, magical landscapes, and cinematic environments. 🌍 What I'm building: A massive op
+- **[Studio FPS question](https://www.reddit.com/r/ROBLOXStudio/comments/1xwme42/studio_fps_question/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: Hey guys, I've had this problem for a while and have tried to fix it before, but it's driving me crazy now cause I can't continue developing like this. So essentially, when I open studio, my FPS counter tells me I'm at 20 FPS, however, once
+- **[adventure quest worlds inspired game on Roblox](https://www.reddit.com/r/ROBLOXStudio/comments/1xwlpcm/adventure_quest_worlds_inspired_game_on_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: game is called Adventure World - hey guys!! my name is Matty:) i first played aqw when i was 11, now im 29 lol... i am a game dev on roblox, and i always wanted to make a 2d mmorpg like aqw, so imade an aqw inspired game on roblox!! i am wo
+- **[do you guys think this thumbnail gets the point across?](https://www.reddit.com/r/ROBLOXStudio/comments/1xwly18/do_you_guys_think_this_thumbnail_gets_the_point/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
+  - Feed excerpt: It's a shapeshifter survival horror game inspired by Parasyte the Maxim, i did make others with more direct imagery depicting the monster and its flowery fleshy head bouquet thing submitted by /u/Manlikewafflehouse \[link\] \[comments\]
 
 ## Roblox Updates
 
-- **[Import Error, cant import textures](https://devforum.roblox.com/t/import-error-cant-import-textures/4991538)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: So ive been trying to import this model from blender to roblox studio and i always get this error: ContentId: rbxassetid://… failed due to: No asset content representation found while do_not_fallback_to_baseline is set to true. (x2) so i tr
-- **[New DataModel.ServerRegion property consistently returning blank](https://devforum.roblox.com/t/new-datamodelserverregion-property-consistently-returning-blank/4991414)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: The newly added DataModel.ServerRegion property does not appear to work in-game via server code like expected. Can confirm that I was playing on a Sydney Australia server (Thanks to an old HTTP-based server region module I used to use) This
-- **[Possible Issue with the 200 Outfit Display Limit Despite 2,000 Published Outfits](https://devforum.roblox.com/t/possible-issue-with-the-200-outfit-display-limit-despite-2000-published-outfits/4991400)** · Roblox Developer Forum latest · 2026-11-14
-  - Feed excerpt: Hello Roblox Engineering Team, I would like to report a potential issue or request clarification regarding the avatar outfit publishing and display system. From my understanding, creators will be able to publish up to 2,000 avatar outfits, 
-- **[Help with game Map(Solo Developer)](https://devforum.roblox.com/t/help-with-game-mapsolo-developer/4991553)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: I’m looking for some feedback on my current map - its incredibly bland and I’m not entirely sure how to make it more exciting? Any observations, suggestions, or criticism will definitely help. I have attached pictures and the link to the ga
-- **[My Roblox Experience is still locked to ages 16+ despite being in the "Final Review"](https://devforum.roblox.com/t/my-roblox-experience-is-still-locked-to-ages-16-despite-being-in-the-final-review/4991560)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: Hello! My Roblox Experience is locked to ages 16+ despite me hitting the 250 concurrent players needed. I have hit this goal since November 1st, 2026. I hit it around 3:50 PM EST. It has been almost 2 weeks and my game is still age-locked t
-- **[Open Cloud Endpoint for listing assets shared with you](https://devforum.roblox.com/t/open-cloud-endpoint-for-listing-assets-shared-with-you/4991568)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: The Problem As a Roblox developer, it is currently too hard to automate asset retrieval due to no endpoint existing for listing assets shared with you. Importantly, existing endpoints work with the shared access, but to use them you need to
+- **[Pressing and releasing right mouse button makes the camera move upwards when MouseBehavior is set to LockCenter](https://devforum.roblox.com/t/pressing-and-releasing-right-mouse-button-makes-the-camera-move-upwards-when-mousebehavior-is-set-to-lockcenter/4991775)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: Whenever I press or release the right mouse button the camera moves upwards. This only happens when the MouseBehavior is set to LockCenter. Note: This only happens in Roblox Studio 3 posts - 2 participants Read full topic
+- **[Free-form user creation question](https://devforum.roblox.com/t/free-form-user-creation-question/4991943)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: I made a grand strategy game that has a mod editor. As I’m approaching release, I had the revelation that I didn’t know what I should put at the “Free-form user creation” question inside the age questionnaire. The mod process is: Players cr
+- **[Custom window templates (Window tab)](https://devforum.roblox.com/t/custom-window-templates-window-tab/4991754)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: As a developer, you may have different roles per project, and as such, would need to have different windows + docking. While I’m very grateful for the Studio UI revamp, especially with the Window tab, as of now we lack the ability to create
+- **[Dead Ante \[Looking for Play Testers\]](https://devforum.roblox.com/t/dead-ante-looking-for-play-testers/4991851)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: Hey, Its that one guy. I am working on a game and am excited to show some of the progress. Attached is a photo of the main menu, and then there is a link if you would like to see it.. Do note this is 2 days worth of work, so their is plenty
+- **[Destructuring syntax for tables](https://devforum.roblox.com/t/destructuring-syntax-for-tables/4991883)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: Currently, it is too hard or awkward to destructure tables, especially when they get big: local qux = {1, 2, 3, 5, 8} local qux1, qux2, qux3, qux4, qux5 = table.unpack(qux) local foo = {bar = 3, buz = true} local bar, buz = foo.bar, foo.buz
+- **[Genre and Subgenre Picking Gone Wrong With Error](https://devforum.roblox.com/t/genre-and-subgenre-picking-gone-wrong-with-error/4991781)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: I was supposed to pick simulation and incremential subgenre but then after i picked them it said “something went wrong” i refresh and then for subgenre it picked “none” this is so annoying because im paying for ads and cant change it for 90
+- **[Groups remain locked for over 2 months after account bans were reversed](https://devforum.roblox.com/t/groups-remain-locked-for-over-2-months-after-account-bans-were-reversed/4991850)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: this is a rather known bug involving a backend synchronization issue that continues to affect users whose account bans have been reversed, myself included, to this day i have been falsely banned twice, although my account bans were eventual
+- **[Groups still locked 2 moths after my account got unterminated after getting false detected by moderation](https://devforum.roblox.com/t/groups-still-locked-2-moths-after-my-account-got-unterminated-after-getting-false-detected-by-moderation/4991922)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: 2 months ago i got false banned and got unbanned shortly after but my groups are still locked and i cant get them unlocked, can you check it out, group ids: 473185864 345068967 33201688 Expected behavior I expect to my groups 473185864 , 34
+- **[Request for Investigation – Possible Incorrect Spatial Voice Moderation Following Privacy Request](https://devforum.roblox.com/t/request-for-investigation-%E2%80%93-possible-incorrect-spatial-voice-moderation-following-privacy-request/4991843)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: I am requesting an investigation into a possible incorrect Spatial Voice moderation action following a privacy request. I have already contacted Roblox Support multiple times regarding this issue. However, every response from the Appeals te
+- **[Violations and appeals page completely dysfunctional](https://devforum.roblox.com/t/violations-and-appeals-page-completely-dysfunctional/4991878)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: Whenever I attempt to appeal a ban or view past moderation history taken against my account I cannot as of a few days ago the “Violations and appeals” page is just broken completely on arlit. I have tried on alts of mine and they all seem t
+- **[What do you guys think about this?](https://devforum.roblox.com/t/what-do-you-guys-think-about-this/4991801)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: Camera Test Been working on my free time on some camera kind of system with voxelized lighting, what do you guys think about this video i took about a random test? was just testing around how it would look on an abandoned house, i think it 
+- **[Worst support ever](https://devforum.roblox.com/t/worst-support-ever/4991820)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: its been 2 months with 20+ tickets and my problem never solved bevquse of ai. and after 1 month i replied to this email asking if there is anything just to find out the ticket is closed so waited a month for nothing what a lie Expected beha
 
 ---
 
