@@ -614,6 +614,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4992916:1",
+      "url": "https://devforum.roblox.com/t/wild-west-game-testing-feedback/4992916",
+      "title": "Wild West Game Testing Feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "economy and income",
+        "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xskuco",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xskuco/me_and_a_friend_built_a_pet_game_where_you_shoot/",
       "title": "Me and a friend built a pet game where you shoot ONE arrow down a 1,900 stud lane. Here is the 8th world, Sky Kingdom",
@@ -626,20 +641,6 @@
         "tools and performance"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983366:1",
-      "url": "https://devforum.roblox.com/t/need-feedback-and-testers-on-my-new-game-project-striders/4983366",
-      "title": "Need Feedback and Testers On My New Game: Project Striders",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1035,15 +1036,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xs5e7b",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs5e7b/do_i_have_to_use_r6_models/",
-      "title": "do i have to use r6 models?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4993064:1",
+      "url": "https://devforum.roblox.com/t/animation-assets-not-appearing-under-the-community-assets/4993064",
+      "title": "Animation Assets not appearing under the Community Assets",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
       "signals": [
-        "world and visual design",
-        "player feedback and marketing"
+        "animation and audio",
+        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1286,71 +1287,6 @@
         "player feedback and marketing"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983897:1",
-      "url": "https://devforum.roblox.com/t/continuous-issues-related-to-rcc-288-causing-constant-team-create-studio-crashing/4983897",
-      "title": "Continuous issues related to RCC-288 causing constant team create studio crashing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4983906:1",
-      "url": "https://devforum.roblox.com/t/animation-graph-parameter-broken/4983906",
-      "title": "Animation graph parameter broken",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984136:1",
-      "url": "https://devforum.roblox.com/t/studio-fails-to-persist-default-theme-setting/4984136",
-      "title": "Studio fails to persist \"Default\" theme setting",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984308:1",
-      "url": "https://devforum.roblox.com/t/changing-quality-lvl-to-manual-in-the-studio-enables-device-emulator-and-turning-it-off-returns-auto-quality-lvl/4984308",
-      "title": "Changing quality lvl to manual in the studio enables device emulator, and turning it off returns auto quality lvl!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984662:1",
-      "url": "https://devforum.roblox.com/t/critical-developers-should-not-be-able-to-activate-ads-using-another-user%E2%80%99s-payment-method/4984662",
-      "title": "[CRITICAL] Developers Should Not Be Able to Activate Ads Using Another User’s Payment Method",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2101,14 +2037,27 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrtt1a",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrtt1a/my_first_attempt_at_camera_animation_in_roblox/",
-      "title": "My first attempt at camera animation in Roblox",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992944:1",
+      "url": "https://devforum.roblox.com/t/scp-blackout-official-teaser-feedback/4992944",
+      "title": "SCP: Blackout | Official Teaser - Feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
       "signals": [
-        "animation and audio"
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4993101:1",
+      "url": "https://devforum.roblox.com/t/newly-uploaded-images-intermittently-fail-with-http-502-on-surfaceappearance-and-the-failure-persists-for-the-studio-session/4993101",
+      "title": "Newly uploaded images intermittently fail with HTTP 502 on SurfaceAppearance, and the failure persists for the Studio session",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2744,17 +2693,42 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4984790:1",
-      "url": "https://devforum.roblox.com/t/ai-traffic-system-prototype/4984790",
-      "title": "AI Traffic System prototype",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
+      "key": "reddit:1xxlffj",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxlffj/made_in_eclipse_animator/",
+      "title": "Made in eclipse animator",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
       "signals": [
-        "building and purchases",
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xxlwcd",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxlwcd/my_game_ctr_reach_3_yet_the_cpp_very_sucks_any/",
+      "title": "My game CTR reach 3% yet the CPP very sucks, any feedback or tips",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [
         "player feedback and marketing"
       ],
-      "score": 4,
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xxn5nc",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxn5nc/roblox_ads_strategy/",
+      "title": "Roblox Ads Strategy !",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3080,14 +3054,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xs4vt4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs4vt4/looking_for_a_playtester_im_available/",
-      "title": "Looking for a Playtester? I'm Available!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4993062:1",
+      "url": "https://devforum.roblox.com/t/16-game-plays-goal-54-across-3-small-campaigns-my-real-numbers-what-are-yours/4993062",
+      "title": "16+ game, Plays goal, $54 across 3 small campaigns: my real numbers. What are yours?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
       "signals": [
-        "first-session and mobile",
+        "genres and successful loops",
         "player feedback and marketing"
       ],
       "score": 4,
@@ -3331,32 +3305,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984692:1",
-      "url": "https://devforum.roblox.com/t/beta-translate-text-in-your-in-game-images-automatically/4984692",
-      "title": "[Beta] Translate Text in Your In-Game Images Automatically",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984850:1",
-      "url": "https://devforum.roblox.com/t/hovering-over-virtual-controller-in-the-device-emulator-opens-empty-popups/4984850",
-      "title": "Hovering over \"virtual controller\" in the device emulator opens empty popups",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4088,53 +4036,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrpqp0",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xrpqp0/is_my_game_doing_good/",
-      "title": "Is my game doing good?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992892:1",
+      "url": "https://devforum.roblox.com/t/thumbnails-dont-get-changed-when-updating-a-ugc-item/4992892",
+      "title": "Thumbnails don't get changed when updating a UGC item",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xrvblm",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrvblm/what_does_this_orange_highlight_mean/",
-      "title": "what does this orange highlight mean?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xryq7i",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xryq7i/playtester_for_your_games/",
-      "title": "Playtester for your games!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xs6df9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xs6df9/my_first_roblox_game_is_finally_out_what_should_i/",
-      "title": "My first Roblox game is finally out! What should I do next?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-09",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4751,47 +4660,68 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983495:1",
-      "url": "https://devforum.roblox.com/t/types-type-has-no-auto-completion/4983495",
-      "title": "\"types\" type has no auto completion",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xxgdb4",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxgdb4/which_ai_is_best_to_help_me_write_code/",
+      "title": "Which Ai is best to help me write code?",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4983533:1",
-      "url": "https://devforum.roblox.com/t/npc-cod-style-combat-support/4983533",
-      "title": "NPC Cod style combat support",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xxgjjy",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxgjjy/my_recent_roblox_game/",
+      "title": "My Recent Roblox Game",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4984595:1",
-      "url": "https://devforum.roblox.com/t/upcoming-fixes-for-wedge-part-collisions/4984595",
-      "title": "Upcoming Fixes for Wedge Part Collisions",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xxh6fg",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxh6fg/powerplay_football_beta_feetback_needed_please/",
+      "title": "PowerPlay Football Beta feetback needed please!",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4984681:1",
-      "url": "https://devforum.roblox.com/t/obscene-amount-of-draw-calls-for-baseparts-after-recent-roblox-update/4984681",
-      "title": "Obscene Amount of Draw Calls for BaseParts after Recent Roblox Update",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-09",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
+      "key": "reddit:1xxjwjk",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxjwjk/help_for_gun_system/",
+      "title": "Help for gun system",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xxlncc",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxlncc/de_robloxanfänger_sucht_deutsche_zum_gemeinsamen/",
+      "title": "[DE] Roblox-Anfänger sucht Deutsche zum gemeinsamen Lernen & erfolgreich sein",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6104,34 +6034,67 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrfdd1",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrfdd1/how_do_i_fix_this/",
-      "title": "how do i fix this?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992870:1",
+      "url": "https://devforum.roblox.com/t/roblox-client-crashes-after-10-seconds-on-first-open-after-each-computer-boot/4992870",
+      "title": "Roblox Client Crashes after ~10 seconds on first open after each computer boot",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrt96z",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrt96z/what_do_i_do_and_what_does_this_mean/",
-      "title": "What do I do and what does this mean?",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992940:1",
+      "url": "https://devforum.roblox.com/t/my-experiences-received-reduced-exposure-universe-id-10774896436-universe-id-10773933653/4992940",
+      "title": "My experiences received reduced exposure (Universe ID: 10774896436) (Universe ID: 10773933653)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xrw7gq",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xrw7gq/feel_free_to_try_my_new_game_dont_splash/",
-      "title": "Feel free to try my new game :) Dont Splash Gladiator Arena",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-09",
-      "kind": "reddit",
+      "key": "devforum:4992967:1",
+      "url": "https://devforum.roblox.com/t/rejected-appeal-re-applies-a-permanent-ban-that-staff-already-corrected-to-a-7-day-suspension-same-incident/4992967",
+      "title": "Rejected appeal re-applies a permanent ban that staff already corrected to a 7-day suspension (same incident)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4992973:1",
+      "url": "https://devforum.roblox.com/t/monetization-analytics-show-zero-on-october-19-and-november-3-2026/4992973",
+      "title": "Monetization analytics show zero on October 19 and November 3, 2026",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4993001:1",
+      "url": "https://devforum.roblox.com/t/are-wedding-games-against-roblox-tos/4993001",
+      "title": "Are wedding games against roblox tos?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4993053:1",
+      "url": "https://devforum.roblox.com/t/particleemitters-with-no-particles-still-cost-render-time-every-frame-and-enabled-true-with-rate-0-costs-3%E2%80%934%C3%97-more-than-enabled-false/4993053",
+      "title": "ParticleEmitters with no particles still cost render time every frame, and Enabled = true with Rate = 0 costs 3–4× more than Enabled = false",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-16",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7240,6 +7203,39 @@
       "key": "reddit:1xxdx2l",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxdx2l/ro_space_passion_project/",
       "title": "Ro Space - passion project.",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xxh40g",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxh40g/i_need_idea_for_weapons/",
+      "title": "I need idea for weapons",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xxkbhn",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxkbhn/ai_or_human_which_is_it/",
+      "title": "Ai or Human? Which is it.",
+      "source": "reddit-robloxdev",
+      "published": "2026-11-16",
+      "kind": "reddit",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xxmlpr",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxmlpr/need_help_on_a_doors_fangame/",
+      "title": "Need help on a doors fangame",
       "source": "reddit-robloxdev",
       "published": "2026-11-16",
       "kind": "reddit",

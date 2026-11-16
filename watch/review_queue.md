@@ -7,7 +7,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Game loops / progression
 
 - **[\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585)** — Public text/page, video not confirmed
-- **[Progression of my lake in my story-survival game :)](https://www.reddit.com/r/robloxgamedev/comments/1xwke5m/progression_of_my_lake_in_my_storysurvival_game/)** — Public text/page, video not confirmed
+- **[Roblox Ads Strategy !](https://www.reddit.com/r/robloxgamedev/comments/1xxn5nc/roblox_ads_strategy/)** — Public text/page, video not confirmed
 
 ## UI / menus / effects
 
