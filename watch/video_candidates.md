@@ -10,7 +10,6 @@ Only direct YouTube videos or original social posts (plus labeled Reddit communi
 - **[RoTanks: Gameplay Dev Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xxa8ul/rotanks_gameplay_dev_showcase/)** — Community showcase post (video not confirmed) · 2026-11-15
 - **[What do u think about the UI and animations?](https://www.reddit.com/r/robloxgamedev/comments/1xtdwq0/what_do_u_think_about_the_ui_and_animations/)** — Community showcase post (video not confirmed) · 2026-11-11
 - **[\[Paid\] Looking for 3 serious playtesters](https://www.reddit.com/r/robloxgamedev/comments/1xt2vf6/paid_looking_for_3_serious_playtesters/)** — Community showcase post (video not confirmed) · 2026-11-11
-- **[studio playtest STOP takes a lot of time ( more than +3 MINUTES )](https://www.reddit.com/r/robloxgamedev/comments/1xsy00j/studio_playtest_stop_takes_a_lot_of_time_more/)** — Community showcase post (video not confirmed) · 2026-11-10
 
 ## Coverage gap
 

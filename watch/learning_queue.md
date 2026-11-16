@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 318
-- index-only: 16
-- reddit: 258
-- youtube: 4
+- devforum: 317
+- index-only: 17
+- reddit: 257
+- youtube: 5
 
 ## First-Session And Mobile
 
@@ -53,7 +53,7 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 ## Genres And Successful Loops
 
 - [\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Added hidden secret islands to my simulator: how I set them up + looking for feedback on discoverability](https://www.reddit.com/r/robloxgamedev/comments/1xsa8yg/added_hidden_secret_islands_to_my_simulator_how_i/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not](https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Player Feedback And Marketing
 

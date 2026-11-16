@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "06c0329de2e1424017f1a67e5a2cc841fb26ece3",
-      "head_subject": "Fix wrong status code on failed login (#9566)",
+      "head": "77e74e81b71bd6d9552f3112008edb1a453f7c73",
+      "head_subject": "Serve consistent error responses on failed logins (#9568)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "eba1240d09fd468b984a2a317c77cb48e1e51d2f",
+      "head": "a5840c6046871681ec36c132a54854acf104c2a0",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.325",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+      "release_tag": "v2.1.326",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "15af2b261c14c494d1fe08cf9d0b9e0af1a18c84",
-      "head_subject": "llm: keep weights out of pinned host memory on Windows iGPUs (#19636)",
+      "head": "db5266a71d6413c4568208a768757b16ffd7a021",
+      "head_subject": "mlxrunner: batch speculative verification (#19663)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
@@ -214,6 +214,7 @@
     "buriedsignals/scoutpost-os",
     "c78576331-art/auto-aim-heads-hub",
     "chandtheblues99-ai/studio-bridge-mcp",
+    "cherrypath0/tuxblox",
     "chiragmangaldev3112/agent-playbooks",
     "cnlinxi/LLM-paper-daily",
     "cxyfreedom/website-hot-hub",
