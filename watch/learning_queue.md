@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 325
-- index-only: 15
-- reddit: 252
+- devforum: 319
+- index-only: 16
+- reddit: 257
 - youtube: 4
 
 ## First-Session And Mobile
@@ -27,8 +27,8 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Building And Purchases
 
+- [Roblox dev (Can do building, modeling, scripting, ui)](https://www.reddit.com/r/robloxgamedev/comments/1xxckhe/roblox_dev_can_do_building_modeling_scripting_ui/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Road Builder Plugin (SMOOTH ROADS!)](https://devforum.roblox.com/t/road-builder-plugin-smooth-roads/4986400) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [I made a Figma to Roblox UI plugin for myself, and figured I'd share it](https://devforum.roblox.com/t/i-made-a-figma-to-roblox-ui-plugin-for-myself-and-figured-id-share-it/4986776) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Economy And Income
 
@@ -57,19 +57,19 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
+- [\[FOR HIRE\] Dragon | Lead Scripter @ BEXCO | Systems, UI & Discord Bots | 3+ Years](https://devforum.roblox.com/t/for-hire-dragon-lead-scripter-bexco-systems-ui-discord-bots-3-years/4992656) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator](https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data](https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
+- [I made a Figma to Roblox UI plugin for myself, and figured I'd share it](https://devforum.roblox.com/t/i-made-a-figma-to-roblox-ui-plugin-for-myself-and-figured-id-share-it/4986776) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout](https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout test with measurable pass/fail.
+3. Explain WHY it matters and propose one scripter, animator, and designer jobs. test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

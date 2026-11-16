@@ -5,56 +5,46 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
+## Roblox Creator / Ai Development
 
-- **[احدث مكان سري في روبلوكس #roblox #شحرور - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuNDgyaDNVU1BSNkVKemNqUGFYdFN1RnNBaF9CelBOMUZTaFlTX1hRMjJLN0F4dkhqb25FeXdDbjBwS3pHZWp0a3NGTjMtNGRUM2UxWnZn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-08
-  - Feed excerpt: احدث مكان سري في روبلوكس #roblox #شحرور Instagram
+- **[How To Connect Claude AI To ROBLOX STUDIO! ROBLOX - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcnE4S0ZmV09rWjhfNmhyTnI2UHdNZzREc2JRYTNwNzJLX0htR2RBYkNtTHdUdW9ZNjNpRnJJNUExT2p0a19yTzBwUzBkNC16ZU5GdUJR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-11
+  - Feed excerpt: How To Connect Claude AI To ROBLOX STUDIO! ROBLOX YouTube
 
 ## Community
 
-- **[Do I keep engagement ads or do I switch to plays ads now?](https://www.reddit.com/r/ROBLOXStudio/comments/1xx6loc/do_i_keep_engagement_ads_or_do_i_switch_to_plays/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: And how long would I have to run the ads to reach home recs? submitted by /u/Cyberspace_Sorcerer \[link\] \[comments\]
-- **[Game testing](https://www.reddit.com/r/ROBLOXStudio/comments/1xx41qi/game_testing/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: Need a massive favor from you guys before I start throwing Robux at ads. I just finished scripting ECHO-6, a 16+ bodycam extraction horror game. The AI physically tracks your proximity chat to hunt you. I want a small group of real players 
-- **[I recreated Liverpool in Roblox](https://www.reddit.com/r/ROBLOXStudio/comments/1xx89d0/i_recreated_liverpool_in_roblox/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: Been building this for a few months as a hobby. You can do taxi fares, parcel deliveries, bus routes, fire calls, the dock crane, and work your way up from a terraced house to a waterfront penthouse. Landmarks are all there (Liver Building,
-- **[I remade my game entity; the one on the right is the old one. I'm not that good with Blender, but there it is.](https://www.reddit.com/r/ROBLOXStudio/comments/1xx3v8a/i_remade_my_game_entity_the_one_on_the_right_is/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: submitted by /u/Sentuva \[link\] \[comments\]
-- **[Looking for a beginner partner!](https://www.reddit.com/r/ROBLOXStudio/comments/1xx2tt3/looking_for_a_beginner_partner/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: I'm a scripter with roughly 6 months of experience, and I'm looking for a partner to learn by creating a game together. It's like a motivation for both of us to dedicate time to learn our respective skills. I was the lead scripter for an un
-- **[Need players!](https://www.reddit.com/r/ROBLOXStudio/comments/1xx4mad/need_players/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: Hey, I've been working on updating my rising-water survival game and finally cleaned up the mechanics. https://www.roblox.com/games/100706845594498/Survive-the-Rising-Water submitted by /u/ANDRIABZ12 \[link\] \[comments\]
-- **[Some gameplay for my (basically) newly released horror game! \[Parasytism\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xx2m3d/some_gameplay_for_my_basically_newly_released/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: Sorry for the lack of monster sounds, it broke because we just changed the monster model but it was fixed right after, just that this clip is genuinely perfect with the monster stabbing him at the time it does 😭 Again, it's called Parasytis
-- **[i'm recoding / reworking my game. any suggestions / addition ideas? (and more in the body)](https://www.reddit.com/r/ROBLOXStudio/comments/1xx6dza/im_recoding_reworking_my_game_any_suggestions/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-15
-  - Feed excerpt: hello! i've been working on my roblox game, "flop", for a little while, and now that i've grown as a developer i'm overhauling it. do you guys have any ideas / addition suggestions? the game feels kinda monotonous right now and there are lo
+- **[Any tips on improving the UI or the Lighting?](https://www.reddit.com/r/robloxgamedev/comments/1xwzmdl/any_tips_on_improving_the_ui_or_the_lighting/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
+  - Feed excerpt: I'm currently doing a rework on my Boss Fight game, where I'm adding this new map, some additional UI as well as changes to the lighting and the Skybox. Any tips or suggestions would be appreciated! submitted by /u/CoffeeTime5610 \[link\] \[co
+- **[RoTanks: Gameplay Dev Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xxa8ul/rotanks_gameplay_dev_showcase/)** · Reddit r/robloxgamedev public RSS · 2026-11-15
+  - Feed excerpt: submitted by /u/IKOHCEPBATOP \[link\] \[comments\]
+- **[COMO MEJORO LAS TEXTURAS](https://www.reddit.com/r/robloxgamedev/comments/1xxdspy/como_mejoro_las_texturas/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: submitted by /u/Happy-Month-6 \[link\] \[comments\]
+- **[How Do You Use AI to Make Assets and GUI?](https://www.reddit.com/r/robloxgamedev/comments/1xxb7x1/how_do_you_use_ai_to_make_assets_and_gui/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: Hello everyone! My biggest problem in game development is that my assets all are AI generated, because they are. How do I use AI to make assets and GUI? I have Claude and ChatGPT subscriptions. I plan to use assets and GUI to make my game a
+- **[My friends and I have been working on our first Roblox game, and we’d genuinely appreciate some feedback!](https://www.reddit.com/r/robloxgamedev/comments/1xxbb1h/my_friends_and_i_have_been_working_on_our_first/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: Hey everyone! I’m a college student, and recently I’ve been working on a Roblox game called DISASTERPROOF! with my roommate and one of our friends. We’re a small team of three working under our group, CAPS LOCK GAMING, and it’s been a reall
+- **[Ro Space - passion project.](https://www.reddit.com/r/robloxgamedev/comments/1xxdx2l/ro_space_passion_project/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: https://preview.redd.it/7p8n5cf0zv1i1.png?width=1919&format=png&auto=webp&s=432fb39757e864e8a2efbc54635c158896b4f109 https://preview.redd.it/ssy2voqnyv1i1.png?width=1899&format=png&auto=webp&s=5fd0745d2115a903c5985dfbcb0468b1a979d47a https:
+- **[Roblox dev (Can do building, modeling, scripting, ui)](https://www.reddit.com/r/robloxgamedev/comments/1xxckhe/roblox_dev_can_do_building_modeling_scripting_ui/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: If you wanna team up or need a cheap (100-500 robux per task) developer to create you high quality stuff then hmu I can create high quality ui’s and objects and can script the main gameplay loop submitted by /u/Able_Wish_9797 \[link\] \[commen
+- **[What ai can assist me in making a roblox game?](https://www.reddit.com/r/robloxgamedev/comments/1xxbuz0/what_ai_can_assist_me_in_making_a_roblox_game/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: I want to create a Roblox game, but I'm not sure which AI tools I can use to help me with game development. Can you recommend some free AI tools that I can use as assistants throughout the process of making a Roblox game? I'm mainly looking
+- **[a little kingdom game im building up](https://www.reddit.com/r/robloxgamedev/comments/1xxd4io/a_little_kingdom_game_im_building_up/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: submitted by /u/Budget_Touch_9304 \[link\] \[comments\]
+- **[anyone ever get this?](https://www.reddit.com/r/robloxgamedev/comments/1xxdula/anyone_ever_get_this/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: https://preview.redd.it/gk1c1dqbyv1i1.png?width=957&format=png&auto=webp&s=6ac3313e640b3fcb1fabe6f7dd073ab76efe61a0 Got this on a game i published an then forgot an when i went to setup an ad it rejected it automatically. Also i didn't copy
+- **[how are games "ported" into roblox](https://www.reddit.com/r/robloxgamedev/comments/1xxbkc1/how_are_games_ported_into_roblox/)** · Reddit r/robloxgamedev public RSS · 2026-11-16
+  - Feed excerpt: https://preview.redd.it/otgyp7ifev1i1.png?width=1468&format=png&auto=webp&s=95d218b56a7e88e0f71bef82067ddd2ddc574b0d we all know the trend where people are making well-known games inside roblox, but the main mystery is how? Are they using r
 
 ## Roblox Updates
 
-- **[Peek - Quickly Peek on anything](https://devforum.roblox.com/t/peek-quickly-peek-on-anything/4992636)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: Peek is a plugin that makes it quick and easy to preview instances and assets directly inside Roblox Studio. To use Peek’s Instance preview, all you have to do is select an instance in the explorer, and instantly see an interactive preview 
-- **[1,099,980 Robux still unresolved after partial account restoration](https://devforum.roblox.com/t/1099980-robux-still-unresolved-after-partial-account-restoration/4992565)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: I’m looking for advice on how to get a consistent review of an unresolved account restoration case. I first reported this on July 7, 2026, and it has now been over four months. This concerns the remaining Robux from the original compromise.
-- **[A Linux desktop on Roblox](https://devforum.roblox.com/t/a-linux-desktop-on-roblox/4992544)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: I made a game that lets you play around with a Linux VM in Roblox. You get your own private session with a few apps and build tools (including a bloodless build of Freedoom). As you may guess, it’s not some fancy RISC-V emulator because Rob
-- **[Can't send Robux](https://devforum.roblox.com/t/cant-send-robux/4992538)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: I am trying to send 5k robux to user Jax753749 but to no avail. The error message states: this user cannot receive this amount right now. What could go wrong? 1 post - 1 participant Read full topic
-- **[Cant edit game to fix the reason its banned](https://devforum.roblox.com/t/cant-edit-game-to-fix-the-reason-its-banned/4992511)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: My game got banned for “Misusing roblox systems”, i cant edit the game as it is banned. I tried to appeal so the game could maybe get unbanned and i could fix the reason its banned, but the appeal was denied I tried to open a local copy and
-- **[CaptureService compatibility with EditableImages](https://devforum.roblox.com/t/captureservice-compatibility-with-editableimages/4992613)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: Continuing the discussion from Captures APIs are now available! : As of now, images taken via CaptureService cannot be written/read by the EditableImage API. The main reason for this is because: Captures APIs are now available! we don’t wan
-- **[Feedback on my second game](https://devforum.roblox.com/t/feedback-on-my-second-game/4992587)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: I was wondering if anybody could give some feedback on my new multiplayer party survival game - Last One Standing. It’s in early access since I only have 4/250 of the highly engaged players that I need to publish the game for all ages. I ha
-- **[Is this level of gore/blood fine for "Mild" Maturity rating?](https://devforum.roblox.com/t/is-this-level-of-goreblood-fine-for-mild-maturity-rating/4992641)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: Hello, I’m working on a retro-styled game (details shall remain mysterious) and have implemented a basic but era-accurate blood effect. I know that the answer to this topic is probably obvious but I would appreciate further clarification fr
-- **[Partial account restoration unresolved after four months](https://devforum.roblox.com/t/partial-account-restoration-unresolved-after-four-months/4992583)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: On July 7th, I reported unauthorized Limited trades and purchases totaling 1,099,980 Robux under Case 175470181. Roblox restored my Limiteds on August 11th and stated that my other concern remained under Investigation. Under follow-up ticke
-- **[Soccer system w/Custom Physics & Animation](https://devforum.roblox.com/t/soccer-system-wcustom-physics-animation/4992645)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: I’m making an arcade football/soccer game. I custom made the physics engine, the 100% procedural IK animations, controls, etc. It took many hours to get here but I’m liking it! Watch the video to see: drive.google.com 2026-11-15 17-45-18.mp
-- **[UI elements auto snapping when resizing/positoning](https://devforum.roblox.com/t/ui-elements-auto-snapping-when-resizingpositoning/4992547)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: Is there any way to disable ui snapping momentarily to resize elements freely similarly to how you can by using shift when resizing a part? 1 post - 1 participant Read full topic
-- **[\[Server Authority\] Client time() in BindToSimulation skips or repeats steps between regular callbacks while physics moves one step](https://devforum.roblox.com/t/server-authority-client-time-in-bindtosimulation-skips-or-repeats-steps-between-regular-callbacks-while-physics-moves-one-step/4992560)** · Roblox Developer Forum latest · 2026-11-15
-  - Feed excerpt: On the client, time() inside RunService:BindToSimulation sometimes jumps forward 3 steps or goes back 1 step between two callbacks in a row. Neither of the two callbacks is a resimulation ( IsResimulating() is false in both) and there is no
+- **[\[FOR HIRE\] Roblox Scripter \| 5 Years Experience \| Combat, Weapons & Movement \| Robux & USD](https://devforum.roblox.com/t/for-hire-roblox-scripter-5-years-experience-combat-weapons-movement-robux-usd/4992782)** · Roblox Developer Forum latest · 2026-11-16
+  - Feed excerpt: About Me Hey! I’m a Roblox scripter with about 5 years of experience in Luau. I focus on gameplay scripting: combat systems, weapons, movement mechanics and core game loops. I write clean, modular and optimized code that’s easy to maintain 
+- **[Group owners under 16 cannot add Social Links to Groups, despite having access to Social Links on Experiences](https://devforum.roblox.com/t/group-owners-under-16-cannot-add-social-links-to-groups-despite-having-access-to-social-links-on-experiences/4992694)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: Currently, there is an inconsistency with age-gated permissions regarding Social Links on the Roblox website. While a user under 16 (or approaching 16) is permitted to configure and display Social Links on an Experience (game) they own, tha
+- **[My game is restricted in Saudi Arabia for "local requirements" - Looking for clarification](https://devforum.roblox.com/t/my-game-is-restricted-in-saudi-arabia-for-local-requirements-looking-for-clarification/4992663)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: Hello everyone! I’m the creator of \[ \] Steal A Seed (Experience ID: 92326865374653 ). I’ve recently discovered that my game is unavailable in Saudi Arabia, with the following message: “Because of local requirements, your game isn’t availabl
+- **[\[FOR HIRE\] Dragon \| Lead Scripter @ BEXCO \| Systems, UI & Discord Bots \| 3+ Years](https://devforum.roblox.com/t/for-hire-dragon-lead-scripter-bexco-systems-ui-discord-bots-3-years/4992656)** · Roblox Developer Forum latest · 2026-11-15
+  - Feed excerpt: About me Hi! I’m Dragon, a Roblox scripter with 3+ years of experience. I’m Lead Scripting & Systems Developer at BEXCO Asset Research Institute, a facility roleplay game, where I built the core systems players use every session. I speciali
 
 ---
 
