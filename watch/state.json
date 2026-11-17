@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "77e74e81b71bd6d9552f3112008edb1a453f7c73",
-      "head_subject": "Serve consistent error responses on failed logins (#9568)",
+      "head": "e7fe44bf86c4f590ecdbd9800ad8cbe42cb776e8",
+      "head_subject": "PostgreSQL: detect FreshRSS tables by visibility rather than owner (#9535)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "a5840c6046871681ec36c132a54854acf104c2a0",
+      "head": "1ad046cb015cfcb6ad90293c605ee4e38326bd13",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.326",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "db5266a71d6413c4568208a768757b16ffd7a021",
-      "head_subject": "mlxrunner: batch speculative verification (#19663)",
+      "head": "312c3c8d0c2709209ebbc816ca352bcaf52c19b5",
+      "head_subject": "Merge pull request #19731 from ollama/fix/repl-ctrl-c-multiline",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",

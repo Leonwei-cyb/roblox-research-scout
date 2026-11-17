@@ -6,12 +6,12 @@ Active game: **UNKNOWN**. No game-specific tests are proposed.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 596; fully reviewed: 0.
+Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 317
-- index-only: 17
+- devforum: 319
+- index-only: 16
 - reddit: 257
 - youtube: 5
 
@@ -23,7 +23,6 @@ Records processed: 600; unique posts: 596; fully reviewed: 0.
 ## Board Game And Turn Flow
 
 - [Hex Warfare - First Mission Demo Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Looking for playtesters: Sifter ( party games)](https://devforum.roblox.com/t/looking-for-playtesters-sifter-party-games/4985742) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Building And Purchases
 

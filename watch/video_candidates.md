@@ -4,6 +4,7 @@
 
 Only direct YouTube videos or original social posts (plus labeled Reddit community posts) qualify. Indexed Google News redirects do **not** qualify as watchable videos.
 
+- **[\[FREE for 72 Hours\] I built AnimatorX: A modern animation suite for Roblox Studio with AI MCP Bridge, 200+ Presets, and Multi-Rig scenes!](https://www.reddit.com/r/ROBLOXStudio/comments/1xy8jx6/free_for_72_hours_i_built_animatorx_a_modern/)** — Community showcase post (video not confirmed) · 2026-11-17
 - **[Looking for playtesters for my Roblox PVP game](https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/)** — Community showcase post (video not confirmed) · 2026-11-14
 - **[Hex Warfare - First Mission Demo Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/)** — Community showcase post (video not confirmed) · 2026-11-11
 - **[I wanted to create a movement demo for fun](https://www.reddit.com/r/robloxgamedev/comments/1xttn0f/i_wanted_to_create_a_movement_demo_for_fun/)** — Community showcase post (video not confirmed) · 2026-11-11
