@@ -7,59 +7,52 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[How to Copy Game on Roblox – Roblox Game Copier & Studio Tutorial - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CMmFuZGFicElySW5mbklXc0w3QkFGNzZzTTBGWnJTOUg1YUU5RGRUZGc4VkRVczhuUzllNHM4Sl9VM3I2M3d6QmVxcUEwbVd3QnkyZnNR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-31
-  - Feed excerpt: How to Copy Game on Roblox – Roblox Game Copier & Studio Tutorial YouTube
-- **[Can Claude Opus 5 5 create a Rell Seas Type Game in 7 days - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE15c0J1UXUtZkRrTjVjR1JtN09qNXpNLXE1aXp4WVlXaEp0ZFh3Z2lLTkxHQVdmbjJfTU1ITkM2a3Z6QzdwRUVBZ2V4RENsREVFbXM5SDdB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-08
-  - Feed excerpt: Can Claude Opus 5 5 create a Rell Seas Type Game in 7 days YouTube
-
-## Roblox Creator / Steal An Egg
-
-- **[Im Ben owner of Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GeTlXYWV4Qk40bU0xejVQbU9oaWtYQzV4c1I4cWkzUW52RVdibWtCY2dmSXlKbE0tLU5qc0ZHbXVRSVpiWERXSkdweFAwbUVNQ2FuOFZn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-16
-  - Feed excerpt: Im Ben owner of Steal an egg #roblox #robloxfyp #stealanegg Instagram
+- **[How to Use Claude AI with Roblox Studio \| Create Games with AI! - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPNjFsLXp3UmtzaVNmeU1SMkhfc3lyTHduT2p6SlJpc05uVk9uSVNKNDlyQjlIV0E5Q0tJQ0plR25KRmRvaUp0YnFlOU0xR1J0bHdmWml3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-17
+  - Feed excerpt: How to Use Claude AI with Roblox Studio \| Create Games with AI! YouTube
 
 ## Community
 
-- **[\[FREE for 72 Hours\] I built AnimatorX: A modern animation suite for Roblox Studio with AI MCP Bridge, 200+ Presets, and Multi-Rig scenes!](https://www.reddit.com/r/ROBLOXStudio/comments/1xy8jx6/free_for_72_hours_i_built_animatorx_a_modern/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: Hey everyone! I’ve been working on AnimatorX , a next-gen animation and keyframing plugin designed to make animating in Roblox Studio faster, cleaner, and much more intuitive—eliminating the clunkiness and dock-snapping headaches of traditi
-- **[Bedwars-style advice](https://www.reddit.com/r/ROBLOXStudio/comments/1xy3zgk/bedwarsstyle_advice/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-16
-  - Feed excerpt: Why are there no other popular Bedwars-style games on Roblox besides easy.gg's? Is there a legal or competitive reason for the monopoly? I'm working on a team-based PvP game that integrates battlegrounds-style combat mechanics and abilities
-- **[Hide Quickly! \[Horror game I made\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xy3tem/hide_quickly_horror_game_i_made/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-16
-  - Feed excerpt: I made a Roblox horror game where you and your friends have to hide from a monster until the timer runs out. The monster can either be controlled by another player or by the game itself. You can check security cameras while hiding to track 
-- **[Done for now! but i feel like for my first map its ok](https://www.reddit.com/r/ROBLOXStudio/comments/1xya7a9/done_for_now_but_i_feel_like_for_my_first_map_its/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: let me know what all think please! submitted by /u/OacKrulcifer \[link\] \[comments\]
-- **[Genshin inspired vfx](https://www.reddit.com/r/ROBLOXStudio/comments/1xyb46r/genshin_inspired_vfx/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: Made a wishing vfx for my anime rng, thoughts? submitted by /u/Iwanttodiernloll \[link\] \[comments\]
-- **[Good evening reddit :)](https://www.reddit.com/r/ROBLOXStudio/comments/1xy8s4x/good_evening_reddit/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: I have a question, does my lobby feel open or to claustrophobic the foliage is something you can walk through(except rocks) and sorry for my use of free models(the trees and maybe grass meshes unsure) I just want to know if you guys like it
-- **[how do i make r6 for roblox vr](https://www.reddit.com/r/ROBLOXStudio/comments/1xy8j7c/how_do_i_make_r6_for_roblox_vr/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: can someone can give me somthing to make my game r6 vr please submitted by /u/ZookeepergameCool284 \[link\] \[comments\]
+- **[Tips for new Roblox developer](https://www.reddit.com/r/ROBLOXStudio/comments/1xycuxt/tips_for_new_roblox_developer/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
+  - Feed excerpt: Hello! I’m someone who just got their first ever computer (monitor and screen) and I wanted to get more into coding for Roblox. So far I’ve been Coddy to help learn luau but it feels super slow only being able to do max 6 tutorials in one d
+- **[I released my first Roblox game but players keep leaving, any advice?](https://www.reddit.com/r/ROBLOXStudio/comments/1xycx2f/i_released_my_first_roblox_game_but_players_keep/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
+  - Feed excerpt: Hey, so I recently released my first Roblox game called DEAD HEIST. I've been working on it alone for quite a while and finally decided to release it in beta. The problem is that I'm struggling to keep players. I tried running some ads, but
+- **[Good 3D Roblox Units models](https://www.reddit.com/r/ROBLOXStudio/comments/1xyjb9t/good_3d_roblox_units_models/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
+  - Feed excerpt: Im trying to make like an Anime Ranger X or Anime Squadron thing on Roblox, taking inspiration in games like this and Anime Vanguards or even Anime Crusaders X, but Claude with Blender cant seem to get and replicate the quality of the model
+- **[Help for my friend about his game](https://www.reddit.com/r/ROBLOXStudio/comments/1xykaln/help_for_my_friend_about_his_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
+  - Feed excerpt: My Friend create a hangout for polish community to defeat one game that have same things but with almost 10 milion visits is there any idea why my friends game isn't like you know getting players? I know that the first game with milions vis
+- **[Looking for a code buddy \[16M\] \[USA\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xyh3ir/looking_for_a_code_buddy_16m_usa/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
+  - Feed excerpt: \[before continuing, know I am not completely new to scripting\] \[And please read all of it, have had a few individuals who lack the ability to read past the title...\] As the previous text mentions, I am not completely new to scripting, BUT I
+- **[Making a co-op One Piece crew game (not a bandit beater!) — looking for a chill scripter, animator & builder \[Rev-Share\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xyexe6/making_a_coop_one_piece_crew_game_not_a_bandit/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
+  - Feed excerpt: Hey everyone! I'm building a co-op One Piece inspired game focused on actual crew roles instead of grinding bandits for hours. The Idea: When you sail with friends, everyone picks a real job on the ship with its own skill tree and abilities
+- **[🎮 My Roblox Open-World RPG is NOW AVAILABLE! 🌌🐉](https://www.reddit.com/r/ROBLOXStudio/comments/1xyfv7g/my_roblox_openworld_rpg_is_now_available/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
+  - Feed excerpt: Salut tout le monde ! 👋🇫🇷 Je suis un développeur solo français et je viens de sortir mon jeu Roblox, LEGENDE UNIVERS ! 🌍 Explorez un monde ouvert magique rempli d'îles flottantes, de dragons, de créatures mystérieuses, de combats épiques et
 
 ## Roblox Updates
 
-- **[How to give script from server to client's PlayerScripts](https://devforum.roblox.com/t/how-to-give-script-from-server-to-clients-playerscripts/4993747)** · Roblox Developer Forum latest · 2026-11-16
-  - Feed excerpt: Is there a way for the server to give the client scripts in their PlayerScripts? Giving every client a bunch of scripts they might not need through ReplicatedStorage seems inefficient. I’m creating a building system where only people with p
-- **[Expand experience A/B tests: detail page media, title and description](https://devforum.roblox.com/t/expand-experience-ab-tests-detail-page-media-title-and-description/4993813)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: As a Roblox developer, it is currently too hard to find out which parts of my experience’s listing help or hurt acquisition. Only Home thumbnails can be tested. The title, the description, and the thumbnails and videos on the detail page ca
-- **[How to disable device emulator ui thingy](https://devforum.roblox.com/t/how-to-disable-device-emulator-ui-thingy/4994001)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: this thing(the ui on the top) suddenly appeared. I understood what it does but it is soooo annoying how to remove this. 2 posts - 2 participants Read full topic
-- **[How to make npc detect players if there inside or outside without raycast](https://devforum.roblox.com/t/how-to-make-npc-detect-players-if-there-inside-or-outside-without-raycast/4993817)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Im not sure how im able to make this since i have a lot of npcs and i don’t want to use ray cast since…it’ll be VERY laggy. ive tried to come up with ways but im not sure if they’ll work, Like if a player walks in a part that makes then not
-- **[Is my gear fighting game tuff?](https://devforum.roblox.com/t/is-my-gear-fighting-game-tuff/4993929)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Please consider using the “What are you working on currently?” topic! So uhm click the link and tell me if my game is good 1 post - 1 participant Read full topic
-- **[Massive CCU Drop on many games including my own](https://devforum.roblox.com/t/massive-ccu-drop-on-many-games-including-my-own/4993828)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Has anyone else noticed a significant drop in CCU starting from around October 31st? I own two high CCU games (One Tap and Ability Arena) on the Platform and around the start of this month both games player count began to slowly drop. Here 
-- **[MemoryStoreService degraded performance](https://devforum.roblox.com/t/memorystoreservice-degraded-performance/4993865)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Not sure if this this just a temporary outage or something broke. Started happening 10 minutes ago. Most requests report an internal error as shown in the following images. A private message is associated with this bug report 16 posts - 12 
-- **[MemoryStoreService: InternalError](https://devforum.roblox.com/t/memorystoreservice-internalerror/4993883)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: This is happening in my game non-stop in 77015585171376 Universe Id: 10765071785 Is Roblox Memory Store Down? 2 posts - 2 participants Read full topic
-- **[Textures and VFX](https://devforum.roblox.com/t/textures-and-vfx/4993926)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: I’m trying to learn to make textures for VFX and it’s just so annoying getting these software to work. I’m trying to create something similar to these and no matter what I do I just can’t get anything to work. I’ve tried looking up videos, 
-- **[Visual vibration in "Review Issues" modal during mesh export](https://devforum.roblox.com/t/visual-vibration-in-review-issues-modal-during-mesh-export/4994011)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Setup: Have a model in studio containing meshes I didn’t upload Right click the model > Export as gLTF The Review Issues modal appears, letting me know I am not able to export meshes I don’t own Within this modal, the table header and row i
-- **[What should I improve in my building game?](https://devforum.roblox.com/t/what-should-i-improve-in-my-building-game/4993930)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Sandbox \| Play on Roblox Been working on it for around 14 years (no joke) 2 posts - 2 participants Read full topic
-- **[Would this be against tos?](https://devforum.roblox.com/t/would-this-be-against-tos/4993892)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Hello hello hello So my game is an rthro zombie game that uses the Roblox base body characters, with layered clothing. Can I add a house with a bedroom and when you open the door 2 zombies without layered clothing of 2 different genders run
+- **[Ad Creatives Added By Other Users Have Broken Previews](https://devforum.roblox.com/t/ad-creatives-added-by-other-users-have-broken-previews/4994382)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Whenever ad creatives are added to an ongoing ad campaign by other group members they show as broken previews for the member that started the ad campaign. This makes it impossible to see what creatives other user’s have added or to evaluate
+- **[Community Role Bugged](https://devforum.roblox.com/t/community-role-bugged/4994161)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: I have a community role that is bugged and acting like a duplicate “Guest” role. I am unable to reorder the “MAIN CHAIN” role, change permissions, etc. It’s the exact same behavior as the “Guest” role. Group link: Mojave Highway Patrol - Ro
+- **[Custom normals removed on avatar](https://devforum.roblox.com/t/custom-normals-removed-on-avatar/4994359)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Hi! I’ve found an issue that keeps happening whenever I import my dress into Roblox. Whenever it’s attached to an avatar the normals change from custom into.. whatever this is. This is completely messing up the fur and looks horrific. Mind 
+- **[Game stuck in 48 hours final review](https://devforum.roblox.com/t/game-stuck-in-48-hours-final-review/4994383)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Hi, we paid the 50,000 Robux expedited review fee over 48 hours ago, but the experience is still showing “Pending Approval” with no updates. The experience was initially private, but we made it public early in case that was affecting the re
+- **[Games getting pigeonholed as Russian-only massively hurting monetisation and wider discovery](https://devforum.roblox.com/t/games-getting-pigeonholed-as-russian-only-massively-hurting-monetisation-and-wider-discovery/4994181)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: I launched my newest game Hatch a Penguin! last week and ran some ads with it. When I first ran ads most of the players that clicked the ad were from Russia. A few days later the game was picked up by the algorithm (to about 250 ccu), and e
+- **[How to get your Game into Algorithm](https://devforum.roblox.com/t/how-to-get-your-game-into-algorithm/4994170)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Hello Everyone, I’ve spent quite a lot of money on Roblox ads, and honestly, the results haven’t been bad. However, I’m struggling to get my game into Roblox’s organic recommendations. Whenever I run ads, I get a good number of players, but
+- **[I Made 72 R15 Fantasy RPG Animations Using Roblox's Built-in Clip Editor](https://devforum.roblox.com/t/i-made-72-r15-fantasy-rpg-animations-using-robloxs-built-in-clip-editor/4994228)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: I Made 72 R15 Fantasy RPG Animations Using Roblox’s Built-in Clip Editor I’ve always wanted to make some fantasy RPG characters, so I decided to try making my own animations for them. I ended up working on 4 different R15 rigs, each with a 
+- **[Kids & Select "Final review in progress" stuck for 3+ days](https://devforum.roblox.com/t/kids-select-final-review-in-progress-stuck-for-3-days/4994116)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Hi! My experience entered the Kids and Select final review on November 14. More than three days later, the Creator Dashboard still shows the same message: Final review in progress. We’re confirming your game is appropriate for players under
+- **[Sponsored ads still running, but player count dropped to 0 since yesterday](https://devforum.roblox.com/t/sponsored-ads-still-running-but-player-count-dropped-to-0-since-yesterday/4994298)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Hi everyone, I’m advertising my game Stack Eggs to Hatch! with Sponsored Experience ads. Until yesterday the ads brought a steady flow of players, about 15-20 concurrent players. Since then, the player count has been 0 constantly, even thou
+- **[Studio keeps crashing everytime I keep opening it because I changed a device simulation aspect ratio](https://devforum.roblox.com/t/studio-keeps-crashing-everytime-i-keep-opening-it-because-i-changed-a-device-simulation-aspect-ratio/4994122)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Describe the issue Hello, Every time I open a game in studio, studio keeps freezing on me and eating up my memory. Pretty sure I changed a device simulation aspect ratio setting, wish I could see what setting it was but I legit cannot open 
+- **[Terrain LOD streaming bug](https://devforum.roblox.com/t/terrain-lod-streaming-bug/4994136)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Once the terrain is streamed out, the terrain LODs appear too high, as if they are vertically offset. The terrain itself is 4 studs thick. Expected behavior The LOD should have the exact same position as the original terrain. 1 post - 1 par
+- **[Wrong Ugc AI Moderation Keeps Deleting My Emote After Being Restored](https://devforum.roblox.com/t/wrong-ugc-ai-moderation-keeps-deleting-my-emote-after-being-restored/4994333)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: I wanted to share an ongoing issue I’ve been experiencing with one of my Marketplace emotes and ask whether other creators have encountered something similar. I have an emote (Asset ID: 122258957391287) , which has now been moderated and re
 
 ---
 

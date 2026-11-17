@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "e7fe44bf86c4f590ecdbd9800ad8cbe42cb776e8",
-      "head_subject": "PostgreSQL: detect FreshRSS tables by visibility rather than owner (#9535)",
+      "head": "735c3690b1313ddcde68e85fd4dd9d2d89e4a61b",
+      "head_subject": "make test-all-php-versions (#9576)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "5a56d0d361d709aa785585b738354134ae47b4ae",
+      "head": "b162e7b3e2b421757d6b98243510b9de4f64b654",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "1ad046cb015cfcb6ad90293c605ee4e38326bd13",
+      "head": "afb24c5e6b6a077287ed5352648cd6641a82d1f3",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.326",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "312c3c8d0c2709209ebbc816ca352bcaf52c19b5",
-      "head_subject": "Merge pull request #19731 from ollama/fix/repl-ctrl-c-multiline",
+      "head": "b8db8d5b5c8daedbbef7bb9ace2221a38bc384c2",
+      "head_subject": "mlxrunner: reuse saved prefixes across request slots (#19677)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
@@ -265,6 +265,7 @@
     "medhiclb/HelixAI",
     "msitarzewski/agency-agents",
     "mvanhorn/printing-press-library",
+    "nocodehack/nocodehack-roblox-engine",
     "obra/superpowers",
     "obris-dev/openmagpie",
     "ollama/ollama",
