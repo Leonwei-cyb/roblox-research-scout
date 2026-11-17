@@ -3969,9 +3969,37 @@
     "2309711904fbbfd7f2f0e0b1",
     "1b57c6c84ba9045a6a1eff22",
     "953d5dc51681886399813f17",
-    "46641a6f4bbfa19e81263f5a"
+    "46641a6f4bbfa19e81263f5a",
+    "b66317644df69aee95bc09ef",
+    "14d7e4133da009319e614d24",
+    "78c67c844dfe266c94eb437e",
+    "4901f08651862178c86c17f2",
+    "e5d723cf8a69d69921da6b35",
+    "1d96b0f49892f6f618be59b6",
+    "5f5937aab0534cafe3d93636",
+    "8583efec541b8492bd3386ad",
+    "50706110e3f493bf01e99d63",
+    "d409ebdef75a1c91e9f6bff0",
+    "1966f2db4be11a839052944e",
+    "6fab474990e57092f35799d7",
+    "a9afb34547efd0bd4bf0d3a6",
+    "2907b5c3f5a9e92fa696a5d2",
+    "7afef3d0ee463383d124a239",
+    "fa9b2fc79478138bae15b222"
   ],
   "items": [
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "I Built a Roblox Game With AI (No Coding) – Here’s How - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYR2JqTzBWYUEySVU3aEJKT1hHZW0zUmx0UmM5ZEIzYURwVTFpQUlkZlAtQXh3YmRlQlBUU3VaTXFRUml0M3ptYlFOT2oxWUZvS3NzeUpn?oc=5",
+      "published": "2026-11-17",
+      "excerpt": "I Built a Roblox Game With AI (No Coding) – Here’s How YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "fa9b2fc79478138bae15b222"
+    },
     {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
@@ -3994,6 +4022,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/sponsored-ads-still-running-but-player-count-dropped-to-0-since-yesterday/4994298.rss",
       "id": "e5e880d70a1b4b368c8fac98"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio Crashes when pasting a camera",
+      "url": "https://devforum.roblox.com/t/studio-crashes-when-pasting-a-camera/4994813",
+      "published": "2026-11-17",
+      "excerpt": "In any place, without plugins enabled, pasting any camera anywhere causes studio to lag for a second and then crash, as shown below: I assume this is related to the conversion from cameras → ViewportCameras Expected behavior The camera pastes into the Baseplate as expected 1 post - 1 participant Rea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-crashes-when-pasting-a-camera/4994813.rss",
+      "id": "e5d723cf8a69d69921da6b35"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4030,6 +4070,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-made-72-r15-fantasy-rpg-animations-using-robloxs-built-in-clip-editor/4994228.rss",
       "id": "dc43126b02aa238d7b967e71"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Question on PolicyService",
+      "url": "https://devforum.roblox.com/t/question-on-policyservice/4994728",
+      "published": "2026-11-17",
+      "excerpt": "I’m currently developing a first-person shooter that has realistic blood effects and IK-based hit reactions. My concern is that these could cause the game to fall under the restricted rating. I was wondering if PolicyService could be used to show different visual effects based on a player’s age grou",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/question-on-policyservice/4994728.rss",
+      "id": "d409ebdef75a1c91e9f6bff0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4077,6 +4129,18 @@
       "excerpt": "Hey, so I recently released my first Roblox game called DEAD HEIST. I've been working on it alone for quite a while and finally decided to release it in beta. The problem is that I'm struggling to keep players. I tried running some ads, but according to my analytics, only around 37% of new players a",
       "creator": "/u/MeanMajor9024 https://www.reddit.com/user/MeanMajor9024",
       "id": "bd4539b00ec0c66b34d5e73e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "I need a reset for the translation table",
+      "url": "https://devforum.roblox.com/t/i-need-a-reset-for-the-translation-table/4994890",
+      "published": "2026-11-17",
+      "excerpt": "For some time now, my game has been experiencing issues with automatic translations, and I am quite dissatisfied with the situation. While I know the system is frequently updated, the problems in my game remain unresolved. In the portal, entries in my table show as 100% translated, yet they remain s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/i-need-a-reset-for-the-translation-table/4994890.rss",
+      "id": "b66317644df69aee95bc09ef"
     },
     {
       "source": "reddit-robloxstudio",
@@ -4185,6 +4249,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "All Roblox experiences show a 404 Page",
+      "url": "https://devforum.roblox.com/t/all-roblox-experiences-show-a-404-page/4994753",
+      "published": "2026-11-17",
+      "excerpt": "When I try to join any Roblox experience, I get the following error: 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/all-roblox-experiences-show-a-404-page/4994753.rss",
+      "id": "8583efec541b8492bd3386ad"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Game stuck in 48 hours final review",
       "url": "https://devforum.roblox.com/t/game-stuck-in-48-hours-final-review/4994383",
       "published": "2026-11-17",
@@ -4192,6 +4268,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/game-stuck-in-48-hours-final-review/4994383.rss",
       "id": "78c8122c72c561c2fa1bb3f8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "50,000 Robux Deposit Not Refunded from 100,000 Robux Expedited Review Fee",
+      "url": "https://devforum.roblox.com/t/50000-robux-deposit-not-refunded-from-100000-robux-expedited-review-fee/4994851",
+      "published": "2026-11-17",
+      "excerpt": "I believe there is an issue with the refund system for the Expedited Age Rating Review fee. On July 16, 2026, I paid 100,000 Robux for the expedited review fee for my experience (ID: 73216840963620). However, I have not received the remaining 50,000 Robux, despite more than 90 days having passed sin",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/50000-robux-deposit-not-refunded-from-100000-robux-expedited-review-fee/4994851.rss",
+      "id": "78c67c844dfe266c94eb437e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4209,6 +4297,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Package properties visible through Properties window are invisible to agents through Studio MCP",
+      "url": "https://devforum.roblox.com/t/package-properties-visible-through-properties-window-are-invisible-to-agents-through-studio-mcp/4994584",
+      "published": "2026-11-17",
+      "excerpt": "My agent (Claude Code) cannot read certain properties of packages that are visible to me from the Properties window: Each of the following properties from the image above cannot be read by my agent through Studio MCP: Creator PackageAssetName PermissionLevel AutoUpdate Status Expected behavior I exp",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/package-properties-visible-through-properties-window-are-invisible-to-agents-through-studio-mcp/4994584.rss",
+      "id": "6fab474990e57092f35799d7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How to get your Game into Algorithm",
       "url": "https://devforum.roblox.com/t/how-to-get-your-game-into-algorithm/4994170",
       "published": "2026-11-17",
@@ -4216,6 +4316,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-get-your-game-into-algorithm/4994170.rss",
       "id": "6a7f6ca5d7d5ddacf0901ea0"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Release Notes for 748",
+      "url": "https://devforum.roblox.com/t/release-notes-for-748/4994771",
+      "published": "2026-11-17",
+      "excerpt": "Hi everyone! Here’s the [release notes for 748( Introduced in version 748 | Documentation - Roblox Creator Hub ). Can’t believe it’s almost Thanksgiving! I hope you all have a great holiday. I’m very excited to eat aaall the mashed potatoes and mac and cheese (I’m more of a side-dish gal, personally",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/release-notes-for-748/4994771.rss",
+      "id": "5f5937aab0534cafe3d93636"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4257,6 +4369,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "404 on experience and profile web pages",
+      "url": "https://devforum.roblox.com/t/404-on-experience-and-profile-web-pages/4994750",
+      "published": "2026-11-17",
+      "excerpt": "Hey, Many links show 404, including Game pages, profiles and more. Example: Roblox 🏐 Dodgeball Party Gamemodes: [5] Classic, Juggernaut, Hot Potato, Jail Break, and Squeeze. Dodgeballs: 24 Shop Items: 90 Update: 🏐 All new gamemodes. 🏐 New Lobby Music by BSlick! 🏐 Tutorial in the Dojo. 🏐 New Dodgebal",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/404-on-experience-and-profile-web-pages/4994750.rss",
+      "id": "50706110e3f493bf01e99d63"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How to disable device emulator ui thingy",
       "url": "https://devforum.roblox.com/t/how-to-disable-device-emulator-ui-thingy/4994001",
       "published": "2026-11-17",
@@ -4264,6 +4388,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-disable-device-emulator-ui-thingy/4994001.rss",
       "id": "4f14199132a1eff39396ad60"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My group doesn’t appear in the “Games by” dropdown, so I can’t register IP for my game",
+      "url": "https://devforum.roblox.com/t/my-group-doesn%E2%80%99t-appear-in-the-%E2%80%9Cgames-by%E2%80%9D-dropdown-so-i-can%E2%80%99t-register-ip-for-my-game/4994834",
+      "published": "2026-11-17",
+      "excerpt": "The “Games by” dropdown only lists my personal account (MnTest6). My group Afternoon Studio (group ID: 929986487) is not listed, so I can’t choose it. I created the group about 3 weeks ago and have waited about a week since then. Expected behavior It should be listing my group, which was created ove",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-group-doesn%E2%80%99t-appear-in-the-%E2%80%9Cgames-by%E2%80%9D-dropdown-so-i-can%E2%80%99t-register-ip-for-my-game/4994834.rss",
+      "id": "4901f08651862178c86c17f2"
     },
     {
       "source": "syphodev-claude",
@@ -4336,6 +4472,18 @@
       "id": "2309711904fbbfd7f2f0e0b1"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Studio MCP: DataStore and MemoryStore writes in Edit fail with “Access forbidden”/“Internal Error” instead of the write-confirmation prompt",
+      "url": "https://devforum.roblox.com/t/studio-mcp-datastore-and-memorystore-writes-in-edit-fail-with-%E2%80%9Caccess-forbidden%E2%80%9D%E2%80%9Cinternal-error%E2%80%9D-instead-of-the-write-confirmation-prompt/4994775",
+      "published": "2026-11-17",
+      "excerpt": "I ran into this today while setting up a test place for a Studio plugin I make. Since the new “Dangerous Command Detected” confirmation, any DataStore or MemoryStore write that goes through Studio’s MCP server fails, and the error makes it look like a permissions problem instead of what’s actually h",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-mcp-datastore-and-memorystore-writes-in-edit-fail-with-%E2%80%9Caccess-forbidden%E2%80%9D%E2%80%9Cinternal-error%E2%80%9D-instead-of-the-write-confirmation-prompt/4994775.rss",
+      "id": "1d96b0f49892f6f618be59b6"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -4347,6 +4495,18 @@
       "id": "1b57c6c84ba9045a6a1eff22"
     },
     {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Display Scaling not Affect 3d Rendering Resolution",
+      "url": "https://devforum.roblox.com/t/display-scaling-not-affect-3d-rendering-resolution/4994714",
+      "published": "2026-11-17",
+      "excerpt": "Around a week ago, my frame rates have dropped by nearly 2-3x. After some testing, I think the issue has to do with Window’s display scaling not affecting Roblox’s 3D rendering resolution recently, which is what is supposed to happen. My laptop is running 2880x1800 with 200% scaling. Despite Roblox ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/display-scaling-not-affect-3d-rendering-resolution/4994714.rss",
+      "id": "1966f2db4be11a839052944e"
+    },
+    {
       "source": "reddit-robloxstudio",
       "label": "Reddit r/ROBLOXStudio public RSS",
       "category": "community",
@@ -4356,6 +4516,18 @@
       "excerpt": "My Friend create a hangout for polish community to defeat one game that have same things but with almost 10 milion visits is there any idea why my friends game isn't like you know getting players? I know that the first game with milions visits is on top, but any other things why my friend cant get e",
       "creator": "/u/MaciekTheHelper https://www.reddit.com/user/MaciekTheHelper",
       "id": "159491910c8f0357039ce282"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Moderated Video Assets Created by random player show up in my asset manager",
+      "url": "https://devforum.roblox.com/t/moderated-video-assets-created-by-random-player-show-up-in-my-asset-manager/4994863",
+      "published": "2026-11-17",
+      "excerpt": "Inside of roblox studio I noticed a user who after checking is a member of my group was posting random video assets which were being moderated by roblox, for some reason these assets are showing up in my asset manager, I am wondering if this is sine type of way players are trying to get my account m",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/moderated-video-assets-created-by-random-player-show-up-in-my-asset-manager/4994863.rss",
+      "id": "14d7e4133da009319e614d24"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4619,6 +4791,18 @@
       "excerpt": "soo guys, Im making 3d models for pack where im doing survival things. (example bandage or smth) so give me ideas for this pack. submitted by /u/Frosty-Newt4463 [link] [comments]",
       "creator": "/u/Frosty-Newt4463 https://www.reddit.com/user/Frosty-Newt4463",
       "id": "abaf75667b4f903037089569"
+    },
+    {
+      "source": "automation",
+      "label": "Google News indexed: Claude Code Roblox automation workflow game agent when:7d",
+      "category": "workflows",
+      "title": "The Unity CLI 1.0 is here! - GameDev.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hMERtRFZjVEJjRXRYelp0VGhzaTVqZk9mbjdwNzVMZmprQmZPS1NSaHVBaHdtYmZVVjY1NFI3cGstTzd2SEV1d1B4eERNeXVFeHZ0YlhpdmNBV3RWckpmZ2tWQVVRZw?oc=5",
+      "published": "2026-11-16",
+      "excerpt": "The Unity CLI 1.0 is here! GameDev.net",
+      "creator": "",
+      "publisher": "https://gamedev.net",
+      "id": "a9afb34547efd0bd4bf0d3a6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10745,172 +10929,6 @@
       "excerpt": "My original plan was to pay for thumbnails AFTER the learning phase but i'm $40 down and I'm still not out of the learning phase. My biggest mistake was running plays over engagement, 16+ don't like slop games https://preview.redd.it/nrjoyzp1av0i1.png?width=872&format=png&auto=webp&s=e8d0c7d2ec26379",
       "creator": "/u/Ok_Golf_8852 https://www.reddit.com/user/Ok_Golf_8852",
       "id": "b5f55cfe383903423f4d04bb"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "TextChatService chat bubbles do not appear when HumanoidRootPart is missing, even if not adorned to it",
-      "url": "https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071",
-      "published": "2026-11-10",
-      "excerpt": "The default TextChatService chat bubbles do not appear if HumanoidRootPart is missing or deleted, even if the AdorneeName property is set to a different part. A place with this issue. The only changes made are that a startercharacter with no humanoid root part is used, and the AdorneeName of BubbleC",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071.rss",
-      "id": "b54d7c252910ba19eb8a45b6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[LOOKING FOR] Roblox Builder for 3–6 Additional game Levels",
-      "url": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942",
-      "published": "2026-11-10",
-      "excerpt": "Hi everyone! I’m am looking to hire a builder to create 3–6 additional levels that fit the style of the upcoming game. About The Game LASER CORRIDOR Welcome to LASER CORRIDOR – a high-intensity multiplayer survival experience where every second could be your last. Enter a mysterious futuristic facil",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-roblox-builder-for-3%E2%80%936-additional-game-levels/4985942.rss",
-      "id": "b4c7220f3c34049c15a08a15"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label",
-      "url": "https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040",
-      "published": "2026-11-10",
-      "excerpt": "While using studio, I ran into a problem where this warning would spam in the Output window constantly. I’ve done everything I could, but the warnings wouldn’t go away. This happens if my game has any sort of R6 in it. I decided to post this since I don’t see anyone else talking about it. System Inf",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040.rss",
-      "id": "b048153fced1e63b72ea3544"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Allow Players to Gift Roblox Plus Subscriptions",
-      "url": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986",
-      "published": "2026-11-10",
-      "excerpt": "Allow Players to Gift Roblox Plus Subscriptions! The Problem As a Roblox developer and player, it is currently too hard to gift subscription benefits to other users, particularly with the introduction and increasing promotion of Roblox Plus. Roblox has already introduced the ability to gift Robux, m",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986.rss",
-      "id": "a9f46e67ed678f767e797b43"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[REVSHARE] Asym game plan - in concept phase",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/",
-      "published": "2026-11-10",
-      "excerpt": "I have a detailed plan for an asym that I've been thinking of for a while. I have not been able to start it (technical issues), but I really need coders/animators. The asym is going to be similar to many popular stamina-based asyms, but I want to theme it more after FPE/FPE:Blight (paper style) and ",
-      "creator": "/u/StrikeCritical1988 https://www.reddit.com/user/StrikeCritical1988",
-      "id": "a92ca9e5e132b45280508041"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Server never frees animation clips: Animation memory grows with every new animation ID",
-      "url": "https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816",
-      "published": "2026-11-10",
-      "excerpt": "The first time a server loads an animation ID, its data is added to PlaceMemory > Animation and stays. Destroying the track, the Animator and the whole model does not free it, and playing the same clip again costs almost nothing, so memory grows with the number of different animations a server has s",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816.rss",
-      "id": "a90b9a28eac43c72a04e0116"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Better GuiService:GetInsetArea()",
-      "url": "https://devforum.roblox.com/t/better-guiservicegetinsetarea/4985658",
-      "published": "2026-11-10",
-      "excerpt": "4 years, ago, Roblox introduced support for notched screens . It gave mobile UI more flexibility and developers new API to work with rounded screens. Ofcourse, anyone that saw this ScreenInsets and began to fiddle with it were met with an outcome unaligned with their expectations: How Roblox present",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/better-guiservicegetinsetarea/4985658.rss",
-      "id": "a69ec156848dee39e3caee97"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "UICorner + UIStroke issue",
-      "url": "https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530",
-      "published": "2026-11-10",
-      "excerpt": "When a frame has both UICorner and UIStroke (BorderStroke → Inner) , these outlines appear at the corners of the frame, making it look unpleasant. I believe these thin outlines are part of the frame, since setting BorderStroke → Center/Outer makes them disappear. Expected behavior I’d expect these t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530.rss",
-      "id": "a44e8d9cb8ff03a6d079a818"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "Claude Fable 5.2 Just Made 3D Roblox Shorts Ridiculously Easy (Copy Me) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IdW11SkVuMVpZVWl3YWVJaHNNNW1tRGY5NWdpemE5YWpyVDlCUUtyVEd6bkJCelVDUmlGVFVkSXkyZE9NSVdUc1pwSFhtd20zeVhWdWdR?oc=5",
-      "published": "2026-11-10",
-      "excerpt": "Claude Fable 5.2 Just Made 3D Roblox Shorts Ridiculously Easy (Copy Me) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "a233e6ec657af5bd6543f55f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox isn't recommending game to high-revenue countries",
-      "url": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415",
-      "published": "2026-11-10",
-      "excerpt": "We released our game Fight to Loot around 3 weeks ago and have kept up good analytics on stats like playtime, playthrough rate, retention etc. However, our revenue stats are horrible and we came to the conclusion that it was due to our game being primarily recommended to Indonesia and not any other ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415.rss",
-      "id": "a10ea80609c9a210f55c048b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My game got unbanned but",
-      "url": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366",
-      "published": "2026-11-10",
-      "excerpt": "I am now unbanned but, roblox said the consequences got removed/adjusted. But it locked my group while my game is editable via my developers. (screenshot of my developer friend playing my game in test mode while im banned for a hour) I really need my stuff back because I was so hyped to release this",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366.rss",
-      "id": "a0943a48fe989a7c0346ae29"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Pickleball Demo",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa34d/pickleball_demo/",
-      "published": "2026-11-10",
-      "excerpt": "submitted by /u/Lean_Orange95716 [link] [comments]",
-      "creator": "/u/Lean_Orange95716 https://www.reddit.com/user/Lean_Orange95716",
-      "id": "9f1f10d3966bcbeecc7b7b1d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Updates Feed for Experiences",
-      "url": "https://devforum.roblox.com/t/updates-feed-for-experiences/4985907",
-      "published": "2026-11-10",
-      "excerpt": "Hello, I am suggesting a way for developers to create update logs and for players to view them. This can be implemented into the Events & Updates page. The photos below show the current page. Below is another platform’s feature that inspired this idea. Below is the proposed idea. The event creation ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/updates-feed-for-experiences/4985907.rss",
-      "id": "9ac44d4e8663a31ecba3f0b4"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Changing graphics level in studio results in the device emulator being forcefully enabled",
-      "url": "https://devforum.roblox.com/t/changing-graphics-level-in-studio-results-in-the-device-emulator-being-forcefully-enabled/4985874",
-      "published": "2026-11-10",
-      "excerpt": "Currently, if you change your graphics level in studio via the escape menu, the device emulator will forcefully enable itself and there is no way to turn it off without restarting the test session. Additionally, the graphics level you change to is not saved when you end the test session. Steps to re",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/changing-graphics-level-in-studio-results-in-the-device-emulator-being-forcefully-enabled/4985874.rss",
-      "id": "984eff1a097785e758c0df70"
     }
   ]
 }

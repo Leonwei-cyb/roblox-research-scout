@@ -7,52 +7,46 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[How to Use Claude AI with Roblox Studio \| Create Games with AI! - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPNjFsLXp3UmtzaVNmeU1SMkhfc3lyTHduT2p6SlJpc05uVk9uSVNKNDlyQjlIV0E5Q0tJQ0plR25KRmRvaUp0YnFlOU0xR1J0bHdmWml3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-17
-  - Feed excerpt: How to Use Claude AI with Roblox Studio \| Create Games with AI! YouTube
-
-## Community
-
-- **[Tips for new Roblox developer](https://www.reddit.com/r/ROBLOXStudio/comments/1xycuxt/tips_for_new_roblox_developer/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: Hello! I’m someone who just got their first ever computer (monitor and screen) and I wanted to get more into coding for Roblox. So far I’ve been Coddy to help learn luau but it feels super slow only being able to do max 6 tutorials in one d
-- **[I released my first Roblox game but players keep leaving, any advice?](https://www.reddit.com/r/ROBLOXStudio/comments/1xycx2f/i_released_my_first_roblox_game_but_players_keep/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: Hey, so I recently released my first Roblox game called DEAD HEIST. I've been working on it alone for quite a while and finally decided to release it in beta. The problem is that I'm struggling to keep players. I tried running some ads, but
-- **[Good 3D Roblox Units models](https://www.reddit.com/r/ROBLOXStudio/comments/1xyjb9t/good_3d_roblox_units_models/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: Im trying to make like an Anime Ranger X or Anime Squadron thing on Roblox, taking inspiration in games like this and Anime Vanguards or even Anime Crusaders X, but Claude with Blender cant seem to get and replicate the quality of the model
-- **[Help for my friend about his game](https://www.reddit.com/r/ROBLOXStudio/comments/1xykaln/help_for_my_friend_about_his_game/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: My Friend create a hangout for polish community to defeat one game that have same things but with almost 10 milion visits is there any idea why my friends game isn't like you know getting players? I know that the first game with milions vis
-- **[Looking for a code buddy \[16M\] \[USA\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xyh3ir/looking_for_a_code_buddy_16m_usa/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: \[before continuing, know I am not completely new to scripting\] \[And please read all of it, have had a few individuals who lack the ability to read past the title...\] As the previous text mentions, I am not completely new to scripting, BUT I
-- **[Making a co-op One Piece crew game (not a bandit beater!) — looking for a chill scripter, animator & builder \[Rev-Share\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xyexe6/making_a_coop_one_piece_crew_game_not_a_bandit/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: Hey everyone! I'm building a co-op One Piece inspired game focused on actual crew roles instead of grinding bandits for hours. The Idea: When you sail with friends, everyone picks a real job on the ship with its own skill tree and abilities
-- **[🎮 My Roblox Open-World RPG is NOW AVAILABLE! 🌌🐉](https://www.reddit.com/r/ROBLOXStudio/comments/1xyfv7g/my_roblox_openworld_rpg_is_now_available/)** · Reddit r/ROBLOXStudio public RSS · 2026-11-17
-  - Feed excerpt: Salut tout le monde ! 👋🇫🇷 Je suis un développeur solo français et je viens de sortir mon jeu Roblox, LEGENDE UNIVERS ! 🌍 Explorez un monde ouvert magique rempli d'îles flottantes, de dragons, de créatures mystérieuses, de combats épiques et
+- **[Fable 5.2 + Roblox Studio is insane! - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5maEloR0VGb1dXaHR1SDVoSW5WV3JQQnVrMjY4dDF4d3gzQ01MRzlNZjdsNGI5WmgtWmU3Y1RkR044XzRnTDdkc2J0cy1ha3JmUVVqMUh3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-10
+  - Feed excerpt: Fable 5.2 + Roblox Studio is insane! YouTube
+- **[How to Make a Roblox Game With AI (Roblox Assistant) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DMEVVZ2c3YnN0Q05TbDJvYzI0WW5vd2FzS18wZTNzWWttMGU3M0N6UFZiVzRlbFhJZFNiWC1ualkxUEJQSy02MUtwQUNRdGNyUzRqYjdR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-09
+  - Feed excerpt: How to Make a Roblox Game With AI (Roblox Assistant) YouTube
+- **[I Built a Roblox Game With AI (No Coding) – Here’s How - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYR2JqTzBWYUEySVU3aEJKT1hHZW0zUmx0UmM5ZEIzYURwVTFpQUlkZlAtQXh3YmRlQlBUU3VaTXFRUml0M3ptYlFOT2oxWUZvS3NzeUpn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-17
+  - Feed excerpt: I Built a Roblox Game With AI (No Coding) – Here’s How YouTube
 
 ## Roblox Updates
 
-- **[Ad Creatives Added By Other Users Have Broken Previews](https://devforum.roblox.com/t/ad-creatives-added-by-other-users-have-broken-previews/4994382)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Whenever ad creatives are added to an ongoing ad campaign by other group members they show as broken previews for the member that started the ad campaign. This makes it impossible to see what creatives other user’s have added or to evaluate
-- **[Community Role Bugged](https://devforum.roblox.com/t/community-role-bugged/4994161)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: I have a community role that is bugged and acting like a duplicate “Guest” role. I am unable to reorder the “MAIN CHAIN” role, change permissions, etc. It’s the exact same behavior as the “Guest” role. Group link: Mojave Highway Patrol - Ro
-- **[Custom normals removed on avatar](https://devforum.roblox.com/t/custom-normals-removed-on-avatar/4994359)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Hi! I’ve found an issue that keeps happening whenever I import my dress into Roblox. Whenever it’s attached to an avatar the normals change from custom into.. whatever this is. This is completely messing up the fur and looks horrific. Mind 
-- **[Game stuck in 48 hours final review](https://devforum.roblox.com/t/game-stuck-in-48-hours-final-review/4994383)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Hi, we paid the 50,000 Robux expedited review fee over 48 hours ago, but the experience is still showing “Pending Approval” with no updates. The experience was initially private, but we made it public early in case that was affecting the re
-- **[Games getting pigeonholed as Russian-only massively hurting monetisation and wider discovery](https://devforum.roblox.com/t/games-getting-pigeonholed-as-russian-only-massively-hurting-monetisation-and-wider-discovery/4994181)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: I launched my newest game Hatch a Penguin! last week and ran some ads with it. When I first ran ads most of the players that clicked the ad were from Russia. A few days later the game was picked up by the algorithm (to about 250 ccu), and e
-- **[How to get your Game into Algorithm](https://devforum.roblox.com/t/how-to-get-your-game-into-algorithm/4994170)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Hello Everyone, I’ve spent quite a lot of money on Roblox ads, and honestly, the results haven’t been bad. However, I’m struggling to get my game into Roblox’s organic recommendations. Whenever I run ads, I get a good number of players, but
-- **[I Made 72 R15 Fantasy RPG Animations Using Roblox's Built-in Clip Editor](https://devforum.roblox.com/t/i-made-72-r15-fantasy-rpg-animations-using-robloxs-built-in-clip-editor/4994228)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: I Made 72 R15 Fantasy RPG Animations Using Roblox’s Built-in Clip Editor I’ve always wanted to make some fantasy RPG characters, so I decided to try making my own animations for them. I ended up working on 4 different R15 rigs, each with a 
-- **[Kids & Select "Final review in progress" stuck for 3+ days](https://devforum.roblox.com/t/kids-select-final-review-in-progress-stuck-for-3-days/4994116)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Hi! My experience entered the Kids and Select final review on November 14. More than three days later, the Creator Dashboard still shows the same message: Final review in progress. We’re confirming your game is appropriate for players under
-- **[Sponsored ads still running, but player count dropped to 0 since yesterday](https://devforum.roblox.com/t/sponsored-ads-still-running-but-player-count-dropped-to-0-since-yesterday/4994298)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Hi everyone, I’m advertising my game Stack Eggs to Hatch! with Sponsored Experience ads. Until yesterday the ads brought a steady flow of players, about 15-20 concurrent players. Since then, the player count has been 0 constantly, even thou
-- **[Studio keeps crashing everytime I keep opening it because I changed a device simulation aspect ratio](https://devforum.roblox.com/t/studio-keeps-crashing-everytime-i-keep-opening-it-because-i-changed-a-device-simulation-aspect-ratio/4994122)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Describe the issue Hello, Every time I open a game in studio, studio keeps freezing on me and eating up my memory. Pretty sure I changed a device simulation aspect ratio setting, wish I could see what setting it was but I legit cannot open 
-- **[Terrain LOD streaming bug](https://devforum.roblox.com/t/terrain-lod-streaming-bug/4994136)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: Once the terrain is streamed out, the terrain LODs appear too high, as if they are vertically offset. The terrain itself is 4 studs thick. Expected behavior The LOD should have the exact same position as the original terrain. 1 post - 1 par
-- **[Wrong Ugc AI Moderation Keeps Deleting My Emote After Being Restored](https://devforum.roblox.com/t/wrong-ugc-ai-moderation-keeps-deleting-my-emote-after-being-restored/4994333)** · Roblox Developer Forum latest · 2026-11-17
-  - Feed excerpt: I wanted to share an ongoing issue I’ve been experiencing with one of my Marketplace emotes and ask whether other creators have encountered something similar. I have an emote (Asset ID: 122258957391287) , which has now been moderated and re
+- **[404 on experience and profile web pages](https://devforum.roblox.com/t/404-on-experience-and-profile-web-pages/4994750)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Hey, Many links show 404, including Game pages, profiles and more. Example: Roblox 🏐 Dodgeball Party Gamemodes: \[5\] Classic, Juggernaut, Hot Potato, Jail Break, and Squeeze. Dodgeballs: 24 Shop Items: 90 Update: 🏐 All new gamemodes. 🏐 New L
+- **[Release Notes for 748](https://devforum.roblox.com/t/release-notes-for-748/4994771)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Hi everyone! Here’s the \[release notes for 748( Introduced in version 748 \| Documentation - Roblox Creator Hub ). Can’t believe it’s almost Thanksgiving! I hope you all have a great holiday. I’m very excited to eat aaall the mashed potatoes
+- **[Release Notes for 748](https://devforum.roblox.com/t/release-notes-for-748/4994771)** · Roblox updates category (availability may vary) · 2026-11-17
+  - Feed excerpt: Hi everyone! Here’s the \[release notes for 748( Introduced in version 748 \| Documentation - Roblox Creator Hub ). Can’t believe it’s almost Thanksgiving! I hope you all have a great holiday. I’m very excited to eat aaall the mashed potatoes
+- **[Moderated Video Assets Created by random player show up in my asset manager](https://devforum.roblox.com/t/moderated-video-assets-created-by-random-player-show-up-in-my-asset-manager/4994863)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Inside of roblox studio I noticed a user who after checking is a member of my group was posting random video assets which were being moderated by roblox, for some reason these assets are showing up in my asset manager, I am wondering if thi
+- **[Package properties visible through Properties window are invisible to agents through Studio MCP](https://devforum.roblox.com/t/package-properties-visible-through-properties-window-are-invisible-to-agents-through-studio-mcp/4994584)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: My agent (Claude Code) cannot read certain properties of packages that are visible to me from the Properties window: Each of the following properties from the image above cannot be read by my agent through Studio MCP: Creator PackageAssetNa
+- **[Studio MCP: DataStore and MemoryStore writes in Edit fail with “Access forbidden”/“Internal Error” instead of the write-confirmation prompt](https://devforum.roblox.com/t/studio-mcp-datastore-and-memorystore-writes-in-edit-fail-with-%E2%80%9Caccess-forbidden%E2%80%9D%E2%80%9Cinternal-error%E2%80%9D-instead-of-the-write-confirmation-prompt/4994775)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: I ran into this today while setting up a test place for a Studio plugin I make. Since the new “Dangerous Command Detected” confirmation, any DataStore or MemoryStore write that goes through Studio’s MCP server fails, and the error makes it 
+- **[50,000 Robux Deposit Not Refunded from 100,000 Robux Expedited Review Fee](https://devforum.roblox.com/t/50000-robux-deposit-not-refunded-from-100000-robux-expedited-review-fee/4994851)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: I believe there is an issue with the refund system for the Expedited Age Rating Review fee. On July 16, 2026, I paid 100,000 Robux for the expedited review fee for my experience (ID: 73216840963620). However, I have not received the remaini
+- **[All Roblox experiences show a 404 Page](https://devforum.roblox.com/t/all-roblox-experiences-show-a-404-page/4994753)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: When I try to join any Roblox experience, I get the following error: 2 posts - 2 participants Read full topic
+- **[Display Scaling not Affect 3d Rendering Resolution](https://devforum.roblox.com/t/display-scaling-not-affect-3d-rendering-resolution/4994714)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: Around a week ago, my frame rates have dropped by nearly 2-3x. After some testing, I think the issue has to do with Window’s display scaling not affecting Roblox’s 3D rendering resolution recently, which is what is supposed to happen. My la
+- **[I need a reset for the translation table](https://devforum.roblox.com/t/i-need-a-reset-for-the-translation-table/4994890)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: For some time now, my game has been experiencing issues with automatic translations, and I am quite dissatisfied with the situation. While I know the system is frequently updated, the problems in my game remain unresolved. In the portal, en
+- **[My group doesn’t appear in the “Games by” dropdown, so I can’t register IP for my game](https://devforum.roblox.com/t/my-group-doesn%E2%80%99t-appear-in-the-%E2%80%9Cgames-by%E2%80%9D-dropdown-so-i-can%E2%80%99t-register-ip-for-my-game/4994834)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: The “Games by” dropdown only lists my personal account (MnTest6). My group Afternoon Studio (group ID: 929986487) is not listed, so I can’t choose it. I created the group about 3 weeks ago and have waited about a week since then. Expected b
+- **[Question on PolicyService](https://devforum.roblox.com/t/question-on-policyservice/4994728)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: I’m currently developing a first-person shooter that has realistic blood effects and IK-based hit reactions. My concern is that these could cause the game to fall under the restricted rating. I was wondering if PolicyService could be used t
+- **[Studio Crashes when pasting a camera](https://devforum.roblox.com/t/studio-crashes-when-pasting-a-camera/4994813)** · Roblox Developer Forum latest · 2026-11-17
+  - Feed excerpt: In any place, without plugins enabled, pasting any camera anywhere causes studio to lag for a second and then crash, as shown below: I assume this is related to the conversion from cameras → ViewportCameras Expected behavior The camera past
+
+## Workflows
+
+- **[The Unity CLI 1.0 is here! - GameDev.net](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hMERtRFZjVEJjRXRYelp0VGhzaTVqZk9mbjdwNzVMZmprQmZPS1NSaHVBaHdtYmZVVjY1NFI3cGstTzd2SEV1d1B4eERNeXVFeHZ0YlhpdmNBV3RWckpmZ2tWQVVRZw?oc=5)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-11-16
+  - Feed excerpt: The Unity CLI 1.0 is here! GameDev.net
 
 ---
 

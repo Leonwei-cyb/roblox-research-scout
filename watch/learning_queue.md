@@ -6,13 +6,13 @@ Active game: **UNKNOWN**. No game-specific tests are proposed.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 597; fully reviewed: 0.
+Records processed: 600; unique posts: 598; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 321
-- index-only: 16
-- reddit: 256
+- devforum: 323
+- index-only: 17
+- reddit: 254
 - youtube: 4
 
 ## First-Session And Mobile
@@ -41,8 +41,8 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 
 ## Animation And Audio
 
-- [Server never frees animation clips: Animation memory grows with every new animation ID](https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [The R6 default animate script does not work](https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## World And Visual Design
 
@@ -62,13 +62,13 @@ Records processed: 600; unique posts: 597; fully reviewed: 0.
 ## Tools And Performance
 
 - [Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout](https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [The R6 default animate script does not work](https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Roblox Player Stuck on "Joining Server"](https://devforum.roblox.com/t/roblox-player-stuck-on-joining-server/4986992) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one The R6 default animate script does not work test with measurable pass/fail.
+3. Explain WHY it matters and propose one Roblox Player Stuck on "Joining Server" test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

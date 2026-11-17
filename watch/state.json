@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "b162e7b3e2b421757d6b98243510b9de4f64b654",
+      "head": "9e2818f01d3e58206e5d62911824e9f89fc81876",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "afb24c5e6b6a077287ed5352648cd6641a82d1f3",
+      "head": "c540e3bf1aed8aeb839ddf90b8b874666e798f29",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.326",
@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "639c050b2bf4e14ef9983012af99dfc1dc68b334",
-      "head_subject": "Record the November 9 security fixes",
+      "head": "061888054771050e454009aefe713e607cd57232",
+      "head_subject": "Update Bundler to 4.1.0",
       "name": "huginn/huginn",
       "release_tag": "v2026.11.09",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.09",
@@ -121,11 +121,11 @@
       "url": "https://github.com/obra/superpowers"
     },
     "obris-dev/openmagpie": {
-      "head": "9967975d0f9625133176fb76898a8f436bd4bc46",
-      "head_subject": "docs(readme): simplify the How-it-works diagram to the shipped pipeline (#187)",
+      "head": "46154a67bd8e9a2366deb44b289d2358fa8e5e74",
+      "head_subject": "docs: link OpenBower to its GitHub repo (#192)",
       "name": "obris-dev/openmagpie",
-      "release_tag": "v0.11.0",
-      "release_url": "https://github.com/obris-dev/openmagpie/releases/tag/v0.11.0",
+      "release_tag": "cli-v0.10.0",
+      "release_url": "https://github.com/obris-dev/openmagpie/releases/tag/cli-v0.10.0",
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {

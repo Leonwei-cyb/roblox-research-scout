@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 597,
+  "unique_posts": 598,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -46,21 +46,6 @@
         "tools and performance"
       ],
       "score": 11,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985816:1",
-      "url": "https://devforum.roblox.com/t/server-never-frees-animation-clips-animation-memory-grows-with-every-new-animation-id/4985816",
-      "title": "Server never frees animation clips: Animation memory grows with every new animation ID",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 9,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -656,34 +641,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4985874:1",
-      "url": "https://devforum.roblox.com/t/changing-graphics-level-in-studio-results-in-the-device-emulator-being-forcefully-enabled/4985874",
-      "title": "Changing graphics level in studio results in the device emulator being forcefully enabled",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986040:1",
-      "url": "https://devforum.roblox.com/t/animationrig-part-head-looks-like-neck-but-its-parent-is-torso-expected-uppertorso-skipping-label/4986040",
-      "title": "AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4986279:1",
       "url": "https://devforum.roblox.com/t/unauthorized-game-editing-rcc-server-toctou-processes-arbitrary-client-substituted-packet-types-during-async-auth-kick-window/4986279",
       "title": "[Unauthorized Game Editing] RCC Server TOCTOU Processes Arbitrary Client-Substituted Packet Types During Async Auth-Kick Window",
@@ -1062,6 +1019,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4994863:1",
+      "url": "https://devforum.roblox.com/t/moderated-video-assets-created-by-random-player-show-up-in-my-asset-manager/4994863",
+      "title": "Moderated Video Assets Created by random player show up in my asset manager",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt23sj",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/",
       "title": "I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?",
@@ -1259,19 +1230,6 @@
         "world and visual design"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984986:1",
-      "url": "https://devforum.roblox.com/t/allow-players-to-gift-roblox-plus-subscriptions/4984986",
-      "title": "Allow Players to Gift Roblox Plus Subscriptions",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2137,6 +2095,71 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4994584:1",
+      "url": "https://devforum.roblox.com/t/package-properties-visible-through-properties-window-are-invisible-to-agents-through-studio-mcp/4994584",
+      "title": "Package properties visible through Properties window are invisible to agents through Studio MCP",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4994714:1",
+      "url": "https://devforum.roblox.com/t/display-scaling-not-affect-3d-rendering-resolution/4994714",
+      "title": "Display Scaling not Affect 3d Rendering Resolution",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4994775:1",
+      "url": "https://devforum.roblox.com/t/studio-mcp-datastore-and-memorystore-writes-in-edit-fail-with-%E2%80%9Caccess-forbidden%E2%80%9D%E2%80%9Cinternal-error%E2%80%9D-instead-of-the-write-confirmation-prompt/4994775",
+      "title": "Studio MCP: DataStore and MemoryStore writes in Edit fail with “Access forbidden”/“Internal Error” instead of the write-confirmation prompt",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4994813:1",
+      "url": "https://devforum.roblox.com/t/studio-crashes-when-pasting-a-camera/4994813",
+      "title": "Studio Crashes when pasting a camera",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4994851:1",
+      "url": "https://devforum.roblox.com/t/50000-robux-deposit-not-refunded-from-100000-robux-expedited-review-fee/4994851",
+      "title": "50,000 Robux Deposit Not Refunded from 100,000 Robux Expedited Review Fee",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt1ns1",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt1ns1/when_do_my_ads_stop_being_in_learning_mode/",
       "title": "When do my ads stop being in learning mode",
@@ -2767,20 +2790,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4985658:1",
-      "url": "https://devforum.roblox.com/t/better-guiservicegetinsetarea/4985658",
-      "title": "Better GuiService:GetInsetArea()",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "UI and menus"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4986298:1",
       "url": "https://devforum.roblox.com/t/custom-folder-icons-12/4986298",
       "title": "Custom Folder Icons (12)",
@@ -3061,6 +3070,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4994750:1",
+      "url": "https://devforum.roblox.com/t/404-on-experience-and-profile-web-pages/4994750",
+      "title": "404 on experience and profile web pages",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "UI and menus"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xsbvst",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsbvst/anyone_want_to_volunteer_to_help_me_on_a_dbz/",
       "title": "Anyone want to volunteer to help me on a DBZ inspired \"parry\" based game?",
@@ -3328,19 +3351,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4985415:1",
-      "url": "https://devforum.roblox.com/t/roblox-isnt-recommending-game-to-high-revenue-countries/4985415",
-      "title": "Roblox isn't recommending game to high-revenue countries",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4985814:1",
       "url": "https://devforum.roblox.com/t/open-cloud-api-keys-rejected-when-called-from-cloudflare-workers/4985814",
       "title": "Open Cloud API keys rejected when called from Cloudflare Workers",
@@ -3349,19 +3359,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985907:1",
-      "url": "https://devforum.roblox.com/t/updates-feed-for-experiences/4985907",
-      "title": "Updates Feed for Experiences",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4030,6 +4027,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4994728:1",
+      "url": "https://devforum.roblox.com/t/question-on-policyservice/4994728",
+      "title": "Question on PolicyService",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4994834:1",
+      "url": "https://devforum.roblox.com/t/my-group-doesn%E2%80%99t-appear-in-the-%E2%80%9Cgames-by%E2%80%9D-dropdown-so-i-can%E2%80%99t-register-ip-for-my-game/4994834",
+      "title": "My group doesn’t appear in the “Games by” dropdown, so I can’t register IP for my game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xsh0d4",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsh0d4/is_this_decent_what_should_i_be_going_for/",
       "title": "Is this decent? What should I be going for?",
@@ -4051,19 +4074,6 @@
       "kind": "reddit",
       "signals": [
         "economy and income"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xsquhk",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsquhk/revshare_asym_game_plan_in_concept_phase/",
-      "title": "[REVSHARE] Asym game plan - in concept phase",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4730,17 +4740,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4985366:1",
-      "url": "https://devforum.roblox.com/t/my-game-got-unbanned-but/4985366",
-      "title": "My game got unbanned but",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4985477:1",
       "url": "https://devforum.roblox.com/t/rate-limit-rule-affecting-legitimate-superforest-open-cloud-reads/4985477",
       "title": "Rate-limit rule affecting legitimate Superforest Open Cloud reads",
@@ -4755,17 +4754,6 @@
       "key": "devforum:4985525:1",
       "url": "https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525",
       "title": "Request for the Addition of Roblox Data-Centers in Central Asia Region",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985530:1",
-      "url": "https://devforum.roblox.com/t/uicorner-uistroke-issue/4985530",
-      "title": "UICorner + UIStroke issue",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
@@ -4799,17 +4787,6 @@
       "key": "devforum:4985860:1",
       "url": "https://devforum.roblox.com/t/unable-to-create-custom-dashboards-on-the-create-page/4985860",
       "title": "Unable to create custom dashboards on the Create page",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986071:1",
-      "url": "https://devforum.roblox.com/t/textchatservice-chat-bubbles-do-not-appear-when-humanoidrootpart-is-missing-even-if-not-adorned-to-it/4986071",
-      "title": "TextChatService chat bubbles do not appear when HumanoidRootPart is missing, even if not adorned to it",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
@@ -6061,12 +6038,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xsa34d",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa34d/pickleball_demo/",
-      "title": "Pickleball Demo",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
+      "key": "devforum:4994753:1",
+      "url": "https://devforum.roblox.com/t/all-roblox-experiences-show-a-404-page/4994753",
+      "title": "All Roblox experiences show a 404 Page",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4994771:1",
+      "url": "https://devforum.roblox.com/t/release-notes-for-748/4994771",
+      "title": "Release Notes for 748",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4994890:1",
+      "url": "https://devforum.roblox.com/t/i-need-a-reset-for-the-translation-table/4994890",
+      "title": "I need a reset for the translation table",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7262,19 +7261,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1IdW11SkVuMVpZVWl3YWVJaHNNNW1tRGY5NWdpemE5YWpyVDlCUUtyVEd6bkJCelVDUmlGVFVkSXkyZE9NSVdUc1pwSFhtd20zeVhWdWdR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IdW11SkVuMVpZVWl3YWVJaHNNNW1tRGY5NWdpemE5YWpyVDlCUUtyVEd6bkJCelVDUmlGVFVkSXkyZE9NSVdUc1pwSFhtd20zeVhWdWdR?oc=5",
-      "title": "Claude Fable 5.2 Just Made 3D Roblox Shorts Ridiculously Easy (Copy Me) - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-10",
-      "kind": "index-only",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE53U0JBbUxKSXdrWDFTNWhlU1BOZTJqSDNVLXlvUTVZamlURDVNQmRKVzQzRjI2Uy01ZVhEcnk4cmRDRkRWZ1plSkhGcVlGRkU1cWtLVmVB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53U0JBbUxKSXdrWDFTNWhlU1BOZTJqSDNVLXlvUTVZamlURDVNQmRKVzQzRjI2Uy01ZVhEcnk4cmRDRkRWZ1plSkhGcVlGRkU1cWtLVmVB?oc=5",
       "title": "Only in the Admin abuse of today in my game Steal an egg 🔥 #roblox #robloxfyp #stealanegg - Instagram",
@@ -7415,6 +7401,28 @@
       "signals": [
         "genres and successful loops"
       ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBYR2JqTzBWYUEySVU3aEJKT1hHZW0zUmx0UmM5ZEIzYURwVTFpQUlkZlAtQXh3YmRlQlBUU3VaTXFRUml0M3ptYlFOT2oxWUZvS3NzeUpn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYR2JqTzBWYUEySVU3aEJKT1hHZW0zUmx0UmM5ZEIzYURwVTFpQUlkZlAtQXh3YmRlQlBUU3VaTXFRUml0M3ptYlFOT2oxWUZvS3NzeUpn?oc=5",
+      "title": "I Built a Roblox Game With AI (No Coding) – Here’s How - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-17",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiZkFVX3lxTE1hMERtRFZjVEJjRXRYelp0VGhzaTVqZk9mbjdwNzVMZmprQmZPS1NSaHVBaHdtYmZVVjY1NFI3cGstTzd2SEV1d1B4eERNeXVFeHZ0YlhpdmNBV3RWckpmZ2tWQVVRZw",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hMERtRFZjVEJjRXRYelp0VGhzaTVqZk9mbjdwNzVMZmprQmZPS1NSaHVBaHdtYmZVVjY1NFI3cGstTzd2SEV1d1B4eERNeXVFeHZ0YlhpdmNBV3RWckpmZ2tWQVVRZw?oc=5",
+      "title": "The Unity CLI 1.0 is here! - GameDev.net",
+      "source": "automation",
+      "published": "2026-11-16",
+      "kind": "index-only",
+      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
