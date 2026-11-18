@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "1a5a2aefa6a3d6db0e339fba27ba5549db19f6cb",
-      "head_subject": "Return false when the configuration file cannot be replaced (#9580)",
+      "head": "b3df88f0e273ea782c4470c1d52538c1d72a49d2",
+      "head_subject": "Changelog",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "ed6e1ea9faf9316dba05c5a99769cb0d4349a85d",
+      "head": "3938eb8e35351bc98ba7d5651c804a91aaaaa4f0",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "52dd3a11c3a87f79b06d353cdf8eea1bc52854dc",
+      "head": "154c06539c4309e172b8ce6f2b07388987617d68",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.327",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "b8db8d5b5c8daedbbef7bb9ace2221a38bc384c2",
-      "head_subject": "mlxrunner: reuse saved prefixes across request slots (#19677)",
+      "head": "508d8be9c8a43d6b9f98d6abca099f51320bff2b",
+      "head_subject": "test: stabilize speech slow-reader coverage (#19746)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",

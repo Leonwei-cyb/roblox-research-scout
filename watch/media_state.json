@@ -1,18 +1,5 @@
 {
   "seen": [
-    "532935cbc0f4c439b6f5ca9b",
-    "6fd3b01bc7652d671d2a7bba",
-    "e2a47779f4118707e37435e1",
-    "03d5702141f7ec61378bbb45",
-    "935c81a79f561c13668ff32f",
-    "52ebf0886dbcfcbd6287bb98",
-    "3e99ba9526989ba68ec6beb2",
-    "ba57c164c6825cc309370b64",
-    "63afbb083bdb1a6c9aea2cd8",
-    "da32518b3522515530ccea23",
-    "cefd13da3ed794572ea3308f",
-    "1005c25b7fa68abcc1e27589",
-    "9d4998dce08349cee0ae4408",
     "c2d865d9fb4b960d6f2bdc34",
     "cda58c21860d6b13e5235b34",
     "9b82604471a55aa2e48f0b01",
@@ -3999,7 +3986,20 @@
     "11db4b2ccaed7ebc302bbcd6",
     "3bd9e33a439949f33bc55406",
     "56b7c61aa71e9a79cb8a1de1",
-    "307e286a2845e4f9178f783c"
+    "307e286a2845e4f9178f783c",
+    "81e2eaf0be9003976f6c22d4",
+    "a8e60cbb3152cf9c5f37d995",
+    "588fa71cbb8a862a015cdde5",
+    "7159f31175d2a950f59e670b",
+    "9d3874e9aa0080827de3c724",
+    "43e76b060a3f662d23af6da9",
+    "d3d3435d93ac68d5bb1451a1",
+    "4727b07d108bd8d41401eb24",
+    "f2b7b2e81052c199874cb292",
+    "94d940ce7330bb29a1315378",
+    "f9bd4afb31ad23b0a9b06926",
+    "5ef330ea124bede5dbd4a442",
+    "93882da2dfe44e825f709904"
   ],
   "items": [
     {
@@ -4018,6 +4018,42 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Marketplace Refunds for Deleted UGC's on Global and Regional Pricing",
+      "url": "https://devforum.roblox.com/t/marketplace-refunds-for-deleted-ugcs-on-global-and-regional-pricing/4995632",
+      "published": "2026-11-18",
+      "excerpt": "This has been going on for a lot of times and I’ve been doing a blind eye out of this but now this is very very unfair. My account was being charged for the amount of global pricing on game passes and marketplace however refunds are only brought back by regional pricing. Imagine purchasing an animat",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/marketplace-refunds-for-deleted-ugcs-on-global-and-regional-pricing/4995632.rss",
+      "id": "f9bd4afb31ad23b0a9b06926"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Place specific studio loading issue",
+      "url": "https://devforum.roblox.com/t/place-specific-studio-loading-issue/4995706",
+      "published": "2026-11-18",
+      "excerpt": "I’m unable to open one specific place in Roblox Studio. Whenever I try to open it for editing, Studio gets stuck on “Connecting” or “Setting Up” and never loads the editor. The published place still loads and plays normally in Roblox, and I can open my other places in Studio without any issues. The ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/place-specific-studio-loading-issue/4995706.rss",
+      "id": "f2b7b2e81052c199874cb292"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Does uploading UGC across multiple groups affect Marketplace discoverability?",
+      "url": "https://devforum.roblox.com/t/does-uploading-ugc-across-multiple-groups-affect-marketplace-discoverability/4995757",
+      "published": "2026-11-18",
+      "excerpt": "I’ve noticed a few creators start new groups and have items hit the bestseller list almost right away, even though those items are similar to what they already sell in their main group. It made me wonder if the group an item is uploaded under affects how often it gets recommended. Does Roblox’s Mark",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/does-uploading-ugc-across-multiple-groups-affect-marketplace-discoverability/4995757.rss",
+      "id": "d3d3435d93ac68d5bb1451a1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[Plugin] New Behavior Tree Editor",
       "url": "https://devforum.roblox.com/t/plugin-new-behavior-tree-editor/4995415",
       "published": "2026-11-18",
@@ -4030,6 +4066,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "AI Chatbot at roblox support refuses to escalate to a human agent",
+      "url": "https://devforum.roblox.com/t/ai-chatbot-at-roblox-support-refuses-to-escalate-to-a-human-agent/4995899",
+      "published": "2026-11-18",
+      "excerpt": "If i proceed with it “checking my account” it directs me to the recover account self service portal which DOES NOT help with my issue, i have purchase proof of me owning my account, and the self service portal does not accept that. Expected behavior The chatbot should send the issue to a human agent",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ai-chatbot-at-roblox-support-refuses-to-escalate-to-a-human-agent/4995899.rss",
+      "id": "a8e60cbb3152cf9c5f37d995"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Do you know about *lua*? Get a certificate",
       "url": "https://devforum.roblox.com/t/do-you-know-about-lua-get-a-certificate/4995406",
       "published": "2026-11-18",
@@ -4037,6 +4085,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/do-you-know-about-lua-get-a-certificate/4995406.rss",
       "id": "a2e5b36d1efdd2ea2734fe35"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Matt's 3D Modeling Portfolio | 1 Year of Experience",
+      "url": "https://devforum.roblox.com/t/matts-3d-modeling-portfolio-1-year-of-experience/4995845",
+      "published": "2026-11-18",
+      "excerpt": "Matt’s 3D Modeling Portfolio Hey everyone, I’m Matt I’ve been doing 3D modeling for around 1 year now, mostly making medieval stuff and low poly models I decided to start taking commissions and work on models for other people’s games Anyway, here’s some of my work Some Models I’ve Made Most of these",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/matts-3d-modeling-portfolio-1-year-of-experience/4995845.rss",
+      "id": "9d3874e9aa0080827de3c724"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4061,6 +4121,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/is-streaming-real-world-terrainsatellite-data-allowed/4995446.rss",
       "id": "99afff18e9a7e35f3aa290a8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Big problem with average playtime and bounce rate. Need an outside perspective",
+      "url": "https://devforum.roblox.com/t/big-problem-with-average-playtime-and-bounce-rate-need-an-outside-perspective/4995698",
+      "published": "2026-11-18",
+      "excerpt": "So i recently released a game, it follows that new ragdoll physics sim trend, but with a twist. basically to get money for new weapons you complete “quotas” where you have to injure enough dummies badly enough within a time limit, buying new weapons in between each round. There is also a sandbox mod",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/big-problem-with-average-playtime-and-bounce-rate-need-an-outside-perspective/4995698.rss",
+      "id": "94d940ce7330bb29a1315378"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4114,6 +4186,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "RbxNative: an open source Roblox editor for Linux, macOS and Windows",
+      "url": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903",
+      "published": "2026-11-18",
+      "excerpt": "Hey everyone. I’ve been working on RbxNative, a Roblox editor written from scratch in Rust. It runs natively on Linux, macOS and Windows, with no Wine (unlike Vinegar) and no VM. Its code is open source under MIT. 0.2.0 is the first release on all three. Website: https://rbxnative.chteau.bzh GitHub:",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903.rss",
+      "id": "81e2eaf0be9003976f6c22d4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "FPS Gun System Attempt Feedback",
       "url": "https://devforum.roblox.com/t/fps-gun-system-attempt-feedback/4995068",
       "published": "2026-11-18",
@@ -4121,6 +4205,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/fps-gun-system-attempt-feedback/4995068.rss",
       "id": "73cf32ba09f967ca93db8975"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "CreateDataModelContentAsync: each release scans the whole rbx-storage-sc folder, and session folders are never deleted (100+ GB on disk)",
+      "url": "https://devforum.roblox.com/t/createdatamodelcontentasync-each-release-scans-the-whole-rbx-storage-sc-folder-and-session-folders-are-never-deleted-100-gb-on-disk/4995885",
+      "published": "2026-11-18",
+      "excerpt": "Content created with AssetService:CreateDataModelContentAsync (from EditableMesh / EditableImage) is written by the client as one file per content in its session cache, %LOCALAPPDATA%\\Roblox\\rbx-storage-sc\\<pid>\\p24\\ (we checked that the file count matches the number of contents we hold). Two proble",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/createdatamodelcontentasync-each-release-scans-the-whole-rbx-storage-sc-folder-and-session-folders-are-never-deleted-100-gb-on-disk/4995885.rss",
+      "id": "7159f31175d2a950f59e670b"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4138,6 +4234,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "GetPartsInPart incorrectly returns an empty array in some cases",
+      "url": "https://devforum.roblox.com/t/getpartsinpart-incorrectly-returns-an-empty-array-in-some-cases/4995613",
+      "published": "2026-11-18",
+      "excerpt": "I have noticed in some cases that the function GetPartsInPart() does not correctly return overlapping parts. For example, consider this situation: Note that both the red and green part are overlapping. If we run GetPartsInPart() on the red part, the green part should be returned. After running this ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/getpartsinpart-incorrectly-returns-an-empty-array-in-some-cases/4995613.rss",
+      "id": "5ef330ea124bede5dbd4a442"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add Blendshapes to MeshParts",
+      "url": "https://devforum.roblox.com/t/add-blendshapes-to-meshparts/4995894",
+      "published": "2026-11-18",
+      "excerpt": "currently as a developer its difficult to do things like create large bodies of custom water, trees & more because the only options are EditableMesh or a armature but having blendshapes should both help performance and make development easier eg. MeshPart:SetShapekey(String: Shapekey, Float: Value) ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-blendshapes-to-meshparts/4995894.rss",
+      "id": "588fa71cbb8a862a015cdde5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Unable to Join Team Create Sessions",
       "url": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions/4995021",
       "published": "2026-11-18",
@@ -4145,6 +4265,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions/4995021.rss",
       "id": "4dc8dd249e89bf0c5c50443b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Need feedback on explorer layout",
+      "url": "https://devforum.roblox.com/t/need-feedback-on-explorer-layout/4995740",
+      "published": "2026-11-18",
+      "excerpt": "is this a good explorer layout for my asym game the `` Input `` script detects whenever a player presses a button from a localscript and if they’re on the killer team or survivor team, and triggers an ability from the moveset/character they’re using no other modules besides the sprint one yet, gonna",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-feedback-on-explorer-layout/4995740.rss",
+      "id": "4727b07d108bd8d41401eb24"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Countering resolution penalty on roblox studio for render photos is now real! (Nvidia)",
+      "url": "https://devforum.roblox.com/t/countering-resolution-penalty-on-roblox-studio-for-render-photos-is-now-real-nvidia/4995785",
+      "published": "2026-11-18",
+      "excerpt": "Hey, folks. Now I found myself some good way to make a roblox renders on roblox studio without losing resolution. (if you don’t know how to use blender like me) Lemme explain: What is a resolution penalty? You’re losing resolution of your photo because of roblox studio windows as properties, command",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/countering-resolution-penalty-on-roblox-studio-for-render-photos-is-now-real-nvidia/4995785.rss",
+      "id": "43e76b060a3f662d23af6da9"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5186,6 +5330,18 @@
       "excerpt": "Hey zusammen! 👋 Ich fange gerade mit Roblox Studio an und suche Leute aus Deutschland, die auch Spiele entwickeln, egal ob Anfänger oder schon weiter. Ich würde gerne: zusammen lernen und uns gegenseitig helfen parallel an eigenen Projekten arbeiten vielleicht später gemeinsam ein Spiel bauen Wenn d",
       "creator": "/u/Creative_Speed9997 https://www.reddit.com/user/Creative_Speed9997",
       "id": "9c2424a8c011ea99121d466f"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Best owners in Steal an egg? #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LU1ZHTTBuZFk2TkFsWktXejF6UEtsc0Jud1JkQ3VMcjIzODNNTnRxcEZUd21QMUVQRlVLdkxxLThrTGMtVnA3RHQycUxvREZ5SWRzRzVB?oc=5",
+      "published": "2026-11-16",
+      "excerpt": "Best owners in Steal an egg? #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "93882da2dfe44e825f709904"
     },
     {
       "source": "reddit-robloxdev",
@@ -10802,159 +10958,6 @@
       "excerpt": "If you have created a new game or map and are struggling with player retention, engagement, or monetization, I offer in-depth playtesting and detailed feedback reports in exchange for Robux. Services & Pricing (Tax Not Included): Player Acquisition Analysis (250 Robux): Identifying why players aren'",
       "creator": "/u/MrBalkoz https://www.reddit.com/user/MrBalkoz",
       "id": "1113980af22da1ec09002d3e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Incremental game",
-      "url": "https://devforum.roblox.com/t/incremental-game/4986325",
-      "published": "2026-11-11",
-      "excerpt": "I made another incremental: Gain Incremental | Play on Roblox It’s still not completely finished (no thumbnail, sounds need improvement), but what do you think? 3 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/incremental-game/4986325.rss",
-      "id": "0e8e018483d70b99c1773bc9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Significantly increase the Trail's max lifetime",
-      "url": "https://devforum.roblox.com/t/significantly-increase-the-trails-max-lifetime/4986471",
-      "published": "2026-11-11",
-      "excerpt": "My Problem While the current lifetime limit may be sufficient for many common use cases, it unnecessarily restricts developers who need trails to persist for longer durations. The fact that most effects can be achieved within the existing limit does not mean the limit should prevent other valid use ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/significantly-increase-the-trails-max-lifetime/4986471.rss",
-      "id": "0e30ec0235df1e81542adca2"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Console & Mobile Client FPS P10 Degradation",
-      "url": "https://devforum.roblox.com/t/console-mobile-client-fps-p10-degradation/4986822",
-      "published": "2026-11-11",
-      "excerpt": "Hello, We’re (DE / Driving Empire) receiving alerts about degraded performance on Console and mobile devices, seemingly starting from 2026-11-02T18:45:00Z. We have ruled out our Spookfest update as being the cause as the sharp negative trend started later than its release, and did not resolve at the",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/console-mobile-client-fps-p10-degradation/4986822.rss",
-      "id": "0c3fcd618f2bd48ae348074c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Variadic method receives a corrupted self after being called across multiple frames (live servers only)",
-      "url": "https://devforum.roblox.com/t/variadic-method-receives-a-corrupted-self-after-being-called-across-multiple-frames-live-servers-only/4987477",
-      "published": "2026-11-11",
-      "excerpt": "After a variadic method (example: function T:M(…)) has been called heavily for a few frames, it starts receiving the wrong “self.” obj:M(a, b) runs M with self set to an unrelated value (nil, a string, a number, or an Instance that was in the caller’s code) instead of obj. From my testing, it seems ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/variadic-method-receives-a-corrupted-self-after-being-called-across-multiple-frames-live-servers-only/4987477.rss",
-      "id": "016a24a67d5d7834c68a18d0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Sending multiple packets in a table through a remote",
-      "url": "https://devforum.roblox.com/t/sending-multiple-packets-in-a-table-through-a-remote/4987474",
-      "published": "2026-11-11",
-      "excerpt": "i have like zero knowledge on networking but i reworked the code for projectiles in my game and would like to know if theres a better way to go about this.. originally, for example firing a shotgun would create a data packet and send it through a remoteEvent to the server for each individual project",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/sending-multiple-packets-in-a-table-through-a-remote/4987474.rss",
-      "id": "00c3705db5b960a1ce0fe6c4"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Can you tell me what I need to fix in my game I spent a bunch of time making it.[🎃]Steal a God Egg.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtjc9g/can_you_tell_me_what_i_need_to_fix_in_my_game_i/",
-      "published": "2026-11-11",
-      "excerpt": "submitted by /u/lkxiep8 [link] [comments]",
-      "creator": "/u/lkxiep8 https://www.reddit.com/user/lkxiep8",
-      "id": "009495bec9d7e18e386b22db"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator",
-      "url": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934",
-      "published": "2026-11-10",
-      "excerpt": "Key Takeaways The 2027 Roblox Incubator is now open for creators building novel games for 18+ players. Whether you’re proving a core loop or getting ready to launch, you get hands-on support from Roblox engineers and designers. Apply by December 7, 2026 on the Roblox Incubator page on Creator Hub. H",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934.rss",
-      "id": "f8f29bdff7262ecc60b07939"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[CRF-7826 acceptance test] DevForum ESR upgrade wizard 20261109 E7",
-      "url": "https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341",
-      "published": "2026-11-10",
-      "excerpt": "Operational acceptance test for the approved DevForum ESR 2026.7.4 upgrade (CRF-7826). This is synthetic test content, not a reported product defect. Reproduction: open Report Bug, select Developer Forum, complete this tagged acceptance form, and submit once. Verify that the forum topic and its Crea",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341.rss",
-      "id": "f89767aaca4a757f86e7df11"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Animation makes so proximityprompt wont appear",
-      "url": "https://devforum.roblox.com/t/animation-makes-so-proximityprompt-wont-appear/4985835",
-      "published": "2026-11-10",
-      "excerpt": "What do you want to achieve? Keep it simple and clear! i want so the proximityprompt appears even tho the animation plays What is the issue What solutions have you tried so far? i tried to add a part with a proximityprompt bigger then the model but that wouldn’t work either, it only works if i move ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/animation-makes-so-proximityprompt-wont-appear/4985835.rss",
-      "id": "f60033ee27c2098986d4a2f5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking to commission someone for my thumbnails. Anyone know where I can find someone ?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsiyrm/looking_to_commission_someone_for_my_thumbnails/",
-      "published": "2026-11-10",
-      "excerpt": "I have AI thumb nails and would like to spruce them up. submitted by /u/friedbeann [link] [comments]",
-      "creator": "/u/friedbeann https://www.reddit.com/user/friedbeann",
-      "id": "f31d9645981b5a7c15705482"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "The R6 default animate script does not work",
-      "url": "https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047",
-      "published": "2026-11-10",
-      "excerpt": "My roblox studio just updated, and every time i playtest the game i’m working on, i get a lot of warnings that say : AnimationRig: part 'Head' looks like Neck but its parent is 'Torso' (expected 'UpperTorso'); skipping label. So i looked into the animate local script in my character and i think it i",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047.rss",
-      "id": "f24bc79f7b710459d116fea4"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I want to create a baki fighting game but i need help to do",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xscjic/i_want_to_create_a_baki_fighting_game_but_i_need/",
-      "published": "2026-11-10",
-      "excerpt": "if anyone down to help me and my friend any profit on the game will be split i do work so i will be away part of the day until night time but on the weekend im up late so let me know whos down. My discords monkey.d.luffy0859 submitted by /u/Reasonable_Tooth3513 [link] [comments]",
-      "creator": "/u/Reasonable_Tooth3513 https://www.reddit.com/user/Reasonable_Tooth3513",
-      "id": "f09fdf3c45a629ab69046b03"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Typo in TextGenerator API Docs",
-      "url": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340",
-      "published": "2026-11-10",
-      "excerpt": "I see “paramaters” but it should be “parameters”. Page URL: https://create.roblox.com/docs/en-us/reference/engine/classes/TextGenerator 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340.rss",
-      "id": "edb0b7a09dd71078ea92035a"
     }
   ]
 }

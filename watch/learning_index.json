@@ -124,6 +124,21 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4995740:1",
+      "url": "https://devforum.roblox.com/t/need-feedback-on-explorer-layout/4995740",
+      "title": "Need feedback on explorer layout",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 9,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwgafv",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/",
       "title": "scripter, animator, and designer jobs.",
@@ -151,34 +166,6 @@
         "player feedback and marketing"
       ],
       "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4984934:1",
-      "url": "https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934",
-      "title": "Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986047:1",
-      "url": "https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047",
-      "title": "The R6 default animate script does not work",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 8,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -494,21 +481,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986822:1",
-      "url": "https://devforum.roblox.com/t/console-mobile-client-fps-p10-degradation/4986822",
-      "title": "Console & Mobile Client FPS P10 Degradation",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "genres and successful loops",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4987003:1",
       "url": "https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003",
       "title": "Be careful with PostSimulation if you’re using Server Authority",
@@ -551,20 +523,6 @@
         "tools and performance"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985835:1",
-      "url": "https://devforum.roblox.com/t/animation-makes-so-proximityprompt-wont-appear/4985835",
-      "title": "Animation makes so proximityprompt wont appear",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "world and visual design"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1185,19 +1143,6 @@
         "world and visual design"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985341:1",
-      "url": "https://devforum.roblox.com/t/crf-7826-acceptance-test-devforum-esr-upgrade-wizard-20261109-e7/4985341",
-      "title": "[CRF-7826 acceptance test] DevForum ESR upgrade wizard 20261109 E7",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2182,6 +2127,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4995706:1",
+      "url": "https://devforum.roblox.com/t/place-specific-studio-loading-issue/4995706",
+      "title": "Place specific studio loading issue",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995785:1",
+      "url": "https://devforum.roblox.com/t/countering-resolution-penalty-on-roblox-studio-for-render-photos-is-now-real-nvidia/4995785",
+      "title": "Countering resolution penalty on roblox studio for render photos is now real! (Nvidia)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995845:1",
+      "url": "https://devforum.roblox.com/t/matts-3d-modeling-portfolio-1-year-of-experience/4995845",
+      "title": "Matt's 3D Modeling Portfolio | 1 Year of Experience",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt55ki",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt55ki/my_journey_throughout_constantly_remaking_this/",
       "title": "My journey throughout constantly remaking this one building",
@@ -2203,19 +2187,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtjc9g",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtjc9g/can_you_tell_me_what_i_need_to_fix_in_my_game_i/",
-      "title": "Can you tell me what I need to fix in my game I spent a bunch of time making it.[🎃]Steal a God Egg.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "genres and successful loops"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2813,20 +2784,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986325:1",
-      "url": "https://devforum.roblox.com/t/incremental-game/4986325",
-      "title": "Incremental game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4986773:1",
       "url": "https://devforum.roblox.com/t/open-open-to-offers-for-my-game-collect-planets/4986773",
       "title": "[OPEN] Open to offers for my game Collect Planets",
@@ -3116,6 +3073,20 @@
       "signals": [
         "economy and income",
         "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995632:1",
+      "url": "https://devforum.roblox.com/t/marketplace-refunds-for-deleted-ugcs-on-global-and-regional-pricing/4995632",
+      "title": "Marketplace Refunds for Deleted UGC's on Global and Regional Pricing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "animation and audio"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3416,19 +3387,6 @@
       "key": "devforum:4987437:1",
       "url": "https://devforum.roblox.com/t/decal-uvoffset-origin-unexpectedly-moved/4987437",
       "title": "Decal UVOffset origin unexpectedly moved",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987474:1",
-      "url": "https://devforum.roblox.com/t/sending-multiple-packets-in-a-table-through-a-remote/4987474",
-      "title": "Sending multiple packets in a table through a remote",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -4089,6 +4047,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4995698:1",
+      "url": "https://devforum.roblox.com/t/big-problem-with-average-playtime-and-bounce-rate-need-an-outside-perspective/4995698",
+      "title": "Big problem with average playtime and bounce rate. Need an outside perspective",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995894:1",
+      "url": "https://devforum.roblox.com/t/add-blendshapes-to-meshparts/4995894",
+      "title": "Add Blendshapes to MeshParts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995899:1",
+      "url": "https://devforum.roblox.com/t/ai-chatbot-at-roblox-support-refuses-to-escalate-to-a-human-agent/4995899",
+      "title": "AI Chatbot at roblox support refuses to escalate to a human agent",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt2vf6",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt2vf6/paid_looking_for_3_serious_playtesters/",
       "title": "[Paid] Looking for 3 serious playtesters",
@@ -4739,17 +4736,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4985340:1",
-      "url": "https://devforum.roblox.com/t/typo-in-textgenerator-api-docs/4985340",
-      "title": "Typo in TextGenerator API Docs",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4986171:1",
       "url": "https://devforum.roblox.com/t/for-hire-sagastars-%E2%9C%B7-game-developer-fullstack-programmer-esp-eng/4986171",
       "title": "[FOR HIRE] SagaStars ✷ - Game-Developer, FullStack-Programmer, ESP, ENG",
@@ -4786,17 +4772,6 @@
       "key": "devforum:4986441:1",
       "url": "https://devforum.roblox.com/t/all-and-any-messages-are-falsely-moderated-in-the-friends-chat/4986441",
       "title": "All and any messages are (falsely) moderated in the \"Friends\" chat",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986471:1",
-      "url": "https://devforum.roblox.com/t/significantly-increase-the-trails-max-lifetime/4986471",
-      "title": "Significantly increase the Trail's max lifetime",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -4918,17 +4893,6 @@
       "key": "devforum:4987435:1",
       "url": "https://devforum.roblox.com/t/emissive-materials-do-not-render-beyond-1200-studs-due-to-shader-lod/4987435",
       "title": "Emissive Materials do not render beyond 1200 studs due to Shader LOD",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987477:1",
-      "url": "https://devforum.roblox.com/t/variadic-method-receives-a-corrupted-self-after-being-called-across-multiple-frames-live-servers-only/4987477",
-      "title": "Variadic method receives a corrupted self after being called across multiple frames (live servers only)",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -6092,23 +6056,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xscjic",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xscjic/i_want_to_create_a_baki_fighting_game_but_i_need/",
-      "title": "I want to create a baki fighting game but i need help to do",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
+      "key": "devforum:4995613:1",
+      "url": "https://devforum.roblox.com/t/getpartsinpart-incorrectly-returns-an-empty-array-in-some-cases/4995613",
+      "title": "GetPartsInPart incorrectly returns an empty array in some cases",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xsiyrm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsiyrm/looking_to_commission_someone_for_my_thumbnails/",
-      "title": "Looking to commission someone for my thumbnails. Anyone know where I can find someone ?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
+      "key": "devforum:4995757:1",
+      "url": "https://devforum.roblox.com/t/does-uploading-ugc-across-multiple-groups-affect-marketplace-discoverability/4995757",
+      "title": "Does uploading UGC across multiple groups affect Marketplace discoverability?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995885:1",
+      "url": "https://devforum.roblox.com/t/createdatamodelcontentasync-each-release-scans-the-whole-rbx-storage-sc-folder-and-session-folders-are-never-deleted-100-gb-on-disk/4995885",
+      "title": "CreateDataModelContentAsync: each release scans the whole rbx-storage-sc folder, and session folders are never deleted (100+ GB on disk)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995903:1",
+      "url": "https://devforum.roblox.com/t/rbxnative-an-open-source-roblox-editor-for-linux-macos-and-windows/4995903",
+      "title": "RbxNative: an open source Roblox editor for Linux, macOS and Windows",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7219,6 +7205,19 @@
       "title": "Ben going crazy today guys in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
       "source": "brock-ig-reels",
       "published": "2026-11-12",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1LU1ZHTTBuZFk2TkFsWktXejF6UEtsc0Jud1JkQ3VMcjIzODNNTnRxcEZUd21QMUVQRlVLdkxxLThrTGMtVnA3RHQycUxvREZ5SWRzRzVB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LU1ZHTTBuZFk2TkFsWktXejF6UEtsc0Jud1JkQ3VMcjIzODNNTnRxcEZUd21QMUVQRlVLdkxxLThrTGMtVnA3RHQycUxvREZ5SWRzRzVB?oc=5",
+      "title": "Best owners in Steal an egg? #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-16",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"

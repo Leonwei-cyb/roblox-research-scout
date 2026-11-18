@@ -26,10 +26,10 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 ## Deferred feeds — retry after temporary cooldown
 
-- reddit-robloxdev: HTTP 429
+- brock-x: HTTP 429
 
 ## Failures (not silently skipped)
 
-- brock-x: HTTP 429
-- reddit-robloxstudio: HTTP 404
+- reddit-robloxdev: HTTP 404
+- reddit-robloxstudio: HTTP 429
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404

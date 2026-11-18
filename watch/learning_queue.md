@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 332
-- index-only: 21
-- reddit: 242
+- devforum: 334
+- index-only: 22
+- reddit: 239
 - youtube: 4
 
 ## First-Session And Mobile
@@ -42,7 +42,7 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 ## Animation And Audio
 
 - [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [The R6 default animate script does not work](https://devforum.roblox.com/t/the-r6-default-animate-script-does-not-work/4986047) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Skill VFX Feedback](https://devforum.roblox.com/t/skill-vfx-feedback/4986558) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## World And Visual Design
 
@@ -57,7 +57,7 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 ## Player Feedback And Marketing
 
 - [\[FOR HIRE\] Dragon | Lead Scripter @ BEXCO | Systems, UI & Discord Bots | 3+ Years](https://devforum.roblox.com/t/for-hire-dragon-lead-scripter-bexco-systems-ui-discord-bots-3-years/4992656) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Apply Now: Build Novel Games for 18+ Players With the 2027 Roblox Incubator](https://devforum.roblox.com/t/apply-now-build-novel-games-for-18-players-with-the-2027-roblox-incubator/4984934) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Need feedback on explorer layout](https://devforum.roblox.com/t/need-feedback-on-explorer-layout/4995740) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 
