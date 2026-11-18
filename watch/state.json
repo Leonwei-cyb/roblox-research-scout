@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "c540e3bf1aed8aeb839ddf90b8b874666e798f29",
+      "head": "f7176bfb8077237da2c034db13a5c2ef12ee31b4",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.326",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+      "release_tag": "v2.1.327",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "061888054771050e454009aefe713e607cd57232",
-      "head_subject": "Update Bundler to 4.1.0",
+      "head": "6c1348501e96ec66d876b504ba11fb6e3c19d0bf",
+      "head_subject": "Add a liquid_escape filter",
       "name": "huginn/huginn",
       "release_tag": "v2026.11.09",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.09",

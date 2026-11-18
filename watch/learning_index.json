@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 598,
+  "unique_posts": 599,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -124,21 +124,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xsa54d",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsa54d/how_do_you_make_the_first_minute_of_a_simulator/",
-      "title": "How do you make the first minute of a simulator game clear without a long tutorial?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "genres and successful loops",
-        "player feedback and marketing"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xshiru",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xshiru/looking_for_a_roblox_environment_builder_revshare/",
       "title": "Looking for a Roblox Environment Builder (RevShare)! 🏗️",
@@ -193,34 +178,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985464:1",
-      "url": "https://devforum.roblox.com/t/mobile-app-drops-launchdata-and-placeidoverride-from-experience-page-links-only-15-of-ads-manager-traffic-carries-launch-data/4985464",
-      "title": "Mobile app drops launchData and placeIdOverride from experience page links: only ~15% of Ads Manager traffic carries launch data",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985999:1",
-      "url": "https://devforum.roblox.com/t/release-747-client-crash-rate-rose-after-the-server-rollout-and-again-after-the-windows-player-rollout/4985999",
-      "title": "Release 747: client crash rate rose after the server rollout and again after the Windows Player rollout",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -1033,14 +990,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xt23sj",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt23sj/i_spent_50_on_ads_for_my_new_roblox_game_over_90/",
-      "title": "I spent ~$50 on ads for my new Roblox game. Over 90% of clicks never even started it. Is the 16+ gate the reason?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
+      "key": "devforum:4995043:1",
+      "url": "https://devforum.roblox.com/t/blotchy-huge-shadows-on-lighting/4995043",
+      "title": "Blotchy huge shadows on lighting",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
       "signals": [
-        "UI and menus",
+        "world and visual design",
         "player feedback and marketing"
       ],
       "score": 6,
@@ -1241,32 +1198,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985942:1",
-      "url": "https://devforum.roblox.com/t/looking-for-builder-for-game-levels/4985942",
-      "title": "[LOOKING FOR] Builder for game Levels",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986100:1",
-      "url": "https://devforum.roblox.com/t/help-with-animating-a-meele-swing/4986100",
-      "title": "Help with animating a meele swing",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2160,12 +2091,51 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xt1ns1",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt1ns1/when_do_my_ads_stop_being_in_learning_mode/",
-      "title": "When do my ads stop being in learning mode",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
+      "key": "devforum:4994915:1",
+      "url": "https://devforum.roblox.com/t/weird-pop-up-keeps-appearing-in-roblox-studio/4994915",
+      "title": "Weird pop-up keeps appearing in Roblox Studio",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-17",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995068:1",
+      "url": "https://devforum.roblox.com/t/fps-gun-system-attempt-feedback/4995068",
+      "title": "FPS Gun System Attempt Feedback",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995097:1",
+      "url": "https://devforum.roblox.com/t/roblox-advanced-menu-does-not-allow-me-to-equip-multiple-hairs-or-accessories-anymore/4995097",
+      "title": "Roblox Advanced Menu Does not Allow me to Equip Multiple Hairs or Accessories Anymore",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995102:1",
+      "url": "https://devforum.roblox.com/t/expedited-review-stuck-on-%E2%80%9Cfinal-review-in-progress%E2%80%9D-past-48-hours-universe-10776692340/4995102",
+      "title": "Expedited review stuck on “Final review in progress” past 48 hours (Universe 10776692340)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -4053,14 +4023,40 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xsh0d4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsh0d4/is_this_decent_what_should_i_be_going_for/",
-      "title": "Is this decent? What should I be going for?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
+      "key": "devforum:4995021:1",
+      "url": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions/4995021",
+      "title": "Unable to Join Team Create Sessions",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995106:1",
+      "url": "https://devforum.roblox.com/t/when-roblox-moderation-gets-it-wrong-the-appeals-system-should-be-able-to-correct-it/4995106",
+      "title": "When Roblox Moderation Gets It Wrong, the Appeals System Should Be Able to Correct It",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995113:1",
+      "url": "https://devforum.roblox.com/t/bhop-yet-another-reimplementation/4995113",
+      "title": "Bhop - yet another reimplementation",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4740,39 +4736,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4985477:1",
-      "url": "https://devforum.roblox.com/t/rate-limit-rule-affecting-legitimate-superforest-open-cloud-reads/4985477",
-      "title": "Rate-limit rule affecting legitimate Superforest Open Cloud reads",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985525:1",
-      "url": "https://devforum.roblox.com/t/request-for-the-addition-of-roblox-data-centers-in-central-asia-region/4985525",
-      "title": "Request for the Addition of Roblox Data-Centers in Central Asia Region",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4985671:1",
-      "url": "https://devforum.roblox.com/t/couldnt-reconnect-to-team-create-for-some-reason/4985671",
-      "title": "Couldn't reconnect to Team Create for some reason",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-10",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4985752:1",
       "url": "https://devforum.roblox.com/t/roblox-reduced-exposure-flag-on-my-roblox-experience/4985752",
       "title": "Roblox Reduced Exposure Flag on My Roblox Experience",
@@ -4784,9 +4747,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4985860:1",
-      "url": "https://devforum.roblox.com/t/unable-to-create-custom-dashboards-on-the-create-page/4985860",
-      "title": "Unable to create custom dashboards on the Create page",
+      "key": "devforum:4985999:1",
+      "url": "https://devforum.roblox.com/t/critical-windows-client-crash-rate-spikes-to-15-after-release-747/4985999",
+      "title": "[CRITICAL] Windows Client Crash Rate SPIKES to 15% After Release 747",
       "source": "roblox-devforum-latest",
       "published": "2026-11-10",
       "kind": "devforum",
@@ -6071,6 +6034,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4994998:1",
+      "url": "https://devforum.roblox.com/t/video-asset-rejected/4994998",
+      "title": "Video asset rejected",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995078:1",
+      "url": "https://devforum.roblox.com/t/editable-meshes-alpha-not-applying/4995078",
+      "title": "Editable Meshes Alpha not applying",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4995111:1",
+      "url": "https://devforum.roblox.com/t/transfer-limit-stuck-at-500d-and-1000mo/4995111",
+      "title": "Transfer limit stuck at 500/d and 1000/mo",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xscjic",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xscjic/i_want_to_create_a_baki_fighting_game_but_i_need/",
       "title": "I want to create a baki fighting game but i need help to do",
@@ -6096,17 +6092,6 @@
       "key": "reddit:1xsjm3t",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsjm3t/is_it_possible_to_sell_a_game_in_roblox/",
       "title": "Is it possible to sell a game in roblox?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-10",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xsk76l",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xsk76l/any_game_or_creation_examples_that_look_like_this/",
-      "title": "Any game or creation examples that look like this",
       "source": "reddit-robloxdev",
       "published": "2026-11-10",
       "kind": "reddit",
@@ -7412,6 +7397,33 @@
       "published": "2026-11-17",
       "kind": "index-only",
       "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBzdF9Fd0VlQXBQbkZ6cmxSTXhoaXVYeDVKOXpzOERsY0VOUDdqVm9zNzc4S2pwcXRKOERvTFR0UkdVNzFtWUxwMlpQWkxpUENuMTI4dG1n",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzdF9Fd0VlQXBQbkZ6cmxSTXhoaXVYeDVKOXpzOERsY0VOUDdqVm9zNzc4S2pwcXRKOERvTFR0UkdVNzFtWUxwMlpQWkxpUENuMTI4dG1n?oc=5",
+      "title": "How to join Ben's server in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-17",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops",
+        "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiXkFVX3lxTFBMQXROUlg2OEhBaXFxRlNHd3BiUUU0UW84bUIwZjZsdHhFZURGLUxzRmtOcGtuNFZxdnFZcHh5NDZZYjM4ZGMwdk0tdmlWNlNxTS1YUTRUdnI0a2d4VVE",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMQXROUlg2OEhBaXFxRlNHd3BiUUU0UW84bUIwZjZsdHhFZURGLUxzRmtOcGtuNFZxdnFZcHh5NDZZYjM4ZGMwdk0tdmlWNlNxTS1YUTRUdnI0a2d4VVE?oc=5",
+      "title": "How to Connect ChatGPT to Roblox Studio for Free (Codex MCP) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-13",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
+      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
