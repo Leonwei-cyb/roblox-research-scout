@@ -17,7 +17,7 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 - automation: 1
 - x-ui: 0
 - brock-ig-reels: 12
-- brock-x: 0
+- brock-tiktok: 3
 - roblox-animation-showcases: 0
 - tizzy-roblox-design: 0
 - syphodev-claude: 12
@@ -26,10 +26,10 @@ Availability is not guaranteed for public Reddit, third-party indexed searches o
 
 ## Deferred feeds — retry after temporary cooldown
 
-- brock-tiktok: HTTP 429
+- reddit-robloxdev: HTTP 429
 
 ## Failures (not silently skipped)
 
-- reddit-robloxdev: HTTP 429
+- brock-x: HTTP 429
 - reddit-robloxstudio: HTTP 404
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404

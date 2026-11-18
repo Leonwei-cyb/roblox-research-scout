@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "735c3690b1313ddcde68e85fd4dd9d2d89e4a61b",
-      "head_subject": "make test-all-php-versions (#9576)",
+      "head": "1a5a2aefa6a3d6db0e339fba27ba5549db19f6cb",
+      "head_subject": "Return false when the configuration file cannot be replaced (#9580)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "9e2818f01d3e58206e5d62911824e9f89fc81876",
+      "head": "ed6e1ea9faf9316dba05c5a99769cb0d4349a85d",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "f7176bfb8077237da2c034db13a5c2ef12ee31b4",
+      "head": "52dd3a11c3a87f79b06d353cdf8eea1bc52854dc",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.327",
@@ -105,11 +105,11 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "6c1348501e96ec66d876b504ba11fb6e3c19d0bf",
-      "head_subject": "Add a liquid_escape filter",
+      "head": "91c6a928fcebe246b2ab0b9777a1ba867f73a1fc",
+      "head_subject": "Restrict web responses from non-admin Agents",
       "name": "huginn/huginn",
-      "release_tag": "v2026.11.09",
-      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.09",
+      "release_tag": "v2026.11.18",
+      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.18",
       "url": "https://github.com/huginn/huginn"
     },
     "obra/superpowers": {
@@ -147,6 +147,7 @@
     "Anime-Vanguards/roblox-ui-renderer",
     "AppitStudio/awesome-jev",
     "Arshispro/luau-tycoon-core",
+    "Bingeljell/image-to-3dlab",
     "Chat2AnyLLM/awesome-claude-skills",
     "Chieler/Summer-2027-SWE-Internships",
     "Chrrxs/robloxstudio-mcp",
@@ -228,6 +229,7 @@
     "fagemx/gstack-game",
     "fazlanahamed423/lunar-core-framework",
     "felvieira/claude-skills-fv",
+    "fourgames/resources",
     "gamedev-skills/awesome-gamedev-agent-skills",
     "gmh5225/awesome-game-security",
     "gogolumo/rbsmithy-roblox-claude-skill",

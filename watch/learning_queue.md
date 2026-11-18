@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 327
-- index-only: 19
-- reddit: 249
+- devforum: 332
+- index-only: 21
+- reddit: 242
 - youtube: 4
 
 ## First-Session And Mobile
@@ -47,7 +47,7 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 ## World And Visual Design
 
 - [Road Builder Plugin (SMOOTH ROADS!)](https://devforum.roblox.com/t/road-builder-plugin-smooth-roads/4986400) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Looking for a Roblox Environment Builder (RevShare)! 🏗️](https://www.reddit.com/r/robloxgamedev/comments/1xshiru/looking_for_a_roblox_environment_builder_revshare/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Finally got some models! Feedback Welcome](https://www.reddit.com/r/ROBLOXStudio/comments/1xuxpu6/finally_got_some_models_feedback_welcome/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Genres And Successful Loops
 
