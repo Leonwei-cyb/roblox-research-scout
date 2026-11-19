@@ -4,22 +4,22 @@
 
 | Classification | Entries |
 |---|---:|
-| original video/post URL (unwatched) | 4 |
-| public metadata / page | 571 |
-| indexed redirect (not original) | 25 |
+| original video/post URL (unwatched) | 5 |
+| public metadata / page | 567 |
+| indexed redirect (not original) | 28 |
 | promotional / risky title | 0 |
 | invalid | 0 |
 
 Total sampled entries: **600**.
-Direct-original share: **0.7%** (still unwatched).
-Indexed redirects: **25**. They require primary-source verification.
+Direct-original share: **0.8%** (still unwatched).
+Indexed redirects: **28**. They require primary-source verification.
 
 ## Active configured sources
 
 The store keeps history from feeds that are no longer polled; this section counts only feeds in watch/feeds.json today.
 
-Active-source entries: **600**; direct originals **4**; indexed redirects **25**.
-Active-source direct-original share: **0.7%** (still unwatched).
+Active-source entries: **600**; direct originals **5**; indexed redirects **28**.
+Active-source direct-original share: **0.8%** (still unwatched).
 Entries from paused/unconfigured sources: **0**.
 
 ## Indexed redirects by publisher
@@ -28,8 +28,8 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| www.instagram.com | 14 |
-| www.youtube.com | 7 |
+| www.instagram.com | 15 |
+| www.youtube.com | 9 |
 | www.tiktok.com | 3 |
 | gamedev.net | 1 |
 

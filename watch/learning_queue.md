@@ -10,19 +10,19 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 347
-- index-only: 25
-- reddit: 223
-- youtube: 4
+- devforum: 350
+- index-only: 28
+- reddit: 216
+- youtube: 5
 
 ## First-Session And Mobile
 
+- [\[OPEN\] Roblox UI/UX Designer | Front-Page Experience / 1B+ Visits](https://devforum.roblox.com/t/open-roblox-uiux-designer-front-page-experience-1b-visits/4996994) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Players keep leaving my game](https://www.reddit.com/r/robloxgamedev/comments/1xwjs7f/players_keep_leaving_my_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [63% of new players quit my Roblox game in the first minute. Here's what I changed, tell me what I missed](https://www.reddit.com/r/robloxgamedev/comments/1xuo7ni/63_of_new_players_quit_my_roblox_game_in_the/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Board Game And Turn Flow
 
-- [Hex Warfare - First Mission Demo Showcase](https://www.reddit.com/r/robloxgamedev/comments/1xtmw3x/hex_warfare_first_mission_demo_showcase/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- No relevant direct candidate in stored leads.
 
 ## Building And Purchases
 
@@ -31,18 +31,18 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Economy And Income
 
-- [Server Authority: idle character steps in its last move direction when jitter is high](https://devforum.roblox.com/t/server-authority-idle-character-steps-in-its-last-move-direction-when-jitter-is-high/4987075) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [\[URGENT\] Text Filter FIXED in July, 48-Hour Review STILL Pending | Housebound With POTS and This Is My ONLY Income!](https://devforum.roblox.com/t/urgent-text-filter-fixed-in-july-48-hour-review-still-pending-housebound-with-pots-and-this-is-my-only-income/4986274) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Experiments: Measure Impact with Custom and Rewarded Ad Earning Metrics](https://devforum.roblox.com/t/experiments-measure-impact-with-custom-and-rewarded-ad-earning-metrics/4988305) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Wild West Game Testing Feedback](https://devforum.roblox.com/t/wild-west-game-testing-feedback/4992916) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Ui And Menus
 
 - [Looking for Experienced Roblox Developers 3D Modelers, VFX Artists & UI Designers/Programmers](https://www.reddit.com/r/robloxgamedev/comments/1xthqcc/looking_for_experienced_roblox_developers_3d/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [I made a Figma to Roblox UI plugin for myself, and figured I'd share it](https://devforum.roblox.com/t/i-made-a-figma-to-roblox-ui-plugin-for-myself-and-figured-id-share-it/4986776) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [\[FOR HIRE\] Dragon | Lead Scripter @ BEXCO | Systems, UI & Discord Bots | 3+ Years](https://devforum.roblox.com/t/for-hire-dragon-lead-scripter-bexco-systems-ui-discord-bots-3-years/4992656) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Animation And Audio
 
 - [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Skill VFX Feedback](https://devforum.roblox.com/t/skill-vfx-feedback/4986558) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Server Authority: /e dance animation persists after character reset](https://devforum.roblox.com/t/server-authority-e-dance-animation-persists-after-character-reset/4993577) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## World And Visual Design
 
@@ -56,8 +56,8 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Player Feedback And Marketing
 
-- [\[FOR HIRE\] Dragon | Lead Scripter @ BEXCO | Systems, UI & Discord Bots | 3+ Years](https://devforum.roblox.com/t/for-hire-dragon-lead-scripter-bexco-systems-ui-discord-bots-3-years/4992656) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Need feedback on explorer layout](https://devforum.roblox.com/t/need-feedback-on-explorer-layout/4995740) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [\[Studio Beta\] UI Particles](https://devforum.roblox.com/t/studio-beta-ui-particles/4996850) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Tools And Performance
 

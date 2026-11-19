@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "b3df88f0e273ea782c4470c1d52538c1d72a49d2",
-      "head_subject": "Changelog",
+      "head": "ea646d2bdefae21159e3549aee1b4abefc07ce6f",
+      "head_subject": "Use PHP 8.4+ \\Dom classes and functions (#9567)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "5b0e5f0b2a1ab83e6eed885433680361c621839d",
-      "head_subject": "chore: Update mods/",
+      "head": "f9e4d1e5753ccffcffdd832f047d72be000396a6",
+      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.328",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
+      "release_tag": "v2.1.329",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -121,11 +121,11 @@
       "url": "https://github.com/obra/superpowers"
     },
     "obris-dev/openmagpie": {
-      "head": "46154a67bd8e9a2366deb44b289d2358fa8e5e74",
-      "head_subject": "docs: link OpenBower to its GitHub repo (#192)",
+      "head": "c4b3c5bca8914f334ce5dc8afc24c2e072ebebd9",
+      "head_subject": "chore(main): release 0.12.2 (#196)",
       "name": "obris-dev/openmagpie",
-      "release_tag": "cli-v0.10.0",
-      "release_url": "https://github.com/obris-dev/openmagpie/releases/tag/cli-v0.10.0",
+      "release_tag": "v0.12.2",
+      "release_url": "https://github.com/obris-dev/openmagpie/releases/tag/v0.12.2",
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {

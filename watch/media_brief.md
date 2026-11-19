@@ -5,44 +5,54 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Animations And Vfx
+## Roblox Creator / Ai Development
 
-- **[🔥 VOXEL WARS SCRIPT \| NO KEY AIMBOT 🎯 \| 2026 \| ESP & AUTO AIM ⚡ - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsVnFKTk1URmZKdTZxTjNBSG9IUk4xblhnZWFWVFJvTGM3TkRVOVhxOEZtdGppX19CVWlkbWtYYW9CekFuYjk0S1I3WGFaMXRiNFhkaDJB?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-11-11
-  - Feed excerpt: 🔥 VOXEL WARS SCRIPT \| NO KEY AIMBOT 🎯 \| 2026 \| ESP & AUTO AIM ⚡ YouTube
+- **[Claude Fable 5.2 + Roblox Studio is Absurd. - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PX0RhbnVzY2RXb0JWMXM0T2o0THFfbkdsTTBSb1B1dHItVmFJVFpLN3p5cmtfVzdrZTRnRzRWdDYwdTNreW9PeENYQWhLdzBERnZpc3Rn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-13
+  - Feed excerpt: Claude Fable 5.2 + Roblox Studio is Absurd. YouTube
+- **[How to Make an ENTIRE Roblox Game with AI - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kVDl6cmlSR3BEUEZfQzNBMTJkWGVxWWNkVXNyUEJNazdaM28tSk40cjEzNGNPX3F2SnMxYzdzcDFMdThIV3VYcmpUZmdDc2RWOFJuTllB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-12
+  - Feed excerpt: How to Make an ENTIRE Roblox Game with AI YouTube
 
 ## Roblox Creator / Steal An Egg
 
-- **[All players can join my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iMXhUUUpRVDB0Wk5JOUFYdE41dXl5YWhCLWFFMDVNaHRnZUVOOTdqLUR1V2gydlBDQUFDT0pFRnZDS0JPQUE5SC0tM2JNRFU0TjlwajNR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-17
-  - Feed excerpt: All players can join my game Steal an egg #roblox #robloxfyp #stealanegg Instagram
-- **[Only Today with brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XTnhkbUZLMjllTTVyQi1kaXhxUkhMZ251cm4wZDJNRF8xczBwQzZFTW94MFVmUUlrYkxhamFkeVZ1T25MYWtrekl1REptc0hJbDBaaFRn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-19
-  - Feed excerpt: Only Today with brockodile in Steal an egg #roblox #robloxfyp #stealanegg Instagram
+- **[Today in the Secret Admin in Steal an Egg with brockkodile #roblox #robloxfyp #usa #usafyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14OVBmUTZUUFU4NUFETGRpVjRFQTlMQlR2WGNBMjZiUzljZHhTWkxPVEVQTXIyNHhkS1hDclFaMFZwSVJqaU1pemhmbnNPUEJmTjhpY0R3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-19
+  - Feed excerpt: Today in the Secret Admin in Steal an Egg with brockkodile #roblox #robloxfyp #usa #usafyp #stealanegg Instagram
 
 ## Roblox Updates
 
-- **[Ad integration vs a brand experience](https://devforum.roblox.com/t/ad-integration-vs-a-brand-experience/4996486)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Hi there, I have a question. My team was hired by a famous toy brand to create a Roblox experience for them. Do I have to regsiter the experience as “Ad Integration” ( Ad integrations \| Documentation - Roblox Creator Hub )? Or it is just a 
-- **[Initializing UI when both server and client need to be ready](https://devforum.roblox.com/t/initializing-ui-when-both-server-and-client-need-to-be-ready/4996391)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: I need to send a lot of initial info to the client for it to update it’s UI, but I’m worried that clients listeners won’t be necessarily connected to the remote events I’m using right when they first join, and that these events will be drop
-- **[Pricing Calculator Missing Animation Pack Bundles](https://devforum.roblox.com/t/pricing-calculator-missing-animation-pack-bundles/4996235)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: The “Pricing Calculator” on the Creator Hub does not list any information for Animation Packs . Now that they can be created by UGC creators, their pricing information should be listed like any other asset or bundle that can be created by u
-- **[Script Like a Master: a beginner's book on Roblox scripting in Luau \[Paid\]](https://devforum.roblox.com/t/script-like-a-master-a-beginners-book-on-roblox-scripting-in-luau-paid/4996478)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Hi everyone! I started scripting on Roblox when I was 11, and I’ve written the book I wish I’d had back then. Script Like a Master – Book 1: Foundations is a 132-page PDF that teaches Roblox scripting in Luau, starting from zero. Every topi
-- **[Banned by AI moderation](https://devforum.roblox.com/t/banned-by-ai-moderation/4996255)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: 1. What do you want to achieve? I want a person at Roblox to review the termination of my account (Hatsuyn) and tell me which content was flagged. If something broke the rules, I will fix it. I’m asking for the account to be restored, or at
-- **[DevEx Request Declined Due to Missing Tipalti Registration Email](https://devforum.roblox.com/t/devex-request-declined-due-to-missing-tipalti-registration-email/4996365)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: My first DevEx request was recently declined on November 18, 2026, for “Failed to complete Tipalti registration.” However, I’ve been waiting for the Tipalti registration email since November 1, 2026, and have yet to receive anything. As a r
-- **[How Disable Chatting Friends Tab?](https://devforum.roblox.com/t/how-disable-chatting-friends-tab/4996519)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: How to Disable Chatting Friends Tab? This Tab Blocking My Game’s Chatting Tab. I disabled ChannelTabsConfiguration and using my own script with automatic changing Chat Channel. but this Friends Tab Blocking my Game’s Chatting System. 1 post
-- **[Issues keeping assets loaded for extended periods of time](https://devforum.roblox.com/t/issues-keeping-assets-loaded-for-extended-periods-of-time/4996275)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: After recent changes to the engine, we have been struggling to find ways to keep textures loaded to memory constantly, something that is integral for certain use cases such as texture flipbooks for VFX meshes, animated user interfaces etc. 
-- **[Paid Expedited Review for Kids & Select Stuck on "Final review in progress" Past 48 Hours](https://devforum.roblox.com/t/paid-expedited-review-for-kids-select-stuck-on-final-review-in-progress-past-48-hours/4996336)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Our game Steal a Star for Eggs has been on “Final review in progress. We’re confirming your game is appropriate for players under 16. This can take up to 48 hours.” for a while. Universe ID: 10775033031 Place ID: 113606981603203 Expedited r
-- **[Roblox UI Rollout w/ New Loading Screen Issue - Topbar Unavailable, F9 Console Unavailable](https://devforum.roblox.com/t/roblox-ui-rollout-w-new-loading-screen-issue-topbar-unavailable-f9-console-unavailable/4996251)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Describe the issue After getting the new loading screen rollout for game UI, my topbar doesn’t load in, nor does my F9 key for Developer console. Can’t press Escape to activate the CoreGui either. Visual Aids Expected behavior The Topbar UI
-- **[Temporary Bug/Error - 100 HAU COUNTER](https://devforum.roblox.com/t/temporary-bugerror-100-hau-counter/4996424)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Hi, I went into the “MANAGE AUDIENCE” section today and noticed some new changes—for instance, only 100 HAU are now required. However, there’s an issue: I’m supposed to have all the checkmarks, but the “all ages” option hasn’t been enabled 
-- **[\[OPEN\] Looking for Furry UGC Creator](https://devforum.roblox.com/t/open-looking-for-furry-ugc-creator/4996225)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: About The Job I’m looking for a UGC Creator that can craft custom Furry UGC Head and a Necklace. Sona Art (Reference): Lunaria - Google Drive Payment 8-10k Robux Contact Us You can reach me via Discord @zohbyte Thanks for reading! 1 post - 
+- **[\[Audience Reach\] Experience stuck at 16+ despite all requirements complete (no review banner)](https://devforum.roblox.com/t/audience-reach-experience-stuck-at-16-despite-all-requirements-complete-no-review-banner/4996972)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: I’ve completed all the steps to make my game available for all ages, but it’s still stuck on 16+ The game was recently reinstated after a TextChatService takedown I’ve tried re-doing the questionnaire but it didn’t trigger an update Link: K
+- **[\[OPEN\] Roblox UI/UX Designer \| Front-Page Experience / 1B+ Visits](https://devforum.roblox.com/t/open-roblox-uiux-designer-front-page-experience-1b-visits/4996994)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: \[OPEN\] Roblox UI/UX Designer \| Front-Page Experience / 1B+ Visits Hey, I’m OTRON_TV . I design every UI needed for a Roblox game. I can take style that already exists and build on top of it while also improving it. I design in Figma and can
+- **[3D modeler portfolio](https://devforum.roblox.com/t/3d-modeler-portfolio/4996886)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: This is my first time creating a thread, so I apologize in advance if I’ve done anything wrong. I’m a huge fan of tower defense games and games similar to AoT About Me Hi! I offer my services as a builder and modeler. I specialize in creati
+- **[Can't buy 12 month roblox plus on mobile/website](https://devforum.roblox.com/t/cant-buy-12-month-roblox-plus-on-mobilewebsite/4996961)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: I’ve tried to buy Roblox Plus today. Upon selecting the “try it for free” option and selecting the 12-month plan, it just doesn’t click on mobile (only the button with the 1-month option works, the others don’t click), and on the website I 
+- **[Collections: How to Write Efficient Queries](https://devforum.roblox.com/t/collections-how-to-write-efficient-queries/4996848)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: This guide starts with quick tips for writing efficient queries, then breaks down what each filter costs and why, and ends by revisiting the example queries from Collections: How to group Instances with query patterns through the performanc
+- **[DevEx Cashout Pending since a month even after receiving my money](https://devforum.roblox.com/t/devex-cashout-pending-since-a-month-even-after-receiving-my-money/4996898)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Hello! I have been kinda Ghosted by Roblox Support Regarding my Cashout Problem for DevEx. I have submitted my Cashout for the First Time before and it went trough no Problem as I have received my money after a few days. But then I have bee
+- **[Having a group selected shows an error on DevEx page (likely due to wallet)](https://devforum.roblox.com/t/having-a-group-selected-shows-an-error-on-devex-page-likely-due-to-wallet/4996887)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Before you were able to visit the DevEx page with no issues even if you had a group selected, but now you need to select yourself which then redirects you to another page and wastes time trying to find the page again. I believe this was cau
+- **[Potential Vulnerability Regarding Roblox players account's credentials](https://devforum.roblox.com/t/potential-vulnerability-regarding-roblox-players-accounts-credentials/4996969)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: It’s evident when your account is compromised and the bad actor changes your credentials Roblox Support resets all the information when proven that the victim is reaching out them right? Now it is the other way round, this bad actor has the
+- **[Read Your Game's Server Region With New API](https://devforum.roblox.com/t/read-your-games-server-region-with-new-api/4996710)** · Roblox updates category (availability may vary) · 2026-11-19
+  - Feed excerpt: Key Takeaways game.ServerRegion is now available to identify the data center hosting your live game server. This lets you build accurate telemetry and region-dependent features, and replace IP-geolocation workarounds. Find it as a property 
+- **[Sharper Web Play Rendering With WebGPU](https://devforum.roblox.com/t/sharper-web-play-rendering-with-webgpu/4996719)** · Roblox updates category (availability may vary) · 2026-11-19
+  - Feed excerpt: Key Takeaways Web Play now uses WebGPU, which improves many of the rendering issues you reported, including distorted avatars and blurry menu icons. Hi Creators, Thank you to everyone who has been testing their games on the web since we lau
+- **[Welcome to Lauderville](https://devforum.roblox.com/t/welcome-to-lauderville/4997013)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Welcome to Lauderville! We’ve been developing an ultra realistic roleplay game called Lauderville , and we’d love to reinvent a new standard for roleplay games on Roblox. Lauderville is a fictional take on Fort Lauderdale, Florida. We’re Ts
+- **[Why do i still need to pay to publish a game if i have Roblox plus?](https://devforum.roblox.com/t/why-do-i-still-need-to-pay-to-publish-a-game-if-i-have-roblox-plus/4996878)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Recently, i bought Roblox plus subscription. The free trial ended 2 days ago(i bought the cheapest one, without robux). I just checked publishing requerements tab, but it still shows that i need to pay. (dont mind the game, its just was an 
+- **[Would uploading audios several times that are automatically removed by Roblox's moderation system get me banned?](https://devforum.roblox.com/t/would-uploading-audios-several-times-that-are-automatically-removed-by-robloxs-moderation-system-get-me-banned/4996907)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: I’m making an orchestra rhythm game where you can play several classical pieces with your friends. These classical pieces are rendered with MuseSounds, which is allowed for commercial use. All of these compositions are in the public domain,
+- **[\[Studio Beta\] UI Particles](https://devforum.roblox.com/t/studio-beta-ui-particles/4996850)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Key Takeaways ParticleEmitter2D is a new UI modifier that lets you emit fully customizable 2D particles from any GuiObject to add sparkle, feedback, and polish to your UI. Enable it via File > Beta Features > UI Particles . Hi Creators! For
+- **[\[Studio Beta\] UI Particles](https://devforum.roblox.com/t/studio-beta-ui-particles/4996850)** · Roblox updates category (availability may vary) · 2026-11-19
+  - Feed excerpt: Key Takeaways ParticleEmitter2D is a new UI modifier that lets you emit fully customizable 2D particles from any GuiObject to add sparkle, feedback, and polish to your UI. Enable it via File > Beta Features > UI Particles . Hi Creators! For
+
+## Youtube
+
+- **[the piggy lore runs deep](https://www.youtube.com/shorts/FQBOSGXpHcU)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-19
 
 ---
 

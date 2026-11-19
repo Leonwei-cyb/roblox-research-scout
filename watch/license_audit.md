@@ -18,7 +18,7 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | [RSSHub/RSSHub](https://github.com/RSSHub/RSSHub) | AGPL-3.0 — copyleft, review conditions | 2025-12-30 | No |
 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Apache-2.0 — license present, inspect asset and dependency rights | 2026-11-19 | No |
 | [huginn/huginn](https://github.com/huginn/huginn) | MIT — license present, inspect asset and dependency rights | 2026-11-19 | No |
-| [obris-dev/openmagpie](https://github.com/obris-dev/openmagpie) | No verified license — do NOT copy source/assets | 2026-11-17 | No |
+| [obris-dev/openmagpie](https://github.com/obris-dev/openmagpie) | No verified license — do NOT copy source/assets | 2026-11-19 | No |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | AGPL-3.0 — copyleft, review conditions | 2026-11-19 | No |
 | [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) | AGPL-3.0 — copyleft, review conditions | 2026-11-13 | No |
 

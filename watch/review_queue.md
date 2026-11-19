@@ -12,10 +12,11 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## UI / menus / effects
 
 - **[Conditional no longer detecting button color properly after a color tween](https://devforum.roblox.com/t/conditional-no-longer-detecting-button-color-properly-after-a-color-tween/4988938)** — Public text/page, video not confirmed
+- **[\[Studio Beta\] UI Particles](https://devforum.roblox.com/t/studio-beta-ui-particles/4996850)** — Public text/page, video not confirmed
 
 ## 3D / models / environments
 
-- **[Matt's 3D Modeling Portfolio \| 1 Year of Experience](https://devforum.roblox.com/t/matts-3d-modeling-portfolio-1-year-of-experience/4995845)** — Public text/page, video not confirmed
+- **[3D modeler portfolio](https://devforum.roblox.com/t/3d-modeler-portfolio/4996886)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing
 
