@@ -481,21 +481,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4987003:1",
-      "url": "https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003",
-      "title": "Be careful with PostSimulation if you’re using Server Authority",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4992916:1",
       "url": "https://devforum.roblox.com/t/wild-west-game-testing-feedback/4992916",
       "title": "Wild West Game Testing Feedback",
@@ -534,20 +519,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986309:1",
-      "url": "https://devforum.roblox.com/t/cannot-use-the-share-asset-permission-in-studio/4986309",
-      "title": "Cannot use the share asset permission in studio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
         "tools and performance"
       ],
       "score": 6,
@@ -974,20 +945,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtpvtw",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtpvtw/detailed_game_testing_qa_experience_review_for/",
-      "title": "Detailed Game Testing (QA) & Experience Review for Robux!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xtx61h",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtx61h/a_guy_spent_weeks_handbuilding_his_hometown_in/",
       "title": "A guy spent weeks hand-building his hometown in Roblox, so I helped him with the map data from my game",
@@ -1258,19 +1215,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987520:1",
-      "url": "https://devforum.roblox.com/t/server-side-debuginfo-caller-lookup-broke-on-nov-11-breaking-planck-ecs-games/4987520",
-      "title": "Server-side debug.info caller lookup broke on Nov 11, breaking Planck ECS games",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2166,6 +2110,47 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4995943:1",
+      "url": "https://devforum.roblox.com/t/introducing-pass-free-trials/4995943",
+      "title": "Introducing Pass Free Trials",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "UI and menus",
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996012:1",
+      "url": "https://devforum.roblox.com/t/copy-and-paste-instances-as-json-in-studio/4996012",
+      "title": "Copy and Paste Instances as JSON in Studio",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996034:1",
+      "url": "https://devforum.roblox.com/t/paid-expedited-review-stuck-for-over-a-month-%E2%80%94-no-response-from-roblox-support/4996034",
+      "title": "Paid Expedited Review Stuck for Over a Month — No Response From Roblox Support",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt55ki",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt55ki/my_journey_throughout_constantly_remaking_this/",
       "title": "My journey throughout constantly remaking this one building",
@@ -2208,19 +2193,6 @@
       "key": "reddit:1xts6j3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xts6j3/how_do_you_stop_players_from_noticing_npcs_are/",
       "title": "How do you stop players from noticing NPCs are bots?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtsg69",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsg69/need_help_with_feedback_for_my_game_i_spent_3/",
-      "title": "Need help with feedback for my game. I spent 3 months working on it any tips are greatly appreciated. Currently spending 20$ on ad spend per week.",
       "source": "reddit-robloxdev",
       "published": "2026-11-11",
       "kind": "reddit",
@@ -3371,19 +3343,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4987134:1",
-      "url": "https://devforum.roblox.com/t/cant-load-up-game/4987134",
-      "title": "Can't load up game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4987437:1",
       "url": "https://devforum.roblox.com/t/decal-uvoffset-origin-unexpectedly-moved/4987437",
       "title": "Decal UVOffset origin unexpectedly moved",
@@ -4086,6 +4045,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4996089:1",
+      "url": "https://devforum.roblox.com/t/samsung-galaxy-s25-ultra-emulation-test-not-showing-appropriate-device-safe-insets-for-overlay-guis/4996089",
+      "title": "Samsung Galaxy S25 Ultra Emulation Test Not Showing Appropriate Device Safe Insets for Overlay GUIs",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996198:1",
+      "url": "https://devforum.roblox.com/t/hyperrealistic-planetary-eclipses-atmospheric-scattering-via-editableimages/4996198",
+      "title": "HYPERREALISTIC Planetary eclipses + atmospheric scattering via editableimages",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt2vf6",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt2vf6/paid_looking_for_3_serious_playtesters/",
       "title": "[Paid] Looking for 3 serious playtesters",
@@ -4747,17 +4732,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986265:1",
-      "url": "https://devforum.roblox.com/t/game-still-shows-my-account-as-owner-after-group-transfer-and-further-transfer-attempts-fail/4986265",
-      "title": "Game still shows my account as owner after group transfer, and further transfer attempts fail",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4986371:1",
       "url": "https://devforum.roblox.com/t/adding-genre-for-content-rating-blocked-by-unhelpful-name-description-moderation/4986371",
       "title": "Adding Genre for Content Rating Blocked by Unhelpful Name + Description Moderation",
@@ -4794,28 +4768,6 @@
       "key": "devforum:4986511:1",
       "url": "https://devforum.roblox.com/t/critical-false-ai-enforcement-actions-on-my-accountseveral-other-individuals/4986511",
       "title": "[CRITICAL] False AI Enforcement actions on my account/several other individuals",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986686:1",
-      "url": "https://devforum.roblox.com/t/real-time-liquid-renderer-with-editableimage-wip/4986686",
-      "title": "Real-Time Liquid Renderer with EditableImage (WIP)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986709:1",
-      "url": "https://devforum.roblox.com/t/open-kit-%E2%80%A2-graduate-game-programmer-%E2%80%A2-9y-experience/4986709",
-      "title": "[OPEN] Kit • Graduate Game Programmer • 9y+ Experience",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -4882,17 +4834,6 @@
       "key": "devforum:4987392:1",
       "url": "https://devforum.roblox.com/t/roblox-account-hacked-support-does-not-help-and-refuses-to-accept-any-sort-of-proof-i-send/4987392",
       "title": "Roblox account Hacked, Support does not help and refuses to accept any sort of proof i send",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987435:1",
-      "url": "https://devforum.roblox.com/t/emissive-materials-do-not-render-beyond-1200-studs-due-to-shader-lod/4987435",
-      "title": "Emissive Materials do not render beyond 1200 studs due to Shader LOD",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -6100,6 +6041,94 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4995999:1",
+      "url": "https://devforum.roblox.com/t/what-do-you-call-this-type-of-character-movementphysics/4995999",
+      "title": "What do you call this type of character movement/physics?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996004:1",
+      "url": "https://devforum.roblox.com/t/how-to-stop-your-work-from-being-used-to-train-ai/4996004",
+      "title": "How To Stop Your Work From Being Used To Train AI",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996028:1",
+      "url": "https://devforum.roblox.com/t/proceduralmodel-will-stay-in-generation-indefinitely-when-its-generator-thread-is-closed/4996028",
+      "title": "ProceduralModel will stay in generation indefinitely when its generator thread is closed",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-18",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996058:1",
+      "url": "https://devforum.roblox.com/t/dev-ex-support-help-being-ignored/4996058",
+      "title": "Dev-ex support help being ignored",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996133:1",
+      "url": "https://devforum.roblox.com/t/shopify%E2%80%93roblox-commerce-connection-failing-stuck-on-verification-or-%E2%80%9Cunknown-error%E2%80%9D/4996133",
+      "title": "Shopify–Roblox Commerce Connection Failing: Stuck on Verification or “Unknown Error”",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996178:1",
+      "url": "https://devforum.roblox.com/t/all-violative-content-removed-but-game-is-still-restricted/4996178",
+      "title": "All violative content removed but game is still restricted?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996179:1",
+      "url": "https://devforum.roblox.com/t/mass-wave-of-false-moderation-on-images-for-sexual-content-and-nudity/4996179",
+      "title": "Mass wave of false moderation on images for Sexual Content and Nudity",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4996190:1",
+      "url": "https://devforum.roblox.com/t/tweak-the-color-of-mark-tags/4996190",
+      "title": "Tweak the color of tags",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt3g5k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt3g5k/i_made_this_game_icon_v1_what_do_you_think/",
       "title": "i made this GAME icon V1 , what do you think ?",
@@ -6133,17 +6162,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xteakc",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xteakc/looking_for_good_coders/",
-      "title": "Looking for good coders!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xtghfq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtghfq/making_a_horror_multiplayer_game/",
       "title": "Making a horror multiplayer game",
@@ -6169,28 +6187,6 @@
       "key": "reddit:1xtixuw",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtixuw/i_made_a_trailer_for_my_game/",
       "title": "I made a trailer for my game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtk7sn",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtk7sn/how_do_i_make_custom_materials/",
-      "title": "how do i make custom materials?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtn6p1",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtn6p1/i_asked_for_artists_to_reach_out_so_i_can/",
-      "title": "I asked for artists to reach out so I can commission someone to make my thumbnails and most of the replies have been AI.",
       "source": "reddit-robloxdev",
       "published": "2026-11-11",
       "kind": "reddit",

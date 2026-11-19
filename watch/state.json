@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "154c06539c4309e172b8ce6f2b07388987617d68",
+      "head": "20747d886ccf274207383de127b1abc404364d50",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.327",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
+      "release_tag": "v2.1.328",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -105,11 +105,11 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "91c6a928fcebe246b2ab0b9777a1ba867f73a1fc",
-      "head_subject": "Restrict web responses from non-admin Agents",
+      "head": "c1850b84cf9b74d13050cc2a21b60ca133d41608",
+      "head_subject": "Merge pull request #3847 from huginn/ruby-4.0.10",
       "name": "huginn/huginn",
-      "release_tag": "v2026.11.18",
-      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.18",
+      "release_tag": "v2026.11.19",
+      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.19",
       "url": "https://github.com/huginn/huginn"
     },
     "obra/superpowers": {
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "508d8be9c8a43d6b9f98d6abca099f51320bff2b",
-      "head_subject": "test: stabilize speech slow-reader coverage (#19746)",
+      "head": "42ac2c0c1e132c0b4f0d9cfcd4e7950f0c5470bc",
+      "head_subject": "Merge pull request #19748 from ollama/claude/sched-shift-no-reload-18950",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",

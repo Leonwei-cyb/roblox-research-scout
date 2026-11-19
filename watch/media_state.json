@@ -1,18 +1,5 @@
 {
   "seen": [
-    "c2d865d9fb4b960d6f2bdc34",
-    "cda58c21860d6b13e5235b34",
-    "9b82604471a55aa2e48f0b01",
-    "da4c945c4e27f677895802a8",
-    "5a84f9ac65dedf8f903fcec1",
-    "cdceac46dfddcbbbcbdfdd69",
-    "c778d72a9e79567c1277c4cc",
-    "e830c12f40ee4d870ab8bafe",
-    "124d6c714543297ec8f93279",
-    "4099bad4403bea920ecef3ad",
-    "b8d28f33dcfcc0379945e574",
-    "abf12b26c1ccafd4cc42177a",
-    "6003b1934daaceea84d87163",
     "9ea13a01d21c44adb4aff260",
     "f81cfe02f55385ca61f0ff17",
     "2b16a82bfa88f339024fbd28",
@@ -3999,9 +3986,106 @@
     "94d940ce7330bb29a1315378",
     "f9bd4afb31ad23b0a9b06926",
     "5ef330ea124bede5dbd4a442",
-    "93882da2dfe44e825f709904"
+    "93882da2dfe44e825f709904",
+    "ff91d1f8f471897708917c30",
+    "0694074bf5b88131a1694d1b",
+    "e5d0ce0eca610d95e3e365b5",
+    "8e41414778467b9fe48b031a",
+    "4e53a9a50f99d0eb720e1be9",
+    "10b93cb8ba4e417caee416cf",
+    "e3bffeaeb3c320e991c599b2",
+    "fa330c24e502a729cc2fb006",
+    "86ea3ca679e63ff11f68b3be",
+    "4e0a5a5400774d7f37d7a20c",
+    "4b956e69ba97e93cc849fa58",
+    "25741a7e06e34e60a37b3cd8",
+    "a1bdfdcd42f043967210933c"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "HYPERREALISTIC Planetary eclipses + atmospheric scattering via editableimages",
+      "url": "https://devforum.roblox.com/t/hyperrealistic-planetary-eclipses-atmospheric-scattering-via-editableimages/4996198",
+      "published": "2026-11-19",
+      "excerpt": "Hello! Lately, I’ve been working on and improving my editableimages atmospheres for my planet creator plugin. I’ve since accurately created rayleigh + mie scattering and the respective colors for their wavelengths, and now ECLIPSES! planetary atmosphere eclipses sneak peek Of course, there are flaws",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hyperrealistic-planetary-eclipses-atmospheric-scattering-via-editableimages/4996198.rss",
+      "id": "ff91d1f8f471897708917c30"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Mass wave of false moderation on images for Sexual Content and Nudity",
+      "url": "https://devforum.roblox.com/t/mass-wave-of-false-moderation-on-images-for-sexual-content-and-nudity/4996179",
+      "published": "2026-11-19",
+      "excerpt": "Hi, In the past few days I received from Roblox over 100 emails with moderation report for images tied to UGC items I recently uploaded. These items all fall under the same ugc group: Capywaii - Roblox The items have been moderated (image removed) apparently for sexual content and nudity, or at leas",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/mass-wave-of-false-moderation-on-images-for-sexual-content-and-nudity/4996179.rss",
+      "id": "e5d0ce0eca610d95e3e365b5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Dev-ex support help being ignored",
+      "url": "https://devforum.roblox.com/t/dev-ex-support-help-being-ignored/4996058",
+      "published": "2026-11-19",
+      "excerpt": "I’m a returning dev-ex user, why are my support requests being ignored. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dev-ex-support-help-being-ignored/4996058.rss",
+      "id": "e3bffeaeb3c320e991c599b2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "All violative content removed but game is still restricted?",
+      "url": "https://devforum.roblox.com/t/all-violative-content-removed-but-game-is-still-restricted/4996178",
+      "published": "2026-11-19",
+      "excerpt": "I’ve removed all violative content from my game but the game is still restricted in the Russian Federation & Middle East. This is extremely frustrating Expected behavior I expect this bar to be gone and the game to be playable everywhere Page URL: https://create.roblox.com/dashboard/creations/experi",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/all-violative-content-removed-but-game-is-still-restricted/4996178.rss",
+      "id": "8e41414778467b9fe48b031a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Shopify–Roblox Commerce Connection Failing: Stuck on Verification or “Unknown Error”",
+      "url": "https://devforum.roblox.com/t/shopify%E2%80%93roblox-commerce-connection-failing-stuck-on-verification-or-%E2%80%9Cunknown-error%E2%80%9D/4996133",
+      "published": "2026-11-19",
+      "excerpt": "I cannot connect my Shopify store with Roblox because when I try to link my account, it gets stuck on OAuth verification infinitely or throws an “unknown error” immediately after “verification”. I am located in Canada, but Roblox seems to claim US and non-US creators are able to sell to eligible US ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/shopify%E2%80%93roblox-commerce-connection-failing-stuck-on-verification-or-%E2%80%9Cunknown-error%E2%80%9D/4996133.rss",
+      "id": "4e53a9a50f99d0eb720e1be9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Samsung Galaxy S25 Ultra Emulation Test Not Showing Appropriate Device Safe Insets for Overlay GUIs",
+      "url": "https://devforum.roblox.com/t/samsung-galaxy-s25-ultra-emulation-test-not-showing-appropriate-device-safe-insets-for-overlay-guis/4996089",
+      "published": "2026-11-19",
+      "excerpt": "I was testing my overlay GUIs to see how they would appear on common mobile platforms, and I explicitly made sure that relevant Overlay GUIs were supposed to clip to the “device safe” area to keep certain GUIs from overlapping into a cell phone’s camera or other manufacturer-supplied display cut-off",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/samsung-galaxy-s25-ultra-emulation-test-not-showing-appropriate-device-safe-insets-for-overlay-guis/4996089.rss",
+      "id": "10b93cb8ba4e417caee416cf"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Tweak the color of tags",
+      "url": "https://devforum.roblox.com/t/tweak-the-color-of-mark-tags/4996190",
+      "published": "2026-11-19",
+      "excerpt": "Currently, the <mark> tag is obtrusively distracting. Here’s a Lorem ipsum paragraph that has just one sentence marked: Not only is that a bit hard to read—it’s distracting . My eyes still linger on it long before, and long after I have read it. I propose that we make them look something like this: ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/tweak-the-color-of-mark-tags/4996190.rss",
+      "id": "0694074bf5b88131a1694d1b"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -4013,6 +4097,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/wedgepart-inaccurate-navmesh/4995398.rss",
       "id": "fbe34aae791816866af2c936"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Paid Expedited Review Stuck for Over a Month — No Response From Roblox Support",
+      "url": "https://devforum.roblox.com/t/paid-expedited-review-stuck-for-over-a-month-%E2%80%94-no-response-from-roblox-support/4996034",
+      "published": "2026-11-18",
+      "excerpt": "Issue Type: Creator Hub / Maturity & Compliance / Expedited Review Experience ID: 10773746729 Description My experience has been stuck on “Final review in progress — This can take up to 48 hours” for approximately one month, despite having paid for expedited review. The advertised 48-hour review per",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/paid-expedited-review-stuck-for-over-a-month-%E2%80%94-no-response-from-roblox-support/4996034.rss",
+      "id": "fa330c24e502a729cc2fb006"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4085,6 +4181,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/do-you-know-about-lua-get-a-certificate/4995406.rss",
       "id": "a2e5b36d1efdd2ea2734fe35"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Introducing Pass Free Trials",
+      "url": "https://devforum.roblox.com/t/introducing-pass-free-trials/4995943",
+      "published": "2026-11-18",
+      "excerpt": "Key Takeaways Free trials for passes are launching on December 2nd, and starting today, creators can opt-in some or all of their passes in Creator Hub under Monetization → Shop → Free Trials. Free trials give players a way to experience the benefits of a pass before deciding to buy, which can lead t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/introducing-pass-free-trials/4995943.rss",
+      "id": "a1bdfdcd42f043967210933c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4174,6 +4282,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "ProceduralModel will stay in generation indefinitely when its generator thread is closed",
+      "url": "https://devforum.roblox.com/t/proceduralmodel-will-stay-in-generation-indefinitely-when-its-generator-thread-is-closed/4996028",
+      "published": "2026-11-18",
+      "excerpt": "After playing around with those, I noticed that a ProceduralModel ’s generation will fail to resolve when the thread for the OnGenerate function is closed/cancelled through task.cancel - this will also cause attempts to use :ForceGeneration() to error with the message ForceGeneration cannot be calle",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/proceduralmodel-will-stay-in-generation-indefinitely-when-its-generator-thread-is-closed/4996028.rss",
+      "id": "86ea3ca679e63ff11f68b3be"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Players loading into R6 place with an R15 character despite place being set to R6",
       "url": "https://devforum.roblox.com/t/players-loading-into-r6-place-with-an-r15-character-despite-place-being-set-to-r6/4995280",
       "published": "2026-11-18",
@@ -4255,6 +4375,18 @@
       "id": "588fa71cbb8a862a015cdde5"
     },
     {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Copy and Paste Instances as JSON in Studio",
+      "url": "https://devforum.roblox.com/t/copy-and-paste-instances-as-json-in-studio/4996012",
+      "published": "2026-11-18",
+      "excerpt": "Key Takeaways You can now copy and paste Instances, properties, attributes, and tags as plain-text JSON representations directly into Roblox Studio. Easily duplicate objects or batch-update properties across multiple selected Instances by simply pasting a JSON payload. Find it in Roblox Studio via s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/copy-and-paste-instances-as-json-in-studio/4996012.rss",
+      "id": "4e0a5a5400774d7f37d7a20c"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4265,6 +4397,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-join-team-create-sessions/4995021.rss",
       "id": "4dc8dd249e89bf0c5c50443b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How To Stop Your Work From Being Used To Train AI",
+      "url": "https://devforum.roblox.com/t/how-to-stop-your-work-from-being-used-to-train-ai/4996004",
+      "published": "2026-11-18",
+      "excerpt": "Making this because not many people seem to know but, when publishing any asset or code in your Roblox game, your work is being fed to the Roblox AI to train, unless you disable Data Sharing or uncheck the game instance from the list given by Roblox. From what we don't know it may be possible that i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-to-stop-your-work-from-being-used-to-train-ai/4996004.rss",
+      "id": "4b956e69ba97e93cc849fa58"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4337,6 +4481,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/expedited-review-stuck-on-%E2%80%9Cfinal-review-in-progress%E2%80%9D-past-48-hours-universe-10776692340/4995102.rss",
       "id": "2db96cc408c42820b4a57a91"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "What do you call this type of character movement/physics?",
+      "url": "https://devforum.roblox.com/t/what-do-you-call-this-type-of-character-movementphysics/4995999",
+      "published": "2026-11-18",
+      "excerpt": "Hey guys, what do you call this type of movement system in games? I’m referring to the kind of movement where characters retain momentum when jumping, can still freely move and control themselves mid-air, and their limbs naturally swing or react to their movement instead of being locked into a fixed",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/what-do-you-call-this-type-of-character-movementphysics/4995999.rss",
+      "id": "25741a7e06e34e60a37b3cd8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10807,157 +10963,6 @@
       "excerpt": "Just keep it simple submitted by /u/No_Bug_2183 [link] [comments]",
       "creator": "/u/No_Bug_2183 https://www.reddit.com/user/No_Bug_2183",
       "id": "27aeac6abd0d876dd635621c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "how do i make custom materials?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtk7sn/how_do_i_make_custom_materials/",
-      "published": "2026-11-11",
-      "excerpt": "im curious as how to make custom materials. does anyone have a guide? submitted by /u/elxiane [link] [comments]",
-      "creator": "/u/elxiane https://www.reddit.com/user/elxiane",
-      "id": "2770b4b3b2e43a86eca06dec"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Be careful with PostSimulation if you’re using Server Authority",
-      "url": "https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003",
-      "published": "2026-11-11",
-      "excerpt": "PostSimulation is often treated as the newer replacement for Heartbeat , so it’s tempting to use it for anything that should run every frame, like animation, UI motion, springs or polling loops. Without client prediction that mostly works, but under Server Authority it causes problems. When the clie",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/be-careful-with-postsimulation-if-you%E2%80%99re-using-server-authority/4987003.rss",
-      "id": "26dc808beab2dba1220309d5"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for good coders!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xteakc/looking_for_good_coders/",
-      "published": "2026-11-11",
-      "excerpt": "Coders, that are able to code vehicles, delivery systems, etc. Also, ones that are consistent, actually care about the project, codes something atleast twice a week. The pay will be a revenue share. We can discuss it on discord, my tag is blooderator. Thank you, whoever decides to join the team! sub",
-      "creator": "/u/PerspectiveSlow9012 https://www.reddit.com/user/PerspectiveSlow9012",
-      "id": "25f15fa9e8c312aa8ce1af19"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Emissive Materials do not render beyond 1200 studs due to Shader LOD",
-      "url": "https://devforum.roblox.com/t/emissive-materials-do-not-render-beyond-1200-studs-due-to-shader-lod/4987435",
-      "published": "2026-11-11",
-      "excerpt": "If you place a MeshPart with a SurfaceAppearance in the world with EmissiveMaskContent set. At around 1200 studs, the engine will switch to a lower shader LOD, which disables/removes the emissive entirely. A video is attached showing the emissive in the distance disabling itself (not to be confused ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/emissive-materials-do-not-render-beyond-1200-studs-due-to-shader-lod/4987435.rss",
-      "id": "2542e16a51ecbd5aab4dfb3c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game still shows my account as owner after group transfer, and further transfer attempts fail",
-      "url": "https://devforum.roblox.com/t/game-still-shows-my-account-as-owner-after-group-transfer-and-further-transfer-attempts-fail/4986265",
-      "published": "2026-11-11",
-      "excerpt": "I transferred my game “Catalog Fashion Runway” from my account to my group over a month ago. The game appears under the group’s Experiences section, but the public game page and the Owner field in its settings still list my account and not the group. It’s been like this since the transfer. The probl",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-still-shows-my-account-as-owner-after-group-transfer-and-further-transfer-attempts-fail/4986265.rss",
-      "id": "2338bbbefbad9d452d2155c8"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I asked for artists to reach out so I can commission someone to make my thumbnails and most of the replies have been AI.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtn6p1/i_asked_for_artists_to_reach_out_so_i_can/",
-      "published": "2026-11-11",
-      "excerpt": "It’s crazy. When I ask for a a portfolio they send me 30 AI thumbnails. Like do they think we won’t notice ? I’m trying to do the right thing and pay an artist but I genuinely can’t find one in the sea of AI. Anyone have someone they use ? submitted by /u/friedbeann [link] [comments]",
-      "creator": "/u/friedbeann https://www.reddit.com/user/friedbeann",
-      "id": "22ac2c10dfa4a6ad76b44ed9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Can't load up game",
-      "url": "https://devforum.roblox.com/t/cant-load-up-game/4987134",
-      "published": "2026-11-11",
-      "excerpt": "Hi all, I’m trying to connect to a place that I created, but it seems to be stuck on “Connecting to Server…” This issue does not persist on another place that I loaded up. Settings are default except for studio theme. Thank you. 7 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cant-load-up-game/4987134.rss",
-      "id": "1cf7fdb6ae1acd7c708fac97"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Real-Time Liquid Renderer with EditableImage (WIP)",
-      "url": "https://devforum.roblox.com/t/real-time-liquid-renderer-with-editableimage-wip/4986686",
-      "published": "2026-11-11",
-      "excerpt": "fluid simulation off: fluid simulation on: This is an EditableImage rendering system that operates at a 192x192 resolution, featuring parallel processing, refraction and reflection, custom shaders, and various optimizations. For context, I’m running this on a nine-year-old PC. 1 post - 1 participant",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/real-time-liquid-renderer-with-editableimage-wip/4986686.rss",
-      "id": "1acf81478d7b6be30da1c534"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[OPEN] Kit • Graduate Game Programmer • 9y+ Experience",
-      "url": "https://devforum.roblox.com/t/open-kit-%E2%80%A2-graduate-game-programmer-%E2%80%A2-9y-experience/4986709",
-      "published": "2026-11-11",
-      "excerpt": "About Me Hi there! My name’s Kit. I’m a full-time Roblox programmer with a degree in Games Computing and over 9 years of experience on Roblox. I’m a full-stack programmer, but my expertise lies in backend programming, specifically framework design and optimisation . I’ve contributed to over 130M+ vi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-kit-%E2%80%A2-graduate-game-programmer-%E2%80%A2-9y-experience/4986709.rss",
-      "id": "18c963291109ce1c981b0153"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Server-side debug.info caller lookup broke on Nov 11, breaking Planck ECS games",
-      "url": "https://devforum.roblox.com/t/server-side-debuginfo-caller-lookup-broke-on-nov-11-breaking-planck-ecs-games/4987520",
-      "published": "2026-11-11",
-      "excerpt": "Starting around 17:30 UTC on November 11, 2026, every live server of our experience began erroring inside our ECS systems, with no update published on our side. The last publish before this was November 10 at 05:03 UTC, and the place version on every affected server is the same one that ran without ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/server-side-debuginfo-caller-lookup-broke-on-nov-11-breaking-planck-ecs-games/4987520.rss",
-      "id": "14e2eb8d0a6debd960c381ff"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Cannot use the share asset permission in studio",
-      "url": "https://devforum.roblox.com/t/cannot-use-the-share-asset-permission-in-studio/4986309",
-      "published": "2026-11-11",
-      "excerpt": "In the past, when i worked with externalr parties (trusted friends) on new game, he/she can click on the error in the output , and a pop up for requesting the assets will show up and allow him/ her to share the assets permssions in 1 click to me and the team. Today, it did not work any more. The UI ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/cannot-use-the-share-asset-permission-in-studio/4986309.rss",
-      "id": "12549c297502441537b6aede"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Need help with feedback for my game. I spent 3 months working on it any tips are greatly appreciated. Currently spending 20$ on ad spend per week.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsg69/need_help_with_feedback_for_my_game_i_spent_3/",
-      "published": "2026-11-11",
-      "excerpt": "[link] [comments]",
-      "creator": "",
-      "id": "1220b7ee43e968f75975b60d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Detailed Game Testing (QA) & Experience Review for Robux!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtpvtw/detailed_game_testing_qa_experience_review_for/",
-      "published": "2026-11-11",
-      "excerpt": "If you have created a new game or map and are struggling with player retention, engagement, or monetization, I offer in-depth playtesting and detailed feedback reports in exchange for Robux. Services & Pricing (Tax Not Included): Player Acquisition Analysis (250 Robux): Identifying why players aren'",
-      "creator": "/u/MrBalkoz https://www.reddit.com/user/MrBalkoz",
-      "id": "1113980af22da1ec09002d3e"
     }
   ]
 }
