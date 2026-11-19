@@ -5,36 +5,44 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Animations And Vfx
+
+- **[🔥 VOXEL WARS SCRIPT \| NO KEY AIMBOT 🎯 \| 2026 \| ESP & AUTO AIM ⚡ - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsVnFKTk1URmZKdTZxTjNBSG9IUk4xblhnZWFWVFJvTGM3TkRVOVhxOEZtdGppX19CVWlkbWtYYW9CekFuYjk0S1I3WGFaMXRiNFhkaDJB?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-11-11
+  - Feed excerpt: 🔥 VOXEL WARS SCRIPT \| NO KEY AIMBOT 🎯 \| 2026 \| ESP & AUTO AIM ⚡ YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[All players can join my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iMXhUUUpRVDB0Wk5JOUFYdE41dXl5YWhCLWFFMDVNaHRnZUVOOTdqLUR1V2gydlBDQUFDT0pFRnZDS0JPQUE5SC0tM2JNRFU0TjlwajNR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-17
+  - Feed excerpt: All players can join my game Steal an egg #roblox #robloxfyp #stealanegg Instagram
+- **[Only Today with brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XTnhkbUZLMjllTTVyQi1kaXhxUkhMZ251cm4wZDJNRF8xczBwQzZFTW94MFVmUUlrYkxhamFkeVZ1T25MYWtrekl1REptc0hJbDBaaFRn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-19
+  - Feed excerpt: Only Today with brockodile in Steal an egg #roblox #robloxfyp #stealanegg Instagram
+
 ## Roblox Updates
 
-- **[Copy and Paste Instances as JSON in Studio](https://devforum.roblox.com/t/copy-and-paste-instances-as-json-in-studio/4996012)** · Roblox Developer Forum latest · 2026-11-18
-  - Feed excerpt: Key Takeaways You can now copy and paste Instances, properties, attributes, and tags as plain-text JSON representations directly into Roblox Studio. Easily duplicate objects or batch-update properties across multiple selected Instances by s
-- **[Copy and Paste Instances as JSON in Studio](https://devforum.roblox.com/t/copy-and-paste-instances-as-json-in-studio/4996012)** · Roblox updates category (availability may vary) · 2026-11-18
-  - Feed excerpt: Key Takeaways You can now copy and paste Instances, properties, attributes, and tags as plain-text JSON representations directly into Roblox Studio. Easily duplicate objects or batch-update properties across multiple selected Instances by s
-- **[Introducing Pass Free Trials](https://devforum.roblox.com/t/introducing-pass-free-trials/4995943)** · Roblox updates category (availability may vary) · 2026-11-18
-  - Feed excerpt: Key Takeaways Free trials for passes are launching on December 2nd, and starting today, creators can opt-in some or all of their passes in Creator Hub under Monetization → Shop → Free Trials. Free trials give players a way to experience the
-- **[Paid Expedited Review Stuck for Over a Month — No Response From Roblox Support](https://devforum.roblox.com/t/paid-expedited-review-stuck-for-over-a-month-%E2%80%94-no-response-from-roblox-support/4996034)** · Roblox Developer Forum latest · 2026-11-18
-  - Feed excerpt: Issue Type: Creator Hub / Maturity & Compliance / Expedited Review Experience ID: 10773746729 Description My experience has been stuck on “Final review in progress — This can take up to 48 hours” for approximately one month, despite having 
-- **[How To Stop Your Work From Being Used To Train AI](https://devforum.roblox.com/t/how-to-stop-your-work-from-being-used-to-train-ai/4996004)** · Roblox Developer Forum latest · 2026-11-18
-  - Feed excerpt: Making this because not many people seem to know but, when publishing any asset or code in your Roblox game, your work is being fed to the Roblox AI to train, unless you disable Data Sharing or uncheck the game instance from the list given 
-- **[ProceduralModel will stay in generation indefinitely when its generator thread is closed](https://devforum.roblox.com/t/proceduralmodel-will-stay-in-generation-indefinitely-when-its-generator-thread-is-closed/4996028)** · Roblox Developer Forum latest · 2026-11-18
-  - Feed excerpt: After playing around with those, I noticed that a ProceduralModel ’s generation will fail to resolve when the thread for the OnGenerate function is closed/cancelled through task.cancel - this will also cause attempts to use :ForceGeneration
-- **[What do you call this type of character movement/physics?](https://devforum.roblox.com/t/what-do-you-call-this-type-of-character-movementphysics/4995999)** · Roblox Developer Forum latest · 2026-11-18
-  - Feed excerpt: Hey guys, what do you call this type of movement system in games? I’m referring to the kind of movement where characters retain momentum when jumping, can still freely move and control themselves mid-air, and their limbs naturally swing or 
-- **[All violative content removed but game is still restricted?](https://devforum.roblox.com/t/all-violative-content-removed-but-game-is-still-restricted/4996178)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: I’ve removed all violative content from my game but the game is still restricted in the Russian Federation & Middle East. This is extremely frustrating Expected behavior I expect this bar to be gone and the game to be playable everywhere Pa
-- **[Dev-ex support help being ignored](https://devforum.roblox.com/t/dev-ex-support-help-being-ignored/4996058)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: I’m a returning dev-ex user, why are my support requests being ignored. 1 post - 1 participant Read full topic
-- **[HYPERREALISTIC Planetary eclipses + atmospheric scattering via editableimages](https://devforum.roblox.com/t/hyperrealistic-planetary-eclipses-atmospheric-scattering-via-editableimages/4996198)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Hello! Lately, I’ve been working on and improving my editableimages atmospheres for my planet creator plugin. I’ve since accurately created rayleigh + mie scattering and the respective colors for their wavelengths, and now ECLIPSES! planeta
-- **[Mass wave of false moderation on images for Sexual Content and Nudity](https://devforum.roblox.com/t/mass-wave-of-false-moderation-on-images-for-sexual-content-and-nudity/4996179)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Hi, In the past few days I received from Roblox over 100 emails with moderation report for images tied to UGC items I recently uploaded. These items all fall under the same ugc group: Capywaii - Roblox The items have been moderated (image r
-- **[Samsung Galaxy S25 Ultra Emulation Test Not Showing Appropriate Device Safe Insets for Overlay GUIs](https://devforum.roblox.com/t/samsung-galaxy-s25-ultra-emulation-test-not-showing-appropriate-device-safe-insets-for-overlay-guis/4996089)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: I was testing my overlay GUIs to see how they would appear on common mobile platforms, and I explicitly made sure that relevant Overlay GUIs were supposed to clip to the “device safe” area to keep certain GUIs from overlapping into a cell p
-- **[Shopify–Roblox Commerce Connection Failing: Stuck on Verification or “Unknown Error”](https://devforum.roblox.com/t/shopify%E2%80%93roblox-commerce-connection-failing-stuck-on-verification-or-%E2%80%9Cunknown-error%E2%80%9D/4996133)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: I cannot connect my Shopify store with Roblox because when I try to link my account, it gets stuck on OAuth verification infinitely or throws an “unknown error” immediately after “verification”. I am located in Canada, but Roblox seems to c
-- **[Tweak the color of tags](https://devforum.roblox.com/t/tweak-the-color-of-mark-tags/4996190)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Currently, the tag is obtrusively distracting. Here’s a Lorem ipsum paragraph that has just one sentence marked: Not only is that a bit hard to read—it’s distracting . My eyes still linger on it long before, and long after I have read it. I
+- **[Ad integration vs a brand experience](https://devforum.roblox.com/t/ad-integration-vs-a-brand-experience/4996486)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Hi there, I have a question. My team was hired by a famous toy brand to create a Roblox experience for them. Do I have to regsiter the experience as “Ad Integration” ( Ad integrations \| Documentation - Roblox Creator Hub )? Or it is just a 
+- **[Initializing UI when both server and client need to be ready](https://devforum.roblox.com/t/initializing-ui-when-both-server-and-client-need-to-be-ready/4996391)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: I need to send a lot of initial info to the client for it to update it’s UI, but I’m worried that clients listeners won’t be necessarily connected to the remote events I’m using right when they first join, and that these events will be drop
+- **[Pricing Calculator Missing Animation Pack Bundles](https://devforum.roblox.com/t/pricing-calculator-missing-animation-pack-bundles/4996235)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: The “Pricing Calculator” on the Creator Hub does not list any information for Animation Packs . Now that they can be created by UGC creators, their pricing information should be listed like any other asset or bundle that can be created by u
+- **[Script Like a Master: a beginner's book on Roblox scripting in Luau \[Paid\]](https://devforum.roblox.com/t/script-like-a-master-a-beginners-book-on-roblox-scripting-in-luau-paid/4996478)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Hi everyone! I started scripting on Roblox when I was 11, and I’ve written the book I wish I’d had back then. Script Like a Master – Book 1: Foundations is a 132-page PDF that teaches Roblox scripting in Luau, starting from zero. Every topi
+- **[Banned by AI moderation](https://devforum.roblox.com/t/banned-by-ai-moderation/4996255)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: 1. What do you want to achieve? I want a person at Roblox to review the termination of my account (Hatsuyn) and tell me which content was flagged. If something broke the rules, I will fix it. I’m asking for the account to be restored, or at
+- **[DevEx Request Declined Due to Missing Tipalti Registration Email](https://devforum.roblox.com/t/devex-request-declined-due-to-missing-tipalti-registration-email/4996365)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: My first DevEx request was recently declined on November 18, 2026, for “Failed to complete Tipalti registration.” However, I’ve been waiting for the Tipalti registration email since November 1, 2026, and have yet to receive anything. As a r
+- **[How Disable Chatting Friends Tab?](https://devforum.roblox.com/t/how-disable-chatting-friends-tab/4996519)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: How to Disable Chatting Friends Tab? This Tab Blocking My Game’s Chatting Tab. I disabled ChannelTabsConfiguration and using my own script with automatic changing Chat Channel. but this Friends Tab Blocking my Game’s Chatting System. 1 post
+- **[Issues keeping assets loaded for extended periods of time](https://devforum.roblox.com/t/issues-keeping-assets-loaded-for-extended-periods-of-time/4996275)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: After recent changes to the engine, we have been struggling to find ways to keep textures loaded to memory constantly, something that is integral for certain use cases such as texture flipbooks for VFX meshes, animated user interfaces etc. 
+- **[Paid Expedited Review for Kids & Select Stuck on "Final review in progress" Past 48 Hours](https://devforum.roblox.com/t/paid-expedited-review-for-kids-select-stuck-on-final-review-in-progress-past-48-hours/4996336)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Our game Steal a Star for Eggs has been on “Final review in progress. We’re confirming your game is appropriate for players under 16. This can take up to 48 hours.” for a while. Universe ID: 10775033031 Place ID: 113606981603203 Expedited r
+- **[Roblox UI Rollout w/ New Loading Screen Issue - Topbar Unavailable, F9 Console Unavailable](https://devforum.roblox.com/t/roblox-ui-rollout-w-new-loading-screen-issue-topbar-unavailable-f9-console-unavailable/4996251)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Describe the issue After getting the new loading screen rollout for game UI, my topbar doesn’t load in, nor does my F9 key for Developer console. Can’t press Escape to activate the CoreGui either. Visual Aids Expected behavior The Topbar UI
+- **[Temporary Bug/Error - 100 HAU COUNTER](https://devforum.roblox.com/t/temporary-bugerror-100-hau-counter/4996424)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: Hi, I went into the “MANAGE AUDIENCE” section today and noticed some new changes—for instance, only 100 HAU are now required. However, there’s an issue: I’m supposed to have all the checkmarks, but the “all ages” option hasn’t been enabled 
+- **[\[OPEN\] Looking for Furry UGC Creator](https://devforum.roblox.com/t/open-looking-for-furry-ugc-creator/4996225)** · Roblox Developer Forum latest · 2026-11-19
+  - Feed excerpt: About The Job I’m looking for a UGC Creator that can craft custom Furry UGC Head and a Necklace. Sona Art (Reference): Lunaria - Google Drive Payment 8-10k Robux Contact Us You can reach me via Discord @zohbyte Thanks for reading! 1 post - 
 
 ---
 
