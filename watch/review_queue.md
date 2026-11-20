@@ -11,7 +11,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 
 ## UI / menus / effects
 
-- **[Simulator UI Generator: Design glossy simulator buttons & panels with a Live Preview, 1 Click](https://devforum.roblox.com/t/simulator-ui-generator-design-glossy-simulator-buttons-panels-with-a-live-preview-1-click/4997223)** — Public text/page, video not confirmed
+- **[\[% / Volunteer\] Looking for Modeler, VFX Artist, Animator, Builder, UI Designer & SFX Artist for a multiverse JoJo stand/spec game](https://devforum.roblox.com/t/volunteer-looking-for-modeler-vfx-artist-animator-builder-ui-designer-sfx-artist-for-a-multiverse-jojo-standspec-game/4997557)** — Public text/page, video not confirmed
 - **[\[Studio Beta\] UI Particles](https://devforum.roblox.com/t/studio-beta-ui-particles/4996850)** — Public text/page, video not confirmed
 
 ## 3D / models / environments

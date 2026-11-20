@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 352
-- index-only: 28
-- reddit: 214
+- devforum: 362
+- index-only: 26
+- reddit: 206
 - youtube: 5
 
 ## First-Session And Mobile
@@ -26,8 +26,8 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Building And Purchases
 
+- [\[% / Volunteer\] Looking for Modeler, VFX Artist, Animator, Builder, UI Designer & SFX Artist for a multiverse JoJo stand/spec game](https://devforum.roblox.com/t/volunteer-looking-for-modeler-vfx-artist-animator-builder-ui-designer-sfx-artist-for-a-multiverse-jojo-standspec-game/4997557) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Roblox dev (Can do building, modeling, scripting, ui)](https://www.reddit.com/r/robloxgamedev/comments/1xxckhe/roblox_dev_can_do_building_modeling_scripting_ui/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Making a co-op One Piece crew game (not a bandit beater!) — looking for a chill scripter, animator & builder \[Rev-Share\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xyexe6/making_a_coop_one_piece_crew_game_not_a_bandit/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Economy And Income
 
@@ -41,8 +41,8 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Animation And Audio
 
+- [Making a co-op One Piece crew game (not a bandit beater!) — looking for a chill scripter, animator & builder \[Rev-Share\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xyexe6/making_a_coop_one_piece_crew_game_not_a_bandit/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Server Authority: /e dance animation persists after character reset](https://devforum.roblox.com/t/server-authority-e-dance-animation-persists-after-character-reset/4993577) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## World And Visual Design
 

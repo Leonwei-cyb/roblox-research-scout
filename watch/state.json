@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "34822e73a256c89c591285b54e7a97eee84fce72",
-      "head_subject": "Changelog",
+      "head": "8ffddc11f8db1b8e4dce984bdceb140eabf00cf2",
+      "head_subject": "More security for extension files: nosniff (#9593)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "688120e365aff198e348965cc115f7dd79275dff",
+      "head": "16043fc1342dbd65c13a94621af692c02086f978",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.329",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "3316f256acc5bc01708c85da83b3ee7347c503d8",
-      "head_subject": "0.70.4",
+      "head": "508c31d21b0640cc0bded136e4ae14a76909162b",
+      "head_subject": "Slack notifications: mark removed / changed / added lines with a coloured emoji (#4763)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",

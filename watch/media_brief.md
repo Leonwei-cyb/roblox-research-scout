@@ -5,29 +5,32 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Steal An Egg
-
-- **[Today for our players in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmQU8tTU9Uak1uemtoS0Q3alRnNWZPZENET0JZNGxUY2o3TDdCRUxUeG5nTG1ubXNRYjlYZURKekxmZVkzVFZZTDRwaE9OaG1lQUtJYkRB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-19
-  - Feed excerpt: Today for our players in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram
-
 ## Roblox Updates
 
-- **[\[Full Release\] State Machines and Luau Expressions in Animation Graphs](https://devforum.roblox.com/t/full-release-state-machines-and-luau-expressions-in-animation-graphs/4997058)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Key Takeaways State Machine and Expression nodes are now fully released in the Animation Graph Editor and work in live games. You can lay out animation states, the transitions between them, and the parameter math that drives them directly i
-- **[\[Full Release\] State Machines and Luau Expressions in Animation Graphs](https://devforum.roblox.com/t/full-release-state-machines-and-luau-expressions-in-animation-graphs/4997058)** · Roblox updates category (availability may vary) · 2026-11-19
-  - Feed excerpt: Key Takeaways State Machine and Expression nodes are now fully released in the Animation Graph Editor and work in live games. You can lay out animation states, the transitions between them, and the parameter math that drives them directly i
-- **[\[OPEN\] Looking for sponsors and promotors](https://devforum.roblox.com/t/open-looking-for-sponsors-and-promotors/4997076)** · Roblox Developer Forum latest · 2026-11-19
-  - Feed excerpt: Looking for sponsors and promotors About Us Hi there! We are CrunchyGames , a small upcoming game development team. We’re looking for people who are willing to sponsor development work In this case, I have a catalog (UGC) and I’m currently 
-- **[How is this effect achieved](https://devforum.roblox.com/t/how-is-this-effect-achieved/4997181)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Only questions about using the Developer Forum should be posted here. Make sure to search for your question first. It may have already been answered! How is this effect achieved How is this realistic destruction effect achieved 2 posts - 2 
-- **[Laza \| Clothing Designer \[OPEN\]](https://devforum.roblox.com/t/laza-clothing-designer-open/4997143)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Hey there! I am laza. I’m a 18 year old 2D Clothing Designer. I have been designing 2D clothing since 2022, working with and learning from the best designers this community has to offer. I turned a hobby into a profitable business through d
-- **[Simulator UI Generator: Design glossy simulator buttons & panels with a Live Preview, 1 Click](https://devforum.roblox.com/t/simulator-ui-generator-design-glossy-simulator-buttons-panels-with-a-live-preview-1-click/4997223)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Hey developers! I made a Studio plugin for the thing every simulator needs, and nobody enjoys building: the bouncy, glossy buttons and pop-up panels . You design them with a live, interactive example , then insert them into your game with o
-- **[Team Create place stuck on "Setting up server..." - connectToTeamCreateSession returns 429](https://devforum.roblox.com/t/team-create-place-stuck-on-setting-up-server-connecttoteamcreatesession-returns-429/4997196)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: One specific Team Create place froze on “Setting up server…” every time I tried to open it. It never loaded and the only option was Cancel. Other Team Create places on my account opened normally at the same time, so it was not my connection
-- **[\[FOR HIRE\] Scripter \| 105+ commissions](https://devforum.roblox.com/t/for-hire-scripter-105-commissions/4997151)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: About me I’m Haktan (HaqtanEfe). I’ve been scripting on Roblox since 2017 and taking commissions since 2022, 105+ so far. I’m one of 88 RoDevs Advanced Scripters, with a 5.0 rating there. I do gameplay, backend and everything between them: 
+- **[Maturity questionnaire: "realistic reactions" always yields Violence (Repeated/Strong), no path to Moderate for shooters](https://devforum.roblox.com/t/maturity-questionnaire-realistic-reactions-always-yields-violence-repeatedstrong-no-path-to-moderate-for-shooters/4997460)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: For a military simulation experience, the Maturity & Compliance Questionnaire always produces Violence (Repeated/Strong) and a Restricted label once “realistic reactions” is selected, regardless of every other answer. Steps: Creator Hub > C
+- **[PunchyRoll (CrunchyRoll Fork)](https://devforum.roblox.com/t/punchyroll-crunchyroll-fork/4997396)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: PunchyRoll GitHub An animation library for Roblox that plays animations without an Animator . PunchyRoll is a fork of CrunchyRoll by ffrostfall, reworked around named animation events, additional animation features, and an optimized solver.
+- **[What's the Best Way to Learn VFX and Improve Your Skills?](https://devforum.roblox.com/t/whats-the-best-way-to-learn-vfx-and-improve-your-skills/4997464)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: What’s the best way to learn VFX and improve your skills? I want to get into VFX more seriously and learn proper techniques, workflows, and best practices. However, most YouTube tutorials I’ve found just explain individual properties (which
+- **[Best Way to Structure a Centralized Item Database Across Multiple Configs?](https://devforum.roblox.com/t/best-way-to-structure-a-centralized-item-database-across-multiple-configs/4997457)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: I’m not sure what’s the best way to structure this. I have an inventory system similar to Pet Simulator 99, where hovering over an item displays its details. Currently, items are split across multiple configs depending on their respective s
+- **[Communities still locked after unban](https://devforum.roblox.com/t/communities-still-locked-after-unban/4997407)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: I was recently unbanned and got my account back, however my communities are still locked and I am unable to access them. Below a screenshot of what I get when I try to access my communities. It affectes the following groups by ID: 34177067 
+- **[How to make a perfect Garry's Mod recreation on Roblox?](https://devforum.roblox.com/t/how-to-make-a-perfect-garrys-mod-recreation-on-roblox/4997523)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: I’ve recently come across this game on roblox called “barry’s mod” which is a 1 to 1 recreation of garry’s mod including valve’s assets, animations, source movement, first person viewmodels, playermodel changer, the tool gun, phys gun, etc 
+- **[King of the Tower - endless side-view tower climber (feedback wanted)](https://devforum.roblox.com/t/king-of-the-tower-endless-side-view-tower-climber-feedback-wanted/4997370)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Hi everyone! I’d love honest feedback on my game King of the Tower. Game link: King of the Tower \| Play on Roblox What is it? A side-view climbing game. You run left and right and jump up an endless tower. Running faster makes your jumps hi
+- **[New Avatar Page doesn't support exclusive The Hollow theme](https://devforum.roblox.com/t/new-avatar-page-doesnt-support-exclusive-the-hollow-theme/4997510)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Hello, my account kandatastrophe / 2561125417 is enrolled into what I assume is an A/B test. When I navigate to my avatar page on the website I am given a default white theme (That blinds me ) instead of the The Hollow special theme I have 
+- **[Realistic Lighting Shadows Flicker on Moving PhysicsObjects](https://devforum.roblox.com/t/realistic-lighting-shadows-flicker-on-moving-physicsobjects/4997335)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Light instances on a physics object with their shadows enabled and are either A) near a part or B) directly inside a thin part will cause shadows to constantly flicker in and out as the engine recalculates lighting. The intensity of the fli
+- **[Roblox Plus plan upgrade does not work in time. (500 tier to 1000/2000)](https://devforum.roblox.com/t/roblox-plus-plan-upgrade-does-not-work-in-time-500-tier-to-10002000/4997384)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: The Roblox Plus trial has finished, and we are advised to move over to Roblox Plus , incidentally I ended up selecting the 500 option instead of the 1000/2000… this would not be an issue if the cancel option didn’t entirely remove the benef
+- **[Waiting for "legal agreements" to be recognized](https://devforum.roblox.com/t/waiting-for-legal-agreements-to-be-recognized/4997485)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: i occassionally upload sound effects, such as this . however, despite me meeting every requirement, i cannot upload any audios. it says it’s signed and ready what can i do to speed this up or did i do something wrong 1 post - 1 participant 
+- **[\[% / Volunteer\] Looking for Modeler, VFX Artist, Animator, Builder, UI Designer & SFX Artist for a multiverse JoJo stand/spec game](https://devforum.roblox.com/t/volunteer-looking-for-modeler-vfx-artist-animator-builder-ui-designer-sfx-artist-for-a-multiverse-jojo-standspec-game/4997557)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Title: \[% / Volunteer\] Looking for Modeler, VFX Artist, Animator, Builder, UI Designer & SFX Artist for a multiverse JoJo stand/spec game main article: About The Project: This game is meant to be a remaster/iteration of those old A Bizzare 
 
 ---
 
