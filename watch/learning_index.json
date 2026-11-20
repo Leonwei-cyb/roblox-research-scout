@@ -186,20 +186,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986992:1",
-      "url": "https://devforum.roblox.com/t/roblox-player-stuck-on-joining-server/4986992",
-      "title": "Roblox Player Stuck on \"Joining Server\"",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4987580:1",
       "url": "https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580",
       "title": "Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not",
@@ -307,20 +293,6 @@
       "signals": [
         "animation and audio",
         "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtdwq0",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtdwq0/what_do_u_think_about_the_ui_and_animations/",
-      "title": "What do u think about the UI and animations?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "animation and audio"
       ],
       "score": 8,
       "evidence": "UNVIEWED_METADATA"
@@ -494,20 +466,6 @@
         "tools and performance"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986279:1",
-      "url": "https://devforum.roblox.com/t/unauthorized-game-editing-rcc-server-toctou-processes-arbitrary-client-substituted-packet-types-during-async-auth-kick-window/4986279",
-      "title": "[Unauthorized Game Editing] RCC Server TOCTOU Processes Arbitrary Client-Substituted Packet Types During Async Auth-Kick Window",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -959,20 +917,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtflr2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtflr2/looking_for_a_scriptercoder_for_my_asym_game_d/",
-      "title": "Looking for a scripter/coder for my asym game : D",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xu8dx5",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu8dx5/i_have_a_plugin_that_makes_my_character_freeze/",
       "title": "I have a plugin that makes my character freeze and puts a blur effect and idk how to delete it",
@@ -1117,19 +1061,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986234:1",
-      "url": "https://devforum.roblox.com/t/need-feedback-fast-paced-co-op-mining-game/4986234",
-      "title": "Need feedback: fast-paced co-op mining game!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4986472:1",
       "url": "https://devforum.roblox.com/t/feedback-sobre-un-nuevo-proyecto/4986472",
       "title": "Feedback sobre un nuevo proyecto",
@@ -1138,19 +1069,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986676:1",
-      "url": "https://devforum.roblox.com/t/studio-steals-focus-5-times-in-its-first-10-seconds-of-loading-even-on-an-empty-local-place/4986676",
-      "title": "Studio steals focus 5 times in its first 10 seconds of loading, even on an empty local place",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2258,6 +2176,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4997899:1",
+      "url": "https://devforum.roblox.com/t/random-errors-from-ai-assistant-during-play-testing-or-regular-studio-usage/4997899",
+      "title": "Random Errors from AI Assistant during play testing or regular Studio usage",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997956:1",
+      "url": "https://devforum.roblox.com/t/studio-flashlight/4997956",
+      "title": "Studio flashlight",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998020:1",
+      "url": "https://devforum.roblox.com/t/feedback-wanted-on-my-fighting-game-sever-engine/4998020",
+      "title": "Feedback Wanted On My Fighting Game - Sever Engine",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xtyriy",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtyriy/models_i_made_for_yet_another_sonic_asym_yasa/",
       "title": "Models I made for Yet Another Sonic ASYM (YASA)!!",
@@ -3268,6 +3225,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "youtube:ZypKFxngtAc",
+      "url": "https://www.youtube.com/shorts/ZypKFxngtAc",
+      "title": "goodbye, candy canes. hello, robux. mini packs available now at target, safeway, and select stores.",
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "published": "2026-11-20",
+      "kind": "youtube",
+      "signals": [],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "youtube:_FDVSReR2iA",
       "url": "https://www.youtube.com/watch?v=_FDVSReR2iA",
       "title": "ADMIN ABUSE RELEASE PARTY! | Clear The Snow!",
@@ -4133,12 +4101,25 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xt3zwf",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt3zwf/idk_i_make_maps_i_guess_idk_what_to_add_here/",
-      "title": "Idk, i make maps i guess?? (idk what to add here)",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
+      "key": "devforum:4997778:1",
+      "url": "https://devforum.roblox.com/t/create-avatar-moments-to-showcase-and-sell-your-items/4997778",
+      "title": "Create Avatar Moments to Showcase and Sell Your Items",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997971:1",
+      "url": "https://devforum.roblox.com/t/make-text-rendering-good/4997971",
+      "title": "Make text rendering good",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
       "signals": [
         "building and purchases"
       ],
@@ -4728,17 +4709,6 @@
       "key": "devforum:4986935:1",
       "url": "https://devforum.roblox.com/t/teleport-to-reservedserver-failure/4986935",
       "title": "Teleport to ReservedServer failure",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987122:1",
-      "url": "https://devforum.roblox.com/t/increase-crash-rate-on-window-devices/4987122",
-      "title": "Increase Crash Rate on Window Devices",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -6177,6 +6147,94 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4997900:1",
+      "url": "https://devforum.roblox.com/t/group-member-count-not-updating/4997900",
+      "title": "Group Member Count Not Updating",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997901:1",
+      "url": "https://devforum.roblox.com/t/please-help-roblox-took-my-ugly-princess-monster-squad-group-merch-outfit-off-sale-because-i-didnt-have-roblox-plus/4997901",
+      "title": "Please help: Roblox took my Ugly Princess Monster Squad group merch outfit off sale because I didn't have Roblox Plus",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997906:1",
+      "url": "https://devforum.roblox.com/t/wedge-collision-fix-alters-block-parts-and-other-non-wedge-collisions-breaking-high-level-obbies/4997906",
+      "title": "Wedge collision fix alters block parts and other non-wedge collisions, breaking high-level obbies",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997911:1",
+      "url": "https://devforum.roblox.com/t/content-maturity-ratings-for-avatar-items-fallback-avatars/4997911",
+      "title": "Content Maturity Ratings for Avatar Items & Fallback Avatars",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998003:1",
+      "url": "https://devforum.roblox.com/t/glass-material-no-longer-produce-the-unique-refraction-distortion-effect/4998003",
+      "title": "Glass material no longer produce the unique refraction \"distortion\" effect",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998037:1",
+      "url": "https://devforum.roblox.com/t/badge-descriptions-do-not-respect-newlines-on-games-about-page/4998037",
+      "title": "Badge Descriptions do not respect Newlines on game's About Page",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998046:1",
+      "url": "https://devforum.roblox.com/t/can-i-make-this-better/4998046",
+      "title": "Can I make this better?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998048:1",
+      "url": "https://devforum.roblox.com/t/is-there-something-wrong-with-my-texture/4998048",
+      "title": "Is there something wrong with my texture?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt81wi",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt81wi/how_does_the_modeling_market_work/",
       "title": "How does the modeling market work?",
@@ -6191,50 +6249,6 @@
       "key": "reddit:1xtpwvq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtpwvq/game_like_exchange/",
       "title": "Game like exchange?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtrqlx",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtrqlx/can_i_get_banned_for_uploading_this_face/",
-      "title": "can i get banned for uploading this face",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtsurz",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsurz/can_i_bypass_the_50k_robux_requirement_with_2/",
-      "title": "Can I bypass the 50k robux requirement with 2 months of Roblox plus?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtsyt8",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtsyt8/hair_transparency_thing/",
-      "title": "Hair transparency thing",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xttqfk",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xttqfk/what_do_you_think_about_this_icon_fully_hand_made/",
-      "title": "What do you think about this icon? fully hand made in photoshop",
       "source": "reddit-robloxdev",
       "published": "2026-11-11",
       "kind": "reddit",
@@ -7220,19 +7234,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE53U0JBbUxKSXdrWDFTNWhlU1BOZTJqSDNVLXlvUTVZamlURDVNQmRKVzQzRjI2Uy01ZVhEcnk4cmRDRkRWZ1plSkhGcVlGRkU1cWtLVmVB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53U0JBbUxKSXdrWDFTNWhlU1BOZTJqSDNVLXlvUTVZamlURDVNQmRKVzQzRjI2Uy01ZVhEcnk4cmRDRkRWZ1plSkhGcVlGRkU1cWtLVmVB?oc=5",
-      "title": "Only in the Admin abuse of today in my game Steal an egg 🔥 #roblox #robloxfyp #stealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-11-11",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5FLVNKS0UyZngwWmJyNEdadnFWX1FjZHVJZVJjLVBPUGFONG1kS05NWTA5TWUwY3gzUEkwT2lTTFQzWmVNTG0zbWlMSzJJWTBaMmJtU2V3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FLVNKS0UyZngwWmJyNEdadnFWX1FjZHVJZVJjLVBPUGFONG1kS05NWTA5TWUwY3gzUEkwT2lTTFQzWmVNTG0zbWlMSzJJWTBaMmJtU2V3?oc=5",
       "title": "Only this night with sammy in Secret Admin in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
@@ -7304,19 +7305,6 @@
       "title": "Claude Fable 5.2 + Roblox Studio is Absurd. - YouTube",
       "source": "syphodev-claude",
       "published": "2026-11-13",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9VcnE4S0ZmV09rWjhfNmhyTnI2UHdNZzREc2JRYTNwNzJLX0htR2RBYkNtTHdUdW9ZNjNpRnJJNUExT2p0a19yTzBwUzBkNC16ZU5GdUJR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcnE4S0ZmV09rWjhfNmhyTnI2UHdNZzREc2JRYTNwNzJLX0htR2RBYkNtTHdUdW9ZNjNpRnJJNUExT2p0a19yTzBwUzBkNC16ZU5GdUJR?oc=5",
-      "title": "How To Connect Claude AI To ROBLOX STUDIO! ROBLOX - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-11",
       "kind": "index-only",
       "signals": [
         "tools and performance"

@@ -7,30 +7,36 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Updates
 
-- **[Maturity questionnaire: "realistic reactions" always yields Violence (Repeated/Strong), no path to Moderate for shooters](https://devforum.roblox.com/t/maturity-questionnaire-realistic-reactions-always-yields-violence-repeatedstrong-no-path-to-moderate-for-shooters/4997460)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: For a military simulation experience, the Maturity & Compliance Questionnaire always produces Violence (Repeated/Strong) and a Restricted label once “realistic reactions” is selected, regardless of every other answer. Steps: Creator Hub > C
-- **[PunchyRoll (CrunchyRoll Fork)](https://devforum.roblox.com/t/punchyroll-crunchyroll-fork/4997396)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: PunchyRoll GitHub An animation library for Roblox that plays animations without an Animator . PunchyRoll is a fork of CrunchyRoll by ffrostfall, reworked around named animation events, additional animation features, and an optimized solver.
-- **[What's the Best Way to Learn VFX and Improve Your Skills?](https://devforum.roblox.com/t/whats-the-best-way-to-learn-vfx-and-improve-your-skills/4997464)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: What’s the best way to learn VFX and improve your skills? I want to get into VFX more seriously and learn proper techniques, workflows, and best practices. However, most YouTube tutorials I’ve found just explain individual properties (which
-- **[Best Way to Structure a Centralized Item Database Across Multiple Configs?](https://devforum.roblox.com/t/best-way-to-structure-a-centralized-item-database-across-multiple-configs/4997457)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: I’m not sure what’s the best way to structure this. I have an inventory system similar to Pet Simulator 99, where hovering over an item displays its details. Currently, items are split across multiple configs depending on their respective s
-- **[Communities still locked after unban](https://devforum.roblox.com/t/communities-still-locked-after-unban/4997407)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: I was recently unbanned and got my account back, however my communities are still locked and I am unable to access them. Below a screenshot of what I get when I try to access my communities. It affectes the following groups by ID: 34177067 
-- **[How to make a perfect Garry's Mod recreation on Roblox?](https://devforum.roblox.com/t/how-to-make-a-perfect-garrys-mod-recreation-on-roblox/4997523)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: I’ve recently come across this game on roblox called “barry’s mod” which is a 1 to 1 recreation of garry’s mod including valve’s assets, animations, source movement, first person viewmodels, playermodel changer, the tool gun, phys gun, etc 
-- **[King of the Tower - endless side-view tower climber (feedback wanted)](https://devforum.roblox.com/t/king-of-the-tower-endless-side-view-tower-climber-feedback-wanted/4997370)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Hi everyone! I’d love honest feedback on my game King of the Tower. Game link: King of the Tower \| Play on Roblox What is it? A side-view climbing game. You run left and right and jump up an endless tower. Running faster makes your jumps hi
-- **[New Avatar Page doesn't support exclusive The Hollow theme](https://devforum.roblox.com/t/new-avatar-page-doesnt-support-exclusive-the-hollow-theme/4997510)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Hello, my account kandatastrophe / 2561125417 is enrolled into what I assume is an A/B test. When I navigate to my avatar page on the website I am given a default white theme (That blinds me ) instead of the The Hollow special theme I have 
-- **[Realistic Lighting Shadows Flicker on Moving PhysicsObjects](https://devforum.roblox.com/t/realistic-lighting-shadows-flicker-on-moving-physicsobjects/4997335)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Light instances on a physics object with their shadows enabled and are either A) near a part or B) directly inside a thin part will cause shadows to constantly flicker in and out as the engine recalculates lighting. The intensity of the fli
-- **[Roblox Plus plan upgrade does not work in time. (500 tier to 1000/2000)](https://devforum.roblox.com/t/roblox-plus-plan-upgrade-does-not-work-in-time-500-tier-to-10002000/4997384)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: The Roblox Plus trial has finished, and we are advised to move over to Roblox Plus , incidentally I ended up selecting the 500 option instead of the 1000/2000… this would not be an issue if the cancel option didn’t entirely remove the benef
-- **[Waiting for "legal agreements" to be recognized](https://devforum.roblox.com/t/waiting-for-legal-agreements-to-be-recognized/4997485)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: i occassionally upload sound effects, such as this . however, despite me meeting every requirement, i cannot upload any audios. it says it’s signed and ready what can i do to speed this up or did i do something wrong 1 post - 1 participant 
-- **[\[% / Volunteer\] Looking for Modeler, VFX Artist, Animator, Builder, UI Designer & SFX Artist for a multiverse JoJo stand/spec game](https://devforum.roblox.com/t/volunteer-looking-for-modeler-vfx-artist-animator-builder-ui-designer-sfx-artist-for-a-multiverse-jojo-standspec-game/4997557)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Title: \[% / Volunteer\] Looking for Modeler, VFX Artist, Animator, Builder, UI Designer & SFX Artist for a multiverse JoJo stand/spec game main article: About The Project: This game is meant to be a remaster/iteration of those old A Bizzare 
+- **[Feedback Wanted On My Fighting Game - Sever Engine](https://devforum.roblox.com/t/feedback-wanted-on-my-fighting-game-sever-engine/4998020)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Hello everyone. I recently published my first game Sever Engine- a FFA battleground/Combat Warriors type fighting game where kills lead to progression. However, my like ratio on the game is terrible, and I don’t know why. I have made improv
+- **[Wedge collision fix alters block parts and other non-wedge collisions, breaking high-level obbies](https://devforum.roblox.com/t/wedge-collision-fix-alters-block-parts-and-other-non-wedge-collisions-breaking-high-level-obbies/4997906)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: As of November 9, 2:44 PM, DFFlagSatPolyPolyContactEnabled2 was enabled, noticeably changing collisions with not just wedges, but all types of parts. Several affected techniques include but are not limited to: Lodging Uplodging Emote Clippi
+- **[Badge Descriptions do not respect Newlines on game's About Page](https://devforum.roblox.com/t/badge-descriptions-do-not-respect-newlines-on-games-about-page/4998037)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Most of my badges have a general description on the first line, and below it, I put a new line with a bulleted list of requirements and other features related to the badge. This works fine when viewing the badge on its own page, but it does
+- **[Can I make this better?](https://devforum.roblox.com/t/can-i-make-this-better/4998046)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Working on npcs doing real life things like gardening! Garden Can I make this better? Or maybe you guys have more ideas for npcs to do. 1 post - 1 participant Read full topic
+- **[Content Maturity Ratings for Avatar Items & Fallback Avatars](https://devforum.roblox.com/t/content-maturity-ratings-for-avatar-items-fallback-avatars/4997911)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: At the moment roblox have no age rating for UGC clothing and body’s and emotes and blood on clothing ! some clothing and avatar body types are not kid friendly and kids should have zero access to it. there is also some emotes that should no
+- **[Create Avatar Moments to Showcase and Sell Your Items](https://devforum.roblox.com/t/create-avatar-moments-to-showcase-and-sell-your-items/4997778)** · Roblox updates category (availability may vary) · 2026-11-20
+  - Feed excerpt: Key Takeaways Avatar Moments is rolling out for all eligible users to make and share avatar looks that are shoppable from their profile. We’re also gradually bringing Avatar Moments to the Moments tab, where users can discover and shop feat
+- **[Glass material no longer produce the unique refraction "distortion" effect](https://devforum.roblox.com/t/glass-material-no-longer-produce-the-unique-refraction-distortion-effect/4998003)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: the glass material is known for its distortion effect when the transparency is set to value greater than 3 with Highlight however as of right now this distortion just stopped working? I have no idea what happened but I wish this is an issue
+- **[Group Member Count Not Updating](https://devforum.roblox.com/t/group-member-count-not-updating/4997900)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: I was sorting through my ranks and roles on PC and I noticed I had more members in my group than the counter had tabulated. I counted how many were actually in the group (18) vs how many the group thinks are in (16). My group is https://www
+- **[Is there something wrong with my texture?](https://devforum.roblox.com/t/is-there-something-wrong-with-my-texture/4998048)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Hello, i have a problem with my texture, i want my texture to look like the MaterialVariant of the texture but it looks different. on the left, the MaterialVariant, and on the right, the Texture by using ROBLOX’s texture thingy, they both h
+- **[Make text rendering good](https://devforum.roblox.com/t/make-text-rendering-good/4997971)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: This is Montserrat at a few different sizes. Roblox text rendering has always been extraordinarily bad. It has never even been “okay”. It has always been bad. “Good” would be vectors. “Great” would be hinting. All I’m asking is for “Okay”. 
+- **[Please help: Roblox took my Ugly Princess Monster Squad group merch outfit off sale because I didn't have Roblox Plus](https://devforum.roblox.com/t/please-help-roblox-took-my-ugly-princess-monster-squad-group-merch-outfit-off-sale-because-i-didnt-have-roblox-plus/4997901)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: Hi everyone, and Roblox, I am writing this because Roblox took my Roblox group merch outfit off sale in the Catalog. I made this merch outfit specifically for my subscribers and fans, and it was taken off sale because I didn’t have Roblox P
+- **[Random Errors from AI Assistant during play testing or regular Studio usage](https://devforum.roblox.com/t/random-errors-from-ai-assistant-during-play-testing-or-regular-studio-usage/4997899)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: As I’ve been using Studio I noticed Assistant is triggering random errors which do not impact gameplay but are very distracting. They show up even if I am not using Assistant at all. I will provide more info in the private section as there 
+- **[Studio flashlight](https://devforum.roblox.com/t/studio-flashlight/4997956)** · Roblox Developer Forum latest · 2026-11-20
+  - Feed excerpt: only took me about a day to make it and hopefully works for anybody controls: Shift + G to toggle the light, thats it lmao Heres the plugin link also a preview as well 1 post - 1 participant Read full topic
+
+## Youtube
+
+- **[goodbye, candy canes. hello, robux. mini packs available now at target, safeway, and select stores.](https://www.youtube.com/shorts/ZypKFxngtAc)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-20
 
 ---
 

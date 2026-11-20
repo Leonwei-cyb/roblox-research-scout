@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 362
-- index-only: 26
-- reddit: 206
-- youtube: 5
+- devforum: 370
+- index-only: 24
+- reddit: 199
+- youtube: 6
 
 ## First-Session And Mobile
 
@@ -61,14 +61,14 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [Roblox Player Stuck on "Joining Server"](https://devforum.roblox.com/t/roblox-player-stuck-on-joining-server/4986992) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Cobalt - Hand-built, intuitive UI framework for Luau](https://devforum.roblox.com/t/cobalt-hand-built-intuitive-ui-framework-for-luau/4988813) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Creating ConfigService freezes the whole server for ~100 ms on every player join](https://devforum.roblox.com/t/creating-configservice-freezes-the-whole-server-for-100-ms-on-every-player-join/4988920) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Cobalt - Hand-built, intuitive UI framework for Luau test with measurable pass/fail.
+3. Explain WHY it matters and propose one Creating ConfigService freezes the whole server for ~100 ms on every player join test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
