@@ -1,13 +1,5 @@
 {
   "seen": [
-    "782f6fbbc3071aff08b8a733",
-    "c21bef696e1db33dc120ddec",
-    "1202ef06a6df25a80d11e981",
-    "7db7d6409df17bac232d4373",
-    "8be67ae858e4ee36ca36e840",
-    "d8e64cc718c0d953b300ff88",
-    "b4541d448fe9b09ebd335b60",
-    "5f9ca70fe4449a8eb3978ec3",
     "caa723f44d6cc50163c54d69",
     "cc958755fc372207229ecb18",
     "54af0df20fc97afddf1063f9",
@@ -3999,9 +3991,77 @@
     "bd0b6d3917af21e78293cb2b",
     "703608176f0a8cf6c6f493e9",
     "44a10d15ce15cce84b8b205c",
-    "23fdb193ea9c656fb779ba41"
+    "23fdb193ea9c656fb779ba41",
+    "1bba282bd85cee9e8365de20",
+    "469ba1f9f9c66df31a01eeb7",
+    "caff9a064436f8b445c9a7ab",
+    "313ba5e47ba6b854f05c608c",
+    "fe163e7a3a365846fc2252ef",
+    "d604e7aee86336a84e928978",
+    "255a78891003c13181bbaa24",
+    "e9bf305776e6596ec04128cb"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Laza | Clothing Designer [OPEN]",
+      "url": "https://devforum.roblox.com/t/laza-clothing-designer-open/4997143",
+      "published": "2026-11-20",
+      "excerpt": "Hey there! I am laza. I’m a 18 year old 2D Clothing Designer. I have been designing 2D clothing since 2022, working with and learning from the best designers this community has to offer. I turned a hobby into a profitable business through dedication and practice. I bring over four years of experienc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/laza-clothing-designer-open/4997143.rss",
+      "id": "fe163e7a3a365846fc2252ef"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How is this effect achieved",
+      "url": "https://devforum.roblox.com/t/how-is-this-effect-achieved/4997181",
+      "published": "2026-11-20",
+      "excerpt": "Only questions about using the Developer Forum should be posted here. Make sure to search for your question first. It may have already been answered! How is this effect achieved How is this realistic destruction effect achieved 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-is-this-effect-achieved/4997181.rss",
+      "id": "caff9a064436f8b445c9a7ab"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Team Create place stuck on \"Setting up server...\" - connectToTeamCreateSession returns 429",
+      "url": "https://devforum.roblox.com/t/team-create-place-stuck-on-setting-up-server-connecttoteamcreatesession-returns-429/4997196",
+      "published": "2026-11-20",
+      "excerpt": "One specific Team Create place froze on “Setting up server…” every time I tried to open it. It never loaded and the only option was Cancel. Other Team Create places on my account opened normally at the same time, so it was not my connection or my Studio install System information: Windows 11 Pro (bu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/team-create-place-stuck-on-setting-up-server-connecttoteamcreatesession-returns-429/4997196.rss",
+      "id": "469ba1f9f9c66df31a01eeb7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[FOR HIRE] Scripter | 105+ commissions",
+      "url": "https://devforum.roblox.com/t/for-hire-scripter-105-commissions/4997151",
+      "published": "2026-11-20",
+      "excerpt": "About me I’m Haktan (HaqtanEfe). I’ve been scripting on Roblox since 2017 and taking commissions since 2022, 105+ so far. I’m one of 88 RoDevs Advanced Scripters, with a 5.0 rating there. I do gameplay, backend and everything between them: datastores, event systems, multi-server lobbies, client-serv",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/for-hire-scripter-105-commissions/4997151.rss",
+      "id": "313ba5e47ba6b854f05c608c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Simulator UI Generator: Design glossy simulator buttons & panels with a Live Preview, 1 Click",
+      "url": "https://devforum.roblox.com/t/simulator-ui-generator-design-glossy-simulator-buttons-panels-with-a-live-preview-1-click/4997223",
+      "published": "2026-11-20",
+      "excerpt": "Hey developers! I made a Studio plugin for the thing every simulator needs, and nobody enjoys building: the bouncy, glossy buttons and pop-up panels . You design them with a live, interactive example , then insert them into your game with one click. Quick Access: [Main Version] (Free Sample Below) W",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/simulator-ui-generator-design-glossy-simulator-buttons-panels-with-a-live-preview-1-click/4997223.rss",
+      "id": "1bba282bd85cee9e8365de20"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -4037,6 +4097,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/initializing-ui-when-both-server-and-client-need-to-be-ready/4996391.rss",
       "id": "ebb2a09ec460d6fc8cf75c76"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Today for our players in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmQU8tTU9Uak1uemtoS0Q3alRnNWZPZENET0JZNGxUY2o3TDdCRUxUeG5nTG1ubXNRYjlYZURKekxmZVkzVFZZTDRwaE9OaG1lQUtJYkRB?oc=5",
+      "published": "2026-11-19",
+      "excerpt": "Today for our players in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "e9bf305776e6596ec04128cb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4121,6 +4193,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/welcome-to-lauderville/4997013.rss",
       "id": "d695465118a80a3469859e8b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] Looking for sponsors and promotors",
+      "url": "https://devforum.roblox.com/t/open-looking-for-sponsors-and-promotors/4997076",
+      "published": "2026-11-19",
+      "excerpt": "Looking for sponsors and promotors About Us Hi there! We are CrunchyGames , a small upcoming game development team. We’re looking for people who are willing to sponsor development work In this case, I have a catalog (UGC) and I’m currently working on a game called Land Rush. It would be extremely he",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-looking-for-sponsors-and-promotors/4997076.rss",
+      "id": "d604e7aee86336a84e928978"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4373,6 +4457,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/having-a-group-selected-shows-an-error-on-devex-page-likely-due-to-wallet/4996887.rss",
       "id": "2fffd03a8333e69ae27834f7"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Full Release] State Machines and Luau Expressions in Animation Graphs",
+      "url": "https://devforum.roblox.com/t/full-release-state-machines-and-luau-expressions-in-animation-graphs/4997058",
+      "published": "2026-11-19",
+      "excerpt": "Key Takeaways State Machine and Expression nodes are now fully released in the Animation Graph Editor and work in live games. You can lay out animation states, the transitions between them, and the parameter math that drives them directly in an animation graph, without writing that logic in a Luau s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/full-release-state-machines-and-luau-expressions-in-animation-graphs/4997058.rss",
+      "id": "255a78891003c13181bbaa24"
     },
     {
       "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
@@ -10886,100 +10982,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-purchase-ads-credit-directly-in-india/4986311.rss",
       "id": "8bb5b2d2dcf6fc93c80b0d53"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[FOR HIRE] 3D Modeler / Former Korean Game Industry / OPEN",
-      "url": "https://devforum.roblox.com/t/for-hire-3d-modeler-former-korean-game-industry-open/4986460",
-      "published": "2026-11-11",
-      "excerpt": "About Me Hi! I’m a 3D Artist with former experiences in the Korean game Industry, I have been developing in ROBLOX Studio on and off since 2015, working on both group and casual games. Works I do: 3D Environments & Textures Modular Buildings Optimized Trimsheets / Atlas for buildings Vehicles Foods ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/for-hire-3d-modeler-former-korean-game-industry-open/4986460.rss",
-      "id": "88b0ca000cc623d8c9260d70"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How To Connect Claude AI To Roblox Studio (2026) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRzFObnJ2am9VclllTlpramE1M01xZzVHNHROMDgzT01zV2dHMFZnREl0TkV0b3VYaklvcm81aTctSS1ubWdSZ3JGMFBvb0x1WWp5RjJB?oc=5",
-      "published": "2026-11-11",
-      "excerpt": "How To Connect Claude AI To Roblox Studio (2026) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "87d0f1c38f4861b4be7ed829"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[HIRING / OPEN] Lead 3D Generalist & Character Artist for \"The Snow Guest\" (Christmas Story Horror)",
-      "url": "https://devforum.roblox.com/t/hiring-open-lead-3d-generalist-character-artist-for-the-snow-guest-christmas-story-horror/4986971",
-      "published": "2026-11-11",
-      "excerpt": "We are looking for a skilled both 3D Modeler & Character Artist (one person for both roles, if possible, if not, only one main 3D Modeler/Artist) to join our team. We need someone who can handle multiple areas—like lobby and the actual game map, whole world and its systems. What you will be working ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/hiring-open-lead-3d-generalist-character-artist-for-the-snow-guest-christmas-story-horror/4986971.rss",
-      "id": "86ea3598c91731cce389482e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Voxel-Scene Systems test",
-      "url": "https://devforum.roblox.com/t/voxel-scene-systems-test/4987497",
-      "published": "2026-11-11",
-      "excerpt": "Roblox won’t allow me to just paste the link Voxel Scene test 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/voxel-scene-systems-test/4987497.rss",
-      "id": "801f63a8df4e0120d21e118a"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "icon for brush size button?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtp414/icon_for_brush_size_button/",
-      "published": "2026-11-11",
-      "excerpt": "need to change my icon for the brush size button. currently its shows dots in different sizes. wanted a HUD for my painting game with self explaining pixel icons but everthing i tryd doesnt look like \"change brush size\". what could or should i choose instead of dots? submitted by /u/Sch4k4l [link] [",
-      "creator": "/u/Sch4k4l https://www.reddit.com/user/Sch4k4l",
-      "id": "7c586628b58661d889c31e2c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for Experienced Roblox Developers 3D Modelers, VFX Artists & UI Designers/Programmers",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xthqcc/looking_for_experienced_roblox_developers_3d/",
-      "published": "2026-11-11",
-      "excerpt": "I'm currently looking for experienced developers to join my Roblox game development team for a project called Ethereal Massacre . It's an asymmetrical horror game inspired by Sonic, featuring unique characters, abilities, maps, and mechanics. We're currently looking for: 3D Modelers: This is our big",
-      "creator": "/u/ItKnight-BladetI https://www.reddit.com/user/ItKnight-BladetI",
-      "id": "739e874b46a934ead923b77e"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[FEEDBACK] Panels of Decision",
-      "url": "https://devforum.roblox.com/t/feedback-panels-of-decision/4987178",
-      "published": "2026-11-11",
-      "excerpt": "the new age check rule for dev forums made me unable to use @cupcake_BoyzCary so i cant post on that account Panels of Decision! The Plates of Fate inspired game where you don’t own a plate anymore. Yep! Chaos roams everywhere now. ~30 events! Character customization! 9 unique maps! 8 unique gamemod",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-panels-of-decision/4987178.rss",
-      "id": "725137633125a0a7353d8f0a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Part.Touched event causing delay in Collision Group restrictions when dropping tools",
-      "url": "https://devforum.roblox.com/t/parttouched-event-causing-delay-in-collision-group-restrictions-when-dropping-tools/4986831",
-      "published": "2026-11-11",
-      "excerpt": "If a tool is part of CollisionGroup A that is blocked from colliding with another CollisionGroup B, when you drop the tool on an object in that group, the expected behavior is that the tool will pass through the object. However, if a script has made a connection to the Part.Touched event for the par",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/parttouched-event-causing-delay-in-collision-group-restrictions-when-dropping-tools/4986831.rss",
-      "id": "6e6fa7e7607b52d50b8e0a6c"
     }
   ]
 }

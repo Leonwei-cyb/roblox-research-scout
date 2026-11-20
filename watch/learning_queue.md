@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 350
+- devforum: 352
 - index-only: 28
-- reddit: 216
+- reddit: 214
 - youtube: 5
 
 ## First-Session And Mobile
@@ -36,7 +36,7 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Ui And Menus
 
-- [Looking for Experienced Roblox Developers 3D Modelers, VFX Artists & UI Designers/Programmers](https://www.reddit.com/r/robloxgamedev/comments/1xthqcc/looking_for_experienced_roblox_developers_3d/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Simulator UI Generator: Design glossy simulator buttons & panels with a Live Preview, 1 Click](https://devforum.roblox.com/t/simulator-ui-generator-design-glossy-simulator-buttons-panels-with-a-live-preview-1-click/4997223) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [\[FOR HIRE\] Dragon | Lead Scripter @ BEXCO | Systems, UI & Discord Bots | 3+ Years](https://devforum.roblox.com/t/for-hire-dragon-lead-scripter-bexco-systems-ui-discord-bots-3-years/4992656) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Animation And Audio

@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "ea646d2bdefae21159e3549aee1b4abefc07ce6f",
-      "head_subject": "Use PHP 8.4+ \\Dom classes and functions (#9567)",
+      "head": "34822e73a256c89c591285b54e7a97eee84fce72",
+      "head_subject": "Changelog",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "2f1abb9e08fd42cba37cb0d69f5b303cc1432ee1",
+      "head": "42573f5704222aa346880dbe8cbfbab179f1bc07",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "f9e4d1e5753ccffcffdd832f047d72be000396a6",
-      "head_subject": "chore: Update CHANGELOG.md and feed.xml",
+      "head": "688120e365aff198e348965cc115f7dd79275dff",
+      "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.329",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "42ac2c0c1e132c0b4f0d9cfcd4e7950f0c5470bc",
-      "head_subject": "Merge pull request #19748 from ollama/claude/sched-shift-no-reload-18950",
+      "head": "73ee71ddcc088451457845b22d03c349b7c4dd6b",
+      "head_subject": "mlxrunner: adapt saved history to memory pressure (#19678)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",

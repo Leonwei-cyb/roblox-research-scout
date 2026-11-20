@@ -4,21 +4,6 @@
   "reviewed_posts": 0,
   "posts": [
     {
-      "key": "reddit:1xthqcc",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xthqcc/looking_for_experienced_roblox_developers_3d/",
-      "title": "Looking for Experienced Roblox Developers 3D Modelers, VFX Artists & UI Designers/Programmers",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "animation and audio",
-        "world and visual design"
-      ],
-      "score": 11,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xxckhe",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xxckhe/roblox_dev_can_do_building_modeling_scripting_ui/",
       "title": "Roblox dev (Can do building, modeling, scripting, ui)",
@@ -59,6 +44,22 @@
         "first-session and mobile",
         "building and purchases",
         "UI and menus",
+        "tools and performance"
+      ],
+      "score": 10,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997223:1",
+      "url": "https://devforum.roblox.com/t/simulator-ui-generator-design-glossy-simulator-buttons-panels-with-a-live-preview-1-click/4997223",
+      "title": "Simulator UI Generator: Design glossy simulator buttons & panels with a Live Preview, 1 Click",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "UI and menus",
+        "genres and successful loops",
         "tools and performance"
       ],
       "score": 10,
@@ -296,6 +297,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4997058:1",
+      "url": "https://devforum.roblox.com/t/full-release-state-machines-and-luau-expressions-in-animation-graphs/4997058",
+      "title": "[Full Release] State Machines and Luau Expressions in Animation Graphs",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xtdwq0",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtdwq0/what_do_u_think_about_the_ui_and_animations/",
       "title": "What do u think about the UI and animations?",
@@ -445,21 +460,6 @@
       "signals": [
         "UI and menus",
         "animation and audio",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986460:1",
-      "url": "https://devforum.roblox.com/t/for-hire-3d-modeler-former-korean-game-industry-open/4986460",
-      "title": "[FOR HIRE] 3D Modeler / Former Korean Game Industry / OPEN",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "world and visual design",
         "tools and performance"
       ],
       "score": 7,
@@ -1154,35 +1154,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986971:1",
-      "url": "https://devforum.roblox.com/t/hiring-open-lead-3d-generalist-character-artist-for-the-snow-guest-christmas-story-horror/4986971",
-      "title": "[HIRING / OPEN] Lead 3D Generalist & Character Artist for \"The Snow Guest\" (Christmas Story Horror)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4987092:1",
       "url": "https://devforum.roblox.com/t/my-first-roblox-game-%E2%80%94-looking-for-honest-feedback/4987092",
       "title": "My first Roblox game — looking for honest feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987178:1",
-      "url": "https://devforum.roblox.com/t/feedback-panels-of-decision/4987178",
-      "title": "[FEEDBACK] Panels of Decision",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -2197,6 +2171,32 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997151:1",
+      "url": "https://devforum.roblox.com/t/for-hire-scripter-105-commissions/4997151",
+      "title": "[FOR HIRE] Scripter | 105+ commissions",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997196:1",
+      "url": "https://devforum.roblox.com/t/team-create-place-stuck-on-setting-up-server-connecttoteamcreatesession-returns-429/4997196",
+      "title": "Team Create place stuck on \"Setting up server...\" - connectToTeamCreateSession returns 429",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3285,19 +3285,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986831:1",
-      "url": "https://devforum.roblox.com/t/parttouched-event-causing-delay-in-collision-group-restrictions-when-dropping-tools/4986831",
-      "title": "Part.Touched event causing delay in Collision Group restrictions when dropping tools",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4987127:1",
       "url": "https://devforum.roblox.com/t/urgent-characters-seem-to-parent-to-nil-randomly-on-the-client/4987127",
       "title": "[URGENT] Characters seem to parent to nil randomly on the client",
@@ -4156,19 +4143,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtp414",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtp414/icon_for_brush_size_button/",
-      "title": "icon for brush size button?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xtqyst",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtqyst/a_trailer_for_my_arcade_racing_game_murim_inn/",
       "title": "A trailer for my arcade racing game \"Murim Inn\"",
@@ -4773,17 +4747,6 @@
       "key": "devforum:4987392:1",
       "url": "https://devforum.roblox.com/t/roblox-account-hacked-support-does-not-help-and-refuses-to-accept-any-sort-of-proof-i-send/4987392",
       "title": "Roblox account Hacked, Support does not help and refuses to accept any sort of proof i send",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987497:1",
-      "url": "https://devforum.roblox.com/t/voxel-scene-systems-test/4987497",
-      "title": "Voxel-Scene Systems test",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -6145,6 +6108,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4997076:1",
+      "url": "https://devforum.roblox.com/t/open-looking-for-sponsors-and-promotors/4997076",
+      "title": "[OPEN] Looking for sponsors and promotors",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997143:1",
+      "url": "https://devforum.roblox.com/t/laza-clothing-designer-open/4997143",
+      "title": "Laza | Clothing Designer [OPEN]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4997181:1",
+      "url": "https://devforum.roblox.com/t/how-is-this-effect-achieved/4997181",
+      "title": "How is this effect achieved",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xt81wi",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt81wi/how_does_the_modeling_market_work/",
       "title": "How does the modeling market work?",
@@ -7317,19 +7313,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9oRzFObnJ2am9VclllTlpramE1M01xZzVHNHROMDgzT01zV2dHMFZnREl0TkV0b3VYaklvcm81aTctSS1ubWdSZ3JGMFBvb0x1WWp5RjJB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRzFObnJ2am9VclllTlpramE1M01xZzVHNHROMDgzT01zV2dHMFZnREl0TkV0b3VYaklvcm81aTctSS1ubWdSZ3JGMFBvb0x1WWp5RjJB?oc=5",
-      "title": "How To Connect Claude AI To Roblox Studio (2026) - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-11",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9uWkFsNmFuekdHMnNEa29NQjdGU0JpNVh5NEk3Tnk1QVpGZXV0UUhaSUNmVW4tM0s1X3dJNHRNcGVxWWNZX1VTLUVHUFdoQjgxTi1YclZB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uWkFsNmFuekdHMnNEa29NQjdGU0JpNVh5NEk3Tnk1QVpGZXV0UUhaSUNmVW4tM0s1X3dJNHRNcGVxWWNZX1VTLUVHUFdoQjgxTi1YclZB?oc=5",
       "title": "Only Today Secret Admin with Sammy in Steal an Egg #roblox #robloxfyp #stealanegg - Instagram",
@@ -7390,6 +7373,20 @@
       "published": "2026-11-17",
       "kind": "index-only",
       "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBmQU8tTU9Uak1uemtoS0Q3alRnNWZPZENET0JZNGxUY2o3TDdCRUxUeG5nTG1ubXNRYjlYZURKekxmZVkzVFZZTDRwaE9OaG1lQUtJYkRB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmQU8tTU9Uak1uemtoS0Q3alRnNWZPZENET0JZNGxUY2o3TDdCRUxUeG5nTG1ubXNRYjlYZURKekxmZVkzVFZZTDRwaE9OaG1lQUtJYkRB?oc=5",
+      "title": "Today for our players in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-19",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
