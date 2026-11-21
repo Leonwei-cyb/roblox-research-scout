@@ -4,9 +4,8 @@ Counts only attempted feed failures. Deferred rate-limited sources retain their 
 
 | Source | Consecutive observed failures | What to do |
 |---|---:|---|
-| youtube-UC1g8RAPLVidtYUzZFFiX2GA (HTTP 404) | 228 | Investigate public URL and source schema. |
-| reddit-robloxdev (HTTP 429) | 10 | Rate limited: reduce frequency; do not retry immediately. |
-| reddit-robloxstudio (HTTP 429) | 10 | Rate limited: reduce frequency; do not retry immediately. |
-| roblox-dev-scripts [cooling down — not retried] (HTTP 429) | 1 | Rate limited: reduce frequency; do not retry immediately. |
+| youtube-UC1g8RAPLVidtYUzZFFiX2GA (HTTP 404) | 229 | Investigate public URL and source schema. |
+| reddit-robloxdev [cooling down — not retried] (HTTP 429) | 10 | Rate limited: reduce frequency; do not retry immediately. |
+| reddit-robloxstudio [cooling down — not retried] (HTTP 429) | 10 | Rate limited: reduce frequency; do not retry immediately. |
 
 Never assume a Google News result is original media or that a 200 response proves content quality.

@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "26a5b52bb5d9f53bff6b4804214ec88deab78ce3",
+      "head": "ed5b3a829c99d5ea34bc0b373e02c586d85cedc6",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.330",
@@ -105,8 +105,8 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "c1850b84cf9b74d13050cc2a21b60ca133d41608",
-      "head_subject": "Merge pull request #3847 from huginn/ruby-4.0.10",
+      "head": "4d4fa3f49383bfd621b6b7abc05e1c70fa0c0001",
+      "head_subject": "Align dependency release ages",
       "name": "huginn/huginn",
       "release_tag": "v2026.11.19",
       "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.19",
@@ -232,6 +232,7 @@
     "felvieira/claude-skills-fv",
     "fourgames/resources",
     "gamedev-skills/awesome-gamedev-agent-skills",
+    "genex-games/genex-desktop",
     "gmh5225/awesome-game-security",
     "gogolumo/rbsmithy-roblox-claude-skill",
     "hellogumbo/awesome-jev",

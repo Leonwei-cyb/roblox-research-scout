@@ -1,21 +1,5 @@
 {
   "seen": [
-    "a83c0b2033e0b60be4cea23d",
-    "01c38b6cebbf17abc4706062",
-    "e1f46c9adb638aec45300a02",
-    "c701a7fd78f76334be8535b9",
-    "1e252ce67c1cfbb25819c8db",
-    "3277e69b826a45e54d83c19e",
-    "fd28b9d4adb4517975ffa7ef",
-    "08a89dbc181c1f68cb5bfc12",
-    "6002b5b50ebd2ff27374aeb6",
-    "464dcc871c70920b825b5268",
-    "46ef0f6ec570241126cc40ce",
-    "903c8300ba8e2db572941997",
-    "6eb8ceef304640651e800d6f",
-    "5a8c1255f99e1db52b22ece3",
-    "8b3c9b9786293cc984c8d138",
-    "1b5751349f4f5bb22d8465b0",
     "d97667363d7961af94ab679a",
     "78da3bec60014a5073f2c882",
     "54db1599d560700cf9427d5f",
@@ -3999,7 +3983,23 @@
     "3d82ac7f030b8e864e0e4e33",
     "cc35829466d1f49179627c2b",
     "4d80f4ff91306d3b5483cf0e",
-    "f79f814b61809c618f87ac5b"
+    "f79f814b61809c618f87ac5b",
+    "e0b6a616e01b51c32d7fab6d",
+    "75a97338d9264ed7ce4330f5",
+    "eb62229d1c3bbe4ada6579c6",
+    "5e1186401cd2741663f33493",
+    "ae49aff3b78c0691a87a7eb6",
+    "992a4fbe8d9f77ddead6a1b2",
+    "38ef2121abea2fb0aa75ad9e",
+    "c27f987ea5d8e61f7d22b47a",
+    "1bb6e9824e5ff3ee86685695",
+    "c8073e949b38ddc65ca89a04",
+    "8ccc5ac8266cb5203cab4d96",
+    "214fdaa108a4cd0f67bc9de6",
+    "00feeafcc4552d9f485d07e3",
+    "8fb7d1a17cf1a853de62c2ff",
+    "35bf551c27587f041e884b7e",
+    "25872cc7508183483babd626"
   ],
   "items": [
     {
@@ -4013,6 +4013,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/stopping-mobile-joystick-movement-in-my-ui/4998717.rss",
       "id": "f75c655460f7808aa30a8914"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Devex ban and account moderation desync",
+      "url": "https://devforum.roblox.com/t/devex-ban-and-account-moderation-desync/4999196",
+      "published": "2026-11-21",
+      "excerpt": "Devex bans arent being lifted when a account moderation is lifted. Because they are two seperate departments. Where do i go to get this fixed? Because devex support isnt replying either. Expected behavior when an account moderation is lifted / appealed. The devex suspension should lift with it. A pr",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/devex-ban-and-account-moderation-desync/4999196.rss",
+      "id": "eb62229d1c3bbe4ada6579c6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "PC Freezing up when opening a Roblox Games Page",
+      "url": "https://devforum.roblox.com/t/pc-freezing-up-when-opening-a-roblox-games-page/4999287",
+      "published": "2026-11-21",
+      "excerpt": "I have been noticing since yesterday (Not sure how long this has been a problem), that opening some game pages (usually in a new tab) make my CPU climb to 100% usage really quickly and stay like that till I either close that tab somehow or close my browser. This has happened to me several times sinc",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/pc-freezing-up-when-opening-a-roblox-games-page/4999287.rss",
+      "id": "e0b6a616e01b51c32d7fab6d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4042,6 +4066,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Warlords 1918, PolyWars is NOT Dead",
+      "url": "https://devforum.roblox.com/t/warlords-1918-polywars-is-not-dead/4999021",
+      "published": "2026-11-21",
+      "excerpt": "I wanted to make a strategy game in 2022. It was extremely difficult and I halted. But now we’re so back. [CHECK DISCORD] PolyWars! Strategic Wargame From the HTML prototype: To the initial migration: To what the progress of yesterday: I’ll keep updating this, and once the game is finished, I’ll mak",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/warlords-1918-polywars-is-not-dead/4999021.rss",
+      "id": "c8073e949b38ddc65ca89a04"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox can’t do VHS post-processing, so I replaced its renderer - Backrooms Tape 037",
+      "url": "https://devforum.roblox.com/t/roblox-can%E2%80%99t-do-vhs-post-processing-so-i-replaced-its-renderer-backrooms-tape-037/4999042",
+      "published": "2026-11-21",
+      "excerpt": "It’s well known that achieving something that mimics the feeling of found footage is hard. Many games made in Unity and Unreal Engine struggle to get that handheld and VHS effect just right. If you wanted to make a found footage backrooms game on Roblox, well, tough luck. You’re going to have to sla",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-can%E2%80%99t-do-vhs-post-processing-so-i-replaced-its-renderer-backrooms-tape-037/4999042.rss",
+      "id": "c27f987ea5d8e61f7d22b47a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Flux - A reactive UI library for Luau",
       "url": "https://devforum.roblox.com/t/flux-a-reactive-ui-library-for-luau/4998408",
       "published": "2026-11-21",
@@ -4066,6 +4114,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Luau type checker incorrectly narrows union parameter type across method calls",
+      "url": "https://devforum.roblox.com/t/luau-type-checker-incorrectly-narrows-union-parameter-type-across-method-calls/4999155",
+      "published": "2026-11-21",
+      "excerpt": "The Luau type checker appears to incorrectly narrow a method parameter declared as a union type when the method is called multiple times with different valid subtypes of that union. The issue occurs when using method syntax ( : ) and does not occur when using equivalent function syntax ( . ). Roblox",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/luau-type-checker-incorrectly-narrows-union-parameter-type-across-method-calls/4999155.rss",
+      "id": "ae49aff3b78c0691a87a7eb6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Importing textures still not working",
       "url": "https://devforum.roblox.com/t/importing-textures-still-not-working/4998378",
       "published": "2026-11-21",
@@ -4078,6 +4138,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "\"Group\" action doesn't respect default instance settings",
+      "url": "https://devforum.roblox.com/t/group-action-doesnt-respect-default-instance-settings/4999149",
+      "published": "2026-11-21",
+      "excerpt": "Upon using CTRL + G (group as Model) or CTRL + ALT + G (group as Folder), the created parents do not respect the default properties set to those specific instances. Folders and Models will be their default self instead of what I set them to. This is mostly annoying with the folder instance: 1 post -",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/group-action-doesnt-respect-default-instance-settings/4999149.rss",
+      "id": "992a4fbe8d9f77ddead6a1b2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Dynamic Resolution Scaling is forced on below graphics quality level 6 with no option to disable it",
       "url": "https://devforum.roblox.com/t/dynamic-resolution-scaling-is-forced-on-below-graphics-quality-level-6-with-no-option-to-disable-it/4998586",
       "published": "2026-11-21",
@@ -4085,6 +4157,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dynamic-resolution-scaling-is-forced-on-below-graphics-quality-level-6-with-no-option-to-disable-it/4998586.rss",
       "id": "977dc2125660dc96fb257be3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Missing waypoints with PathfindingService",
+      "url": "https://devforum.roblox.com/t/missing-waypoints-with-pathfindingservice/4999017",
+      "published": "2026-11-21",
+      "excerpt": "As you can see, there are waypoints missing in the path. The pink parts represent the waypoints. I then enable “Navigation Mesh” in the Viewport Settings, and you can see the waypoints missing there as well, according to the engine. Recording: 21.11.2026_15.02.39_REC Altering the starting position c",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/missing-waypoints-with-pathfindingservice/4999017.rss",
+      "id": "8ccc5ac8266cb5203cab4d96"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4109,6 +4193,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/laststand-%E2%80%93-looking-for-developers-to-test-my-roblox-fps/4998370.rss",
       "id": "7b990e383c7e344f4793814a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Evidence for group MR LABS: 17-day zero-sales gap, search visibility, Sponsored Items, and publishing costs without regional pricing",
+      "url": "https://devforum.roblox.com/t/evidence-for-group-mr-labs-17-day-zero-sales-gap-search-visibility-sponsored-items-and-publishing-costs-without-regional-pricing/4999267",
+      "published": "2026-11-21",
+      "excerpt": "Summary and a correction I am the owner of the UGC group MR LABS (group ID 901151079). Over the last months I opened several reports and support tickets. I have now pulled the complete sales history of the group from the transaction records, and it does not support some of what I wrote before. In ea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/evidence-for-group-mr-labs-17-day-zero-sales-gap-search-visibility-sponsored-items-and-publishing-costs-without-regional-pricing/4999267.rss",
+      "id": "75a97338d9264ed7ce4330f5"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4145,6 +4241,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/shadows-appear-and-disappear-based-on-viewing-angle/4998477.rss",
       "id": "7009cc01816f524e04316578"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "\"Snap to Parts\" flickers adornees for one frame upon Move / Scale",
+      "url": "https://devforum.roblox.com/t/snap-to-parts-flickers-adornees-for-one-frame-upon-move-scale/4999165",
+      "published": "2026-11-21",
+      "excerpt": "On version 0.748.0.7481526 , trying to move or scale something with “Snap to Parts” enabled will flicker each snap point’s adornee for a frame: How to reproduce: (at the end of the video another issue can be seen which is the flickering window in the middle of screen but that’s an unrelated issue) 1",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/snap-to-parts-flickers-adornees-for-one-frame-upon-move-scale/4999165.rss",
+      "id": "5e1186401cd2741663f33493"
     },
     {
       "source": "brock-tiktok",
@@ -4222,6 +4330,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Terrain Updates Request: Wind, interaction and fade for scatters and meshes",
+      "url": "https://devforum.roblox.com/t/terrain-updates-request-wind-interaction-and-fade-for-scatters-and-meshes/4999056",
+      "published": "2026-11-21",
+      "excerpt": "Terrain Updates Request: Wind, interaction and fade for scatters and meshes Hello there, The new terrain is a big update I’ve been patiently waiting for, but from what’s been shown so far the scattered grass, flowers and trees look completely static and pop in at a fixed distance, it would be unfort",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/terrain-updates-request-wind-interaction-and-fade-for-scatters-and-meshes/4999056.rss",
+      "id": "38ef2121abea2fb0aa75ad9e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "My crystal-stealing chase is escaped 97% of the time. How hard should a chase be for new players?",
       "url": "https://devforum.roblox.com/t/my-crystal-stealing-chase-is-escaped-97-of-the-time-how-hard-should-a-chase-be-for-new-players/4998673",
       "published": "2026-11-21",
@@ -4229,6 +4349,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/my-crystal-stealing-chase-is-escaped-97-of-the-time-how-hard-should-a-chase-be-for-new-players/4998673.rss",
       "id": "36f5621f0512432b32aee87c"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Material3Blox: An easy-to-use, Material 3 Expressive UI Library purely in LUAU",
+      "url": "https://devforum.roblox.com/t/material3blox-an-easy-to-use-material-3-expressive-ui-library-purely-in-luau/4998977",
+      "published": "2026-11-21",
+      "excerpt": "Material3Blox: Material 3 Expressive for Roblox A UI library, a visual editor and a window manager, all drawn with EditableImage . No asset ids, no uploads. Hey everyone! I made Material3Blox , a UI library that brings Google’s Material 3 Expressive design to Roblox. Every icon, every letter and eve",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/material3blox-an-easy-to-use-material-3-expressive-ui-library-purely-in-luau/4998977.rss",
+      "id": "214fdaa108a4cd0f67bc9de6"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4253,6 +4385,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/when-registering-a-new-theme-stylesheet-it-takes-away-derives-linked-to-the-main-stylesheets/4998384.rss",
       "id": "1d1cca4326d3e7108b72e475"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "A Long-Term Vision for Improving the Roblox Platform",
+      "url": "https://devforum.roblox.com/t/a-long-term-vision-for-improving-the-roblox-platform/4999035",
+      "published": "2026-11-21",
+      "excerpt": "Hello Roblox community! I’m a Roblox player independently working on concepts and proposals aimed at improving Roblox as a platform. My focus goes beyond individual games or Roblox Studio. I want to explore improvements across the platform itself, including: Areas I’m exploring - Platform Safety: Be",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/a-long-term-vision-for-improving-the-roblox-platform/4999035.rss",
+      "id": "1bb6e9824e5ff3ee86685695"
     },
     {
       "source": "roblox-devforum-latest",
@@ -9251,6 +9395,18 @@
       "id": "92c18c9a8614dac32abee833"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "Admin abuse 6 #stealabrai̇nrot #AdminAbuse #PVP #Roblox - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XSmZZTThLZWhpQ2ctd1l4R3hkLWpJYTNOVnRZdEZueGdtN01IRUtJYl9tTG00ZW9EUk84MXFfUDlyY094VHNHNlhEWGVZbGNDV2pqOEhn?oc=5",
+      "published": "2026-11-13",
+      "excerpt": "Admin abuse 6 #stealabrai̇nrot #AdminAbuse #PVP #Roblox Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "8fb7d1a17cf1a853de62c2ff"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -9834,6 +9990,18 @@
       "excerpt": "I am working on a FPS survival game but wanting opinions on first person vs third person POV for survival/shooter games. Development wise; I am having mad issues trying to code my ADS to lock to the weapon while in first person. View Poll submitted by /u/No_Gap_7136 [link] [comments]",
       "creator": "/u/No_Gap_7136 https://www.reddit.com/user/No_Gap_7136",
       "id": "07ae8ecd2f43e9601ae6cf86"
+    },
+    {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "I Was Completely Wrong About this game!! . . . . . . #roblox #news #gaming #takilablox #itsayill #plzdonate #trending #explore - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92anJWTFRXRVZkbXByTlZsQ0tYWlVVeFRRM2o2b1FZQzNOdk9SSVkzUTBrQ1BXNUdIbmIwN3oyZENWc3BxQVR3MFgyUFFvTy1JWXVoLTF3?oc=5",
+      "published": "2026-11-13",
+      "excerpt": "I Was Completely Wrong About this game!! . . . . . . #roblox #news #gaming #takilablox #itsayill #plzdonate #trending #explore Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "00feeafcc4552d9f485d07e3"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10844,167 +11012,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/custom-particle-system/4987778.rss",
       "id": "358bb17708843f0f5b0b2064"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Un-addable Romance tag from questionnaire after IARC update",
-      "url": "https://devforum.roblox.com/t/un-addable-romance-tag-from-questionnaire-after-iarc-update/4987669",
-      "published": "2026-11-12",
-      "excerpt": "Before this new IARC update to the questionnaire I had the “Romance (Romantic Themes)” title on the content maturity of one of my games but now that I’ve re-done it for the new update it’s gone and it is no longer present on the “Roblox Questions” part of the questionnaire. The only part that is sim",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/un-addable-romance-tag-from-questionnaire-after-iarc-update/4987669.rss",
-      "id": "302c6f078cac04aeaf257552"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is the pace of the game too fast for kids?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xukliu/is_the_pace_of_the_game_too_fast_for_kids/",
-      "published": "2026-11-12",
-      "excerpt": "I may have went overboard with the dopamine maxing and I fear that it may be too dofficult to play. submitted by /u/Affectionate-Ad-3961 [link] [comments]",
-      "creator": "/u/Affectionate-Ad-3961 https://www.reddit.com/user/Affectionate-Ad-3961",
-      "id": "2fbf074414cc3b407b73ea72"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I'm still a little new",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurhfp/im_still_a_little_new/",
-      "published": "2026-11-12",
-      "excerpt": "How do i rig and add 2d features to her someone help plsss submitted by /u/Sh1mmer_R0saGl0w [link] [comments]",
-      "creator": "/u/Sh1mmer_R0saGl0w https://www.reddit.com/user/Sh1mmer_R0saGl0w",
-      "id": "2d19ea37ba1f27c573b95b5d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My solo port to Roblox is 80% done",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu5ld7/my_solo_port_to_roblox_is_80_done/",
-      "published": "2026-11-12",
-      "excerpt": "I started this port as a solo project, and it's been a lot of fun. Bringing a game like this into the Roblox engine has thrown plenty of challenges and roadblocks my way, and working through them has been half the fun. Right now it's about 80% ported, and it already supports multiplayer, so you can ",
-      "creator": "/u/Due_Cat_2320 https://www.reddit.com/user/Due_Cat_2320",
-      "id": "2bcc89d0bf6896e00be4c920"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Icon/Title thingy for a game me and my friends are making, any thoughts?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuge2v/icontitle_thingy_for_a_game_me_and_my_friends_are/",
-      "published": "2026-11-12",
-      "excerpt": "Personally I would make the switch a bit bigger but idk submitted by /u/m_e_e_e_e_e [link] [comments]",
-      "creator": "/u/m_e_e_e_e_e https://www.reddit.com/user/m_e_e_e_e_e",
-      "id": "27970182d42654c9b0106a0d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Getting the Device Simulation bar off screen without Automatic Graphics",
-      "url": "https://devforum.roblox.com/t/getting-the-device-simulation-bar-off-screen-without-automatic-graphics/4987538",
-      "published": "2026-11-12",
-      "excerpt": "I’m referring to the device simulation bar that appears on the top of the viewport. My computer has a NIVIDIA GeForce GT 1030 DDR4. I am not accustomed to testing any Roblox games on the maximum quality in exchange for my frames. Once I checked, my quality level was on Automatic – upon switching it ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/getting-the-device-simulation-bar-off-screen-without-automatic-graphics/4987538.rss",
-      "id": "25158f885b21a33fa0b008b5"
-    },
-    {
-      "source": "youtube-UCl-BrQMfynC7mpPDsg6MqlQ",
-      "label": "YouTube direct channel: RoBuilder Roblox game-building and Studio models (SocialBlade channel ID)",
-      "category": "Roblox build / 3D examples",
-      "title": "ADMIN ABUSE RELEASE PARTY! | Clear The Snow!",
-      "url": "https://www.youtube.com/watch?v=_FDVSReR2iA",
-      "published": "2026-11-12",
-      "excerpt": "",
-      "creator": "RoBuilder https://www.youtube.com/channel/UCl-BrQMfynC7mpPDsg6MqlQ",
-      "id": "2342665601f0fe9188832349"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[OPEN] Orochi | Roblox Scripter | Combat, NPC AI & Gameplay",
-      "url": "https://devforum.roblox.com/t/open-orochi-roblox-scripter-combat-npc-ai-gameplay/4988528",
-      "published": "2026-11-12",
-      "excerpt": "Hey, I’m Orochi. I’ve been scripting on Roblox for six years, mostly working on combat, abilities and NPC AI. I’m open for commissions and part-time work. Here’s some of my work. You can also watch everything on my portfolio , where I’ve included the source for El Thor and Plunge. Combat and gamepla",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-orochi-roblox-scripter-combat-npc-ai-gameplay/4988528.rss",
-      "id": "231422acb5472d146a4fde57"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Trackpad Camera Issue",
-      "url": "https://devforum.roblox.com/t/trackpad-camera-issue/4987670",
-      "published": "2026-11-12",
-      "excerpt": "Upon using Trackpad on what appears older Roblox games, using the two-finger camera move gesture will make the camera start to quickly zoom in and out rather than move the camera in the direction it should turn in. This does not happen on all games so I suspect it is due to changes in the Roblox eng",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/trackpad-camera-issue/4987670.rss",
-      "id": "228c44edf8d183508270d02b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Open-world age of sail game.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurrnn/openworld_age_of_sail_game/",
-      "published": "2026-11-12",
-      "excerpt": "Some progress on my game. I've added 5 ammunition types, each physically displayed as an object. Various damage markers, hitpoint and collision locations, various realistic ranges per each. Different effects based on the type (fire rounds cause fires and flooding). Custom sail colors, emblems, hull ",
-      "creator": "/u/Melodic-Sundae3403 https://www.reddit.com/user/Melodic-Sundae3403",
-      "id": "2269ff9dd1bef6284a64d29e"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How do I remove the device bar?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtzkbl/how_do_i_remove_the_device_bar/",
-      "published": "2026-11-12",
-      "excerpt": "I never turned it on. it just appeared some time ago. idk how to disable this submitted by /u/halydrag [link] [comments]",
-      "creator": "/u/halydrag https://www.reddit.com/user/halydrag",
-      "id": "2108b09c2532f16d7d6ff74d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "My game is unavailable in 23 countries for no clear reason and Roblox Support isnt helping",
-      "url": "https://devforum.roblox.com/t/my-game-is-unavailable-in-23-countries-for-no-clear-reason-and-roblox-support-isnt-helping/4988110",
-      "published": "2026-11-12",
-      "excerpt": "My game is unavailable in 23 countries for no clear reason and Roblox Support isn’t helping Hey, so I recently released my game Dodge: Rush! and I’ve been having this really annoying issue. For some reason my game is unavailable in 23 countries even though it’s public and set to All Regions . The ga",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/my-game-is-unavailable-in-23-countries-for-no-clear-reason-and-roblox-support-isnt-helping/4988110.rss",
-      "id": "1fc09fda263094d1aeddd666"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Random infinite load times when joining or on being teleported",
-      "url": "https://devforum.roblox.com/t/random-infinite-load-times-when-joining-or-on-being-teleported/4988172",
-      "published": "2026-11-12",
-      "excerpt": "Steps: Join any game (e.g. on homepage in roblox app/browser, or on being teleported) Infinite load time ~80% of the time System information: AMD Ryzen 9 7950X 16-Core Processor 64.0 GB AMD Radeon RX 7900 XT 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/random-infinite-load-times-when-joining-or-on-being-teleported/4988172.rss",
-      "id": "1e8994bbdf5f772e3c6e08bd"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "System error in Roblox's DSA point of contact for users",
-      "url": "https://devforum.roblox.com/t/system-error-in-robloxs-dsa-point-of-contact-for-users/4988096",
-      "published": "2026-11-12",
-      "excerpt": "I would like to raise a concern regarding Roblox’s DSA point of contact for users. A friend of mine attempted to contact Roblox through its designated DSA email address, eu-dsa-spoc@roblox.com , multiple times regarding an account-related issue. Despite providing the correct Roblox username in their",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/system-error-in-robloxs-dsa-point-of-contact-for-users/4988096.rss",
-      "id": "1d5652553548e1e57cd1be5f"
     }
   ]
 }
