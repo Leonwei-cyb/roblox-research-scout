@@ -81,21 +81,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986400:1",
-      "url": "https://devforum.roblox.com/t/road-builder-plugin-smooth-roads/4986400",
-      "title": "Road Builder Plugin (SMOOTH ROADS!)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 9,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4990585:1",
       "url": "https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585",
       "title": "[OPEN] Looking for programmers with experience - Tycoon/Simulator - 1000 USD",
@@ -298,6 +283,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4998408:1",
+      "url": "https://devforum.roblox.com/t/flux-a-reactive-ui-library-for-luau/4998408",
+      "title": "Flux - A reactive UI library for Luau",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuo7ni",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuo7ni/63_of_new_players_quit_my_roblox_game_in_the/",
       "title": "63% of new players quit my Roblox game in the first minute. Here's what I changed, tell me what I missed",
@@ -424,21 +423,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986293:1",
-      "url": "https://devforum.roblox.com/t/dxrktempestdev-scripter/4986293",
-      "title": "DxrkTempestDev | Scripter",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4992916:1",
       "url": "https://devforum.roblox.com/t/wild-west-game-testing-feedback/4992916",
       "title": "Wild West Game Testing Feedback",
@@ -466,34 +450,6 @@
         "tools and performance"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986941:1",
-      "url": "https://devforum.roblox.com/t/download-any-asset-even-if-it-is-private-animation-sound-image-etc/4986941",
-      "title": "Download any asset, even if it is private (Animation, Sound, Image, etc. )",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987103:1",
-      "url": "https://devforum.roblox.com/t/cant-set-a-password-or-phone-number-for-my-roblox-account/4987103",
-      "title": "Can't set a password or phone number for my roblox account",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1069,19 +1025,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986899:1",
-      "url": "https://devforum.roblox.com/t/more-content-types-for-script-sync-compatibility/4986899",
-      "title": "More content types for script sync compatibility",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2215,6 +2158,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4998177:1",
+      "url": "https://devforum.roblox.com/t/studio-mcp-server-updates-video-capture-saveplace-and-submitfeedback/4998177",
+      "title": "Studio MCP Server Updates: Video Capture, save_place, and submit_feedback",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-20",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998341:1",
+      "url": "https://devforum.roblox.com/t/roblox-client-captures-zero-duration-videos-error-and-cant-be-deleted-through-the-menu-without-multi-select/4998341",
+      "title": "Roblox Client Captures - Zero duration videos error and can't be deleted through the menu, without multi-select?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998391:1",
+      "url": "https://devforum.roblox.com/t/codev-free-luau-challenges-where-your-code-actually-runs-against-hidden-tests/4998391",
+      "title": "CoDev: free Luau challenges where your code actually runs against hidden tests",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xtyriy",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtyriy/models_i_made_for_yet_another_sonic_asym_yasa/",
       "title": "Models I made for Yet Another Sonic ASYM (YASA)!!",
@@ -2741,34 +2723,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986298:1",
-      "url": "https://devforum.roblox.com/t/custom-folder-icons-12/4986298",
-      "title": "Custom Folder Icons (12)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986917:1",
-      "url": "https://devforum.roblox.com/t/guarantee-depth-first-order-for-getdescendants-and-querydescendants/4986917",
-      "title": "Guarantee depth-first order for GetDescendants and QueryDescendants",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "world and visual design"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4987637:1",
       "url": "https://devforum.roblox.com/t/playerremoving-bugcritical-issue/4987637",
       "title": "PlayerRemoving Bug/Critical Issue",
@@ -3054,6 +3008,20 @@
       "title": "Issues keeping assets loaded for extended periods of time",
       "source": "roblox-devforum-latest",
       "published": "2026-11-19",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998199:1",
+      "url": "https://devforum.roblox.com/t/weekly-recap-november-16%E2%80%9320-2026/4998199",
+      "title": "Weekly Recap: November 16–20, 2026",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-20",
       "kind": "devforum",
       "signals": [
         "animation and audio",
@@ -4127,40 +4095,27 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtec82",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtec82/kirrit_bonfire_clash_is_live/",
-      "title": "Kirrit Bonfire Clash is LIVE!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtk00q",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtk00q/monetization_issues/",
-      "title": "Monetization issues",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xtqyst",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtqyst/a_trailer_for_my_arcade_racing_game_murim_inn/",
-      "title": "A trailer for my arcade racing game \"Murim Inn\"",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
+      "key": "devforum:4998373:1",
+      "url": "https://devforum.roblox.com/t/free-rolibrary-explore-100k-roblox-thumbnails-and-discover-similar-designs-updated-daily/4998373",
+      "title": "[FREE] RoLibrary : Explore 100K+ Roblox Thumbnails and Discover Similar Designs [Updated Daily]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998378:1",
+      "url": "https://devforum.roblox.com/t/importing-textures-still-not-working/4998378",
+      "title": "Importing textures still not working",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4673,53 +4628,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4986171:1",
-      "url": "https://devforum.roblox.com/t/for-hire-sagastars-%E2%9C%B7-game-developer-fullstack-programmer-esp-eng/4986171",
-      "title": "[FOR HIRE] SagaStars ✷ - Game-Developer, FullStack-Programmer, ESP, ENG",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986371:1",
-      "url": "https://devforum.roblox.com/t/adding-genre-for-content-rating-blocked-by-unhelpful-name-description-moderation/4986371",
-      "title": "Adding Genre for Content Rating Blocked by Unhelpful Name + Description Moderation",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4986511:1",
-      "url": "https://devforum.roblox.com/t/critical-false-ai-enforcement-actions-on-my-accountseveral-other-individuals/4986511",
-      "title": "[CRITICAL] False AI Enforcement actions on my account/several other individuals",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4986935:1",
       "url": "https://devforum.roblox.com/t/teleport-to-reservedserver-failure/4986935",
       "title": "Teleport to ReservedServer failure",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-11",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987392:1",
-      "url": "https://devforum.roblox.com/t/roblox-account-hacked-support-does-not-help-and-refuses-to-accept-any-sort-of-proof-i-send/4987392",
-      "title": "Roblox account Hacked, Support does not help and refuses to accept any sort of proof i send",
       "source": "roblox-devforum-latest",
       "published": "2026-11-11",
       "kind": "devforum",
@@ -6235,34 +6146,78 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xt81wi",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xt81wi/how_does_the_modeling_market_work/",
-      "title": "How does the modeling market work?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
+      "key": "devforum:4998331:1",
+      "url": "https://devforum.roblox.com/t/glass-material-reflections-no-longer-working/4998331",
+      "title": "Glass Material Reflections no longer working",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtpwvq",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtpwvq/game_like_exchange/",
-      "title": "Game like exchange?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
+      "key": "devforum:4998333:1",
+      "url": "https://devforum.roblox.com/t/the-block-invalid-value-for-enum-videocapturestartedresult/4998333",
+      "title": "The Block - Invalid value for enum VideoCaptureStartedResult",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtvf5f",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtvf5f/what_game_cant_you_find_on_roblox_tell_me_to_make/",
-      "title": "What game can't you find on Roblox? Tell me to make it",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-11",
-      "kind": "reddit",
+      "key": "devforum:4998338:1",
+      "url": "https://devforum.roblox.com/t/account-recovery-support-ai-loops-users-back-to-a-reset-page-that-cannot-resolve-their-case-with-no-route-to-human-support/4998338",
+      "title": "Account recovery: support AI loops users back to a reset page that cannot resolve their case, with no route to human support",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998347:1",
+      "url": "https://devforum.roblox.com/t/account-reinstated-but-seven-group-ownership-permissions-were-never-restored/4998347",
+      "title": "Account Reinstated, but Seven Group Ownership Permissions Were Never Restored",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998370:1",
+      "url": "https://devforum.roblox.com/t/laststand-%E2%80%93-looking-for-developers-to-test-my-roblox-fps/4998370",
+      "title": "LASTSTAND – Looking for Developers to Test My Roblox FPS",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998384:1",
+      "url": "https://devforum.roblox.com/t/when-registering-a-new-theme-stylesheet-it-takes-away-derives-linked-to-the-main-stylesheets/4998384",
+      "title": "When registering a new Theme StyleSheet, it takes away derives linked to the main StyleSheets",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4998402:1",
+      "url": "https://devforum.roblox.com/t/roblox-website-occasionally-freezes-my-entire-computer-when-loading-a-new-page/4998402",
+      "title": "Roblox website occasionally freezes my entire computer when loading a new page",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7185,6 +7140,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1JUkxTaEEtNXhJWmZZS3doWDV4M0x3XzR5eEZBSlJVNlVBNjQ3dDJhVzhqbkw1VmVZMVNYR1hZRGdNSS1PSHdxZGpzbTVMVVVmLTI2aUxn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUkxTaEEtNXhJWmZZS3doWDV4M0x3XzR5eEZBSlJVNlVBNjQ3dDJhVzhqbkw1VmVZMVNYR1hZRGdNSS1PSHdxZGpzbTVMVVVmLTI2aUxn?oc=5",
+      "title": "How to ACTUALLY Use VFX in Roblox (Part 2) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-18",
+      "kind": "index-only",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1LU1ZHTTBuZFk2TkFsWktXejF6UEtsc0Jud1JkQ3VMcjIzODNNTnRxcEZUd21QMUVQRlVLdkxxLThrTGMtVnA3RHQycUxvREZ5SWRzRzVB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LU1ZHTTBuZFk2TkFsWktXejF6UEtsc0Jud1JkQ3VMcjIzODNNTnRxcEZUd21QMUVQRlVLdkxxLThrTGMtVnA3RHQycUxvREZ5SWRzRzVB?oc=5",
       "title": "Best owners in Steal an egg? #roblox #robloxfyp #stealanegg - Instagram",
@@ -7234,6 +7202,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5ETE1KR3ZpNnVHa3E4SXJUM0ROLTBrTkIxeUd1R1hOMHNWZmVCQWM1UGFjc3lhQldnZWFfNW1EVU5HZWUxVUV2elRtR1BEWUg0UzR1M1BB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ETE1KR3ZpNnVHa3E4SXJUM0ROLTBrTkIxeUd1R1hOMHNWZmVCQWM1UGFjc3lhQldnZWFfNW1EVU5HZWUxVUV2elRtR1BEWUg0UzR1M1BB?oc=5",
+      "title": "Today with Ben in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-20",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5FLVNKS0UyZngwWmJyNEdadnFWX1FjZHVJZVJjLVBPUGFONG1kS05NWTA5TWUwY3gzUEkwT2lTTFQzWmVNTG0zbWlMSzJJWTBaMmJtU2V3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FLVNKS0UyZngwWmJyNEdadnFWX1FjZHVJZVJjLVBPUGFONG1kS05NWTA5TWUwY3gzUEkwT2lTTFQzWmVNTG0zbWlMSzJJWTBaMmJtU2V3?oc=5",
       "title": "Only this night with sammy in Secret Admin in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
@@ -7269,6 +7250,19 @@
       "signals": [
         "genres and successful loops",
         "player feedback and marketing"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5ueHZ6OHhDMzV6WGZndkRqRGdUNG5Fa19NMmtBZDNnYzY0TjFacTMwV09sNlU4WTdUcWp5cDlMbF93NlhjazQ0OGQ5bGxhWUxqZThYSDJ3",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ueHZ6OHhDMzV6WGZndkRqRGdUNG5Fa19NMmtBZDNnYzY0TjFacTMwV09sNlU4WTdUcWp5cDlMbF93NlhjazQ0OGQ5bGxhWUxqZThYSDJ3?oc=5",
+      "title": "Guys today Im here with brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-20",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

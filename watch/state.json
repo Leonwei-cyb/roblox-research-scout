@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "2f31a2fdf5f7a466820e184daaf67dc75514eaa7",
-      "head_subject": "Fix HTML injection in view mode error notification (#9605)",
+      "head": "71cda6bfe2301e0da789dc4141415b1090cfc0bd",
+      "head_subject": "Fix regression lazyload (#9601)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -49,11 +49,11 @@
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "c87565b8b0db5d5d5bfd2b8b00ad6573e5d06d9f",
-      "head_subject": "Sync to upstream/release/747 (#3128)",
+      "head": "3d91c9d5c280c95bfc4be63aac46012cf861d394",
+      "head_subject": "Sync to upstream/release/748 (#3149)",
       "name": "Roblox/luau",
-      "release_tag": "0.747",
-      "release_url": "https://github.com/luau-lang/luau/releases/tag/0.747",
+      "release_tag": "0.748",
+      "release_url": "https://github.com/luau-lang/luau/releases/tag/0.748",
       "url": "https://github.com/Roblox/luau"
     },
     "Roblox/open-game-eval": {
@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "d5cdcb02ec734b6bcfc0e6438510f76d70a8bd39",
+      "head": "dfb4bf9ff2a4e7f8a5af12ac401c97d28d4025dd",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.329",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+      "release_tag": "v2.1.330",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -121,16 +121,16 @@
       "url": "https://github.com/obra/superpowers"
     },
     "obris-dev/openmagpie": {
-      "head": "c4b3c5bca8914f334ce5dc8afc24c2e072ebebd9",
-      "head_subject": "chore(main): release 0.12.2 (#196)",
+      "head": "54b991bc188b2b0813fad88e6885b431618a29c2",
+      "head_subject": "chore(main): release 0.13.0 (#199)",
       "name": "obris-dev/openmagpie",
-      "release_tag": "v0.12.2",
-      "release_url": "https://github.com/obris-dev/openmagpie/releases/tag/v0.12.2",
+      "release_tag": "v0.13.0",
+      "release_url": "https://github.com/obris-dev/openmagpie/releases/tag/v0.13.0",
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "0b243a141a64110ef31d47ec35900cefcd467a18",
-      "head_subject": "mlxrunner: choose default parallelism from available memory (#19785)",
+      "head": "cecac8bf1bd30ba928ee7cfe53b953f9b25642ae",
+      "head_subject": "mlxrunner: add Inkling 2 Mini (#19799)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.16",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",

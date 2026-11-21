@@ -16,7 +16,8 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 3 matched metadata records.
+**Collected media leads:** 4 matched metadata records.
+- [Guys today Im here with brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ueHZ6OHhDMzV6WGZndkRqRGdUNG5Fa19NMmtBZDNnYzY0TjFacTMwV09sNlU4WTdUcWp5cDlMbF93NlhjazQ0OGQ5bGxhWUxqZThYSDJ3?oc=5) — indexed public mention — authorship NOT verified · 2026-11-20
 - [Today in the Secret Admin in Steal an Egg with brockkodile #roblox #robloxfyp #usa #usafyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14OVBmUTZUUFU4NUFETGRpVjRFQTlMQlR2WGNBMjZiUzljZHhTWkxPVEVQTXIyNHhkS1hDclFaMFZwSVJqaU1pemhmbnNPUEJmTjhpY0R3?oc=5) — indexed public mention — authorship NOT verified · 2026-11-19
 - [Only Today with brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XTnhkbUZLMjllTTVyQi1kaXhxUkhMZ251cm4wZDJNRF8xczBwQzZFTW94MFVmUUlrYkxhamFkeVZ1T25MYWtrekl1REptc0hJbDBaaFRn?oc=5) — indexed public mention — authorship NOT verified · 2026-11-19
 - [Only Today with Sammy and Brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn?oc=5) — indexed public mention — authorship NOT verified · 2026-11-13

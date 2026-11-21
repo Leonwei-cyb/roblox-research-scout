@@ -21,5 +21,5 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## Claude / automation / testing
 
 - **[Automatic Graphics Reset & Unclosable Device Emulator UI in Playtests](https://devforum.roblox.com/t/automatic-graphics-reset-unclosable-device-emulator-ui-in-playtests/4990769)** — Public text/page, video not confirmed
-- **[\[Full Release\] State Machines and Luau Expressions in Animation Graphs](https://devforum.roblox.com/t/full-release-state-machines-and-luau-expressions-in-animation-graphs/4997058)** — Public text/page, video not confirmed
+- **[Studio MCP Server Updates: Video Capture, save_place, and submit_feedback](https://devforum.roblox.com/t/studio-mcp-server-updates-video-capture-saveplace-and-submitfeedback/4998177)** — Public text/page, video not confirmed
 - **[\[FREE for 72 Hours\] I built AnimatorX: A modern animation suite for Roblox Studio with AI MCP Bridge, 200+ Presets, and Multi-Rig scenes!](https://www.reddit.com/r/ROBLOXStudio/comments/1xy8jx6/free_for_72_hours_i_built_animatorx_a_modern/)** — Public text/page, video not confirmed

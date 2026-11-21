@@ -5,38 +5,48 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Ai Development
+
+- **[How to ACTUALLY Use VFX in Roblox (Part 2) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUkxTaEEtNXhJWmZZS3doWDV4M0x3XzR5eEZBSlJVNlVBNjQ3dDJhVzhqbkw1VmVZMVNYR1hZRGdNSS1PSHdxZGpzbTVMVVVmLTI2aUxn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-18
+  - Feed excerpt: How to ACTUALLY Use VFX in Roblox (Part 2) YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[Guys today Im here with brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ueHZ6OHhDMzV6WGZndkRqRGdUNG5Fa19NMmtBZDNnYzY0TjFacTMwV09sNlU4WTdUcWp5cDlMbF93NlhjazQ0OGQ5bGxhWUxqZThYSDJ3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-20
+  - Feed excerpt: Guys today Im here with brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram
+- **[Today with Ben in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ETE1KR3ZpNnVHa3E4SXJUM0ROLTBrTkIxeUd1R1hOMHNWZmVCQWM1UGFjc3lhQldnZWFfNW1EVU5HZWUxVUV2elRtR1BEWUg0UzR1M1BB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-20
+  - Feed excerpt: Today with Ben in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram
+
 ## Roblox Updates
 
-- **[Feedback Wanted On My Fighting Game - Sever Engine](https://devforum.roblox.com/t/feedback-wanted-on-my-fighting-game-sever-engine/4998020)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Hello everyone. I recently published my first game Sever Engine- a FFA battleground/Combat Warriors type fighting game where kills lead to progression. However, my like ratio on the game is terrible, and I don’t know why. I have made improv
-- **[Wedge collision fix alters block parts and other non-wedge collisions, breaking high-level obbies](https://devforum.roblox.com/t/wedge-collision-fix-alters-block-parts-and-other-non-wedge-collisions-breaking-high-level-obbies/4997906)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: As of November 9, 2:44 PM, DFFlagSatPolyPolyContactEnabled2 was enabled, noticeably changing collisions with not just wedges, but all types of parts. Several affected techniques include but are not limited to: Lodging Uplodging Emote Clippi
-- **[Badge Descriptions do not respect Newlines on game's About Page](https://devforum.roblox.com/t/badge-descriptions-do-not-respect-newlines-on-games-about-page/4998037)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Most of my badges have a general description on the first line, and below it, I put a new line with a bulleted list of requirements and other features related to the badge. This works fine when viewing the badge on its own page, but it does
-- **[Can I make this better?](https://devforum.roblox.com/t/can-i-make-this-better/4998046)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Working on npcs doing real life things like gardening! Garden Can I make this better? Or maybe you guys have more ideas for npcs to do. 1 post - 1 participant Read full topic
-- **[Content Maturity Ratings for Avatar Items & Fallback Avatars](https://devforum.roblox.com/t/content-maturity-ratings-for-avatar-items-fallback-avatars/4997911)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: At the moment roblox have no age rating for UGC clothing and body’s and emotes and blood on clothing ! some clothing and avatar body types are not kid friendly and kids should have zero access to it. there is also some emotes that should no
-- **[Create Avatar Moments to Showcase and Sell Your Items](https://devforum.roblox.com/t/create-avatar-moments-to-showcase-and-sell-your-items/4997778)** · Roblox updates category (availability may vary) · 2026-11-20
-  - Feed excerpt: Key Takeaways Avatar Moments is rolling out for all eligible users to make and share avatar looks that are shoppable from their profile. We’re also gradually bringing Avatar Moments to the Moments tab, where users can discover and shop feat
-- **[Glass material no longer produce the unique refraction "distortion" effect](https://devforum.roblox.com/t/glass-material-no-longer-produce-the-unique-refraction-distortion-effect/4998003)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: the glass material is known for its distortion effect when the transparency is set to value greater than 3 with Highlight however as of right now this distortion just stopped working? I have no idea what happened but I wish this is an issue
-- **[Group Member Count Not Updating](https://devforum.roblox.com/t/group-member-count-not-updating/4997900)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: I was sorting through my ranks and roles on PC and I noticed I had more members in my group than the counter had tabulated. I counted how many were actually in the group (18) vs how many the group thinks are in (16). My group is https://www
-- **[Is there something wrong with my texture?](https://devforum.roblox.com/t/is-there-something-wrong-with-my-texture/4998048)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Hello, i have a problem with my texture, i want my texture to look like the MaterialVariant of the texture but it looks different. on the left, the MaterialVariant, and on the right, the Texture by using ROBLOX’s texture thingy, they both h
-- **[Make text rendering good](https://devforum.roblox.com/t/make-text-rendering-good/4997971)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: This is Montserrat at a few different sizes. Roblox text rendering has always been extraordinarily bad. It has never even been “okay”. It has always been bad. “Good” would be vectors. “Great” would be hinting. All I’m asking is for “Okay”. 
-- **[Please help: Roblox took my Ugly Princess Monster Squad group merch outfit off sale because I didn't have Roblox Plus](https://devforum.roblox.com/t/please-help-roblox-took-my-ugly-princess-monster-squad-group-merch-outfit-off-sale-because-i-didnt-have-roblox-plus/4997901)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: Hi everyone, and Roblox, I am writing this because Roblox took my Roblox group merch outfit off sale in the Catalog. I made this merch outfit specifically for my subscribers and fans, and it was taken off sale because I didn’t have Roblox P
-- **[Random Errors from AI Assistant during play testing or regular Studio usage](https://devforum.roblox.com/t/random-errors-from-ai-assistant-during-play-testing-or-regular-studio-usage/4997899)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: As I’ve been using Studio I noticed Assistant is triggering random errors which do not impact gameplay but are very distracting. They show up even if I am not using Assistant at all. I will provide more info in the private section as there 
-- **[Studio flashlight](https://devforum.roblox.com/t/studio-flashlight/4997956)** · Roblox Developer Forum latest · 2026-11-20
-  - Feed excerpt: only took me about a day to make it and hopefully works for anybody controls: Shift + G to toggle the light, thats it lmao Heres the plugin link also a preview as well 1 post - 1 participant Read full topic
-
-## Youtube
-
-- **[goodbye, candy canes. hello, robux. mini packs available now at target, safeway, and select stores.](https://www.youtube.com/shorts/ZypKFxngtAc)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-20
+- **[Studio MCP Server Updates: Video Capture, save_place, and submit_feedback](https://devforum.roblox.com/t/studio-mcp-server-updates-video-capture-saveplace-and-submitfeedback/4998177)** · Roblox updates category (availability may vary) · 2026-11-20
+  - Feed excerpt: Key Takeaways The Studio MCP Server has three new tools: screen_capture, save_place, and submit_feedback. These updates let your agent take more of a task from start to finish. It can check its own work in motion, save when it’s done, and t
+- **[Weekly Recap: November 16–20, 2026](https://devforum.roblox.com/t/weekly-recap-november-16%E2%80%9320-2026/4998199)** · Roblox updates category (availability may vary) · 2026-11-20
+  - Feed excerpt: Key Takeaways Free trials for passes are now available for creator opt-in ahead of the December 2 launch, while Avatar Moments is rolling out as a new way to share shoppable avatar looks. Web Play now uses WebGPU for sharper rendering, Anim
+- **[CoDev: free Luau challenges where your code actually runs against hidden tests](https://devforum.roblox.com/t/codev-free-luau-challenges-where-your-code-actually-runs-against-hidden-tests/4998391)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: Ello everyone! I’ve recently built a project called CoDev ( codev.synitx.dev ), a free place to prove your Luau skills with timed rounds. What is this project about? Theres 4 types of interviews/tasks which have a timer. Quizzes : 13 quizze
+- **[Flux - A reactive UI library for Luau](https://devforum.roblox.com/t/flux-a-reactive-ui-library-for-luau/4998408)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: Be lazy. Do more. Go fast. Flux is a reactive UI library for Luau. It’s strictly typed for accurate autocomplete, batches updates once per frame, and keeps syntax terse enough to read like plain Luau. Flux leans on Luau’s strict type checke
+- **[Account Reinstated, but Seven Group Ownership Permissions Were Never Restored](https://devforum.roblox.com/t/account-reinstated-but-seven-group-ownership-permissions-were-never-restored/4998347)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: Hello Roblox developers and community, I am looking for guidance regarding an unresolved issue with my Roblox account, acaba1806. My account was previously terminated, but Roblox subsequently reversed the termination and reinstated it. Howe
+- **[Account recovery: support AI loops users back to a reset page that cannot resolve their case, with no route to human support](https://devforum.roblox.com/t/account-recovery-support-ai-loops-users-back-to-a-reset-page-that-cannot-resolve-their-case-with-no-route-to-human-support/4998338)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: I lost access to an account that belongs to my business. The account has 2-Step Verification through an Authenticator app. I no longer have access to that authenticator and I no longer have my backup codes. I still have full access to the v
+- **[Glass Material Reflections no longer working](https://devforum.roblox.com/t/glass-material-reflections-no-longer-working/4998331)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: The glass material no longer reflects anything when the value is set over 3. Previously when glass was set to transparency over 3 with a highlight it made a reflection but no longer does anymore. Before: After: A private message is associat
+- **[Importing textures still not working](https://devforum.roblox.com/t/importing-textures-still-not-working/4998378)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: I want to reiterate this issue again, I can’t import texture, any normals, roughness, metallic map don’t get imported, color is fine even though it also throws in that error but it looks fine, when I check my development items it is there b
+- **[LASTSTAND – Looking for Developers to Test My Roblox FPS](https://devforum.roblox.com/t/laststand-%E2%80%93-looking-for-developers-to-test-my-roblox-fps/4998370)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: Hey everyone! I’m currently working on one of my newest projects, LASTSTAND , a competitive first-person shooter. I’m looking for fellow Roblox developers who would be interested in checking out the game, testing its currently available fea
+- **[Roblox Client Captures - Zero duration videos error and can't be deleted through the menu, without multi-select?](https://devforum.roblox.com/t/roblox-client-captures-zero-duration-videos-error-and-cant-be-deleted-through-the-menu-without-multi-select/4998341)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: Description When this issue happened The Block - Invalid value for enum VideoCaptureStartedResult It created a video with 0:00 duration. Maybe it was actually also just 0. Re-production Steps Join The Block Increase your Graphic Settings to
+- **[Roblox website occasionally freezes my entire computer when loading a new page](https://devforum.roblox.com/t/roblox-website-occasionally-freezes-my-entire-computer-when-loading-a-new-page/4998402)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: Occasionally when I load up a new page (no matter by heading to Roblox.com or clicking a redirect link to open a page such as a game page), my entire computer freezes for 5+ seconds as if it is doing some sort of extremely heavy calculation
+- **[The Block - Invalid value for enum VideoCaptureStartedResult](https://devforum.roblox.com/t/the-block-invalid-value-for-enum-videocapturestartedresult/4998333)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: Description When you start a Video Recording there’s a chance to run into this error. Re-production Steps Join The Block Press R Click on “Video” Now, this might or might not happen. I don’t know what went wrong. Expected Result Recording s
+- **[When registering a new Theme StyleSheet, it takes away derives linked to the main StyleSheets](https://devforum.roblox.com/t/when-registering-a-new-theme-stylesheet-it-takes-away-derives-linked-to-the-main-stylesheets/4998384)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: I have no clue how to explain this in a way that makes sense but when I just want to make a new theme it straight up takes away derives applied to my main stylesheet and I have to constantly untangle it. If you don’t understand what I mean,
+- **[\[FREE\] RoLibrary : Explore 100K+ Roblox Thumbnails and Discover Similar Designs \[Updated Daily\]](https://devforum.roblox.com/t/free-rolibrary-explore-100k-roblox-thumbnails-and-discover-similar-designs-updated-daily/4998373)** · Roblox Developer Forum latest · 2026-11-21
+  - Feed excerpt: RoLibrary is a free website that makes finding Roblox thumbnail and game icon inspiration easier! The library currently has over 100,000 thumbnails and 40,000 game icons , with new images added daily from charting Roblox games. I made this 
 
 ---
 
