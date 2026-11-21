@@ -16,7 +16,8 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 4 matched metadata records.
+**Collected media leads:** 5 matched metadata records.
+- [Who wants to try my Brockodile Treadmill 🐊 #StealanEgg #Roblox - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdmswQnJEcVE0NVVIWURsOTZjOUN6LVZsZVRWYmNoaXQ3MnpSa1dqSW9SX1pWaU83d2VNcEpSa3hEZXN4bzZJbmlob0JKbjNMZnM4MUtUalA4NGc0Z2EtMngwa2dLSmsxby1KaQ?oc=5) — indexed public mention — authorship NOT verified · 2026-11-21
 - [Guys today Im here with brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ueHZ6OHhDMzV6WGZndkRqRGdUNG5Fa19NMmtBZDNnYzY0TjFacTMwV09sNlU4WTdUcWp5cDlMbF93NlhjazQ0OGQ5bGxhWUxqZThYSDJ3?oc=5) — indexed public mention — authorship NOT verified · 2026-11-20
 - [Today in the Secret Admin in Steal an Egg with brockkodile #roblox #robloxfyp #usa #usafyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14OVBmUTZUUFU4NUFETGRpVjRFQTlMQlR2WGNBMjZiUzljZHhTWkxPVEVQTXIyNHhkS1hDclFaMFZwSVJqaU1pemhmbnNPUEJmTjhpY0R3?oc=5) — indexed public mention — authorship NOT verified · 2026-11-19
 - [Only Today with brockodile in Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XTnhkbUZLMjllTTVyQi1kaXhxUkhMZ251cm4wZDJNRF8xczBwQzZFTW94MFVmUUlrYkxhamFkeVZ1T25MYWtrekl1REptc0hJbDBaaFRn?oc=5) — indexed public mention — authorship NOT verified · 2026-11-19

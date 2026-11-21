@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "42573f5704222aa346880dbe8cbfbab179f1bc07",
+      "head": "a23352b27af917e55e165e4d42583580700d1fbf",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "dfb4bf9ff2a4e7f8a5af12ac401c97d28d4025dd",
+      "head": "26a5b52bb5d9f53bff6b4804214ec88deab78ce3",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.330",
@@ -129,11 +129,11 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "cecac8bf1bd30ba928ee7cfe53b953f9b25642ae",
-      "head_subject": "mlxrunner: add Inkling 2 Mini (#19799)",
+      "head": "2bd4d6aabdf4caa39e7095e201dcda4cc1a3a406",
+      "head_subject": "mlx: fuse Inkling residual mixing on Metal (#19808)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.16",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+      "release_tag": "v0.40.17",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
       "url": "https://github.com/ollama/ollama"
     }
   },

@@ -11,14 +11,14 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 ## Saved source coverage
 
 - devforum: 373
-- index-only: 27
-- reddit: 193
+- index-only: 30
+- reddit: 190
 - youtube: 6
 
 ## First-Session And Mobile
 
 - [\[OPEN\] Roblox UI/UX Designer | Front-Page Experience / 1B+ Visits](https://devforum.roblox.com/t/open-roblox-uiux-designer-front-page-experience-1b-visits/4996994) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Players keep leaving my game](https://www.reddit.com/r/robloxgamedev/comments/1xwjs7f/players_keep_leaving_my_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Stopping mobile joystick movement in my UI?](https://devforum.roblox.com/t/stopping-mobile-joystick-movement-in-my-ui/4998717) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Board Game And Turn Flow
 
@@ -31,8 +31,8 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## Economy And Income
 
-- [Experiments: Measure Impact with Custom and Rewarded Ad Earning Metrics](https://devforum.roblox.com/t/experiments-measure-impact-with-custom-and-rewarded-ad-earning-metrics/4988305) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Wild West Game Testing Feedback](https://devforum.roblox.com/t/wild-west-game-testing-feedback/4992916) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Looking for playtesters for my Roblox PVP game](https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Ui And Menus
 
@@ -46,8 +46,8 @@ Records processed: 600; unique posts: 599; fully reviewed: 0.
 
 ## World And Visual Design
 
+- [ACS Workbench: a plugin for setting up ACS 2.0.1 guns (looking for feedback)](https://devforum.roblox.com/t/acs-workbench-a-plugin-for-setting-up-acs-201-guns-looking-for-feedback/4998709) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Finally got some models! Feedback Welcome](https://www.reddit.com/r/ROBLOXStudio/comments/1xuxpu6/finally_got_some_models_feedback_welcome/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Any Tips Regarding the UI or the Lighting?](https://www.reddit.com/r/ROBLOXStudio/comments/1xwvyz1/any_tips_regarding_the_ui_or_the_lighting/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Genres And Successful Loops
 
