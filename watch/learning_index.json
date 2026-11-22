@@ -1,6 +1,6 @@
 {
   "records_read": 600,
-  "unique_posts": 599,
+  "unique_posts": 600,
   "reviewed_posts": 0,
   "posts": [
     {
@@ -483,17 +483,18 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4987824:1",
-      "url": "https://devforum.roblox.com/t/animator-pose-and-animate-r6-r15-rigs-with-ik-that-stays-where-you-put-it/4987824",
-      "title": "Animator: pose and animate R6 / R15 rigs with IK that stays where you put it",
+      "key": "devforum:5000007:1",
+      "url": "https://devforum.roblox.com/t/most-new-players-quit-in-the-first-2-minutes-of-my-farming-game-looking-for-playtesters-and-honest-feedback/5000007",
+      "title": "Most new players quit in the first 2 minutes of my farming game. Looking for playtesters and honest feedback",
       "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
+      "published": "2026-11-22",
       "kind": "devforum",
       "signals": [
-        "animation and audio",
-        "tools and performance"
+        "first-session and mobile",
+        "UI and menus",
+        "player feedback and marketing"
       ],
-      "score": 6,
+      "score": 7,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -515,20 +516,6 @@
       "url": "https://devforum.roblox.com/t/for-hire-2-years-of-experience-scripter-english-and-spanish/4988333",
       "title": "[FOR HIRE] 2 Years of Experience Scripter, English and Spanish",
       "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988432:1",
-      "url": "https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432",
-      "title": "[Studio Beta] Luau Modularity: export Values and Cyclic Requires",
-      "source": "roblox-devforum-updates",
       "published": "2026-11-12",
       "kind": "devforum",
       "signals": [
@@ -1086,32 +1073,6 @@
         "world and visual design"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987661:1",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-game-the-killstreak-frenzy/4987661",
-      "title": "Looking for feedback on my game: The Killstreak Frenzy",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987775:1",
-      "url": "https://devforum.roblox.com/t/how-to-use-luau-in-a-discord-or-md-code-block/4987775",
-      "title": "How to use Luau in a Discord (or .MD) code block",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2306,6 +2267,71 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5000017:1",
+      "url": "https://devforum.roblox.com/t/random-crash-when-switching-to-server-view/5000017",
+      "title": "Random Crash when switching to server view",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5000021:1",
+      "url": "https://devforum.roblox.com/t/expedited-review-stuck-on-final-review-in-progress-for-4-days-universe-10777389090/5000021",
+      "title": "Expedited review stuck on \"Final review in progress\" for 4+ days (Universe 10777389090)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5000206:1",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-amount-despite-really-high-ctr/5000206",
+      "title": "Extremely low plays amount despite really high CTR",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5000266:1",
+      "url": "https://devforum.roblox.com/t/need-feedback-for-music/5000266",
+      "title": "Need feedback for music",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5000372:1",
+      "url": "https://devforum.roblox.com/t/roblox-scripter-looking-for-opportunities-commissions/5000372",
+      "title": "Roblox Scripter Looking for Opportunities / Commissions",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xudwer",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xudwer/looking_for_feedback_on_my_boss_fight_game/",
       "title": "Looking for Feedback on my Boss Fight Game",
@@ -3088,6 +3114,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5000255:1",
+      "url": "https://devforum.roblox.com/t/calculating-the-camera-position-needed-to-fit-an-arraygroupfolder-of-parts-into-the-viewport/5000255",
+      "title": "Calculating the camera position needed to fit an array/group/folder of parts into the viewport",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5000342:1",
+      "url": "https://devforum.roblox.com/t/multiplayer-how/5000342",
+      "title": "Multiplayer how?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xu01av",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu01av/i_have_a_question/",
       "title": "i have a question.",
@@ -3255,32 +3309,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4987857:1",
-      "url": "https://devforum.roblox.com/t/violations-are-unhelpfully-vague-random-and-unforgiving/4987857",
-      "title": "Violations are unhelpfully vague, random and unforgiving",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987938:1",
-      "url": "https://devforum.roblox.com/t/is-reaching-the-hep-threshold-the-only-way-to-lift-the-16-restriction-or-does-it-lift-after-2-months/4987938",
-      "title": "Is reaching the HEP threshold the only way to lift the 16+ restriction, or does it lift after 2 months?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4988059:1",
       "url": "https://devforum.roblox.com/t/wood-realistic-orthodox-church-interior-showcase/4988059",
       "title": "Wood realistic orthodox church interior (Showcase)",
@@ -3315,19 +3343,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988308:1",
-      "url": "https://devforum.roblox.com/t/avatar-editor-unable-to-copy-link-for-bundles/4988308",
-      "title": "Avatar Editor: Unable to copy link for Bundles",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4204,19 +4219,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xued2k",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xued2k/ideas_for_learningorder_of_making_a_game/",
-      "title": "Ideas for learning/order of making a game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xufeje",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xufeje/a_screenshot_from_my_trollge_game/",
       "title": "A screenshot from my Trollge game",
@@ -4716,17 +4718,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4988236:1",
-      "url": "https://devforum.roblox.com/t/outdated-information-in-setting-up-vr-for-roblox-and-related-vr-support-articles/4988236",
-      "title": "Outdated information in \"Setting up VR for Roblox\" and related VR support articles",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4988260:1",
       "url": "https://devforum.roblox.com/t/policy-clarification-paid-access-sales-and-in-game-development-milestone-tracker/4988260",
       "title": "Policy Clarification: Paid Access Sales and In-Game Development Milestone Tracker",
@@ -4782,17 +4773,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4988533:1",
-      "url": "https://devforum.roblox.com/t/repeated-httperror-netfail-errors-when-opening-non-team-create-places/4988533",
-      "title": "Repeated HttpError: NetFail errors when opening non-team create places",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4988564:1",
       "url": "https://devforum.roblox.com/t/game-taken-down-appeals-emails-ignored/4988564",
       "title": "Game taken down, appeals emails ignored",
@@ -4829,17 +4809,6 @@
       "key": "devforum:4988653:1",
       "url": "https://devforum.roblox.com/t/following-list-wiped-13k-to-0-and-groups-remain-locked-after-account-un-termination/4988653",
       "title": "Following List Wiped (13K+ to 0) and Groups Remain Locked After Account Un-Termination",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988679:1",
-      "url": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly/4988679",
-      "title": "How can i fix this issue with my ragdoll falling very slowly",
       "source": "roblox-devforum-latest",
       "published": "2026-11-12",
       "kind": "devforum",
@@ -6248,6 +6217,50 @@
       "key": "devforum:4999947:1",
       "url": "https://devforum.roblox.com/t/game-trailer-keeps-getting-rejected/4999947",
       "title": "Game trailer keeps getting rejected",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4999985:1",
+      "url": "https://devforum.roblox.com/t/illegal-content-report-marked-as-content-removed-but-the-reported-image-remains-unmoderated/4999985",
+      "title": "Illegal Content Report Marked as \"Content Removed\", but the Reported Image Remains Unmoderated",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4999988:1",
+      "url": "https://devforum.roblox.com/t/new-content-ratings-dont-allow-unrealistic-heavy-blood-anymore/4999988",
+      "title": "New Content Ratings don't allow Unrealistic, Heavy blood anymore",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5000145:1",
+      "url": "https://devforum.roblox.com/t/willing-to-add-extra-weird-languages-to-my-roblox-game/5000145",
+      "title": "Willing to add extra \"weird\" languages to my roblox game",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5000341:1",
+      "url": "https://devforum.roblox.com/t/dynamic-head-problem-base-face-missing-an-eye-when-its-clearly-there-and-detecting-an-expression/5000341",
+      "title": "(Dynamic Head Problem) Base Face missing an eye, when its clearly there and detecting an expression",
       "source": "roblox-devforum-latest",
       "published": "2026-11-22",
       "kind": "devforum",

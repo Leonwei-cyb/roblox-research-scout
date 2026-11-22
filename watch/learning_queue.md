@@ -6,13 +6,13 @@ Active game: **UNKNOWN**. No game-specific tests are proposed.
 Every captured public lead was triaged and deduplicated; this is NOT every post
 on X, Instagram, TikTok or the wider internet. Inaccessible sources stay UNKNOWN.
 
-Records processed: 600; unique posts: 599; fully reviewed: 0.
+Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 385
+- devforum: 387
 - index-only: 36
-- reddit: 173
+- reddit: 172
 - youtube: 5
 
 ## First-Session And Mobile

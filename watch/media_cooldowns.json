@@ -7,10 +7,6 @@
     "reason": "The read operation timed out",
     "until": "2026-10-19T01:45:01.106551+00:00"
   },
-  "automation": {
-    "reason": "HTTP 429",
-    "until": "2026-11-22T12:31:48.019326+00:00"
-  },
   "reddit-claudeai": {
     "reason": "HTTP 429",
     "until": "2026-10-19T07:35:52.396551+00:00"
@@ -19,8 +15,8 @@
     "reason": "HTTP 429",
     "until": "2026-10-19T07:35:52.396551+00:00"
   },
-  "reddit-robloxstudio": {
+  "reddit-robloxdev": {
     "reason": "HTTP 429",
-    "until": "2026-11-22T12:31:48.019326+00:00"
+    "until": "2026-11-23T04:29:16.990976+00:00"
   }
 }

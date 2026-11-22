@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "6a6b23bf822b1405502491b2f83951eb447d66fa",
-      "head_subject": "Fix HTML injection in extension names (#9608)",
+      "head": "cf6a0a5c35f5eac33847a11f21441db96a37a596",
+      "head_subject": "docs: fix doubled words (#9609)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "2bd4d6aabdf4caa39e7095e201dcda4cc1a3a406",
-      "head_subject": "mlx: fuse Inkling residual mixing on Metal (#19808)",
+      "head": "318ee284aa3b5558de57efefff730ea33c4a9bef",
+      "head_subject": "mlxrunner: share tensor helpers and model setup across architectures (#19805)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.17",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
@@ -139,6 +139,7 @@
   },
   "seen": [
     "0neShot101/rbxdev-ls",
+    "AI-Atlaas/AI-Atlaas",
     "AIshihzong/awesome-reverse-engineer-anything",
     "AallamR/RobloxForge-Intelligence",
     "Aaron617/agent-arXiv-daily",

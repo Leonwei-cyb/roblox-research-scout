@@ -1,17 +1,5 @@
 {
   "seen": [
-    "142d5345beac3794f49dee11",
-    "bcab75c5a308ae0836034c45",
-    "b6da21740963c17e33cd3373",
-    "1036f07a778e2763c912b03c",
-    "338427a39efb708402288ded",
-    "eece5d1f43c6b3093c19ab2f",
-    "a7d7acff904d84cb989a21bc",
-    "a0d630cb08f3e56d22364527",
-    "18e156d08617f6a047600b49",
-    "b4524f8876b1409aa742c9a4",
-    "e1c7fb7439cdcb12d463f376",
-    "76b533357653babe79535b8e",
     "47f444fa5e6ef162b829b96e",
     "d6297ba923289d015d7e5baa",
     "93c0185591748495095d3ad8",
@@ -3999,9 +3987,57 @@
     "58d58ea436a78683e18a0158",
     "6f084fdff836dfbeea68abe5",
     "a0b0916f004c47807d76fbbc",
-    "87781af0ab13f7f0d0aae814"
+    "87781af0ab13f7f0d0aae814",
+    "547a8a2daa5755c10b173ef5",
+    "e7b57208e8eaec6cab6e8187",
+    "a736085d8dd87e93e0295459",
+    "e7095e0efc4764a29c6dce17",
+    "fd0ef6d919ccb0265242d097",
+    "d5d8d83dd18abc6b190d51f5",
+    "44b5625b9281da2664753a13",
+    "9302368f2bb7ceed4070d1bb",
+    "df75b98c2e104124fdd897c9",
+    "af0519d3aee012753450ffa3",
+    "72eaa53769f7072b450b35ce",
+    "2bde2569daf69ee42bf1d83d"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Calculating the camera position needed to fit an array/group/folder of parts into the viewport",
+      "url": "https://devforum.roblox.com/t/calculating-the-camera-position-needed-to-fit-an-arraygroupfolder-of-parts-into-the-viewport/5000255",
+      "published": "2026-11-22",
+      "excerpt": "So you know how pressing F in the studio interface while selecting something will move the camera towards that model? I want something like that, in the same way in that it allows the entire thing, or as much of it as possible, to be visible at once. Assume the camera’s rotation is already set and o",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/calculating-the-camera-position-needed-to-fit-an-arraygroupfolder-of-parts-into-the-viewport/5000255.rss",
+      "id": "fd0ef6d919ccb0265242d097"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Multiplayer how?",
+      "url": "https://devforum.roblox.com/t/multiplayer-how/5000342",
+      "published": "2026-11-22",
+      "excerpt": "You know how multiplayer games rely on multiple players playing a game? How would this be achieved cos when you first publish a game, not many people are going to be playing the game at the same time so they’ll just leave. Also, I’m not too sure if this is the right place to post this. 5 posts - 2 p",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/multiplayer-how/5000342.rss",
+      "id": "e7b57208e8eaec6cab6e8187"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Need feedback for music",
+      "url": "https://devforum.roblox.com/t/need-feedback-for-music/5000266",
+      "published": "2026-11-22",
+      "excerpt": "x.com Bob (@Bobdatuff) on X @Bobdatuff @MymanJordann @indgvc @onilik3 @matthew_indigo i found ziss 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-feedback-for-music/5000266.rss",
+      "id": "e7095e0efc4764a29c6dce17"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -4018,6 +4054,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Random Crash when switching to server view",
+      "url": "https://devforum.roblox.com/t/random-crash-when-switching-to-server-view/5000017",
+      "published": "2026-11-22",
+      "excerpt": "Sometimes, switching to server view crashes the game. No idea what causes this, or even the specific repo case as this seems to be quite random. A private message is associated with this bug report 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/random-crash-when-switching-to-server-view/5000017.rss",
+      "id": "df75b98c2e104124fdd897c9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Extremely low plays amount despite really high CTR",
+      "url": "https://devforum.roblox.com/t/extremely-low-plays-amount-despite-really-high-ctr/5000206",
+      "published": "2026-11-22",
+      "excerpt": "So my game finally got the ‘All Ages’ rating, and I thought it was open to everyone. I didn’t know about the final review, so I started running ads early. Turns out it was still under final review, and my ‘Plays’ ad was getting clicks with zero plays because of it. Do you think that’s the case, or d",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/extremely-low-plays-amount-despite-really-high-ctr/5000206.rss",
+      "id": "d5d8d83dd18abc6b190d51f5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How do you all handle Networking in your Roblox games?",
       "url": "https://devforum.roblox.com/t/how-do-you-all-handle-networking-in-your-roblox-games/4999772",
       "published": "2026-11-22",
@@ -4025,6 +4085,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-you-all-handle-networking-in-your-roblox-games/4999772.rss",
       "id": "c36f77a2f74645daa8bbdea8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Most new players quit in the first 2 minutes of my farming game. Looking for playtesters and honest feedback",
+      "url": "https://devforum.roblox.com/t/most-new-players-quit-in-the-first-2-minutes-of-my-farming-game-looking-for-playtesters-and-honest-feedback/5000007",
+      "published": "2026-11-22",
+      "excerpt": "Hi everyone, I’ve been working on Rose’s Harvest , a cozy farming and shop game. You take over an old farm on a hill, harvest crops, run a stall for customers, and slowly learn the story of the farm’s previous owners, Joe and Rose. The onboarding funnel shows that most players leave very early, and ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/most-new-players-quit-in-the-first-2-minutes-of-my-farming-game-looking-for-playtesters-and-honest-feedback/5000007.rss",
+      "id": "af0519d3aee012753450ffa3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "(Dynamic Head Problem) Base Face missing an eye, when its clearly there and detecting an expression",
+      "url": "https://devforum.roblox.com/t/dynamic-head-problem-base-face-missing-an-eye-when-its-clearly-there-and-detecting-an-expression/5000341",
+      "published": "2026-11-22",
+      "excerpt": "I’ve been having issues with Dynamic Heads lately, especially with the new validation requirements. There seem to be several problems with the facial feature detection. First of all, my dynamic head clearly has eyes, but the validation system keeps giving me an error saying that an eye is missing. W",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/dynamic-head-problem-base-face-missing-an-eye-when-its-clearly-there-and-detecting-an-expression/5000341.rss",
+      "id": "a736085d8dd87e93e0295459"
     },
     {
       "source": "x-ui",
@@ -4037,6 +4121,18 @@
       "creator": "",
       "publisher": "https://x.com",
       "id": "a0b0916f004c47807d76fbbc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Expedited review stuck on \"Final review in progress\" for 4+ days (Universe 10777389090)",
+      "url": "https://devforum.roblox.com/t/expedited-review-stuck-on-final-review-in-progress-for-4-days-universe-10777389090/5000021",
+      "published": "2026-11-22",
+      "excerpt": "I paid the expedited review fee (50,000 Robux, “Roblox Select”) for Tank Evolution on Nov 18, 2026, 12:43 AM. The Manage audience page says the final review can take up to 48 hours, but it has now been over 4 days and it still shows: “Final review in progress. We’re confirming your game is appropria",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/expedited-review-stuck-on-final-review-in-progress-for-4-days-universe-10777389090/5000021.rss",
+      "id": "9302368f2bb7ceed4070d1bb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4061,6 +4157,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-beautiful-murderer-feedback-and-opinions-needed/4999874.rss",
       "id": "7e920afab22677b4c2042743"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "New Content Ratings don't allow Unrealistic, Heavy blood anymore",
+      "url": "https://devforum.roblox.com/t/new-content-ratings-dont-allow-unrealistic-heavy-blood-anymore/4999988",
+      "published": "2026-11-22",
+      "excerpt": "The new Content Ratings displays a Community Standards warning whenever I select “A lot…” for blood. Steps to reproduce Open the new Content Ratings Select all of these like in the video: Select “A medium amount…” of blood no warning Change the blood back to “A lot…” warning appears Selecting “A lot",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/new-content-ratings-dont-allow-unrealistic-heavy-blood-anymore/4999988.rss",
+      "id": "72eaa53769f7072b450b35ce"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4114,6 +4222,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Roblox Scripter Looking for Opportunities / Commissions",
+      "url": "https://devforum.roblox.com/t/roblox-scripter-looking-for-opportunities-commissions/5000372",
+      "published": "2026-11-22",
+      "excerpt": "About Me Hi there! I’m a Roblox scripter with approximately 2 years of experience, and I’m currently looking for opportunities to work with a development team or contribute to Roblox projects. I’m particularly interested in collaborating with other developers, gaining experience working in a team en",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-scripter-looking-for-opportunities-commissions/5000372.rss",
+      "id": "547a8a2daa5755c10b173ef5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Roblox expedited review taking much longer than 48 HRS",
       "url": "https://devforum.roblox.com/t/roblox-expedited-review-taking-much-longer-than-48-hrs/4999744",
       "published": "2026-11-22",
@@ -4121,6 +4241,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-expedited-review-taking-much-longer-than-48-hrs/4999744.rss",
       "id": "4687fc7297592bc59ad05520"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Willing to add extra \"weird\" languages to my roblox game",
+      "url": "https://devforum.roblox.com/t/willing-to-add-extra-weird-languages-to-my-roblox-game/5000145",
+      "published": "2026-11-22",
+      "excerpt": "I wasn’t really sure in which section to ask it but for example, I wanted to add funny languages which are sometimes shorter to use to say the same thing and I was wondering if Roblox allows “Morse”, “Emojis”, “Hacker” languages. When I say Hacker languages it’s replacing some letters by numbers Hel",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/willing-to-add-extra-weird-languages-to-my-roblox-game/5000145.rss",
+      "id": "44b5625b9281da2664753a13"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Illegal Content Report Marked as \"Content Removed\", but the Reported Image Remains Unmoderated",
+      "url": "https://devforum.roblox.com/t/illegal-content-report-marked-as-content-removed-but-the-reported-image-remains-unmoderated/4999985",
+      "published": "2026-11-22",
+      "excerpt": "I am experiencing an issue with the Illegal Content Report system where a report is marked as “Content Removed”, but the reported image remains unmoderated and accessible on the website. Initially, I submitted an illegal content report for the image linked below . Roblox reviewed the report and remo",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/illegal-content-report-marked-as-content-removed-but-the-reported-image-remains-unmoderated/4999985.rss",
+      "id": "2bde2569daf69ee42bf1d83d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10880,149 +11024,6 @@
       "excerpt": "hey everyone, i’ve been going back and forth on this for way too long so i figured i’d just ask you guys lol i want to start a new roblox game (just me working on it) and i’ve got it down to three ideas: +1 balloon per second: you get a new balloon every second and slowly float up. the higher you go",
       "creator": "/u/EntertainerBrave4185 https://www.reddit.com/user/EntertainerBrave4185",
       "id": "9416799de0fb390ec679ac74"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How to use Luau in a Discord (or .MD) code block",
-      "url": "https://devforum.roblox.com/t/how-to-use-luau-in-a-discord-or-md-code-block/4987775",
-      "published": "2026-11-12",
-      "excerpt": "I noticed that Discord seems to have recently added support for Luau code block syntax highlighting, even though if you search it on Google it says nothing about it. This includes types, continue, string interpolation, and more. (Note: does NOT contain const as of now) To do this simply write this o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-to-use-luau-in-a-discord-or-md-code-block/4987775.rss",
-      "id": "841a449ab04a5212c72b7af7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Animator: pose and animate R6 / R15 rigs with IK that stays where you put it",
-      "url": "https://devforum.roblox.com/t/animator-pose-and-animate-r6-r15-rigs-with-ik-that-stays-where-you-put-it/4987824",
-      "published": "2026-11-12",
-      "excerpt": "Hey everyone! I made an animation plugin while working on my own game, and I’m giving it away for free to help the community. :3 The thing I wanted most was IK that actually stays where I put it : feet that stay planted, a hand that stays on a two-handed sword, and a sword tip that stays on the grou",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/animator-pose-and-animate-r6-r15-rigs-with-ik-that-stays-where-you-put-it/4987824.rss",
-      "id": "8142e1c39d07254101cd0678"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for feedback on my game: The Killstreak Frenzy",
-      "url": "https://devforum.roblox.com/t/looking-for-feedback-on-my-game-the-killstreak-frenzy/4987661",
-      "published": "2026-11-12",
-      "excerpt": "Allow me to explain what you do in this game. For starters, it takes huge inspiration on the concept of Killstreak from Slap Battles, and turns it into a 10 minute, competitive, round-based game. Your objective is to get as many kills as you can during rounds, while avoiding other players. You can a",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-feedback-on-my-game-the-killstreak-frenzy/4987661.rss",
-      "id": "7f14f428c03595108339c16a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Repeated HttpError: NetFail errors when opening non-team create places",
-      "url": "https://devforum.roblox.com/t/repeated-httperror-netfail-errors-when-opening-non-team-create-places/4988533",
-      "published": "2026-11-12",
-      "excerpt": "Ever since about a month ago, I’ve occasionally started encountering HttpError: Netfail errors when trying to open non-team-create versions of Car Crushers 2. I thought it was just a temporary occurrence but it’s still going on today. Whenever this happens once, it usually keeps happening repeatedly",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/repeated-httperror-netfail-errors-when-opening-non-team-create-places/4988533.rss",
-      "id": "7c9b47ad350f38997ce126df"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Violations are unhelpfully vague, random and unforgiving",
-      "url": "https://devforum.roblox.com/t/violations-are-unhelpfully-vague-random-and-unforgiving/4987857",
-      "published": "2026-11-12",
-      "excerpt": "This post talks about specific issues, but the goal is to bring light to current UI and transparency issues with the violations system and encourage fixes and changes to be made for all developers. Can’t tell if this should be a bug report (this is broken) or a feature request (this needs to change)",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/violations-are-unhelpfully-vague-random-and-unforgiving/4987857.rss",
-      "id": "7c226bb530c5739ee8940415"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Avatar Editor: Unable to copy link for Bundles",
-      "url": "https://devforum.roblox.com/t/avatar-editor-unable-to-copy-link-for-bundles/4988308",
-      "published": "2026-11-12",
-      "excerpt": "This has been broken for years at this point and I just assumed it was already reported or would’ve been fixed by now but when I right click on a bundle on my avatar editor page I am unable to copy link to the item. Item link: Mini Kawaii Boba Cat Visual Aids: Expected behavior I should be able to r",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/avatar-editor-unable-to-copy-link-for-bundles/4988308.rss",
-      "id": "6fb4d50cefb7134f5d762b82"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "[Studio Beta] Luau Modularity: export Values and Cyclic Requires",
-      "url": "https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432",
-      "published": "2026-11-12",
-      "excerpt": "Hi Creators, We’re introducing two new Luau features in Studio Beta: exported values and cyclic requires! Exported values let you export variables and functions directly from a module, without manually building and returning a table. Cyclic requires allow modules to mutually depend on each other, ma",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-beta-luau-modularity-export-values-and-cyclic-requires/4988432.rss",
-      "id": "6f0472de16203cdfb6627550"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Is reaching the HEP threshold the only way to lift the 16+ restriction, or does it lift after 2 months?",
-      "url": "https://devforum.roblox.com/t/is-reaching-the-hep-threshold-the-only-way-to-lift-the-16-restriction-or-does-it-lift-after-2-months/4987938",
-      "published": "2026-11-12",
-      "excerpt": "Hi everyone, I’m a solo developer (Valhalla Titan Studios), and I’d really appreciate some clarification from the team in charge of content maturity and age access. My experience Sunset Haven has the “Moderate” maturity label and is currently available only to players 16+ and trusted friends. It was",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/is-reaching-the-hep-threshold-the-only-way-to-lift-the-16-restriction-or-does-it-lift-after-2-months/4987938.rss",
-      "id": "6dfa3f5b6e5c634186379bd7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Outdated information in \"Setting up VR for Roblox\" and related VR support articles",
-      "url": "https://devforum.roblox.com/t/outdated-information-in-setting-up-vr-for-roblox-and-related-vr-support-articles/4988236",
-      "published": "2026-11-12",
-      "excerpt": "I would like to report some outdated information in Roblox’s official VR support documentation, particularly the article “ Setting up VR for Roblox. ” While reviewing the article, I noticed that several sections appear to have not been updated for many years. Some instructions, screenshots and compa",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/outdated-information-in-setting-up-vr-for-roblox-and-related-vr-support-articles/4988236.rss",
-      "id": "6cad98ec3e1b666c83624501"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How can i fix this issue with my ragdoll falling very slowly",
-      "url": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly/4988679",
-      "published": "2026-11-12",
-      "excerpt": "heres whats happening in my ragdoll solutions ive been trying to do is make the base parts in the ragdoll ownership nil, making the Root part massless when the ragdoll is cloned, making workspace physicssteppingmethod to adaptive, none of these helped my issue and also my place is a big open world g",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly/4988679.rss",
-      "id": "6b96098a185155aea4066169"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Ideas for learning/order of making a game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xued2k/ideas_for_learningorder_of_making_a_game/",
-      "published": "2026-11-12",
-      "excerpt": "I haven't ever made a game that's without only free models. I want to start making a FNAF style Roblox game (without AI) Where do I start on learning how to make a game? Do I start with learning how to code, use blender, making/finding decent textures, making the Map or writing down the voice lines/",
-      "creator": "/u/Krispynegro https://www.reddit.com/user/Krispynegro",
-      "id": "6b0af1ba345b5437ece29f12"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "How can i fix this issue with my ragdoll falling very slowly2",
-      "url": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly2/4988679",
-      "published": "2026-11-12",
-      "excerpt": "heres whats happening in my ragdoll solutions ive been trying to do is make the base parts in the ragdoll ownership nil, making the Root part massless when the ragdoll is cloned, making workspace physicssteppingmethod to adaptive, none of these helped my issue and also my place is a big open world g",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/how-can-i-fix-this-issue-with-my-ragdoll-falling-very-slowly2/4988679.rss",
-      "id": "6a55feea6148888940369321"
     }
   ]
 }
