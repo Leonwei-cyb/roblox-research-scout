@@ -1,17 +1,5 @@
 {
   "seen": [
-    "47f444fa5e6ef162b829b96e",
-    "d6297ba923289d015d7e5baa",
-    "93c0185591748495095d3ad8",
-    "d850b84d213863b674036401",
-    "af80a1aad48e4d07ebf3b4f6",
-    "b793d747dc774e53638538f9",
-    "9e115bf38193c64ece583bd6",
-    "8807e6241537359c71b2cd0d",
-    "d7b7c4fe6c30c7b8c153ef21",
-    "ebd55f5c49b0330375e4f166",
-    "65a13265e84f944c7c81550c",
-    "8505a14a0c5d1b5daa4768de",
     "47f0476b58db0d27ccaf27b7",
     "3aab0ffee6ab47ed0c40f687",
     "40d410a3b4c1e9fde663c4d0",
@@ -3999,7 +3987,19 @@
     "df75b98c2e104124fdd897c9",
     "af0519d3aee012753450ffa3",
     "72eaa53769f7072b450b35ce",
-    "2bde2569daf69ee42bf1d83d"
+    "2bde2569daf69ee42bf1d83d",
+    "a6d2d92e732241b8585c94bf",
+    "df1a1043e976d41f43f4014e",
+    "f1f7a2ae7751a05786cb2a41",
+    "6405047591fcf54cb88ba55b",
+    "65989bdb983403e3df952074",
+    "d09de0465eeadc077719a2c1",
+    "55da2f39ae30355b7f7ca49c",
+    "c336f7fcb2f6a46d9eecb5af",
+    "89818f0bdcce8d78517f9e2d",
+    "e3154679aa0ce845cdcc9bd6",
+    "1dcaa3b98d1db07483dd56cb",
+    "85fefd22129a1b54db3fad53"
   ],
   "items": [
     {
@@ -4013,6 +4013,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/calculating-the-camera-position-needed-to-fit-an-arraygroupfolder-of-parts-into-the-viewport/5000255.rss",
       "id": "fd0ef6d919ccb0265242d097"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Remote Events using more data than they should",
+      "url": "https://devforum.roblox.com/t/remote-events-using-more-data-than-they-should/5000673",
+      "published": "2026-11-22",
+      "excerpt": "I have a reported send rate of 60 KBP/s in a live game, even though my payload is 20 KBP/s. It seems I am sending out 60 KBP/s in total (overall), while the stats actually recognize my Outgoing Data as 20KBP/s, which is 40 kilobytes of overhead per second. This is very strange to me. This happens in",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/remote-events-using-more-data-than-they-should/5000673.rss",
+      "id": "f1f7a2ae7751a05786cb2a41"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4054,6 +4066,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "My game has terrible stats and im not sure why",
+      "url": "https://devforum.roblox.com/t/my-game-has-terrible-stats-and-im-not-sure-why/5000499",
+      "published": "2026-11-22",
+      "excerpt": "Heres my game: The Settlement | Play on Roblox Its playtime, retention, and monetization stats are extremly bad. Like the worst I’ve ever seen in my games. It was inspired on a kind-of old game called breaking point which was very succesful. I feel like the game visuals and gameplay are fun. I was s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-game-has-terrible-stats-and-im-not-sure-why/5000499.rss",
+      "id": "e3154679aa0ce845cdcc9bd6"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Random Crash when switching to server view",
       "url": "https://devforum.roblox.com/t/random-crash-when-switching-to-server-view/5000017",
       "published": "2026-11-22",
@@ -4061,6 +4085,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/random-crash-when-switching-to-server-view/5000017.rss",
       "id": "df75b98c2e104124fdd897c9"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Home Recommendation doesn't push my thumbnails",
+      "url": "https://devforum.roblox.com/t/home-recommendation-doesnt-push-my-thumbnails/5000693",
+      "published": "2026-11-22",
+      "excerpt": "Hello. I wanted to learn more about if this is a platform bug or I’m doing something wrong. We pushed ads for a long time while in Alpha to test our game, we got about 15K plays so far. We handled the engagement goal too, with 250 HEP limit. We turned on Home Recommendations back in November 19th bu",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/home-recommendation-doesnt-push-my-thumbnails/5000693.rss",
+      "id": "df1a1043e976d41f43f4014e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4078,6 +4114,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "How should I structure a scalable, complex combat system?",
+      "url": "https://devforum.roblox.com/t/how-should-i-structure-a-scalable-complex-combat-system/5000613",
+      "published": "2026-11-22",
+      "excerpt": "Hello! I’m curious how you’d structure a combat system similar to the one in GHOUL RE . Here’s a video of the combat if you’d rather not play the game: Winning A Tournament With No Kagune | Ghoul Re I’m looking to build a combat system with mechanics such as perfect blocking, block-breaking crits, a",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-should-i-structure-a-scalable-complex-combat-system/5000613.rss",
+      "id": "d09de0465eeadc077719a2c1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "How do you all handle Networking in your Roblox games?",
       "url": "https://devforum.roblox.com/t/how-do-you-all-handle-networking-in-your-roblox-games/4999772",
       "published": "2026-11-22",
@@ -4085,6 +4133,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-do-you-all-handle-networking-in-your-roblox-games/4999772.rss",
       "id": "c36f77a2f74645daa8bbdea8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Account Location seems to be improperly applied in some cases",
+      "url": "https://devforum.roblox.com/t/account-location-seems-to-be-improperly-applied-in-some-cases/5000575",
+      "published": "2026-11-22",
+      "excerpt": "I have an alternate account I created ~10 years ago that I hadn’t logged into for around that long, and I log in for the first time in ages and it has a notification every few days from the last 2-3 months saying the account region has been updated, and it thinks the region is in Brazil (I live in t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/account-location-seems-to-be-improperly-applied-in-some-cases/5000575.rss",
+      "id": "c336f7fcb2f6a46d9eecb5af"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4109,6 +4169,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/dynamic-head-problem-base-face-missing-an-eye-when-its-clearly-there-and-detecting-an-expression/5000341.rss",
       "id": "a736085d8dd87e93e0295459"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "FireAllClients isn't working",
+      "url": "https://devforum.roblox.com/t/fireallclients-isnt-working/5000697",
+      "published": "2026-11-22",
+      "excerpt": "I’m trying to make a door script, with an attribute being switched on and off via server, and that is supposed to fire a “FireAllClients()” and make the door open from the client but it doesn’t seem to be firing it at all? I have the remote parented to the door model because I’d rather not have 30 u",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/fireallclients-isnt-working/5000697.rss",
+      "id": "a6d2d92e732241b8585c94bf"
     },
     {
       "source": "x-ui",
@@ -4145,6 +4217,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/hiring-uiux-designer-for-football-x-madden-inspired-sports-ui/4999594.rss",
       "id": "8b6ffa03bee0bcd6da76d86b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Website CPU Throttling",
+      "url": "https://devforum.roblox.com/t/website-cpu-throttling/5000537",
+      "published": "2026-11-22",
+      "excerpt": "When going to Roblox which is the main link to create a roblox account, requests in the background run which shoots the CPU usage up to 100% and makes your computer very unusable, this has also been complained on other parts of the website aswell but I was only able to produce the issue here. Here i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/website-cpu-throttling/5000537.rss",
+      "id": "89818f0bdcce8d78517f9e2d"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4198,6 +4282,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Revert back the non clamped IOR levels on the glass material",
+      "url": "https://devforum.roblox.com/t/revert-back-the-non-clamped-ior-levels-on-the-glass-material/5000634",
+      "published": "2026-11-22",
+      "excerpt": "Self Explanatory. There was no reason to clamp them. people loved how it looked before now it’s just this. Expected behavior when y’all make changes i expect that y’all think about the people that also want to keep the old stuff instead of imposing things onto your users. 1 post - 1 participant Read",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/revert-back-the-non-clamped-ior-levels-on-the-glass-material/5000634.rss",
+      "id": "65989bdb983403e3df952074"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Network & Device-Aware Anti-Cheat Proposal (Separating Lag from Exploits",
+      "url": "https://devforum.roblox.com/t/network-device-aware-anti-cheat-proposal-separating-lag-from-exploits/5000660",
+      "published": "2026-11-22",
+      "excerpt": "False bans happen when anti-cheat systems treat network lag or low FPS the same way as scripts. To keep games fair without letting exploiters hide behind bad connections, systems should evaluate connection quality, device performance, and server-side evidence together: ​Green Status (Low Ping / Stab",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/network-device-aware-anti-cheat-proposal-separating-lag-from-exploits/5000660.rss",
+      "id": "6405047591fcf54cb88ba55b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Editing script in package with Drafts turned off bugs the script editor",
       "url": "https://devforum.roblox.com/t/editing-script-in-package-with-drafts-turned-off-bugs-the-script-editor/4999714",
       "published": "2026-11-22",
@@ -4217,6 +4325,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/for-hire-rorutop-gameplay-systems-programmer-luau-roblox-ts-ex-tech-lead-5-yrs/4999842.rss",
       "id": "586bb4e657bfce0b58361cd1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My new soccer game just released! I'd like some critique",
+      "url": "https://devforum.roblox.com/t/my-new-soccer-game-just-released-id-like-some-critique/5000607",
+      "published": "2026-11-22",
+      "excerpt": "**Me and my small team of developers have released our first project under our group. It’s called “Flow Soccer” and is a touch soccer inspired game with cool effects, more polished mechanics, progression and customizability, and more! I am looking for feedback on a few parts of the game as this is t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-new-soccer-game-just-released-id-like-some-critique/5000607.rss",
+      "id": "55da2f39ae30355b7f7ca49c"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4255,6 +4375,18 @@
       "id": "44b5625b9281da2664753a13"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk01Tk1Qc2VreUR3UVFMeG5qQkllbDItNUtXbzA5SGF3Nk50c0VQc3BDSXVhd2FZckh4emItTURMaVlacURwNHlMM1FMTS03c3RTeVFR?oc=5",
+      "published": "2026-11-22",
+      "excerpt": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "3d82ac7f030b8e864e0e4e33"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4289,6 +4421,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/false-positive-terrorismextremism-moderation-on-classic-asset-triggering-account-suspension-and-devex-block/4999906.rss",
       "id": "25edf5929147ef1a1fadff56"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Many new players leave my storm chasing game before the first storm ends. Looking for playtesters and honest feedback",
+      "url": "https://devforum.roblox.com/t/many-new-players-leave-my-storm-chasing-game-before-the-first-storm-ends-looking-for-playtesters-and-honest-feedback/5000460",
+      "published": "2026-11-22",
+      "excerpt": "Hi everyone, I’ve been working on Severe Weather Simulation: Sequel, a storm chasing game. You watch tornadoes and windstorms form, take shelter or ride them out in armored vehicles, place weather probes that pay you for surviving, and slowly save up for bigger vehicles. My onboarding funnel shows t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/many-new-players-leave-my-storm-chasing-game-before-the-first-storm-ends-looking-for-playtesters-and-honest-feedback/5000460.rss",
+      "id": "1dcaa3b98d1db07483dd56cb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4543,6 +4687,18 @@
       "id": "8ccc5ac8266cb5203cab4d96"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "The Rojo + Claude Setup Pros Use for Roblox Game Dev - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80QnU3S3d4RWxwekNlb3NlbTN2b0hKNEtGLVp1cVVpYktGODFYYWV1eWhQWVFtVG9Bc3J4a0VQUV9QdFRtNGYzOVY0MzF4V3FwZzd0X1p3?oc=5",
+      "published": "2026-11-21",
+      "excerpt": "The Rojo + Claude Setup Pros Use for Roblox Game Dev YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "85fefd22129a1b54db3fad53"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4721,18 +4877,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/roblox-client-captures-zero-duration-videos-error-and-cant-be-deleted-through-the-menu-without-multi-select/4998341.rss",
       "id": "3d91573dbe4118ed9522382c"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk01Tk1Qc2VreUR3UVFMeG5qQkllbDItNUtXbzA5SGF3Nk50c0VQc3BDSXVhd2FZckh4emItTURMaVlacURwNHlMM1FMTS03c3RTeVFR?oc=5",
-      "published": "2026-11-21",
-      "excerpt": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "3d82ac7f030b8e864e0e4e33"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10883,147 +11027,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/looking-for-programmers/4987826.rss",
       "id": "aa417e21f12c097dabd9f482"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Wood realistic orthodox church interior (Showcase)",
-      "url": "https://devforum.roblox.com/t/wood-realistic-orthodox-church-interior-showcase/4988059",
-      "published": "2026-11-12",
-      "excerpt": "-The build is not fully done there are things that are missing -The build was made in nearly 2 days -If yall have any tips on how i can improve the build feel free to type it 5 posts - 3 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/wood-realistic-orthodox-church-interior-showcase/4988059.rss",
-      "id": "aa1b9f65b928eed2a0fab792"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Do text signs and decal ID pictures count as \"Media sharing\" in the questionnaire?",
-      "url": "https://devforum.roblox.com/t/do-text-signs-and-decal-id-pictures-count-as-media-sharing-in-the-questionnaire/4988063",
-      "published": "2026-11-12",
-      "excerpt": "Hi all, I’m updating a building/tycoon game that’s currently rated Minimal and available in Kids & Select . Before I add two very common building-game features, I want to answer the Content Ratings questionnaire correctly and understand what it would mean for younger players. The features Text signs",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/do-text-signs-and-decal-id-pictures-count-as-media-sharing-in-the-questionnaire/4988063.rss",
-      "id": "a9ef8a15d07bdfd5f3a81741"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Saludos a Todos y Todas los Creadores de la Comunidad, me encantaria ese Feedback del Juego cualquier critica es positiva para ayudarme a mejorar",
-      "url": "https://devforum.roblox.com/t/saludos-a-todos-y-todas-los-creadores-de-la-comunidad-me-encantaria-ese-feedback-del-juego-cualquier-critica-es-positiva-para-ayudarme-a-mejorar/4988431",
-      "published": "2026-11-12",
-      "excerpt": "RIOTS (Disturbios): El Pulso de la Calle Dado que en Europa y gran parte de Latinoamérica se vive una época de tensión social sin precedentes, me he animado a crear este juego inspirado en estos escenarios. Las calles se han convertido en el epicentro de una batalla campal constante. ¿Estarás del la",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/saludos-a-todos-y-todas-los-creadores-de-la-comunidad-me-encantaria-ese-feedback-del-juego-cualquier-critica-es-positiva-para-ayudarme-a-mejorar/4988431.rss",
-      "id": "a956dbb4836792e3717ee4bd"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "is this bannable",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xu2r84/is_this_bannable/",
-      "published": "2026-11-12",
-      "excerpt": "submitted by /u/Powerful_Error7535 [link] [comments]",
-      "creator": "/u/Powerful_Error7535 https://www.reddit.com/user/Powerful_Error7535",
-      "id": "a956762a6d2606faa6e4ad45"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "No concurrent plays",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xulpn4/no_concurrent_plays/",
-      "published": "2026-11-12",
-      "excerpt": "So i'm running 100$/day plays campaign and 100$/day engagement campaign but only get like 4-6 ccu. I tested these ads for 4 days on lower budget and cpc is above 2.5% but cpp is super high, especially on engagement campaign now almost 2.5$. Should i just call it a flop and move to next game? submitt",
-      "creator": "/u/pwaper https://www.reddit.com/user/pwaper",
-      "id": "a6442101cedef79fe16c6e16"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Policy Clarification: Paid Access Sales and In-Game Development Milestone Tracker",
-      "url": "https://devforum.roblox.com/t/policy-clarification-paid-access-sales-and-in-game-development-milestone-tracker/4988260",
-      "published": "2026-11-12",
-      "excerpt": "We are preparing to launch a commercial MMORPG experience using Roblox’s native Paid Access in Local Currency system, with Demo Mode enabled. Before implementation, we would like clarification on a proposed in-game feature to ensure it fully complies with Roblox’s Community Standards and Paid Access",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/policy-clarification-paid-access-sales-and-in-game-development-milestone-tracker/4988260.rss",
-      "id": "a147606bbd1289e40eb9a70b"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Device simulation can't be hidden without changing my editor quality",
-      "url": "https://devforum.roblox.com/t/device-simulation-cant-be-hidden-without-changing-my-editor-quality/4988055",
-      "published": "2026-11-12",
-      "excerpt": "How do I make my detail level stay on 21 without turning to “Automatic” when I hide the device simulation bar. I want to hide the device simulation bar but if I do the editor quality automatically goes to “Automatic” I want to edit my game on 21 edit quality. 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/device-simulation-cant-be-hidden-without-changing-my-editor-quality/4988055.rss",
-      "id": "9e5133c64103306cd37c7f6d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "PlayerRemoving Bug/Critical Issue",
-      "url": "https://devforum.roblox.com/t/playerremoving-bugcritical-issue/4987637",
-      "published": "2026-11-12",
-      "excerpt": "As of today, it has become impossible to access player properties inside of a PlayerLeaving event callback function after a prolonged wait period, without it yielding an error. Attempting to read/index a property such as the leaving players backpack or leaderstats yields an error as it no longer exi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/playerremoving-bugcritical-issue/4987637.rss",
-      "id": "997badce85da9a42698bd56a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Owner Banned after archived game",
-      "url": "https://devforum.roblox.com/t/owner-banned-after-archived-game/4988526",
-      "published": "2026-11-12",
-      "excerpt": "I am writing on behalf of @LILVIRALITY , as I am the co-owner of our group Drip Embassy. On November 4th, he got a 7-day ban for Sexual Content. We recently got Claude to “revamp” our games and it added a bunch of “room” titles that could be taken as “sexual content” I didn’t realize that these name",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/owner-banned-after-archived-game/4988526.rss",
-      "id": "972c8fc23f8aebc709b8a423"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Powerful Script Analyzer(web)",
-      "url": "https://devforum.roblox.com/t/powerful-script-analyzerweb/4988155",
-      "published": "2026-11-12",
-      "excerpt": "Powerful Script Analyzer You can analyze everything here—from optimization issues and security vulnerabilities to obsolete code—and identify anything that poses a threat to your game. You can even write scripts directly within the tool; it features code suggestions and various other utilities that c",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/powerful-script-analyzerweb/4988155.rss",
-      "id": "95656b2211ed993df7a36164"
-    },
-    {
-      "source": "syphodev-claude",
-      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
-      "category": "Roblox creator / AI development",
-      "title": "How To CONNECT CLAUDE AI To ROBLOX STUDIO! (Full Guide) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xX3hKTkdteVQtNWpRY1lOMENNblpCekpTQUw2SXkzZk9qN1EycmxkaTR3cWZUTzYyM050VzRZR2Nlekt4QzVlYXh3RTlBelg1WUdRNzh3?oc=5",
-      "published": "2026-11-12",
-      "excerpt": "How To CONNECT CLAUDE AI To ROBLOX STUDIO! (Full Guide) YouTube",
-      "creator": "",
-      "publisher": "https://www.youtube.com",
-      "id": "945d22762c365fa11e11afe1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "can’t decide which game to make next (in Roblox), which one would you actually play?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu6wev/cant_decide_which_game_to_make_next_in_roblox/",
-      "published": "2026-11-12",
-      "excerpt": "hey everyone, i’ve been going back and forth on this for way too long so i figured i’d just ask you guys lol i want to start a new roblox game (just me working on it) and i’ve got it down to three ideas: +1 balloon per second: you get a new balloon every second and slowly float up. the higher you go",
-      "creator": "/u/EntertainerBrave4185 https://www.reddit.com/user/EntertainerBrave4185",
-      "id": "9416799de0fb390ec679ac74"
     }
   ]
 }
