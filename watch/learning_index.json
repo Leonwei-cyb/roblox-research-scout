@@ -327,6 +327,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4999594:1",
+      "url": "https://devforum.roblox.com/t/hiring-uiux-designer-for-football-x-madden-inspired-sports-ui/4999594",
+      "title": "[HIRING] UI/UX Designer for Football X |Madden-Inspired Sports UI |",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-22",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "UI and menus"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuo7ni",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuo7ni/63_of_new_players_quit_my_roblox_game_in_the/",
       "title": "63% of new players quit my Roblox game in the first minute. Here's what I changed, tell me what I missed",
@@ -492,20 +506,6 @@
       "signals": [
         "animation and audio",
         "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988144:1",
-      "url": "https://devforum.roblox.com/t/your-game-become-famous-review-tool/4988144",
-      "title": "Your game become famous? Review tool",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -2241,14 +2241,27 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtyriy",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtyriy/models_i_made_for_yet_another_sonic_asym_yasa/",
-      "title": "Models I made for Yet Another Sonic ASYM (YASA)!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
+      "key": "devforum:4999308:1",
+      "url": "https://devforum.roblox.com/t/home-recommendation-impressions-dropped-to-zero-after-adding-fourth-thumbnail/4999308",
+      "title": "Home Recommendation Impressions Dropped to Zero After Adding Fourth Thumbnail",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
       "signals": [
-        "world and visual design"
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4999419:1",
+      "url": "https://devforum.roblox.com/t/ttp-weather-systems-on-new-builder-font-family-is-available/4999419",
+      "title": "TTP Weather Systems on New Builder Font family is available!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2314,19 +2327,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xuo013",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuo013/newbie_coder_here_tried_fixing_the_shade_script/",
-      "title": "newbie coder here, tried fixing the shade script and accidantally made this",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-12",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3270,19 +3270,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4987778:1",
-      "url": "https://devforum.roblox.com/t/custom-particle-system/4987778",
-      "title": "Custom Particle System",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4987857:1",
       "url": "https://devforum.roblox.com/t/violations-are-unhelpfully-vague-random-and-unforgiving/4987857",
       "title": "Violations are unhelpfully vague, random and unforgiving",
@@ -3304,19 +3291,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988026:1",
-      "url": "https://devforum.roblox.com/t/programmer-and-modeller-qipaoist-8y-experience/4988026",
-      "title": "Programmer and Modeller, @qipaoist [8y+ Experience]",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4154,6 +4128,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:4999406:1",
+      "url": "https://devforum.roblox.com/t/intentional-glass-shader-highlight-trick-has-seemingly-been-patched/4999406",
+      "title": "(Intentional?) Glass shader highlight trick has seemingly been patched",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xu2n0s",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu2n0s/ill_test_your_roblox_game/",
       "title": "I'll Test Your Roblox Game",
@@ -4681,28 +4668,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4987885:1",
-      "url": "https://devforum.roblox.com/t/authenticator-issue-on-my-account-2/4987885",
-      "title": "Authenticator issue on my account (2)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988002:1",
-      "url": "https://devforum.roblox.com/t/talent-hub-removed-sunset/4988002",
-      "title": "Talent Hub removed (sunset)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4988055:1",
       "url": "https://devforum.roblox.com/t/device-simulation-cant-be-hidden-without-changing-my-editor-quality/4988055",
       "title": "Device simulation can't be hidden without changing my editor quality",
@@ -4849,17 +4814,6 @@
       "key": "devforum:4988577:1",
       "url": "https://devforum.roblox.com/t/avatar-auto-setup-bug/4988577",
       "title": "Avatar Auto Setup Bug",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988599:1",
-      "url": "https://devforum.roblox.com/t/feature-request-native-methods-to-read-write-unsigned-64-bit-integers-into-buffer/4988599",
-      "title": "[Feature Request] Native Methods to Read & Write Unsigned 64-Bit Integers into Buffer",
       "source": "roblox-devforum-latest",
       "published": "2026-11-12",
       "kind": "devforum",
@@ -6265,12 +6219,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xtyiqo",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xtyiqo/the_way_they_smashed_the_toolbox_results/",
-      "title": "the way they smashed the toolbox results",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
+      "key": "devforum:4999349:1",
+      "url": "https://devforum.roblox.com/t/asset-creation-failed-please-try-again-later/4999349",
+      "title": "Asset creation failed. Please try again later",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4999355:1",
+      "url": "https://devforum.roblox.com/t/edges-of-transparent-texture-have-black-smudges-on-edge-that-only-appear-in-surfaceappearance-objects/4999355",
+      "title": "Edges of transparent texture have black smudges on edge that only appear in SurfaceAppearance objects",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4999413:1",
+      "url": "https://devforum.roblox.com/t/uneven-outfit-visibility-in-marketplace-recommendations/4999413",
+      "title": "Uneven Outfit Visibility in Marketplace Recommendations",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:4999422:1",
+      "url": "https://devforum.roblox.com/t/random-yellow-lines-on-some-of-my-parts/4999422",
+      "title": "Random yellow lines on some of my parts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-21",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -6334,17 +6321,6 @@
       "key": "reddit:1xueyfp",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xueyfp/i_finally_finished_the_art_for_my_trollge/",
       "title": "I finally finished the art for my Trollge character, The Carnival Jester. What do you think? 🎭",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xunxh2",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xunxh2/lf_artist_and_character_designer/",
-      "title": "Lf artist and character designer",
       "source": "reddit-robloxdev",
       "published": "2026-11-12",
       "kind": "reddit",
@@ -7134,17 +7110,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1kVDl6cmlSR3BEUEZfQzNBMTJkWGVxWWNkVXNyUEJNazdaM28tSk40cjEzNGNPX3F2SnMxYzdzcDFMdThIV3VYcmpUZmdDc2RWOFJuTllB",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kVDl6cmlSR3BEUEZfQzNBMTJkWGVxWWNkVXNyUEJNazdaM28tSk40cjEzNGNPX3F2SnMxYzdzcDFMdThIV3VYcmpUZmdDc2RWOFJuTllB?oc=5",
-      "title": "How to Make an ENTIRE Roblox Game with AI - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-12",
-      "kind": "index-only",
-      "signals": [],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1vcWpMQWJKSThfZjdMWS1fdTRKSU5HbHBxUWxILVROWXhsREprMVFSTWFSRTZGTlZkeC1xNWFqTE5HWjZwV1FYcmpnODJqS216V1djSGZR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vcWpMQWJKSThfZjdMWS1fdTRKSU5HbHBxUWxILVROWXhsREprMVFSTWFSRTZGTlZkeC1xNWFqTE5HWjZwV1FYcmpnODJqS216V1djSGZR?oc=5",
       "title": "BABY WHALE BEN VS VIP 😠🐋 #stealaneggroblox #stealanegg #roblox #fyp - Instagram",
@@ -7362,6 +7327,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBPa3pMb2p1TzcyS1llQlZ2MHBFcmp6Z3ZJN19lX21lUkdZcW03SVc4bTkzZERJNnhKN3dweWhucEc2b0wwV3dhQlhHN2stTnR3eExRMjZn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPa3pMb2p1TzcyS1llQlZ2MHBFcmp6Z3ZJN19lX21lUkdZcW03SVc4bTkzZERJNnhKN3dweWhucEc2b0wwV3dhQlhHN2stTnR3eExRMjZn?oc=5",
+      "title": "Only today with ben and brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-21",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFBYR2JqTzBWYUEySVU3aEJKT1hHZW0zUmx0UmM5ZEIzYURwVTFpQUlkZlAtQXh3YmRlQlBUU3VaTXFRUml0M3ptYlFOT2oxWUZvS3NzeUpn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYR2JqTzBWYUEySVU3aEJKT1hHZW0zUmx0UmM5ZEIzYURwVTFpQUlkZlAtQXh3YmRlQlBUU3VaTXFRUml0M3ptYlFOT2oxWUZvS3NzeUpn?oc=5",
       "title": "I Built a Roblox Game With AI (No Coding) – Here’s How - YouTube",
@@ -7436,11 +7414,37 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMibEFVX3lxTE1ZcGpIMTVuOFhXRS14NWw1LVkwbDlhdnhsOFhtcXVxMGF2dFBfdTJ1NXRiNGdYTi1rTEVJdk5qTDRBZndpR19lVm9zaUxVLVREenFaRVRxNUJUem5HTzJ4QV9rV1pJZzVKN2xJNw",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZcGpIMTVuOFhXRS14NWw1LVkwbDlhdnhsOFhtcXVxMGF2dFBfdTJ1NXRiNGdYTi1rTEVJdk5qTDRBZndpR19lVm9zaUxVLVREenFaRVRxNUJUem5HTzJ4QV9rV1pJZzVKN2xJNw?oc=5",
+      "title": "I added a Giant Turkey into Steal an Egg 🦃 #StealanEgg #Roblox - TikTok",
+      "source": "brock-tiktok",
+      "published": "2026-11-21",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMibEFVX3lxTE5jM09rOVpYRHhrRzk0Tl9aZjVYMnFSeThWTi16eHctaC1XQnhZMUV4dFRwakNfSzBiN3lodWZXd1RJRnV3RXVTWHdKaVltcW5HM2Y0c2RST1g5RUM2UnMzV1A5YzJOYU1hQXFhQg",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jM09rOVpYRHhrRzk0Tl9aZjVYMnFSeThWTi16eHctaC1XQnhZMUV4dFRwakNfSzBiN3lodWZXd1RJRnV3RXVTWHdKaVltcW5HM2Y0c2RST1g5RUM2UnMzV1A5YzJOYU1hQXFhQg?oc=5",
       "title": "I just added a Storm Lands Biome into Steal an Egg ⚡️ #StealanEgg #Roblox - TikTok",
       "source": "brock-tiktok",
       "published": "2026-11-15",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMibEFVX3lxTE92R25teldMV0xvcWdhd2hTTHFxcVFSUFk5YmFhODE2cWtCdGhFRW1DM3ZGMU1xYkNIX05tZFh1Qm1oc0RLak9aS2VYUFY5SDhQbG1sd2ZnTmFPOXkyLXZpMHcxV29VbkMtMWF2Uw",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92R25teldMV0xvcWdhd2hTTHFxcVFSUFk5YmFhODE2cWtCdGhFRW1DM3ZGMU1xYkNIX05tZFh1Qm1oc0RLak9aS2VYUFY5SDhQbG1sd2ZnTmFPOXkyLXZpMHcxV29VbkMtMWF2Uw?oc=5",
+      "title": "I added a Turkey Boss into Steal an Egg 🦃 #Roblox #StealanEgg - TikTok",
+      "source": "brock-tiktok",
+      "published": "2026-11-21",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"

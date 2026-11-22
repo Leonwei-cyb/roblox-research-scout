@@ -1,14 +1,18 @@
 {
-  "reddit-robloxdev": {
+  "automation": {
     "reason": "HTTP 429",
-    "streak": 10
+    "streak": 1
+  },
+  "reddit-robloxdev": {
+    "reason": "HTTP 404",
+    "streak": 11
   },
   "reddit-robloxstudio": {
     "reason": "HTTP 429",
-    "streak": 10
+    "streak": 11
   },
   "youtube-UC1g8RAPLVidtYUzZFFiX2GA": {
     "reason": "HTTP 404",
-    "streak": 229
+    "streak": 230
   }
 }
