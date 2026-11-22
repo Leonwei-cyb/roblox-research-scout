@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "aa97720c9c33ed8dd945a132ec4563654156076b",
-      "head_subject": "Changelog",
+      "head": "6a6b23bf822b1405502491b2f83951eb447d66fa",
+      "head_subject": "Fix HTML injection in extension names (#9608)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.30.4",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "b022ba6df88a5ddfbcedc39739a191c7e2ff5196",
+      "head": "1006c2e4f783f016963fb290d3eb4afaa2d448b1",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.330",
@@ -188,6 +188,7 @@
     "Rodert/awesome-mcp",
     "RubenSanJuan/roblox-arcade-lab",
     "S4US/Roqer",
+    "SagXD/awesome-stars",
     "Sagargupta16/awesome-mcp-servers",
     "SubmitGame/awesome-ai-game-dev-tools",
     "SyphoDev-yt/roblox-ai-skills",
