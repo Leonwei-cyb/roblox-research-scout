@@ -526,6 +526,36 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5001080:1",
+      "url": "https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080",
+      "title": "Help with improving 16+ CTR, plays, and playtime (all are terrible)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "genres and successful loops",
+        "player feedback and marketing"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5001275:1",
+      "url": "https://devforum.roblox.com/t/92-sky-sky-lighting-library/5001275",
+      "title": "{92 SKY} Sky & Lighting Library",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 7,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "devforum:4988333:1",
       "url": "https://devforum.roblox.com/t/for-hire-2-years-of-experience-scripter-english-and-spanish/4988333",
       "title": "[FOR HIRE] 2 Years of Experience Scripter, English and Spanish",
@@ -960,6 +990,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5001038:1",
+      "url": "https://devforum.roblox.com/t/how-can-i-make-main-menu-look-better/5001038",
+      "title": "How can i make main menu look better?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "world and visual design"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuogk8",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuogk8/i_made_my_first_roblox_game_with_an_ai_assistant/",
       "title": "I made my first Roblox game with an AI assistant helping. Here’s what broke when real players got involved",
@@ -1087,32 +1131,6 @@
         "world and visual design"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4987793:1",
-      "url": "https://devforum.roblox.com/t/stepset-a-improved-move-and-rotation-plugin/4987793",
-      "title": "StepSet - A improved move and rotation plugin",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988394:1",
-      "url": "https://devforum.roblox.com/t/for-hire-5-6-yrs-of-building-and-modeling-polish-english/4988394",
-      "title": "[FOR HIRE] 5-6 yrs of Building and Modeling | Polish & English",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2359,12 +2377,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xup5f4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xup5f4/16_ads_high_ctr/",
-      "title": "16+ ads high ctr",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
+      "key": "devforum:5001184:1",
+      "url": "https://devforum.roblox.com/t/feedbacktesting-request-backrooms-cleanup-detail/5001184",
+      "title": "[Feedback/testing request] Backrooms: Cleanup Detail",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -2372,13 +2390,30 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xurlf5",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurlf5/players_drop_off_right_after_getting_their_first/",
-      "title": "players drop off right after getting their first item, how do you handle that?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
+      "key": "devforum:5001241:1",
+      "url": "https://devforum.roblox.com/t/best-way-to-handle-interiorexterior-ambience-without-giant-region-parts/5001241",
+      "title": "Best way to handle interior/exterior ambience without giant region parts?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
       "signals": [
+        "building and purchases",
+        "animation and audio",
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5001342:1",
+      "url": "https://devforum.roblox.com/t/rehearse-end-to-end-and-multiplayer-tests-for-your-game-using-robloxs-new-testing-apis/5001342",
+      "title": "Rehearse: end-to-end and multiplayer tests for your game, using Roblox's new testing APIs",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [
+        "UI and menus",
+        "genres and successful loops",
         "player feedback and marketing"
       ],
       "score": 5,
@@ -3117,29 +3152,15 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xu01av",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu01av/i_have_a_question/",
-      "title": "i have a question.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
+      "key": "devforum:5001167:1",
+      "url": "https://devforum.roblox.com/t/the-biggeststrangest-optimization-in-roblox/5001167",
+      "title": "The Biggest/strangest Optimization in Roblox",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
       "signals": [
-        "world and visual design",
-        "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xu7phv",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xu7phv/im_14_i_hope_future_me_made_it_and_you_too/",
-      "title": "I'm 14. I hope future me made it (and you too!!)",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-12",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
+        "economy and income",
+        "animation and audio"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3281,19 +3302,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988133:1",
-      "url": "https://devforum.roblox.com/t/roblox-ai-support-keeps-closing-my-chat-and-preventing-me-from-reaching-devex-email-support/4988133",
-      "title": "Roblox AI Support Keeps Closing My Chat and Preventing Me from Reaching DevEx Email Support",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [
-        "economy and income"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4259,6 +4267,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5000986:1",
+      "url": "https://devforum.roblox.com/t/richviewport-particles-in-viewportframe/5000986",
+      "title": "RichViewport - Particles in ViewportFrame",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5001110:1",
+      "url": "https://devforum.roblox.com/t/i-launched-the-game-but-dont-think-it-was-a-good-idea-anymore/5001110",
+      "title": "I launched the game but don't think it was a good idea anymore",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xu2n0s",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu2n0s/ill_test_your_roblox_game/",
       "title": "I'll Test Your Roblox Game",
@@ -4267,19 +4301,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xunpnb",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xunpnb/i_made_a_roblox_tank_game_where_every_bullet/",
-      "title": "I made a Roblox tank game where every bullet bounces and your own shots can take you out",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4701,64 +4722,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4987881:1",
-      "url": "https://devforum.roblox.com/t/chat-filtering-suggestion-for-id-verified-users-aged-18/4987881",
-      "title": "Chat Filtering Suggestion for ID-Verified Users Aged 18+",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988224:1",
-      "url": "https://devforum.roblox.com/t/false-publishing-spam-ban/4988224",
-      "title": "False publishing \"spam\" ban",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988353:1",
-      "url": "https://devforum.roblox.com/t/icontint-property-on-folders-should-be-replaced-with-iconcolor/4988353",
-      "title": "IconTint property on Folders should be replaced with IconColor",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988577:1",
-      "url": "https://devforum.roblox.com/t/avatar-auto-setup-bug/4988577",
-      "title": "Avatar Auto Setup Bug",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4988610:1",
       "url": "https://devforum.roblox.com/t/x86-linux-emulator-p/4988610",
       "title": "X86 Linux emulator :P",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-12",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988653:1",
-      "url": "https://devforum.roblox.com/t/following-list-wiped-13k-to-0-and-groups-remain-locked-after-account-un-termination/4988653",
-      "title": "Following List Wiped (13K+ to 0) and Groups Remain Locked After Account Un-Termination",
       "source": "roblox-devforum-latest",
       "published": "2026-11-12",
       "kind": "devforum",
@@ -6296,21 +6262,43 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xueyfp",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xueyfp/i_finally_finished_the_art_for_my_trollge/",
-      "title": "I finally finished the art for my Trollge character, The Carnival Jester. What do you think? 🎭",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-12",
-      "kind": "reddit",
+      "key": "devforum:5000999:1",
+      "url": "https://devforum.roblox.com/t/creator-hub-manage-avatar-looks-displays-a-generic-unknown-issue-message-for-moderated-names-and-descriptions/5000999",
+      "title": "Creator Hub - Manage Avatar Looks Displays a Generic \"Unknown Issue\" Message for Moderated Names and Descriptions",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuptc7",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuptc7/funny_car_goes_vroom/",
-      "title": "funny car goes vroom",
-      "source": "reddit-robloxstudio",
+      "key": "devforum:5001168:1",
+      "url": "https://devforum.roblox.com/t/update-items-getting-rejected-despite-being-the-same/5001168",
+      "title": "Update items getting rejected despite being the same",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5001199:1",
+      "url": "https://devforum.roblox.com/t/how-am-i-supposed-to-update-the-w-8ben-form/5001199",
+      "title": "How am I supposed to update the W-8BEN form?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-23",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "reddit:1xueyfp",
+      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xueyfp/i_finally_finished_the_art_for_my_trollge/",
+      "title": "I finally finished the art for my Trollge character, The Carnival Jester. What do you think? 🎭",
+      "source": "reddit-robloxdev",
       "published": "2026-11-12",
       "kind": "reddit",
       "signals": [],
@@ -7166,7 +7154,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSnFNTnEycGs3TXVZZWo2N0h5ZGxHYmhXLWRya0FxMnRDZmc4RDFiRFJZTFZSZDN6TzJleUlaYU9HWDBpUUZJYlNUUG1YcWE4X1RvVFJn?oc=5",
       "title": "Only today for new players in my game steal an egg #roblox #robloxfyp #stealanegg #usa #usareels - Instagram",
       "source": "brock-ig-reels",
-      "published": "2026-11-19",
+      "published": "2026-11-18",
       "kind": "index-only",
       "signals": [
         "genres and successful loops",
@@ -7226,6 +7214,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE92QTNEbG1SakstYnNRU2gxc2xIMXJQS2hEMlhqbVJ4OHQtVkw0Q0w2VjhfTmJaYkduSUs3QUFPa1IxNHRDZ0FTclZJR19nbjlfYkdnSUJB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92QTNEbG1SakstYnNRU2gxc2xIMXJQS2hEMlhqbVJ4OHQtVkw0Q0w2VjhfTmJaYkduSUs3QUFPa1IxNHRDZ0FTclZJR19nbjlfYkdnSUJB?oc=5",
+      "title": "[UPDATED] How to Copy Roblox Games Step by Step in 2026 | Roblox Studio & Game Copying Tutorial - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-16",
+      "kind": "index-only",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE92anJWTFRXRVZkbXByTlZsQ0tYWlVVeFRRM2o2b1FZQzNOdk9SSVkzUTBrQ1BXNUdIbmIwN3oyZENWc3BxQVR3MFgyUFFvTy1JWXVoLTF3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92anJWTFRXRVZkbXByTlZsQ0tYWlVVeFRRM2o2b1FZQzNOdk9SSVkzUTBrQ1BXNUdIbmIwN3oyZENWc3BxQVR3MFgyUFFvTy1JWXVoLTF3?oc=5",
       "title": "I Was Completely Wrong About this game!! . . . . . . #roblox #news #gaming #takilablox #itsayill #plzdonate #trending #explore - Instagram",
@@ -7233,6 +7235,20 @@
       "published": "2026-11-13",
       "kind": "index-only",
       "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE95WUxRMGx5V1FQVDJ2OTZJckFtNkM4dW1TaGM5aDFwU0pBWGt2OVk1OEtjTU9TSUN5d2RuUG4tRUpKN2tDVk03c3MyN0YwTEM5LURia093",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WUxRMGx5V1FQVDJ2OTZJckFtNkM4dW1TaGM5aDFwU0pBWGt2OVk1OEtjTU9TSUN5d2RuUG4tRUpKN2tDVk03c3MyN0YwTEM5LURia093?oc=5",
+      "title": "Who wants next to try Brockodile treadmill in steal an egg👀 Private server on Bio🤑🍀 - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-22",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops",
+        "tools and performance"
+      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

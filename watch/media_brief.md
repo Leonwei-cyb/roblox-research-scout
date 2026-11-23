@@ -7,37 +7,40 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[AI สร้างคัทซีนต่อสู้โคตรเทพ ด้วย Animation Keyframes \| Roblox Studio - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwRHpMRGQ3WlFqb25tWnZrNklRN3labEFfUGdtZ3pOZTR6VHJKZkxubGxtWlZ4TUUzQVJnNHVoTmJyek9WaUpxc1RSTkhnY25uc0Y4ajVR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-14
-  - Feed excerpt: AI สร้างคัทซีนต่อสู้โคตรเทพ ด้วย Animation Keyframes \| Roblox Studio YouTube
-- **[How to Connect Claude Code to Roblox Studio - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vQm1VYU5LWmwtR3k1d2RaSHh0c05CN2lZMWhDRll3eW1RRURGVE91WXFLWExoTjhlS0oydHd0OVJhU0dZN0k2bHJXY0VXV3dWWnhKbXJ3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-18
-  - Feed excerpt: How to Connect Claude Code to Roblox Studio YouTube
+- **[\[UPDATED\] How to Copy Roblox Games Step by Step in 2026 \| Roblox Studio & Game Copying Tutorial - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE92QTNEbG1SakstYnNRU2gxc2xIMXJQS2hEMlhqbVJ4OHQtVkw0Q0w2VjhfTmJaYkduSUs3QUFPa1IxNHRDZ0FTclZJR19nbjlfYkdnSUJB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-16
+  - Feed excerpt: \[UPDATED\] How to Copy Roblox Games Step by Step in 2026 \| Roblox Studio & Game Copying Tutorial YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[Who wants next to try Brockodile treadmill in steal an egg👀 Private server on Bio🤑🍀 - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WUxRMGx5V1FQVDJ2OTZJckFtNkM4dW1TaGM5aDFwU0pBWGt2OVk1OEtjTU9TSUN5d2RuUG4tRUpKN2tDVk03c3MyN0YwTEM5LURia093?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-22
+  - Feed excerpt: Who wants next to try Brockodile treadmill in steal an egg👀 Private server on Bio🤑🍀 Instagram
 
 ## Roblox Updates
 
-- **[Math.precise(): arbitrary precision arithmetic](https://devforum.roblox.com/t/mathprecise-arbitrary-precision-arithmetic/5000845)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Suggestion is for Luau. math.precise would be apart of the math library that makes any math put into the argument deal with the rules of Arbitrary-precision arithmetic, numbers are calculated only when the math of the passed argument is swi
-- **[UGC analytics are currently delayed by 2 days](https://devforum.roblox.com/t/ugc-analytics-are-currently-delayed-by-2-days/5000830)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: UGC analytics are failing to update on time it is currently 2 days behind, which this has been a consistent issue that happens every month essentially. Page URL: https://create.roblox.com/dashboard/analytics 1 post - 1 participant Read full
-- **[Feedback on my Nacht der Untoten build](https://devforum.roblox.com/t/feedback-on-my-nacht-der-untoten-build/5000761)** · Roblox Developer Forum latest · 2026-11-22
-  - Feed excerpt: Hello so I’ve recreated nacht der untoten in roblox let me know what you think about it and what else you would like to see in it, currently still creating some of the perk machines but also made the pack a punch as well which I will show a
-- **[Localized Ambient Lighting Volumes](https://devforum.roblox.com/t/localized-ambient-lighting-volumes/5000799)** · Roblox Developer Forum latest · 2026-11-22
-  - Feed excerpt: As a Roblox developer, it is currently too hard to make proper ambient lighting. While the engine exposes game.Lighting.Ambient and game.Lighting.OutdoorAmbient , it isn’t enough sometimes. Problem: Here’s the problem: ambient light in diff
-- **[Voice chat plays an extra, unprocessed copy of a player in a stuck location after being inactive and muted for a minute](https://devforum.roblox.com/t/voice-chat-plays-an-extra-unprocessed-copy-of-a-player-in-a-stuck-location-after-being-inactive-and-muted-for-a-minute/5000754)** · Roblox Developer Forum latest · 2026-11-22
-  - Feed excerpt: With VoiceChatService.UseAudioApi = Enabled , I route every player’s voice through my own Audio API graph: AudioDeviceInput → AudioFader → AudioPitchShifter (Pitch 1.5) → AudioEmitter in the character. Expected: listeners only hear the spea
-- **[Web Play's GPU tester does not account for users with graphics acceleration disabled](https://devforum.roblox.com/t/web-plays-gpu-tester-does-not-account-for-users-with-graphics-acceleration-disabled/5000793)** · Roblox Developer Forum latest · 2026-11-22
-  - Feed excerpt: After the Web Play feature was changed to use WebGPU some days ago, it looks like the site has started trying to stress test your hardware to find out if you can viably use Web Play (or so I assume). This completely freezes PCs that have ha
-- **[Bugs specific to a place. Potentially fast flags related](https://devforum.roblox.com/t/bugs-specific-to-a-place-potentially-fast-flags-related/5000822)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: These issues are present to a specific place only and does not occur on other places. In the studio editor clip, this is a module script package. Whenever I type in a few characters, the script editor has a seizure. This is due to the fact 
-- **[Countdown Timer with PS does not appear](https://devforum.roblox.com/t/countdown-timer-with-ps-does-not-appear/5000850)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: I’ve got a problem with this pedestrian signal timer. Model name: PS Issue founded: ControllerCrosswalk The countdown timer does not show the light or lamp functions on this script or exhausted timed out. Owned by: TwentyTwoPilots The count
-- **[Harvest Islands: farming sim with giant animals, looking for first-impression feedback](https://devforum.roblox.com/t/harvest-islands-farming-sim-with-giant-animals-looking-for-first-impression-feedback/5000855)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Hi! I’ve been working on Harvest Islands, a farming sim where you grow crops, expand your farm and hatch animals in different sizes. The rarest size is Colossal: 0.1% chance, up to 50 kg, with a rainbow effect. Game link: Harvest Islands \| 
-- **[Need Help Finding a DevEx oriented page through Dashboard Directory](https://devforum.roblox.com/t/need-help-finding-a-devex-oriented-page-through-dashboard-directory/5000861)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: I’m trying to find a page on Roblox’s studio dashboard, it tells the user how much USD their selected game has made in robux translated to DevEx rates in the last 30 days. The page contains a drop-down to view all the data for all experienc
-- **[Roblox Select Refund Potentially Never Came](https://devforum.roblox.com/t/roblox-select-refund-potentially-never-came/5000871)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: I’m confused, I don’t believe my Roblox select refund ever came. The game details show it says it was listed as returned on Aug 22nd, 2026. Although, my ROBLOX SELECT transactions show no such transaction ever coming in on Aug 22nd, though 
-- **[\[OPEN\] Roblox Scripter \| 10M+ visits · 5.0 on Fiverr · Since 2018](https://devforum.roblox.com/t/open-roblox-scripter-10m-visits-%C2%B7-50-on-fiverr-%C2%B7-since-2018/5000827)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Yoyo (iDevYoyo) \| Roblox scripter 10M+ visits on games I’ve scripted for · 5.0 rating on Fiverr · 40+ orders delivered · Scripting since 2018 About me Hey, I’m Yoyo, a Roblox scripter from Chile. I have a B.Sc. in Engineering Sciences (Comp
+- **[Creator Hub - Manage Avatar Looks Displays a Generic "Unknown Issue" Message for Moderated Names and Descriptions](https://devforum.roblox.com/t/creator-hub-manage-avatar-looks-displays-a-generic-unknown-issue-message-for-moderated-names-and-descriptions/5000999)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: When editing the name or description of an existing Avatar Look in Creator Hub and attempting to save the changes with text that gets filtered as inappropriate, the save operation fails and displays a generic “unknown issue” message instead
+- **[How am I supposed to update the W-8BEN form?](https://devforum.roblox.com/t/how-am-i-supposed-to-update-the-w-8ben-form/5001199)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: How am I supposed to update the W-8BEN form? Hello, Im constantly getting notified that my W-8BEN (Tax form for non-US citizens) will expire in certain days. But whenever I try to open the DevEx portal that it tells me to go to there’s noth
+- **[Update items getting rejected despite being the same](https://devforum.roblox.com/t/update-items-getting-rejected-despite-being-the-same/5001168)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: I’m trying to update my partner’s UGC items from a year ago by the accessory overwrite feature. The items I’m trying to update were uploaded scaled down due to the ProportionsNormal AvatarPartScaleType was bugged at that time, not validatin
+- **[Best way to handle interior/exterior ambience without giant region parts?](https://devforum.roblox.com/t/best-way-to-handle-interiorexterior-ambience-without-giant-region-parts/5001241)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: I’d like to play specific forest SFX on the exterior, and a separate SFX inside structures. From what I’ve gathered is that the right method is to cover these areas in giant invisible parts so when a player enters that specific SFX plays. i
+- **[Help with improving 16+ CTR, plays, and playtime (all are terrible)](https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: I’ve just released my game Iridium Mines. It’s a roguelike mining game set in a procedurally generated cave system. Unearth rare ore, bring it back before the elevator leaves, and craft items to help you go deeper! You can play it here: Iri
+- **[How can i make main menu look better?](https://devforum.roblox.com/t/how-can-i-make-main-menu-look-better/5001038)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Main menu set I changed the lighting Main menu The Ui needs to change though. But anything else you can tell me 2 posts - 2 participants Read full topic
+- **[I launched the game but don't think it was a good idea anymore](https://devforum.roblox.com/t/i-launched-the-game-but-dont-think-it-was-a-good-idea-anymore/5001110)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Hey community, I’ve just launched game the very first time, and to be honest I started thinking it’s not fun anymore and can’t keep users playing. The more I work on it the less I can honestly judge. I’ve built a combination of “collect and
+- **[Rehearse: end-to-end and multiplayer tests for your game, using Roblox's new testing APIs](https://devforum.roblox.com/t/rehearse-end-to-end-and-multiplayer-tests-for-your-game-using-robloxs-new-testing-apis/5001342)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: When StudioTestService and VirtualInput came out ( announcement , VirtualInput and Device Simulator ), a lot of replies asked the same thing: how do I turn this into an actual test suite? Something you can rerun after every change, with mor
+- **[RichViewport - Particles in ViewportFrame](https://devforum.roblox.com/t/richviewport-particles-in-viewportframe/5000986)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: You might’ve seen a recent tweet of mine that showcased what you’re hearing: particles in viewports! This is a special viewport class wrapper that supports emulated ParticleEmitter instances in 3D space. WARNING THIS DOES NOT WORK IN LIVE G
+- **[The Biggest/strangest Optimization in Roblox](https://devforum.roblox.com/t/the-biggeststrangest-optimization-in-roblox/5001167)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Perhaps one of the most striking things I’ve encountered regarding optimization is seeing nearly 1,000 NPCs in a single game—complete with animations, movement, death sequences, various idle states, and a wealth of other details—all running
+- **[\[Feedback/testing request\] Backrooms: Cleanup Detail](https://devforum.roblox.com/t/feedbacktesting-request-backrooms-cleanup-detail/5001184)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Hello all! I just recently started working on a backrooms cleaning/horror experience and I’m looking for some feedback! The game is still very early in development but I would love to hear some ideas, concerns or just general feedback on th
+- **[{92 SKY} Sky & Lighting Library](https://devforum.roblox.com/t/92-sky-sky-lighting-library/5001275)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Sky & Lighting Library: 92 Skyboxes with Matching Lighting \[Thumbnail or banner image here\] Hey everyone! I made a plugin that gives you 92 skyboxes, each with its own tuned lighting , applied in a single click. Get the plugin here What it 
 
 ---
 

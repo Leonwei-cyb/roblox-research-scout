@@ -8,12 +8,12 @@
     "streak": 1
   },
   "reddit-robloxdev": {
-    "reason": "HTTP 429",
-    "streak": 13
-  },
-  "reddit-robloxstudio": {
     "reason": "HTTP 404",
     "streak": 14
+  },
+  "reddit-robloxstudio": {
+    "reason": "HTTP 429",
+    "streak": 15
   },
   "roblox-news": {
     "reason": "HTTP 429",
@@ -21,6 +21,6 @@
   },
   "youtube-UC1g8RAPLVidtYUzZFFiX2GA": {
     "reason": "HTTP 404",
-    "streak": 234
+    "streak": 235
   }
 }

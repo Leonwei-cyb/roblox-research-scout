@@ -17,11 +17,11 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "dcd40cb7d44ea4a8eb262b0032346e2728a470f1",
-      "head_subject": "Better sanitize domains (#9611)",
+      "head": "fa16ffdeeb0160cfb3ba05e964704057751ef831",
+      "head_subject": "Start next version",
       "name": "FreshRSS/FreshRSS",
-      "release_tag": "1.30.4",
-      "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
+      "release_tag": "1.31.0",
+      "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.31.0",
       "url": "https://github.com/FreshRSS/FreshRSS"
     },
     "PepeElToro41/ui-labs": {
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "671acefa8e509e04911102476173742ba2b2cdc4",
+      "head": "50cdc7005318f630144c28217d1dada32e6ba762",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.330",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "ae3d178881ceef13e524c8ec9378ec3b2a5b29b5",
-      "head_subject": "Third-party licences - regenerate docs/THIRD-PARTY-LICENSES.md: the packages in the 0.70.4 release image (#4755)",
+      "head": "1bb9d2450ae446b4247c5698d9616e1ee74e854b",
+      "head_subject": "Deleting a watch while it is being checked: stop the check, no more worker exception (#4767)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",
