@@ -1,14 +1,26 @@
 {
+  "automation": {
+    "reason": "HTTP 429",
+    "streak": 1
+  },
+  "brock-tiktok": {
+    "reason": "HTTP 429",
+    "streak": 1
+  },
   "reddit-robloxdev": {
     "reason": "HTTP 429",
     "streak": 13
   },
   "reddit-robloxstudio": {
     "reason": "HTTP 404",
-    "streak": 13
+    "streak": 14
+  },
+  "roblox-news": {
+    "reason": "HTTP 429",
+    "streak": 1
   },
   "youtube-UC1g8RAPLVidtYUzZFFiX2GA": {
     "reason": "HTTP 404",
-    "streak": 233
+    "streak": 234
   }
 }

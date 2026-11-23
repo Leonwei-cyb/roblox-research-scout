@@ -1,19 +1,5 @@
 {
   "seen": [
-    "47f0476b58db0d27ccaf27b7",
-    "3aab0ffee6ab47ed0c40f687",
-    "40d410a3b4c1e9fde663c4d0",
-    "b70111e08422ea7b377d9451",
-    "2dfdba02eb72d9c92439b4bf",
-    "39381a12ffe09a252f4c90d9",
-    "c1fed48d6ec5224f972c379b",
-    "6c8a9d3fbc689c003f466074",
-    "a7ab2d5637aeda5dc7475c68",
-    "cfde8f3813b393a84355bbde",
-    "5fd7e557bc1ad35b6941e27e",
-    "60c3c78b235b1b14a1cab0bd",
-    "c9c064577489234293d293b4",
-    "f57f0d3dc2b9a915e5031c56",
     "7d5a9c0122d82f58513f6b7b",
     "6d84309f6d19f6605c4d4046",
     "d4489792d84fc1b2bea719cf",
@@ -3999,9 +3985,119 @@
     "89818f0bdcce8d78517f9e2d",
     "e3154679aa0ce845cdcc9bd6",
     "1dcaa3b98d1db07483dd56cb",
-    "85fefd22129a1b54db3fad53"
+    "85fefd22129a1b54db3fad53",
+    "7c1e36ec5e87784a7b201ca4",
+    "4619531640a98af8bf0278f4",
+    "9610b5c58cc3c8c06375f8f8",
+    "c02782c23af21f2e2abcca61",
+    "2e698b83bc09bb36d2a71a88",
+    "bbe31bf1fbef05125c60f612",
+    "6eba22b024acc37ec29cfe2e",
+    "c5de994c1a86e2fb2a30650f",
+    "3cae15ceac887f2d81f342bb",
+    "d9d1bc07c89f245b37e448a0",
+    "e51d8c327113173bf80f4599",
+    "ab4766a906090146c9dc3718",
+    "e382ef96d585b2f1b5306c80",
+    "d0f9132c20623ba7d7c0aaf8"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Bugs specific to a place. Potentially fast flags related",
+      "url": "https://devforum.roblox.com/t/bugs-specific-to-a-place-potentially-fast-flags-related/5000822",
+      "published": "2026-11-23",
+      "excerpt": "These issues are present to a specific place only and does not occur on other places. In the studio editor clip, this is a module script package. Whenever I type in a few characters, the script editor has a seizure. This is due to the fact that when opening up the script, it’s supposed to be locked ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/bugs-specific-to-a-place-potentially-fast-flags-related/5000822.rss",
+      "id": "c5de994c1a86e2fb2a30650f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Countdown Timer with PS does not appear",
+      "url": "https://devforum.roblox.com/t/countdown-timer-with-ps-does-not-appear/5000850",
+      "published": "2026-11-23",
+      "excerpt": "I’ve got a problem with this pedestrian signal timer. Model name: PS Issue founded: ControllerCrosswalk The countdown timer does not show the light or lamp functions on this script or exhausted timed out. Owned by: TwentyTwoPilots The countdown timer is broken or script timed out. 3 posts - 3 partic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/countdown-timer-with-ps-does-not-appear/5000850.rss",
+      "id": "c02782c23af21f2e2abcca61"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "UGC analytics are currently delayed by 2 days",
+      "url": "https://devforum.roblox.com/t/ugc-analytics-are-currently-delayed-by-2-days/5000830",
+      "published": "2026-11-23",
+      "excerpt": "UGC analytics are failing to update on time it is currently 2 days behind, which this has been a consistent issue that happens every month essentially. Page URL: https://create.roblox.com/dashboard/analytics 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/ugc-analytics-are-currently-delayed-by-2-days/5000830.rss",
+      "id": "bbe31bf1fbef05125c60f612"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Harvest Islands: farming sim with giant animals, looking for first-impression feedback",
+      "url": "https://devforum.roblox.com/t/harvest-islands-farming-sim-with-giant-animals-looking-for-first-impression-feedback/5000855",
+      "published": "2026-11-23",
+      "excerpt": "Hi! I’ve been working on Harvest Islands, a farming sim where you grow crops, expand your farm and hatch animals in different sizes. The rarest size is Colossal: 0.1% chance, up to 50 kg, with a rainbow effect. Game link: Harvest Islands | Play on Roblox What’s in it right now: 13 crops that unlock ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/harvest-islands-farming-sim-with-giant-animals-looking-for-first-impression-feedback/5000855.rss",
+      "id": "9610b5c58cc3c8c06375f8f8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Select Refund Potentially Never Came",
+      "url": "https://devforum.roblox.com/t/roblox-select-refund-potentially-never-came/5000871",
+      "published": "2026-11-23",
+      "excerpt": "I’m confused, I don’t believe my Roblox select refund ever came. The game details show it says it was listed as returned on Aug 22nd, 2026. Although, my ROBLOX SELECT transactions show no such transaction ever coming in on Aug 22nd, though there were multiple instances of ROBLOX screwing around with",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-select-refund-potentially-never-came/5000871.rss",
+      "id": "7c1e36ec5e87784a7b201ca4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[OPEN] Roblox Scripter | 10M+ visits · 5.0 on Fiverr · Since 2018",
+      "url": "https://devforum.roblox.com/t/open-roblox-scripter-10m-visits-%C2%B7-50-on-fiverr-%C2%B7-since-2018/5000827",
+      "published": "2026-11-23",
+      "excerpt": "Yoyo (iDevYoyo) | Roblox scripter 10M+ visits on games I’ve scripted for · 5.0 rating on Fiverr · 40+ orders delivered · Scripting since 2018 About me Hey, I’m Yoyo, a Roblox scripter from Chile. I have a B.Sc. in Engineering Sciences (Computing) and I’m now continuing in Computer Engineering. I’ve ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/open-roblox-scripter-10m-visits-%C2%B7-50-on-fiverr-%C2%B7-since-2018/5000827.rss",
+      "id": "6eba22b024acc37ec29cfe2e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Need Help Finding a DevEx oriented page through Dashboard Directory",
+      "url": "https://devforum.roblox.com/t/need-help-finding-a-devex-oriented-page-through-dashboard-directory/5000861",
+      "published": "2026-11-23",
+      "excerpt": "I’m trying to find a page on Roblox’s studio dashboard, it tells the user how much USD their selected game has made in robux translated to DevEx rates in the last 30 days. The page contains a drop-down to view all the data for all experiences the user has development access to. I randomly found it t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-help-finding-a-devex-oriented-page-through-dashboard-directory/5000861.rss",
+      "id": "4619531640a98af8bf0278f4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Math.precise(): arbitrary precision arithmetic",
+      "url": "https://devforum.roblox.com/t/mathprecise-arbitrary-precision-arithmetic/5000845",
+      "published": "2026-11-23",
+      "excerpt": "Suggestion is for Luau. math.precise would be apart of the math library that makes any math put into the argument deal with the rules of Arbitrary-precision arithmetic, numbers are calculated only when the math of the passed argument is switched to Arbitrary-precision arithmetic. This works with fun",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/mathprecise-arbitrary-precision-arithmetic/5000845.rss",
+      "id": "2e698b83bc09bb36d2a71a88"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -4066,6 +4162,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Feedback on my Nacht der Untoten build",
+      "url": "https://devforum.roblox.com/t/feedback-on-my-nacht-der-untoten-build/5000761",
+      "published": "2026-11-22",
+      "excerpt": "Hello so I’ve recreated nacht der untoten in roblox let me know what you think about it and what else you would like to see in it, currently still creating some of the perk machines but also made the pack a punch as well which I will show as well which you can let me know what you think about it. If",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/feedback-on-my-nacht-der-untoten-build/5000761.rss",
+      "id": "e51d8c327113173bf80f4599"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "My game has terrible stats and im not sure why",
       "url": "https://devforum.roblox.com/t/my-game-has-terrible-stats-and-im-not-sure-why/5000499",
       "published": "2026-11-22",
@@ -4097,6 +4205,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/home-recommendation-doesnt-push-my-thumbnails/5000693.rss",
       "id": "df1a1043e976d41f43f4014e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Web Play's GPU tester does not account for users with graphics acceleration disabled",
+      "url": "https://devforum.roblox.com/t/web-plays-gpu-tester-does-not-account-for-users-with-graphics-acceleration-disabled/5000793",
+      "published": "2026-11-22",
+      "excerpt": "After the Web Play feature was changed to use WebGPU some days ago, it looks like the site has started trying to stress test your hardware to find out if you can viably use Web Play (or so I assume). This completely freezes PCs that have hardware/graphics acceleration disabled (not to mention that t",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/web-plays-gpu-tester-does-not-account-for-users-with-graphics-acceleration-disabled/5000793.rss",
+      "id": "d9d1bc07c89f245b37e448a0"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4157,6 +4277,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/most-new-players-quit-in-the-first-2-minutes-of-my-farming-game-looking-for-playtesters-and-honest-feedback/5000007.rss",
       "id": "af0519d3aee012753450ffa3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Voice chat plays an extra, unprocessed copy of a player in a stuck location after being inactive and muted for a minute",
+      "url": "https://devforum.roblox.com/t/voice-chat-plays-an-extra-unprocessed-copy-of-a-player-in-a-stuck-location-after-being-inactive-and-muted-for-a-minute/5000754",
+      "published": "2026-11-22",
+      "excerpt": "With VoiceChatService.UseAudioApi = Enabled , I route every player’s voice through my own Audio API graph: AudioDeviceInput → AudioFader → AudioPitchShifter (Pitch 1.5) → AudioEmitter in the character. Expected: listeners only hear the speaker through that graph (high-pitched in the repro). Actual: ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/voice-chat-plays-an-extra-unprocessed-copy-of-a-player-in-a-stuck-location-after-being-inactive-and-muted-for-a-minute/5000754.rss",
+      "id": "ab4766a906090146c9dc3718"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4385,6 +4517,18 @@
       "creator": "",
       "publisher": "https://www.instagram.com",
       "id": "3d82ac7f030b8e864e0e4e33"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Localized Ambient Lighting Volumes",
+      "url": "https://devforum.roblox.com/t/localized-ambient-lighting-volumes/5000799",
+      "published": "2026-11-22",
+      "excerpt": "As a Roblox developer, it is currently too hard to make proper ambient lighting. While the engine exposes game.Lighting.Ambient and game.Lighting.OutdoorAmbient , it isn’t enough sometimes. Problem: Here’s the problem: ambient light in different—but close—environments. While game.Lighting.Ambient an",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/localized-ambient-lighting-volumes/5000799.rss",
+      "id": "3cae15ceac887f2d81f342bb"
     },
     {
       "source": "roblox-devforum-latest",
@@ -5967,6 +6111,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/place-specific-studio-loading-issue/4995706.rss",
       "id": "f2b7b2e81052c199874cb292"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How to Connect Claude Code to Roblox Studio - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vQm1VYU5LWmwtR3k1d2RaSHh0c05CN2lZMWhDRll3eW1RRURGVE91WXFLWExoTjhlS0oydHd0OVJhU0dZN0k2bHJXY0VXV3dWWnhKbXJ3?oc=5",
+      "published": "2026-11-18",
+      "excerpt": "How to Connect Claude Code to Roblox Studio YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "e382ef96d585b2f1b5306c80"
     },
     {
       "source": "roblox-devforum-latest",
@@ -8846,6 +9002,18 @@
       "id": "d612edce436d8eebd2f92cf3"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "AI สร้างคัทซีนต่อสู้โคตรเทพ ด้วย Animation Keyframes | Roblox Studio - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwRHpMRGQ3WlFqb25tWnZrNklRN3labEFfUGdtZ3pOZTR6VHJKZkxubGxtWlZ4TUUzQVJnNHVoTmJyek9WaUpxc1RSTkhnY25uc0Y4ajVR?oc=5",
+      "published": "2026-11-14",
+      "excerpt": "AI สร้างคัทซีนต่อสู้โคตรเทพ ด้วย Animation Keyframes | Roblox Studio YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "d0f9132c20623ba7d7c0aaf8"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -10867,166 +11035,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/false-publishing-spam-ban/4988224.rss",
       "id": "d198b21036c3050f044b2d0c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I have a plugin that makes my character freeze and puts a blur effect and idk how to delete it",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu8dx5/i_have_a_plugin_that_makes_my_character_freeze/",
-      "published": "2026-11-12",
-      "excerpt": "English is not my first language but I wanted to say that I was trying to update Moon Animator in the night and I accidently installed some fake ones and one of those is making any game that I make have the things that I said in the tittle, blur screen and my character can't move. Ok so being detail",
-      "creator": "/u/Yourusualdummy https://www.reddit.com/user/Yourusualdummy",
-      "id": "cda6b01df0de6aebb3407d09"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "\"Question Solved\" Weird bug",
-      "url": "https://devforum.roblox.com/t/question-solved-weird-bug/4988267",
-      "published": "2026-11-12",
-      "excerpt": "(Needed to put this in different category because Forum help - Forum Bugs is read only) Recently, i created a post, and a few days later it was marked as “Solved” but i DIDNT mark ANY reply there. Also, it doesnt show any marked post. Im a bit worried about it, is it normal? 1 post - 1 participant R",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/question-solved-weird-bug/4988267.rss",
-      "id": "cd751f38575c28c124147dbc"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My best performing ad yet",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xun2cx/my_best_performing_ad_yet/",
-      "published": "2026-11-12",
-      "excerpt": "I started running ads for the game about 5 days ago. I've run plenty of ads for my other games in the past, but none of them have come close to getting results like this. submitted by /u/GameKnight76 [link] [comments]",
-      "creator": "/u/GameKnight76 https://www.reddit.com/user/GameKnight76",
-      "id": "cac6055c3447c2461bff61c0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Game taken down, appeals emails ignored",
-      "url": "https://devforum.roblox.com/t/game-taken-down-appeals-emails-ignored/4988564",
-      "published": "2026-11-12",
-      "excerpt": "I’ve been trying to contact Roblox support to appeal a moderation of a game I own. Over a month I’ve been sending requests and replies to try to get an answer. I got ghosted and they closed both threads. I use Yahoo Mail if that helps. 2 posts - 2 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/game-taken-down-appeals-emails-ignored/4988564.rss",
-      "id": "c9a2b39da8c375e70cf619b0"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Feedback on \"CommerceService:GetCommerceProductInfoAsync\"",
-      "url": "https://devforum.roblox.com/t/feedback-on-commerceservicegetcommerceproductinfoasync/4988290",
-      "published": "2026-11-12",
-      "excerpt": "GetCommerceProductInfoAsync gives an HTTP 401 if you call it from the server (outside of studio). The documentation should reflect this and caution developers that it should be called from the client only. Affected URL: CommerceService | Documentation - Roblox Creator Hub 1 post - 1 participant Read",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/feedback-on-commerceservicegetcommerceproductinfoasync/4988290.rss",
-      "id": "c343b9e880df621e706af97d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "models i've made for my horror games",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xurfr2/models_ive_made_for_my_horror_games/",
-      "published": "2026-11-12",
-      "excerpt": "they're all made using stuff from the toolbox and simple shapes so some are not super accurate to their original counterparts. all of them are based on obscure characters from different media. the characters are: -cutters mcullough, from \"phantom racer\" (based on the movie of the same name) -true ma",
-      "creator": "/u/Ill_Cold986 https://www.reddit.com/user/Ill_Cold986",
-      "id": "be36a3b46685b66f837e423d"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Looking for Feedback on my Boss Fight Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xudwer/looking_for_feedback_on_my_boss_fight_game/",
-      "published": "2026-11-12",
-      "excerpt": "Hi, I recently made a roblox boss fight where you battle against the game Admin itself. It has 3 phases and 2 endings, each giving a badge. The game will stay public for 30 days before I make it private because its meant to be an inner place of my other main Obby game, according to the game's lore. ",
-      "creator": "/u/CoffeeTime5610 https://www.reddit.com/user/CoffeeTime5610",
-      "id": "bd1639f5932b21b56037cd96"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Funny Footage from my Backrooms A-Sym Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu9195/funny_footage_from_my_backrooms_asym_game/",
-      "published": "2026-11-12",
-      "excerpt": "submitted by /u/No-Comedian8417 [link] [comments]",
-      "creator": "/u/No-Comedian8417 https://www.reddit.com/user/No-Comedian8417",
-      "id": "bb8ece8bc533ec30f289cdaf"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "A screenshot from my Trollge game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xufeje/a_screenshot_from_my_trollge_game/",
-      "published": "2026-11-12",
-      "excerpt": "Hey everyone! I’ve been learning Roblox Studio for about a month now. I’ve always wanted to make my own game, and I decided to start with a Trollge-themed project. I’m still a beginner, and at first, working with scripts and parts was really challenging. But I kept experimenting in my free time, and",
-      "creator": "/u/Ok_Moment_9080 https://www.reddit.com/user/Ok_Moment_9080",
-      "id": "bacf24dcb14139541739fd93"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Will transferring ownership of my Roblox game reset the progress on the 250 engaged player requirement?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xunqj2/will_transferring_ownership_of_my_roblox_game/",
-      "published": "2026-11-12",
-      "excerpt": "I am the owner of a Roblox game, and it is very close to being released, with the 250 engaged player requirement nearing its completion. However, I don't want to give my government ID to Roblox, so I want to transfer my game to an account of mine that isn't 18+, so the requirement is not neccessary.",
-      "creator": "/u/Outrageous_Let_4421 https://www.reddit.com/user/Outrageous_Let_4421",
-      "id": "b9436fe1b7799db2e222de3d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[OPEN] CreatureNet - LF Volunteers",
-      "url": "https://devforum.roblox.com/t/open-creaturenet-lf-volunteers/4988264",
-      "published": "2026-11-12",
-      "excerpt": "Creature Collector Project About CreatureNet CreatureNet is the studio behind a currently planning-phase Creature Collector project. Currently we are in need of a few volunteers to jumpstart the CreatureNet journey, if you feel you can be helpful in carving the path for CreatureNet, please continue ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-creaturenet-lf-volunteers/4988264.rss",
-      "id": "b418905cf005d1a4b1fb61a1"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Roblox Support Bug – Created Tickets Are Not Created",
-      "url": "https://devforum.roblox.com/t/roblox-support-bug-%E2%80%93-created-tickets-are-not-created/4988288",
-      "published": "2026-11-12",
-      "excerpt": "Hello, I would like to report a bug in the Roblox Support system. When I visit Roblox Support , the support form opens a chat with the automated bot. During the chat, I explicitly ask the bot to escalate my case to a human support agent. The bot responds that a ticket has been opened or that my case",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/roblox-support-bug-%E2%80%93-created-tickets-are-not-created/4988288.rss",
-      "id": "b0bf5fa8cd1f446fdd9d20d7"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "New horror game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xud1np/new_horror_game/",
-      "published": "2026-11-12",
-      "excerpt": "Hi all this os my new horor game submitted by /u/Calm-Try1206 [link] [comments]",
-      "creator": "/u/Calm-Try1206 https://www.reddit.com/user/Calm-Try1206",
-      "id": "aa821383456ab6ff96757cc6"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Looking for Programmer(s)",
-      "url": "https://devforum.roblox.com/t/looking-for-programmers/4987826",
-      "published": "2026-11-12",
-      "excerpt": "Looking for Programmer(s) About Us Hello! I’m putting together a small team of people to create car-based games. We are creating long-term games with passion, motivation, and creativity. About The Job We are looking for a professional programmer to join our team. We expect high quality work that adh",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/looking-for-programmers/4987826.rss",
-      "id": "aa417e21f12c097dabd9f482"
     }
   ]
 }
