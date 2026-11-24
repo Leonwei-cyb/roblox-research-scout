@@ -49,8 +49,8 @@
       "url": "https://github.com/Roblox/creator-docs"
     },
     "Roblox/luau": {
-      "head": "3d91c9d5c280c95bfc4be63aac46012cf861d394",
-      "head_subject": "Sync to upstream/release/748 (#3149)",
+      "head": "97b2f4bf9cd935bed666f3e643a3b749b4d22f38",
+      "head_subject": "Fix class type forward references (#3151)",
       "name": "Roblox/luau",
       "release_tag": "0.748",
       "release_url": "https://github.com/luau-lang/luau/releases/tag/0.748",
@@ -73,11 +73,11 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "50cdc7005318f630144c28217d1dada32e6ba762",
+      "head": "4d490bbbf090069a9cfb7dc7d0797d58ac60845b",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
-      "release_tag": "v2.1.330",
-      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+      "release_tag": "v2.1.331",
+      "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "1bb9d2450ae446b4247c5698d9616e1ee74e854b",
-      "head_subject": "Deleting a watch while it is being checked: stop the check, no more worker exception (#4767)",
+      "head": "d29009b3478b2c6c523872787ac562a784c818f7",
+      "head_subject": "Puppeteer fetcher - Read the page with its scripts held still, favicon last and bounded (#4742) (#4779)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "318ee284aa3b5558de57efefff730ea33c4a9bef",
-      "head_subject": "mlxrunner: share tensor helpers and model setup across architectures (#19805)",
+      "head": "924cc286cc592f49c481fa84e15fa60dbc75989e",
+      "head_subject": "inkling2: faster Metal decode, prefill and draft rounds (#19843)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.17",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",

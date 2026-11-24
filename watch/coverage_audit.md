@@ -5,17 +5,14 @@ Links and metadata collected; original social videos are NOT automatically playe
 | Observation | Count |
 |---|---:|
 | Saved source entries | 600 |
-| Original media URLs | 5 |
-| Indexed redirects, original unknown | 40 |
-| Failed feeds | 6 |
+| Original media URLs | 6 |
+| Indexed redirects, original unknown | 39 |
+| Failed feeds | 3 |
 
 ## Failures to resolve
 
-- automation: HTTP 429
-- brock-tiktok: HTTP 429
-- roblox-news: HTTP 429
-- reddit-robloxdev: HTTP 404
 - reddit-robloxstudio: HTTP 429
+- reddit-robloxdev: HTTP 404
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
 
 ## Actions

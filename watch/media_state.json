@@ -1,21 +1,5 @@
 {
   "seen": [
-    "f4bbfef1f8c7805d3bdd8130",
-    "2cca994f2dd39fae7b710b7b",
-    "59487c5b22362820c0d10474",
-    "3498cb4855a30d28ff2f6b3b",
-    "e25757a9c991fa4620b13def",
-    "5e4ee5dc5f40d47866883412",
-    "79c4961eaa5ba30f70e9ad16",
-    "bf2b79e8f668be36d93c1484",
-    "5881214054fe8b8eb46bb809",
-    "4b9eb46d91479820a10f46a8",
-    "8f29d56642e6fa94b1026f6e",
-    "679cd4a97c8e01f9530c1b3e",
-    "b45055ef362d6ef0e85daffa",
-    "d5bee2200c5a3c157642034d",
-    "3f640d0d6f6c8ca59ffa6246",
-    "f53f72c3f2cc07f4104f899f",
     "4f01fc454c80a6160ac4f0f9",
     "5eec364ce3bb61ab07cf686b",
     "46a8347703b2cf60bb551b5b",
@@ -3999,9 +3983,97 @@
     "612167d0e3265298cf624e9e",
     "46238fbb9fa48d3aadddcc67",
     "d7d8ffb7ab2050f06d8e5f45",
-    "c076053137d37ae22917b60a"
+    "c076053137d37ae22917b60a",
+    "adddb811eb4cf71f6f09c510",
+    "f74adb13fbffe6a5ff5ecd02",
+    "bc7caeea7a5a75b902a6742b",
+    "3e29896af53c0007dbff49aa",
+    "a3689a09f8330c2ef1c5ecf3",
+    "c35d91caeea41d8357a5b0cc",
+    "27cb0f64f7d18c2699997869",
+    "f049d4acc9de80f690dbd210",
+    "edb0d0b7431728a210abe0fe",
+    "64a4fe3244c22bb9803c0ccc",
+    "f8328a5a4128d6762e82bb32",
+    "a77b39bfe739c3fb62fee78a",
+    "8b03fadb01fe2174132947b8",
+    "bfee003bb333667572380ff5",
+    "6f5f01289656ddacf6a12734",
+    "b26c9d6677a11f614f0ba9d8"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Lumi's untitled pvp game",
+      "url": "https://devforum.roblox.com/t/lumis-untitled-pvp-game/5002737",
+      "published": "2026-11-24",
+      "excerpt": "due to loss of motivation i’ve decided to work on a smaller game called Lumi’s Untitled PVP game. I want to get feedback, the game requires 2+ players to start. it is a loadout based pvp game where the goal is to be last person standing in an arena with powerups, random events and WACKY ITEMS! LOGO ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/lumis-untitled-pvp-game/5002737.rss",
+      "id": "f74adb13fbffe6a5ff5ecd02"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "MicroProfiler Info Explorer - Web Tool to explore MicroProfiler Tags",
+      "url": "https://devforum.roblox.com/t/microprofiler-info-explorer-web-tool-to-explore-microprofiler-tags/5002736",
+      "published": "2026-11-24",
+      "excerpt": "I hand-crafted this Website Tool here https://rbx-pages.github.io/rbx-microprofiler-info/ . This website let’s you explore, Tokens, Groups and Labels, and you can share links to your friends. There’s nothing really much to explain. The point is that you can explore buttons and find out what the webs",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/microprofiler-info-explorer-web-tool-to-explore-microprofiler-tags/5002736.rss",
+      "id": "bc7caeea7a5a75b902a6742b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "The sales by location for ugc isn't properly displaying",
+      "url": "https://devforum.roblox.com/t/the-sales-by-location-for-ugc-isnt-properly-displaying/5002815",
+      "published": "2026-11-24",
+      "excerpt": "When checking specific UGC analytics., viewing the sales by location displays improperly, it cuts off some of the game names and the actual “sales by location” wording as you can see here: also I can see the sales I just left them out for privacy. Page URL: https://create.roblox.com/dashboard/analyt",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/the-sales-by-location-for-ugc-isnt-properly-displaying/5002815.rss",
+      "id": "adddb811eb4cf71f6f09c510"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Additional Roblox Performance Notes and Resources",
+      "url": "https://devforum.roblox.com/t/additional-roblox-performance-notes-and-resources/5002715",
+      "published": "2026-11-24",
+      "excerpt": "This Resource Post will go through some Roblox performance things, about things to do and not do. Since there’s a lot I’ll add them case-by-case. This post here is also interesting to read, it also recommends a budget to follow to ensure okay-performance. I will edit this on-going Performance Notes ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/additional-roblox-performance-notes-and-resources/5002715.rss",
+      "id": "a3689a09f8330c2ef1c5ecf3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Output is always unusable & cluttered with plugin junk after shutdown deadline was exceeded",
+      "url": "https://devforum.roblox.com/t/output-is-always-unusable-cluttered-with-plugin-junk-after-shutdown-deadline-was-exceeded/5002718",
+      "published": "2026-11-24",
+      "excerpt": "If the shutdown of a play test in Studio was delayed by a game:BindToClose() callback and exceeds the timeout, thousands of errors will be spammed from built-in (and maybe user?) plugins. This will completely destroy all the original logs in the output window, which is annoying. 1 post - 1 participa",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/output-is-always-unusable-cluttered-with-plugin-junk-after-shutdown-deadline-was-exceeded/5002718.rss",
+      "id": "3e29896af53c0007dbff49aa"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING] Builder for Pet Sim-style Map (Spawn + 10 Zones) | 500-750 USD",
+      "url": "https://devforum.roblox.com/t/hiring-builder-for-pet-sim-style-map-spawn-10-zones-500-750-usd/5002632",
+      "published": "2026-11-23",
+      "excerpt": "About Us Hi there! I’m working on Petsim-like game, where you hatch and collect aliens across themed zones, but with a twist. I’m looking to commission a builder. The Commission This is a one off commission, not a team position. I need a spawn hub + 10 zones built, each with its own unique biome: Ea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-builder-for-pet-sim-style-map-spawn-10-zones-500-750-usd/5002632.rss",
+      "id": "f8328a5a4128d6762e82bb32"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -4013,6 +4085,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/i-launched-the-game-but-dont-think-it-was-a-good-idea-anymore/5001110.rss",
       "id": "f459c273f2cc9608316687c5"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Full Release] New APIs to Get Users’ In-Game/In-Server Friends Lists",
+      "url": "https://devforum.roblox.com/t/full-release-new-apis-to-get-users%E2%80%99-in-gamein-server-friends-lists/5002678",
+      "published": "2026-11-23",
+      "excerpt": "Key Takeaways Two new APIs, Player:GetFriendsInServerAsync and Player:GetFriendsInUniverseAsync, return your friends in this server or anywhere in this game. They make in-game social features like friend lists simpler to build. Find both under Player in the Engine API Reference. Hi Creators, We’re a",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/full-release-new-apis-to-get-users%E2%80%99-in-gamein-server-friends-lists/5002678.rss",
+      "id": "f049d4acc9de80f690dbd210"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "A nice vacuum cleaner (recorded on a potato)",
+      "url": "https://devforum.roblox.com/t/a-nice-vacuum-cleaner-recorded-on-a-potato/5002676",
+      "published": "2026-11-23",
+      "excerpt": "and a lil photo 3 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/a-nice-vacuum-cleaner-recorded-on-a-potato/5002676.rss",
+      "id": "edb0d0b7431728a210abe0fe"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4042,6 +4138,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Roblox freezing/crashing when players leave or teleport, plus 10-15s freezes during play",
+      "url": "https://devforum.roblox.com/t/roblox-freezingcrashing-when-players-leave-or-teleport-plus-10-15s-freezes-during-play/5002695",
+      "published": "2026-11-23",
+      "excerpt": "Hey, I’ve been stuck on this for a while and could use some help figuring out what’s going on. My game: 100 Miles Down the River | Play on Roblox (that’s the lobby; runs happen in a second place, 124873042389337, always in reserved servers). Players keep reporting big freezes, anywhere from 20 secon",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-freezingcrashing-when-players-leave-or-teleport-plus-10-15s-freezes-during-play/5002695.rss",
+      "id": "c35d91caeea41d8357a5b0cc"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Countdown Timer with PS does not appear",
       "url": "https://devforum.roblox.com/t/countdown-timer-with-ps-does-not-appear/5000850",
       "published": "2026-11-23",
@@ -4063,6 +4171,17 @@
       "id": "bbe31bf1fbef05125c60f612"
     },
     {
+      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
+      "label": "YouTube direct channel: Roblox official YouTube (verified channel ID)",
+      "category": "youtube",
+      "title": "we’re building something tall. like, really tall. The Great Build starts 11.25",
+      "url": "https://www.youtube.com/shorts/8JvpFu8saDw",
+      "published": "2026-11-23",
+      "excerpt": "",
+      "creator": "Roblox https://www.youtube.com/channel/UCjiPEaapiHbJMoAdi_L8fNA",
+      "id": "b26c9d6677a11f614f0ba9d8"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -4073,6 +4192,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080.rss",
       "id": "b13be8565db81cd527eddf10"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "How can you make this 3D Textlabel effect?",
+      "url": "https://devforum.roblox.com/t/how-can-you-make-this-3d-textlabel-effect/5002596",
+      "published": "2026-11-23",
+      "excerpt": "I was wondering, how can I achieve this 3D Textlabel effect inside Roblox Studio? 4 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/how-can-you-make-this-3d-textlabel-effect/5002596.rss",
+      "id": "a77b39bfe739c3fb62fee78a"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4097,6 +4228,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/harvest-islands-farming-sim-with-giant-animals-looking-for-first-impression-feedback/5000855.rss",
       "id": "9610b5c58cc3c8c06375f8f8"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Full Release] Search Every Asset Type at Once With Omnisearch in Asset Manager",
+      "url": "https://devforum.roblox.com/t/full-release-search-every-asset-type-at-once-with-omnisearch-in-asset-manager/5001595",
+      "published": "2026-11-23",
+      "excerpt": "Key Takeaways Omnisearch is now available in Asset Manager. It searches across multiple asset types at once and keeps your filters and sidebar in place, so you can find assets without breaking your flow. Open it in Studio from Home > Assets or Window > Asset Manager. Hi Creators, We’re releasing Omn",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/full-release-search-every-asset-type-at-once-with-omnisearch-in-asset-manager/5001595.rss",
+      "id": "8b03fadb01fe2174132947b8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4133,6 +4276,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/open-roblox-scripter-10m-visits-%C2%B7-50-on-fiverr-%C2%B7-since-2018/5000827.rss",
       "id": "6eba22b024acc37ec29cfe2e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Is my D-Day style zombie invasion game ready to release?",
+      "url": "https://devforum.roblox.com/t/is-my-d-day-style-zombie-invasion-game-ready-to-release/5002650",
+      "published": "2026-11-23",
+      "excerpt": "Zombie Invasion | Play on Roblox I have this zombie invasion game where you defend an island from waves of zombies and you buy weapons to help your tasks. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/is-my-d-day-style-zombie-invasion-game-ready-to-release/5002650.rss",
+      "id": "64a4fe3244c22bb9803c0ccc"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4217,6 +4372,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/mathprecise-arbitrary-precision-arithmetic/5000845.rss",
       "id": "2e698b83bc09bb36d2a71a88"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "12k publishing robux cost for emissive dress",
+      "url": "https://devforum.roblox.com/t/12k-publishing-robux-cost-for-emissive-dress/5002685",
+      "published": "2026-11-23",
+      "excerpt": "Hi, I’ve published a few emissive items and at this point I’m sure that this has to be a bug. Whenever I publish an emissive dress it costs 12k robux. I understand it’s categorised as a bodysuit but if it an emissive skirt, top and shoes cost 9k robux why is something that’s technically only a two p",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/12k-publishing-robux-cost-for-emissive-dress/5002685.rss",
+      "id": "27cb0f64f7d18c2699997869"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4421,6 +4588,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/account-location-seems-to-be-improperly-applied-in-some-cases/5000575.rss",
       "id": "c336f7fcb2f6a46d9eecb5af"
+    },
+    {
+      "source": "brock-tiktok",
+      "label": "Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "How to get the Divine King Gobble in Steal an Egg 🦃 #stealanegg #roblox - TikTok",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kM1hBdlgxeG5ySFRwY0hFbmZUcXJDT0JLZmoxd1doQzdGR0hZM211T2k1aV82X2NONUJvR2NoMGota0g1cVV5cllKUmM4LUNXZWRVd2RfNWlnQzVzZktycU52VFBiOTdaOWxVNg?oc=5",
+      "published": "2026-11-22",
+      "excerpt": "How to get the Divine King Gobble in Steal an Egg 🦃 #stealanegg #roblox TikTok",
+      "creator": "",
+      "publisher": "https://www.tiktok.com",
+      "id": "bfee003bb333667572380ff5"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10870,177 +11049,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/unable-to-view-more-than-100-assets-in-the-recent-uploads-tab/4989579.rss",
       "id": "10ae3aa0dccb3ae552c3ca38"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Are HEP ads still worth it?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuutd6/are_hep_ads_still_worth_it/",
-      "published": "2026-11-13",
-      "excerpt": "I've released a new game about 2 days ago. Put on $12 a day, $18.20 has been used in total at the moment and I've only gotten 5 Highly Engaged Players (CTR is pretty bad at 1.6% but still). The ads claim to have 355 clicks and 54 plays atm although I know these numbers can run behind. (Ive also got ",
-      "creator": "/u/FridgeCrunchHead https://www.reddit.com/user/FridgeCrunchHead",
-      "id": "0d67f05bbf6cdf1e09ccfdb0"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "What makes a Roblox game worth coming back to with friends?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuutew/what_makes_a_roblox_game_worth_coming_back_to/",
-      "published": "2026-11-13",
-      "excerpt": "Having room for four players isn’t the same as giving all four something fun to do. Shared goals, easy rejoining, and letting new players catch up can make a big difference. What’s one thing a Roblox game does that makes your group want to play together again? Which game gets it right? submitted by ",
-      "creator": "/u/Dorohedoro_man https://www.reddit.com/user/Dorohedoro_man",
-      "id": "0d140efb153b29581dfcf746"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "i made this GAME icon V2 !! what do you think ? is it better than V1 ?",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xux0k4/i_made_this_game_icon_v2_what_do_you_think_is_it/",
-      "published": "2026-11-13",
-      "excerpt": "v1 -> v2 lol submitted by /u/GadixPro [link] [comments]",
-      "creator": "/u/GadixPro https://www.reddit.com/user/GadixPro",
-      "id": "081ea92c51026b44d94d2220"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Poll: First Person vs Third Person POV",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvl8eu/poll_first_person_vs_third_person_pov/",
-      "published": "2026-11-13",
-      "excerpt": "I am working on a FPS survival game but wanting opinions on first person vs third person POV for survival/shooter games. Development wise; I am having mad issues trying to code my ADS to lock to the weapon while in first person. View Poll submitted by /u/No_Gap_7136 [link] [comments]",
-      "creator": "/u/No_Gap_7136 https://www.reddit.com/user/No_Gap_7136",
-      "id": "07ae8ecd2f43e9601ae6cf86"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "I Was Completely Wrong About this game!! . . . . . . #roblox #news #gaming #takilablox #itsayill #plzdonate #trending #explore - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92anJWTFRXRVZkbXByTlZsQ0tYWlVVeFRRM2o2b1FZQzNOdk9SSVkzUTBrQ1BXNUdIbmIwN3oyZENWc3BxQVR3MFgyUFFvTy1JWXVoLTF3?oc=5",
-      "published": "2026-11-13",
-      "excerpt": "I Was Completely Wrong About this game!! . . . . . . #roblox #news #gaming #takilablox #itsayill #plzdonate #trending #explore Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "00feeafcc4552d9f485d07e3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "I how do I get a parkour moveset",
-      "url": "https://devforum.roblox.com/t/i-how-do-i-get-a-parkour-moveset/4989917",
-      "published": "2026-11-13",
-      "excerpt": "I’ve been trying to look for a parkour move set and nothing is good can someone help me find one that’s actually good 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/i-how-do-i-get-a-parkour-moveset/4989917.rss",
-      "id": "0048ac4f2823f50659178eb3"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not",
-      "url": "https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580",
-      "published": "2026-11-12",
-      "excerpt": "As a Roblox developer, it is currently too hard to … To test Client-Side scripts that have --!native enabled, without the Native Compilation ability. So you can test games and see how they act in Studio in case the device doesn’t support Native Compilation for client-side scripts. Since in Roblox St",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580.rss",
-      "id": "fe9f1638c451d42e469c923d"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "X86 Linux emulator :P",
-      "url": "https://devforum.roblox.com/t/x86-linux-emulator-p/4988610",
-      "published": "2026-11-12",
-      "excerpt": "hello. i’ve recently been interesting in virtual machines, which is what sparked my idea to make a fully emulated x86 Linux project . its not complete, and a lot of things dont work. right now it only has 128MB of ram, and 64 MB of storage. it boots in about 30 seconds. it uses a custom compiled ver",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/x86-linux-emulator-p/4988610.rss",
-      "id": "fb3350c3716f3c74f3a0c71c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I finally finished the art for my Trollge character, The Carnival Jester. What do you think? 🎭",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xueyfp/i_finally_finished_the_art_for_my_trollge/",
-      "published": "2026-11-12",
-      "excerpt": "submitted by /u/Ok_Moment_9080 [link] [comments]",
-      "creator": "/u/Ok_Moment_9080 https://www.reddit.com/user/Ok_Moment_9080",
-      "id": "f61f6d99e64e7352f3f1a30b"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Ben going crazy today guys in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IdHljRVpiVC1fdnBUSUtLUDJMWGJ0OHZfYjFuQUo3TnVNUm1YUkQ2MUZhVFJCdUFMdGVicjh5NGIxbXpXbE1DQXNFSERkalY5dEFFd3Nn?oc=5",
-      "published": "2026-11-12",
-      "excerpt": "Ben going crazy today guys in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "f5b684b174e84396fdec923b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I'll Test Your Roblox Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xu2n0s/ill_test_your_roblox_game/",
-      "published": "2026-11-12",
-      "excerpt": "Hello everyone! I'm back and open for game testing again! If you're looking to have your Roblox game tested, I offer more than just basic playtesting. I also provide honest feedback, suggestions, and advice based on my experience working with other developers. I've even helped a game that went on to",
-      "creator": "/u/WinReasonable3771 https://www.reddit.com/user/WinReasonable3771",
-      "id": "f3d5f71e68b9d5b7332272ec"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I made my first Roblox game with an AI assistant helping. Here’s what broke when real players got involved",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuogk8/i_made_my_first_roblox_game_with_an_ai_assistant/",
-      "published": "2026-11-12",
-      "excerpt": "I launched my first game today, Restore the Desert (you water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones). I designed it and steered every decision, and an AI assistant helped with a lot of the code in Studio, and a second AI reviewed its work overnigh",
-      "creator": "/u/Holiday_Pea_3021 https://www.reddit.com/user/Holiday_Pea_3021",
-      "id": "f1ff67b7aca260d84904f9bc"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "How do roblox anime and superhero games avoid being copyrighted?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuqeee/how_do_roblox_anime_and_superhero_games_avoid/",
-      "published": "2026-11-12",
-      "excerpt": "Ok so I searched on ChatGPT and it said you need to change the name and main symbols to avoid copyright on a character. But there are many games with thousands of CCU that change just change the name, or some don't do it at all like Superhero Arena, the game is super fun but I don't think they paid ",
-      "creator": "/u/Careless-Duty8400 https://www.reddit.com/user/Careless-Duty8400",
-      "id": "eff23c5b206196e7ce89b5df"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "I launched my first Roblox game today. Here’s what broke when real players got involved",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xus9xg/i_launched_my_first_roblox_game_today_heres_what/",
-      "published": "2026-11-12",
-      "excerpt": "I launched my first game today, Restore the Desert. You water a desert tile by tile until it’s green, then automate it with sprinklers, solar and drones. Some things I learned that might help others: Test with two players before launch. Everything worked solo. With 2 players, a helper in a team got ",
-      "creator": "/u/Holiday_Pea_3021 https://www.reddit.com/user/Holiday_Pea_3021",
-      "id": "eeb73df0c6fed8aa48d4aaf7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[FOR HIRE] 2 Years of Experience Scripter, English and Spanish",
-      "url": "https://devforum.roblox.com/t/for-hire-2-years-of-experience-scripter-english-and-spanish/4988333",
-      "published": "2026-11-12",
-      "excerpt": "Hello, I’m Firne. Roblox Scripter | Lua/Luau Developer | Computer Science Student I’ve been scripting on Roblox for over 2 years, and I’m currently completing an internship while studying Computer Science. My code is clean, modular and well commented, so it’s easy to read, maintain and build on by o",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/for-hire-2-years-of-experience-scripter-english-and-spanish/4988333.rss",
-      "id": "ed9c378fcb68605f6be48f2e"
     }
   ]
 }

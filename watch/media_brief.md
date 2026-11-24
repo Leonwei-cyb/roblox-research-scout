@@ -7,40 +7,48 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[\[UPDATED\] How to Copy Roblox Games Step by Step in 2026 \| Roblox Studio & Game Copying Tutorial - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE92QTNEbG1SakstYnNRU2gxc2xIMXJQS2hEMlhqbVJ4OHQtVkw0Q0w2VjhfTmJaYkduSUs3QUFPa1IxNHRDZ0FTclZJR19nbjlfYkdnSUJB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-16
-  - Feed excerpt: \[UPDATED\] How to Copy Roblox Games Step by Step in 2026 \| Roblox Studio & Game Copying Tutorial YouTube
+- **[Claude Opus 5.5 In Roblox Studio Is ABSURD - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ycWQ1NDk0LVRIRkZjcjJIYWF2UnpLNWFtS0k5b1d0bFhCZm1UYjV0TnVCTjAzbmM0bnF0OHZyRmp0V2MyTExlLS0wYUdQQ21xQ1lyaDB3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-31
+  - Feed excerpt: Claude Opus 5.5 In Roblox Studio Is ABSURD YouTube
 
 ## Roblox Creator / Steal An Egg
 
-- **[Who wants next to try Brockodile treadmill in steal an egg👀 Private server on Bio🤑🍀 - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WUxRMGx5V1FQVDJ2OTZJckFtNkM4dW1TaGM5aDFwU0pBWGt2OVk1OEtjTU9TSUN5d2RuUG4tRUpKN2tDVk03c3MyN0YwTEM5LURia093?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-22
-  - Feed excerpt: Who wants next to try Brockodile treadmill in steal an egg👀 Private server on Bio🤑🍀 Instagram
+- **[How to get the Divine King Gobble in Steal an Egg 🦃 #stealanegg #roblox - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE1kM1hBdlgxeG5ySFRwY0hFbmZUcXJDT0JLZmoxd1doQzdGR0hZM211T2k1aV82X2NONUJvR2NoMGota0g1cVV5cllKUmM4LUNXZWRVd2RfNWlnQzVzZktycU52VFBiOTdaOWxVNg?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-11-22
+  - Feed excerpt: How to get the Divine King Gobble in Steal an Egg 🦃 #stealanegg #roblox TikTok
 
 ## Roblox Updates
 
-- **[Creator Hub - Manage Avatar Looks Displays a Generic "Unknown Issue" Message for Moderated Names and Descriptions](https://devforum.roblox.com/t/creator-hub-manage-avatar-looks-displays-a-generic-unknown-issue-message-for-moderated-names-and-descriptions/5000999)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: When editing the name or description of an existing Avatar Look in Creator Hub and attempting to save the changes with text that gets filtered as inappropriate, the save operation fails and displays a generic “unknown issue” message instead
-- **[How am I supposed to update the W-8BEN form?](https://devforum.roblox.com/t/how-am-i-supposed-to-update-the-w-8ben-form/5001199)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: How am I supposed to update the W-8BEN form? Hello, Im constantly getting notified that my W-8BEN (Tax form for non-US citizens) will expire in certain days. But whenever I try to open the DevEx portal that it tells me to go to there’s noth
-- **[Update items getting rejected despite being the same](https://devforum.roblox.com/t/update-items-getting-rejected-despite-being-the-same/5001168)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: I’m trying to update my partner’s UGC items from a year ago by the accessory overwrite feature. The items I’m trying to update were uploaded scaled down due to the ProportionsNormal AvatarPartScaleType was bugged at that time, not validatin
-- **[Best way to handle interior/exterior ambience without giant region parts?](https://devforum.roblox.com/t/best-way-to-handle-interiorexterior-ambience-without-giant-region-parts/5001241)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: I’d like to play specific forest SFX on the exterior, and a separate SFX inside structures. From what I’ve gathered is that the right method is to cover these areas in giant invisible parts so when a player enters that specific SFX plays. i
-- **[Help with improving 16+ CTR, plays, and playtime (all are terrible)](https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: I’ve just released my game Iridium Mines. It’s a roguelike mining game set in a procedurally generated cave system. Unearth rare ore, bring it back before the elevator leaves, and craft items to help you go deeper! You can play it here: Iri
-- **[How can i make main menu look better?](https://devforum.roblox.com/t/how-can-i-make-main-menu-look-better/5001038)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Main menu set I changed the lighting Main menu The Ui needs to change though. But anything else you can tell me 2 posts - 2 participants Read full topic
-- **[I launched the game but don't think it was a good idea anymore](https://devforum.roblox.com/t/i-launched-the-game-but-dont-think-it-was-a-good-idea-anymore/5001110)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Hey community, I’ve just launched game the very first time, and to be honest I started thinking it’s not fun anymore and can’t keep users playing. The more I work on it the less I can honestly judge. I’ve built a combination of “collect and
-- **[Rehearse: end-to-end and multiplayer tests for your game, using Roblox's new testing APIs](https://devforum.roblox.com/t/rehearse-end-to-end-and-multiplayer-tests-for-your-game-using-robloxs-new-testing-apis/5001342)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: When StudioTestService and VirtualInput came out ( announcement , VirtualInput and Device Simulator ), a lot of replies asked the same thing: how do I turn this into an actual test suite? Something you can rerun after every change, with mor
-- **[RichViewport - Particles in ViewportFrame](https://devforum.roblox.com/t/richviewport-particles-in-viewportframe/5000986)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: You might’ve seen a recent tweet of mine that showcased what you’re hearing: particles in viewports! This is a special viewport class wrapper that supports emulated ParticleEmitter instances in 3D space. WARNING THIS DOES NOT WORK IN LIVE G
-- **[The Biggest/strangest Optimization in Roblox](https://devforum.roblox.com/t/the-biggeststrangest-optimization-in-roblox/5001167)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Perhaps one of the most striking things I’ve encountered regarding optimization is seeing nearly 1,000 NPCs in a single game—complete with animations, movement, death sequences, various idle states, and a wealth of other details—all running
-- **[\[Feedback/testing request\] Backrooms: Cleanup Detail](https://devforum.roblox.com/t/feedbacktesting-request-backrooms-cleanup-detail/5001184)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Hello all! I just recently started working on a backrooms cleaning/horror experience and I’m looking for some feedback! The game is still very early in development but I would love to hear some ideas, concerns or just general feedback on th
-- **[{92 SKY} Sky & Lighting Library](https://devforum.roblox.com/t/92-sky-sky-lighting-library/5001275)** · Roblox Developer Forum latest · 2026-11-23
-  - Feed excerpt: Sky & Lighting Library: 92 Skyboxes with Matching Lighting \[Thumbnail or banner image here\] Hey everyone! I made a plugin that gives you 92 skyboxes, each with its own tuned lighting , applied in a single click. Get the plugin here What it 
+- **[How can you make this 3D Textlabel effect?](https://devforum.roblox.com/t/how-can-you-make-this-3d-textlabel-effect/5002596)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: I was wondering, how can I achieve this 3D Textlabel effect inside Roblox Studio? 4 posts - 2 participants Read full topic
+- **[Is my D-Day style zombie invasion game ready to release?](https://devforum.roblox.com/t/is-my-d-day-style-zombie-invasion-game-ready-to-release/5002650)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Zombie Invasion \| Play on Roblox I have this zombie invasion game where you defend an island from waves of zombies and you buy weapons to help your tasks. 1 post - 1 participant Read full topic
+- **[\[Full Release\] New APIs to Get Users’ In-Game/In-Server Friends Lists](https://devforum.roblox.com/t/full-release-new-apis-to-get-users%E2%80%99-in-gamein-server-friends-lists/5002678)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Key Takeaways Two new APIs, Player:GetFriendsInServerAsync and Player:GetFriendsInUniverseAsync, return your friends in this server or anywhere in this game. They make in-game social features like friend lists simpler to build. Find both un
+- **[\[Full Release\] New APIs to Get Users’ In-Game/In-Server Friends Lists](https://devforum.roblox.com/t/full-release-new-apis-to-get-users%E2%80%99-in-gamein-server-friends-lists/5002678)** · Roblox updates category (availability may vary) · 2026-11-23
+  - Feed excerpt: Key Takeaways Two new APIs, Player:GetFriendsInServerAsync and Player:GetFriendsInUniverseAsync, return your friends in this server or anywhere in this game. They make in-game social features like friend lists simpler to build. Find both un
+- **[\[Full Release\] Search Every Asset Type at Once With Omnisearch in Asset Manager](https://devforum.roblox.com/t/full-release-search-every-asset-type-at-once-with-omnisearch-in-asset-manager/5001595)** · Roblox updates category (availability may vary) · 2026-11-23
+  - Feed excerpt: Key Takeaways Omnisearch is now available in Asset Manager. It searches across multiple asset types at once and keeps your filters and sidebar in place, so you can find assets without breaking your flow. Open it in Studio from Home > Assets
+- **[MicroProfiler Info Explorer - Web Tool to explore MicroProfiler Tags](https://devforum.roblox.com/t/microprofiler-info-explorer-web-tool-to-explore-microprofiler-tags/5002736)** · Roblox Developer Forum latest · 2026-11-24
+  - Feed excerpt: I hand-crafted this Website Tool here https://rbx-pages.github.io/rbx-microprofiler-info/ . This website let’s you explore, Tokens, Groups and Labels, and you can share links to your friends. There’s nothing really much to explain. The poin
+- **[12k publishing robux cost for emissive dress](https://devforum.roblox.com/t/12k-publishing-robux-cost-for-emissive-dress/5002685)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Hi, I’ve published a few emissive items and at this point I’m sure that this has to be a bug. Whenever I publish an emissive dress it costs 12k robux. I understand it’s categorised as a bodysuit but if it an emissive skirt, top and shoes co
+- **[A nice vacuum cleaner (recorded on a potato)](https://devforum.roblox.com/t/a-nice-vacuum-cleaner-recorded-on-a-potato/5002676)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: and a lil photo 3 posts - 2 participants Read full topic
+- **[Roblox freezing/crashing when players leave or teleport, plus 10-15s freezes during play](https://devforum.roblox.com/t/roblox-freezingcrashing-when-players-leave-or-teleport-plus-10-15s-freezes-during-play/5002695)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: Hey, I’ve been stuck on this for a while and could use some help figuring out what’s going on. My game: 100 Miles Down the River \| Play on Roblox (that’s the lobby; runs happen in a second place, 124873042389337, always in reserved servers)
+- **[\[HIRING\] Builder for Pet Sim-style Map (Spawn + 10 Zones) \| 500-750 USD](https://devforum.roblox.com/t/hiring-builder-for-pet-sim-style-map-spawn-10-zones-500-750-usd/5002632)** · Roblox Developer Forum latest · 2026-11-23
+  - Feed excerpt: About Us Hi there! I’m working on Petsim-like game, where you hatch and collect aliens across themed zones, but with a twist. I’m looking to commission a builder. The Commission This is a one off commission, not a team position. I need a sp
+- **[Additional Roblox Performance Notes and Resources](https://devforum.roblox.com/t/additional-roblox-performance-notes-and-resources/5002715)** · Roblox Developer Forum latest · 2026-11-24
+  - Feed excerpt: This Resource Post will go through some Roblox performance things, about things to do and not do. Since there’s a lot I’ll add them case-by-case. This post here is also interesting to read, it also recommends a budget to follow to ensure ok
+- **[Lumi's untitled pvp game](https://devforum.roblox.com/t/lumis-untitled-pvp-game/5002737)** · Roblox Developer Forum latest · 2026-11-24
+  - Feed excerpt: due to loss of motivation i’ve decided to work on a smaller game called Lumi’s Untitled PVP game. I want to get feedback, the game requires 2+ players to start. it is a loadout based pvp game where the goal is to be last person standing in 
+- **[Output is always unusable & cluttered with plugin junk after shutdown deadline was exceeded](https://devforum.roblox.com/t/output-is-always-unusable-cluttered-with-plugin-junk-after-shutdown-deadline-was-exceeded/5002718)** · Roblox Developer Forum latest · 2026-11-24
+  - Feed excerpt: If the shutdown of a play test in Studio was delayed by a game:BindToClose() callback and exceeds the timeout, thousands of errors will be spammed from built-in (and maybe user?) plugins. This will completely destroy all the original logs i
+- **[The sales by location for ugc isn't properly displaying](https://devforum.roblox.com/t/the-sales-by-location-for-ugc-isnt-properly-displaying/5002815)** · Roblox Developer Forum latest · 2026-11-24
+  - Feed excerpt: When checking specific UGC analytics., viewing the sales by location displays improperly, it cuts off some of the game names and the actual “sales by location” wording as you can see here: also I can see the sales I just left them out for p
+
+## Youtube
+
+- **[we’re building something tall. like, really tall. The Great Build starts 11.25](https://www.youtube.com/shorts/8JvpFu8saDw)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-23
 
 ---
 

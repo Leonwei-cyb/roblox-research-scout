@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 400
-- index-only: 40
-- reddit: 155
-- youtube: 5
+- devforum: 409
+- index-only: 39
+- reddit: 146
+- youtube: 6
 
 ## First-Session And Mobile
 
@@ -42,7 +42,7 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 ## Animation And Audio
 
 - [Making a co-op One Piece crew game (not a bandit beater!) — looking for a chill scripter, animator & builder \[Rev-Share\]](https://www.reddit.com/r/ROBLOXStudio/comments/1xyexe6/making_a_coop_one_piece_crew_game_not_a_bandit/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [\[HIRING\] Builder for Pet Sim-style Map (Spawn + 10 Zones) | 500-750 USD](https://devforum.roblox.com/t/hiring-builder-for-pet-sim-style-map-spawn-10-zones-500-750-usd/5002632) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## World And Visual Design
 
@@ -52,7 +52,7 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 ## Genres And Successful Loops
 
 - [\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Device Simulator Feature Request - toggle whether Client scripts should be in --!native or not](https://devforum.roblox.com/t/device-simulator-feature-request-toggle-whether-client-scripts-should-be-in-native-or-not/4987580) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Help with improving 16+ CTR, plays, and playtime (all are terrible)](https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Player Feedback And Marketing
 
@@ -61,14 +61,14 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Tools And Performance
 
+- [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Cobalt - Hand-built, intuitive UI framework for Luau](https://devforum.roblox.com/t/cobalt-hand-built-intuitive-ui-framework-for-luau/4988813) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Creating ConfigService freezes the whole server for ~100 ms on every player join](https://devforum.roblox.com/t/creating-configservice-freezes-the-whole-server-for-100-ms-on-every-player-join/4988920) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Creating ConfigService freezes the whole server for ~100 ms on every player join test with measurable pass/fail.
+3. Explain WHY it matters and propose one Cobalt - Hand-built, intuitive UI framework for Luau test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 

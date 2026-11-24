@@ -2,8 +2,9 @@
 
 Automated GitHub metadata observations, **not** verified recommendations.
 
-- **Source updated:** [anthropics/claude-code](https://github.com/anthropics/claude-code) — chore: Update mods/.
-- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Deleting a watch while it is being checked: stop the check, no more worker exception (#4767).
-- **Release:** [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) 1.30.4 → 1.31.0.
+- **Source updated:** [Roblox/luau](https://github.com/Roblox/luau) — Fix class type forward references (#3151).
+- **Release:** [anthropics/claude-code](https://github.com/anthropics/claude-code) v2.1.330 → v2.1.331.
+- **Source updated:** [ollama/ollama](https://github.com/ollama/ollama) — inkling2: faster Metal decode, prefill and draft rounds (#19843).
+- **Source updated:** [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Puppeteer fetcher - Read the page with its scripts held still, favicon last and bounded (#4742) (#4779).
 
 For any candidate: inspect its actual source, permissions/license, gameplay fit, and a real task before adopting.
