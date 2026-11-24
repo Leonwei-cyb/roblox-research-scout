@@ -398,38 +398,10 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuxpu6",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuxpu6/finally_got_some_models_feedback_welcome/",
-      "title": "Finally got some models! Feedback Welcome",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xv0cex",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv0cex/building_a_new_roblox_gaming_studio_founding_team/",
       "title": "Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment",
       "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xv0ip6",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xv0ip6/building_a_new_roblox_gaming_studio_founding_team/",
-      "title": "Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment",
-      "source": "reddit-robloxstudio",
       "published": "2026-11-13",
       "kind": "reddit",
       "signals": [
@@ -636,20 +608,6 @@
       "signals": [
         "UI and menus",
         "animation and audio"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988964:1",
-      "url": "https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964",
-      "title": "Should I Use AlyaNum From the Start in My Simulator Game?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "genres and successful loops"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1047,6 +1005,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5003129:1",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-luau-developer-remote/5003129",
+      "title": "[HIRING] Indigo VC — Roblox Luau Developer (Remote)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003134:1",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-account-manager-%E2%80%94-roblox-studio-partnerships-remote/5003134",
+      "title": "[HIRING] Indigo VC — Account Manager — Roblox Studio Partnerships (Remote)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuz5em",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuz5em/i_need_help_about_scripting/",
       "title": "I need help about scripting",
@@ -1197,19 +1183,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988985:1",
-      "url": "https://devforum.roblox.com/t/expedited-review-taking-3-weeks-review-for-all-ages/4988985",
-      "title": "Expedited review taking 3 weeks review for all ages",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2475,6 +2448,58 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5003110:1",
+      "url": "https://devforum.roblox.com/t/my-roblox-studio-camera-is-super-slow/5003110",
+      "title": "My Roblox Studio camera is super slow",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003132:1",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-3d-artist-%E2%80%94-roblox-remote/5003132",
+      "title": "[HIRING] Indigo VC — 3D Artist — Roblox (Remote)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003133:1",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-thumbnail-designer-remote/5003133",
+      "title": "[HIRING] Indigo VC — Roblox Thumbnail Designer (Remote)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003206:1",
+      "url": "https://devforum.roblox.com/t/script-analysis-does-not-update-dependent-scripts/5003206",
+      "title": "Script analysis does not update dependent scripts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xutvhb",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutvhb/please_help_me_build_olcx_tracks/",
       "title": "Please help me build OLCX tracks!",
@@ -2501,19 +2526,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuwehf",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuwehf/looking_for_feedback_for_my_game/",
-      "title": "Looking for feedback for my game",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xv93hp",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv93hp/looking_for_vfx_artists_for_my_jojos_roblox_game/",
       "title": "Looking for vfx artists for my jojo's roblox game, dm me on discord if you are interested kraze_yt",
@@ -2522,36 +2534,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xv96q7",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv96q7/not_paid_searching_collaborators_for_asymetrical/",
-      "title": "[Not paid] Searching collaborators for Asymetrical Horror Game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "UI and menus",
-        "animation and audio",
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvd9sm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvd9sm/made_stylized_flowers_with_5_growth_stages_for/",
-      "title": "Made stylized flowers with 5 growth stages for farming games – thoughts on the style?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "first-session and mobile",
-        "building and purchases",
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2854,20 +2836,6 @@
       "signals": [
         "building and purchases",
         "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989579:1",
-      "url": "https://devforum.roblox.com/t/unable-to-view-more-than-100-assets-in-the-recent-uploads-tab/4989579",
-      "title": "Unable to view more than 100 assets in the \"Recent Uploads\" tab",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "animation and audio"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3190,6 +3158,34 @@
       "signals": [
         "economy and income",
         "animation and audio"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003124:1",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-acquisition-executive-%E2%80%94-roblox-games-remote/5003124",
+      "title": "[HIRING] Indigo VC — Acquisition Executive — Roblox Games (Remote)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003130:1",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-game-producer-%E2%80%94-roblox-liveops-remote/5003130",
+      "title": "[HIRING] Indigo VC — Game Producer — Roblox LiveOps (Remote)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -4374,19 +4370,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuw85p",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuw85p/try_my_game_cold_front_camp_battlegrounds/",
-      "title": "Try My Game! Cold Front: Camp Battlegrounds",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xuwcyt",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuwcyt/hey_rrobloxstudio_i_need_your_help_to_make_my/",
       "title": "Hey R/RobloxStudio! I need your help to make my roblox game!",
@@ -4864,17 +4847,6 @@
       "key": "devforum:4989360:1",
       "url": "https://devforum.roblox.com/t/can-i-sell-limiteds-after-i-lose-plus/4989360",
       "title": "Can I sell limiteds after I lose Plus?",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989480:1",
-      "url": "https://devforum.roblox.com/t/superchefs-gameplay-preview/4989480",
-      "title": "SUPERCHEFS! Gameplay preview",
       "source": "roblox-devforum-latest",
       "published": "2026-11-13",
       "kind": "devforum",
@@ -6346,6 +6318,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5003127:1",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-acquisition-hunter-%E2%80%94-roblox-game-sourcing-remote/5003127",
+      "title": "[HIRING] Indigo VC — Acquisition Hunter — Roblox Game Sourcing (Remote)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003149:1",
+      "url": "https://devforum.roblox.com/t/volcano-detection/5003149",
+      "title": "Volcano Detection",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003167:1",
+      "url": "https://devforum.roblox.com/t/account-unlock-verification-broken/5003167",
+      "title": "Account Unlock Verification Broken",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003198:1",
+      "url": "https://devforum.roblox.com/t/enumkeycodebuttonr3-doesnt-work-with-the-input-action-system/5003198",
+      "title": "Enum.KeyCode.ButtonR3 doesnt work with the Input Action System",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuts25",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuts25/video_doesnt_get_approved/",
       "title": "Video doesnt get approved",
@@ -6445,31 +6461,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xvdc6x",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvdc6x/after_many_months_my_backrooms_game_finally/",
-      "title": "After many months my Backrooms game finally released to the public",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xvdn4b",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvdn4b/superchefs_gameplay_preview/",
       "title": "SUPERCHEFS! Gameplay preview",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvkzmk",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvkzmk/criei_algo_e_agora_fiquei_sem_caminho/",
-      "title": "Criei algo e agora fiquei sem caminho",
       "source": "reddit-robloxdev",
       "published": "2026-11-13",
       "kind": "reddit",
@@ -7116,6 +7110,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE50ckljVDhRWXJUamVJR25fNEp4SGo5Q2RWR1FFcFBOVjU5YjRILWE1eV9VZmdfTE40c2pnWW9IUGZ2V3BPSV84eEtMUFB1Y2xncmZPNVBB",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ckljVDhRWXJUamVJR25fNEp4SGo5Q2RWR1FFcFBOVjU5YjRILWE1eV9VZmdfTE40c2pnWW9IUGZ2V3BPSV84eEtMUFB1Y2xncmZPNVBB?oc=5",
+      "title": "How to Maintain Your Vibecoded Roblox Game (Part 0) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-20",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5ETE1KR3ZpNnVHa3E4SXJUM0ROLTBrTkIxeUd1R1hOMHNWZmVCQWM1UGFjc3lhQldnZWFfNW1EVU5HZWUxVUV2elRtR1BEWUg0UzR1M1BB",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ETE1KR3ZpNnVHa3E4SXJUM0ROLTBrTkIxeUd1R1hOMHNWZmVCQWM1UGFjc3lhQldnZWFfNW1EVU5HZWUxVUV2elRtR1BEWUg0UzR1M1BB?oc=5",
       "title": "Today with Ben in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
@@ -7173,7 +7178,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk01Tk1Qc2VreUR3UVFMeG5qQkllbDItNUtXbzA5SGF3Nk50c0VQc3BDSXVhd2FZckh4emItTURMaVlacURwNHlMM1FMTS03c3RTeVFR?oc=5",
       "title": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg - Instagram",
       "source": "brock-ig-reels",
-      "published": "2026-11-22",
+      "published": "2026-11-21",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
@@ -7187,19 +7192,6 @@
       "title": "Guys today Im here with brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
       "source": "brock-ig-reels",
       "published": "2026-11-20",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn?oc=5",
-      "title": "Only Today with Sammy and Brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-11-13",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"

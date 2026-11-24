@@ -1,19 +1,5 @@
 {
   "seen": [
-    "4f01fc454c80a6160ac4f0f9",
-    "5eec364ce3bb61ab07cf686b",
-    "46a8347703b2cf60bb551b5b",
-    "4e7f075a65171378cb32a81e",
-    "71870b2e8763a89148e2fdf6",
-    "cfabfe50da6f56875271f743",
-    "ee3a444fbf393f05f8e64978",
-    "7758ab80555f0f8f46608f21",
-    "f77b023bbf844b7abcce8d00",
-    "36175d49ac9835d430c1b47d",
-    "3e63f5bfac20cc4a861aa6bf",
-    "83355f3c7f6aa3757fe6d3c8",
-    "92582989169d3ace37482145",
-    "713ccc618f5816fed19fb8e5",
     "4a44533463c4fa3464443a2c",
     "dc159c5c28753fa5bd71f4be",
     "45f91e058b6a1517613630eb",
@@ -3999,9 +3985,35 @@
     "8b03fadb01fe2174132947b8",
     "bfee003bb333667572380ff5",
     "6f5f01289656ddacf6a12734",
-    "b26c9d6677a11f614f0ba9d8"
+    "b26c9d6677a11f614f0ba9d8",
+    "ff6f9a9acd6209cad2c70bbb",
+    "990cd76415e9f4e1c3e5ee13",
+    "94647d34ee8877f4b0274053",
+    "1fee63ccede512b2782443e8",
+    "3441ae2796bf9108f101ed2f",
+    "6af7045ef73107501e62ecc2",
+    "9b34bcb6569e6982b8568ff7",
+    "e6b748de5c9b3c94206bf704",
+    "7d135a41bb01e2fa17f38eb1",
+    "5330dd8230368dd4440d01f1",
+    "ca029949b3f3e13f47ffaa4b",
+    "b841c146347f8ce4748ef65e",
+    "5cb482150018121258a93dd1",
+    "d4bc5fff7112b2cb475f67c7"
   ],
   "items": [
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Script analysis does not update dependent scripts",
+      "url": "https://devforum.roblox.com/t/script-analysis-does-not-update-dependent-scripts/5003206",
+      "published": "2026-11-24",
+      "excerpt": "Background: During script editing script analysis has been updated properly in scope of current file only. In some cases that’s not enough, for example, editing exported types in a module script affects all files that include the module and use changed types. To reproduce: Put these two scripts into",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/script-analysis-does-not-update-dependent-scripts/5003206.rss",
+      "id": "ff6f9a9acd6209cad2c70bbb"
+    },
     {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
@@ -4018,6 +4030,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "[HIRING] Indigo VC — Game Producer — Roblox LiveOps (Remote)",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-game-producer-%E2%80%94-roblox-liveops-remote/5003130",
+      "published": "2026-11-24",
+      "excerpt": "Indigo VC develops and grows live Roblox games. You’ll lead a small cross-functional team and take updates and live events from concept to release. Remote · Full-time What you’ll do Lead developers, artists, QA specialists and game designers through live releases. Review game performance and turn wh",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-game-producer-%E2%80%94-roblox-liveops-remote/5003130.rss",
+      "id": "e6b748de5c9b3c94206bf704"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING] Indigo VC — Acquisition Executive — Roblox Games (Remote)",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-acquisition-executive-%E2%80%94-roblox-games-remote/5003124",
+      "published": "2026-11-24",
+      "excerpt": "Indigo VC acquires and grows Roblox games. You’ll work with developers and owners to understand how their games perform, identify where they can grow and take acquisition conversations through to closing. Remote · Full-time What you’ll do Review game performance and identify credible opportunities f",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-acquisition-executive-%E2%80%94-roblox-games-remote/5003124.rss",
+      "id": "ca029949b3f3e13f47ffaa4b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "MicroProfiler Info Explorer - Web Tool to explore MicroProfiler Tags",
       "url": "https://devforum.roblox.com/t/microprofiler-info-explorer-web-tool-to-explore-microprofiler-tags/5002736",
       "published": "2026-11-24",
@@ -4025,6 +4061,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/microprofiler-info-explorer-web-tool-to-explore-microprofiler-tags/5002736.rss",
       "id": "bc7caeea7a5a75b902a6742b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "My Roblox Studio camera is super slow",
+      "url": "https://devforum.roblox.com/t/my-roblox-studio-camera-is-super-slow/5003110",
+      "published": "2026-11-24",
+      "excerpt": "My Roblox Studio camera moves super slowly, I tried disabling the new camera movement beta feature but it didn’t fix the issue. I checked if I was pressing shift but I wasn’t, and when I pressed it the camera got even slower. 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/my-roblox-studio-camera-is-super-slow/5003110.rss",
+      "id": "b841c146347f8ce4748ef65e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4054,6 +4102,78 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "[HIRING] Indigo VC — 3D Artist — Roblox (Remote)",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-3d-artist-%E2%80%94-roblox-remote/5003132",
+      "published": "2026-11-24",
+      "excerpt": "Indigo VC creates and grows Roblox games. You’ll work with artists, developers and a producer to make assets that establish a game’s look and run well in play. Remote · Full-time What you’ll do Model characters, environments, props and other game assets. Create materials and textures, lay out UVs an",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-3d-artist-%E2%80%94-roblox-remote/5003132.rss",
+      "id": "9b34bcb6569e6982b8568ff7"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Enum.KeyCode.ButtonR3 doesnt work with the Input Action System",
+      "url": "https://devforum.roblox.com/t/enumkeycodebuttonr3-doesnt-work-with-the-input-action-system/5003198",
+      "published": "2026-11-24",
+      "excerpt": "What the title says. I have created a InputContext with piority of 4000 and enabled set to true, a InputAction named swirl inside of it with enabled set to true and a InputBinding inside of that with keycode set to `Enum.KeyCode.ButtonR3`, and i tried listening to .Pressed and .StateChanged but noth",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/enumkeycodebuttonr3-doesnt-work-with-the-input-action-system/5003198.rss",
+      "id": "990cd76415e9f4e1c3e5ee13"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Account Unlock Verification Broken",
+      "url": "https://devforum.roblox.com/t/account-unlock-verification-broken/5003167",
+      "published": "2026-11-24",
+      "excerpt": "I am experiencing an issue with the account unlock verification system. When logging into my Roblox account, I receive the following message: “We’ve detected suspicious activity on this account. You can unlock your account by confirming that you’re a human.” When I press “Continue”, Roblox displays ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/account-unlock-verification-broken/5003167.rss",
+      "id": "94647d34ee8877f4b0274053"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING] Indigo VC — Roblox Luau Developer (Remote)",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-luau-developer-remote/5003129",
+      "published": "2026-11-24",
+      "excerpt": "Indigo VC works on new and established Roblox games. You’ll write Luau, build gameplay mechanics and ship improvements in live titles. Remote · Full-time What you’ll do Prototype new gameplay ideas in Roblox Studio. Implement game logic and mechanics in Luau. Develop and release updates for live Rob",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-luau-developer-remote/5003129.rss",
+      "id": "7d135a41bb01e2fa17f38eb1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING] Indigo VC — Roblox Thumbnail Designer (Remote)",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-thumbnail-designer-remote/5003133",
+      "published": "2026-11-24",
+      "excerpt": "Indigo VC works on Roblox games. You’ll develop concepts and make thumbnails and icons that give players a clear reason to explore a game when browsing Roblox. Remote · Full-time What you’ll do Develop visual concepts for game icons and thumbnails. Turn strong concepts into finished images with clea",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-thumbnail-designer-remote/5003133.rss",
+      "id": "6af7045ef73107501e62ecc2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING] Indigo VC — Acquisition Hunter — Roblox Game Sourcing (Remote)",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-acquisition-hunter-%E2%80%94-roblox-game-sourcing-remote/5003127",
+      "published": "2026-11-24",
+      "excerpt": "Indigo VC acquires and grows Roblox games alongside their creators. You’ll discover promising Roblox games, identify who owns them and start informed conversations with their creators. Remote What you’ll do Research Roblox games and assess which titles are a good fit for Indigo VC. Identify the righ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-acquisition-hunter-%E2%80%94-roblox-game-sourcing-remote/5003127.rss",
+      "id": "5330dd8230368dd4440d01f1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Output is always unusable & cluttered with plugin junk after shutdown deadline was exceeded",
       "url": "https://devforum.roblox.com/t/output-is-always-unusable-cluttered-with-plugin-junk-after-shutdown-deadline-was-exceeded/5002718",
       "published": "2026-11-24",
@@ -4061,6 +4181,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/output-is-always-unusable-cluttered-with-plugin-junk-after-shutdown-deadline-was-exceeded/5002718.rss",
       "id": "3e29896af53c0007dbff49aa"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[HIRING] Indigo VC — Account Manager — Roblox Studio Partnerships (Remote)",
+      "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-account-manager-%E2%80%94-roblox-studio-partnerships-remote/5003134",
+      "published": "2026-11-24",
+      "excerpt": "Indigo VC works with game owners to grow their titles. You’ll be a regular point of contact for Roblox studio partners and keep them informed about what’s happening with their games. Remote · Full-time What you’ll do Build and maintain relationships with Roblox game owners and studio partners. Check",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-account-manager-%E2%80%94-roblox-studio-partnerships-remote/5003134.rss",
+      "id": "3441ae2796bf9108f101ed2f"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Volcano Detection",
+      "url": "https://devforum.roblox.com/t/volcano-detection/5003149",
+      "published": "2026-11-24",
+      "excerpt": "Greetings to all readers. Here’s a funny discovery I want to share with you today on Volcano: while task.wait(1) do if game:FindService(\"OpenCloudService\") then warn(\"detected :(\") end end Feel free to use it until it’s patched! 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/volcano-detection/5003149.rss",
+      "id": "1fee63ccede512b2782443e8"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4842,18 +4986,6 @@
       "id": "44b5625b9281da2664753a13"
     },
     {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk01Tk1Qc2VreUR3UVFMeG5qQkllbDItNUtXbzA5SGF3Nk50c0VQc3BDSXVhd2FZckh4emItTURMaVlacURwNHlMM1FMTS03c3RTeVFR?oc=5",
-      "published": "2026-11-22",
-      "excerpt": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "3d82ac7f030b8e864e0e4e33"
-    },
-    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -5358,6 +5490,18 @@
       "id": "3d91573dbe4118ed9522382c"
     },
     {
+      "source": "brock-ig-reels",
+      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
+      "category": "Roblox creator / Steal An Egg",
+      "title": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk01Tk1Qc2VreUR3UVFMeG5qQkllbDItNUtXbzA5SGF3Nk50c0VQc3BDSXVhd2FZckh4emItTURMaVlacURwNHlMM1FMTS03c3RTeVFR?oc=5",
+      "published": "2026-11-21",
+      "excerpt": "The Secret Admin in my game Steal an egg is Now happening 🔥 #roblox #robloxfyp #stealanegg Instagram",
+      "creator": "",
+      "publisher": "https://www.instagram.com",
+      "id": "3d82ac7f030b8e864e0e4e33"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -5764,6 +5908,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/content-maturity-ratings-for-avatar-items-fallback-avatars/4997911.rss",
       "id": "7fbd7328e26bae0039004314"
+    },
+    {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How to Maintain Your Vibecoded Roblox Game (Part 0) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ckljVDhRWXJUamVJR25fNEp4SGo5Q2RWR1FFcFBOVjU5YjRILWE1eV9VZmdfTE40c2pnWW9IUGZ2V3BPSV84eEtMUFB1Y2xncmZPNVBB?oc=5",
+      "published": "2026-11-20",
+      "excerpt": "How to Maintain Your Vibecoded Roblox Game (Part 0) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "5cb482150018121258a93dd1"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10901,154 +11057,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/some-grass-doesnt-load-while-using-expanded-terrain/4989282.rss",
       "id": "2f1bd415c8fedc4a0ebaca94"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "After many months my Backrooms game finally released to the public",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvdc6x/after_many_months_my_backrooms_game_finally/",
-      "published": "2026-11-13",
-      "excerpt": "I would appreciate you guys helping me out with bug testing by submitting them under this post expect slight bugs as the game is in alpha and two people are not enough testers to find every bug. Please also tell me if you like it and maybe give me some things to add as im open to any ideas submitted",
-      "creator": "/u/Eiecro https://www.reddit.com/user/Eiecro",
-      "id": "2a9dfc8a02e7bf33debec42c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Should I Use AlyaNum From the Start in My Simulator Game?",
-      "url": "https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964",
-      "published": "2026-11-13",
-      "excerpt": "Would it make sense to use a big number library like AlyaNum from the very beginning when developing a simulator game where numbers can eventually grow very large? I’m planning to maintain the game long-term, and I don’t intend to introduce additional currencies for progression resets, unlike Pet Si",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/should-i-use-alyanum-from-the-start-in-my-simulator-game/4988964.rss",
-      "id": "2675dfd0db10b1f0e1b2788f"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Looking for feedback for my game",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuwehf/looking_for_feedback_for_my_game/",
-      "published": "2026-11-13",
-      "excerpt": "any feedback more than welcome, positive or negative (negative ore welcome as it helps to improve the main game loop); Zombies vs Players submitted by /u/no3us [link] [comments]",
-      "creator": "/u/no3us https://www.reddit.com/user/no3us",
-      "id": "23e65a0ae817b2bdb1311550"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "SUPERCHEFS! Gameplay preview",
-      "url": "https://devforum.roblox.com/t/superchefs-gameplay-preview/4989480",
-      "published": "2026-11-13",
-      "excerpt": "We’ve been working on this game for more than 2 years. Here’s what it looks like now! Please let me know what you think:) SUPERCHEFS! Gameplay preview 4 posts - 4 participants Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/superchefs-gameplay-preview/4989480.rss",
-      "id": "21a280484f3ad59f2f92eefa"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Made stylized flowers with 5 growth stages for farming games – thoughts on the style?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvd9sm/made_stylized_flowers_with_5_growth_stages_for/",
-      "published": "2026-11-13",
-      "excerpt": "18 flowers & plants, 5 growth stages each, 14 bouquets and 10 garden plots. Everything is low poly so it runs fine on mobile. Would love feedback from Roblox devs. Is this the kind of style you'd use in a farming or tycoon game? submitted by /u/RiescArts [link] [comments]",
-      "creator": "/u/RiescArts https://www.reddit.com/user/RiescArts",
-      "id": "1f0f27c7952fe2415520114c"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Try My Game! Cold Front: Camp Battlegrounds",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuw85p/try_my_game_cold_front_camp_battlegrounds/",
-      "published": "2026-11-13",
-      "excerpt": "Hey all, I would love to get input from regular Roblox players on the game experience I've launched this week. I am an avid multiplayer gamer and game developer - doing a Roblox game as a learning experience for me as well as a way to connect with my kiddo. Feedback desired: How does the pace of the",
-      "creator": "/u/bardic_ https://www.reddit.com/user/bardic_",
-      "id": "1dd8099f837703fb3327626c"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Criei algo e agora fiquei sem caminho",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvkzmk/criei_algo_e_agora_fiquei_sem_caminho/",
-      "published": "2026-11-13",
-      "excerpt": "Nos últimos meses, principalmente no ano passado, jogos como Inkgame, baseados na série de sucesso Round 6, se popularizaram bastante no Roblox. E continuam se popularizando, visto que agora estão começando a produzir \"episódios\" inteiros dentro da própria plataforma. Em apenas alguns meses, planeje",
-      "creator": "/u/PhraseRadiant3201 https://www.reddit.com/user/PhraseRadiant3201",
-      "id": "1c584cd1bc42e12e041c005f"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Expedited review taking 3 weeks review for all ages",
-      "url": "https://devforum.roblox.com/t/expedited-review-taking-3-weeks-review-for-all-ages/4988985",
-      "published": "2026-11-13",
-      "excerpt": "On the 28th of October I paid the 50,000 robux publishing fee to expedite the games review as it advertises that it takes up to 48h. I had my partner transfer me the games group before finalizing some changes, we did the games ratings etc before publishing and making the game public. I had then paid",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/expedited-review-taking-3-weeks-review-for-all-ages/4988985.rss",
-      "id": "1b6a1f388e56e0aa76ef9d99"
-    },
-    {
-      "source": "brock-ig-reels",
-      "label": "Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d",
-      "category": "Roblox creator / Steal An Egg",
-      "title": "Only Today with Sammy and Brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80OXJYQ2NFWmFfQlhGc2JFUXVrWmdHWGYxYmFyMXNMRGVQRGtqTlU2SHpIa2U1Z1dFRlZLZ256eHBtZnQ3LXo2VWl1QXFYSmFneGdZZXdn?oc=5",
-      "published": "2026-11-13",
-      "excerpt": "Only Today with Sammy and Brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg Instagram",
-      "creator": "",
-      "publisher": "https://www.instagram.com",
-      "id": "19fe142c45fcb65a5d81da42"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Finally got some models! Feedback Welcome",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuxpu6/finally_got_some_models_feedback_welcome/",
-      "published": "2026-11-13",
-      "excerpt": "Finally started to dabble in blender some more to get some assets for the map ive been working on! this is what ive got so far for what im wanting i plan on adding a few more things before i import but so far so good i think! submitted by /u/OacKrulcifer [link] [comments]",
-      "creator": "/u/OacKrulcifer https://www.reddit.com/user/OacKrulcifer",
-      "id": "184fa57c15f989aa9df47b73"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xv0ip6/building_a_new_roblox_gaming_studio_founding_team/",
-      "published": "2026-11-13",
-      "excerpt": "[TL;DR BELOW] We're building something ambitious, and we're looking for talented, creative and passionate people who want to be part of it from the very beginning. We're an existing AI-focused technology company currently expanding into the gaming industry, with a new initiative focused on developin",
-      "creator": "/u/Right-Relation6248 https://www.reddit.com/user/Right-Relation6248",
-      "id": "17b95e51280a701691a59b40"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "[Not paid] Searching collaborators for Asymetrical Horror Game",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv96q7/not_paid_searching_collaborators_for_asymetrical/",
-      "published": "2026-11-13",
-      "excerpt": "Hello, My name is Alexis, and I’m a small-scale developer on Roblox Studio. My projects have never really come to fruition—and do you know why? Because I was working alone. I am now looking for a team to help me develop an asymmetrical horror game. I am seeking: A mapper A UI designer An animator A ",
-      "creator": "/u/Al2000_7 https://www.reddit.com/user/Al2000_7",
-      "id": "139b45d31321333558f0e386"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Unable to view more than 100 assets in the \"Recent Uploads\" tab",
-      "url": "https://devforum.roblox.com/t/unable-to-view-more-than-100-assets-in-the-recent-uploads-tab/4989579",
-      "published": "2026-11-13",
-      "excerpt": "In the Asset Manager I am constantly uploading a LOT of images. Tons of VFX, tons of effects, tons of icons for my UI, etc, but unfortunately I’ve been running into this super annoying issue where every time I try and upload tons of assets I can’t copy them from the uploads section because it maxes ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/unable-to-view-more-than-100-assets-in-the-recent-uploads-tab/4989579.rss",
-      "id": "10ae3aa0dccb3ae552c3ca38"
     }
   ]
 }

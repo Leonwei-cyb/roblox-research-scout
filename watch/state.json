@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "fa16ffdeeb0160cfb3ba05e964704057751ef831",
-      "head_subject": "Start next version",
+      "head": "5d81cd88328253c1b73dfb0f17db4dbacf19624d",
+      "head_subject": "Avoid duplicated enclosure titles (#9615)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.31.0",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.31.0",
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "a23352b27af917e55e165e4d42583580700d1fbf",
+      "head": "5a1a9b40def9f7393b3431c7b57a2ee925436b99",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "4d490bbbf090069a9cfb7dc7d0797d58ac60845b",
+      "head": "a66d0cfb4508af8e8a9e7d253636379c66e82640",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.331",
@@ -132,13 +132,14 @@
       "head": "924cc286cc592f49c481fa84e15fa60dbc75989e",
       "head_subject": "inkling2: faster Metal decode, prefill and draft rounds (#19843)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.17",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
+      "release_tag": "v0.40.18",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
       "url": "https://github.com/ollama/ollama"
     }
   },
   "seen": [
     "0neShot101/rbxdev-ls",
+    "1c7/chinese-independent-developer",
     "AI-Atlaas/AI-Atlaas",
     "AIshihzong/awesome-reverse-engineer-anything",
     "AallamR/RobloxForge-Intelligence",

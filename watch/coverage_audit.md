@@ -7,12 +7,13 @@ Links and metadata collected; original social videos are NOT automatically playe
 | Saved source entries | 600 |
 | Original media URLs | 6 |
 | Indexed redirects, original unknown | 39 |
-| Failed feeds | 3 |
+| Failed feeds | 4 |
 
 ## Failures to resolve
 
-- reddit-robloxstudio: HTTP 429
 - reddit-robloxdev: HTTP 404
+- reddit-robloxstudio: HTTP 429
+- roblox-news: HTTP 429
 - youtube-UC1g8RAPLVidtYUzZFFiX2GA: HTTP 404
 
 ## Actions

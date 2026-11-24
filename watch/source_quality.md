@@ -28,8 +28,8 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| www.instagram.com | 21 |
-| www.youtube.com | 9 |
+| www.instagram.com | 20 |
+| www.youtube.com | 10 |
 | www.tiktok.com | 6 |
 | explainx.ai | 1 |
 | gamedev.net | 1 |

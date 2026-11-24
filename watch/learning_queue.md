@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 409
+- devforum: 417
 - index-only: 39
-- reddit: 146
+- reddit: 138
 - youtube: 6
 
 ## First-Session And Mobile
@@ -47,7 +47,7 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 ## World And Visual Design
 
 - [ACS Workbench: a plugin for setting up ACS 2.0.1 guns (looking for feedback)](https://devforum.roblox.com/t/acs-workbench-a-plugin-for-setting-up-acs-201-guns-looking-for-feedback/4998709) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Finally got some models! Feedback Welcome](https://www.reddit.com/r/ROBLOXStudio/comments/1xuxpu6/finally_got_some_models_feedback_welcome/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Any Tips Regarding the UI or the Lighting?](https://www.reddit.com/r/ROBLOXStudio/comments/1xwvyz1/any_tips_regarding_the_ui_or_the_lighting/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Genres And Successful Loops
 
