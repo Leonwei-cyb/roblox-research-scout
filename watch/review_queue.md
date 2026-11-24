@@ -17,6 +17,7 @@ Only inspect one lead when it unlocks a concrete fix in an existing game; this l
 ## 3D / models / environments
 
 - **[we’re building something tall. like, really tall. The Great Build starts 11.25](https://www.youtube.com/shorts/8JvpFu8saDw)** — Original media link, not watched
+- **[Keep Pixel Art Sharp on Meshes, Decals, and Textures](https://devforum.roblox.com/t/keep-pixel-art-sharp-on-meshes-decals-and-textures/5003488)** — Public text/page, video not confirmed
 - **[Terrain Updates Request: Wind, interaction and fade for scatters and meshes](https://devforum.roblox.com/t/terrain-updates-request-wind-interaction-and-fade-for-scatters-and-meshes/4999056)** — Public text/page, video not confirmed
 
 ## Claude / automation / testing

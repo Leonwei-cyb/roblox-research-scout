@@ -384,6 +384,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5003368:1",
+      "url": "https://devforum.roblox.com/t/studio-beta-sounds-support-acoustic-simulation-for-more-immersive-audio/5003368",
+      "title": "[Studio Beta] Sounds Support Acoustic Simulation for More Immersive Audio",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xutnny",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xutnny/hiring_scripters_modelers_moderators_and_maybe/",
       "title": "Hiring scripters, modelers, moderators, and maybe animators forum",
@@ -622,20 +636,6 @@
       "signals": [
         "UI and menus",
         "player feedback and marketing"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989658:1",
-      "url": "https://devforum.roblox.com/t/severe-fps-drops-caused-by-the-playback-indicator-in-the-animation-clip-editor/4989658",
-      "title": "Severe FPS drops caused by the playback indicator in the Animation Clip Editor",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio",
-        "tools and performance"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1033,6 +1033,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5003569:1",
+      "url": "https://devforum.roblox.com/t/animations-unable-to-reach-keyframes-certain-events-sometimes/5003569",
+      "title": "Animations unable to reach keyframes & certain events sometimes",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "player feedback and marketing"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003656:1",
+      "url": "https://devforum.roblox.com/t/torso-seems-to-be-moving-slower-in-game-while-playing-an-animation-but-normal-in-the-animation-thing/5003656",
+      "title": "Torso seems to be moving \"Slower\" in game while playing an animation but normal in the animation thing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuz5em",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuz5em/i_need_help_about_scripting/",
       "title": "I need help about scripting",
@@ -1056,20 +1084,6 @@
       "signals": [
         "player feedback and marketing",
         "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvmik9",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvmik9/beginner_dev_here_how_i_made_a_tsunami_that_rips/",
-      "title": "Beginner dev here: how I made a tsunami that rips the floor apart under players (+ a \"Final Collapse\" every round)",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1157,45 +1171,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988778:1",
-      "url": "https://devforum.roblox.com/t/studio-camera-bugs-out-when-i-try-to-look-around/4988778",
-      "title": "Studio camera bugs out when i try to look around",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988814:1",
-      "url": "https://devforum.roblox.com/t/open-builder-aacaptas-portfolio/4988814",
-      "title": "OPEN [BUILDER] | aacapta's Portfolio",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989282:1",
-      "url": "https://devforum.roblox.com/t/some-grass-doesnt-load-while-using-expanded-terrain/4989282",
-      "title": "Some grass doesn't load while using expanded terrain",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2500,27 +2475,40 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xutvhb",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutvhb/please_help_me_build_olcx_tracks/",
-      "title": "Please help me build OLCX tracks!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5003612:1",
+      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
+      "title": "Roblox Sponsored Ads Issues",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
       "signals": [
-        "building and purchases"
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuunl4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuunl4/we_are_building_a_real_alternative_to_roblox/",
-      "title": "We are building a real alternative to Roblox Commissions",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5003623:1",
+      "url": "https://devforum.roblox.com/t/experience-impressions-dropped-to-0-instantly-across-all-thumbnails-nov-21/5003623",
+      "title": "Experience impressions dropped to 0 instantly across all thumbnails (Nov 21)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
       "signals": [
-        "building and purchases"
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003723:1",
+      "url": "https://devforum.roblox.com/t/closed-crypticsoldat-animator/5003723",
+      "title": "[Closed] Cryptic_Soldat | Animator",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3191,6 +3179,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5003728:1",
+      "url": "https://devforum.roblox.com/t/make-marketplaceservicepromptcollectiblespurchase-available-for-developers-to-use/5003728",
+      "title": "Make MarketplaceService:PromptCollectiblesPurchase available for developers to use",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "player feedback and marketing"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xv3s7k",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv3s7k/need_reviewers_for_my_game_the_night_shift/",
       "title": "Need reviewers for my game The Night Shift",
@@ -3338,19 +3340,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989734:1",
-      "url": "https://devforum.roblox.com/t/team-test-output-and-remote-logs/4989734",
-      "title": "Team Test Output and Remote Logs",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4357,6 +4346,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5003619:1",
+      "url": "https://devforum.roblox.com/t/import-preview-window-not-showing-any-details/5003619",
+      "title": "Import Preview Window not showing any details",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003726:1",
+      "url": "https://devforum.roblox.com/t/this-downhill-cart-racing-game-has-poor-replayability-what-can-be-done/5003726",
+      "title": "This downhill cart racing game has poor replayability, what can be done?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003729:1",
+      "url": "https://devforum.roblox.com/t/unfiltered-voice-chat-between-trusted-friends-in-certain-servers/5003729",
+      "title": "Unfiltered Voice Chat Between Trusted Friends in Certain Servers",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuw5tu",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuw5tu/help/",
       "title": "help",
@@ -4378,19 +4406,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvmt1d",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvmt1d/is_a_game_still_respectable_if_its_built_using_ai/",
-      "title": "Is a game still respectable if it’s built using AI? Genuinely asking experienced Roblox developers.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4731,17 +4746,6 @@
         "player feedback and marketing"
       ],
       "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988733:1",
-      "url": "https://devforum.roblox.com/t/error-rbxassethash/4988733",
-      "title": "Error: rbxassethash",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -6362,12 +6366,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuts25",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuts25/video_doesnt_get_approved/",
-      "title": "Video doesnt get approved",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5003488:1",
+      "url": "https://devforum.roblox.com/t/keep-pixel-art-sharp-on-meshes-decals-and-textures/5003488",
+      "title": "Keep Pixel Art Sharp on Meshes, Decals, and Textures",
+      "source": "roblox-devforum-updates",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003587:1",
+      "url": "https://devforum.roblox.com/t/easier-controls-for-atmosphere/5003587",
+      "title": "Easier Controls for Atmosphere",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003633:1",
+      "url": "https://devforum.roblox.com/t/need-some-insight-on-a-compromised-roblox-account/5003633",
+      "title": "Need Some Insight on a Compromised Roblox Account",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5003655:1",
+      "url": "https://devforum.roblox.com/t/chat-action-required/5003655",
+      "title": "Chat Action Required",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-24",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -6377,28 +6414,6 @@
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutwkm/falcon_mechanic_finally_working/",
       "title": "Falcon Mechanic Finally Working!!",
       "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xux2ha",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xux2ha/i_decided_to_rework_chapter_1_of_my_game_from_a/",
-      "title": "I decided to rework chapter 1 of my game from a scratch and make it more detroit become human looking",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xuxlsb",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuxlsb/stuff_i_made_for_my_game_im_making_durnobulis/",
-      "title": "stuff I made for my game I'm making: DURNOBULIS",
-      "source": "reddit-robloxstudio",
       "published": "2026-11-13",
       "kind": "reddit",
       "signals": [],
@@ -6439,17 +6454,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xva1qn",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xva1qn/added_settings_to_my_game/",
-      "title": "Added Settings to my game.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xvcoad",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvcoad/how_are_these_day_45_stats_theyre_below_50th/",
       "title": "How are these day 4.5 stats? They're below 50th Percentile. Is it still worth pushing?",
@@ -6464,17 +6468,6 @@
       "key": "reddit:1xvdn4b",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvdn4b/superchefs_gameplay_preview/",
       "title": "SUPERCHEFS! Gameplay preview",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvm93q",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvm93q/any_opinions_on_these_numbers/",
-      "title": "Any opinions on these numbers?",
       "source": "reddit-robloxdev",
       "published": "2026-11-13",
       "kind": "reddit",
@@ -7155,6 +7148,19 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXNMUnpkWTgxWVIxSEI1YUZQVHkteEVqZ2FSelZOcGxLalo5djdTbUFFazRXdW1MdVdmaU5yRDBpdHFqaEt6c0ZRTEZMR0xISHQ3aF9n",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXNMUnpkWTgxWVIxSEI1YUZQVHkteEVqZ2FSelZOcGxLalo5djdTbUFFazRXdW1MdVdmaU5yRDBpdHFqaEt6c0ZRTEZMR0xISHQ3aF9n?oc=5",
+      "title": "Roblox Changed the Algorithm.. Here’s How to Get Players Now - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-14",
+      "kind": "index-only",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

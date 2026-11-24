@@ -1,20 +1,5 @@
 {
   "seen": [
-    "4a44533463c4fa3464443a2c",
-    "dc159c5c28753fa5bd71f4be",
-    "45f91e058b6a1517613630eb",
-    "620319072f2103ec1a8bd316",
-    "e270c3ea47e539bc1605ff58",
-    "c10ef3054b570cc8d17ecba4",
-    "99037f4773a35082f00b21c2",
-    "835f389d0fc22ee85f0f6ae9",
-    "0ed38a5b109dd769a8ed36e3",
-    "5b4518876c87e745700280b8",
-    "dc32fc6472e650d82ab64ac6",
-    "002ecda5afa1da597fafdcce",
-    "267a10374649e7053c98d2b4",
-    "cd119de44311e83021fa868b",
-    "a553db9f9c35e6b7a9f6fa82",
     "fef70a74b1a44da49d9556d3",
     "dc7e52ffedf2d3d4eca14a69",
     "2f3e8052442526aab965cf3c",
@@ -3999,7 +3984,22 @@
     "ca029949b3f3e13f47ffaa4b",
     "b841c146347f8ce4748ef65e",
     "5cb482150018121258a93dd1",
-    "d4bc5fff7112b2cb475f67c7"
+    "d4bc5fff7112b2cb475f67c7",
+    "5295de5653ad1b4b285c20d4",
+    "b6e8feb5b9422e3a6b8ab569",
+    "764f0fd9230913350564d688",
+    "0ce7e45b961608ee4a3b9dc4",
+    "737bde930a1c2fde26ca13cd",
+    "895a5fba78a77b98bcd2bc48",
+    "95c91dfbda2a0c3c6aa95f74",
+    "e5c06d038d2132d16a04321b",
+    "1d4bb07b38dae2ca26c0b5c3",
+    "a6d3ed3b0f1c20071494fa32",
+    "58458d34c5dd20b86f4e37bc",
+    "8830bceb74124f58e16aaa04",
+    "8f17a21e519378a8c5abe176",
+    "34d712098bf1eebe65d9e3d9",
+    "18b4b492d1704f911f453294"
   ],
   "items": [
     {
@@ -4042,6 +4042,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Experience impressions dropped to 0 instantly across all thumbnails (Nov 21)",
+      "url": "https://devforum.roblox.com/t/experience-impressions-dropped-to-0-instantly-across-all-thumbnails-nov-21/5003623",
+      "published": "2026-11-24",
+      "excerpt": "On November 21, 2026, at approximately 14:00–15:00 UTC, impressions for my experience “Doodle Jailbreak” suddenly dropped to 0 and have stayed at exactly 0 for 3+ days. Details: All 3 thumbnails dropped to 0 at the exact same time. Right before the drop, the experience was at its peak (~23,000 impre",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/experience-impressions-dropped-to-0-instantly-across-all-thumbnails-nov-21/5003623.rss",
+      "id": "e5c06d038d2132d16a04321b"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[HIRING] Indigo VC — Acquisition Executive — Roblox Games (Remote)",
       "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-acquisition-executive-%E2%80%94-roblox-games-remote/5003124",
       "published": "2026-11-24",
@@ -4078,6 +4090,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Make MarketplaceService:PromptCollectiblesPurchase available for developers to use",
+      "url": "https://devforum.roblox.com/t/make-marketplaceservicepromptcollectiblespurchase-available-for-developers-to-use/5003728",
+      "published": "2026-11-24",
+      "excerpt": "As a Roblox developer, it is currently too difficult to let players purchase a specific resale listing of a Limited or UGC Limited item in a game. I’m making a game which has a feature that lets players filter an item’s resale listings by things such as lowest serial, highest serial and price. While",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/make-marketplaceservicepromptcollectiblespurchase-available-for-developers-to-use/5003728.rss",
+      "id": "b6e8feb5b9422e3a6b8ab569"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "The sales by location for ugc isn't properly displaying",
       "url": "https://devforum.roblox.com/t/the-sales-by-location-for-ugc-isnt-properly-displaying/5002815",
       "published": "2026-11-24",
@@ -4085,6 +4109,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/the-sales-by-location-for-ugc-isnt-properly-displaying/5002815.rss",
       "id": "adddb811eb4cf71f6f09c510"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Sponsored Ads Issues",
+      "url": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612",
+      "published": "2026-11-24",
+      "excerpt": "I hate to come on here and just complain, but has anyone else noticed issues with Roblox’s sponsored ads especially as of recently? What I mean by this, they’re so inconsistent, bring in what looks to be bots, and are so expensive yet bring in horrible traffic that doesn’t even give your game a chan",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-sponsored-ads-issues/5003612.rss",
+      "id": "a6d3ed3b0f1c20071494fa32"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4126,6 +4162,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Need Some Insight on a Compromised Roblox Account",
+      "url": "https://devforum.roblox.com/t/need-some-insight-on-a-compromised-roblox-account/5003633",
+      "published": "2026-11-24",
+      "excerpt": "Need Some Insight on a Compromised Roblox Account (xuq1i) Hey everyone, I’ve been dealing with a frustrating account-recovery situation for quite a while, and I’d appreciate some insight from people familiar with how Roblox handles these cases. The account is xuq1i, which I’ve owned since 2017. Here",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/need-some-insight-on-a-compromised-roblox-account/5003633.rss",
+      "id": "95c91dfbda2a0c3c6aa95f74"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Account Unlock Verification Broken",
       "url": "https://devforum.roblox.com/t/account-unlock-verification-broken/5003167",
       "published": "2026-11-24",
@@ -4133,6 +4181,42 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/account-unlock-verification-broken/5003167.rss",
       "id": "94647d34ee8877f4b0274053"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "Keep Pixel Art Sharp on Meshes, Decals, and Textures",
+      "url": "https://devforum.roblox.com/t/keep-pixel-art-sharp-on-meshes-decals-and-textures/5003488",
+      "published": "2026-11-24",
+      "excerpt": "Key Takeaways Pixelated resampling is now available for meshes, decals, and textures. Each source pixel renders as a crisp square, so you can upload pixel art at its original size instead of upscaling it. Find the new Pixelated option for the ResampleMode property under the SurfaceAppearance , Decal",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/keep-pixel-art-sharp-on-meshes-decals-and-textures/5003488.rss",
+      "id": "8f17a21e519378a8c5abe176"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Chat Action Required",
+      "url": "https://devforum.roblox.com/t/chat-action-required/5003655",
+      "published": "2026-11-24",
+      "excerpt": "No idea where else to put this to ask for support so I am posting this here. Almost a week ago now I got an email stating something chat related in my game didn’t comply with the chat rules or something and that it needed to be fixed by Dec 3rd. However as usual there was no communication whatsoever",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/chat-action-required/5003655.rss",
+      "id": "895a5fba78a77b98bcd2bc48"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Animations unable to reach keyframes & certain events sometimes",
+      "url": "https://devforum.roblox.com/t/animations-unable-to-reach-keyframes-certain-events-sometimes/5003569",
+      "published": "2026-11-24",
+      "excerpt": "We’re unsure if this is caused by any issues regarding the changes we’ve done, or if a recent update came out for the Roblox engine / client, but players have been experiencing frequent issues with animations especially during pivotal cutscenes where certain things happen way too soon or animations ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/animations-unable-to-reach-keyframes-certain-events-sometimes/5003569.rss",
+      "id": "8830bceb74124f58e16aaa04"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4150,6 +4234,30 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "This downhill cart racing game has poor replayability, what can be done?",
+      "url": "https://devforum.roblox.com/t/this-downhill-cart-racing-game-has-poor-replayability-what-can-be-done/5003726",
+      "published": "2026-11-24",
+      "excerpt": "Downhill Rush | Play on Roblox Players play a 1st race but then don’t want to play a 2nd one. 1 post - 1 participant Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/this-downhill-cart-racing-game-has-poor-replayability-what-can-be-done/5003726.rss",
+      "id": "764f0fd9230913350564d688"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Torso seems to be moving \"Slower\" in game while playing an animation but normal in the animation thing",
+      "url": "https://devforum.roblox.com/t/torso-seems-to-be-moving-slower-in-game-while-playing-an-animation-but-normal-in-the-animation-thing/5003656",
+      "published": "2026-11-24",
+      "excerpt": "(That anim is to test the head thing not moving and stuff) I tried disabling all scripts inside of it and playing the anim alone, it worked but the moment i used ANYTHING to move it like, “Humanoid:Move()” and stuff like that the anim would break again Forgot to mention, in that test anim the head w",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/torso-seems-to-be-moving-slower-in-game-while-playing-an-animation-but-normal-in-the-animation-thing/5003656.rss",
+      "id": "737bde930a1c2fde26ca13cd"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[HIRING] Indigo VC — Roblox Thumbnail Designer (Remote)",
       "url": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-thumbnail-designer-remote/5003133",
       "published": "2026-11-24",
@@ -4157,6 +4265,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/hiring-indigo-vc-%E2%80%94-roblox-thumbnail-designer-remote/5003133.rss",
       "id": "6af7045ef73107501e62ecc2"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Easier Controls for Atmosphere",
+      "url": "https://devforum.roblox.com/t/easier-controls-for-atmosphere/5003587",
+      "published": "2026-11-24",
+      "excerpt": "Currently it is hard to control Roblox atmosphere especially for medium-large maps. Example: First image shows the amount of background atmosphere I want but the foreground has too much fog. Second image shows Roblox fog with the correct starting distance but Roblox fog is a flat color which makes i",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/easier-controls-for-atmosphere/5003587.rss",
+      "id": "58458d34c5dd20b86f4e37bc"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4174,6 +4294,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Unfiltered Voice Chat Between Trusted Friends in Certain Servers",
+      "url": "https://devforum.roblox.com/t/unfiltered-voice-chat-between-trusted-friends-in-certain-servers/5003729",
+      "published": "2026-11-24",
+      "excerpt": "As a Roblox player, it is currently too hard to communicate with my friends in servers where it is just us. When I am playing games (horror for this scenario) with my friends, we are usually using voice chat for the proximity effect. Because we are playing a horror game, they often accidentally viol",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/unfiltered-voice-chat-between-trusted-friends-in-certain-servers/5003729.rss",
+      "id": "5295de5653ad1b4b285c20d4"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Output is always unusable & cluttered with plugin junk after shutdown deadline was exceeded",
       "url": "https://devforum.roblox.com/t/output-is-always-unusable-cluttered-with-plugin-junk-after-shutdown-deadline-was-exceeded/5002718",
       "published": "2026-11-24",
@@ -4181,6 +4313,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/output-is-always-unusable-cluttered-with-plugin-junk-after-shutdown-deadline-was-exceeded/5002718.rss",
       "id": "3e29896af53c0007dbff49aa"
+    },
+    {
+      "source": "roblox-devforum-updates",
+      "label": "Roblox updates category (availability may vary)",
+      "category": "roblox_updates",
+      "title": "[Studio Beta] Sounds Support Acoustic Simulation for More Immersive Audio",
+      "url": "https://devforum.roblox.com/t/studio-beta-sounds-support-acoustic-simulation-for-more-immersive-audio/5003368",
+      "published": "2026-11-24",
+      "excerpt": "Key Takeaways Sounds Use Wiring is now available as a Studio Beta. This brings Acoustic Simulation to `Sound` instances without migration or extra scripting, so you can more easily create more immersive and realistic sounds. Find it under File > Beta Features in Studio. Hi Creators, Recently we rele",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/studio-beta-sounds-support-acoustic-simulation-for-more-immersive-audio/5003368.rss",
+      "id": "34d712098bf1eebe65d9e3d9"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4205,6 +4349,30 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/volcano-detection/5003149.rss",
       "id": "1fee63ccede512b2782443e8"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Import Preview Window not showing any details",
+      "url": "https://devforum.roblox.com/t/import-preview-window-not-showing-any-details/5003619",
+      "published": "2026-11-24",
+      "excerpt": "Even after re-installation of Roblox Studio, this keeps showing up. Trying to use the Preview In an alternate account works fine. Not using any Beta Features. Bug just happened one day, and I haven’t been able to replicate on other accounts. 2 posts - 2 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/import-preview-window-not-showing-any-details/5003619.rss",
+      "id": "1d4bb07b38dae2ca26c0b5c3"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Closed] Cryptic_Soldat | Animator",
+      "url": "https://devforum.roblox.com/t/closed-crypticsoldat-animator/5003723",
+      "published": "2026-11-24",
+      "excerpt": "(Before you read, I don’t know how to properly organize this portfolio and I’m too lazy to try and learn how to use the tools to organize everything. This does not reflect my work ethic. Sorry if it’s messy. STATUS: CURRENTLY NOT FOR HIRE Animator with 7+ years of experience. I use blender to make m",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/closed-crypticsoldat-animator/5003723.rss",
+      "id": "0ce7e45b961608ee4a3b9dc4"
     },
     {
       "source": "roblox-devforum-latest",
@@ -10272,6 +10440,18 @@
       "id": "18d3df71a8842c11e0efdafa"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "Roblox Changed the Algorithm.. Here’s How to Get Players Now - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXNMUnpkWTgxWVIxSEI1YUZQVHkteEVqZ2FSelZOcGxLalo5djdTbUFFazRXdW1MdVdmaU5yRDBpdHFqaEt6c0ZRTEZMR0xISHQ3aF9n?oc=5",
+      "published": "2026-11-14",
+      "excerpt": "Roblox Changed the Algorithm.. Here’s How to Get Players Now YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "18b4b492d1704f911f453294"
+    },
+    {
       "source": "reddit-robloxdev",
       "label": "Reddit r/robloxgamedev public RSS",
       "category": "community",
@@ -10886,177 +11066,6 @@
       "creator": "",
       "publisher": "https://www.youtube.com",
       "id": "703608176f0a8cf6c6f493e9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Severe FPS drops caused by the playback indicator in the Animation Clip Editor",
-      "url": "https://devforum.roblox.com/t/severe-fps-drops-caused-by-the-playback-indicator-in-the-animation-clip-editor/4989658",
-      "published": "2026-11-13",
-      "excerpt": "I’ve discovered that the moving playhead (the blue playback indicator) in the Animation Clip Editor appears to be causing significant performance drops, even on high end hardware. After a Studio update a few months ago, I started experiencing severe FPS drops whenever playing animations. My FPS went",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/severe-fps-drops-caused-by-the-playback-indicator-in-the-animation-clip-editor/4989658.rss",
-      "id": "6a63e9a1cd9370936aaaf106"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "stuff I made for my game I'm making: DURNOBULIS",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuxlsb/stuff_i_made_for_my_game_im_making_durnobulis/",
-      "published": "2026-11-13",
-      "excerpt": "THIS GAME IS NOT AN ASYM! It's inspired by Doors (randomized sections), Dandy's World (Long, indefinite runs), Forsaken/Die of Death (Character designs have slight inspiration, such as Frutigal and Dominic), the Backrooms (Aspects of the lore, the dimension the game takes place in and the fact that ",
-      "creator": "/u/OutcomeFlat7568 https://www.reddit.com/user/OutcomeFlat7568",
-      "id": "6a49d195b7ad6b1e3dfa5945"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio camera bugs out when i try to look around",
-      "url": "https://devforum.roblox.com/t/studio-camera-bugs-out-when-i-try-to-look-around/4988778",
-      "published": "2026-11-13",
-      "excerpt": "it makes work impossible 1 post - 1 participant Read full topic",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-camera-bugs-out-when-i-try-to-look-around/4988778.rss",
-      "id": "68ba787fdc0444204618bdfe"
-    },
-    {
-      "source": "roblox-devforum-updates",
-      "label": "Roblox updates category (availability may vary)",
-      "category": "roblox_updates",
-      "title": "Team Test Output and Remote Logs",
-      "url": "https://devforum.roblox.com/t/team-test-output-and-remote-logs/4989734",
-      "published": "2026-11-13",
-      "excerpt": "Key Takeaways Team Test Client Logs let you see collaborators’ output in your Output window and read their logs from scripts with LogService:GetLogHistoryAsync , so your team can debug together. Start a Team Test with your collaborators and open your Output window to try it out today. Hi Creators, T",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/team-test-output-and-remote-logs/4989734.rss",
-      "id": "66b5ab18052e50479f1485df"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "OPEN [BUILDER] | aacapta's Portfolio",
-      "url": "https://devforum.roblox.com/t/open-builder-aacaptas-portfolio/4988814",
-      "published": "2026-11-13",
-      "excerpt": "About Me Hi, im aacapta, a Roblox Builder I have worked on big as well as small projects, I have had the opportunity to do many types of styles, if you have a project contact me Sci-fi : Military : Roleplay Stud • I only work with advance payment, depending on the type of project. • I only work alon",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/open-builder-aacaptas-portfolio/4988814.rss",
-      "id": "64eeb027e9d7ea7c5a963c28"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Beginner dev here: how I made a tsunami that rips the floor apart under players (+ a \"Final Collapse\" every round)",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvmik9/beginner_dev_here_how_i_made_a_tsunami_that_rips/",
-      "published": "2026-11-13",
-      "excerpt": "Hi! I'm a beginner developer and I've been learning by building a disaster survival game. My goal was that disasters don't just damage you, they destroy the floor under your feet. Here's how I did it. I'd love feedback from people who know more than me! ** The tsunami** - The wave is a mesh I made i",
-      "creator": "/u/Steve_kalmar https://www.reddit.com/user/Steve_kalmar",
-      "id": "649f1804e93fea8db90d5b2e"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "I decided to rework chapter 1 of my game from a scratch and make it more detroit become human looking",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xux2ha/i_decided_to_rework_chapter_1_of_my_game_from_a/",
-      "published": "2026-11-13",
-      "excerpt": "what do you guys think about it? submitted by /u/Ir1n_ [link] [comments]",
-      "creator": "/u/Ir1n_ https://www.reddit.com/user/Ir1n_",
-      "id": "630720a2f6f1cbe616ef3a25"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Please help me build OLCX tracks!",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutvhb/please_help_me_build_olcx_tracks/",
-      "published": "2026-11-13",
-      "excerpt": "Greetings people of roblox, I am the founder of the roblox transit agency Stemet. and we need your help, we are working on making a city game oak land city, however we need help with our Light rail sercive, OLCX. (Oak land city express.) We need developers to make tracks with colsion groups, and hel",
-      "creator": "/u/Best_Eye5117 https://www.reddit.com/user/Best_Eye5117",
-      "id": "62f7bd85c1d684ba62edb844"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Video doesnt get approved",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuts25/video_doesnt_get_approved/",
-      "published": "2026-11-13",
-      "excerpt": "Im trying to upload my preview video but it doesnt get approved. The person that edited it says it should be fine, he has made multiple videos before that did get approved. It also has roblox store music in it now but still didnt get approved. Does anyone know why it declines? submitted by /u/Zealou",
-      "creator": "/u/Zealousideal_Tap4578 https://www.reddit.com/user/Zealousideal_Tap4578",
-      "id": "5af7986d0509d423f681fa29"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Added Settings to my game.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xva1qn/added_settings_to_my_game/",
-      "published": "2026-11-13",
-      "excerpt": "Really really cool 😎😎 submitted by /u/No_Application6917 [link] [comments]",
-      "creator": "/u/No_Application6917 https://www.reddit.com/user/No_Application6917",
-      "id": "54e29134450641c830ac9464"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Is a game still respectable if it’s built using AI? Genuinely asking experienced Roblox developers.",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvmt1d/is_a_game_still_respectable_if_its_built_using_ai/",
-      "published": "2026-11-13",
-      "excerpt": "Hey everyone, Me and my buddy recently started developing our first Roblox game together, and I wanted to get some honest opinions from the developer community. For some background, neither of us has ever learned how to code. I work construction 8–10 hours a day, and we’re both married, so finding t",
-      "creator": "/u/ApplicationMost5548 https://www.reddit.com/user/ApplicationMost5548",
-      "id": "4fac727cb57eecad30708cad"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Error: rbxassethash",
-      "url": "https://devforum.roblox.com/t/error-rbxassethash/4988733",
-      "published": "2026-11-13",
-      "excerpt": "I’m not necessarily sure if this is a bug, but it started happening out of nowhere. Due to a lack of information, I decided to censor the ID that appears. But just in case, the IDs are random, like “sh4jxma4oc90fmasdif09weqk…”. I’d like to know how to identify the assets causing this, since I have n",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/error-rbxassethash/4988733.rss",
-      "id": "41534a07ae1b69125de48d31"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Any opinions on these numbers?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvm93q/any_opinions_on_these_numbers/",
-      "published": "2026-11-13",
-      "excerpt": "https://preview.redd.it/rn6s44bwkg1i1.png?width=1590&format=png&auto=webp&s=e00aa446cbfdce377744c2455233c7e8f82c0927 https://preview.redd.it/8m2ido30lg1i1.png?width=1956&format=png&auto=webp&s=e44956417513a5b1f252e16f846dde5d078b53cd This is my first game on Roblox, it's been a bumpy ride and I have",
-      "creator": "/u/LazyChazy https://www.reddit.com/user/LazyChazy",
-      "id": "3a57c46c0e6c287b1ffe578b"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "We are building a real alternative to Roblox Commissions",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xuunl4/we_are_building_a_real_alternative_to_roblox/",
-      "published": "2026-11-13",
-      "excerpt": "Hi, we have been working for about 2 years on https://ventura-dev.com to create a real way for Developers and Talent in Roblox to create a reputation and get paid safely, instead of a Discord bot where spam posting provides the most benefit. We tried a different way, building a site where you can cr",
-      "creator": "/u/Ventura-Dev https://www.reddit.com/user/Ventura-Dev",
-      "id": "343cae1137b54317ba072e01"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Some grass doesn't load while using expanded terrain",
-      "url": "https://devforum.roblox.com/t/some-grass-doesnt-load-while-using-expanded-terrain/4989282",
-      "published": "2026-11-13",
-      "excerpt": "I noticed that some grass just doesn’t load while the others load. One half has grass and the other half doesn’t. In the attached image you can see clearly where this is happening. I can’t change this because when I turned decoration off and on, it just looked the same. Expected behavior For every g",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/some-grass-doesnt-load-while-using-expanded-terrain/4989282.rss",
-      "id": "2f1bd415c8fedc4a0ebaca94"
     }
   ]
 }
