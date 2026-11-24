@@ -9,11 +9,11 @@
     "rate": {
       "code_search": {
         "remaining": 10,
-        "reset_at": "2026-11-24T00:24:08Z"
+        "reset_at": "2026-11-24T10:27:39Z"
       },
       "search": {
-        "remaining": 2,
-        "reset_at": "2026-11-24T00:23:49Z"
+        "remaining": 1,
+        "reset_at": "2026-11-24T10:27:13Z"
       }
     }
   },
@@ -362,10 +362,10 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-11-24T00:23:08Z",
+    "finished_at": "2026-11-24T10:26:39Z",
     "outcome": "partial",
-    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/45296659879",
-    "started_at": "2026-11-24T00:22:48Z",
+    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/45374760246",
+    "started_at": "2026-11-24T10:26:12Z",
     "trigger": "schedule"
   },
   "schema": 1
