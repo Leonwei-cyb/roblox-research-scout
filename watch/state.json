@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "e18c511b11318d72a9f668c204bc4e9b5d56ba50",
-      "head_subject": "Minz: Launch actions case-sensitively (#9620)",
+      "head": "cd2b92509a02fcf175ea276d89bb0d76fb87f576",
+      "head_subject": "Changelog",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.31.0",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.31.0",
@@ -41,7 +41,7 @@
       "url": "https://github.com/RSSHub/RSSHub"
     },
     "Roblox/creator-docs": {
-      "head": "ac847c1bb223122d58b9e72eb7508eb87e0252f5",
+      "head": "47ec857d6a0805124d089d3a2f68d970ccbf70d0",
       "head_subject": "update Open Source Docs from Roblox internal teams",
       "name": "Roblox/creator-docs",
       "release_tag": "",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "4cc5e8b63a5cc6fcddd1bf7fed04ebd712d0c91a",
+      "head": "c4a51a5ee4d86ef05bb5f845d8a84590027f9089",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.332",
@@ -81,16 +81,16 @@
       "url": "https://github.com/anthropics/claude-code"
     },
     "buriedsignals/scoutpost-os": {
-      "head": "89095300c2c83b97eedd1091f265d10f6af31cd3",
-      "head_subject": "mirror: sync from upstream (613eadbb192510ead2bff272275224736f5cab27)",
+      "head": "197ce44b50516a6a8e04c5ce662d9d9d4ef83aa3",
+      "head_subject": "mirror: sync from upstream (a0d56492f23f083e991aff9499993e3f890aa9d5)",
       "name": "buriedsignals/scoutpost-os",
       "release_tag": "scout-v0.1.22",
       "release_url": "https://github.com/buriedsignals/scoutpost-os/releases/tag/scout-v0.1.22",
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "c74be04bbce15c2bf5aba24bb6fcb33e2f7005ef",
-      "head_subject": "Notifications - Groups can send their own notification as well as, or instead of, the watch's (#4778)",
+      "head": "131c417d7f3c55c6e9063968c5f1c167682ba2dd",
+      "head_subject": "Proxy scanner - Every 'Check/Scan all' is a new scan (it kept its first results), and tests through real proxies (#4799)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "924cc286cc592f49c481fa84e15fa60dbc75989e",
-      "head_subject": "inkling2: faster Metal decode, prefill and draft rounds (#19843)",
+      "head": "784dd544291825e8f5f064672dc2bd7f4d9345ed",
+      "head_subject": "inkling2: faster short histories, draft proposals and conv snapshots (#19881)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.18",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
@@ -204,6 +204,7 @@
     "acvnace/awesome-vibe-coding-resources",
     "adamenrem-jpg/Roblox-Live-Bridge-MCP",
     "adamkhalile/luau-docs-oracle",
+    "agentskillexchange/skills",
     "aliammari1/awesome-ai-tools",
     "amanbolat/awesome-rust-with-stars",
     "andrew/ultimate-awesome",
@@ -237,6 +238,7 @@
     "fourgames/resources",
     "gamedev-skills/awesome-gamedev-agent-skills",
     "genex-games/genex-desktop",
+    "glitchless-gg/glitchless",
     "gmh5225/awesome-game-security",
     "gogolumo/rbsmithy-roblox-claude-skill",
     "hellogumbo/awesome-jev",

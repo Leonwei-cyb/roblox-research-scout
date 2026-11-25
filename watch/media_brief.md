@@ -7,47 +7,48 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[Claude Opus 5.5 Makes Counter-Strike 2 in Roblox - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fTzc4dm5ScUNsWVNnMTNzelpNVWdfQ21jaHZlU3BxaHBpMXVwWFBORlZDNm40S01SQ3RBRG9BRnJzU0JTa0p1N01kYUs1WkwydVhBMGZ3?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-06
-  - Feed excerpt: Claude Opus 5.5 Makes Counter-Strike 2 in Roblox YouTube
-- **[How to make cutscene animations in Roblox with AI (Claude + Blender FREE SKILL) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DT3RXN3FwRDVVcWFjM01INEVCbk5sOUhBTk0tVDFpOThSTE05OTJCMWZabWp2a3RNaHZxR3pLNXpaNEI5V2RsX0t6MEM1Vkl0aExBOWJB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-11
-  - Feed excerpt: How to make cutscene animations in Roblox with AI (Claude + Blender FREE SKILL) YouTube
+- **[How to Make INSANE UI in Roblox with AI (Claude Opus 5.5 + ForgeGUI) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZkFGb25yLUZ5OVFLem5iWXZMTTUzMXZoNzVJZ0MtU01VRFdNcmNuNEtuQXdnQWtJWTkzWGstbW5QdExRWmxwVzY3c1pCVXpSTm4zUEdR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-28
+  - Feed excerpt: How to Make INSANE UI in Roblox with AI (Claude Opus 5.5 + ForgeGUI) YouTube
 
 ## Roblox Creator / Steal An Egg
 
-- **[Which Team Is The Goat In Roblox?! \| #stealanegg \| @ben.steals_eggs \| @therealben.rblx \| @brockkodile \| @therealbrockodile \| @roblox \| #roblox - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ra0dHNklRUENIcnF6MExiUzM4eWNEZThLMl9CQVJ2VUR1Q3pwSEltTjdTWlVaYS1YT1VVUHQ2NEFjbWQ5LWU1c1FiSHpwTkxxbXBBWGdR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-14
-  - Feed excerpt: Which Team Is The Goat In Roblox?! \| #stealanegg \| @ben.steals_eggs \| @therealben.rblx \| @brockkodile \| @therealbrockodile \| @roblox \| #roblox Instagram
+- **[A Divine Prismare Egg Spawned in my server #stealanegg #roblox #game #gaming #funny - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wbmx4MUgwQzYyRkNUaHdJZjlGNDg1SmpTT0tHWkJYOVZZQXlUVk9QNk9ZNDJuVGV3U2ZhekRseVhFa1JleUJFeEc0d0FrS1hJRXRYWnpn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-08
+  - Feed excerpt: A Divine Prismare Egg Spawned in my server #stealanegg #roblox #game #gaming #funny Instagram
+- **[I Found Huge Divine Stormlord Light in Steal an egg #roblox #game #gaming #funny #robloxgaming - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YQmVjdnpqTVpsQ0Nmdi1xMllCSTVUaVJYbnBwUWQ3UWpjNl9PNUZnalBLN1AtZ1NGbmVKdVZNZ083U2xEOGVMRVczZnEzV091cWZCb2N3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-16
+  - Feed excerpt: I Found Huge Divine Stormlord Light in Steal an egg #roblox #game #gaming #funny #robloxgaming Instagram
+- **[Owner Brockodile Spawned This For Me in Lucky Server! #stealanegg #roblox #robloxgaming #funny #game - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE13LWpjdXI2QkMya1dUOHRsM2RqTzVocDNDMDBHUWRDeTkzWW5jcEU0MEptYmFWQXhBYzlRaGxuTDc4QnVya3FhNGltMElxMnNWbW5kemlR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-25
+  - Feed excerpt: Owner Brockodile Spawned This For Me in Lucky Server! #stealanegg #roblox #robloxgaming #funny #game Instagram
 
 ## Roblox Updates
 
-- **[Please add a setting to change or reset the Roblox Studio camera speed without having to scroll](https://devforum.roblox.com/t/please-add-a-setting-to-change-or-reset-the-roblox-studio-camera-speed-without-having-to-scroll/5004131)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: As a Roblox developer, it is currently too hard to change my Roblox Studio camera speed properly. I recently made a bug report because I thought my camera was too slow because of a bug. Actually I had accidentally done some control with a r
-- **[\[FOR HIRE\] snwmn \| Gameplay & Backend Luau Scripter (5+ Years Experience)](https://devforum.roblox.com/t/for-hire-snwmn-gameplay-backend-luau-scripter-5-years-experience/5004177)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: About Me Hi there! I’m snwmn , an independent Roblox Luau scripter with over 5 years of experience building reliable gameplay systems, modular architecture, and responsive mechanics. I focus on writing clean, maintainable code using strong 
-- **[A question about Roblox Plus and avatar items published under a group](https://devforum.roblox.com/t/a-question-about-roblox-plus-and-avatar-items-published-under-a-group/5004143)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: I have a ugc group that i’m running with my partner, his Plus subscription has already expired and now all the avatar items are offsale, so if i bought Plus would that let me put the previously already paid published UGC items back on sale 
-- **[A toggle for Video Display in Experience Detail and Home Page](https://devforum.roblox.com/t/a-toggle-for-video-display-in-experience-detail-and-home-page/5004125)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: I want to experiment how the video is impacting my PTR and I want to do a short event in my game, and for that I want to make a thumbnail, but I don’t want to make a whole video for it because it’s much harder to make a video. The existing 
-- **[BRo fix this now it's roblox plus not PREMIUM](https://devforum.roblox.com/t/bro-fix-this-now-its-roblox-plus-not-premium/5004168)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: It should say plus because premium went downtown byee premium haha 3 posts - 2 participants Read full topic
-- **[Chat Translation is Translating Random Words](https://devforum.roblox.com/t/chat-translation-is-translating-random-words/5004046)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: The automatic chat translation has started translating stuff into random words and sentences that usually have nothing to do with the original message. After testing a bunch of random words, I have a listed the ones that I found that were w
-- **[Is my AI model generator good?](https://devforum.roblox.com/t/is-my-ai-model-generator-good/5004161)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: In my opinion. the models are better than the original image. 8 posts - 2 participants Read full topic
-- **[Is my following incrementer good?](https://devforum.roblox.com/t/is-my-following-incrementer-good/5004163)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Click this you can see many bacon hairs on that page because im automatically following hundreds of accounts, ive always been addicted to following people (27k following) and now with this tool i made, i can follow thousands of people much 
-- **[Low Poly Spacecraft Modeler \[BLENDER or STUDIO\]](https://devforum.roblox.com/t/low-poly-spacecraft-modeler-blender-or-studio/5004052)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: The Team @T0XIC0NIX - Lead Developer You can see our progress so far here: https://www.roblox.com/games/16469250887/Solarix About The Job We are looking for a talented 3D Low Poly Modeler specializing in sci-fi starships and vehicles to joi
-- **[Payment Account Unable to be Created for Group AD Credit](https://devforum.roblox.com/t/payment-account-unable-to-be-created-for-group-ad-credit/5004051)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: I am unable to use robux for group ad credit; for some reason I am unable to hit the button save. How do I fix this?? Expected behavior I should be able to set up a group ad payment account with the save button actually working. Page URL: h
-- **[Server Authority: client stops applying authoritative state for good after its latency decreases](https://devforum.roblox.com/t/server-authority-client-stops-applying-authoritative-state-for-good-after-its-latency-decreases/5004054)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Summary With Workspace.AuthorityMode = Server , a client can get into a state where it never applies authoritative state again: no misprediction is detected, no rollback happens, and every predicted instance (the local character included) k
-- **[What do you guys think of this landscaping for this house?](https://devforum.roblox.com/t/what-do-you-guys-think-of-this-landscaping-for-this-house/5004083)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Really not a builder, im a Scripter. What should I add, remove? 1 post - 1 participant Read full topic
+- **[3D Modeller \| Looking for commissions - High poly and Game Ready](https://devforum.roblox.com/t/3d-modeller-looking-for-commissions-high-poly-and-game-ready/5004531)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Hello! I am Kaike351, a 3D artist and Roblox developer with 3.5 years of experience using Blender and over 4 years of experience working with Roblox Studio . My primary specialization is hard surface modeling , including weapons, military e
+- **[Looking for feedback on my game](https://devforum.roblox.com/t/looking-for-feedback-on-my-game/5004521)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Hello, I’m Zavier, the creator of Don’t Wake It. I was wondering If I could get some testers for my horror game. The analytics do not seem to be doing the best. Could I get some advice on what I can do better? Thanks! Roblox 🏚️Don't Wake It
+- **[My first game – Build a Fun Park Tycoon, looking for honest feedback](https://devforum.roblox.com/t/my-first-game-%E2%80%93-build-a-fun-park-tycoon-looking-for-honest-feedback/5004639)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Hi everyone! This is my first game on Roblox and I’m still learning, so any feedback helps a lot. It’s a theme park tycoon. Game link: Construye un parque de atracciones Tycoon \| Juega en Roblox I would appreciate your honest opinion on thi
+- **[\[Hiring\] Lead Roblox Developer \| Lead Your Own Game at Cinnamon](https://devforum.roblox.com/t/hiring-lead-roblox-developer-lead-your-own-game-at-cinnamon/5004628)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: About Us Sup. We’re Cinnamon Software, the independent Roblox studio behind LifeTogether (4B+ visits), BlockSpin (1.3B+) and BayView (600M+) . Our latest game, DRIVE: Highway , has already reached 12.3M+ visits since launching over a month 
+- **[Ability to Minimize or Disable the Friends requests in-game](https://devforum.roblox.com/t/ability-to-minimize-or-disable-the-friends-requests-in-game/5004638)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: As a Roblox developer, it is currently too hard to ignore friends Requests in-game If Roblox is able to address this issue, it would improve my development experience because I would be able to not see friend requests notification while I’m
+- **[Feedbacks on a drill game?](https://devforum.roblox.com/t/feedbacks-on-a-drill-game/5004618)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Hey all, I’ve been working for that game for about 7 months now (took a few breaks), and I’ve been constantly asking myself what to add, change, remove to make a game that people wanna play, stay and come back. I updated the game like 3 day
+- **[How do I add my roblox games to Discord game selection?](https://devforum.roblox.com/t/how-do-i-add-my-roblox-games-to-discord-game-selection/5004599)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Hey folks! Hope you guys are having a great day! (Or night) As you may know if you use Discord, you can link games to your profile. This shows users interests for other people exploring profiles. I noticed today that you can now link Roblox
+- **[Need Overall Feedback for Naval Game](https://devforum.roblox.com/t/need-overall-feedback-for-naval-game/5004584)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Hello! I am working on a pirate-themed naval game, in which the primary goal is to gather resources and upgrade to larger and stronger ships. You can explore islands for treasure. I am planning to add more in the future, with different type
+- **[Pending Revenue shows 0](https://devforum.roblox.com/t/pending-revenue-shows-0/5004580)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Yesterday I had USD pending value because of my plugin, now it shows 0. The pending USD that have been lost, show successful and paid, not refunded, not paid to stripe or bank account. Just vanished overnight. I want to disclose that the sa
+- **[Replicator Data Ping at 60000ms, small current replication radius](https://devforum.roblox.com/t/replicator-data-ping-at-60000ms-small-current-replication-radius/5004605)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: There is an issue for players that their data ping is unexplainably high. At the same time, packet breakdowns and network ping in performance stats are normal. When I checked values against my own nothing stood out, except data ping and str
+- **[Why Don't UGC Creators Have a Launcher in Roblox Events?](https://devforum.roblox.com/t/why-dont-ugc-creators-have-a-launcher-in-roblox-events/5004607)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
+- **[Why Don't Verified UGC Creators Have a Launcher in Roblox Events?](https://devforum.roblox.com/t/why-dont-verified-ugc-creators-have-a-launcher-in-roblox-events/5004609)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Why don’t verified UGC item creators have a launcher in Roblox events? They are also part of the Roblox creator community and deserve more opportunities to showcase their work. Giving verified UGC creators a launcher would help promote thei
 
-## Workflows
+## Youtube
 
-- **[Anthropic's new Claude Ship agents automatically fix and approve GitHub pull requests - Neowin](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGl3MzhiVmFnY2RYRUsyQUpnTDF1Y3diM1BpM2JHaUtLb1hzelhhdjJCWk1qU3NYTldxZjF1MUhjRVFOVGc3WGMzSlhpdHg2dTd1d0MxSHBLczRpbzkyV0FvazZudm5yV1g1SnlGalpXb1ZrZENhVGw3cmxBX0tHdGhjdV96MDFZMjZObzl0Q1g5MHNFUkhtVmx3c3R2THV6T0pZWHFsbGZiRl9OUlJ2RkdiNA?oc=5)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-11-23
-  - Feed excerpt: Anthropic's new Claude Ship agents automatically fix and approve GitHub pull requests Neowin
+- **[bro has been training for this moment his entire life](https://www.youtube.com/shorts/P1PezaxafqA)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-25
 
 ---
 

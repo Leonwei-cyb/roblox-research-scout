@@ -10,10 +10,10 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 431
-- index-only: 39
-- reddit: 125
-- youtube: 5
+- devforum: 433
+- index-only: 40
+- reddit: 121
+- youtube: 6
 
 ## First-Session And Mobile
 
@@ -62,13 +62,13 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 ## Tools And Performance
 
 - [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Cobalt - Hand-built, intuitive UI framework for Luau](https://devforum.roblox.com/t/cobalt-hand-built-intuitive-ui-framework-for-luau/4988813) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Server Authority: /e dance animation persists after character reset](https://devforum.roblox.com/t/server-authority-e-dance-animation-persists-after-character-reset/4993577) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning
 
 1. Open original source with creator/date; for gameplay video, record actually viewed timestamps.
 2. Note specific observed UI, mechanics, animation and audio; flag each missing or inferred element.
-3. Explain WHY it matters and propose one Cobalt - Hand-built, intuitive UI framework for Luau test with measurable pass/fail.
+3. Explain WHY it matters and propose one Server Authority: /e dance animation persists after character reset test with measurable pass/fail.
 4. Track ADOPT / TEST / REJECT only after source review and in-game evidence.
 5. Respect licenses and platform access; do not automate signed-in Chrome, download unpermitted media or bypass restrictions.
 
