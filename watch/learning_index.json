@@ -230,20 +230,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4988920:1",
-      "url": "https://devforum.roblox.com/t/creating-configservice-freezes-the-whole-server-for-100-ms-on-every-player-join/4988920",
-      "title": "Creating ConfigService freezes the whole server for ~100 ms on every player join",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4993577:1",
       "url": "https://devforum.roblox.com/t/server-authority-e-dance-animation-persists-after-character-reset/4993577",
       "title": "Server Authority: /e dance animation persists after character reset",
@@ -588,20 +574,6 @@
       "key": "devforum:4988753:1",
       "url": "https://devforum.roblox.com/t/players-being-placed-into-newly-created-servers-despite-available-servers-with-open-slots/4988753",
       "title": "Players being placed into newly created servers despite available servers with open slots",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988889:1",
-      "url": "https://devforum.roblox.com/t/feedback-should-i-move-to-blender/4988889",
-      "title": "Feedback; should I move to blender?",
       "source": "roblox-devforum-latest",
       "published": "2026-11-13",
       "kind": "devforum",
@@ -1055,6 +1027,34 @@
       "kind": "devforum",
       "signals": [
         "animation and audio",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004052:1",
+      "url": "https://devforum.roblox.com/t/low-poly-spacecraft-modeler-blender-or-studio/5004052",
+      "title": "Low Poly Spacecraft Modeler [BLENDER or STUDIO]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004177:1",
+      "url": "https://devforum.roblox.com/t/for-hire-snwmn-gameplay-backend-luau-scripter-5-years-experience/5004177",
+      "title": "[FOR HIRE] snwmn | Gameplay & Backend Luau Scripter (5+ Years Experience)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
         "tools and performance"
       ],
       "score": 6,
@@ -2514,6 +2514,58 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5004051:1",
+      "url": "https://devforum.roblox.com/t/payment-account-unable-to-be-created-for-group-ad-credit/5004051",
+      "title": "Payment Account Unable to be Created for Group AD Credit",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004054:1",
+      "url": "https://devforum.roblox.com/t/server-authority-client-stops-applying-authoritative-state-for-good-after-its-latency-decreases/5004054",
+      "title": "Server Authority: client stops applying authoritative state for good after its latency decreases",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004131:1",
+      "url": "https://devforum.roblox.com/t/please-add-a-setting-to-change-or-reset-the-roblox-studio-camera-speed-without-having-to-scroll/5004131",
+      "title": "Please add a setting to change or reset the Roblox Studio camera speed without having to scroll",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004161:1",
+      "url": "https://devforum.roblox.com/t/is-my-ai-model-generator-good/5004161",
+      "title": "Is my AI model generator good?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xv93hp",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv93hp/looking_for_vfx_artists_for_my_jojos_roblox_game/",
       "title": "Looking for vfx artists for my jojo's roblox game, dm me on discord if you are interested kraze_yt",
@@ -2522,19 +2574,6 @@
       "kind": "reddit",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvh92c",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvh92c/small_opensource_luau_framework/",
-      "title": "small open-source Luau framework",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3193,14 +3232,14 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xv3s7k",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv3s7k/need_reviewers_for_my_game_the_night_shift/",
-      "title": "Need reviewers for my game The Night Shift",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5004083:1",
+      "url": "https://devforum.roblox.com/t/what-do-you-guys-think-of-this-landscaping-for-this-house/5004083",
+      "title": "What do you guys think of this landscaping for this house?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
       "signals": [
-        "player feedback and marketing",
+        "building and purchases",
         "tools and performance"
       ],
       "score": 4,
@@ -3277,17 +3316,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "youtube:4zVS-Ao8w1g",
-      "url": "https://www.youtube.com/shorts/4zVS-Ao8w1g",
-      "title": "homies help homies, always",
-      "source": "youtube-UCjiPEaapiHbJMoAdi_L8fNA",
-      "published": "2026-11-13",
-      "kind": "youtube",
-      "signals": [],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "youtube:FQBOSGXpHcU",
       "url": "https://www.youtube.com/shorts/FQBOSGXpHcU",
       "title": "the piggy lore runs deep",
@@ -3349,19 +3377,6 @@
       "url": "https://devforum.roblox.com/t/weekly-recap-november-9-%E2%80%93-13-2026/4989855",
       "title": "Weekly Recap: November 9 – 13, 2026",
       "source": "roblox-devforum-updates",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989869:1",
-      "url": "https://devforum.roblox.com/t/our-game-is-back-into-learning-phase/4989869",
-      "title": "Our game is back into learning phase",
-      "source": "roblox-devforum-latest",
       "published": "2026-11-13",
       "kind": "devforum",
       "signals": [
@@ -4385,6 +4400,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5004125:1",
+      "url": "https://devforum.roblox.com/t/a-toggle-for-video-display-in-experience-detail-and-home-page/5004125",
+      "title": "A toggle for Video Display in Experience Detail and Home Page",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xuw5tu",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuw5tu/help/",
       "title": "help",
@@ -4760,31 +4788,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4988857:1",
-      "url": "https://devforum.roblox.com/t/advanced-tab-to-equip-accessories-is-missing-but-is-there-on-other-and-friends-accounts/4988857",
-      "title": "Advanced Tab to Equip Accessories is Missing but is There on Other and Friends Accounts",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4988867:1",
       "url": "https://devforum.roblox.com/t/inputbinding-not-working-with-controller/4988867",
       "title": "InputBinding not working with controller",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988971:1",
-      "url": "https://devforum.roblox.com/t/bug-report-%E2%80%93-possible-issue-with-roblox-dpo-email-communication/4988971",
-      "title": "Bug Report – Possible Issue with Roblox DPO Email Communication",
       "source": "roblox-devforum-latest",
       "published": "2026-11-13",
       "kind": "devforum",
@@ -4840,17 +4846,6 @@
       "key": "devforum:4989316:1",
       "url": "https://devforum.roblox.com/t/parts-falling-through-certain-wallsfloors-for-no-reason/4989316",
       "title": "Parts falling through certain walls/floors for no reason",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989360:1",
-      "url": "https://devforum.roblox.com/t/can-i-sell-limiteds-after-i-lose-plus/4989360",
-      "title": "Can I sell limiteds after I lose Plus?",
       "source": "roblox-devforum-latest",
       "published": "2026-11-13",
       "kind": "devforum",
@@ -6410,6 +6405,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5004046:1",
+      "url": "https://devforum.roblox.com/t/chat-translation-is-translating-random-words/5004046",
+      "title": "Chat Translation is Translating Random Words",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004143:1",
+      "url": "https://devforum.roblox.com/t/a-question-about-roblox-plus-and-avatar-items-published-under-a-group/5004143",
+      "title": "A question about Roblox Plus and avatar items published under a group",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004163:1",
+      "url": "https://devforum.roblox.com/t/is-my-following-incrementer-good/5004163",
+      "title": "Is my following incrementer good?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004168:1",
+      "url": "https://devforum.roblox.com/t/bro-fix-this-now-its-roblox-plus-not-premium/5004168",
+      "title": "BRo fix this now it's roblox plus not PREMIUM",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xutwkm",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutwkm/falcon_mechanic_finally_working/",
       "title": "Falcon Mechanic Finally Working!!",
@@ -6436,28 +6475,6 @@
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xv2c1m/hows_my_mount_system/",
       "title": "Hows my Mount system?",
       "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xv89rh",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv89rh/dark_fantasy_stuff/",
-      "title": "dark fantasy stuff",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvcoad",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvcoad/how_are_these_day_45_stats_theyre_below_50th/",
-      "title": "How are these day 4.5 stats? They're below 50th Percentile. Is it still worth pushing?",
-      "source": "reddit-robloxdev",
       "published": "2026-11-13",
       "kind": "reddit",
       "signals": [],
@@ -7193,6 +7210,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5ra0dHNklRUENIcnF6MExiUzM4eWNEZThLMl9CQVJ2VUR1Q3pwSEltTjdTWlVaYS1YT1VVUHQ2NEFjbWQ5LWU1c1FiSHpwTkxxbXBBWGdR",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ra0dHNklRUENIcnF6MExiUzM4eWNEZThLMl9CQVJ2VUR1Q3pwSEltTjdTWlVaYS1YT1VVUHQ2NEFjbWQ5LWU1c1FiSHpwTkxxbXBBWGdR?oc=5",
+      "title": "Which Team Is The Goat In Roblox?! | #stealanegg | @ben.steals_eggs | @therealben.rblx | @brockkodile | @therealbrockodile | @roblox | #roblox - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-14",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5ueHZ6OHhDMzV6WGZndkRqRGdUNG5Fa19NMmtBZDNnYzY0TjFacTMwV09sNlU4WTdUcWp5cDlMbF93NlhjazQ0OGQ5bGxhWUxqZThYSDJ3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ueHZ6OHhDMzV6WGZndkRqRGdUNG5Fa19NMmtBZDNnYzY0TjFacTMwV09sNlU4WTdUcWp5cDlMbF93NlhjazQ0OGQ5bGxhWUxqZThYSDJ3?oc=5",
       "title": "Guys today Im here with brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
@@ -7245,19 +7273,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9PX0RhbnVzY2RXb0JWMXM0T2o0THFfbkdsTTBSb1B1dHItVmFJVFpLN3p5cmtfVzdrZTRnRzRWdDYwdTNreW9PeENYQWhLdzBERnZpc3Rn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PX0RhbnVzY2RXb0JWMXM0T2o0THFfbkdsTTBSb1B1dHItVmFJVFpLN3p5cmtfVzdrZTRnRzRWdDYwdTNreW9PeENYQWhLdzBERnZpc3Rn?oc=5",
-      "title": "Claude Fable 5.2 + Roblox Studio is Absurd. - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-13",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9XSmZZTThLZWhpQ2ctd1l4R3hkLWpJYTNOVnRZdEZueGdtN01IRUtJYl9tTG00ZW9EUk84MXFfUDlyY094VHNHNlhEWGVZbGNDV2pqOEhn",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XSmZZTThLZWhpQ2ctd1l4R3hkLWpJYTNOVnRZdEZueGdtN01IRUtJYl9tTG00ZW9EUk84MXFfUDlyY094VHNHNlhEWGVZbGNDV2pqOEhn?oc=5",
       "title": "Admin abuse 6 #stealabrai̇nrot #AdminAbuse #PVP #Roblox - Instagram",
@@ -7290,20 +7305,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTFA2WVlVcXJXV3Z2b2haYmxYLUtmd2FGLUpaSXpCSW9wUTVxTGZRcG85ZHFRTzdfR2RQdUVfeTFWMUMyOWswTWVVLUE3S1l6SVB4bzRvbzN3",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WVlVcXJXV3Z2b2haYmxYLUtmd2FGLUpaSXpCSW9wUTVxTGZRcG85ZHFRTzdfR2RQdUVfeTFWMUMyOWswTWVVLUE3S1l6SVB4bzRvbzN3?oc=5",
-      "title": "How to join Ben’s private server in Steal an egg #roblox #robloxfyp #stealanegg - Instagram",
-      "source": "brock-ig-reels",
-      "published": "2026-11-13",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops",
-        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -7414,19 +7415,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "news.google.com/rss/articles/CBMiXkFVX3lxTFBMQXROUlg2OEhBaXFxRlNHd3BiUUU0UW84bUIwZjZsdHhFZURGLUxzRmtOcGtuNFZxdnFZcHh5NDZZYjM4ZGMwdk0tdmlWNlNxTS1YUTRUdnI0a2d4VVE",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMQXROUlg2OEhBaXFxRlNHd3BiUUU0UW84bUIwZjZsdHhFZURGLUxzRmtOcGtuNFZxdnFZcHh5NDZZYjM4ZGMwdk0tdmlWNlNxTS1YUTRUdnI0a2d4VVE?oc=5",
-      "title": "How to Connect ChatGPT to Roblox Studio for Free (Codex MCP) - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-13",
-      "kind": "index-only",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "news.google.com/rss/articles/CBMiZkFVX3lxTE1hMERtRFZjVEJjRXRYelp0VGhzaTVqZk9mbjdwNzVMZmprQmZPS1NSaHVBaHdtYmZVVjY1NFI3cGstTzd2SEV1d1B4eERNeXVFeHZ0YlhpdmNBV3RWckpmZ2tWQVVRZw",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hMERtRFZjVEJjRXRYelp0VGhzaTVqZk9mbjdwNzVMZmprQmZPS1NSaHVBaHdtYmZVVjY1NFI3cGstTzd2SEV1d1B4eERNeXVFeHZ0YlhpdmNBV3RWckpmZ2tWQVVRZw?oc=5",
       "title": "The Unity CLI 1.0 is here! - GameDev.net",
@@ -7519,6 +7507,17 @@
       "title": "Google Stitch Skills: Install for Claude Code & Cursor - explainx.ai",
       "source": "automation",
       "published": "2026-11-15",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiswFBVV95cUxPUGl3MzhiVmFnY2RYRUsyQUpnTDF1Y3diM1BpM2JHaUtLb1hzelhhdjJCWk1qU3NYTldxZjF1MUhjRVFOVGc3WGMzSlhpdHg2dTd1d0MxSHBLczRpbzkyV0FvazZudm5yV1g1SnlGalpXb1ZrZENhVGw3cmxBX0tHdGhjdV96MDFZMjZObzl0Q1g5MHNFUkhtVmx3c3R2THV6T0pZWHFsbGZiRl9OUlJ2RkdiNA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGl3MzhiVmFnY2RYRUsyQUpnTDF1Y3diM1BpM2JHaUtLb1hzelhhdjJCWk1qU3NYTldxZjF1MUhjRVFOVGc3WGMzSlhpdHg2dTd1d0MxSHBLczRpbzkyV0FvazZudm5yV1g1SnlGalpXb1ZrZENhVGw3cmxBX0tHdGhjdV96MDFZMjZObzl0Q1g5MHNFUkhtVmx3c3R2THV6T0pZWHFsbGZiRl9OUlJ2RkdiNA?oc=5",
+      "title": "Anthropic's new Claude Ship agents automatically fix and approve GitHub pull requests - Neowin",
+      "source": "automation",
+      "published": "2026-11-23",
       "kind": "index-only",
       "signals": [],
       "score": 0,

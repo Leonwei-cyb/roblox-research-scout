@@ -16,7 +16,7 @@ Account provenance: [https://linktr.ee/Brockodile](https://linktr.ee/Brockodile)
 - [youtube](https://www.youtube.com/@brockkodile) — developer Linktree; direct posts: handle verified; UC channel ID not confirmed
 - [roblox](https://www.roblox.com/users/3889785873/profile) — developer Linktree; direct posts: public profile
 
-**Collected media leads:** 6 matched metadata records.
+**Collected media leads:** 7 matched metadata records.
 - [Who wants next to try Brockodile treadmill in steal an egg👀 Private server on Bio🤑🍀 - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WUxRMGx5V1FQVDJ2OTZJckFtNkM4dW1TaGM5aDFwU0pBWGt2OVk1OEtjTU9TSUN5d2RuUG4tRUpKN2tDVk03c3MyN0YwTEM5LURia093?oc=5) — indexed public mention — authorship NOT verified · 2026-11-22
 - [Who wants to try my Brockodile Treadmill 🐊 #StealanEgg #Roblox - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdmswQnJEcVE0NVVIWURsOTZjOUN6LVZsZVRWYmNoaXQ3MnpSa1dqSW9SX1pWaU83d2VNcEpSa3hEZXN4bzZJbmlob0JKbjNMZnM4MUtUalA4NGc0Z2EtMngwa2dLSmsxby1KaQ?oc=5) — indexed public mention — authorship NOT verified · 2026-11-21
 - [Only today with ben and brockodile in my game Steal an egg #roblox #robloxfyp #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPa3pMb2p1TzcyS1llQlZ2MHBFcmp6Z3ZJN19lX21lUkdZcW03SVc4bTkzZERJNnhKN3dweWhucEc2b0wwV3dhQlhHN2stTnR3eExRMjZn?oc=5) — indexed public mention — authorship NOT verified · 2026-11-21
