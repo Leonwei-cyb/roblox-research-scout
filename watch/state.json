@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "cd2b92509a02fcf175ea276d89bb0d76fb87f576",
-      "head_subject": "Changelog",
+      "head": "cc9f03e6547dbc2c2f03e7a841b393dc518a77b8",
+      "head_subject": "i18n: complete Simplified Chinese (zh-CN) translations (#9633)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.31.0",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.31.0",
@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "9587741f62205d168459b1be9441fdb901a1b482",
+      "head": "9a6b80ce505e734df9ce53c3e9cabdedd4b080f8",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.332",
@@ -105,11 +105,11 @@
       "url": "https://github.com/fagemx/gstack-game"
     },
     "huginn/huginn": {
-      "head": "4d4fa3f49383bfd621b6b7abc05e1c70fa0c0001",
-      "head_subject": "Align dependency release ages",
+      "head": "cc0ca45b455e061dc4b70ad712501e9d38a1c3ce",
+      "head_subject": "Reset Chrome when wildcard storage clearing fails",
       "name": "huginn/huginn",
-      "release_tag": "v2026.11.19",
-      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.19",
+      "release_tag": "v2026.11.27",
+      "release_url": "https://github.com/huginn/huginn/releases/tag/v2026.11.27",
       "url": "https://github.com/huginn/huginn"
     },
     "obra/superpowers": {

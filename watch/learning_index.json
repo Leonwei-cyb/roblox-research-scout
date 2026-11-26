@@ -186,12 +186,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xwgafv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/",
-      "title": "scripter, animator, and designer jobs.",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
+      "key": "devforum:5005705:1",
+      "url": "https://devforum.roblox.com/t/new-update-mini-dev-plugin-v2-a-tiny-companion-to-keep-you-company-while-you-build/5005705",
+      "title": "[NEW UPDATE] Mini Dev Plugin V2 - A tiny companion to keep you company while you build",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
       "signals": [
         "building and purchases",
         "animation and audio",
@@ -398,6 +398,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005752:1",
+      "url": "https://devforum.roblox.com/t/mobile-studio-status-randomly-says-%E2%80%9Clabel%E2%80%9D/5005752",
+      "title": "Mobile Studio Status randomly says “Label”",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "first-session and mobile",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwvyz1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwvyz1/any_tips_regarding_the_ui_or_the_lighting/",
       "title": "Any Tips Regarding the UI or the Lighting?",
@@ -554,20 +568,6 @@
         "building and purchases"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990556:1",
-      "url": "https://devforum.roblox.com/t/my-kart-racing-game-is-in-beta-would-love-some-feedback/4990556",
-      "title": "My kart racing game is in beta, would love some feedback",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "first-session and mobile",
-        "player feedback and marketing"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1005,6 +1005,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005863:1",
+      "url": "https://devforum.roblox.com/t/getmarkerreachedsignal-not-firing-unless-animation-is-playing-on-client/5005863",
+      "title": "GetMarkerReachedSignal not firing unless animation is playing on client",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xw1gjn",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xw1gjn/idiotic_ways_to_construct/",
       "title": "Idiotic Ways To Construct",
@@ -1190,19 +1204,6 @@
       "kind": "devforum",
       "signals": [
         "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990984:1",
-      "url": "https://devforum.roblox.com/t/looking-for-a-3d-modeler-for-my-roblox-horror-game/4990984",
-      "title": "Looking for a 3D modeler for my Roblox Horror game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2505,6 +2506,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005768:1",
+      "url": "https://devforum.roblox.com/t/slim-car-model-disapears-when-to-far-form-spawn-location/5005768",
+      "title": "Slim car model disapears when to far form spawn location",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwcz46",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwcz46/prussian_hussars_v_russian_cossacks_circa_1757_7/",
       "title": "Prussian Hussars v Russian Cossacks circa 1757 - 7 years war character models",
@@ -2789,20 +2803,6 @@
       "signals": [
         "building and purchases",
         "world and visual design"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990639:1",
-      "url": "https://devforum.roblox.com/t/releasing-a-runtime-baked-mesh-gets-slower-the-more-baked-meshes-exist/4990639",
-      "title": "Releasing a runtime-baked mesh gets slower the more baked meshes exist",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "player feedback and marketing"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -3153,20 +3153,6 @@
       "signals": [
         "player feedback and marketing",
         "tools and performance"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xwaf6q",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwaf6q/ive_been_working_on_a_pastrythemed_game/",
-      "title": "I’VE BEEN WORKING ON A PASTRY-THEMED GAME! 🍰",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "genres and successful loops"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -4427,6 +4413,71 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005708:1",
+      "url": "https://devforum.roblox.com/t/inability-to-tell-who-is-a-verified-musician-on-roblox-profiles-groups-leaderboard/5005708",
+      "title": "Inability to tell who is a verified musician on Roblox (Profiles, Groups & Leaderboard)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005741:1",
+      "url": "https://devforum.roblox.com/t/experience-got-reduced-exposure-with-no-creator-hub-banner-and-no-way-to-see-why/5005741",
+      "title": "Experience got reduced exposure with no Creator Hub banner and no way to see why",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005783:1",
+      "url": "https://devforum.roblox.com/t/published-oauth-app-repeatedly-rejected-after-scope-update-with-no-specific-reason/5005783",
+      "title": "Published OAuth app repeatedly rejected after scope update with no specific reason",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005836:1",
+      "url": "https://devforum.roblox.com/t/game-ownership-transfer-issue/5005836",
+      "title": "Game Ownership Transfer Issue",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005861:1",
+      "url": "https://devforum.roblox.com/t/increase-the-maximum-number-of-communities-users-can-join/5005861",
+      "title": "Increase the Maximum Number of Communities Users Can Join",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvrsm9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvrsm9/roblox_banned_my_dev_account_right_after/",
       "title": "Roblox banned my dev account right after refunding me for fraud. Years of work locked, appeal denied.",
@@ -4442,19 +4493,6 @@
     {
       "key": "reddit:1xvtgnq",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvtgnq/why_is_my_games_qptr_so_low/",
-      "title": "Why is my game’s QPTR so low?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvtily",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvtily/why_is_my_games_qptr_so_low/",
       "title": "Why is my game’s QPTR so low?",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
@@ -4487,19 +4525,6 @@
       "kind": "reddit",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xw9oej",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw9oej/progress_on_age_of_sailera_game/",
-      "title": "Progress on Age Of Sail-era game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4853,17 +4878,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4990844:1",
-      "url": "https://devforum.roblox.com/t/licenses-eligible-group-game-not-listed-in-select-game-for-full-game-license-request/4990844",
-      "title": "Licenses: eligible group game not listed in \"Select game\" for Full game license request",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4990879:1",
       "url": "https://devforum.roblox.com/t/all-classic-heads/4990879",
       "title": "All classic heads",
@@ -4911,17 +4925,6 @@
       "key": "devforum:4991345:1",
       "url": "https://devforum.roblox.com/t/game-has-an-issue-glitch-since-new-update/4991345",
       "title": "\"Game has an issue\" glitch since new update",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991400:1",
-      "url": "https://devforum.roblox.com/t/possible-issue-with-the-200-outfit-display-limit-despite-2000-published-outfits/4991400",
-      "title": "Possible Issue with the 200 Outfit Display Limit Despite 2,000 Published Outfits",
       "source": "roblox-devforum-latest",
       "published": "2026-11-14",
       "kind": "devforum",
@@ -6492,6 +6495,39 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005723:1",
+      "url": "https://devforum.roblox.com/t/game-stuck-with-almost-no-home-recs-after-being-private-for-8-months-is-that-a-thing/5005723",
+      "title": "Game stuck with almost no home recs after being private for 8 months, is that a thing?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005735:1",
+      "url": "https://devforum.roblox.com/t/avatar-settings-r6-r15-r15-r6-servers-migration/5005735",
+      "title": "Avatar Settings: R6 -> R15 / R15 -> R6 Servers Migration",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005748:1",
+      "url": "https://devforum.roblox.com/t/rendersteppedinternal-and-updateuilayouts-causing-drastic-increases-in-frametime/5005748",
+      "title": "RenderSteppedInternal and UpdateUILayouts causing drastic increases in frametime",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvt9r9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvt9r9/sneak_peek_at_my_own_doorsinspired_horror_game/",
       "title": "Sneak peek at my own doors-inspired horror game!",
@@ -6514,53 +6550,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xvv1cv",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvv1cv/is_it_weird_that_my_friends_suddenly_want_to_do/",
-      "title": "Is it weird that my friends suddenly want to do what I'm doing after seeing me become successful?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvvb88",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvvb88/how_do_i_improve_my_lobby/",
-      "title": "How do i improve my lobby?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xvzkrs",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvzkrs/im_working_on_my_roblox_game_and_i_just_released/",
       "title": "I'm working on my Roblox Game, and I just released a small Demo of the game, here's also a look at the trailer, let me know you thoughts!🔥",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xw0012",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw0012/beginner_dev_here_what_programming_do_i_need_to/",
-      "title": "Beginner dev here! What programming do I need to learn for a CoD x Ghost Recon style game?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xw2jw3",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw2jw3/looking_for_help_making_my_game/",
-      "title": "Looking for help making my game.",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
       "kind": "reddit",
@@ -6594,28 +6586,6 @@
       "key": "reddit:1xw6b1p",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw6b1p/my_game_hit_20k_ccu/",
       "title": "My game hit 20K CCU!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xw7j0s",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw7j0s/paid_testing_opportunities/",
-      "title": "PAID TESTING OPPORTUNITIES",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xw900p",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw900p/some_anomaly_designs_in_my_floor_survival_game/",
-      "title": "Some anomaly designs in my floor survival game.",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
       "kind": "reddit",
@@ -6671,28 +6641,6 @@
       "key": "reddit:1xwfi86",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwfi86/roblox_game_for_learning_to_hack/",
       "title": "Roblox game for learning to hack",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xwg084",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwg084/do_you_think_this_game_has_potential/",
-      "title": "do you think this game has potential ?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xwgj4d",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwgj4d/added_pick_and_place_machines_to_the_factory_game/",
-      "title": "Added pick and place machines to the factory game, its now possible to make simple circuit boards!",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
       "kind": "reddit",
@@ -7026,7 +6974,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14OVBmUTZUUFU4NUFETGRpVjRFQTlMQlR2WGNBMjZiUzljZHhTWkxPVEVQTXIyNHhkS1hDclFaMFZwSVJqaU1pemhmbnNPUEJmTjhpY0R3?oc=5",
       "title": "Today in the Secret Admin in Steal an Egg with brockkodile #roblox #robloxfyp #usa #usafyp #stealanegg - Instagram",
       "source": "brock-ig-reels",
-      "published": "2026-11-19",
+      "published": "2026-11-18",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
@@ -7132,6 +7080,19 @@
       "published": "2026-11-20",
       "kind": "index-only",
       "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE51c3BlUVB6eXd3cldseUhHSWZ2V0ZKSTQtaTRJSU5SS2FuTlFHQ2R0TjFSeVh5Z2dqLVY5X1dkZ1M4T0tQUTNBUWItX2hnT0oyWW1JMTl3",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51c3BlUVB6eXd3cldseUhHSWZ2V0ZKSTQtaTRJSU5SS2FuTlFHQ2R0TjFSeVh5Z2dqLVY5X1dkZ1M4T0tQUTNBUWItX2hnT0oyWW1JMTl3?oc=5",
+      "title": "“Accept & Join” Server Admin #stealanegg #roblox #game #gaming #funny robloxedit robloxgaming - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-26",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
+      ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },
@@ -7273,6 +7234,19 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9leXV6SFNqLWFmUU8ycGJtN0NhTkZlM0NJa0ktTWZvck9zOUgxMzR2U0k2N2RrZW9tY3BYQU1jU20zaE9GdHNEWXhuTExuRE9LTXpDX25B",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9leXV6SFNqLWFmUU8ycGJtN0NhTkZlM0NJa0ktTWZvck9zOUgxMzR2U0k2N2RrZW9tY3BYQU1jU20zaE9GdHNEWXhuTExuRE9LTXpDX25B?oc=5",
+      "title": "How to Use Claude AI in Roblox Studio! (Easy Setup) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-16",
+      "kind": "index-only",
+      "signals": [
+        "tools and performance"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
@@ -7483,11 +7457,46 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMibEFVX3lxTFBGeFViWi1yQVU1WWRSY1pPb2VnV1oxQkVQMmNrWktfUHN2cEc0d05lUU96U2E0cDlDS2IyX1RzNk5qZXltdUVDTEd5b3U0SWJ3a3BvZ3o5VnN2Qm1IZFh3VGNGcUtxbVhCU3pJXw",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGeFViWi1yQVU1WWRSY1pPb2VnV1oxQkVQMmNrWktfUHN2cEc0d05lUU96U2E0cDlDS2IyX1RzNk5qZXltdUVDTEd5b3U0SWJ3a3BvZ3o5VnN2Qm1IZFh3VGNGcUtxbVhCU3pJXw?oc=5",
+      "title": "A New Tundra Biome is coming to Steal an Egg ❄️ #Roblox #StealanEgg - TikTok",
+      "source": "brock-tiktok",
+      "published": "2026-11-26",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMicEFVX3lxTE93MUlEYzh0UXZhRU1NU1UxSmJFaVFVZ3ozckhNZF9IbThfcThma2Uyc1czM1g2RXpzYnV0Y18yY2sta3lEcHJBM2gwLUstUUZGcnJFYkxoaGZyaTBKSkFzUlNnbnZEZUJXQ1ZFclJfeXE",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93MUlEYzh0UXZhRU1NU1UxSmJFaVFVZ3ozckhNZF9IbThfcThma2Uyc1czM1g2RXpzYnV0Y18yY2sta3lEcHJBM2gwLUstUUZGcnJFYkxoaGZyaTBKSkFzUlNnbnZEZUJXQ1ZFclJfeXE?oc=5",
       "title": "Nadella Says Claude Code Reshaped Software Development - cwibc.co.id",
       "source": "automation",
       "published": "2026-11-23",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMidEFVX3lxTFBFdG42U3hhcWw1ZS1yMG1felZHWDlETjhZMjJsNzl6aU9MWS1ST3E1WXBOOERpSHpUeEljbDRDSzNzbjlUX05tWTJpeFhOdVBJMDVKcDltbHRyb1ItWnp3QkRDN29BUEpqQ3hnS0luWHV6TGZl",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFdG42U3hhcWw1ZS1yMG1felZHWDlETjhZMjJsNzl6aU9MWS1ST3E1WXBOOERpSHpUeEljbDRDSzNzbjlUX05tWTJpeFhOdVBJMDVKcDltbHRyb1ItWnp3QkRDN29BUEpqQ3hnS0luWHV6TGZl?oc=5",
+      "title": "OpenCode vs Claude Code: $10 Go vs $20 Pro [2026] - shattered.io",
+      "source": "automation",
+      "published": "2026-11-23",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMihwFBVV95cUxNQUFLZF9VVm9ucjJtVXBmaWgydFZHTFUtN3BBSi1ETDFVa0tCdnM4TWpGa3ZKblp5c0ZxT3JiT3FNZjhwZTZEdEpVMEFiX20yRDVQQzAxT1NmUlByNVR1MVphZ1U1cEdVU3lYWUZWWWcwcVBMdTZEaW9QSXBZVzJmSFZ2WnpWZlE",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQUFLZF9VVm9ucjJtVXBmaWgydFZHTFUtN3BBSi1ETDFVa0tCdnM4TWpGa3ZKblp5c0ZxT3JiT3FNZjhwZTZEdEpVMEFiX20yRDVQQzAxT1NmUlByNVR1MVphZ1U1cEdVU3lYWUZWWWcwcVBMdTZEaW9QSXBZVzJmSFZ2WnpWZlE?oc=5",
+      "title": "Claude Code vs Codex: $8/$40 vs $2/$10 per Million Tokens - shattered.io",
+      "source": "automation",
+      "published": "2026-11-26",
       "kind": "index-only",
       "signals": [],
       "score": 0,

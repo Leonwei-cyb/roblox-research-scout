@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 443
-- index-only: 41
-- reddit: 110
+- devforum: 450
+- index-only: 46
+- reddit: 98
 - youtube: 6
 
 ## First-Session And Mobile
@@ -61,7 +61,7 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Tools And Performance
 
-- [scripter, animator, and designer jobs.](https://www.reddit.com/r/robloxgamedev/comments/1xwgafv/scripter_animator_and_designer_jobs/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [\[NEW UPDATE\] Mini Dev Plugin V2 - A tiny companion to keep you company while you build](https://devforum.roblox.com/t/new-update-mini-dev-plugin-v2-a-tiny-companion-to-keep-you-company-while-you-build/5005705) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Server Authority: /e dance animation persists after character reset](https://devforum.roblox.com/t/server-authority-e-dance-animation-persists-after-character-reset/4993577) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Evidence required to turn a candidate into learning

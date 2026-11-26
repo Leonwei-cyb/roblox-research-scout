@@ -7,37 +7,49 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[How To Connect Gemini To Roblox Studio (Quick Guide) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE04R1FpWHNFWDFFeGZtVUNxOEV6UWxfbUwwdGhFXzZHWm5PczdUTFVBUkduUnpWWkJVZklCZWV1ZW9Ba2NkZjczTFRMaHpuS2JwdUw1WXFR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-31
-  - Feed excerpt: How To Connect Gemini To Roblox Studio (Quick Guide) YouTube
-- **[How to Make VIRAL Roblox Stories for FREE! (Full Tutorial) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwVDNMdnd5OUFPclRFckZsZVNjbnduSFhvdUstWi1mWXZZLWJmeWdQSmNYY1kyQTI3dHZyb0FPeTNTanFEY2hrMHhHRjRmazl6MVBCX01R?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-13
-  - Feed excerpt: How to Make VIRAL Roblox Stories for FREE! (Full Tutorial) YouTube
+- **[How to Use Claude AI in Roblox Studio! (Easy Setup) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9leXV6SFNqLWFmUU8ycGJtN0NhTkZlM0NJa0ktTWZvck9zOUgxMzR2U0k2N2RrZW9tY3BYQU1jU20zaE9GdHNEWXhuTExuRE9LTXpDX25B?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-16
+  - Feed excerpt: How to Use Claude AI in Roblox Studio! (Easy Setup) YouTube
+
+## Roblox Creator / Steal An Egg
+
+- **[A New Tundra Biome is coming to Steal an Egg ❄️ #Roblox #StealanEgg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGeFViWi1yQVU1WWRSY1pPb2VnV1oxQkVQMmNrWktfUHN2cEc0d05lUU96U2E0cDlDS2IyX1RzNk5qZXltdUVDTEd5b3U0SWJ3a3BvZ3o5VnN2Qm1IZFh3VGNGcUtxbVhCU3pJXw?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-11-26
+  - Feed excerpt: A New Tundra Biome is coming to Steal an Egg ❄️ #Roblox #StealanEgg TikTok
+- **[“Accept & Join” Server Admin #stealanegg #roblox #game #gaming #funny robloxedit robloxgaming - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51c3BlUVB6eXd3cldseUhHSWZ2V0ZKSTQtaTRJSU5SS2FuTlFHQ2R0TjFSeVh5Z2dqLVY5X1dkZ1M4T0tQUTNBUWItX2hnT0oyWW1JMTl3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-26
+  - Feed excerpt: “Accept & Join” Server Admin #stealanegg #roblox #game #gaming #funny robloxedit robloxgaming Instagram
 
 ## Roblox Updates
 
-- **[Chronocast: Why just cast in 3D?](https://devforum.roblox.com/t/chronocast-why-just-cast-in-3d/5005096)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: ChronoCast: Why just cast in 3D? github.com GitHub - cfsmi/Chronocast: Why just raycast in 3D? We cast in 4D now Why just raycast in 3D? We cast in 4D now So! Your game has a big idea, it has some Megumi, and you want to make sure it’s fair
-- **[Alcohol, the BEST ROBLOX CLIENT \[SOBER KILLER\]](https://devforum.roblox.com/t/alcohol-the-best-roblox-client-sober-killer/5005097)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: Alcohol is the best client my beautiful sweet AI has made so far , since it allows you to run the WASM client natively , without any browser overhead . And it also lets you join anybody’s games . And it also works on every platform ever, so
-- **[Game Trailer Repeatedly Denied Despite Meeting Video Quality Guidelines](https://devforum.roblox.com/t/game-trailer-repeatedly-denied-despite-meeting-video-quality-guidelines/5005086)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: I have been dealing with the appeal process for several days now for my game’s trailer, which I believe follows all of Roblox’s Video Quality Guidelines. However, it continues to get denied for quality. I initially appealed through the prop
-- **[Import widget won't open again after it is closed](https://devforum.roblox.com/t/import-widget-wont-open-again-after-it-is-closed/5005199)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: Sometimes in Studio, I click the upload button in the asset manager, choose a file, then the import widget will open with the file ready to upload. I upload the file, then I close the import widget using its X button, because I am done with
-- **[Issues & Appeals Appeal Glitch](https://devforum.roblox.com/t/issues-appeals-appeal-glitch/5005308)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: I am part owner of a group that got locked: roblox.com Drip Embassy - Roblox Roblox is a global platform that brings people together through play. The experience https://www.roblox.com/games/128470062078271/Mesh-Catalog got flagged as “sexu
-- **[Need help replicating 2019 specular highlights](https://devforum.roblox.com/t/need-help-replicating-2019-specular-highlights/5005192)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: Hello. i am making this topic because i am struggling with replicating 2019 voxel/shadowmap specular highlights. My game is a recreation of 2019 cc2, i already have everything 1:1 (including the lighting) but the specular highlights just si
-- **[Paying for Executor Detections](https://devforum.roblox.com/t/paying-for-executor-detections/5005115)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: I would need full proof before payment 9 posts - 7 participants Read full topic
-- **[RoRaster - The Fastest and Easiest Map/Minimap Pipeline \[A RoRender Competitor\]](https://devforum.roblox.com/t/roraster-the-fastest-and-easiest-mapminimap-pipeline-a-rorender-competitor/5005228)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: RoRaster.com What is RoRaster? RoRaster is a faster and easier way to render and export maps and minimaps for Roblox, capable of rendering at sub-1 stud-per-pixel resolutions. Create high-resolution orthographic and isometric renders at res
-- **[There seems to be an issue with Roblox's homepage recommendation](https://devforum.roblox.com/t/there-seems-to-be-an-issue-with-robloxs-homepage-recommendation/5005323)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: This is our current game: Gyeonil School \| Play on Roblox Since then, I have found that many games can only attract players by continuously buying advertisements. Our game has been online for two weeks now, and there are no homepage recomme
-- **[\[CRITICAL\] Severe Server Authority Issues Causing Movement, Physics, and Teleportation Problems](https://devforum.roblox.com/t/critical-severe-server-authority-issues-causing-movement-physics-and-teleportation-problems/5005171)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: Visual Aids: Issue #1: Can no-longer set the player’s speed using the Console, or any script whether on the server or the client. (Or it is extremely delayed by a couple of minutes) When I have it print how fast I should be going in the con
-- **[\[Feature Request\] Official Open Cloud Group Payouts API](https://devforum.roblox.com/t/feature-request-official-open-cloud-group-payouts-api/5005277)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: I am requesting an official Roblox Open Cloud Group Payouts API that allows authorized developers and group owners to manage, execute, and monitor Robux payouts programmatically. Currently, automating group payouts often requires browser au
-- **[\[OPEN\] Creature Modeler, Rigger & Animator \| Horror / Folklore Monsters \| Game-Ready for Roblox](https://devforum.roblox.com/t/open-creature-modeler-rigger-animator-horror-folklore-monsters-game-ready-for-roblox/5005303)** · Roblox Developer Forum latest · 2026-11-26
-  - Feed excerpt: About me I make game-ready creatures for Roblox horror and folklore games , start to finish: sculpt, retopology, PBR texturing, custom rigs and animation. Everything is built in Blender with my own procedural pipeline. I can turn out varian
+- **[Avatar Settings: R6 -> R15 / R15 -> R6 Servers Migration](https://devforum.roblox.com/t/avatar-settings-r6-r15-r15-r6-servers-migration/5005735)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: With Roblox recent updates, we have seen so many useful features and a completely new workflow in regards to publishing games and managing them. I am happy so far with what Roblox has achieved - a modern, slick and intuitive interface that 
+- **[Experience got reduced exposure with no Creator Hub banner and no way to see why](https://devforum.roblox.com/t/experience-got-reduced-exposure-with-no-creator-hub-banner-and-no-way-to-see-why/5005741)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: my experience (id 7444995913) got 0 home recommendation impressions from early october until nov 10. then it suddenly came back (47 on nov 10, 367 on nov 15, ~250-300/day since) support’s automatic reply on my tickets says “the content qual
+- **[Game Ownership Transfer Issue](https://devforum.roblox.com/t/game-ownership-transfer-issue/5005836)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: After transferring experience ownership from my personal account to a group, ad campaigns are transferred properly, but metadata and Creator Hub permissions remain stuck on my personal account Creator attribution: The public game page still
+- **[Published OAuth app repeatedly rejected after scope update with no specific reason](https://devforum.roblox.com/t/published-oauth-app-repeatedly-rejected-after-scope-update-with-no-specific-reason/5005783)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: We submitted a scope update for an already-published OAuth app in Creation & Productivity Tools. The review repeatedly returns “App violates Community Standards” without identifying a policy section, permission, or feature. The existing app
+- **[\[NEW UPDATE\] Mini Dev Plugin V2 - A tiny companion to keep you company while you build](https://devforum.roblox.com/t/new-update-mini-dev-plugin-v2-a-tiny-companion-to-keep-you-company-while-you-build/5005705)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: **Waddup builders! Big update for Mini Dev , the plugin that puts a small version of your own avatar or a friend’s right at the bottom of your viewport while you work. Why I threw out the marketplace animations The first version just played
+- **[Game stuck with almost no home recs after being private for 8 months, is that a thing?](https://devforum.roblox.com/t/game-stuck-with-almost-no-home-recs-after-being-private-for-8-months-is-that-a-thing/5005723)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: hey all, bit of a weird one my game The Frog Reads Your Mind (20q style, a frog tries to guess what you’re thinking) randomly blew up around march, like 1k ccu out of nowhere. problem was my backend back then was an external api on a tiny v
+- **[GetMarkerReachedSignal not firing unless animation is playing on client](https://devforum.roblox.com/t/getmarkerreachedsignal-not-firing-unless-animation-is-playing-on-client/5005863)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: When connecting to GetMarkerReachedSignal I expect it to fire at animation marker before even playing the animation. This works as intended on server, but on client this connection doesn’t fire most of the time unless you apply this fix: lo
+- **[Inability to tell who is a verified musician on Roblox (Profiles, Groups & Leaderboard)](https://devforum.roblox.com/t/inability-to-tell-who-is-a-verified-musician-on-roblox-profiles-groups-leaderboard/5005708)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: As a Roblox developer, it is currently too hard to prove you are a real music artist on the platform or tell legitimate artists and their groups apart from impersonators. Right now, if you make music on Roblox, there is honestly no real way
+- **[Increase the Maximum Number of Communities Users Can Join](https://devforum.roblox.com/t/increase-the-maximum-number-of-communities-users-can-join/5005861)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: As a Roblox user and developer, it is currently too restrictive to be limited to joining only 100 communities. Many Roblox experiences encourage players to join their associated communities in exchange for in-game rewards, perks, or other b
+- **[Mobile Studio Status randomly says “Label”](https://devforum.roblox.com/t/mobile-studio-status-randomly-says-%E2%80%9Clabel%E2%80%9D/5005752)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: clicky Click to view the poll. Visual Aids: 1 post - 1 participant Read full topic
+- **[RenderSteppedInternal and UpdateUILayouts causing drastic increases in frametime](https://devforum.roblox.com/t/rendersteppedinternal-and-updateuilayouts-causing-drastic-increases-in-frametime/5005748)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: Started occurring today/yesterday. RenderSteppedInternal and UpdateUILayouts (under PreRender) have started taking an absurd amount of frametime when just sitting in the lobby of this game (which is not my game, but I play it enough to know
+- **[Slim car model disapears when to far form spawn location](https://devforum.roblox.com/t/slim-car-model-disapears-when-to-far-form-spawn-location/5005768)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: The issue see video requirements: have streaming enabled have the sleight Body set to slim reproduction staps: 1 press e to get into the Sleigh 2 drive to the end of the baseplate. 3 near the end of the baseplate the sleight (car) disapears
+
+## Workflows
+
+- **[OpenCode vs Claude Code: $10 Go vs $20 Pro \[2026\] - shattered.io](https://news.google.com/rss/articles/CBMidEFVX3lxTFBFdG42U3hhcWw1ZS1yMG1felZHWDlETjhZMjJsNzl6aU9MWS1ST3E1WXBOOERpSHpUeEljbDRDSzNzbjlUX05tWTJpeFhOdVBJMDVKcDltbHRyb1ItWnp3QkRDN29BUEpqQ3hnS0luWHV6TGZl?oc=5)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-11-23
+  - Feed excerpt: OpenCode vs Claude Code: $10 Go vs $20 Pro \[2026\] shattered.io
+- **[Claude Code vs Codex: $8/$40 vs $2/$10 per Million Tokens - shattered.io](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQUFLZF9VVm9ucjJtVXBmaWgydFZHTFUtN3BBSi1ETDFVa0tCdnM4TWpGa3ZKblp5c0ZxT3JiT3FNZjhwZTZEdEpVMEFiX20yRDVQQzAxT1NmUlByNVR1MVphZ1U1cEdVU3lYWUZWWWcwcVBMdTZEaW9QSXBZVzJmSFZ2WnpWZlE?oc=5)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-11-26
+  - Feed excerpt: Claude Code vs Codex: $8/$40 vs $2/$10 per Million Tokens shattered.io
 
 ---
 
