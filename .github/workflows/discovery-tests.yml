@@ -1,13 +1,7 @@
 name: Discovery regression tests
 
+# Mac launchd is the automatic scheduler. GitHub Actions manual-only by design.
 on:
-  pull_request:
-    paths:
-      - 'scripts/**'
-      - 'tests/**'
-      - 'watch/discovery.json'
-      - 'findings/reviews/**'
-      - '.github/workflows/discovery*.yml'
   workflow_dispatch:
 
 permissions:

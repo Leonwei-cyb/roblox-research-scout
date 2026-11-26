@@ -1,13 +1,8 @@
 name: Public scout safe config repair — draft only
 
+# Mac launchd is the automatic scheduler. GitHub Actions manual-only by design.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'watch/config.json'
-      - 'watch/feeds.json'
-      - '.github/workflows/safe-config-repair.yml'
 
 permissions:
   contents: write
