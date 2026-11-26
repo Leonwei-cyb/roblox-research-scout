@@ -398,20 +398,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xv0cex",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv0cex/building_a_new_roblox_gaming_studio_founding_team/",
-      "title": "Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 8,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xwvyz1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwvyz1/any_tips_regarding_the_ui_or_the_lighting/",
       "title": "Any Tips Regarding the UI or the Lighting?",
@@ -594,20 +580,6 @@
       "signals": [
         "UI and menus",
         "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991362:1",
-      "url": "https://devforum.roblox.com/t/some-parts-of-builds-not-loading/4991362",
-      "title": "Some parts of builds not loading",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "world and visual design"
       ],
       "score": 6,
       "evidence": "UNVIEWED_METADATA"
@@ -1019,15 +991,13 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xvseli",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/",
-      "title": "Looking for playtesters for my Roblox PVP game",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
+      "key": "devforum:5005171:1",
+      "url": "https://devforum.roblox.com/t/critical-severe-server-authority-issues-causing-movement-physics-and-teleportation-problems/5005171",
+      "title": "[CRITICAL] Severe Server Authority Issues Causing Movement, Physics, and Teleportation Problems",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
       "signals": [
-        "building and purchases",
-        "economy and income",
         "player feedback and marketing",
         "tools and performance"
       ],
@@ -1259,19 +1229,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991322:1",
-      "url": "https://devforum.roblox.com/t/cant-pay-expedited-review-if-im-not-the-group-owner/4991322",
-      "title": "Can't pay Expedited Review if I'm not the group owner",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2522,6 +2479,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005096:1",
+      "url": "https://devforum.roblox.com/t/chronocast-why-just-cast-in-3d/5005096",
+      "title": "Chronocast: Why just cast in 3D?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005303:1",
+      "url": "https://devforum.roblox.com/t/open-creature-modeler-rigger-animator-horror-folklore-monsters-game-ready-for-roblox/5005303",
+      "title": "[OPEN] Creature Modeler, Rigger & Animator | Horror / Folklore Monsters | Game-Ready for Roblox",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "animation and audio"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwcz46",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwcz46/prussian_hussars_v_russian_cossacks_circa_1757_7/",
       "title": "Prussian Hussars v Russian Cossacks circa 1757 - 7 years war character models",
@@ -2825,20 +2808,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4990657:1",
-      "url": "https://devforum.roblox.com/t/mesh-textures-lower-resolution-from-distance/4990657",
-      "title": "Mesh textures lower resolution from distance",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design",
-        "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4990897:1",
       "url": "https://devforum.roblox.com/t/can-roblox-add-more-official-tutorialsdocs-for-each-genre/4990897",
       "title": "Can Roblox add more official tutorials/docs for each genre?",
@@ -2848,20 +2817,6 @@
       "signals": [
         "building and purchases",
         "player feedback and marketing"
-      ],
-      "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991302:1",
-      "url": "https://devforum.roblox.com/t/unexpected-error-with-instancehandlerget-and-wait/4991302",
-      "title": "Unexpected Error with InstanceHandler:Get() and :Wait()",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
       ],
       "score": 4,
       "evidence": "UNVIEWED_METADATA"
@@ -4433,6 +4388,45 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005192:1",
+      "url": "https://devforum.roblox.com/t/need-help-replicating-2019-specular-highlights/5005192",
+      "title": "Need help replicating 2019 specular highlights",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005199:1",
+      "url": "https://devforum.roblox.com/t/import-widget-wont-open-again-after-it-is-closed/5005199",
+      "title": "Import widget won't open again after it is closed",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005323:1",
+      "url": "https://devforum.roblox.com/t/there-seems-to-be-an-issue-with-robloxs-homepage-recommendation/5005323",
+      "title": "There seems to be an issue with Roblox's homepage recommendation",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvrsm9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvrsm9/roblox_banned_my_dev_account_right_after/",
       "title": "Roblox banned my dev account right after refunding me for fraud. Years of work locked, appeal denied.",
@@ -4771,17 +4765,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4989142:1",
-      "url": "https://devforum.roblox.com/t/the-support-ai-does-not-help-solve-issues/4989142",
-      "title": "The support AI does not help solve issues",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4989980:1",
       "url": "https://devforum.roblox.com/t/when-uploading-a-video-to-a-group-it-uses-your-personal-robux/4989980",
       "title": "When uploading a video to a group it uses your personal robux",
@@ -4917,17 +4900,6 @@
       "key": "devforum:4991152:1",
       "url": "https://devforum.roblox.com/t/roblox-creator-browser-play-does-not-allow-teleports-between-places-creator-owns/4991152",
       "title": "Roblox creator browser play does not allow teleports between places creator owns",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991274:1",
-      "url": "https://devforum.roblox.com/t/strict-error-analyser/4991274",
-      "title": "Strict-error-analyser",
       "source": "roblox-devforum-latest",
       "published": "2026-11-14",
       "kind": "devforum",
@@ -6454,6 +6426,72 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5005086:1",
+      "url": "https://devforum.roblox.com/t/game-trailer-repeatedly-denied-despite-meeting-video-quality-guidelines/5005086",
+      "title": "Game Trailer Repeatedly Denied Despite Meeting Video Quality Guidelines",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005097:1",
+      "url": "https://devforum.roblox.com/t/alcohol-the-best-roblox-client-sober-killer/5005097",
+      "title": "Alcohol, the BEST ROBLOX CLIENT [SOBER KILLER]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005115:1",
+      "url": "https://devforum.roblox.com/t/paying-for-executor-detections/5005115",
+      "title": "Paying for Executor Detections",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005228:1",
+      "url": "https://devforum.roblox.com/t/roraster-the-fastest-and-easiest-mapminimap-pipeline-a-rorender-competitor/5005228",
+      "title": "RoRaster - The Fastest and Easiest Map/Minimap Pipeline [A RoRender Competitor]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005277:1",
+      "url": "https://devforum.roblox.com/t/feature-request-official-open-cloud-group-payouts-api/5005277",
+      "title": "[Feature Request] Official Open Cloud Group Payouts API",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005308:1",
+      "url": "https://devforum.roblox.com/t/issues-appeals-appeal-glitch/5005308",
+      "title": "Issues & Appeals Appeal Glitch",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvt9r9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvt9r9/sneak_peek_at_my_own_doorsinspired_horror_game/",
       "title": "Sneak peek at my own doors-inspired horror game!",
@@ -6520,17 +6558,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xw0ido",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw0ido/some_more_screenshots_from_my_doorsinspired/",
-      "title": "Some more screenshots from my doors-inspired horror game called The Meridian :)))",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xw2jw3",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw2jw3/looking_for_help_making_my_game/",
       "title": "Looking for help making my game.",
@@ -6586,17 +6613,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xw7zzl",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw7zzl/shmoovers_water_walls_kinda_rework/",
-      "title": "Shmoovers {water walls} {kinda rework}",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xw900p",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw900p/some_anomaly_designs_in_my_floor_survival_game/",
       "title": "Some anomaly designs in my floor survival game.",
@@ -6633,17 +6649,6 @@
       "key": "reddit:1xwax44",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwax44/game_finally_exploded/",
       "title": "Game finally exploded",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xwd9eo",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwd9eo/so_is_this_better_now/",
-      "title": "so is this better now",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
       "kind": "reddit",
@@ -7165,19 +7170,6 @@
       "kind": "index-only",
       "signals": [
         "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXNMUnpkWTgxWVIxSEI1YUZQVHkteEVqZ2FSelZOcGxLalo5djdTbUFFazRXdW1MdVdmaU5yRDBpdHFqaEt6c0ZRTEZMR0xISHQ3aF9n",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSXNMUnpkWTgxWVIxSEI1YUZQVHkteEVqZ2FSelZOcGxLalo5djdTbUFFazRXdW1MdVdmaU5yRDBpdHFqaEt6c0ZRTEZMR0xISHQ3aF9n?oc=5",
-      "title": "Roblox Changed the Algorithm.. Here’s How to Get Players Now - YouTube",
-      "source": "syphodev-claude",
-      "published": "2026-11-14",
-      "kind": "index-only",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"

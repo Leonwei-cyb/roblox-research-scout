@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "4b3e1552c570b952533d9cada2542a916bb60e3c",
+      "head": "9587741f62205d168459b1be9441fdb901a1b482",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.332",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "327c47a2851d834af01013e2a6c755b61d063dcb",
-      "head_subject": "UI - Basic HTTP fetcher icon in the watch list, fetcher icons on the 'Fetch Method' options (#4809)",
+      "head": "13da3572273de11100ac9668a81e49962eef2d3c",
+      "head_subject": "Groups - The group edit page validates what it is sent (#4813)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "b207a5a319ba8bd21d5ca607cfb460b46ad6f946",
-      "head_subject": "mlxrunner: compact Engram history buffers (#19913)",
+      "head": "8ae8acb81afba9c3c67adf08190964eb7d1207ef",
+      "head_subject": "bump llama-server (#19917)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.18",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",

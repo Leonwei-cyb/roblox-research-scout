@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 437
-- index-only: 42
-- reddit: 115
+- devforum: 443
+- index-only: 41
+- reddit: 110
 - youtube: 6
 
 ## First-Session And Mobile
@@ -32,7 +32,7 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 ## Economy And Income
 
 - [Wild West Game Testing Feedback](https://devforum.roblox.com/t/wild-west-game-testing-feedback/4992916) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Looking for playtesters for my Roblox PVP game](https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Do you know about *lua*? Get a certificate](https://devforum.roblox.com/t/do-you-know-about-lua-get-a-certificate/4995406) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Ui And Menus
 
