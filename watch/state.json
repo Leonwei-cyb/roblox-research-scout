@@ -73,7 +73,7 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "c4a51a5ee4d86ef05bb5f845d8a84590027f9089",
+      "head": "4b3e1552c570b952533d9cada2542a916bb60e3c",
       "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.332",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "131c417d7f3c55c6e9063968c5f1c167682ba2dd",
-      "head_subject": "Proxy scanner - Every 'Check/Scan all' is a new scan (it kept its first results), and tests through real proxies (#4799)",
+      "head": "327c47a2851d834af01013e2a6c755b61d063dcb",
+      "head_subject": "UI - Basic HTTP fetcher icon in the watch list, fetcher icons on the 'Fetch Method' options (#4809)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",
@@ -129,8 +129,8 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "784dd544291825e8f5f064672dc2bd7f4d9345ed",
-      "head_subject": "inkling2: faster short histories, draft proposals and conv snapshots (#19881)",
+      "head": "b207a5a319ba8bd21d5ca607cfb460b46ad6f946",
+      "head_subject": "mlxrunner: compact Engram history buffers (#19913)",
       "name": "ollama/ollama",
       "release_tag": "v0.40.18",
       "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",

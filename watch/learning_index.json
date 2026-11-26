@@ -384,6 +384,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5004893:1",
+      "url": "https://devforum.roblox.com/t/plugin-surface-painter-paint-parts-models-and-decals-onto-any-surface-free-pro/5004893",
+      "title": "[Plugin] Surface Painter: Paint Parts, Models, and Decals onto Any Surface (Free + Pro)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xv0cex",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv0cex/building_a_new_roblox_gaming_studio_founding_team/",
       "title": "Building a New Roblox Gaming Studio; Founding Team & Leadership Recruitment",
@@ -554,48 +568,6 @@
         "building and purchases"
       ],
       "score": 7,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988753:1",
-      "url": "https://devforum.roblox.com/t/players-being-placed-into-newly-created-servers-despite-available-servers-with-open-slots/4988753",
-      "title": "Players being placed into newly created servers despite available servers with open slots",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988938:1",
-      "url": "https://devforum.roblox.com/t/conditional-no-longer-detecting-button-color-properly-after-a-color-tween/4988938",
-      "title": "Conditional no longer detecting button color properly after a color tween",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "animation and audio"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989701:1",
-      "url": "https://devforum.roblox.com/t/claude-created-animation-graph-node-connections-work-but-display-improperly/4989701",
-      "title": "Claude created animation graph node connections work but display improperly",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "animation and audio"
-      ],
-      "score": 6,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1047,34 +1019,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuz5em",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuz5em/i_need_help_about_scripting/",
-      "title": "I need help about scripting",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "building and purchases",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvlg4i",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvlg4i/almost_launched_with_50_player_servers_and_only_8/",
-      "title": "Almost launched with 50 player servers and only 8 ranches",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xvseli",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvseli/looking_for_playtesters_for_my_roblox_pvp_game/",
       "title": "Looking for playtesters for my Roblox PVP game",
@@ -1146,19 +1090,6 @@
         "world and visual design"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988748:1",
-      "url": "https://devforum.roblox.com/t/am-i-supposed-to-be-able-to-reply-here-tabout-the-luau-category/4988748",
-      "title": "Am i supposed to be able to reply here? /t/about-the-luau-category",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -2565,14 +2496,27 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xv93hp",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xv93hp/looking_for_vfx_artists_for_my_jojos_roblox_game/",
-      "title": "Looking for vfx artists for my jojo's roblox game, dm me on discord if you are interested kraze_yt",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5004862:1",
+      "url": "https://devforum.roblox.com/t/gamegetservicepatchbundlerfilewatch-crashes-studio-with-a-stdruntimeerror-internal-permission-is-required-for-this-feature/5004862",
+      "title": "game:GetService(\"PatchBundlerFileWatch\") crashes Studio with a std::runtime_error (\"Internal Permission is required for this feature\")",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
       "signals": [
-        "animation and audio"
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004884:1",
+      "url": "https://devforum.roblox.com/t/audience-reach-stuck-on-final-review-in-progress-since-july-22-with-all-requirements-met/5004884",
+      "title": "Audience Reach stuck on \"Final review in progress\" since July 22 with all requirements met",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -3381,19 +3325,6 @@
       "kind": "youtube",
       "signals": [],
       "score": 4,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989855:1",
-      "url": "https://devforum.roblox.com/t/weekly-recap-november-9-%E2%80%93-13-2026/4989855",
-      "title": "Weekly Recap: November 9 – 13, 2026",
-      "source": "roblox-devforum-updates",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -4450,12 +4381,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuw5tu",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuw5tu/help/",
-      "title": "help",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5004875:1",
+      "url": "https://devforum.roblox.com/t/appeal-timeline-wont-show-up-though-i-submitted-my-appeal/5004875",
+      "title": "Appeal timeline won't show up though I submitted my appeal",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -4463,14 +4394,40 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xuwcyt",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xuwcyt/hey_rrobloxstudio_i_need_your_help_to_make_my/",
-      "title": "Hey R/RobloxStudio! I need your help to make my roblox game!",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5004949:1",
+      "url": "https://devforum.roblox.com/t/manage-audience-button-opens-the-settings-for-the-wrong-experience-when-overwriting-another-place-while-publishing/5004949",
+      "title": "\"Manage Audience\" button opens the settings for the wrong experience when overwriting another place while publishing",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
       "signals": [
-        "player feedback and marketing"
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005010:1",
+      "url": "https://devforum.roblox.com/t/hiring-campaign-scouts-payment-usd-robux/5005010",
+      "title": "Hiring Campaign Scouts | Payment USD & Robux",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005045:1",
+      "url": "https://devforum.roblox.com/t/windows-31-in-a-roblox-computer-emulator/5005045",
+      "title": "Windows 3.1 in a roblox computer emulator",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4814,42 +4771,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4988734:1",
-      "url": "https://devforum.roblox.com/t/community-wikis/4988734",
-      "title": "Community Wikis",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4988867:1",
-      "url": "https://devforum.roblox.com/t/inputbinding-not-working-with-controller/4988867",
-      "title": "InputBinding not working with controller",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4989142:1",
       "url": "https://devforum.roblox.com/t/the-support-ai-does-not-help-solve-issues/4989142",
       "title": "The support AI does not help solve issues",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-13",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989842:1",
-      "url": "https://devforum.roblox.com/t/question-regarding-unplayable-gambling-content/4989842",
-      "title": "Question regarding unplayable gambling content",
       "source": "roblox-devforum-latest",
       "published": "2026-11-13",
       "kind": "devforum",
@@ -6475,12 +6399,56 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xutwkm",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xutwkm/falcon_mechanic_finally_working/",
-      "title": "Falcon Mechanic Finally Working!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-13",
-      "kind": "reddit",
+      "key": "devforum:5004850:1",
+      "url": "https://devforum.roblox.com/t/calculating-continous-held-jump-force-for-achieving-max-jump-height-in-semi-implicit-euler-physics/5004850",
+      "title": "Calculating continous held jump force for achieving max jump height in semi-implicit euler physics?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004855:1",
+      "url": "https://devforum.roblox.com/t/keeping-a-raycast-suspension-chassis-stable/5004855",
+      "title": "Keeping a Raycast Suspension Chassis Stable",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004923:1",
+      "url": "https://devforum.roblox.com/t/critical-any-client-that-renders-a-specific-ugc-body-layered-dress-crashes-access-violation-actively-used-by-bots-to-crash-servers/5004923",
+      "title": "[CRITICAL] Any client that renders a specific UGC body + layered dress crashes (access violation), actively used by bots to crash servers",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-25",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5004956:1",
+      "url": "https://devforum.roblox.com/t/wedge-parts-improperly-collide-with-other-parts/5004956",
+      "title": "Wedge parts improperly collide with other parts",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5005059:1",
+      "url": "https://devforum.roblox.com/t/shadows-flicker-and-spasm-when-moving/5005059",
+      "title": "Shadows flicker and spasm when moving",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-26",
+      "kind": "devforum",
       "signals": [],
       "score": 2,
       "evidence": "UNVIEWED_METADATA"
@@ -7115,6 +7083,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1oREl1emhSN2NxQ2ZvVUhqX0czMnBnV1hFblRTWUlSbU0zZTA5OWp4Z1oyZkg0bFRTMVpsbjVkaFRhU1FnUENPWi1fekZtSWFDeGNiLW5n",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oREl1emhSN2NxQ2ZvVUhqX0czMnBnV1hFblRTWUlSbU0zZTA5OWp4Z1oyZkg0bFRTMVpsbjVkaFRhU1FnUENPWi1fekZtSWFDeGNiLW5n?oc=5",
+      "title": "70b ka world burner 😭💔 in Steal an egg Game #reels #viralreels #gaming #roblox #stealanegg - Instagram",
+      "source": "brock-ig-reels",
+      "published": "2026-11-18",
+      "kind": "index-only",
+      "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE1vQm1VYU5LWmwtR3k1d2RaSHh0c05CN2lZMWhDRll3eW1RRURGVE91WXFLWExoTjhlS0oydHd0OVJhU0dZN0k2bHJXY0VXV3dWWnhKbXJ3",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vQm1VYU5LWmwtR3k1d2RaSHh0c05CN2lZMWhDRll3eW1RRURGVE91WXFLWExoTjhlS0oydHd0OVJhU0dZN0k2bHJXY0VXV3dWWnhKbXJ3?oc=5",
       "title": "How to Connect Claude Code to Roblox Studio - YouTube",
@@ -7506,6 +7487,17 @@
       "signals": [
         "genres and successful loops"
       ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMicEFVX3lxTE93MUlEYzh0UXZhRU1NU1UxSmJFaVFVZ3ozckhNZF9IbThfcThma2Uyc1czM1g2RXpzYnV0Y18yY2sta3lEcHJBM2gwLUstUUZGcnJFYkxoaGZyaTBKSkFzUlNnbnZEZUJXQ1ZFclJfeXE",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93MUlEYzh0UXZhRU1NU1UxSmJFaVFVZ3ozckhNZF9IbThfcThma2Uyc1czM1g2RXpzYnV0Y18yY2sta3lEcHJBM2gwLUstUUZGcnJFYkxoaGZyaTBKSkFzUlNnbnZEZUJXQ1ZFclJfeXE?oc=5",
+      "title": "Nadella Says Claude Code Reshaped Software Development - cwibc.co.id",
+      "source": "automation",
+      "published": "2026-11-23",
+      "kind": "index-only",
+      "signals": [],
       "score": 0,
       "evidence": "UNVIEWED_METADATA"
     },

@@ -7,48 +7,51 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[How to Make INSANE UI in Roblox with AI (Claude Opus 5.5 + ForgeGUI) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZkFGb25yLUZ5OVFLem5iWXZMTTUzMXZoNzVJZ0MtU01VRFdNcmNuNEtuQXdnQWtJWTkzWGstbW5QdExRWmxwVzY3c1pCVXpSTm4zUEdR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-10-28
-  - Feed excerpt: How to Make INSANE UI in Roblox with AI (Claude Opus 5.5 + ForgeGUI) YouTube
+- **[How to Connect Claude AI to Roblox Studio \| Complete Setup & Installation Guide - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KOFR3Sm1SWWV3Y3BFaHpQN2FKUm1wYnZPeC1XS0RFX2FyMUFpVm9raWxhUTBLcENPX28xZVo2SDFIT2VhSWgyV1JXb01QWm90bmZmTGpn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-01
+  - Feed excerpt: How to Connect Claude AI to Roblox Studio \| Complete Setup & Installation Guide YouTube
+- **[How to Connect Claude Code to Roblox Studio (MCP Setup) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlblAtNFdJUjJTUTVjX3RTNDAteklXWXN1dHdNWllwVlBESThLSFdiWTI3VFV4TXFFVFlURkI1TDdsSXZ5X20wWF9qT19oQVl1NnlXc0ZB?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-03
+  - Feed excerpt: How to Connect Claude Code to Roblox Studio (MCP Setup) YouTube
+- **[How to Install Superbullet AI - Complete Setup Guide (v6) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pYjN1YjhSc21UX0pZZWZ5ZzJxbDVKTXRDVTNEU1VTTmpzaE1ock84RGpWZWdCeXFhX2FDQXkxV1dSZVVXd00tdXVVeklQbzItYU9VbTVn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-12
+  - Feed excerpt: How to Install Superbullet AI - Complete Setup Guide (v6) YouTube
 
 ## Roblox Creator / Steal An Egg
 
-- **[A Divine Prismare Egg Spawned in my server #stealanegg #roblox #game #gaming #funny - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wbmx4MUgwQzYyRkNUaHdJZjlGNDg1SmpTT0tHWkJYOVZZQXlUVk9QNk9ZNDJuVGV3U2ZhekRseVhFa1JleUJFeEc0d0FrS1hJRXRYWnpn?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-08
-  - Feed excerpt: A Divine Prismare Egg Spawned in my server #stealanegg #roblox #game #gaming #funny Instagram
-- **[I Found Huge Divine Stormlord Light in Steal an egg #roblox #game #gaming #funny #robloxgaming - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YQmVjdnpqTVpsQ0Nmdi1xMllCSTVUaVJYbnBwUWQ3UWpjNl9PNUZnalBLN1AtZ1NGbmVKdVZNZ083U2xEOGVMRVczZnEzV091cWZCb2N3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-16
-  - Feed excerpt: I Found Huge Divine Stormlord Light in Steal an egg #roblox #game #gaming #funny #robloxgaming Instagram
-- **[Owner Brockodile Spawned This For Me in Lucky Server! #stealanegg #roblox #robloxgaming #funny #game - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE13LWpjdXI2QkMya1dUOHRsM2RqTzVocDNDMDBHUWRDeTkzWW5jcEU0MEptYmFWQXhBYzlRaGxuTDc4QnVya3FhNGltMElxMnNWbW5kemlR?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-25
-  - Feed excerpt: Owner Brockodile Spawned This For Me in Lucky Server! #stealanegg #roblox #robloxgaming #funny #game Instagram
+- **[Yesterdays Admin Abuse In Steal An Egg 🥚\| PT.02 \| #jonasbrothers \| #roblox \| #viral \| @roblox \| @jonasbrothers \| @brockkodile - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zZndxWmdXMjVuWVczS1Bmd2NfZ0FtWmtnR3JlRHc0cXJyY3dDQTlXUGRRWUZMR3VOQ3BRNmtKWWtuRHNXRWdfZXl5VU43aDFWYnNhLUN3?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-01
+  - Feed excerpt: Yesterdays Admin Abuse In Steal An Egg 🥚\| PT.02 \| #jonasbrothers \| #roblox \| #viral \| @roblox \| @jonasbrothers \| @brockkodile Instagram
+- **[70b ka world burner 😭💔 in Steal an egg Game #reels #viralreels #gaming #roblox #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oREl1emhSN2NxQ2ZvVUhqX0czMnBnV1hFblRTWUlSbU0zZTA5OWp4Z1oyZkg0bFRTMVpsbjVkaFRhU1FnUENPWi1fekZtSWFDeGNiLW5n?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-18
+  - Feed excerpt: 70b ka world burner 😭💔 in Steal an egg Game #reels #viralreels #gaming #roblox #stealanegg Instagram
 
 ## Roblox Updates
 
-- **[3D Modeller \| Looking for commissions - High poly and Game Ready](https://devforum.roblox.com/t/3d-modeller-looking-for-commissions-high-poly-and-game-ready/5004531)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Hello! I am Kaike351, a 3D artist and Roblox developer with 3.5 years of experience using Blender and over 4 years of experience working with Roblox Studio . My primary specialization is hard surface modeling , including weapons, military e
-- **[Looking for feedback on my game](https://devforum.roblox.com/t/looking-for-feedback-on-my-game/5004521)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Hello, I’m Zavier, the creator of Don’t Wake It. I was wondering If I could get some testers for my horror game. The analytics do not seem to be doing the best. Could I get some advice on what I can do better? Thanks! Roblox 🏚️Don't Wake It
-- **[My first game – Build a Fun Park Tycoon, looking for honest feedback](https://devforum.roblox.com/t/my-first-game-%E2%80%93-build-a-fun-park-tycoon-looking-for-honest-feedback/5004639)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Hi everyone! This is my first game on Roblox and I’m still learning, so any feedback helps a lot. It’s a theme park tycoon. Game link: Construye un parque de atracciones Tycoon \| Juega en Roblox I would appreciate your honest opinion on thi
-- **[\[Hiring\] Lead Roblox Developer \| Lead Your Own Game at Cinnamon](https://devforum.roblox.com/t/hiring-lead-roblox-developer-lead-your-own-game-at-cinnamon/5004628)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: About Us Sup. We’re Cinnamon Software, the independent Roblox studio behind LifeTogether (4B+ visits), BlockSpin (1.3B+) and BayView (600M+) . Our latest game, DRIVE: Highway , has already reached 12.3M+ visits since launching over a month 
-- **[Ability to Minimize or Disable the Friends requests in-game](https://devforum.roblox.com/t/ability-to-minimize-or-disable-the-friends-requests-in-game/5004638)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: As a Roblox developer, it is currently too hard to ignore friends Requests in-game If Roblox is able to address this issue, it would improve my development experience because I would be able to not see friend requests notification while I’m
-- **[Feedbacks on a drill game?](https://devforum.roblox.com/t/feedbacks-on-a-drill-game/5004618)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Hey all, I’ve been working for that game for about 7 months now (took a few breaks), and I’ve been constantly asking myself what to add, change, remove to make a game that people wanna play, stay and come back. I updated the game like 3 day
-- **[How do I add my roblox games to Discord game selection?](https://devforum.roblox.com/t/how-do-i-add-my-roblox-games-to-discord-game-selection/5004599)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Hey folks! Hope you guys are having a great day! (Or night) As you may know if you use Discord, you can link games to your profile. This shows users interests for other people exploring profiles. I noticed today that you can now link Roblox
-- **[Need Overall Feedback for Naval Game](https://devforum.roblox.com/t/need-overall-feedback-for-naval-game/5004584)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Hello! I am working on a pirate-themed naval game, in which the primary goal is to gather resources and upgrade to larger and stronger ships. You can explore islands for treasure. I am planning to add more in the future, with different type
-- **[Pending Revenue shows 0](https://devforum.roblox.com/t/pending-revenue-shows-0/5004580)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Yesterday I had USD pending value because of my plugin, now it shows 0. The pending USD that have been lost, show successful and paid, not refunded, not paid to stripe or bank account. Just vanished overnight. I want to disclose that the sa
-- **[Replicator Data Ping at 60000ms, small current replication radius](https://devforum.roblox.com/t/replicator-data-ping-at-60000ms-small-current-replication-radius/5004605)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: There is an issue for players that their data ping is unexplainably high. At the same time, packet breakdowns and network ping in performance stats are normal. When I checked values against my own nothing stood out, except data ping and str
-- **[Why Don't UGC Creators Have a Launcher in Roblox Events?](https://devforum.roblox.com/t/why-dont-ugc-creators-have-a-launcher-in-roblox-events/5004607)** · Roblox Developer Forum latest · 2026-11-25
+- **[Audience Reach stuck on "Final review in progress" since July 22 with all requirements met](https://devforum.roblox.com/t/audience-reach-stuck-on-final-review-in-progress-since-july-22-with-all-requirements-met/5004884)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: My game Paint an Album (Universe ID 7037902226, Place ID 120154566897536) has been in Audience Reach final review since about July 22, 2026. It’s been over four months, and the game is still only available to players 16+. Steps: Go to Creat
+- **[game:GetService("PatchBundlerFileWatch") crashes Studio with a std::runtime_error ("Internal Permission is required for this feature")](https://devforum.roblox.com/t/gamegetservicepatchbundlerfilewatch-crashes-studio-with-a-stdruntimeerror-internal-permission-is-required-for-this-feature/5004862)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Calling game:GetService("PatchBundlerFileWatch") crashes Roblox Studio almost immediately (after a second), pcall does not catch or stop it. Reproduction steps Open Roblox Studio with a new Baseplate In the command bar (while editing), run:
+- **["Manage Audience" button opens the settings for the wrong experience when overwriting another place while publishing](https://devforum.roblox.com/t/manage-audience-button-opens-the-settings-for-the-wrong-experience-when-overwriting-another-place-while-publishing/5004949)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: Whenever publishing a experience over an existing one, clicking the “Manage Audience” button will show you the creator hub page for the experience currently open in studio, rather then where you just published to. Roblox Studio 2026 11 25 1
+- **[Windows 3.1 in a roblox computer emulator](https://devforum.roblox.com/t/windows-31-in-a-roblox-computer-emulator/5005045)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: I managed to run Windows 3.1 inside an x86 PC emulator written in Luau. It can boot FreeDOS , GRUB, and Linux 2.0 at a decent speed. It can also play videos with audio using Roblox’s AudioStreamWriter which to my knowledge only works in Stu
+- **[Appeal timeline won't show up though I submitted my appeal](https://devforum.roblox.com/t/appeal-timeline-wont-show-up-though-i-submitted-my-appeal/5004875)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: I can’t find my appeal timeline showing up in Issues & Appeals. I already submitted, not on Support webpage but on Issues & Appeals page, my appeal & actually had some replies from Roblox staff saying “Do ~~ & call us so that we can re-revi
+- **[Calculating continous held jump force for achieving max jump height in semi-implicit euler physics?](https://devforum.roblox.com/t/calculating-continous-held-jump-force-for-achieving-max-jump-height-in-semi-implicit-euler-physics/5004850)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: I’m not good at math, would anyone be able to provide any help for this? 1 post - 1 participant Read full topic
+- **[Keeping a Raycast Suspension Chassis Stable](https://devforum.roblox.com/t/keeping-a-raycast-suspension-chassis-stable/5004855)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: I’ve been working on raycast suspension systems in Roblox for a long time, and I’m finally happy with how my current chassis drives. One problem I ran into was that as my FPS dropped, the suspension would become highly unstable and could ev
+- **[\[CRITICAL\] Any client that renders a specific UGC body + layered dress crashes (access violation), actively used by bots to crash servers](https://devforum.roblox.com/t/critical-any-client-that-renders-a-specific-ugc-body-layered-dress-crashes-access-violation-actively-used-by-bots-to-crash-servers/5004923)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Summary Since 2026-11-25 ~18:40 UTC , every client that renders one specific avatar combination crashes instantly : a custom UGC body bundle (with its own WrapTarget cages), wearing one specific layered dress ( WrapLayer , Order = 1 ). The 
+- **[\[Plugin\] Surface Painter: Paint Parts, Models, and Decals onto Any Surface (Free + Pro)](https://devforum.roblox.com/t/plugin-surface-painter-paint-parts-models-and-decals-onto-any-surface-free-pro/5004893)** · Roblox Developer Forum latest · 2026-11-25
+  - Feed excerpt: Surface Painter Surface Painter is a Studio plugin that paints parts, your own models and decals onto any surface. Pick what you want, click and drag. If you’d normally place hundreds of them by hand, you can brush them on instead. It comes
+- **[Hiring Campaign Scouts \| Payment USD & Robux](https://devforum.roblox.com/t/hiring-campaign-scouts-payment-usd-robux/5005010)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: Become a Campaign Scout at Toybox Entertainment! About Us Hi there! We’re Toybox Entertainment , a Roblox-focused creative studio and professional network connecting talented developers, creators, and studios. We’re currently looking for Ca
+- **[Shadows flicker and spasm when moving](https://devforum.roblox.com/t/shadows-flicker-and-spasm-when-moving/5005059)** · Roblox Developer Forum latest · 2026-11-26
+  - Feed excerpt: When you have a part that casts a shadow, then you move that part it flickers and moves around randomly as seen in the video above, is there anyway to fix this? 1 post - 1 participant Read full topic
+- **[Wedge parts improperly collide with other parts](https://devforum.roblox.com/t/wedge-parts-improperly-collide-with-other-parts/5004956)** · Roblox Developer Forum latest · 2026-11-26
   - Feed excerpt: (topic deleted by author) 1 post - 1 participant Read full topic
-- **[Why Don't Verified UGC Creators Have a Launcher in Roblox Events?](https://devforum.roblox.com/t/why-dont-verified-ugc-creators-have-a-launcher-in-roblox-events/5004609)** · Roblox Developer Forum latest · 2026-11-25
-  - Feed excerpt: Why don’t verified UGC item creators have a launcher in Roblox events? They are also part of the Roblox creator community and deserve more opportunities to showcase their work. Giving verified UGC creators a launcher would help promote thei
 
-## Youtube
+## Workflows
 
-- **[bro has been training for this moment his entire life](https://www.youtube.com/shorts/P1PezaxafqA)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-25
+- **[Nadella Says Claude Code Reshaped Software Development - cwibc.co.id](https://news.google.com/rss/articles/CBMicEFVX3lxTE93MUlEYzh0UXZhRU1NU1UxSmJFaVFVZ3ozckhNZF9IbThfcThma2Uyc1czM1g2RXpzYnV0Y18yY2sta3lEcHJBM2gwLUstUUZGcnJFYkxoaGZyaTBKSkFzUlNnbnZEZUJXQ1ZFclJfeXE?oc=5)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-11-23
+  - Feed excerpt: Nadella Says Claude Code Reshaped Software Development cwibc.co.id
 
 ---
 

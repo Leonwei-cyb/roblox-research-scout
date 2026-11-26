@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 433
-- index-only: 40
-- reddit: 121
+- devforum: 437
+- index-only: 42
+- reddit: 115
 - youtube: 6
 
 ## First-Session And Mobile
@@ -47,7 +47,7 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 ## World And Visual Design
 
 - [ACS Workbench: a plugin for setting up ACS 2.0.1 guns (looking for feedback)](https://devforum.roblox.com/t/acs-workbench-a-plugin-for-setting-up-acs-201-guns-looking-for-feedback/4998709) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
-- [Any Tips Regarding the UI or the Lighting?](https://www.reddit.com/r/ROBLOXStudio/comments/1xwvyz1/any_tips_regarding_the_ui_or_the_lighting/) — reddit; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [\[Plugin\] Surface Painter: Paint Parts, Models, and Decals onto Any Surface (Free + Pro)](https://devforum.roblox.com/t/plugin-surface-painter-paint-parts-models-and-decals-onto-any-surface-free-pro/5004893) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Genres And Successful Loops
 
