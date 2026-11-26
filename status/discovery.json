@@ -9,11 +9,11 @@
     "rate": {
       "code_search": {
         "remaining": 10,
-        "reset_at": "2026-11-25T22:00:16Z"
+        "reset_at": "2026-11-26T08:56:08Z"
       },
       "search": {
         "remaining": 1,
-        "reset_at": "2026-11-25T21:59:52Z"
+        "reset_at": "2026-11-26T08:55:49Z"
       }
     }
   },
@@ -214,98 +214,98 @@
       "id": "pack:multi-chatgpt-web-workers:a:strict",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "ChatGPT multi conversation orchestration in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:a:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT orchestration in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "ChatGPT orchestration in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:b:strict",
       "items": 15,
       "kind": "search",
-      "query": "persistent ChatGPT browser sessions workers in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "persistent ChatGPT browser sessions workers in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:b:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT browser sessions in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "ChatGPT browser sessions in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:c:strict",
       "items": 15,
       "kind": "search",
-      "query": "parallel LLM web agents in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "parallel LLM web agents in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:c:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "LLM web agents in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:strict",
       "items": 15,
       "kind": "search",
-      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "multi-agent coding chat workspace in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:d:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "multi-agent workspace in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:e:strict",
       "items": 15,
       "kind": "search",
-      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "agent task dispatch browser extension in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:e:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "agent browser extension in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:f:strict",
       "items": 15,
       "kind": "search",
-      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "authenticated ChatGPT web conversation queue in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:f:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "ChatGPT conversation queue in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:g:strict",
       "items": 15,
       "kind": "search",
-      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "durable agent session manager in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
       "id": "pack:multi-chatgpt-web-workers:g:relaxed",
       "items": 15,
       "kind": "search",
-      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-11-25 archived:false",
+      "query": "agent session manager in:name,description,topics,readme pushed:>=2025-11-26 archived:false",
       "status": "ok"
     },
     {
@@ -362,10 +362,10 @@
     "stale_after_hours": 13
   },
   "last_run": {
-    "finished_at": "2026-11-25T21:59:16Z",
+    "finished_at": "2026-11-26T08:55:08Z",
     "outcome": "partial",
-    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/45709197546",
-    "started_at": "2026-11-25T21:58:52Z",
+    "run_url": "https://github.com/Leonwei-cyb/roblox-research-scout/actions/runs/45787171508",
+    "started_at": "2026-11-26T08:54:49Z",
     "trigger": "schedule"
   },
   "schema": 1
