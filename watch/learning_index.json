@@ -571,20 +571,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4991106:1",
-      "url": "https://devforum.roblox.com/t/my-portfolio-as-a-scripter/4991106",
-      "title": "My portfolio as a scripter",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus",
-        "tools and performance"
-      ],
-      "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4992053:1",
       "url": "https://devforum.roblox.com/t/need-feedback-on-my-game/4992053",
       "title": "Need feedback on my game",
@@ -1019,12 +1005,12 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xw1gjn",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xw1gjn/idiotic_ways_to_construct/",
-      "title": "Idiotic Ways To Construct",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-14",
-      "kind": "reddit",
+      "key": "devforum:5006142:1",
+      "url": "https://devforum.roblox.com/t/kids-select-final-review-stuck-for-7-days-with-all-requirements-met/5006142",
+      "title": "Kids & Select final review stuck for 7 days with all requirements met",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
       "signals": [
         "building and purchases",
         "player feedback and marketing"
@@ -1100,19 +1086,6 @@
         "animation and audio",
         "player feedback and marketing",
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990199:1",
-      "url": "https://devforum.roblox.com/t/fifa-meets-roblox-introducing-supreme-soccer-tycoon/4990199",
-      "title": "FIFA Meets Roblox? Introducing Supreme Soccer Tycoon",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -1196,19 +1169,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4990876:1",
-      "url": "https://devforum.roblox.com/t/6-r15-animation-pack-%E2%80%93-202-combat-gun-movement/4990876",
-      "title": "6 & R15 Animation Pack – 202+ Combat, Gun & Movement",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "animation and audio"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4991228:1",
       "url": "https://devforum.roblox.com/t/terrain-makes-loading-into-a-game-take-extremely-long-38-seconds/4991228",
       "title": "Terrain makes loading into a game take extremely long (~38 seconds)",
@@ -1217,19 +1177,6 @@
       "kind": "devforum",
       "signals": [
         "world and visual design"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991260:1",
-      "url": "https://devforum.roblox.com/t/open-looking-for-a-scripting-partner/4991260",
-      "title": "[OPEN] Looking for a Scripting Partner!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2519,6 +2466,58 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006031:1",
+      "url": "https://devforum.roblox.com/t/what-does-a-builder-think-of-this-build-not-a-builder/5006031",
+      "title": "What does a builder think of this build? (Not a builder)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006091:1",
+      "url": "https://devforum.roblox.com/t/burry-flickering-dots-in-studio-viewport-on-macos/5006091",
+      "title": "Burry Flickering Dots in Studio Viewport on MacOS",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006146:1",
+      "url": "https://devforum.roblox.com/t/can-roblox-please-review-my-games-moderation-ys-game-removed-for-sexual-content/5006146",
+      "title": "Can Roblox Please Review My Game's Moderation? (YS Game Removed for Sexual Content)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006193:1",
+      "url": "https://devforum.roblox.com/t/identical-summary-strings-for-runserviceheartbeat-and-runservicepostsimulation-cause-misleading-studio-autocomplete-tooltips/5006193",
+      "title": "Identical summary strings for RunService.Heartbeat and RunService.PostSimulation cause misleading Studio autocomplete tooltips",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwcz46",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwcz46/prussian_hussars_v_russian_cossacks_circa_1757_7/",
       "title": "Prussian Hussars v Russian Cossacks circa 1757 - 7 years war character models",
@@ -3303,19 +3302,6 @@
       "kind": "devforum",
       "signals": [
         "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990486:1",
-      "url": "https://devforum.roblox.com/t/messages-and-friends-counter-badges-have-inconsistent-padding-in-website-sidebar/4990486",
-      "title": "Messages and Friends Counter Badges Have Inconsistent Padding in Website Sidebar",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4478,6 +4464,32 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006013:1",
+      "url": "https://devforum.roblox.com/t/alphamode-transparency-materials-displaying-black-in-experience/5006013",
+      "title": "AlphaMode Transparency Materials displaying black in experience",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006100:1",
+      "url": "https://devforum.roblox.com/t/roblox-records-show-credential-related-activity-without-account-owner-notifications/5006100",
+      "title": "Roblox Records Show Credential-Related Activity Without Account Owner Notifications",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvrsm9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvrsm9/roblox_banned_my_dev_account_right_after/",
       "title": "Roblox banned my dev account right after refunding me for fraud. Years of work locked, appeal denied.",
@@ -4486,19 +4498,6 @@
       "kind": "reddit",
       "signals": [
         "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xvtgnq",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvtgnq/why_is_my_games_qptr_so_low/",
-      "title": "Why is my game’s QPTR so low?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [
-        "player feedback and marketing"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4823,28 +4822,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4990229:1",
-      "url": "https://devforum.roblox.com/t/have-settopbartransparency-work-on-the-current-coregui/4990229",
-      "title": "Have :SetTopbarTransparency() work on the current CoreGui",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990399:1",
-      "url": "https://devforum.roblox.com/t/game-icons-aren%E2%80%98t-loading/4990399",
-      "title": "Game Icons aren‘t loading",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4990579:1",
       "url": "https://devforum.roblox.com/t/original-song-removed-for-copyright-no-way-to-prove-ownership/4990579",
       "title": "Original song removed for 'Copyright' - No way to prove ownership",
@@ -4881,17 +4858,6 @@
       "key": "devforum:4990879:1",
       "url": "https://devforum.roblox.com/t/all-classic-heads/4990879",
       "title": "All classic heads",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990969:1",
-      "url": "https://devforum.roblox.com/t/filter-friend-types/4990969",
-      "title": "Filter friend types",
       "source": "roblox-devforum-latest",
       "published": "2026-11-14",
       "kind": "devforum",
@@ -6528,6 +6494,61 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006017:1",
+      "url": "https://devforum.roblox.com/t/android-a-230%E2%80%93365-ms-frame-about-16-s-after-a-cold-app-start-and-sometimes-a-36-s-freeze-at-about-46-s-in-any-experience-pixel-8-pro/5006017",
+      "title": "Android: a 230–365 ms frame about 16 s after a cold app start, and sometimes a 3.6 s freeze at about 46 s, in any experience (Pixel 8 Pro)",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006041:1",
+      "url": "https://devforum.roblox.com/t/community-locked-with-no-violation-or-notice-a-week-after-a-7-day-account-ban/5006041",
+      "title": "Community locked with no violation or notice, a week after a 7-day account ban",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006063:1",
+      "url": "https://devforum.roblox.com/t/bullets-arent-aligning-with-weapon-when-shooting-and-walking-at-the-same-time/5006063",
+      "title": "Bullets aren't aligning with weapon when shooting and walking at the same time?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006065:1",
+      "url": "https://devforum.roblox.com/t/why-you-need-to-join-an-allow-feature-requests-group-to-post/5006065",
+      "title": "Why you need to join an Allow Feature Requests group to post",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006184:1",
+      "url": "https://devforum.roblox.com/t/hiring-exertgg-is-looking-for-game-scouts/5006184",
+      "title": "[HIRING] Exert.GG is looking for Game Scouts!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvt9r9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvt9r9/sneak_peek_at_my_own_doorsinspired_horror_game/",
       "title": "Sneak peek at my own doors-inspired horror game!",
@@ -6597,17 +6618,6 @@
       "key": "reddit:1xwackn",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwackn/wyp_pokemon_showdown_system/",
       "title": "WYP Pokemon Showdown system",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xwaq4v",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwaq4v/how_did_you_guys_beat_procrastination_with/",
-      "title": "how did you guys beat procrastination with leaening coding",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
       "kind": "reddit",
@@ -7436,19 +7446,6 @@
       "title": "I added a Turkey Boss into Steal an Egg 🦃 #Roblox #StealanEgg - TikTok",
       "source": "brock-tiktok",
       "published": "2026-11-21",
-      "kind": "index-only",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 0,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "news.google.com/rss/articles/CBMibEFVX3lxTFBDVHdNN2N5T2FTU1hIZVV2c2poYWxzSDdpOXhyMEg4VlF5Rm5qbTdsb2J1QlcxX1FleFNzcDdMUEtxcXVCMllZZkFqUFRqYnlXRnRWX1V2cS1kNlpvVUpxLTJpbWxiMVVhWC1nQw",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDVHdNN2N5T2FTU1hIZVV2c2poYWxzSDdpOXhyMEg4VlF5Rm5qbTdsb2J1QlcxX1FleFNzcDdMUEtxcXVCMllZZkFqUFRqYnlXRnRWX1V2cS1kNlpvVUpxLTJpbWxiMVVhWC1nQw?oc=5",
-      "title": "Slick Rick Dealer has arrived in Steal an Egg #StealanEgg #Roblox - TikTok",
-      "source": "brock-tiktok",
-      "published": "2026-11-14",
       "kind": "index-only",
       "signals": [
         "genres and successful loops"

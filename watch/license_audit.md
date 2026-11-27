@@ -7,7 +7,7 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | [Roblox/roblox-studio-agent-plugin](https://github.com/Roblox/roblox-studio-agent-plugin) | MIT — license present, inspect asset and dependency rights | 2026-11-10 | No |
 | [Roblox/creator-docs](https://github.com/Roblox/creator-docs) | CC-BY-4.0 — license present, inspect asset and dependency rights | 2026-11-25 | No |
 | [Roblox/luau](https://github.com/Roblox/luau) | MIT — license present, inspect asset and dependency rights | 2026-11-23 | No |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | No verified license — do NOT copy source/assets | 2026-11-26 | No |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | No verified license — do NOT copy source/assets | 2026-11-27 | No |
 | [obra/superpowers](https://github.com/obra/superpowers) | MIT — license present, inspect asset and dependency rights | 2026-11-26 | No |
 | [PepeElToro41/ui-labs](https://github.com/PepeElToro41/ui-labs) | GPL-3.0 — copyleft, review conditions | 2026-10-14 | No |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | MIT — license present, inspect asset and dependency rights | 2026-11-09 | No |
@@ -16,8 +16,8 @@ Metadata only, not legal advice or a security audit. Third-party models may have
 | [Roblox/open-game-eval](https://github.com/Roblox/open-game-eval) | MIT — license present, inspect asset and dependency rights | 2026-10-05 | No |
 | [ollama/ollama](https://github.com/ollama/ollama) | MIT — license present, inspect asset and dependency rights | 2026-11-26 | No |
 | [RSSHub/RSSHub](https://github.com/RSSHub/RSSHub) | AGPL-3.0 — copyleft, review conditions | 2025-12-30 | No |
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Apache-2.0 — license present, inspect asset and dependency rights | 2026-11-26 | No |
-| [huginn/huginn](https://github.com/huginn/huginn) | MIT — license present, inspect asset and dependency rights | 2026-11-26 | No |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Apache-2.0 — license present, inspect asset and dependency rights | 2026-11-27 | No |
+| [huginn/huginn](https://github.com/huginn/huginn) | MIT — license present, inspect asset and dependency rights | 2026-11-27 | No |
 | [obris-dev/openmagpie](https://github.com/obris-dev/openmagpie) | No verified license — do NOT copy source/assets | 2026-11-20 | No |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | AGPL-3.0 — copyleft, review conditions | 2026-11-26 | No |
 | [buriedsignals/scoutpost-os](https://github.com/buriedsignals/scoutpost-os) | AGPL-3.0 — copyleft, review conditions | 2026-11-25 | No |
