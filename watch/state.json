@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "a9d985236f211308b532878d50f1c5a6728430d9",
-      "head_subject": "chore: Update mods/",
+      "head": "102fafb0953d90cff472b438e443485e7d131d36",
+      "head_subject": "Don't mark reproducible or high-impact issues as stale (#112436)",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.332",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "a55feb86d23e0c3be41573f848f47d06386b03f6",
-      "head_subject": "Update inscriptis requirement from <2.7.7,>=2.7.6 to >=2.7.7,<2.7.8 (#4820)",
+      "head": "c55647b33de5c7c2c1b698d1c90554413de8b732",
+      "head_subject": "UI - Realtime - Fixing single row updates for processor (#4823)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",

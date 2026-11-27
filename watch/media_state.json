@@ -1,20 +1,5 @@
 {
   "seen": [
-    "329a1b0ad61dc79a7195850c",
-    "15e88cfa43e2119889fdc249",
-    "97279f7f35640550697a7623",
-    "23e62cb94e61a416887ec086",
-    "24c8e90e939ac73e9c2d6e54",
-    "0a9c9336d5f7b2a6112262d2",
-    "3bc7746cd00f06bef6b3cd0d",
-    "ea2235e686815bbff9bed9a0",
-    "8c045f8d1cec65178834e383",
-    "e1e7a4625adeb1239a22465c",
-    "2d923080191c73a768834d8f",
-    "692847bfd5db459a87898690",
-    "e12bb973dde92c9fdc4ad114",
-    "3ed3015b9ad0cedb224e7d06",
-    "0cf7fc1f3700bbcc48a8d3bf",
     "8206d18611de14f1c0e56650",
     "cb424818ada8cb1edd020476",
     "b68f9b74250bb622e8727c8b",
@@ -3999,7 +3984,22 @@
     "0107620de1fe7c2f5e414d6b",
     "14d667b0370b50780fdab7d5",
     "af681761f86fd732ca99fa4b",
-    "cf3e4508d1d6ac2aade45617"
+    "cf3e4508d1d6ac2aade45617",
+    "668590088781b80d100867f1",
+    "65abfffbc454f9328cd4e681",
+    "329b619efadf074387dc9fb0",
+    "56f699243e4bae07134c441e",
+    "2b541031858d7e84cfff8168",
+    "bbc2c336aaf99c23ea9de872",
+    "44da04d3ecba0b8a2792e721",
+    "64bb5d6df3588e69bb81cade",
+    "3256aaf7c9f92a134ae7cc99",
+    "11e93ac70923813c242f8929",
+    "24d3aeeed6f4e9ffeaa04509",
+    "d80fbf8b57cab475abe31e2e",
+    "668d9805ac209b587d97ac4a",
+    "95f4e7c57593fb3e67f281b8",
+    "b66bc83b9836eb809ea875c7"
   ],
   "items": [
     {
@@ -4025,6 +4025,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/burry-flickering-dots-in-studio-viewport-on-macos/5006091.rss",
       "id": "e95314428eb39dca8053489d"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Blender Bridge: send Studio models to Blender and Unity with textures, materials and lights [Testers wanted]",
+      "url": "https://devforum.roblox.com/t/roblox-blender-bridge-send-studio-models-to-blender-and-unity-with-textures-materials-and-lights-testers-wanted/5006256",
+      "published": "2026-11-27",
+      "excerpt": "What is it? Roblox Blender Bridge takes the model you select in Studio and rebuilds it in Blender, then in Unity, with its real geometry, textures, materials and lights. No manual OBJ exports, and no re-texturing everything by hand. How it works It comes in two parts. Install only the first if you j",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-blender-bridge-send-studio-models-to-blender-and-unity-with-textures-materials-and-lights-testers-wanted/5006256.rss",
+      "id": "d80fbf8b57cab475abe31e2e"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4061,6 +4073,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/identical-summary-strings-for-runserviceheartbeat-and-runservicepostsimulation-cause-misleading-studio-autocomplete-tooltips/5006193.rss",
       "id": "bf1ce889b3f84ccf1f95eb90"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Make devforum moderation appeals not terrible",
+      "url": "https://devforum.roblox.com/t/make-devforum-moderation-appeals-not-terrible/5006453",
+      "published": "2026-11-27",
+      "excerpt": "I posted a feature request that was difficult for children to understand so they flagged it. This is despite the post being for professional engineers, not for children. Now it’s hidden. I got a DM about this. The appeal process should be: Respond to the DM The process is: Go to roblox Log in MFA au",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/make-devforum-moderation-appeals-not-terrible/5006453.rss",
+      "id": "bbc2c336aaf99c23ea9de872"
     },
     {
       "source": "roblox-devforum-latest",
@@ -4114,6 +4138,102 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "Illusion's ScaleManager, Your best companion for better scaled text!",
+      "url": "https://devforum.roblox.com/t/illusions-scalemanager-your-best-companion-for-better-scaled-text/5006599",
+      "published": "2026-11-27",
+      "excerpt": "Illusion ScaleManager A simple replacement for TextScaled that uses viewport width to control text size. Overview This module applies a UIScale to a TextLabel and updates it based on the camera’s viewport width. The result is consistent, predictable scaling across different resolutions. Using ISM, T",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/illusions-scalemanager-your-best-companion-for-better-scaled-text/5006599.rss",
+      "id": "668590088781b80d100867f1"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Melee X: first-person melee PvP, beta just opened, feedback wanted",
+      "url": "https://devforum.roblox.com/t/melee-x-first-person-melee-pvp-beta-just-opened-feedback-wanted/5006533",
+      "published": "2026-11-27",
+      "excerpt": "Hey everyone, I’ve been rebuilding my old Roblox game Melee from scratch into Melee X : a first-person, melee-only PvP game. No guns, just blades and blunt weapons, blocks, guard breaks and backstabs. The beta opened today. Trailer: https://youtu.be/JnmwAiGl8IA What it is 16 players, up to 4 teams, ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/melee-x-first-person-melee-pvp-beta-just-opened-feedback-wanted/5006533.rss",
+      "id": "65abfffbc454f9328cd4e681"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[i'm an advanced lua scripter] lf worldbuilders - rev share project",
+      "url": "https://devforum.roblox.com/t/im-an-advanced-lua-scripter-lf-worldbuilders-rev-share-project/5006356",
+      "published": "2026-11-27",
+      "excerpt": "I am looking for people with similar interests and skills to mine so that we can work together and develop a game. My main area of expertise is scripting and programming (I have been using Lua for almost 4 years), but ideally I’d also like to bring together people with skills in world building, map ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/im-an-advanced-lua-scripter-lf-worldbuilders-rev-share-project/5006356.rss",
+      "id": "64bb5d6df3588e69bb81cade"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox Studio crashes at random",
+      "url": "https://devforum.roblox.com/t/roblox-studio-crashes-at-random/5006510",
+      "published": "2026-11-27",
+      "excerpt": "Ever since I’ve had a Windows 11 laptop I’ve noticed that Studio likes to crash when changing random things (such as properties of an object), or crashing entirely on start up to the point where I have to use task manager to close it. Studio crashing right after changing the BrickColor of a part: My",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-studio-crashes-at-random/5006510.rss",
+      "id": "56f699243e4bae07134c441e"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Instance:Clone return a map of source to clone",
+      "url": "https://devforum.roblox.com/t/instanceclone-return-a-map-of-source-to-clone/5006372",
+      "published": "2026-11-27",
+      "excerpt": "Every time I use Clone I find myself wanting a map of source->clone and/or clone->source. Very common use case is a plugin that’s cloning a template into other locations and needs to update the clone when the source changes. 15 posts - 6 participants Read full topic",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/instanceclone-return-a-map-of-source-to-clone/5006372.rss",
+      "id": "44da04d3ecba0b8a2792e721"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Missing setting to revert to SelectionBox from Highlight selector/hover?",
+      "url": "https://devforum.roblox.com/t/missing-setting-to-revert-to-selectionbox-from-highlight-selectorhover/5006530",
+      "published": "2026-11-27",
+      "excerpt": "Like I’m expecting the option to be able to change my selector visual back to SelectionBox, currently stuck with Highlight that currently ruins my mood to resume development. Roblox Studio Version 0.748.0.7481526 (64bit) System Information Dell OptiPlex 3040 Edition Windows 10 Pro (22H2) OS Build 19",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/missing-setting-to-revert-to-selectionbox-from-highlight-selectorhover/5006530.rss",
+      "id": "329b619efadf074387dc9fb0"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Roblox loading \"Place1\" instead of designated place",
+      "url": "https://devforum.roblox.com/t/roblox-loading-place1-instead-of-designated-place/5006321",
+      "published": "2026-11-27",
+      "excerpt": "When we load places with massive amounts of textures, assets & general scalability, the place name often defaults to “Place1”, or some times even “Place2”. It should be noted that it is loading into the correct place. Just the name is wrong. It doesn’t always happen, but it happens more than it does",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/roblox-loading-place1-instead-of-designated-place/5006321.rss",
+      "id": "3256aaf7c9f92a134ae7cc99"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "[Hiring] Roblox Thumbnail Marketing Artist | Cinnamon Software",
+      "url": "https://devforum.roblox.com/t/hiring-roblox-thumbnail-marketing-artist-cinnamon-software/5006480",
+      "published": "2026-11-27",
+      "excerpt": "About Us Sup. We’re Cinnamon Software, the independent Roblox studio behind LifeTogether (4B+ visits), BlockSpin (1.3B+) and BayView (600M+) . Our latest game, DRIVE: Highway , has already reached 12.3M+ visits since launching just over a month ago. We own our games and use their success to fund wha",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/hiring-roblox-thumbnail-marketing-artist-cinnamon-software/5006480.rss",
+      "id": "2b541031858d7e84cfff8168"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "[HIRING] Exert.GG is looking for Game Scouts!",
       "url": "https://devforum.roblox.com/t/hiring-exertgg-is-looking-for-game-scouts/5006184",
       "published": "2026-11-27",
@@ -4126,6 +4246,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "UAE/Middle Eastern Markets still do not have Access to Trusted Friends",
+      "url": "https://devforum.roblox.com/t/uaemiddle-eastern-markets-still-do-not-have-access-to-trusted-friends/5006281",
+      "published": "2026-11-27",
+      "excerpt": "Continuing the discussion from Why is the “Trusted Friends” feature not available in the Middle East? : Currently in December of 2026 and still alot of Middle Eastern Countrys do not have access to Trusted Friends feature, which is making it increasingly diffcuilt to playtest with my family and frie",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/uaemiddle-eastern-markets-still-do-not-have-access-to-trusted-friends/5006281.rss",
+      "id": "24d3aeeed6f4e9ffeaa04509"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "What does a builder think of this build? (Not a builder)",
       "url": "https://devforum.roblox.com/t/what-does-a-builder-think-of-this-build-not-a-builder/5006031",
       "published": "2026-11-27",
@@ -4133,6 +4265,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/what-does-a-builder-think-of-this-build-not-a-builder/5006031.rss",
       "id": "14d667b0370b50780fdab7d5"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Allow proper viewport fullscreen in Studio",
+      "url": "https://devforum.roblox.com/t/allow-proper-viewport-fullscreen-in-studio/5006315",
+      "published": "2026-11-27",
+      "excerpt": "As a Roblox developer, it is currently too hard to test your experience in a fullscreen viewport. To do so, you must either playtest your game through the website, or disable many of Studio’s interface one by one through toggles , and even that does not get you too far. If Roblox is able to address ",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/allow-proper-viewport-fullscreen-in-studio/5006315.rss",
+      "id": "11e93ac70923813c242f8929"
     },
     {
       "source": "roblox-devforum-latest",
@@ -7035,6 +7179,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/content-maturity-ratings-for-avatar-items-fallback-avatars/4997911.rss",
       "id": "7fbd7328e26bae0039004314"
+    },
+    {
+      "source": "x-ui",
+      "label": "Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d",
+      "category": "UI showcases",
+      "title": "Infadier - X",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5FcFdGbndfX1p5UlBPYUZKREJtRzBUMDZDVElPd1lPMFJ3R0lQbm00Y3BvZFZRQnNhN0E?oc=5",
+      "published": "2026-11-20",
+      "excerpt": "Infadier X",
+      "creator": "",
+      "publisher": "https://x.com",
+      "id": "668d9805ac209b587d97ac4a"
     },
     {
       "source": "syphodev-claude",
@@ -9963,6 +10119,18 @@
       "id": "99ce7d85dc8077673351f9bf"
     },
     {
+      "source": "syphodev-claude",
+      "label": "Google News indexed: site:youtube.com \"SyphoDev\" Roblox Claude game development when:30d",
+      "category": "Roblox creator / AI development",
+      "title": "How to Make Viral Roblox Animations with AI (FREE Skill) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSHJKRTk3cUU0T2tCY2NzWW9uNkJLU0UtOEVBX3gwcnhPN2MxWTVWdVJoek45YjhWTVI2TEhBNHFUemUxVnZjT1g5cURETU11aTRSYXZn?oc=5",
+      "published": "2026-11-15",
+      "excerpt": "How to Make Viral Roblox Animations with AI (FREE Skill) YouTube",
+      "creator": "",
+      "publisher": "https://www.youtube.com",
+      "id": "95f4e7c57593fb3e67f281b8"
+    },
+    {
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
@@ -10936,170 +11104,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/surfaceappearance-texturepacks-fail-with-rbxassethash-requester-does-not-have-permission-for-asset-on-my-own-approved-textures/4990546.rss",
       "id": "92cd4d2417e7b05f6b9d76fb"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "Been running ads…",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwdpu4/been_running_ads/",
-      "published": "2026-11-14",
-      "excerpt": "been running $10 ads on my game the past 3 days, only at 14 of 250 highly engaged players. My CTR is around 1-1.5%. Should I work on my creatives more? The base game is fully complete and every playtester enjoyed playing it. I want to push out my next big update but struggling with the fact I am not",
-      "creator": "/u/Icy_Lengthiness_628 https://www.reddit.com/user/Icy_Lengthiness_628",
-      "id": "921f8b9a159d6ee515fe90d7"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Studio freezes when I attempt to playtest my game",
-      "url": "https://devforum.roblox.com/t/studio-freezes-when-i-attempt-to-playtest-my-game/4990703",
-      "published": "2026-11-14",
-      "excerpt": "Basically, I’ve started to get this problem in my studio recently where when I try to playtest my game, my entire studio just freezes and doesn’t let me do anything, leading me to have to close studio in Task Manager. If I just let studio run, it eventually just blue screens my PC, as the memory goe",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/studio-freezes-when-i-attempt-to-playtest-my-game/4990703.rss",
-      "id": "90220e4931693c131232cdb1"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "My first attempt making survival adventure Roblox game, what do you guys think?",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw42wf/my_first_attempt_making_survival_adventure_roblox/",
-      "published": "2026-11-14",
-      "excerpt": "The name is Escape to Space! submitted by /u/ZealousidealPitch528 [link] [comments]",
-      "creator": "/u/ZealousidealPitch528 https://www.reddit.com/user/ZealousidealPitch528",
-      "id": "8bf118267513a7ea9f893dff"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Images uploaded in experience don't show to creator and apparently my original title seems unclear so here's a useless one",
-      "url": "https://devforum.roblox.com/t/images-uploaded-in-experience-dont-show-to-creator-and-apparently-my-original-title-seems-unclear-so-heres-a-useless-one/4991330",
-      "published": "2026-11-14",
-      "excerpt": "Original title that the bug wizard told me is “unclear”: Images uploaded through PromptCreatePlatformContentAsync are not immediately available to their uploader, limiting usefulness With AssetService:PromptCreatePlatformContentAsync , you can let a player upload an image. We are using this to add d",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/images-uploaded-in-experience-dont-show-to-creator-and-apparently-my-original-title-seems-unclear-so-heres-a-useless-one/4991330.rss",
-      "id": "89f6755ddf0f8dce4d87104c"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "[PLUGIN!] Auto Icon",
-      "url": "https://devforum.roblox.com/t/plugin-auto-icon/4989955",
-      "published": "2026-11-14",
-      "excerpt": "VERSION 1.0.1 - Auto assign icons to folder based on name!!! Please thank @gameboysix for these icons! They look great =) Any bugs please report it here! Sighhhhhh these look so boring! I wonder how we can make them look better… Oh I know! We can use icons now! But I dont want to manually assign the",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/plugin-auto-icon/4989955.rss",
-      "id": "87b1fad8ff9be75a422dcb85"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Prussian Hussars v Russian Cossacks circa 1757 - 7 years war character models",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwcz46/prussian_hussars_v_russian_cossacks_circa_1757_7/",
-      "published": "2026-11-14",
-      "excerpt": "submitted by /u/Bandit1189 [link] [comments]",
-      "creator": "/u/Bandit1189 https://www.reddit.com/user/Bandit1189",
-      "id": "853a421e30fd44944933798a"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Automatic Graphics Reset & Unclosable Device Emulator UI in Playtests",
-      "url": "https://devforum.roblox.com/t/automatic-graphics-reset-unclosable-device-emulator-ui-in-playtests/4990769",
-      "published": "2026-11-14",
-      "excerpt": "I am reporting this bug with my Laptop that is capable of handling Q21 level of graphics stable. The Issue: Starting a playtest forces Graphics Mode from Manual to Automatic and drops quality to the lowest level. Manually switching back to Manual and raising the Quality level unexpectedly triggers t",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/automatic-graphics-reset-unclosable-device-emulator-ui-in-playtests/4990769.rss",
-      "id": "8387d56b818dfd77c9dd7820"
-    },
-    {
-      "source": "reddit-robloxdev",
-      "label": "Reddit r/robloxgamedev public RSS",
-      "category": "community",
-      "title": "WYP Pokemon Showdown system",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwackn/wyp_pokemon_showdown_system/",
-      "published": "2026-11-14",
-      "excerpt": "Actually working on a prototype of a Pokemon like showdown system, I'm a beginner in code. Do you have some tips for me ? ( I'm still working on it, this isnt finish yet 😂 ) *i'm french, so the code is submitted by /u/Klutzy-Bottle8286 [link] [comments]",
-      "creator": "/u/Klutzy-Bottle8286 https://www.reddit.com/user/Klutzy-Bottle8286",
-      "id": "8284fdeca1f51f1657fb04c9"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Sudden spike of MeshContentProvider \"could not fetch\" errors on all clients since ~09:25 UTC (Nov 14)",
-      "url": "https://devforum.roblox.com/t/sudden-spike-of-meshcontentprovider-could-not-fetch-errors-on-all-clients-since-0925-utc-nov-14/4990398",
-      "published": "2026-11-14",
-      "excerpt": "Since about 09:25 UTC today (Nov 14, 2026), clients fail to download assets at a much higher rate than usual. It is not tied to one experience or to a new place version. What we see Our experience had no publish to its live places today (last publish: Nov 11), yet client errors jumped for all player",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/sudden-spike-of-meshcontentprovider-could-not-fetch-errors-on-all-clients-since-0925-utc-nov-14/4990398.rss",
-      "id": "7fcf5993095e09794f892f11"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "WebViewParams are visible in the autocomplete",
-      "url": "https://devforum.roblox.com/t/webviewparams-are-visible-in-the-autocomplete/4990592",
-      "published": "2026-11-14",
-      "excerpt": "WebViewParams should not be a visible datatype in the autocomplete, nor should it be highlighted: Stuff like ScopedInstanceIdentity are used more but are RobloxScriptSecurity: But unless you’re planning to add WebView support to developers, then you might aswell hide it. This is happening on version",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/webviewparams-are-visible-in-the-autocomplete/4990592.rss",
-      "id": "7f658d472dd9e71a6261d455"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "50% Russian Visits, 250 Highly Engaged Visits SKIP IS BAD!",
-      "url": "https://devforum.roblox.com/t/50-russian-visits-250-highly-engaged-visits-skip-is-bad/4991076",
-      "published": "2026-11-14",
-      "excerpt": "**I’m here to kind of ask for help and show of some algorithm issues that Im not sure if other people are experiencing. I dropped this game recently, its not an insanely high quality game but it is FAR above the quality and gameplay of a simulator game.** Roblox [🏹] Turf TURF Hold the line. Push the",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/50-russian-visits-250-highly-engaged-visits-skip-is-bad/4991076.rss",
-      "id": "7d56e7280ee58b280acec5bf"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Terrain makes loading into a game take extremely long (~38 seconds)",
-      "url": "https://devforum.roblox.com/t/terrain-makes-loading-into-a-game-take-extremely-long-38-seconds/4991228",
-      "published": "2026-11-14",
-      "excerpt": "Here is how long my 10,000 x 1,024 x 10,000 terrain map, nothing else in the place (no code, assets, etc) takes to load: https://drive.google.com/file/d/1Fsn2TgxBHzqx8EE4_McgF-xGZqBlTRB1/view?usp=sharing These are unacceptable times for iteration. Maintaining two synchronized places isn’t an option,",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/terrain-makes-loading-into-a-game-take-extremely-long-38-seconds/4991228.rss",
-      "id": "7ad91b0f2eeb3b3e6c3a2cad"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "New DataModel.ServerRegion property consistently returning blank",
-      "url": "https://devforum.roblox.com/t/new-datamodelserverregion-property-consistently-returning-blank/4991414",
-      "published": "2026-11-14",
-      "excerpt": "The newly added DataModel.ServerRegion property does not appear to work in-game via server code like expected. Can confirm that I was playing on a Sydney Australia server (Thanks to an old HTTP-based server region module I used to use) This bug occurs on any game I play, regardless of server region ",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/new-datamodelserverregion-property-consistently-returning-blank/4991414.rss",
-      "id": "6b545da12fdf73b4baa76b76"
-    },
-    {
-      "source": "roblox-devforum-latest",
-      "label": "Roblox Developer Forum latest",
-      "category": "roblox_updates",
-      "title": "Birthday Time Fedora Particle Fix",
-      "url": "https://devforum.roblox.com/t/birthday-time-fedora-particle-fix/4990096",
-      "published": "2026-11-14",
-      "excerpt": "Everyone who’s purchased the Birthday Time Fedora seems pretty annoyed by its particle effects and emissive lighting. I think most users would prefer sparkle effects similar to those on the Opal King of the Night. I’d also suggest toning down or removing the emissive effect entirely, because a glowi",
-      "creator": "",
-      "publisher": "https://devforum.roblox.com/t/birthday-time-fedora-particle-fix/4990096.rss",
-      "id": "6b34275885ec91432bbc8462"
     }
   ]
 }

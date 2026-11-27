@@ -412,6 +412,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006256:1",
+      "url": "https://devforum.roblox.com/t/roblox-blender-bridge-send-studio-models-to-blender-and-unity-with-textures-materials-and-lights-testers-wanted/5006256",
+      "title": "Roblox Blender Bridge: send Studio models to Blender and Unity with textures, materials and lights [Testers wanted]",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "world and visual design",
+        "tools and performance"
+      ],
+      "score": 8,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwvyz1",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwvyz1/any_tips_regarding_the_ui_or_the_lighting/",
       "title": "Any Tips Regarding the UI or the Lighting?",
@@ -1019,6 +1033,34 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006356:1",
+      "url": "https://devforum.roblox.com/t/im-an-advanced-lua-scripter-lf-worldbuilders-rev-share-project/5006356",
+      "title": "[i'm an advanced lua scripter] lf worldbuilders - rev share project",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006480:1",
+      "url": "https://devforum.roblox.com/t/hiring-roblox-thumbnail-marketing-artist-cinnamon-software/5006480",
+      "title": "[Hiring] Roblox Thumbnail Marketing Artist | Cinnamon Software",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "player feedback and marketing",
+        "tools and performance"
+      ],
+      "score": 6,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwpkk3",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwpkk3/made_a_somewhat_art_style_accurate_extra_history/",
       "title": "made a somewhat art style accurate Extra History character design in Roblox Studio",
@@ -1060,19 +1102,6 @@
         "world and visual design"
       ],
       "score": 6,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4989955:1",
-      "url": "https://devforum.roblox.com/t/plugin-auto-icon/4989955",
-      "title": "[PLUGIN!] Auto Icon",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -1130,32 +1159,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4990703:1",
-      "url": "https://devforum.roblox.com/t/studio-freezes-when-i-attempt-to-playtest-my-game/4990703",
-      "title": "Studio freezes when I attempt to playtest my game",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990769:1",
-      "url": "https://devforum.roblox.com/t/automatic-graphics-reset-unclosable-device-emulator-ui-in-playtests/4990769",
-      "title": "Automatic Graphics Reset & Unclosable Device Emulator UI in Playtests",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "UI and menus"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4990854:1",
       "url": "https://devforum.roblox.com/t/yall-split-up-your-scripts-or-keep-them-in-one/4990854",
       "title": "Yall split up your scripts or keep them in one?",
@@ -1164,19 +1167,6 @@
       "kind": "devforum",
       "signals": [
         "tools and performance"
-      ],
-      "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991228:1",
-      "url": "https://devforum.roblox.com/t/terrain-makes-loading-into-a-game-take-extremely-long-38-seconds/4991228",
-      "title": "Terrain makes loading into a game take extremely long (~38 seconds)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "world and visual design"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
@@ -2518,25 +2508,38 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xwcz46",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwcz46/prussian_hussars_v_russian_cossacks_circa_1757_7/",
-      "title": "Prussian Hussars v Russian Cossacks circa 1757 - 7 years war character models",
-      "source": "reddit-robloxstudio",
-      "published": "2026-11-14",
-      "kind": "reddit",
+      "key": "devforum:5006315:1",
+      "url": "https://devforum.roblox.com/t/allow-proper-viewport-fullscreen-in-studio/5006315",
+      "title": "Allow proper viewport fullscreen in Studio",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
       "signals": [
-        "world and visual design"
+        "tools and performance"
       ],
       "score": 5,
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xwdpu4",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwdpu4/been_running_ads/",
-      "title": "Been running ads…",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
+      "key": "devforum:5006510:1",
+      "url": "https://devforum.roblox.com/t/roblox-studio-crashes-at-random/5006510",
+      "title": "Roblox Studio crashes at random",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 5,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006533:1",
+      "url": "https://devforum.roblox.com/t/melee-x-first-person-melee-pvp-beta-just-opened-feedback-wanted/5006533",
+      "title": "Melee X: first-person melee PvP, beta just opened, feedback wanted",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
       "signals": [
         "player feedback and marketing"
       ],
@@ -2790,20 +2793,6 @@
         "world and visual design"
       ],
       "score": 5,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990096:1",
-      "url": "https://devforum.roblox.com/t/birthday-time-fedora-particle-fix/4990096",
-      "title": "Birthday Time Fedora Particle Fix",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "building and purchases",
-        "world and visual design"
-      ],
-      "score": 4,
       "evidence": "UNVIEWED_METADATA"
     },
     {
@@ -3157,6 +3146,20 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006530:1",
+      "url": "https://devforum.roblox.com/t/missing-setting-to-revert-to-selectionbox-from-highlight-selectorhover/5006530",
+      "title": "Missing setting to revert to SelectionBox from Highlight selector/hover?",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "building and purchases",
+        "tools and performance"
+      ],
+      "score": 4,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xwx2be",
       "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwx2be/farmland/",
       "title": "Farmland",
@@ -3294,19 +3297,6 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "devforum:4990398:1",
-      "url": "https://devforum.roblox.com/t/sudden-spike-of-meshcontentprovider-could-not-fetch-errors-on-all-clients-since-0925-utc-nov-14/4990398",
-      "title": "Sudden spike of MeshContentProvider \"could not fetch\" errors on all clients since ~09:25 UTC (Nov 14)",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "devforum:4990546:1",
       "url": "https://devforum.roblox.com/t/surfaceappearance-texturepacks-fail-with-rbxassethash-requester-does-not-have-permission-for-asset-on-my-own-approved-textures/4990546",
       "title": "SurfaceAppearance TexturePacks fail with \"rbxassethash ... Requester does not have permission for Asset\" on my own approved textures",
@@ -3328,45 +3318,6 @@
       "kind": "devforum",
       "signals": [
         "building and purchases"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991076:1",
-      "url": "https://devforum.roblox.com/t/50-russian-visits-250-highly-engaged-visits-skip-is-bad/4991076",
-      "title": "50% Russian Visits, 250 Highly Engaged Visits SKIP IS BAD!",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "genres and successful loops"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991330:1",
-      "url": "https://devforum.roblox.com/t/images-uploaded-in-experience-dont-show-to-creator-and-apparently-my-original-title-seems-unclear-so-heres-a-useless-one/4991330",
-      "title": "Images uploaded in experience don't show to creator and apparently my original title seems unclear so here's a useless one",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "player feedback and marketing"
-      ],
-      "score": 3,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4991414:1",
-      "url": "https://devforum.roblox.com/t/new-datamodelserverregion-property-consistently-returning-blank/4991414",
-      "title": "New DataModel.ServerRegion property consistently returning blank",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [
-        "tools and performance"
       ],
       "score": 3,
       "evidence": "UNVIEWED_METADATA"
@@ -4490,6 +4441,19 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006372:1",
+      "url": "https://devforum.roblox.com/t/instanceclone-return-a-map-of-source-to-clone/5006372",
+      "title": "Instance:Clone return a map of source to clone",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [
+        "tools and performance"
+      ],
+      "score": 3,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvrsm9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvrsm9/roblox_banned_my_dev_account_right_after/",
       "title": "Roblox banned my dev account right after refunding me for fraud. Years of work locked, appeal denied.",
@@ -4825,17 +4789,6 @@
       "key": "devforum:4990579:1",
       "url": "https://devforum.roblox.com/t/original-song-removed-for-copyright-no-way-to-prove-ownership/4990579",
       "title": "Original song removed for 'Copyright' - No way to prove ownership",
-      "source": "roblox-devforum-latest",
-      "published": "2026-11-14",
-      "kind": "devforum",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "devforum:4990592:1",
-      "url": "https://devforum.roblox.com/t/webviewparams-are-visible-in-the-autocomplete/4990592",
-      "title": "WebViewParams are visible in the autocomplete",
       "source": "roblox-devforum-latest",
       "published": "2026-11-14",
       "kind": "devforum",
@@ -6549,6 +6502,50 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "devforum:5006281:1",
+      "url": "https://devforum.roblox.com/t/uaemiddle-eastern-markets-still-do-not-have-access-to-trusted-friends/5006281",
+      "title": "UAE/Middle Eastern Markets still do not have Access to Trusted Friends",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006321:1",
+      "url": "https://devforum.roblox.com/t/roblox-loading-place1-instead-of-designated-place/5006321",
+      "title": "Roblox loading \"Place1\" instead of designated place",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006453:1",
+      "url": "https://devforum.roblox.com/t/make-devforum-moderation-appeals-not-terrible/5006453",
+      "title": "Make devforum moderation appeals not terrible",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "devforum:5006599:1",
+      "url": "https://devforum.roblox.com/t/illusions-scalemanager-your-best-companion-for-better-scaled-text/5006599",
+      "title": "Illusion's ScaleManager, Your best companion for better scaled text!",
+      "source": "roblox-devforum-latest",
+      "published": "2026-11-27",
+      "kind": "devforum",
+      "signals": [],
+      "score": 2,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "reddit:1xvt9r9",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xvt9r9/sneak_peek_at_my_own_doorsinspired_horror_game/",
       "title": "Sneak peek at my own doors-inspired horror game!",
@@ -6593,31 +6590,9 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
-      "key": "reddit:1xw42wf",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw42wf/my_first_attempt_making_survival_adventure_roblox/",
-      "title": "My first attempt making survival adventure Roblox game, what do you guys think?",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
       "key": "reddit:1xw6b1p",
       "url": "https://www.reddit.com/r/robloxgamedev/comments/1xw6b1p/my_game_hit_20k_ccu/",
       "title": "My game hit 20K CCU!!",
-      "source": "reddit-robloxdev",
-      "published": "2026-11-14",
-      "kind": "reddit",
-      "signals": [],
-      "score": 2,
-      "evidence": "UNVIEWED_METADATA"
-    },
-    {
-      "key": "reddit:1xwackn",
-      "url": "https://www.reddit.com/r/robloxgamedev/comments/1xwackn/wyp_pokemon_showdown_system/",
-      "title": "WYP Pokemon Showdown system",
       "source": "reddit-robloxdev",
       "published": "2026-11-14",
       "kind": "reddit",
@@ -6967,6 +6942,17 @@
       "evidence": "UNVIEWED_METADATA"
     },
     {
+      "key": "news.google.com/rss/articles/CBMiOkFVX3lxTE5FcFdGbndfX1p5UlBPYUZKREJtRzBUMDZDVElPd1lPMFJ3R0lQbm00Y3BvZFZRQnNhN0E",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5FcFdGbndfX1p5UlBPYUZKREJtRzBUMDZDVElPd1lPMFJ3R0lQbm00Y3BvZFZRQnNhN0E?oc=5",
+      "title": "Infadier - X",
+      "source": "x-ui",
+      "published": "2026-11-20",
+      "kind": "index-only",
+      "signals": [],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
       "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE13LWpjdXI2QkMya1dUOHRsM2RqTzVocDNDMDBHUWRDeTkzWW5jcEU0MEptYmFWQXhBYzlRaGxuTDc4QnVya3FhNGltMElxMnNWbW5kemlR",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13LWpjdXI2QkMya1dUOHRsM2RqTzVocDNDMDBHUWRDeTkzWW5jcEU0MEptYmFWQXhBYzlRaGxuTDc4QnVya3FhNGltMElxMnNWbW5kemlR?oc=5",
       "title": "Owner Brockodile Spawned This For Me in Lucky Server! #stealanegg #roblox #robloxgaming #funny #game - Instagram",
@@ -7243,6 +7229,20 @@
       "published": "2026-11-19",
       "kind": "index-only",
       "signals": [
+        "genres and successful loops"
+      ],
+      "score": 0,
+      "evidence": "UNVIEWED_METADATA"
+    },
+    {
+      "key": "news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSHJKRTk3cUU0T2tCY2NzWW9uNkJLU0UtOEVBX3gwcnhPN2MxWTVWdVJoek45YjhWTVI2TEhBNHFUemUxVnZjT1g5cURETU11aTRSYXZn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSHJKRTk3cUU0T2tCY2NzWW9uNkJLU0UtOEVBX3gwcnhPN2MxWTVWdVJoek45YjhWTVI2TEhBNHFUemUxVnZjT1g5cURETU11aTRSYXZn?oc=5",
+      "title": "How to Make Viral Roblox Animations with AI (FREE Skill) - YouTube",
+      "source": "syphodev-claude",
+      "published": "2026-11-15",
+      "kind": "index-only",
+      "signals": [
+        "animation and audio",
         "genres and successful loops"
       ],
       "score": 0,

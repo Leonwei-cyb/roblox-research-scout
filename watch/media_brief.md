@@ -5,32 +5,44 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
+## Roblox Creator / Ai Development
+
+- **[How To Open AI Assistant In Roblox Studio (Simple Guide) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qLURCYVI4RDNqRVh0d21JR0drUENZOGZxUHl3TzJqc3ItQXJMdjQ2eU93MXBidUJYWnFoSXJpcm1ZM29oOS1ZMzh0aUJxanJudmo2Y3Vn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-01
+  - Feed excerpt: How To Open AI Assistant In Roblox Studio (Simple Guide) YouTube
+- **[How to Make Viral Roblox Animations with AI (FREE Skill) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSHJKRTk3cUU0T2tCY2NzWW9uNkJLU0UtOEVBX3gwcnhPN2MxWTVWdVJoek45YjhWTVI2TEhBNHFUemUxVnZjT1g5cURETU11aTRSYXZn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-15
+  - Feed excerpt: How to Make Viral Roblox Animations with AI (FREE Skill) YouTube
+
+## Ui Showcases
+
+- **[Infadier - X](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5FcFdGbndfX1p5UlBPYUZKREJtRzBUMDZDVElPd1lPMFJ3R0lQbm00Y3BvZFZRQnNhN0E?oc=5)** · Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d · 2026-11-20
+  - Feed excerpt: Infadier X
+
 ## Roblox Updates
 
-- **[Identical summary strings for RunService.Heartbeat and RunService.PostSimulation cause misleading Studio autocomplete tooltips](https://devforum.roblox.com/t/identical-summary-strings-for-runserviceheartbeat-and-runservicepostsimulation-cause-misleading-studio-autocomplete-tooltips/5006193)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: In the RunService API Reference, both RunService.Heartbeat and RunService.PostSimulation share the same summary string: Fires every frame, after the physics simulation has completed. While an earlier documentation update expanded the descri
-- **[Burry Flickering Dots in Studio Viewport on MacOS](https://devforum.roblox.com/t/burry-flickering-dots-in-studio-viewport-on-macos/5006091)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: When testing a place in Roblox Studio I encountered a issue where the right side of the viewport would have these blurry dots that would flicker, usually being the color of whatever would be behind it. As you can see on the right of the vie
-- **[Kids & Select final review stuck for 7 days with all requirements met](https://devforum.roblox.com/t/kids-select-final-review-stuck-for-7-days-with-all-requirements-met/5006142)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Hello, My experience has been on “Final review in progress… This can take up to 48 hours” since November 20, 2026 (7 days), and it is still available to 16+ only. Experience: Betta Fish Tycoon Universe ID: 10776537936 Place ID: 120777716599
-- **[AlphaMode Transparency Materials displaying black in experience](https://devforum.roblox.com/t/alphamode-transparency-materials-displaying-black-in-experience/5006013)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: I have a custom MaterialVariant that has Transparency set as its AlphaMode. It looks correct in Studio, however in the Experience itself the material appears black. 2 posts - 2 participants Read full topic
-- **[Android: a 230–365 ms frame about 16 s after a cold app start, and sometimes a 3.6 s freeze at about 46 s, in any experience (Pixel 8 Pro)](https://devforum.roblox.com/t/android-a-230%E2%80%93365-ms-frame-about-16-s-after-a-cold-app-start-and-sometimes-a-36-s-freeze-at-about-46-s-in-any-experience-pixel-8-pro/5006017)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: What happens When the Roblox app is cold-started straight into an experience on a Pixel 8 Pro, two stalls land at fixed times after the app process starts. They do not depend on the experience: we measured them in Crossroads , in Natural Di
-- **[Bullets aren't aligning with weapon when shooting and walking at the same time?](https://devforum.roblox.com/t/bullets-arent-aligning-with-weapon-when-shooting-and-walking-at-the-same-time/5006063)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Hello! I’m currently working on making a gun for my game and when you shoot the gun bullets shoot out of it. The problem is, if you shoot and walk at the same time, instead of the bullets starting at where the gun handle is, it gets delayed
-- **[Can Roblox Please Review My Game's Moderation? (YS Game Removed for Sexual Content)](https://devforum.roblox.com/t/can-roblox-please-review-my-games-moderation-ys-game-removed-for-sexual-content/5006146)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: I honestly feel like this moderation decision was unfair, and I would really appreciate some clarification from Roblox. My game, YS , was taken off the platform for supposedly containing sexual content. However, I genuinely do not believe t
-- **[Community locked with no violation or notice, a week after a 7-day account ban](https://devforum.roblox.com/t/community-locked-with-no-violation-or-notice-a-week-after-a-7-day-account-ban/5006041)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: My community \[ToW\] Traits of War Community ( \[ToW\] Traits of War Community - Roblox ) got locked today, and I have no idea why. Earlier this month my account got a 7-day ban after one of my experiences was moderated. The community was compl
-- **[Roblox Records Show Credential-Related Activity Without Account Owner Notifications](https://devforum.roblox.com/t/roblox-records-show-credential-related-activity-without-account-owner-notifications/5006100)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Hi there I’d like to bring attention to a concerning security incident involving my Roblox account. On August 14, 2026, my account experienced unauthorized changes to its credentials and security settings. However, I never received any corr
-- **[What does a builder think of this build? (Not a builder)](https://devforum.roblox.com/t/what-does-a-builder-think-of-this-build-not-a-builder/5006031)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: This one is older then the first one(thats why you dont see the wall) Anyway what do you guys think? My first build. 1 post - 1 participant Read full topic
-- **[Why you need to join an Allow Feature Requests group to post](https://devforum.roblox.com/t/why-you-need-to-join-an-allow-feature-requests-group-to-post/5006065)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Developer Forum members need to join an Allow Feature Requests group and accepted to post like Xbox Features or other features category in Allow Feature Requests category. 1 post - 1 participant Read full topic
-- **[\[HIRING\] Exert.GG is looking for Game Scouts!](https://devforum.roblox.com/t/hiring-exertgg-is-looking-for-game-scouts/5006184)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Exert.GG is looking to expand its Roblox game portfolio. We’re seeking individuals who understand the Roblox market and have an eye for games with untapped potential. Your role is to source acquisition opportunities and establish connection
+- **[Allow proper viewport fullscreen in Studio](https://devforum.roblox.com/t/allow-proper-viewport-fullscreen-in-studio/5006315)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: As a Roblox developer, it is currently too hard to test your experience in a fullscreen viewport. To do so, you must either playtest your game through the website, or disable many of Studio’s interface one by one through toggles , and even 
+- **[Instance:Clone return a map of source to clone](https://devforum.roblox.com/t/instanceclone-return-a-map-of-source-to-clone/5006372)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Every time I use Clone I find myself wanting a map of source->clone and/or clone->source. Very common use case is a plugin that’s cloning a template into other locations and needs to update the clone when the source changes. 15 posts - 6 pa
+- **[Missing setting to revert to SelectionBox from Highlight selector/hover?](https://devforum.roblox.com/t/missing-setting-to-revert-to-selectionbox-from-highlight-selectorhover/5006530)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Like I’m expecting the option to be able to change my selector visual back to SelectionBox, currently stuck with Highlight that currently ruins my mood to resume development. Roblox Studio Version 0.748.0.7481526 (64bit) System Information 
+- **[Roblox Studio crashes at random](https://devforum.roblox.com/t/roblox-studio-crashes-at-random/5006510)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Ever since I’ve had a Windows 11 laptop I’ve noticed that Studio likes to crash when changing random things (such as properties of an object), or crashing entirely on start up to the point where I have to use task manager to close it. Studi
+- **[UAE/Middle Eastern Markets still do not have Access to Trusted Friends](https://devforum.roblox.com/t/uaemiddle-eastern-markets-still-do-not-have-access-to-trusted-friends/5006281)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Continuing the discussion from Why is the “Trusted Friends” feature not available in the Middle East? : Currently in December of 2026 and still alot of Middle Eastern Countrys do not have access to Trusted Friends feature, which is making i
+- **[\[Hiring\] Roblox Thumbnail Marketing Artist \| Cinnamon Software](https://devforum.roblox.com/t/hiring-roblox-thumbnail-marketing-artist-cinnamon-software/5006480)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: About Us Sup. We’re Cinnamon Software, the independent Roblox studio behind LifeTogether (4B+ visits), BlockSpin (1.3B+) and BayView (600M+) . Our latest game, DRIVE: Highway , has already reached 12.3M+ visits since launching just over a m
+- **[Illusion's ScaleManager, Your best companion for better scaled text!](https://devforum.roblox.com/t/illusions-scalemanager-your-best-companion-for-better-scaled-text/5006599)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Illusion ScaleManager A simple replacement for TextScaled that uses viewport width to control text size. Overview This module applies a UIScale to a TextLabel and updates it based on the camera’s viewport width. The result is consistent, pr
+- **[Make devforum moderation appeals not terrible](https://devforum.roblox.com/t/make-devforum-moderation-appeals-not-terrible/5006453)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: I posted a feature request that was difficult for children to understand so they flagged it. This is despite the post being for professional engineers, not for children. Now it’s hidden. I got a DM about this. The appeal process should be: 
+- **[Melee X: first-person melee PvP, beta just opened, feedback wanted](https://devforum.roblox.com/t/melee-x-first-person-melee-pvp-beta-just-opened-feedback-wanted/5006533)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Hey everyone, I’ve been rebuilding my old Roblox game Melee from scratch into Melee X : a first-person, melee-only PvP game. No guns, just blades and blunt weapons, blocks, guard breaks and backstabs. The beta opened today. Trailer: https:/
+- **[Roblox Blender Bridge: send Studio models to Blender and Unity with textures, materials and lights \[Testers wanted\]](https://devforum.roblox.com/t/roblox-blender-bridge-send-studio-models-to-blender-and-unity-with-textures-materials-and-lights-testers-wanted/5006256)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: What is it? Roblox Blender Bridge takes the model you select in Studio and rebuilds it in Blender, then in Unity, with its real geometry, textures, materials and lights. No manual OBJ exports, and no re-texturing everything by hand. How it 
+- **[Roblox loading "Place1" instead of designated place](https://devforum.roblox.com/t/roblox-loading-place1-instead-of-designated-place/5006321)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: When we load places with massive amounts of textures, assets & general scalability, the place name often defaults to “Place1”, or some times even “Place2”. It should be noted that it is loading into the correct place. Just the name is wrong
+- **[\[i'm an advanced lua scripter\] lf worldbuilders - rev share project](https://devforum.roblox.com/t/im-an-advanced-lua-scripter-lf-worldbuilders-rev-share-project/5006356)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: I am looking for people with similar interests and skills to mine so that we can work together and develop a game. My main area of expertise is scripting and programming (I have been using Lua for almost 4 years), but ideally I’d also like 
 
 ---
 
