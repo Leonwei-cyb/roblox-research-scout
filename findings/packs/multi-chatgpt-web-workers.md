@@ -2,7 +2,7 @@
 
 Problem-first GitHub search, one bounded run. Not full GitHub coverage: GitHub search returns at most 15 results per query here, ranked by GitHub's own relevance.
 
-- Run: 2026-11-26T21:56:30Z (schedule) - **PARTIAL**: search stopped early: GitHub rate limit for /search/code
+- Run: 2026-11-27T09:05:52Z (schedule) - **PARTIAL**: search stopped early: GitHub rate limit for /search/code
 - API calls: 31 total (rest 31)
 - Distinct repos found: 198; inspected: 0
 
