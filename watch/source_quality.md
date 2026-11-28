@@ -28,13 +28,13 @@ Google News redirect links are not resolved: the current article format needs Go
 
 | Publisher | Redirects |
 |---|---:|
-| www.instagram.com | 23 |
+| www.instagram.com | 21 |
 | www.youtube.com | 10 |
-| www.tiktok.com | 6 |
+| www.tiktok.com | 7 |
+| explainx.ai | 2 |
 | shattered.io | 2 |
 | x.com | 2 |
 | cwibc.co.id | 1 |
-| explainx.ai | 1 |
 | gamedev.net | 1 |
 | www.neowin.net | 1 |
 

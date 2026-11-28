@@ -7,42 +7,45 @@ X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube tran
 
 ## Roblox Creator / Ai Development
 
-- **[How To Open AI Assistant In Roblox Studio (Simple Guide) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qLURCYVI4RDNqRVh0d21JR0drUENZOGZxUHl3TzJqc3ItQXJMdjQ2eU93MXBidUJYWnFoSXJpcm1ZM29oOS1ZMzh0aUJxanJudmo2Y3Vn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-01
-  - Feed excerpt: How To Open AI Assistant In Roblox Studio (Simple Guide) YouTube
-- **[How to Make Viral Roblox Animations with AI (FREE Skill) - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSHJKRTk3cUU0T2tCY2NzWW9uNkJLU0UtOEVBX3gwcnhPN2MxWTVWdVJoek45YjhWTVI2TEhBNHFUemUxVnZjT1g5cURETU11aTRSYXZn?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-15
-  - Feed excerpt: How to Make Viral Roblox Animations with AI (FREE Skill) YouTube
+- **[How To Make An Entire Roblox Game With AI - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkRU1UQV9NSEhOaUxuaEhqa3h1bHBYckhlVjhzOE8wZXpJWjA2YUNqVk00WXVSMTM2MExIM3cxZU5zMVA0MU9uY2p1SDF5VjY1ckhGNFpR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-09
+  - Feed excerpt: How To Make An Entire Roblox Game With AI YouTube
 
-## Ui Showcases
+## Roblox Creator / Steal An Egg
 
-- **[Infadier - X](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5FcFdGbndfX1p5UlBPYUZKREJtRzBUMDZDVElPd1lPMFJ3R0lQbm00Y3BvZFZRQnNhN0E?oc=5)** · Google News indexed: site:x.com Roblox UI animation shop menu #RobloxDev when:14d · 2026-11-20
-  - Feed excerpt: Infadier X
+- **[What’s hiding behind the Secret Door ❄️ #Roblox #StealanEgg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFBuWEhIVTl6bm1BM3lHa1NTMXhBWkxQVnpmY3oyOXFCa05vclFabjRlMEdRYi1zRVpzQTRBT0x0MEluOG9PWkt2UndvbmZ4Vzdnd3BobHhoSmM5aEFXV0FHNWdSalF6OWNkQTBzbQ?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-11-27
+  - Feed excerpt: What’s hiding behind the Secret Door ❄️ #Roblox #StealanEgg TikTok
 
 ## Roblox Updates
 
-- **[Allow proper viewport fullscreen in Studio](https://devforum.roblox.com/t/allow-proper-viewport-fullscreen-in-studio/5006315)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: As a Roblox developer, it is currently too hard to test your experience in a fullscreen viewport. To do so, you must either playtest your game through the website, or disable many of Studio’s interface one by one through toggles , and even 
-- **[Instance:Clone return a map of source to clone](https://devforum.roblox.com/t/instanceclone-return-a-map-of-source-to-clone/5006372)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Every time I use Clone I find myself wanting a map of source->clone and/or clone->source. Very common use case is a plugin that’s cloning a template into other locations and needs to update the clone when the source changes. 15 posts - 6 pa
-- **[Missing setting to revert to SelectionBox from Highlight selector/hover?](https://devforum.roblox.com/t/missing-setting-to-revert-to-selectionbox-from-highlight-selectorhover/5006530)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Like I’m expecting the option to be able to change my selector visual back to SelectionBox, currently stuck with Highlight that currently ruins my mood to resume development. Roblox Studio Version 0.748.0.7481526 (64bit) System Information 
-- **[Roblox Studio crashes at random](https://devforum.roblox.com/t/roblox-studio-crashes-at-random/5006510)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Ever since I’ve had a Windows 11 laptop I’ve noticed that Studio likes to crash when changing random things (such as properties of an object), or crashing entirely on start up to the point where I have to use task manager to close it. Studi
-- **[UAE/Middle Eastern Markets still do not have Access to Trusted Friends](https://devforum.roblox.com/t/uaemiddle-eastern-markets-still-do-not-have-access-to-trusted-friends/5006281)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Continuing the discussion from Why is the “Trusted Friends” feature not available in the Middle East? : Currently in December of 2026 and still alot of Middle Eastern Countrys do not have access to Trusted Friends feature, which is making i
-- **[\[Hiring\] Roblox Thumbnail Marketing Artist \| Cinnamon Software](https://devforum.roblox.com/t/hiring-roblox-thumbnail-marketing-artist-cinnamon-software/5006480)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: About Us Sup. We’re Cinnamon Software, the independent Roblox studio behind LifeTogether (4B+ visits), BlockSpin (1.3B+) and BayView (600M+) . Our latest game, DRIVE: Highway , has already reached 12.3M+ visits since launching just over a m
-- **[Illusion's ScaleManager, Your best companion for better scaled text!](https://devforum.roblox.com/t/illusions-scalemanager-your-best-companion-for-better-scaled-text/5006599)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Illusion ScaleManager A simple replacement for TextScaled that uses viewport width to control text size. Overview This module applies a UIScale to a TextLabel and updates it based on the camera’s viewport width. The result is consistent, pr
-- **[Make devforum moderation appeals not terrible](https://devforum.roblox.com/t/make-devforum-moderation-appeals-not-terrible/5006453)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: I posted a feature request that was difficult for children to understand so they flagged it. This is despite the post being for professional engineers, not for children. Now it’s hidden. I got a DM about this. The appeal process should be: 
-- **[Melee X: first-person melee PvP, beta just opened, feedback wanted](https://devforum.roblox.com/t/melee-x-first-person-melee-pvp-beta-just-opened-feedback-wanted/5006533)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Hey everyone, I’ve been rebuilding my old Roblox game Melee from scratch into Melee X : a first-person, melee-only PvP game. No guns, just blades and blunt weapons, blocks, guard breaks and backstabs. The beta opened today. Trailer: https:/
-- **[Roblox Blender Bridge: send Studio models to Blender and Unity with textures, materials and lights \[Testers wanted\]](https://devforum.roblox.com/t/roblox-blender-bridge-send-studio-models-to-blender-and-unity-with-textures-materials-and-lights-testers-wanted/5006256)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: What is it? Roblox Blender Bridge takes the model you select in Studio and rebuilds it in Blender, then in Unity, with its real geometry, textures, materials and lights. No manual OBJ exports, and no re-texturing everything by hand. How it 
-- **[Roblox loading "Place1" instead of designated place](https://devforum.roblox.com/t/roblox-loading-place1-instead-of-designated-place/5006321)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: When we load places with massive amounts of textures, assets & general scalability, the place name often defaults to “Place1”, or some times even “Place2”. It should be noted that it is loading into the correct place. Just the name is wrong
-- **[\[i'm an advanced lua scripter\] lf worldbuilders - rev share project](https://devforum.roblox.com/t/im-an-advanced-lua-scripter-lf-worldbuilders-rev-share-project/5006356)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: I am looking for people with similar interests and skills to mine so that we can work together and develop a game. My main area of expertise is scripting and programming (I have been using Lua for almost 4 years), but ideally I’d also like 
+- **[3 Menus Get Cut Off When In Studio Assistant](https://devforum.roblox.com/t/3-menus-get-cut-off-when-in-studio-assistant/5006756)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: The assistant feels like it was designed by itself which is a bad thing because the studio assistant is very dumb so here are 3 problems i noticed when using the assistant for one time and that was only because my claude pro and my codex ra
+- **[Add an “AI-Generated Content” label to Roblox experiences](https://devforum.roblox.com/t/add-an-%E2%80%9Cai-generated-content%E2%80%9D-label-to-roblox-experiences/5006883)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: I’d like Roblox to add a visible label to experience pages when a substantial part of an experience was generated with AI. Developers could disclose this in Creator Dashboard, and Roblox could use the same label to categorize experiences in
+- **[Desperately need feedback on my game!](https://devforum.roblox.com/t/desperately-need-feedback-on-my-game/5006889)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: I previously put a post out about my “Own A Car Park” game, I was extremely pleased with how it turned out, but it seems my players are split whether the game is good or not. heres the link : Own A Car Park \| Play on Roblox The like to disl
+- **[English/Português \[No-AI\] Back-Up Commissioned Stylized 3D Animal Modelers, Riggers, Designers, Animators](https://devforum.roblox.com/t/englishportugu%C3%AAs-no-ai-back-up-commissioned-stylized-3d-animal-modelers-riggers-designers-animators/5007011)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Role a página para baixo para ver uma tradução em português. Hi, I’m Soulsplosion, and I made Prehistoria , a small but successful animal survival game that’s been around for a few years. We’re looking to expand our network of stylized 3D m
+- **[Feedback Needed](https://devforum.roblox.com/t/feedback-needed/5007013)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Protect Santa: Tower Defense Classic tower defense with a Christmas theme! The game is designed to support different seasons, special events, and non-seasonal themes, but for now, it’s all about Christmas! This is my first time working with
+- **[HTTP requests thru HttpService are timing out on-and-off seemingly randomly](https://devforum.roblox.com/t/http-requests-thru-httpservice-are-timing-out-on-and-off-seemingly-randomly/5006990)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: We are encountering an issue where server-side HTTP requests thru HttpService are timing out on-and-off seemingly randomly. From what I’ve have gathered, this seems to be dependent on what datacenter the RCC instance is running in. Addition
+- **[Innocent audio repeatedly being rejected; cannot appeal](https://devforum.roblox.com/t/innocent-audio-repeatedly-being-rejected-cannot-appeal/5007110)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: The message states that I can request an appeal, yet there is no entry for it on violations & appeals. Here is the audio: it’s just an ambient cave sound. I have no way to appeal it, and i am being given no reason to why it is being rejecte
+- **[Rendering bug with meshes and surface gui](https://devforum.roblox.com/t/rendering-bug-with-meshes-and-surface-gui/5006804)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: my friend has been having an issue with meshes and surface gui where black dots appear on them. this is client sided but i dont know how to fix it. 9 posts - 2 participants Read full topic
+- **[Roblox Support No Email Being Sent For Tickets](https://devforum.roblox.com/t/roblox-support-no-email-being-sent-for-tickets/5007030)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: The support ticket sends 0 emails to my spam, junk, or anything. I need to get this code from ROBLOX to finish submitting my ticket and I get 0 emails about a code. Expected behavior I need to get my code sent to the email in the post so I 
+- **[Story Game Devlog](https://devforum.roblox.com/t/story-game-devlog/5007040)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: Devlog 1 (click for more details) 6 posts - 4 participants Read full topic
+- **[Styling transitions applied to UIShadow under a TextButton don't work](https://devforum.roblox.com/t/styling-transitions-applied-to-uishadow-under-a-textbutton-dont-work/5006945)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: As the title suggests, when attempting to apply a transition to a UIShadow under a TextButton it simply doesn’t work. To demonstrate this issue, I have given both an ImageButton and a TextButton the same properties and transition effect. Wh
+- **[Will i get banned for using VPN in Roblox?](https://devforum.roblox.com/t/will-i-get-banned-for-using-vpn-in-roblox/5007037)** · Roblox Developer Forum latest · 2026-11-27
+  - Feed excerpt: I know it sounds stupid but i wanted to ask if using VPN in roblox is permitted, for context, there is a game in roblox called “Tower Battles” it’s code is very bad-made, the game is old and it has the same system of codes as the day it wer
+
+## Workflows
+
+- **[Inkling 2 Mini in Unsloth: Drive Unreal, Unity and Blender With Local MCP - explainx.ai](https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1JudTEwWWJzSXM2LWk1TFliM0J2OFFxLUZEVnY1WnFlQXdwR2RMZHJfa3hoSU5TWnNWUkVBYl9Ea3hvLXpQam8tX0c3MGc5aC1YY2ZDNlhFVHJRcU1TMlRuVVNPZGFUNmMwMlBpV01wdHJRMTE0aXRWYlhCUUYxMERLZFE1OEhuS2JnU25idEdoalRJ?oc=5)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-11-27
+  - Feed excerpt: Inkling 2 Mini in Unsloth: Drive Unreal, Unity and Blender With Local MCP explainx.ai
 
 ---
 

@@ -10,9 +10,9 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Saved source coverage
 
-- devforum: 456
+- devforum: 458
 - index-only: 47
-- reddit: 91
+- reddit: 89
 - youtube: 6
 
 ## First-Session And Mobile
@@ -51,8 +51,8 @@ Records processed: 600; unique posts: 600; fully reviewed: 0.
 
 ## Genres And Successful Loops
 
-- [\[OPEN\] Looking for programmers with experience - Tycoon/Simulator - 1000 USD](https://devforum.roblox.com/t/open-looking-for-programmers-with-experience-tycoonsimulator-1000-usd/4990585) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 - [Help with improving 16+ CTR, plays, and playtime (all are terrible)](https://devforum.roblox.com/t/help-with-improving-16-ctr-plays-and-playtime-all-are-terrible/5001080) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
+- [Sponsored ads still running, but player count dropped to 0 since yesterday](https://devforum.roblox.com/t/sponsored-ads-still-running-but-player-count-dropped-to-0-since-yesterday/4994298) — devforum; **unviewed metadata**. Proposed test: No active game resolved: do not create game tasks from this lead.
 
 ## Player Feedback And Marketing
 

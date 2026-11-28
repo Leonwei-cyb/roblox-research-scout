@@ -129,11 +129,11 @@
       "url": "https://github.com/obris-dev/openmagpie"
     },
     "ollama/ollama": {
-      "head": "8ae8acb81afba9c3c67adf08190964eb7d1207ef",
-      "head_subject": "bump llama-server (#19917)",
+      "head": "d227b7e210b569e9e01c6b4b0c40748e73dcd01a",
+      "head_subject": "bump llama-server (#19953)",
       "name": "ollama/ollama",
-      "release_tag": "v0.40.18",
-      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+      "release_tag": "v0.40.19",
+      "release_url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
       "url": "https://github.com/ollama/ollama"
     }
   },
@@ -143,6 +143,7 @@
     "AI-Atlaas/AI-Atlaas",
     "AIshihzong/awesome-reverse-engineer-anything",
     "AallamR/RobloxForge-Intelligence",
+    "Aalzard/subcraft",
     "Aaron617/agent-arXiv-daily",
     "AnEntrypoint/awesome-github",
     "Anime-Vanguards/roblox-object-renderer",
