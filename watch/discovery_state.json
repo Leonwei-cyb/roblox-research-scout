@@ -1,5 +1,4 @@
 {
-  "deferred_until": "2026-11-28T08:28:51Z",
   "etags": {
     "https://api.github.com/repos/NateBJones-Projects/OB1/git/trees/238df6cefd307745d1fe49d10b96797903bf25ac?recursive=1": {
       "data": {
@@ -56,6 +55,39 @@
         "truncated": false
       },
       "etag": "\"16ea9b96db4bd900c60915657c1e3038cf79aa3fffdac81f01d4895e876d5054\""
+    },
+    "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps/git/trees/e1b69da564c5721a1baffade073ebad43c7a2403?recursive=1": {
+      "data": {
+        "manifests": [
+          "advanced_llm_apps/chat-with-tarots/requirements.txt",
+          "advanced_llm_apps/cursor_ai_experiments/requirements.txt",
+          "advanced_llm_apps/excaliflow/package.json",
+          "advanced_llm_apps/gpt_oss_critique_improvement_loop/requirements.txt",
+          "advanced_llm_apps/needle/package.json",
+          "advanced_llm_apps/resume_job_matcher/requirements.txt"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "advanced_llm_apps/cursor_ai_experiments/multi_agent_researcher.py",
+          "always_on_agents/always_on_hn_briefing_agent/agent.py",
+          "always_on_agents/release_radar_agent/agent.py",
+          "mcp_ai_agents/github_mcp_agent/github_agent.py",
+          "mcp_ai_agents/multi_mcp_agent/multi_mcp_agent.py",
+          "mcp_ai_agents/multi_mcp_agent_router/agent_forge.py"
+        ],
+        "tests": 54,
+        "tests_sample": [
+          "advanced_ai_agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent/test_app.py",
+          "advanced_ai_agents/multi_agent_apps/ai_codebase_migration_agent/test_app_security.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/__init__.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/agent_agno_test.py",
+          "advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/tests/embedding_search_test.py"
+        ],
+        "truncated": false
+      },
+      "etag": "\"3e3e30c58e4e4647bf64347b30b4c57d555edf4846b9576073d7c620250b7ffc\""
     },
     "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps/git/trees/ff2016e6b98a81b92a846f39f7050b7337f81695?recursive=1": {
       "data": {
@@ -250,6 +282,19 @@
       },
       "etag": "\"518e0f0b7921e1bec497e1303f75d9cd2dd637ffc85477c64ef5af4861edac00\""
     },
+    "https://api.github.com/repos/kyrolabs/awesome-agents/git/trees/331d917f93d2ec1a031c9e6422561e6be3bc4de8?recursive=1": {
+      "data": {
+        "manifests": [],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [],
+        "tests": 0,
+        "tests_sample": [],
+        "truncated": false
+      },
+      "etag": "\"9021774a22b7e4d69cfc584383578ce86aba7bd59fdd00566d3052d01ef45253\""
+    },
     "https://api.github.com/repos/kyrolabs/awesome-agents/git/trees/f8683ffbf6a9b70ac7ddc2bfc1e4898d0e8b9644?recursive=1": {
       "data": {
         "manifests": [],
@@ -290,7 +335,35 @@
         "truncated": false
       },
       "etag": "\"cc971f3201ca4d574d84390f366d08d8aac98247e8e149acc9fec1cf7fb3ec5e\""
+    },
+    "https://api.github.com/repos/ollama/ollama/git/trees/d227b7e210b569e9e01c6b4b0c40748e73dcd01a?recursive=1": {
+      "data": {
+        "manifests": [
+          "go.mod"
+        ],
+        "readme": [
+          "README.md"
+        ],
+        "sources": [
+          "integration/max_queue_test.go",
+          "middleware/responses_input_content_test.go",
+          "openai/responses_input_content_test.go",
+          "app/store/database.go",
+          "app/store/database_test.go",
+          "app/tools/browser.go"
+        ],
+        "tests": 22,
+        "tests_sample": [
+          "app/ui/app/src/api.test.ts",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.interaction.test.tsx",
+          "app/ui/app/src/components/ClaudeDesktopModelsSettings.test.tsx",
+          "app/ui/app/src/components/CodexConnectedIntro.test.tsx",
+          "app/ui/app/src/components/CodexDesktopModelsSettings.test.tsx"
+        ],
+        "truncated": false
+      },
+      "etag": "\"5bcd4da33207387a147af05be00d8fe9c83f79d96d3dac83fb494efb4d90eddc\""
     }
   },
-  "last_run": "2026-11-28T08:27:51Z"
+  "last_run": "2026-11-28T15:02:43Z"
 }
