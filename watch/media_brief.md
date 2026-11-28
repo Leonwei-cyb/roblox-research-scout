@@ -5,47 +5,51 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## Roblox Creator / Ai Development
+## 3D Models, Maps And Prototypes
 
-- **[How To Make An Entire Roblox Game With AI - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkRU1UQV9NSEhOaUxuaEhqa3h1bHBYckhlVjhzOE8wZXpJWjA2YUNqVk00WXVSMTM2MExIM3cxZU5zMVA0MU9uY2p1SDF5VjY1ckhGNFpR?oc=5)** · Google News indexed: site:youtube.com "SyphoDev" Roblox Claude game development when: · 2026-11-09
-  - Feed excerpt: How To Make An Entire Roblox Game With AI YouTube
+- **[What are you working on currently? (2026 Edition)](https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/2)** · Roblox DevForum what are you working on 2026 · 2026-05-19
+  - Feed excerpt: I just released what was going to be part of a small community’s collaboration game for Christmas 2024 (and at one point was delayed to 2025 before it just fell through completely). I suppose it’s a hybrid between an adventure game world (w
+- **[What are you working on currently? (2026 Edition)](https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/3)** · Roblox DevForum what are you working on 2026 · 2026-05-20
+  - Feed excerpt: That’s a really cool! I feel like the grapple hook system would go really well in a platform game. It gives off LittleBigPlanet vibes. Read full topic
+- **[What are you working on currently? (2026 Edition)](https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/4)** · Roblox DevForum what are you working on 2026 · 2026-08-09
+  - Feed excerpt: Big revamp of my game Fun with Physics. Read full topic
+
+## Animations And Vfx
+
+- **[🔥Studio Mobi 🌠 Showcase by Quenso 😎 - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBUFBWUmo1MEQwX3FuOGZNZm02RWNkN1pMbE1ndkdUdUszZ1Z1ZEs0emZLMVRzYjZ1bS0wU0NNb25NdEFlRWtFTG43VENtWklTMFk2SXRB?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-11-14
+  - Feed excerpt: 🔥Studio Mobi 🌠 Showcase by Quenso 😎 YouTube
 
 ## Roblox Creator / Steal An Egg
 
-- **[What’s hiding behind the Secret Door ❄️ #Roblox #StealanEgg - TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTFBuWEhIVTl6bm1BM3lHa1NTMXhBWkxQVnpmY3oyOXFCa05vclFabjRlMEdRYi1zRVpzQTRBT0x0MEluOG9PWkt2UndvbmZ4Vzdnd3BobHhoSmM5aEFXV0FHNWdSalF6OWNkQTBzbQ?oc=5)** · Google News indexed: site:tiktok.com/@brockodile Roblox Steal An Egg when:30d · 2026-11-27
-  - Feed excerpt: What’s hiding behind the Secret Door ❄️ #Roblox #StealanEgg TikTok
+- **[What’s hiding behind the secret door ❄️ #roblox #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1aUsxMV9RS2hIQW03dzBCdXoza0FsT0ZtZzJLU0JyZDJZQjNBQ1VheVJRa1ZyaGQ3U01uV01jVXRpTlVnY2dvUWRFR1FEUFlBMXVqakxB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-28
+  - Feed excerpt: What’s hiding behind the secret door ❄️ #roblox #stealanegg Instagram
 
 ## Roblox Updates
 
-- **[3 Menus Get Cut Off When In Studio Assistant](https://devforum.roblox.com/t/3-menus-get-cut-off-when-in-studio-assistant/5006756)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: The assistant feels like it was designed by itself which is a bad thing because the studio assistant is very dumb so here are 3 problems i noticed when using the assistant for one time and that was only because my claude pro and my codex ra
-- **[Add an “AI-Generated Content” label to Roblox experiences](https://devforum.roblox.com/t/add-an-%E2%80%9Cai-generated-content%E2%80%9D-label-to-roblox-experiences/5006883)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: I’d like Roblox to add a visible label to experience pages when a substantial part of an experience was generated with AI. Developers could disclose this in Creator Dashboard, and Roblox could use the same label to categorize experiences in
-- **[Desperately need feedback on my game!](https://devforum.roblox.com/t/desperately-need-feedback-on-my-game/5006889)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: I previously put a post out about my “Own A Car Park” game, I was extremely pleased with how it turned out, but it seems my players are split whether the game is good or not. heres the link : Own A Car Park \| Play on Roblox The like to disl
-- **[English/Português \[No-AI\] Back-Up Commissioned Stylized 3D Animal Modelers, Riggers, Designers, Animators](https://devforum.roblox.com/t/englishportugu%C3%AAs-no-ai-back-up-commissioned-stylized-3d-animal-modelers-riggers-designers-animators/5007011)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Role a página para baixo para ver uma tradução em português. Hi, I’m Soulsplosion, and I made Prehistoria , a small but successful animal survival game that’s been around for a few years. We’re looking to expand our network of stylized 3D m
-- **[Feedback Needed](https://devforum.roblox.com/t/feedback-needed/5007013)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Protect Santa: Tower Defense Classic tower defense with a Christmas theme! The game is designed to support different seasons, special events, and non-seasonal themes, but for now, it’s all about Christmas! This is my first time working with
-- **[HTTP requests thru HttpService are timing out on-and-off seemingly randomly](https://devforum.roblox.com/t/http-requests-thru-httpservice-are-timing-out-on-and-off-seemingly-randomly/5006990)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: We are encountering an issue where server-side HTTP requests thru HttpService are timing out on-and-off seemingly randomly. From what I’ve have gathered, this seems to be dependent on what datacenter the RCC instance is running in. Addition
-- **[Innocent audio repeatedly being rejected; cannot appeal](https://devforum.roblox.com/t/innocent-audio-repeatedly-being-rejected-cannot-appeal/5007110)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: The message states that I can request an appeal, yet there is no entry for it on violations & appeals. Here is the audio: it’s just an ambient cave sound. I have no way to appeal it, and i am being given no reason to why it is being rejecte
-- **[Rendering bug with meshes and surface gui](https://devforum.roblox.com/t/rendering-bug-with-meshes-and-surface-gui/5006804)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: my friend has been having an issue with meshes and surface gui where black dots appear on them. this is client sided but i dont know how to fix it. 9 posts - 2 participants Read full topic
-- **[Roblox Support No Email Being Sent For Tickets](https://devforum.roblox.com/t/roblox-support-no-email-being-sent-for-tickets/5007030)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: The support ticket sends 0 emails to my spam, junk, or anything. I need to get this code from ROBLOX to finish submitting my ticket and I get 0 emails about a code. Expected behavior I need to get my code sent to the email in the post so I 
-- **[Story Game Devlog](https://devforum.roblox.com/t/story-game-devlog/5007040)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: Devlog 1 (click for more details) 6 posts - 4 participants Read full topic
-- **[Styling transitions applied to UIShadow under a TextButton don't work](https://devforum.roblox.com/t/styling-transitions-applied-to-uishadow-under-a-textbutton-dont-work/5006945)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: As the title suggests, when attempting to apply a transition to a UIShadow under a TextButton it simply doesn’t work. To demonstrate this issue, I have given both an ImageButton and a TextButton the same properties and transition effect. Wh
-- **[Will i get banned for using VPN in Roblox?](https://devforum.roblox.com/t/will-i-get-banned-for-using-vpn-in-roblox/5007037)** · Roblox Developer Forum latest · 2026-11-27
-  - Feed excerpt: I know it sounds stupid but i wanted to ask if using VPN in roblox is permitted, for context, there is a game in roblox called “Tower Battles” it’s code is very bad-made, the game is old and it has the same system of codes as the day it wer
+- **[How can I improve my coding skills?](https://devforum.roblox.com/t/how-can-i-improve-my-coding-skills/5007468)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: So, I tried to make a blood puddle function from my own knowledge of luau, heres what I have: local Players = game:GetService("Players") local Camera = workspace.CurrentCamera local ServerStorage = game:GetService("ServerStorage") local Twe
+- **[2FA malfunctioned on roblox support](https://devforum.roblox.com/t/2fa-malfunctioned-on-roblox-support/5007472)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: I have 2FA on my account with correct gmail and this gmail linked account however when I contact support on roblox, roblox never giving me 2FA code, happens only when using 2FA. Expected behavior If the gmail matched the username or linked 
+- **[Animation Graph doesn't properly fade differing joints](https://devforum.roblox.com/t/animation-graph-doesnt-properly-fade-differing-joints/5007378)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: When using multiple Clips in an Animation Graph which have differing affected joints, they will instantly snap instead of smoothly fading, regardless of transition options. Create two animation tracks, with one targeting joints which the ot
+- **[Looking for Feedback and Suggestions for My Game!](https://devforum.roblox.com/t/looking-for-feedback-and-suggestions-for-my-game/5007407)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Hey Everyone! I’m currently developing a block merging game, and it’s still in the early testing stage. I’d love to hear your feedback and suggestions to help me decide what features to add, what needs improvement, and what should be change
+- **[NPC dialogue system memory leak?](https://devforum.roblox.com/t/npc-dialogue-system-memory-leak/5007428)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: hi, i wrote an npc dialogue system for a game i co-own, and it works pretty well aside from one very weird problem i’ve been having when testing it: it works smoothly on my (admittedly garbage) pc and my phone, no lag from npc dialogue at a
+- **[Player Limited Value, Rap Historical Points](https://devforum.roblox.com/t/player-limited-value-rap-historical-points/5007233)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: So i am working on a Discord BOT to create very cool system like in this content And I have an issue where i am not for sure where i can find specific information and so my question is, Is there a way to detect Roblox users limited’s rap/va
+- **[QPTR Issue on new game](https://devforum.roblox.com/t/qptr-issue-on-new-game/5007467)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Hi all, My game went public on 3 Nov. Through mid-November our Home thumbnails converted really well, but over the last week every thumbnail’s QPTR has fallen to about a third of what it was, including the exact same images that used to win
+- **[Roblox Scripter: Bug Fixes, Lag Reduction & Code Review (Small Jobs Welcome)](https://devforum.roblox.com/t/roblox-scripter-bug-fixes-lag-reduction-code-review-small-jobs-welcome/5007285)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: About Me Hi there! I’m Jayber ( jbthewave on Roblox), a Roblox scripter focused on debugging, optimization, and code review. I take scripts that are buggy, laggy, or hard to maintain, including ones written with AI, and make them work relia
+- **[Uploading Animation Pack Error](https://devforum.roblox.com/t/uploading-animation-pack-error/5007197)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Hello, My animation bundle has the content moderated icon in my inventory on the website, as well as mobile. Below I have attached both images showing it: But on the creator dashboard it is shown as “in review” So which is it, because I’ve 
+- **[Volumetric audio for AudioEmitter](https://devforum.roblox.com/t/volumetric-audio-for-audioemitter/5007277)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: As a Roblox developer, I’d like to use a part’s shape as the source of an AudioEmitter . Right now an AudioEmitter emits from a point. That works for a speaker or footsteps, but there’s no way to make one emitter fill a room or follow a sur
 
-## Workflows
+## Youtube
 
-- **[Inkling 2 Mini in Unsloth: Drive Unreal, Unity and Blender With Local MCP - explainx.ai](https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1JudTEwWWJzSXM2LWk1TFliM0J2OFFxLUZEVnY1WnFlQXdwR2RMZHJfa3hoSU5TWnNWUkVBYl9Ea3hvLXpQam8tX0c3MGc5aC1YY2ZDNlhFVHJRcU1TMlRuVVNPZGFUNmMwMlBpV01wdHJRMTE0aXRWYlhCUUYxMERLZFE1OEhuS2JnU25idEdoalRJ?oc=5)** · Google News indexed: Claude Code Roblox automation workflow game agent when:7d · 2026-11-27
-  - Feed excerpt: Inkling 2 Mini in Unsloth: Drive Unreal, Unity and Blender With Local MCP explainx.ai
+- **[@Ado1024 takes the stage in Sol’s RNG 🍀 premiere performance at 12:10am pt on 11.28](https://www.youtube.com/shorts/WALKvSlyVhs)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-28
 
 ---
 
