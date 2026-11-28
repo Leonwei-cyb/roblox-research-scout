@@ -1,8 +1,5 @@
 {
   "seen": [
-    "0973ecdea75ce3027001279b",
-    "776fa7ab2f9a88956536df4d",
-    "5df40f44ac57fca0872e51fb",
     "0140773c799b251d082930e7",
     "d3d0c9fa3cef0dc965fa7e65",
     "6c28ad756792f46228be9864",
@@ -3999,7 +3996,10 @@
     "bf9d9ed7ee94e32f443972ee",
     "0376bd477d8763f32ee150e1",
     "b4ae82f9f5953500680a23a2",
-    "1e835828f0a4c40873ef1a4c"
+    "1e835828f0a4c40873ef1a4c",
+    "3944eae6ede783bb654e2e76",
+    "5d39177fa5806d321b333195",
+    "1dc9d02cb74f7cb5eb2b243f"
   ],
   "items": [
     {
@@ -4137,6 +4137,18 @@
       "source": "roblox-devforum-latest",
       "label": "Roblox Developer Forum latest",
       "category": "roblox_updates",
+      "title": "EnaltCast - Super Fast casting library for all your projectile needs!",
+      "url": "https://devforum.roblox.com/t/enaltcast-super-fast-casting-library-for-all-your-projectile-needs/5007798",
+      "published": "2026-11-28",
+      "excerpt": "EnaltCast EnaltCast is a projectile module made for all kinds of purposes. It’s the most performant library out there greatly beating FastCast. With also many useful functions and capabilities packed within. Github Features Insanely fast : up to ~2× SwiftCast’s FPS at 16,000 bullets alive at once (s",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/enaltcast-super-fast-casting-library-for-all-your-projectile-needs/5007798.rss",
+      "id": "5d39177fa5806d321b333195"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
       "title": "Uploading Animation Pack Error",
       "url": "https://devforum.roblox.com/t/uploading-animation-pack-error/5007197",
       "published": "2026-11-28",
@@ -4168,6 +4180,18 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/how-to-create-this-ghosting-effect/5007665.rss",
       "id": "3a9add9763ba41a431f5168a"
+    },
+    {
+      "source": "roblox-devforum-latest",
+      "label": "Roblox Developer Forum latest",
+      "category": "roblox_updates",
+      "title": "Add optional memos to Roblox group payouts",
+      "url": "https://devforum.roblox.com/t/add-optional-memos-to-roblox-group-payouts/5007859",
+      "published": "2026-11-28",
+      "excerpt": "As a Roblox developer, it is currently too hard to tell what a group payout was for when reviewing past transactions. The amount, recipient, and date help identify the payment, but two payouts of the same amount to the same person could cover completely different work. For example, I might pay a col",
+      "creator": "",
+      "publisher": "https://devforum.roblox.com/t/add-optional-memos-to-roblox-group-payouts/5007859.rss",
+      "id": "3944eae6ede783bb654e2e76"
     },
     {
       "source": "roblox-devforum-latest",
@@ -11093,28 +11117,6 @@
       "creator": "",
       "publisher": "https://devforum.roblox.com/t/ui-elements-auto-snapping-when-resizingpositoning/4992547.rss",
       "id": "12de5880efd6a86d9b5a0a64"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Guys I posted My first Roblox Game!!!(I need your help)",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwpscr/guys_i_posted_my_first_roblox_gamei_need_your_help/",
-      "published": "2026-11-15",
-      "excerpt": "But It is 16+ and I need 250 visits to make it not 16+ so If you can please join the game It is called \"Rich The Top\" and my nickname is \"Mairmair234\" submitted by /u/Mairbek4 [link] [comments]",
-      "creator": "/u/Mairbek4 https://www.reddit.com/user/Mairbek4",
-      "id": "0a00804c4cf44067c48cd1aa"
-    },
-    {
-      "source": "reddit-robloxstudio",
-      "label": "Reddit r/ROBLOXStudio public RSS",
-      "category": "community",
-      "title": "Toon shading",
-      "url": "https://www.reddit.com/r/ROBLOXStudio/comments/1xwu8s6/toon_shading/",
-      "published": "2026-11-15",
-      "excerpt": "submitted by /u/Puzzleheaded_Put2613 [link] [comments]",
-      "creator": "/u/Puzzleheaded_Put2613 https://www.reddit.com/user/Puzzleheaded_Put2613",
-      "id": "099b8436af1d4242ba186a5f"
     }
   ]
 }
