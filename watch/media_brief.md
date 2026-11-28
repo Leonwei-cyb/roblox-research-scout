@@ -5,51 +5,32 @@ Automatic feed metadata, not firsthand gameplay or verified advice. No AI model 
 Coverage: GitHub releases/source in the existing scout, RSS/Atom here, public YouTube channels if configured.
 X/Instagram are **indexed leads only**, not direct full feeds. Full YouTube transcripts/videos were not analyzed.
 
-## 3D Models, Maps And Prototypes
-
-- **[What are you working on currently? (2026 Edition)](https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/2)** · Roblox DevForum what are you working on 2026 · 2026-05-19
-  - Feed excerpt: I just released what was going to be part of a small community’s collaboration game for Christmas 2024 (and at one point was delayed to 2025 before it just fell through completely). I suppose it’s a hybrid between an adventure game world (w
-- **[What are you working on currently? (2026 Edition)](https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/3)** · Roblox DevForum what are you working on 2026 · 2026-05-20
-  - Feed excerpt: That’s a really cool! I feel like the grapple hook system would go really well in a platform game. It gives off LittleBigPlanet vibes. Read full topic
-- **[What are you working on currently? (2026 Edition)](https://devforum.roblox.com/t/what-are-you-working-on-currently-2026-edition/4644181/4)** · Roblox DevForum what are you working on 2026 · 2026-08-09
-  - Feed excerpt: Big revamp of my game Fun with Physics. Read full topic
-
-## Animations And Vfx
-
-- **[🔥Studio Mobi 🌠 Showcase by Quenso 😎 - YouTube](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBUFBWUmo1MEQwX3FuOGZNZm02RWNkN1pMbE1ndkdUdUszZ1Z1ZEs0emZLMVRzYjZ1bS0wU0NNb25NdEFlRWtFTG43VENtWklTMFk2SXRB?oc=5)** · Google News indexed: Roblox devlog animation VFX model UI showcase site:youtube.com 2 · 2026-11-14
-  - Feed excerpt: 🔥Studio Mobi 🌠 Showcase by Quenso 😎 YouTube
-
-## Roblox Creator / Steal An Egg
-
-- **[What’s hiding behind the secret door ❄️ #roblox #stealanegg - Instagram](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1aUsxMV9RS2hIQW03dzBCdXoza0FsT0ZtZzJLU0JyZDJZQjNBQ1VheVJRa1ZyaGQ3U01uV01jVXRpTlVnY2dvUWRFR1FEUFlBMXVqakxB?oc=5)** · Google News indexed: site:instagram.com/reel/ brockkodile Roblox when:30d · 2026-11-28
-  - Feed excerpt: What’s hiding behind the secret door ❄️ #roblox #stealanegg Instagram
-
 ## Roblox Updates
 
-- **[How can I improve my coding skills?](https://devforum.roblox.com/t/how-can-i-improve-my-coding-skills/5007468)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: So, I tried to make a blood puddle function from my own knowledge of luau, heres what I have: local Players = game:GetService("Players") local Camera = workspace.CurrentCamera local ServerStorage = game:GetService("ServerStorage") local Twe
-- **[2FA malfunctioned on roblox support](https://devforum.roblox.com/t/2fa-malfunctioned-on-roblox-support/5007472)** · Roblox Developer Forum latest · 2026-11-28
+- **[Feature Proposal: AI-Powered Full System Builder (Build First, Pay to Unlock with Robux)٦](https://devforum.roblox.com/t/feature-proposal-ai-powered-full-system-builder-build-first-pay-to-unlock-with-robux%D9%A6/5007654)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Summary: I propose an advanced, integrated AI System Builder inside Roblox Studio designed for large-scale game mechanics. While the current Roblox Assistant excels at everyday coding tasks, this tool acts as an on-demand system architect—g
+- **[(Server authority) Rotated parts are slightly different on the client, causing constant rollbacks](https://devforum.roblox.com/t/server-authority-rotated-parts-are-slightly-different-on-the-client-causing-constant-rollbacks/5007756)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: With server authority enabled, rotated parts end up with a slightly different rotation on the client than on the server (around 0.00007). Positions are identical and parts without rotation are fine. Because of this, raycasts against these p
+- **[Cannot copy UGC thumbnail configuration](https://devforum.roblox.com/t/cannot-copy-ugc-thumbnail-configuration/5007771)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: So about 3 weeks ago me and my friend worked on this UGC collection and it had a lot of recolors and I used a plugin “Thumbmaker” to make a thumbnail for the first item and then I copypasted the thumbnail configurations to the rest of the r
+- **[Display Like and Dislike Counts on the Roblox Mobile App](https://devforum.roblox.com/t/display-like-and-dislike-counts-on-the-roblox-mobile-app/5007666)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Hello Roblox Staff, The Roblox mobile app only displays an games’ like percentage rather than the actual number of likes and dislikes, as seen on the website. A 95% approval rating doesn’t provide much context on its own. An experience with
+- **[How to create this ghosting effect](https://devforum.roblox.com/t/how-to-create-this-ghosting-effect/5007665)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: I want to achieve the ghosting effect shown in this video. I have tried using multiple spherical glass parts stacked together to achieve it, but it was completely incorrect. If your graphics level is low, these parts will appear completely 
+- **[Last Front Zombie](https://devforum.roblox.com/t/last-front-zombie/5007754)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Out of boredom, I decided to put my models to use and started experimenting with AI—even though I’m a complete novice when it comes to scripting, things have actually started to come together reasonably well. Do you think that if I hired a 
+- **[Rank 1 "Winter Customer" role is not displayed or assignable in Community Members management](https://devforum.roblox.com/t/rank-1-winter-customer-role-is-not-displayed-or-assignable-in-community-members-management/5007573)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Describe the issue I am experiencing an inconsistency with the role management system in my Roblox Community, Winter Holdings. Under Configure Community → Roles , the role named Winter Customer is displayed as the first role, with Rank 1. H
+- **[Remote Graph: See How Every Script in Your Game Talks to Each Other](https://devforum.roblox.com/t/remote-graph-see-how-every-script-in-your-game-talks-to-each-other/5007791)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Remote Graph See how every script in your game talks to each other Get it on the Creator Store · $5 Hey everyone! My game kept growing, and at some point I honestly had no idea which script fired which remote anymore. Every time something b
+- **[Roblox almost no way to take action against decal description scam! the only way is contact roblox support but 2FA malfunctioned on roblox support](https://devforum.roblox.com/t/roblox-almost-no-way-to-take-action-against-decal-description-scam-the-only-way-is-contact-roblox-support-but-2fa-malfunctioned-on-roblox-support/5007472)** · Roblox Developer Forum latest · 2026-11-28
   - Feed excerpt: I have 2FA on my account with correct gmail and this gmail linked account however when I contact support on roblox, roblox never giving me 2FA code, happens only when using 2FA. Expected behavior If the gmail matched the username or linked 
-- **[Animation Graph doesn't properly fade differing joints](https://devforum.roblox.com/t/animation-graph-doesnt-properly-fade-differing-joints/5007378)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: When using multiple Clips in an Animation Graph which have differing affected joints, they will instantly snap instead of smoothly fading, regardless of transition options. Create two animation tracks, with one targeting joints which the ot
-- **[Looking for Feedback and Suggestions for My Game!](https://devforum.roblox.com/t/looking-for-feedback-and-suggestions-for-my-game/5007407)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: Hey Everyone! I’m currently developing a block merging game, and it’s still in the early testing stage. I’d love to hear your feedback and suggestions to help me decide what features to add, what needs improvement, and what should be change
-- **[NPC dialogue system memory leak?](https://devforum.roblox.com/t/npc-dialogue-system-memory-leak/5007428)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: hi, i wrote an npc dialogue system for a game i co-own, and it works pretty well aside from one very weird problem i’ve been having when testing it: it works smoothly on my (admittedly garbage) pc and my phone, no lag from npc dialogue at a
-- **[Player Limited Value, Rap Historical Points](https://devforum.roblox.com/t/player-limited-value-rap-historical-points/5007233)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: So i am working on a Discord BOT to create very cool system like in this content And I have an issue where i am not for sure where i can find specific information and so my question is, Is there a way to detect Roblox users limited’s rap/va
-- **[QPTR Issue on new game](https://devforum.roblox.com/t/qptr-issue-on-new-game/5007467)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: Hi all, My game went public on 3 Nov. Through mid-November our Home thumbnails converted really well, but over the last week every thumbnail’s QPTR has fallen to about a third of what it was, including the exact same images that used to win
-- **[Roblox Scripter: Bug Fixes, Lag Reduction & Code Review (Small Jobs Welcome)](https://devforum.roblox.com/t/roblox-scripter-bug-fixes-lag-reduction-code-review-small-jobs-welcome/5007285)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: About Me Hi there! I’m Jayber ( jbthewave on Roblox), a Roblox scripter focused on debugging, optimization, and code review. I take scripts that are buggy, laggy, or hard to maintain, including ones written with AI, and make them work relia
-- **[Uploading Animation Pack Error](https://devforum.roblox.com/t/uploading-animation-pack-error/5007197)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: Hello, My animation bundle has the content moderated icon in my inventory on the website, as well as mobile. Below I have attached both images showing it: But on the creator dashboard it is shown as “in review” So which is it, because I’ve 
-- **[Volumetric audio for AudioEmitter](https://devforum.roblox.com/t/volumetric-audio-for-audioemitter/5007277)** · Roblox Developer Forum latest · 2026-11-28
-  - Feed excerpt: As a Roblox developer, I’d like to use a part’s shape as the source of an AudioEmitter . Right now an AudioEmitter emits from a point. That works for a speaker or footsteps, but there’s no way to make one emitter fill a room or follow a sur
-
-## Youtube
-
-- **[@Ado1024 takes the stage in Sol’s RNG 🍀 premiere performance at 12:10am pt on 11.28](https://www.youtube.com/shorts/WALKvSlyVhs)** · YouTube direct channel: Roblox official YouTube (verified channel ID) · 2026-11-28
+- **[SurfaceLights ignore ShadowSoftness and PBR](https://devforum.roblox.com/t/surfacelights-ignore-shadowsoftness-and-pbr/5007516)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: This is a remarkable and rather annoying issue with SurfaceLights that has been going on for at least 3 years from what I’ve searched. Unlike other light objects such as Point and SpotLights, SurfaceLights do not interact with PBR textures 
+- **[Transfer Oauth 2.0 to my roblox group](https://devforum.roblox.com/t/transfer-oauth-20-to-my-roblox-group/5007777)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: Hello! I have an OAuth 2.0 application registered under my personal Roblox account, and I would like to transfer its ownership and management to my Roblox group. Is there any way to do this while preserving the existing Client ID, Client Se
+- **[\[OPEN\] Cross-Server development/ Interests to expand games into cross-server](https://devforum.roblox.com/t/open-cross-server-development-interests-to-expand-games-into-cross-server/5007595)** · Roblox Developer Forum latest · 2026-11-28
+  - Feed excerpt: About Me Hi there! I am looking for opportunities to launch cross-server gameplay/social aspects to a Roblox game. I am only a Developer not PR or Market handler, which is why I am trying to look for said opportunities if possible. Cross se
 
 ---
 

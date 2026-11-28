@@ -17,8 +17,8 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     "FreshRSS/FreshRSS": {
-      "head": "5a58b2236130d664aff5b83d9aaee6fbeed7690d",
-      "head_subject": "i18n: complete Korean (ko) translations (#9640)",
+      "head": "82e6fabdd9bfcb21d40f89080c2485a97f6999f4",
+      "head_subject": "Add Hindi (hi) translation (#9645)",
       "name": "FreshRSS/FreshRSS",
       "release_tag": "1.31.0",
       "release_url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.31.0",
@@ -73,8 +73,8 @@
       "url": "https://github.com/Roblox/roblox-studio-agent-plugin"
     },
     "anthropics/claude-code": {
-      "head": "102fafb0953d90cff472b438e443485e7d131d36",
-      "head_subject": "Don't mark reproducible or high-impact issues as stale (#112436)",
+      "head": "92f0be47475bc11c6bee9ed02610383044b05bfe",
+      "head_subject": "chore: Update mods/",
       "name": "anthropics/claude-code",
       "release_tag": "v2.1.332",
       "release_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
@@ -89,8 +89,8 @@
       "url": "https://github.com/buriedsignals/scoutpost-os"
     },
     "dgtlmoon/changedetection.io": {
-      "head": "c55647b33de5c7c2c1b698d1c90554413de8b732",
-      "head_subject": "UI - Realtime - Fixing single row updates for processor (#4823)",
+      "head": "5c074893113aac89259ceb153f3b0b1bfbe35539",
+      "head_subject": "fix: honour LOGGER_LEVEL on werkzeug HTTP access logs (#4348)",
       "name": "dgtlmoon/changedetection.io",
       "release_tag": "0.70.4",
       "release_url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",
